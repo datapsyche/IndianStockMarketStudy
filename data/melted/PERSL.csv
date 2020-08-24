@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,16692.0,PERSL
+1,Other income,12  Mar-14*,310.0,PERSL
+2,Total revenues,12  Mar-14*,17002.0,PERSL
+3,Gross profit,12  Mar-14*,4143.0,PERSL
+4,Depreciation,12  Mar-14*,1026.0,PERSL
+5,Interest,12  Mar-14*,1.0,PERSL
+6,Profit before tax,12  Mar-14*,3427.0,PERSL
+7,Minority Interest,12  Mar-14*,0.0,PERSL
+8,Prior Period Items,12  Mar-14*,0.0,PERSL
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,PERSL
+10,Tax,12  Mar-14*,934.0,PERSL
+11,Profit after tax,12  Mar-14*,2493.0,PERSL
+12,Gross profit margin,12  Mar-14*,24.8,PERSL
+13,Effective tax rate,12  Mar-14*,27.3,PERSL
+14,Net profit margin,12  Mar-14*,14.9,PERSL
+15,Current assets,12  Mar-14*,9368.0,PERSL
+16,Current liabilities,12  Mar-14*,2785.0,PERSL
+17,Net working cap to sales,12  Mar-14*,39.4,PERSL
+18,Current ratio,12  Mar-14*,3.4,PERSL
+19,Inventory Days,12  Mar-14*,0.0,PERSL
+20,Debtors Days,12  Mar-14*,66.0,PERSL
+21,Net fixed assets,12  Mar-14*,4362.0,PERSL
+22,Share capital,12  Mar-14*,400.0,PERSL
+23,"""Free"" reserves",12  Mar-14*,11444.0,PERSL
+24,Net worth,12  Mar-14*,12223.0,PERSL
+25,Long term debt,12  Mar-14*,32.0,PERSL
+26,Total assets,12  Mar-14*,15435.0,PERSL
+27,Interest coverage,12  Mar-14*,6854.2,PERSL
+28,Debt to equity ratio,12  Mar-14*,0.0,PERSL
+29,Sales to assets ratio,12  Mar-14*,1.1,PERSL
+30,Return on assets,12  Mar-14*,16.2,PERSL
+31,Return on equity,12  Mar-14*,20.4,PERSL
+32,Return on capital,12  Mar-14*,28.0,PERSL
+33,Exports to sales,12  Mar-14*,0.0,PERSL
+34,Imports to sales,12  Mar-14*,1.0,PERSL
+35,Exports (fob),12  Mar-14*,0.0,PERSL
+36,Imports (cif),12  Mar-14*,166.0,PERSL
+37,Fx inflow,12  Mar-14*,10649.0,PERSL
+38,Fx outflow,12  Mar-14*,1754.0,PERSL
+39,Net fx,12  Mar-14*,8896.0,PERSL
+40,From Operations,12  Mar-14*,2808.0,PERSL
+41,From Investments,12  Mar-14*,-1959.0,PERSL
+42,From Financial Activity,12  Mar-14*,-497.0,PERSL
+43,Net Cashflow,12  Mar-14*,353.0,PERSL
+44,Net Sales,12  Mar-15*,18913.0,PERSL
+45,Other income,12  Mar-15*,938.0,PERSL
+46,Total revenues,12  Mar-15*,19851.0,PERSL
+47,Gross profit,12  Mar-15*,3903.0,PERSL
+48,Depreciation,12  Mar-15*,939.0,PERSL
+49,Interest,12  Mar-15*,3.0,PERSL
+50,Profit before tax,12  Mar-15*,3900.0,PERSL
+51,Minority Interest,12  Mar-15*,0.0,PERSL
+52,Prior Period Items,12  Mar-15*,0.0,PERSL
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,PERSL
+54,Tax,12  Mar-15*,993.0,PERSL
+55,Profit after tax,12  Mar-15*,2906.0,PERSL
+56,Gross profit margin,12  Mar-15*,20.6,PERSL
+57,Effective tax rate,12  Mar-15*,25.5,PERSL
+58,Net profit margin,12  Mar-15*,15.4,PERSL
+59,Current assets,12  Mar-15*,11065.0,PERSL
+60,Current liabilities,12  Mar-15*,3549.0,PERSL
+61,Net working cap to sales,12  Mar-15*,39.7,PERSL
+62,Current ratio,12  Mar-15*,3.1,PERSL
+63,Inventory Days,12  Mar-15*,0.0,PERSL
+64,Debtors Days,12  Mar-15*,69.0,PERSL
+65,Net fixed assets,12  Mar-15*,4093.0,PERSL
+66,Share capital,12  Mar-15*,800.0,PERSL
+67,"""Free"" reserves",12  Mar-15*,12992.0,PERSL
+68,Net worth,12  Mar-15*,14055.0,PERSL
+69,Long term debt,12  Mar-15*,25.0,PERSL
+70,Total assets,12  Mar-15*,17749.0,PERSL
+71,Interest coverage,12  Mar-15*,1148.0,PERSL
+72,Debt to equity ratio,12  Mar-15*,0.0,PERSL
+73,Sales to assets ratio,12  Mar-15*,1.1,PERSL
+74,Return on assets,12  Mar-15*,16.4,PERSL
+75,Return on equity,12  Mar-15*,20.7,PERSL
+76,Return on capital,12  Mar-15*,27.7,PERSL
+77,Exports to sales,12  Mar-15*,0.0,PERSL
+78,Imports to sales,12  Mar-15*,1.3,PERSL
+79,Exports (fob),12  Mar-15*,0.0,PERSL
+80,Imports (cif),12  Mar-15*,242.0,PERSL
+81,Fx inflow,12  Mar-15*,11331.0,PERSL
+82,Fx outflow,12  Mar-15*,2110.0,PERSL
+83,Net fx,12  Mar-15*,9221.0,PERSL
+84,From Operations,12  Mar-15*,3116.0,PERSL
+85,From Investments,12  Mar-15*,-2316.0,PERSL
+86,From Financial Activity,12  Mar-15*,-657.0,PERSL
+87,Net Cashflow,12  Mar-15*,144.0,PERSL
+88,Net Sales,12  Mar-16*,23123.0,PERSL
+89,Other income,12  Mar-16*,773.0,PERSL
+90,Total revenues,12  Mar-16*,23896.0,PERSL
+91,Gross profit,12  Mar-16*,3915.0,PERSL
+92,Depreciation,12  Mar-16*,990.0,PERSL
+93,Interest,12  Mar-16*,1.0,PERSL
+94,Profit before tax,12  Mar-16*,3697.0,PERSL
+95,Minority Interest,12  Mar-16*,0.0,PERSL
+96,Prior Period Items,12  Mar-16*,0.0,PERSL
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,PERSL
+98,Tax,12  Mar-16*,924.0,PERSL
+99,Profit after tax,12  Mar-16*,2773.0,PERSL
+100,Gross profit margin,12  Mar-16*,16.9,PERSL
+101,Effective tax rate,12  Mar-16*,25.0,PERSL
+102,Net profit margin,12  Mar-16*,12.0,PERSL
+103,Current assets,12  Mar-16*,13358.0,PERSL
+104,Current liabilities,12  Mar-16*,4470.0,PERSL
+105,Net working cap to sales,12  Mar-16*,38.4,PERSL
+106,Current ratio,12  Mar-16*,3.0,PERSL
+107,Inventory Days,12  Mar-16*,0.0,PERSL
+108,Debtors Days,12  Mar-16*,67.0,PERSL
+109,Net fixed assets,12  Mar-16*,4637.0,PERSL
+110,Share capital,12  Mar-16*,800.0,PERSL
+111,"""Free"" reserves",12  Mar-16*,15778.0,PERSL
+112,Net worth,12  Mar-16*,16578.0,PERSL
+113,Long term debt,12  Mar-16*,27.0,PERSL
+114,Total assets,12  Mar-16*,21199.0,PERSL
+115,Interest coverage,12  Mar-16*,4108.7,PERSL
+116,Debt to equity ratio,12  Mar-16*,0.0,PERSL
+117,Sales to assets ratio,12  Mar-16*,1.1,PERSL
+118,Return on assets,12  Mar-16*,13.1,PERSL
+119,Return on equity,12  Mar-16*,16.7,PERSL
+120,Return on capital,12  Mar-16*,22.3,PERSL
+121,Exports to sales,12  Mar-16*,0.0,PERSL
+122,Imports to sales,12  Mar-16*,0.7,PERSL
+123,Exports (fob),12  Mar-16*,0.0,PERSL
+124,Imports (cif),12  Mar-16*,172.0,PERSL
+125,Fx inflow,12  Mar-16*,13091.0,PERSL
+126,Fx outflow,12  Mar-16*,2835.0,PERSL
+127,Net fx,12  Mar-16*,10256.0,PERSL
+128,From Operations,12  Mar-16*,2541.0,PERSL
+129,From Investments,12  Mar-16*,-1162.0,PERSL
+130,From Financial Activity,12  Mar-16*,-1266.0,PERSL
+131,Net Cashflow,12  Mar-16*,413.0,PERSL
+132,Net Sales,12  Mar-17*,28784.0,PERSL
+133,Other income,12  Mar-17*,959.0,PERSL
+134,Total revenues,12  Mar-17*,29743.0,PERSL
+135,Gross profit,12  Mar-17*,4653.0,PERSL
+136,Depreciation,12  Mar-17*,1490.0,PERSL
+137,Interest,12  Mar-17*,1.0,PERSL
+138,Profit before tax,12  Mar-17*,4121.0,PERSL
+139,Minority Interest,12  Mar-17*,0.0,PERSL
+140,Prior Period Items,12  Mar-17*,0.0,PERSL
+141,Extraordinary Inc (Exp),12  Mar-17*,-114.0,PERSL
+142,Tax,12  Mar-17*,992.0,PERSL
+143,Profit after tax,12  Mar-17*,3015.0,PERSL
+144,Gross profit margin,12  Mar-17*,16.2,PERSL
+145,Effective tax rate,12  Mar-17*,24.1,PERSL
+146,Net profit margin,12  Mar-17*,10.5,PERSL
+147,Current assets,12  Mar-17*,14039.0,PERSL
+148,Current liabilities,12  Mar-17*,4173.0,PERSL
+149,Net working cap to sales,12  Mar-17*,34.3,PERSL
+150,Current ratio,12  Mar-17*,3.4,PERSL
+151,Inventory Days,12  Mar-17*,0.0,PERSL
+152,Debtors Days,12  Mar-17*,60.0,PERSL
+153,Net fixed assets,12  Mar-17*,5649.0,PERSL
+154,Share capital,12  Mar-17*,800.0,PERSL
+155,"""Free"" reserves",12  Mar-17*,18193.0,PERSL
+156,Net worth,12  Mar-17*,18993.0,PERSL
+157,Long term debt,12  Mar-17*,22.0,PERSL
+158,Total assets,12  Mar-17*,23464.0,PERSL
+159,Interest coverage,12  Mar-17*,4579.7,PERSL
+160,Debt to equity ratio,12  Mar-17*,0.0,PERSL
+161,Sales to assets ratio,12  Mar-17*,1.2,PERSL
+162,Return on assets,12  Mar-17*,12.9,PERSL
+163,Return on equity,12  Mar-17*,15.9,PERSL
+164,Return on capital,12  Mar-17*,21.1,PERSL
+165,Exports to sales,12  Mar-17*,0.0,PERSL
+166,Imports to sales,12  Mar-17*,0.0,PERSL
+167,Exports (fob),12  Mar-17*,0.0,PERSL
+168,Imports (cif),12  Mar-17*,0.0,PERSL
+169,Fx inflow,12  Mar-17*,16115.0,PERSL
+170,Fx outflow,12  Mar-17*,5402.0,PERSL
+171,Net fx,12  Mar-17*,10713.0,PERSL
+172,From Operations,12  Mar-17*,2864.0,PERSL
+173,From Investments,12  Mar-17*,-2219.0,PERSL
+174,From Financial Activity,12  Mar-17*,-584.0,PERSL
+175,Net Cashflow,12  Mar-17*,61.0,PERSL
+176,Net Sales,12  Mar-18*,30337.0,PERSL
+177,Other income,12  Mar-18*,1191.0,PERSL
+178,Total revenues,12  Mar-18*,31528.0,PERSL
+179,Gross profit,12  Mar-18*,4687.0,PERSL
+180,Depreciation,12  Mar-18*,1585.0,PERSL
+181,Interest,12  Mar-18*,1.0,PERSL
+182,Profit before tax,12  Mar-18*,4293.0,PERSL
+183,Minority Interest,12  Mar-18*,0.0,PERSL
+184,Prior Period Items,12  Mar-18*,0.0,PERSL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,PERSL
+186,Tax,12  Mar-18*,1062.0,PERSL
+187,Profit after tax,12  Mar-18*,3231.0,PERSL
+188,Gross profit margin,12  Mar-18*,15.5,PERSL
+189,Effective tax rate,12  Mar-18*,24.7,PERSL
+190,Net profit margin,12  Mar-18*,10.7,PERSL
+191,Current assets,12  Mar-18*,17620.0,PERSL
+192,Current liabilities,12  Mar-18*,4870.0,PERSL
+193,Net working cap to sales,12  Mar-18*,42.0,PERSL
+194,Current ratio,12  Mar-18*,3.6,PERSL
+195,Inventory Days,12  Mar-18*,0.0,PERSL
+196,Debtors Days,12  Mar-18*,58.0,PERSL
+197,Net fixed assets,12  Mar-18*,5174.0,PERSL
+198,Share capital,12  Mar-18*,800.0,PERSL
+199,"""Free"" reserves",12  Mar-18*,20472.0,PERSL
+200,Net worth,12  Mar-18*,21272.0,PERSL
+201,Long term debt,12  Mar-18*,17.0,PERSL
+202,Total assets,12  Mar-18*,26589.0,PERSL
+203,Interest coverage,12  Mar-18*,5366.8,PERSL
+204,Debt to equity ratio,12  Mar-18*,0.0,PERSL
+205,Sales to assets ratio,12  Mar-18*,1.1,PERSL
+206,Return on assets,12  Mar-18*,12.2,PERSL
+207,Return on equity,12  Mar-18*,15.2,PERSL
+208,Return on capital,12  Mar-18*,20.2,PERSL
+209,Exports to sales,12  Mar-18*,0.0,PERSL
+210,Imports to sales,12  Mar-18*,0.0,PERSL
+211,Exports (fob),12  Mar-18*,0.0,PERSL
+212,Imports (cif),12  Mar-18*,0.0,PERSL
+213,Fx inflow,12  Mar-18*,17722.0,PERSL
+214,Fx outflow,12  Mar-18*,4859.0,PERSL
+215,Net fx,12  Mar-18*,12864.0,PERSL
+216,From Operations,12  Mar-18*,4212.0,PERSL
+217,From Investments,12  Mar-18*,-3474.0,PERSL
+218,From Financial Activity,12  Mar-18*,-956.0,PERSL
+219,Net Cashflow,12  Mar-18*,-118.0,PERSL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23230.0,ESPK
+1,Other income,12  Mar-15*,210.0,ESPK
+2,Total revenues,12  Mar-15*,23439.0,ESPK
+3,Gross profit,12  Mar-15*,3908.0,ESPK
+4,Depreciation,12  Mar-15*,1318.0,ESPK
+5,Interest,12  Mar-15*,794.0,ESPK
+6,Profit before tax,12  Mar-15*,2006.0,ESPK
+7,Minority Interest,12  Mar-15*,-47.0,ESPK
+8,Prior Period Items,12  Mar-15*,3.0,ESPK
+9,Extraordinary Inc (Exp),12  Mar-15*,55.0,ESPK
+10,Tax,12  Mar-15*,611.0,ESPK
+11,Profit after tax,12  Mar-15*,1406.0,ESPK
+12,Gross profit margin,12  Mar-15*,16.8,ESPK
+13,Effective tax rate,12  Mar-15*,30.4,ESPK
+14,Net profit margin,12  Mar-15*,6.1,ESPK
+15,Current assets,12  Mar-15*,10231.0,ESPK
+16,Current liabilities,12  Mar-15*,6473.0,ESPK
+17,Net working cap to sales,12  Mar-15*,16.2,ESPK
+18,Current ratio,12  Mar-15*,1.6,ESPK
+19,Inventory Days,12  Mar-15*,36.0,ESPK
+20,Debtors Days,12  Mar-15*,59.0,ESPK
+21,Net fixed assets,12  Mar-15*,9760.0,ESPK
+22,Share capital,12  Mar-15*,314.0,ESPK
+23,"""Free"" reserves",12  Mar-15*,7516.0,ESPK
+24,Net worth,12  Mar-15*,7830.0,ESPK
+25,Long term debt,12  Mar-15*,6434.0,ESPK
+26,Total assets,12  Mar-15*,21275.0,ESPK
+27,Interest coverage,12  Mar-15*,3.5,ESPK
+28,Debt to equity ratio,12  Mar-15*,0.8,ESPK
+29,Sales to assets ratio,12  Mar-15*,1.1,ESPK
+30,Return on assets,12  Mar-15*,10.3,ESPK
+31,Return on equity,12  Mar-15*,18.0,ESPK
+32,Return on capital,12  Mar-15*,19.7,ESPK
+33,Exports to sales,12  Mar-15*,4.3,ESPK
+34,Imports to sales,12  Mar-15*,10.9,ESPK
+35,Exports (fob),12  Mar-15*,998.0,ESPK
+36,Imports (cif),12  Mar-15*,2543.0,ESPK
+37,Fx inflow,12  Mar-15*,942.0,ESPK
+38,Fx outflow,12  Mar-15*,3701.0,ESPK
+39,Net fx,12  Mar-15*,-2759.0,ESPK
+40,From Operations,12  Mar-15*,3130.0,ESPK
+41,From Investments,12  Mar-15*,-1449.0,ESPK
+42,From Financial Activity,12  Mar-15*,-1678.0,ESPK
+43,Net Cashflow,12  Mar-15*,3.0,ESPK
+44,Net Sales,12  Mar-16*,21847.0,ESPK
+45,Other income,12  Mar-16*,237.0,ESPK
+46,Total revenues,12  Mar-16*,22084.0,ESPK
+47,Gross profit,12  Mar-16*,4172.0,ESPK
+48,Depreciation,12  Mar-16*,1270.0,ESPK
+49,Interest,12  Mar-16*,623.0,ESPK
+50,Profit before tax,12  Mar-16*,2516.0,ESPK
+51,Minority Interest,12  Mar-16*,-30.0,ESPK
+52,Prior Period Items,12  Mar-16*,27.0,ESPK
+53,Extraordinary Inc (Exp),12  Mar-16*,24.0,ESPK
+54,Tax,12  Mar-16*,716.0,ESPK
+55,Profit after tax,12  Mar-16*,1821.0,ESPK
+56,Gross profit margin,12  Mar-16*,19.1,ESPK
+57,Effective tax rate,12  Mar-16*,28.5,ESPK
+58,Net profit margin,12  Mar-16*,8.3,ESPK
+59,Current assets,12  Mar-16*,9410.0,ESPK
+60,Current liabilities,12  Mar-16*,4768.0,ESPK
+61,Net working cap to sales,12  Mar-16*,21.2,ESPK
+62,Current ratio,12  Mar-16*,2.0,ESPK
+63,Inventory Days,12  Mar-16*,35.0,ESPK
+64,Debtors Days,12  Mar-16*,56.0,ESPK
+65,Net fixed assets,12  Mar-16*,9976.0,ESPK
+66,Share capital,12  Mar-16*,314.0,ESPK
+67,"""Free"" reserves",12  Mar-16*,9444.0,ESPK
+68,Net worth,12  Mar-16*,9758.0,ESPK
+69,Long term debt,12  Mar-16*,5669.0,ESPK
+70,Total assets,12  Mar-16*,20741.0,ESPK
+71,Interest coverage,12  Mar-16*,5.0,ESPK
+72,Debt to equity ratio,12  Mar-16*,0.6,ESPK
+73,Sales to assets ratio,12  Mar-16*,1.1,ESPK
+74,Return on assets,12  Mar-16*,11.8,ESPK
+75,Return on equity,12  Mar-16*,18.7,ESPK
+76,Return on capital,12  Mar-16*,20.5,ESPK
+77,Exports to sales,12  Mar-16*,4.5,ESPK
+78,Imports to sales,12  Mar-16*,10.1,ESPK
+79,Exports (fob),12  Mar-16*,974.0,ESPK
+80,Imports (cif),12  Mar-16*,2206.0,ESPK
+81,Fx inflow,12  Mar-16*,908.0,ESPK
+82,Fx outflow,12  Mar-16*,2700.0,ESPK
+83,Net fx,12  Mar-16*,-1791.0,ESPK
+84,From Operations,12  Mar-16*,3655.0,ESPK
+85,From Investments,12  Mar-16*,-424.0,ESPK
+86,From Financial Activity,12  Mar-16*,-3283.0,ESPK
+87,Net Cashflow,12  Mar-16*,-52.0,ESPK
+88,Net Sales,12  Mar-17*,23023.0,ESPK
+89,Other income,12  Mar-17*,203.0,ESPK
+90,Total revenues,12  Mar-17*,23226.0,ESPK
+91,Gross profit,12  Mar-17*,4369.0,ESPK
+92,Depreciation,12  Mar-17*,1415.0,ESPK
+93,Interest,12  Mar-17*,581.0,ESPK
+94,Profit before tax,12  Mar-17*,2576.0,ESPK
+95,Minority Interest,12  Mar-17*,11.0,ESPK
+96,Prior Period Items,12  Mar-17*,0.0,ESPK
+97,Extraordinary Inc (Exp),12  Mar-17*,157.0,ESPK
+98,Tax,12  Mar-17*,787.0,ESPK
+99,Profit after tax,12  Mar-17*,1956.0,ESPK
+100,Gross profit margin,12  Mar-17*,19.0,ESPK
+101,Effective tax rate,12  Mar-17*,30.5,ESPK
+102,Net profit margin,12  Mar-17*,8.5,ESPK
+103,Current assets,12  Mar-17*,9640.0,ESPK
+104,Current liabilities,12  Mar-17*,5450.0,ESPK
+105,Net working cap to sales,12  Mar-17*,18.2,ESPK
+106,Current ratio,12  Mar-17*,1.8,ESPK
+107,Inventory Days,12  Mar-17*,39.0,ESPK
+108,Debtors Days,12  Mar-17*,60.0,ESPK
+109,Net fixed assets,12  Mar-17*,11988.0,ESPK
+110,Share capital,12  Mar-17*,314.0,ESPK
+111,"""Free"" reserves",12  Mar-17*,10076.0,ESPK
+112,Net worth,12  Mar-17*,10390.0,ESPK
+113,Long term debt,12  Mar-17*,6050.0,ESPK
+114,Total assets,12  Mar-17*,22587.0,ESPK
+115,Interest coverage,12  Mar-17*,5.4,ESPK
+116,Debt to equity ratio,12  Mar-17*,0.6,ESPK
+117,Sales to assets ratio,12  Mar-17*,1.0,ESPK
+118,Return on assets,12  Mar-17*,11.2,ESPK
+119,Return on equity,12  Mar-17*,18.8,ESPK
+120,Return on capital,12  Mar-17*,20.2,ESPK
+121,Exports to sales,12  Mar-17*,0.0,ESPK
+122,Imports to sales,12  Mar-17*,0.0,ESPK
+123,Exports (fob),12  Mar-17*,0.0,ESPK
+124,Imports (cif),12  Mar-17*,0.0,ESPK
+125,Fx inflow,12  Mar-17*,1191.0,ESPK
+126,Fx outflow,12  Mar-17*,2846.0,ESPK
+127,Net fx,12  Mar-17*,-1655.0,ESPK
+128,From Operations,12  Mar-17*,3687.0,ESPK
+129,From Investments,12  Mar-17*,-3010.0,ESPK
+130,From Financial Activity,12  Mar-17*,-762.0,ESPK
+131,Net Cashflow,12  Mar-17*,133.0,ESPK
+132,Net Sales,12  Mar-18*,24239.0,ESPK
+133,Other income,12  Mar-18*,132.0,ESPK
+134,Total revenues,12  Mar-18*,24371.0,ESPK
+135,Gross profit,12  Mar-18*,4781.0,ESPK
+136,Depreciation,12  Mar-18*,1671.0,ESPK
+137,Interest,12  Mar-18*,550.0,ESPK
+138,Profit before tax,12  Mar-18*,2691.0,ESPK
+139,Minority Interest,12  Mar-18*,-10.0,ESPK
+140,Prior Period Items,12  Mar-18*,0.0,ESPK
+141,Extraordinary Inc (Exp),12  Mar-18*,-50.0,ESPK
+142,Tax,12  Mar-18*,889.0,ESPK
+143,Profit after tax,12  Mar-18*,1742.0,ESPK
+144,Gross profit margin,12  Mar-18*,19.7,ESPK
+145,Effective tax rate,12  Mar-18*,33.0,ESPK
+146,Net profit margin,12  Mar-18*,7.2,ESPK
+147,Current assets,12  Mar-18*,11340.0,ESPK
+148,Current liabilities,12  Mar-18*,6657.0,ESPK
+149,Net working cap to sales,12  Mar-18*,19.3,ESPK
+150,Current ratio,12  Mar-18*,1.7,ESPK
+151,Inventory Days,12  Mar-18*,43.0,ESPK
+152,Debtors Days,12  Mar-18*,69.0,ESPK
+153,Net fixed assets,12  Mar-18*,12258.0,ESPK
+154,Share capital,12  Mar-18*,315.0,ESPK
+155,"""Free"" reserves",12  Mar-18*,12191.0,ESPK
+156,Net worth,12  Mar-18*,12506.0,ESPK
+157,Long term debt,12  Mar-18*,4492.0,ESPK
+158,Total assets,12  Mar-18*,24421.0,ESPK
+159,Interest coverage,12  Mar-18*,5.9,ESPK
+160,Debt to equity ratio,12  Mar-18*,0.4,ESPK
+161,Sales to assets ratio,12  Mar-18*,1.0,ESPK
+162,Return on assets,12  Mar-18*,9.4,ESPK
+163,Return on equity,12  Mar-18*,13.9,ESPK
+164,Return on capital,12  Mar-18*,18.7,ESPK
+165,Exports to sales,12  Mar-18*,0.0,ESPK
+166,Imports to sales,12  Mar-18*,0.0,ESPK
+167,Exports (fob),12  Mar-18*,0.0,ESPK
+168,Imports (cif),12  Mar-18*,0.0,ESPK
+169,Fx inflow,12  Mar-18*,1226.0,ESPK
+170,Fx outflow,12  Mar-18*,2187.0,ESPK
+171,Net fx,12  Mar-18*,-961.0,ESPK
+172,From Operations,12  Mar-18*,3435.0,ESPK
+173,From Investments,12  Mar-18*,-1558.0,ESPK
+174,From Financial Activity,12  Mar-18*,-1539.0,ESPK
+175,Net Cashflow,12  Mar-18*,337.0,ESPK
+176,Net Sales,12  Mar-19*,27069.0,ESPK
+177,Other income,12  Mar-19*,174.0,ESPK
+178,Total revenues,12  Mar-19*,27244.0,ESPK
+179,Gross profit,12  Mar-19*,5102.0,ESPK
+180,Depreciation,12  Mar-19*,1861.0,ESPK
+181,Interest,12  Mar-19*,613.0,ESPK
+182,Profit before tax,12  Mar-19*,2802.0,ESPK
+183,Minority Interest,12  Mar-19*,53.0,ESPK
+184,Prior Period Items,12  Mar-19*,0.0,ESPK
+185,Extraordinary Inc (Exp),12  Mar-19*,31.0,ESPK
+186,Tax,12  Mar-19*,932.0,ESPK
+187,Profit after tax,12  Mar-19*,1954.0,ESPK
+188,Gross profit margin,12  Mar-19*,18.8,ESPK
+189,Effective tax rate,12  Mar-19*,33.3,ESPK
+190,Net profit margin,12  Mar-19*,7.2,ESPK
+191,Current assets,12  Mar-19*,10895.0,ESPK
+192,Current liabilities,12  Mar-19*,5740.0,ESPK
+193,Net working cap to sales,12  Mar-19*,19.0,ESPK
+194,Current ratio,12  Mar-19*,1.9,ESPK
+195,Inventory Days,12  Mar-19*,44.0,ESPK
+196,Debtors Days,12  Mar-19*,67.0,ESPK
+197,Net fixed assets,12  Mar-19*,13486.0,ESPK
+198,Share capital,12  Mar-19*,631.0,ESPK
+199,"""Free"" reserves",12  Mar-19*,13249.0,ESPK
+200,Net worth,12  Mar-19*,13880.0,ESPK
+201,Long term debt,12  Mar-19*,4693.0,ESPK
+202,Total assets,12  Mar-19*,25201.0,ESPK
+203,Interest coverage,12  Mar-19*,5.6,ESPK
+204,Debt to equity ratio,12  Mar-19*,0.3,ESPK
+205,Sales to assets ratio,12  Mar-19*,1.1,ESPK
+206,Return on assets,12  Mar-19*,10.2,ESPK
+207,Return on equity,12  Mar-19*,14.1,ESPK
+208,Return on capital,12  Mar-19*,18.8,ESPK
+209,Exports to sales,12  Mar-19*,0.0,ESPK
+210,Imports to sales,12  Mar-19*,0.0,ESPK
+211,Exports (fob),12  Mar-19*,0.0,ESPK
+212,Imports (cif),12  Mar-19*,0.0,ESPK
+213,Fx inflow,12  Mar-19*,1492.0,ESPK
+214,Fx outflow,12  Mar-19*,3057.0,ESPK
+215,Net fx,12  Mar-19*,-1565.0,ESPK
+216,From Operations,12  Mar-19*,3564.0,ESPK
+217,From Investments,12  Mar-19*,-1879.0,ESPK
+218,From Financial Activity,12  Mar-19*,-1939.0,ESPK
+219,Net Cashflow,12  Mar-19*,-254.0,ESPK

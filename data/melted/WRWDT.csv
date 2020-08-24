@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-09*,3164.0,WRWDT
+1,Other income,12  Mar-09*,1852.0,WRWDT
+2,Total revenues,12  Mar-09*,5016.0,WRWDT
+3,Gross profit,12  Mar-09*,-60.0,WRWDT
+4,Depreciation,12  Mar-09*,119.0,WRWDT
+5,Interest,12  Mar-09*,49.0,WRWDT
+6,Profit before tax,12  Mar-09*,1624.0,WRWDT
+7,Minority Interest,12  Mar-09*,-17.0,WRWDT
+8,Prior Period Items,12  Mar-09*,60.0,WRWDT
+9,Extraordinary Inc (Exp),12  Mar-09*,1857.0,WRWDT
+10,Tax,12  Mar-09*,1068.0,WRWDT
+11,Profit after tax,12  Mar-09*,2456.0,WRWDT
+12,Gross profit margin,12  Mar-09*,-1.9,WRWDT
+13,Effective tax rate,12  Mar-09*,65.8,WRWDT
+14,Net profit margin,12  Mar-09*,77.6,WRWDT
+15,Current assets,12  Mar-09*,11943.0,WRWDT
+16,Current liabilities,12  Mar-09*,3362.0,WRWDT
+17,Net working cap to sales,12  Mar-09*,271.2,WRWDT
+18,Current ratio,12  Mar-09*,3.6,WRWDT
+19,Inventory Days,12  Mar-09*,9.0,WRWDT
+20,Debtors Days,12  Mar-09*,328.0,WRWDT
+21,Net fixed assets,12  Mar-09*,3221.0,WRWDT
+22,Share capital,12  Mar-09*,92.0,WRWDT
+23,"""Free"" reserves",12  Mar-09*,16440.0,WRWDT
+24,Net worth,12  Mar-09*,17026.0,WRWDT
+25,Long term debt,12  Mar-09*,4187.0,WRWDT
+26,Total assets,12  Mar-09*,26669.0,WRWDT
+27,Interest coverage,12  Mar-09*,34.1,WRWDT
+28,Debt to equity ratio,12  Mar-09*,0.2,WRWDT
+29,Sales to assets ratio,12  Mar-09*,0.1,WRWDT
+30,Return on assets,12  Mar-09*,9.4,WRWDT
+31,Return on equity,12  Mar-09*,14.4,WRWDT
+32,Return on capital,12  Mar-09*,16.8,WRWDT
+33,Exports to sales,12  Mar-09*,0.0,WRWDT
+34,Imports to sales,12  Mar-09*,0.0,WRWDT
+35,Exports (fob),12  Mar-09*,0.0,WRWDT
+36,Imports (cif),12  Mar-09*,0.0,WRWDT
+37,Fx inflow,12  Mar-09*,3452.0,WRWDT
+38,Fx outflow,12  Mar-09*,100.0,WRWDT
+39,Net fx,12  Mar-09*,3352.0,WRWDT
+40,From Operations,12  Mar-09*,-1327.0,WRWDT
+41,From Investments,12  Mar-09*,809.0,WRWDT
+42,From Financial Activity,12  Mar-09*,383.0,WRWDT
+43,Net Cashflow,12  Mar-09*,-135.0,WRWDT
+44,Net Sales,12  Mar-10*,3101.0,WRWDT
+45,Other income,12  Mar-10*,1047.0,WRWDT
+46,Total revenues,12  Mar-10*,4148.0,WRWDT
+47,Gross profit,12  Mar-10*,-1123.0,WRWDT
+48,Depreciation,12  Mar-10*,164.0,WRWDT
+49,Interest,12  Mar-10*,4.0,WRWDT
+50,Profit before tax,12  Mar-10*,-244.0,WRWDT
+51,Minority Interest,12  Mar-10*,24.0,WRWDT
+52,Prior Period Items,12  Mar-10*,0.0,WRWDT
+53,Extraordinary Inc (Exp),12  Mar-10*,2518.0,WRWDT
+54,Tax,12  Mar-10*,897.0,WRWDT
+55,Profit after tax,12  Mar-10*,1401.0,WRWDT
+56,Gross profit margin,12  Mar-10*,-36.2,WRWDT
+57,Effective tax rate,12  Mar-10*,-367.6,WRWDT
+58,Net profit margin,12  Mar-10*,45.2,WRWDT
+59,Current assets,12  Mar-10*,8901.0,WRWDT
+60,Current liabilities,12  Mar-10*,3412.0,WRWDT
+61,Net working cap to sales,12  Mar-10*,177.0,WRWDT
+62,Current ratio,12  Mar-10*,2.6,WRWDT
+63,Inventory Days,12  Mar-10*,6.0,WRWDT
+64,Debtors Days,12  Mar-10*,62.0,WRWDT
+65,Net fixed assets,12  Mar-10*,3236.0,WRWDT
+66,Share capital,12  Mar-10*,92.0,WRWDT
+67,"""Free"" reserves",12  Mar-10*,17320.0,WRWDT
+68,Net worth,12  Mar-10*,17516.0,WRWDT
+69,Long term debt,12  Mar-10*,4151.0,WRWDT
+70,Total assets,12  Mar-10*,25410.0,WRWDT
+71,Interest coverage,12  Mar-10*,-60.0,WRWDT
+72,Debt to equity ratio,12  Mar-10*,0.2,WRWDT
+73,Sales to assets ratio,12  Mar-10*,0.1,WRWDT
+74,Return on assets,12  Mar-10*,5.5,WRWDT
+75,Return on equity,12  Mar-10*,8.0,WRWDT
+76,Return on capital,12  Mar-10*,10.6,WRWDT
+77,Exports to sales,12  Mar-10*,0.0,WRWDT
+78,Imports to sales,12  Mar-10*,0.0,WRWDT
+79,Exports (fob),12  Mar-10*,0.0,WRWDT
+80,Imports (cif),12  Mar-10*,0.0,WRWDT
+81,Fx inflow,12  Mar-10*,1275.0,WRWDT
+82,Fx outflow,12  Mar-10*,54.0,WRWDT
+83,Net fx,12  Mar-10*,1221.0,WRWDT
+84,From Operations,12  Mar-10*,369.0,WRWDT
+85,From Investments,12  Mar-10*,3448.0,WRWDT
+86,From Financial Activity,12  Mar-10*,-1675.0,WRWDT
+87,Net Cashflow,12  Mar-10*,2142.0,WRWDT
+88,Net Sales,12  Mar-11*,4079.0,WRWDT
+89,Other income,12  Mar-11*,841.0,WRWDT
+90,Total revenues,12  Mar-11*,4920.0,WRWDT
+91,Gross profit,12  Mar-11*,-1180.0,WRWDT
+92,Depreciation,12  Mar-11*,303.0,WRWDT
+93,Interest,12  Mar-11*,77.0,WRWDT
+94,Profit before tax,12  Mar-11*,-719.0,WRWDT
+95,Minority Interest,12  Mar-11*,-19.0,WRWDT
+96,Prior Period Items,12  Mar-11*,632.0,WRWDT
+97,Extraordinary Inc (Exp),12  Mar-11*,-1478.0,WRWDT
+98,Tax,12  Mar-11*,-216.0,WRWDT
+99,Profit after tax,12  Mar-11*,-1368.0,WRWDT
+100,Gross profit margin,12  Mar-11*,-28.9,WRWDT
+101,Effective tax rate,12  Mar-11*,30.0,WRWDT
+102,Net profit margin,12  Mar-11*,-33.5,WRWDT
+103,Current assets,12  Mar-11*,20543.0,WRWDT
+104,Current liabilities,12  Mar-11*,10800.0,WRWDT
+105,Net working cap to sales,12  Mar-11*,238.8,WRWDT
+106,Current ratio,12  Mar-11*,1.9,WRWDT
+107,Inventory Days,12  Mar-11*,138.0,WRWDT
+108,Debtors Days,12  Mar-11*,135.0,WRWDT
+109,Net fixed assets,12  Mar-11*,4596.0,WRWDT
+110,Share capital,12  Mar-11*,92.0,WRWDT
+111,"""Free"" reserves",12  Mar-11*,15219.0,WRWDT
+112,Net worth,12  Mar-11*,15553.0,WRWDT
+113,Long term debt,12  Mar-11*,5144.0,WRWDT
+114,Total assets,12  Mar-11*,31854.0,WRWDT
+115,Interest coverage,12  Mar-11*,-8.4,WRWDT
+116,Debt to equity ratio,12  Mar-11*,0.3,WRWDT
+117,Sales to assets ratio,12  Mar-11*,0.1,WRWDT
+118,Return on assets,12  Mar-11*,-4.1,WRWDT
+119,Return on equity,12  Mar-11*,-8.8,WRWDT
+120,Return on capital,12  Mar-11*,-7.3,WRWDT
+121,Exports to sales,12  Mar-11*,0.0,WRWDT
+122,Imports to sales,12  Mar-11*,0.0,WRWDT
+123,Exports (fob),12  Mar-11*,0.0,WRWDT
+124,Imports (cif),12  Mar-11*,0.0,WRWDT
+125,Fx inflow,12  Mar-11*,1393.0,WRWDT
+126,Fx outflow,12  Mar-11*,506.0,WRWDT
+127,Net fx,12  Mar-11*,887.0,WRWDT
+128,From Operations,12  Mar-11*,-2730.0,WRWDT
+129,From Investments,12  Mar-11*,-2289.0,WRWDT
+130,From Financial Activity,12  Mar-11*,6040.0,WRWDT
+131,Net Cashflow,12  Mar-11*,1021.0,WRWDT
+132,Net Sales,12  Mar-12*,5012.0,WRWDT
+133,Other income,12  Mar-12*,1199.0,WRWDT
+134,Total revenues,12  Mar-12*,6212.0,WRWDT
+135,Gross profit,12  Mar-12*,-92.0,WRWDT
+136,Depreciation,12  Mar-12*,316.0,WRWDT
+137,Interest,12  Mar-12*,672.0,WRWDT
+138,Profit before tax,12  Mar-12*,120.0,WRWDT
+139,Minority Interest,12  Mar-12*,-18.0,WRWDT
+140,Prior Period Items,12  Mar-12*,1028.0,WRWDT
+141,Extraordinary Inc (Exp),12  Mar-12*,2131.0,WRWDT
+142,Tax,12  Mar-12*,621.0,WRWDT
+143,Profit after tax,12  Mar-12*,2641.0,WRWDT
+144,Gross profit margin,12  Mar-12*,-1.8,WRWDT
+145,Effective tax rate,12  Mar-12*,519.6,WRWDT
+146,Net profit margin,12  Mar-12*,52.7,WRWDT
+147,Current assets,12  Mar-12*,23176.0,WRWDT
+148,Current liabilities,12  Mar-12*,7639.0,WRWDT
+149,Net working cap to sales,12  Mar-12*,310.0,WRWDT
+150,Current ratio,12  Mar-12*,3.0,WRWDT
+151,Inventory Days,12  Mar-12*,135.0,WRWDT
+152,Debtors Days,12  Mar-12*,53.0,WRWDT
+153,Net fixed assets,12  Mar-12*,5053.0,WRWDT
+154,Share capital,12  Mar-12*,92.0,WRWDT
+155,"""Free"" reserves",12  Mar-12*,16601.0,WRWDT
+156,Net worth,12  Mar-12*,16857.0,WRWDT
+157,Long term debt,12  Mar-12*,11574.0,WRWDT
+158,Total assets,12  Mar-12*,36632.0,WRWDT
+159,Interest coverage,12  Mar-12*,1.2,WRWDT
+160,Debt to equity ratio,12  Mar-12*,0.7,WRWDT
+161,Sales to assets ratio,12  Mar-12*,0.1,WRWDT
+162,Return on assets,12  Mar-12*,9.0,WRWDT
+163,Return on equity,12  Mar-12*,15.7,WRWDT
+164,Return on capital,12  Mar-12*,13.8,WRWDT
+165,Exports to sales,12  Mar-12*,0.0,WRWDT
+166,Imports to sales,12  Mar-12*,0.0,WRWDT
+167,Exports (fob),12  Mar-12*,0.0,WRWDT
+168,Imports (cif),12  Mar-12*,0.0,WRWDT
+169,Fx inflow,12  Mar-12*,1743.0,WRWDT
+170,Fx outflow,12  Mar-12*,850.0,WRWDT
+171,Net fx,12  Mar-12*,894.0,WRWDT
+172,From Operations,12  Mar-12*,2540.0,WRWDT
+173,From Investments,12  Mar-12*,-1190.0,WRWDT
+174,From Financial Activity,12  Mar-12*,-3894.0,WRWDT
+175,Net Cashflow,12  Mar-12*,-2545.0,WRWDT
+176,Net Sales,12  Mar-13*,7519.0,WRWDT
+177,Other income,12  Mar-13*,2041.0,WRWDT
+178,Total revenues,12  Mar-13*,9560.0,WRWDT
+179,Gross profit,12  Mar-13*,1959.0,WRWDT
+180,Depreciation,12  Mar-13*,327.0,WRWDT
+181,Interest,12  Mar-13*,980.0,WRWDT
+182,Profit before tax,12  Mar-13*,2693.0,WRWDT
+183,Minority Interest,12  Mar-13*,-14.0,WRWDT
+184,Prior Period Items,12  Mar-13*,1020.0,WRWDT
+185,Extraordinary Inc (Exp),12  Mar-13*,0.0,WRWDT
+186,Tax,12  Mar-13*,1426.0,WRWDT
+187,Profit after tax,12  Mar-13*,2274.0,WRWDT
+188,Gross profit margin,12  Mar-13*,26.1,WRWDT
+189,Effective tax rate,12  Mar-13*,52.9,WRWDT
+190,Net profit margin,12  Mar-13*,30.2,WRWDT
+191,Current assets,12  Mar-13*,33136.0,WRWDT
+192,Current liabilities,12  Mar-13*,15608.0,WRWDT
+193,Net working cap to sales,12  Mar-13*,233.1,WRWDT
+194,Current ratio,12  Mar-13*,2.1,WRWDT
+195,Inventory Days,12  Mar-13*,185.0,WRWDT
+196,Debtors Days,12  Mar-13*,204.0,WRWDT
+197,Net fixed assets,12  Mar-13*,5134.0,WRWDT
+198,Share capital,12  Mar-13*,92.0,WRWDT
+199,"""Free"" reserves",12  Mar-13*,17923.0,WRWDT
+200,Net worth,12  Mar-13*,18156.0,WRWDT
+201,Long term debt,12  Mar-13*,12330.0,WRWDT
+202,Total assets,12  Mar-13*,46868.0,WRWDT
+203,Interest coverage,12  Mar-13*,3.7,WRWDT
+204,Debt to equity ratio,12  Mar-13*,0.7,WRWDT
+205,Sales to assets ratio,12  Mar-13*,0.2,WRWDT
+206,Return on assets,12  Mar-13*,6.9,WRWDT
+207,Return on equity,12  Mar-13*,12.5,WRWDT
+208,Return on capital,12  Mar-13*,15.4,WRWDT
+209,Exports to sales,12  Mar-13*,0.0,WRWDT
+210,Imports to sales,12  Mar-13*,0.0,WRWDT
+211,Exports (fob),12  Mar-13*,0.0,WRWDT
+212,Imports (cif),12  Mar-13*,0.0,WRWDT
+213,Fx inflow,12  Mar-13*,1205.0,WRWDT
+214,Fx outflow,12  Mar-13*,383.0,WRWDT
+215,Net fx,12  Mar-13*,822.0,WRWDT
+216,From Operations,12  Mar-13*,1599.0,WRWDT
+217,From Investments,12  Mar-13*,-3486.0,WRWDT
+218,From Financial Activity,12  Mar-13*,226.0,WRWDT
+219,Net Cashflow,12  Mar-13*,-1660.0,WRWDT

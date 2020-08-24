@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,0,TTDO
+1,Other income,12  Mar-15,7,TTDO
+2,Total revenues,12  Mar-15,7,TTDO
+3,Gross profit,12  Mar-15,-12,TTDO
+4,Depreciation,12  Mar-15,0,TTDO
+5,Interest,12  Mar-15,30,TTDO
+6,Profit before tax,12  Mar-15,-35,TTDO
+7,Minority Interest,12  Mar-15,0,TTDO
+8,Prior Period Items,12  Mar-15,0,TTDO
+9,Extraordinary Inc (Exp),12  Mar-15,0,TTDO
+10,Tax,12  Mar-15,0,TTDO
+11,Profit after tax,12  Mar-15,-35,TTDO
+12,Gross profit margin,12  Mar-15,NM,TTDO
+13,Effective tax rate,12  Mar-15,0,TTDO
+14,Net profit margin,12  Mar-15,NM,TTDO
+15,Current assets,12  Mar-15,76,TTDO
+16,Current liabilities,12  Mar-15,70,TTDO
+17,Net working cap to sales,12  Mar-15,NM,TTDO
+18,Current ratio,12  Mar-15,1.1,TTDO
+19,Inventory Days,12  Mar-15,NM,TTDO
+20,Debtors Days,12  Mar-15,NM,TTDO
+21,Net fixed assets,12  Mar-15,5,TTDO
+22,Share capital,12  Mar-15,502,TTDO
+23,"""Free"" reserves",12  Mar-15,-738,TTDO
+24,Net worth,12  Mar-15,-236,TTDO
+25,Long term debt,12  Mar-15,202,TTDO
+26,Total assets,12  Mar-15,91,TTDO
+27,Interest coverage,12  Mar-15,-0.1,TTDO
+28,Debt to equity ratio,12  Mar-15,-0.9,TTDO
+29,Sales to assets ratio,12  Mar-15,0,TTDO
+30,Return on assets,12  Mar-15,-4.7,TTDO
+31,Return on equity,12  Mar-15,14.7,TTDO
+32,Return on capital,12  Mar-15,12.6,TTDO
+33,Exports to sales,12  Mar-15,NM,TTDO
+34,Imports to sales,12  Mar-15,NM,TTDO
+35,Exports (fob),12  Mar-15,0,TTDO
+36,Imports (cif),12  Mar-15,0,TTDO
+37,Fx inflow,12  Mar-15,0,TTDO
+38,Fx outflow,12  Mar-15,0,TTDO
+39,Net fx,12  Mar-15,0,TTDO
+40,From Operations,12  Mar-15,-3,TTDO
+41,From Investments,12  Mar-15,0,TTDO
+42,From Financial Activity,12  Mar-15,-3,TTDO
+43,Net Cashflow,12  Mar-15,-6,TTDO
+44,Net Sales,12  Mar-16,0,TTDO
+45,Other income,12  Mar-16,7,TTDO
+46,Total revenues,12  Mar-16,7,TTDO
+47,Gross profit,12  Mar-16,-14,TTDO
+48,Depreciation,12  Mar-16,1,TTDO
+49,Interest,12  Mar-16,29,TTDO
+50,Profit before tax,12  Mar-16,-37,TTDO
+51,Minority Interest,12  Mar-16,0,TTDO
+52,Prior Period Items,12  Mar-16,0,TTDO
+53,Extraordinary Inc (Exp),12  Mar-16,0,TTDO
+54,Tax,12  Mar-16,0,TTDO
+55,Profit after tax,12  Mar-16,-37,TTDO
+56,Gross profit margin,12  Mar-16,NM,TTDO
+57,Effective tax rate,12  Mar-16,0,TTDO
+58,Net profit margin,12  Mar-16,NM,TTDO
+59,Current assets,12  Mar-16,6,TTDO
+60,Current liabilities,12  Mar-16,64,TTDO
+61,Net working cap to sales,12  Mar-16,NM,TTDO
+62,Current ratio,12  Mar-16,0.1,TTDO
+63,Inventory Days,12  Mar-16,NM,TTDO
+64,Debtors Days,12  Mar-16,NM,TTDO
+65,Net fixed assets,12  Mar-16,4,TTDO
+66,Share capital,12  Mar-16,502,TTDO
+67,"""Free"" reserves",12  Mar-16,-775,TTDO
+68,Net worth,12  Mar-16,-273,TTDO
+69,Long term debt,12  Mar-16,219,TTDO
+70,Total assets,12  Mar-16,90,TTDO
+71,Interest coverage,12  Mar-16,-0.3,TTDO
+72,Debt to equity ratio,12  Mar-16,-0.8,TTDO
+73,Sales to assets ratio,12  Mar-16,0,TTDO
+74,Return on assets,12  Mar-16,-8.7,TTDO
+75,Return on equity,12  Mar-16,13.6,TTDO
+76,Return on capital,12  Mar-16,14.4,TTDO
+77,Exports to sales,12  Mar-16,NM,TTDO
+78,Imports to sales,12  Mar-16,NM,TTDO
+79,Exports (fob),12  Mar-16,0,TTDO
+80,Imports (cif),12  Mar-16,0,TTDO
+81,Fx inflow,12  Mar-16,0,TTDO
+82,Fx outflow,12  Mar-16,0,TTDO
+83,Net fx,12  Mar-16,0,TTDO
+84,From Operations,12  Mar-16,-15,TTDO
+85,From Investments,12  Mar-16,0,TTDO
+86,From Financial Activity,12  Mar-16,14,TTDO
+87,Net Cashflow,12  Mar-16,-2,TTDO
+88,Net Sales,12  Mar-17,0,TTDO
+89,Other income,12  Mar-17,0,TTDO
+90,Total revenues,12  Mar-17,0,TTDO
+91,Gross profit,12  Mar-17,0,TTDO
+92,Depreciation,12  Mar-17,1,TTDO
+93,Interest,12  Mar-17,22,TTDO
+94,Profit before tax,12  Mar-17,-23,TTDO
+95,Minority Interest,12  Mar-17,0,TTDO
+96,Prior Period Items,12  Mar-17,0,TTDO
+97,Extraordinary Inc (Exp),12  Mar-17,0,TTDO
+98,Tax,12  Mar-17,0,TTDO
+99,Profit after tax,12  Mar-17,-23,TTDO
+100,Gross profit margin,12  Mar-17,NM,TTDO
+101,Effective tax rate,12  Mar-17,0,TTDO
+102,Net profit margin,12  Mar-17,NM,TTDO
+103,Current assets,12  Mar-17,6,TTDO
+104,Current liabilities,12  Mar-17,65,TTDO
+105,Net working cap to sales,12  Mar-17,NM,TTDO
+106,Current ratio,12  Mar-17,0.1,TTDO
+107,Inventory Days,12  Mar-17,NM,TTDO
+108,Debtors Days,12  Mar-17,NM,TTDO
+109,Net fixed assets,12  Mar-17,4,TTDO
+110,Share capital,12  Mar-17,502,TTDO
+111,"""Free"" reserves",12  Mar-17,-810,TTDO
+112,Net worth,12  Mar-17,-308,TTDO
+113,Long term debt,12  Mar-17,231,TTDO
+114,Total assets,12  Mar-17,90,TTDO
+115,Interest coverage,12  Mar-17,0,TTDO
+116,Debt to equity ratio,12  Mar-17,-0.8,TTDO
+117,Sales to assets ratio,12  Mar-17,0,TTDO
+118,Return on assets,12  Mar-17,-0.7,TTDO
+119,Return on equity,12  Mar-17,7.4,TTDO
+120,Return on capital,12  Mar-17,0.8,TTDO
+121,Exports to sales,12  Mar-17,NM,TTDO
+122,Imports to sales,12  Mar-17,NM,TTDO
+123,Exports (fob),12  Mar-17,0,TTDO
+124,Imports (cif),12  Mar-17,0,TTDO
+125,Fx inflow,12  Mar-17,0,TTDO
+126,Fx outflow,12  Mar-17,0,TTDO
+127,Net fx,12  Mar-17,0,TTDO
+128,From Operations,12  Mar-17,-11,TTDO
+129,From Investments,12  Mar-17,0,TTDO
+130,From Financial Activity,12  Mar-17,10,TTDO
+131,Net Cashflow,12  Mar-17,0,TTDO
+132,Net Sales,12  Mar-18,0,TTDO
+133,Other income,12  Mar-18,0,TTDO
+134,Total revenues,12  Mar-18,0,TTDO
+135,Gross profit,12  Mar-18,0,TTDO
+136,Depreciation,12  Mar-18,1,TTDO
+137,Interest,12  Mar-18,19,TTDO
+138,Profit before tax,12  Mar-18,-20,TTDO
+139,Minority Interest,12  Mar-18,0,TTDO
+140,Prior Period Items,12  Mar-18,0,TTDO
+141,Extraordinary Inc (Exp),12  Mar-18,0,TTDO
+142,Tax,12  Mar-18,0,TTDO
+143,Profit after tax,12  Mar-18,-20,TTDO
+144,Gross profit margin,12  Mar-18,NM,TTDO
+145,Effective tax rate,12  Mar-18,0,TTDO
+146,Net profit margin,12  Mar-18,NM,TTDO
+147,Current assets,12  Mar-18,6,TTDO
+148,Current liabilities,12  Mar-18,64,TTDO
+149,Net working cap to sales,12  Mar-18,NM,TTDO
+150,Current ratio,12  Mar-18,0.1,TTDO
+151,Inventory Days,12  Mar-18,NM,TTDO
+152,Debtors Days,12  Mar-18,NM,TTDO
+153,Net fixed assets,12  Mar-18,3,TTDO
+154,Share capital,12  Mar-18,502,TTDO
+155,"""Free"" reserves",12  Mar-18,-841,TTDO
+156,Net worth,12  Mar-18,-340,TTDO
+157,Long term debt,12  Mar-18,246,TTDO
+158,Total assets,12  Mar-18,89,TTDO
+159,Interest coverage,12  Mar-18,0,TTDO
+160,Debt to equity ratio,12  Mar-18,-0.7,TTDO
+161,Sales to assets ratio,12  Mar-18,0,TTDO
+162,Return on assets,12  Mar-18,-0.7,TTDO
+163,Return on equity,12  Mar-18,5.8,TTDO
+164,Return on capital,12  Mar-18,0.6,TTDO
+165,Exports to sales,12  Mar-18,NM,TTDO
+166,Imports to sales,12  Mar-18,NM,TTDO
+167,Exports (fob),12  Mar-18,0,TTDO
+168,Imports (cif),12  Mar-18,0,TTDO
+169,Fx inflow,12  Mar-18,0,TTDO
+170,Fx outflow,12  Mar-18,0,TTDO
+171,Net fx,12  Mar-18,0,TTDO
+172,From Operations,12  Mar-18,-13,TTDO
+173,From Investments,12  Mar-18,0,TTDO
+174,From Financial Activity,12  Mar-18,12,TTDO
+175,Net Cashflow,12  Mar-18,0,TTDO
+176,Net Sales,12  Mar-19,0,TTDO
+177,Other income,12  Mar-19,0,TTDO
+178,Total revenues,12  Mar-19,0,TTDO
+179,Gross profit,12  Mar-19,6,TTDO
+180,Depreciation,12  Mar-19,6,TTDO
+181,Interest,12  Mar-19,24,TTDO
+182,Profit before tax,12  Mar-19,-25,TTDO
+183,Minority Interest,12  Mar-19,0,TTDO
+184,Prior Period Items,12  Mar-19,0,TTDO
+185,Extraordinary Inc (Exp),12  Mar-19,0,TTDO
+186,Tax,12  Mar-19,0,TTDO
+187,Profit after tax,12  Mar-19,-25,TTDO
+188,Gross profit margin,12  Mar-19,NM,TTDO
+189,Effective tax rate,12  Mar-19,0,TTDO
+190,Net profit margin,12  Mar-19,NM,TTDO
+191,Current assets,12  Mar-19,6,TTDO
+192,Current liabilities,12  Mar-19,9,TTDO
+193,Net working cap to sales,12  Mar-19,NM,TTDO
+194,Current ratio,12  Mar-19,0.6,TTDO
+195,Inventory Days,12  Mar-19,NM,TTDO
+196,Debtors Days,12  Mar-19,NM,TTDO
+197,Net fixed assets,12  Mar-19,2,TTDO
+198,Share capital,12  Mar-19,502,TTDO
+199,"""Free"" reserves",12  Mar-19,-879,TTDO
+200,Net worth,12  Mar-19,-377,TTDO
+201,Long term debt,12  Mar-19,316,TTDO
+202,Total assets,12  Mar-19,88,TTDO
+203,Interest coverage,12  Mar-19,0,TTDO
+204,Debt to equity ratio,12  Mar-19,-0.8,TTDO
+205,Sales to assets ratio,12  Mar-19,0,TTDO
+206,Return on assets,12  Mar-19,-0.8,TTDO
+207,Return on equity,12  Mar-19,6.5,TTDO
+208,Return on capital,12  Mar-19,1.1,TTDO
+209,Exports to sales,12  Mar-19,NM,TTDO
+210,Imports to sales,12  Mar-19,NM,TTDO
+211,Exports (fob),12  Mar-19,0,TTDO
+212,Imports (cif),12  Mar-19,0,TTDO
+213,Fx inflow,12  Mar-19,0,TTDO
+214,Fx outflow,12  Mar-19,0,TTDO
+215,Net fx,12  Mar-19,0,TTDO
+216,From Operations,12  Mar-19,-69,TTDO
+217,From Investments,12  Mar-19,1,TTDO
+218,From Financial Activity,12  Mar-19,68,TTDO
+219,Net Cashflow,12  Mar-19,0,TTDO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,12789.0,EVER
+1,Other income,12  Mar-15*,39.0,EVER
+2,Total revenues,12  Mar-15*,12828.0,EVER
+3,Gross profit,12  Mar-15*,1240.0,EVER
+4,Depreciation,12  Mar-15*,320.0,EVER
+5,Interest,12  Mar-15*,340.0,EVER
+6,Profit before tax,12  Mar-15*,619.0,EVER
+7,Minority Interest,12  Mar-15*,0.0,EVER
+8,Prior Period Items,12  Mar-15*,0.0,EVER
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,EVER
+10,Tax,12  Mar-15*,130.0,EVER
+11,Profit after tax,12  Mar-15*,489.0,EVER
+12,Gross profit margin,12  Mar-15*,9.7,EVER
+13,Effective tax rate,12  Mar-15*,21.0,EVER
+14,Net profit margin,12  Mar-15*,3.8,EVER
+15,Current assets,12  Mar-15*,3672.0,EVER
+16,Current liabilities,12  Mar-15*,4315.0,EVER
+17,Net working cap to sales,12  Mar-15*,-5.0,EVER
+18,Current ratio,12  Mar-15*,0.9,EVER
+19,Inventory Days,12  Mar-15*,74.0,EVER
+20,Debtors Days,12  Mar-15*,14.0,EVER
+21,Net fixed assets,12  Mar-15*,2348.0,EVER
+22,Share capital,12  Mar-15*,363.0,EVER
+23,"""Free"" reserves",12  Mar-15*,1096.0,EVER
+24,Net worth,12  Mar-15*,1459.0,EVER
+25,Long term debt,12  Mar-15*,526.0,EVER
+26,Total assets,12  Mar-15*,6405.0,EVER
+27,Interest coverage,12  Mar-15*,2.8,EVER
+28,Debt to equity ratio,12  Mar-15*,0.4,EVER
+29,Sales to assets ratio,12  Mar-15*,2.0,EVER
+30,Return on assets,12  Mar-15*,13.0,EVER
+31,Return on equity,12  Mar-15*,33.5,EVER
+32,Return on capital,12  Mar-15*,48.3,EVER
+33,Exports to sales,12  Mar-15*,1.5,EVER
+34,Imports to sales,12  Mar-15*,14.6,EVER
+35,Exports (fob),12  Mar-15*,195.0,EVER
+36,Imports (cif),12  Mar-15*,1869.0,EVER
+37,Fx inflow,12  Mar-15*,195.0,EVER
+38,Fx outflow,12  Mar-15*,1886.0,EVER
+39,Net fx,12  Mar-15*,-1691.0,EVER
+40,From Operations,12  Mar-15*,717.0,EVER
+41,From Investments,12  Mar-15*,-297.0,EVER
+42,From Financial Activity,12  Mar-15*,-368.0,EVER
+43,Net Cashflow,12  Mar-15*,53.0,EVER
+44,Net Sales,12  Mar-16*,13237.0,EVER
+45,Other income,12  Mar-16*,78.0,EVER
+46,Total revenues,12  Mar-16*,13314.0,EVER
+47,Gross profit,12  Mar-16*,1226.0,EVER
+48,Depreciation,12  Mar-16*,139.0,EVER
+49,Interest,12  Mar-16*,309.0,EVER
+50,Profit before tax,12  Mar-16*,856.0,EVER
+51,Minority Interest,12  Mar-16*,0.0,EVER
+52,Prior Period Items,12  Mar-16*,0.0,EVER
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,EVER
+54,Tax,12  Mar-16*,166.0,EVER
+55,Profit after tax,12  Mar-16*,690.0,EVER
+56,Gross profit margin,12  Mar-16*,9.3,EVER
+57,Effective tax rate,12  Mar-16*,19.4,EVER
+58,Net profit margin,12  Mar-16*,5.2,EVER
+59,Current assets,12  Mar-16*,3833.0,EVER
+60,Current liabilities,12  Mar-16*,3872.0,EVER
+61,Net working cap to sales,12  Mar-16*,-0.3,EVER
+62,Current ratio,12  Mar-16*,1.0,EVER
+63,Inventory Days,12  Mar-16*,66.0,EVER
+64,Debtors Days,12  Mar-16*,19.0,EVER
+65,Net fixed assets,12  Mar-16*,2442.0,EVER
+66,Share capital,12  Mar-16*,363.0,EVER
+67,"""Free"" reserves",12  Mar-16*,1700.0,EVER
+68,Net worth,12  Mar-16*,2063.0,EVER
+69,Long term debt,12  Mar-16*,665.0,EVER
+70,Total assets,12  Mar-16*,6695.0,EVER
+71,Interest coverage,12  Mar-16*,3.8,EVER
+72,Debt to equity ratio,12  Mar-16*,0.3,EVER
+73,Sales to assets ratio,12  Mar-16*,2.0,EVER
+74,Return on assets,12  Mar-16*,14.9,EVER
+75,Return on equity,12  Mar-16*,33.5,EVER
+76,Return on capital,12  Mar-16*,42.7,EVER
+77,Exports to sales,12  Mar-16*,1.2,EVER
+78,Imports to sales,12  Mar-16*,15.1,EVER
+79,Exports (fob),12  Mar-16*,164.0,EVER
+80,Imports (cif),12  Mar-16*,1995.0,EVER
+81,Fx inflow,12  Mar-16*,194.0,EVER
+82,Fx outflow,12  Mar-16*,2046.0,EVER
+83,Net fx,12  Mar-16*,-1851.0,EVER
+84,From Operations,12  Mar-16*,1247.0,EVER
+85,From Investments,12  Mar-16*,-565.0,EVER
+86,From Financial Activity,12  Mar-16*,-796.0,EVER
+87,Net Cashflow,12  Mar-16*,-111.0,EVER
+88,Net Sales,12  Mar-17*,13572.0,EVER
+89,Other income,12  Mar-17*,96.0,EVER
+90,Total revenues,12  Mar-17*,13668.0,EVER
+91,Gross profit,12  Mar-17*,1337.0,EVER
+92,Depreciation,12  Mar-17*,149.0,EVER
+93,Interest,12  Mar-17*,238.0,EVER
+94,Profit before tax,12  Mar-17*,1046.0,EVER
+95,Minority Interest,12  Mar-17*,0.0,EVER
+96,Prior Period Items,12  Mar-17*,0.0,EVER
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,EVER
+98,Tax,12  Mar-17*,111.0,EVER
+99,Profit after tax,12  Mar-17*,935.0,EVER
+100,Gross profit margin,12  Mar-17*,9.9,EVER
+101,Effective tax rate,12  Mar-17*,10.6,EVER
+102,Net profit margin,12  Mar-17*,6.9,EVER
+103,Current assets,12  Mar-17*,4219.0,EVER
+104,Current liabilities,12  Mar-17*,4096.0,EVER
+105,Net working cap to sales,12  Mar-17*,0.9,EVER
+106,Current ratio,12  Mar-17*,1.0,EVER
+107,Inventory Days,12  Mar-17*,76.0,EVER
+108,Debtors Days,12  Mar-17*,23.0,EVER
+109,Net fixed assets,12  Mar-17*,3406.0,EVER
+110,Share capital,12  Mar-17*,363.0,EVER
+111,"""Free"" reserves",12  Mar-17*,2532.0,EVER
+112,Net worth,12  Mar-17*,2895.0,EVER
+113,Long term debt,12  Mar-17*,945.0,EVER
+114,Total assets,12  Mar-17*,8053.0,EVER
+115,Interest coverage,12  Mar-17*,5.4,EVER
+116,Debt to equity ratio,12  Mar-17*,0.3,EVER
+117,Sales to assets ratio,12  Mar-17*,1.7,EVER
+118,Return on assets,12  Mar-17*,14.6,EVER
+119,Return on equity,12  Mar-17*,32.3,EVER
+120,Return on capital,12  Mar-17*,33.4,EVER
+121,Exports to sales,12  Mar-17*,0.0,EVER
+122,Imports to sales,12  Mar-17*,0.0,EVER
+123,Exports (fob),12  Mar-17*,0.0,EVER
+124,Imports (cif),12  Mar-17*,0.0,EVER
+125,Fx inflow,12  Mar-17*,99.0,EVER
+126,Fx outflow,12  Mar-17*,2193.0,EVER
+127,Net fx,12  Mar-17*,-2094.0,EVER
+128,From Operations,12  Mar-17*,821.0,EVER
+129,From Investments,12  Mar-17*,-679.0,EVER
+130,From Financial Activity,12  Mar-17*,-52.0,EVER
+131,Net Cashflow,12  Mar-17*,89.0,EVER
+132,Net Sales,12  Mar-18*,14564.0,EVER
+133,Other income,12  Mar-18*,197.0,EVER
+134,Total revenues,12  Mar-18*,14761.0,EVER
+135,Gross profit,12  Mar-18*,1044.0,EVER
+136,Depreciation,12  Mar-18*,192.0,EVER
+137,Interest,12  Mar-18*,293.0,EVER
+138,Profit before tax,12  Mar-18*,756.0,EVER
+139,Minority Interest,12  Mar-18*,0.0,EVER
+140,Prior Period Items,12  Mar-18*,0.0,EVER
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,EVER
+142,Tax,12  Mar-18*,224.0,EVER
+143,Profit after tax,12  Mar-18*,532.0,EVER
+144,Gross profit margin,12  Mar-18*,7.2,EVER
+145,Effective tax rate,12  Mar-18*,29.7,EVER
+146,Net profit margin,12  Mar-18*,3.7,EVER
+147,Current assets,12  Mar-18*,6245.0,EVER
+148,Current liabilities,12  Mar-18*,5840.0,EVER
+149,Net working cap to sales,12  Mar-18*,2.8,EVER
+150,Current ratio,12  Mar-18*,1.1,EVER
+151,Inventory Days,12  Mar-18*,75.0,EVER
+152,Debtors Days,12  Mar-18*,30.0,EVER
+153,Net fixed assets,12  Mar-18*,3603.0,EVER
+154,Share capital,12  Mar-18*,363.0,EVER
+155,"""Free"" reserves",12  Mar-18*,3064.0,EVER
+156,Net worth,12  Mar-18*,3427.0,EVER
+157,Long term debt,12  Mar-18*,855.0,EVER
+158,Total assets,12  Mar-18*,10287.0,EVER
+159,Interest coverage,12  Mar-18*,3.6,EVER
+160,Debt to equity ratio,12  Mar-18*,0.2,EVER
+161,Sales to assets ratio,12  Mar-18*,1.4,EVER
+162,Return on assets,12  Mar-18*,8.0,EVER
+163,Return on equity,12  Mar-18*,15.5,EVER
+164,Return on capital,12  Mar-18*,24.5,EVER
+165,Exports to sales,12  Mar-18*,0.0,EVER
+166,Imports to sales,12  Mar-18*,0.0,EVER
+167,Exports (fob),12  Mar-18*,0.0,EVER
+168,Imports (cif),12  Mar-18*,0.0,EVER
+169,Fx inflow,12  Mar-18*,69.0,EVER
+170,Fx outflow,12  Mar-18*,2125.0,EVER
+171,Net fx,12  Mar-18*,-2057.0,EVER
+172,From Operations,12  Mar-18*,808.0,EVER
+173,From Investments,12  Mar-18*,-998.0,EVER
+174,From Financial Activity,12  Mar-18*,-370.0,EVER
+175,Net Cashflow,12  Mar-18*,-560.0,EVER
+176,Net Sales,12  Mar-19*,15066.0,EVER
+177,Other income,12  Mar-19*,353.0,EVER
+178,Total revenues,12  Mar-19*,15420.0,EVER
+179,Gross profit,12  Mar-19*,1011.0,EVER
+180,Depreciation,12  Mar-19*,218.0,EVER
+181,Interest,12  Mar-19*,548.0,EVER
+182,Profit before tax,12  Mar-19*,598.0,EVER
+183,Minority Interest,12  Mar-19*,0.0,EVER
+184,Prior Period Items,12  Mar-19*,0.0,EVER
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,EVER
+186,Tax,12  Mar-19*,120.0,EVER
+187,Profit after tax,12  Mar-19*,478.0,EVER
+188,Gross profit margin,12  Mar-19*,6.7,EVER
+189,Effective tax rate,12  Mar-19*,20.0,EVER
+190,Net profit margin,12  Mar-19*,3.2,EVER
+191,Current assets,12  Mar-19*,7495.0,EVER
+192,Current liabilities,12  Mar-19*,6069.0,EVER
+193,Net working cap to sales,12  Mar-19*,9.5,EVER
+194,Current ratio,12  Mar-19*,1.2,EVER
+195,Inventory Days,12  Mar-19*,61.0,EVER
+196,Debtors Days,12  Mar-19*,33.0,EVER
+197,Net fixed assets,12  Mar-19*,3474.0,EVER
+198,Share capital,12  Mar-19*,363.0,EVER
+199,"""Free"" reserves",12  Mar-19*,3396.0,EVER
+200,Net worth,12  Mar-19*,3759.0,EVER
+201,Long term debt,12  Mar-19*,2100.0,EVER
+202,Total assets,12  Mar-19*,12073.0,EVER
+203,Interest coverage,12  Mar-19*,2.1,EVER
+204,Debt to equity ratio,12  Mar-19*,0.6,EVER
+205,Sales to assets ratio,12  Mar-19*,1.2,EVER
+206,Return on assets,12  Mar-19*,8.5,EVER
+207,Return on equity,12  Mar-19*,12.7,EVER
+208,Return on capital,12  Mar-19*,19.6,EVER
+209,Exports to sales,12  Mar-19*,0.0,EVER
+210,Imports to sales,12  Mar-19*,0.0,EVER
+211,Exports (fob),12  Mar-19*,0.0,EVER
+212,Imports (cif),12  Mar-19*,0.0,EVER
+213,Fx inflow,12  Mar-19*,112.0,EVER
+214,Fx outflow,12  Mar-19*,1883.0,EVER
+215,Net fx,12  Mar-19*,-1771.0,EVER
+216,From Operations,12  Mar-19*,701.0,EVER
+217,From Investments,12  Mar-19*,-1446.0,EVER
+218,From Financial Activity,12  Mar-19*,1567.0,EVER
+219,Net Cashflow,12  Mar-19*,823.0,EVER

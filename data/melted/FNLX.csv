@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,24762.0,FNLX
+1,Other income,12  Mar-15,202.0,FNLX
+2,Total revenues,12  Mar-15,24964.0,FNLX
+3,Gross profit,12  Mar-15,1790.0,FNLX
+4,Depreciation,12  Mar-15,587.0,FNLX
+5,Interest,12  Mar-15,598.0,FNLX
+6,Profit before tax,12  Mar-15,808.0,FNLX
+7,Minority Interest,12  Mar-15,0.0,FNLX
+8,Prior Period Items,12  Mar-15,0.0,FNLX
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,FNLX
+10,Tax,12  Mar-15,330.0,FNLX
+11,Profit after tax,12  Mar-15,478.0,FNLX
+12,Gross profit margin,12  Mar-15,7.2,FNLX
+13,Effective tax rate,12  Mar-15,40.9,FNLX
+14,Net profit margin,12  Mar-15,1.9,FNLX
+15,Current assets,12  Mar-15,7976.0,FNLX
+16,Current liabilities,12  Mar-15,7683.0,FNLX
+17,Net working cap to sales,12  Mar-15,1.2,FNLX
+18,Current ratio,12  Mar-15,1.0,FNLX
+19,Inventory Days,12  Mar-15,82.0,FNLX
+20,Debtors Days,12  Mar-15,7.0,FNLX
+21,Net fixed assets,12  Mar-15,8782.0,FNLX
+22,Share capital,12  Mar-15,1241.0,FNLX
+23,"""Free"" reserves",12  Mar-15,6633.0,FNLX
+24,Net worth,12  Mar-15,7874.0,FNLX
+25,Long term debt,12  Mar-15,1837.0,FNLX
+26,Total assets,12  Mar-15,18591.0,FNLX
+27,Interest coverage,12  Mar-15,2.4,FNLX
+28,Debt to equity ratio,12  Mar-15,0.2,FNLX
+29,Sales to assets ratio,12  Mar-15,1.3,FNLX
+30,Return on assets,12  Mar-15,5.8,FNLX
+31,Return on equity,12  Mar-15,6.1,FNLX
+32,Return on capital,12  Mar-15,14.5,FNLX
+33,Exports to sales,12  Mar-15,0.0,FNLX
+34,Imports to sales,12  Mar-15,62.0,FNLX
+35,Exports (fob),12  Mar-15,0.0,FNLX
+36,Imports (cif),12  Mar-15,15353.0,FNLX
+37,Fx inflow,12  Mar-15,0.0,FNLX
+38,Fx outflow,12  Mar-15,15405.0,FNLX
+39,Net fx,12  Mar-15,-15405.0,FNLX
+40,From Operations,12  Mar-15,2144.0,FNLX
+41,From Investments,12  Mar-15,221.0,FNLX
+42,From Financial Activity,12  Mar-15,-2452.0,FNLX
+43,Net Cashflow,12  Mar-15,-86.0,FNLX
+44,Net Sales,12  Mar-16,24528.0,FNLX
+45,Other income,12  Mar-16,382.0,FNLX
+46,Total revenues,12  Mar-16,24910.0,FNLX
+47,Gross profit,12  Mar-16,3996.0,FNLX
+48,Depreciation,12  Mar-16,506.0,FNLX
+49,Interest,12  Mar-16,446.0,FNLX
+50,Profit before tax,12  Mar-16,3426.0,FNLX
+51,Minority Interest,12  Mar-16,0.0,FNLX
+52,Prior Period Items,12  Mar-16,0.0,FNLX
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,FNLX
+54,Tax,12  Mar-16,1099.0,FNLX
+55,Profit after tax,12  Mar-16,2327.0,FNLX
+56,Gross profit margin,12  Mar-16,16.3,FNLX
+57,Effective tax rate,12  Mar-16,32.1,FNLX
+58,Net profit margin,12  Mar-16,9.5,FNLX
+59,Current assets,12  Mar-16,7660.0,FNLX
+60,Current liabilities,12  Mar-16,7321.0,FNLX
+61,Net working cap to sales,12  Mar-16,1.4,FNLX
+62,Current ratio,12  Mar-16,1.0,FNLX
+63,Inventory Days,12  Mar-16,67.0,FNLX
+64,Debtors Days,12  Mar-16,3.0,FNLX
+65,Net fixed assets,12  Mar-16,10131.0,FNLX
+66,Share capital,12  Mar-16,1241.0,FNLX
+67,"""Free"" reserves",12  Mar-16,8702.0,FNLX
+68,Net worth,12  Mar-16,9943.0,FNLX
+69,Long term debt,12  Mar-16,0.0,FNLX
+70,Total assets,12  Mar-16,18559.0,FNLX
+71,Interest coverage,12  Mar-16,8.7,FNLX
+72,Debt to equity ratio,12  Mar-16,0.0,FNLX
+73,Sales to assets ratio,12  Mar-16,1.3,FNLX
+74,Return on assets,12  Mar-16,14.9,FNLX
+75,Return on equity,12  Mar-16,23.4,FNLX
+76,Return on capital,12  Mar-16,38.9,FNLX
+77,Exports to sales,12  Mar-16,0.0,FNLX
+78,Imports to sales,12  Mar-16,47.5,FNLX
+79,Exports (fob),12  Mar-16,2.0,FNLX
+80,Imports (cif),12  Mar-16,11662.0,FNLX
+81,Fx inflow,12  Mar-16,2.0,FNLX
+82,Fx outflow,12  Mar-16,11714.0,FNLX
+83,Net fx,12  Mar-16,-11713.0,FNLX
+84,From Operations,12  Mar-16,5706.0,FNLX
+85,From Investments,12  Mar-16,-835.0,FNLX
+86,From Financial Activity,12  Mar-16,-4855.0,FNLX
+87,Net Cashflow,12  Mar-16,-19.0,FNLX
+88,Net Sales,12  Mar-17,26024.0,FNLX
+89,Other income,12  Mar-17,232.0,FNLX
+90,Total revenues,12  Mar-17,26255.0,FNLX
+91,Gross profit,12  Mar-17,5631.0,FNLX
+92,Depreciation,12  Mar-17,551.0,FNLX
+93,Interest,12  Mar-17,154.0,FNLX
+94,Profit before tax,12  Mar-17,5158.0,FNLX
+95,Minority Interest,12  Mar-17,93.0,FNLX
+96,Prior Period Items,12  Mar-17,0.0,FNLX
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,FNLX
+98,Tax,12  Mar-17,1703.0,FNLX
+99,Profit after tax,12  Mar-17,3549.0,FNLX
+100,Gross profit margin,12  Mar-17,21.6,FNLX
+101,Effective tax rate,12  Mar-17,33.0,FNLX
+102,Net profit margin,12  Mar-17,13.6,FNLX
+103,Current assets,12  Mar-17,7293.0,FNLX
+104,Current liabilities,12  Mar-17,4595.0,FNLX
+105,Net working cap to sales,12  Mar-17,10.4,FNLX
+106,Current ratio,12  Mar-17,1.6,FNLX
+107,Inventory Days,12  Mar-17,78.0,FNLX
+108,Debtors Days,12  Mar-17,7.0,FNLX
+109,Net fixed assets,12  Mar-17,8769.0,FNLX
+110,Share capital,12  Mar-17,1241.0,FNLX
+111,"""Free"" reserves",12  Mar-17,21907.0,FNLX
+112,Net worth,12  Mar-17,23148.0,FNLX
+113,Long term debt,12  Mar-17,0.0,FNLX
+114,Total assets,12  Mar-17,29967.0,FNLX
+115,Interest coverage,12  Mar-17,34.5,FNLX
+116,Debt to equity ratio,12  Mar-17,0.0,FNLX
+117,Sales to assets ratio,12  Mar-17,0.9,FNLX
+118,Return on assets,12  Mar-17,12.4,FNLX
+119,Return on equity,12  Mar-17,15.3,FNLX
+120,Return on capital,12  Mar-17,23.4,FNLX
+121,Exports to sales,12  Mar-17,0.0,FNLX
+122,Imports to sales,12  Mar-17,0.0,FNLX
+123,Exports (fob),12  Mar-17,0.0,FNLX
+124,Imports (cif),12  Mar-17,0.0,FNLX
+125,Fx inflow,12  Mar-17,0.0,FNLX
+126,Fx outflow,12  Mar-17,15801.0,FNLX
+127,Net fx,12  Mar-17,-15801.0,FNLX
+128,From Operations,12  Mar-17,2517.0,FNLX
+129,From Investments,12  Mar-17,346.0,FNLX
+130,From Financial Activity,12  Mar-17,-2824.0,FNLX
+131,Net Cashflow,12  Mar-17,39.0,FNLX
+132,Net Sales,12  Mar-18,27378.0,FNLX
+133,Other income,12  Mar-18,244.0,FNLX
+134,Total revenues,12  Mar-18,27622.0,FNLX
+135,Gross profit,12  Mar-18,4839.0,FNLX
+136,Depreciation,12  Mar-18,606.0,FNLX
+137,Interest,12  Mar-18,98.0,FNLX
+138,Profit before tax,12  Mar-18,4379.0,FNLX
+139,Minority Interest,12  Mar-18,164.0,FNLX
+140,Prior Period Items,12  Mar-18,0.0,FNLX
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,FNLX
+142,Tax,12  Mar-18,1479.0,FNLX
+143,Profit after tax,12  Mar-18,3063.0,FNLX
+144,Gross profit margin,12  Mar-18,17.7,FNLX
+145,Effective tax rate,12  Mar-18,33.8,FNLX
+146,Net profit margin,12  Mar-18,11.2,FNLX
+147,Current assets,12  Mar-18,8189.0,FNLX
+148,Current liabilities,12  Mar-18,4911.0,FNLX
+149,Net working cap to sales,12  Mar-18,12.0,FNLX
+150,Current ratio,12  Mar-18,1.7,FNLX
+151,Inventory Days,12  Mar-18,82.0,FNLX
+152,Debtors Days,12  Mar-18,6.0,FNLX
+153,Net fixed assets,12  Mar-18,10336.0,FNLX
+154,Share capital,12  Mar-18,1241.0,FNLX
+155,"""Free"" reserves",12  Mar-18,26710.0,FNLX
+156,Net worth,12  Mar-18,27951.0,FNLX
+157,Long term debt,12  Mar-18,0.0,FNLX
+158,Total assets,12  Mar-18,35060.0,FNLX
+159,Interest coverage,12  Mar-18,45.6,FNLX
+160,Debt to equity ratio,12  Mar-18,0.0,FNLX
+161,Sales to assets ratio,12  Mar-18,0.8,FNLX
+162,Return on assets,12  Mar-18,9.0,FNLX
+163,Return on equity,12  Mar-18,11.0,FNLX
+164,Return on capital,12  Mar-18,16.6,FNLX
+165,Exports to sales,12  Mar-18,0.0,FNLX
+166,Imports to sales,12  Mar-18,0.0,FNLX
+167,Exports (fob),12  Mar-18,0.0,FNLX
+168,Imports (cif),12  Mar-18,0.0,FNLX
+169,Fx inflow,12  Mar-18,0.0,FNLX
+170,Fx outflow,12  Mar-18,12312.0,FNLX
+171,Net fx,12  Mar-18,-12312.0,FNLX
+172,From Operations,12  Mar-18,3384.0,FNLX
+173,From Investments,12  Mar-18,-1619.0,FNLX
+174,From Financial Activity,12  Mar-18,-1752.0,FNLX
+175,Net Cashflow,12  Mar-18,13.0,FNLX
+176,Net Sales,12  Mar-19,30913.0,FNLX
+177,Other income,12  Mar-19,404.0,FNLX
+178,Total revenues,12  Mar-19,31317.0,FNLX
+179,Gross profit,12  Mar-19,5764.0,FNLX
+180,Depreciation,12  Mar-19,701.0,FNLX
+181,Interest,12  Mar-19,123.0,FNLX
+182,Profit before tax,12  Mar-19,5345.0,FNLX
+183,Minority Interest,12  Mar-19,140.0,FNLX
+184,Prior Period Items,12  Mar-19,0.0,FNLX
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,FNLX
+186,Tax,12  Mar-19,1812.0,FNLX
+187,Profit after tax,12  Mar-19,3673.0,FNLX
+188,Gross profit margin,12  Mar-19,18.6,FNLX
+189,Effective tax rate,12  Mar-19,33.9,FNLX
+190,Net profit margin,12  Mar-19,11.9,FNLX
+191,Current assets,12  Mar-19,10535.0,FNLX
+192,Current liabilities,12  Mar-19,5155.0,FNLX
+193,Net working cap to sales,12  Mar-19,17.4,FNLX
+194,Current ratio,12  Mar-19,2.0,FNLX
+195,Inventory Days,12  Mar-19,73.0,FNLX
+196,Debtors Days,12  Mar-19,9.0,FNLX
+197,Net fixed assets,12  Mar-19,11075.0,FNLX
+198,Share capital,12  Mar-19,1241.0,FNLX
+199,"""Free"" reserves",12  Mar-19,24521.0,FNLX
+200,Net worth,12  Mar-19,25762.0,FNLX
+201,Long term debt,12  Mar-19,0.0,FNLX
+202,Total assets,12  Mar-19,33327.0,FNLX
+203,Interest coverage,12  Mar-19,44.6,FNLX
+204,Debt to equity ratio,12  Mar-19,0.0,FNLX
+205,Sales to assets ratio,12  Mar-19,0.9,FNLX
+206,Return on assets,12  Mar-19,11.4,FNLX
+207,Return on equity,12  Mar-19,14.3,FNLX
+208,Return on capital,12  Mar-19,21.8,FNLX
+209,Exports to sales,12  Mar-19,0.0,FNLX
+210,Imports to sales,12  Mar-19,0.0,FNLX
+211,Exports (fob),12  Mar-19,0.0,FNLX
+212,Imports (cif),12  Mar-19,0.0,FNLX
+213,Fx inflow,12  Mar-19,0.0,FNLX
+214,Fx outflow,12  Mar-19,12301.0,FNLX
+215,Net fx,12  Mar-19,-12301.0,FNLX
+216,From Operations,12  Mar-19,4074.0,FNLX
+217,From Investments,12  Mar-19,-2356.0,FNLX
+218,From Financial Activity,12  Mar-19,-1710.0,FNLX
+219,Net Cashflow,12  Mar-19,8.0,FNLX

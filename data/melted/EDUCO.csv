@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-12*,14913.0,EDUCO
+1,Other income,12  Mar-12*,312.0,EDUCO
+2,Total revenues,12  Mar-12*,15224.0,EDUCO
+3,Gross profit,12  Mar-12*,4132.0,EDUCO
+4,Depreciation,12  Mar-12*,1070.0,EDUCO
+5,Interest,12  Mar-12*,1433.0,EDUCO
+6,Profit before tax,12  Mar-12*,1942.0,EDUCO
+7,Minority Interest,12  Mar-12*,-16.0,EDUCO
+8,Prior Period Items,12  Mar-12*,20.0,EDUCO
+9,Extraordinary Inc (Exp),12  Mar-12*,-16.0,EDUCO
+10,Tax,12  Mar-12*,575.0,EDUCO
+11,Profit after tax,12  Mar-12*,1355.0,EDUCO
+12,Gross profit margin,12  Mar-12*,27.7,EDUCO
+13,Effective tax rate,12  Mar-12*,29.6,EDUCO
+14,Net profit margin,12  Mar-12*,9.1,EDUCO
+15,Current assets,12  Mar-12*,14910.0,EDUCO
+16,Current liabilities,12  Mar-12*,14813.0,EDUCO
+17,Net working cap to sales,12  Mar-12*,0.7,EDUCO
+18,Current ratio,12  Mar-12*,1.0,EDUCO
+19,Inventory Days,12  Mar-12*,22.0,EDUCO
+20,Debtors Days,12  Mar-12*,252.0,EDUCO
+21,Net fixed assets,12  Mar-12*,16958.0,EDUCO
+22,Share capital,12  Mar-12*,192.0,EDUCO
+23,"""Free"" reserves",12  Mar-12*,23881.0,EDUCO
+24,Net worth,12  Mar-12*,24914.0,EDUCO
+25,Long term debt,12  Mar-12*,9582.0,EDUCO
+26,Total assets,12  Mar-12*,52690.0,EDUCO
+27,Interest coverage,12  Mar-12*,2.4,EDUCO
+28,Debt to equity ratio,12  Mar-12*,0.4,EDUCO
+29,Sales to assets ratio,12  Mar-12*,0.3,EDUCO
+30,Return on assets,12  Mar-12*,5.3,EDUCO
+31,Return on equity,12  Mar-12*,5.4,EDUCO
+32,Return on capital,12  Mar-12*,9.7,EDUCO
+33,Exports to sales,12  Mar-12*,0.0,EDUCO
+34,Imports to sales,12  Mar-12*,13.8,EDUCO
+35,Exports (fob),12  Mar-12*,0.0,EDUCO
+36,Imports (cif),12  Mar-12*,2064.0,EDUCO
+37,Fx inflow,12  Mar-12*,17.0,EDUCO
+38,Fx outflow,12  Mar-12*,2128.0,EDUCO
+39,Net fx,12  Mar-12*,-2111.0,EDUCO
+40,From Operations,12  Mar-12*,1451.0,EDUCO
+41,From Investments,12  Mar-12*,-4928.0,EDUCO
+42,From Financial Activity,12  Mar-12*,2133.0,EDUCO
+43,Net Cashflow,12  Mar-12*,-1344.0,EDUCO
+44,Net Sales,12  Mar-13*,12109.0,EDUCO
+45,Other income,12  Mar-13*,1155.0,EDUCO
+46,Total revenues,12  Mar-13*,13264.0,EDUCO
+47,Gross profit,12  Mar-13*,1517.0,EDUCO
+48,Depreciation,12  Mar-13*,1218.0,EDUCO
+49,Interest,12  Mar-13*,2490.0,EDUCO
+50,Profit before tax,12  Mar-13*,-1036.0,EDUCO
+51,Minority Interest,12  Mar-13*,104.0,EDUCO
+52,Prior Period Items,12  Mar-13*,-500.0,EDUCO
+53,Extraordinary Inc (Exp),12  Mar-13*,0.0,EDUCO
+54,Tax,12  Mar-13*,-104.0,EDUCO
+55,Profit after tax,12  Mar-13*,-1328.0,EDUCO
+56,Gross profit margin,12  Mar-13*,12.5,EDUCO
+57,Effective tax rate,12  Mar-13*,10.1,EDUCO
+58,Net profit margin,12  Mar-13*,-11.0,EDUCO
+59,Current assets,12  Mar-13*,18681.0,EDUCO
+60,Current liabilities,12  Mar-13*,11806.0,EDUCO
+61,Net working cap to sales,12  Mar-13*,56.8,EDUCO
+62,Current ratio,12  Mar-13*,1.6,EDUCO
+63,Inventory Days,12  Mar-13*,18.0,EDUCO
+64,Debtors Days,12  Mar-13*,463.0,EDUCO
+65,Net fixed assets,12  Mar-13*,16932.0,EDUCO
+66,Share capital,12  Mar-13*,245.0,EDUCO
+67,"""Free"" reserves",12  Mar-13*,25573.0,EDUCO
+68,Net worth,12  Mar-13*,26847.0,EDUCO
+69,Long term debt,12  Mar-13*,14435.0,EDUCO
+70,Total assets,12  Mar-13*,55918.0,EDUCO
+71,Interest coverage,12  Mar-13*,0.6,EDUCO
+72,Debt to equity ratio,12  Mar-13*,0.5,EDUCO
+73,Sales to assets ratio,12  Mar-13*,0.2,EDUCO
+74,Return on assets,12  Mar-13*,2.1,EDUCO
+75,Return on equity,12  Mar-13*,-4.9,EDUCO
+76,Return on capital,12  Mar-13*,2.6,EDUCO
+77,Exports to sales,12  Mar-13*,0.0,EDUCO
+78,Imports to sales,12  Mar-13*,5.1,EDUCO
+79,Exports (fob),12  Mar-13*,0.0,EDUCO
+80,Imports (cif),12  Mar-13*,612.0,EDUCO
+81,Fx inflow,12  Mar-13*,150.0,EDUCO
+82,Fx outflow,12  Mar-13*,815.0,EDUCO
+83,Net fx,12  Mar-13*,-666.0,EDUCO
+84,From Operations,12  Mar-13*,-2227.0,EDUCO
+85,From Investments,12  Mar-13*,110.0,EDUCO
+86,From Financial Activity,12  Mar-13*,1123.0,EDUCO
+87,Net Cashflow,12  Mar-13*,-994.0,EDUCO
+88,Net Sales,12  Mar-14*,6348.0,EDUCO
+89,Other income,12  Mar-14*,899.0,EDUCO
+90,Total revenues,12  Mar-14*,7247.0,EDUCO
+91,Gross profit,12  Mar-14*,-304.0,EDUCO
+92,Depreciation,12  Mar-14*,1084.0,EDUCO
+93,Interest,12  Mar-14*,2525.0,EDUCO
+94,Profit before tax,12  Mar-14*,-3013.0,EDUCO
+95,Minority Interest,12  Mar-14*,254.0,EDUCO
+96,Prior Period Items,12  Mar-14*,-1607.0,EDUCO
+97,Extraordinary Inc (Exp),12  Mar-14*,0.0,EDUCO
+98,Tax,12  Mar-14*,-758.0,EDUCO
+99,Profit after tax,12  Mar-14*,-3608.0,EDUCO
+100,Gross profit margin,12  Mar-14*,-4.8,EDUCO
+101,Effective tax rate,12  Mar-14*,25.2,EDUCO
+102,Net profit margin,12  Mar-14*,-56.8,EDUCO
+103,Current assets,12  Mar-14*,25390.0,EDUCO
+104,Current liabilities,12  Mar-14*,6888.0,EDUCO
+105,Net working cap to sales,12  Mar-14*,291.5,EDUCO
+106,Current ratio,12  Mar-14*,3.7,EDUCO
+107,Inventory Days,12  Mar-14*,38.0,EDUCO
+108,Debtors Days,12  Mar-14*,1259.0,EDUCO
+109,Net fixed assets,12  Mar-14*,16278.0,EDUCO
+110,Share capital,12  Mar-14*,245.0,EDUCO
+111,"""Free"" reserves",12  Mar-14*,21040.0,EDUCO
+112,Net worth,12  Mar-14*,22252.0,EDUCO
+113,Long term debt,12  Mar-14*,29494.0,EDUCO
+114,Total assets,12  Mar-14*,61381.0,EDUCO
+115,Interest coverage,12  Mar-14*,-0.2,EDUCO
+116,Debt to equity ratio,12  Mar-14*,1.3,EDUCO
+117,Sales to assets ratio,12  Mar-14*,0.1,EDUCO
+118,Return on assets,12  Mar-14*,-1.8,EDUCO
+119,Return on equity,12  Mar-14*,-16.2,EDUCO
+120,Return on capital,12  Mar-14*,-3.6,EDUCO
+121,Exports to sales,12  Mar-14*,0.0,EDUCO
+122,Imports to sales,12  Mar-14*,3.8,EDUCO
+123,Exports (fob),12  Mar-14*,0.0,EDUCO
+124,Imports (cif),12  Mar-14*,239.0,EDUCO
+125,Fx inflow,12  Mar-14*,7.0,EDUCO
+126,Fx outflow,12  Mar-14*,470.0,EDUCO
+127,Net fx,12  Mar-14*,-464.0,EDUCO
+128,From Operations,12  Mar-14*,-8952.0,EDUCO
+129,From Investments,12  Mar-14*,461.0,EDUCO
+130,From Financial Activity,12  Mar-14*,8533.0,EDUCO
+131,Net Cashflow,12  Mar-14*,42.0,EDUCO
+132,Net Sales,12  Mar-15*,5182.0,EDUCO
+133,Other income,12  Mar-15*,760.0,EDUCO
+134,Total revenues,12  Mar-15*,5942.0,EDUCO
+135,Gross profit,12  Mar-15*,-559.0,EDUCO
+136,Depreciation,12  Mar-15*,949.0,EDUCO
+137,Interest,12  Mar-15*,3670.0,EDUCO
+138,Profit before tax,12  Mar-15*,-4419.0,EDUCO
+139,Minority Interest,12  Mar-15*,575.0,EDUCO
+140,Prior Period Items,12  Mar-15*,-10.0,EDUCO
+141,Extraordinary Inc (Exp),12  Mar-15*,-12579.0,EDUCO
+142,Tax,12  Mar-15*,-11.0,EDUCO
+143,Profit after tax,12  Mar-15*,-16422.0,EDUCO
+144,Gross profit margin,12  Mar-15*,-10.8,EDUCO
+145,Effective tax rate,12  Mar-15*,0.3,EDUCO
+146,Net profit margin,12  Mar-15*,-316.9,EDUCO
+147,Current assets,12  Mar-15*,20427.0,EDUCO
+148,Current liabilities,12  Mar-15*,12134.0,EDUCO
+149,Net working cap to sales,12  Mar-15*,160.0,EDUCO
+150,Current ratio,12  Mar-15*,1.7,EDUCO
+151,Inventory Days,12  Mar-15*,25.0,EDUCO
+152,Debtors Days,12  Mar-15*,1157.0,EDUCO
+153,Net fixed assets,12  Mar-15*,14394.0,EDUCO
+154,Share capital,12  Mar-15*,245.0,EDUCO
+155,"""Free"" reserves",12  Mar-15*,4946.0,EDUCO
+156,Net worth,12  Mar-15*,5777.0,EDUCO
+157,Long term debt,12  Mar-15*,30413.0,EDUCO
+158,Total assets,12  Mar-15*,51270.0,EDUCO
+159,Interest coverage,12  Mar-15*,-0.2,EDUCO
+160,Debt to equity ratio,12  Mar-15*,5.3,EDUCO
+161,Sales to assets ratio,12  Mar-15*,0.1,EDUCO
+162,Return on assets,12  Mar-15*,-24.9,EDUCO
+163,Return on equity,12  Mar-15*,-284.2,EDUCO
+164,Return on capital,12  Mar-15*,-35.3,EDUCO
+165,Exports to sales,12  Mar-15*,0.0,EDUCO
+166,Imports to sales,12  Mar-15*,0.2,EDUCO
+167,Exports (fob),12  Mar-15*,0.0,EDUCO
+168,Imports (cif),12  Mar-15*,13.0,EDUCO
+169,Fx inflow,12  Mar-15*,4.0,EDUCO
+170,Fx outflow,12  Mar-15*,281.0,EDUCO
+171,Net fx,12  Mar-15*,-277.0,EDUCO
+172,From Operations,12  Mar-15*,-1986.0,EDUCO
+173,From Investments,12  Mar-15*,-235.0,EDUCO
+174,From Financial Activity,12  Mar-15*,2754.0,EDUCO
+175,Net Cashflow,12  Mar-15*,545.0,EDUCO
+176,Net Sales,12  Mar-16*,4995.0,EDUCO
+177,Other income,12  Mar-16*,879.0,EDUCO
+178,Total revenues,12  Mar-16*,5874.0,EDUCO
+179,Gross profit,12  Mar-16*,-404.0,EDUCO
+180,Depreciation,12  Mar-16*,778.0,EDUCO
+181,Interest,12  Mar-16*,3733.0,EDUCO
+182,Profit before tax,12  Mar-16*,-4037.0,EDUCO
+183,Minority Interest,12  Mar-16*,228.0,EDUCO
+184,Prior Period Items,12  Mar-16*,-16.0,EDUCO
+185,Extraordinary Inc (Exp),12  Mar-16*,-787.0,EDUCO
+186,Tax,12  Mar-16*,-140.0,EDUCO
+187,Profit after tax,12  Mar-16*,-4473.0,EDUCO
+188,Gross profit margin,12  Mar-16*,-8.1,EDUCO
+189,Effective tax rate,12  Mar-16*,3.5,EDUCO
+190,Net profit margin,12  Mar-16*,-89.5,EDUCO
+191,Current assets,12  Mar-16*,18045.0,EDUCO
+192,Current liabilities,12  Mar-16*,14316.0,EDUCO
+193,Net working cap to sales,12  Mar-16*,74.6,EDUCO
+194,Current ratio,12  Mar-16*,1.3,EDUCO
+195,Inventory Days,12  Mar-16*,15.0,EDUCO
+196,Debtors Days,12  Mar-16*,1076.0,EDUCO
+197,Net fixed assets,12  Mar-16*,13305.0,EDUCO
+198,Share capital,12  Mar-16*,245.0,EDUCO
+199,"""Free"" reserves",12  Mar-16*,2265.0,EDUCO
+200,Net worth,12  Mar-16*,2761.0,EDUCO
+201,Long term debt,12  Mar-16*,27181.0,EDUCO
+202,Total assets,12  Mar-16*,46789.0,EDUCO
+203,Interest coverage,12  Mar-16*,-0.1,EDUCO
+204,Debt to equity ratio,12  Mar-16*,9.8,EDUCO
+205,Sales to assets ratio,12  Mar-16*,0.1,EDUCO
+206,Return on assets,12  Mar-16*,-1.6,EDUCO
+207,Return on equity,12  Mar-16*,-162.0,EDUCO
+208,Return on capital,12  Mar-16*,-2.9,EDUCO
+209,Exports to sales,12  Mar-16*,0.0,EDUCO
+210,Imports to sales,12  Mar-16*,0.1,EDUCO
+211,Exports (fob),12  Mar-16*,0.0,EDUCO
+212,Imports (cif),12  Mar-16*,3.0,EDUCO
+213,Fx inflow,12  Mar-16*,0.0,EDUCO
+214,Fx outflow,12  Mar-16*,401.0,EDUCO
+215,Net fx,12  Mar-16*,-401.0,EDUCO
+216,From Operations,12  Mar-16*,2055.0,EDUCO
+217,From Investments,12  Mar-16*,991.0,EDUCO
+218,From Financial Activity,12  Mar-16*,-3610.0,EDUCO
+219,Net Cashflow,12  Mar-16*,-536.0,EDUCO

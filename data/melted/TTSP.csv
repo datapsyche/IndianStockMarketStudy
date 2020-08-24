@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,7897.0,TTSP
+1,Other income,12  Mar-15*,556.0,TTSP
+2,Total revenues,12  Mar-15*,8453.0,TTSP
+3,Gross profit,12  Mar-15*,992.0,TTSP
+4,Depreciation,12  Mar-15*,129.0,TTSP
+5,Interest,12  Mar-15*,53.0,TTSP
+6,Profit before tax,12  Mar-15*,1365.0,TTSP
+7,Minority Interest,12  Mar-15*,0.0,TTSP
+8,Prior Period Items,12  Mar-15*,0.0,TTSP
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TTSP
+10,Tax,12  Mar-15*,446.0,TTSP
+11,Profit after tax,12  Mar-15*,919.0,TTSP
+12,Gross profit margin,12  Mar-15*,12.6,TTSP
+13,Effective tax rate,12  Mar-15*,32.7,TTSP
+14,Net profit margin,12  Mar-15*,11.6,TTSP
+15,Current assets,12  Mar-15*,6088.0,TTSP
+16,Current liabilities,12  Mar-15*,1494.0,TTSP
+17,Net working cap to sales,12  Mar-15*,58.2,TTSP
+18,Current ratio,12  Mar-15*,4.1,TTSP
+19,Inventory Days,12  Mar-15*,50.0,TTSP
+20,Debtors Days,12  Mar-15*,4.0,TTSP
+21,Net fixed assets,12  Mar-15*,1674.0,TTSP
+22,Share capital,12  Mar-15*,154.0,TTSP
+23,"""Free"" reserves",12  Mar-15*,7798.0,TTSP
+24,Net worth,12  Mar-15*,7952.0,TTSP
+25,Long term debt,12  Mar-15*,0.0,TTSP
+26,Total assets,12  Mar-15*,9729.0,TTSP
+27,Interest coverage,12  Mar-15*,26.7,TTSP
+28,Debt to equity ratio,12  Mar-15*,0.0,TTSP
+29,Sales to assets ratio,12  Mar-15*,0.8,TTSP
+30,Return on assets,12  Mar-15*,10.0,TTSP
+31,Return on equity,12  Mar-15*,11.6,TTSP
+32,Return on capital,12  Mar-15*,17.8,TTSP
+33,Exports to sales,12  Mar-15*,0.0,TTSP
+34,Imports to sales,12  Mar-15*,28.3,TTSP
+35,Exports (fob),12  Mar-15*,0.0,TTSP
+36,Imports (cif),12  Mar-15*,2233.0,TTSP
+37,Fx inflow,12  Mar-15*,0.0,TTSP
+38,Fx outflow,12  Mar-15*,2275.0,TTSP
+39,Net fx,12  Mar-15*,-2275.0,TTSP
+40,From Operations,12  Mar-15*,-189.0,TTSP
+41,From Investments,12  Mar-15*,532.0,TTSP
+42,From Financial Activity,12  Mar-15*,-152.0,TTSP
+43,Net Cashflow,12  Mar-15*,191.0,TTSP
+44,Net Sales,12  Mar-16*,5735.0,TTSP
+45,Other income,12  Mar-16*,377.0,TTSP
+46,Total revenues,12  Mar-16*,6113.0,TTSP
+47,Gross profit,12  Mar-16*,240.0,TTSP
+48,Depreciation,12  Mar-16*,129.0,TTSP
+49,Interest,12  Mar-16*,54.0,TTSP
+50,Profit before tax,12  Mar-16*,434.0,TTSP
+51,Minority Interest,12  Mar-16*,0.0,TTSP
+52,Prior Period Items,12  Mar-16*,0.0,TTSP
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TTSP
+54,Tax,12  Mar-16*,115.0,TTSP
+55,Profit after tax,12  Mar-16*,319.0,TTSP
+56,Gross profit margin,12  Mar-16*,4.2,TTSP
+57,Effective tax rate,12  Mar-16*,26.4,TTSP
+58,Net profit margin,12  Mar-16*,5.6,TTSP
+59,Current assets,12  Mar-16*,6099.0,TTSP
+60,Current liabilities,12  Mar-16*,1328.0,TTSP
+61,Net working cap to sales,12  Mar-16*,83.2,TTSP
+62,Current ratio,12  Mar-16*,4.6,TTSP
+63,Inventory Days,12  Mar-16*,21.0,TTSP
+64,Debtors Days,12  Mar-16*,19.0,TTSP
+65,Net fixed assets,12  Mar-16*,1730.0,TTSP
+66,Share capital,12  Mar-16*,154.0,TTSP
+67,"""Free"" reserves",12  Mar-16*,8106.0,TTSP
+68,Net worth,12  Mar-16*,8261.0,TTSP
+69,Long term debt,12  Mar-16*,0.0,TTSP
+70,Total assets,12  Mar-16*,9874.0,TTSP
+71,Interest coverage,12  Mar-16*,9.1,TTSP
+72,Debt to equity ratio,12  Mar-16*,0.0,TTSP
+73,Sales to assets ratio,12  Mar-16*,0.6,TTSP
+74,Return on assets,12  Mar-16*,3.8,TTSP
+75,Return on equity,12  Mar-16*,3.9,TTSP
+76,Return on capital,12  Mar-16*,5.9,TTSP
+77,Exports to sales,12  Mar-16*,0.0,TTSP
+78,Imports to sales,12  Mar-16*,20.7,TTSP
+79,Exports (fob),12  Mar-16*,0.0,TTSP
+80,Imports (cif),12  Mar-16*,1185.0,TTSP
+81,Fx inflow,12  Mar-16*,0.0,TTSP
+82,Fx outflow,12  Mar-16*,1186.0,TTSP
+83,Net fx,12  Mar-16*,-1186.0,TTSP
+84,From Operations,12  Mar-16*,771.0,TTSP
+85,From Investments,12  Mar-16*,-584.0,TTSP
+86,From Financial Activity,12  Mar-16*,-183.0,TTSP
+87,Net Cashflow,12  Mar-16*,3.0,TTSP
+88,Net Sales,12  Mar-17*,5573.0,TTSP
+89,Other income,12  Mar-17*,371.0,TTSP
+90,Total revenues,12  Mar-17*,5944.0,TTSP
+91,Gross profit,12  Mar-17*,616.0,TTSP
+92,Depreciation,12  Mar-17*,128.0,TTSP
+93,Interest,12  Mar-17*,24.0,TTSP
+94,Profit before tax,12  Mar-17*,835.0,TTSP
+95,Minority Interest,12  Mar-17*,0.0,TTSP
+96,Prior Period Items,12  Mar-17*,0.0,TTSP
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TTSP
+98,Tax,12  Mar-17*,247.0,TTSP
+99,Profit after tax,12  Mar-17*,588.0,TTSP
+100,Gross profit margin,12  Mar-17*,11.1,TTSP
+101,Effective tax rate,12  Mar-17*,29.6,TTSP
+102,Net profit margin,12  Mar-17*,10.5,TTSP
+103,Current assets,12  Mar-17*,6715.0,TTSP
+104,Current liabilities,12  Mar-17*,1491.0,TTSP
+105,Net working cap to sales,12  Mar-17*,93.7,TTSP
+106,Current ratio,12  Mar-17*,4.5,TTSP
+107,Inventory Days,12  Mar-17*,32.0,TTSP
+108,Debtors Days,12  Mar-17*,23.0,TTSP
+109,Net fixed assets,12  Mar-17*,1603.0,TTSP
+110,Share capital,12  Mar-17*,154.0,TTSP
+111,"""Free"" reserves",12  Mar-17*,8495.0,TTSP
+112,Net worth,12  Mar-17*,8649.0,TTSP
+113,Long term debt,12  Mar-17*,0.0,TTSP
+114,Total assets,12  Mar-17*,10458.0,TTSP
+115,Interest coverage,12  Mar-17*,35.2,TTSP
+116,Debt to equity ratio,12  Mar-17*,0.0,TTSP
+117,Sales to assets ratio,12  Mar-17*,0.5,TTSP
+118,Return on assets,12  Mar-17*,5.9,TTSP
+119,Return on equity,12  Mar-17*,6.8,TTSP
+120,Return on capital,12  Mar-17*,9.9,TTSP
+121,Exports to sales,12  Mar-17*,0.0,TTSP
+122,Imports to sales,12  Mar-17*,26.2,TTSP
+123,Exports (fob),12  Mar-17*,0.0,TTSP
+124,Imports (cif),12  Mar-17*,1461.0,TTSP
+125,Fx inflow,12  Mar-17*,20.0,TTSP
+126,Fx outflow,12  Mar-17*,1483.0,TTSP
+127,Net fx,12  Mar-17*,-1463.0,TTSP
+128,From Operations,12  Mar-17*,217.0,TTSP
+129,From Investments,12  Mar-17*,514.0,TTSP
+130,From Financial Activity,12  Mar-17*,-185.0,TTSP
+131,Net Cashflow,12  Mar-17*,546.0,TTSP
+132,Net Sales,12  Mar-18*,8002.0,TTSP
+133,Other income,12  Mar-18*,431.0,TTSP
+134,Total revenues,12  Mar-18*,8432.0,TTSP
+135,Gross profit,12  Mar-18*,1827.0,TTSP
+136,Depreciation,12  Mar-18*,123.0,TTSP
+137,Interest,12  Mar-18*,33.0,TTSP
+138,Profit before tax,12  Mar-18*,2102.0,TTSP
+139,Minority Interest,12  Mar-18*,0.0,TTSP
+140,Prior Period Items,12  Mar-18*,0.0,TTSP
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TTSP
+142,Tax,12  Mar-18*,693.0,TTSP
+143,Profit after tax,12  Mar-18*,1409.0,TTSP
+144,Gross profit margin,12  Mar-18*,22.8,TTSP
+145,Effective tax rate,12  Mar-18*,33.0,TTSP
+146,Net profit margin,12  Mar-18*,17.6,TTSP
+147,Current assets,12  Mar-18*,7206.0,TTSP
+148,Current liabilities,12  Mar-18*,1982.0,TTSP
+149,Net working cap to sales,12  Mar-18*,65.3,TTSP
+150,Current ratio,12  Mar-18*,3.6,TTSP
+151,Inventory Days,12  Mar-18*,38.0,TTSP
+152,Debtors Days,12  Mar-18*,27.0,TTSP
+153,Net fixed assets,12  Mar-18*,1548.0,TTSP
+154,Share capital,12  Mar-18*,154.0,TTSP
+155,"""Free"" reserves",12  Mar-18*,9712.0,TTSP
+156,Net worth,12  Mar-18*,9866.0,TTSP
+157,Long term debt,12  Mar-18*,0.0,TTSP
+158,Total assets,12  Mar-18*,12144.0,TTSP
+159,Interest coverage,12  Mar-18*,65.7,TTSP
+160,Debt to equity ratio,12  Mar-18*,0.0,TTSP
+161,Sales to assets ratio,12  Mar-18*,0.7,TTSP
+162,Return on assets,12  Mar-18*,11.9,TTSP
+163,Return on equity,12  Mar-18*,14.3,TTSP
+164,Return on capital,12  Mar-18*,21.6,TTSP
+165,Exports to sales,12  Mar-18*,0.0,TTSP
+166,Imports to sales,12  Mar-18*,0.0,TTSP
+167,Exports (fob),12  Mar-18*,0.0,TTSP
+168,Imports (cif),12  Mar-18*,0.0,TTSP
+169,Fx inflow,12  Mar-18*,0.0,TTSP
+170,Fx outflow,12  Mar-18*,2054.0,TTSP
+171,Net fx,12  Mar-18*,-2054.0,TTSP
+172,From Operations,12  Mar-18*,411.0,TTSP
+173,From Investments,12  Mar-18*,-2131.0,TTSP
+174,From Financial Activity,12  Mar-18*,-202.0,TTSP
+175,Net Cashflow,12  Mar-18*,-1922.0,TTSP
+176,Net Sales,12  Mar-19*,9921.0,TTSP
+177,Other income,12  Mar-19*,577.0,TTSP
+178,Total revenues,12  Mar-19*,10498.0,TTSP
+179,Gross profit,12  Mar-19*,1447.0,TTSP
+180,Depreciation,12  Mar-19*,116.0,TTSP
+181,Interest,12  Mar-19*,30.0,TTSP
+182,Profit before tax,12  Mar-19*,1878.0,TTSP
+183,Minority Interest,12  Mar-19*,0.0,TTSP
+184,Prior Period Items,12  Mar-19*,0.0,TTSP
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TTSP
+186,Tax,12  Mar-19*,634.0,TTSP
+187,Profit after tax,12  Mar-19*,1244.0,TTSP
+188,Gross profit margin,12  Mar-19*,14.6,TTSP
+189,Effective tax rate,12  Mar-19*,33.8,TTSP
+190,Net profit margin,12  Mar-19*,12.5,TTSP
+191,Current assets,12  Mar-19*,6962.0,TTSP
+192,Current liabilities,12  Mar-19*,2107.0,TTSP
+193,Net working cap to sales,12  Mar-19*,48.9,TTSP
+194,Current ratio,12  Mar-19*,3.3,TTSP
+195,Inventory Days,12  Mar-19*,42.0,TTSP
+196,Debtors Days,12  Mar-19*,29.0,TTSP
+197,Net fixed assets,12  Mar-19*,2277.0,TTSP
+198,Share capital,12  Mar-19*,154.0,TTSP
+199,"""Free"" reserves",12  Mar-19*,10682.0,TTSP
+200,Net worth,12  Mar-19*,10836.0,TTSP
+201,Long term debt,12  Mar-19*,0.0,TTSP
+202,Total assets,12  Mar-19*,13245.0,TTSP
+203,Interest coverage,12  Mar-19*,63.2,TTSP
+204,Debt to equity ratio,12  Mar-19*,0.0,TTSP
+205,Sales to assets ratio,12  Mar-19*,0.7,TTSP
+206,Return on assets,12  Mar-19*,9.6,TTSP
+207,Return on equity,12  Mar-19*,11.5,TTSP
+208,Return on capital,12  Mar-19*,17.6,TTSP
+209,Exports to sales,12  Mar-19*,0.0,TTSP
+210,Imports to sales,12  Mar-19*,0.0,TTSP
+211,Exports (fob),12  Mar-19*,0.0,TTSP
+212,Imports (cif),12  Mar-19*,0.0,TTSP
+213,Fx inflow,12  Mar-19*,0.0,TTSP
+214,Fx outflow,12  Mar-19*,3215.0,TTSP
+215,Net fx,12  Mar-19*,-3215.0,TTSP
+216,From Operations,12  Mar-19*,1003.0,TTSP
+217,From Investments,12  Mar-19*,-124.0,TTSP
+218,From Financial Activity,12  Mar-19*,-371.0,TTSP
+219,Net Cashflow,12  Mar-19*,507.0,TTSP

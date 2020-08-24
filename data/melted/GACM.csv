@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,99997.0,GACM
+1,Other income,12  Dec-14*,4243.0,GACM
+2,Total revenues,12  Dec-14*,104240.0,GACM
+3,Gross profit,12  Dec-14*,19283.0,GACM
+4,Depreciation,12  Dec-14*,5130.0,GACM
+5,Interest,12  Dec-14*,656.0,GACM
+6,Profit before tax,12  Dec-14*,17740.0,GACM
+7,Minority Interest,12  Dec-14*,0.0,GACM
+8,Prior Period Items,12  Dec-14*,0.0,GACM
+9,Extraordinary Inc (Exp),12  Dec-14*,0.0,GACM
+10,Tax,12  Dec-14*,2875.0,GACM
+11,Profit after tax,12  Dec-14*,14865.0,GACM
+12,Gross profit margin,12  Dec-14*,19.3,GACM
+13,Effective tax rate,12  Dec-14*,16.2,GACM
+14,Net profit margin,12  Dec-14*,14.9,GACM
+15,Current assets,12  Dec-14*,60027.0,GACM
+16,Current liabilities,12  Dec-14*,31547.0,GACM
+17,Net working cap to sales,12  Dec-14*,28.5,GACM
+18,Current ratio,12  Dec-14*,1.9,GACM
+19,Inventory Days,12  Dec-14*,32.0,GACM
+20,Debtors Days,12  Dec-14*,8.0,GACM
+21,Net fixed assets,12  Dec-14*,70018.0,GACM
+22,Share capital,12  Dec-14*,3100.0,GACM
+23,"""Free"" reserves",12  Dec-14*,96130.0,GACM
+24,Net worth,12  Dec-14*,100700.0,GACM
+25,Long term debt,12  Dec-14*,216.0,GACM
+26,Total assets,12  Dec-14*,138785.0,GACM
+27,Interest coverage,12  Dec-14*,28.1,GACM
+28,Debt to equity ratio,12  Dec-14*,0.0,GACM
+29,Sales to assets ratio,12  Dec-14*,0.7,GACM
+30,Return on assets,12  Dec-14*,11.2,GACM
+31,Return on equity,12  Dec-14*,14.8,GACM
+32,Return on capital,12  Dec-14*,18.2,GACM
+33,Exports to sales,12  Dec-14*,0.4,GACM
+34,Imports to sales,12  Dec-14*,5.4,GACM
+35,Exports (fob),12  Dec-14*,441.0,GACM
+36,Imports (cif),12  Dec-14*,5411.0,GACM
+37,Fx inflow,12  Dec-14*,503.0,GACM
+38,Fx outflow,12  Dec-14*,9074.0,GACM
+39,Net fx,12  Dec-14*,-8571.0,GACM
+40,From Operations,12  Dec-14*,16755.0,GACM
+41,From Investments,12  Dec-14*,-4560.0,GACM
+42,From Financial Activity,12  Dec-14*,-7212.0,GACM
+43,Net Cashflow,12  Dec-14*,4983.0,GACM
+44,Net Sales,12  Dec-15*,93880.0,GACM
+45,Other income,12  Dec-15*,3532.0,GACM
+46,Total revenues,12  Dec-15*,97412.0,GACM
+47,Gross profit,12  Dec-15*,15423.0,GACM
+48,Depreciation,12  Dec-15*,6298.0,GACM
+49,Interest,12  Dec-15*,925.0,GACM
+50,Profit before tax,12  Dec-15*,11733.0,GACM
+51,Minority Interest,12  Dec-15*,0.0,GACM
+52,Prior Period Items,12  Dec-15*,0.0,GACM
+53,Extraordinary Inc (Exp),12  Dec-15*,0.0,GACM
+54,Tax,12  Dec-15*,3654.0,GACM
+55,Profit after tax,12  Dec-15*,8079.0,GACM
+56,Gross profit margin,12  Dec-15*,16.4,GACM
+57,Effective tax rate,12  Dec-15*,31.1,GACM
+58,Net profit margin,12  Dec-15*,8.6,GACM
+59,Current assets,12  Dec-15*,99687.0,GACM
+60,Current liabilities,12  Dec-15*,101169.0,GACM
+61,Net working cap to sales,12  Dec-15*,-1.6,GACM
+62,Current ratio,12  Dec-15*,1.0,GACM
+63,Inventory Days,12  Dec-15*,81.0,GACM
+64,Debtors Days,12  Dec-15*,28.0,GACM
+65,Net fixed assets,12  Dec-15*,65866.0,GACM
+66,Share capital,12  Dec-15*,3104.0,GACM
+67,"""Free"" reserves",12  Dec-15*,98142.0,GACM
+68,Net worth,12  Dec-15*,101246.0,GACM
+69,Long term debt,12  Dec-15*,200.0,GACM
+70,Total assets,12  Dec-15*,350902.0,GACM
+71,Interest coverage,12  Dec-15*,13.7,GACM
+72,Debt to equity ratio,12  Dec-15*,0.0,GACM
+73,Sales to assets ratio,12  Dec-15*,0.3,GACM
+74,Return on assets,12  Dec-15*,2.6,GACM
+75,Return on equity,12  Dec-15*,8.0,GACM
+76,Return on capital,12  Dec-15*,12.5,GACM
+77,Exports to sales,12  Dec-15*,0.1,GACM
+78,Imports to sales,12  Dec-15*,4.7,GACM
+79,Exports (fob),12  Dec-15*,48.0,GACM
+80,Imports (cif),12  Dec-15*,4459.0,GACM
+81,Fx inflow,12  Dec-15*,103.0,GACM
+82,Fx outflow,12  Dec-15*,8476.0,GACM
+83,Net fx,12  Dec-15*,-8374.0,GACM
+84,From Operations,12  Dec-15*,15566.0,GACM
+85,From Investments,12  Dec-15*,-826.0,GACM
+86,From Financial Activity,12  Dec-15*,-9002.0,GACM
+87,Net Cashflow,12  Dec-15*,5738.0,GACM
+88,Net Sales,12  Dec-16*,200938.0,GACM
+89,Other income,12  Dec-16*,4679.0,GACM
+90,Total revenues,12  Dec-16*,205616.0,GACM
+91,Gross profit,12  Dec-16*,31812.0,GACM
+92,Depreciation,12  Dec-16*,14609.0,GACM
+93,Interest,12  Dec-16*,1530.0,GACM
+94,Profit before tax,12  Dec-16*,20351.0,GACM
+95,Minority Interest,12  Dec-16*,113.0,GACM
+96,Prior Period Items,12  Dec-16*,0.0,GACM
+97,Extraordinary Inc (Exp),12  Dec-16*,-386.0,GACM
+98,Tax,12  Dec-16*,5738.0,GACM
+99,Profit after tax,12  Dec-16*,14341.0,GACM
+100,Gross profit margin,12  Dec-16*,15.8,GACM
+101,Effective tax rate,12  Dec-16*,28.2,GACM
+102,Net profit margin,12  Dec-16*,7.1,GACM
+103,Current assets,12  Dec-16*,82882.0,GACM
+104,Current liabilities,12  Dec-16*,74081.0,GACM
+105,Net working cap to sales,12  Dec-16*,4.4,GACM
+106,Current ratio,12  Dec-16*,1.1,GACM
+107,Inventory Days,12  Dec-16*,39.0,GACM
+108,Debtors Days,12  Dec-16*,17.0,GACM
+109,Net fixed assets,12  Dec-16*,219854.0,GACM
+110,Share capital,12  Dec-16*,3971.0,GACM
+111,"""Free"" reserves",12  Dec-16*,194238.0,GACM
+112,Net worth,12  Dec-16*,198209.0,GACM
+113,Long term debt,12  Dec-16*,157.0,GACM
+114,Total assets,12  Dec-16*,328238.0,GACM
+115,Interest coverage,12  Dec-16*,14.3,GACM
+116,Debt to equity ratio,12  Dec-16*,0.0,GACM
+117,Sales to assets ratio,12  Dec-16*,0.6,GACM
+118,Return on assets,12  Dec-16*,4.8,GACM
+119,Return on equity,12  Dec-16*,7.2,GACM
+120,Return on capital,12  Dec-16*,10.9,GACM
+121,Exports to sales,12  Dec-16*,0.2,GACM
+122,Imports to sales,12  Dec-16*,1.7,GACM
+123,Exports (fob),12  Dec-16*,311.0,GACM
+124,Imports (cif),12  Dec-16*,3486.0,GACM
+125,Fx inflow,12  Dec-16*,364.0,GACM
+126,Fx outflow,12  Dec-16*,6322.0,GACM
+127,Net fx,12  Dec-16*,-5958.0,GACM
+128,From Operations,12  Dec-16*,28103.0,GACM
+129,From Investments,12  Dec-16*,-41649.0,GACM
+130,From Financial Activity,12  Dec-16*,-9576.0,GACM
+131,Net Cashflow,12  Dec-16*,-23106.0,GACM
+132,Net Sales,12  Dec-17*,236087.0,GACM
+133,Other income,12  Dec-17*,3226.0,GACM
+134,Total revenues,12  Dec-17*,239313.0,GACM
+135,Gross profit,12  Dec-17*,38576.0,GACM
+136,Depreciation,12  Dec-17*,12195.0,GACM
+137,Interest,12  Dec-17*,2058.0,GACM
+138,Profit before tax,12  Dec-17*,27550.0,GACM
+139,Minority Interest,12  Dec-17*,128.0,GACM
+140,Prior Period Items,12  Dec-17*,0.0,GACM
+141,Extraordinary Inc (Exp),12  Dec-17*,0.0,GACM
+142,Tax,12  Dec-17*,8229.0,GACM
+143,Profit after tax,12  Dec-17*,19449.0,GACM
+144,Gross profit margin,12  Dec-17*,16.3,GACM
+145,Effective tax rate,12  Dec-17*,29.9,GACM
+146,Net profit margin,12  Dec-17*,8.2,GACM
+147,Current assets,12  Dec-17*,110946.0,GACM
+148,Current liabilities,12  Dec-17*,88773.0,GACM
+149,Net working cap to sales,12  Dec-17*,9.4,GACM
+150,Current ratio,12  Dec-17*,1.2,GACM
+151,Inventory Days,12  Dec-17*,38.0,GACM
+152,Debtors Days,12  Dec-17*,14.0,GACM
+153,Net fixed assets,12  Dec-17*,215654.0,GACM
+154,Share capital,12  Dec-17*,3971.0,GACM
+155,"""Free"" reserves",12  Dec-17*,202751.0,GACM
+156,Net worth,12  Dec-17*,206722.0,GACM
+157,Long term debt,12  Dec-17*,241.0,GACM
+158,Total assets,12  Dec-17*,355129.0,GACM
+159,Interest coverage,12  Dec-17*,14.4,GACM
+160,Debt to equity ratio,12  Dec-17*,0.0,GACM
+161,Sales to assets ratio,12  Dec-17*,0.7,GACM
+162,Return on assets,12  Dec-17*,6.1,GACM
+163,Return on equity,12  Dec-17*,9.4,GACM
+164,Return on capital,12  Dec-17*,14.4,GACM
+165,Exports to sales,12  Dec-17*,0.0,GACM
+166,Imports to sales,12  Dec-17*,0.0,GACM
+167,Exports (fob),12  Dec-17*,0.0,GACM
+168,Imports (cif),12  Dec-17*,0.0,GACM
+169,Fx inflow,12  Dec-17*,46.0,GACM
+170,Fx outflow,12  Dec-17*,9760.0,GACM
+171,Net fx,12  Dec-17*,-9714.0,GACM
+172,From Operations,12  Dec-17*,34162.0,GACM
+173,From Investments,12  Dec-17*,-7620.0,GACM
+174,From Financial Activity,12  Dec-17*,-10147.0,GACM
+175,Net Cashflow,12  Dec-17*,16635.0,GACM
+176,Net Sales,12  Dec-18*,260409.0,GACM
+177,Other income,12  Dec-18*,3714.0,GACM
+178,Total revenues,12  Dec-18*,264124.0,GACM
+179,Gross profit,12  Dec-18*,40108.0,GACM
+180,Depreciation,12  Dec-18*,11539.0,GACM
+181,Interest,12  Dec-18*,1705.0,GACM
+182,Profit before tax,12  Dec-18*,30578.0,GACM
+183,Minority Interest,12  Dec-18*,125.0,GACM
+184,Prior Period Items,12  Dec-18*,0.0,GACM
+185,Extraordinary Inc (Exp),12  Dec-18*,-1518.0,GACM
+186,Tax,12  Dec-18*,-542.0,GACM
+187,Profit after tax,12  Dec-18*,29727.0,GACM
+188,Gross profit margin,12  Dec-18*,15.4,GACM
+189,Effective tax rate,12  Dec-18*,-1.8,GACM
+190,Net profit margin,12  Dec-18*,11.4,GACM
+191,Current assets,12  Dec-18*,124215.0,GACM
+192,Current liabilities,12  Dec-18*,83943.0,GACM
+193,Net working cap to sales,12  Dec-18*,15.5,GACM
+194,Current ratio,12  Dec-18*,1.5,GACM
+195,Inventory Days,12  Dec-18*,41.0,GACM
+196,Debtors Days,12  Dec-18*,18.0,GACM
+197,Net fixed assets,12  Dec-18*,217736.0,GACM
+198,Share capital,12  Dec-18*,3971.0,GACM
+199,"""Free"" reserves",12  Dec-18*,219734.0,GACM
+200,Net worth,12  Dec-18*,223705.0,GACM
+201,Long term debt,12  Dec-18*,397.0,GACM
+202,Total assets,12  Dec-18*,373407.0,GACM
+203,Interest coverage,12  Dec-18*,18.9,GACM
+204,Debt to equity ratio,12  Dec-18*,0.0,GACM
+205,Sales to assets ratio,12  Dec-18*,0.7,GACM
+206,Return on assets,12  Dec-18*,8.4,GACM
+207,Return on equity,12  Dec-18*,13.3,GACM
+208,Return on capital,12  Dec-18*,13.8,GACM
+209,Exports to sales,12  Dec-18*,0.0,GACM
+210,Imports to sales,12  Dec-18*,0.0,GACM
+211,Exports (fob),12  Dec-18*,0.0,GACM
+212,Imports (cif),12  Dec-18*,0.0,GACM
+213,Fx inflow,12  Dec-18*,28.0,GACM
+214,Fx outflow,12  Dec-18*,9896.0,GACM
+215,Net fx,12  Dec-18*,-9869.0,GACM
+216,From Operations,12  Dec-18*,17266.0,GACM
+217,From Investments,12  Dec-18*,-7662.0,GACM
+218,From Financial Activity,12  Dec-18*,-7422.0,GACM
+219,Net Cashflow,12  Dec-18*,2196.0,GACM

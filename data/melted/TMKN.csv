@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5857.0,TMKN
+1,Other income,12  Mar-15,59.0,TMKN
+2,Total revenues,12  Mar-15,5916.0,TMKN
+3,Gross profit,12  Mar-15,1332.0,TMKN
+4,Depreciation,12  Mar-15,162.0,TMKN
+5,Interest,12  Mar-15,6.0,TMKN
+6,Profit before tax,12  Mar-15,1223.0,TMKN
+7,Minority Interest,12  Mar-15,0.0,TMKN
+8,Prior Period Items,12  Mar-15,0.0,TMKN
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,TMKN
+10,Tax,12  Mar-15,416.0,TMKN
+11,Profit after tax,12  Mar-15,807.0,TMKN
+12,Gross profit margin,12  Mar-15,22.7,TMKN
+13,Effective tax rate,12  Mar-15,34.0,TMKN
+14,Net profit margin,12  Mar-15,13.8,TMKN
+15,Current assets,12  Mar-15,4237.0,TMKN
+16,Current liabilities,12  Mar-15,1443.0,TMKN
+17,Net working cap to sales,12  Mar-15,47.7,TMKN
+18,Current ratio,12  Mar-15,2.9,TMKN
+19,Inventory Days,12  Mar-15,104.0,TMKN
+20,Debtors Days,12  Mar-15,108.0,TMKN
+21,Net fixed assets,12  Mar-15,1337.0,TMKN
+22,Share capital,12  Mar-15,680.0,TMKN
+23,"""Free"" reserves",12  Mar-15,3702.0,TMKN
+24,Net worth,12  Mar-15,4382.0,TMKN
+25,Long term debt,12  Mar-15,0.0,TMKN
+26,Total assets,12  Mar-15,5851.0,TMKN
+27,Interest coverage,12  Mar-15,211.9,TMKN
+28,Debt to equity ratio,12  Mar-15,0.0,TMKN
+29,Sales to assets ratio,12  Mar-15,1.0,TMKN
+30,Return on assets,12  Mar-15,13.9,TMKN
+31,Return on equity,12  Mar-15,18.4,TMKN
+32,Return on capital,12  Mar-15,28.0,TMKN
+33,Exports to sales,12  Mar-15,57.7,TMKN
+34,Imports to sales,12  Mar-15,30.8,TMKN
+35,Exports (fob),12  Mar-15,3379.0,TMKN
+36,Imports (cif),12  Mar-15,1803.0,TMKN
+37,Fx inflow,12  Mar-15,3416.0,TMKN
+38,Fx outflow,12  Mar-15,2195.0,TMKN
+39,Net fx,12  Mar-15,1220.0,TMKN
+40,From Operations,12  Mar-15,425.0,TMKN
+41,From Investments,12  Mar-15,-234.0,TMKN
+42,From Financial Activity,12  Mar-15,-257.0,TMKN
+43,Net Cashflow,12  Mar-15,-67.0,TMKN
+44,Net Sales,12  Mar-16,10508.0,TMKN
+45,Other income,12  Mar-16,58.0,TMKN
+46,Total revenues,12  Mar-16,10567.0,TMKN
+47,Gross profit,12  Mar-16,1622.0,TMKN
+48,Depreciation,12  Mar-16,225.0,TMKN
+49,Interest,12  Mar-16,9.0,TMKN
+50,Profit before tax,12  Mar-16,1447.0,TMKN
+51,Minority Interest,12  Mar-16,0.0,TMKN
+52,Prior Period Items,12  Mar-16,0.0,TMKN
+53,Extraordinary Inc (Exp),12  Mar-16,-30.0,TMKN
+54,Tax,12  Mar-16,498.0,TMKN
+55,Profit after tax,12  Mar-16,918.0,TMKN
+56,Gross profit margin,12  Mar-16,15.4,TMKN
+57,Effective tax rate,12  Mar-16,34.4,TMKN
+58,Net profit margin,12  Mar-16,8.7,TMKN
+59,Current assets,12  Mar-16,5004.0,TMKN
+60,Current liabilities,12  Mar-16,1674.0,TMKN
+61,Net working cap to sales,12  Mar-16,31.7,TMKN
+62,Current ratio,12  Mar-16,3.0,TMKN
+63,Inventory Days,12  Mar-16,65.0,TMKN
+64,Debtors Days,12  Mar-16,67.0,TMKN
+65,Net fixed assets,12  Mar-16,1564.0,TMKN
+66,Share capital,12  Mar-16,680.0,TMKN
+67,"""Free"" reserves",12  Mar-16,4620.0,TMKN
+68,Net worth,12  Mar-16,5300.0,TMKN
+69,Long term debt,12  Mar-16,0.0,TMKN
+70,Total assets,12  Mar-16,7023.0,TMKN
+71,Interest coverage,12  Mar-16,158.2,TMKN
+72,Debt to equity ratio,12  Mar-16,0.0,TMKN
+73,Sales to assets ratio,12  Mar-16,1.5,TMKN
+74,Return on assets,12  Mar-16,13.2,TMKN
+75,Return on equity,12  Mar-16,17.3,TMKN
+76,Return on capital,12  Mar-16,26.9,TMKN
+77,Exports to sales,12  Mar-16,34.1,TMKN
+78,Imports to sales,12  Mar-16,21.9,TMKN
+79,Exports (fob),12  Mar-16,3587.0,TMKN
+80,Imports (cif),12  Mar-16,2297.0,TMKN
+81,Fx inflow,12  Mar-16,3612.0,TMKN
+82,Fx outflow,12  Mar-16,2484.0,TMKN
+83,Net fx,12  Mar-16,1128.0,TMKN
+84,From Operations,12  Mar-16,1015.0,TMKN
+85,From Investments,12  Mar-16,-669.0,TMKN
+86,From Financial Activity,12  Mar-16,13.0,TMKN
+87,Net Cashflow,12  Mar-16,359.0,TMKN
+88,Net Sales,12  Mar-17,10562.0,TMKN
+89,Other income,12  Mar-17,99.0,TMKN
+90,Total revenues,12  Mar-17,10661.0,TMKN
+91,Gross profit,12  Mar-17,1580.0,TMKN
+92,Depreciation,12  Mar-17,289.0,TMKN
+93,Interest,12  Mar-17,8.0,TMKN
+94,Profit before tax,12  Mar-17,1382.0,TMKN
+95,Minority Interest,12  Mar-17,0.0,TMKN
+96,Prior Period Items,12  Mar-17,0.0,TMKN
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,TMKN
+98,Tax,12  Mar-17,410.0,TMKN
+99,Profit after tax,12  Mar-17,972.0,TMKN
+100,Gross profit margin,12  Mar-17,15.0,TMKN
+101,Effective tax rate,12  Mar-17,29.7,TMKN
+102,Net profit margin,12  Mar-17,9.2,TMKN
+103,Current assets,12  Mar-17,5494.0,TMKN
+104,Current liabilities,12  Mar-17,2376.0,TMKN
+105,Net working cap to sales,12  Mar-17,29.5,TMKN
+106,Current ratio,12  Mar-17,2.3,TMKN
+107,Inventory Days,12  Mar-17,65.0,TMKN
+108,Debtors Days,12  Mar-17,66.0,TMKN
+109,Net fixed assets,12  Mar-17,2887.0,TMKN
+110,Share capital,12  Mar-17,680.0,TMKN
+111,"""Free"" reserves",12  Mar-17,5499.0,TMKN
+112,Net worth,12  Mar-17,6179.0,TMKN
+113,Long term debt,12  Mar-17,0.0,TMKN
+114,Total assets,12  Mar-17,8772.0,TMKN
+115,Interest coverage,12  Mar-17,165.5,TMKN
+116,Debt to equity ratio,12  Mar-17,0.0,TMKN
+117,Sales to assets ratio,12  Mar-17,1.2,TMKN
+118,Return on assets,12  Mar-17,11.2,TMKN
+119,Return on equity,12  Mar-17,15.7,TMKN
+120,Return on capital,12  Mar-17,22.5,TMKN
+121,Exports to sales,12  Mar-17,0.0,TMKN
+122,Imports to sales,12  Mar-17,0.0,TMKN
+123,Exports (fob),12  Mar-17,0.0,TMKN
+124,Imports (cif),12  Mar-17,0.0,TMKN
+125,Fx inflow,12  Mar-17,3293.0,TMKN
+126,Fx outflow,12  Mar-17,2491.0,TMKN
+127,Net fx,12  Mar-17,802.0,TMKN
+128,From Operations,12  Mar-17,1641.0,TMKN
+129,From Investments,12  Mar-17,-1251.0,TMKN
+130,From Financial Activity,12  Mar-17,-47.0,TMKN
+131,Net Cashflow,12  Mar-17,338.0,TMKN
+132,Net Sales,12  Mar-18,12340.0,TMKN
+133,Other income,12  Mar-18,208.0,TMKN
+134,Total revenues,12  Mar-18,12549.0,TMKN
+135,Gross profit,12  Mar-18,1633.0,TMKN
+136,Depreciation,12  Mar-18,431.0,TMKN
+137,Interest,12  Mar-18,12.0,TMKN
+138,Profit before tax,12  Mar-18,1398.0,TMKN
+139,Minority Interest,12  Mar-18,0.0,TMKN
+140,Prior Period Items,12  Mar-18,0.0,TMKN
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,TMKN
+142,Tax,12  Mar-18,478.0,TMKN
+143,Profit after tax,12  Mar-18,920.0,TMKN
+144,Gross profit margin,12  Mar-18,13.2,TMKN
+145,Effective tax rate,12  Mar-18,34.2,TMKN
+146,Net profit margin,12  Mar-18,7.5,TMKN
+147,Current assets,12  Mar-18,6480.0,TMKN
+148,Current liabilities,12  Mar-18,2413.0,TMKN
+149,Net working cap to sales,12  Mar-18,33.0,TMKN
+150,Current ratio,12  Mar-18,2.7,TMKN
+151,Inventory Days,12  Mar-18,73.0,TMKN
+152,Debtors Days,12  Mar-18,66.0,TMKN
+153,Net fixed assets,12  Mar-18,3048.0,TMKN
+154,Share capital,12  Mar-18,680.0,TMKN
+155,"""Free"" reserves",12  Mar-18,6343.0,TMKN
+156,Net worth,12  Mar-18,7023.0,TMKN
+157,Long term debt,12  Mar-18,0.0,TMKN
+158,Total assets,12  Mar-18,9789.0,TMKN
+159,Interest coverage,12  Mar-18,115.5,TMKN
+160,Debt to equity ratio,12  Mar-18,0.0,TMKN
+161,Sales to assets ratio,12  Mar-18,1.3,TMKN
+162,Return on assets,12  Mar-18,9.5,TMKN
+163,Return on equity,12  Mar-18,13.1,TMKN
+164,Return on capital,12  Mar-18,20.1,TMKN
+165,Exports to sales,12  Mar-18,0.0,TMKN
+166,Imports to sales,12  Mar-18,0.0,TMKN
+167,Exports (fob),12  Mar-18,0.0,TMKN
+168,Imports (cif),12  Mar-18,0.0,TMKN
+169,Fx inflow,12  Mar-18,3467.0,TMKN
+170,Fx outflow,12  Mar-18,3348.0,TMKN
+171,Net fx,12  Mar-18,119.0,TMKN
+172,From Operations,12  Mar-18,390.0,TMKN
+173,From Investments,12  Mar-18,-638.0,TMKN
+174,From Financial Activity,12  Mar-18,-19.0,TMKN
+175,Net Cashflow,12  Mar-18,-270.0,TMKN
+176,Net Sales,12  Mar-19,16644.0,TMKN
+177,Other income,12  Mar-19,163.0,TMKN
+178,Total revenues,12  Mar-19,16807.0,TMKN
+179,Gross profit,12  Mar-19,2886.0,TMKN
+180,Depreciation,12  Mar-19,793.0,TMKN
+181,Interest,12  Mar-19,18.0,TMKN
+182,Profit before tax,12  Mar-19,2238.0,TMKN
+183,Minority Interest,12  Mar-19,0.0,TMKN
+184,Prior Period Items,12  Mar-19,0.0,TMKN
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,TMKN
+186,Tax,12  Mar-19,752.0,TMKN
+187,Profit after tax,12  Mar-19,1486.0,TMKN
+188,Gross profit margin,12  Mar-19,17.3,TMKN
+189,Effective tax rate,12  Mar-19,33.6,TMKN
+190,Net profit margin,12  Mar-19,8.9,TMKN
+191,Current assets,12  Mar-19,8762.0,TMKN
+192,Current liabilities,12  Mar-19,3103.0,TMKN
+193,Net working cap to sales,12  Mar-19,34.0,TMKN
+194,Current ratio,12  Mar-19,2.8,TMKN
+195,Inventory Days,12  Mar-19,70.0,TMKN
+196,Debtors Days,12  Mar-19,66.0,TMKN
+197,Net fixed assets,12  Mar-19,5017.0,TMKN
+198,Share capital,12  Mar-19,752.0,TMKN
+199,"""Free"" reserves",12  Mar-19,12655.0,TMKN
+200,Net worth,12  Mar-19,13407.0,TMKN
+201,Long term debt,12  Mar-19,0.0,TMKN
+202,Total assets,12  Mar-19,17757.0,TMKN
+203,Interest coverage,12  Mar-19,128.2,TMKN
+204,Debt to equity ratio,12  Mar-19,0.0,TMKN
+205,Sales to assets ratio,12  Mar-19,0.9,TMKN
+206,Return on assets,12  Mar-19,8.5,TMKN
+207,Return on equity,12  Mar-19,11.1,TMKN
+208,Return on capital,12  Mar-19,16.8,TMKN
+209,Exports to sales,12  Mar-19,0.0,TMKN
+210,Imports to sales,12  Mar-19,0.0,TMKN
+211,Exports (fob),12  Mar-19,0.0,TMKN
+212,Imports (cif),12  Mar-19,0.0,TMKN
+213,Fx inflow,12  Mar-19,3928.0,TMKN
+214,Fx outflow,12  Mar-19,3815.0,TMKN
+215,Net fx,12  Mar-19,113.0,TMKN
+216,From Operations,12  Mar-19,2488.0,TMKN
+217,From Investments,12  Mar-19,-1097.0,TMKN
+218,From Financial Activity,12  Mar-19,-233.0,TMKN
+219,Net Cashflow,12  Mar-19,1195.0,TMKN

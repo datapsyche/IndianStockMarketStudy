@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,15380.0,PEFO
+1,Other income,12  Mar-15*,196.0,PEFO
+2,Total revenues,12  Mar-15*,15575.0,PEFO
+3,Gross profit,12  Mar-15*,2412.0,PEFO
+4,Depreciation,12  Mar-15*,2211.0,PEFO
+5,Interest,12  Mar-15*,727.0,PEFO
+6,Profit before tax,12  Mar-15*,-331.0,PEFO
+7,Minority Interest,12  Mar-15*,209.0,PEFO
+8,Prior Period Items,12  Mar-15*,0.0,PEFO
+9,Extraordinary Inc (Exp),12  Mar-15*,-2476.0,PEFO
+10,Tax,12  Mar-15*,325.0,PEFO
+11,Profit after tax,12  Mar-15*,-2922.0,PEFO
+12,Gross profit margin,12  Mar-15*,15.7,PEFO
+13,Effective tax rate,12  Mar-15*,-98.3,PEFO
+14,Net profit margin,12  Mar-15*,-19.0,PEFO
+15,Current assets,12  Mar-15*,8970.0,PEFO
+16,Current liabilities,12  Mar-15*,11380.0,PEFO
+17,Net working cap to sales,12  Mar-15*,-15.7,PEFO
+18,Current ratio,12  Mar-15*,0.8,PEFO
+19,Inventory Days,12  Mar-15*,0.0,PEFO
+20,Debtors Days,12  Mar-15*,89.0,PEFO
+21,Net fixed assets,12  Mar-15*,13792.0,PEFO
+22,Share capital,12  Mar-15*,299.0,PEFO
+23,"""Free"" reserves",12  Mar-15*,10819.0,PEFO
+24,Net worth,12  Mar-15*,11118.0,PEFO
+25,Long term debt,12  Mar-15*,5774.0,PEFO
+26,Total assets,12  Mar-15*,33880.0,PEFO
+27,Interest coverage,12  Mar-15*,0.5,PEFO
+28,Debt to equity ratio,12  Mar-15*,0.5,PEFO
+29,Sales to assets ratio,12  Mar-15*,0.5,PEFO
+30,Return on assets,12  Mar-15*,-6.5,PEFO
+31,Return on equity,12  Mar-15*,-26.3,PEFO
+32,Return on capital,12  Mar-15*,-11.1,PEFO
+33,Exports to sales,12  Mar-15*,0.0,PEFO
+34,Imports to sales,12  Mar-15*,0.8,PEFO
+35,Exports (fob),12  Mar-15*,0.0,PEFO
+36,Imports (cif),12  Mar-15*,131.0,PEFO
+37,Fx inflow,12  Mar-15*,167.0,PEFO
+38,Fx outflow,12  Mar-15*,136.0,PEFO
+39,Net fx,12  Mar-15*,30.0,PEFO
+40,From Operations,12  Mar-15*,2127.0,PEFO
+41,From Investments,12  Mar-15*,-5284.0,PEFO
+42,From Financial Activity,12  Mar-15*,2543.0,PEFO
+43,Net Cashflow,12  Mar-15*,213.0,PEFO
+44,Net Sales,12  Mar-16*,13302.0,PEFO
+45,Other income,12  Mar-16*,445.0,PEFO
+46,Total revenues,12  Mar-16*,13747.0,PEFO
+47,Gross profit,12  Mar-16*,2035.0,PEFO
+48,Depreciation,12  Mar-16*,2007.0,PEFO
+49,Interest,12  Mar-16*,820.0,PEFO
+50,Profit before tax,12  Mar-16*,-348.0,PEFO
+51,Minority Interest,12  Mar-16*,335.0,PEFO
+52,Prior Period Items,12  Mar-16*,0.0,PEFO
+53,Extraordinary Inc (Exp),12  Mar-16*,-835.0,PEFO
+54,Tax,12  Mar-16*,236.0,PEFO
+55,Profit after tax,12  Mar-16*,-1085.0,PEFO
+56,Gross profit margin,12  Mar-16*,15.3,PEFO
+57,Effective tax rate,12  Mar-16*,-67.9,PEFO
+58,Net profit margin,12  Mar-16*,-8.2,PEFO
+59,Current assets,12  Mar-16*,7264.0,PEFO
+60,Current liabilities,12  Mar-16*,18030.0,PEFO
+61,Net working cap to sales,12  Mar-16*,-80.9,PEFO
+62,Current ratio,12  Mar-16*,0.4,PEFO
+63,Inventory Days,12  Mar-16*,0.0,PEFO
+64,Debtors Days,12  Mar-16*,52.0,PEFO
+65,Net fixed assets,12  Mar-16*,12653.0,PEFO
+66,Share capital,12  Mar-16*,299.0,PEFO
+67,"""Free"" reserves",12  Mar-16*,3638.0,PEFO
+68,Net worth,12  Mar-16*,3937.0,PEFO
+69,Long term debt,12  Mar-16*,5555.0,PEFO
+70,Total assets,12  Mar-16*,34144.0,PEFO
+71,Interest coverage,12  Mar-16*,0.6,PEFO
+72,Debt to equity ratio,12  Mar-16*,1.4,PEFO
+73,Sales to assets ratio,12  Mar-16*,0.4,PEFO
+74,Return on assets,12  Mar-16*,-0.8,PEFO
+75,Return on equity,12  Mar-16*,-27.6,PEFO
+76,Return on capital,12  Mar-16*,-0.3,PEFO
+77,Exports to sales,12  Mar-16*,0.0,PEFO
+78,Imports to sales,12  Mar-16*,1.1,PEFO
+79,Exports (fob),12  Mar-16*,0.0,PEFO
+80,Imports (cif),12  Mar-16*,143.0,PEFO
+81,Fx inflow,12  Mar-16*,132.0,PEFO
+82,Fx outflow,12  Mar-16*,151.0,PEFO
+83,Net fx,12  Mar-16*,-19.0,PEFO
+84,From Operations,12  Mar-16*,296.0,PEFO
+85,From Investments,12  Mar-16*,-989.0,PEFO
+86,From Financial Activity,12  Mar-16*,1234.0,PEFO
+87,Net Cashflow,12  Mar-16*,554.0,PEFO
+88,Net Sales,12  Mar-17*,21536.0,PEFO
+89,Other income,12  Mar-17*,245.0,PEFO
+90,Total revenues,12  Mar-17*,21781.0,PEFO
+91,Gross profit,12  Mar-17*,4099.0,PEFO
+92,Depreciation,12  Mar-17*,2546.0,PEFO
+93,Interest,12  Mar-17*,1720.0,PEFO
+94,Profit before tax,12  Mar-17*,77.0,PEFO
+95,Minority Interest,12  Mar-17*,0.0,PEFO
+96,Prior Period Items,12  Mar-17*,0.0,PEFO
+97,Extraordinary Inc (Exp),12  Mar-17*,968.0,PEFO
+98,Tax,12  Mar-17*,90.0,PEFO
+99,Profit after tax,12  Mar-17*,956.0,PEFO
+100,Gross profit margin,12  Mar-17*,19.0,PEFO
+101,Effective tax rate,12  Mar-17*,115.9,PEFO
+102,Net profit margin,12  Mar-17*,4.4,PEFO
+103,Current assets,12  Mar-17*,8714.0,PEFO
+104,Current liabilities,12  Mar-17*,12372.0,PEFO
+105,Net working cap to sales,12  Mar-17*,-17.0,PEFO
+106,Current ratio,12  Mar-17*,0.7,PEFO
+107,Inventory Days,12  Mar-17*,0.0,PEFO
+108,Debtors Days,12  Mar-17*,46.0,PEFO
+109,Net fixed assets,12  Mar-17*,12951.0,PEFO
+110,Share capital,12  Mar-17*,299.0,PEFO
+111,"""Free"" reserves",12  Mar-17*,5101.0,PEFO
+112,Net worth,12  Mar-17*,5400.0,PEFO
+113,Long term debt,12  Mar-17*,9092.0,PEFO
+114,Total assets,12  Mar-17*,33458.0,PEFO
+115,Interest coverage,12  Mar-17*,1.0,PEFO
+116,Debt to equity ratio,12  Mar-17*,1.7,PEFO
+117,Sales to assets ratio,12  Mar-17*,0.6,PEFO
+118,Return on assets,12  Mar-17*,8.0,PEFO
+119,Return on equity,12  Mar-17*,17.7,PEFO
+120,Return on capital,12  Mar-17*,19.1,PEFO
+121,Exports to sales,12  Mar-17*,0.0,PEFO
+122,Imports to sales,12  Mar-17*,0.0,PEFO
+123,Exports (fob),12  Mar-17*,0.0,PEFO
+124,Imports (cif),12  Mar-17*,0.0,PEFO
+125,Fx inflow,12  Mar-17*,160.0,PEFO
+126,Fx outflow,12  Mar-17*,7.0,PEFO
+127,Net fx,12  Mar-17*,153.0,PEFO
+128,From Operations,12  Mar-17*,2912.0,PEFO
+129,From Investments,12  Mar-17*,-874.0,PEFO
+130,From Financial Activity,12  Mar-17*,-1872.0,PEFO
+131,Net Cashflow,12  Mar-17*,152.0,PEFO
+132,Net Sales,12  Mar-18*,22575.0,PEFO
+133,Other income,12  Mar-18*,229.0,PEFO
+134,Total revenues,12  Mar-18*,22803.0,PEFO
+135,Gross profit,12  Mar-18*,4280.0,PEFO
+136,Depreciation,12  Mar-18*,2773.0,PEFO
+137,Interest,12  Mar-18*,2123.0,PEFO
+138,Profit before tax,12  Mar-18*,-388.0,PEFO
+139,Minority Interest,12  Mar-18*,0.0,PEFO
+140,Prior Period Items,12  Mar-18*,0.0,PEFO
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PEFO
+142,Tax,12  Mar-18*,56.0,PEFO
+143,Profit after tax,12  Mar-18*,-444.0,PEFO
+144,Gross profit margin,12  Mar-18*,19.0,PEFO
+145,Effective tax rate,12  Mar-18*,-14.5,PEFO
+146,Net profit margin,12  Mar-18*,-2.0,PEFO
+147,Current assets,12  Mar-18*,9812.0,PEFO
+148,Current liabilities,12  Mar-18*,14891.0,PEFO
+149,Net working cap to sales,12  Mar-18*,-22.5,PEFO
+150,Current ratio,12  Mar-18*,0.7,PEFO
+151,Inventory Days,12  Mar-18*,0.0,PEFO
+152,Debtors Days,12  Mar-18*,56.0,PEFO
+153,Net fixed assets,12  Mar-18*,23192.0,PEFO
+154,Share capital,12  Mar-18*,299.0,PEFO
+155,"""Free"" reserves",12  Mar-18*,4632.0,PEFO
+156,Net worth,12  Mar-18*,4931.0,PEFO
+157,Long term debt,12  Mar-18*,9269.0,PEFO
+158,Total assets,12  Mar-18*,34649.0,PEFO
+159,Interest coverage,12  Mar-18*,0.8,PEFO
+160,Debt to equity ratio,12  Mar-18*,1.9,PEFO
+161,Sales to assets ratio,12  Mar-18*,0.7,PEFO
+162,Return on assets,12  Mar-18*,4.8,PEFO
+163,Return on equity,12  Mar-18*,-9.0,PEFO
+164,Return on capital,12  Mar-18*,12.2,PEFO
+165,Exports to sales,12  Mar-18*,0.0,PEFO
+166,Imports to sales,12  Mar-18*,0.0,PEFO
+167,Exports (fob),12  Mar-18*,0.0,PEFO
+168,Imports (cif),12  Mar-18*,0.0,PEFO
+169,Fx inflow,12  Mar-18*,75.0,PEFO
+170,Fx outflow,12  Mar-18*,8.0,PEFO
+171,Net fx,12  Mar-18*,68.0,PEFO
+172,From Operations,12  Mar-18*,2007.0,PEFO
+173,From Investments,12  Mar-18*,-3744.0,PEFO
+174,From Financial Activity,12  Mar-18*,1472.0,PEFO
+175,Net Cashflow,12  Mar-18*,-265.0,PEFO
+176,Net Sales,12  Mar-19*,25403.0,PEFO
+177,Other income,12  Mar-19*,432.0,PEFO
+178,Total revenues,12  Mar-19*,25834.0,PEFO
+179,Gross profit,12  Mar-19*,4386.0,PEFO
+180,Depreciation,12  Mar-19*,3036.0,PEFO
+181,Interest,12  Mar-19*,2367.0,PEFO
+182,Profit before tax,12  Mar-19*,-584.0,PEFO
+183,Minority Interest,12  Mar-19*,0.0,PEFO
+184,Prior Period Items,12  Mar-19*,0.0,PEFO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PEFO
+186,Tax,12  Mar-19*,-255.0,PEFO
+187,Profit after tax,12  Mar-19*,-330.0,PEFO
+188,Gross profit margin,12  Mar-19*,17.3,PEFO
+189,Effective tax rate,12  Mar-19*,43.6,PEFO
+190,Net profit margin,12  Mar-19*,-1.3,PEFO
+191,Current assets,12  Mar-19*,11119.0,PEFO
+192,Current liabilities,12  Mar-19*,15627.0,PEFO
+193,Net working cap to sales,12  Mar-19*,-17.7,PEFO
+194,Current ratio,12  Mar-19*,0.7,PEFO
+195,Inventory Days,12  Mar-19*,0.0,PEFO
+196,Debtors Days,12  Mar-19*,59.0,PEFO
+197,Net fixed assets,12  Mar-19*,25080.0,PEFO
+198,Share capital,12  Mar-19*,299.0,PEFO
+199,"""Free"" reserves",12  Mar-19*,4160.0,PEFO
+200,Net worth,12  Mar-19*,4459.0,PEFO
+201,Long term debt,12  Mar-19*,13842.0,PEFO
+202,Total assets,12  Mar-19*,39062.0,PEFO
+203,Interest coverage,12  Mar-19*,0.8,PEFO
+204,Debt to equity ratio,12  Mar-19*,3.1,PEFO
+205,Sales to assets ratio,12  Mar-19*,0.7,PEFO
+206,Return on assets,12  Mar-19*,5.2,PEFO
+207,Return on equity,12  Mar-19*,-7.4,PEFO
+208,Return on capital,12  Mar-19*,9.7,PEFO
+209,Exports to sales,12  Mar-19*,0.0,PEFO
+210,Imports to sales,12  Mar-19*,0.0,PEFO
+211,Exports (fob),12  Mar-19*,0.0,PEFO
+212,Imports (cif),12  Mar-19*,0.0,PEFO
+213,Fx inflow,12  Mar-19*,29.0,PEFO
+214,Fx outflow,12  Mar-19*,37.0,PEFO
+215,Net fx,12  Mar-19*,-8.0,PEFO
+216,From Operations,12  Mar-19*,1203.0,PEFO
+217,From Investments,12  Mar-19*,-2687.0,PEFO
+218,From Financial Activity,12  Mar-19*,1586.0,PEFO
+219,Net Cashflow,12  Mar-19*,102.0,PEFO

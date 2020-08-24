@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,22893.0,KNOL
+1,Other income,12  Mar-15,476.0,KNOL
+2,Total revenues,12  Mar-15,23369.0,KNOL
+3,Gross profit,12  Mar-15,3123.0,KNOL
+4,Depreciation,12  Mar-15,149.0,KNOL
+5,Interest,12  Mar-15,5.0,KNOL
+6,Profit before tax,12  Mar-15,3444.0,KNOL
+7,Minority Interest,12  Mar-15,0.0,KNOL
+8,Prior Period Items,12  Mar-15,0.0,KNOL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,KNOL
+10,Tax,12  Mar-15,1154.0,KNOL
+11,Profit after tax,12  Mar-15,2290.0,KNOL
+12,Gross profit margin,12  Mar-15,13.6,KNOL
+13,Effective tax rate,12  Mar-15,33.5,KNOL
+14,Net profit margin,12  Mar-15,10.0,KNOL
+15,Current assets,12  Mar-15,12362.0,KNOL
+16,Current liabilities,12  Mar-15,3171.0,KNOL
+17,Net working cap to sales,12  Mar-15,40.1,KNOL
+18,Current ratio,12  Mar-15,3.9,KNOL
+19,Inventory Days,12  Mar-15,61.0,KNOL
+20,Debtors Days,12  Mar-15,21.0,KNOL
+21,Net fixed assets,12  Mar-15,1000.0,KNOL
+22,Share capital,12  Mar-15,213.0,KNOL
+23,"""Free"" reserves",12  Mar-15,9938.0,KNOL
+24,Net worth,12  Mar-15,10150.0,KNOL
+25,Long term debt,12  Mar-15,0.0,KNOL
+26,Total assets,12  Mar-15,13665.0,KNOL
+27,Interest coverage,12  Mar-15,689.7,KNOL
+28,Debt to equity ratio,12  Mar-15,0.0,KNOL
+29,Sales to assets ratio,12  Mar-15,1.7,KNOL
+30,Return on assets,12  Mar-15,16.8,KNOL
+31,Return on equity,12  Mar-15,22.6,KNOL
+32,Return on capital,12  Mar-15,34.0,KNOL
+33,Exports to sales,12  Mar-15,0.5,KNOL
+34,Imports to sales,12  Mar-15,9.9,KNOL
+35,Exports (fob),12  Mar-15,122.0,KNOL
+36,Imports (cif),12  Mar-15,2264.0,KNOL
+37,Fx inflow,12  Mar-15,215.0,KNOL
+38,Fx outflow,12  Mar-15,2737.0,KNOL
+39,Net fx,12  Mar-15,-2523.0,KNOL
+40,From Operations,12  Mar-15,2148.0,KNOL
+41,From Investments,12  Mar-15,-1867.0,KNOL
+42,From Financial Activity,12  Mar-15,-576.0,KNOL
+43,Net Cashflow,12  Mar-15,-295.0,KNOL
+44,Net Sales,12  Mar-16,26456.0,KNOL
+45,Other income,12  Mar-16,506.0,KNOL
+46,Total revenues,12  Mar-16,26962.0,KNOL
+47,Gross profit,12  Mar-16,3644.0,KNOL
+48,Depreciation,12  Mar-16,144.0,KNOL
+49,Interest,12  Mar-16,25.0,KNOL
+50,Profit before tax,12  Mar-16,3980.0,KNOL
+51,Minority Interest,12  Mar-16,0.0,KNOL
+52,Prior Period Items,12  Mar-16,0.0,KNOL
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,KNOL
+54,Tax,12  Mar-16,1428.0,KNOL
+55,Profit after tax,12  Mar-16,2553.0,KNOL
+56,Gross profit margin,12  Mar-16,13.8,KNOL
+57,Effective tax rate,12  Mar-16,35.9,KNOL
+58,Net profit margin,12  Mar-16,9.6,KNOL
+59,Current assets,12  Mar-16,14506.0,KNOL
+60,Current liabilities,12  Mar-16,3823.0,KNOL
+61,Net working cap to sales,12  Mar-16,40.4,KNOL
+62,Current ratio,12  Mar-16,3.8,KNOL
+63,Inventory Days,12  Mar-16,51.0,KNOL
+64,Debtors Days,12  Mar-16,20.0,KNOL
+65,Net fixed assets,12  Mar-16,1113.0,KNOL
+66,Share capital,12  Mar-16,213.0,KNOL
+67,"""Free"" reserves",12  Mar-16,11744.0,KNOL
+68,Net worth,12  Mar-16,11956.0,KNOL
+69,Long term debt,12  Mar-16,0.0,KNOL
+70,Total assets,12  Mar-16,16165.0,KNOL
+71,Interest coverage,12  Mar-16,158.9,KNOL
+72,Debt to equity ratio,12  Mar-16,0.0,KNOL
+73,Sales to assets ratio,12  Mar-16,1.6,KNOL
+74,Return on assets,12  Mar-16,15.9,KNOL
+75,Return on equity,12  Mar-16,21.3,KNOL
+76,Return on capital,12  Mar-16,33.5,KNOL
+77,Exports to sales,12  Mar-16,0.6,KNOL
+78,Imports to sales,12  Mar-16,12.6,KNOL
+79,Exports (fob),12  Mar-16,162.0,KNOL
+80,Imports (cif),12  Mar-16,3322.0,KNOL
+81,Fx inflow,12  Mar-16,268.0,KNOL
+82,Fx outflow,12  Mar-16,3927.0,KNOL
+83,Net fx,12  Mar-16,-3659.0,KNOL
+84,From Operations,12  Mar-16,2487.0,KNOL
+85,From Investments,12  Mar-16,-772.0,KNOL
+86,From Financial Activity,12  Mar-16,-803.0,KNOL
+87,Net Cashflow,12  Mar-16,912.0,KNOL
+88,Net Sales,12  Mar-17,29026.0,KNOL
+89,Other income,12  Mar-17,576.0,KNOL
+90,Total revenues,12  Mar-17,29602.0,KNOL
+91,Gross profit,12  Mar-17,3973.0,KNOL
+92,Depreciation,12  Mar-17,164.0,KNOL
+93,Interest,12  Mar-17,20.0,KNOL
+94,Profit before tax,12  Mar-17,4365.0,KNOL
+95,Minority Interest,12  Mar-17,0.0,KNOL
+96,Prior Period Items,12  Mar-17,0.0,KNOL
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,KNOL
+98,Tax,12  Mar-17,1598.0,KNOL
+99,Profit after tax,12  Mar-17,2767.0,KNOL
+100,Gross profit margin,12  Mar-17,13.7,KNOL
+101,Effective tax rate,12  Mar-17,36.6,KNOL
+102,Net profit margin,12  Mar-17,9.5,KNOL
+103,Current assets,12  Mar-17,18930.0,KNOL
+104,Current liabilities,12  Mar-17,6316.0,KNOL
+105,Net working cap to sales,12  Mar-17,43.5,KNOL
+106,Current ratio,12  Mar-17,3.0,KNOL
+107,Inventory Days,12  Mar-17,63.0,KNOL
+108,Debtors Days,12  Mar-17,22.0,KNOL
+109,Net fixed assets,12  Mar-17,1159.0,KNOL
+110,Share capital,12  Mar-17,213.0,KNOL
+111,"""Free"" reserves",12  Mar-17,13657.0,KNOL
+112,Net worth,12  Mar-17,13869.0,KNOL
+113,Long term debt,12  Mar-17,0.0,KNOL
+114,Total assets,12  Mar-17,20658.0,KNOL
+115,Interest coverage,12  Mar-17,215.0,KNOL
+116,Debt to equity ratio,12  Mar-17,0.0,KNOL
+117,Sales to assets ratio,12  Mar-17,1.4,KNOL
+118,Return on assets,12  Mar-17,13.5,KNOL
+119,Return on equity,12  Mar-17,19.9,KNOL
+120,Return on capital,12  Mar-17,31.6,KNOL
+121,Exports to sales,12  Mar-17,0.0,KNOL
+122,Imports to sales,12  Mar-17,0.0,KNOL
+123,Exports (fob),12  Mar-17,0.0,KNOL
+124,Imports (cif),12  Mar-17,0.0,KNOL
+125,Fx inflow,12  Mar-17,0.0,KNOL
+126,Fx outflow,12  Mar-17,0.0,KNOL
+127,Net fx,12  Mar-17,0.0,KNOL
+128,From Operations,12  Mar-17,3072.0,KNOL
+129,From Investments,12  Mar-17,-1554.0,KNOL
+130,From Financial Activity,12  Mar-17,-898.0,KNOL
+131,Net Cashflow,12  Mar-17,621.0,KNOL
+132,Net Sales,12  Mar-18,32985.0,KNOL
+133,Other income,12  Mar-18,1170.0,KNOL
+134,Total revenues,12  Mar-18,34155.0,KNOL
+135,Gross profit,12  Mar-18,5245.0,KNOL
+136,Depreciation,12  Mar-18,162.0,KNOL
+137,Interest,12  Mar-18,38.0,KNOL
+138,Profit before tax,12  Mar-18,6215.0,KNOL
+139,Minority Interest,12  Mar-18,0.0,KNOL
+140,Prior Period Items,12  Mar-18,0.0,KNOL
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,KNOL
+142,Tax,12  Mar-18,2203.0,KNOL
+143,Profit after tax,12  Mar-18,4012.0,KNOL
+144,Gross profit margin,12  Mar-18,15.9,KNOL
+145,Effective tax rate,12  Mar-18,35.4,KNOL
+146,Net profit margin,12  Mar-18,12.2,KNOL
+147,Current assets,12  Mar-18,22311.0,KNOL
+148,Current liabilities,12  Mar-18,6681.0,KNOL
+149,Net working cap to sales,12  Mar-18,47.4,KNOL
+150,Current ratio,12  Mar-18,3.3,KNOL
+151,Inventory Days,12  Mar-18,65.0,KNOL
+152,Debtors Days,12  Mar-18,29.0,KNOL
+153,Net fixed assets,12  Mar-18,835.0,KNOL
+154,Share capital,12  Mar-18,213.0,KNOL
+155,"""Free"" reserves",12  Mar-18,16715.0,KNOL
+156,Net worth,12  Mar-18,16928.0,KNOL
+157,Long term debt,12  Mar-18,0.0,KNOL
+158,Total assets,12  Mar-18,24162.0,KNOL
+159,Interest coverage,12  Mar-18,163.7,KNOL
+160,Debt to equity ratio,12  Mar-18,0.0,KNOL
+161,Sales to assets ratio,12  Mar-18,1.4,KNOL
+162,Return on assets,12  Mar-18,16.8,KNOL
+163,Return on equity,12  Mar-18,23.7,KNOL
+164,Return on capital,12  Mar-18,36.9,KNOL
+165,Exports to sales,12  Mar-18,0.0,KNOL
+166,Imports to sales,12  Mar-18,0.0,KNOL
+167,Exports (fob),12  Mar-18,0.0,KNOL
+168,Imports (cif),12  Mar-18,0.0,KNOL
+169,Fx inflow,12  Mar-18,369.0,KNOL
+170,Fx outflow,12  Mar-18,3807.0,KNOL
+171,Net fx,12  Mar-18,-3438.0,KNOL
+172,From Operations,12  Mar-18,1527.0,KNOL
+173,From Investments,12  Mar-18,-2148.0,KNOL
+174,From Financial Activity,12  Mar-18,-1024.0,KNOL
+175,Net Cashflow,12  Mar-18,-1646.0,KNOL
+176,Net Sales,12  Mar-19,36786.0,KNOL
+177,Other income,12  Mar-19,1133.0,KNOL
+178,Total revenues,12  Mar-19,37919.0,KNOL
+179,Gross profit,12  Mar-19,6047.0,KNOL
+180,Depreciation,12  Mar-19,169.0,KNOL
+181,Interest,12  Mar-19,23.0,KNOL
+182,Profit before tax,12  Mar-19,6989.0,KNOL
+183,Minority Interest,12  Mar-19,0.0,KNOL
+184,Prior Period Items,12  Mar-19,0.0,KNOL
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,KNOL
+186,Tax,12  Mar-19,2485.0,KNOL
+187,Profit after tax,12  Mar-19,4503.0,KNOL
+188,Gross profit margin,12  Mar-19,16.4,KNOL
+189,Effective tax rate,12  Mar-19,35.6,KNOL
+190,Net profit margin,12  Mar-19,12.2,KNOL
+191,Current assets,12  Mar-19,27610.0,KNOL
+192,Current liabilities,12  Mar-19,8569.0,KNOL
+193,Net working cap to sales,12  Mar-19,51.8,KNOL
+194,Current ratio,12  Mar-19,3.2,KNOL
+195,Inventory Days,12  Mar-19,60.0,KNOL
+196,Debtors Days,12  Mar-19,27.0,KNOL
+197,Net fixed assets,12  Mar-19,1057.0,KNOL
+198,Share capital,12  Mar-19,213.0,KNOL
+199,"""Free"" reserves",12  Mar-19,19873.0,KNOL
+200,Net worth,12  Mar-19,20086.0,KNOL
+201,Long term debt,12  Mar-19,0.0,KNOL
+202,Total assets,12  Mar-19,29409.0,KNOL
+203,Interest coverage,12  Mar-19,311.6,KNOL
+204,Debt to equity ratio,12  Mar-19,0.0,KNOL
+205,Sales to assets ratio,12  Mar-19,1.3,KNOL
+206,Return on assets,12  Mar-19,15.4,KNOL
+207,Return on equity,12  Mar-19,22.4,KNOL
+208,Return on capital,12  Mar-19,34.9,KNOL
+209,Exports to sales,12  Mar-19,0.0,KNOL
+210,Imports to sales,12  Mar-19,0.0,KNOL
+211,Exports (fob),12  Mar-19,0.0,KNOL
+212,Imports (cif),12  Mar-19,0.0,KNOL
+213,Fx inflow,12  Mar-19,369.0,KNOL
+214,Fx outflow,12  Mar-19,4918.0,KNOL
+215,Net fx,12  Mar-19,-4549.0,KNOL
+216,From Operations,12  Mar-19,4991.0,KNOL
+217,From Investments,12  Mar-19,-2570.0,KNOL
+218,From Financial Activity,12  Mar-19,-1428.0,KNOL
+219,Net Cashflow,12  Mar-19,993.0,KNOL

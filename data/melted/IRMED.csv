@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,7145.0,IRMED
+1,Other income,12  Mar-15,10.0,IRMED
+2,Total revenues,12  Mar-15,7154.0,IRMED
+3,Gross profit,12  Mar-15,849.0,IRMED
+4,Depreciation,12  Mar-15,282.0,IRMED
+5,Interest,12  Mar-15,81.0,IRMED
+6,Profit before tax,12  Mar-15,496.0,IRMED
+7,Minority Interest,12  Mar-15,0.0,IRMED
+8,Prior Period Items,12  Mar-15,0.0,IRMED
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,IRMED
+10,Tax,12  Mar-15,171.0,IRMED
+11,Profit after tax,12  Mar-15,325.0,IRMED
+12,Gross profit margin,12  Mar-15,11.9,IRMED
+13,Effective tax rate,12  Mar-15,34.4,IRMED
+14,Net profit margin,12  Mar-15,4.5,IRMED
+15,Current assets,12  Mar-15,1488.0,IRMED
+16,Current liabilities,12  Mar-15,1940.0,IRMED
+17,Net working cap to sales,12  Mar-15,-6.3,IRMED
+18,Current ratio,12  Mar-15,0.8,IRMED
+19,Inventory Days,12  Mar-15,6.0,IRMED
+20,Debtors Days,12  Mar-15,40.0,IRMED
+21,Net fixed assets,12  Mar-15,2887.0,IRMED
+22,Share capital,12  Mar-15,917.0,IRMED
+23,"""Free"" reserves",12  Mar-15,1031.0,IRMED
+24,Net worth,12  Mar-15,1948.0,IRMED
+25,Long term debt,12  Mar-15,108.0,IRMED
+26,Total assets,12  Mar-15,4416.0,IRMED
+27,Interest coverage,12  Mar-15,7.1,IRMED
+28,Debt to equity ratio,12  Mar-15,0.1,IRMED
+29,Sales to assets ratio,12  Mar-15,1.6,IRMED
+30,Return on assets,12  Mar-15,9.2,IRMED
+31,Return on equity,12  Mar-15,16.7,IRMED
+32,Return on capital,12  Mar-15,28.0,IRMED
+33,Exports to sales,12  Mar-15,0.0,IRMED
+34,Imports to sales,12  Mar-15,2.1,IRMED
+35,Exports (fob),12  Mar-15,0.0,IRMED
+36,Imports (cif),12  Mar-15,148.0,IRMED
+37,Fx inflow,12  Mar-15,0.0,IRMED
+38,Fx outflow,12  Mar-15,148.0,IRMED
+39,Net fx,12  Mar-15,-148.0,IRMED
+40,From Operations,12  Mar-15,643.0,IRMED
+41,From Investments,12  Mar-15,-291.0,IRMED
+42,From Financial Activity,12  Mar-15,-352.0,IRMED
+43,Net Cashflow,12  Mar-15,-1.0,IRMED
+44,Net Sales,12  Mar-16,7575.0,IRMED
+45,Other income,12  Mar-16,21.0,IRMED
+46,Total revenues,12  Mar-16,7596.0,IRMED
+47,Gross profit,12  Mar-16,763.0,IRMED
+48,Depreciation,12  Mar-16,266.0,IRMED
+49,Interest,12  Mar-16,73.0,IRMED
+50,Profit before tax,12  Mar-16,445.0,IRMED
+51,Minority Interest,12  Mar-16,0.0,IRMED
+52,Prior Period Items,12  Mar-16,0.0,IRMED
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,IRMED
+54,Tax,12  Mar-16,163.0,IRMED
+55,Profit after tax,12  Mar-16,282.0,IRMED
+56,Gross profit margin,12  Mar-16,10.1,IRMED
+57,Effective tax rate,12  Mar-16,36.5,IRMED
+58,Net profit margin,12  Mar-16,3.7,IRMED
+59,Current assets,12  Mar-16,1704.0,IRMED
+60,Current liabilities,12  Mar-16,2169.0,IRMED
+61,Net working cap to sales,12  Mar-16,-6.1,IRMED
+62,Current ratio,12  Mar-16,0.8,IRMED
+63,Inventory Days,12  Mar-16,6.0,IRMED
+64,Debtors Days,12  Mar-16,44.0,IRMED
+65,Net fixed assets,12  Mar-16,2960.0,IRMED
+66,Share capital,12  Mar-16,917.0,IRMED
+67,"""Free"" reserves",12  Mar-16,1115.0,IRMED
+68,Net worth,12  Mar-16,2031.0,IRMED
+69,Long term debt,12  Mar-16,25.0,IRMED
+70,Total assets,12  Mar-16,4664.0,IRMED
+71,Interest coverage,12  Mar-16,7.1,IRMED
+72,Debt to equity ratio,12  Mar-16,0.0,IRMED
+73,Sales to assets ratio,12  Mar-16,1.6,IRMED
+74,Return on assets,12  Mar-16,7.6,IRMED
+75,Return on equity,12  Mar-16,13.9,IRMED
+76,Return on capital,12  Mar-16,25.2,IRMED
+77,Exports to sales,12  Mar-16,0.0,IRMED
+78,Imports to sales,12  Mar-16,2.1,IRMED
+79,Exports (fob),12  Mar-16,0.0,IRMED
+80,Imports (cif),12  Mar-16,160.0,IRMED
+81,Fx inflow,12  Mar-16,1041.0,IRMED
+82,Fx outflow,12  Mar-16,266.0,IRMED
+83,Net fx,12  Mar-16,775.0,IRMED
+84,From Operations,12  Mar-16,620.0,IRMED
+85,From Investments,12  Mar-16,-325.0,IRMED
+86,From Financial Activity,12  Mar-16,-300.0,IRMED
+87,Net Cashflow,12  Mar-16,-6.0,IRMED
+88,Net Sales,12  Mar-17,7657.0,IRMED
+89,Other income,12  Mar-17,5.0,IRMED
+90,Total revenues,12  Mar-17,7662.0,IRMED
+91,Gross profit,12  Mar-17,788.0,IRMED
+92,Depreciation,12  Mar-17,305.0,IRMED
+93,Interest,12  Mar-17,79.0,IRMED
+94,Profit before tax,12  Mar-17,408.0,IRMED
+95,Minority Interest,12  Mar-17,0.0,IRMED
+96,Prior Period Items,12  Mar-17,0.0,IRMED
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,IRMED
+98,Tax,12  Mar-17,146.0,IRMED
+99,Profit after tax,12  Mar-17,262.0,IRMED
+100,Gross profit margin,12  Mar-17,10.3,IRMED
+101,Effective tax rate,12  Mar-17,35.7,IRMED
+102,Net profit margin,12  Mar-17,3.4,IRMED
+103,Current assets,12  Mar-17,1579.0,IRMED
+104,Current liabilities,12  Mar-17,1857.0,IRMED
+105,Net working cap to sales,12  Mar-17,-3.6,IRMED
+106,Current ratio,12  Mar-17,0.9,IRMED
+107,Inventory Days,12  Mar-17,5.0,IRMED
+108,Debtors Days,12  Mar-17,47.0,IRMED
+109,Net fixed assets,12  Mar-17,3005.0,IRMED
+110,Share capital,12  Mar-17,917.0,IRMED
+111,"""Free"" reserves",12  Mar-17,1392.0,IRMED
+112,Net worth,12  Mar-17,2308.0,IRMED
+113,Long term debt,12  Mar-17,0.0,IRMED
+114,Total assets,12  Mar-17,4584.0,IRMED
+115,Interest coverage,12  Mar-17,6.2,IRMED
+116,Debt to equity ratio,12  Mar-17,0.0,IRMED
+117,Sales to assets ratio,12  Mar-17,1.7,IRMED
+118,Return on assets,12  Mar-17,7.5,IRMED
+119,Return on equity,12  Mar-17,11.4,IRMED
+120,Return on capital,12  Mar-17,21.1,IRMED
+121,Exports to sales,12  Mar-17,0.0,IRMED
+122,Imports to sales,12  Mar-17,1.2,IRMED
+123,Exports (fob),12  Mar-17,0.0,IRMED
+124,Imports (cif),12  Mar-17,93.0,IRMED
+125,Fx inflow,12  Mar-17,1258.0,IRMED
+126,Fx outflow,12  Mar-17,289.0,IRMED
+127,Net fx,12  Mar-17,968.0,IRMED
+128,From Operations,12  Mar-17,276.0,IRMED
+129,From Investments,12  Mar-17,-224.0,IRMED
+130,From Financial Activity,12  Mar-17,-54.0,IRMED
+131,Net Cashflow,12  Mar-17,-2.0,IRMED
+132,Net Sales,12  Mar-18,7527.0,IRMED
+133,Other income,12  Mar-18,8.0,IRMED
+134,Total revenues,12  Mar-18,7535.0,IRMED
+135,Gross profit,12  Mar-18,728.0,IRMED
+136,Depreciation,12  Mar-18,307.0,IRMED
+137,Interest,12  Mar-18,89.0,IRMED
+138,Profit before tax,12  Mar-18,340.0,IRMED
+139,Minority Interest,12  Mar-18,0.0,IRMED
+140,Prior Period Items,12  Mar-18,0.0,IRMED
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,IRMED
+142,Tax,12  Mar-18,129.0,IRMED
+143,Profit after tax,12  Mar-18,211.0,IRMED
+144,Gross profit margin,12  Mar-18,9.7,IRMED
+145,Effective tax rate,12  Mar-18,37.9,IRMED
+146,Net profit margin,12  Mar-18,2.8,IRMED
+147,Current assets,12  Mar-18,1329.0,IRMED
+148,Current liabilities,12  Mar-18,1384.0,IRMED
+149,Net working cap to sales,12  Mar-18,-0.7,IRMED
+150,Current ratio,12  Mar-18,1.0,IRMED
+151,Inventory Days,12  Mar-18,4.0,IRMED
+152,Debtors Days,12  Mar-18,41.0,IRMED
+153,Net fixed assets,12  Mar-18,2940.0,IRMED
+154,Share capital,12  Mar-18,917.0,IRMED
+155,"""Free"" reserves",12  Mar-18,1406.0,IRMED
+156,Net worth,12  Mar-18,2323.0,IRMED
+157,Long term debt,12  Mar-18,210.0,IRMED
+158,Total assets,12  Mar-18,4323.0,IRMED
+159,Interest coverage,12  Mar-18,4.8,IRMED
+160,Debt to equity ratio,12  Mar-18,0.1,IRMED
+161,Sales to assets ratio,12  Mar-18,1.7,IRMED
+162,Return on assets,12  Mar-18,6.9,IRMED
+163,Return on equity,12  Mar-18,9.1,IRMED
+164,Return on capital,12  Mar-18,16.9,IRMED
+165,Exports to sales,12  Mar-18,0.0,IRMED
+166,Imports to sales,12  Mar-18,2.2,IRMED
+167,Exports (fob),12  Mar-18,0.0,IRMED
+168,Imports (cif),12  Mar-18,163.0,IRMED
+169,Fx inflow,12  Mar-18,1558.0,IRMED
+170,Fx outflow,12  Mar-18,418.0,IRMED
+171,Net fx,12  Mar-18,1140.0,IRMED
+172,From Operations,12  Mar-18,477.0,IRMED
+173,From Investments,12  Mar-18,-299.0,IRMED
+174,From Financial Activity,12  Mar-18,-172.0,IRMED
+175,Net Cashflow,12  Mar-18,6.0,IRMED
+176,Net Sales,12  Mar-19,7882.0,IRMED
+177,Other income,12  Mar-19,5.0,IRMED
+178,Total revenues,12  Mar-19,7886.0,IRMED
+179,Gross profit,12  Mar-19,808.0,IRMED
+180,Depreciation,12  Mar-19,298.0,IRMED
+181,Interest,12  Mar-19,69.0,IRMED
+182,Profit before tax,12  Mar-19,446.0,IRMED
+183,Minority Interest,12  Mar-19,0.0,IRMED
+184,Prior Period Items,12  Mar-19,0.0,IRMED
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,IRMED
+186,Tax,12  Mar-19,162.0,IRMED
+187,Profit after tax,12  Mar-19,284.0,IRMED
+188,Gross profit margin,12  Mar-19,10.2,IRMED
+189,Effective tax rate,12  Mar-19,36.3,IRMED
+190,Net profit margin,12  Mar-19,3.6,IRMED
+191,Current assets,12  Mar-19,1356.0,IRMED
+192,Current liabilities,12  Mar-19,1241.0,IRMED
+193,Net working cap to sales,12  Mar-19,1.5,IRMED
+194,Current ratio,12  Mar-19,1.1,IRMED
+195,Inventory Days,12  Mar-19,4.0,IRMED
+196,Debtors Days,12  Mar-19,35.0,IRMED
+197,Net fixed assets,12  Mar-19,2814.0,IRMED
+198,Share capital,12  Mar-19,917.0,IRMED
+199,"""Free"" reserves",12  Mar-19,1524.0,IRMED
+200,Net worth,12  Mar-19,2440.0,IRMED
+201,Long term debt,12  Mar-19,150.0,IRMED
+202,Total assets,12  Mar-19,4224.0,IRMED
+203,Interest coverage,12  Mar-19,7.5,IRMED
+204,Debt to equity ratio,12  Mar-19,0.1,IRMED
+205,Sales to assets ratio,12  Mar-19,1.9,IRMED
+206,Return on assets,12  Mar-19,8.4,IRMED
+207,Return on equity,12  Mar-19,11.6,IRMED
+208,Return on capital,12  Mar-19,19.9,IRMED
+209,Exports to sales,12  Mar-19,0.0,IRMED
+210,Imports to sales,12  Mar-19,0.0,IRMED
+211,Exports (fob),12  Mar-19,0.0,IRMED
+212,Imports (cif),12  Mar-19,0.0,IRMED
+213,Fx inflow,12  Mar-19,1483.0,IRMED
+214,Fx outflow,12  Mar-19,149.0,IRMED
+215,Net fx,12  Mar-19,1334.0,IRMED
+216,From Operations,12  Mar-19,752.0,IRMED
+217,From Investments,12  Mar-19,-167.0,IRMED
+218,From Financial Activity,12  Mar-19,-442.0,IRMED
+219,Net Cashflow,12  Mar-19,143.0,IRMED

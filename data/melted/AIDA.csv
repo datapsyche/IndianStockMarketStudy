@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Sep-14*,37573.0,AIDA
+1,Other income,12  Sep-14*,399.0,AIDA
+2,Total revenues,12  Sep-14*,37973.0,AIDA
+3,Gross profit,12  Sep-14*,9989.0,AIDA
+4,Depreciation,12  Sep-14*,2831.0,AIDA
+5,Interest,12  Sep-14*,3610.0,AIDA
+6,Profit before tax,12  Sep-14*,3948.0,AIDA
+7,Minority Interest,12  Sep-14*,0.0,AIDA
+8,Prior Period Items,12  Sep-14*,1.0,AIDA
+9,Extraordinary Inc (Exp),12  Sep-14*,0.0,AIDA
+10,Tax,12  Sep-14*,1276.0,AIDA
+11,Profit after tax,12  Sep-14*,2674.0,AIDA
+12,Gross profit margin,12  Sep-14*,26.6,AIDA
+13,Effective tax rate,12  Sep-14*,32.3,AIDA
+14,Net profit margin,12  Sep-14*,7.1,AIDA
+15,Current assets,12  Sep-14*,27374.0,AIDA
+16,Current liabilities,12  Sep-14*,19159.0,AIDA
+17,Net working cap to sales,12  Sep-14*,21.9,AIDA
+18,Current ratio,12  Sep-14*,1.4,AIDA
+19,Inventory Days,12  Sep-14*,99.0,AIDA
+20,Debtors Days,12  Sep-14*,72.0,AIDA
+21,Net fixed assets,12  Sep-14*,62865.0,AIDA
+22,Share capital,12  Sep-14*,556.0,AIDA
+23,"""Free"" reserves",12  Sep-14*,20202.0,AIDA
+24,Net worth,12  Sep-14*,27362.0,AIDA
+25,Long term debt,12  Sep-14*,44450.0,AIDA
+26,Total assets,12  Sep-14*,95875.0,AIDA
+27,Interest coverage,12  Sep-14*,2.1,AIDA
+28,Debt to equity ratio,12  Sep-14*,1.6,AIDA
+29,Sales to assets ratio,12  Sep-14*,0.4,AIDA
+30,Return on assets,12  Sep-14*,6.6,AIDA
+31,Return on equity,12  Sep-14*,9.8,AIDA
+32,Return on capital,12  Sep-14*,10.5,AIDA
+33,Exports to sales,12  Sep-14*,0.7,AIDA
+34,Imports to sales,12  Sep-14*,0.4,AIDA
+35,Exports (fob),12  Sep-14*,276.0,AIDA
+36,Imports (cif),12  Sep-14*,153.0,AIDA
+37,Fx inflow,12  Sep-14*,0.0,AIDA
+38,Fx outflow,12  Sep-14*,746.0,AIDA
+39,Net fx,12  Sep-14*,-746.0,AIDA
+40,From Operations,12  Sep-14*,6455.0,AIDA
+41,From Investments,12  Sep-14*,-17523.0,AIDA
+42,From Financial Activity,12  Sep-14*,5952.0,AIDA
+43,Net Cashflow,12  Sep-14*,-5116.0,AIDA
+44,Net Sales,12  Sep-15*,29590.0,AIDA
+45,Other income,12  Sep-15*,248.0,AIDA
+46,Total revenues,12  Sep-15*,29838.0,AIDA
+47,Gross profit,12  Sep-15*,12013.0,AIDA
+48,Depreciation,12  Sep-15*,3649.0,AIDA
+49,Interest,12  Sep-15*,5797.0,AIDA
+50,Profit before tax,12  Sep-15*,2814.0,AIDA
+51,Minority Interest,12  Sep-15*,0.0,AIDA
+52,Prior Period Items,12  Sep-15*,-168.0,AIDA
+53,Extraordinary Inc (Exp),12  Sep-15*,0.0,AIDA
+54,Tax,12  Sep-15*,-487.0,AIDA
+55,Profit after tax,12  Sep-15*,3133.0,AIDA
+56,Gross profit margin,12  Sep-15*,40.6,AIDA
+57,Effective tax rate,12  Sep-15*,-17.3,AIDA
+58,Net profit margin,12  Sep-15*,10.6,AIDA
+59,Current assets,12  Sep-15*,23890.0,AIDA
+60,Current liabilities,12  Sep-15*,24217.0,AIDA
+61,Net working cap to sales,12  Sep-15*,-1.1,AIDA
+62,Current ratio,12  Sep-15*,1.0,AIDA
+63,Inventory Days,12  Sep-15*,141.0,AIDA
+64,Debtors Days,12  Sep-15*,87.0,AIDA
+65,Net fixed assets,12  Sep-15*,62455.0,AIDA
+66,Share capital,12  Sep-15*,806.0,AIDA
+67,"""Free"" reserves",12  Sep-15*,37824.0,AIDA
+68,Net worth,12  Sep-15*,41091.0,AIDA
+69,Long term debt,12  Sep-15*,36185.0,AIDA
+70,Total assets,12  Sep-15*,105050.0,AIDA
+71,Interest coverage,12  Sep-15*,1.5,AIDA
+72,Debt to equity ratio,12  Sep-15*,0.9,AIDA
+73,Sales to assets ratio,12  Sep-15*,0.3,AIDA
+74,Return on assets,12  Sep-15*,8.5,AIDA
+75,Return on equity,12  Sep-15*,7.6,AIDA
+76,Return on capital,12  Sep-15*,10.9,AIDA
+77,Exports to sales,12  Sep-15*,1.2,AIDA
+78,Imports to sales,12  Sep-15*,0.4,AIDA
+79,Exports (fob),12  Sep-15*,364.0,AIDA
+80,Imports (cif),12  Sep-15*,130.0,AIDA
+81,Fx inflow,12  Sep-15*,364.0,AIDA
+82,Fx outflow,12  Sep-15*,723.0,AIDA
+83,Net fx,12  Sep-15*,-360.0,AIDA
+84,From Operations,12  Sep-15*,9155.0,AIDA
+85,From Investments,12  Sep-15*,-10914.0,AIDA
+86,From Financial Activity,12  Sep-15*,691.0,AIDA
+87,Net Cashflow,12  Sep-15*,-1068.0,AIDA
+88,Net Sales,12  Mar-16*,10005.0,AIDA
+89,Other income,12  Mar-16*,241.0,AIDA
+90,Total revenues,12  Mar-16*,10246.0,AIDA
+91,Gross profit,12  Mar-16*,-2148.0,AIDA
+92,Depreciation,12  Mar-16*,2385.0,AIDA
+93,Interest,12  Mar-16*,4030.0,AIDA
+94,Profit before tax,12  Mar-16*,-8321.0,AIDA
+95,Minority Interest,12  Mar-16*,0.0,AIDA
+96,Prior Period Items,12  Mar-16*,-250.0,AIDA
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,AIDA
+98,Tax,12  Mar-16*,-2193.0,AIDA
+99,Profit after tax,12  Mar-16*,-6377.0,AIDA
+100,Gross profit margin,12  Mar-16*,-21.5,AIDA
+101,Effective tax rate,12  Mar-16*,26.4,AIDA
+102,Net profit margin,12  Mar-16*,-63.7,AIDA
+103,Current assets,12  Mar-16*,22007.0,AIDA
+104,Current liabilities,12  Mar-16*,27632.0,AIDA
+105,Net working cap to sales,12  Mar-16*,-56.2,AIDA
+106,Current ratio,12  Mar-16*,0.8,AIDA
+107,Inventory Days,12  Mar-16*,415.0,AIDA
+108,Debtors Days,12  Mar-16*,208.0,AIDA
+109,Net fixed assets,12  Mar-16*,61516.0,AIDA
+110,Share capital,12  Mar-16*,806.0,AIDA
+111,"""Free"" reserves",12  Mar-16*,31426.0,AIDA
+112,Net worth,12  Mar-16*,34693.0,AIDA
+113,Long term debt,12  Mar-16*,35768.0,AIDA
+114,Total assets,12  Mar-16*,99309.0,AIDA
+115,Interest coverage,12  Mar-16*,-1.1,AIDA
+116,Debt to equity ratio,12  Mar-16*,1.0,AIDA
+117,Sales to assets ratio,12  Mar-16*,0.1,AIDA
+118,Return on assets,12  Mar-16*,-2.4,AIDA
+119,Return on equity,12  Mar-16*,-18.4,AIDA
+120,Return on capital,12  Mar-16*,-6.4,AIDA
+121,Exports to sales,12  Mar-16*,0.0,AIDA
+122,Imports to sales,12  Mar-16*,0.2,AIDA
+123,Exports (fob),12  Mar-16*,0.0,AIDA
+124,Imports (cif),12  Mar-16*,23.0,AIDA
+125,Fx inflow,12  Mar-16*,0.0,AIDA
+126,Fx outflow,12  Mar-16*,23.0,AIDA
+127,Net fx,12  Mar-16*,-23.0,AIDA
+128,From Operations,12  Mar-16*,1048.0,AIDA
+129,From Investments,12  Mar-16*,-2621.0,AIDA
+130,From Financial Activity,12  Mar-16*,966.0,AIDA
+131,Net Cashflow,12  Mar-16*,-607.0,AIDA
+132,Net Sales,12  Mar-17*,14672.0,AIDA
+133,Other income,12  Mar-17*,14.0,AIDA
+134,Total revenues,12  Mar-17*,14686.0,AIDA
+135,Gross profit,12  Mar-17*,2322.0,AIDA
+136,Depreciation,12  Mar-17*,5265.0,AIDA
+137,Interest,12  Mar-17*,8051.0,AIDA
+138,Profit before tax,12  Mar-17*,-10979.0,AIDA
+139,Minority Interest,12  Mar-17*,0.0,AIDA
+140,Prior Period Items,12  Mar-17*,0.0,AIDA
+141,Extraordinary Inc (Exp),12  Mar-17*,-4004.0,AIDA
+142,Tax,12  Mar-17*,-4598.0,AIDA
+143,Profit after tax,12  Mar-17*,-10385.0,AIDA
+144,Gross profit margin,12  Mar-17*,15.8,AIDA
+145,Effective tax rate,12  Mar-17*,41.9,AIDA
+146,Net profit margin,12  Mar-17*,-70.8,AIDA
+147,Current assets,12  Mar-17*,14658.0,AIDA
+148,Current liabilities,12  Mar-17*,69928.0,AIDA
+149,Net working cap to sales,12  Mar-17*,-376.7,AIDA
+150,Current ratio,12  Mar-17*,0.2,AIDA
+151,Inventory Days,12  Mar-17*,132.0,AIDA
+152,Debtors Days,12  Mar-17*,84.0,AIDA
+153,Net fixed assets,12  Mar-17*,59124.0,AIDA
+154,Share capital,12  Mar-17*,756.0,AIDA
+155,"""Free"" reserves",12  Mar-17*,22294.0,AIDA
+156,Net worth,12  Mar-17*,23050.0,AIDA
+157,Long term debt,12  Mar-17*,113.0,AIDA
+158,Total assets,12  Mar-17*,95095.0,AIDA
+159,Interest coverage,12  Mar-17*,-0.4,AIDA
+160,Debt to equity ratio,12  Mar-17*,0.0,AIDA
+161,Sales to assets ratio,12  Mar-17*,0.2,AIDA
+162,Return on assets,12  Mar-17*,-2.5,AIDA
+163,Return on equity,12  Mar-17*,-45.1,AIDA
+164,Return on capital,12  Mar-17*,-29.9,AIDA
+165,Exports to sales,12  Mar-17*,0.0,AIDA
+166,Imports to sales,12  Mar-17*,0.2,AIDA
+167,Exports (fob),12  Mar-17*,0.0,AIDA
+168,Imports (cif),12  Mar-17*,29.0,AIDA
+169,Fx inflow,12  Mar-17*,0.0,AIDA
+170,Fx outflow,12  Mar-17*,29.0,AIDA
+171,Net fx,12  Mar-17*,-29.0,AIDA
+172,From Operations,12  Mar-17*,5054.0,AIDA
+173,From Investments,12  Mar-17*,-4365.0,AIDA
+174,From Financial Activity,12  Mar-17*,-918.0,AIDA
+175,Net Cashflow,12  Mar-17*,-261.0,AIDA
+176,Net Sales,12  Mar-18*,5252.0,AIDA
+177,Other income,12  Mar-18*,117.0,AIDA
+178,Total revenues,12  Mar-18*,5369.0,AIDA
+179,Gross profit,12  Mar-18*,-304.0,AIDA
+180,Depreciation,12  Mar-18*,4748.0,AIDA
+181,Interest,12  Mar-18*,6424.0,AIDA
+182,Profit before tax,12  Mar-18*,-11359.0,AIDA
+183,Minority Interest,12  Mar-18*,0.0,AIDA
+184,Prior Period Items,12  Mar-18*,0.0,AIDA
+185,Extraordinary Inc (Exp),12  Mar-18*,-6702.0,AIDA
+186,Tax,12  Mar-18*,0.0,AIDA
+187,Profit after tax,12  Mar-18*,-18061.0,AIDA
+188,Gross profit margin,12  Mar-18*,-5.8,AIDA
+189,Effective tax rate,12  Mar-18*,0.0,AIDA
+190,Net profit margin,12  Mar-18*,-343.9,AIDA
+191,Current assets,12  Mar-18*,7111.0,AIDA
+192,Current liabilities,12  Mar-18*,76631.0,AIDA
+193,Net working cap to sales,12  Mar-18*,-1323.6,AIDA
+194,Current ratio,12  Mar-18*,0.1,AIDA
+195,Inventory Days,12  Mar-18*,186.0,AIDA
+196,Debtors Days,12  Mar-18*,254.0,AIDA
+197,Net fixed assets,12  Mar-18*,55339.0,AIDA
+198,Share capital,12  Mar-18*,756.0,AIDA
+199,"""Free"" reserves",12  Mar-18*,4196.0,AIDA
+200,Net worth,12  Mar-18*,4952.0,AIDA
+201,Long term debt,12  Mar-18*,127.0,AIDA
+202,Total assets,12  Mar-18*,83940.0,AIDA
+203,Interest coverage,12  Mar-18*,-0.8,AIDA
+204,Debt to equity ratio,12  Mar-18*,0.0,AIDA
+205,Sales to assets ratio,12  Mar-18*,0.1,AIDA
+206,Return on assets,12  Mar-18*,-13.9,AIDA
+207,Return on equity,12  Mar-18*,-364.7,AIDA
+208,Return on capital,12  Mar-18*,-229.1,AIDA
+209,Exports to sales,12  Mar-18*,0.0,AIDA
+210,Imports to sales,12  Mar-18*,0.2,AIDA
+211,Exports (fob),12  Mar-18*,0.0,AIDA
+212,Imports (cif),12  Mar-18*,10.0,AIDA
+213,Fx inflow,12  Mar-18*,0.0,AIDA
+214,Fx outflow,12  Mar-18*,10.0,AIDA
+215,Net fx,12  Mar-18*,-10.0,AIDA
+216,From Operations,12  Mar-18*,1058.0,AIDA
+217,From Investments,12  Mar-18*,-847.0,AIDA
+218,From Financial Activity,12  Mar-18*,-152.0,AIDA
+219,Net Cashflow,12  Mar-18*,35.0,AIDA

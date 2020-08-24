@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,95350.0,EXIDE
+1,Other income,12  Mar-15*,952.0,EXIDE
+2,Total revenues,12  Mar-15*,96301.0,EXIDE
+3,Gross profit,12  Mar-15*,9369.0,EXIDE
+4,Depreciation,12  Mar-15*,1553.0,EXIDE
+5,Interest,12  Mar-15*,32.0,EXIDE
+6,Profit before tax,12  Mar-15*,8735.0,EXIDE
+7,Minority Interest,12  Mar-15*,-18.0,EXIDE
+8,Prior Period Items,12  Mar-15*,0.0,EXIDE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,EXIDE
+10,Tax,12  Mar-15*,2572.0,EXIDE
+11,Profit after tax,12  Mar-15*,6146.0,EXIDE
+12,Gross profit margin,12  Mar-15*,9.8,EXIDE
+13,Effective tax rate,12  Mar-15*,29.4,EXIDE
+14,Net profit margin,12  Mar-15*,6.4,EXIDE
+15,Current assets,12  Mar-15*,37243.0,EXIDE
+16,Current liabilities,12  Mar-15*,21656.0,EXIDE
+17,Net working cap to sales,12  Mar-15*,16.3,EXIDE
+18,Current ratio,12  Mar-15*,1.7,EXIDE
+19,Inventory Days,12  Mar-15*,63.0,EXIDE
+20,Debtors Days,12  Mar-15*,26.0,EXIDE
+21,Net fixed assets,12  Mar-15*,12900.0,EXIDE
+22,Share capital,12  Mar-15*,850.0,EXIDE
+23,"""Free"" reserves",12  Mar-15*,39077.0,EXIDE
+24,Net worth,12  Mar-15*,39927.0,EXIDE
+25,Long term debt,12  Mar-15*,33.0,EXIDE
+26,Total assets,12  Mar-15*,139729.0,EXIDE
+27,Interest coverage,12  Mar-15*,273.1,EXIDE
+28,Debt to equity ratio,12  Mar-15*,0.0,EXIDE
+29,Sales to assets ratio,12  Mar-15*,0.7,EXIDE
+30,Return on assets,12  Mar-15*,4.4,EXIDE
+31,Return on equity,12  Mar-15*,15.4,EXIDE
+32,Return on capital,12  Mar-15*,21.9,EXIDE
+33,Exports to sales,12  Mar-15*,2.6,EXIDE
+34,Imports to sales,12  Mar-15*,9.2,EXIDE
+35,Exports (fob),12  Mar-15*,2461.0,EXIDE
+36,Imports (cif),12  Mar-15*,8752.0,EXIDE
+37,Fx inflow,12  Mar-15*,2478.0,EXIDE
+38,Fx outflow,12  Mar-15*,9851.0,EXIDE
+39,Net fx,12  Mar-15*,-7374.0,EXIDE
+40,From Operations,12  Mar-15*,1802.0,EXIDE
+41,From Investments,12  Mar-15*,-555.0,EXIDE
+42,From Financial Activity,12  Mar-15*,-1990.0,EXIDE
+43,Net Cashflow,12  Mar-15*,-743.0,EXIDE
+44,Net Sales,12  Mar-16*,95356.0,EXIDE
+45,Other income,12  Mar-16*,629.0,EXIDE
+46,Total revenues,12  Mar-16*,95985.0,EXIDE
+47,Gross profit,12  Mar-16*,11779.0,EXIDE
+48,Depreciation,12  Mar-16*,1753.0,EXIDE
+49,Interest,12  Mar-16*,734.0,EXIDE
+50,Profit before tax,12  Mar-16*,9922.0,EXIDE
+51,Minority Interest,12  Mar-16*,0.0,EXIDE
+52,Prior Period Items,12  Mar-16*,0.0,EXIDE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,EXIDE
+54,Tax,12  Mar-16*,2921.0,EXIDE
+55,Profit after tax,12  Mar-16*,7001.0,EXIDE
+56,Gross profit margin,12  Mar-16*,12.4,EXIDE
+57,Effective tax rate,12  Mar-16*,29.4,EXIDE
+58,Net profit margin,12  Mar-16*,7.3,EXIDE
+59,Current assets,12  Mar-16*,41840.0,EXIDE
+60,Current liabilities,12  Mar-16*,23260.0,EXIDE
+61,Net working cap to sales,12  Mar-16*,19.5,EXIDE
+62,Current ratio,12  Mar-16*,1.8,EXIDE
+63,Inventory Days,12  Mar-16*,48.0,EXIDE
+64,Debtors Days,12  Mar-16*,28.0,EXIDE
+65,Net fixed assets,12  Mar-16*,15551.0,EXIDE
+66,Share capital,12  Mar-16*,850.0,EXIDE
+67,"""Free"" reserves",12  Mar-16*,43048.0,EXIDE
+68,Net worth,12  Mar-16*,43898.0,EXIDE
+69,Long term debt,12  Mar-16*,26.0,EXIDE
+70,Total assets,12  Mar-16*,153704.0,EXIDE
+71,Interest coverage,12  Mar-16*,14.5,EXIDE
+72,Debt to equity ratio,12  Mar-16*,0.0,EXIDE
+73,Sales to assets ratio,12  Mar-16*,0.6,EXIDE
+74,Return on assets,12  Mar-16*,5.0,EXIDE
+75,Return on equity,12  Mar-16*,15.9,EXIDE
+76,Return on capital,12  Mar-16*,24.3,EXIDE
+77,Exports to sales,12  Mar-16*,2.4,EXIDE
+78,Imports to sales,12  Mar-16*,7.4,EXIDE
+79,Exports (fob),12  Mar-16*,2324.0,EXIDE
+80,Imports (cif),12  Mar-16*,7085.0,EXIDE
+81,Fx inflow,12  Mar-16*,2344.0,EXIDE
+82,Fx outflow,12  Mar-16*,8254.0,EXIDE
+83,Net fx,12  Mar-16*,-5910.0,EXIDE
+84,From Operations,12  Mar-16*,15828.0,EXIDE
+85,From Investments,12  Mar-16*,-13292.0,EXIDE
+86,From Financial Activity,12  Mar-16*,-1671.0,EXIDE
+87,Net Cashflow,12  Mar-16*,928.0,EXIDE
+88,Net Sales,12  Mar-17*,111786.0,EXIDE
+89,Other income,12  Mar-17*,1027.0,EXIDE
+90,Total revenues,12  Mar-17*,112813.0,EXIDE
+91,Gross profit,12  Mar-17*,13667.0,EXIDE
+92,Depreciation,12  Mar-17*,2259.0,EXIDE
+93,Interest,12  Mar-17*,1463.0,EXIDE
+94,Profit before tax,12  Mar-17*,10971.0,EXIDE
+95,Minority Interest,12  Mar-17*,0.0,EXIDE
+96,Prior Period Items,12  Mar-17*,0.0,EXIDE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,EXIDE
+98,Tax,12  Mar-17*,2931.0,EXIDE
+99,Profit after tax,12  Mar-17*,8040.0,EXIDE
+100,Gross profit margin,12  Mar-17*,12.2,EXIDE
+101,Effective tax rate,12  Mar-17*,26.7,EXIDE
+102,Net profit margin,12  Mar-17*,7.2,EXIDE
+103,Current assets,12  Mar-17*,48353.0,EXIDE
+104,Current liabilities,12  Mar-17*,26075.0,EXIDE
+105,Net working cap to sales,12  Mar-17*,19.9,EXIDE
+106,Current ratio,12  Mar-17*,1.9,EXIDE
+107,Inventory Days,12  Mar-17*,56.0,EXIDE
+108,Debtors Days,12  Mar-17*,24.0,EXIDE
+109,Net fixed assets,12  Mar-17*,17940.0,EXIDE
+110,Share capital,12  Mar-17*,850.0,EXIDE
+111,"""Free"" reserves",12  Mar-17*,49471.0,EXIDE
+112,Net worth,12  Mar-17*,50321.0,EXIDE
+113,Long term debt,12  Mar-17*,8.0,EXIDE
+114,Total assets,12  Mar-17*,177717.0,EXIDE
+115,Interest coverage,12  Mar-17*,8.5,EXIDE
+116,Debt to equity ratio,12  Mar-17*,0.0,EXIDE
+117,Sales to assets ratio,12  Mar-17*,0.6,EXIDE
+118,Return on assets,12  Mar-17*,5.3,EXIDE
+119,Return on equity,12  Mar-17*,16.0,EXIDE
+120,Return on capital,12  Mar-17*,24.7,EXIDE
+121,Exports to sales,12  Mar-17*,0.0,EXIDE
+122,Imports to sales,12  Mar-17*,0.0,EXIDE
+123,Exports (fob),12  Mar-17*,0.0,EXIDE
+124,Imports (cif),12  Mar-17*,0.0,EXIDE
+125,Fx inflow,12  Mar-17*,28.0,EXIDE
+126,Fx outflow,12  Mar-17*,70.0,EXIDE
+127,Net fx,12  Mar-17*,-42.0,EXIDE
+128,From Operations,12  Mar-17*,9373.0,EXIDE
+129,From Investments,12  Mar-17*,-7285.0,EXIDE
+130,From Financial Activity,12  Mar-17*,-1819.0,EXIDE
+131,Net Cashflow,12  Mar-17*,283.0,EXIDE
+132,Net Sales,12  Mar-18*,128081.0,EXIDE
+133,Other income,12  Mar-18*,677.0,EXIDE
+134,Total revenues,12  Mar-18*,128757.0,EXIDE
+135,Gross profit,12  Mar-18*,13949.0,EXIDE
+136,Depreciation,12  Mar-18*,2672.0,EXIDE
+137,Interest,12  Mar-18*,1057.0,EXIDE
+138,Profit before tax,12  Mar-18*,10897.0,EXIDE
+139,Minority Interest,12  Mar-18*,0.0,EXIDE
+140,Prior Period Items,12  Mar-18*,0.0,EXIDE
+141,Extraordinary Inc (Exp),12  Mar-18*,-418.0,EXIDE
+142,Tax,12  Mar-18*,3538.0,EXIDE
+143,Profit after tax,12  Mar-18*,6941.0,EXIDE
+144,Gross profit margin,12  Mar-18*,10.9,EXIDE
+145,Effective tax rate,12  Mar-18*,32.5,EXIDE
+146,Net profit margin,12  Mar-18*,5.4,EXIDE
+147,Current assets,12  Mar-18*,50892.0,EXIDE
+148,Current liabilities,12  Mar-18*,30542.0,EXIDE
+149,Net working cap to sales,12  Mar-18*,15.9,EXIDE
+150,Current ratio,12  Mar-18*,1.7,EXIDE
+151,Inventory Days,12  Mar-18*,57.0,EXIDE
+152,Debtors Days,12  Mar-18*,31.0,EXIDE
+153,Net fixed assets,12  Mar-18*,29774.0,EXIDE
+154,Share capital,12  Mar-18*,850.0,EXIDE
+155,"""Free"" reserves",12  Mar-18*,53442.0,EXIDE
+156,Net worth,12  Mar-18*,54292.0,EXIDE
+157,Long term debt,12  Mar-18*,89.0,EXIDE
+158,Total assets,12  Mar-18*,198222.0,EXIDE
+159,Interest coverage,12  Mar-18*,11.3,EXIDE
+160,Debt to equity ratio,12  Mar-18*,0.0,EXIDE
+161,Sales to assets ratio,12  Mar-18*,0.6,EXIDE
+162,Return on assets,12  Mar-18*,4.0,EXIDE
+163,Return on equity,12  Mar-18*,12.8,EXIDE
+164,Return on capital,12  Mar-18*,21.2,EXIDE
+165,Exports to sales,12  Mar-18*,0.0,EXIDE
+166,Imports to sales,12  Mar-18*,0.0,EXIDE
+167,Exports (fob),12  Mar-18*,0.0,EXIDE
+168,Imports (cif),12  Mar-18*,0.0,EXIDE
+169,Fx inflow,12  Mar-18*,3716.0,EXIDE
+170,Fx outflow,12  Mar-18*,9032.0,EXIDE
+171,Net fx,12  Mar-18*,-5316.0,EXIDE
+172,From Operations,12  Mar-18*,9144.0,EXIDE
+173,From Investments,12  Mar-18*,-5366.0,EXIDE
+174,From Financial Activity,12  Mar-18*,-3861.0,EXIDE
+175,Net Cashflow,12  Mar-18*,-64.0,EXIDE
+176,Net Sales,12  Mar-19*,147209.0,EXIDE
+177,Other income,12  Mar-19*,399.0,EXIDE
+178,Total revenues,12  Mar-19*,147608.0,EXIDE
+179,Gross profit,12  Mar-19*,15515.0,EXIDE
+180,Depreciation,12  Mar-19*,3435.0,EXIDE
+181,Interest,12  Mar-19*,1071.0,EXIDE
+182,Profit before tax,12  Mar-19*,11407.0,EXIDE
+183,Minority Interest,12  Mar-19*,0.0,EXIDE
+184,Prior Period Items,12  Mar-19*,0.0,EXIDE
+185,Extraordinary Inc (Exp),12  Mar-19*,1083.0,EXIDE
+186,Tax,12  Mar-19*,4017.0,EXIDE
+187,Profit after tax,12  Mar-19*,8474.0,EXIDE
+188,Gross profit margin,12  Mar-19*,10.5,EXIDE
+189,Effective tax rate,12  Mar-19*,35.2,EXIDE
+190,Net profit margin,12  Mar-19*,5.8,EXIDE
+191,Current assets,12  Mar-19*,54605.0,EXIDE
+192,Current liabilities,12  Mar-19*,33751.0,EXIDE
+193,Net working cap to sales,12  Mar-19*,14.2,EXIDE
+194,Current ratio,12  Mar-19*,1.6,EXIDE
+195,Inventory Days,12  Mar-19*,51.0,EXIDE
+196,Debtors Days,12  Mar-19*,31.0,EXIDE
+197,Net fixed assets,12  Mar-19*,34623.0,EXIDE
+198,Share capital,12  Mar-19*,850.0,EXIDE
+199,"""Free"" reserves",12  Mar-19*,60219.0,EXIDE
+200,Net worth,12  Mar-19*,61069.0,EXIDE
+201,Long term debt,12  Mar-19*,98.0,EXIDE
+202,Total assets,12  Mar-19*,224410.0,EXIDE
+203,Interest coverage,12  Mar-19*,11.7,EXIDE
+204,Debt to equity ratio,12  Mar-19*,0.0,EXIDE
+205,Sales to assets ratio,12  Mar-19*,0.7,EXIDE
+206,Return on assets,12  Mar-19*,4.3,EXIDE
+207,Return on equity,12  Mar-19*,13.9,EXIDE
+208,Return on capital,12  Mar-19*,22.2,EXIDE
+209,Exports to sales,12  Mar-19*,0.0,EXIDE
+210,Imports to sales,12  Mar-19*,0.0,EXIDE
+211,Exports (fob),12  Mar-19*,0.0,EXIDE
+212,Imports (cif),12  Mar-19*,0.0,EXIDE
+213,Fx inflow,12  Mar-19*,5779.0,EXIDE
+214,Fx outflow,12  Mar-19*,13136.0,EXIDE
+215,Net fx,12  Mar-19*,-7357.0,EXIDE
+216,From Operations,12  Mar-19*,16868.0,EXIDE
+217,From Investments,12  Mar-19*,-14374.0,EXIDE
+218,From Financial Activity,12  Mar-19*,-2167.0,EXIDE
+219,Net Cashflow,12  Mar-19*,323.0,EXIDE

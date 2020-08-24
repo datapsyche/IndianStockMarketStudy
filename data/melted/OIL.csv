@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,99784.0,OIL
+1,Other income,12  Mar-15*,12585.0,OIL
+2,Total revenues,12  Mar-15*,112369.0,OIL
+3,Gross profit,12  Mar-15*,36324.0,OIL
+4,Depreciation,12  Mar-15*,8648.0,OIL
+5,Interest,12  Mar-15*,3490.0,OIL
+6,Profit before tax,12  Mar-15*,36771.0,OIL
+7,Minority Interest,12  Mar-15*,0.0,OIL
+8,Prior Period Items,12  Mar-15*,1235.0,OIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,OIL
+10,Tax,12  Mar-15*,11922.0,OIL
+11,Profit after tax,12  Mar-15*,26084.0,OIL
+12,Gross profit margin,12  Mar-15*,36.4,OIL
+13,Effective tax rate,12  Mar-15*,32.4,OIL
+14,Net profit margin,12  Mar-15*,26.1,OIL
+15,Current assets,12  Mar-15*,146898.0,OIL
+16,Current liabilities,12  Mar-15*,47137.0,OIL
+17,Net working cap to sales,12  Mar-15*,100.0,OIL
+18,Current ratio,12  Mar-15*,3.1,OIL
+19,Inventory Days,12  Mar-15*,38.0,OIL
+20,Debtors Days,12  Mar-15*,87.0,OIL
+21,Net fixed assets,12  Mar-15*,93482.0,OIL
+22,Share capital,12  Mar-15*,6011.0,OIL
+23,"""Free"" reserves",12  Mar-15*,187421.0,OIL
+24,Net worth,12  Mar-15*,215015.0,OIL
+25,Long term debt,12  Mar-15*,83994.0,OIL
+26,Total assets,12  Mar-15*,370648.0,OIL
+27,Interest coverage,12  Mar-15*,11.5,OIL
+28,Debt to equity ratio,12  Mar-15*,0.4,OIL
+29,Sales to assets ratio,12  Mar-15*,0.3,OIL
+30,Return on assets,12  Mar-15*,8.0,OIL
+31,Return on equity,12  Mar-15*,12.1,OIL
+32,Return on capital,12  Mar-15*,13.9,OIL
+33,Exports to sales,12  Mar-15*,0.0,OIL
+34,Imports to sales,12  Mar-15*,0.4,OIL
+35,Exports (fob),12  Mar-15*,0.0,OIL
+36,Imports (cif),12  Mar-15*,424.0,OIL
+37,Fx inflow,12  Mar-15*,91.0,OIL
+38,Fx outflow,12  Mar-15*,6251.0,OIL
+39,Net fx,12  Mar-15*,-6159.0,OIL
+40,From Operations,12  Mar-15*,17536.0,OIL
+41,From Investments,12  Mar-15*,-19283.0,OIL
+42,From Financial Activity,12  Mar-15*,-26031.0,OIL
+43,Net Cashflow,12  Mar-15*,-27779.0,OIL
+44,Net Sales,12  Mar-16*,98841.0,OIL
+45,Other income,12  Mar-16*,12200.0,OIL
+46,Total revenues,12  Mar-16*,111041.0,OIL
+47,Gross profit,12  Mar-16*,32332.0,OIL
+48,Depreciation,12  Mar-16*,11052.0,OIL
+49,Interest,12  Mar-16*,3665.0,OIL
+50,Profit before tax,12  Mar-16*,29814.0,OIL
+51,Minority Interest,12  Mar-16*,0.0,OIL
+52,Prior Period Items,12  Mar-16*,1891.0,OIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,OIL
+54,Tax,12  Mar-16*,11666.0,OIL
+55,Profit after tax,12  Mar-16*,20039.0,OIL
+56,Gross profit margin,12  Mar-16*,32.7,OIL
+57,Effective tax rate,12  Mar-16*,39.1,OIL
+58,Net profit margin,12  Mar-16*,20.3,OIL
+59,Current assets,12  Mar-16*,144100.0,OIL
+60,Current liabilities,12  Mar-16*,37660.0,OIL
+61,Net working cap to sales,12  Mar-16*,107.7,OIL
+62,Current ratio,12  Mar-16*,3.8,OIL
+63,Inventory Days,12  Mar-16*,38.0,OIL
+64,Debtors Days,12  Mar-16*,49.0,OIL
+65,Net fixed assets,12  Mar-16*,120736.0,OIL
+66,Share capital,12  Mar-16*,6011.0,OIL
+67,"""Free"" reserves",12  Mar-16*,198808.0,OIL
+68,Net worth,12  Mar-16*,225419.0,OIL
+69,Long term debt,12  Mar-16*,93170.0,OIL
+70,Total assets,12  Mar-16*,385524.0,OIL
+71,Interest coverage,12  Mar-16*,9.1,OIL
+72,Debt to equity ratio,12  Mar-16*,0.4,OIL
+73,Sales to assets ratio,12  Mar-16*,0.3,OIL
+74,Return on assets,12  Mar-16*,6.1,OIL
+75,Return on equity,12  Mar-16*,8.9,OIL
+76,Return on capital,12  Mar-16*,11.1,OIL
+77,Exports to sales,12  Mar-16*,0.0,OIL
+78,Imports to sales,12  Mar-16*,0.4,OIL
+79,Exports (fob),12  Mar-16*,0.0,OIL
+80,Imports (cif),12  Mar-16*,410.0,OIL
+81,Fx inflow,12  Mar-16*,238.0,OIL
+82,Fx outflow,12  Mar-16*,9353.0,OIL
+83,Net fx,12  Mar-16*,-9116.0,OIL
+84,From Operations,12  Mar-16*,31258.0,OIL
+85,From Investments,12  Mar-16*,-19992.0,OIL
+86,From Financial Activity,12  Mar-16*,-9727.0,OIL
+87,Net Cashflow,12  Mar-16*,1539.0,OIL
+88,Net Sales,12  Mar-17*,95664.0,OIL
+89,Other income,12  Mar-17*,14198.0,OIL
+90,Total revenues,12  Mar-17*,109861.0,OIL
+91,Gross profit,12  Mar-17*,31205.0,OIL
+92,Depreciation,12  Mar-17*,11804.0,OIL
+93,Interest,12  Mar-17*,4406.0,OIL
+94,Profit before tax,12  Mar-17*,29193.0,OIL
+95,Minority Interest,12  Mar-17*,0.0,OIL
+96,Prior Period Items,12  Mar-17*,5246.0,OIL
+97,Extraordinary Inc (Exp),12  Mar-17*,-11517.0,OIL
+98,Tax,12  Mar-17*,6955.0,OIL
+99,Profit after tax,12  Mar-17*,15966.0,OIL
+100,Gross profit margin,12  Mar-17*,32.6,OIL
+101,Effective tax rate,12  Mar-17*,23.8,OIL
+102,Net profit margin,12  Mar-17*,16.7,OIL
+103,Current assets,12  Mar-17*,118930.0,OIL
+104,Current liabilities,12  Mar-17*,85402.0,OIL
+105,Net working cap to sales,12  Mar-17*,35.0,OIL
+106,Current ratio,12  Mar-17*,1.4,OIL
+107,Inventory Days,12  Mar-17*,42.0,OIL
+108,Debtors Days,12  Mar-17*,39.0,OIL
+109,Net fixed assets,12  Mar-17*,124440.0,OIL
+110,Share capital,12  Mar-17*,8015.0,OIL
+111,"""Free"" reserves",12  Mar-17*,287179.0,OIL
+112,Net worth,12  Mar-17*,295194.0,OIL
+113,Long term debt,12  Mar-17*,89475.0,OIL
+114,Total assets,12  Mar-17*,512343.0,OIL
+115,Interest coverage,12  Mar-17*,7.6,OIL
+116,Debt to equity ratio,12  Mar-17*,0.3,OIL
+117,Sales to assets ratio,12  Mar-17*,0.2,OIL
+118,Return on assets,12  Mar-17*,4.0,OIL
+119,Return on equity,12  Mar-17*,5.4,OIL
+120,Return on capital,12  Mar-17*,7.1,OIL
+121,Exports to sales,12  Mar-17*,0.0,OIL
+122,Imports to sales,12  Mar-17*,0.0,OIL
+123,Exports (fob),12  Mar-17*,0.0,OIL
+124,Imports (cif),12  Mar-17*,0.0,OIL
+125,Fx inflow,12  Mar-17*,471.0,OIL
+126,Fx outflow,12  Mar-17*,9651.0,OIL
+127,Net fx,12  Mar-17*,-9179.0,OIL
+128,From Operations,12  Mar-17*,31139.0,OIL
+129,From Investments,12  Mar-17*,-61393.0,OIL
+130,From Financial Activity,12  Mar-17*,27580.0,OIL
+131,Net Cashflow,12  Mar-17*,68.0,OIL
+132,Net Sales,12  Mar-18*,106978.0,OIL
+133,Other income,12  Mar-18*,10101.0,OIL
+134,Total revenues,12  Mar-18*,117078.0,OIL
+135,Gross profit,12  Mar-18*,39275.0,OIL
+136,Depreciation,12  Mar-18*,13266.0,OIL
+137,Interest,12  Mar-18*,5537.0,OIL
+138,Profit before tax,12  Mar-18*,30573.0,OIL
+139,Minority Interest,12  Mar-18*,0.0,OIL
+140,Prior Period Items,12  Mar-18*,8018.0,OIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,OIL
+142,Tax,12  Mar-18*,11245.0,OIL
+143,Profit after tax,12  Mar-18*,27346.0,OIL
+144,Gross profit margin,12  Mar-18*,36.7,OIL
+145,Effective tax rate,12  Mar-18*,36.8,OIL
+146,Net profit margin,12  Mar-18*,25.6,OIL
+147,Current assets,12  Mar-18*,85084.0,OIL
+148,Current liabilities,12  Mar-18*,43762.0,OIL
+149,Net working cap to sales,12  Mar-18*,38.6,OIL
+150,Current ratio,12  Mar-18*,1.9,OIL
+151,Inventory Days,12  Mar-18*,37.0,OIL
+152,Debtors Days,12  Mar-18*,48.0,OIL
+153,Net fixed assets,12  Mar-18*,133085.0,OIL
+154,Share capital,12  Mar-18*,7566.0,OIL
+155,"""Free"" reserves",12  Mar-18*,282734.0,OIL
+156,Net worth,12  Mar-18*,290300.0,OIL
+157,Long term debt,12  Mar-18*,106898.0,OIL
+158,Total assets,12  Mar-18*,486345.0,OIL
+159,Interest coverage,12  Mar-18*,6.5,OIL
+160,Debt to equity ratio,12  Mar-18*,0.4,OIL
+161,Sales to assets ratio,12  Mar-18*,0.2,OIL
+162,Return on assets,12  Mar-18*,6.8,OIL
+163,Return on equity,12  Mar-18*,9.4,OIL
+164,Return on capital,12  Mar-18*,11.1,OIL
+165,Exports to sales,12  Mar-18*,0.0,OIL
+166,Imports to sales,12  Mar-18*,0.0,OIL
+167,Exports (fob),12  Mar-18*,0.0,OIL
+168,Imports (cif),12  Mar-18*,0.0,OIL
+169,Fx inflow,12  Mar-18*,528.0,OIL
+170,Fx outflow,12  Mar-18*,9031.0,OIL
+171,Net fx,12  Mar-18*,-8502.0,OIL
+172,From Operations,12  Mar-18*,39331.0,OIL
+173,From Investments,12  Mar-18*,14584.0,OIL
+174,From Financial Activity,12  Mar-18*,-56983.0,OIL
+175,Net Cashflow,12  Mar-18*,124.0,OIL
+176,Net Sales,12  Mar-19*,137805.0,OIL
+177,Other income,12  Mar-19*,11269.0,OIL
+178,Total revenues,12  Mar-19*,149073.0,OIL
+179,Gross profit,12  Mar-19*,55905.0,OIL
+180,Depreciation,12  Mar-19*,15407.0,OIL
+181,Interest,12  Mar-19*,6235.0,OIL
+182,Profit before tax,12  Mar-19*,45531.0,OIL
+183,Minority Interest,12  Mar-19*,-10268.0,OIL
+184,Prior Period Items,12  Mar-19*,11509.0,OIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,OIL
+186,Tax,12  Mar-19*,14394.0,OIL
+187,Profit after tax,12  Mar-19*,32378.0,OIL
+188,Gross profit margin,12  Mar-19*,40.6,OIL
+189,Effective tax rate,12  Mar-19*,31.6,OIL
+190,Net profit margin,12  Mar-19*,23.5,OIL
+191,Current assets,12  Mar-19*,118549.0,OIL
+192,Current liabilities,12  Mar-19*,81746.0,OIL
+193,Net working cap to sales,12  Mar-19*,26.7,OIL
+194,Current ratio,12  Mar-19*,1.5,OIL
+195,Inventory Days,12  Mar-19*,32.0,OIL
+196,Debtors Days,12  Mar-19*,35.0,OIL
+197,Net fixed assets,12  Mar-19*,137384.0,OIL
+198,Share capital,12  Mar-19*,18044.0,OIL
+199,"""Free"" reserves",12  Mar-19*,278901.0,OIL
+200,Net worth,12  Mar-19*,296945.0,OIL
+201,Long term debt,12  Mar-19*,107553.0,OIL
+202,Total assets,12  Mar-19*,524324.0,OIL
+203,Interest coverage,12  Mar-19*,8.3,OIL
+204,Debt to equity ratio,12  Mar-19*,0.4,OIL
+205,Sales to assets ratio,12  Mar-19*,0.3,OIL
+206,Return on assets,12  Mar-19*,7.4,OIL
+207,Return on equity,12  Mar-19*,10.9,OIL
+208,Return on capital,12  Mar-19*,13.1,OIL
+209,Exports to sales,12  Mar-19*,0.0,OIL
+210,Imports to sales,12  Mar-19*,0.0,OIL
+211,Exports (fob),12  Mar-19*,0.0,OIL
+212,Imports (cif),12  Mar-19*,0.0,OIL
+213,Fx inflow,12  Mar-19*,598.0,OIL
+214,Fx outflow,12  Mar-19*,0.0,OIL
+215,Net fx,12  Mar-19*,598.0,OIL
+216,From Operations,12  Mar-19*,61739.0,OIL
+217,From Investments,12  Mar-19*,-17353.0,OIL
+218,From Financial Activity,12  Mar-19*,-9402.0,OIL
+219,Net Cashflow,12  Mar-19*,35045.0,OIL

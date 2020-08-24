@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,2147.0,MTEL
+1,Other income,12  Mar-15*,123.0,MTEL
+2,Total revenues,12  Mar-15*,2270.0,MTEL
+3,Gross profit,12  Mar-15*,414.0,MTEL
+4,Depreciation,12  Mar-15*,89.0,MTEL
+5,Interest,12  Mar-15*,40.0,MTEL
+6,Profit before tax,12  Mar-15*,407.0,MTEL
+7,Minority Interest,12  Mar-15*,7.0,MTEL
+8,Prior Period Items,12  Mar-15*,0.0,MTEL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MTEL
+10,Tax,12  Mar-15*,117.0,MTEL
+11,Profit after tax,12  Mar-15*,297.0,MTEL
+12,Gross profit margin,12  Mar-15*,19.3,MTEL
+13,Effective tax rate,12  Mar-15*,28.7,MTEL
+14,Net profit margin,12  Mar-15*,13.8,MTEL
+15,Current assets,12  Mar-15*,582.0,MTEL
+16,Current liabilities,12  Mar-15*,791.0,MTEL
+17,Net working cap to sales,12  Mar-15*,-9.7,MTEL
+18,Current ratio,12  Mar-15*,0.7,MTEL
+19,Inventory Days,12  Mar-15*,1.0,MTEL
+20,Debtors Days,12  Mar-15*,35.0,MTEL
+21,Net fixed assets,12  Mar-15*,516.0,MTEL
+22,Share capital,12  Mar-15*,398.0,MTEL
+23,"""Free"" reserves",12  Mar-15*,859.0,MTEL
+24,Net worth,12  Mar-15*,1257.0,MTEL
+25,Long term debt,12  Mar-15*,0.0,MTEL
+26,Total assets,12  Mar-15*,2139.0,MTEL
+27,Interest coverage,12  Mar-15*,11.1,MTEL
+28,Debt to equity ratio,12  Mar-15*,0.0,MTEL
+29,Sales to assets ratio,12  Mar-15*,1.0,MTEL
+30,Return on assets,12  Mar-15*,15.8,MTEL
+31,Return on equity,12  Mar-15*,23.6,MTEL
+32,Return on capital,12  Mar-15*,36.1,MTEL
+33,Exports to sales,12  Mar-15*,0.0,MTEL
+34,Imports to sales,12  Mar-15*,0.0,MTEL
+35,Exports (fob),12  Mar-15*,0.0,MTEL
+36,Imports (cif),12  Mar-15*,0.0,MTEL
+37,Fx inflow,12  Mar-15*,3.0,MTEL
+38,Fx outflow,12  Mar-15*,1.0,MTEL
+39,Net fx,12  Mar-15*,2.0,MTEL
+40,From Operations,12  Mar-15*,170.0,MTEL
+41,From Investments,12  Mar-15*,-47.0,MTEL
+42,From Financial Activity,12  Mar-15*,-77.0,MTEL
+43,Net Cashflow,12  Mar-15*,45.0,MTEL
+44,Net Sales,12  Mar-16*,2328.0,MTEL
+45,Other income,12  Mar-16*,543.0,MTEL
+46,Total revenues,12  Mar-16*,2871.0,MTEL
+47,Gross profit,12  Mar-16*,121.0,MTEL
+48,Depreciation,12  Mar-16*,156.0,MTEL
+49,Interest,12  Mar-16*,33.0,MTEL
+50,Profit before tax,12  Mar-16*,475.0,MTEL
+51,Minority Interest,12  Mar-16*,2.0,MTEL
+52,Prior Period Items,12  Mar-16*,0.0,MTEL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MTEL
+54,Tax,12  Mar-16*,153.0,MTEL
+55,Profit after tax,12  Mar-16*,323.0,MTEL
+56,Gross profit margin,12  Mar-16*,5.2,MTEL
+57,Effective tax rate,12  Mar-16*,32.2,MTEL
+58,Net profit margin,12  Mar-16*,13.9,MTEL
+59,Current assets,12  Mar-16*,736.0,MTEL
+60,Current liabilities,12  Mar-16*,1284.0,MTEL
+61,Net working cap to sales,12  Mar-16*,-23.5,MTEL
+62,Current ratio,12  Mar-16*,0.6,MTEL
+63,Inventory Days,12  Mar-16*,2.0,MTEL
+64,Debtors Days,12  Mar-16*,62.0,MTEL
+65,Net fixed assets,12  Mar-16*,675.0,MTEL
+66,Share capital,12  Mar-16*,398.0,MTEL
+67,"""Free"" reserves",12  Mar-16*,1027.0,MTEL
+68,Net worth,12  Mar-16*,1425.0,MTEL
+69,Long term debt,12  Mar-16*,0.0,MTEL
+70,Total assets,12  Mar-16*,2782.0,MTEL
+71,Interest coverage,12  Mar-16*,15.5,MTEL
+72,Debt to equity ratio,12  Mar-16*,0.0,MTEL
+73,Sales to assets ratio,12  Mar-16*,0.8,MTEL
+74,Return on assets,12  Mar-16*,12.8,MTEL
+75,Return on equity,12  Mar-16*,22.7,MTEL
+76,Return on capital,12  Mar-16*,35.7,MTEL
+77,Exports to sales,12  Mar-16*,0.0,MTEL
+78,Imports to sales,12  Mar-16*,0.0,MTEL
+79,Exports (fob),12  Mar-16*,0.0,MTEL
+80,Imports (cif),12  Mar-16*,0.0,MTEL
+81,Fx inflow,12  Mar-16*,3.0,MTEL
+82,Fx outflow,12  Mar-16*,0.0,MTEL
+83,Net fx,12  Mar-16*,3.0,MTEL
+84,From Operations,12  Mar-16*,323.0,MTEL
+85,From Investments,12  Mar-16*,-499.0,MTEL
+86,From Financial Activity,12  Mar-16*,144.0,MTEL
+87,Net Cashflow,12  Mar-16*,-31.0,MTEL
+88,Net Sales,12  Mar-17*,3046.0,MTEL
+89,Other income,12  Mar-17*,134.0,MTEL
+90,Total revenues,12  Mar-17*,3180.0,MTEL
+91,Gross profit,12  Mar-17*,305.0,MTEL
+92,Depreciation,12  Mar-17*,188.0,MTEL
+93,Interest,12  Mar-17*,144.0,MTEL
+94,Profit before tax,12  Mar-17*,108.0,MTEL
+95,Minority Interest,12  Mar-17*,0.0,MTEL
+96,Prior Period Items,12  Mar-17*,0.0,MTEL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MTEL
+98,Tax,12  Mar-17*,49.0,MTEL
+99,Profit after tax,12  Mar-17*,58.0,MTEL
+100,Gross profit margin,12  Mar-17*,10.0,MTEL
+101,Effective tax rate,12  Mar-17*,45.7,MTEL
+102,Net profit margin,12  Mar-17*,1.9,MTEL
+103,Current assets,12  Mar-17*,1708.0,MTEL
+104,Current liabilities,12  Mar-17*,2085.0,MTEL
+105,Net working cap to sales,12  Mar-17*,-12.4,MTEL
+106,Current ratio,12  Mar-17*,0.8,MTEL
+107,Inventory Days,12  Mar-17*,0.0,MTEL
+108,Debtors Days,12  Mar-17*,138.0,MTEL
+109,Net fixed assets,12  Mar-17*,445.0,MTEL
+110,Share capital,12  Mar-17*,398.0,MTEL
+111,"""Free"" reserves",12  Mar-17*,1019.0,MTEL
+112,Net worth,12  Mar-17*,1418.0,MTEL
+113,Long term debt,12  Mar-17*,201.0,MTEL
+114,Total assets,12  Mar-17*,3752.0,MTEL
+115,Interest coverage,12  Mar-17*,1.7,MTEL
+116,Debt to equity ratio,12  Mar-17*,0.1,MTEL
+117,Sales to assets ratio,12  Mar-17*,0.8,MTEL
+118,Return on assets,12  Mar-17*,5.4,MTEL
+119,Return on equity,12  Mar-17*,4.1,MTEL
+120,Return on capital,12  Mar-17*,15.5,MTEL
+121,Exports to sales,12  Mar-17*,0.0,MTEL
+122,Imports to sales,12  Mar-17*,0.0,MTEL
+123,Exports (fob),12  Mar-17*,0.0,MTEL
+124,Imports (cif),12  Mar-17*,0.0,MTEL
+125,Fx inflow,12  Mar-17*,3.0,MTEL
+126,Fx outflow,12  Mar-17*,0.0,MTEL
+127,Net fx,12  Mar-17*,3.0,MTEL
+128,From Operations,12  Mar-17*,-793.0,MTEL
+129,From Investments,12  Mar-17*,-70.0,MTEL
+130,From Financial Activity,12  Mar-17*,915.0,MTEL
+131,Net Cashflow,12  Mar-17*,52.0,MTEL
+132,Net Sales,12  Mar-18*,2226.0,MTEL
+133,Other income,12  Mar-18*,145.0,MTEL
+134,Total revenues,12  Mar-18*,2371.0,MTEL
+135,Gross profit,12  Mar-18*,-1719.0,MTEL
+136,Depreciation,12  Mar-18*,214.0,MTEL
+137,Interest,12  Mar-18*,230.0,MTEL
+138,Profit before tax,12  Mar-18*,-2017.0,MTEL
+139,Minority Interest,12  Mar-18*,0.0,MTEL
+140,Prior Period Items,12  Mar-18*,0.0,MTEL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MTEL
+142,Tax,12  Mar-18*,-699.0,MTEL
+143,Profit after tax,12  Mar-18*,-1318.0,MTEL
+144,Gross profit margin,12  Mar-18*,-77.2,MTEL
+145,Effective tax rate,12  Mar-18*,34.6,MTEL
+146,Net profit margin,12  Mar-18*,-59.2,MTEL
+147,Current assets,12  Mar-18*,2632.0,MTEL
+148,Current liabilities,12  Mar-18*,1301.0,MTEL
+149,Net working cap to sales,12  Mar-18*,59.8,MTEL
+150,Current ratio,12  Mar-18*,2.0,MTEL
+151,Inventory Days,12  Mar-18*,0.0,MTEL
+152,Debtors Days,12  Mar-18*,29.0,MTEL
+153,Net fixed assets,12  Mar-18*,656.0,MTEL
+154,Share capital,12  Mar-18*,718.0,MTEL
+155,"""Free"" reserves",12  Mar-18*,1331.0,MTEL
+156,Net worth,12  Mar-18*,2049.0,MTEL
+157,Long term debt,12  Mar-18*,1300.0,MTEL
+158,Total assets,12  Mar-18*,4740.0,MTEL
+159,Interest coverage,12  Mar-18*,-7.8,MTEL
+160,Debt to equity ratio,12  Mar-18*,0.6,MTEL
+161,Sales to assets ratio,12  Mar-18*,0.5,MTEL
+162,Return on assets,12  Mar-18*,-23.0,MTEL
+163,Return on equity,12  Mar-18*,-64.3,MTEL
+164,Return on capital,12  Mar-18*,-53.4,MTEL
+165,Exports to sales,12  Mar-18*,0.0,MTEL
+166,Imports to sales,12  Mar-18*,0.0,MTEL
+167,Exports (fob),12  Mar-18*,0.0,MTEL
+168,Imports (cif),12  Mar-18*,0.0,MTEL
+169,Fx inflow,12  Mar-18*,3.0,MTEL
+170,Fx outflow,12  Mar-18*,3.0,MTEL
+171,Net fx,12  Mar-18*,0.0,MTEL
+172,From Operations,12  Mar-18*,-654.0,MTEL
+173,From Investments,12  Mar-18*,-1497.0,MTEL
+174,From Financial Activity,12  Mar-18*,2012.0,MTEL
+175,Net Cashflow,12  Mar-18*,-140.0,MTEL
+176,Net Sales,12  Mar-19*,2286.0,MTEL
+177,Other income,12  Mar-19*,208.0,MTEL
+178,Total revenues,12  Mar-19*,2494.0,MTEL
+179,Gross profit,12  Mar-19*,285.0,MTEL
+180,Depreciation,12  Mar-19*,181.0,MTEL
+181,Interest,12  Mar-19*,198.0,MTEL
+182,Profit before tax,12  Mar-19*,114.0,MTEL
+183,Minority Interest,12  Mar-19*,0.0,MTEL
+184,Prior Period Items,12  Mar-19*,0.0,MTEL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MTEL
+186,Tax,12  Mar-19*,23.0,MTEL
+187,Profit after tax,12  Mar-19*,91.0,MTEL
+188,Gross profit margin,12  Mar-19*,12.5,MTEL
+189,Effective tax rate,12  Mar-19*,19.9,MTEL
+190,Net profit margin,12  Mar-19*,4.0,MTEL
+191,Current assets,12  Mar-19*,1517.0,MTEL
+192,Current liabilities,12  Mar-19*,1237.0,MTEL
+193,Net working cap to sales,12  Mar-19*,12.3,MTEL
+194,Current ratio,12  Mar-19*,1.2,MTEL
+195,Inventory Days,12  Mar-19*,0.0,MTEL
+196,Debtors Days,12  Mar-19*,41.0,MTEL
+197,Net fixed assets,12  Mar-19*,4720.0,MTEL
+198,Share capital,12  Mar-19*,722.0,MTEL
+199,"""Free"" reserves",12  Mar-19*,1469.0,MTEL
+200,Net worth,12  Mar-19*,2192.0,MTEL
+201,Long term debt,12  Mar-19*,1042.0,MTEL
+202,Total assets,12  Mar-19*,4536.0,MTEL
+203,Interest coverage,12  Mar-19*,1.6,MTEL
+204,Debt to equity ratio,12  Mar-19*,0.5,MTEL
+205,Sales to assets ratio,12  Mar-19*,0.5,MTEL
+206,Return on assets,12  Mar-19*,6.4,MTEL
+207,Return on equity,12  Mar-19*,4.2,MTEL
+208,Return on capital,12  Mar-19*,9.6,MTEL
+209,Exports to sales,12  Mar-19*,0.0,MTEL
+210,Imports to sales,12  Mar-19*,0.0,MTEL
+211,Exports (fob),12  Mar-19*,0.0,MTEL
+212,Imports (cif),12  Mar-19*,0.0,MTEL
+213,Fx inflow,12  Mar-19*,3.0,MTEL
+214,Fx outflow,12  Mar-19*,7.0,MTEL
+215,Net fx,12  Mar-19*,-3.0,MTEL
+216,From Operations,12  Mar-19*,-442.0,MTEL
+217,From Investments,12  Mar-19*,1374.0,MTEL
+218,From Financial Activity,12  Mar-19*,-929.0,MTEL
+219,Net Cashflow,12  Mar-19*,8.0,MTEL

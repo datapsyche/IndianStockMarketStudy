@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-14*,35966.0,IFCI
+1,Other income,12  Mar-14*,451.0,IFCI
+2,Interest expense,12  Mar-14*,17620.0,IFCI
+3,Net interest income,12  Mar-14*,18347.0,IFCI
+4,Operating expense,12  Mar-14*,4447.0,IFCI
+5,Gross profit,12  Mar-14*,13900.0,IFCI
+6,Gross profit margin,12  Mar-14*,38.6,IFCI
+7,Provisions/contingencies,12  Mar-14*,6734.0,IFCI
+8,Profit before tax,12  Mar-14*,7616.0,IFCI
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,IFCI
+10,Minority Interest,12  Mar-14*,0.0,IFCI
+11,Prior Period Items,12  Mar-14*,0.0,IFCI
+12,Tax,12  Mar-14*,1955.0,IFCI
+13,Profit after tax,12  Mar-14*,5661.0,IFCI
+14,Net profit margin,12  Mar-14*,15.7,IFCI
+15,Advances,12  Mar-14*,193147,IFCI
+16,Deposits,12  Mar-14*,0,IFCI
+17,Credit/Deposit ratio,12  Mar-14*,NM,IFCI
+18,Yield on advances,12  Mar-14*,0,IFCI
+19,Cost of deposits,12  Mar-14*,N.A.,IFCI
+20,Net Interest Margin,12  Mar-14*,7.1,IFCI
+21,Net fixed assets,12  Mar-14*,14972,IFCI
+22,Share capital,12  Mar-14*,1661,IFCI
+23,Free reserves,12  Mar-14*,39788,IFCI
+24,Net worth,12  Mar-14*,55703,IFCI
+25,Borrowings,12  Mar-14*,209143,IFCI
+26,Investments,12  Mar-14*,64015,IFCI
+27,Total assets,12  Mar-14*,310129,IFCI
+28,Debt/equity ratio,12  Mar-14*,3.8,IFCI
+29,Return on assets,12  Mar-14*,1.8,IFCI
+30,Return on equity,12  Mar-14*,10.2,IFCI
+31,Capital adequacy ratio,12  Mar-14*,21.3,IFCI
+32,Net NPAs,12  Mar-14*,0.1,IFCI
+33,From Operations,12  Mar-14*,8744,IFCI
+34,From Investments,12  Mar-14*,-1756,IFCI
+35,From Financial Activity,12  Mar-14*,-2010,IFCI
+36,Net Cashflow,12  Mar-14*,4978,IFCI
+37,Interest income,12  Mar-15*,38560.0,IFCI
+38,Other income,12  Mar-15*,904.0,IFCI
+39,Interest expense,12  Mar-15*,21728.0,IFCI
+40,Net interest income,12  Mar-15*,16832.0,IFCI
+41,Operating expense,12  Mar-15*,4505.0,IFCI
+42,Gross profit,12  Mar-15*,12327.0,IFCI
+43,Gross profit margin,12  Mar-15*,32.0,IFCI
+44,Provisions/contingencies,12  Mar-15*,-11.0,IFCI
+45,Profit before tax,12  Mar-15*,7749.0,IFCI
+46,Extraordinary Inc (Exp),12  Mar-15*,0.0,IFCI
+47,Minority Interest,12  Mar-15*,0.0,IFCI
+48,Prior Period Items,12  Mar-15*,0.0,IFCI
+49,Tax,12  Mar-15*,2166.0,IFCI
+50,Profit after tax,12  Mar-15*,5583.0,IFCI
+51,Net profit margin,12  Mar-15*,14.5,IFCI
+52,Advances,12  Mar-15*,253774,IFCI
+53,Deposits,12  Mar-15*,0,IFCI
+54,Credit/Deposit ratio,12  Mar-15*,NM,IFCI
+55,Yield on advances,12  Mar-15*,0,IFCI
+56,Cost of deposits,12  Mar-15*,N.A.,IFCI
+57,Net Interest Margin,12  Mar-15*,5.3,IFCI
+58,Net fixed assets,12  Mar-15*,14926,IFCI
+59,Share capital,12  Mar-15*,19254,IFCI
+60,Free reserves,12  Mar-15*,42527,IFCI
+61,Net worth,12  Mar-15*,74867,IFCI
+62,Borrowings,12  Mar-15*,221949,IFCI
+63,Investments,12  Mar-15*,63302,IFCI
+64,Total assets,12  Mar-15*,369699,IFCI
+65,Debt/equity ratio,12  Mar-15*,3.0,IFCI
+66,Return on assets,12  Mar-15*,1.5,IFCI
+67,Return on equity,12  Mar-15*,7.5,IFCI
+68,Capital adequacy ratio,12  Mar-15*,18.8,IFCI
+69,Net NPAs,12  Mar-15*,7.2,IFCI
+70,From Operations,12  Mar-15*,2630,IFCI
+71,From Investments,12  Mar-15*,72,IFCI
+72,From Financial Activity,12  Mar-15*,-4086,IFCI
+73,Net Cashflow,12  Mar-15*,-1384,IFCI
+74,Interest income,12  Mar-16*,44583.0,IFCI
+75,Other income,12  Mar-16*,1753.0,IFCI
+76,Interest expense,12  Mar-16*,25989.0,IFCI
+77,Net interest income,12  Mar-16*,18595.0,IFCI
+78,Operating expense,12  Mar-16*,5172.0,IFCI
+79,Gross profit,12  Mar-16*,13423.0,IFCI
+80,Gross profit margin,12  Mar-16*,30.1,IFCI
+81,Provisions/contingencies,12  Mar-16*,-6136.0,IFCI
+82,Profit before tax,12  Mar-16*,5010.0,IFCI
+83,Extraordinary Inc (Exp),12  Mar-16*,0.0,IFCI
+84,Minority Interest,12  Mar-16*,0.0,IFCI
+85,Prior Period Items,12  Mar-16*,0.0,IFCI
+86,Tax,12  Mar-16*,1224.0,IFCI
+87,Profit after tax,12  Mar-16*,3786.0,IFCI
+88,Net profit margin,12  Mar-16*,8.5,IFCI
+89,Advances,12  Mar-16*,269213,IFCI
+90,Deposits,12  Mar-16*,0,IFCI
+91,Credit/Deposit ratio,12  Mar-16*,NM,IFCI
+92,Yield on advances,12  Mar-16*,0,IFCI
+93,Cost of deposits,12  Mar-16*,N.A.,IFCI
+94,Net Interest Margin,12  Mar-16*,5.5,IFCI
+95,Net fixed assets,12  Mar-16*,14193,IFCI
+96,Share capital,12  Mar-16*,19254,IFCI
+97,Free reserves,12  Mar-16*,42949,IFCI
+98,Net worth,12  Mar-16*,75649,IFCI
+99,Borrowings,12  Mar-16*,225439,IFCI
+100,Investments,12  Mar-16*,68599,IFCI
+101,Total assets,12  Mar-16*,391458,IFCI
+102,Debt/equity ratio,12  Mar-16*,3.0,IFCI
+103,Return on assets,12  Mar-16*,1.0,IFCI
+104,Return on equity,12  Mar-16*,5.0,IFCI
+105,Capital adequacy ratio,12  Mar-16*,16.9,IFCI
+106,Net NPAs,12  Mar-16*,9.5,IFCI
+107,From Operations,12  Mar-16*,-53,IFCI
+108,From Investments,12  Mar-16*,765,IFCI
+109,From Financial Activity,12  Mar-16*,-3163,IFCI
+110,Net Cashflow,12  Mar-16*,-2450,IFCI
+111,Interest income,12  Mar-17*,35791.0,IFCI
+112,Other income,12  Mar-17*,1022.0,IFCI
+113,Interest expense,12  Mar-17*,23798.0,IFCI
+114,Net interest income,12  Mar-17*,11994.0,IFCI
+115,Operating expense,12  Mar-17*,5904.0,IFCI
+116,Gross profit,12  Mar-17*,6090.0,IFCI
+117,Gross profit margin,12  Mar-17*,17.0,IFCI
+118,Provisions/contingencies,12  Mar-17*,-15839.0,IFCI
+119,Profit before tax,12  Mar-17*,-6090.0,IFCI
+120,Extraordinary Inc (Exp),12  Mar-17*,0.0,IFCI
+121,Minority Interest,12  Mar-17*,0.0,IFCI
+122,Prior Period Items,12  Mar-17*,0.0,IFCI
+123,Tax,12  Mar-17*,-2847.0,IFCI
+124,Profit after tax,12  Mar-17*,-3243.0,IFCI
+125,Net profit margin,12  Mar-17*,-9.1,IFCI
+126,Advances,12  Mar-17*,228412,IFCI
+127,Deposits,12  Mar-17*,0,IFCI
+128,Credit/Deposit ratio,12  Mar-17*,NM,IFCI
+129,Yield on advances,12  Mar-17*,0,IFCI
+130,Cost of deposits,12  Mar-17*,N.A.,IFCI
+131,Net Interest Margin,12  Mar-17*,4.3,IFCI
+132,Net fixed assets,12  Mar-17*,13792,IFCI
+133,Share capital,12  Mar-17*,19259,IFCI
+134,Free reserves,12  Mar-17*,38591,IFCI
+135,Net worth,12  Mar-17*,71338,IFCI
+136,Borrowings,12  Mar-17*,195368,IFCI
+137,Investments,12  Mar-17*,51504,IFCI
+138,Total assets,12  Mar-17*,342817,IFCI
+139,Debt/equity ratio,12  Mar-17*,2.7,IFCI
+140,Return on assets,12  Mar-17*,-0.9,IFCI
+141,Return on equity,12  Mar-17*,-4.5,IFCI
+142,Capital adequacy ratio,12  Mar-17*,16.7,IFCI
+143,Net NPAs,12  Mar-17*,27.0,IFCI
+144,From Operations,12  Mar-17*,8019,IFCI
+145,From Investments,12  Mar-17*,-82,IFCI
+146,From Financial Activity,12  Mar-17*,-285,IFCI
+147,Net Cashflow,12  Mar-17*,7651,IFCI
+148,Interest income,12  Mar-18*,34452.0,IFCI
+149,Other income,12  Mar-18*,696.0,IFCI
+150,Interest expense,12  Mar-18*,21092.0,IFCI
+151,Net interest income,12  Mar-18*,13360.0,IFCI
+152,Operating expense,12  Mar-18*,6453.0,IFCI
+153,Gross profit,12  Mar-18*,6907.0,IFCI
+154,Gross profit margin,12  Mar-18*,20.0,IFCI
+155,Provisions/contingencies,12  Mar-18*,14469.0,IFCI
+156,Profit before tax,12  Mar-18*,-17203.0,IFCI
+157,Extraordinary Inc (Exp),12  Mar-18*,0.0,IFCI
+158,Minority Interest,12  Mar-18*,0.0,IFCI
+159,Prior Period Items,12  Mar-18*,0.0,IFCI
+160,Tax,12  Mar-18*,-7488.0,IFCI
+161,Profit after tax,12  Mar-18*,-9715.0,IFCI
+162,Net profit margin,12  Mar-18*,-28.2,IFCI
+163,Advances,12  Mar-18*,322558,IFCI
+164,Deposits,12  Mar-18*,0,IFCI
+165,Credit/Deposit ratio,12  Mar-18*,NM,IFCI
+166,Yield on advances,12  Mar-18*,0,IFCI
+167,Cost of deposits,12  Mar-18*,N.A.,IFCI
+168,Net Interest Margin,12  Mar-18*,3.6,IFCI
+169,Net fixed assets,12  Mar-18*,13191,IFCI
+170,Share capital,12  Mar-18*,19210,IFCI
+171,Free reserves,12  Mar-18*,27761,IFCI
+172,Net worth,12  Mar-18*,60732,IFCI
+173,Borrowings,12  Mar-18*,163199,IFCI
+174,Investments,12  Mar-18*,52426,IFCI
+175,Total assets,12  Mar-18*,298182,IFCI
+176,Debt/equity ratio,12  Mar-18*,2.7,IFCI
+177,Return on assets,12  Mar-18*,-3.3,IFCI
+178,Return on equity,12  Mar-18*,-16.0,IFCI
+179,Capital adequacy ratio,12  Mar-18*,14.0,IFCI
+180,Net NPAs,12  Mar-18*,29.6,IFCI
+181,From Operations,12  Mar-18*,-7403,IFCI
+182,From Investments,12  Mar-18*,192,IFCI
+183,From Financial Activity,12  Mar-18*,431,IFCI
+184,Net Cashflow,12  Mar-18*,-6781,IFCI

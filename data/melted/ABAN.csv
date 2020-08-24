@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,39363.0,ABAN
+1,Other income,12  Mar-14*,309.0,ABAN
+2,Total revenues,12  Mar-14*,39671.0,ABAN
+3,Gross profit,12  Mar-14*,22039.0,ABAN
+4,Depreciation,12  Mar-14*,5484.0,ABAN
+5,Interest,12  Mar-14*,11406.0,ABAN
+6,Profit before tax,12  Mar-14*,5458.0,ABAN
+7,Minority Interest,12  Mar-14*,0.0,ABAN
+8,Prior Period Items,12  Mar-14*,18.0,ABAN
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,ABAN
+10,Tax,12  Mar-14*,1545.0,ABAN
+11,Profit after tax,12  Mar-14*,3931.0,ABAN
+12,Gross profit margin,12  Mar-14*,56.0,ABAN
+13,Effective tax rate,12  Mar-14*,28.3,ABAN
+14,Net profit margin,12  Mar-14*,10.0,ABAN
+15,Current assets,12  Mar-14*,19779.0,ABAN
+16,Current liabilities,12  Mar-14*,47659.0,ABAN
+17,Net working cap to sales,12  Mar-14*,-70.8,ABAN
+18,Current ratio,12  Mar-14*,0.4,ABAN
+19,Inventory Days,12  Mar-14*,35.0,ABAN
+20,Debtors Days,12  Mar-14*,119.0,ABAN
+21,Net fixed assets,12  Mar-14*,178658.0,ABAN
+22,Share capital,12  Mar-14*,87.0,ABAN
+23,"""Free"" reserves",12  Mar-14*,27868.0,ABAN
+24,Net worth,12  Mar-14*,38852.0,ABAN
+25,Long term debt,12  Mar-14*,110508.0,ABAN
+26,Total assets,12  Mar-14*,200474.0,ABAN
+27,Interest coverage,12  Mar-14*,1.5,ABAN
+28,Debt to equity ratio,12  Mar-14*,2.8,ABAN
+29,Sales to assets ratio,12  Mar-14*,0.2,ABAN
+30,Return on assets,12  Mar-14*,7.7,ABAN
+31,Return on equity,12  Mar-14*,10.1,ABAN
+32,Return on capital,12  Mar-14*,11.3,ABAN
+33,Exports to sales,12  Mar-14*,0.0,ABAN
+34,Imports to sales,12  Mar-14*,8.3,ABAN
+35,Exports (fob),12  Mar-14*,0.0,ABAN
+36,Imports (cif),12  Mar-14*,3265.0,ABAN
+37,Fx inflow,12  Mar-14*,8438.0,ABAN
+38,Fx outflow,12  Mar-14*,4873.0,ABAN
+39,Net fx,12  Mar-14*,3565.0,ABAN
+40,From Operations,12  Mar-14*,29917.0,ABAN
+41,From Investments,12  Mar-14*,-14248.0,ABAN
+42,From Financial Activity,12  Mar-14*,-15646.0,ABAN
+43,Net Cashflow,12  Mar-14*,23.0,ABAN
+44,Net Sales,12  Mar-15*,40408.0,ABAN
+45,Other income,12  Mar-15*,444.0,ABAN
+46,Total revenues,12  Mar-15*,40852.0,ABAN
+47,Gross profit,12  Mar-15*,23788.0,ABAN
+48,Depreciation,12  Mar-15*,5980.0,ABAN
+49,Interest,12  Mar-15*,10910.0,ABAN
+50,Profit before tax,12  Mar-15*,7342.0,ABAN
+51,Minority Interest,12  Mar-15*,0.0,ABAN
+52,Prior Period Items,12  Mar-15*,45.0,ABAN
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ABAN
+54,Tax,12  Mar-15*,1938.0,ABAN
+55,Profit after tax,12  Mar-15*,5449.0,ABAN
+56,Gross profit margin,12  Mar-15*,58.9,ABAN
+57,Effective tax rate,12  Mar-15*,26.4,ABAN
+58,Net profit margin,12  Mar-15*,13.5,ABAN
+59,Current assets,12  Mar-15*,22406.0,ABAN
+60,Current liabilities,12  Mar-15*,21075.0,ABAN
+61,Net working cap to sales,12  Mar-15*,3.3,ABAN
+62,Current ratio,12  Mar-15*,1.1,ABAN
+63,Inventory Days,12  Mar-15*,34.0,ABAN
+64,Debtors Days,12  Mar-15*,144.0,ABAN
+65,Net fixed assets,12  Mar-15*,183817.0,ABAN
+66,Share capital,12  Mar-15*,115.0,ABAN
+67,"""Free"" reserves",12  Mar-15*,54025.0,ABAN
+68,Net worth,12  Mar-15*,54140.0,ABAN
+69,Long term debt,12  Mar-15*,130878.0,ABAN
+70,Total assets,12  Mar-15*,209726.0,ABAN
+71,Interest coverage,12  Mar-15*,1.7,ABAN
+72,Debt to equity ratio,12  Mar-15*,2.4,ABAN
+73,Sales to assets ratio,12  Mar-15*,0.2,ABAN
+74,Return on assets,12  Mar-15*,7.8,ABAN
+75,Return on equity,12  Mar-15*,10.1,ABAN
+76,Return on capital,12  Mar-15*,9.9,ABAN
+77,Exports to sales,12  Mar-15*,0.0,ABAN
+78,Imports to sales,12  Mar-15*,6.0,ABAN
+79,Exports (fob),12  Mar-15*,0.0,ABAN
+80,Imports (cif),12  Mar-15*,2427.0,ABAN
+81,Fx inflow,12  Mar-15*,7913.0,ABAN
+82,Fx outflow,12  Mar-15*,1624.0,ABAN
+83,Net fx,12  Mar-15*,6289.0,ABAN
+84,From Operations,12  Mar-15*,-6639.0,ABAN
+85,From Investments,12  Mar-15*,-9218.0,ABAN
+86,From Financial Activity,12  Mar-15*,15593.0,ABAN
+87,Net Cashflow,12  Mar-15*,-256.0,ABAN
+88,Net Sales,12  Mar-16*,33346.0,ABAN
+89,Other income,12  Mar-16*,194.0,ABAN
+90,Total revenues,12  Mar-16*,33539.0,ABAN
+91,Gross profit,12  Mar-16*,18916.0,ABAN
+92,Depreciation,12  Mar-16*,6615.0,ABAN
+93,Interest,12  Mar-16*,9752.0,ABAN
+94,Profit before tax,12  Mar-16*,2743.0,ABAN
+95,Minority Interest,12  Mar-16*,0.0,ABAN
+96,Prior Period Items,12  Mar-16*,20.0,ABAN
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,ABAN
+98,Tax,12  Mar-16*,2251.0,ABAN
+99,Profit after tax,12  Mar-16*,513.0,ABAN
+100,Gross profit margin,12  Mar-16*,56.7,ABAN
+101,Effective tax rate,12  Mar-16*,82.0,ABAN
+102,Net profit margin,12  Mar-16*,1.5,ABAN
+103,Current assets,12  Mar-16*,29729.0,ABAN
+104,Current liabilities,12  Mar-16*,25608.0,ABAN
+105,Net working cap to sales,12  Mar-16*,12.4,ABAN
+106,Current ratio,12  Mar-16*,1.2,ABAN
+107,Inventory Days,12  Mar-16*,45.0,ABAN
+108,Debtors Days,12  Mar-16*,254.0,ABAN
+109,Net fixed assets,12  Mar-16*,188506.0,ABAN
+110,Share capital,12  Mar-16*,117.0,ABAN
+111,"""Free"" reserves",12  Mar-16*,57546.0,ABAN
+112,Net worth,12  Mar-16*,57663.0,ABAN
+113,Long term debt,12  Mar-16*,133707.0,ABAN
+114,Total assets,12  Mar-16*,220651.0,ABAN
+115,Interest coverage,12  Mar-16*,1.3,ABAN
+116,Debt to equity ratio,12  Mar-16*,2.3,ABAN
+117,Sales to assets ratio,12  Mar-16*,0.2,ABAN
+118,Return on assets,12  Mar-16*,4.7,ABAN
+119,Return on equity,12  Mar-16*,0.9,ABAN
+120,Return on capital,12  Mar-16*,6.5,ABAN
+121,Exports to sales,12  Mar-16*,0.0,ABAN
+122,Imports to sales,12  Mar-16*,1.7,ABAN
+123,Exports (fob),12  Mar-16*,0.0,ABAN
+124,Imports (cif),12  Mar-16*,556.0,ABAN
+125,Fx inflow,12  Mar-16*,10770.0,ABAN
+126,Fx outflow,12  Mar-16*,1711.0,ABAN
+127,Net fx,12  Mar-16*,9059.0,ABAN
+128,From Operations,12  Mar-16*,12994.0,ABAN
+129,From Investments,12  Mar-16*,-8449.0,ABAN
+130,From Financial Activity,12  Mar-16*,-4366.0,ABAN
+131,Net Cashflow,12  Mar-16*,178.0,ABAN
+132,Net Sales,12  Mar-17*,17579.0,ABAN
+133,Other income,12  Mar-17*,149.0,ABAN
+134,Total revenues,12  Mar-17*,17728.0,ABAN
+135,Gross profit,12  Mar-17*,9066.0,ABAN
+136,Depreciation,12  Mar-17*,7012.0,ABAN
+137,Interest,12  Mar-17*,10905.0,ABAN
+138,Profit before tax,12  Mar-17*,-8702.0,ABAN
+139,Minority Interest,12  Mar-17*,0.0,ABAN
+140,Prior Period Items,12  Mar-17*,2.0,ABAN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ABAN
+142,Tax,12  Mar-17*,1709.0,ABAN
+143,Profit after tax,12  Mar-17*,-10408.0,ABAN
+144,Gross profit margin,12  Mar-17*,51.6,ABAN
+145,Effective tax rate,12  Mar-17*,-19.6,ABAN
+146,Net profit margin,12  Mar-17*,-59.2,ABAN
+147,Current assets,12  Mar-17*,24259.0,ABAN
+148,Current liabilities,12  Mar-17*,38418.0,ABAN
+149,Net working cap to sales,12  Mar-17*,-80.5,ABAN
+150,Current ratio,12  Mar-17*,0.6,ABAN
+151,Inventory Days,12  Mar-17*,78.0,ABAN
+152,Debtors Days,12  Mar-17*,385.0,ABAN
+153,Net fixed assets,12  Mar-17*,162121.0,ABAN
+154,Share capital,12  Mar-17*,117.0,ABAN
+155,"""Free"" reserves",12  Mar-17*,26238.0,ABAN
+156,Net worth,12  Mar-17*,26355.0,ABAN
+157,Long term debt,12  Mar-17*,118272.0,ABAN
+158,Total assets,12  Mar-17*,187277.0,ABAN
+159,Interest coverage,12  Mar-17*,0.2,ABAN
+160,Debt to equity ratio,12  Mar-17*,4.5,ABAN
+161,Sales to assets ratio,12  Mar-17*,0.1,ABAN
+162,Return on assets,12  Mar-17*,0.3,ABAN
+163,Return on equity,12  Mar-17*,-39.5,ABAN
+164,Return on capital,12  Mar-17*,1.5,ABAN
+165,Exports to sales,12  Mar-17*,0.0,ABAN
+166,Imports to sales,12  Mar-17*,1.4,ABAN
+167,Exports (fob),12  Mar-17*,0.0,ABAN
+168,Imports (cif),12  Mar-17*,248.0,ABAN
+169,Fx inflow,12  Mar-17*,9304.0,ABAN
+170,Fx outflow,12  Mar-17*,1457.0,ABAN
+171,Net fx,12  Mar-17*,7848.0,ABAN
+172,From Operations,12  Mar-17*,18023.0,ABAN
+173,From Investments,12  Mar-17*,2570.0,ABAN
+174,From Financial Activity,12  Mar-17*,-21021.0,ABAN
+175,Net Cashflow,12  Mar-17*,-427.0,ABAN
+176,Net Sales,12  Mar-18*,14669.0,ABAN
+177,Other income,12  Mar-18*,145.0,ABAN
+178,Total revenues,12  Mar-18*,14814.0,ABAN
+179,Gross profit,12  Mar-18*,-5860.0,ABAN
+180,Depreciation,12  Mar-18*,6647.0,ABAN
+181,Interest,12  Mar-18*,12821.0,ABAN
+182,Profit before tax,12  Mar-18*,-25184.0,ABAN
+183,Minority Interest,12  Mar-18*,0.0,ABAN
+184,Prior Period Items,12  Mar-18*,-1.0,ABAN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ABAN
+186,Tax,12  Mar-18*,881.0,ABAN
+187,Profit after tax,12  Mar-18*,-26065.0,ABAN
+188,Gross profit margin,12  Mar-18*,-40.0,ABAN
+189,Effective tax rate,12  Mar-18*,-3.5,ABAN
+190,Net profit margin,12  Mar-18*,-177.7,ABAN
+191,Current assets,12  Mar-18*,24944.0,ABAN
+192,Current liabilities,12  Mar-18*,164560.0,ABAN
+193,Net working cap to sales,12  Mar-18*,-951.8,ABAN
+194,Current ratio,12  Mar-18*,0.2,ABAN
+195,Inventory Days,12  Mar-18*,94.0,ABAN
+196,Debtors Days,12  Mar-18*,466.0,ABAN
+197,Net fixed assets,12  Mar-18*,143689.0,ABAN
+198,Share capital,12  Mar-18*,117.0,ABAN
+199,"""Free"" reserves",12  Mar-18*,70.0,ABAN
+200,Net worth,12  Mar-18*,187.0,ABAN
+201,Long term debt,12  Mar-18*,602.0,ABAN
+202,Total assets,12  Mar-18*,169377.0,ABAN
+203,Interest coverage,12  Mar-18*,-1.0,ABAN
+204,Debt to equity ratio,12  Mar-18*,3.2,ABAN
+205,Sales to assets ratio,12  Mar-18*,0.1,ABAN
+206,Return on assets,12  Mar-18*,-7.8,ABAN
+207,Return on equity,12  Mar-18*,-13953.4,ABAN
+208,Return on capital,12  Mar-18*,-1566.7,ABAN
+209,Exports to sales,12  Mar-18*,0.0,ABAN
+210,Imports to sales,12  Mar-18*,2.6,ABAN
+211,Exports (fob),12  Mar-18*,0.0,ABAN
+212,Imports (cif),12  Mar-18*,375.0,ABAN
+213,Fx inflow,12  Mar-18*,6359.0,ABAN
+214,Fx outflow,12  Mar-18*,1091.0,ABAN
+215,Net fx,12  Mar-18*,5268.0,ABAN
+216,From Operations,12  Mar-18*,3959.0,ABAN
+217,From Investments,12  Mar-18*,-678.0,ABAN
+218,From Financial Activity,12  Mar-18*,-3188.0,ABAN
+219,Net Cashflow,12  Mar-18*,95.0,ABAN

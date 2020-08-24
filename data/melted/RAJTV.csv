@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,825.0,RAJTV
+1,Other income,12  Mar-15,14.0,RAJTV
+2,Total revenues,12  Mar-15,839.0,RAJTV
+3,Gross profit,12  Mar-15,244.0,RAJTV
+4,Depreciation,12  Mar-15,63.0,RAJTV
+5,Interest,12  Mar-15,65.0,RAJTV
+6,Profit before tax,12  Mar-15,130.0,RAJTV
+7,Minority Interest,12  Mar-15,0.0,RAJTV
+8,Prior Period Items,12  Mar-15,0.0,RAJTV
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,RAJTV
+10,Tax,12  Mar-15,48.0,RAJTV
+11,Profit after tax,12  Mar-15,82.0,RAJTV
+12,Gross profit margin,12  Mar-15,29.6,RAJTV
+13,Effective tax rate,12  Mar-15,37.1,RAJTV
+14,Net profit margin,12  Mar-15,9.9,RAJTV
+15,Current assets,12  Mar-15,761.0,RAJTV
+16,Current liabilities,12  Mar-15,344.0,RAJTV
+17,Net working cap to sales,12  Mar-15,50.5,RAJTV
+18,Current ratio,12  Mar-15,2.2,RAJTV
+19,Inventory Days,12  Mar-15,49.0,RAJTV
+20,Debtors Days,12  Mar-15,275.0,RAJTV
+21,Net fixed assets,12  Mar-15,1027.0,RAJTV
+22,Share capital,12  Mar-15,260.0,RAJTV
+23,"""Free"" reserves",12  Mar-15,1293.0,RAJTV
+24,Net worth,12  Mar-15,1553.0,RAJTV
+25,Long term debt,12  Mar-15,14.0,RAJTV
+26,Total assets,12  Mar-15,2002.0,RAJTV
+27,Interest coverage,12  Mar-15,3.0,RAJTV
+28,Debt to equity ratio,12  Mar-15,0.0,RAJTV
+29,Sales to assets ratio,12  Mar-15,0.4,RAJTV
+30,Return on assets,12  Mar-15,7.3,RAJTV
+31,Return on equity,12  Mar-15,5.3,RAJTV
+32,Return on capital,12  Mar-15,12.4,RAJTV
+33,Exports to sales,12  Mar-15,0.0,RAJTV
+34,Imports to sales,12  Mar-15,0.0,RAJTV
+35,Exports (fob),12  Mar-15,0.0,RAJTV
+36,Imports (cif),12  Mar-15,0.0,RAJTV
+37,Fx inflow,12  Mar-15,51.0,RAJTV
+38,Fx outflow,12  Mar-15,86.0,RAJTV
+39,Net fx,12  Mar-15,-35.0,RAJTV
+40,From Operations,12  Mar-15,154.0,RAJTV
+41,From Investments,12  Mar-15,-6.0,RAJTV
+42,From Financial Activity,12  Mar-15,-197.0,RAJTV
+43,Net Cashflow,12  Mar-15,-49.0,RAJTV
+44,Net Sales,12  Mar-16,825.0,RAJTV
+45,Other income,12  Mar-16,5.0,RAJTV
+46,Total revenues,12  Mar-16,829.0,RAJTV
+47,Gross profit,12  Mar-16,52.0,RAJTV
+48,Depreciation,12  Mar-16,65.0,RAJTV
+49,Interest,12  Mar-16,45.0,RAJTV
+50,Profit before tax,12  Mar-16,-54.0,RAJTV
+51,Minority Interest,12  Mar-16,0.0,RAJTV
+52,Prior Period Items,12  Mar-16,0.0,RAJTV
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,RAJTV
+54,Tax,12  Mar-16,7.0,RAJTV
+55,Profit after tax,12  Mar-16,-60.0,RAJTV
+56,Gross profit margin,12  Mar-16,6.4,RAJTV
+57,Effective tax rate,12  Mar-16,-12.8,RAJTV
+58,Net profit margin,12  Mar-16,-7.3,RAJTV
+59,Current assets,12  Mar-16,821.0,RAJTV
+60,Current liabilities,12  Mar-16,428.0,RAJTV
+61,Net working cap to sales,12  Mar-16,47.6,RAJTV
+62,Current ratio,12  Mar-16,1.9,RAJTV
+63,Inventory Days,12  Mar-16,48.0,RAJTV
+64,Debtors Days,12  Mar-16,213.0,RAJTV
+65,Net fixed assets,12  Mar-16,986.0,RAJTV
+66,Share capital,12  Mar-16,260.0,RAJTV
+67,"""Free"" reserves",12  Mar-16,1217.0,RAJTV
+68,Net worth,12  Mar-16,1477.0,RAJTV
+69,Long term debt,12  Mar-16,32.0,RAJTV
+70,Total assets,12  Mar-16,1923.0,RAJTV
+71,Interest coverage,12  Mar-16,-0.2,RAJTV
+72,Debt to equity ratio,12  Mar-16,0.0,RAJTV
+73,Sales to assets ratio,12  Mar-16,0.4,RAJTV
+74,Return on assets,12  Mar-16,-0.8,RAJTV
+75,Return on equity,12  Mar-16,-4.1,RAJTV
+76,Return on capital,12  Mar-16,-0.6,RAJTV
+77,Exports to sales,12  Mar-16,0.0,RAJTV
+78,Imports to sales,12  Mar-16,0.0,RAJTV
+79,Exports (fob),12  Mar-16,0.0,RAJTV
+80,Imports (cif),12  Mar-16,0.0,RAJTV
+81,Fx inflow,12  Mar-16,70.0,RAJTV
+82,Fx outflow,12  Mar-16,66.0,RAJTV
+83,Net fx,12  Mar-16,4.0,RAJTV
+84,From Operations,12  Mar-16,45.0,RAJTV
+85,From Investments,12  Mar-16,-24.0,RAJTV
+86,From Financial Activity,12  Mar-16,0.0,RAJTV
+87,Net Cashflow,12  Mar-16,21.0,RAJTV
+88,Net Sales,12  Mar-17,612.0,RAJTV
+89,Other income,12  Mar-17,9.0,RAJTV
+90,Total revenues,12  Mar-17,621.0,RAJTV
+91,Gross profit,12  Mar-17,76.0,RAJTV
+92,Depreciation,12  Mar-17,66.0,RAJTV
+93,Interest,12  Mar-17,48.0,RAJTV
+94,Profit before tax,12  Mar-17,-31.0,RAJTV
+95,Minority Interest,12  Mar-17,0.0,RAJTV
+96,Prior Period Items,12  Mar-17,0.0,RAJTV
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,RAJTV
+98,Tax,12  Mar-17,17.0,RAJTV
+99,Profit after tax,12  Mar-17,-48.0,RAJTV
+100,Gross profit margin,12  Mar-17,12.3,RAJTV
+101,Effective tax rate,12  Mar-17,-57.0,RAJTV
+102,Net profit margin,12  Mar-17,-7.8,RAJTV
+103,Current assets,12  Mar-17,485.0,RAJTV
+104,Current liabilities,12  Mar-17,178.0,RAJTV
+105,Net working cap to sales,12  Mar-17,50.2,RAJTV
+106,Current ratio,12  Mar-17,2.7,RAJTV
+107,Inventory Days,12  Mar-17,19.0,RAJTV
+108,Debtors Days,12  Mar-17,257.0,RAJTV
+109,Net fixed assets,12  Mar-17,1021.0,RAJTV
+110,Share capital,12  Mar-17,260.0,RAJTV
+111,"""Free"" reserves",12  Mar-17,1120.0,RAJTV
+112,Net worth,12  Mar-17,1380.0,RAJTV
+113,Long term debt,12  Mar-17,286.0,RAJTV
+114,Total assets,12  Mar-17,1869.0,RAJTV
+115,Interest coverage,12  Mar-17,0.4,RAJTV
+116,Debt to equity ratio,12  Mar-17,0.2,RAJTV
+117,Sales to assets ratio,12  Mar-17,0.3,RAJTV
+118,Return on assets,12  Mar-17,0.0,RAJTV
+119,Return on equity,12  Mar-17,-3.5,RAJTV
+120,Return on capital,12  Mar-17,1.1,RAJTV
+121,Exports to sales,12  Mar-17,0.0,RAJTV
+122,Imports to sales,12  Mar-17,0.0,RAJTV
+123,Exports (fob),12  Mar-17,0.0,RAJTV
+124,Imports (cif),12  Mar-17,0.0,RAJTV
+125,Fx inflow,12  Mar-17,98.0,RAJTV
+126,Fx outflow,12  Mar-17,32.0,RAJTV
+127,Net fx,12  Mar-17,66.0,RAJTV
+128,From Operations,12  Mar-17,-116.0,RAJTV
+129,From Investments,12  Mar-17,-106.0,RAJTV
+130,From Financial Activity,12  Mar-17,190.0,RAJTV
+131,Net Cashflow,12  Mar-17,-31.0,RAJTV
+132,Net Sales,12  Mar-18,616.0,RAJTV
+133,Other income,12  Mar-18,18.0,RAJTV
+134,Total revenues,12  Mar-18,634.0,RAJTV
+135,Gross profit,12  Mar-18,103.0,RAJTV
+136,Depreciation,12  Mar-18,67.0,RAJTV
+137,Interest,12  Mar-18,54.0,RAJTV
+138,Profit before tax,12  Mar-18,0.0,RAJTV
+139,Minority Interest,12  Mar-18,0.0,RAJTV
+140,Prior Period Items,12  Mar-18,0.0,RAJTV
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,RAJTV
+142,Tax,12  Mar-18,14.0,RAJTV
+143,Profit after tax,12  Mar-18,-14.0,RAJTV
+144,Gross profit margin,12  Mar-18,16.8,RAJTV
+145,Effective tax rate,12  Mar-18,3525.0,RAJTV
+146,Net profit margin,12  Mar-18,-2.2,RAJTV
+147,Current assets,12  Mar-18,573.0,RAJTV
+148,Current liabilities,12  Mar-18,256.0,RAJTV
+149,Net working cap to sales,12  Mar-18,51.5,RAJTV
+150,Current ratio,12  Mar-18,2.2,RAJTV
+151,Inventory Days,12  Mar-18,30.0,RAJTV
+152,Debtors Days,12  Mar-18,290.0,RAJTV
+153,Net fixed assets,12  Mar-18,1092.0,RAJTV
+154,Share capital,12  Mar-18,260.0,RAJTV
+155,"""Free"" reserves",12  Mar-18,1107.0,RAJTV
+156,Net worth,12  Mar-18,1366.0,RAJTV
+157,Long term debt,12  Mar-18,242.0,RAJTV
+158,Total assets,12  Mar-18,1891.0,RAJTV
+159,Interest coverage,12  Mar-18,1.0,RAJTV
+160,Debt to equity ratio,12  Mar-18,0.2,RAJTV
+161,Sales to assets ratio,12  Mar-18,0.3,RAJTV
+162,Return on assets,12  Mar-18,2.1,RAJTV
+163,Return on equity,12  Mar-18,-1.0,RAJTV
+164,Return on capital,12  Mar-18,3.4,RAJTV
+165,Exports to sales,12  Mar-18,0.0,RAJTV
+166,Imports to sales,12  Mar-18,0.0,RAJTV
+167,Exports (fob),12  Mar-18,0.0,RAJTV
+168,Imports (cif),12  Mar-18,0.0,RAJTV
+169,Fx inflow,12  Mar-18,87.0,RAJTV
+170,Fx outflow,12  Mar-18,73.0,RAJTV
+171,Net fx,12  Mar-18,14.0,RAJTV
+172,From Operations,12  Mar-18,116.0,RAJTV
+173,From Investments,12  Mar-18,-18.0,RAJTV
+174,From Financial Activity,12  Mar-18,-98.0,RAJTV
+175,Net Cashflow,12  Mar-18,1.0,RAJTV
+176,Net Sales,12  Mar-19,622.0,RAJTV
+177,Other income,12  Mar-19,13.0,RAJTV
+178,Total revenues,12  Mar-19,635.0,RAJTV
+179,Gross profit,12  Mar-19,135.0,RAJTV
+180,Depreciation,12  Mar-19,63.0,RAJTV
+181,Interest,12  Mar-19,50.0,RAJTV
+182,Profit before tax,12  Mar-19,36.0,RAJTV
+183,Minority Interest,12  Mar-19,0.0,RAJTV
+184,Prior Period Items,12  Mar-19,0.0,RAJTV
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,RAJTV
+186,Tax,12  Mar-19,-18.0,RAJTV
+187,Profit after tax,12  Mar-19,54.0,RAJTV
+188,Gross profit margin,12  Mar-19,21.8,RAJTV
+189,Effective tax rate,12  Mar-19,-49.8,RAJTV
+190,Net profit margin,12  Mar-19,8.7,RAJTV
+191,Current assets,12  Mar-19,570.0,RAJTV
+192,Current liabilities,12  Mar-19,288.0,RAJTV
+193,Net working cap to sales,12  Mar-19,45.4,RAJTV
+194,Current ratio,12  Mar-19,2.0,RAJTV
+195,Inventory Days,12  Mar-19,3.0,RAJTV
+196,Debtors Days,12  Mar-19,309.0,RAJTV
+197,Net fixed assets,12  Mar-19,1099.0,RAJTV
+198,Share capital,12  Mar-19,260.0,RAJTV
+199,"""Free"" reserves",12  Mar-19,1161.0,RAJTV
+200,Net worth,12  Mar-19,1420.0,RAJTV
+201,Long term debt,12  Mar-19,174.0,RAJTV
+202,Total assets,12  Mar-19,1908.0,RAJTV
+203,Interest coverage,12  Mar-19,1.7,RAJTV
+204,Debt to equity ratio,12  Mar-19,0.1,RAJTV
+205,Sales to assets ratio,12  Mar-19,0.3,RAJTV
+206,Return on assets,12  Mar-19,5.4,RAJTV
+207,Return on equity,12  Mar-19,3.8,RAJTV
+208,Return on capital,12  Mar-19,5.4,RAJTV
+209,Exports to sales,12  Mar-19,0.0,RAJTV
+210,Imports to sales,12  Mar-19,0.0,RAJTV
+211,Exports (fob),12  Mar-19,0.0,RAJTV
+212,Imports (cif),12  Mar-19,0.0,RAJTV
+213,Fx inflow,12  Mar-19,110.0,RAJTV
+214,Fx outflow,12  Mar-19,70.0,RAJTV
+215,Net fx,12  Mar-19,41.0,RAJTV
+216,From Operations,12  Mar-19,191.0,RAJTV
+217,From Investments,12  Mar-19,-69.0,RAJTV
+218,From Financial Activity,12  Mar-19,-118.0,RAJTV
+219,Net Cashflow,12  Mar-19,4.0,RAJTV

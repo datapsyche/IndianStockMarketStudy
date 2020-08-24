@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3531.0,NUSE
+1,Other income,12  Mar-15*,333.0,NUSE
+2,Total revenues,12  Mar-15*,3865.0,NUSE
+3,Gross profit,12  Mar-15*,659.0,NUSE
+4,Depreciation,12  Mar-15*,120.0,NUSE
+5,Interest,12  Mar-15*,5.0,NUSE
+6,Profit before tax,12  Mar-15*,867.0,NUSE
+7,Minority Interest,12  Mar-15*,0.0,NUSE
+8,Prior Period Items,12  Mar-15*,0.0,NUSE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NUSE
+10,Tax,12  Mar-15*,219.0,NUSE
+11,Profit after tax,12  Mar-15*,647.0,NUSE
+12,Gross profit margin,12  Mar-15*,18.6,NUSE
+13,Effective tax rate,12  Mar-15*,25.3,NUSE
+14,Net profit margin,12  Mar-15*,18.3,NUSE
+15,Current assets,12  Mar-15*,4079.0,NUSE
+16,Current liabilities,12  Mar-15*,1132.0,NUSE
+17,Net working cap to sales,12  Mar-15*,83.4,NUSE
+18,Current ratio,12  Mar-15*,3.6,NUSE
+19,Inventory Days,12  Mar-15*,0.0,NUSE
+20,Debtors Days,12  Mar-15*,87.0,NUSE
+21,Net fixed assets,12  Mar-15*,590.0,NUSE
+22,Share capital,12  Mar-15*,324.0,NUSE
+23,"""Free"" reserves",12  Mar-15*,3954.0,NUSE
+24,Net worth,12  Mar-15*,4384.0,NUSE
+25,Long term debt,12  Mar-15*,0.0,NUSE
+26,Total assets,12  Mar-15*,5563.0,NUSE
+27,Interest coverage,12  Mar-15*,161.5,NUSE
+28,Debt to equity ratio,12  Mar-15*,0.0,NUSE
+29,Sales to assets ratio,12  Mar-15*,0.6,NUSE
+30,Return on assets,12  Mar-15*,11.7,NUSE
+31,Return on equity,12  Mar-15*,14.8,NUSE
+32,Return on capital,12  Mar-15*,19.9,NUSE
+33,Exports to sales,12  Mar-15*,0.0,NUSE
+34,Imports to sales,12  Mar-15*,1.2,NUSE
+35,Exports (fob),12  Mar-15*,0.0,NUSE
+36,Imports (cif),12  Mar-15*,43.0,NUSE
+37,Fx inflow,12  Mar-15*,2232.0,NUSE
+38,Fx outflow,12  Mar-15*,397.0,NUSE
+39,Net fx,12  Mar-15*,1835.0,NUSE
+40,From Operations,12  Mar-15*,368.0,NUSE
+41,From Investments,12  Mar-15*,-139.0,NUSE
+42,From Financial Activity,12  Mar-15*,-227.0,NUSE
+43,Net Cashflow,12  Mar-15*,1.0,NUSE
+44,Net Sales,12  Mar-16*,3487.0,NUSE
+45,Other income,12  Mar-16*,259.0,NUSE
+46,Total revenues,12  Mar-16*,3746.0,NUSE
+47,Gross profit,12  Mar-16*,308.0,NUSE
+48,Depreciation,12  Mar-16*,122.0,NUSE
+49,Interest,12  Mar-16*,6.0,NUSE
+50,Profit before tax,12  Mar-16*,439.0,NUSE
+51,Minority Interest,12  Mar-16*,0.0,NUSE
+52,Prior Period Items,12  Mar-16*,0.0,NUSE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NUSE
+54,Tax,12  Mar-16*,114.0,NUSE
+55,Profit after tax,12  Mar-16*,325.0,NUSE
+56,Gross profit margin,12  Mar-16*,8.8,NUSE
+57,Effective tax rate,12  Mar-16*,26.0,NUSE
+58,Net profit margin,12  Mar-16*,9.3,NUSE
+59,Current assets,12  Mar-16*,3736.0,NUSE
+60,Current liabilities,12  Mar-16*,1167.0,NUSE
+61,Net working cap to sales,12  Mar-16*,73.7,NUSE
+62,Current ratio,12  Mar-16*,3.2,NUSE
+63,Inventory Days,12  Mar-16*,0.0,NUSE
+64,Debtors Days,12  Mar-16*,90.0,NUSE
+65,Net fixed assets,12  Mar-16*,524.0,NUSE
+66,Share capital,12  Mar-16*,324.0,NUSE
+67,"""Free"" reserves",12  Mar-16*,4117.0,NUSE
+68,Net worth,12  Mar-16*,4569.0,NUSE
+69,Long term debt,12  Mar-16*,0.0,NUSE
+70,Total assets,12  Mar-16*,5810.0,NUSE
+71,Interest coverage,12  Mar-16*,71.8,NUSE
+72,Debt to equity ratio,12  Mar-16*,0.0,NUSE
+73,Sales to assets ratio,12  Mar-16*,0.6,NUSE
+74,Return on assets,12  Mar-16*,5.7,NUSE
+75,Return on equity,12  Mar-16*,7.1,NUSE
+76,Return on capital,12  Mar-16*,9.7,NUSE
+77,Exports to sales,12  Mar-16*,0.0,NUSE
+78,Imports to sales,12  Mar-16*,1.1,NUSE
+79,Exports (fob),12  Mar-16*,0.0,NUSE
+80,Imports (cif),12  Mar-16*,38.0,NUSE
+81,Fx inflow,12  Mar-16*,2230.0,NUSE
+82,Fx outflow,12  Mar-16*,687.0,NUSE
+83,Net fx,12  Mar-16*,1544.0,NUSE
+84,From Operations,12  Mar-16*,452.0,NUSE
+85,From Investments,12  Mar-16*,-46.0,NUSE
+86,From Financial Activity,12  Mar-16*,-357.0,NUSE
+87,Net Cashflow,12  Mar-16*,50.0,NUSE
+88,Net Sales,12  Mar-17*,3724.0,NUSE
+89,Other income,12  Mar-17*,321.0,NUSE
+90,Total revenues,12  Mar-17*,4045.0,NUSE
+91,Gross profit,12  Mar-17*,539.0,NUSE
+92,Depreciation,12  Mar-17*,112.0,NUSE
+93,Interest,12  Mar-17*,5.0,NUSE
+94,Profit before tax,12  Mar-17*,743.0,NUSE
+95,Minority Interest,12  Mar-17*,0.0,NUSE
+96,Prior Period Items,12  Mar-17*,0.0,NUSE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NUSE
+98,Tax,12  Mar-17*,81.0,NUSE
+99,Profit after tax,12  Mar-17*,662.0,NUSE
+100,Gross profit margin,12  Mar-17*,14.5,NUSE
+101,Effective tax rate,12  Mar-17*,10.9,NUSE
+102,Net profit margin,12  Mar-17*,17.8,NUSE
+103,Current assets,12  Mar-17*,3804.0,NUSE
+104,Current liabilities,12  Mar-17*,1240.0,NUSE
+105,Net working cap to sales,12  Mar-17*,68.8,NUSE
+106,Current ratio,12  Mar-17*,3.1,NUSE
+107,Inventory Days,12  Mar-17*,0.0,NUSE
+108,Debtors Days,12  Mar-17*,60.0,NUSE
+109,Net fixed assets,12  Mar-17*,483.0,NUSE
+110,Share capital,12  Mar-17*,324.0,NUSE
+111,"""Free"" reserves",12  Mar-17*,5026.0,NUSE
+112,Net worth,12  Mar-17*,5350.0,NUSE
+113,Long term debt,12  Mar-17*,0.0,NUSE
+114,Total assets,12  Mar-17*,6655.0,NUSE
+115,Interest coverage,12  Mar-17*,138.5,NUSE
+116,Debt to equity ratio,12  Mar-17*,0.0,NUSE
+117,Sales to assets ratio,12  Mar-17*,0.6,NUSE
+118,Return on assets,12  Mar-17*,10.0,NUSE
+119,Return on equity,12  Mar-17*,12.4,NUSE
+120,Return on capital,12  Mar-17*,14.0,NUSE
+121,Exports to sales,12  Mar-17*,0.0,NUSE
+122,Imports to sales,12  Mar-17*,0.1,NUSE
+123,Exports (fob),12  Mar-17*,0.0,NUSE
+124,Imports (cif),12  Mar-17*,5.0,NUSE
+125,Fx inflow,12  Mar-17*,1997.0,NUSE
+126,Fx outflow,12  Mar-17*,501.0,NUSE
+127,Net fx,12  Mar-17*,1496.0,NUSE
+128,From Operations,12  Mar-17*,951.0,NUSE
+129,From Investments,12  Mar-17*,-773.0,NUSE
+130,From Financial Activity,12  Mar-17*,-13.0,NUSE
+131,Net Cashflow,12  Mar-17*,160.0,NUSE
+132,Net Sales,12  Mar-18*,4118.0,NUSE
+133,Other income,12  Mar-18*,287.0,NUSE
+134,Total revenues,12  Mar-18*,4405.0,NUSE
+135,Gross profit,12  Mar-18*,587.0,NUSE
+136,Depreciation,12  Mar-18*,70.0,NUSE
+137,Interest,12  Mar-18*,5.0,NUSE
+138,Profit before tax,12  Mar-18*,799.0,NUSE
+139,Minority Interest,12  Mar-18*,0.0,NUSE
+140,Prior Period Items,12  Mar-18*,0.0,NUSE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NUSE
+142,Tax,12  Mar-18*,173.0,NUSE
+143,Profit after tax,12  Mar-18*,626.0,NUSE
+144,Gross profit margin,12  Mar-18*,14.3,NUSE
+145,Effective tax rate,12  Mar-18*,21.7,NUSE
+146,Net profit margin,12  Mar-18*,15.2,NUSE
+147,Current assets,12  Mar-18*,3172.0,NUSE
+148,Current liabilities,12  Mar-18*,1769.0,NUSE
+149,Net working cap to sales,12  Mar-18*,34.1,NUSE
+150,Current ratio,12  Mar-18*,1.8,NUSE
+151,Inventory Days,12  Mar-18*,0.0,NUSE
+152,Debtors Days,12  Mar-18*,70.0,NUSE
+153,Net fixed assets,12  Mar-18*,483.0,NUSE
+154,Share capital,12  Mar-18*,290.0,NUSE
+155,"""Free"" reserves",12  Mar-18*,4323.0,NUSE
+156,Net worth,12  Mar-18*,4613.0,NUSE
+157,Long term debt,12  Mar-18*,0.0,NUSE
+158,Total assets,12  Mar-18*,6473.0,NUSE
+159,Interest coverage,12  Mar-18*,157.6,NUSE
+160,Debt to equity ratio,12  Mar-18*,0.0,NUSE
+161,Sales to assets ratio,12  Mar-18*,0.6,NUSE
+162,Return on assets,12  Mar-18*,9.7,NUSE
+163,Return on equity,12  Mar-18*,13.6,NUSE
+164,Return on capital,12  Mar-18*,17.4,NUSE
+165,Exports to sales,12  Mar-18*,0.0,NUSE
+166,Imports to sales,12  Mar-18*,0.0,NUSE
+167,Exports (fob),12  Mar-18*,0.0,NUSE
+168,Imports (cif),12  Mar-18*,0.0,NUSE
+169,Fx inflow,12  Mar-18*,2201.0,NUSE
+170,Fx outflow,12  Mar-18*,446.0,NUSE
+171,Net fx,12  Mar-18*,1755.0,NUSE
+172,From Operations,12  Mar-18*,769.0,NUSE
+173,From Investments,12  Mar-18*,609.0,NUSE
+174,From Financial Activity,12  Mar-18*,-1347.0,NUSE
+175,Net Cashflow,12  Mar-18*,27.0,NUSE
+176,Net Sales,12  Mar-19*,4840.0,NUSE
+177,Other income,12  Mar-19*,275.0,NUSE
+178,Total revenues,12  Mar-19*,5115.0,NUSE
+179,Gross profit,12  Mar-19*,793.0,NUSE
+180,Depreciation,12  Mar-19*,99.0,NUSE
+181,Interest,12  Mar-19*,5.0,NUSE
+182,Profit before tax,12  Mar-19*,963.0,NUSE
+183,Minority Interest,12  Mar-19*,0.0,NUSE
+184,Prior Period Items,12  Mar-19*,0.0,NUSE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NUSE
+186,Tax,12  Mar-19*,218.0,NUSE
+187,Profit after tax,12  Mar-19*,745.0,NUSE
+188,Gross profit margin,12  Mar-19*,16.4,NUSE
+189,Effective tax rate,12  Mar-19*,22.6,NUSE
+190,Net profit margin,12  Mar-19*,15.4,NUSE
+191,Current assets,12  Mar-19*,3593.0,NUSE
+192,Current liabilities,12  Mar-19*,1686.0,NUSE
+193,Net working cap to sales,12  Mar-19*,39.4,NUSE
+194,Current ratio,12  Mar-19*,2.1,NUSE
+195,Inventory Days,12  Mar-19*,0.0,NUSE
+196,Debtors Days,12  Mar-19*,54.0,NUSE
+197,Net fixed assets,12  Mar-19*,447.0,NUSE
+198,Share capital,12  Mar-19*,290.0,NUSE
+199,"""Free"" reserves",12  Mar-19*,4795.0,NUSE
+200,Net worth,12  Mar-19*,5086.0,NUSE
+201,Long term debt,12  Mar-19*,0.0,NUSE
+202,Total assets,12  Mar-19*,6854.0,NUSE
+203,Interest coverage,12  Mar-19*,189.8,NUSE
+204,Debt to equity ratio,12  Mar-19*,0.0,NUSE
+205,Sales to assets ratio,12  Mar-19*,0.7,NUSE
+206,Return on assets,12  Mar-19*,11.0,NUSE
+207,Return on equity,12  Mar-19*,14.7,NUSE
+208,Return on capital,12  Mar-19*,19.0,NUSE
+209,Exports to sales,12  Mar-19*,0.0,NUSE
+210,Imports to sales,12  Mar-19*,0.0,NUSE
+211,Exports (fob),12  Mar-19*,0.0,NUSE
+212,Imports (cif),12  Mar-19*,0.0,NUSE
+213,Fx inflow,12  Mar-19*,2585.0,NUSE
+214,Fx outflow,12  Mar-19*,407.0,NUSE
+215,Net fx,12  Mar-19*,2178.0,NUSE
+216,From Operations,12  Mar-19*,561.0,NUSE
+217,From Investments,12  Mar-19*,-284.0,NUSE
+218,From Financial Activity,12  Mar-19*,-260.0,NUSE
+219,Net Cashflow,12  Mar-19*,22.0,NUSE

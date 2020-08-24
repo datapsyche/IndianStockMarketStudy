@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,37107.0,ALSTM
+1,Other income,12  Mar-15,114.0,ALSTM
+2,Total revenues,12  Mar-15,37221.0,ALSTM
+3,Gross profit,12  Mar-15,3140.0,ALSTM
+4,Depreciation,12  Mar-15,819.0,ALSTM
+5,Interest,12  Mar-15,734.0,ALSTM
+6,Profit before tax,12  Mar-15,1702.0,ALSTM
+7,Minority Interest,12  Mar-15,0.0,ALSTM
+8,Prior Period Items,12  Mar-15,0.0,ALSTM
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,ALSTM
+10,Tax,12  Mar-15,496.0,ALSTM
+11,Profit after tax,12  Mar-15,1206.0,ALSTM
+12,Gross profit margin,12  Mar-15,8.5,ALSTM
+13,Effective tax rate,12  Mar-15,29.2,ALSTM
+14,Net profit margin,12  Mar-15,3.2,ALSTM
+15,Current assets,12  Mar-15,33775.0,ALSTM
+16,Current liabilities,12  Mar-15,30642.0,ALSTM
+17,Net working cap to sales,12  Mar-15,8.4,ALSTM
+18,Current ratio,12  Mar-15,1.1,ALSTM
+19,Inventory Days,12  Mar-15,68.0,ALSTM
+20,Debtors Days,12  Mar-15,185.0,ALSTM
+21,Net fixed assets,12  Mar-15,7569.0,ALSTM
+22,Share capital,12  Mar-15,512.0,ALSTM
+23,"""Free"" reserves",12  Mar-15,11475.0,ALSTM
+24,Net worth,12  Mar-15,11987.0,ALSTM
+25,Long term debt,12  Mar-15,0.0,ALSTM
+26,Total assets,12  Mar-15,43826.0,ALSTM
+27,Interest coverage,12  Mar-15,3.3,ALSTM
+28,Debt to equity ratio,12  Mar-15,0.0,ALSTM
+29,Sales to assets ratio,12  Mar-15,0.8,ALSTM
+30,Return on assets,12  Mar-15,4.4,ALSTM
+31,Return on equity,12  Mar-15,10.1,ALSTM
+32,Return on capital,12  Mar-15,20.3,ALSTM
+33,Exports to sales,12  Mar-15,13.2,ALSTM
+34,Imports to sales,12  Mar-15,17.2,ALSTM
+35,Exports (fob),12  Mar-15,4897.0,ALSTM
+36,Imports (cif),12  Mar-15,6388.0,ALSTM
+37,Fx inflow,12  Mar-15,5280.0,ALSTM
+38,Fx outflow,12  Mar-15,7778.0,ALSTM
+39,Net fx,12  Mar-15,-2498.0,ALSTM
+40,From Operations,12  Mar-15,5021.0,ALSTM
+41,From Investments,12  Mar-15,-1369.0,ALSTM
+42,From Financial Activity,12  Mar-15,-3201.0,ALSTM
+43,Net Cashflow,12  Mar-15,451.0,ALSTM
+44,Net Sales,12  Mar-16,33034.0,ALSTM
+45,Other income,12  Mar-16,1425.0,ALSTM
+46,Total revenues,12  Mar-16,34459.0,ALSTM
+47,Gross profit,12  Mar-16,898.0,ALSTM
+48,Depreciation,12  Mar-16,857.0,ALSTM
+49,Interest,12  Mar-16,906.0,ALSTM
+50,Profit before tax,12  Mar-16,559.0,ALSTM
+51,Minority Interest,12  Mar-16,0.0,ALSTM
+52,Prior Period Items,12  Mar-16,0.0,ALSTM
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,ALSTM
+54,Tax,12  Mar-16,214.0,ALSTM
+55,Profit after tax,12  Mar-16,345.0,ALSTM
+56,Gross profit margin,12  Mar-16,2.7,ALSTM
+57,Effective tax rate,12  Mar-16,38.3,ALSTM
+58,Net profit margin,12  Mar-16,1.0,ALSTM
+59,Current assets,12  Mar-16,37246.0,ALSTM
+60,Current liabilities,12  Mar-16,34672.0,ALSTM
+61,Net working cap to sales,12  Mar-16,7.8,ALSTM
+62,Current ratio,12  Mar-16,1.1,ALSTM
+63,Inventory Days,12  Mar-16,107.0,ALSTM
+64,Debtors Days,12  Mar-16,229.0,ALSTM
+65,Net fixed assets,12  Mar-16,7170.0,ALSTM
+66,Share capital,12  Mar-16,512.0,ALSTM
+67,"""Free"" reserves",12  Mar-16,11272.0,ALSTM
+68,Net worth,12  Mar-16,11784.0,ALSTM
+69,Long term debt,12  Mar-16,0.0,ALSTM
+70,Total assets,12  Mar-16,47718.0,ALSTM
+71,Interest coverage,12  Mar-16,1.6,ALSTM
+72,Debt to equity ratio,12  Mar-16,0.0,ALSTM
+73,Sales to assets ratio,12  Mar-16,0.7,ALSTM
+74,Return on assets,12  Mar-16,2.6,ALSTM
+75,Return on equity,12  Mar-16,2.9,ALSTM
+76,Return on capital,12  Mar-16,12.4,ALSTM
+77,Exports to sales,12  Mar-16,13.9,ALSTM
+78,Imports to sales,12  Mar-16,17.5,ALSTM
+79,Exports (fob),12  Mar-16,4582.0,ALSTM
+80,Imports (cif),12  Mar-16,5765.0,ALSTM
+81,Fx inflow,12  Mar-16,5008.0,ALSTM
+82,Fx outflow,12  Mar-16,7342.0,ALSTM
+83,Net fx,12  Mar-16,-2334.0,ALSTM
+84,From Operations,12  Mar-16,-909.0,ALSTM
+85,From Investments,12  Mar-16,-496.0,ALSTM
+86,From Financial Activity,12  Mar-16,1201.0,ALSTM
+87,Net Cashflow,12  Mar-16,-204.0,ALSTM
+88,Net Sales,12  Mar-17,40521.0,ALSTM
+89,Other income,12  Mar-17,1407.0,ALSTM
+90,Total revenues,12  Mar-17,41928.0,ALSTM
+91,Gross profit,12  Mar-17,396.0,ALSTM
+92,Depreciation,12  Mar-17,882.0,ALSTM
+93,Interest,12  Mar-17,1654.0,ALSTM
+94,Profit before tax,12  Mar-17,-733.0,ALSTM
+95,Minority Interest,12  Mar-17,0.0,ALSTM
+96,Prior Period Items,12  Mar-17,0.0,ALSTM
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,ALSTM
+98,Tax,12  Mar-17,134.0,ALSTM
+99,Profit after tax,12  Mar-17,-867.0,ALSTM
+100,Gross profit margin,12  Mar-17,1.0,ALSTM
+101,Effective tax rate,12  Mar-17,-18.3,ALSTM
+102,Net profit margin,12  Mar-17,-2.1,ALSTM
+103,Current assets,12  Mar-17,40191.0,ALSTM
+104,Current liabilities,12  Mar-17,39702.0,ALSTM
+105,Net working cap to sales,12  Mar-17,1.2,ALSTM
+106,Current ratio,12  Mar-17,1.0,ALSTM
+107,Inventory Days,12  Mar-17,101.0,ALSTM
+108,Debtors Days,12  Mar-17,205.0,ALSTM
+109,Net fixed assets,12  Mar-17,6805.0,ALSTM
+110,Share capital,12  Mar-17,512.0,ALSTM
+111,"""Free"" reserves",12  Mar-17,9816.0,ALSTM
+112,Net worth,12  Mar-17,10328.0,ALSTM
+113,Long term debt,12  Mar-17,0.0,ALSTM
+114,Total assets,12  Mar-17,51140.0,ALSTM
+115,Interest coverage,12  Mar-17,0.6,ALSTM
+116,Debt to equity ratio,12  Mar-17,0.0,ALSTM
+117,Sales to assets ratio,12  Mar-17,0.8,ALSTM
+118,Return on assets,12  Mar-17,1.5,ALSTM
+119,Return on equity,12  Mar-17,-8.4,ALSTM
+120,Return on capital,12  Mar-17,8.9,ALSTM
+121,Exports to sales,12  Mar-17,0.0,ALSTM
+122,Imports to sales,12  Mar-17,0.0,ALSTM
+123,Exports (fob),12  Mar-17,0.0,ALSTM
+124,Imports (cif),12  Mar-17,0.0,ALSTM
+125,Fx inflow,12  Mar-17,5829.0,ALSTM
+126,Fx outflow,12  Mar-17,6038.0,ALSTM
+127,Net fx,12  Mar-17,-208.0,ALSTM
+128,From Operations,12  Mar-17,1884.0,ALSTM
+129,From Investments,12  Mar-17,-461.0,ALSTM
+130,From Financial Activity,12  Mar-17,-1306.0,ALSTM
+131,Net Cashflow,12  Mar-17,106.0,ALSTM
+132,Net Sales,12  Mar-18,43317.0,ALSTM
+133,Other income,12  Mar-18,2401.0,ALSTM
+134,Total revenues,12  Mar-18,45718.0,ALSTM
+135,Gross profit,12  Mar-18,2569.0,ALSTM
+136,Depreciation,12  Mar-18,899.0,ALSTM
+137,Interest,12  Mar-18,883.0,ALSTM
+138,Profit before tax,12  Mar-18,3188.0,ALSTM
+139,Minority Interest,12  Mar-18,0.0,ALSTM
+140,Prior Period Items,12  Mar-18,0.0,ALSTM
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ALSTM
+142,Tax,12  Mar-18,1101.0,ALSTM
+143,Profit after tax,12  Mar-18,2088.0,ALSTM
+144,Gross profit margin,12  Mar-18,5.9,ALSTM
+145,Effective tax rate,12  Mar-18,34.5,ALSTM
+146,Net profit margin,12  Mar-18,4.8,ALSTM
+147,Current assets,12  Mar-18,37725.0,ALSTM
+148,Current liabilities,12  Mar-18,34514.0,ALSTM
+149,Net working cap to sales,12  Mar-18,7.4,ALSTM
+150,Current ratio,12  Mar-18,1.1,ALSTM
+151,Inventory Days,12  Mar-18,86.0,ALSTM
+152,Debtors Days,12  Mar-18,152.0,ALSTM
+153,Net fixed assets,12  Mar-18,6038.0,ALSTM
+154,Share capital,12  Mar-18,512.0,ALSTM
+155,"""Free"" reserves",12  Mar-18,11384.0,ALSTM
+156,Net worth,12  Mar-18,11896.0,ALSTM
+157,Long term debt,12  Mar-18,0.0,ALSTM
+158,Total assets,12  Mar-18,47688.0,ALSTM
+159,Interest coverage,12  Mar-18,4.6,ALSTM
+160,Debt to equity ratio,12  Mar-18,0.0,ALSTM
+161,Sales to assets ratio,12  Mar-18,0.9,ALSTM
+162,Return on assets,12  Mar-18,6.2,ALSTM
+163,Return on equity,12  Mar-18,17.5,ALSTM
+164,Return on capital,12  Mar-18,34.2,ALSTM
+165,Exports to sales,12  Mar-18,0.0,ALSTM
+166,Imports to sales,12  Mar-18,0.0,ALSTM
+167,Exports (fob),12  Mar-18,0.0,ALSTM
+168,Imports (cif),12  Mar-18,0.0,ALSTM
+169,Fx inflow,12  Mar-18,5289.0,ALSTM
+170,Fx outflow,12  Mar-18,6948.0,ALSTM
+171,Net fx,12  Mar-18,-1658.0,ALSTM
+172,From Operations,12  Mar-18,10540.0,ALSTM
+173,From Investments,12  Mar-18,-3045.0,ALSTM
+174,From Financial Activity,12  Mar-18,-5848.0,ALSTM
+175,Net Cashflow,12  Mar-18,1634.0,ALSTM
+176,Net Sales,12  Mar-19,42188.0,ALSTM
+177,Other income,12  Mar-19,583.0,ALSTM
+178,Total revenues,12  Mar-19,42771.0,ALSTM
+179,Gross profit,12  Mar-19,4259.0,ALSTM
+180,Depreciation,12  Mar-19,832.0,ALSTM
+181,Interest,12  Mar-19,664.0,ALSTM
+182,Profit before tax,12  Mar-19,3346.0,ALSTM
+183,Minority Interest,12  Mar-19,0.0,ALSTM
+184,Prior Period Items,12  Mar-19,0.0,ALSTM
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ALSTM
+186,Tax,12  Mar-19,1219.0,ALSTM
+187,Profit after tax,12  Mar-19,2127.0,ALSTM
+188,Gross profit margin,12  Mar-19,10.1,ALSTM
+189,Effective tax rate,12  Mar-19,36.4,ALSTM
+190,Net profit margin,12  Mar-19,5.0,ALSTM
+191,Current assets,12  Mar-19,32434.0,ALSTM
+192,Current liabilities,12  Mar-19,26241.0,ALSTM
+193,Net working cap to sales,12  Mar-19,14.7,ALSTM
+194,Current ratio,12  Mar-19,1.2,ALSTM
+195,Inventory Days,12  Mar-19,55.0,ALSTM
+196,Debtors Days,12  Mar-19,175.0,ALSTM
+197,Net fixed assets,12  Mar-19,5177.0,ALSTM
+198,Share capital,12  Mar-19,512.0,ALSTM
+199,"""Free"" reserves",12  Mar-19,13768.0,ALSTM
+200,Net worth,12  Mar-19,14280.0,ALSTM
+201,Long term debt,12  Mar-19,0.0,ALSTM
+202,Total assets,12  Mar-19,41964.0,ALSTM
+203,Interest coverage,12  Mar-19,6.0,ALSTM
+204,Debt to equity ratio,12  Mar-19,0.0,ALSTM
+205,Sales to assets ratio,12  Mar-19,1.0,ALSTM
+206,Return on assets,12  Mar-19,6.7,ALSTM
+207,Return on equity,12  Mar-19,14.9,ALSTM
+208,Return on capital,12  Mar-19,28.1,ALSTM
+209,Exports to sales,12  Mar-19,0.0,ALSTM
+210,Imports to sales,12  Mar-19,0.0,ALSTM
+211,Exports (fob),12  Mar-19,0.0,ALSTM
+212,Imports (cif),12  Mar-19,0.0,ALSTM
+213,Fx inflow,12  Mar-19,5928.0,ALSTM
+214,Fx outflow,12  Mar-19,9192.0,ALSTM
+215,Net fx,12  Mar-19,-3264.0,ALSTM
+216,From Operations,12  Mar-19,-3549.0,ALSTM
+217,From Investments,12  Mar-19,2869.0,ALSTM
+218,From Financial Activity,12  Mar-19,-1145.0,ALSTM
+219,Net Cashflow,12  Mar-19,-1823.0,ALSTM

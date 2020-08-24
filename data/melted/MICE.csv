@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,9  Mar-14*,959.0,MICE
+1,Other income,9  Mar-14*,19.0,MICE
+2,Total revenues,9  Mar-14*,978.0,MICE
+3,Gross profit,9  Mar-14*,33.0,MICE
+4,Depreciation,9  Mar-14*,46.0,MICE
+5,Interest,9  Mar-14*,93.0,MICE
+6,Profit before tax,9  Mar-14*,-87.0,MICE
+7,Minority Interest,9  Mar-14*,0.0,MICE
+8,Prior Period Items,9  Mar-14*,0.0,MICE
+9,Extraordinary Inc (Exp),9  Mar-14*,-547.0,MICE
+10,Tax,9  Mar-14*,-183.0,MICE
+11,Profit after tax,9  Mar-14*,-451.0,MICE
+12,Gross profit margin,9  Mar-14*,3.4,MICE
+13,Effective tax rate,9  Mar-14*,211.2,MICE
+14,Net profit margin,9  Mar-14*,-47.0,MICE
+15,Current assets,9  Mar-14*,3496.0,MICE
+16,Current liabilities,9  Mar-14*,2703.0,MICE
+17,Net working cap to sales,9  Mar-14*,82.7,MICE
+18,Current ratio,9  Mar-14*,1.3,MICE
+19,Inventory Days,9  Mar-14*,714.0,MICE
+20,Debtors Days,9  Mar-14*,343.0,MICE
+21,Net fixed assets,9  Mar-14*,1620.0,MICE
+22,Share capital,9  Mar-14*,205.0,MICE
+23,"""Free"" reserves",9  Mar-14*,2395.0,MICE
+24,Net worth,9  Mar-14*,2996.0,MICE
+25,Long term debt,9  Mar-14*,39.0,MICE
+26,Total assets,9  Mar-14*,5755.0,MICE
+27,Interest coverage,9  Mar-14*,0.1,MICE
+28,Debt to equity ratio,9  Mar-14*,0.0,MICE
+29,Sales to assets ratio,9  Mar-14*,0.2,MICE
+30,Return on assets,9  Mar-14*,-6.2,MICE
+31,Return on equity,9  Mar-14*,-15.0,MICE
+32,Return on capital,9  Mar-14*,-17.8,MICE
+33,Exports to sales,9  Mar-14*,4.4,MICE
+34,Imports to sales,9  Mar-14*,3.8,MICE
+35,Exports (fob),9  Mar-14*,42.0,MICE
+36,Imports (cif),9  Mar-14*,36.0,MICE
+37,Fx inflow,9  Mar-14*,42.0,MICE
+38,Fx outflow,9  Mar-14*,37.0,MICE
+39,Net fx,9  Mar-14*,5.0,MICE
+40,From Operations,9  Mar-14*,-6.0,MICE
+41,From Investments,9  Mar-14*,321.0,MICE
+42,From Financial Activity,9  Mar-14*,-316.0,MICE
+43,Net Cashflow,9  Mar-14*,-2.0,MICE
+44,Net Sales,12  Mar-15*,482.0,MICE
+45,Other income,12  Mar-15*,36.0,MICE
+46,Total revenues,12  Mar-15*,518.0,MICE
+47,Gross profit,12  Mar-15*,108.0,MICE
+48,Depreciation,12  Mar-15*,78.0,MICE
+49,Interest,12  Mar-15*,65.0,MICE
+50,Profit before tax,12  Mar-15*,0.0,MICE
+51,Minority Interest,12  Mar-15*,0.0,MICE
+52,Prior Period Items,12  Mar-15*,0.0,MICE
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,MICE
+54,Tax,12  Mar-15*,-18.0,MICE
+55,Profit after tax,12  Mar-15*,18.0,MICE
+56,Gross profit margin,12  Mar-15*,22.3,MICE
+57,Effective tax rate,12  Mar-15*,-5933.3,MICE
+58,Net profit margin,12  Mar-15*,3.8,MICE
+59,Current assets,12  Mar-15*,3698.0,MICE
+60,Current liabilities,12  Mar-15*,2493.0,MICE
+61,Net working cap to sales,12  Mar-15*,250.1,MICE
+62,Current ratio,12  Mar-15*,1.5,MICE
+63,Inventory Days,12  Mar-15*,1454.0,MICE
+64,Debtors Days,12  Mar-15*,818.0,MICE
+65,Net fixed assets,12  Mar-15*,1447.0,MICE
+66,Share capital,12  Mar-15*,238.0,MICE
+67,"""Free"" reserves",12  Mar-15*,2422.0,MICE
+68,Net worth,12  Mar-15*,3099.0,MICE
+69,Long term debt,12  Mar-15*,168.0,MICE
+70,Total assets,12  Mar-15*,5929.0,MICE
+71,Interest coverage,12  Mar-15*,1.0,MICE
+72,Debt to equity ratio,12  Mar-15*,0.1,MICE
+73,Sales to assets ratio,12  Mar-15*,0.1,MICE
+74,Return on assets,12  Mar-15*,1.4,MICE
+75,Return on equity,12  Mar-15*,0.6,MICE
+76,Return on capital,12  Mar-15*,2.0,MICE
+77,Exports to sales,12  Mar-15*,4.8,MICE
+78,Imports to sales,12  Mar-15*,9.5,MICE
+79,Exports (fob),12  Mar-15*,23.0,MICE
+80,Imports (cif),12  Mar-15*,46.0,MICE
+81,Fx inflow,12  Mar-15*,23.0,MICE
+82,Fx outflow,12  Mar-15*,46.0,MICE
+83,Net fx,12  Mar-15*,-23.0,MICE
+84,From Operations,12  Mar-15*,-317.0,MICE
+85,From Investments,12  Mar-15*,109.0,MICE
+86,From Financial Activity,12  Mar-15*,209.0,MICE
+87,Net Cashflow,12  Mar-15*,0.0,MICE
+88,Net Sales,12  Mar-16*,1374.0,MICE
+89,Other income,12  Mar-16*,34.0,MICE
+90,Total revenues,12  Mar-16*,1409.0,MICE
+91,Gross profit,12  Mar-16*,439.0,MICE
+92,Depreciation,12  Mar-16*,75.0,MICE
+93,Interest,12  Mar-16*,5.0,MICE
+94,Profit before tax,12  Mar-16*,393.0,MICE
+95,Minority Interest,12  Mar-16*,0.0,MICE
+96,Prior Period Items,12  Mar-16*,0.0,MICE
+97,Extraordinary Inc (Exp),12  Mar-16*,-1962.0,MICE
+98,Tax,12  Mar-16*,-460.0,MICE
+99,Profit after tax,12  Mar-16*,-1109.0,MICE
+100,Gross profit margin,12  Mar-16*,31.9,MICE
+101,Effective tax rate,12  Mar-16*,-116.9,MICE
+102,Net profit margin,12  Mar-16*,-80.7,MICE
+103,Current assets,12  Mar-16*,1655.0,MICE
+104,Current liabilities,12  Mar-16*,2741.0,MICE
+105,Net working cap to sales,12  Mar-16*,-79.0,MICE
+106,Current ratio,12  Mar-16*,0.6,MICE
+107,Inventory Days,12  Mar-16*,200.0,MICE
+108,Debtors Days,12  Mar-16*,183.0,MICE
+109,Net fixed assets,12  Mar-16*,1375.0,MICE
+110,Share capital,12  Mar-16*,332.0,MICE
+111,"""Free"" reserves",12  Mar-16*,1364.0,MICE
+112,Net worth,12  Mar-16*,2307.0,MICE
+113,Long term debt,12  Mar-16*,120.0,MICE
+114,Total assets,12  Mar-16*,3476.0,MICE
+115,Interest coverage,12  Mar-16*,84.7,MICE
+116,Debt to equity ratio,12  Mar-16*,0.1,MICE
+117,Sales to assets ratio,12  Mar-16*,0.4,MICE
+118,Return on assets,12  Mar-16*,-31.8,MICE
+119,Return on equity,12  Mar-16*,-48.1,MICE
+120,Return on capital,12  Mar-16*,-64.4,MICE
+121,Exports to sales,12  Mar-16*,3.3,MICE
+122,Imports to sales,12  Mar-16*,12.0,MICE
+123,Exports (fob),12  Mar-16*,45.0,MICE
+124,Imports (cif),12  Mar-16*,165.0,MICE
+125,Fx inflow,12  Mar-16*,45.0,MICE
+126,Fx outflow,12  Mar-16*,166.0,MICE
+127,Net fx,12  Mar-16*,-121.0,MICE
+128,From Operations,12  Mar-16*,-220.0,MICE
+129,From Investments,12  Mar-16*,-7.0,MICE
+130,From Financial Activity,12  Mar-16*,231.0,MICE
+131,Net Cashflow,12  Mar-16*,3.0,MICE
+132,Net Sales,12  Mar-17*,2509.0,MICE
+133,Other income,12  Mar-17*,22.0,MICE
+134,Total revenues,12  Mar-17*,2530.0,MICE
+135,Gross profit,12  Mar-17*,-36.0,MICE
+136,Depreciation,12  Mar-17*,78.0,MICE
+137,Interest,12  Mar-17*,285.0,MICE
+138,Profit before tax,12  Mar-17*,-378.0,MICE
+139,Minority Interest,12  Mar-17*,0.0,MICE
+140,Prior Period Items,12  Mar-17*,0.0,MICE
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MICE
+142,Tax,12  Mar-17*,-29.0,MICE
+143,Profit after tax,12  Mar-17*,-349.0,MICE
+144,Gross profit margin,12  Mar-17*,-1.4,MICE
+145,Effective tax rate,12  Mar-17*,7.7,MICE
+146,Net profit margin,12  Mar-17*,-13.9,MICE
+147,Current assets,12  Mar-17*,1654.0,MICE
+148,Current liabilities,12  Mar-17*,1890.0,MICE
+149,Net working cap to sales,12  Mar-17*,-9.4,MICE
+150,Current ratio,12  Mar-17*,0.9,MICE
+151,Inventory Days,12  Mar-17*,165.0,MICE
+152,Debtors Days,12  Mar-17*,50.0,MICE
+153,Net fixed assets,12  Mar-17*,992.0,MICE
+154,Share capital,12  Mar-17*,441.0,MICE
+155,"""Free"" reserves",12  Mar-17*,693.0,MICE
+156,Net worth,12  Mar-17*,1134.0,MICE
+157,Long term debt,12  Mar-17*,374.0,MICE
+158,Total assets,12  Mar-17*,3420.0,MICE
+159,Interest coverage,12  Mar-17*,-0.3,MICE
+160,Debt to equity ratio,12  Mar-17*,0.3,MICE
+161,Sales to assets ratio,12  Mar-17*,0.7,MICE
+162,Return on assets,12  Mar-17*,-1.9,MICE
+163,Return on equity,12  Mar-17*,-30.8,MICE
+164,Return on capital,12  Mar-17*,-6.2,MICE
+165,Exports to sales,12  Mar-17*,0.0,MICE
+166,Imports to sales,12  Mar-17*,2.5,MICE
+167,Exports (fob),12  Mar-17*,1.0,MICE
+168,Imports (cif),12  Mar-17*,62.0,MICE
+169,Fx inflow,12  Mar-17*,1.0,MICE
+170,Fx outflow,12  Mar-17*,65.0,MICE
+171,Net fx,12  Mar-17*,-63.0,MICE
+172,From Operations,12  Mar-17*,-218.0,MICE
+173,From Investments,12  Mar-17*,-7.0,MICE
+174,From Financial Activity,12  Mar-17*,216.0,MICE
+175,Net Cashflow,12  Mar-17*,-9.0,MICE
+176,Net Sales,12  Mar-18*,1642.0,MICE
+177,Other income,12  Mar-18*,12.0,MICE
+178,Total revenues,12  Mar-18*,1653.0,MICE
+179,Gross profit,12  Mar-18*,-2202.0,MICE
+180,Depreciation,12  Mar-18*,78.0,MICE
+181,Interest,12  Mar-18*,244.0,MICE
+182,Profit before tax,12  Mar-18*,-2512.0,MICE
+183,Minority Interest,12  Mar-18*,0.0,MICE
+184,Prior Period Items,12  Mar-18*,0.0,MICE
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MICE
+186,Tax,12  Mar-18*,-599.0,MICE
+187,Profit after tax,12  Mar-18*,-1914.0,MICE
+188,Gross profit margin,12  Mar-18*,-134.1,MICE
+189,Effective tax rate,12  Mar-18*,23.8,MICE
+190,Net profit margin,12  Mar-18*,-116.6,MICE
+191,Current assets,12  Mar-18*,899.0,MICE
+192,Current liabilities,12  Mar-18*,2754.0,MICE
+193,Net working cap to sales,12  Mar-18*,-113.0,MICE
+194,Current ratio,12  Mar-18*,0.3,MICE
+195,Inventory Days,12  Mar-18*,112.0,MICE
+196,Debtors Days,12  Mar-18*,75.0,MICE
+197,Net fixed assets,12  Mar-18*,916.0,MICE
+198,Share capital,12  Mar-18*,441.0,MICE
+199,"""Free"" reserves",12  Mar-18*,-1214.0,MICE
+200,Net worth,12  Mar-18*,-774.0,MICE
+201,Long term debt,12  Mar-18*,0.0,MICE
+202,Total assets,12  Mar-18*,2002.0,MICE
+203,Interest coverage,12  Mar-18*,-9.3,MICE
+204,Debt to equity ratio,12  Mar-18*,0.0,MICE
+205,Sales to assets ratio,12  Mar-18*,0.8,MICE
+206,Return on assets,12  Mar-18*,-83.4,MICE
+207,Return on equity,12  Mar-18*,247.4,MICE
+208,Return on capital,12  Mar-18*,293.2,MICE
+209,Exports to sales,12  Mar-18*,0.0,MICE
+210,Imports to sales,12  Mar-18*,1.3,MICE
+211,Exports (fob),12  Mar-18*,0.0,MICE
+212,Imports (cif),12  Mar-18*,22.0,MICE
+213,Fx inflow,12  Mar-18*,0.0,MICE
+214,Fx outflow,12  Mar-18*,23.0,MICE
+215,Net fx,12  Mar-18*,-23.0,MICE
+216,From Operations,12  Mar-18*,329.0,MICE
+217,From Investments,12  Mar-18*,-1.0,MICE
+218,From Financial Activity,12  Mar-18*,-330.0,MICE
+219,Net Cashflow,12  Mar-18*,-1.0,MICE

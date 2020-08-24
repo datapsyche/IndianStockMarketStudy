@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,13685.0,KLOE
+1,Other income,12  Mar-15*,533.0,KLOE
+2,Total revenues,12  Mar-15*,14218.0,KLOE
+3,Gross profit,12  Mar-15*,1429.0,KLOE
+4,Depreciation,12  Mar-15*,492.0,KLOE
+5,Interest,12  Mar-15*,298.0,KLOE
+6,Profit before tax,12  Mar-15*,1173.0,KLOE
+7,Minority Interest,12  Mar-15*,-239.0,KLOE
+8,Prior Period Items,12  Mar-15*,0.0,KLOE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,KLOE
+10,Tax,12  Mar-15*,317.0,KLOE
+11,Profit after tax,12  Mar-15*,617.0,KLOE
+12,Gross profit margin,12  Mar-15*,10.4,KLOE
+13,Effective tax rate,12  Mar-15*,27.0,KLOE
+14,Net profit margin,12  Mar-15*,4.5,KLOE
+15,Current assets,12  Mar-15*,4411.0,KLOE
+16,Current liabilities,12  Mar-15*,4148.0,KLOE
+17,Net working cap to sales,12  Mar-15*,1.9,KLOE
+18,Current ratio,12  Mar-15*,1.1,KLOE
+19,Inventory Days,12  Mar-15*,47.0,KLOE
+20,Debtors Days,12  Mar-15*,32.0,KLOE
+21,Net fixed assets,12  Mar-15*,5795.0,KLOE
+22,Share capital,12  Mar-15*,97.0,KLOE
+23,"""Free"" reserves",12  Mar-15*,7075.0,KLOE
+24,Net worth,12  Mar-15*,7602.0,KLOE
+25,Long term debt,12  Mar-15*,100.0,KLOE
+26,Total assets,12  Mar-15*,14815.0,KLOE
+27,Interest coverage,12  Mar-15*,4.9,KLOE
+28,Debt to equity ratio,12  Mar-15*,0.0,KLOE
+29,Sales to assets ratio,12  Mar-15*,0.9,KLOE
+30,Return on assets,12  Mar-15*,6.2,KLOE
+31,Return on equity,12  Mar-15*,8.1,KLOE
+32,Return on capital,12  Mar-15*,16.0,KLOE
+33,Exports to sales,12  Mar-15*,0.0,KLOE
+34,Imports to sales,12  Mar-15*,0.0,KLOE
+35,Exports (fob),12  Mar-15*,0.0,KLOE
+36,Imports (cif),12  Mar-15*,0.0,KLOE
+37,Fx inflow,12  Mar-15*,1.0,KLOE
+38,Fx outflow,12  Mar-15*,0.0,KLOE
+39,Net fx,12  Mar-15*,1.0,KLOE
+40,From Operations,12  Mar-15*,1556.0,KLOE
+41,From Investments,12  Mar-15*,-558.0,KLOE
+42,From Financial Activity,12  Mar-15*,-1010.0,KLOE
+43,Net Cashflow,12  Mar-15*,-12.0,KLOE
+44,Net Sales,12  Mar-16,11187.0,KLOE
+45,Other income,12  Mar-16,565.0,KLOE
+46,Total revenues,12  Mar-16,11752.0,KLOE
+47,Gross profit,12  Mar-16,1482.0,KLOE
+48,Depreciation,12  Mar-16,453.0,KLOE
+49,Interest,12  Mar-16,235.0,KLOE
+50,Profit before tax,12  Mar-16,1360.0,KLOE
+51,Minority Interest,12  Mar-16,-280.0,KLOE
+52,Prior Period Items,12  Mar-16,0.0,KLOE
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,KLOE
+54,Tax,12  Mar-16,356.0,KLOE
+55,Profit after tax,12  Mar-16,723.0,KLOE
+56,Gross profit margin,12  Mar-16,13.2,KLOE
+57,Effective tax rate,12  Mar-16,26.2,KLOE
+58,Net profit margin,12  Mar-16,6.5,KLOE
+59,Current assets,12  Mar-16,2762.0,KLOE
+60,Current liabilities,12  Mar-16,2836.0,KLOE
+61,Net working cap to sales,12  Mar-16,-0.7,KLOE
+62,Current ratio,12  Mar-16,1.0,KLOE
+63,Inventory Days,12  Mar-16,30.0,KLOE
+64,Debtors Days,12  Mar-16,45.0,KLOE
+65,Net fixed assets,12  Mar-16,5641.0,KLOE
+66,Share capital,12  Mar-16,687.0,KLOE
+67,"""Free"" reserves",12  Mar-16,4258.0,KLOE
+68,Net worth,12  Mar-16,4945.0,KLOE
+69,Long term debt,12  Mar-16,0.0,KLOE
+70,Total assets,12  Mar-16,8513.0,KLOE
+71,Interest coverage,12  Mar-16,6.8,KLOE
+72,Debt to equity ratio,12  Mar-16,0.0,KLOE
+73,Sales to assets ratio,12  Mar-16,1.3,KLOE
+74,Return on assets,12  Mar-16,11.3,KLOE
+75,Return on equity,12  Mar-16,14.6,KLOE
+76,Return on capital,12  Mar-16,26.6,KLOE
+77,Exports to sales,12  Mar-16,0.0,KLOE
+78,Imports to sales,12  Mar-16,0.0,KLOE
+79,Exports (fob),12  Mar-16,0.0,KLOE
+80,Imports (cif),12  Mar-16,0.0,KLOE
+81,Fx inflow,12  Mar-16,1.0,KLOE
+82,Fx outflow,12  Mar-16,0.0,KLOE
+83,Net fx,12  Mar-16,1.0,KLOE
+84,From Operations,12  Mar-16,1036.0,KLOE
+85,From Investments,12  Mar-16,60.0,KLOE
+86,From Financial Activity,12  Mar-16,-1129.0,KLOE
+87,Net Cashflow,12  Mar-16,-33.0,KLOE
+88,Net Sales,12  Mar-17,11327.0,KLOE
+89,Other income,12  Mar-17,53.0,KLOE
+90,Total revenues,12  Mar-17,11380.0,KLOE
+91,Gross profit,12  Mar-17,1722.0,KLOE
+92,Depreciation,12  Mar-17,459.0,KLOE
+93,Interest,12  Mar-17,105.0,KLOE
+94,Profit before tax,12  Mar-17,1211.0,KLOE
+95,Minority Interest,12  Mar-17,0.0,KLOE
+96,Prior Period Items,12  Mar-17,0.0,KLOE
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,KLOE
+98,Tax,12  Mar-17,333.0,KLOE
+99,Profit after tax,12  Mar-17,878.0,KLOE
+100,Gross profit margin,12  Mar-17,15.2,KLOE
+101,Effective tax rate,12  Mar-17,27.5,KLOE
+102,Net profit margin,12  Mar-17,7.8,KLOE
+103,Current assets,12  Mar-17,3797.0,KLOE
+104,Current liabilities,12  Mar-17,3211.0,KLOE
+105,Net working cap to sales,12  Mar-17,5.2,KLOE
+106,Current ratio,12  Mar-17,1.2,KLOE
+107,Inventory Days,12  Mar-17,39.0,KLOE
+108,Debtors Days,12  Mar-17,68.0,KLOE
+109,Net fixed assets,12  Mar-17,5999.0,KLOE
+110,Share capital,12  Mar-17,687.0,KLOE
+111,"""Free"" reserves",12  Mar-17,5139.0,KLOE
+112,Net worth,12  Mar-17,5826.0,KLOE
+113,Long term debt,12  Mar-17,0.0,KLOE
+114,Total assets,12  Mar-17,9855.0,KLOE
+115,Interest coverage,12  Mar-17,12.5,KLOE
+116,Debt to equity ratio,12  Mar-17,0.0,KLOE
+117,Sales to assets ratio,12  Mar-17,1.1,KLOE
+118,Return on assets,12  Mar-17,10.0,KLOE
+119,Return on equity,12  Mar-17,15.1,KLOE
+120,Return on capital,12  Mar-17,22.6,KLOE
+121,Exports to sales,12  Mar-17,0.0,KLOE
+122,Imports to sales,12  Mar-17,17.8,KLOE
+123,Exports (fob),12  Mar-17,0.0,KLOE
+124,Imports (cif),12  Mar-17,2017.0,KLOE
+125,Fx inflow,12  Mar-17,0.0,KLOE
+126,Fx outflow,12  Mar-17,2017.0,KLOE
+127,Net fx,12  Mar-17,-2017.0,KLOE
+128,From Operations,12  Mar-17,746.0,KLOE
+129,From Investments,12  Mar-17,-701.0,KLOE
+130,From Financial Activity,12  Mar-17,24.0,KLOE
+131,Net Cashflow,12  Mar-17,69.0,KLOE
+132,Net Sales,12  Mar-18,17652.0,KLOE
+133,Other income,12  Mar-18,52.0,KLOE
+134,Total revenues,12  Mar-18,17704.0,KLOE
+135,Gross profit,12  Mar-18,1098.0,KLOE
+136,Depreciation,12  Mar-18,495.0,KLOE
+137,Interest,12  Mar-18,110.0,KLOE
+138,Profit before tax,12  Mar-18,544.0,KLOE
+139,Minority Interest,12  Mar-18,0.0,KLOE
+140,Prior Period Items,12  Mar-18,0.0,KLOE
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,KLOE
+142,Tax,12  Mar-18,164.0,KLOE
+143,Profit after tax,12  Mar-18,380.0,KLOE
+144,Gross profit margin,12  Mar-18,6.2,KLOE
+145,Effective tax rate,12  Mar-18,30.2,KLOE
+146,Net profit margin,12  Mar-18,2.2,KLOE
+147,Current assets,12  Mar-18,5493.0,KLOE
+148,Current liabilities,12  Mar-18,5225.0,KLOE
+149,Net working cap to sales,12  Mar-18,1.5,KLOE
+150,Current ratio,12  Mar-18,1.1,KLOE
+151,Inventory Days,12  Mar-18,45.0,KLOE
+152,Debtors Days,12  Mar-18,60.0,KLOE
+153,Net fixed assets,12  Mar-18,6341.0,KLOE
+154,Share capital,12  Mar-18,687.0,KLOE
+155,"""Free"" reserves",12  Mar-18,5238.0,KLOE
+156,Net worth,12  Mar-18,5925.0,KLOE
+157,Long term debt,12  Mar-18,0.0,KLOE
+158,Total assets,12  Mar-18,11993.0,KLOE
+159,Interest coverage,12  Mar-18,6.0,KLOE
+160,Debt to equity ratio,12  Mar-18,0.0,KLOE
+161,Sales to assets ratio,12  Mar-18,1.5,KLOE
+162,Return on assets,12  Mar-18,4.1,KLOE
+163,Return on equity,12  Mar-18,6.4,KLOE
+164,Return on capital,12  Mar-18,11.0,KLOE
+165,Exports to sales,12  Mar-18,0.0,KLOE
+166,Imports to sales,12  Mar-18,23.6,KLOE
+167,Exports (fob),12  Mar-18,0.0,KLOE
+168,Imports (cif),12  Mar-18,4159.0,KLOE
+169,Fx inflow,12  Mar-18,0.0,KLOE
+170,Fx outflow,12  Mar-18,4188.0,KLOE
+171,Net fx,12  Mar-18,-4188.0,KLOE
+172,From Operations,12  Mar-18,1286.0,KLOE
+173,From Investments,12  Mar-18,-574.0,KLOE
+174,From Financial Activity,12  Mar-18,-786.0,KLOE
+175,Net Cashflow,12  Mar-18,-75.0,KLOE
+176,Net Sales,12  Mar-19,21592.0,KLOE
+177,Other income,12  Mar-19,55.0,KLOE
+178,Total revenues,12  Mar-19,21647.0,KLOE
+179,Gross profit,12  Mar-19,2119.0,KLOE
+180,Depreciation,12  Mar-19,542.0,KLOE
+181,Interest,12  Mar-19,165.0,KLOE
+182,Profit before tax,12  Mar-19,1467.0,KLOE
+183,Minority Interest,12  Mar-19,0.0,KLOE
+184,Prior Period Items,12  Mar-19,0.0,KLOE
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,KLOE
+186,Tax,12  Mar-19,486.0,KLOE
+187,Profit after tax,12  Mar-19,981.0,KLOE
+188,Gross profit margin,12  Mar-19,9.8,KLOE
+189,Effective tax rate,12  Mar-19,33.1,KLOE
+190,Net profit margin,12  Mar-19,4.5,KLOE
+191,Current assets,12  Mar-19,6611.0,KLOE
+192,Current liabilities,12  Mar-19,5943.0,KLOE
+193,Net working cap to sales,12  Mar-19,3.1,KLOE
+194,Current ratio,12  Mar-19,1.1,KLOE
+195,Inventory Days,12  Mar-19,42.0,KLOE
+196,Debtors Days,12  Mar-19,64.0,KLOE
+197,Net fixed assets,12  Mar-19,6698.0,KLOE
+198,Share capital,12  Mar-19,687.0,KLOE
+199,"""Free"" reserves",12  Mar-19,5893.0,KLOE
+200,Net worth,12  Mar-19,6579.0,KLOE
+201,Long term debt,12  Mar-19,410.0,KLOE
+202,Total assets,12  Mar-19,13900.0,KLOE
+203,Interest coverage,12  Mar-19,9.9,KLOE
+204,Debt to equity ratio,12  Mar-19,0.1,KLOE
+205,Sales to assets ratio,12  Mar-19,1.6,KLOE
+206,Return on assets,12  Mar-19,8.2,KLOE
+207,Return on equity,12  Mar-19,14.9,KLOE
+208,Return on capital,12  Mar-19,23.3,KLOE
+209,Exports to sales,12  Mar-19,0.1,KLOE
+210,Imports to sales,12  Mar-19,22.3,KLOE
+211,Exports (fob),12  Mar-19,29.0,KLOE
+212,Imports (cif),12  Mar-19,4820.0,KLOE
+213,Fx inflow,12  Mar-19,29.0,KLOE
+214,Fx outflow,12  Mar-19,4931.0,KLOE
+215,Net fx,12  Mar-19,-4902.0,KLOE
+216,From Operations,12  Mar-19,1577.0,KLOE
+217,From Investments,12  Mar-19,-1612.0,KLOE
+218,From Financial Activity,12  Mar-19,24.0,KLOE
+219,Net Cashflow,12  Mar-19,-10.0,KLOE

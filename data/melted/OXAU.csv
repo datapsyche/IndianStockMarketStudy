@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,12745.0,OXAU
+1,Other income,12  Mar-15,65.0,OXAU
+2,Total revenues,12  Mar-15,12809.0,OXAU
+3,Gross profit,12  Mar-15,447.0,OXAU
+4,Depreciation,12  Mar-15,308.0,OXAU
+5,Interest,12  Mar-15,202.0,OXAU
+6,Profit before tax,12  Mar-15,1.0,OXAU
+7,Minority Interest,12  Mar-15,0.0,OXAU
+8,Prior Period Items,12  Mar-15,0.0,OXAU
+9,Extraordinary Inc (Exp),12  Mar-15,75.0,OXAU
+10,Tax,12  Mar-15,-7.0,OXAU
+11,Profit after tax,12  Mar-15,83.0,OXAU
+12,Gross profit margin,12  Mar-15,3.5,OXAU
+13,Effective tax rate,12  Mar-15,-1051.4,OXAU
+14,Net profit margin,12  Mar-15,0.6,OXAU
+15,Current assets,12  Mar-15,2216.0,OXAU
+16,Current liabilities,12  Mar-15,2432.0,OXAU
+17,Net working cap to sales,12  Mar-15,-1.7,OXAU
+18,Current ratio,12  Mar-15,0.9,OXAU
+19,Inventory Days,12  Mar-15,10.0,OXAU
+20,Debtors Days,12  Mar-15,31.0,OXAU
+21,Net fixed assets,12  Mar-15,2941.0,OXAU
+22,Share capital,12  Mar-15,214.0,OXAU
+23,"""Free"" reserves",12  Mar-15,1912.0,OXAU
+24,Net worth,12  Mar-15,2147.0,OXAU
+25,Long term debt,12  Mar-15,549.0,OXAU
+26,Total assets,12  Mar-15,5548.0,OXAU
+27,Interest coverage,12  Mar-15,1.0,OXAU
+28,Debt to equity ratio,12  Mar-15,0.3,OXAU
+29,Sales to assets ratio,12  Mar-15,2.3,OXAU
+30,Return on assets,12  Mar-15,5.1,OXAU
+31,Return on equity,12  Mar-15,3.9,OXAU
+32,Return on capital,12  Mar-15,10.3,OXAU
+33,Exports to sales,12  Mar-15,1.1,OXAU
+34,Imports to sales,12  Mar-15,0.1,OXAU
+35,Exports (fob),12  Mar-15,146.0,OXAU
+36,Imports (cif),12  Mar-15,13.0,OXAU
+37,Fx inflow,12  Mar-15,146.0,OXAU
+38,Fx outflow,12  Mar-15,14.0,OXAU
+39,Net fx,12  Mar-15,132.0,OXAU
+40,From Operations,12  Mar-15,346.0,OXAU
+41,From Investments,12  Mar-15,21.0,OXAU
+42,From Financial Activity,12  Mar-15,-349.0,OXAU
+43,Net Cashflow,12  Mar-15,18.0,OXAU
+44,Net Sales,12  Mar-16,8865.0,OXAU
+45,Other income,12  Mar-16,56.0,OXAU
+46,Total revenues,12  Mar-16,8921.0,OXAU
+47,Gross profit,12  Mar-16,528.0,OXAU
+48,Depreciation,12  Mar-16,284.0,OXAU
+49,Interest,12  Mar-16,144.0,OXAU
+50,Profit before tax,12  Mar-16,156.0,OXAU
+51,Minority Interest,12  Mar-16,0.0,OXAU
+52,Prior Period Items,12  Mar-16,0.0,OXAU
+53,Extraordinary Inc (Exp),12  Mar-16,-3.0,OXAU
+54,Tax,12  Mar-16,74.0,OXAU
+55,Profit after tax,12  Mar-16,79.0,OXAU
+56,Gross profit margin,12  Mar-16,6.0,OXAU
+57,Effective tax rate,12  Mar-16,47.4,OXAU
+58,Net profit margin,12  Mar-16,0.9,OXAU
+59,Current assets,12  Mar-16,2175.0,OXAU
+60,Current liabilities,12  Mar-16,2204.0,OXAU
+61,Net working cap to sales,12  Mar-16,-0.3,OXAU
+62,Current ratio,12  Mar-16,1.0,OXAU
+63,Inventory Days,12  Mar-16,17.0,OXAU
+64,Debtors Days,12  Mar-16,47.0,OXAU
+65,Net fixed assets,12  Mar-16,2836.0,OXAU
+66,Share capital,12  Mar-16,214.0,OXAU
+67,"""Free"" reserves",12  Mar-16,2042.0,OXAU
+68,Net worth,12  Mar-16,2256.0,OXAU
+69,Long term debt,12  Mar-16,438.0,OXAU
+70,Total assets,12  Mar-16,5200.0,OXAU
+71,Interest coverage,12  Mar-16,2.1,OXAU
+72,Debt to equity ratio,12  Mar-16,0.2,OXAU
+73,Sales to assets ratio,12  Mar-16,1.7,OXAU
+74,Return on assets,12  Mar-16,4.3,OXAU
+75,Return on equity,12  Mar-16,3.5,OXAU
+76,Return on capital,12  Mar-16,11.0,OXAU
+77,Exports to sales,12  Mar-16,1.0,OXAU
+78,Imports to sales,12  Mar-16,0.3,OXAU
+79,Exports (fob),12  Mar-16,89.0,OXAU
+80,Imports (cif),12  Mar-16,30.0,OXAU
+81,Fx inflow,12  Mar-16,89.0,OXAU
+82,Fx outflow,12  Mar-16,32.0,OXAU
+83,Net fx,12  Mar-16,57.0,OXAU
+84,From Operations,12  Mar-16,502.0,OXAU
+85,From Investments,12  Mar-16,-127.0,OXAU
+86,From Financial Activity,12  Mar-16,-357.0,OXAU
+87,Net Cashflow,12  Mar-16,18.0,OXAU
+88,Net Sales,12  Mar-17,10422.0,OXAU
+89,Other income,12  Mar-17,103.0,OXAU
+90,Total revenues,12  Mar-17,10525.0,OXAU
+91,Gross profit,12  Mar-17,326.0,OXAU
+92,Depreciation,12  Mar-17,235.0,OXAU
+93,Interest,12  Mar-17,233.0,OXAU
+94,Profit before tax,12  Mar-17,-38.0,OXAU
+95,Minority Interest,12  Mar-17,0.0,OXAU
+96,Prior Period Items,12  Mar-17,0.0,OXAU
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,OXAU
+98,Tax,12  Mar-17,-16.0,OXAU
+99,Profit after tax,12  Mar-17,-22.0,OXAU
+100,Gross profit margin,12  Mar-17,3.1,OXAU
+101,Effective tax rate,12  Mar-17,42.2,OXAU
+102,Net profit margin,12  Mar-17,-0.2,OXAU
+103,Current assets,12  Mar-17,2909.0,OXAU
+104,Current liabilities,12  Mar-17,3035.0,OXAU
+105,Net working cap to sales,12  Mar-17,-1.2,OXAU
+106,Current ratio,12  Mar-17,1.0,OXAU
+107,Inventory Days,12  Mar-17,19.0,OXAU
+108,Debtors Days,12  Mar-17,59.0,OXAU
+109,Net fixed assets,12  Mar-17,2794.0,OXAU
+110,Share capital,12  Mar-17,214.0,OXAU
+111,"""Free"" reserves",12  Mar-17,1991.0,OXAU
+112,Net worth,12  Mar-17,2205.0,OXAU
+113,Long term debt,12  Mar-17,402.0,OXAU
+114,Total assets,12  Mar-17,5926.0,OXAU
+115,Interest coverage,12  Mar-17,0.8,OXAU
+116,Debt to equity ratio,12  Mar-17,0.2,OXAU
+117,Sales to assets ratio,12  Mar-17,1.8,OXAU
+118,Return on assets,12  Mar-17,3.6,OXAU
+119,Return on equity,12  Mar-17,-1.0,OXAU
+120,Return on capital,12  Mar-17,7.5,OXAU
+121,Exports to sales,12  Mar-17,0.8,OXAU
+122,Imports to sales,12  Mar-17,0.1,OXAU
+123,Exports (fob),12  Mar-17,81.0,OXAU
+124,Imports (cif),12  Mar-17,13.0,OXAU
+125,Fx inflow,12  Mar-17,81.0,OXAU
+126,Fx outflow,12  Mar-17,19.0,OXAU
+127,Net fx,12  Mar-17,63.0,OXAU
+128,From Operations,12  Mar-17,-214.0,OXAU
+129,From Investments,12  Mar-17,-225.0,OXAU
+130,From Financial Activity,12  Mar-17,453.0,OXAU
+131,Net Cashflow,12  Mar-17,13.0,OXAU
+132,Net Sales,12  Mar-18,11790.0,OXAU
+133,Other income,12  Mar-18,113.0,OXAU
+134,Total revenues,12  Mar-18,11903.0,OXAU
+135,Gross profit,12  Mar-18,418.0,OXAU
+136,Depreciation,12  Mar-18,219.0,OXAU
+137,Interest,12  Mar-18,307.0,OXAU
+138,Profit before tax,12  Mar-18,6.0,OXAU
+139,Minority Interest,12  Mar-18,0.0,OXAU
+140,Prior Period Items,12  Mar-18,0.0,OXAU
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,OXAU
+142,Tax,12  Mar-18,-71.0,OXAU
+143,Profit after tax,12  Mar-18,77.0,OXAU
+144,Gross profit margin,12  Mar-18,3.5,OXAU
+145,Effective tax rate,12  Mar-18,-1243.9,OXAU
+146,Net profit margin,12  Mar-18,0.6,OXAU
+147,Current assets,12  Mar-18,3109.0,OXAU
+148,Current liabilities,12  Mar-18,3032.0,OXAU
+149,Net working cap to sales,12  Mar-18,0.7,OXAU
+150,Current ratio,12  Mar-18,1.0,OXAU
+151,Inventory Days,12  Mar-18,18.0,OXAU
+152,Debtors Days,12  Mar-18,51.0,OXAU
+153,Net fixed assets,12  Mar-18,2263.0,OXAU
+154,Share capital,12  Mar-18,214.0,OXAU
+155,"""Free"" reserves",12  Mar-18,2088.0,OXAU
+156,Net worth,12  Mar-18,2302.0,OXAU
+157,Long term debt,12  Mar-18,428.0,OXAU
+158,Total assets,12  Mar-18,5967.0,OXAU
+159,Interest coverage,12  Mar-18,1.0,OXAU
+160,Debt to equity ratio,12  Mar-18,0.2,OXAU
+161,Sales to assets ratio,12  Mar-18,2.0,OXAU
+162,Return on assets,12  Mar-18,6.4,OXAU
+163,Return on equity,12  Mar-18,3.3,OXAU
+164,Return on capital,12  Mar-18,11.4,OXAU
+165,Exports to sales,12  Mar-18,0.6,OXAU
+166,Imports to sales,12  Mar-18,0.0,OXAU
+167,Exports (fob),12  Mar-18,76.0,OXAU
+168,Imports (cif),12  Mar-18,3.0,OXAU
+169,Fx inflow,12  Mar-18,76.0,OXAU
+170,Fx outflow,12  Mar-18,4.0,OXAU
+171,Net fx,12  Mar-18,71.0,OXAU
+172,From Operations,12  Mar-18,684.0,OXAU
+173,From Investments,12  Mar-18,170.0,OXAU
+174,From Financial Activity,12  Mar-18,-492.0,OXAU
+175,Net Cashflow,12  Mar-18,362.0,OXAU
+176,Net Sales,12  Mar-19,9916.0,OXAU
+177,Other income,12  Mar-19,128.0,OXAU
+178,Total revenues,12  Mar-19,10044.0,OXAU
+179,Gross profit,12  Mar-19,401.0,OXAU
+180,Depreciation,12  Mar-19,196.0,OXAU
+181,Interest,12  Mar-19,281.0,OXAU
+182,Profit before tax,12  Mar-19,52.0,OXAU
+183,Minority Interest,12  Mar-19,0.0,OXAU
+184,Prior Period Items,12  Mar-19,0.0,OXAU
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,OXAU
+186,Tax,12  Mar-19,47.0,OXAU
+187,Profit after tax,12  Mar-19,4.0,OXAU
+188,Gross profit margin,12  Mar-19,4.0,OXAU
+189,Effective tax rate,12  Mar-19,91.7,OXAU
+190,Net profit margin,12  Mar-19,0.0,OXAU
+191,Current assets,12  Mar-19,3273.0,OXAU
+192,Current liabilities,12  Mar-19,2877.0,OXAU
+193,Net working cap to sales,12  Mar-19,4.0,OXAU
+194,Current ratio,12  Mar-19,1.1,OXAU
+195,Inventory Days,12  Mar-19,21.0,OXAU
+196,Debtors Days,12  Mar-19,36.0,OXAU
+197,Net fixed assets,12  Mar-19,1708.0,OXAU
+198,Share capital,12  Mar-19,214.0,OXAU
+199,"""Free"" reserves",12  Mar-19,2077.0,OXAU
+200,Net worth,12  Mar-19,2291.0,OXAU
+201,Long term debt,12  Mar-19,508.0,OXAU
+202,Total assets,12  Mar-19,5926.0,OXAU
+203,Interest coverage,12  Mar-19,1.2,OXAU
+204,Debt to equity ratio,12  Mar-19,0.2,OXAU
+205,Sales to assets ratio,12  Mar-19,1.7,OXAU
+206,Return on assets,12  Mar-19,4.8,OXAU
+207,Return on equity,12  Mar-19,0.2,OXAU
+208,Return on capital,12  Mar-19,11.9,OXAU
+209,Exports to sales,12  Mar-19,0.1,OXAU
+210,Imports to sales,12  Mar-19,0.0,OXAU
+211,Exports (fob),12  Mar-19,6.0,OXAU
+212,Imports (cif),12  Mar-19,1.0,OXAU
+213,Fx inflow,12  Mar-19,6.0,OXAU
+214,Fx outflow,12  Mar-19,2.0,OXAU
+215,Net fx,12  Mar-19,3.0,OXAU
+216,From Operations,12  Mar-19,-874.0,OXAU
+217,From Investments,12  Mar-19,303.0,OXAU
+218,From Financial Activity,12  Mar-19,397.0,OXAU
+219,Net Cashflow,12  Mar-19,-175.0,OXAU

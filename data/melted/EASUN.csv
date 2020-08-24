@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,2565.0,EASUN
+1,Other income,12  Mar-14*,91.0,EASUN
+2,Total revenues,12  Mar-14*,2656.0,EASUN
+3,Gross profit,12  Mar-14*,212.0,EASUN
+4,Depreciation,12  Mar-14*,262.0,EASUN
+5,Interest,12  Mar-14*,302.0,EASUN
+6,Profit before tax,12  Mar-14*,-262.0,EASUN
+7,Minority Interest,12  Mar-14*,-4.0,EASUN
+8,Prior Period Items,12  Mar-14*,0.0,EASUN
+9,Extraordinary Inc (Exp),12  Mar-14*,-37.0,EASUN
+10,Tax,12  Mar-14*,8.0,EASUN
+11,Profit after tax,12  Mar-14*,-311.0,EASUN
+12,Gross profit margin,12  Mar-14*,8.3,EASUN
+13,Effective tax rate,12  Mar-14*,-3.2,EASUN
+14,Net profit margin,12  Mar-14*,-12.1,EASUN
+15,Current assets,12  Mar-14*,4009.0,EASUN
+16,Current liabilities,12  Mar-14*,3867.0,EASUN
+17,Net working cap to sales,12  Mar-14*,5.6,EASUN
+18,Current ratio,12  Mar-14*,1.0,EASUN
+19,Inventory Days,12  Mar-14*,92.0,EASUN
+20,Debtors Days,12  Mar-14*,394.0,EASUN
+21,Net fixed assets,12  Mar-14*,2544.0,EASUN
+22,Share capital,12  Mar-14*,42.0,EASUN
+23,"""Free"" reserves",12  Mar-14*,1341.0,EASUN
+24,Net worth,12  Mar-14*,1677.0,EASUN
+25,Long term debt,12  Mar-14*,1035.0,EASUN
+26,Total assets,12  Mar-14*,6722.0,EASUN
+27,Interest coverage,12  Mar-14*,0.1,EASUN
+28,Debt to equity ratio,12  Mar-14*,0.6,EASUN
+29,Sales to assets ratio,12  Mar-14*,0.4,EASUN
+30,Return on assets,12  Mar-14*,-0.1,EASUN
+31,Return on equity,12  Mar-14*,-18.6,EASUN
+32,Return on capital,12  Mar-14*,0.0,EASUN
+33,Exports to sales,12  Mar-14*,3.0,EASUN
+34,Imports to sales,12  Mar-14*,9.5,EASUN
+35,Exports (fob),12  Mar-14*,77.0,EASUN
+36,Imports (cif),12  Mar-14*,243.0,EASUN
+37,Fx inflow,12  Mar-14*,77.0,EASUN
+38,Fx outflow,12  Mar-14*,246.0,EASUN
+39,Net fx,12  Mar-14*,-169.0,EASUN
+40,From Operations,12  Mar-14*,288.0,EASUN
+41,From Investments,12  Mar-14*,-225.0,EASUN
+42,From Financial Activity,12  Mar-14*,-66.0,EASUN
+43,Net Cashflow,12  Mar-14*,-3.0,EASUN
+44,Net Sales,12  Mar-15*,1179.0,EASUN
+45,Other income,12  Mar-15*,87.0,EASUN
+46,Total revenues,12  Mar-15*,1266.0,EASUN
+47,Gross profit,12  Mar-15*,-33.0,EASUN
+48,Depreciation,12  Mar-15*,205.0,EASUN
+49,Interest,12  Mar-15*,265.0,EASUN
+50,Profit before tax,12  Mar-15*,-417.0,EASUN
+51,Minority Interest,12  Mar-15*,29.0,EASUN
+52,Prior Period Items,12  Mar-15*,0.0,EASUN
+53,Extraordinary Inc (Exp),12  Mar-15*,-60.0,EASUN
+54,Tax,12  Mar-15*,-43.0,EASUN
+55,Profit after tax,12  Mar-15*,-405.0,EASUN
+56,Gross profit margin,12  Mar-15*,-2.8,EASUN
+57,Effective tax rate,12  Mar-15*,10.3,EASUN
+58,Net profit margin,12  Mar-15*,-34.3,EASUN
+59,Current assets,12  Mar-15*,4205.0,EASUN
+60,Current liabilities,12  Mar-15*,4309.0,EASUN
+61,Net working cap to sales,12  Mar-15*,-8.8,EASUN
+62,Current ratio,12  Mar-15*,1.0,EASUN
+63,Inventory Days,12  Mar-15*,199.0,EASUN
+64,Debtors Days,12  Mar-15*,877.0,EASUN
+65,Net fixed assets,12  Mar-15*,2201.0,EASUN
+66,Share capital,12  Mar-15*,62.0,EASUN
+67,"""Free"" reserves",12  Mar-15*,1306.0,EASUN
+68,Net worth,12  Mar-15*,1592.0,EASUN
+69,Long term debt,12  Mar-15*,523.0,EASUN
+70,Total assets,12  Mar-15*,6524.0,EASUN
+71,Interest coverage,12  Mar-15*,-0.6,EASUN
+72,Debt to equity ratio,12  Mar-15*,0.3,EASUN
+73,Sales to assets ratio,12  Mar-15*,0.2,EASUN
+74,Return on assets,12  Mar-15*,-2.2,EASUN
+75,Return on equity,12  Mar-15*,-25.4,EASUN
+76,Return on capital,12  Mar-15*,-8.7,EASUN
+77,Exports to sales,12  Mar-15*,7.2,EASUN
+78,Imports to sales,12  Mar-15*,3.6,EASUN
+79,Exports (fob),12  Mar-15*,84.0,EASUN
+80,Imports (cif),12  Mar-15*,43.0,EASUN
+81,Fx inflow,12  Mar-15*,84.0,EASUN
+82,Fx outflow,12  Mar-15*,45.0,EASUN
+83,Net fx,12  Mar-15*,40.0,EASUN
+84,From Operations,12  Mar-15*,-156.0,EASUN
+85,From Investments,12  Mar-15*,232.0,EASUN
+86,From Financial Activity,12  Mar-15*,-60.0,EASUN
+87,Net Cashflow,12  Mar-15*,16.0,EASUN
+88,Net Sales,12  Mar-16*,929.0,EASUN
+89,Other income,12  Mar-16*,68.0,EASUN
+90,Total revenues,12  Mar-16*,997.0,EASUN
+91,Gross profit,12  Mar-16*,3.0,EASUN
+92,Depreciation,12  Mar-16*,194.0,EASUN
+93,Interest,12  Mar-16*,280.0,EASUN
+94,Profit before tax,12  Mar-16*,-404.0,EASUN
+95,Minority Interest,12  Mar-16*,0.0,EASUN
+96,Prior Period Items,12  Mar-16*,0.0,EASUN
+97,Extraordinary Inc (Exp),12  Mar-16*,-80.0,EASUN
+98,Tax,12  Mar-16*,0.0,EASUN
+99,Profit after tax,12  Mar-16*,-484.0,EASUN
+100,Gross profit margin,12  Mar-16*,0.3,EASUN
+101,Effective tax rate,12  Mar-16*,0.0,EASUN
+102,Net profit margin,12  Mar-16*,-52.1,EASUN
+103,Current assets,12  Mar-16*,3593.0,EASUN
+104,Current liabilities,12  Mar-16*,4301.0,EASUN
+105,Net working cap to sales,12  Mar-16*,-76.2,EASUN
+106,Current ratio,12  Mar-16*,0.8,EASUN
+107,Inventory Days,12  Mar-16*,249.0,EASUN
+108,Debtors Days,12  Mar-16*,814.0,EASUN
+109,Net fixed assets,12  Mar-16*,2015.0,EASUN
+110,Share capital,12  Mar-16*,62.0,EASUN
+111,"""Free"" reserves",12  Mar-16*,1630.0,EASUN
+112,Net worth,12  Mar-16*,1692.0,EASUN
+113,Long term debt,12  Mar-16*,2.0,EASUN
+114,Total assets,12  Mar-16*,6000.0,EASUN
+115,Interest coverage,12  Mar-16*,-0.4,EASUN
+116,Debt to equity ratio,12  Mar-16*,0.0,EASUN
+117,Sales to assets ratio,12  Mar-16*,0.2,EASUN
+118,Return on assets,12  Mar-16*,-3.4,EASUN
+119,Return on equity,12  Mar-16*,-28.6,EASUN
+120,Return on capital,12  Mar-16*,-12.0,EASUN
+121,Exports to sales,12  Mar-16*,5.7,EASUN
+122,Imports to sales,12  Mar-16*,9.0,EASUN
+123,Exports (fob),12  Mar-16*,53.0,EASUN
+124,Imports (cif),12  Mar-16*,84.0,EASUN
+125,Fx inflow,12  Mar-16*,53.0,EASUN
+126,Fx outflow,12  Mar-16*,85.0,EASUN
+127,Net fx,12  Mar-16*,-32.0,EASUN
+128,From Operations,12  Mar-16*,-128.0,EASUN
+129,From Investments,12  Mar-16*,101.0,EASUN
+130,From Financial Activity,12  Mar-16*,22.0,EASUN
+131,Net Cashflow,12  Mar-16*,-5.0,EASUN
+132,Net Sales,12  Mar-17*,850.0,EASUN
+133,Other income,12  Mar-17*,52.0,EASUN
+134,Total revenues,12  Mar-17*,903.0,EASUN
+135,Gross profit,12  Mar-17*,47.0,EASUN
+136,Depreciation,12  Mar-17*,169.0,EASUN
+137,Interest,12  Mar-17*,133.0,EASUN
+138,Profit before tax,12  Mar-17*,-203.0,EASUN
+139,Minority Interest,12  Mar-17*,0.0,EASUN
+140,Prior Period Items,12  Mar-17*,0.0,EASUN
+141,Extraordinary Inc (Exp),12  Mar-17*,-8.0,EASUN
+142,Tax,12  Mar-17*,0.0,EASUN
+143,Profit after tax,12  Mar-17*,-210.0,EASUN
+144,Gross profit margin,12  Mar-17*,5.6,EASUN
+145,Effective tax rate,12  Mar-17*,0.0,EASUN
+146,Net profit margin,12  Mar-17*,-24.7,EASUN
+147,Current assets,12  Mar-17*,3290.0,EASUN
+148,Current liabilities,12  Mar-17*,4321.0,EASUN
+149,Net working cap to sales,12  Mar-17*,-121.2,EASUN
+150,Current ratio,12  Mar-17*,0.8,EASUN
+151,Inventory Days,12  Mar-17*,269.0,EASUN
+152,Debtors Days,12  Mar-17*,741.0,EASUN
+153,Net fixed assets,12  Mar-17*,2273.0,EASUN
+154,Share capital,12  Mar-17*,62.0,EASUN
+155,"""Free"" reserves",12  Mar-17*,1550.0,EASUN
+156,Net worth,12  Mar-17*,1611.0,EASUN
+157,Long term debt,12  Mar-17*,21.0,EASUN
+158,Total assets,12  Mar-17*,5799.0,EASUN
+159,Interest coverage,12  Mar-17*,-0.5,EASUN
+160,Debt to equity ratio,12  Mar-17*,0.0,EASUN
+161,Sales to assets ratio,12  Mar-17*,0.1,EASUN
+162,Return on assets,12  Mar-17*,-1.3,EASUN
+163,Return on equity,12  Mar-17*,-13.1,EASUN
+164,Return on capital,12  Mar-17*,-4.7,EASUN
+165,Exports to sales,12  Mar-17*,4.9,EASUN
+166,Imports to sales,12  Mar-17*,8.3,EASUN
+167,Exports (fob),12  Mar-17*,41.0,EASUN
+168,Imports (cif),12  Mar-17*,71.0,EASUN
+169,Fx inflow,12  Mar-17*,41.0,EASUN
+170,Fx outflow,12  Mar-17*,71.0,EASUN
+171,Net fx,12  Mar-17*,-30.0,EASUN
+172,From Operations,12  Mar-17*,-358.0,EASUN
+173,From Investments,12  Mar-17*,-75.0,EASUN
+174,From Financial Activity,12  Mar-17*,423.0,EASUN
+175,Net Cashflow,12  Mar-17*,-9.0,EASUN
+176,Net Sales,12  Mar-18*,739.0,EASUN
+177,Other income,12  Mar-18*,48.0,EASUN
+178,Total revenues,12  Mar-18*,787.0,EASUN
+179,Gross profit,12  Mar-18*,-12.0,EASUN
+180,Depreciation,12  Mar-18*,168.0,EASUN
+181,Interest,12  Mar-18*,24.0,EASUN
+182,Profit before tax,12  Mar-18*,-156.0,EASUN
+183,Minority Interest,12  Mar-18*,0.0,EASUN
+184,Prior Period Items,12  Mar-18*,0.0,EASUN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,EASUN
+186,Tax,12  Mar-18*,0.0,EASUN
+187,Profit after tax,12  Mar-18*,-156.0,EASUN
+188,Gross profit margin,12  Mar-18*,-1.6,EASUN
+189,Effective tax rate,12  Mar-18*,0.0,EASUN
+190,Net profit margin,12  Mar-18*,-21.1,EASUN
+191,Current assets,12  Mar-18*,3762.0,EASUN
+192,Current liabilities,12  Mar-18*,4477.0,EASUN
+193,Net working cap to sales,12  Mar-18*,-96.8,EASUN
+194,Current ratio,12  Mar-18*,0.8,EASUN
+195,Inventory Days,12  Mar-18*,474.0,EASUN
+196,Debtors Days,12  Mar-18*,871.0,EASUN
+197,Net fixed assets,12  Mar-18*,2035.0,EASUN
+198,Share capital,12  Mar-18*,62.0,EASUN
+199,"""Free"" reserves",12  Mar-18*,1398.0,EASUN
+200,Net worth,12  Mar-18*,1460.0,EASUN
+201,Long term debt,12  Mar-18*,48.0,EASUN
+202,Total assets,12  Mar-18*,5970.0,EASUN
+203,Interest coverage,12  Mar-18*,-5.5,EASUN
+204,Debt to equity ratio,12  Mar-18*,0.0,EASUN
+205,Sales to assets ratio,12  Mar-18*,0.1,EASUN
+206,Return on assets,12  Mar-18*,-2.2,EASUN
+207,Return on equity,12  Mar-18*,-10.7,EASUN
+208,Return on capital,12  Mar-18*,-8.8,EASUN
+209,Exports to sales,12  Mar-18*,2.1,EASUN
+210,Imports to sales,12  Mar-18*,9.4,EASUN
+211,Exports (fob),12  Mar-18*,16.0,EASUN
+212,Imports (cif),12  Mar-18*,70.0,EASUN
+213,Fx inflow,12  Mar-18*,16.0,EASUN
+214,Fx outflow,12  Mar-18*,70.0,EASUN
+215,Net fx,12  Mar-18*,-54.0,EASUN
+216,From Operations,12  Mar-18*,-117.0,EASUN
+217,From Investments,12  Mar-18*,-101.0,EASUN
+218,From Financial Activity,12  Mar-18*,281.0,EASUN
+219,Net Cashflow,12  Mar-18*,63.0,EASUN

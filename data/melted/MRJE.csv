@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1670.0,MRJE
+1,Other income,12  Mar-15*,1359.0,MRJE
+2,Total revenues,12  Mar-15*,3029.0,MRJE
+3,Gross profit,12  Mar-15*,-174.0,MRJE
+4,Depreciation,12  Mar-15*,107.0,MRJE
+5,Interest,12  Mar-15*,1406.0,MRJE
+6,Profit before tax,12  Mar-15*,-327.0,MRJE
+7,Minority Interest,12  Mar-15*,29.0,MRJE
+8,Prior Period Items,12  Mar-15*,2.0,MRJE
+9,Extraordinary Inc (Exp),12  Mar-15*,99.0,MRJE
+10,Tax,12  Mar-15*,-111.0,MRJE
+11,Profit after tax,12  Mar-15*,-86.0,MRJE
+12,Gross profit margin,12  Mar-15*,-10.4,MRJE
+13,Effective tax rate,12  Mar-15*,34.0,MRJE
+14,Net profit margin,12  Mar-15*,-5.1,MRJE
+15,Current assets,12  Mar-15*,29805.0,MRJE
+16,Current liabilities,12  Mar-15*,11764.0,MRJE
+17,Net working cap to sales,12  Mar-15*,1080.3,MRJE
+18,Current ratio,12  Mar-15*,2.5,MRJE
+19,Inventory Days,12  Mar-15*,4753.0,MRJE
+20,Debtors Days,12  Mar-15*,278.0,MRJE
+21,Net fixed assets,12  Mar-15*,889.0,MRJE
+22,Share capital,12  Mar-15*,559.0,MRJE
+23,"""Free"" reserves",12  Mar-15*,12940.0,MRJE
+24,Net worth,12  Mar-15*,14740.0,MRJE
+25,Long term debt,12  Mar-15*,14296.0,MRJE
+26,Total assets,12  Mar-15*,42166.0,MRJE
+27,Interest coverage,12  Mar-15*,0.8,MRJE
+28,Debt to equity ratio,12  Mar-15*,1.0,MRJE
+29,Sales to assets ratio,12  Mar-15*,0.0,MRJE
+30,Return on assets,12  Mar-15*,3.1,MRJE
+31,Return on equity,12  Mar-15*,-0.6,MRJE
+32,Return on capital,12  Mar-15*,4.2,MRJE
+33,Exports to sales,12  Mar-15*,0.0,MRJE
+34,Imports to sales,12  Mar-15*,0.0,MRJE
+35,Exports (fob),12  Mar-15*,0.0,MRJE
+36,Imports (cif),12  Mar-15*,0.0,MRJE
+37,Fx inflow,12  Mar-15*,0.0,MRJE
+38,Fx outflow,12  Mar-15*,11.0,MRJE
+39,Net fx,12  Mar-15*,-11.0,MRJE
+40,From Operations,12  Mar-15*,-6909.0,MRJE
+41,From Investments,12  Mar-15*,1421.0,MRJE
+42,From Financial Activity,12  Mar-15*,6147.0,MRJE
+43,Net Cashflow,12  Mar-15*,658.0,MRJE
+44,Net Sales,12  Mar-16*,3113.0,MRJE
+45,Other income,12  Mar-16*,710.0,MRJE
+46,Total revenues,12  Mar-16*,3823.0,MRJE
+47,Gross profit,12  Mar-16*,-448.0,MRJE
+48,Depreciation,12  Mar-16*,47.0,MRJE
+49,Interest,12  Mar-16*,670.0,MRJE
+50,Profit before tax,12  Mar-16*,-455.0,MRJE
+51,Minority Interest,12  Mar-16*,25.0,MRJE
+52,Prior Period Items,12  Mar-16*,-4.0,MRJE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MRJE
+54,Tax,12  Mar-16*,-140.0,MRJE
+55,Profit after tax,12  Mar-16*,-294.0,MRJE
+56,Gross profit margin,12  Mar-16*,-14.4,MRJE
+57,Effective tax rate,12  Mar-16*,30.8,MRJE
+58,Net profit margin,12  Mar-16*,-9.5,MRJE
+59,Current assets,12  Mar-16*,29459.0,MRJE
+60,Current liabilities,12  Mar-16*,10208.0,MRJE
+61,Net working cap to sales,12  Mar-16*,618.4,MRJE
+62,Current ratio,12  Mar-16*,2.9,MRJE
+63,Inventory Days,12  Mar-16*,2814.0,MRJE
+64,Debtors Days,12  Mar-16*,129.0,MRJE
+65,Net fixed assets,12  Mar-16*,889.0,MRJE
+66,Share capital,12  Mar-16*,559.0,MRJE
+67,"""Free"" reserves",12  Mar-16*,12274.0,MRJE
+68,Net worth,12  Mar-16*,14331.0,MRJE
+69,Long term debt,12  Mar-16*,16190.0,MRJE
+70,Total assets,12  Mar-16*,42082.0,MRJE
+71,Interest coverage,12  Mar-16*,0.3,MRJE
+72,Debt to equity ratio,12  Mar-16*,1.1,MRJE
+73,Sales to assets ratio,12  Mar-16*,0.1,MRJE
+74,Return on assets,12  Mar-16*,0.9,MRJE
+75,Return on equity,12  Mar-16*,-2.1,MRJE
+76,Return on capital,12  Mar-16*,0.8,MRJE
+77,Exports to sales,12  Mar-16*,0.0,MRJE
+78,Imports to sales,12  Mar-16*,0.2,MRJE
+79,Exports (fob),12  Mar-16*,0.0,MRJE
+80,Imports (cif),12  Mar-16*,7.0,MRJE
+81,Fx inflow,12  Mar-16*,0.0,MRJE
+82,Fx outflow,12  Mar-16*,8.0,MRJE
+83,Net fx,12  Mar-16*,-8.0,MRJE
+84,From Operations,12  Mar-16*,-2986.0,MRJE
+85,From Investments,12  Mar-16*,1425.0,MRJE
+86,From Financial Activity,12  Mar-16*,-96.0,MRJE
+87,Net Cashflow,12  Mar-16*,-1657.0,MRJE
+88,Net Sales,12  Mar-17*,2697.0,MRJE
+89,Other income,12  Mar-17*,1206.0,MRJE
+90,Total revenues,12  Mar-17*,3904.0,MRJE
+91,Gross profit,12  Mar-17*,-1224.0,MRJE
+92,Depreciation,12  Mar-17*,50.0,MRJE
+93,Interest,12  Mar-17*,1704.0,MRJE
+94,Profit before tax,12  Mar-17*,-1771.0,MRJE
+95,Minority Interest,12  Mar-17*,0.0,MRJE
+96,Prior Period Items,12  Mar-17*,0.0,MRJE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MRJE
+98,Tax,12  Mar-17*,425.0,MRJE
+99,Profit after tax,12  Mar-17*,-2197.0,MRJE
+100,Gross profit margin,12  Mar-17*,-45.4,MRJE
+101,Effective tax rate,12  Mar-17*,-24.0,MRJE
+102,Net profit margin,12  Mar-17*,-81.4,MRJE
+103,Current assets,12  Mar-17*,32729.0,MRJE
+104,Current liabilities,12  Mar-17*,13602.0,MRJE
+105,Net working cap to sales,12  Mar-17*,709.1,MRJE
+106,Current ratio,12  Mar-17*,2.4,MRJE
+107,Inventory Days,12  Mar-17*,3725.0,MRJE
+108,Debtors Days,12  Mar-17*,66.0,MRJE
+109,Net fixed assets,12  Mar-17*,1838.0,MRJE
+110,Share capital,12  Mar-17*,559.0,MRJE
+111,"""Free"" reserves",12  Mar-17*,14539.0,MRJE
+112,Net worth,12  Mar-17*,15098.0,MRJE
+113,Long term debt,12  Mar-17*,14296.0,MRJE
+114,Total assets,12  Mar-17*,45145.0,MRJE
+115,Interest coverage,12  Mar-17*,0.0,MRJE
+116,Debt to equity ratio,12  Mar-17*,0.9,MRJE
+117,Sales to assets ratio,12  Mar-17*,0.1,MRJE
+118,Return on assets,12  Mar-17*,-1.1,MRJE
+119,Return on equity,12  Mar-17*,-14.5,MRJE
+120,Return on capital,12  Mar-17*,-0.2,MRJE
+121,Exports to sales,12  Mar-17*,0.0,MRJE
+122,Imports to sales,12  Mar-17*,0.0,MRJE
+123,Exports (fob),12  Mar-17*,0.0,MRJE
+124,Imports (cif),12  Mar-17*,0.0,MRJE
+125,Fx inflow,12  Mar-17*,0.0,MRJE
+126,Fx outflow,12  Mar-17*,10.0,MRJE
+127,Net fx,12  Mar-17*,-10.0,MRJE
+128,From Operations,12  Mar-17*,-1777.0,MRJE
+129,From Investments,12  Mar-17*,1842.0,MRJE
+130,From Financial Activity,12  Mar-17*,378.0,MRJE
+131,Net Cashflow,12  Mar-17*,444.0,MRJE
+132,Net Sales,12  Mar-18*,4976.0,MRJE
+133,Other income,12  Mar-18*,569.0,MRJE
+134,Total revenues,12  Mar-18*,5545.0,MRJE
+135,Gross profit,12  Mar-18*,-1138.0,MRJE
+136,Depreciation,12  Mar-18*,47.0,MRJE
+137,Interest,12  Mar-18*,2184.0,MRJE
+138,Profit before tax,12  Mar-18*,-2799.0,MRJE
+139,Minority Interest,12  Mar-18*,0.0,MRJE
+140,Prior Period Items,12  Mar-18*,0.0,MRJE
+141,Extraordinary Inc (Exp),12  Mar-18*,-1695.0,MRJE
+142,Tax,12  Mar-18*,38.0,MRJE
+143,Profit after tax,12  Mar-18*,-4533.0,MRJE
+144,Gross profit margin,12  Mar-18*,-22.9,MRJE
+145,Effective tax rate,12  Mar-18*,-1.4,MRJE
+146,Net profit margin,12  Mar-18*,-91.1,MRJE
+147,Current assets,12  Mar-18*,39648.0,MRJE
+148,Current liabilities,12  Mar-18*,19065.0,MRJE
+149,Net working cap to sales,12  Mar-18*,413.6,MRJE
+150,Current ratio,12  Mar-18*,2.1,MRJE
+151,Inventory Days,12  Mar-18*,2536.0,MRJE
+152,Debtors Days,12  Mar-18*,76.0,MRJE
+153,Net fixed assets,12  Mar-18*,5821.0,MRJE
+154,Share capital,12  Mar-18*,559.0,MRJE
+155,"""Free"" reserves",12  Mar-18*,9933.0,MRJE
+156,Net worth,12  Mar-18*,10492.0,MRJE
+157,Long term debt,12  Mar-18*,17838.0,MRJE
+158,Total assets,12  Mar-18*,49687.0,MRJE
+159,Interest coverage,12  Mar-18*,-0.3,MRJE
+160,Debt to equity ratio,12  Mar-18*,1.7,MRJE
+161,Sales to assets ratio,12  Mar-18*,0.1,MRJE
+162,Return on assets,12  Mar-18*,-4.7,MRJE
+163,Return on equity,12  Mar-18*,-43.2,MRJE
+164,Return on capital,12  Mar-18*,-8.2,MRJE
+165,Exports to sales,12  Mar-18*,0.0,MRJE
+166,Imports to sales,12  Mar-18*,0.0,MRJE
+167,Exports (fob),12  Mar-18*,0.0,MRJE
+168,Imports (cif),12  Mar-18*,0.0,MRJE
+169,Fx inflow,12  Mar-18*,0.0,MRJE
+170,Fx outflow,12  Mar-18*,11.0,MRJE
+171,Net fx,12  Mar-18*,-11.0,MRJE
+172,From Operations,12  Mar-18*,3429.0,MRJE
+173,From Investments,12  Mar-18*,35.0,MRJE
+174,From Financial Activity,12  Mar-18*,-3896.0,MRJE
+175,Net Cashflow,12  Mar-18*,-292.0,MRJE
+176,Net Sales,12  Mar-19*,3278.0,MRJE
+177,Other income,12  Mar-19*,256.0,MRJE
+178,Total revenues,12  Mar-19*,3534.0,MRJE
+179,Gross profit,12  Mar-19*,-3705.0,MRJE
+180,Depreciation,12  Mar-19*,46.0,MRJE
+181,Interest,12  Mar-19*,1669.0,MRJE
+182,Profit before tax,12  Mar-19*,-5163.0,MRJE
+183,Minority Interest,12  Mar-19*,0.0,MRJE
+184,Prior Period Items,12  Mar-19*,0.0,MRJE
+185,Extraordinary Inc (Exp),12  Mar-19*,-537.0,MRJE
+186,Tax,12  Mar-19*,277.0,MRJE
+187,Profit after tax,12  Mar-19*,-5977.0,MRJE
+188,Gross profit margin,12  Mar-19*,-113.0,MRJE
+189,Effective tax rate,12  Mar-19*,-5.4,MRJE
+190,Net profit margin,12  Mar-19*,-182.3,MRJE
+191,Current assets,12  Mar-19*,37690.0,MRJE
+192,Current liabilities,12  Mar-19*,23362.0,MRJE
+193,Net working cap to sales,12  Mar-19*,437.0,MRJE
+194,Current ratio,12  Mar-19*,1.6,MRJE
+195,Inventory Days,12  Mar-19*,3794.0,MRJE
+196,Debtors Days,12  Mar-19*,37.0,MRJE
+197,Net fixed assets,12  Mar-19*,5694.0,MRJE
+198,Share capital,12  Mar-19*,559.0,MRJE
+199,"""Free"" reserves",12  Mar-19*,4324.0,MRJE
+200,Net worth,12  Mar-19*,4883.0,MRJE
+201,Long term debt,12  Mar-19*,15555.0,MRJE
+202,Total assets,12  Mar-19*,46853.0,MRJE
+203,Interest coverage,12  Mar-19*,-2.1,MRJE
+204,Debt to equity ratio,12  Mar-19*,3.2,MRJE
+205,Sales to assets ratio,12  Mar-19*,0.1,MRJE
+206,Return on assets,12  Mar-19*,-9.2,MRJE
+207,Return on equity,12  Mar-19*,-122.4,MRJE
+208,Return on capital,12  Mar-19*,-19.7,MRJE
+209,Exports to sales,12  Mar-19*,0.0,MRJE
+210,Imports to sales,12  Mar-19*,0.0,MRJE
+211,Exports (fob),12  Mar-19*,0.0,MRJE
+212,Imports (cif),12  Mar-19*,0.0,MRJE
+213,Fx inflow,12  Mar-19*,0.0,MRJE
+214,Fx outflow,12  Mar-19*,121.0,MRJE
+215,Net fx,12  Mar-19*,-121.0,MRJE
+216,From Operations,12  Mar-19*,3747.0,MRJE
+217,From Investments,12  Mar-19*,707.0,MRJE
+218,From Financial Activity,12  Mar-19*,-4521.0,MRJE
+219,Net Cashflow,12  Mar-19*,-67.0,MRJE

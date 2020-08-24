@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,5787.0,INGER
+1,Other income,12  Mar-14,624.0,INGER
+2,Total revenues,12  Mar-14,6412.0,INGER
+3,Gross profit,12  Mar-14,453.0,INGER
+4,Depreciation,12  Mar-14,81.0,INGER
+5,Interest,12  Mar-14,12.0,INGER
+6,Profit before tax,12  Mar-14,984.0,INGER
+7,Minority Interest,12  Mar-14,0.0,INGER
+8,Prior Period Items,12  Mar-14,0.0,INGER
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,INGER
+10,Tax,12  Mar-14,315.0,INGER
+11,Profit after tax,12  Mar-14,670.0,INGER
+12,Gross profit margin,12  Mar-14,7.8,INGER
+13,Effective tax rate,12  Mar-14,32.0,INGER
+14,Net profit margin,12  Mar-14,11.6,INGER
+15,Current assets,12  Mar-14,8067.0,INGER
+16,Current liabilities,12  Mar-14,1760.0,INGER
+17,Net working cap to sales,12  Mar-14,109.0,INGER
+18,Current ratio,12  Mar-14,4.6,INGER
+19,Inventory Days,12  Mar-14,85.0,INGER
+20,Debtors Days,12  Mar-14,110.0,INGER
+21,Net fixed assets,12  Mar-14,1163.0,INGER
+22,Share capital,12  Mar-14,316.0,INGER
+23,"""Free"" reserves",12  Mar-14,8830.0,INGER
+24,Net worth,12  Mar-14,9146.0,INGER
+25,Long term debt,12  Mar-14,0.0,INGER
+26,Total assets,12  Mar-14,10934.0,INGER
+27,Interest coverage,12  Mar-14,83.7,INGER
+28,Debt to equity ratio,12  Mar-14,0.0,INGER
+29,Sales to assets ratio,12  Mar-14,0.5,INGER
+30,Return on assets,12  Mar-14,6.2,INGER
+31,Return on equity,12  Mar-14,7.3,INGER
+32,Return on capital,12  Mar-14,10.9,INGER
+33,Exports to sales,12  Mar-14,21.1,INGER
+34,Imports to sales,12  Mar-14,30.9,INGER
+35,Exports (fob),12  Mar-14,1221.0,INGER
+36,Imports (cif),12  Mar-14,1790.0,INGER
+37,Fx inflow,12  Mar-14,1248.0,INGER
+38,Fx outflow,12  Mar-14,2127.0,INGER
+39,Net fx,12  Mar-14,-879.0,INGER
+40,From Operations,12  Mar-14,-642.0,INGER
+41,From Investments,12  Mar-14,308.0,INGER
+42,From Financial Activity,12  Mar-14,-226.0,INGER
+43,Net Cashflow,12  Mar-14,-560.0,INGER
+44,Net Sales,12  Mar-15,6555.0,INGER
+45,Other income,12  Mar-15,604.0,INGER
+46,Total revenues,12  Mar-15,7159.0,INGER
+47,Gross profit,12  Mar-15,542.0,INGER
+48,Depreciation,12  Mar-15,116.0,INGER
+49,Interest,12  Mar-15,21.0,INGER
+50,Profit before tax,12  Mar-15,1010.0,INGER
+51,Minority Interest,12  Mar-15,0.0,INGER
+52,Prior Period Items,12  Mar-15,0.0,INGER
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,INGER
+54,Tax,12  Mar-15,348.0,INGER
+55,Profit after tax,12  Mar-15,662.0,INGER
+56,Gross profit margin,12  Mar-15,8.3,INGER
+57,Effective tax rate,12  Mar-15,34.5,INGER
+58,Net profit margin,12  Mar-15,10.1,INGER
+59,Current assets,12  Mar-15,7972.0,INGER
+60,Current liabilities,12  Mar-15,1588.0,INGER
+61,Net working cap to sales,12  Mar-15,97.4,INGER
+62,Current ratio,12  Mar-15,5.0,INGER
+63,Inventory Days,12  Mar-15,63.0,INGER
+64,Debtors Days,12  Mar-15,99.0,INGER
+65,Net fixed assets,12  Mar-15,1549.0,INGER
+66,Share capital,12  Mar-15,316.0,INGER
+67,"""Free"" reserves",12  Mar-15,9373.0,INGER
+68,Net worth,12  Mar-15,9688.0,INGER
+69,Long term debt,12  Mar-15,0.0,INGER
+70,Total assets,12  Mar-15,11312.0,INGER
+71,Interest coverage,12  Mar-15,49.5,INGER
+72,Debt to equity ratio,12  Mar-15,0.0,INGER
+73,Sales to assets ratio,12  Mar-15,0.6,INGER
+74,Return on assets,12  Mar-15,6.0,INGER
+75,Return on equity,12  Mar-15,6.8,INGER
+76,Return on capital,12  Mar-15,10.6,INGER
+77,Exports to sales,12  Mar-15,22.1,INGER
+78,Imports to sales,12  Mar-15,23.9,INGER
+79,Exports (fob),12  Mar-15,1447.0,INGER
+80,Imports (cif),12  Mar-15,1564.0,INGER
+81,Fx inflow,12  Mar-15,1574.0,INGER
+82,Fx outflow,12  Mar-15,1811.0,INGER
+83,Net fx,12  Mar-15,-237.0,INGER
+84,From Operations,12  Mar-15,293.0,INGER
+85,From Investments,12  Mar-15,-41.0,INGER
+86,From Financial Activity,12  Mar-15,-241.0,INGER
+87,Net Cashflow,12  Mar-15,11.0,INGER
+88,Net Sales,12  Mar-16,6659.0,INGER
+89,Other income,12  Mar-16,478.0,INGER
+90,Total revenues,12  Mar-16,7137.0,INGER
+91,Gross profit,12  Mar-16,421.0,INGER
+92,Depreciation,12  Mar-16,98.0,INGER
+93,Interest,12  Mar-16,5.0,INGER
+94,Profit before tax,12  Mar-16,796.0,INGER
+95,Minority Interest,12  Mar-16,0.0,INGER
+96,Prior Period Items,12  Mar-16,0.0,INGER
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,INGER
+98,Tax,12  Mar-16,203.0,INGER
+99,Profit after tax,12  Mar-16,593.0,INGER
+100,Gross profit margin,12  Mar-16,6.3,INGER
+101,Effective tax rate,12  Mar-16,25.5,INGER
+102,Net profit margin,12  Mar-16,8.9,INGER
+103,Current assets,12  Mar-16,8748.0,INGER
+104,Current liabilities,12  Mar-16,1470.0,INGER
+105,Net working cap to sales,12  Mar-16,109.3,INGER
+106,Current ratio,12  Mar-16,6.0,INGER
+107,Inventory Days,12  Mar-16,52.0,INGER
+108,Debtors Days,12  Mar-16,75.0,INGER
+109,Net fixed assets,12  Mar-16,1125.0,INGER
+110,Share capital,12  Mar-16,316.0,INGER
+111,"""Free"" reserves",12  Mar-16,9761.0,INGER
+112,Net worth,12  Mar-16,10077.0,INGER
+113,Long term debt,12  Mar-16,0.0,INGER
+114,Total assets,12  Mar-16,11609.0,INGER
+115,Interest coverage,12  Mar-16,170.4,INGER
+116,Debt to equity ratio,12  Mar-16,0.0,INGER
+117,Sales to assets ratio,12  Mar-16,0.6,INGER
+118,Return on assets,12  Mar-16,5.1,INGER
+119,Return on equity,12  Mar-16,5.9,INGER
+120,Return on capital,12  Mar-16,8.0,INGER
+121,Exports to sales,12  Mar-16,22.4,INGER
+122,Imports to sales,12  Mar-16,23.9,INGER
+123,Exports (fob),12  Mar-16,1488.0,INGER
+124,Imports (cif),12  Mar-16,1592.0,INGER
+125,Fx inflow,12  Mar-16,1787.0,INGER
+126,Fx outflow,12  Mar-16,1880.0,INGER
+127,Net fx,12  Mar-16,-93.0,INGER
+128,From Operations,12  Mar-16,668.0,INGER
+129,From Investments,12  Mar-16,1126.0,INGER
+130,From Financial Activity,12  Mar-16,-230.0,INGER
+131,Net Cashflow,12  Mar-16,1563.0,INGER
+132,Net Sales,12  Mar-17,6204.0,INGER
+133,Other income,12  Mar-17,709.0,INGER
+134,Total revenues,12  Mar-17,6913.0,INGER
+135,Gross profit,12  Mar-17,561.0,INGER
+136,Depreciation,12  Mar-17,118.0,INGER
+137,Interest,12  Mar-17,8.0,INGER
+138,Profit before tax,12  Mar-17,1144.0,INGER
+139,Minority Interest,12  Mar-17,0.0,INGER
+140,Prior Period Items,12  Mar-17,0.0,INGER
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,INGER
+142,Tax,12  Mar-17,371.0,INGER
+143,Profit after tax,12  Mar-17,773.0,INGER
+144,Gross profit margin,12  Mar-17,9.0,INGER
+145,Effective tax rate,12  Mar-17,32.4,INGER
+146,Net profit margin,12  Mar-17,12.5,INGER
+147,Current assets,12  Mar-17,9076.0,INGER
+148,Current liabilities,12  Mar-17,1498.0,INGER
+149,Net working cap to sales,12  Mar-17,122.1,INGER
+150,Current ratio,12  Mar-17,6.1,INGER
+151,Inventory Days,12  Mar-17,51.0,INGER
+152,Debtors Days,12  Mar-17,57.0,INGER
+153,Net fixed assets,12  Mar-17,1280.0,INGER
+154,Share capital,12  Mar-17,316.0,INGER
+155,"""Free"" reserves",12  Mar-17,10300.0,INGER
+156,Net worth,12  Mar-17,10616.0,INGER
+157,Long term debt,12  Mar-17,0.0,INGER
+158,Total assets,12  Mar-17,12124.0,INGER
+159,Interest coverage,12  Mar-17,145.8,INGER
+160,Debt to equity ratio,12  Mar-17,0.0,INGER
+161,Sales to assets ratio,12  Mar-17,0.5,INGER
+162,Return on assets,12  Mar-17,6.4,INGER
+163,Return on equity,12  Mar-17,7.3,INGER
+164,Return on capital,12  Mar-17,10.9,INGER
+165,Exports to sales,12  Mar-17,28.9,INGER
+166,Imports to sales,12  Mar-17,22.0,INGER
+167,Exports (fob),12  Mar-17,1792.0,INGER
+168,Imports (cif),12  Mar-17,1363.0,INGER
+169,Fx inflow,12  Mar-17,1792.0,INGER
+170,Fx outflow,12  Mar-17,1603.0,INGER
+171,Net fx,12  Mar-17,188.0,INGER
+172,From Operations,12  Mar-17,1215.0,INGER
+173,From Investments,12  Mar-17,1407.0,INGER
+174,From Financial Activity,12  Mar-17,-231.0,INGER
+175,Net Cashflow,12  Mar-17,2391.0,INGER
+176,Net Sales,12  Mar-18,6148.0,INGER
+177,Other income,12  Mar-18,714.0,INGER
+178,Total revenues,12  Mar-18,6862.0,INGER
+179,Gross profit,12  Mar-18,708.0,INGER
+180,Depreciation,12  Mar-18,126.0,INGER
+181,Interest,12  Mar-18,-21.0,INGER
+182,Profit before tax,12  Mar-18,1317.0,INGER
+183,Minority Interest,12  Mar-18,0.0,INGER
+184,Prior Period Items,12  Mar-18,0.0,INGER
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,INGER
+186,Tax,12  Mar-18,428.0,INGER
+187,Profit after tax,12  Mar-18,889.0,INGER
+188,Gross profit margin,12  Mar-18,11.5,INGER
+189,Effective tax rate,12  Mar-18,32.5,INGER
+190,Net profit margin,12  Mar-18,14.5,INGER
+191,Current assets,12  Mar-18,9916.0,INGER
+192,Current liabilities,12  Mar-18,1593.0,INGER
+193,Net working cap to sales,12  Mar-18,135.4,INGER
+194,Current ratio,12  Mar-18,6.2,INGER
+195,Inventory Days,12  Mar-18,46.0,INGER
+196,Debtors Days,12  Mar-18,65.0,INGER
+197,Net fixed assets,12  Mar-18,1220.0,INGER
+198,Share capital,12  Mar-18,316.0,INGER
+199,"""Free"" reserves",12  Mar-18,10969.0,INGER
+200,Net worth,12  Mar-18,11285.0,INGER
+201,Long term debt,12  Mar-18,0.0,INGER
+202,Total assets,12  Mar-18,12888.0,INGER
+203,Interest coverage,12  Mar-18,-62.3,INGER
+204,Debt to equity ratio,12  Mar-18,0.0,INGER
+205,Sales to assets ratio,12  Mar-18,0.5,INGER
+206,Return on assets,12  Mar-18,6.7,INGER
+207,Return on equity,12  Mar-18,7.9,INGER
+208,Return on capital,12  Mar-18,11.5,INGER
+209,Exports to sales,12  Mar-18,24.4,INGER
+210,Imports to sales,12  Mar-18,20.7,INGER
+211,Exports (fob),12  Mar-18,1502.0,INGER
+212,Imports (cif),12  Mar-18,1275.0,INGER
+213,Fx inflow,12  Mar-18,1502.0,INGER
+214,Fx outflow,12  Mar-18,1574.0,INGER
+215,Net fx,12  Mar-18,-72.0,INGER
+216,From Operations,12  Mar-18,771.0,INGER
+217,From Investments,12  Mar-18,935.0,INGER
+218,From Financial Activity,12  Mar-18,-231.0,INGER
+219,Net Cashflow,12  Mar-18,1475.0,INGER

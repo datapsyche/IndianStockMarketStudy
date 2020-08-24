@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5063.0,MYUN
+1,Other income,12  Mar-15,59.0,MYUN
+2,Total revenues,12  Mar-15,5123.0,MYUN
+3,Gross profit,12  Mar-15,1018.0,MYUN
+4,Depreciation,12  Mar-15,119.0,MYUN
+5,Interest,12  Mar-15,26.0,MYUN
+6,Profit before tax,12  Mar-15,933.0,MYUN
+7,Minority Interest,12  Mar-15,0.0,MYUN
+8,Prior Period Items,12  Mar-15,0.0,MYUN
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,MYUN
+10,Tax,12  Mar-15,274.0,MYUN
+11,Profit after tax,12  Mar-15,659.0,MYUN
+12,Gross profit margin,12  Mar-15,20.1,MYUN
+13,Effective tax rate,12  Mar-15,29.3,MYUN
+14,Net profit margin,12  Mar-15,13.0,MYUN
+15,Current assets,12  Mar-15,2669.0,MYUN
+16,Current liabilities,12  Mar-15,1097.0,MYUN
+17,Net working cap to sales,12  Mar-15,31.1,MYUN
+18,Current ratio,12  Mar-15,2.4,MYUN
+19,Inventory Days,12  Mar-15,40.0,MYUN
+20,Debtors Days,12  Mar-15,65.0,MYUN
+21,Net fixed assets,12  Mar-15,1427.0,MYUN
+22,Share capital,12  Mar-15,811.0,MYUN
+23,"""Free"" reserves",12  Mar-15,2016.0,MYUN
+24,Net worth,12  Mar-15,2827.0,MYUN
+25,Long term debt,12  Mar-15,138.0,MYUN
+26,Total assets,12  Mar-15,4111.0,MYUN
+27,Interest coverage,12  Mar-15,36.9,MYUN
+28,Debt to equity ratio,12  Mar-15,0.0,MYUN
+29,Sales to assets ratio,12  Mar-15,1.2,MYUN
+30,Return on assets,12  Mar-15,16.7,MYUN
+31,Return on equity,12  Mar-15,23.3,MYUN
+32,Return on capital,12  Mar-15,32.3,MYUN
+33,Exports to sales,12  Mar-15,25.1,MYUN
+34,Imports to sales,12  Mar-15,24.3,MYUN
+35,Exports (fob),12  Mar-15,1271.0,MYUN
+36,Imports (cif),12  Mar-15,1231.0,MYUN
+37,Fx inflow,12  Mar-15,1271.0,MYUN
+38,Fx outflow,12  Mar-15,1360.0,MYUN
+39,Net fx,12  Mar-15,-89.0,MYUN
+40,From Operations,12  Mar-15,533.0,MYUN
+41,From Investments,12  Mar-15,-943.0,MYUN
+42,From Financial Activity,12  Mar-15,530.0,MYUN
+43,Net Cashflow,12  Mar-15,120.0,MYUN
+44,Net Sales,12  Mar-16*,4956.0,MYUN
+45,Other income,12  Mar-16*,58.0,MYUN
+46,Total revenues,12  Mar-16*,5014.0,MYUN
+47,Gross profit,12  Mar-16*,1306.0,MYUN
+48,Depreciation,12  Mar-16*,161.0,MYUN
+49,Interest,12  Mar-16*,34.0,MYUN
+50,Profit before tax,12  Mar-16*,1169.0,MYUN
+51,Minority Interest,12  Mar-16*,0.0,MYUN
+52,Prior Period Items,12  Mar-16*,0.0,MYUN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MYUN
+54,Tax,12  Mar-16*,397.0,MYUN
+55,Profit after tax,12  Mar-16*,772.0,MYUN
+56,Gross profit margin,12  Mar-16*,26.4,MYUN
+57,Effective tax rate,12  Mar-16*,34.0,MYUN
+58,Net profit margin,12  Mar-16*,15.6,MYUN
+59,Current assets,12  Mar-16*,2915.0,MYUN
+60,Current liabilities,12  Mar-16*,854.0,MYUN
+61,Net working cap to sales,12  Mar-16*,41.6,MYUN
+62,Current ratio,12  Mar-16*,3.4,MYUN
+63,Inventory Days,12  Mar-16*,48.0,MYUN
+64,Debtors Days,12  Mar-16*,73.0,MYUN
+65,Net fixed assets,12  Mar-16*,1425.0,MYUN
+66,Share capital,12  Mar-16*,231.0,MYUN
+67,"""Free"" reserves",12  Mar-16*,3125.0,MYUN
+68,Net worth,12  Mar-16*,3356.0,MYUN
+69,Long term debt,12  Mar-16*,91.0,MYUN
+70,Total assets,12  Mar-16*,4354.0,MYUN
+71,Interest coverage,12  Mar-16*,35.4,MYUN
+72,Debt to equity ratio,12  Mar-16*,0.0,MYUN
+73,Sales to assets ratio,12  Mar-16*,1.1,MYUN
+74,Return on assets,12  Mar-16*,18.5,MYUN
+75,Return on equity,12  Mar-16*,23.0,MYUN
+76,Return on capital,12  Mar-16*,34.9,MYUN
+77,Exports to sales,12  Mar-16*,26.4,MYUN
+78,Imports to sales,12  Mar-16*,24.0,MYUN
+79,Exports (fob),12  Mar-16*,1310.0,MYUN
+80,Imports (cif),12  Mar-16*,1188.0,MYUN
+81,Fx inflow,12  Mar-16*,1310.0,MYUN
+82,Fx outflow,12  Mar-16*,1311.0,MYUN
+83,Net fx,12  Mar-16*,-2.0,MYUN
+84,From Operations,12  Mar-16*,704.0,MYUN
+85,From Investments,12  Mar-16*,-334.0,MYUN
+86,From Financial Activity,12  Mar-16*,-438.0,MYUN
+87,Net Cashflow,12  Mar-16*,-68.0,MYUN
+88,Net Sales,12  Mar-17*,4735.0,MYUN
+89,Other income,12  Mar-17*,115.0,MYUN
+90,Total revenues,12  Mar-17*,4850.0,MYUN
+91,Gross profit,12  Mar-17*,1262.0,MYUN
+92,Depreciation,12  Mar-17*,167.0,MYUN
+93,Interest,12  Mar-17*,14.0,MYUN
+94,Profit before tax,12  Mar-17*,1196.0,MYUN
+95,Minority Interest,12  Mar-17*,0.0,MYUN
+96,Prior Period Items,12  Mar-17*,0.0,MYUN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MYUN
+98,Tax,12  Mar-17*,381.0,MYUN
+99,Profit after tax,12  Mar-17*,815.0,MYUN
+100,Gross profit margin,12  Mar-17*,26.7,MYUN
+101,Effective tax rate,12  Mar-17*,31.9,MYUN
+102,Net profit margin,12  Mar-17*,17.2,MYUN
+103,Current assets,12  Mar-17*,3345.0,MYUN
+104,Current liabilities,12  Mar-17*,780.0,MYUN
+105,Net working cap to sales,12  Mar-17*,54.2,MYUN
+106,Current ratio,12  Mar-17*,4.3,MYUN
+107,Inventory Days,12  Mar-17*,64.0,MYUN
+108,Debtors Days,12  Mar-17*,73.0,MYUN
+109,Net fixed assets,12  Mar-17*,1323.0,MYUN
+110,Share capital,12  Mar-17*,229.0,MYUN
+111,"""Free"" reserves",12  Mar-17*,3655.0,MYUN
+112,Net worth,12  Mar-17*,3884.0,MYUN
+113,Long term debt,12  Mar-17*,39.0,MYUN
+114,Total assets,12  Mar-17*,4739.0,MYUN
+115,Interest coverage,12  Mar-17*,86.4,MYUN
+116,Debt to equity ratio,12  Mar-17*,0.0,MYUN
+117,Sales to assets ratio,12  Mar-17*,1.0,MYUN
+118,Return on assets,12  Mar-17*,17.5,MYUN
+119,Return on equity,12  Mar-17*,21.0,MYUN
+120,Return on capital,12  Mar-17*,30.8,MYUN
+121,Exports to sales,12  Mar-17*,29.9,MYUN
+122,Imports to sales,12  Mar-17*,27.8,MYUN
+123,Exports (fob),12  Mar-17*,1418.0,MYUN
+124,Imports (cif),12  Mar-17*,1314.0,MYUN
+125,Fx inflow,12  Mar-17*,1310.0,MYUN
+126,Fx outflow,12  Mar-17*,1414.0,MYUN
+127,Net fx,12  Mar-17*,-105.0,MYUN
+128,From Operations,12  Mar-17*,751.0,MYUN
+129,From Investments,12  Mar-17*,-265.0,MYUN
+130,From Financial Activity,12  Mar-17*,-460.0,MYUN
+131,Net Cashflow,12  Mar-17*,27.0,MYUN
+132,Net Sales,12  Mar-18*,5700.0,MYUN
+133,Other income,12  Mar-18*,135.0,MYUN
+134,Total revenues,12  Mar-18*,5835.0,MYUN
+135,Gross profit,12  Mar-18*,1499.0,MYUN
+136,Depreciation,12  Mar-18*,171.0,MYUN
+137,Interest,12  Mar-18*,14.0,MYUN
+138,Profit before tax,12  Mar-18*,1449.0,MYUN
+139,Minority Interest,12  Mar-18*,0.0,MYUN
+140,Prior Period Items,12  Mar-18*,0.0,MYUN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MYUN
+142,Tax,12  Mar-18*,480.0,MYUN
+143,Profit after tax,12  Mar-18*,969.0,MYUN
+144,Gross profit margin,12  Mar-18*,26.3,MYUN
+145,Effective tax rate,12  Mar-18*,33.1,MYUN
+146,Net profit margin,12  Mar-18*,17.0,MYUN
+147,Current assets,12  Mar-18*,3931.0,MYUN
+148,Current liabilities,12  Mar-18*,755.0,MYUN
+149,Net working cap to sales,12  Mar-18*,55.7,MYUN
+150,Current ratio,12  Mar-18*,5.2,MYUN
+151,Inventory Days,12  Mar-18*,62.0,MYUN
+152,Debtors Days,12  Mar-18*,66.0,MYUN
+153,Net fixed assets,12  Mar-18*,1341.0,MYUN
+154,Share capital,12  Mar-18*,227.0,MYUN
+155,"""Free"" reserves",12  Mar-18*,4299.0,MYUN
+156,Net worth,12  Mar-18*,4526.0,MYUN
+157,Long term debt,12  Mar-18*,19.0,MYUN
+158,Total assets,12  Mar-18*,5325.0,MYUN
+159,Interest coverage,12  Mar-18*,106.8,MYUN
+160,Debt to equity ratio,12  Mar-18*,0.0,MYUN
+161,Sales to assets ratio,12  Mar-18*,1.1,MYUN
+162,Return on assets,12  Mar-18*,18.5,MYUN
+163,Return on equity,12  Mar-18*,21.4,MYUN
+164,Return on capital,12  Mar-18*,32.2,MYUN
+165,Exports to sales,12  Mar-18*,25.7,MYUN
+166,Imports to sales,12  Mar-18*,24.7,MYUN
+167,Exports (fob),12  Mar-18*,1467.0,MYUN
+168,Imports (cif),12  Mar-18*,1408.0,MYUN
+169,Fx inflow,12  Mar-18*,1467.0,MYUN
+170,Fx outflow,12  Mar-18*,1473.0,MYUN
+171,Net fx,12  Mar-18*,-6.0,MYUN
+172,From Operations,12  Mar-18*,868.0,MYUN
+173,From Investments,12  Mar-18*,-299.0,MYUN
+174,From Financial Activity,12  Mar-18*,-497.0,MYUN
+175,Net Cashflow,12  Mar-18*,72.0,MYUN
+176,Net Sales,12  Mar-19*,5913.0,MYUN
+177,Other income,12  Mar-19*,217.0,MYUN
+178,Total revenues,12  Mar-19*,6129.0,MYUN
+179,Gross profit,12  Mar-19*,1293.0,MYUN
+180,Depreciation,12  Mar-19*,180.0,MYUN
+181,Interest,12  Mar-19*,9.0,MYUN
+182,Profit before tax,12  Mar-19*,1321.0,MYUN
+183,Minority Interest,12  Mar-19*,0.0,MYUN
+184,Prior Period Items,12  Mar-19*,0.0,MYUN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MYUN
+186,Tax,12  Mar-19*,425.0,MYUN
+187,Profit after tax,12  Mar-19*,896.0,MYUN
+188,Gross profit margin,12  Mar-19*,21.9,MYUN
+189,Effective tax rate,12  Mar-19*,32.2,MYUN
+190,Net profit margin,12  Mar-19*,15.2,MYUN
+191,Current assets,12  Mar-19*,4253.0,MYUN
+192,Current liabilities,12  Mar-19*,851.0,MYUN
+193,Net working cap to sales,12  Mar-19*,57.5,MYUN
+194,Current ratio,12  Mar-19*,5.0,MYUN
+195,Inventory Days,12  Mar-19*,76.0,MYUN
+196,Debtors Days,12  Mar-19*,55.0,MYUN
+197,Net fixed assets,12  Mar-19*,1673.0,MYUN
+198,Share capital,12  Mar-19*,227.0,MYUN
+199,"""Free"" reserves",12  Mar-19*,5017.0,MYUN
+200,Net worth,12  Mar-19*,5243.0,MYUN
+201,Long term debt,12  Mar-19*,132.0,MYUN
+202,Total assets,12  Mar-19*,6200.0,MYUN
+203,Interest coverage,12  Mar-19*,152.8,MYUN
+204,Debt to equity ratio,12  Mar-19*,0.0,MYUN
+205,Sales to assets ratio,12  Mar-19*,1.0,MYUN
+206,Return on assets,12  Mar-19*,14.6,MYUN
+207,Return on equity,12  Mar-19*,17.1,MYUN
+208,Return on capital,12  Mar-19*,24.7,MYUN
+209,Exports to sales,12  Mar-19*,22.3,MYUN
+210,Imports to sales,12  Mar-19*,29.3,MYUN
+211,Exports (fob),12  Mar-19*,1321.0,MYUN
+212,Imports (cif),12  Mar-19*,1734.0,MYUN
+213,Fx inflow,12  Mar-19*,1321.0,MYUN
+214,Fx outflow,12  Mar-19*,1895.0,MYUN
+215,Net fx,12  Mar-19*,-573.0,MYUN
+216,From Operations,12  Mar-19*,626.0,MYUN
+217,From Investments,12  Mar-19*,-674.0,MYUN
+218,From Financial Activity,12  Mar-19*,-34.0,MYUN
+219,Net Cashflow,12  Mar-19*,-83.0,MYUN

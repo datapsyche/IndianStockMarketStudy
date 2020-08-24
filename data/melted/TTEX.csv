@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,7748.0,TTEX
+1,Other income,12  Mar-14*,125.0,TTEX
+2,Total revenues,12  Mar-14*,7873.0,TTEX
+3,Gross profit,12  Mar-14*,1365.0,TTEX
+4,Depreciation,12  Mar-14*,350.0,TTEX
+5,Interest,12  Mar-14*,18.0,TTEX
+6,Profit before tax,12  Mar-14*,1122.0,TTEX
+7,Minority Interest,12  Mar-14*,0.0,TTEX
+8,Prior Period Items,12  Mar-14*,0.0,TTEX
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,TTEX
+10,Tax,12  Mar-14*,399.0,TTEX
+11,Profit after tax,12  Mar-14*,723.0,TTEX
+12,Gross profit margin,12  Mar-14*,17.6,TTEX
+13,Effective tax rate,12  Mar-14*,35.6,TTEX
+14,Net profit margin,12  Mar-14*,9.3,TTEX
+15,Current assets,12  Mar-14*,2383.0,TTEX
+16,Current liabilities,12  Mar-14*,1408.0,TTEX
+17,Net working cap to sales,12  Mar-14*,12.6,TTEX
+18,Current ratio,12  Mar-14*,1.7,TTEX
+19,Inventory Days,12  Mar-14*,0.0,TTEX
+20,Debtors Days,12  Mar-14*,73.0,TTEX
+21,Net fixed assets,12  Mar-14*,1095.0,TTEX
+22,Share capital,12  Mar-14*,311.0,TTEX
+23,"""Free"" reserves",12  Mar-14*,2035.0,TTEX
+24,Net worth,12  Mar-14*,2357.0,TTEX
+25,Long term debt,12  Mar-14*,0.0,TTEX
+26,Total assets,12  Mar-14*,3884.0,TTEX
+27,Interest coverage,12  Mar-14*,62.3,TTEX
+28,Debt to equity ratio,12  Mar-14*,0.0,TTEX
+29,Sales to assets ratio,12  Mar-14*,2.0,TTEX
+30,Return on assets,12  Mar-14*,19.1,TTEX
+31,Return on equity,12  Mar-14*,30.7,TTEX
+32,Return on capital,12  Mar-14*,48.4,TTEX
+33,Exports to sales,12  Mar-14*,0.0,TTEX
+34,Imports to sales,12  Mar-14*,1.5,TTEX
+35,Exports (fob),12  Mar-14*,0.0,TTEX
+36,Imports (cif),12  Mar-14*,116.0,TTEX
+37,Fx inflow,12  Mar-14*,6205.0,TTEX
+38,Fx outflow,12  Mar-14*,2615.0,TTEX
+39,Net fx,12  Mar-14*,3590.0,TTEX
+40,From Operations,12  Mar-14*,1288.0,TTEX
+41,From Investments,12  Mar-14*,-237.0,TTEX
+42,From Financial Activity,12  Mar-14*,-786.0,TTEX
+43,Net Cashflow,12  Mar-14*,265.0,TTEX
+44,Net Sales,12  Mar-15*,8494.0,TTEX
+45,Other income,12  Mar-15*,34.0,TTEX
+46,Total revenues,12  Mar-15*,8528.0,TTEX
+47,Gross profit,12  Mar-15*,1773.0,TTEX
+48,Depreciation,12  Mar-15*,255.0,TTEX
+49,Interest,12  Mar-15*,0.0,TTEX
+50,Profit before tax,12  Mar-15*,1551.0,TTEX
+51,Minority Interest,12  Mar-15*,0.0,TTEX
+52,Prior Period Items,12  Mar-15*,0.0,TTEX
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,TTEX
+54,Tax,12  Mar-15*,531.0,TTEX
+55,Profit after tax,12  Mar-15*,1020.0,TTEX
+56,Gross profit margin,12  Mar-15*,20.9,TTEX
+57,Effective tax rate,12  Mar-15*,34.2,TTEX
+58,Net profit margin,12  Mar-15*,12.0,TTEX
+59,Current assets,12  Mar-15*,3283,TTEX
+60,Current liabilities,12  Mar-15*,1713,TTEX
+61,Net working cap to sales,12  Mar-15*,18.5,TTEX
+62,Current ratio,12  Mar-15*,1.9,TTEX
+63,Inventory Days,12  Mar-15*,0,TTEX
+64,Debtors Days,12  Mar-15*,66,TTEX
+65,Net fixed assets,12  Mar-15*,1011,TTEX
+66,Share capital,12  Mar-15*,311,TTEX
+67,"""Free"" reserves",12  Mar-15*,2511,TTEX
+68,Net worth,12  Mar-15*,2834,TTEX
+69,Long term debt,12  Mar-15*,0,TTEX
+70,Total assets,12  Mar-15*,4655,TTEX
+71,Interest coverage,12  Mar-15*,NM,TTEX
+72,Debt to equity ratio,12  Mar-15*,0,TTEX
+73,Sales to assets ratio,12  Mar-15*,1.8,TTEX
+74,Return on assets,12  Mar-15*,21.9,TTEX
+75,Return on equity,12  Mar-15*,36.0,TTEX
+76,Return on capital,12  Mar-15*,54.7,TTEX
+77,Exports to sales,12  Mar-15*,0,TTEX
+78,Imports to sales,12  Mar-15*,3.2,TTEX
+79,Exports (fob),12  Mar-15*,0,TTEX
+80,Imports (cif),12  Mar-15*,272,TTEX
+81,Fx inflow,12  Mar-15*,7016,TTEX
+82,Fx outflow,12  Mar-15*,2635,TTEX
+83,Net fx,12  Mar-15*,4381,TTEX
+84,From Operations,12  Mar-15*,1430,TTEX
+85,From Investments,12  Mar-15*,-275,TTEX
+86,From Financial Activity,12  Mar-15*,-321,TTEX
+87,Net Cashflow,12  Mar-15*,834,TTEX
+88,Net Sales,12  Mar-16,10752.0,TTEX
+89,Other income,12  Mar-16,119.0,TTEX
+90,Total revenues,12  Mar-16,10871.0,TTEX
+91,Gross profit,12  Mar-16,2471.0,TTEX
+92,Depreciation,12  Mar-16,226.0,TTEX
+93,Interest,12  Mar-16,0.0,TTEX
+94,Profit before tax,12  Mar-16,2363.0,TTEX
+95,Minority Interest,12  Mar-16,0.0,TTEX
+96,Prior Period Items,12  Mar-16,0.0,TTEX
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,TTEX
+98,Tax,12  Mar-16,815.0,TTEX
+99,Profit after tax,12  Mar-16,1548.0,TTEX
+100,Gross profit margin,12  Mar-16,23.0,TTEX
+101,Effective tax rate,12  Mar-16,34.5,TTEX
+102,Net profit margin,12  Mar-16,14.4,TTEX
+103,Current assets,12  Mar-16,4546,TTEX
+104,Current liabilities,12  Mar-16,1398,TTEX
+105,Net working cap to sales,12  Mar-16,29.3,TTEX
+106,Current ratio,12  Mar-16,3.3,TTEX
+107,Inventory Days,12  Mar-16,0,TTEX
+108,Debtors Days,12  Mar-16,73,TTEX
+109,Net fixed assets,12  Mar-16,1088,TTEX
+110,Share capital,12  Mar-16,311,TTEX
+111,"""Free"" reserves",12  Mar-16,3543,TTEX
+112,Net worth,12  Mar-16,3857,TTEX
+113,Long term debt,12  Mar-16,0,TTEX
+114,Total assets,12  Mar-16,6002,TTEX
+115,Interest coverage,12  Mar-16,NM,TTEX
+116,Debt to equity ratio,12  Mar-16,0,TTEX
+117,Sales to assets ratio,12  Mar-16,1.8,TTEX
+118,Return on assets,12  Mar-16,25.8,TTEX
+119,Return on equity,12  Mar-16,40.1,TTEX
+120,Return on capital,12  Mar-16,61.3,TTEX
+121,Exports to sales,12  Mar-16,0,TTEX
+122,Imports to sales,12  Mar-16,2.3,TTEX
+123,Exports (fob),12  Mar-16,0,TTEX
+124,Imports (cif),12  Mar-16,250,TTEX
+125,Fx inflow,12  Mar-16,9121,TTEX
+126,Fx outflow,12  Mar-16,3385,TTEX
+127,Net fx,12  Mar-16,5736,TTEX
+128,From Operations,12  Mar-16,1211,TTEX
+129,From Investments,12  Mar-16,-289,TTEX
+130,From Financial Activity,12  Mar-16,-411,TTEX
+131,Net Cashflow,12  Mar-16,511,TTEX
+132,Net Sales,12  Mar-17,12373.0,TTEX
+133,Other income,12  Mar-17,-54.0,TTEX
+134,Total revenues,12  Mar-17,12319.0,TTEX
+135,Gross profit,12  Mar-17,2966.0,TTEX
+136,Depreciation,12  Mar-17,269.0,TTEX
+137,Interest,12  Mar-17,0.0,TTEX
+138,Profit before tax,12  Mar-17,2643.0,TTEX
+139,Minority Interest,12  Mar-17,0.0,TTEX
+140,Prior Period Items,12  Mar-17,0.0,TTEX
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,TTEX
+142,Tax,12  Mar-17,895.0,TTEX
+143,Profit after tax,12  Mar-17,1748.0,TTEX
+144,Gross profit margin,12  Mar-17,24.0,TTEX
+145,Effective tax rate,12  Mar-17,33.9,TTEX
+146,Net profit margin,12  Mar-17,14.1,TTEX
+147,Current assets,12  Mar-17,5665,TTEX
+148,Current liabilities,12  Mar-17,1318,TTEX
+149,Net working cap to sales,12  Mar-17,35.1,TTEX
+150,Current ratio,12  Mar-17,4.3,TTEX
+151,Inventory Days,12  Mar-17,0,TTEX
+152,Debtors Days,12  Mar-17,72,TTEX
+153,Net fixed assets,12  Mar-17,1088,TTEX
+154,Share capital,12  Mar-17,311,TTEX
+155,"""Free"" reserves",12  Mar-17,5265,TTEX
+156,Net worth,12  Mar-17,5577,TTEX
+157,Long term debt,12  Mar-17,0,TTEX
+158,Total assets,12  Mar-17,7154,TTEX
+159,Interest coverage,12  Mar-17,NM,TTEX
+160,Debt to equity ratio,12  Mar-17,0,TTEX
+161,Sales to assets ratio,12  Mar-17,1.7,TTEX
+162,Return on assets,12  Mar-17,24.4,TTEX
+163,Return on equity,12  Mar-17,31.3,TTEX
+164,Return on capital,12  Mar-17,47.4,TTEX
+165,Exports to sales,12  Mar-17,0,TTEX
+166,Imports to sales,12  Mar-17,2.2,TTEX
+167,Exports (fob),12  Mar-17,0,TTEX
+168,Imports (cif),12  Mar-17,269,TTEX
+169,Fx inflow,12  Mar-17,10506,TTEX
+170,Fx outflow,12  Mar-17,3757,TTEX
+171,Net fx,12  Mar-17,6749,TTEX
+172,From Operations,12  Mar-17,1443,TTEX
+173,From Investments,12  Mar-17,376,TTEX
+174,From Financial Activity,12  Mar-17,-525,TTEX
+175,Net Cashflow,12  Mar-17,1196,TTEX
+176,Net Sales,12  Mar-18,13863.0,TTEX
+177,Other income,12  Mar-18,433.0,TTEX
+178,Total revenues,12  Mar-18,14296.0,TTEX
+179,Gross profit,12  Mar-18,3460.0,TTEX
+180,Depreciation,12  Mar-18,254.0,TTEX
+181,Interest,12  Mar-18,0.0,TTEX
+182,Profit before tax,12  Mar-18,3639.0,TTEX
+183,Minority Interest,12  Mar-18,0.0,TTEX
+184,Prior Period Items,12  Mar-18,0.0,TTEX
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,TTEX
+186,Tax,12  Mar-18,1239.0,TTEX
+187,Profit after tax,12  Mar-18,2400.0,TTEX
+188,Gross profit margin,12  Mar-18,25.0,TTEX
+189,Effective tax rate,12  Mar-18,34.0,TTEX
+190,Net profit margin,12  Mar-18,17.3,TTEX
+191,Current assets,12  Mar-18,8088,TTEX
+192,Current liabilities,12  Mar-18,1914,TTEX
+193,Net working cap to sales,12  Mar-18,44.5,TTEX
+194,Current ratio,12  Mar-18,4.2,TTEX
+195,Inventory Days,12  Mar-18,0,TTEX
+196,Debtors Days,12  Mar-18,81,TTEX
+197,Net fixed assets,12  Mar-18,964,TTEX
+198,Share capital,12  Mar-18,623,TTEX
+199,"""Free"" reserves",12  Mar-18,6761,TTEX
+200,Net worth,12  Mar-18,7384,TTEX
+201,Long term debt,12  Mar-18,0,TTEX
+202,Total assets,12  Mar-18,9486,TTEX
+203,Interest coverage,12  Mar-18,NM,TTEX
+204,Debt to equity ratio,12  Mar-18,0,TTEX
+205,Sales to assets ratio,12  Mar-18,1.5,TTEX
+206,Return on assets,12  Mar-18,25.3,TTEX
+207,Return on equity,12  Mar-18,32.5,TTEX
+208,Return on capital,12  Mar-18,49.3,TTEX
+209,Exports to sales,12  Mar-18,0,TTEX
+210,Imports to sales,12  Mar-18,1.5,TTEX
+211,Exports (fob),12  Mar-18,0,TTEX
+212,Imports (cif),12  Mar-18,202,TTEX
+213,Fx inflow,12  Mar-18,12371,TTEX
+214,Fx outflow,12  Mar-18,4472,TTEX
+215,Net fx,12  Mar-18,7899,TTEX
+216,From Operations,12  Mar-18,1971,TTEX
+217,From Investments,12  Mar-18,-2472,TTEX
+218,From Financial Activity,12  Mar-18,-600,TTEX
+219,Net Cashflow,12  Mar-18,-1077,TTEX

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,1977.0,RUBY
+1,Other income,12  Mar-15,418.0,RUBY
+2,Total revenues,12  Mar-15,2395.0,RUBY
+3,Gross profit,12  Mar-15,579.0,RUBY
+4,Depreciation,12  Mar-15,188.0,RUBY
+5,Interest,12  Mar-15,149.0,RUBY
+6,Profit before tax,12  Mar-15,660.0,RUBY
+7,Minority Interest,12  Mar-15,0.0,RUBY
+8,Prior Period Items,12  Mar-15,0.0,RUBY
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,RUBY
+10,Tax,12  Mar-15,120.0,RUBY
+11,Profit after tax,12  Mar-15,540.0,RUBY
+12,Gross profit margin,12  Mar-15,29.3,RUBY
+13,Effective tax rate,12  Mar-15,18.2,RUBY
+14,Net profit margin,12  Mar-15,27.3,RUBY
+15,Current assets,12  Mar-15,3623.0,RUBY
+16,Current liabilities,12  Mar-15,3715.0,RUBY
+17,Net working cap to sales,12  Mar-15,-4.7,RUBY
+18,Current ratio,12  Mar-15,1.0,RUBY
+19,Inventory Days,12  Mar-15,73.0,RUBY
+20,Debtors Days,12  Mar-15,31.0,RUBY
+21,Net fixed assets,12  Mar-15,1815.0,RUBY
+22,Share capital,12  Mar-15,42.0,RUBY
+23,"""Free"" reserves",12  Mar-15,3253.0,RUBY
+24,Net worth,12  Mar-15,3298.0,RUBY
+25,Long term debt,12  Mar-15,2927.0,RUBY
+26,Total assets,12  Mar-15,10234.0,RUBY
+27,Interest coverage,12  Mar-15,5.4,RUBY
+28,Debt to equity ratio,12  Mar-15,0.9,RUBY
+29,Sales to assets ratio,12  Mar-15,0.2,RUBY
+30,Return on assets,12  Mar-15,6.7,RUBY
+31,Return on equity,12  Mar-15,16.4,RUBY
+32,Return on capital,12  Mar-15,13.0,RUBY
+33,Exports to sales,12  Mar-15,2.3,RUBY
+34,Imports to sales,12  Mar-15,9.1,RUBY
+35,Exports (fob),12  Mar-15,45.0,RUBY
+36,Imports (cif),12  Mar-15,179.0,RUBY
+37,Fx inflow,12  Mar-15,45.0,RUBY
+38,Fx outflow,12  Mar-15,186.0,RUBY
+39,Net fx,12  Mar-15,-141.0,RUBY
+40,From Operations,12  Mar-15,93.0,RUBY
+41,From Investments,12  Mar-15,74.0,RUBY
+42,From Financial Activity,12  Mar-15,-152.0,RUBY
+43,Net Cashflow,12  Mar-15,16.0,RUBY
+44,Net Sales,12  Mar-16,2126.0,RUBY
+45,Other income,12  Mar-16,165.0,RUBY
+46,Total revenues,12  Mar-16,2291.0,RUBY
+47,Gross profit,12  Mar-16,661.0,RUBY
+48,Depreciation,12  Mar-16,196.0,RUBY
+49,Interest,12  Mar-16,131.0,RUBY
+50,Profit before tax,12  Mar-16,500.0,RUBY
+51,Minority Interest,12  Mar-16,0.0,RUBY
+52,Prior Period Items,12  Mar-16,0.0,RUBY
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,RUBY
+54,Tax,12  Mar-16,93.0,RUBY
+55,Profit after tax,12  Mar-16,408.0,RUBY
+56,Gross profit margin,12  Mar-16,31.1,RUBY
+57,Effective tax rate,12  Mar-16,18.5,RUBY
+58,Net profit margin,12  Mar-16,19.2,RUBY
+59,Current assets,12  Mar-16,3171.0,RUBY
+60,Current liabilities,12  Mar-16,2515.0,RUBY
+61,Net working cap to sales,12  Mar-16,30.8,RUBY
+62,Current ratio,12  Mar-16,1.3,RUBY
+63,Inventory Days,12  Mar-16,65.0,RUBY
+64,Debtors Days,12  Mar-16,30.0,RUBY
+65,Net fixed assets,12  Mar-16,1640.0,RUBY
+66,Share capital,12  Mar-16,84.0,RUBY
+67,"""Free"" reserves",12  Mar-16,3606.0,RUBY
+68,Net worth,12  Mar-16,3690.0,RUBY
+69,Long term debt,12  Mar-16,3138.0,RUBY
+70,Total assets,12  Mar-16,9567.0,RUBY
+71,Interest coverage,12  Mar-16,4.8,RUBY
+72,Debt to equity ratio,12  Mar-16,0.9,RUBY
+73,Sales to assets ratio,12  Mar-16,0.2,RUBY
+74,Return on assets,12  Mar-16,5.6,RUBY
+75,Return on equity,12  Mar-16,11.1,RUBY
+76,Return on capital,12  Mar-16,9.2,RUBY
+77,Exports to sales,12  Mar-16,2.5,RUBY
+78,Imports to sales,12  Mar-16,1.1,RUBY
+79,Exports (fob),12  Mar-16,52.0,RUBY
+80,Imports (cif),12  Mar-16,23.0,RUBY
+81,Fx inflow,12  Mar-16,52.0,RUBY
+82,Fx outflow,12  Mar-16,32.0,RUBY
+83,Net fx,12  Mar-16,21.0,RUBY
+84,From Operations,12  Mar-16,382.0,RUBY
+85,From Investments,12  Mar-16,54.0,RUBY
+86,From Financial Activity,12  Mar-16,-229.0,RUBY
+87,Net Cashflow,12  Mar-16,207.0,RUBY
+88,Net Sales,12  Mar-17,2018.0,RUBY
+89,Other income,12  Mar-17,165.0,RUBY
+90,Total revenues,12  Mar-17,2183.0,RUBY
+91,Gross profit,12  Mar-17,572.0,RUBY
+92,Depreciation,12  Mar-17,150.0,RUBY
+93,Interest,12  Mar-17,125.0,RUBY
+94,Profit before tax,12  Mar-17,463.0,RUBY
+95,Minority Interest,12  Mar-17,0.0,RUBY
+96,Prior Period Items,12  Mar-17,0.0,RUBY
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,RUBY
+98,Tax,12  Mar-17,89.0,RUBY
+99,Profit after tax,12  Mar-17,374.0,RUBY
+100,Gross profit margin,12  Mar-17,28.4,RUBY
+101,Effective tax rate,12  Mar-17,19.2,RUBY
+102,Net profit margin,12  Mar-17,18.5,RUBY
+103,Current assets,12  Mar-17,1913.0,RUBY
+104,Current liabilities,12  Mar-17,2445.0,RUBY
+105,Net working cap to sales,12  Mar-17,-26.4,RUBY
+106,Current ratio,12  Mar-17,0.8,RUBY
+107,Inventory Days,12  Mar-17,73.0,RUBY
+108,Debtors Days,12  Mar-17,25.0,RUBY
+109,Net fixed assets,12  Mar-17,1580.0,RUBY
+110,Share capital,12  Mar-17,84.0,RUBY
+111,"""Free"" reserves",12  Mar-17,3981.0,RUBY
+112,Net worth,12  Mar-17,4064.0,RUBY
+113,Long term debt,12  Mar-17,2949.0,RUBY
+114,Total assets,12  Mar-17,9681.0,RUBY
+115,Interest coverage,12  Mar-17,4.7,RUBY
+116,Debt to equity ratio,12  Mar-17,0.7,RUBY
+117,Sales to assets ratio,12  Mar-17,0.2,RUBY
+118,Return on assets,12  Mar-17,5.2,RUBY
+119,Return on equity,12  Mar-17,9.2,RUBY
+120,Return on capital,12  Mar-17,8.4,RUBY
+121,Exports to sales,12  Mar-17,3.5,RUBY
+122,Imports to sales,12  Mar-17,2.0,RUBY
+123,Exports (fob),12  Mar-17,71.0,RUBY
+124,Imports (cif),12  Mar-17,41.0,RUBY
+125,Fx inflow,12  Mar-17,71.0,RUBY
+126,Fx outflow,12  Mar-17,49.0,RUBY
+127,Net fx,12  Mar-17,22.0,RUBY
+128,From Operations,12  Mar-17,354.0,RUBY
+129,From Investments,12  Mar-17,-86.0,RUBY
+130,From Financial Activity,12  Mar-17,-274.0,RUBY
+131,Net Cashflow,12  Mar-17,-6.0,RUBY
+132,Net Sales,12  Mar-18,1994.0,RUBY
+133,Other income,12  Mar-18,86.0,RUBY
+134,Total revenues,12  Mar-18,2080.0,RUBY
+135,Gross profit,12  Mar-18,544.0,RUBY
+136,Depreciation,12  Mar-18,155.0,RUBY
+137,Interest,12  Mar-18,105.0,RUBY
+138,Profit before tax,12  Mar-18,370.0,RUBY
+139,Minority Interest,12  Mar-18,0.0,RUBY
+140,Prior Period Items,12  Mar-18,0.0,RUBY
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,RUBY
+142,Tax,12  Mar-18,18.0,RUBY
+143,Profit after tax,12  Mar-18,352.0,RUBY
+144,Gross profit margin,12  Mar-18,27.3,RUBY
+145,Effective tax rate,12  Mar-18,4.9,RUBY
+146,Net profit margin,12  Mar-18,17.6,RUBY
+147,Current assets,12  Mar-18,2075.0,RUBY
+148,Current liabilities,12  Mar-18,2423.0,RUBY
+149,Net working cap to sales,12  Mar-18,-17.4,RUBY
+150,Current ratio,12  Mar-18,0.9,RUBY
+151,Inventory Days,12  Mar-18,74.0,RUBY
+152,Debtors Days,12  Mar-18,33.0,RUBY
+153,Net fixed assets,12  Mar-18,1457.0,RUBY
+154,Share capital,12  Mar-18,84.0,RUBY
+155,"""Free"" reserves",12  Mar-18,4300.0,RUBY
+156,Net worth,12  Mar-18,4384.0,RUBY
+157,Long term debt,12  Mar-18,2752.0,RUBY
+158,Total assets,12  Mar-18,9796.0,RUBY
+159,Interest coverage,12  Mar-18,4.5,RUBY
+160,Debt to equity ratio,12  Mar-18,0.6,RUBY
+161,Sales to assets ratio,12  Mar-18,0.2,RUBY
+162,Return on assets,12  Mar-18,4.7,RUBY
+163,Return on equity,12  Mar-18,8.0,RUBY
+164,Return on capital,12  Mar-18,6.7,RUBY
+165,Exports to sales,12  Mar-18,2.2,RUBY
+166,Imports to sales,12  Mar-18,0.4,RUBY
+167,Exports (fob),12  Mar-18,44.0,RUBY
+168,Imports (cif),12  Mar-18,8.0,RUBY
+169,Fx inflow,12  Mar-18,44.0,RUBY
+170,Fx outflow,12  Mar-18,17.0,RUBY
+171,Net fx,12  Mar-18,27.0,RUBY
+172,From Operations,12  Mar-18,486.0,RUBY
+173,From Investments,12  Mar-18,2.0,RUBY
+174,From Financial Activity,12  Mar-18,-413.0,RUBY
+175,Net Cashflow,12  Mar-18,75.0,RUBY
+176,Net Sales,12  Mar-19,1928.0,RUBY
+177,Other income,12  Mar-19,81.0,RUBY
+178,Total revenues,12  Mar-19,2009.0,RUBY
+179,Gross profit,12  Mar-19,400.0,RUBY
+180,Depreciation,12  Mar-19,136.0,RUBY
+181,Interest,12  Mar-19,93.0,RUBY
+182,Profit before tax,12  Mar-19,253.0,RUBY
+183,Minority Interest,12  Mar-19,0.0,RUBY
+184,Prior Period Items,12  Mar-19,0.0,RUBY
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,RUBY
+186,Tax,12  Mar-19,74.0,RUBY
+187,Profit after tax,12  Mar-19,178.0,RUBY
+188,Gross profit margin,12  Mar-19,20.8,RUBY
+189,Effective tax rate,12  Mar-19,29.5,RUBY
+190,Net profit margin,12  Mar-19,9.2,RUBY
+191,Current assets,12  Mar-19,1949.0,RUBY
+192,Current liabilities,12  Mar-19,1812.0,RUBY
+193,Net working cap to sales,12  Mar-19,7.1,RUBY
+194,Current ratio,12  Mar-19,1.1,RUBY
+195,Inventory Days,12  Mar-19,70.0,RUBY
+196,Debtors Days,12  Mar-19,32.0,RUBY
+197,Net fixed assets,12  Mar-19,1327.0,RUBY
+198,Share capital,12  Mar-19,84.0,RUBY
+199,"""Free"" reserves",12  Mar-19,4442.0,RUBY
+200,Net worth,12  Mar-19,4525.0,RUBY
+201,Long term debt,12  Mar-19,3351.0,RUBY
+202,Total assets,12  Mar-19,9918.0,RUBY
+203,Interest coverage,12  Mar-19,3.7,RUBY
+204,Debt to equity ratio,12  Mar-19,0.7,RUBY
+205,Sales to assets ratio,12  Mar-19,0.2,RUBY
+206,Return on assets,12  Mar-19,2.7,RUBY
+207,Return on equity,12  Mar-19,3.9,RUBY
+208,Return on capital,12  Mar-19,4.4,RUBY
+209,Exports to sales,12  Mar-19,2.2,RUBY
+210,Imports to sales,12  Mar-19,0.6,RUBY
+211,Exports (fob),12  Mar-19,42.0,RUBY
+212,Imports (cif),12  Mar-19,12.0,RUBY
+213,Fx inflow,12  Mar-19,42.0,RUBY
+214,Fx outflow,12  Mar-19,14.0,RUBY
+215,Net fx,12  Mar-19,28.0,RUBY
+216,From Operations,12  Mar-19,63.0,RUBY
+217,From Investments,12  Mar-19,3.0,RUBY
+218,From Financial Activity,12  Mar-19,-138.0,RUBY
+219,Net Cashflow,12  Mar-19,-73.0,RUBY

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,2163325.0,HPCL
+1,Other income,12  Mar-15*,18607.0,HPCL
+2,Total revenues,12  Mar-15*,2181932.0,HPCL
+3,Gross profit,12  Mar-15*,46595.0,HPCL
+4,Depreciation,12  Mar-15*,24967.0,HPCL
+5,Interest,12  Mar-15*,18352.0,HPCL
+6,Profit before tax,12  Mar-15*,21884.0,HPCL
+7,Minority Interest,12  Mar-15*,97.0,HPCL
+8,Prior Period Items,12  Mar-15*,421.0,HPCL
+9,Extraordinary Inc (Exp),12  Mar-15*,2.0,HPCL
+10,Tax,12  Mar-15*,7418.0,HPCL
+11,Profit after tax,12  Mar-15*,14986.0,HPCL
+12,Gross profit margin,12  Mar-15*,2.2,HPCL
+13,Effective tax rate,12  Mar-15*,33.9,HPCL
+14,Net profit margin,12  Mar-15*,0.7,HPCL
+15,Current assets,12  Mar-15*,277677.0,HPCL
+16,Current liabilities,12  Mar-15*,236400.0,HPCL
+17,Net working cap to sales,12  Mar-15*,1.9,HPCL
+18,Current ratio,12  Mar-15*,1.2,HPCL
+19,Inventory Days,12  Mar-15*,23.0,HPCL
+20,Debtors Days,12  Mar-15*,5.0,HPCL
+21,Net fixed assets,12  Mar-15*,327564.0,HPCL
+22,Share capital,12  Mar-15*,3390.0,HPCL
+23,"""Free"" reserves",12  Mar-15*,136715.0,HPCL
+24,Net worth,12  Mar-15*,140105.0,HPCL
+25,Long term debt,12  Mar-15*,154888.0,HPCL
+26,Total assets,12  Mar-15*,657983.0,HPCL
+27,Interest coverage,12  Mar-15*,2.2,HPCL
+28,Debt to equity ratio,12  Mar-15*,1.1,HPCL
+29,Sales to assets ratio,12  Mar-15*,3.3,HPCL
+30,Return on assets,12  Mar-15*,5.1,HPCL
+31,Return on equity,12  Mar-15*,10.7,HPCL
+32,Return on capital,12  Mar-15*,13.8,HPCL
+33,Exports to sales,12  Mar-15*,2.5,HPCL
+34,Imports to sales,12  Mar-15*,21.5,HPCL
+35,Exports (fob),12  Mar-15*,53140.0,HPCL
+36,Imports (cif),12  Mar-15*,464684.0,HPCL
+37,Fx inflow,12  Mar-15*,54518.0,HPCL
+38,Fx outflow,12  Mar-15*,471167.0,HPCL
+39,Net fx,12  Mar-15*,-416649.0,HPCL
+40,From Operations,12  Mar-15*,194098.0,HPCL
+41,From Investments,12  Mar-15*,-56672.0,HPCL
+42,From Financial Activity,12  Mar-15*,-146990.0,HPCL
+43,Net Cashflow,12  Mar-15*,-9564.0,HPCL
+44,Net Sales,12  Mar-16*,1779102.0,HPCL
+45,Other income,12  Mar-16*,10826.0,HPCL
+46,Total revenues,12  Mar-16*,1789928.0,HPCL
+47,Gross profit,12  Mar-16*,82795.0,HPCL
+48,Depreciation,12  Mar-16*,28461.0,HPCL
+49,Interest,12  Mar-16*,7232.0,HPCL
+50,Profit before tax,12  Mar-16*,57928.0,HPCL
+51,Minority Interest,12  Mar-16*,9423.0,HPCL
+52,Prior Period Items,12  Mar-16*,0.0,HPCL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,HPCL
+54,Tax,12  Mar-16*,20604.0,HPCL
+55,Profit after tax,12  Mar-16*,46747.0,HPCL
+56,Gross profit margin,12  Mar-16*,4.7,HPCL
+57,Effective tax rate,12  Mar-16*,35.6,HPCL
+58,Net profit margin,12  Mar-16*,2.6,HPCL
+59,Current assets,12  Mar-16*,277913.0,HPCL
+60,Current liabilities,12  Mar-16*,269053.0,HPCL
+61,Net working cap to sales,12  Mar-16*,0.5,HPCL
+62,Current ratio,12  Mar-16*,1.0,HPCL
+63,Inventory Days,12  Mar-16*,27.0,HPCL
+64,Debtors Days,12  Mar-16*,8.0,HPCL
+65,Net fixed assets,12  Mar-16*,355076.0,HPCL
+66,Share capital,12  Mar-16*,3390.0,HPCL
+67,"""Free"" reserves",12  Mar-16*,164676.0,HPCL
+68,Net worth,12  Mar-16*,168067.0,HPCL
+69,Long term debt,12  Mar-16*,113588.0,HPCL
+70,Total assets,12  Mar-16*,695530.0,HPCL
+71,Interest coverage,12  Mar-16*,9.0,HPCL
+72,Debt to equity ratio,12  Mar-16*,0.7,HPCL
+73,Sales to assets ratio,12  Mar-16*,2.6,HPCL
+74,Return on assets,12  Mar-16*,7.8,HPCL
+75,Return on equity,12  Mar-16*,27.8,HPCL
+76,Return on capital,12  Mar-16*,26.5,HPCL
+77,Exports to sales,12  Mar-16*,1.0,HPCL
+78,Imports to sales,12  Mar-16*,16.1,HPCL
+79,Exports (fob),12  Mar-16*,18107.0,HPCL
+80,Imports (cif),12  Mar-16*,286267.0,HPCL
+81,Fx inflow,12  Mar-16*,18107.0,HPCL
+82,Fx outflow,12  Mar-16*,294910.0,HPCL
+83,Net fx,12  Mar-16*,-276803.0,HPCL
+84,From Operations,12  Mar-16*,66515.0,HPCL
+85,From Investments,12  Mar-16*,-42719.0,HPCL
+86,From Financial Activity,12  Mar-16*,-36743.0,HPCL
+87,Net Cashflow,12  Mar-16*,-12947.0,HPCL
+88,Net Sales,12  Mar-17*,1874929.0,HPCL
+89,Other income,12  Mar-17*,13844.0,HPCL
+90,Total revenues,12  Mar-17*,1888773.0,HPCL
+91,Gross profit,12  Mar-17*,108797.0,HPCL
+92,Depreciation,12  Mar-17*,27764.0,HPCL
+93,Interest,12  Mar-17*,6092.0,HPCL
+94,Profit before tax,12  Mar-17*,88784.0,HPCL
+95,Minority Interest,12  Mar-17*,23190.0,HPCL
+96,Prior Period Items,12  Mar-17*,0.0,HPCL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,HPCL
+98,Tax,12  Mar-17*,29616.0,HPCL
+99,Profit after tax,12  Mar-17*,82358.0,HPCL
+100,Gross profit margin,12  Mar-17*,5.8,HPCL
+101,Effective tax rate,12  Mar-17*,33.4,HPCL
+102,Net profit margin,12  Mar-17*,4.4,HPCL
+103,Current assets,12  Mar-17*,330661.0,HPCL
+104,Current liabilities,12  Mar-17*,457732.0,HPCL
+105,Net working cap to sales,12  Mar-17*,-6.8,HPCL
+106,Current ratio,12  Mar-17*,0.7,HPCL
+107,Inventory Days,12  Mar-17*,36.0,HPCL
+108,Debtors Days,12  Mar-17*,8.0,HPCL
+109,Net fixed assets,12  Mar-17*,382331.0,HPCL
+110,Share capital,12  Mar-17*,10163.0,HPCL
+111,"""Free"" reserves",12  Mar-17*,200182.0,HPCL
+112,Net worth,12  Mar-17*,210345.0,HPCL
+113,Long term debt,12  Mar-17*,71178.0,HPCL
+114,Total assets,12  Mar-17*,803190.0,HPCL
+115,Interest coverage,12  Mar-17*,15.6,HPCL
+116,Debt to equity ratio,12  Mar-17*,0.3,HPCL
+117,Sales to assets ratio,12  Mar-17*,2.3,HPCL
+118,Return on assets,12  Mar-17*,11.0,HPCL
+119,Return on equity,12  Mar-17*,39.2,HPCL
+120,Return on capital,12  Mar-17*,41.9,HPCL
+121,Exports to sales,12  Mar-17*,0.0,HPCL
+122,Imports to sales,12  Mar-17*,0.0,HPCL
+123,Exports (fob),12  Mar-17*,0.0,HPCL
+124,Imports (cif),12  Mar-17*,0.0,HPCL
+125,Fx inflow,12  Mar-17*,21403.0,HPCL
+126,Fx outflow,12  Mar-17*,324584.0,HPCL
+127,Net fx,12  Mar-17*,-303181.0,HPCL
+128,From Operations,12  Mar-17*,102545.0,HPCL
+129,From Investments,12  Mar-17*,-53040.0,HPCL
+130,From Financial Activity,12  Mar-17*,-42387.0,HPCL
+131,Net Cashflow,12  Mar-17*,7117.0,HPCL
+132,Net Sales,12  Mar-18*,2195096.0,HPCL
+133,Other income,12  Mar-18*,15279.0,HPCL
+134,Total revenues,12  Mar-18*,2210375.0,HPCL
+135,Gross profit,12  Mar-18*,107130.0,HPCL
+136,Depreciation,12  Mar-18*,28344.0,HPCL
+137,Interest,12  Mar-18*,6179.0,HPCL
+138,Profit before tax,12  Mar-18*,87886.0,HPCL
+139,Minority Interest,12  Mar-18*,13216.0,HPCL
+140,Prior Period Items,12  Mar-18*,0.0,HPCL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,HPCL
+142,Tax,12  Mar-18*,28919.0,HPCL
+143,Profit after tax,12  Mar-18*,72183.0,HPCL
+144,Gross profit margin,12  Mar-18*,4.9,HPCL
+145,Effective tax rate,12  Mar-18*,32.9,HPCL
+146,Net profit margin,12  Mar-18*,3.3,HPCL
+147,Current assets,12  Mar-18*,365331.0,HPCL
+148,Current liabilities,12  Mar-18*,475630.0,HPCL
+149,Net working cap to sales,12  Mar-18*,-5.0,HPCL
+150,Current ratio,12  Mar-18*,0.8,HPCL
+151,Inventory Days,12  Mar-18*,31.0,HPCL
+152,Debtors Days,12  Mar-18*,9.0,HPCL
+153,Net fixed assets,12  Mar-18*,426890.0,HPCL
+154,Share capital,12  Mar-18*,15242.0,HPCL
+155,"""Free"" reserves",12  Mar-18*,240082.0,HPCL
+156,Net worth,12  Mar-18*,255324.0,HPCL
+157,Long term debt,12  Mar-18*,96559.0,HPCL
+158,Total assets,12  Mar-18*,896718.0,HPCL
+159,Interest coverage,12  Mar-18*,15.2,HPCL
+160,Debt to equity ratio,12  Mar-18*,0.4,HPCL
+161,Sales to assets ratio,12  Mar-18*,2.4,HPCL
+162,Return on assets,12  Mar-18*,8.7,HPCL
+163,Return on equity,12  Mar-18*,28.3,HPCL
+164,Return on capital,12  Mar-18*,30.5,HPCL
+165,Exports to sales,12  Mar-18*,0.0,HPCL
+166,Imports to sales,12  Mar-18*,0.0,HPCL
+167,Exports (fob),12  Mar-18*,0.0,HPCL
+168,Imports (cif),12  Mar-18*,0.0,HPCL
+169,Fx inflow,12  Mar-18*,25127.0,HPCL
+170,Fx outflow,12  Mar-18*,382230.0,HPCL
+171,Net fx,12  Mar-18*,-357103.0,HPCL
+172,From Operations,12  Mar-18*,110372.0,HPCL
+173,From Investments,12  Mar-18*,-73980.0,HPCL
+174,From Financial Activity,12  Mar-18*,-44230.0,HPCL
+175,Net Cashflow,12  Mar-18*,-7837.0,HPCL
+176,Net Sales,12  Mar-19*,2754734.0,HPCL
+177,Other income,12  Mar-19*,14133.0,HPCL
+178,Total revenues,12  Mar-19*,2768867.0,HPCL
+179,Gross profit,12  Mar-19*,115671.0,HPCL
+180,Depreciation,12  Mar-19*,30853.0,HPCL
+181,Interest,12  Mar-19*,7856.0,HPCL
+182,Profit before tax,12  Mar-19*,91095.0,HPCL
+183,Minority Interest,12  Mar-19*,9297.0,HPCL
+184,Prior Period Items,12  Mar-19*,0.0,HPCL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HPCL
+186,Tax,12  Mar-19*,33486.0,HPCL
+187,Profit after tax,12  Mar-19*,66906.0,HPCL
+188,Gross profit margin,12  Mar-19*,4.2,HPCL
+189,Effective tax rate,12  Mar-19*,36.8,HPCL
+190,Net profit margin,12  Mar-19*,2.4,HPCL
+191,Current assets,12  Mar-19*,434651.0,HPCL
+192,Current liabilities,12  Mar-19*,571218.0,HPCL
+193,Net working cap to sales,12  Mar-19*,-5.0,HPCL
+194,Current ratio,12  Mar-19*,0.8,HPCL
+195,Inventory Days,12  Mar-19*,27.0,HPCL
+196,Debtors Days,12  Mar-19*,8.0,HPCL
+197,Net fixed assets,12  Mar-19*,511435.0,HPCL
+198,Share capital,12  Mar-19*,15242.0,HPCL
+199,"""Free"" reserves",12  Mar-19*,288765.0,HPCL
+200,Net worth,12  Mar-19*,304007.0,HPCL
+201,Long term debt,12  Mar-19*,121278.0,HPCL
+202,Total assets,12  Mar-19*,1072584.0,HPCL
+203,Interest coverage,12  Mar-19*,12.6,HPCL
+204,Debt to equity ratio,12  Mar-19*,0.4,HPCL
+205,Sales to assets ratio,12  Mar-19*,2.6,HPCL
+206,Return on assets,12  Mar-19*,7.0,HPCL
+207,Return on equity,12  Mar-19*,22.0,HPCL
+208,Return on capital,12  Mar-19*,25.5,HPCL
+209,Exports to sales,12  Mar-19*,0.0,HPCL
+210,Imports to sales,12  Mar-19*,0.0,HPCL
+211,Exports (fob),12  Mar-19*,0.0,HPCL
+212,Imports (cif),12  Mar-19*,0.0,HPCL
+213,Fx inflow,12  Mar-19*,52880.0,HPCL
+214,Fx outflow,12  Mar-19*,519843.0,HPCL
+215,Net fx,12  Mar-19*,-466963.0,HPCL
+216,From Operations,12  Mar-19*,85540.0,HPCL
+217,From Investments,12  Mar-19*,-113817.0,HPCL
+218,From Financial Activity,12  Mar-19*,25982.0,HPCL
+219,Net Cashflow,12  Mar-19*,-2295.0,HPCL

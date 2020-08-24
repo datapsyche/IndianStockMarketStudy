@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,624410.0,INFY
+1,Other income,12  Mar-16*,31230.0,INFY
+2,Total revenues,12  Mar-16*,655640.0,INFY
+3,Gross profit,12  Mar-16*,170790.0,INFY
+4,Depreciation,12  Mar-16*,14590.0,INFY
+5,Interest,12  Mar-16*,0.0,INFY
+6,Profit before tax,12  Mar-16*,187430.0,INFY
+7,Minority Interest,12  Mar-16*,0.0,INFY
+8,Prior Period Items,12  Mar-16*,-30.0,INFY
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,INFY
+10,Tax,12  Mar-16*,52510.0,INFY
+11,Profit after tax,12  Mar-16*,134890.0,INFY
+12,Gross profit margin,12  Mar-16*,27.4,INFY
+13,Effective tax rate,12  Mar-16*,28.0,INFY
+14,Net profit margin,12  Mar-16*,21.6,INFY
+15,Current assets,12  Mar-16*,517530,INFY
+16,Current liabilities,12  Mar-16*,132390,INFY
+17,Net working cap to sales,12  Mar-16*,61.7,INFY
+18,Current ratio,12  Mar-16*,3.9,INFY
+19,Inventory Days,12  Mar-16*,0,INFY
+20,Debtors Days,12  Mar-16*,66,INFY
+21,Net fixed assets,12  Mar-16*,144490,INFY
+22,Share capital,12  Mar-16*,11440,INFY
+23,"""Free"" reserves",12  Mar-16*,606000,INFY
+24,Net worth,12  Mar-16*,617440,INFY
+25,Long term debt,12  Mar-16*,0,INFY
+26,Total assets,12  Mar-16*,753500,INFY
+27,Interest coverage,12  Mar-16*,NM,INFY
+28,Debt to equity ratio,12  Mar-16*,0,INFY
+29,Sales to assets ratio,12  Mar-16*,0.8,INFY
+30,Return on assets,12  Mar-16*,17.9,INFY
+31,Return on equity,12  Mar-16*,21.8,INFY
+32,Return on capital,12  Mar-16*,30.4,INFY
+33,Exports to sales,12  Mar-16*,0,INFY
+34,Imports to sales,12  Mar-16*,0,INFY
+35,Exports (fob),12  Mar-16*,0,INFY
+36,Imports (cif),12  Mar-16*,0,INFY
+37,Fx inflow,12  Mar-16*,528660,INFY
+38,Fx outflow,12  Mar-16*,261380,INFY
+39,Net fx,12  Mar-16*,267280,INFY
+40,From Operations,12  Mar-16*,100280,INFY
+41,From Investments,12  Mar-16*,-9010,INFY
+42,From Financial Activity,12  Mar-16*,-68130,INFY
+43,Net Cashflow,12  Mar-16*,23300,INFY
+44,Net Sales,12  Mar-17*,684840.0,INFY
+45,Other income,12  Mar-17*,30800.0,INFY
+46,Total revenues,12  Mar-17*,715640.0,INFY
+47,Gross profit,12  Mar-17*,186040.0,INFY
+48,Depreciation,12  Mar-17*,17030.0,INFY
+49,Interest,12  Mar-17*,0.0,INFY
+50,Profit before tax,12  Mar-17*,199810.0,INFY
+51,Minority Interest,12  Mar-17*,0.0,INFY
+52,Prior Period Items,12  Mar-17*,-300.0,INFY
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,INFY
+54,Tax,12  Mar-17*,55980.0,INFY
+55,Profit after tax,12  Mar-17*,143530.0,INFY
+56,Gross profit margin,12  Mar-17*,27.2,INFY
+57,Effective tax rate,12  Mar-17*,28.0,INFY
+58,Net profit margin,12  Mar-17*,21.0,INFY
+59,Current assets,12  Mar-17*,537050,INFY
+60,Current liabilities,12  Mar-17*,140130,INFY
+61,Net working cap to sales,12  Mar-17*,58.0,INFY
+62,Current ratio,12  Mar-17*,3.8,INFY
+63,Inventory Days,12  Mar-17*,0,INFY
+64,Debtors Days,12  Mar-17*,66,INFY
+65,Net fixed assets,12  Mar-17*,156150,INFY
+66,Share capital,12  Mar-17*,11440,INFY
+67,"""Free"" reserves",12  Mar-17*,678380,INFY
+68,Net worth,12  Mar-17*,689820,INFY
+69,Long term debt,12  Mar-17*,0,INFY
+70,Total assets,12  Mar-17*,833550,INFY
+71,Interest coverage,12  Mar-17*,NM,INFY
+72,Debt to equity ratio,12  Mar-17*,0,INFY
+73,Sales to assets ratio,12  Mar-17*,0.8,INFY
+74,Return on assets,12  Mar-17*,17.2,INFY
+75,Return on equity,12  Mar-17*,20.8,INFY
+76,Return on capital,12  Mar-17*,28.9,INFY
+77,Exports to sales,12  Mar-17*,0,INFY
+78,Imports to sales,12  Mar-17*,0,INFY
+79,Exports (fob),12  Mar-17*,0,INFY
+80,Imports (cif),12  Mar-17*,0,INFY
+81,Fx inflow,12  Mar-17*,577340,INFY
+82,Fx outflow,12  Mar-17*,290880,INFY
+83,Net fx,12  Mar-17*,286460,INFY
+84,From Operations,12  Mar-17*,115310,INFY
+85,From Investments,12  Mar-17*,-145420,INFY
+86,From Financial Activity,12  Mar-17*,-69390,INFY
+87,Net Cashflow,12  Mar-17*,-100720,INFY
+88,Net Sales,12  Mar-18*,705220.0,INFY
+89,Other income,12  Mar-18*,33110.0,INFY
+90,Total revenues,12  Mar-18*,738330.0,INFY
+91,Gross profit,12  Mar-18*,188930.0,INFY
+92,Depreciation,12  Mar-18*,18630.0,INFY
+93,Interest,12  Mar-18*,0.0,INFY
+94,Profit before tax,12  Mar-18*,203410.0,INFY
+95,Minority Interest,12  Mar-18*,0.0,INFY
+96,Prior Period Items,12  Mar-18*,-710.0,INFY
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,INFY
+98,Tax,12  Mar-18*,42410.0,INFY
+99,Profit after tax,12  Mar-18*,160290.0,INFY
+100,Gross profit margin,12  Mar-18*,26.8,INFY
+101,Effective tax rate,12  Mar-18*,20.8,INFY
+102,Net profit margin,12  Mar-18*,22.7,INFY
+103,Current assets,12  Mar-18*,500170,INFY
+104,Current liabilities,12  Mar-18*,141050,INFY
+105,Net working cap to sales,12  Mar-18*,50.9,INFY
+106,Current ratio,12  Mar-18*,3.5,INFY
+107,Inventory Days,12  Mar-18*,0,INFY
+108,Debtors Days,12  Mar-18*,68,INFY
+109,Net fixed assets,12  Mar-18*,141800,INFY
+110,Share capital,12  Mar-18*,10880,INFY
+111,"""Free"" reserves",12  Mar-18*,638350,INFY
+112,Net worth,12  Mar-18*,649230,INFY
+113,Long term debt,12  Mar-18*,0,INFY
+114,Total assets,12  Mar-18*,798900,INFY
+115,Interest coverage,12  Mar-18*,NM,INFY
+116,Debt to equity ratio,12  Mar-18*,0,INFY
+117,Sales to assets ratio,12  Mar-18*,0.9,INFY
+118,Return on assets,12  Mar-18*,20.1,INFY
+119,Return on equity,12  Mar-18*,24.7,INFY
+120,Return on capital,12  Mar-18*,31.2,INFY
+121,Exports to sales,12  Mar-18*,0,INFY
+122,Imports to sales,12  Mar-18*,0,INFY
+123,Exports (fob),12  Mar-18*,0,INFY
+124,Imports (cif),12  Mar-18*,0,INFY
+125,Fx inflow,12  Mar-18*,603290,INFY
+126,Fx outflow,12  Mar-18*,313580,INFY
+127,Net fx,12  Mar-18*,289710,INFY
+128,From Operations,12  Mar-18*,132180,INFY
+129,From Investments,12  Mar-18*,44520,INFY
+130,From Financial Activity,12  Mar-18*,-205050,INFY
+131,Net Cashflow,12  Mar-18*,-27540,INFY
+132,Net Sales,12  Mar-19*,826750.0,INFY
+133,Other income,12  Mar-19*,28820.0,INFY
+134,Total revenues,12  Mar-19*,855570.0,INFY
+135,Gross profit,12  Mar-19*,201700.0,INFY
+136,Depreciation,12  Mar-19*,20110.0,INFY
+137,Interest,12  Mar-19*,0.0,INFY
+138,Profit before tax,12  Mar-19*,210410.0,INFY
+139,Minority Interest,12  Mar-19*,0.0,INFY
+140,Prior Period Items,12  Mar-19*,0.0,INFY
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,INFY
+142,Tax,12  Mar-19*,56310.0,INFY
+143,Profit after tax,12  Mar-19*,154100.0,INFY
+144,Gross profit margin,12  Mar-19*,24.4,INFY
+145,Effective tax rate,12  Mar-19*,26.8,INFY
+146,Net profit margin,12  Mar-19*,18.6,INFY
+147,Current assets,12  Mar-19*,528780,INFY
+148,Current liabilities,12  Mar-19*,186380,INFY
+149,Net working cap to sales,12  Mar-19*,41.4,INFY
+150,Current ratio,12  Mar-19*,2.8,INFY
+151,Inventory Days,12  Mar-19*,0,INFY
+152,Debtors Days,12  Mar-19*,65,INFY
+153,Net fixed assets,12  Mar-19*,170980,INFY
+154,Share capital,12  Mar-19*,21700,INFY
+155,"""Free"" reserves",12  Mar-19*,627780,INFY
+156,Net worth,12  Mar-19*,649480,INFY
+157,Long term debt,12  Mar-19*,0,INFY
+158,Total assets,12  Mar-19*,847380,INFY
+159,Interest coverage,12  Mar-19*,NM,INFY
+160,Debt to equity ratio,12  Mar-19*,0,INFY
+161,Sales to assets ratio,12  Mar-19*,1.0,INFY
+162,Return on assets,12  Mar-19*,18.2,INFY
+163,Return on equity,12  Mar-19*,23.7,INFY
+164,Return on capital,12  Mar-19*,32.4,INFY
+165,Exports to sales,12  Mar-19*,0,INFY
+166,Imports to sales,12  Mar-19*,0,INFY
+167,Exports (fob),12  Mar-19*,0,INFY
+168,Imports (cif),12  Mar-19*,0,INFY
+169,Fx inflow,12  Mar-19*,717190,INFY
+170,Fx outflow,12  Mar-19*,394670,INFY
+171,Net fx,12  Mar-19*,322520,INFY
+172,From Operations,12  Mar-19*,148410,INFY
+173,From Investments,12  Mar-19*,-5750,INFY
+174,From Financial Activity,12  Mar-19*,-145120,INFY
+175,Net Cashflow,12  Mar-19*,-3030,INFY
+176,Net Sales,12  Mar-20*,907910.0,INFY
+177,Other income,12  Mar-20*,28030.0,INFY
+178,Total revenues,12  Mar-20*,935940.0,INFY
+179,Gross profit,12  Mar-20*,222670.0,INFY
+180,Depreciation,12  Mar-20*,28930.0,INFY
+181,Interest,12  Mar-20*,1700.0,INFY
+182,Profit before tax,12  Mar-20*,220070.0,INFY
+183,Minority Interest,12  Mar-20*,0.0,INFY
+184,Prior Period Items,12  Mar-20*,0.0,INFY
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,INFY
+186,Tax,12  Mar-20*,53680.0,INFY
+187,Profit after tax,12  Mar-20*,166390.0,INFY
+188,Gross profit margin,12  Mar-20*,24.5,INFY
+189,Effective tax rate,12  Mar-20*,24.4,INFY
+190,Net profit margin,12  Mar-20*,18.3,INFY
+191,Current assets,12  Mar-20*,545760.0,INFY
+192,Current liabilities,12  Mar-20*,208560.0,INFY
+193,Net working cap to sales,12  Mar-20*,37.1,INFY
+194,Current ratio,12  Mar-20*,2.6,INFY
+195,Inventory Days,12  Mar-20*,0.0,INFY
+196,Debtors Days,12  Mar-20*,74.0,INFY
+197,Net fixed assets,12  Mar-20*,247430.0,INFY
+198,Share capital,12  Mar-20*,21220.0,INFY
+199,"""Free"" reserves",12  Mar-20*,633280.0,INFY
+200,Net worth,12  Mar-20*,654500.0,INFY
+201,Long term debt,12  Mar-20*,0.0,INFY
+202,Total assets,12  Mar-20*,927680.0,INFY
+203,Interest coverage,12  Mar-20*,130.5,INFY
+204,Debt to equity ratio,12  Mar-20*,0.0,INFY
+205,Sales to assets ratio,12  Mar-20*,1.0,INFY
+206,Return on assets,12  Mar-20*,18.1,INFY
+207,Return on equity,12  Mar-20*,25.4,INFY
+208,Return on capital,12  Mar-20*,33.9,INFY
+209,Exports to sales,12  Mar-20*,0.0,INFY
+210,Imports to sales,12  Mar-20*,0.0,INFY
+211,Exports (fob),12  Mar-20*,0.0,INFY
+212,Imports (cif),12  Mar-20*,0.0,INFY
+213,Fx inflow,12  Mar-20*,779740.0,INFY
+214,Fx outflow,12  Mar-20*,442540.0,INFY
+215,Net fx,12  Mar-20*,337200.0,INFY
+216,From Operations,12  Mar-20*,170030.0,INFY
+217,From Investments,12  Mar-20*,-2390.0,INFY
+218,From Financial Activity,12  Mar-20*,-175910.0,INFY
+219,Net Cashflow,12  Mar-20*,-9190.0,INFY

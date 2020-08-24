@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-14*,20813.0,MMLG
+1,Other income,12  Mar-14*,361.0,MMLG
+2,Interest expense,12  Mar-14*,11771.0,MMLG
+3,Net interest income,12  Mar-14*,9043.0,MMLG
+4,Operating expense,12  Mar-14*,5254.0,MMLG
+5,Gross profit,12  Mar-14*,3788.0,MMLG
+6,Gross profit margin,12  Mar-14*,18.2,MMLG
+7,Provisions/contingencies,12  Mar-14*,2173.0,MMLG
+8,Profit before tax,12  Mar-14*,1977.0,MMLG
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,MMLG
+10,Minority Interest,12  Mar-14*,-78.0,MMLG
+11,Prior Period Items,12  Mar-14*,0.0,MMLG
+12,Tax,12  Mar-14*,381.0,MMLG
+13,Profit after tax,12  Mar-14*,1518.0,MMLG
+14,Net profit margin,12  Mar-14*,7.3,MMLG
+15,Advances,12  Mar-14*,74117,MMLG
+16,Deposits,12  Mar-14*,0,MMLG
+17,Credit/Deposit ratio,12  Mar-14*,NM,MMLG
+18,Yield on advances,12  Mar-14*,24.6,MMLG
+19,Cost of deposits,12  Mar-14*,N.A.,MMLG
+20,Net Interest Margin,12  Mar-14*,11.7,MMLG
+21,Net fixed assets,12  Mar-14*,1980,MMLG
+22,Share capital,12  Mar-14*,380,MMLG
+23,Free reserves,12  Mar-14*,12239,MMLG
+24,Net worth,12  Mar-14*,15038,MMLG
+25,Borrowings,12  Mar-14*,32189,MMLG
+26,Investments,12  Mar-14*,2920,MMLG
+27,Total assets,12  Mar-14*,131782,MMLG
+28,Debt/equity ratio,12  Mar-14*,2.1,MMLG
+29,Return on assets,12  Mar-14*,1.2,MMLG
+30,Return on equity,12  Mar-14*,10.1,MMLG
+31,Capital adequacy ratio,12  Mar-14*,16.6,MMLG
+32,Net NPAs,12  Mar-14*,4.7,MMLG
+33,From Operations,12  Mar-14*,-5023,MMLG
+34,From Investments,12  Mar-14*,-1796,MMLG
+35,From Financial Activity,12  Mar-14*,2183,MMLG
+36,Net Cashflow,12  Mar-14*,-4636,MMLG
+37,Interest income,12  Mar-15*,23548.0,MMLG
+38,Other income,12  Mar-15*,324.0,MMLG
+39,Interest expense,12  Mar-15*,12329.0,MMLG
+40,Net interest income,12  Mar-15*,11218.0,MMLG
+41,Operating expense,12  Mar-15*,6506.0,MMLG
+42,Gross profit,12  Mar-15*,4712.0,MMLG
+43,Gross profit margin,12  Mar-15*,20.0,MMLG
+44,Provisions/contingencies,12  Mar-15*,2789.0,MMLG
+45,Profit before tax,12  Mar-15*,2235.0,MMLG
+46,Extraordinary Inc (Exp),12  Mar-15*,0.0,MMLG
+47,Minority Interest,12  Mar-15*,-66.0,MMLG
+48,Prior Period Items,12  Mar-15*,0.0,MMLG
+49,Tax,12  Mar-15*,362.0,MMLG
+50,Profit after tax,12  Mar-15*,1807.0,MMLG
+51,Net profit margin,12  Mar-15*,7.7,MMLG
+52,Advances,12  Mar-15*,91229,MMLG
+53,Deposits,12  Mar-15*,0,MMLG
+54,Credit/Deposit ratio,12  Mar-15*,NM,MMLG
+55,Yield on advances,12  Mar-15*,20.8,MMLG
+56,Cost of deposits,12  Mar-15*,N.A.,MMLG
+57,Net Interest Margin,12  Mar-15*,11.9,MMLG
+58,Net fixed assets,12  Mar-15*,2206,MMLG
+59,Share capital,12  Mar-15*,1706,MMLG
+60,Free reserves,12  Mar-15*,16168,MMLG
+61,Net worth,12  Mar-15*,17875,MMLG
+62,Borrowings,12  Mar-15*,35686,MMLG
+63,Investments,12  Mar-15*,3080,MMLG
+64,Total assets,12  Mar-15*,148825,MMLG
+65,Debt/equity ratio,12  Mar-15*,2.0,MMLG
+66,Return on assets,12  Mar-15*,1.2,MMLG
+67,Return on equity,12  Mar-15*,10.1,MMLG
+68,Capital adequacy ratio,12  Mar-15*,16.3,MMLG
+69,Net NPAs,12  Mar-15*,6.1,MMLG
+70,From Operations,12  Mar-15*,-3048,MMLG
+71,From Investments,12  Mar-15*,-360,MMLG
+72,From Financial Activity,12  Mar-15*,1714,MMLG
+73,Net Cashflow,12  Mar-15*,-1694,MMLG
+74,Interest income,12  Mar-16*,24778.0,MMLG
+75,Other income,12  Mar-16*,341.0,MMLG
+76,Interest expense,12  Mar-16*,11916.0,MMLG
+77,Net interest income,12  Mar-16*,12862.0,MMLG
+78,Operating expense,12  Mar-16*,5945.0,MMLG
+79,Gross profit,12  Mar-16*,6917.0,MMLG
+80,Gross profit margin,12  Mar-16*,27.9,MMLG
+81,Provisions/contingencies,12  Mar-16*,4145.0,MMLG
+82,Profit before tax,12  Mar-16*,3058.0,MMLG
+83,Extraordinary Inc (Exp),12  Mar-16*,0.0,MMLG
+84,Minority Interest,12  Mar-16*,-21.0,MMLG
+85,Prior Period Items,12  Mar-16*,0.0,MMLG
+86,Tax,12  Mar-16*,923.0,MMLG
+87,Profit after tax,12  Mar-16*,2114.0,MMLG
+88,Net profit margin,12  Mar-16*,8.5,MMLG
+89,Advances,12  Mar-16*,95108,MMLG
+90,Deposits,12  Mar-16*,0,MMLG
+91,Credit/Deposit ratio,12  Mar-16*,NM,MMLG
+92,Yield on advances,12  Mar-16*,20.9,MMLG
+93,Cost of deposits,12  Mar-16*,N.A.,MMLG
+94,Net Interest Margin,12  Mar-16*,13.1,MMLG
+95,Net fixed assets,12  Mar-16*,2785,MMLG
+96,Share capital,12  Mar-16*,604,MMLG
+97,Free reserves,12  Mar-16*,21039,MMLG
+98,Net worth,12  Mar-16*,21643,MMLG
+99,Borrowings,12  Mar-16*,33132,MMLG
+100,Investments,12  Mar-16*,3242,MMLG
+101,Total assets,12  Mar-16*,155232,MMLG
+102,Debt/equity ratio,12  Mar-16*,1.5,MMLG
+103,Return on assets,12  Mar-16*,1.4,MMLG
+104,Return on equity,12  Mar-16*,9.8,MMLG
+105,Capital adequacy ratio,12  Mar-16*,18.7,MMLG
+106,Net NPAs,12  Mar-16*,8.7,MMLG
+107,From Operations,12  Mar-16*,7328,MMLG
+108,From Investments,12  Mar-16*,-2541,MMLG
+109,From Financial Activity,12  Mar-16*,-4983,MMLG
+110,Net Cashflow,12  Mar-16*,-196,MMLG
+111,Interest income,12  Mar-17*,23515.0,MMLG
+112,Other income,12  Mar-17*,550.0,MMLG
+113,Interest expense,12  Mar-17*,11313.0,MMLG
+114,Net interest income,12  Mar-17*,12202.0,MMLG
+115,Operating expense,12  Mar-17*,5719.0,MMLG
+116,Gross profit,12  Mar-17*,6483.0,MMLG
+117,Gross profit margin,12  Mar-17*,27.6,MMLG
+118,Provisions/contingencies,12  Mar-17*,6554.0,MMLG
+119,Profit before tax,12  Mar-17*,468.0,MMLG
+120,Extraordinary Inc (Exp),12  Mar-17*,0.0,MMLG
+121,Minority Interest,12  Mar-17*,77.0,MMLG
+122,Prior Period Items,12  Mar-17*,0.0,MMLG
+123,Tax,12  Mar-17*,341.0,MMLG
+124,Profit after tax,12  Mar-17*,205.0,MMLG
+125,Net profit margin,12  Mar-17*,0.9,MMLG
+126,Advances,12  Mar-17*,79227,MMLG
+127,Deposits,12  Mar-17*,0,MMLG
+128,Credit/Deposit ratio,12  Mar-17*,NM,MMLG
+129,Yield on advances,12  Mar-17*,23.8,MMLG
+130,Cost of deposits,12  Mar-17*,N.A.,MMLG
+131,Net Interest Margin,12  Mar-17*,14.5,MMLG
+132,Net fixed assets,12  Mar-17*,2853,MMLG
+133,Share capital,12  Mar-17*,474,MMLG
+134,Free reserves,12  Mar-17*,21247,MMLG
+135,Net worth,12  Mar-17*,21721,MMLG
+136,Borrowings,12  Mar-17*,31093,MMLG
+137,Investments,12  Mar-17*,4729,MMLG
+138,Total assets,12  Mar-17*,136222,MMLG
+139,Debt/equity ratio,12  Mar-17*,1.4,MMLG
+140,Return on assets,12  Mar-17*,0.2,MMLG
+141,Return on equity,12  Mar-17*,0.9,MMLG
+142,Capital adequacy ratio,12  Mar-17*,20.4,MMLG
+143,Net NPAs,12  Mar-17*,7.6,MMLG
+144,From Operations,12  Mar-17*,29487,MMLG
+145,From Investments,12  Mar-17*,-1857,MMLG
+146,From Financial Activity,12  Mar-17*,-28443,MMLG
+147,Net Cashflow,12  Mar-17*,-813,MMLG
+148,Interest income,12  Mar-18*,22415.0,MMLG
+149,Other income,12  Mar-18*,565.0,MMLG
+150,Interest expense,12  Mar-18*,9055.0,MMLG
+151,Net interest income,12  Mar-18*,13360.0,MMLG
+152,Operating expense,12  Mar-18*,6520.0,MMLG
+153,Gross profit,12  Mar-18*,6840.0,MMLG
+154,Gross profit margin,12  Mar-18*,30.5,MMLG
+155,Provisions/contingencies,12  Mar-18*,4231.0,MMLG
+156,Profit before tax,12  Mar-18*,3181.0,MMLG
+157,Extraordinary Inc (Exp),12  Mar-18*,0.0,MMLG
+158,Minority Interest,12  Mar-18*,0.0,MMLG
+159,Prior Period Items,12  Mar-18*,0.0,MMLG
+160,Tax,12  Mar-18*,876.0,MMLG
+161,Profit after tax,12  Mar-18*,2304.0,MMLG
+162,Net profit margin,12  Mar-18*,10.3,MMLG
+163,Advances,12  Mar-18*,82478,MMLG
+164,Deposits,12  Mar-18*,0,MMLG
+165,Credit/Deposit ratio,12  Mar-18*,NM,MMLG
+166,Yield on advances,12  Mar-18*,22.1,MMLG
+167,Cost of deposits,12  Mar-18*,N.A.,MMLG
+168,Net Interest Margin,12  Mar-18*,15.2,MMLG
+169,Net fixed assets,12  Mar-18*,2004,MMLG
+170,Share capital,12  Mar-18*,474,MMLG
+171,Free reserves,12  Mar-18*,22720,MMLG
+172,Net worth,12  Mar-18*,23194,MMLG
+173,Borrowings,12  Mar-18*,25634,MMLG
+174,Investments,12  Mar-18*,5228,MMLG
+175,Total assets,12  Mar-18*,137013,MMLG
+176,Debt/equity ratio,12  Mar-18*,1.1,MMLG
+177,Return on assets,12  Mar-18*,1.7,MMLG
+178,Return on equity,12  Mar-18*,9.9,MMLG
+179,Capital adequacy ratio,12  Mar-18*,20.7,MMLG
+180,Net NPAs,12  Mar-18*,7.3,MMLG
+181,From Operations,12  Mar-18*,14465,MMLG
+182,From Investments,12  Mar-18*,-1113,MMLG
+183,From Financial Activity,12  Mar-18*,-13644,MMLG
+184,Net Cashflow,12  Mar-18*,-293,MMLG

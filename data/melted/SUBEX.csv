@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,3401.0,SUBEX
+1,Other income,12  Mar-14*,44.0,SUBEX
+2,Total revenues,12  Mar-14*,3445.0,SUBEX
+3,Gross profit,12  Mar-14*,677.0,SUBEX
+4,Depreciation,12  Mar-14*,24.0,SUBEX
+5,Interest,12  Mar-14*,671.0,SUBEX
+6,Profit before tax,12  Mar-14*,26.0,SUBEX
+7,Minority Interest,12  Mar-14*,0.0,SUBEX
+8,Prior Period Items,12  Mar-14*,0.0,SUBEX
+9,Extraordinary Inc (Exp),12  Mar-14*,-49.0,SUBEX
+10,Tax,12  Mar-14*,94.0,SUBEX
+11,Profit after tax,12  Mar-14*,-116.0,SUBEX
+12,Gross profit margin,12  Mar-14*,19.9,SUBEX
+13,Effective tax rate,12  Mar-14*,357.3,SUBEX
+14,Net profit margin,12  Mar-14*,-3.4,SUBEX
+15,Current assets,12  Mar-14*,1936.0,SUBEX
+16,Current liabilities,12  Mar-14*,2568.0,SUBEX
+17,Net working cap to sales,12  Mar-14*,-18.6,SUBEX
+18,Current ratio,12  Mar-14*,0.8,SUBEX
+19,Inventory Days,12  Mar-14*,0.0,SUBEX
+20,Debtors Days,12  Mar-14*,108.0,SUBEX
+21,Net fixed assets,12  Mar-14*,60.0,SUBEX
+22,Share capital,12  Mar-14*,1666.0,SUBEX
+23,"""Free"" reserves",12  Mar-14*,60.0,SUBEX
+24,Net worth,12  Mar-14*,1736.0,SUBEX
+25,Long term debt,12  Mar-14*,6025.0,SUBEX
+26,Total assets,12  Mar-14*,10943.0,SUBEX
+27,Interest coverage,12  Mar-14*,1.0,SUBEX
+28,Debt to equity ratio,12  Mar-14*,3.5,SUBEX
+29,Sales to assets ratio,12  Mar-14*,0.3,SUBEX
+30,Return on assets,12  Mar-14*,5.1,SUBEX
+31,Return on equity,12  Mar-14*,-6.7,SUBEX
+32,Return on capital,12  Mar-14*,8.4,SUBEX
+33,Exports to sales,12  Mar-14*,0.0,SUBEX
+34,Imports to sales,12  Mar-14*,1.0,SUBEX
+35,Exports (fob),12  Mar-14*,0.0,SUBEX
+36,Imports (cif),12  Mar-14*,32.0,SUBEX
+37,Fx inflow,12  Mar-14*,2787.0,SUBEX
+38,Fx outflow,12  Mar-14*,448.0,SUBEX
+39,Net fx,12  Mar-14*,2339.0,SUBEX
+40,From Operations,12  Mar-14*,608.0,SUBEX
+41,From Investments,12  Mar-14*,-9.0,SUBEX
+42,From Financial Activity,12  Mar-14*,-600.0,SUBEX
+43,Net Cashflow,12  Mar-14*,0.0,SUBEX
+44,Net Sales,12  Mar-15*,3598.0,SUBEX
+45,Other income,12  Mar-15*,9.0,SUBEX
+46,Total revenues,12  Mar-15*,3607.0,SUBEX
+47,Gross profit,12  Mar-15*,849.0,SUBEX
+48,Depreciation,12  Mar-15*,40.0,SUBEX
+49,Interest,12  Mar-15*,610.0,SUBEX
+50,Profit before tax,12  Mar-15*,207.0,SUBEX
+51,Minority Interest,12  Mar-15*,0.0,SUBEX
+52,Prior Period Items,12  Mar-15*,0.0,SUBEX
+53,Extraordinary Inc (Exp),12  Mar-15*,-48.0,SUBEX
+54,Tax,12  Mar-15*,57.0,SUBEX
+55,Profit after tax,12  Mar-15*,102.0,SUBEX
+56,Gross profit margin,12  Mar-15*,23.6,SUBEX
+57,Effective tax rate,12  Mar-15*,27.6,SUBEX
+58,Net profit margin,12  Mar-15*,2.8,SUBEX
+59,Current assets,12  Mar-15*,2193.0,SUBEX
+60,Current liabilities,12  Mar-15*,2381.0,SUBEX
+61,Net working cap to sales,12  Mar-15*,-5.2,SUBEX
+62,Current ratio,12  Mar-15*,0.9,SUBEX
+63,Inventory Days,12  Mar-15*,0.0,SUBEX
+64,Debtors Days,12  Mar-15*,110.0,SUBEX
+65,Net fixed assets,12  Mar-15*,82.0,SUBEX
+66,Share capital,12  Mar-15*,1829.0,SUBEX
+67,"""Free"" reserves",12  Mar-15*,253.0,SUBEX
+68,Net worth,12  Mar-15*,2090.0,SUBEX
+69,Long term debt,12  Mar-15*,5777.0,SUBEX
+70,Total assets,12  Mar-15*,11338.0,SUBEX
+71,Interest coverage,12  Mar-15*,1.3,SUBEX
+72,Debt to equity ratio,12  Mar-15*,2.8,SUBEX
+73,Sales to assets ratio,12  Mar-15*,0.3,SUBEX
+74,Return on assets,12  Mar-15*,6.3,SUBEX
+75,Return on equity,12  Mar-15*,4.9,SUBEX
+76,Return on capital,12  Mar-15*,9.8,SUBEX
+77,Exports to sales,12  Mar-15*,0.0,SUBEX
+78,Imports to sales,12  Mar-15*,5.2,SUBEX
+79,Exports (fob),12  Mar-15*,0.0,SUBEX
+80,Imports (cif),12  Mar-15*,186.0,SUBEX
+81,Fx inflow,12  Mar-15*,2945.0,SUBEX
+82,Fx outflow,12  Mar-15*,1895.0,SUBEX
+83,Net fx,12  Mar-15*,1050.0,SUBEX
+84,From Operations,12  Mar-15*,638.0,SUBEX
+85,From Investments,12  Mar-15*,-86.0,SUBEX
+86,From Financial Activity,12  Mar-15*,-469.0,SUBEX
+87,Net Cashflow,12  Mar-15*,84.0,SUBEX
+88,Net Sales,12  Mar-16*,3234.0,SUBEX
+89,Other income,12  Mar-16*,12.0,SUBEX
+90,Total revenues,12  Mar-16*,3245.0,SUBEX
+91,Gross profit,12  Mar-16*,644.0,SUBEX
+92,Depreciation,12  Mar-16*,43.0,SUBEX
+93,Interest,12  Mar-16*,464.0,SUBEX
+94,Profit before tax,12  Mar-16*,148.0,SUBEX
+95,Minority Interest,12  Mar-16*,0.0,SUBEX
+96,Prior Period Items,12  Mar-16*,0.0,SUBEX
+97,Extraordinary Inc (Exp),12  Mar-16*,567.0,SUBEX
+98,Tax,12  Mar-16*,128.0,SUBEX
+99,Profit after tax,12  Mar-16*,587.0,SUBEX
+100,Gross profit margin,12  Mar-16*,19.9,SUBEX
+101,Effective tax rate,12  Mar-16*,86.1,SUBEX
+102,Net profit margin,12  Mar-16*,18.2,SUBEX
+103,Current assets,12  Mar-16*,2362.0,SUBEX
+104,Current liabilities,12  Mar-16*,2636.0,SUBEX
+105,Net working cap to sales,12  Mar-16*,-8.5,SUBEX
+106,Current ratio,12  Mar-16*,0.9,SUBEX
+107,Inventory Days,12  Mar-16*,0.0,SUBEX
+108,Debtors Days,12  Mar-16*,126.0,SUBEX
+109,Net fixed assets,12  Mar-16*,73.0,SUBEX
+110,Share capital,12  Mar-16*,5028.0,SUBEX
+111,"""Free"" reserves",12  Mar-16*,2240.0,SUBEX
+112,Net worth,12  Mar-16*,7270.0,SUBEX
+113,Long term debt,12  Mar-16*,434.0,SUBEX
+114,Total assets,12  Mar-16*,10430.0,SUBEX
+115,Interest coverage,12  Mar-16*,1.3,SUBEX
+116,Debt to equity ratio,12  Mar-16*,0.1,SUBEX
+117,Sales to assets ratio,12  Mar-16*,0.3,SUBEX
+118,Return on assets,12  Mar-16*,10.1,SUBEX
+119,Return on equity,12  Mar-16*,8.1,SUBEX
+120,Return on capital,12  Mar-16*,15.3,SUBEX
+121,Exports to sales,12  Mar-16*,0.0,SUBEX
+122,Imports to sales,12  Mar-16*,0.5,SUBEX
+123,Exports (fob),12  Mar-16*,0.0,SUBEX
+124,Imports (cif),12  Mar-16*,17.0,SUBEX
+125,Fx inflow,12  Mar-16*,2779.0,SUBEX
+126,Fx outflow,12  Mar-16*,491.0,SUBEX
+127,Net fx,12  Mar-16*,2288.0,SUBEX
+128,From Operations,12  Mar-16*,664.0,SUBEX
+129,From Investments,12  Mar-16*,16.0,SUBEX
+130,From Financial Activity,12  Mar-16*,-364.0,SUBEX
+131,Net Cashflow,12  Mar-16*,317.0,SUBEX
+132,Net Sales,12  Mar-17*,3573.0,SUBEX
+133,Other income,12  Mar-17*,115.0,SUBEX
+134,Total revenues,12  Mar-17*,3689.0,SUBEX
+135,Gross profit,12  Mar-17*,891.0,SUBEX
+136,Depreciation,12  Mar-17*,50.0,SUBEX
+137,Interest,12  Mar-17*,204.0,SUBEX
+138,Profit before tax,12  Mar-17*,753.0,SUBEX
+139,Minority Interest,12  Mar-17*,0.0,SUBEX
+140,Prior Period Items,12  Mar-17*,0.0,SUBEX
+141,Extraordinary Inc (Exp),12  Mar-17*,-1089.0,SUBEX
+142,Tax,12  Mar-17*,96.0,SUBEX
+143,Profit after tax,12  Mar-17*,-432.0,SUBEX
+144,Gross profit margin,12  Mar-17*,24.9,SUBEX
+145,Effective tax rate,12  Mar-17*,12.8,SUBEX
+146,Net profit margin,12  Mar-17*,-12.1,SUBEX
+147,Current assets,12  Mar-17*,2495.0,SUBEX
+148,Current liabilities,12  Mar-17*,2696.0,SUBEX
+149,Net working cap to sales,12  Mar-17*,-5.6,SUBEX
+150,Current ratio,12  Mar-17*,0.9,SUBEX
+151,Inventory Days,12  Mar-17*,0.0,SUBEX
+152,Debtors Days,12  Mar-17*,121.0,SUBEX
+153,Net fixed assets,12  Mar-17*,92.0,SUBEX
+154,Share capital,12  Mar-17*,5069.0,SUBEX
+155,"""Free"" reserves",12  Mar-17*,1772.0,SUBEX
+156,Net worth,12  Mar-17*,6841.0,SUBEX
+157,Long term debt,12  Mar-17*,0.0,SUBEX
+158,Total assets,12  Mar-17*,9567.0,SUBEX
+159,Interest coverage,12  Mar-17*,4.7,SUBEX
+160,Debt to equity ratio,12  Mar-17*,0.0,SUBEX
+161,Sales to assets ratio,12  Mar-17*,0.4,SUBEX
+162,Return on assets,12  Mar-17*,-2.4,SUBEX
+163,Return on equity,12  Mar-17*,-6.3,SUBEX
+164,Return on capital,12  Mar-17*,-1.9,SUBEX
+165,Exports to sales,12  Mar-17*,0.0,SUBEX
+166,Imports to sales,12  Mar-17*,0.0,SUBEX
+167,Exports (fob),12  Mar-17*,0.0,SUBEX
+168,Imports (cif),12  Mar-17*,0.0,SUBEX
+169,Fx inflow,12  Mar-17*,2993.0,SUBEX
+170,Fx outflow,12  Mar-17*,1823.0,SUBEX
+171,Net fx,12  Mar-17*,1170.0,SUBEX
+172,From Operations,12  Mar-17*,539.0,SUBEX
+173,From Investments,12  Mar-17*,-70.0,SUBEX
+174,From Financial Activity,12  Mar-17*,-549.0,SUBEX
+175,Net Cashflow,12  Mar-17*,-121.0,SUBEX
+176,Net Sales,12  Mar-18*,3243.0,SUBEX
+177,Other income,12  Mar-18*,14.0,SUBEX
+178,Total revenues,12  Mar-18*,3257.0,SUBEX
+179,Gross profit,12  Mar-18*,343.0,SUBEX
+180,Depreciation,12  Mar-18*,52.0,SUBEX
+181,Interest,12  Mar-18*,78.0,SUBEX
+182,Profit before tax,12  Mar-18*,228.0,SUBEX
+183,Minority Interest,12  Mar-18*,0.0,SUBEX
+184,Prior Period Items,12  Mar-18*,0.0,SUBEX
+185,Extraordinary Inc (Exp),12  Mar-18*,117.0,SUBEX
+186,Tax,12  Mar-18*,137.0,SUBEX
+187,Profit after tax,12  Mar-18*,207.0,SUBEX
+188,Gross profit margin,12  Mar-18*,10.6,SUBEX
+189,Effective tax rate,12  Mar-18*,60.4,SUBEX
+190,Net profit margin,12  Mar-18*,6.4,SUBEX
+191,Current assets,12  Mar-18*,1852.0,SUBEX
+192,Current liabilities,12  Mar-18*,1072.0,SUBEX
+193,Net working cap to sales,12  Mar-18*,24.1,SUBEX
+194,Current ratio,12  Mar-18*,1.7,SUBEX
+195,Inventory Days,12  Mar-18*,0.0,SUBEX
+196,Debtors Days,12  Mar-18*,105.0,SUBEX
+197,Net fixed assets,12  Mar-18*,72.0,SUBEX
+198,Share capital,12  Mar-18*,5620.0,SUBEX
+199,"""Free"" reserves",12  Mar-18*,2175.0,SUBEX
+200,Net worth,12  Mar-18*,7795.0,SUBEX
+201,Long term debt,12  Mar-18*,0.0,SUBEX
+202,Total assets,12  Mar-18*,8977.0,SUBEX
+203,Interest coverage,12  Mar-18*,3.9,SUBEX
+204,Debt to equity ratio,12  Mar-18*,0.0,SUBEX
+205,Sales to assets ratio,12  Mar-18*,0.4,SUBEX
+206,Return on assets,12  Mar-18*,3.2,SUBEX
+207,Return on equity,12  Mar-18*,2.7,SUBEX
+208,Return on capital,12  Mar-18*,5.4,SUBEX
+209,Exports to sales,12  Mar-18*,0.0,SUBEX
+210,Imports to sales,12  Mar-18*,0.0,SUBEX
+211,Exports (fob),12  Mar-18*,0.0,SUBEX
+212,Imports (cif),12  Mar-18*,0.0,SUBEX
+213,Fx inflow,12  Mar-18*,1624.0,SUBEX
+214,Fx outflow,12  Mar-18*,959.0,SUBEX
+215,Net fx,12  Mar-18*,665.0,SUBEX
+216,From Operations,12  Mar-18*,537.0,SUBEX
+217,From Investments,12  Mar-18*,-35.0,SUBEX
+218,From Financial Activity,12  Mar-18*,-908.0,SUBEX
+219,Net Cashflow,12  Mar-18*,-438.0,SUBEX

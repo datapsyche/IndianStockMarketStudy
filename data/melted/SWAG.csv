@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,24586.0,SWAG
+1,Other income,12  Mar-14,140.0,SWAG
+2,Total revenues,12  Mar-14,24727.0,SWAG
+3,Gross profit,12  Mar-14,725.0,SWAG
+4,Depreciation,12  Mar-14,48.0,SWAG
+5,Interest,12  Mar-14,505.0,SWAG
+6,Profit before tax,12  Mar-14,313.0,SWAG
+7,Minority Interest,12  Mar-14,0.0,SWAG
+8,Prior Period Items,12  Mar-14,0.0,SWAG
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,SWAG
+10,Tax,12  Mar-14,72.0,SWAG
+11,Profit after tax,12  Mar-14,241.0,SWAG
+12,Gross profit margin,12  Mar-14,3.0,SWAG
+13,Effective tax rate,12  Mar-14,23.0,SWAG
+14,Net profit margin,12  Mar-14,1.0,SWAG
+15,Current assets,12  Mar-14,11799.0,SWAG
+16,Current liabilities,12  Mar-14,10011.0,SWAG
+17,Net working cap to sales,12  Mar-14,7.3,SWAG
+18,Current ratio,12  Mar-14,1.2,SWAG
+19,Inventory Days,12  Mar-14,81.0,SWAG
+20,Debtors Days,12  Mar-14,68.0,SWAG
+21,Net fixed assets,12  Mar-14,1049.0,SWAG
+22,Share capital,12  Mar-14,348.0,SWAG
+23,"""Free"" reserves",12  Mar-14,2010.0,SWAG
+24,Net worth,12  Mar-14,2796.0,SWAG
+25,Long term debt,12  Mar-14,374.0,SWAG
+26,Total assets,12  Mar-14,13343.0,SWAG
+27,Interest coverage,12  Mar-14,1.6,SWAG
+28,Debt to equity ratio,12  Mar-14,0.1,SWAG
+29,Sales to assets ratio,12  Mar-14,1.8,SWAG
+30,Return on assets,12  Mar-14,5.6,SWAG
+31,Return on equity,12  Mar-14,8.6,SWAG
+32,Return on capital,12  Mar-14,25.8,SWAG
+33,Exports to sales,12  Mar-14,0.0,SWAG
+34,Imports to sales,12  Mar-14,0.0,SWAG
+35,Exports (fob),12  Mar-14,0.0,SWAG
+36,Imports (cif),12  Mar-14,0.0,SWAG
+37,Fx inflow,12  Mar-14,0.0,SWAG
+38,Fx outflow,12  Mar-14,0.0,SWAG
+39,Net fx,12  Mar-14,0.0,SWAG
+40,From Operations,12  Mar-14,557.0,SWAG
+41,From Investments,12  Mar-14,3.0,SWAG
+42,From Financial Activity,12  Mar-14,-368.0,SWAG
+43,Net Cashflow,12  Mar-14,192.0,SWAG
+44,Net Sales,12  Mar-15,26447.0,SWAG
+45,Other income,12  Mar-15,179.0,SWAG
+46,Total revenues,12  Mar-15,26625.0,SWAG
+47,Gross profit,12  Mar-15,742.0,SWAG
+48,Depreciation,12  Mar-15,66.0,SWAG
+49,Interest,12  Mar-15,530.0,SWAG
+50,Profit before tax,12  Mar-15,324.0,SWAG
+51,Minority Interest,12  Mar-15,0.0,SWAG
+52,Prior Period Items,12  Mar-15,0.0,SWAG
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,SWAG
+54,Tax,12  Mar-15,74.0,SWAG
+55,Profit after tax,12  Mar-15,250.0,SWAG
+56,Gross profit margin,12  Mar-15,2.8,SWAG
+57,Effective tax rate,12  Mar-15,22.8,SWAG
+58,Net profit margin,12  Mar-15,0.9,SWAG
+59,Current assets,12  Mar-15,12331.0,SWAG
+60,Current liabilities,12  Mar-15,10552.0,SWAG
+61,Net working cap to sales,12  Mar-15,6.7,SWAG
+62,Current ratio,12  Mar-15,1.2,SWAG
+63,Inventory Days,12  Mar-15,74.0,SWAG
+64,Debtors Days,12  Mar-15,80.0,SWAG
+65,Net fixed assets,12  Mar-15,1353.0,SWAG
+66,Share capital,12  Mar-15,348.0,SWAG
+67,"""Free"" reserves",12  Mar-15,2698.0,SWAG
+68,Net worth,12  Mar-15,3046.0,SWAG
+69,Long term debt,12  Mar-15,463.0,SWAG
+70,Total assets,12  Mar-15,14218.0,SWAG
+71,Interest coverage,12  Mar-15,1.6,SWAG
+72,Debt to equity ratio,12  Mar-15,0.2,SWAG
+73,Sales to assets ratio,12  Mar-15,1.9,SWAG
+74,Return on assets,12  Mar-15,5.5,SWAG
+75,Return on equity,12  Mar-15,8.2,SWAG
+76,Return on capital,12  Mar-15,24.3,SWAG
+77,Exports to sales,12  Mar-15,0.0,SWAG
+78,Imports to sales,12  Mar-15,0.2,SWAG
+79,Exports (fob),12  Mar-15,0.0,SWAG
+80,Imports (cif),12  Mar-15,52.0,SWAG
+81,Fx inflow,12  Mar-15,18.0,SWAG
+82,Fx outflow,12  Mar-15,69.0,SWAG
+83,Net fx,12  Mar-15,-51.0,SWAG
+84,From Operations,12  Mar-15,143.0,SWAG
+85,From Investments,12  Mar-15,-378.0,SWAG
+86,From Financial Activity,12  Mar-15,-218.0,SWAG
+87,Net Cashflow,12  Mar-15,-453.0,SWAG
+88,Net Sales,12  Mar-16,26953.0,SWAG
+89,Other income,12  Mar-16,120.0,SWAG
+90,Total revenues,12  Mar-16,27072.0,SWAG
+91,Gross profit,12  Mar-16,1069.0,SWAG
+92,Depreciation,12  Mar-16,79.0,SWAG
+93,Interest,12  Mar-16,710.0,SWAG
+94,Profit before tax,12  Mar-16,399.0,SWAG
+95,Minority Interest,12  Mar-16,0.0,SWAG
+96,Prior Period Items,12  Mar-16,0.0,SWAG
+97,Extraordinary Inc (Exp),12  Mar-16,-184.0,SWAG
+98,Tax,12  Mar-16,58.0,SWAG
+99,Profit after tax,12  Mar-16,157.0,SWAG
+100,Gross profit margin,12  Mar-16,4.0,SWAG
+101,Effective tax rate,12  Mar-16,14.6,SWAG
+102,Net profit margin,12  Mar-16,0.6,SWAG
+103,Current assets,12  Mar-16,13060.0,SWAG
+104,Current liabilities,12  Mar-16,10801.0,SWAG
+105,Net working cap to sales,12  Mar-16,8.4,SWAG
+106,Current ratio,12  Mar-16,1.2,SWAG
+107,Inventory Days,12  Mar-16,72.0,SWAG
+108,Debtors Days,12  Mar-16,91.0,SWAG
+109,Net fixed assets,12  Mar-16,1142.0,SWAG
+110,Share capital,12  Mar-16,348.0,SWAG
+111,"""Free"" reserves",12  Mar-16,2855.0,SWAG
+112,Net worth,12  Mar-16,3203.0,SWAG
+113,Long term debt,12  Mar-16,93.0,SWAG
+114,Total assets,12  Mar-16,14767.0,SWAG
+115,Interest coverage,12  Mar-16,1.6,SWAG
+116,Debt to equity ratio,12  Mar-16,0.0,SWAG
+117,Sales to assets ratio,12  Mar-16,1.8,SWAG
+118,Return on assets,12  Mar-16,5.9,SWAG
+119,Return on equity,12  Mar-16,4.9,SWAG
+120,Return on capital,12  Mar-16,28.1,SWAG
+121,Exports to sales,12  Mar-16,0.0,SWAG
+122,Imports to sales,12  Mar-16,0.1,SWAG
+123,Exports (fob),12  Mar-16,0.0,SWAG
+124,Imports (cif),12  Mar-16,33.0,SWAG
+125,Fx inflow,12  Mar-16,11.0,SWAG
+126,Fx outflow,12  Mar-16,67.0,SWAG
+127,Net fx,12  Mar-16,-57.0,SWAG
+128,From Operations,12  Mar-16,124.0,SWAG
+129,From Investments,12  Mar-16,30.0,SWAG
+130,From Financial Activity,12  Mar-16,-295.0,SWAG
+131,Net Cashflow,12  Mar-16,-142.0,SWAG
+132,Net Sales,12  Mar-17,35124.0,SWAG
+133,Other income,12  Mar-17,134.0,SWAG
+134,Total revenues,12  Mar-17,35258.0,SWAG
+135,Gross profit,12  Mar-17,1106.0,SWAG
+136,Depreciation,12  Mar-17,73.0,SWAG
+137,Interest,12  Mar-17,669.0,SWAG
+138,Profit before tax,12  Mar-17,498.0,SWAG
+139,Minority Interest,12  Mar-17,0.0,SWAG
+140,Prior Period Items,12  Mar-17,0.0,SWAG
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,SWAG
+142,Tax,12  Mar-17,61.0,SWAG
+143,Profit after tax,12  Mar-17,437.0,SWAG
+144,Gross profit margin,12  Mar-17,3.1,SWAG
+145,Effective tax rate,12  Mar-17,12.3,SWAG
+146,Net profit margin,12  Mar-17,1.2,SWAG
+147,Current assets,12  Mar-17,13516.0,SWAG
+148,Current liabilities,12  Mar-17,10718.0,SWAG
+149,Net working cap to sales,12  Mar-17,8.0,SWAG
+150,Current ratio,12  Mar-17,1.3,SWAG
+151,Inventory Days,12  Mar-17,53.0,SWAG
+152,Debtors Days,12  Mar-17,76.0,SWAG
+153,Net fixed assets,12  Mar-17,1070.0,SWAG
+154,Share capital,12  Mar-17,368.0,SWAG
+155,"""Free"" reserves",12  Mar-17,3775.0,SWAG
+156,Net worth,12  Mar-17,4143.0,SWAG
+157,Long term debt,12  Mar-17,94.0,SWAG
+158,Total assets,12  Mar-17,15119.0,SWAG
+159,Interest coverage,12  Mar-17,1.7,SWAG
+160,Debt to equity ratio,12  Mar-17,0.0,SWAG
+161,Sales to assets ratio,12  Mar-17,2.3,SWAG
+162,Return on assets,12  Mar-17,7.3,SWAG
+163,Return on equity,12  Mar-17,10.5,SWAG
+164,Return on capital,12  Mar-17,27.5,SWAG
+165,Exports to sales,12  Mar-17,0.0,SWAG
+166,Imports to sales,12  Mar-17,0.0,SWAG
+167,Exports (fob),12  Mar-17,0.0,SWAG
+168,Imports (cif),12  Mar-17,0.0,SWAG
+169,Fx inflow,12  Mar-17,12.0,SWAG
+170,Fx outflow,12  Mar-17,26.0,SWAG
+171,Net fx,12  Mar-17,-14.0,SWAG
+172,From Operations,12  Mar-17,782.0,SWAG
+173,From Investments,12  Mar-17,91.0,SWAG
+174,From Financial Activity,12  Mar-17,-774.0,SWAG
+175,Net Cashflow,12  Mar-17,100.0,SWAG
+176,Net Sales,12  Mar-18,50547.0,SWAG
+177,Other income,12  Mar-18,119.0,SWAG
+178,Total revenues,12  Mar-18,50666.0,SWAG
+179,Gross profit,12  Mar-18,1871.0,SWAG
+180,Depreciation,12  Mar-18,80.0,SWAG
+181,Interest,12  Mar-18,744.0,SWAG
+182,Profit before tax,12  Mar-18,1165.0,SWAG
+183,Minority Interest,12  Mar-18,0.0,SWAG
+184,Prior Period Items,12  Mar-18,0.0,SWAG
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,SWAG
+186,Tax,12  Mar-18,318.0,SWAG
+187,Profit after tax,12  Mar-18,847.0,SWAG
+188,Gross profit margin,12  Mar-18,3.7,SWAG
+189,Effective tax rate,12  Mar-18,27.3,SWAG
+190,Net profit margin,12  Mar-18,1.7,SWAG
+191,Current assets,12  Mar-18,15790.0,SWAG
+192,Current liabilities,12  Mar-18,11031.0,SWAG
+193,Net working cap to sales,12  Mar-18,9.4,SWAG
+194,Current ratio,12  Mar-18,1.4,SWAG
+195,Inventory Days,12  Mar-18,38.0,SWAG
+196,Debtors Days,12  Mar-18,66.0,SWAG
+197,Net fixed assets,12  Mar-18,989.0,SWAG
+198,Share capital,12  Mar-18,736.0,SWAG
+199,"""Free"" reserves",12  Mar-18,5205.0,SWAG
+200,Net worth,12  Mar-18,5941.0,SWAG
+201,Long term debt,12  Mar-18,187.0,SWAG
+202,Total assets,12  Mar-18,17317.0,SWAG
+203,Interest coverage,12  Mar-18,2.6,SWAG
+204,Debt to equity ratio,12  Mar-18,0.0,SWAG
+205,Sales to assets ratio,12  Mar-18,2.9,SWAG
+206,Return on assets,12  Mar-18,9.2,SWAG
+207,Return on equity,12  Mar-18,14.3,SWAG
+208,Return on capital,12  Mar-18,31.2,SWAG
+209,Exports to sales,12  Mar-18,0.0,SWAG
+210,Imports to sales,12  Mar-18,0.0,SWAG
+211,Exports (fob),12  Mar-18,0.0,SWAG
+212,Imports (cif),12  Mar-18,0.0,SWAG
+213,Fx inflow,12  Mar-18,3.0,SWAG
+214,Fx outflow,12  Mar-18,16.0,SWAG
+215,Net fx,12  Mar-18,-13.0,SWAG
+216,From Operations,12  Mar-18,-158.0,SWAG
+217,From Investments,12  Mar-18,-141.0,SWAG
+218,From Financial Activity,12  Mar-18,273.0,SWAG
+219,Net Cashflow,12  Mar-18,-25.0,SWAG

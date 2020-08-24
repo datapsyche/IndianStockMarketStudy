@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4726.0,SPAL
+1,Other income,12  Mar-15*,67.0,SPAL
+2,Total revenues,12  Mar-15*,4792.0,SPAL
+3,Gross profit,12  Mar-15*,689.0,SPAL
+4,Depreciation,12  Mar-15*,200.0,SPAL
+5,Interest,12  Mar-15*,312.0,SPAL
+6,Profit before tax,12  Mar-15*,244.0,SPAL
+7,Minority Interest,12  Mar-15*,8.0,SPAL
+8,Prior Period Items,12  Mar-15*,0.0,SPAL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SPAL
+10,Tax,12  Mar-15*,166.0,SPAL
+11,Profit after tax,12  Mar-15*,86.0,SPAL
+12,Gross profit margin,12  Mar-15*,14.6,SPAL
+13,Effective tax rate,12  Mar-15*,68.0,SPAL
+14,Net profit margin,12  Mar-15*,1.8,SPAL
+15,Current assets,12  Mar-15*,2206.0,SPAL
+16,Current liabilities,12  Mar-15*,3156.0,SPAL
+17,Net working cap to sales,12  Mar-15*,-20.1,SPAL
+18,Current ratio,12  Mar-15*,0.7,SPAL
+19,Inventory Days,12  Mar-15*,83.0,SPAL
+20,Debtors Days,12  Mar-15*,57.0,SPAL
+21,Net fixed assets,12  Mar-15*,2695.0,SPAL
+22,Share capital,12  Mar-15*,441.0,SPAL
+23,"""Free"" reserves",12  Mar-15*,752.0,SPAL
+24,Net worth,12  Mar-15*,1192.0,SPAL
+25,Long term debt,12  Mar-15*,728.0,SPAL
+26,Total assets,12  Mar-15*,5350.0,SPAL
+27,Interest coverage,12  Mar-15*,1.8,SPAL
+28,Debt to equity ratio,12  Mar-15*,0.6,SPAL
+29,Sales to assets ratio,12  Mar-15*,0.9,SPAL
+30,Return on assets,12  Mar-15*,7.4,SPAL
+31,Return on equity,12  Mar-15*,7.2,SPAL
+32,Return on capital,12  Mar-15*,29.4,SPAL
+33,Exports to sales,12  Mar-15*,77.9,SPAL
+34,Imports to sales,12  Mar-15*,2.0,SPAL
+35,Exports (fob),12  Mar-15*,3679.0,SPAL
+36,Imports (cif),12  Mar-15*,95.0,SPAL
+37,Fx inflow,12  Mar-15*,3679.0,SPAL
+38,Fx outflow,12  Mar-15*,99.0,SPAL
+39,Net fx,12  Mar-15*,3580.0,SPAL
+40,From Operations,12  Mar-15*,836.0,SPAL
+41,From Investments,12  Mar-15*,-58.0,SPAL
+42,From Financial Activity,12  Mar-15*,-772.0,SPAL
+43,Net Cashflow,12  Mar-15*,5.0,SPAL
+44,Net Sales,12  Mar-16*,5328.0,SPAL
+45,Other income,12  Mar-16*,49.0,SPAL
+46,Total revenues,12  Mar-16*,5378.0,SPAL
+47,Gross profit,12  Mar-16*,684.0,SPAL
+48,Depreciation,12  Mar-16*,201.0,SPAL
+49,Interest,12  Mar-16*,253.0,SPAL
+50,Profit before tax,12  Mar-16*,280.0,SPAL
+51,Minority Interest,12  Mar-16*,2.0,SPAL
+52,Prior Period Items,12  Mar-16*,0.0,SPAL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SPAL
+54,Tax,12  Mar-16*,93.0,SPAL
+55,Profit after tax,12  Mar-16*,188.0,SPAL
+56,Gross profit margin,12  Mar-16*,12.8,SPAL
+57,Effective tax rate,12  Mar-16*,33.4,SPAL
+58,Net profit margin,12  Mar-16*,3.5,SPAL
+59,Current assets,12  Mar-16*,2497.0,SPAL
+60,Current liabilities,12  Mar-16*,3171.0,SPAL
+61,Net working cap to sales,12  Mar-16*,-12.7,SPAL
+62,Current ratio,12  Mar-16*,0.8,SPAL
+63,Inventory Days,12  Mar-16*,87.0,SPAL
+64,Debtors Days,12  Mar-16*,56.0,SPAL
+65,Net fixed assets,12  Mar-16*,2746.0,SPAL
+66,Share capital,12  Mar-16*,172.0,SPAL
+67,"""Free"" reserves",12  Mar-16*,851.0,SPAL
+68,Net worth,12  Mar-16*,1023.0,SPAL
+69,Long term debt,12  Mar-16*,918.0,SPAL
+70,Total assets,12  Mar-16*,5451.0,SPAL
+71,Interest coverage,12  Mar-16*,2.1,SPAL
+72,Debt to equity ratio,12  Mar-16*,0.9,SPAL
+73,Sales to assets ratio,12  Mar-16*,1.0,SPAL
+74,Return on assets,12  Mar-16*,8.1,SPAL
+75,Return on equity,12  Mar-16*,18.4,SPAL
+76,Return on capital,12  Mar-16*,27.5,SPAL
+77,Exports to sales,12  Mar-16*,78.3,SPAL
+78,Imports to sales,12  Mar-16*,4.2,SPAL
+79,Exports (fob),12  Mar-16*,4172.0,SPAL
+80,Imports (cif),12  Mar-16*,221.0,SPAL
+81,Fx inflow,12  Mar-16*,4172.0,SPAL
+82,Fx outflow,12  Mar-16*,223.0,SPAL
+83,Net fx,12  Mar-16*,3949.0,SPAL
+84,From Operations,12  Mar-16*,481.0,SPAL
+85,From Investments,12  Mar-16*,-281.0,SPAL
+86,From Financial Activity,12  Mar-16*,-192.0,SPAL
+87,Net Cashflow,12  Mar-16*,9.0,SPAL
+88,Net Sales,12  Mar-17*,6330.0,SPAL
+89,Other income,12  Mar-17*,213.0,SPAL
+90,Total revenues,12  Mar-17*,6543.0,SPAL
+91,Gross profit,12  Mar-17*,1036.0,SPAL
+92,Depreciation,12  Mar-17*,193.0,SPAL
+93,Interest,12  Mar-17*,185.0,SPAL
+94,Profit before tax,12  Mar-17*,871.0,SPAL
+95,Minority Interest,12  Mar-17*,0.0,SPAL
+96,Prior Period Items,12  Mar-17*,0.0,SPAL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SPAL
+98,Tax,12  Mar-17*,334.0,SPAL
+99,Profit after tax,12  Mar-17*,536.0,SPAL
+100,Gross profit margin,12  Mar-17*,16.4,SPAL
+101,Effective tax rate,12  Mar-17*,38.4,SPAL
+102,Net profit margin,12  Mar-17*,8.5,SPAL
+103,Current assets,12  Mar-17*,3623.0,SPAL
+104,Current liabilities,12  Mar-17*,2452.0,SPAL
+105,Net working cap to sales,12  Mar-17*,18.5,SPAL
+106,Current ratio,12  Mar-17*,1.5,SPAL
+107,Inventory Days,12  Mar-17*,59.0,SPAL
+108,Debtors Days,12  Mar-17*,77.0,SPAL
+109,Net fixed assets,12  Mar-17*,2994.0,SPAL
+110,Share capital,12  Mar-17*,252.0,SPAL
+111,"""Free"" reserves",12  Mar-17*,3323.0,SPAL
+112,Net worth,12  Mar-17*,3575.0,SPAL
+113,Long term debt,12  Mar-17*,398.0,SPAL
+114,Total assets,12  Mar-17*,6768.0,SPAL
+115,Interest coverage,12  Mar-17*,5.7,SPAL
+116,Debt to equity ratio,12  Mar-17*,0.1,SPAL
+117,Sales to assets ratio,12  Mar-17*,0.9,SPAL
+118,Return on assets,12  Mar-17*,10.7,SPAL
+119,Return on equity,12  Mar-17*,15.0,SPAL
+120,Return on capital,12  Mar-17*,26.6,SPAL
+121,Exports to sales,12  Mar-17*,72.7,SPAL
+122,Imports to sales,12  Mar-17*,5.0,SPAL
+123,Exports (fob),12  Mar-17*,4605.0,SPAL
+124,Imports (cif),12  Mar-17*,319.0,SPAL
+125,Fx inflow,12  Mar-17*,4605.0,SPAL
+126,Fx outflow,12  Mar-17*,319.0,SPAL
+127,Net fx,12  Mar-17*,4286.0,SPAL
+128,From Operations,12  Mar-17*,489.0,SPAL
+129,From Investments,12  Mar-17*,-1205.0,SPAL
+130,From Financial Activity,12  Mar-17*,733.0,SPAL
+131,Net Cashflow,12  Mar-17*,17.0,SPAL
+132,Net Sales,12  Mar-18*,6624.0,SPAL
+133,Other income,12  Mar-18*,164.0,SPAL
+134,Total revenues,12  Mar-18*,6788.0,SPAL
+135,Gross profit,12  Mar-18*,1058.0,SPAL
+136,Depreciation,12  Mar-18*,224.0,SPAL
+137,Interest,12  Mar-18*,287.0,SPAL
+138,Profit before tax,12  Mar-18*,711.0,SPAL
+139,Minority Interest,12  Mar-18*,0.0,SPAL
+140,Prior Period Items,12  Mar-18*,0.0,SPAL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SPAL
+142,Tax,12  Mar-18*,233.0,SPAL
+143,Profit after tax,12  Mar-18*,478.0,SPAL
+144,Gross profit margin,12  Mar-18*,16.0,SPAL
+145,Effective tax rate,12  Mar-18*,32.7,SPAL
+146,Net profit margin,12  Mar-18*,7.2,SPAL
+147,Current assets,12  Mar-18*,4832.0,SPAL
+148,Current liabilities,12  Mar-18*,3356.0,SPAL
+149,Net working cap to sales,12  Mar-18*,22.3,SPAL
+150,Current ratio,12  Mar-18*,1.4,SPAL
+151,Inventory Days,12  Mar-18*,103.0,SPAL
+152,Debtors Days,12  Mar-18*,91.0,SPAL
+153,Net fixed assets,12  Mar-18*,3133.0,SPAL
+154,Share capital,12  Mar-18*,252.0,SPAL
+155,"""Free"" reserves",12  Mar-18*,3720.0,SPAL
+156,Net worth,12  Mar-18*,3972.0,SPAL
+157,Long term debt,12  Mar-18*,337.0,SPAL
+158,Total assets,12  Mar-18*,8096.0,SPAL
+159,Interest coverage,12  Mar-18*,3.5,SPAL
+160,Debt to equity ratio,12  Mar-18*,0.1,SPAL
+161,Sales to assets ratio,12  Mar-18*,0.8,SPAL
+162,Return on assets,12  Mar-18*,9.5,SPAL
+163,Return on equity,12  Mar-18*,12.0,SPAL
+164,Return on capital,12  Mar-18*,23.2,SPAL
+165,Exports to sales,12  Mar-18*,71.2,SPAL
+166,Imports to sales,12  Mar-18*,6.5,SPAL
+167,Exports (fob),12  Mar-18*,4715.0,SPAL
+168,Imports (cif),12  Mar-18*,430.0,SPAL
+169,Fx inflow,12  Mar-18*,4715.0,SPAL
+170,Fx outflow,12  Mar-18*,430.0,SPAL
+171,Net fx,12  Mar-18*,4286.0,SPAL
+172,From Operations,12  Mar-18*,-12.0,SPAL
+173,From Investments,12  Mar-18*,-153.0,SPAL
+174,From Financial Activity,12  Mar-18*,193.0,SPAL
+175,Net Cashflow,12  Mar-18*,28.0,SPAL
+176,Net Sales,12  Mar-19*,8264.0,SPAL
+177,Other income,12  Mar-19*,34.0,SPAL
+178,Total revenues,12  Mar-19*,8298.0,SPAL
+179,Gross profit,12  Mar-19*,1338.0,SPAL
+180,Depreciation,12  Mar-19*,216.0,SPAL
+181,Interest,12  Mar-19*,62.0,SPAL
+182,Profit before tax,12  Mar-19*,1095.0,SPAL
+183,Minority Interest,12  Mar-19*,0.0,SPAL
+184,Prior Period Items,12  Mar-19*,0.0,SPAL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SPAL
+186,Tax,12  Mar-19*,361.0,SPAL
+187,Profit after tax,12  Mar-19*,734.0,SPAL
+188,Gross profit margin,12  Mar-19*,16.2,SPAL
+189,Effective tax rate,12  Mar-19*,33.0,SPAL
+190,Net profit margin,12  Mar-19*,8.9,SPAL
+191,Current assets,12  Mar-19*,4857.0,SPAL
+192,Current liabilities,12  Mar-19*,3331.0,SPAL
+193,Net working cap to sales,12  Mar-19*,18.5,SPAL
+194,Current ratio,12  Mar-19*,1.5,SPAL
+195,Inventory Days,12  Mar-19*,110.0,SPAL
+196,Debtors Days,12  Mar-19*,57.0,SPAL
+197,Net fixed assets,12  Mar-19*,3709.0,SPAL
+198,Share capital,12  Mar-19*,257.0,SPAL
+199,"""Free"" reserves",12  Mar-19*,4582.0,SPAL
+200,Net worth,12  Mar-19*,4839.0,SPAL
+201,Long term debt,12  Mar-19*,263.0,SPAL
+202,Total assets,12  Mar-19*,8866.0,SPAL
+203,Interest coverage,12  Mar-19*,18.5,SPAL
+204,Debt to equity ratio,12  Mar-19*,0.1,SPAL
+205,Sales to assets ratio,12  Mar-19*,0.9,SPAL
+206,Return on assets,12  Mar-19*,9.0,SPAL
+207,Return on equity,12  Mar-19*,15.2,SPAL
+208,Return on capital,12  Mar-19*,22.7,SPAL
+209,Exports to sales,12  Mar-19*,74.3,SPAL
+210,Imports to sales,12  Mar-19*,4.5,SPAL
+211,Exports (fob),12  Mar-19*,6139.0,SPAL
+212,Imports (cif),12  Mar-19*,376.0,SPAL
+213,Fx inflow,12  Mar-19*,6139.0,SPAL
+214,Fx outflow,12  Mar-19*,376.0,SPAL
+215,Net fx,12  Mar-19*,5764.0,SPAL
+216,From Operations,12  Mar-19*,823.0,SPAL
+217,From Investments,12  Mar-19*,-604.0,SPAL
+218,From Financial Activity,12  Mar-19*,-169.0,SPAL
+219,Net Cashflow,12  Mar-19*,51.0,SPAL

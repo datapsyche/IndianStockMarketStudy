@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8374.0,NITCO
+1,Other income,12  Mar-15*,20.0,NITCO
+2,Total revenues,12  Mar-15*,8394.0,NITCO
+3,Gross profit,12  Mar-15*,22.0,NITCO
+4,Depreciation,12  Mar-15*,698.0,NITCO
+5,Interest,12  Mar-15*,503.0,NITCO
+6,Profit before tax,12  Mar-15*,-1159.0,NITCO
+7,Minority Interest,12  Mar-15*,-11.0,NITCO
+8,Prior Period Items,12  Mar-15*,0.0,NITCO
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NITCO
+10,Tax,12  Mar-15*,23.0,NITCO
+11,Profit after tax,12  Mar-15*,-1193.0,NITCO
+12,Gross profit margin,12  Mar-15*,0.3,NITCO
+13,Effective tax rate,12  Mar-15*,-2.0,NITCO
+14,Net profit margin,12  Mar-15*,-14.3,NITCO
+15,Current assets,12  Mar-15*,7746.0,NITCO
+16,Current liabilities,12  Mar-15*,7357.0,NITCO
+17,Net working cap to sales,12  Mar-15*,4.6,NITCO
+18,Current ratio,12  Mar-15*,1.1,NITCO
+19,Inventory Days,12  Mar-15*,217.0,NITCO
+20,Debtors Days,12  Mar-15*,54.0,NITCO
+21,Net fixed assets,12  Mar-15*,7188.0,NITCO
+22,Share capital,12  Mar-15*,547.0,NITCO
+23,"""Free"" reserves",12  Mar-15*,-955.0,NITCO
+24,Net worth,12  Mar-15*,-376.0,NITCO
+25,Long term debt,12  Mar-15*,7921.0,NITCO
+26,Total assets,12  Mar-15*,15391.0,NITCO
+27,Interest coverage,12  Mar-15*,-1.3,NITCO
+28,Debt to equity ratio,12  Mar-15*,-21.1,NITCO
+29,Sales to assets ratio,12  Mar-15*,0.5,NITCO
+30,Return on assets,12  Mar-15*,-4.5,NITCO
+31,Return on equity,12  Mar-15*,317.7,NITCO
+32,Return on capital,12  Mar-15*,-8.8,NITCO
+33,Exports to sales,12  Mar-15*,1.5,NITCO
+34,Imports to sales,12  Mar-15*,8.9,NITCO
+35,Exports (fob),12  Mar-15*,122.0,NITCO
+36,Imports (cif),12  Mar-15*,749.0,NITCO
+37,Fx inflow,12  Mar-15*,122.0,NITCO
+38,Fx outflow,12  Mar-15*,763.0,NITCO
+39,Net fx,12  Mar-15*,-640.0,NITCO
+40,From Operations,12  Mar-15*,112.0,NITCO
+41,From Investments,12  Mar-15*,-2.0,NITCO
+42,From Financial Activity,12  Mar-15*,-145.0,NITCO
+43,Net Cashflow,12  Mar-15*,-35.0,NITCO
+44,Net Sales,12  Mar-16*,7887.0,NITCO
+45,Other income,12  Mar-16*,15.0,NITCO
+46,Total revenues,12  Mar-16*,7902.0,NITCO
+47,Gross profit,12  Mar-16*,160.0,NITCO
+48,Depreciation,12  Mar-16*,625.0,NITCO
+49,Interest,12  Mar-16*,121.0,NITCO
+50,Profit before tax,12  Mar-16*,-571.0,NITCO
+51,Minority Interest,12  Mar-16*,-19.0,NITCO
+52,Prior Period Items,12  Mar-16*,0.0,NITCO
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NITCO
+54,Tax,12  Mar-16*,12.0,NITCO
+55,Profit after tax,12  Mar-16*,-602.0,NITCO
+56,Gross profit margin,12  Mar-16*,2.0,NITCO
+57,Effective tax rate,12  Mar-16*,-2.1,NITCO
+58,Net profit margin,12  Mar-16*,-7.6,NITCO
+59,Current assets,12  Mar-16*,8201.0,NITCO
+60,Current liabilities,12  Mar-16*,9285.0,NITCO
+61,Net working cap to sales,12  Mar-16*,-13.7,NITCO
+62,Current ratio,12  Mar-16*,0.9,NITCO
+63,Inventory Days,12  Mar-16*,231.0,NITCO
+64,Debtors Days,12  Mar-16*,73.0,NITCO
+65,Net fixed assets,12  Mar-16*,6672.0,NITCO
+66,Share capital,12  Mar-16*,547.0,NITCO
+67,"""Free"" reserves",12  Mar-16*,-1505.0,NITCO
+68,Net worth,12  Mar-16*,-958.0,NITCO
+69,Long term debt,12  Mar-16*,6620.0,NITCO
+70,Total assets,12  Mar-16*,15416.0,NITCO
+71,Interest coverage,12  Mar-16*,-3.7,NITCO
+72,Debt to equity ratio,12  Mar-16*,-6.9,NITCO
+73,Sales to assets ratio,12  Mar-16*,0.5,NITCO
+74,Return on assets,12  Mar-16*,-3.1,NITCO
+75,Return on equity,12  Mar-16*,62.8,NITCO
+76,Return on capital,12  Mar-16*,-8.3,NITCO
+77,Exports to sales,12  Mar-16*,2.0,NITCO
+78,Imports to sales,12  Mar-16*,9.6,NITCO
+79,Exports (fob),12  Mar-16*,159.0,NITCO
+80,Imports (cif),12  Mar-16*,760.0,NITCO
+81,Fx inflow,12  Mar-16*,159.0,NITCO
+82,Fx outflow,12  Mar-16*,776.0,NITCO
+83,Net fx,12  Mar-16*,-617.0,NITCO
+84,From Operations,12  Mar-16*,86.0,NITCO
+85,From Investments,12  Mar-16*,-110.0,NITCO
+86,From Financial Activity,12  Mar-16*,37.0,NITCO
+87,Net Cashflow,12  Mar-16*,-1.0,NITCO
+88,Net Sales,12  Mar-17*,7158.0,NITCO
+89,Other income,12  Mar-17*,19.0,NITCO
+90,Total revenues,12  Mar-17*,7176.0,NITCO
+91,Gross profit,12  Mar-17*,237.0,NITCO
+92,Depreciation,12  Mar-17*,497.0,NITCO
+93,Interest,12  Mar-17*,83.0,NITCO
+94,Profit before tax,12  Mar-17*,-324.0,NITCO
+95,Minority Interest,12  Mar-17*,0.0,NITCO
+96,Prior Period Items,12  Mar-17*,0.0,NITCO
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NITCO
+98,Tax,12  Mar-17*,12.0,NITCO
+99,Profit after tax,12  Mar-17*,-336.0,NITCO
+100,Gross profit margin,12  Mar-17*,3.3,NITCO
+101,Effective tax rate,12  Mar-17*,-3.7,NITCO
+102,Net profit margin,12  Mar-17*,-4.7,NITCO
+103,Current assets,12  Mar-17*,8036.0,NITCO
+104,Current liabilities,12  Mar-17*,10972.0,NITCO
+105,Net working cap to sales,12  Mar-17*,-41.0,NITCO
+106,Current ratio,12  Mar-17*,0.7,NITCO
+107,Inventory Days,12  Mar-17*,255.0,NITCO
+108,Debtors Days,12  Mar-17*,77.0,NITCO
+109,Net fixed assets,12  Mar-17*,6270.0,NITCO
+110,Share capital,12  Mar-17*,547.0,NITCO
+111,"""Free"" reserves",12  Mar-17*,-1840.0,NITCO
+112,Net worth,12  Mar-17*,-1293.0,NITCO
+113,Long term debt,12  Mar-17*,4704.0,NITCO
+114,Total assets,12  Mar-17*,14855.0,NITCO
+115,Interest coverage,12  Mar-17*,-2.9,NITCO
+116,Debt to equity ratio,12  Mar-17*,-3.6,NITCO
+117,Sales to assets ratio,12  Mar-17*,0.5,NITCO
+118,Return on assets,12  Mar-17*,-1.7,NITCO
+119,Return on equity,12  Mar-17*,25.9,NITCO
+120,Return on capital,12  Mar-17*,-7.1,NITCO
+121,Exports to sales,12  Mar-17*,2.5,NITCO
+122,Imports to sales,12  Mar-17*,7.3,NITCO
+123,Exports (fob),12  Mar-17*,178.0,NITCO
+124,Imports (cif),12  Mar-17*,520.0,NITCO
+125,Fx inflow,12  Mar-17*,178.0,NITCO
+126,Fx outflow,12  Mar-17*,520.0,NITCO
+127,Net fx,12  Mar-17*,-342.0,NITCO
+128,From Operations,12  Mar-17*,310.0,NITCO
+129,From Investments,12  Mar-17*,-96.0,NITCO
+130,From Financial Activity,12  Mar-17*,-251.0,NITCO
+131,Net Cashflow,12  Mar-17*,-38.0,NITCO
+132,Net Sales,12  Mar-18*,6096.0,NITCO
+133,Other income,12  Mar-18*,48.0,NITCO
+134,Total revenues,12  Mar-18*,6144.0,NITCO
+135,Gross profit,12  Mar-18*,36.0,NITCO
+136,Depreciation,12  Mar-18*,805.0,NITCO
+137,Interest,12  Mar-18*,139.0,NITCO
+138,Profit before tax,12  Mar-18*,-860.0,NITCO
+139,Minority Interest,12  Mar-18*,0.0,NITCO
+140,Prior Period Items,12  Mar-18*,0.0,NITCO
+141,Extraordinary Inc (Exp),12  Mar-18*,2479.0,NITCO
+142,Tax,12  Mar-18*,-229.0,NITCO
+143,Profit after tax,12  Mar-18*,1848.0,NITCO
+144,Gross profit margin,12  Mar-18*,0.6,NITCO
+145,Effective tax rate,12  Mar-18*,26.6,NITCO
+146,Net profit margin,12  Mar-18*,30.3,NITCO
+147,Current assets,12  Mar-18*,7433.0,NITCO
+148,Current liabilities,12  Mar-18*,3423.0,NITCO
+149,Net working cap to sales,12  Mar-18*,65.8,NITCO
+150,Current ratio,12  Mar-18*,2.2,NITCO
+151,Inventory Days,12  Mar-18*,215.0,NITCO
+152,Debtors Days,12  Mar-18*,121.0,NITCO
+153,Net fixed assets,12  Mar-18*,5524.0,NITCO
+154,Share capital,12  Mar-18*,719.0,NITCO
+155,"""Free"" reserves",12  Mar-18*,759.0,NITCO
+156,Net worth,12  Mar-18*,1477.0,NITCO
+157,Long term debt,12  Mar-18*,8199.0,NITCO
+158,Total assets,12  Mar-18*,13477.0,NITCO
+159,Interest coverage,12  Mar-18*,-5.2,NITCO
+160,Debt to equity ratio,12  Mar-18*,5.5,NITCO
+161,Sales to assets ratio,12  Mar-18*,0.5,NITCO
+162,Return on assets,12  Mar-18*,14.7,NITCO
+163,Return on equity,12  Mar-18*,125.1,NITCO
+164,Return on capital,12  Mar-18*,18.2,NITCO
+165,Exports to sales,12  Mar-18*,0.0,NITCO
+166,Imports to sales,12  Mar-18*,0.0,NITCO
+167,Exports (fob),12  Mar-18*,0.0,NITCO
+168,Imports (cif),12  Mar-18*,0.0,NITCO
+169,Fx inflow,12  Mar-18*,0.0,NITCO
+170,Fx outflow,12  Mar-18*,0.0,NITCO
+171,Net fx,12  Mar-18*,0.0,NITCO
+172,From Operations,12  Mar-18*,3698.0,NITCO
+173,From Investments,12  Mar-18*,-60.0,NITCO
+174,From Financial Activity,12  Mar-18*,-3669.0,NITCO
+175,Net Cashflow,12  Mar-18*,-27.0,NITCO
+176,Net Sales,12  Mar-19*,5965.0,NITCO
+177,Other income,12  Mar-19*,20.0,NITCO
+178,Total revenues,12  Mar-19*,5985.0,NITCO
+179,Gross profit,12  Mar-19*,-11.0,NITCO
+180,Depreciation,12  Mar-19*,392.0,NITCO
+181,Interest,12  Mar-19*,231.0,NITCO
+182,Profit before tax,12  Mar-19*,-614.0,NITCO
+183,Minority Interest,12  Mar-19*,0.0,NITCO
+184,Prior Period Items,12  Mar-19*,0.0,NITCO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NITCO
+186,Tax,12  Mar-19*,-13.0,NITCO
+187,Profit after tax,12  Mar-19*,-601.0,NITCO
+188,Gross profit margin,12  Mar-19*,-0.2,NITCO
+189,Effective tax rate,12  Mar-19*,2.1,NITCO
+190,Net profit margin,12  Mar-19*,-10.1,NITCO
+191,Current assets,12  Mar-19*,7271.0,NITCO
+192,Current liabilities,12  Mar-19*,4344.0,NITCO
+193,Net working cap to sales,12  Mar-19*,49.1,NITCO
+194,Current ratio,12  Mar-19*,1.7,NITCO
+195,Inventory Days,12  Mar-19*,210.0,NITCO
+196,Debtors Days,12  Mar-19*,128.0,NITCO
+197,Net fixed assets,12  Mar-19*,5232.0,NITCO
+198,Share capital,12  Mar-19*,719.0,NITCO
+199,"""Free"" reserves",12  Mar-19*,224.0,NITCO
+200,Net worth,12  Mar-19*,942.0,NITCO
+201,Long term debt,12  Mar-19*,7490.0,NITCO
+202,Total assets,12  Mar-19*,13076.0,NITCO
+203,Interest coverage,12  Mar-19*,-1.7,NITCO
+204,Debt to equity ratio,12  Mar-19*,7.9,NITCO
+205,Sales to assets ratio,12  Mar-19*,0.5,NITCO
+206,Return on assets,12  Mar-19*,-2.8,NITCO
+207,Return on equity,12  Mar-19*,-63.7,NITCO
+208,Return on capital,12  Mar-19*,-4.5,NITCO
+209,Exports to sales,12  Mar-19*,0.0,NITCO
+210,Imports to sales,12  Mar-19*,0.0,NITCO
+211,Exports (fob),12  Mar-19*,0.0,NITCO
+212,Imports (cif),12  Mar-19*,0.0,NITCO
+213,Fx inflow,12  Mar-19*,358.0,NITCO
+214,Fx outflow,12  Mar-19*,330.0,NITCO
+215,Net fx,12  Mar-19*,28.0,NITCO
+216,From Operations,12  Mar-19*,310.0,NITCO
+217,From Investments,12  Mar-19*,-101.0,NITCO
+218,From Financial Activity,12  Mar-19*,-223.0,NITCO
+219,Net Cashflow,12  Mar-19*,-21.0,NITCO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,9059.0,WIRE
+1,Other income,12  Mar-15*,311.0,WIRE
+2,Total revenues,12  Mar-15*,9370.0,WIRE
+3,Gross profit,12  Mar-15*,1446.0,WIRE
+4,Depreciation,12  Mar-15*,1328.0,WIRE
+5,Interest,12  Mar-15*,1209.0,WIRE
+6,Profit before tax,12  Mar-15*,-780.0,WIRE
+7,Minority Interest,12  Mar-15*,-72.0,WIRE
+8,Prior Period Items,12  Mar-15*,0.0,WIRE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,WIRE
+10,Tax,12  Mar-15*,167.0,WIRE
+11,Profit after tax,12  Mar-15*,-1019.0,WIRE
+12,Gross profit margin,12  Mar-15*,16.0,WIRE
+13,Effective tax rate,12  Mar-15*,-21.4,WIRE
+14,Net profit margin,12  Mar-15*,-11.2,WIRE
+15,Current assets,12  Mar-15*,9526.0,WIRE
+16,Current liabilities,12  Mar-15*,9746.0,WIRE
+17,Net working cap to sales,12  Mar-15*,-2.4,WIRE
+18,Current ratio,12  Mar-15*,1.0,WIRE
+19,Inventory Days,12  Mar-15*,5.0,WIRE
+20,Debtors Days,12  Mar-15*,93.0,WIRE
+21,Net fixed assets,12  Mar-15*,10850.0,WIRE
+22,Share capital,12  Mar-15*,678.0,WIRE
+23,"""Free"" reserves",12  Mar-15*,1151.0,WIRE
+24,Net worth,12  Mar-15*,1829.0,WIRE
+25,Long term debt,12  Mar-15*,9375.0,WIRE
+26,Total assets,12  Mar-15*,21694.0,WIRE
+27,Interest coverage,12  Mar-15*,0.4,WIRE
+28,Debt to equity ratio,12  Mar-15*,5.1,WIRE
+29,Sales to assets ratio,12  Mar-15*,0.4,WIRE
+30,Return on assets,12  Mar-15*,0.9,WIRE
+31,Return on equity,12  Mar-15*,-55.7,WIRE
+32,Return on capital,12  Mar-15*,3.2,WIRE
+33,Exports to sales,12  Mar-15*,0.0,WIRE
+34,Imports to sales,12  Mar-15*,17.6,WIRE
+35,Exports (fob),12  Mar-15*,0.0,WIRE
+36,Imports (cif),12  Mar-15*,1597.0,WIRE
+37,Fx inflow,12  Mar-15*,18.0,WIRE
+38,Fx outflow,12  Mar-15*,1722.0,WIRE
+39,Net fx,12  Mar-15*,-1704.0,WIRE
+40,From Operations,12  Mar-15*,1217.0,WIRE
+41,From Investments,12  Mar-15*,-2927.0,WIRE
+42,From Financial Activity,12  Mar-15*,2492.0,WIRE
+43,Net Cashflow,12  Mar-15*,781.0,WIRE
+44,Net Sales,12  Mar-16*,11460.0,WIRE
+45,Other income,12  Mar-16*,231.0,WIRE
+46,Total revenues,12  Mar-16*,11692.0,WIRE
+47,Gross profit,12  Mar-16*,2459.0,WIRE
+48,Depreciation,12  Mar-16*,1655.0,WIRE
+49,Interest,12  Mar-16*,1399.0,WIRE
+50,Profit before tax,12  Mar-16*,-363.0,WIRE
+51,Minority Interest,12  Mar-16*,0.0,WIRE
+52,Prior Period Items,12  Mar-16*,-2.0,WIRE
+53,Extraordinary Inc (Exp),12  Mar-16*,2.0,WIRE
+54,Tax,12  Mar-16*,49.0,WIRE
+55,Profit after tax,12  Mar-16*,-413.0,WIRE
+56,Gross profit margin,12  Mar-16*,21.5,WIRE
+57,Effective tax rate,12  Mar-16*,-13.5,WIRE
+58,Net profit margin,12  Mar-16*,-3.6,WIRE
+59,Current assets,12  Mar-16*,9176.0,WIRE
+60,Current liabilities,12  Mar-16*,11880.0,WIRE
+61,Net working cap to sales,12  Mar-16*,-23.6,WIRE
+62,Current ratio,12  Mar-16*,0.8,WIRE
+63,Inventory Days,12  Mar-16*,4.0,WIRE
+64,Debtors Days,12  Mar-16*,83.0,WIRE
+65,Net fixed assets,12  Mar-16*,18458.0,WIRE
+66,Share capital,12  Mar-16*,795.0,WIRE
+67,"""Free"" reserves",12  Mar-16*,4918.0,WIRE
+68,Net worth,12  Mar-16*,5713.0,WIRE
+69,Long term debt,12  Mar-16*,7977.0,WIRE
+70,Total assets,12  Mar-16*,29327.0,WIRE
+71,Interest coverage,12  Mar-16*,0.7,WIRE
+72,Debt to equity ratio,12  Mar-16*,1.4,WIRE
+73,Sales to assets ratio,12  Mar-16*,0.4,WIRE
+74,Return on assets,12  Mar-16*,3.4,WIRE
+75,Return on equity,12  Mar-16*,-7.2,WIRE
+76,Return on capital,12  Mar-16*,7.6,WIRE
+77,Exports to sales,12  Mar-16*,0.0,WIRE
+78,Imports to sales,12  Mar-16*,48.3,WIRE
+79,Exports (fob),12  Mar-16*,0.0,WIRE
+80,Imports (cif),12  Mar-16*,5530.0,WIRE
+81,Fx inflow,12  Mar-16*,19.0,WIRE
+82,Fx outflow,12  Mar-16*,5567.0,WIRE
+83,Net fx,12  Mar-16*,-5548.0,WIRE
+84,From Operations,12  Mar-16*,3903.0,WIRE
+85,From Investments,12  Mar-16*,-6358.0,WIRE
+86,From Financial Activity,12  Mar-16*,1835.0,WIRE
+87,Net Cashflow,12  Mar-16*,-620.0,WIRE
+88,Net Sales,12  Mar-17*,11949.0,WIRE
+89,Other income,12  Mar-17*,259.0,WIRE
+90,Total revenues,12  Mar-17*,12208.0,WIRE
+91,Gross profit,12  Mar-17*,2028.0,WIRE
+92,Depreciation,12  Mar-17*,2412.0,WIRE
+93,Interest,12  Mar-17*,1275.0,WIRE
+94,Profit before tax,12  Mar-17*,-1399.0,WIRE
+95,Minority Interest,12  Mar-17*,0.0,WIRE
+96,Prior Period Items,12  Mar-17*,2.0,WIRE
+97,Extraordinary Inc (Exp),12  Mar-17*,-202.0,WIRE
+98,Tax,12  Mar-17*,193.0,WIRE
+99,Profit after tax,12  Mar-17*,-1792.0,WIRE
+100,Gross profit margin,12  Mar-17*,17.0,WIRE
+101,Effective tax rate,12  Mar-17*,-13.8,WIRE
+102,Net profit margin,12  Mar-17*,-15.0,WIRE
+103,Current assets,12  Mar-17*,8546.0,WIRE
+104,Current liabilities,12  Mar-17*,11327.0,WIRE
+105,Net working cap to sales,12  Mar-17*,-23.3,WIRE
+106,Current ratio,12  Mar-17*,0.8,WIRE
+107,Inventory Days,12  Mar-17*,3.0,WIRE
+108,Debtors Days,12  Mar-17*,111.0,WIRE
+109,Net fixed assets,12  Mar-17*,21406.0,WIRE
+110,Share capital,12  Mar-17*,873.0,WIRE
+111,"""Free"" reserves",12  Mar-17*,4501.0,WIRE
+112,Net worth,12  Mar-17*,5373.0,WIRE
+113,Long term debt,12  Mar-17*,10382.0,WIRE
+114,Total assets,12  Mar-17*,31397.0,WIRE
+115,Interest coverage,12  Mar-17*,-0.1,WIRE
+116,Debt to equity ratio,12  Mar-17*,1.9,WIRE
+117,Sales to assets ratio,12  Mar-17*,0.4,WIRE
+118,Return on assets,12  Mar-17*,-1.6,WIRE
+119,Return on equity,12  Mar-17*,-33.4,WIRE
+120,Return on capital,12  Mar-17*,-2.1,WIRE
+121,Exports to sales,12  Mar-17*,0.0,WIRE
+122,Imports to sales,12  Mar-17*,0.0,WIRE
+123,Exports (fob),12  Mar-17*,0.0,WIRE
+124,Imports (cif),12  Mar-17*,0.0,WIRE
+125,Fx inflow,12  Mar-17*,27.0,WIRE
+126,Fx outflow,12  Mar-17*,2974.0,WIRE
+127,Net fx,12  Mar-17*,-2947.0,WIRE
+128,From Operations,12  Mar-17*,1369.0,WIRE
+129,From Investments,12  Mar-17*,-6244.0,WIRE
+130,From Financial Activity,12  Mar-17*,2904.0,WIRE
+131,Net Cashflow,12  Mar-17*,-1972.0,WIRE
+132,Net Sales,12  Mar-18*,14104.0,WIRE
+133,Other income,12  Mar-18*,160.0,WIRE
+134,Total revenues,12  Mar-18*,14264.0,WIRE
+135,Gross profit,12  Mar-18*,3086.0,WIRE
+136,Depreciation,12  Mar-18*,3262.0,WIRE
+137,Interest,12  Mar-18*,1396.0,WIRE
+138,Profit before tax,12  Mar-18*,-1412.0,WIRE
+139,Minority Interest,12  Mar-18*,0.0,WIRE
+140,Prior Period Items,12  Mar-18*,-6.0,WIRE
+141,Extraordinary Inc (Exp),12  Mar-18*,-163.0,WIRE
+142,Tax,12  Mar-18*,118.0,WIRE
+143,Profit after tax,12  Mar-18*,-1699.0,WIRE
+144,Gross profit margin,12  Mar-18*,21.9,WIRE
+145,Effective tax rate,12  Mar-18*,-8.3,WIRE
+146,Net profit margin,12  Mar-18*,-12.0,WIRE
+147,Current assets,12  Mar-18*,8066.0,WIRE
+148,Current liabilities,12  Mar-18*,16959.0,WIRE
+149,Net working cap to sales,12  Mar-18*,-63.1,WIRE
+150,Current ratio,12  Mar-18*,0.5,WIRE
+151,Inventory Days,12  Mar-18*,4.0,WIRE
+152,Debtors Days,12  Mar-18*,95.0,WIRE
+153,Net fixed assets,12  Mar-18*,21837.0,WIRE
+154,Share capital,12  Mar-18*,873.0,WIRE
+155,"""Free"" reserves",12  Mar-18*,2557.0,WIRE
+156,Net worth,12  Mar-18*,3430.0,WIRE
+157,Long term debt,12  Mar-18*,5972.0,WIRE
+158,Total assets,12  Mar-18*,30903.0,WIRE
+159,Interest coverage,12  Mar-18*,0.0,WIRE
+160,Debt to equity ratio,12  Mar-18*,1.7,WIRE
+161,Sales to assets ratio,12  Mar-18*,0.5,WIRE
+162,Return on assets,12  Mar-18*,-1.0,WIRE
+163,Return on equity,12  Mar-18*,-49.5,WIRE
+164,Return on capital,12  Mar-18*,-2.0,WIRE
+165,Exports to sales,12  Mar-18*,0.0,WIRE
+166,Imports to sales,12  Mar-18*,0.0,WIRE
+167,Exports (fob),12  Mar-18*,0.0,WIRE
+168,Imports (cif),12  Mar-18*,0.0,WIRE
+169,Fx inflow,12  Mar-18*,28.0,WIRE
+170,Fx outflow,12  Mar-18*,2474.0,WIRE
+171,Net fx,12  Mar-18*,-2445.0,WIRE
+172,From Operations,12  Mar-18*,3414.0,WIRE
+173,From Investments,12  Mar-18*,-3867.0,WIRE
+174,From Financial Activity,12  Mar-18*,-318.0,WIRE
+175,Net Cashflow,12  Mar-18*,-771.0,WIRE
+176,Net Sales,12  Mar-19*,14421.0,WIRE
+177,Other income,12  Mar-19*,322.0,WIRE
+178,Total revenues,12  Mar-19*,14744.0,WIRE
+179,Gross profit,12  Mar-19*,3236.0,WIRE
+180,Depreciation,12  Mar-19*,3650.0,WIRE
+181,Interest,12  Mar-19*,1707.0,WIRE
+182,Profit before tax,12  Mar-19*,-1798.0,WIRE
+183,Minority Interest,12  Mar-19*,0.0,WIRE
+184,Prior Period Items,12  Mar-19*,-1.0,WIRE
+185,Extraordinary Inc (Exp),12  Mar-19*,-743.0,WIRE
+186,Tax,12  Mar-19*,100.0,WIRE
+187,Profit after tax,12  Mar-19*,-2643.0,WIRE
+188,Gross profit margin,12  Mar-19*,22.4,WIRE
+189,Effective tax rate,12  Mar-19*,-5.6,WIRE
+190,Net profit margin,12  Mar-19*,-18.3,WIRE
+191,Current assets,12  Mar-19*,8873.0,WIRE
+192,Current liabilities,12  Mar-19*,16344.0,WIRE
+193,Net working cap to sales,12  Mar-19*,-51.8,WIRE
+194,Current ratio,12  Mar-19*,0.5,WIRE
+195,Inventory Days,12  Mar-19*,0.0,WIRE
+196,Debtors Days,12  Mar-19*,99.0,WIRE
+197,Net fixed assets,12  Mar-19*,18616.0,WIRE
+198,Share capital,12  Mar-19*,873.0,WIRE
+199,"""Free"" reserves",12  Mar-19*,1108.0,WIRE
+200,Net worth,12  Mar-19*,1980.0,WIRE
+201,Long term debt,12  Mar-19*,7424.0,WIRE
+202,Total assets,12  Mar-19*,28144.0,WIRE
+203,Interest coverage,12  Mar-19*,-0.1,WIRE
+204,Debt to equity ratio,12  Mar-19*,3.7,WIRE
+205,Sales to assets ratio,12  Mar-19*,0.5,WIRE
+206,Return on assets,12  Mar-19*,-3.3,WIRE
+207,Return on equity,12  Mar-19*,-133.5,WIRE
+208,Return on capital,12  Mar-19*,-8.9,WIRE
+209,Exports to sales,12  Mar-19*,0.0,WIRE
+210,Imports to sales,12  Mar-19*,0.0,WIRE
+211,Exports (fob),12  Mar-19*,0.0,WIRE
+212,Imports (cif),12  Mar-19*,0.0,WIRE
+213,Fx inflow,12  Mar-19*,30.0,WIRE
+214,Fx outflow,12  Mar-19*,941.0,WIRE
+215,Net fx,12  Mar-19*,-912.0,WIRE
+216,From Operations,12  Mar-19*,4371.0,WIRE
+217,From Investments,12  Mar-19*,-1853.0,WIRE
+218,From Financial Activity,12  Mar-19*,-2738.0,WIRE
+219,Net Cashflow,12  Mar-19*,-220.0,WIRE

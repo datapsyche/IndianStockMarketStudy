@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,461030.0,SAIL
+1,Other income,12  Mar-15*,9808.0,SAIL
+2,Total revenues,12  Mar-15*,470838.0,SAIL
+3,Gross profit,12  Mar-15*,50074.0,SAIL
+4,Depreciation,12  Mar-15*,19071.0,SAIL
+5,Interest,12  Mar-15*,15552.0,SAIL
+6,Profit before tax,12  Mar-15*,25259.0,SAIL
+7,Minority Interest,12  Mar-15*,-963.0,SAIL
+8,Prior Period Items,12  Mar-15*,-885.0,SAIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SAIL
+10,Tax,12  Mar-15*,3058.0,SAIL
+11,Profit after tax,12  Mar-15*,20353.0,SAIL
+12,Gross profit margin,12  Mar-15*,10.9,SAIL
+13,Effective tax rate,12  Mar-15*,12.1,SAIL
+14,Net profit margin,12  Mar-15*,4.4,SAIL
+15,Current assets,12  Mar-15*,298811.0,SAIL
+16,Current liabilities,12  Mar-15*,349920.0,SAIL
+17,Net working cap to sales,12  Mar-15*,-11.1,SAIL
+18,Current ratio,12  Mar-15*,0.9,SAIL
+19,Inventory Days,12  Mar-15*,137.0,SAIL
+20,Debtors Days,12  Mar-15*,28.0,SAIL
+21,Net fixed assets,12  Mar-15*,654592.0,SAIL
+22,Share capital,12  Mar-15*,41305.0,SAIL
+23,"""Free"" reserves",12  Mar-15*,404494.0,SAIL
+24,Net worth,12  Mar-15*,445800.0,SAIL
+25,Long term debt,12  Mar-15*,156202.0,SAIL
+26,Total assets,12  Mar-15*,1014483.0,SAIL
+27,Interest coverage,12  Mar-15*,2.6,SAIL
+28,Debt to equity ratio,12  Mar-15*,0.4,SAIL
+29,Sales to assets ratio,12  Mar-15*,0.5,SAIL
+30,Return on assets,12  Mar-15*,3.5,SAIL
+31,Return on equity,12  Mar-15*,4.6,SAIL
+32,Return on capital,12  Mar-15*,6.5,SAIL
+33,Exports to sales,12  Mar-15*,3.4,SAIL
+34,Imports to sales,12  Mar-15*,28.3,SAIL
+35,Exports (fob),12  Mar-15*,15677.0,SAIL
+36,Imports (cif),12  Mar-15*,130625.0,SAIL
+37,Fx inflow,12  Mar-15*,15677.0,SAIL
+38,Fx outflow,12  Mar-15*,136325.0,SAIL
+39,Net fx,12  Mar-15*,-120647.0,SAIL
+40,From Operations,12  Mar-15*,25791.0,SAIL
+41,From Investments,12  Mar-15*,-62917.0,SAIL
+42,From Financial Activity,12  Mar-15*,37752.0,SAIL
+43,Net Cashflow,12  Mar-15*,626.0,SAIL
+44,Net Sales,12  Mar-16*,390984.0,SAIL
+45,Other income,12  Mar-16*,5290.0,SAIL
+46,Total revenues,12  Mar-16*,396275.0,SAIL
+47,Gross profit,12  Mar-16*,-29025.0,SAIL
+48,Depreciation,12  Mar-16*,24044.0,SAIL
+49,Interest,12  Mar-16*,23005.0,SAIL
+50,Profit before tax,12  Mar-16*,-70784.0,SAIL
+51,Minority Interest,12  Mar-16*,-359.0,SAIL
+52,Prior Period Items,12  Mar-16*,0.0,SAIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SAIL
+54,Tax,12  Mar-16*,-29377.0,SAIL
+55,Profit after tax,12  Mar-16*,-41765.0,SAIL
+56,Gross profit margin,12  Mar-16*,-7.4,SAIL
+57,Effective tax rate,12  Mar-16*,41.5,SAIL
+58,Net profit margin,12  Mar-16*,-10.7,SAIL
+59,Current assets,12  Mar-16*,242689.0,SAIL
+60,Current liabilities,12  Mar-16*,386893.0,SAIL
+61,Net working cap to sales,12  Mar-16*,-36.9,SAIL
+62,Current ratio,12  Mar-16*,0.6,SAIL
+63,Inventory Days,12  Mar-16*,137.0,SAIL
+64,Debtors Days,12  Mar-16*,29.0,SAIL
+65,Net fixed assets,12  Mar-16*,693239.0,SAIL
+66,Share capital,12  Mar-16*,41305.0,SAIL
+67,"""Free"" reserves",12  Mar-16*,360209.0,SAIL
+68,Net worth,12  Mar-16*,401514.0,SAIL
+69,Long term debt,12  Mar-16*,174957.0,SAIL
+70,Total assets,12  Mar-16*,1013023.0,SAIL
+71,Interest coverage,12  Mar-16*,-2.1,SAIL
+72,Debt to equity ratio,12  Mar-16*,0.4,SAIL
+73,Sales to assets ratio,12  Mar-16*,0.4,SAIL
+74,Return on assets,12  Mar-16*,-1.9,SAIL
+75,Return on equity,12  Mar-16*,-10.4,SAIL
+76,Return on capital,12  Mar-16*,-8.4,SAIL
+77,Exports to sales,12  Mar-16*,1.4,SAIL
+78,Imports to sales,12  Mar-16*,28.9,SAIL
+79,Exports (fob),12  Mar-16*,5571.0,SAIL
+80,Imports (cif),12  Mar-16*,112953.0,SAIL
+81,Fx inflow,12  Mar-16*,5571.0,SAIL
+82,Fx outflow,12  Mar-16*,116864.0,SAIL
+83,Net fx,12  Mar-16*,-111292.0,SAIL
+84,From Operations,12  Mar-16*,40428.0,SAIL
+85,From Investments,12  Mar-16*,-48054.0,SAIL
+86,From Financial Activity,12  Mar-16*,7427.0,SAIL
+87,Net Cashflow,12  Mar-16*,-199.0,SAIL
+88,Net Sales,12  Mar-17*,445018.0,SAIL
+89,Other income,12  Mar-17*,4495.0,SAIL
+90,Total revenues,12  Mar-17*,449513.0,SAIL
+91,Gross profit,12  Mar-17*,671.0,SAIL
+92,Depreciation,12  Mar-17*,26816.0,SAIL
+93,Interest,12  Mar-17*,25278.0,SAIL
+94,Profit before tax,12  Mar-17*,-46929.0,SAIL
+95,Minority Interest,12  Mar-17*,1939.0,SAIL
+96,Prior Period Items,12  Mar-17*,0.0,SAIL
+97,Extraordinary Inc (Exp),12  Mar-17*,-2167.0,SAIL
+98,Tax,12  Mar-17*,-19595.0,SAIL
+99,Profit after tax,12  Mar-17*,-27562.0,SAIL
+100,Gross profit margin,12  Mar-17*,0.2,SAIL
+101,Effective tax rate,12  Mar-17*,41.8,SAIL
+102,Net profit margin,12  Mar-17*,-6.2,SAIL
+103,Current assets,12  Mar-17*,256763.0,SAIL
+104,Current liabilities,12  Mar-17*,463645.0,SAIL
+105,Net working cap to sales,12  Mar-17*,-46.5,SAIL
+106,Current ratio,12  Mar-17*,0.6,SAIL
+107,Inventory Days,12  Mar-17*,129.0,SAIL
+108,Debtors Days,12  Mar-17*,24.0,SAIL
+109,Net fixed assets,12  Mar-17*,720531.0,SAIL
+110,Share capital,12  Mar-17*,41305.0,SAIL
+111,"""Free"" reserves",12  Mar-17*,329117.0,SAIL
+112,Net worth,12  Mar-17*,370423.0,SAIL
+113,Long term debt,12  Mar-17*,190875.0,SAIL
+114,Total assets,12  Mar-17*,1076152.0,SAIL
+115,Interest coverage,12  Mar-17*,-0.9,SAIL
+116,Debt to equity ratio,12  Mar-17*,0.5,SAIL
+117,Sales to assets ratio,12  Mar-17*,0.4,SAIL
+118,Return on assets,12  Mar-17*,-0.2,SAIL
+119,Return on equity,12  Mar-17*,-7.4,SAIL
+120,Return on capital,12  Mar-17*,-3.9,SAIL
+121,Exports to sales,12  Mar-17*,0.0,SAIL
+122,Imports to sales,12  Mar-17*,33.0,SAIL
+123,Exports (fob),12  Mar-17*,0.0,SAIL
+124,Imports (cif),12  Mar-17*,146791.0,SAIL
+125,Fx inflow,12  Mar-17*,17297.0,SAIL
+126,Fx outflow,12  Mar-17*,148648.0,SAIL
+127,Net fx,12  Mar-17*,-131350.0,SAIL
+128,From Operations,12  Mar-17*,21601.0,SAIL
+129,From Investments,12  Mar-17*,-54668.0,SAIL
+130,From Financial Activity,12  Mar-17*,33021.0,SAIL
+131,Net Cashflow,12  Mar-17*,-45.0,SAIL
+132,Net Sales,12  Mar-18*,575600.0,SAIL
+133,Other income,12  Mar-18*,4152.0,SAIL
+134,Total revenues,12  Mar-18*,579752.0,SAIL
+135,Gross profit,12  Mar-18*,46356.0,SAIL
+136,Depreciation,12  Mar-18*,30660.0,SAIL
+137,Interest,12  Mar-18*,28228.0,SAIL
+138,Profit before tax,12  Mar-18*,-8379.0,SAIL
+139,Minority Interest,12  Mar-18*,2849.0,SAIL
+140,Prior Period Items,12  Mar-18*,0.0,SAIL
+141,Extraordinary Inc (Exp),12  Mar-18*,264.0,SAIL
+142,Tax,12  Mar-18*,-2452.0,SAIL
+143,Profit after tax,12  Mar-18*,-2814.0,SAIL
+144,Gross profit margin,12  Mar-18*,8.1,SAIL
+145,Effective tax rate,12  Mar-18*,29.3,SAIL
+146,Net profit margin,12  Mar-18*,-0.5,SAIL
+147,Current assets,12  Mar-18*,297169.0,SAIL
+148,Current liabilities,12  Mar-18*,434187.0,SAIL
+149,Net working cap to sales,12  Mar-18*,-23.8,SAIL
+150,Current ratio,12  Mar-18*,0.7,SAIL
+151,Inventory Days,12  Mar-18*,108.0,SAIL
+152,Debtors Days,12  Mar-18*,25.0,SAIL
+153,Net fixed assets,12  Mar-18*,795759.0,SAIL
+154,Share capital,12  Mar-18*,41305.0,SAIL
+155,"""Free"" reserves",12  Mar-18*,328161.0,SAIL
+156,Net worth,12  Mar-18*,369467.0,SAIL
+157,Long term debt,12  Mar-18*,297772.0,SAIL
+158,Total assets,12  Mar-18*,1154410.0,SAIL
+159,Interest coverage,12  Mar-18*,0.7,SAIL
+160,Debt to equity ratio,12  Mar-18*,0.8,SAIL
+161,Sales to assets ratio,12  Mar-18*,0.5,SAIL
+162,Return on assets,12  Mar-18*,2.2,SAIL
+163,Return on equity,12  Mar-18*,-0.8,SAIL
+164,Return on capital,12  Mar-18*,3.4,SAIL
+165,Exports to sales,12  Mar-18*,0.0,SAIL
+166,Imports to sales,12  Mar-18*,6.6,SAIL
+167,Exports (fob),12  Mar-18*,0.0,SAIL
+168,Imports (cif),12  Mar-18*,37712.0,SAIL
+169,Fx inflow,12  Mar-18*,22437.0,SAIL
+170,Fx outflow,12  Mar-18*,39518.0,SAIL
+171,Net fx,12  Mar-18*,-17081.0,SAIL
+172,From Operations,12  Mar-18*,61635.0,SAIL
+173,From Investments,12  Mar-18*,-64796.0,SAIL
+174,From Financial Activity,12  Mar-18*,2694.0,SAIL
+175,Net Cashflow,12  Mar-18*,-466.0,SAIL
+176,Net Sales,12  Mar-19*,669736.0,SAIL
+177,Other income,12  Mar-19*,4945.0,SAIL
+178,Total revenues,12  Mar-19*,674681.0,SAIL
+179,Gross profit,12  Mar-19*,97615.0,SAIL
+180,Depreciation,12  Mar-19*,33853.0,SAIL
+181,Interest,12  Mar-19*,31549.0,SAIL
+182,Profit before tax,12  Mar-19*,37158.0,SAIL
+183,Minority Interest,12  Mar-19*,2229.0,SAIL
+184,Prior Period Items,12  Mar-19*,0.0,SAIL
+185,Extraordinary Inc (Exp),12  Mar-19*,-3894.0,SAIL
+186,Tax,12  Mar-19*,12005.0,SAIL
+187,Profit after tax,12  Mar-19*,23487.0,SAIL
+188,Gross profit margin,12  Mar-19*,14.6,SAIL
+189,Effective tax rate,12  Mar-19*,32.3,SAIL
+190,Net profit margin,12  Mar-19*,3.5,SAIL
+191,Current assets,12  Mar-19*,323816.0,SAIL
+192,Current liabilities,12  Mar-19*,416172.0,SAIL
+193,Net working cap to sales,12  Mar-19*,-13.8,SAIL
+194,Current ratio,12  Mar-19*,0.8,SAIL
+195,Inventory Days,12  Mar-19*,106.0,SAIL
+196,Debtors Days,12  Mar-19*,25.0,SAIL
+197,Net fixed assets,12  Mar-19*,802277.0,SAIL
+198,Share capital,12  Mar-19*,41305.0,SAIL
+199,"""Free"" reserves",12  Mar-19*,355156.0,SAIL
+200,Net worth,12  Mar-19*,396462.0,SAIL
+201,Long term debt,12  Mar-19*,308027.0,SAIL
+202,Total assets,12  Mar-19*,1179523.0,SAIL
+203,Interest coverage,12  Mar-19*,2.2,SAIL
+204,Debt to equity ratio,12  Mar-19*,0.8,SAIL
+205,Sales to assets ratio,12  Mar-19*,0.6,SAIL
+206,Return on assets,12  Mar-19*,4.7,SAIL
+207,Return on equity,12  Mar-19*,5.9,SAIL
+208,Return on capital,12  Mar-19*,9.5,SAIL
+209,Exports to sales,12  Mar-19*,0.0,SAIL
+210,Imports to sales,12  Mar-19*,38.6,SAIL
+211,Exports (fob),12  Mar-19*,0.0,SAIL
+212,Imports (cif),12  Mar-19*,258575.0,SAIL
+213,Fx inflow,12  Mar-19*,28726.0,SAIL
+214,Fx outflow,12  Mar-19*,261167.0,SAIL
+215,Net fx,12  Mar-19*,-232441.0,SAIL
+216,From Operations,12  Mar-19*,72152.0,SAIL
+217,From Investments,12  Mar-19*,-36945.0,SAIL
+218,From Financial Activity,12  Mar-19*,-35491.0,SAIL
+219,Net Cashflow,12  Mar-19*,-284.0,SAIL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-09*,7419.0,CCON
+1,Other income,12  Jun-09*,107.0,CCON
+2,Total revenues,12  Jun-09*,7526.0,CCON
+3,Gross profit,12  Jun-09*,1218.0,CCON
+4,Depreciation,12  Jun-09*,258.0,CCON
+5,Interest,12  Jun-09*,580.0,CCON
+6,Profit before tax,12  Jun-09*,487.0,CCON
+7,Minority Interest,12  Jun-09*,0.0,CCON
+8,Prior Period Items,12  Jun-09*,0.0,CCON
+9,Extraordinary Inc (Exp),12  Jun-09*,0.0,CCON
+10,Tax,12  Jun-09*,157.0,CCON
+11,Profit after tax,12  Jun-09*,330.0,CCON
+12,Gross profit margin,12  Jun-09*,16.4,CCON
+13,Effective tax rate,12  Jun-09*,32.3,CCON
+14,Net profit margin,12  Jun-09*,4.4,CCON
+15,Current assets,12  Jun-09*,10328.0,CCON
+16,Current liabilities,12  Jun-09*,9752.0,CCON
+17,Net working cap to sales,12  Jun-09*,7.8,CCON
+18,Current ratio,12  Jun-09*,1.1,CCON
+19,Inventory Days,12  Jun-09*,171.0,CCON
+20,Debtors Days,12  Jun-09*,147.0,CCON
+21,Net fixed assets,12  Jun-09*,4706.0,CCON
+22,Share capital,12  Jun-09*,183.0,CCON
+23,"""Free"" reserves",12  Jun-09*,3125.0,CCON
+24,Net worth,12  Jun-09*,3465.0,CCON
+25,Long term debt,12  Jun-09*,1658.0,CCON
+26,Total assets,12  Jun-09*,15035.0,CCON
+27,Interest coverage,12  Jun-09*,1.8,CCON
+28,Debt to equity ratio,12  Jun-09*,0.5,CCON
+29,Sales to assets ratio,12  Jun-09*,0.5,CCON
+30,Return on assets,12  Jun-09*,6.0,CCON
+31,Return on equity,12  Jun-09*,9.5,CCON
+32,Return on capital,12  Jun-09*,20.8,CCON
+33,Exports to sales,12  Jun-09*,0.0,CCON
+34,Imports to sales,12  Jun-09*,19.9,CCON
+35,Exports (fob),12  Jun-09*,0.0,CCON
+36,Imports (cif),12  Jun-09*,1474.0,CCON
+37,Fx inflow,12  Jun-09*,992.0,CCON
+38,Fx outflow,12  Jun-09*,1984.0,CCON
+39,Net fx,12  Jun-09*,-992.0,CCON
+40,From Operations,12  Jun-09*,-819.0,CCON
+41,From Investments,12  Jun-09*,-2412.0,CCON
+42,From Financial Activity,12  Jun-09*,3541.0,CCON
+43,Net Cashflow,12  Jun-09*,309.0,CCON
+44,Net Sales,12  Jun-10*,11621.0,CCON
+45,Other income,12  Jun-10*,117.0,CCON
+46,Total revenues,12  Jun-10*,11738.0,CCON
+47,Gross profit,12  Jun-10*,2132.0,CCON
+48,Depreciation,12  Jun-10*,455.0,CCON
+49,Interest,12  Jun-10*,778.0,CCON
+50,Profit before tax,12  Jun-10*,1016.0,CCON
+51,Minority Interest,12  Jun-10*,0.0,CCON
+52,Prior Period Items,12  Jun-10*,0.0,CCON
+53,Extraordinary Inc (Exp),12  Jun-10*,0.0,CCON
+54,Tax,12  Jun-10*,392.0,CCON
+55,Profit after tax,12  Jun-10*,624.0,CCON
+56,Gross profit margin,12  Jun-10*,18.3,CCON
+57,Effective tax rate,12  Jun-10*,38.6,CCON
+58,Net profit margin,12  Jun-10*,5.4,CCON
+59,Current assets,12  Jun-10*,13830.0,CCON
+60,Current liabilities,12  Jun-10*,12044.0,CCON
+61,Net working cap to sales,12  Jun-10*,15.4,CCON
+62,Current ratio,12  Jun-10*,1.1,CCON
+63,Inventory Days,12  Jun-10*,274.0,CCON
+64,Debtors Days,12  Jun-10*,44.0,CCON
+65,Net fixed assets,12  Jun-10*,6347.0,CCON
+66,Share capital,12  Jun-10*,234.0,CCON
+67,"""Free"" reserves",12  Jun-10*,4869.0,CCON
+68,Net worth,12  Jun-10*,5324.0,CCON
+69,Long term debt,12  Jun-10*,2662.0,CCON
+70,Total assets,12  Jun-10*,20400.0,CCON
+71,Interest coverage,12  Jun-10*,2.3,CCON
+72,Debt to equity ratio,12  Jun-10*,0.5,CCON
+73,Sales to assets ratio,12  Jun-10*,0.6,CCON
+74,Return on assets,12  Jun-10*,6.9,CCON
+75,Return on equity,12  Jun-10*,11.7,CCON
+76,Return on capital,12  Jun-10*,22.5,CCON
+77,Exports to sales,12  Jun-10*,0.0,CCON
+78,Imports to sales,12  Jun-10*,12.1,CCON
+79,Exports (fob),12  Jun-10*,0.0,CCON
+80,Imports (cif),12  Jun-10*,1405.0,CCON
+81,Fx inflow,12  Jun-10*,940.0,CCON
+82,Fx outflow,12  Jun-10*,2300.0,CCON
+83,Net fx,12  Jun-10*,-1360.0,CCON
+84,From Operations,12  Jun-10*,256.0,CCON
+85,From Investments,12  Jun-10*,-2275.0,CCON
+86,From Financial Activity,12  Jun-10*,2149.0,CCON
+87,Net Cashflow,12  Jun-10*,129.0,CCON
+88,Net Sales,12  Jun-11*,12813.0,CCON
+89,Other income,12  Jun-11*,76.0,CCON
+90,Total revenues,12  Jun-11*,12888.0,CCON
+91,Gross profit,12  Jun-11*,2346.0,CCON
+92,Depreciation,12  Jun-11*,379.0,CCON
+93,Interest,12  Jun-11*,1309.0,CCON
+94,Profit before tax,12  Jun-11*,734.0,CCON
+95,Minority Interest,12  Jun-11*,0.0,CCON
+96,Prior Period Items,12  Jun-11*,0.0,CCON
+97,Extraordinary Inc (Exp),12  Jun-11*,193.0,CCON
+98,Tax,12  Jun-11*,499.0,CCON
+99,Profit after tax,12  Jun-11*,428.0,CCON
+100,Gross profit margin,12  Jun-11*,18.3,CCON
+101,Effective tax rate,12  Jun-11*,68.0,CCON
+102,Net profit margin,12  Jun-11*,3.3,CCON
+103,Current assets,12  Jun-11*,15292.0,CCON
+104,Current liabilities,12  Jun-11*,12802.0,CCON
+105,Net working cap to sales,12  Jun-11*,19.4,CCON
+106,Current ratio,12  Jun-11*,1.2,CCON
+107,Inventory Days,12  Jun-11*,307.0,CCON
+108,Debtors Days,12  Jun-11*,64.0,CCON
+109,Net fixed assets,12  Jun-11*,8444.0,CCON
+110,Share capital,12  Jun-11*,234.0,CCON
+111,"""Free"" reserves",12  Jun-11*,5222.0,CCON
+112,Net worth,12  Jun-11*,5666.0,CCON
+113,Long term debt,12  Jun-11*,5312.0,CCON
+114,Total assets,12  Jun-11*,26019.0,CCON
+115,Interest coverage,12  Jun-11*,1.6,CCON
+116,Debt to equity ratio,12  Jun-11*,0.9,CCON
+117,Sales to assets ratio,12  Jun-11*,0.5,CCON
+118,Return on assets,12  Jun-11*,6.7,CCON
+119,Return on equity,12  Jun-11*,7.6,CCON
+120,Return on capital,12  Jun-11*,20.4,CCON
+121,Exports to sales,12  Jun-11*,0.0,CCON
+122,Imports to sales,12  Jun-11*,2.9,CCON
+123,Exports (fob),12  Jun-11*,0.0,CCON
+124,Imports (cif),12  Jun-11*,371.0,CCON
+125,Fx inflow,12  Jun-11*,1127.0,CCON
+126,Fx outflow,12  Jun-11*,1307.0,CCON
+127,Net fx,12  Jun-11*,-180.0,CCON
+128,From Operations,12  Jun-11*,-1145.0,CCON
+129,From Investments,12  Jun-11*,-2798.0,CCON
+130,From Financial Activity,12  Jun-11*,3862.0,CCON
+131,Net Cashflow,12  Jun-11*,-81.0,CCON
+132,Net Sales,12  Jun-12*,11325.0,CCON
+133,Other income,12  Jun-12*,68.0,CCON
+134,Total revenues,12  Jun-12*,11393.0,CCON
+135,Gross profit,12  Jun-12*,1333.0,CCON
+136,Depreciation,12  Jun-12*,491.0,CCON
+137,Interest,12  Jun-12*,2027.0,CCON
+138,Profit before tax,12  Jun-12*,-1118.0,CCON
+139,Minority Interest,12  Jun-12*,0.0,CCON
+140,Prior Period Items,12  Jun-12*,0.0,CCON
+141,Extraordinary Inc (Exp),12  Jun-12*,0.0,CCON
+142,Tax,12  Jun-12*,70.0,CCON
+143,Profit after tax,12  Jun-12*,-1188.0,CCON
+144,Gross profit margin,12  Jun-12*,11.8,CCON
+145,Effective tax rate,12  Jun-12*,-6.2,CCON
+146,Net profit margin,12  Jun-12*,-10.5,CCON
+147,Current assets,12  Jun-12*,16751.0,CCON
+148,Current liabilities,12  Jun-12*,15269.0,CCON
+149,Net working cap to sales,12  Jun-12*,13.1,CCON
+150,Current ratio,12  Jun-12*,1.1,CCON
+151,Inventory Days,12  Jun-12*,346.0,CCON
+152,Debtors Days,12  Jun-12*,66.0,CCON
+153,Net fixed assets,12  Jun-12*,6176.0,CCON
+154,Share capital,12  Jun-12*,255.0,CCON
+155,"""Free"" reserves",12  Jun-12*,4508.0,CCON
+156,Net worth,12  Jun-12*,4977.0,CCON
+157,Long term debt,12  Jun-12*,10969.0,CCON
+158,Total assets,12  Jun-12*,33185.0,CCON
+159,Interest coverage,12  Jun-12*,0.4,CCON
+160,Debt to equity ratio,12  Jun-12*,2.2,CCON
+161,Sales to assets ratio,12  Jun-12*,0.3,CCON
+162,Return on assets,12  Jun-12*,2.5,CCON
+163,Return on equity,12  Jun-12*,-23.9,CCON
+164,Return on capital,12  Jun-12*,5.7,CCON
+165,Exports to sales,12  Jun-12*,0.0,CCON
+166,Imports to sales,12  Jun-12*,2.6,CCON
+167,Exports (fob),12  Jun-12*,0.0,CCON
+168,Imports (cif),12  Jun-12*,298.0,CCON
+169,Fx inflow,12  Jun-12*,476.0,CCON
+170,Fx outflow,12  Jun-12*,449.0,CCON
+171,Net fx,12  Jun-12*,28.0,CCON
+172,From Operations,12  Jun-12*,-673.0,CCON
+173,From Investments,12  Jun-12*,-4327.0,CCON
+174,From Financial Activity,12  Jun-12*,5681.0,CCON
+175,Net Cashflow,12  Jun-12*,681.0,CCON
+176,Net Sales,12  Jun-13*,9973.0,CCON
+177,Other income,12  Jun-13*,99.0,CCON
+178,Total revenues,12  Jun-13*,10072.0,CCON
+179,Gross profit,12  Jun-13*,101.0,CCON
+180,Depreciation,12  Jun-13*,513.0,CCON
+181,Interest,12  Jun-13*,1963.0,CCON
+182,Profit before tax,12  Jun-13*,-2276.0,CCON
+183,Minority Interest,12  Jun-13*,0.0,CCON
+184,Prior Period Items,12  Jun-13*,0.0,CCON
+185,Extraordinary Inc (Exp),12  Jun-13*,78.0,CCON
+186,Tax,12  Jun-13*,346.0,CCON
+187,Profit after tax,12  Jun-13*,-2544.0,CCON
+188,Gross profit margin,12  Jun-13*,1.0,CCON
+189,Effective tax rate,12  Jun-13*,-15.2,CCON
+190,Net profit margin,12  Jun-13*,-25.5,CCON
+191,Current assets,12  Jun-13*,17147.0,CCON
+192,Current liabilities,12  Jun-13*,13356.0,CCON
+193,Net working cap to sales,12  Jun-13*,38.0,CCON
+194,Current ratio,12  Jun-13*,1.3,CCON
+195,Inventory Days,12  Jun-13*,374.0,CCON
+196,Debtors Days,12  Jun-13*,99.0,CCON
+197,Net fixed assets,12  Jun-13*,5833.0,CCON
+198,Share capital,12  Jun-13*,255.0,CCON
+199,"""Free"" reserves",12  Jun-13*,1964.0,CCON
+200,Net worth,12  Jun-13*,3012.0,CCON
+201,Long term debt,12  Jun-13*,18647.0,CCON
+202,Total assets,12  Jun-13*,36162.0,CCON
+203,Interest coverage,12  Jun-13*,-0.2,CCON
+204,Debt to equity ratio,12  Jun-13*,6.2,CCON
+205,Sales to assets ratio,12  Jun-13*,0.3,CCON
+206,Return on assets,12  Jun-13*,-1.6,CCON
+207,Return on equity,12  Jun-13*,-84.4,CCON
+208,Return on capital,12  Jun-13*,-1.1,CCON
+209,Exports to sales,12  Jun-13*,0.0,CCON
+210,Imports to sales,12  Jun-13*,1.8,CCON
+211,Exports (fob),12  Jun-13*,0.0,CCON
+212,Imports (cif),12  Jun-13*,175.0,CCON
+213,Fx inflow,12  Jun-13*,695.0,CCON
+214,Fx outflow,12  Jun-13*,284.0,CCON
+215,Net fx,12  Jun-13*,411.0,CCON
+216,From Operations,12  Jun-13*,1380.0,CCON
+217,From Investments,12  Jun-13*,-3390.0,CCON
+218,From Financial Activity,12  Jun-13*,1420.0,CCON
+219,Net Cashflow,12  Jun-13*,-591.0,CCON

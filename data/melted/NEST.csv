@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,98549.0,NEST
+1,Other income,12  Dec-14,873.0,NEST
+2,Total revenues,12  Dec-14,99422.0,NEST
+3,Gross profit,12  Dec-14,21098.0,NEST
+4,Depreciation,12  Dec-14,3375.0,NEST
+5,Interest,12  Dec-14,142.0,NEST
+6,Profit before tax,12  Dec-14,18454.0,NEST
+7,Minority Interest,12  Dec-14,0.0,NEST
+8,Prior Period Items,12  Dec-14,0.0,NEST
+9,Extraordinary Inc (Exp),12  Dec-14,-710.0,NEST
+10,Tax,12  Dec-14,5897.0,NEST
+11,Profit after tax,12  Dec-14,11847.0,NEST
+12,Gross profit margin,12  Dec-14,21.4,NEST
+13,Effective tax rate,12  Dec-14,32.0,NEST
+14,Net profit margin,12  Dec-14,12.0,NEST
+15,Current assets,12  Dec-14,19637.0,NEST
+16,Current liabilities,12  Dec-14,13555.0,NEST
+17,Net working cap to sales,12  Dec-14,6.2,NEST
+18,Current ratio,12  Dec-14,1.4,NEST
+19,Inventory Days,12  Dec-14,31.0,NEST
+20,Debtors Days,12  Dec-14,4.0,NEST
+21,Net fixed assets,12  Dec-14,34214.0,NEST
+22,Share capital,12  Dec-14,964.0,NEST
+23,"""Free"" reserves",12  Dec-14,27393.0,NEST
+24,Net worth,12  Dec-14,28372.0,NEST
+25,Long term debt,12  Dec-14,155.0,NEST
+26,Total assets,12  Dec-14,58195.0,NEST
+27,Interest coverage,12  Dec-14,130.7,NEST
+28,Debt to equity ratio,12  Dec-14,0.0,NEST
+29,Sales to assets ratio,12  Dec-14,1.7,NEST
+30,Return on assets,12  Dec-14,20.6,NEST
+31,Return on equity,12  Dec-14,41.8,NEST
+32,Return on capital,12  Dec-14,62.7,NEST
+33,Exports to sales,12  Dec-14,6.5,NEST
+34,Imports to sales,12  Dec-14,4.4,NEST
+35,Exports (fob),12  Dec-14,6411.0,NEST
+36,Imports (cif),12  Dec-14,4310.0,NEST
+37,Fx inflow,12  Dec-14,6411.0,NEST
+38,Fx outflow,12  Dec-14,12096.0,NEST
+39,Net fx,12  Dec-14,-5684.0,NEST
+40,From Operations,12  Dec-14,16440.0,NEST
+41,From Investments,12  Dec-14,-4317.0,NEST
+42,From Financial Activity,12  Dec-14,-16353.0,NEST
+43,Net Cashflow,12  Dec-14,-4230.0,NEST
+44,Net Sales,12  Dec-15,81232.0,NEST
+45,Other income,12  Dec-15,1101.0,NEST
+46,Total revenues,12  Dec-15,82333.0,NEST
+47,Gross profit,12  Dec-15,15755.0,NEST
+48,Depreciation,12  Dec-15,3473.0,NEST
+49,Interest,12  Dec-15,33.0,NEST
+50,Profit before tax,12  Dec-15,13351.0,NEST
+51,Minority Interest,12  Dec-15,0.0,NEST
+52,Prior Period Items,12  Dec-15,0.0,NEST
+53,Extraordinary Inc (Exp),12  Dec-15,-5215.0,NEST
+54,Tax,12  Dec-15,2504.0,NEST
+55,Profit after tax,12  Dec-15,5633.0,NEST
+56,Gross profit margin,12  Dec-15,19.4,NEST
+57,Effective tax rate,12  Dec-15,18.8,NEST
+58,Net profit margin,12  Dec-15,6.9,NEST
+59,Current assets,12  Dec-15,24904.0,NEST
+60,Current liabilities,12  Dec-15,12667.0,NEST
+61,Net working cap to sales,12  Dec-15,15.1,NEST
+62,Current ratio,12  Dec-15,2.0,NEST
+63,Inventory Days,12  Dec-15,37.0,NEST
+64,Debtors Days,12  Dec-15,4.0,NEST
+65,Net fixed assets,12  Dec-15,31286.0,NEST
+66,Share capital,12  Dec-15,964.0,NEST
+67,"""Free"" reserves",12  Dec-15,29394.0,NEST
+68,Net worth,12  Dec-15,30359.0,NEST
+69,Long term debt,12  Dec-15,168.0,NEST
+70,Total assets,12  Dec-15,60913.0,NEST
+71,Interest coverage,12  Dec-15,406.8,NEST
+72,Debt to equity ratio,12  Dec-15,0.0,NEST
+73,Sales to assets ratio,12  Dec-15,1.3,NEST
+74,Return on assets,12  Dec-15,9.3,NEST
+75,Return on equity,12  Dec-15,18.6,NEST
+76,Return on capital,12  Dec-15,26.8,NEST
+77,Exports to sales,12  Dec-15,5.9,NEST
+78,Imports to sales,12  Dec-15,4.5,NEST
+79,Exports (fob),12  Dec-15,4828.0,NEST
+80,Imports (cif),12  Dec-15,3690.0,NEST
+81,Fx inflow,12  Dec-15,6334.0,NEST
+82,Fx outflow,12  Dec-15,10285.0,NEST
+83,Net fx,12  Dec-15,-3950.0,NEST
+84,From Operations,12  Dec-15,10981.0,NEST
+85,From Investments,12  Dec-15,-705.0,NEST
+86,From Financial Activity,12  Dec-15,-4983.0,NEST
+87,Net Cashflow,12  Dec-15,5293.0,NEST
+88,Net Sales,12  Dec-16,91414.0,NEST
+89,Other income,12  Dec-16,1509.0,NEST
+90,Total revenues,12  Dec-16,92923.0,NEST
+91,Gross profit,12  Dec-16,18498.0,NEST
+92,Depreciation,12  Dec-16,3536.0,NEST
+93,Interest,12  Dec-16,909.0,NEST
+94,Profit before tax,12  Dec-16,15562.0,NEST
+95,Minority Interest,12  Dec-16,0.0,NEST
+96,Prior Period Items,12  Dec-16,0.0,NEST
+97,Extraordinary Inc (Exp),12  Dec-16,-108.0,NEST
+98,Tax,12  Dec-16,5440.0,NEST
+99,Profit after tax,12  Dec-16,10014.0,NEST
+100,Gross profit margin,12  Dec-16,20.2,NEST
+101,Effective tax rate,12  Dec-16,35.0,NEST
+102,Net profit margin,12  Dec-16,11.0,NEST
+103,Current assets,12  Dec-16,32828.0,NEST
+104,Current liabilities,12  Dec-16,13668.0,NEST
+105,Net working cap to sales,12  Dec-16,21.0,NEST
+106,Current ratio,12  Dec-16,2.4,NEST
+107,Inventory Days,12  Dec-16,38.0,NEST
+108,Debtors Days,12  Dec-16,4.0,NEST
+109,Net fixed assets,12  Dec-16,29176.0,NEST
+110,Share capital,12  Dec-16,964.0,NEST
+111,"""Free"" reserves",12  Dec-16,31859.0,NEST
+112,Net worth,12  Dec-16,32823.0,NEST
+113,Long term debt,12  Dec-16,332.0,NEST
+114,Total assets,12  Dec-16,68105.0,NEST
+115,Interest coverage,12  Dec-16,18.1,NEST
+116,Debt to equity ratio,12  Dec-16,0.0,NEST
+117,Sales to assets ratio,12  Dec-16,1.3,NEST
+118,Return on assets,12  Dec-16,16.0,NEST
+119,Return on equity,12  Dec-16,30.5,NEST
+120,Return on capital,12  Dec-16,49.4,NEST
+121,Exports to sales,12  Dec-16,5.2,NEST
+122,Imports to sales,12  Dec-16,4.7,NEST
+123,Exports (fob),12  Dec-16,4773.0,NEST
+124,Imports (cif),12  Dec-16,4299.0,NEST
+125,Fx inflow,12  Dec-16,6557.0,NEST
+126,Fx outflow,12  Dec-16,9068.0,NEST
+127,Net fx,12  Dec-16,-2511.0,NEST
+128,From Operations,12  Dec-16,14659.0,NEST
+129,From Investments,12  Dec-16,-1259.0,NEST
+130,From Financial Activity,12  Dec-16,-6666.0,NEST
+131,Net Cashflow,12  Dec-16,6744.0,NEST
+132,Net Sales,12  Dec-17,100096.0,NEST
+133,Other income,12  Dec-17,1769.0,NEST
+134,Total revenues,12  Dec-17,101865.0,NEST
+135,Gross profit,12  Dec-17,20965.0,NEST
+136,Depreciation,12  Dec-17,3423.0,NEST
+137,Interest,12  Dec-17,919.0,NEST
+138,Profit before tax,12  Dec-17,18393.0,NEST
+139,Minority Interest,12  Dec-17,0.0,NEST
+140,Prior Period Items,12  Dec-17,0.0,NEST
+141,Extraordinary Inc (Exp),12  Dec-17,0.0,NEST
+142,Tax,12  Dec-17,6141.0,NEST
+143,Profit after tax,12  Dec-17,12252.0,NEST
+144,Gross profit margin,12  Dec-17,20.9,NEST
+145,Effective tax rate,12  Dec-17,33.4,NEST
+146,Net profit margin,12  Dec-17,12.2,NEST
+147,Current assets,12  Dec-17,39374.0,NEST
+148,Current liabilities,12  Dec-17,14927.0,NEST
+149,Net working cap to sales,12  Dec-17,24.4,NEST
+150,Current ratio,12  Dec-17,2.6,NEST
+151,Inventory Days,12  Dec-17,33.0,NEST
+152,Debtors Days,12  Dec-17,3.0,NEST
+153,Net fixed assets,12  Dec-17,27103.0,NEST
+154,Share capital,12  Dec-17,964.0,NEST
+155,"""Free"" reserves",12  Dec-17,33242.0,NEST
+156,Net worth,12  Dec-17,34206.0,NEST
+157,Long term debt,12  Dec-17,351.0,NEST
+158,Total assets,12  Dec-17,73626.0,NEST
+159,Interest coverage,12  Dec-17,21.0,NEST
+160,Debt to equity ratio,12  Dec-17,0.0,NEST
+161,Sales to assets ratio,12  Dec-17,1.4,NEST
+162,Return on assets,12  Dec-17,17.9,NEST
+163,Return on equity,12  Dec-17,35.8,NEST
+164,Return on capital,12  Dec-17,55.9,NEST
+165,Exports to sales,12  Dec-17,0.0,NEST
+166,Imports to sales,12  Dec-17,0.0,NEST
+167,Exports (fob),12  Dec-17,0.0,NEST
+168,Imports (cif),12  Dec-17,0.0,NEST
+169,Fx inflow,12  Dec-17,6627.0,NEST
+170,Fx outflow,12  Dec-17,14291.0,NEST
+171,Net fx,12  Dec-17,-7664.0,NEST
+172,From Operations,12  Dec-17,18178.0,NEST
+173,From Investments,12  Dec-17,-1306.0,NEST
+174,From Financial Activity,12  Dec-17,-9966.0,NEST
+175,Net Cashflow,12  Dec-17,6906.0,NEST
+176,Net Sales,12  Dec-18,112923.0,NEST
+177,Other income,12  Dec-18,2589.0,NEST
+178,Total revenues,12  Dec-18,115512.0,NEST
+179,Gross profit,12  Dec-18,26177.0,NEST
+180,Depreciation,12  Dec-18,3357.0,NEST
+181,Interest,12  Dec-18,1120.0,NEST
+182,Profit before tax,12  Dec-18,24290.0,NEST
+183,Minority Interest,12  Dec-18,0.0,NEST
+184,Prior Period Items,12  Dec-18,0.0,NEST
+185,Extraordinary Inc (Exp),12  Dec-18,0.0,NEST
+186,Tax,12  Dec-18,8220.0,NEST
+187,Profit after tax,12  Dec-18,16069.0,NEST
+188,Gross profit margin,12  Dec-18,23.2,NEST
+189,Effective tax rate,12  Dec-18,33.8,NEST
+190,Net profit margin,12  Dec-18,14.2,NEST
+191,Current assets,12  Dec-18,47370.0,NEST
+192,Current liabilities,12  Dec-18,18550.0,NEST
+193,Net working cap to sales,12  Dec-18,25.5,NEST
+194,Current ratio,12  Dec-18,2.6,NEST
+195,Inventory Days,12  Dec-18,31.0,NEST
+196,Debtors Days,12  Dec-18,4.0,NEST
+197,Net fixed assets,12  Dec-18,25058.0,NEST
+198,Share capital,12  Dec-18,964.0,NEST
+199,"""Free"" reserves",12  Dec-18,35773.0,NEST
+200,Net worth,12  Dec-18,36737.0,NEST
+201,Long term debt,12  Dec-18,351.0,NEST
+202,Total assets,12  Dec-18,80881.0,NEST
+203,Interest coverage,12  Dec-18,22.7,NEST
+204,Debt to equity ratio,12  Dec-18,0.0,NEST
+205,Sales to assets ratio,12  Dec-18,1.4,NEST
+206,Return on assets,12  Dec-18,21.3,NEST
+207,Return on equity,12  Dec-18,43.7,NEST
+208,Return on capital,12  Dec-18,68.5,NEST
+209,Exports to sales,12  Dec-18,0.0,NEST
+210,Imports to sales,12  Dec-18,0.0,NEST
+211,Exports (fob),12  Dec-18,0.0,NEST
+212,Imports (cif),12  Dec-18,0.0,NEST
+213,Fx inflow,12  Dec-18,7087.0,NEST
+214,Fx outflow,12  Dec-18,17171.0,NEST
+215,Net fx,12  Dec-18,-10084.0,NEST
+216,From Operations,12  Dec-18,20525.0,NEST
+217,From Investments,12  Dec-18,-524.0,NEST
+218,From Financial Activity,12  Dec-18,-13174.0,NEST
+219,Net Cashflow,12  Dec-18,6826.0,NEST

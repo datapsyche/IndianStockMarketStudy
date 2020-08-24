@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,13480.0,WABCO
+1,Other income,12  Mar-15,203.0,WABCO
+2,Total revenues,12  Mar-15,13683.0,WABCO
+3,Gross profit,12  Mar-15,2034.0,WABCO
+4,Depreciation,12  Mar-15,467.0,WABCO
+5,Interest,12  Mar-15,4.0,WABCO
+6,Profit before tax,12  Mar-15,1766.0,WABCO
+7,Minority Interest,12  Mar-15,0.0,WABCO
+8,Prior Period Items,12  Mar-15,0.0,WABCO
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,WABCO
+10,Tax,12  Mar-15,560.0,WABCO
+11,Profit after tax,12  Mar-15,1207.0,WABCO
+12,Gross profit margin,12  Mar-15,15.1,WABCO
+13,Effective tax rate,12  Mar-15,31.7,WABCO
+14,Net profit margin,12  Mar-15,9.0,WABCO
+15,Current assets,12  Mar-15,7462.0,WABCO
+16,Current liabilities,12  Mar-15,2077.0,WABCO
+17,Net working cap to sales,12  Mar-15,39.9,WABCO
+18,Current ratio,12  Mar-15,3.6,WABCO
+19,Inventory Days,12  Mar-15,32.0,WABCO
+20,Debtors Days,12  Mar-15,81.0,WABCO
+21,Net fixed assets,12  Mar-15,3406.0,WABCO
+22,Share capital,12  Mar-15,95.0,WABCO
+23,"""Free"" reserves",12  Mar-15,8650.0,WABCO
+24,Net worth,12  Mar-15,8745.0,WABCO
+25,Long term debt,12  Mar-15,0.0,WABCO
+26,Total assets,12  Mar-15,11113.0,WABCO
+27,Interest coverage,12  Mar-15,491.6,WABCO
+28,Debt to equity ratio,12  Mar-15,0.0,WABCO
+29,Sales to assets ratio,12  Mar-15,1.2,WABCO
+30,Return on assets,12  Mar-15,10.9,WABCO
+31,Return on equity,12  Mar-15,13.8,WABCO
+32,Return on capital,12  Mar-15,20.2,WABCO
+33,Exports to sales,12  Mar-15,32.0,WABCO
+34,Imports to sales,12  Mar-15,10.8,WABCO
+35,Exports (fob),12  Mar-15,4317.0,WABCO
+36,Imports (cif),12  Mar-15,1452.0,WABCO
+37,Fx inflow,12  Mar-15,4924.0,WABCO
+38,Fx outflow,12  Mar-15,1641.0,WABCO
+39,Net fx,12  Mar-15,3283.0,WABCO
+40,From Operations,12  Mar-15,1241.0,WABCO
+41,From Investments,12  Mar-15,-451.0,WABCO
+42,From Financial Activity,12  Mar-15,-114.0,WABCO
+43,Net Cashflow,12  Mar-15,676.0,WABCO
+44,Net Sales,12  Mar-16,18325.0,WABCO
+45,Other income,12  Mar-16,401.0,WABCO
+46,Total revenues,12  Mar-16,18726.0,WABCO
+47,Gross profit,12  Mar-16,2866.0,WABCO
+48,Depreciation,12  Mar-16,562.0,WABCO
+49,Interest,12  Mar-16,2.0,WABCO
+50,Profit before tax,12  Mar-16,2703.0,WABCO
+51,Minority Interest,12  Mar-16,0.0,WABCO
+52,Prior Period Items,12  Mar-16,0.0,WABCO
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,WABCO
+54,Tax,12  Mar-16,670.0,WABCO
+55,Profit after tax,12  Mar-16,2034.0,WABCO
+56,Gross profit margin,12  Mar-16,15.6,WABCO
+57,Effective tax rate,12  Mar-16,24.8,WABCO
+58,Net profit margin,12  Mar-16,11.1,WABCO
+59,Current assets,12  Mar-16,11165.0,WABCO
+60,Current liabilities,12  Mar-16,4322.0,WABCO
+61,Net working cap to sales,12  Mar-16,37.3,WABCO
+62,Current ratio,12  Mar-16,2.6,WABCO
+63,Inventory Days,12  Mar-16,35.0,WABCO
+64,Debtors Days,12  Mar-16,87.0,WABCO
+65,Net fixed assets,12  Mar-16,3725.0,WABCO
+66,Share capital,12  Mar-16,95.0,WABCO
+67,"""Free"" reserves",12  Mar-16,10583.0,WABCO
+68,Net worth,12  Mar-16,10678.0,WABCO
+69,Long term debt,12  Mar-16,0.0,WABCO
+70,Total assets,12  Mar-16,15233.0,WABCO
+71,Interest coverage,12  Mar-16,1803.3,WABCO
+72,Debt to equity ratio,12  Mar-16,0.0,WABCO
+73,Sales to assets ratio,12  Mar-16,1.2,WABCO
+74,Return on assets,12  Mar-16,13.4,WABCO
+75,Return on equity,12  Mar-16,19.0,WABCO
+76,Return on capital,12  Mar-16,25.3,WABCO
+77,Exports to sales,12  Mar-16,30.4,WABCO
+78,Imports to sales,12  Mar-16,16.2,WABCO
+79,Exports (fob),12  Mar-16,5568.0,WABCO
+80,Imports (cif),12  Mar-16,2972.0,WABCO
+81,Fx inflow,12  Mar-16,6368.0,WABCO
+82,Fx outflow,12  Mar-16,3327.0,WABCO
+83,Net fx,12  Mar-16,3041.0,WABCO
+84,From Operations,12  Mar-16,2422.0,WABCO
+85,From Investments,12  Mar-16,-2405.0,WABCO
+86,From Financial Activity,12  Mar-16,-116.0,WABCO
+87,Net Cashflow,12  Mar-16,-100.0,WABCO
+88,Net Sales,12  Mar-17,20675.0,WABCO
+89,Other income,12  Mar-17,362.0,WABCO
+90,Total revenues,12  Mar-17,21036.0,WABCO
+91,Gross profit,12  Mar-17,3264.0,WABCO
+92,Depreciation,12  Mar-17,616.0,WABCO
+93,Interest,12  Mar-17,5.0,WABCO
+94,Profit before tax,12  Mar-17,3005.0,WABCO
+95,Minority Interest,12  Mar-17,0.0,WABCO
+96,Prior Period Items,12  Mar-17,0.0,WABCO
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,WABCO
+98,Tax,12  Mar-17,870.0,WABCO
+99,Profit after tax,12  Mar-17,2135.0,WABCO
+100,Gross profit margin,12  Mar-17,15.8,WABCO
+101,Effective tax rate,12  Mar-17,28.9,WABCO
+102,Net profit margin,12  Mar-17,10.3,WABCO
+103,Current assets,12  Mar-17,13017.0,WABCO
+104,Current liabilities,12  Mar-17,4455.0,WABCO
+105,Net working cap to sales,12  Mar-17,41.4,WABCO
+106,Current ratio,12  Mar-17,2.9,WABCO
+107,Inventory Days,12  Mar-17,26.0,WABCO
+108,Debtors Days,12  Mar-17,91.0,WABCO
+109,Net fixed assets,12  Mar-17,3796.0,WABCO
+110,Share capital,12  Mar-17,95.0,WABCO
+111,"""Free"" reserves",12  Mar-17,12569.0,WABCO
+112,Net worth,12  Mar-17,12664.0,WABCO
+113,Long term debt,12  Mar-17,0.0,WABCO
+114,Total assets,12  Mar-17,17371.0,WABCO
+115,Interest coverage,12  Mar-17,654.2,WABCO
+116,Debt to equity ratio,12  Mar-17,0.0,WABCO
+117,Sales to assets ratio,12  Mar-17,1.2,WABCO
+118,Return on assets,12  Mar-17,12.3,WABCO
+119,Return on equity,12  Mar-17,16.9,WABCO
+120,Return on capital,12  Mar-17,23.8,WABCO
+121,Exports to sales,12  Mar-17,0.0,WABCO
+122,Imports to sales,12  Mar-17,0.0,WABCO
+123,Exports (fob),12  Mar-17,0.0,WABCO
+124,Imports (cif),12  Mar-17,0.0,WABCO
+125,Fx inflow,12  Mar-17,5804.0,WABCO
+126,Fx outflow,12  Mar-17,3332.0,WABCO
+127,Net fx,12  Mar-17,2472.0,WABCO
+128,From Operations,12  Mar-17,1796.0,WABCO
+129,From Investments,12  Mar-17,-1199.0,WABCO
+130,From Financial Activity,12  Mar-17,-142.0,WABCO
+131,Net Cashflow,12  Mar-17,455.0,WABCO
+132,Net Sales,12  Mar-18,25733.0,WABCO
+133,Other income,12  Mar-18,510.0,WABCO
+134,Total revenues,12  Mar-18,26243.0,WABCO
+135,Gross profit,12  Mar-18,3942.0,WABCO
+136,Depreciation,12  Mar-18,617.0,WABCO
+137,Interest,12  Mar-18,16.0,WABCO
+138,Profit before tax,12  Mar-18,3818.0,WABCO
+139,Minority Interest,12  Mar-18,0.0,WABCO
+140,Prior Period Items,12  Mar-18,0.0,WABCO
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,WABCO
+142,Tax,12  Mar-18,1090.0,WABCO
+143,Profit after tax,12  Mar-18,2728.0,WABCO
+144,Gross profit margin,12  Mar-18,15.3,WABCO
+145,Effective tax rate,12  Mar-18,28.5,WABCO
+146,Net profit margin,12  Mar-18,10.6,WABCO
+147,Current assets,12  Mar-18,16760.0,WABCO
+148,Current liabilities,12  Mar-18,6127.0,WABCO
+149,Net working cap to sales,12  Mar-18,41.3,WABCO
+150,Current ratio,12  Mar-18,2.7,WABCO
+151,Inventory Days,12  Mar-18,19.0,WABCO
+152,Debtors Days,12  Mar-18,92.0,WABCO
+153,Net fixed assets,12  Mar-18,4113.0,WABCO
+154,Share capital,12  Mar-18,95.0,WABCO
+155,"""Free"" reserves",12  Mar-18,15164.0,WABCO
+156,Net worth,12  Mar-18,15259.0,WABCO
+157,Long term debt,12  Mar-18,0.0,WABCO
+158,Total assets,12  Mar-18,21689.0,WABCO
+159,Interest coverage,12  Mar-18,236.7,WABCO
+160,Debt to equity ratio,12  Mar-18,0.0,WABCO
+161,Sales to assets ratio,12  Mar-18,1.2,WABCO
+162,Return on assets,12  Mar-18,12.7,WABCO
+163,Return on equity,12  Mar-18,17.9,WABCO
+164,Return on capital,12  Mar-18,25.1,WABCO
+165,Exports to sales,12  Mar-18,0.0,WABCO
+166,Imports to sales,12  Mar-18,0.0,WABCO
+167,Exports (fob),12  Mar-18,0.0,WABCO
+168,Imports (cif),12  Mar-18,0.0,WABCO
+169,Fx inflow,12  Mar-18,8694.0,WABCO
+170,Fx outflow,12  Mar-18,3601.0,WABCO
+171,Net fx,12  Mar-18,5094.0,WABCO
+172,From Operations,12  Mar-18,3108.0,WABCO
+173,From Investments,12  Mar-18,-2052.0,WABCO
+174,From Financial Activity,12  Mar-18,-176.0,WABCO
+175,Net Cashflow,12  Mar-18,880.0,WABCO
+176,Net Sales,12  Mar-19,28541.0,WABCO
+177,Other income,12  Mar-19,725.0,WABCO
+178,Total revenues,12  Mar-19,29266.0,WABCO
+179,Gross profit,12  Mar-19,4099.0,WABCO
+180,Depreciation,12  Mar-19,714.0,WABCO
+181,Interest,12  Mar-19,0.0,WABCO
+182,Profit before tax,12  Mar-19,4109.0,WABCO
+183,Minority Interest,12  Mar-19,0.0,WABCO
+184,Prior Period Items,12  Mar-19,0.0,WABCO
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,WABCO
+186,Tax,12  Mar-19,1287.0,WABCO
+187,Profit after tax,12  Mar-19,2822.0,WABCO
+188,Gross profit margin,12  Mar-19,14.4,WABCO
+189,Effective tax rate,12  Mar-19,31.3,WABCO
+190,Net profit margin,12  Mar-19,9.9,WABCO
+191,Current assets,12  Mar-19,17624,WABCO
+192,Current liabilities,12  Mar-19,5192,WABCO
+193,Net working cap to sales,12  Mar-19,43.6,WABCO
+194,Current ratio,12  Mar-19,3.4,WABCO
+195,Inventory Days,12  Mar-19,19,WABCO
+196,Debtors Days,12  Mar-19,81,WABCO
+197,Net fixed assets,12  Mar-19,4593,WABCO
+198,Share capital,12  Mar-19,95,WABCO
+199,"""Free"" reserves",12  Mar-19,17705,WABCO
+200,Net worth,12  Mar-19,17800,WABCO
+201,Long term debt,12  Mar-19,0,WABCO
+202,Total assets,12  Mar-19,23343,WABCO
+203,Interest coverage,12  Mar-19,NM,WABCO
+204,Debt to equity ratio,12  Mar-19,0,WABCO
+205,Sales to assets ratio,12  Mar-19,1.2,WABCO
+206,Return on assets,12  Mar-19,12.1,WABCO
+207,Return on equity,12  Mar-19,15.9,WABCO
+208,Return on capital,12  Mar-19,23.1,WABCO
+209,Exports to sales,12  Mar-19,0,WABCO
+210,Imports to sales,12  Mar-19,0,WABCO
+211,Exports (fob),12  Mar-19,0,WABCO
+212,Imports (cif),12  Mar-19,0,WABCO
+213,Fx inflow,12  Mar-19,8876,WABCO
+214,Fx outflow,12  Mar-19,5397,WABCO
+215,Net fx,12  Mar-19,3479,WABCO
+216,From Operations,12  Mar-19,-3406,WABCO
+217,From Investments,12  Mar-19,619,WABCO
+218,From Financial Activity,12  Mar-19,-183,WABCO
+219,Net Cashflow,12  Mar-19,-2970,WABCO

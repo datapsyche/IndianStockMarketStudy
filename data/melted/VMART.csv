@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,7205.0,VMART
+1,Other income,12  Mar-15,19.0,VMART
+2,Total revenues,12  Mar-15,7224.0,VMART
+3,Gross profit,12  Mar-15,641.0,VMART
+4,Depreciation,12  Mar-15,46.0,VMART
+5,Interest,12  Mar-15,43.0,VMART
+6,Profit before tax,12  Mar-15,572.0,VMART
+7,Minority Interest,12  Mar-15,0.0,VMART
+8,Prior Period Items,12  Mar-15,0.0,VMART
+9,Extraordinary Inc (Exp),12  Mar-15,-18.0,VMART
+10,Tax,12  Mar-15,180.0,VMART
+11,Profit after tax,12  Mar-15,374.0,VMART
+12,Gross profit margin,12  Mar-15,8.9,VMART
+13,Effective tax rate,12  Mar-15,31.4,VMART
+14,Net profit margin,12  Mar-15,5.2,VMART
+15,Current assets,12  Mar-15,2082.0,VMART
+16,Current liabilities,12  Mar-15,1161.0,VMART
+17,Net working cap to sales,12  Mar-15,12.8,VMART
+18,Current ratio,12  Mar-15,1.8,VMART
+19,Inventory Days,12  Mar-15,93.0,VMART
+20,Debtors Days,12  Mar-15,0.0,VMART
+21,Net fixed assets,12  Mar-15,988.0,VMART
+22,Share capital,12  Mar-15,180.0,VMART
+23,"""Free"" reserves",12  Mar-15,1854.0,VMART
+24,Net worth,12  Mar-15,2049.0,VMART
+25,Long term debt,12  Mar-15,15.0,VMART
+26,Total assets,12  Mar-15,3290.0,VMART
+27,Interest coverage,12  Mar-15,14.3,VMART
+28,Debt to equity ratio,12  Mar-15,0.0,VMART
+29,Sales to assets ratio,12  Mar-15,2.2,VMART
+30,Return on assets,12  Mar-15,12.7,VMART
+31,Return on equity,12  Mar-15,18.2,VMART
+32,Return on capital,12  Mar-15,28.9,VMART
+33,Exports to sales,12  Mar-15,0.0,VMART
+34,Imports to sales,12  Mar-15,0.0,VMART
+35,Exports (fob),12  Mar-15,0.0,VMART
+36,Imports (cif),12  Mar-15,1.0,VMART
+37,Fx inflow,12  Mar-15,0.0,VMART
+38,Fx outflow,12  Mar-15,1.0,VMART
+39,Net fx,12  Mar-15,-1.0,VMART
+40,From Operations,12  Mar-15,399.0,VMART
+41,From Investments,12  Mar-15,-191.0,VMART
+42,From Financial Activity,12  Mar-15,-199.0,VMART
+43,Net Cashflow,12  Mar-15,10.0,VMART
+44,Net Sales,12  Mar-16,8094.0,VMART
+45,Other income,12  Mar-16,12.0,VMART
+46,Total revenues,12  Mar-16,8106.0,VMART
+47,Gross profit,12  Mar-16,618.0,VMART
+48,Depreciation,12  Mar-16,190.0,VMART
+49,Interest,12  Mar-16,31.0,VMART
+50,Profit before tax,12  Mar-16,409.0,VMART
+51,Minority Interest,12  Mar-16,0.0,VMART
+52,Prior Period Items,12  Mar-16,0.0,VMART
+53,Extraordinary Inc (Exp),12  Mar-16,14.0,VMART
+54,Tax,12  Mar-16,147.0,VMART
+55,Profit after tax,12  Mar-16,276.0,VMART
+56,Gross profit margin,12  Mar-16,7.6,VMART
+57,Effective tax rate,12  Mar-16,35.9,VMART
+58,Net profit margin,12  Mar-16,3.4,VMART
+59,Current assets,12  Mar-16,2378.0,VMART
+60,Current liabilities,12  Mar-16,1421.0,VMART
+61,Net working cap to sales,12  Mar-16,11.8,VMART
+62,Current ratio,12  Mar-16,1.7,VMART
+63,Inventory Days,12  Mar-16,92.0,VMART
+64,Debtors Days,12  Mar-16,0.0,VMART
+65,Net fixed assets,12  Mar-16,1126.0,VMART
+66,Share capital,12  Mar-16,181.0,VMART
+67,"""Free"" reserves",12  Mar-16,2127.0,VMART
+68,Net worth,12  Mar-16,2307.0,VMART
+69,Long term debt,12  Mar-16,0.0,VMART
+70,Total assets,12  Mar-16,3734.0,VMART
+71,Interest coverage,12  Mar-16,14.1,VMART
+72,Debt to equity ratio,12  Mar-16,0.0,VMART
+73,Sales to assets ratio,12  Mar-16,2.2,VMART
+74,Return on assets,12  Mar-16,8.2,VMART
+75,Return on equity,12  Mar-16,12.0,VMART
+76,Return on capital,12  Mar-16,19.7,VMART
+77,Exports to sales,12  Mar-16,0.0,VMART
+78,Imports to sales,12  Mar-16,0.0,VMART
+79,Exports (fob),12  Mar-16,0.0,VMART
+80,Imports (cif),12  Mar-16,2.0,VMART
+81,Fx inflow,12  Mar-16,0.0,VMART
+82,Fx outflow,12  Mar-16,2.0,VMART
+83,Net fx,12  Mar-16,-2.0,VMART
+84,From Operations,12  Mar-16,461.0,VMART
+85,From Investments,12  Mar-16,-372.0,VMART
+86,From Financial Activity,12  Mar-16,-96.0,VMART
+87,Net Cashflow,12  Mar-16,-6.0,VMART
+88,Net Sales,12  Mar-17,10017.0,VMART
+89,Other income,12  Mar-17,41.0,VMART
+90,Total revenues,12  Mar-17,10059.0,VMART
+91,Gross profit,12  Mar-17,848.0,VMART
+92,Depreciation,12  Mar-17,186.0,VMART
+93,Interest,12  Mar-17,35.0,VMART
+94,Profit before tax,12  Mar-17,668.0,VMART
+95,Minority Interest,12  Mar-17,0.0,VMART
+96,Prior Period Items,12  Mar-17,0.0,VMART
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,VMART
+98,Tax,12  Mar-17,229.0,VMART
+99,Profit after tax,12  Mar-17,439.0,VMART
+100,Gross profit margin,12  Mar-17,8.5,VMART
+101,Effective tax rate,12  Mar-17,34.3,VMART
+102,Net profit margin,12  Mar-17,4.4,VMART
+103,Current assets,12  Mar-17,3421.0,VMART
+104,Current liabilities,12  Mar-17,2135.0,VMART
+105,Net working cap to sales,12  Mar-17,12.8,VMART
+106,Current ratio,12  Mar-17,1.6,VMART
+107,Inventory Days,12  Mar-17,98.0,VMART
+108,Debtors Days,12  Mar-17,0.0,VMART
+109,Net fixed assets,12  Mar-17,1315.0,VMART
+110,Share capital,12  Mar-17,181.0,VMART
+111,"""Free"" reserves",12  Mar-17,2520.0,VMART
+112,Net worth,12  Mar-17,2700.0,VMART
+113,Long term debt,12  Mar-17,6.0,VMART
+114,Total assets,12  Mar-17,4907.0,VMART
+115,Interest coverage,12  Mar-17,20.0,VMART
+116,Debt to equity ratio,12  Mar-17,0.0,VMART
+117,Sales to assets ratio,12  Mar-17,2.0,VMART
+118,Return on assets,12  Mar-17,9.7,VMART
+119,Return on equity,12  Mar-17,16.3,VMART
+120,Return on capital,12  Mar-17,26.0,VMART
+121,Exports to sales,12  Mar-17,0.0,VMART
+122,Imports to sales,12  Mar-17,0.0,VMART
+123,Exports (fob),12  Mar-17,0.0,VMART
+124,Imports (cif),12  Mar-17,0.0,VMART
+125,Fx inflow,12  Mar-17,0.0,VMART
+126,Fx outflow,12  Mar-17,0.0,VMART
+127,Net fx,12  Mar-17,0.0,VMART
+128,From Operations,12  Mar-17,687.0,VMART
+129,From Investments,12  Mar-17,-728.0,VMART
+130,From Financial Activity,12  Mar-17,49.0,VMART
+131,Net Cashflow,12  Mar-17,8.0,VMART
+132,Net Sales,12  Mar-18,12224.0,VMART
+133,Other income,12  Mar-18,27.0,VMART
+134,Total revenues,12  Mar-18,12250.0,VMART
+135,Gross profit,12  Mar-18,1343.0,VMART
+136,Depreciation,12  Mar-18,229.0,VMART
+137,Interest,12  Mar-18,15.0,VMART
+138,Profit before tax,12  Mar-18,1125.0,VMART
+139,Minority Interest,12  Mar-18,0.0,VMART
+140,Prior Period Items,12  Mar-18,0.0,VMART
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,VMART
+142,Tax,12  Mar-18,348.0,VMART
+143,Profit after tax,12  Mar-18,777.0,VMART
+144,Gross profit margin,12  Mar-18,11.0,VMART
+145,Effective tax rate,12  Mar-18,30.9,VMART
+146,Net profit margin,12  Mar-18,6.4,VMART
+147,Current assets,12  Mar-18,3674.0,VMART
+148,Current liabilities,12  Mar-18,1944.0,VMART
+149,Net working cap to sales,12  Mar-18,14.2,VMART
+150,Current ratio,12  Mar-18,1.9,VMART
+151,Inventory Days,12  Mar-18,92.0,VMART
+152,Debtors Days,12  Mar-18,0.0,VMART
+153,Net fixed assets,12  Mar-18,1483.0,VMART
+154,Share capital,12  Mar-18,181.0,VMART
+155,"""Free"" reserves",12  Mar-18,3293.0,VMART
+156,Net worth,12  Mar-18,3474.0,VMART
+157,Long term debt,12  Mar-18,3.0,VMART
+158,Total assets,12  Mar-18,5499.0,VMART
+159,Interest coverage,12  Mar-18,74.5,VMART
+160,Debt to equity ratio,12  Mar-18,0.0,VMART
+161,Sales to assets ratio,12  Mar-18,2.2,VMART
+162,Return on assets,12  Mar-18,14.4,VMART
+163,Return on equity,12  Mar-18,22.4,VMART
+164,Return on capital,12  Mar-18,32.8,VMART
+165,Exports to sales,12  Mar-18,0.0,VMART
+166,Imports to sales,12  Mar-18,0.0,VMART
+167,Exports (fob),12  Mar-18,0.0,VMART
+168,Imports (cif),12  Mar-18,0.0,VMART
+169,Fx inflow,12  Mar-18,0.0,VMART
+170,Fx outflow,12  Mar-18,0.0,VMART
+171,Net fx,12  Mar-18,0.0,VMART
+172,From Operations,12  Mar-18,577.0,VMART
+173,From Investments,12  Mar-18,-84.0,VMART
+174,From Financial Activity,12  Mar-18,-384.0,VMART
+175,Net Cashflow,12  Mar-18,109.0,VMART
+176,Net Sales,12  Mar-19,14337.0,VMART
+177,Other income,12  Mar-19,41.0,VMART
+178,Total revenues,12  Mar-19,14379.0,VMART
+179,Gross profit,12  Mar-19,1249.0,VMART
+180,Depreciation,12  Mar-19,276.0,VMART
+181,Interest,12  Mar-19,16.0,VMART
+182,Profit before tax,12  Mar-19,998.0,VMART
+183,Minority Interest,12  Mar-19,0.0,VMART
+184,Prior Period Items,12  Mar-19,0.0,VMART
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,VMART
+186,Tax,12  Mar-19,382.0,VMART
+187,Profit after tax,12  Mar-19,616.0,VMART
+188,Gross profit margin,12  Mar-19,8.7,VMART
+189,Effective tax rate,12  Mar-19,38.3,VMART
+190,Net profit margin,12  Mar-19,4.3,VMART
+191,Current assets,12  Mar-19,4216.0,VMART
+192,Current liabilities,12  Mar-19,2114.0,VMART
+193,Net working cap to sales,12  Mar-19,14.7,VMART
+194,Current ratio,12  Mar-19,2.0,VMART
+195,Inventory Days,12  Mar-19,84.0,VMART
+196,Debtors Days,12  Mar-19,0.0,VMART
+197,Net fixed assets,12  Mar-19,1695.0,VMART
+198,Share capital,12  Mar-19,181.0,VMART
+199,"""Free"" reserves",12  Mar-19,3911.0,VMART
+200,Net worth,12  Mar-19,4093.0,VMART
+201,Long term debt,12  Mar-19,0.0,VMART
+202,Total assets,12  Mar-19,6318.0,VMART
+203,Interest coverage,12  Mar-19,63.0,VMART
+204,Debt to equity ratio,12  Mar-19,0.0,VMART
+205,Sales to assets ratio,12  Mar-19,2.3,VMART
+206,Return on assets,12  Mar-19,10.0,VMART
+207,Return on equity,12  Mar-19,15.1,VMART
+208,Return on capital,12  Mar-19,24.8,VMART
+209,Exports to sales,12  Mar-19,0.0,VMART
+210,Imports to sales,12  Mar-19,0.0,VMART
+211,Exports (fob),12  Mar-19,0.0,VMART
+212,Imports (cif),12  Mar-19,0.0,VMART
+213,Fx inflow,12  Mar-19,0.0,VMART
+214,Fx outflow,12  Mar-19,0.0,VMART
+215,Net fx,12  Mar-19,0.0,VMART
+216,From Operations,12  Mar-19,763.0,VMART
+217,From Investments,12  Mar-19,-734.0,VMART
+218,From Financial Activity,12  Mar-19,-44.0,VMART
+219,Net Cashflow,12  Mar-19,-14.0,VMART

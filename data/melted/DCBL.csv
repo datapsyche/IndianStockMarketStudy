@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15,14224.0,DCBL
+1,Other income,12  Mar-15,1657.0,DCBL
+2,Interest expense,12  Mar-15,9142.0,DCBL
+3,Net interest income,12  Mar-15,5082.0,DCBL
+4,Operating expense,12  Mar-15,3965.0,DCBL
+5,Provisions/contingencies,12  Mar-15,694.0,DCBL
+6,Profit before tax,12  Mar-15,2080.0,DCBL
+7,Extraordinary Inc (Exp),12  Mar-15,0.0,DCBL
+8,Minority Interest,12  Mar-15,0.0,DCBL
+9,Prior Period Items,12  Mar-15,0.0,DCBL
+10,Tax,12  Mar-15,169.0,DCBL
+11,Profit after tax,12  Mar-15,1912.0,DCBL
+12,Net profit margin,12  Mar-15,13.4,DCBL
+13,Advances,12  Mar-15,104651.0,DCBL
+14,Deposits,12  Mar-15,126091.0,DCBL
+15,Credit/Deposit ratio,12  Mar-15,83.0,DCBL
+16,Yield on advances,12  Mar-15,10.5,DCBL
+17,Cost of deposits,12  Mar-15,6.7,DCBL
+18,Net Interest Margin,12  Mar-15,3.2,DCBL
+19,Net fixed assets,12  Mar-15,2367.0,DCBL
+20,Share capital,12  Mar-15,2820.0,DCBL
+21,Free reserves,12  Mar-15,10203.0,DCBL
+22,Net worth,12  Mar-15,15886.0,DCBL
+23,Borrowings,12  Mar-15,11638.0,DCBL
+24,Investments,12  Mar-15,44706.0,DCBL
+25,Total assets,12  Mar-15,161323.0,DCBL
+26,Debt/equity ratio,12  Mar-15,8.7,DCBL
+27,Return on assets,12  Mar-15,1.2,DCBL
+28,Return on equity,12  Mar-15,12.0,DCBL
+29,Capital adequacy ratio,12  Mar-15,15.0,DCBL
+30,Net NPAs,12  Mar-15,1.0,DCBL
+31,From Operations,12  Mar-15,-4957.0,DCBL
+32,From Investments,12  Mar-15,-288.0,DCBL
+33,From Financial Activity,12  Mar-15,5541.0,DCBL
+34,Net Cashflow,12  Mar-15,296.0,DCBL
+35,Interest income,12  Mar-16,16985.0,DCBL
+36,Other income,12  Mar-16,2205.0,DCBL
+37,Interest expense,12  Mar-16,10790.0,DCBL
+38,Net interest income,12  Mar-16,6195.0,DCBL
+39,Operating expense,12  Mar-16,4909.0,DCBL
+40,Provisions/contingencies,12  Mar-16,879.0,DCBL
+41,Profit before tax,12  Mar-16,2611.0,DCBL
+42,Extraordinary Inc (Exp),12  Mar-16,0.0,DCBL
+43,Minority Interest,12  Mar-16,0.0,DCBL
+44,Prior Period Items,12  Mar-16,0.0,DCBL
+45,Tax,12  Mar-16,666.0,DCBL
+46,Profit after tax,12  Mar-16,1945.0,DCBL
+47,Net profit margin,12  Mar-16,11.5,DCBL
+48,Advances,12  Mar-16,129214.0,DCBL
+49,Deposits,12  Mar-16,149260.0,DCBL
+50,Credit/Deposit ratio,12  Mar-16,86.6,DCBL
+51,Yield on advances,12  Mar-16,10.5,DCBL
+52,Cost of deposits,12  Mar-16,6.8,DCBL
+53,Net Interest Margin,12  Mar-16,3.4,DCBL
+54,Net fixed assets,12  Mar-16,2480.0,DCBL
+55,Share capital,12  Mar-16,2844.0,DCBL
+56,Free reserves,12  Mar-16,11689.0,DCBL
+57,Net worth,12  Mar-16,17922.0,DCBL
+58,Borrowings,12  Mar-16,11479.0,DCBL
+59,Investments,12  Mar-16,43333.0,DCBL
+60,Total assets,12  Mar-16,191185.0,DCBL
+61,Debt/equity ratio,12  Mar-16,9.0,DCBL
+62,Return on assets,12  Mar-16,1.0,DCBL
+63,Return on equity,12  Mar-16,10.9,DCBL
+64,Capital adequacy ratio,12  Mar-16,14.1,DCBL
+65,Net NPAs,12  Mar-16,0.8,DCBL
+66,From Operations,12  Mar-16,2196.0,DCBL
+67,From Investments,12  Mar-16,-409.0,DCBL
+68,From Financial Activity,12  Mar-16,-64.0,DCBL
+69,Net Cashflow,12  Mar-16,1724.0,DCBL
+70,Interest income,12  Mar-17,20762.0,DCBL
+71,Other income,12  Mar-17,2489.0,DCBL
+72,Interest expense,12  Mar-17,12791.0,DCBL
+73,Net interest income,12  Mar-17,7971.0,DCBL
+74,Operating expense,12  Mar-17,6277.0,DCBL
+75,Provisions/contingencies,12  Mar-17,1115.0,DCBL
+76,Profit before tax,12  Mar-17,3067.0,DCBL
+77,Extraordinary Inc (Exp),12  Mar-17,0.0,DCBL
+78,Minority Interest,12  Mar-17,0.0,DCBL
+79,Prior Period Items,12  Mar-17,0.0,DCBL
+80,Tax,12  Mar-17,1070.0,DCBL
+81,Profit after tax,12  Mar-17,1997.0,DCBL
+82,Net profit margin,12  Mar-17,9.6,DCBL
+83,Advances,12  Mar-17,158176.0,DCBL
+84,Deposits,12  Mar-17,192892.0,DCBL
+85,Credit/Deposit ratio,12  Mar-17,82.0,DCBL
+86,Yield on advances,12  Mar-17,10.4,DCBL
+87,Cost of deposits,12  Mar-17,6.1,DCBL
+88,Net Interest Margin,12  Mar-17,3.5,DCBL
+89,Net fixed assets,12  Mar-17,4886.0,DCBL
+90,Share capital,12  Mar-17,2854.0,DCBL
+91,Free reserves,12  Mar-17,19179.0,DCBL
+92,Net worth,12  Mar-17,22033.0,DCBL
+93,Borrowings,12  Mar-17,12758.0,DCBL
+94,Investments,12  Mar-17,58179.0,DCBL
+95,Total assets,12  Mar-17,240464.0,DCBL
+96,Debt/equity ratio,12  Mar-17,9.3,DCBL
+97,Return on assets,12  Mar-17,0.8,DCBL
+98,Return on equity,12  Mar-17,9.1,DCBL
+99,Capital adequacy ratio,12  Mar-17,13.8,DCBL
+100,Net NPAs,12  Mar-17,0.8,DCBL
+101,From Operations,12  Mar-17,2398.0,DCBL
+102,From Investments,12  Mar-17,-711.0,DCBL
+103,From Financial Activity,12  Mar-17,1322.0,DCBL
+104,Net Cashflow,12  Mar-17,3009.0,DCBL
+105,Interest income,12  Mar-18,24130.0,DCBL
+106,Other income,12  Mar-18,3103.0,DCBL
+107,Interest expense,12  Mar-18,14176.0,DCBL
+108,Net interest income,12  Mar-18,9954.0,DCBL
+109,Operating expense,12  Mar-18,7807.0,DCBL
+110,Provisions/contingencies,12  Mar-18,1388.0,DCBL
+111,Profit before tax,12  Mar-18,3862.0,DCBL
+112,Extraordinary Inc (Exp),12  Mar-18,0.0,DCBL
+113,Minority Interest,12  Mar-18,0.0,DCBL
+114,Prior Period Items,12  Mar-18,0.0,DCBL
+115,Tax,12  Mar-18,1408.0,DCBL
+116,Profit after tax,12  Mar-18,2453.0,DCBL
+117,Net profit margin,12  Mar-18,10.2,DCBL
+118,Advances,12  Mar-18,203367.0,DCBL
+119,Deposits,12  Mar-18,240069.0,DCBL
+120,Credit/Deposit ratio,12  Mar-18,84.7,DCBL
+121,Yield on advances,12  Mar-18,9.5,DCBL
+122,Cost of deposits,12  Mar-18,5.4,DCBL
+123,Net Interest Margin,12  Mar-18,3.4,DCBL
+124,Net fixed assets,12  Mar-18,4940.0,DCBL
+125,Share capital,12  Mar-18,3081.0,DCBL
+126,Free reserves,12  Mar-18,24983.0,DCBL
+127,Net worth,12  Mar-18,28064.0,DCBL
+128,Borrowings,12  Mar-18,19267.0,DCBL
+129,Investments,12  Mar-18,62190.0,DCBL
+130,Total assets,12  Mar-18,302221.0,DCBL
+131,Debt/equity ratio,12  Mar-18,9.2,DCBL
+132,Return on assets,12  Mar-18,0.8,DCBL
+133,Return on equity,12  Mar-18,8.7,DCBL
+134,Capital adequacy ratio,12  Mar-18,16.5,DCBL
+135,Net NPAs,12  Mar-18,0.7,DCBL
+136,From Operations,12  Mar-18,2301.0,DCBL
+137,From Investments,12  Mar-18,-592.0,DCBL
+138,From Financial Activity,12  Mar-18,10087.0,DCBL
+139,Net Cashflow,12  Mar-18,11795.0,DCBL
+140,Interest income,12  Mar-19,30415.0,DCBL
+141,Other income,12  Mar-19,3502.0,DCBL
+142,Interest expense,12  Mar-19,18922.0,DCBL
+143,Net interest income,12  Mar-19,11493.0,DCBL
+144,Operating expense,12  Mar-19,8529.0,DCBL
+145,Provisions/contingencies,12  Mar-19,1401.0,DCBL
+146,Profit before tax,12  Mar-19,5065.0,DCBL
+147,Extraordinary Inc (Exp),12  Mar-19,0.0,DCBL
+148,Minority Interest,12  Mar-19,0.0,DCBL
+149,Prior Period Items,12  Mar-19,0.0,DCBL
+150,Tax,12  Mar-19,1812.0,DCBL
+151,Profit after tax,12  Mar-19,3254.0,DCBL
+152,Net profit margin,12  Mar-19,10.7,DCBL
+153,Advances,12  Mar-19,235680.0,DCBL
+154,Deposits,12  Mar-19,284351.0,DCBL
+155,Credit/Deposit ratio,12  Mar-19,82.9,DCBL
+156,Yield on advances,12  Mar-19,10.4,DCBL
+157,Cost of deposits,12  Mar-19,6.0,DCBL
+158,Net Interest Margin,12  Mar-19,3.4,DCBL
+159,Net fixed assets,12  Mar-19,5260.0,DCBL
+160,Share capital,12  Mar-19,3096.0,DCBL
+161,Free reserves,12  Mar-19,28049.0,DCBL
+162,Net worth,12  Mar-19,31144.0,DCBL
+163,Borrowings,12  Mar-19,27232.0,DCBL
+164,Investments,12  Mar-19,78441.0,DCBL
+165,Total assets,12  Mar-19,357918.0,DCBL
+166,Debt/equity ratio,12  Mar-19,10.0,DCBL
+167,Return on assets,12  Mar-19,0.9,DCBL
+168,Return on equity,12  Mar-19,10.4,DCBL
+169,Capital adequacy ratio,12  Mar-19,16.8,DCBL
+170,Net NPAs,12  Mar-19,0.7,DCBL
+171,From Operations,12  Mar-19,-2813.0,DCBL
+172,From Investments,12  Mar-19,-764.0,DCBL
+173,From Financial Activity,12  Mar-19,7792.0,DCBL
+174,Net Cashflow,12  Mar-19,4214.0,DCBL

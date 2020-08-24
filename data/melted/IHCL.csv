@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,41886.0,IHCL
+1,Other income,12  Mar-15*,1363.0,IHCL
+2,Total revenues,12  Mar-15*,43250.0,IHCL
+3,Gross profit,12  Mar-15*,4886.0,IHCL
+4,Depreciation,12  Mar-15*,2913.0,IHCL
+5,Interest,12  Mar-15*,2132.0,IHCL
+6,Profit before tax,12  Mar-15*,1204.0,IHCL
+7,Minority Interest,12  Mar-15*,-310.0,IHCL
+8,Prior Period Items,12  Mar-15*,20.0,IHCL
+9,Extraordinary Inc (Exp),12  Mar-15*,-3529.0,IHCL
+10,Tax,12  Mar-15*,1167.0,IHCL
+11,Profit after tax,12  Mar-15*,-3781.0,IHCL
+12,Gross profit margin,12  Mar-15*,11.7,IHCL
+13,Effective tax rate,12  Mar-15*,96.9,IHCL
+14,Net profit margin,12  Mar-15*,-9.0,IHCL
+15,Current assets,12  Mar-15*,15938.0,IHCL
+16,Current liabilities,12  Mar-15*,28070.0,IHCL
+17,Net working cap to sales,12  Mar-15*,-29.0,IHCL
+18,Current ratio,12  Mar-15*,0.6,IHCL
+19,Inventory Days,12  Mar-15*,7.0,IHCL
+20,Debtors Days,12  Mar-15*,19.0,IHCL
+21,Net fixed assets,12  Mar-15*,68204.0,IHCL
+22,Share capital,12  Mar-15*,808.0,IHCL
+23,"""Free"" reserves",12  Mar-15*,26931.0,IHCL
+24,Net worth,12  Mar-15*,27739.0,IHCL
+25,Long term debt,12  Mar-15*,33754.0,IHCL
+26,Total assets,12  Mar-15*,103263.0,IHCL
+27,Interest coverage,12  Mar-15*,1.6,IHCL
+28,Debt to equity ratio,12  Mar-15*,1.2,IHCL
+29,Sales to assets ratio,12  Mar-15*,0.4,IHCL
+30,Return on assets,12  Mar-15*,-1.6,IHCL
+31,Return on equity,12  Mar-15*,-13.6,IHCL
+32,Return on capital,12  Mar-15*,-0.8,IHCL
+33,Exports to sales,12  Mar-15*,0.0,IHCL
+34,Imports to sales,12  Mar-15*,0.9,IHCL
+35,Exports (fob),12  Mar-15*,0.0,IHCL
+36,Imports (cif),12  Mar-15*,391.0,IHCL
+37,Fx inflow,12  Mar-15*,6865.0,IHCL
+38,Fx outflow,12  Mar-15*,1879.0,IHCL
+39,Net fx,12  Mar-15*,4986.0,IHCL
+40,From Operations,12  Mar-15*,4948.0,IHCL
+41,From Investments,12  Mar-15*,-7258.0,IHCL
+42,From Financial Activity,12  Mar-15*,4911.0,IHCL
+43,Net Cashflow,12  Mar-15*,2600.0,IHCL
+44,Net Sales,12  Mar-16*,40230.0,IHCL
+45,Other income,12  Mar-16*,998.0,IHCL
+46,Total revenues,12  Mar-16*,41228.0,IHCL
+47,Gross profit,12  Mar-16*,5522.0,IHCL
+48,Depreciation,12  Mar-16*,2848.0,IHCL
+49,Interest,12  Mar-16*,3756.0,IHCL
+50,Profit before tax,12  Mar-16*,-85.0,IHCL
+51,Minority Interest,12  Mar-16*,-214.0,IHCL
+52,Prior Period Items,12  Mar-16*,0.0,IHCL
+53,Extraordinary Inc (Exp),12  Mar-16*,-827.0,IHCL
+54,Tax,12  Mar-16*,906.0,IHCL
+55,Profit after tax,12  Mar-16*,-2032.0,IHCL
+56,Gross profit margin,12  Mar-16*,13.7,IHCL
+57,Effective tax rate,12  Mar-16*,-1067.5,IHCL
+58,Net profit margin,12  Mar-16*,-5.1,IHCL
+59,Current assets,12  Mar-16*,9445.0,IHCL
+60,Current liabilities,12  Mar-16*,24159.0,IHCL
+61,Net working cap to sales,12  Mar-16*,-36.6,IHCL
+62,Current ratio,12  Mar-16*,0.4,IHCL
+63,Inventory Days,12  Mar-16*,7.0,IHCL
+64,Debtors Days,12  Mar-16*,22.0,IHCL
+65,Net fixed assets,12  Mar-16*,70516.0,IHCL
+66,Share capital,12  Mar-16*,989.0,IHCL
+67,"""Free"" reserves",12  Mar-16*,24813.0,IHCL
+68,Net worth,12  Mar-16*,25803.0,IHCL
+69,Long term debt,12  Mar-16*,34190.0,IHCL
+70,Total assets,12  Mar-16*,98154.0,IHCL
+71,Interest coverage,12  Mar-16*,1.0,IHCL
+72,Debt to equity ratio,12  Mar-16*,1.3,IHCL
+73,Sales to assets ratio,12  Mar-16*,0.4,IHCL
+74,Return on assets,12  Mar-16*,1.8,IHCL
+75,Return on equity,12  Mar-16*,-7.9,IHCL
+76,Return on capital,12  Mar-16*,4.4,IHCL
+77,Exports to sales,12  Mar-16*,0.0,IHCL
+78,Imports to sales,12  Mar-16*,1.0,IHCL
+79,Exports (fob),12  Mar-16*,0.0,IHCL
+80,Imports (cif),12  Mar-16*,391.0,IHCL
+81,Fx inflow,12  Mar-16*,7241.0,IHCL
+82,Fx outflow,12  Mar-16*,1694.0,IHCL
+83,Net fx,12  Mar-16*,5547.0,IHCL
+84,From Operations,12  Mar-16*,6188.0,IHCL
+85,From Investments,12  Mar-16*,3381.0,IHCL
+86,From Financial Activity,12  Mar-16*,-11965.0,IHCL
+87,Net Cashflow,12  Mar-16*,-2369.0,IHCL
+88,Net Sales,12  Mar-17*,40206.0,IHCL
+89,Other income,12  Mar-17*,549.0,IHCL
+90,Total revenues,12  Mar-17*,40755.0,IHCL
+91,Gross profit,12  Mar-17*,6096.0,IHCL
+92,Depreciation,12  Mar-17*,2994.0,IHCL
+93,Interest,12  Mar-17*,3238.0,IHCL
+94,Profit before tax,12  Mar-17*,414.0,IHCL
+95,Minority Interest,12  Mar-17*,376.0,IHCL
+96,Prior Period Items,12  Mar-17*,0.0,IHCL
+97,Extraordinary Inc (Exp),12  Mar-17*,-108.0,IHCL
+98,Tax,12  Mar-17*,1137.0,IHCL
+99,Profit after tax,12  Mar-17*,-456.0,IHCL
+100,Gross profit margin,12  Mar-17*,15.2,IHCL
+101,Effective tax rate,12  Mar-17*,275.0,IHCL
+102,Net profit margin,12  Mar-17*,-1.1,IHCL
+103,Current assets,12  Mar-17*,9263.0,IHCL
+104,Current liabilities,12  Mar-17*,18393.0,IHCL
+105,Net working cap to sales,12  Mar-17*,-22.7,IHCL
+106,Current ratio,12  Mar-17*,0.5,IHCL
+107,Inventory Days,12  Mar-17*,7.0,IHCL
+108,Debtors Days,12  Mar-17*,25.0,IHCL
+109,Net fixed assets,12  Mar-17*,60381.0,IHCL
+110,Share capital,12  Mar-17*,989.0,IHCL
+111,"""Free"" reserves",12  Mar-17*,24188.0,IHCL
+112,Net worth,12  Mar-17*,25177.0,IHCL
+113,Long term debt,12  Mar-17*,27899.0,IHCL
+114,Total assets,12  Mar-17*,86343.0,IHCL
+115,Interest coverage,12  Mar-17*,1.1,IHCL
+116,Debt to equity ratio,12  Mar-17*,1.1,IHCL
+117,Sales to assets ratio,12  Mar-17*,0.5,IHCL
+118,Return on assets,12  Mar-17*,3.2,IHCL
+119,Return on equity,12  Mar-17*,-1.8,IHCL
+120,Return on capital,12  Mar-17*,7.4,IHCL
+121,Exports to sales,12  Mar-17*,0.0,IHCL
+122,Imports to sales,12  Mar-17*,0.0,IHCL
+123,Exports (fob),12  Mar-17*,0.0,IHCL
+124,Imports (cif),12  Mar-17*,0.0,IHCL
+125,Fx inflow,12  Mar-17*,0.0,IHCL
+126,Fx outflow,12  Mar-17*,0.0,IHCL
+127,Net fx,12  Mar-17*,0.0,IHCL
+128,From Operations,12  Mar-17*,5345.0,IHCL
+129,From Investments,12  Mar-17*,8550.0,IHCL
+130,From Financial Activity,12  Mar-17*,-13814.0,IHCL
+131,Net Cashflow,12  Mar-17*,15.0,IHCL
+132,Net Sales,12  Mar-18*,41036.0,IHCL
+133,Other income,12  Mar-18*,617.0,IHCL
+134,Total revenues,12  Mar-18*,41653.0,IHCL
+135,Gross profit,12  Mar-18*,6704.0,IHCL
+136,Depreciation,12  Mar-18*,3012.0,IHCL
+137,Interest,12  Mar-18*,2690.0,IHCL
+138,Profit before tax,12  Mar-18*,1618.0,IHCL
+139,Minority Interest,12  Mar-18*,403.0,IHCL
+140,Prior Period Items,12  Mar-18*,0.0,IHCL
+141,Extraordinary Inc (Exp),12  Mar-18*,225.0,IHCL
+142,Tax,12  Mar-18*,1211.0,IHCL
+143,Profit after tax,12  Mar-18*,1035.0,IHCL
+144,Gross profit margin,12  Mar-18*,16.3,IHCL
+145,Effective tax rate,12  Mar-18*,74.8,IHCL
+146,Net profit margin,12  Mar-18*,2.5,IHCL
+147,Current assets,12  Mar-18*,12195.0,IHCL
+148,Current liabilities,12  Mar-18*,13934.0,IHCL
+149,Net working cap to sales,12  Mar-18*,-4.2,IHCL
+150,Current ratio,12  Mar-18*,0.9,IHCL
+151,Inventory Days,12  Mar-18*,8.0,IHCL
+152,Debtors Days,12  Mar-18*,29.0,IHCL
+153,Net fixed assets,12  Mar-18*,63596.0,IHCL
+154,Share capital,12  Mar-18*,1189.0,IHCL
+155,"""Free"" reserves",12  Mar-18*,40622.0,IHCL
+156,Net worth,12  Mar-18*,41811.0,IHCL
+157,Long term debt,12  Mar-18*,23292.0,IHCL
+158,Total assets,12  Mar-18*,93745.0,IHCL
+159,Interest coverage,12  Mar-18*,1.6,IHCL
+160,Debt to equity ratio,12  Mar-18*,0.6,IHCL
+161,Sales to assets ratio,12  Mar-18*,0.4,IHCL
+162,Return on assets,12  Mar-18*,4.0,IHCL
+163,Return on equity,12  Mar-18*,2.5,IHCL
+164,Return on capital,12  Mar-18*,7.6,IHCL
+165,Exports to sales,12  Mar-18*,0.0,IHCL
+166,Imports to sales,12  Mar-18*,0.0,IHCL
+167,Exports (fob),12  Mar-18*,0.0,IHCL
+168,Imports (cif),12  Mar-18*,0.0,IHCL
+169,Fx inflow,12  Mar-18*,0.0,IHCL
+170,Fx outflow,12  Mar-18*,0.0,IHCL
+171,Net fx,12  Mar-18*,0.0,IHCL
+172,From Operations,12  Mar-18*,4921.0,IHCL
+173,From Investments,12  Mar-18*,-5287.0,IHCL
+174,From Financial Activity,12  Mar-18*,957.0,IHCL
+175,Net Cashflow,12  Mar-18*,665.0,IHCL
+176,Net Sales,12  Mar-19*,45120.0,IHCL
+177,Other income,12  Mar-19*,834.0,IHCL
+178,Total revenues,12  Mar-19*,45954.0,IHCL
+179,Gross profit,12  Mar-19*,8297.0,IHCL
+180,Depreciation,12  Mar-19*,3279.0,IHCL
+181,Interest,12  Mar-19*,1901.0,IHCL
+182,Profit before tax,12  Mar-19*,3951.0,IHCL
+183,Minority Interest,12  Mar-19*,515.0,IHCL
+184,Prior Period Items,12  Mar-19*,0.0,IHCL
+185,Extraordinary Inc (Exp),12  Mar-19*,66.0,IHCL
+186,Tax,12  Mar-19*,1571.0,IHCL
+187,Profit after tax,12  Mar-19*,2961.0,IHCL
+188,Gross profit margin,12  Mar-19*,18.4,IHCL
+189,Effective tax rate,12  Mar-19*,39.8,IHCL
+190,Net profit margin,12  Mar-19*,6.6,IHCL
+191,Current assets,12  Mar-19*,11588.0,IHCL
+192,Current liabilities,12  Mar-19*,20895.0,IHCL
+193,Net working cap to sales,12  Mar-19*,-20.6,IHCL
+194,Current ratio,12  Mar-19*,0.6,IHCL
+195,Inventory Days,12  Mar-19*,7.0,IHCL
+196,Debtors Days,12  Mar-19*,26.0,IHCL
+197,Net fixed assets,12  Mar-19*,65384.0,IHCL
+198,Share capital,12  Mar-19*,1189.0,IHCL
+199,"""Free"" reserves",12  Mar-19*,42291.0,IHCL
+200,Net worth,12  Mar-19*,43480.0,IHCL
+201,Long term debt,12  Mar-19*,16875.0,IHCL
+202,Total assets,12  Mar-19*,95838.0,IHCL
+203,Interest coverage,12  Mar-19*,3.1,IHCL
+204,Debt to equity ratio,12  Mar-19*,0.4,IHCL
+205,Sales to assets ratio,12  Mar-19*,0.5,IHCL
+206,Return on assets,12  Mar-19*,5.1,IHCL
+207,Return on equity,12  Mar-19*,6.8,IHCL
+208,Return on capital,12  Mar-19*,10.7,IHCL
+209,Exports to sales,12  Mar-19*,0.0,IHCL
+210,Imports to sales,12  Mar-19*,0.0,IHCL
+211,Exports (fob),12  Mar-19*,0.0,IHCL
+212,Imports (cif),12  Mar-19*,0.0,IHCL
+213,Fx inflow,12  Mar-19*,7325.0,IHCL
+214,Fx outflow,12  Mar-19*,843.0,IHCL
+215,Net fx,12  Mar-19*,6482.0,IHCL
+216,From Operations,12  Mar-19*,7114.0,IHCL
+217,From Investments,12  Mar-19*,-3882.0,IHCL
+218,From Financial Activity,12  Mar-19*,-3433.0,IHCL
+219,Net Cashflow,12  Mar-19*,-186.0,IHCL

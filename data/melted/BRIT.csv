@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,83972.0,BRIT
+1,Other income,12  Mar-16*,1244.0,BRIT
+2,Total revenues,12  Mar-16*,85216.0,BRIT
+3,Gross profit,12  Mar-16*,12144.0,BRIT
+4,Depreciation,12  Mar-16*,1134.0,BRIT
+5,Interest,12  Mar-16*,49.0,BRIT
+6,Profit before tax,12  Mar-16*,12205.0,BRIT
+7,Minority Interest,12  Mar-16*,2.0,BRIT
+8,Prior Period Items,12  Mar-16*,0.0,BRIT
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,BRIT
+10,Tax,12  Mar-16*,3961.0,BRIT
+11,Profit after tax,12  Mar-16*,8246.0,BRIT
+12,Gross profit margin,12  Mar-16*,14.5,BRIT
+13,Effective tax rate,12  Mar-16*,32.5,BRIT
+14,Net profit margin,12  Mar-16*,9.8,BRIT
+15,Current assets,12  Mar-16*,17241.0,BRIT
+16,Current liabilities,12  Mar-16*,13298.0,BRIT
+17,Net working cap to sales,12  Mar-16*,4.7,BRIT
+18,Current ratio,12  Mar-16*,1.3,BRIT
+19,Inventory Days,12  Mar-16*,19.0,BRIT
+20,Debtors Days,12  Mar-16*,7.0,BRIT
+21,Net fixed assets,12  Mar-16*,9111.0,BRIT
+22,Share capital,12  Mar-16*,240.0,BRIT
+23,"""Free"" reserves",12  Mar-16*,20677.0,BRIT
+24,Net worth,12  Mar-16*,20917.0,BRIT
+25,Long term debt,12  Mar-16*,377.0,BRIT
+26,Total assets,12  Mar-16*,34939.0,BRIT
+27,Interest coverage,12  Mar-16*,251.6,BRIT
+28,Debt to equity ratio,12  Mar-16*,0.0,BRIT
+29,Sales to assets ratio,12  Mar-16*,2.4,BRIT
+30,Return on assets,12  Mar-16*,23.7,BRIT
+31,Return on equity,12  Mar-16*,39.4,BRIT
+32,Return on capital,12  Mar-16*,57.6,BRIT
+33,Exports to sales,12  Mar-16*,1.8,BRIT
+34,Imports to sales,12  Mar-16*,0.3,BRIT
+35,Exports (fob),12  Mar-16*,1549.0,BRIT
+36,Imports (cif),12  Mar-16*,253.0,BRIT
+37,Fx inflow,12  Mar-16*,1737.0,BRIT
+38,Fx outflow,12  Mar-16*,1285.0,BRIT
+39,Net fx,12  Mar-16*,453.0,BRIT
+40,From Operations,12  Mar-16*,9592.0,BRIT
+41,From Investments,12  Mar-16*,-7052.0,BRIT
+42,From Financial Activity,12  Mar-16*,-2462.0,BRIT
+43,Net Cashflow,12  Mar-16*,79.0,BRIT
+44,Net Sales,12  Mar-17*,90541.0,BRIT
+45,Other income,12  Mar-17*,1505.0,BRIT
+46,Total revenues,12  Mar-17*,92046.0,BRIT
+47,Gross profit,12  Mar-17*,12782.0,BRIT
+48,Depreciation,12  Mar-17*,1193.0,BRIT
+49,Interest,12  Mar-17*,55.0,BRIT
+50,Profit before tax,12  Mar-17*,13040.0,BRIT
+51,Minority Interest,12  Mar-17*,3.0,BRIT
+52,Prior Period Items,12  Mar-17*,0.0,BRIT
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,BRIT
+54,Tax,12  Mar-17*,4197.0,BRIT
+55,Profit after tax,12  Mar-17*,8846.0,BRIT
+56,Gross profit margin,12  Mar-17*,14.1,BRIT
+57,Effective tax rate,12  Mar-17*,32.2,BRIT
+58,Net profit margin,12  Mar-17*,9.8,BRIT
+59,Current assets,12  Mar-17*,23392.0,BRIT
+60,Current liabilities,12  Mar-17*,13454.0,BRIT
+61,Net working cap to sales,12  Mar-17*,11.0,BRIT
+62,Current ratio,12  Mar-17*,1.7,BRIT
+63,Inventory Days,12  Mar-17*,27.0,BRIT
+64,Debtors Days,12  Mar-17*,7.0,BRIT
+65,Net fixed assets,12  Mar-17*,10354.0,BRIT
+66,Share capital,12  Mar-17*,240.0,BRIT
+67,"""Free"" reserves",12  Mar-17*,26724.0,BRIT
+68,Net worth,12  Mar-17*,26964.0,BRIT
+69,Long term debt,12  Mar-17*,314.0,BRIT
+70,Total assets,12  Mar-17*,41088.0,BRIT
+71,Interest coverage,12  Mar-17*,240.3,BRIT
+72,Debt to equity ratio,12  Mar-17*,0.0,BRIT
+73,Sales to assets ratio,12  Mar-17*,2.2,BRIT
+74,Return on assets,12  Mar-17*,21.7,BRIT
+75,Return on equity,12  Mar-17*,32.8,BRIT
+76,Return on capital,12  Mar-17*,48.0,BRIT
+77,Exports to sales,12  Mar-17*,0.0,BRIT
+78,Imports to sales,12  Mar-17*,0.0,BRIT
+79,Exports (fob),12  Mar-17*,0.0,BRIT
+80,Imports (cif),12  Mar-17*,0.0,BRIT
+81,Fx inflow,12  Mar-17*,1846.0,BRIT
+82,Fx outflow,12  Mar-17*,1547.0,BRIT
+83,Net fx,12  Mar-17*,299.0,BRIT
+84,From Operations,12  Mar-17*,4413.0,BRIT
+85,From Investments,12  Mar-17*,-1499.0,BRIT
+86,From Financial Activity,12  Mar-17*,-2951.0,BRIT
+87,Net Cashflow,12  Mar-17*,-37.0,BRIT
+88,Net Sales,12  Mar-18*,98295.0,BRIT
+89,Other income,12  Mar-18*,1664.0,BRIT
+90,Total revenues,12  Mar-18*,99959.0,BRIT
+91,Gross profit,12  Mar-18*,15015.0,BRIT
+92,Depreciation,12  Mar-18*,1421.0,BRIT
+93,Interest,12  Mar-18*,76.0,BRIT
+94,Profit before tax,12  Mar-18*,15182.0,BRIT
+95,Minority Interest,12  Mar-18*,0.0,BRIT
+96,Prior Period Items,12  Mar-18*,0.0,BRIT
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,BRIT
+98,Tax,12  Mar-18*,5142.0,BRIT
+99,Profit after tax,12  Mar-18*,10040.0,BRIT
+100,Gross profit margin,12  Mar-18*,15.3,BRIT
+101,Effective tax rate,12  Mar-18*,33.9,BRIT
+102,Net profit margin,12  Mar-18*,10.2,BRIT
+103,Current assets,12  Mar-18*,31513.0,BRIT
+104,Current liabilities,12  Mar-18*,16480.0,BRIT
+105,Net working cap to sales,12  Mar-18*,15.3,BRIT
+106,Current ratio,12  Mar-18*,1.9,BRIT
+107,Inventory Days,12  Mar-18*,24.0,BRIT
+108,Debtors Days,12  Mar-18*,11.0,BRIT
+109,Net fixed assets,12  Mar-18*,15504.0,BRIT
+110,Share capital,12  Mar-18*,240.0,BRIT
+111,"""Free"" reserves",12  Mar-18*,33822.0,BRIT
+112,Net worth,12  Mar-18*,34062.0,BRIT
+113,Long term debt,12  Mar-18*,846.0,BRIT
+114,Total assets,12  Mar-18*,51879.0,BRIT
+115,Interest coverage,12  Mar-18*,201.0,BRIT
+116,Debt to equity ratio,12  Mar-18*,0.0,BRIT
+117,Sales to assets ratio,12  Mar-18*,1.9,BRIT
+118,Return on assets,12  Mar-18*,19.5,BRIT
+119,Return on equity,12  Mar-18*,29.5,BRIT
+120,Return on capital,12  Mar-18*,43.7,BRIT
+121,Exports to sales,12  Mar-18*,0.0,BRIT
+122,Imports to sales,12  Mar-18*,0.0,BRIT
+123,Exports (fob),12  Mar-18*,0.0,BRIT
+124,Imports (cif),12  Mar-18*,0.0,BRIT
+125,Fx inflow,12  Mar-18*,2021.0,BRIT
+126,Fx outflow,12  Mar-18*,1653.0,BRIT
+127,Net fx,12  Mar-18*,367.0,BRIT
+128,From Operations,12  Mar-18*,12488.0,BRIT
+129,From Investments,12  Mar-18*,-9563.0,BRIT
+130,From Financial Activity,12  Mar-18*,-2318.0,BRIT
+131,Net Cashflow,12  Mar-18*,605.0,BRIT
+132,Net Sales,12  Mar-19*,109735.0,BRIT
+133,Other income,12  Mar-19*,2065.0,BRIT
+134,Total revenues,12  Mar-19*,111799.0,BRIT
+135,Gross profit,12  Mar-19*,17325.0,BRIT
+136,Depreciation,12  Mar-19*,1619.0,BRIT
+137,Interest,12  Mar-19*,91.0,BRIT
+138,Profit before tax,12  Mar-19*,17679.0,BRIT
+139,Minority Interest,12  Mar-19*,0.0,BRIT
+140,Prior Period Items,12  Mar-19*,0.0,BRIT
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,BRIT
+142,Tax,12  Mar-19*,6125.0,BRIT
+143,Profit after tax,12  Mar-19*,11555.0,BRIT
+144,Gross profit margin,12  Mar-19*,15.8,BRIT
+145,Effective tax rate,12  Mar-19*,34.6,BRIT
+146,Net profit margin,12  Mar-19*,10.5,BRIT
+147,Current assets,12  Mar-19*,35263.0,BRIT
+148,Current liabilities,12  Mar-19*,18514.0,BRIT
+149,Net working cap to sales,12  Mar-19*,15.3,BRIT
+150,Current ratio,12  Mar-19*,1.9,BRIT
+151,Inventory Days,12  Mar-19*,26.0,BRIT
+152,Debtors Days,12  Mar-19*,13.0,BRIT
+153,Net fixed assets,12  Mar-19*,17906.0,BRIT
+154,Share capital,12  Mar-19*,240.0,BRIT
+155,"""Free"" reserves",12  Mar-19*,42292.0,BRIT
+156,Net worth,12  Mar-19*,42533.0,BRIT
+157,Long term debt,12  Mar-19*,619.0,BRIT
+158,Total assets,12  Mar-19*,62418.0,BRIT
+159,Interest coverage,12  Mar-19*,195.5,BRIT
+160,Debt to equity ratio,12  Mar-19*,0.0,BRIT
+161,Sales to assets ratio,12  Mar-19*,1.8,BRIT
+162,Return on assets,12  Mar-19*,18.7,BRIT
+163,Return on equity,12  Mar-19*,27.2,BRIT
+164,Return on capital,12  Mar-19*,41.2,BRIT
+165,Exports to sales,12  Mar-19*,0.0,BRIT
+166,Imports to sales,12  Mar-19*,0.0,BRIT
+167,Exports (fob),12  Mar-19*,0.0,BRIT
+168,Imports (cif),12  Mar-19*,0.0,BRIT
+169,Fx inflow,12  Mar-19*,3191.0,BRIT
+170,Fx outflow,12  Mar-19*,1948.0,BRIT
+171,Net fx,12  Mar-19*,1243.0,BRIT
+172,From Operations,12  Mar-19*,11558.0,BRIT
+173,From Investments,12  Mar-19*,-8555.0,BRIT
+174,From Financial Activity,12  Mar-19*,-3527.0,BRIT
+175,Net Cashflow,12  Mar-19*,-491.0,BRIT
+176,Net Sales,12  Mar-20*,114440.0,BRIT
+177,Other income,12  Mar-20*,2794.0,BRIT
+178,Total revenues,12  Mar-20*,117234.0,BRIT
+179,Gross profit,12  Mar-20*,18436.0,BRIT
+180,Depreciation,12  Mar-20*,1848.0,BRIT
+181,Interest,12  Mar-20*,769.0,BRIT
+182,Profit before tax,12  Mar-20*,18613.0,BRIT
+183,Minority Interest,12  Mar-20*,0.0,BRIT
+184,Prior Period Items,12  Mar-20*,-170.0,BRIT
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,BRIT
+186,Tax,12  Mar-20*,4507.0,BRIT
+187,Profit after tax,12  Mar-20*,13936.0,BRIT
+188,Gross profit margin,12  Mar-20*,16.1,BRIT
+189,Effective tax rate,12  Mar-20*,24.2,BRIT
+190,Net profit margin,12  Mar-20*,12.2,BRIT
+191,Current assets,12  Mar-20*,36750.0,BRIT
+192,Current liabilities,12  Mar-20*,25653.0,BRIT
+193,Net working cap to sales,12  Mar-20*,9.7,BRIT
+194,Current ratio,12  Mar-20*,1.4,BRIT
+195,Inventory Days,12  Mar-20*,24.0,BRIT
+196,Debtors Days,12  Mar-20*,10.0,BRIT
+197,Net fixed assets,12  Mar-20*,19192.0,BRIT
+198,Share capital,12  Mar-20*,241.0,BRIT
+199,"""Free"" reserves",12  Mar-20*,43788.0,BRIT
+200,Net worth,12  Mar-20*,44028.0,BRIT
+201,Long term debt,12  Mar-20*,7661.0,BRIT
+202,Total assets,12  Mar-20*,78422.0,BRIT
+203,Interest coverage,12  Mar-20*,25.2,BRIT
+204,Debt to equity ratio,12  Mar-20*,0.2,BRIT
+205,Sales to assets ratio,12  Mar-20*,1.5,BRIT
+206,Return on assets,12  Mar-20*,18.8,BRIT
+207,Return on equity,12  Mar-20*,31.7,BRIT
+208,Return on capital,12  Mar-20*,37.2,BRIT
+209,Exports to sales,12  Mar-20*,0.0,BRIT
+210,Imports to sales,12  Mar-20*,0.0,BRIT
+211,Exports (fob),12  Mar-20*,0.0,BRIT
+212,Imports (cif),12  Mar-20*,0.0,BRIT
+213,Fx inflow,12  Mar-20*,2810.0,BRIT
+214,Fx outflow,12  Mar-20*,2933.0,BRIT
+215,Net fx,12  Mar-20*,-122.0,BRIT
+216,From Operations,12  Mar-20*,14845.0,BRIT
+217,From Investments,12  Mar-20*,-15316.0,BRIT
+218,From Financial Activity,12  Mar-20*,579.0,BRIT
+219,Net Cashflow,12  Mar-20*,165.0,BRIT

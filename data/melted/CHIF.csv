@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,37148.0,CHIF
+1,Other income,12  Mar-15*,7.0,CHIF
+2,Total revenues,12  Mar-15*,37155.0,CHIF
+3,Gross profit,12  Mar-15*,26535.0,CHIF
+4,Depreciation,12  Mar-15*,301.0,CHIF
+5,Interest,12  Mar-15*,19578.0,CHIF
+6,Profit before tax,12  Mar-15*,6662.0,CHIF
+7,Minority Interest,12  Mar-15*,0.0,CHIF
+8,Prior Period Items,12  Mar-15*,0.0,CHIF
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CHIF
+10,Tax,12  Mar-15*,2221.0,CHIF
+11,Profit after tax,12  Mar-15*,4441.0,CHIF
+12,Gross profit margin,12  Mar-15*,71.4,CHIF
+13,Effective tax rate,12  Mar-15*,33.3,CHIF
+14,Net profit margin,12  Mar-15*,12.0,CHIF
+15,Current assets,12  Mar-15*,74560.0,CHIF
+16,Current liabilities,12  Mar-15*,79060.0,CHIF
+17,Net working cap to sales,12  Mar-15*,-12.1,CHIF
+18,Current ratio,12  Mar-15*,0.9,CHIF
+19,Inventory Days,12  Mar-15*,0.0,CHIF
+20,Debtors Days,12  Mar-15*,1.0,CHIF
+21,Net fixed assets,12  Mar-15*,689.0,CHIF
+22,Share capital,12  Mar-15*,6437.0,CHIF
+23,"""Free"" reserves",12  Mar-15*,21795.0,CHIF
+24,Net worth,12  Mar-15*,31744.0,CHIF
+25,Long term debt,12  Mar-15*,124245.0,CHIF
+26,Total assets,12  Mar-15*,238680.0,CHIF
+27,Interest coverage,12  Mar-15*,1.3,CHIF
+28,Debt to equity ratio,12  Mar-15*,3.9,CHIF
+29,Sales to assets ratio,12  Mar-15*,0.2,CHIF
+30,Return on assets,12  Mar-15*,10.1,CHIF
+31,Return on equity,12  Mar-15*,14.0,CHIF
+32,Return on capital,12  Mar-15*,16.8,CHIF
+33,Exports to sales,12  Mar-15*,0.0,CHIF
+34,Imports to sales,12  Mar-15*,0.0,CHIF
+35,Exports (fob),12  Mar-15*,0.0,CHIF
+36,Imports (cif),12  Mar-15*,0.0,CHIF
+37,Fx inflow,12  Mar-15*,0.0,CHIF
+38,Fx outflow,12  Mar-15*,100.0,CHIF
+39,Net fx,12  Mar-15*,-100.0,CHIF
+40,From Operations,12  Mar-15*,-22637.0,CHIF
+41,From Investments,12  Mar-15*,-402.0,CHIF
+42,From Financial Activity,12  Mar-15*,18189.0,CHIF
+43,Net Cashflow,12  Mar-15*,-4851.0,CHIF
+44,Net Sales,12  Mar-16*,42138.0,CHIF
+45,Other income,12  Mar-16*,22.0,CHIF
+46,Total revenues,12  Mar-16*,42160.0,CHIF
+47,Gross profit,12  Mar-16*,29469.0,CHIF
+48,Depreciation,12  Mar-16*,217.0,CHIF
+49,Interest,12  Mar-16*,20480.0,CHIF
+50,Profit before tax,12  Mar-16*,8795.0,CHIF
+51,Minority Interest,12  Mar-16*,0.0,CHIF
+52,Prior Period Items,12  Mar-16*,0.0,CHIF
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CHIF
+54,Tax,12  Mar-16*,3048.0,CHIF
+55,Profit after tax,12  Mar-16*,5747.0,CHIF
+56,Gross profit margin,12  Mar-16*,69.9,CHIF
+57,Effective tax rate,12  Mar-16*,34.7,CHIF
+58,Net profit margin,12  Mar-16*,13.6,CHIF
+59,Current assets,12  Mar-16*,87649.0,CHIF
+60,Current liabilities,12  Mar-16*,127100.0,CHIF
+61,Net working cap to sales,12  Mar-16*,-93.6,CHIF
+62,Current ratio,12  Mar-16*,0.7,CHIF
+63,Inventory Days,12  Mar-16*,0.0,CHIF
+64,Debtors Days,12  Mar-16*,1.0,CHIF
+65,Net fixed assets,12  Mar-16*,1133.0,CHIF
+66,Share capital,12  Mar-16*,1562.0,CHIF
+67,"""Free"" reserves",12  Mar-16*,30430.0,CHIF
+68,Net worth,12  Mar-16*,36732.0,CHIF
+69,Long term debt,12  Mar-16*,109312.0,CHIF
+70,Total assets,12  Mar-16*,278892.0,CHIF
+71,Interest coverage,12  Mar-16*,1.4,CHIF
+72,Debt to equity ratio,12  Mar-16*,3.0,CHIF
+73,Sales to assets ratio,12  Mar-16*,0.2,CHIF
+74,Return on assets,12  Mar-16*,9.4,CHIF
+75,Return on equity,12  Mar-16*,15.6,CHIF
+76,Return on capital,12  Mar-16*,20.0,CHIF
+77,Exports to sales,12  Mar-16*,0.0,CHIF
+78,Imports to sales,12  Mar-16*,0.0,CHIF
+79,Exports (fob),12  Mar-16*,0.0,CHIF
+80,Imports (cif),12  Mar-16*,0.0,CHIF
+81,Fx inflow,12  Mar-16*,0.0,CHIF
+82,Fx outflow,12  Mar-16*,86.0,CHIF
+83,Net fx,12  Mar-16*,-86.0,CHIF
+84,From Operations,12  Mar-16*,-28091.0,CHIF
+85,From Investments,12  Mar-16*,-1397.0,CHIF
+86,From Financial Activity,12  Mar-16*,30312.0,CHIF
+87,Net Cashflow,12  Mar-16*,847.0,CHIF
+88,Net Sales,12  Mar-17*,46935.0,CHIF
+89,Other income,12  Mar-17*,34.0,CHIF
+90,Total revenues,12  Mar-17*,46969.0,CHIF
+91,Gross profit,12  Mar-17*,33710.0,CHIF
+92,Depreciation,12  Mar-17*,390.0,CHIF
+93,Interest,12  Mar-17*,22279.0,CHIF
+94,Profit before tax,12  Mar-17*,11074.0,CHIF
+95,Minority Interest,12  Mar-17*,15.0,CHIF
+96,Prior Period Items,12  Mar-17*,0.0,CHIF
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CHIF
+98,Tax,12  Mar-17*,3895.0,CHIF
+99,Profit after tax,12  Mar-17*,7194.0,CHIF
+100,Gross profit margin,12  Mar-17*,71.8,CHIF
+101,Effective tax rate,12  Mar-17*,35.2,CHIF
+102,Net profit margin,12  Mar-17*,15.3,CHIF
+103,Current assets,12  Mar-17*,344631.0,CHIF
+104,Current liabilities,12  Mar-17*,306806.0,CHIF
+105,Net working cap to sales,12  Mar-17*,80.6,CHIF
+106,Current ratio,12  Mar-17*,1.1,CHIF
+107,Inventory Days,12  Mar-17*,0.0,CHIF
+108,Debtors Days,12  Mar-17*,3.0,CHIF
+109,Net fixed assets,12  Mar-17*,1605.0,CHIF
+110,Share capital,12  Mar-17*,1563.0,CHIF
+111,"""Free"" reserves",12  Mar-17*,41533.0,CHIF
+112,Net worth,12  Mar-17*,42999.0,CHIF
+113,Long term debt,12  Mar-17*,0.0,CHIF
+114,Total assets,12  Mar-17*,350526.0,CHIF
+115,Interest coverage,12  Mar-17*,1.5,CHIF
+116,Debt to equity ratio,12  Mar-17*,0.0,CHIF
+117,Sales to assets ratio,12  Mar-17*,0.1,CHIF
+118,Return on assets,12  Mar-17*,8.4,CHIF
+119,Return on equity,12  Mar-17*,16.7,CHIF
+120,Return on capital,12  Mar-17*,77.6,CHIF
+121,Exports to sales,12  Mar-17*,0.0,CHIF
+122,Imports to sales,12  Mar-17*,0.0,CHIF
+123,Exports (fob),12  Mar-17*,0.0,CHIF
+124,Imports (cif),12  Mar-17*,0.0,CHIF
+125,Fx inflow,12  Mar-17*,0.0,CHIF
+126,Fx outflow,12  Mar-17*,99.0,CHIF
+127,Net fx,12  Mar-17*,-99.0,CHIF
+128,From Operations,12  Mar-17*,-14676.0,CHIF
+129,From Investments,12  Mar-17*,-2219.0,CHIF
+130,From Financial Activity,12  Mar-17*,16918.0,CHIF
+131,Net Cashflow,12  Mar-17*,23.0,CHIF
+132,Net Sales,12  Mar-18*,55587.0,CHIF
+133,Other income,12  Mar-18*,6.0,CHIF
+134,Total revenues,12  Mar-18*,55593.0,CHIF
+135,Gross profit,12  Mar-18*,41078.0,CHIF
+136,Depreciation,12  Mar-18*,509.0,CHIF
+137,Interest,12  Mar-18*,26567.0,CHIF
+138,Profit before tax,12  Mar-18*,14008.0,CHIF
+139,Minority Interest,12  Mar-18*,0.0,CHIF
+140,Prior Period Items,12  Mar-18*,0.0,CHIF
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CHIF
+142,Tax,12  Mar-18*,4831.0,CHIF
+143,Profit after tax,12  Mar-18*,9177.0,CHIF
+144,Gross profit margin,12  Mar-18*,73.9,CHIF
+145,Effective tax rate,12  Mar-18*,34.5,CHIF
+146,Net profit margin,12  Mar-18*,16.5,CHIF
+147,Current assets,12  Mar-18*,434516.0,CHIF
+148,Current liabilities,12  Mar-18*,389255.0,CHIF
+149,Net working cap to sales,12  Mar-18*,81.4,CHIF
+150,Current ratio,12  Mar-18*,1.1,CHIF
+151,Inventory Days,12  Mar-18*,0.0,CHIF
+152,Debtors Days,12  Mar-18*,5.0,CHIF
+153,Net fixed assets,12  Mar-18*,1885.0,CHIF
+154,Share capital,12  Mar-18*,1564.0,CHIF
+155,"""Free"" reserves",12  Mar-18*,49691.0,CHIF
+156,Net worth,12  Mar-18*,51255.0,CHIF
+157,Long term debt,12  Mar-18*,0.0,CHIF
+158,Total assets,12  Mar-18*,441668.0,CHIF
+159,Interest coverage,12  Mar-18*,1.5,CHIF
+160,Debt to equity ratio,12  Mar-18*,0.0,CHIF
+161,Sales to assets ratio,12  Mar-18*,0.1,CHIF
+162,Return on assets,12  Mar-18*,8.1,CHIF
+163,Return on equity,12  Mar-18*,17.9,CHIF
+164,Return on capital,12  Mar-18*,79.2,CHIF
+165,Exports to sales,12  Mar-18*,0.0,CHIF
+166,Imports to sales,12  Mar-18*,0.0,CHIF
+167,Exports (fob),12  Mar-18*,0.0,CHIF
+168,Imports (cif),12  Mar-18*,0.0,CHIF
+169,Fx inflow,12  Mar-18*,0.0,CHIF
+170,Fx outflow,12  Mar-18*,123.0,CHIF
+171,Net fx,12  Mar-18*,-123.0,CHIF
+172,From Operations,12  Mar-18*,-79263.0,CHIF
+173,From Investments,12  Mar-18*,-601.0,CHIF
+174,From Financial Activity,12  Mar-18*,80087.0,CHIF
+175,Net Cashflow,12  Mar-18*,222.0,CHIF
+176,Net Sales,12  Mar-19*,70876.0,CHIF
+177,Other income,12  Mar-19*,212.0,CHIF
+178,Total revenues,12  Mar-19*,71088.0,CHIF
+179,Gross profit,12  Mar-19*,54555.0,CHIF
+180,Depreciation,12  Mar-19*,570.0,CHIF
+181,Interest,12  Mar-19*,35881.0,CHIF
+182,Profit before tax,12  Mar-19*,18315.0,CHIF
+183,Minority Interest,12  Mar-19*,-4.0,CHIF
+184,Prior Period Items,12  Mar-19*,0.0,CHIF
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CHIF
+186,Tax,12  Mar-19*,6346.0,CHIF
+187,Profit after tax,12  Mar-19*,11966.0,CHIF
+188,Gross profit margin,12  Mar-19*,77.0,CHIF
+189,Effective tax rate,12  Mar-19*,34.6,CHIF
+190,Net profit margin,12  Mar-19*,16.9,CHIF
+191,Current assets,12  Mar-19*,566687.0,CHIF
+192,Current liabilities,12  Mar-19*,511523.0,CHIF
+193,Net working cap to sales,12  Mar-19*,77.8,CHIF
+194,Current ratio,12  Mar-19*,1.1,CHIF
+195,Inventory Days,12  Mar-19*,0.0,CHIF
+196,Debtors Days,12  Mar-19*,2.0,CHIF
+197,Net fixed assets,12  Mar-19*,1995.0,CHIF
+198,Share capital,12  Mar-19*,1564.0,CHIF
+199,"""Free"" reserves",12  Mar-19*,60523.0,CHIF
+200,Net worth,12  Mar-19*,62087.0,CHIF
+201,Long term debt,12  Mar-19*,0.0,CHIF
+202,Total assets,12  Mar-19*,574901.0,CHIF
+203,Interest coverage,12  Mar-19*,1.5,CHIF
+204,Debt to equity ratio,12  Mar-19*,0.0,CHIF
+205,Sales to assets ratio,12  Mar-19*,0.1,CHIF
+206,Return on assets,12  Mar-19*,8.3,CHIF
+207,Return on equity,12  Mar-19*,19.3,CHIF
+208,Return on capital,12  Mar-19*,87.3,CHIF
+209,Exports to sales,12  Mar-19*,0.0,CHIF
+210,Imports to sales,12  Mar-19*,0.0,CHIF
+211,Exports (fob),12  Mar-19*,0.0,CHIF
+212,Imports (cif),12  Mar-19*,0.0,CHIF
+213,Fx inflow,12  Mar-19*,0.0,CHIF
+214,Fx outflow,12  Mar-19*,28.0,CHIF
+215,Net fx,12  Mar-19*,-28.0,CHIF
+216,From Operations,12  Mar-19*,-93173.0,CHIF
+217,From Investments,12  Mar-19*,-109.0,CHIF
+218,From Financial Activity,12  Mar-19*,121906.0,CHIF
+219,Net Cashflow,12  Mar-19*,28619.0,CHIF

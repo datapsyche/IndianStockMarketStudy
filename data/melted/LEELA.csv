@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,6365.0,LEELA
+1,Other income,12  Mar-15*,71.0,LEELA
+2,Total revenues,12  Mar-15*,6435.0,LEELA
+3,Gross profit,12  Mar-15*,1304.0,LEELA
+4,Depreciation,12  Mar-15*,2268.0,LEELA
+5,Interest,12  Mar-15*,1976.0,LEELA
+6,Profit before tax,12  Mar-15*,-2869.0,LEELA
+7,Minority Interest,12  Mar-15*,0.0,LEELA
+8,Prior Period Items,12  Mar-15*,0.0,LEELA
+9,Extraordinary Inc (Exp),12  Mar-15*,-1833.0,LEELA
+10,Tax,12  Mar-15*,-543.0,LEELA
+11,Profit after tax,12  Mar-15*,-4158.0,LEELA
+12,Gross profit margin,12  Mar-15*,20.5,LEELA
+13,Effective tax rate,12  Mar-15*,18.9,LEELA
+14,Net profit margin,12  Mar-15*,-65.3,LEELA
+15,Current assets,12  Mar-15*,1592.0,LEELA
+16,Current liabilities,12  Mar-15*,3620.0,LEELA
+17,Net working cap to sales,12  Mar-15*,-31.9,LEELA
+18,Current ratio,12  Mar-15*,0.4,LEELA
+19,Inventory Days,12  Mar-15*,30.0,LEELA
+20,Debtors Days,12  Mar-15*,29.0,LEELA
+21,Net fixed assets,12  Mar-15*,53977.0,LEELA
+22,Share capital,12  Mar-15*,933.0,LEELA
+23,"""Free"" reserves",12  Mar-15*,-4302.0,LEELA
+24,Net worth,12  Mar-15*,4178.0,LEELA
+25,Long term debt,12  Mar-15*,49949.0,LEELA
+26,Total assets,12  Mar-15*,58281.0,LEELA
+27,Interest coverage,12  Mar-15*,-0.5,LEELA
+28,Debt to equity ratio,12  Mar-15*,12.0,LEELA
+29,Sales to assets ratio,12  Mar-15*,0.1,LEELA
+30,Return on assets,12  Mar-15*,-3.7,LEELA
+31,Return on equity,12  Mar-15*,-99.5,LEELA
+32,Return on capital,12  Mar-15*,-5.0,LEELA
+33,Exports to sales,12  Mar-15*,0.0,LEELA
+34,Imports to sales,12  Mar-15*,1.7,LEELA
+35,Exports (fob),12  Mar-15*,0.0,LEELA
+36,Imports (cif),12  Mar-15*,111.0,LEELA
+37,Fx inflow,12  Mar-15*,3394.0,LEELA
+38,Fx outflow,12  Mar-15*,450.0,LEELA
+39,Net fx,12  Mar-15*,2944.0,LEELA
+40,From Operations,12  Mar-15*,2309.0,LEELA
+41,From Investments,12  Mar-15*,-643.0,LEELA
+42,From Financial Activity,12  Mar-15*,-1687.0,LEELA
+43,Net Cashflow,12  Mar-15*,-22.0,LEELA
+44,Net Sales,12  Mar-16*,6609.0,LEELA
+45,Other income,12  Mar-16*,94.0,LEELA
+46,Total revenues,12  Mar-16*,6703.0,LEELA
+47,Gross profit,12  Mar-16*,3447.0,LEELA
+48,Depreciation,12  Mar-16*,2399.0,LEELA
+49,Interest,12  Mar-16*,879.0,LEELA
+50,Profit before tax,12  Mar-16*,263.0,LEELA
+51,Minority Interest,12  Mar-16*,0.0,LEELA
+52,Prior Period Items,12  Mar-16*,0.0,LEELA
+53,Extraordinary Inc (Exp),12  Mar-16*,-2134.0,LEELA
+54,Tax,12  Mar-16*,-69.0,LEELA
+55,Profit after tax,12  Mar-16*,-1802.0,LEELA
+56,Gross profit margin,12  Mar-16*,52.2,LEELA
+57,Effective tax rate,12  Mar-16*,-26.1,LEELA
+58,Net profit margin,12  Mar-16*,-27.3,LEELA
+59,Current assets,12  Mar-16*,1678.0,LEELA
+60,Current liabilities,12  Mar-16*,2935.0,LEELA
+61,Net working cap to sales,12  Mar-16*,-19.0,LEELA
+62,Current ratio,12  Mar-16*,0.6,LEELA
+63,Inventory Days,12  Mar-16*,24.0,LEELA
+64,Debtors Days,12  Mar-16*,35.0,LEELA
+65,Net fixed assets,12  Mar-16*,45189.0,LEELA
+66,Share capital,12  Mar-16*,933.0,LEELA
+67,"""Free"" reserves",12  Mar-16*,548.0,LEELA
+68,Net worth,12  Mar-16*,1481.0,LEELA
+69,Long term debt,12  Mar-16*,42383.0,LEELA
+70,Total assets,12  Mar-16*,48732.0,LEELA
+71,Interest coverage,12  Mar-16*,1.3,LEELA
+72,Debt to equity ratio,12  Mar-16*,28.6,LEELA
+73,Sales to assets ratio,12  Mar-16*,0.1,LEELA
+74,Return on assets,12  Mar-16*,-1.9,LEELA
+75,Return on equity,12  Mar-16*,-121.6,LEELA
+76,Return on capital,12  Mar-16*,-2.3,LEELA
+77,Exports to sales,12  Mar-16*,0.0,LEELA
+78,Imports to sales,12  Mar-16*,1.6,LEELA
+79,Exports (fob),12  Mar-16*,0.0,LEELA
+80,Imports (cif),12  Mar-16*,107.0,LEELA
+81,Fx inflow,12  Mar-16*,3652.0,LEELA
+82,Fx outflow,12  Mar-16*,469.0,LEELA
+83,Net fx,12  Mar-16*,3183.0,LEELA
+84,From Operations,12  Mar-16*,1740.0,LEELA
+85,From Investments,12  Mar-16*,6972.0,LEELA
+86,From Financial Activity,12  Mar-16*,-8516.0,LEELA
+87,Net Cashflow,12  Mar-16*,196.0,LEELA
+88,Net Sales,12  Mar-17*,6980.0,LEELA
+89,Other income,12  Mar-17*,412.0,LEELA
+90,Total revenues,12  Mar-17*,7392.0,LEELA
+91,Gross profit,12  Mar-17*,1749.0,LEELA
+92,Depreciation,12  Mar-17*,1412.0,LEELA
+93,Interest,12  Mar-17*,904.0,LEELA
+94,Profit before tax,12  Mar-17*,-155.0,LEELA
+95,Minority Interest,12  Mar-17*,0.0,LEELA
+96,Prior Period Items,12  Mar-17*,0.0,LEELA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,LEELA
+98,Tax,12  Mar-17*,0.0,LEELA
+99,Profit after tax,12  Mar-17*,-155.0,LEELA
+100,Gross profit margin,12  Mar-17*,25.1,LEELA
+101,Effective tax rate,12  Mar-17*,0.0,LEELA
+102,Net profit margin,12  Mar-17*,-2.2,LEELA
+103,Current assets,12  Mar-17*,1755.0,LEELA
+104,Current liabilities,12  Mar-17*,4540.0,LEELA
+105,Net working cap to sales,12  Mar-17*,-39.9,LEELA
+106,Current ratio,12  Mar-17*,0.4,LEELA
+107,Inventory Days,12  Mar-17*,16.0,LEELA
+108,Debtors Days,12  Mar-17*,37.0,LEELA
+109,Net fixed assets,12  Mar-17*,40850.0,LEELA
+110,Share capital,12  Mar-17*,933.0,LEELA
+111,"""Free"" reserves",12  Mar-17*,376.0,LEELA
+112,Net worth,12  Mar-17*,1309.0,LEELA
+113,Long term debt,12  Mar-17*,39348.0,LEELA
+114,Total assets,12  Mar-17*,47344.0,LEELA
+115,Interest coverage,12  Mar-17*,0.8,LEELA
+116,Debt to equity ratio,12  Mar-17*,30.1,LEELA
+117,Sales to assets ratio,12  Mar-17*,0.1,LEELA
+118,Return on assets,12  Mar-17*,1.6,LEELA
+119,Return on equity,12  Mar-17*,-11.8,LEELA
+120,Return on capital,12  Mar-17*,1.8,LEELA
+121,Exports to sales,12  Mar-17*,0.0,LEELA
+122,Imports to sales,12  Mar-17*,0.0,LEELA
+123,Exports (fob),12  Mar-17*,0.0,LEELA
+124,Imports (cif),12  Mar-17*,0.0,LEELA
+125,Fx inflow,12  Mar-17*,3022.0,LEELA
+126,Fx outflow,12  Mar-17*,249.0,LEELA
+127,Net fx,12  Mar-17*,2773.0,LEELA
+128,From Operations,12  Mar-17*,2204.0,LEELA
+129,From Investments,12  Mar-17*,32.0,LEELA
+130,From Financial Activity,12  Mar-17*,-2329.0,LEELA
+131,Net Cashflow,12  Mar-17*,-93.0,LEELA
+132,Net Sales,12  Mar-18*,1378.0,LEELA
+133,Other income,12  Mar-18*,65.0,LEELA
+134,Total revenues,12  Mar-18*,1443.0,LEELA
+135,Gross profit,12  Mar-18*,-120.0,LEELA
+136,Depreciation,12  Mar-18*,133.0,LEELA
+137,Interest,12  Mar-18*,1.0,LEELA
+138,Profit before tax,12  Mar-18*,-189.0,LEELA
+139,Minority Interest,12  Mar-18*,0.0,LEELA
+140,Prior Period Items,12  Mar-18*,0.0,LEELA
+141,Extraordinary Inc (Exp),12  Mar-18*,-329.0,LEELA
+142,Tax,12  Mar-18*,0.0,LEELA
+143,Profit after tax,12  Mar-18*,-519.0,LEELA
+144,Gross profit margin,12  Mar-18*,-8.7,LEELA
+145,Effective tax rate,12  Mar-18*,0.0,LEELA
+146,Net profit margin,12  Mar-18*,-37.6,LEELA
+147,Current assets,12  Mar-18*,1827.0,LEELA
+148,Current liabilities,12  Mar-18*,9131.0,LEELA
+149,Net working cap to sales,12  Mar-18*,-529.9,LEELA
+150,Current ratio,12  Mar-18*,0.2,LEELA
+151,Inventory Days,12  Mar-18*,85.0,LEELA
+152,Debtors Days,12  Mar-18*,219.0,LEELA
+153,Net fixed assets,12  Mar-18*,39164.0,LEELA
+154,Share capital,12  Mar-18*,1261.0,LEELA
+155,"""Free"" reserves",12  Mar-18*,2581.0,LEELA
+156,Net worth,12  Mar-18*,3842.0,LEELA
+157,Long term debt,12  Mar-18*,30731.0,LEELA
+158,Total assets,12  Mar-18*,45614.0,LEELA
+159,Interest coverage,12  Mar-18*,-144.5,LEELA
+160,Debt to equity ratio,12  Mar-18*,8.0,LEELA
+161,Sales to assets ratio,12  Mar-18*,0.0,LEELA
+162,Return on assets,12  Mar-18*,-1.1,LEELA
+163,Return on equity,12  Mar-18*,-13.5,LEELA
+164,Return on capital,12  Mar-18*,-1.5,LEELA
+165,Exports to sales,12  Mar-18*,0.0,LEELA
+166,Imports to sales,12  Mar-18*,0.0,LEELA
+167,Exports (fob),12  Mar-18*,0.0,LEELA
+168,Imports (cif),12  Mar-18*,0.0,LEELA
+169,Fx inflow,12  Mar-18*,2859.0,LEELA
+170,Fx outflow,12  Mar-18*,451.0,LEELA
+171,Net fx,12  Mar-18*,2408.0,LEELA
+172,From Operations,12  Mar-18*,1921.0,LEELA
+173,From Investments,12  Mar-18*,268.0,LEELA
+174,From Financial Activity,12  Mar-18*,-2144.0,LEELA
+175,Net Cashflow,12  Mar-18*,45.0,LEELA
+176,Net Sales,12  Mar-19*,1543.0,LEELA
+177,Other income,12  Mar-19*,42.0,LEELA
+178,Total revenues,12  Mar-19*,1585.0,LEELA
+179,Gross profit,12  Mar-19*,-23.0,LEELA
+180,Depreciation,12  Mar-19*,96.0,LEELA
+181,Interest,12  Mar-19*,4.0,LEELA
+182,Profit before tax,12  Mar-19*,-81.0,LEELA
+183,Minority Interest,12  Mar-19*,0.0,LEELA
+184,Prior Period Items,12  Mar-19*,0.0,LEELA
+185,Extraordinary Inc (Exp),12  Mar-19*,-297.0,LEELA
+186,Tax,12  Mar-19*,0.0,LEELA
+187,Profit after tax,12  Mar-19*,-378.0,LEELA
+188,Gross profit margin,12  Mar-19*,-1.5,LEELA
+189,Effective tax rate,12  Mar-19*,0.0,LEELA
+190,Net profit margin,12  Mar-19*,-24.5,LEELA
+191,Current assets,12  Mar-19*,1163.0,LEELA
+192,Current liabilities,12  Mar-19*,30399.0,LEELA
+193,Net working cap to sales,12  Mar-19*,-1894.2,LEELA
+194,Current ratio,12  Mar-19*,0.0,LEELA
+195,Inventory Days,12  Mar-19*,19.0,LEELA
+196,Debtors Days,12  Mar-19*,155.0,LEELA
+197,Net fixed assets,12  Mar-19*,3446.0,LEELA
+198,Share capital,12  Mar-19*,1261.0,LEELA
+199,"""Free"" reserves",12  Mar-19*,1394.0,LEELA
+200,Net worth,12  Mar-19*,2655.0,LEELA
+201,Long term debt,12  Mar-19*,7105.0,LEELA
+202,Total assets,12  Mar-19*,41888.0,LEELA
+203,Interest coverage,12  Mar-19*,-19.3,LEELA
+204,Debt to equity ratio,12  Mar-19*,2.7,LEELA
+205,Sales to assets ratio,12  Mar-19*,0.0,LEELA
+206,Return on assets,12  Mar-19*,-0.9,LEELA
+207,Return on equity,12  Mar-19*,-14.2,LEELA
+208,Return on capital,12  Mar-19*,-3.8,LEELA
+209,Exports to sales,12  Mar-19*,0.0,LEELA
+210,Imports to sales,12  Mar-19*,0.0,LEELA
+211,Exports (fob),12  Mar-19*,0.0,LEELA
+212,Imports (cif),12  Mar-19*,0.0,LEELA
+213,Fx inflow,12  Mar-19*,3165.0,LEELA
+214,Fx outflow,12  Mar-19*,364.0,LEELA
+215,Net fx,12  Mar-19*,2801.0,LEELA
+216,From Operations,12  Mar-19*,2094.0,LEELA
+217,From Investments,12  Mar-19*,1289.0,LEELA
+218,From Financial Activity,12  Mar-19*,-3270.0,LEELA
+219,Net Cashflow,12  Mar-19*,112.0,LEELA

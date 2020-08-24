@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,25531.0,HFCM
+1,Other income,12  Mar-15*,1575.0,HFCM
+2,Total revenues,12  Mar-15*,27106.0,HFCM
+3,Gross profit,12  Mar-15*,2327.0,HFCM
+4,Depreciation,12  Mar-15*,342.0,HFCM
+5,Interest,12  Mar-15*,444.0,HFCM
+6,Profit before tax,12  Mar-15*,3116.0,HFCM
+7,Minority Interest,12  Mar-15*,0.0,HFCM
+8,Prior Period Items,12  Mar-15*,123.0,HFCM
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,HFCM
+10,Tax,12  Mar-15*,0.0,HFCM
+11,Profit after tax,12  Mar-15*,3239.0,HFCM
+12,Gross profit margin,12  Mar-15*,9.1,HFCM
+13,Effective tax rate,12  Mar-15*,0.0,HFCM
+14,Net profit margin,12  Mar-15*,12.7,HFCM
+15,Current assets,12  Mar-15*,13167.0,HFCM
+16,Current liabilities,12  Mar-15*,6841.0,HFCM
+17,Net working cap to sales,12  Mar-15*,24.8,HFCM
+18,Current ratio,12  Mar-15*,1.9,HFCM
+19,Inventory Days,12  Mar-15*,34.0,HFCM
+20,Debtors Days,12  Mar-15*,52.0,HFCM
+21,Net fixed assets,12  Mar-15*,1282.0,HFCM
+22,Share capital,12  Mar-15*,1239.0,HFCM
+23,"""Free"" reserves",12  Mar-15*,5539.0,HFCM
+24,Net worth,12  Mar-15*,6779.0,HFCM
+25,Long term debt,12  Mar-15*,2428.0,HFCM
+26,Total assets,12  Mar-15*,16209.0,HFCM
+27,Interest coverage,12  Mar-15*,8.0,HFCM
+28,Debt to equity ratio,12  Mar-15*,0.4,HFCM
+29,Sales to assets ratio,12  Mar-15*,1.6,HFCM
+30,Return on assets,12  Mar-15*,22.7,HFCM
+31,Return on equity,12  Mar-15*,47.8,HFCM
+32,Return on capital,12  Mar-15*,40.0,HFCM
+33,Exports to sales,12  Mar-15*,1.3,HFCM
+34,Imports to sales,12  Mar-15*,6.6,HFCM
+35,Exports (fob),12  Mar-15*,342.0,HFCM
+36,Imports (cif),12  Mar-15*,1698.0,HFCM
+37,Fx inflow,12  Mar-15*,352.0,HFCM
+38,Fx outflow,12  Mar-15*,1705.0,HFCM
+39,Net fx,12  Mar-15*,-1353.0,HFCM
+40,From Operations,12  Mar-15*,1294.0,HFCM
+41,From Investments,12  Mar-15*,-455.0,HFCM
+42,From Financial Activity,12  Mar-15*,-736.0,HFCM
+43,Net Cashflow,12  Mar-15*,103.0,HFCM
+44,Net Sales,12  Mar-16*,28724.0,HFCM
+45,Other income,12  Mar-16*,347.0,HFCM
+46,Total revenues,12  Mar-16*,29071.0,HFCM
+47,Gross profit,12  Mar-16*,3161.0,HFCM
+48,Depreciation,12  Mar-16*,262.0,HFCM
+49,Interest,12  Mar-16*,615.0,HFCM
+50,Profit before tax,12  Mar-16*,2632.0,HFCM
+51,Minority Interest,12  Mar-16*,0.0,HFCM
+52,Prior Period Items,12  Mar-16*,32.0,HFCM
+53,Extraordinary Inc (Exp),12  Mar-16*,-1100.0,HFCM
+54,Tax,12  Mar-16*,0.0,HFCM
+55,Profit after tax,12  Mar-16*,1564.0,HFCM
+56,Gross profit margin,12  Mar-16*,11.0,HFCM
+57,Effective tax rate,12  Mar-16*,0.0,HFCM
+58,Net profit margin,12  Mar-16*,5.4,HFCM
+59,Current assets,12  Mar-16*,18947.0,HFCM
+60,Current liabilities,12  Mar-16*,9567.0,HFCM
+61,Net working cap to sales,12  Mar-16*,32.7,HFCM
+62,Current ratio,12  Mar-16*,2.0,HFCM
+63,Inventory Days,12  Mar-16*,35.0,HFCM
+64,Debtors Days,12  Mar-16*,141.0,HFCM
+65,Net fixed assets,12  Mar-16*,1574.0,HFCM
+66,Share capital,12  Mar-16*,1239.0,HFCM
+67,"""Free"" reserves",12  Mar-16*,7162.0,HFCM
+68,Net worth,12  Mar-16*,8401.0,HFCM
+69,Long term debt,12  Mar-16*,3317.0,HFCM
+70,Total assets,12  Mar-16*,21414.0,HFCM
+71,Interest coverage,12  Mar-16*,5.3,HFCM
+72,Debt to equity ratio,12  Mar-16*,0.4,HFCM
+73,Sales to assets ratio,12  Mar-16*,1.3,HFCM
+74,Return on assets,12  Mar-16*,10.2,HFCM
+75,Return on equity,12  Mar-16*,18.6,HFCM
+76,Return on capital,12  Mar-16*,18.6,HFCM
+77,Exports to sales,12  Mar-16*,2.4,HFCM
+78,Imports to sales,12  Mar-16*,5.0,HFCM
+79,Exports (fob),12  Mar-16*,690.0,HFCM
+80,Imports (cif),12  Mar-16*,1446.0,HFCM
+81,Fx inflow,12  Mar-16*,690.0,HFCM
+82,Fx outflow,12  Mar-16*,1490.0,HFCM
+83,Net fx,12  Mar-16*,-800.0,HFCM
+84,From Operations,12  Mar-16*,4.0,HFCM
+85,From Investments,12  Mar-16*,373.0,HFCM
+86,From Financial Activity,12  Mar-16*,-552.0,HFCM
+87,Net Cashflow,12  Mar-16*,-175.0,HFCM
+88,Net Sales,12  Mar-17*,21314.0,HFCM
+89,Other income,12  Mar-17*,214.0,HFCM
+90,Total revenues,12  Mar-17*,21528.0,HFCM
+91,Gross profit,12  Mar-17*,1929.0,HFCM
+92,Depreciation,12  Mar-17*,218.0,HFCM
+93,Interest,12  Mar-17*,624.0,HFCM
+94,Profit before tax,12  Mar-17*,1302.0,HFCM
+95,Minority Interest,12  Mar-17*,0.0,HFCM
+96,Prior Period Items,12  Mar-17*,-59.0,HFCM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,HFCM
+98,Tax,12  Mar-17*,5.0,HFCM
+99,Profit after tax,12  Mar-17*,1237.0,HFCM
+100,Gross profit margin,12  Mar-17*,9.0,HFCM
+101,Effective tax rate,12  Mar-17*,0.4,HFCM
+102,Net profit margin,12  Mar-17*,5.8,HFCM
+103,Current assets,12  Mar-17*,19058.0,HFCM
+104,Current liabilities,12  Mar-17*,10235.0,HFCM
+105,Net working cap to sales,12  Mar-17*,41.4,HFCM
+106,Current ratio,12  Mar-17*,1.9,HFCM
+107,Inventory Days,12  Mar-17*,42.0,HFCM
+108,Debtors Days,12  Mar-17*,202.0,HFCM
+109,Net fixed assets,12  Mar-17*,1593.0,HFCM
+110,Share capital,12  Mar-17*,1239.0,HFCM
+111,"""Free"" reserves",12  Mar-17*,8402.0,HFCM
+112,Net worth,12  Mar-17*,9641.0,HFCM
+113,Long term debt,12  Mar-17*,2676.0,HFCM
+114,Total assets,12  Mar-17*,22754.0,HFCM
+115,Interest coverage,12  Mar-17*,3.1,HFCM
+116,Debt to equity ratio,12  Mar-17*,0.3,HFCM
+117,Sales to assets ratio,12  Mar-17*,0.9,HFCM
+118,Return on assets,12  Mar-17*,8.2,HFCM
+119,Return on equity,12  Mar-17*,12.8,HFCM
+120,Return on capital,12  Mar-17*,15.2,HFCM
+121,Exports to sales,12  Mar-17*,0.0,HFCM
+122,Imports to sales,12  Mar-17*,0.0,HFCM
+123,Exports (fob),12  Mar-17*,0.0,HFCM
+124,Imports (cif),12  Mar-17*,0.0,HFCM
+125,Fx inflow,12  Mar-17*,489.0,HFCM
+126,Fx outflow,12  Mar-17*,1340.0,HFCM
+127,Net fx,12  Mar-17*,-851.0,HFCM
+128,From Operations,12  Mar-17*,1361.0,HFCM
+129,From Investments,12  Mar-17*,-250.0,HFCM
+130,From Financial Activity,12  Mar-17*,-1142.0,HFCM
+131,Net Cashflow,12  Mar-17*,-32.0,HFCM
+132,Net Sales,12  Mar-18*,32274.0,HFCM
+133,Other income,12  Mar-18*,245.0,HFCM
+134,Total revenues,12  Mar-18*,32519.0,HFCM
+135,Gross profit,12  Mar-18*,2832.0,HFCM
+136,Depreciation,12  Mar-18*,232.0,HFCM
+137,Interest,12  Mar-18*,636.0,HFCM
+138,Profit before tax,12  Mar-18*,2208.0,HFCM
+139,Minority Interest,12  Mar-18*,14.0,HFCM
+140,Prior Period Items,12  Mar-18*,0.0,HFCM
+141,Extraordinary Inc (Exp),12  Mar-18*,-18.0,HFCM
+142,Tax,12  Mar-18*,487.0,HFCM
+143,Profit after tax,12  Mar-18*,1717.0,HFCM
+144,Gross profit margin,12  Mar-18*,8.8,HFCM
+145,Effective tax rate,12  Mar-18*,22.1,HFCM
+146,Net profit margin,12  Mar-18*,5.3,HFCM
+147,Current assets,12  Mar-18*,21450.0,HFCM
+148,Current liabilities,12  Mar-18*,12671.0,HFCM
+149,Net working cap to sales,12  Mar-18*,27.2,HFCM
+150,Current ratio,12  Mar-18*,1.7,HFCM
+151,Inventory Days,12  Mar-18*,24.0,HFCM
+152,Debtors Days,12  Mar-18*,134.0,HFCM
+153,Net fixed assets,12  Mar-18*,2114.0,HFCM
+154,Share capital,12  Mar-18*,1239.0,HFCM
+155,"""Free"" reserves",12  Mar-18*,10548.0,HFCM
+156,Net worth,12  Mar-18*,11787.0,HFCM
+157,Long term debt,12  Mar-18*,1413.0,HFCM
+158,Total assets,12  Mar-18*,25884.0,HFCM
+159,Interest coverage,12  Mar-18*,4.5,HFCM
+160,Debt to equity ratio,12  Mar-18*,0.1,HFCM
+161,Sales to assets ratio,12  Mar-18*,1.2,HFCM
+162,Return on assets,12  Mar-18*,9.1,HFCM
+163,Return on equity,12  Mar-18*,14.6,HFCM
+164,Return on capital,12  Mar-18*,21.5,HFCM
+165,Exports to sales,12  Mar-18*,0.0,HFCM
+166,Imports to sales,12  Mar-18*,0.0,HFCM
+167,Exports (fob),12  Mar-18*,0.0,HFCM
+168,Imports (cif),12  Mar-18*,0.0,HFCM
+169,Fx inflow,12  Mar-18*,1002.0,HFCM
+170,Fx outflow,12  Mar-18*,1716.0,HFCM
+171,Net fx,12  Mar-18*,-714.0,HFCM
+172,From Operations,12  Mar-18*,2071.0,HFCM
+173,From Investments,12  Mar-18*,-300.0,HFCM
+174,From Financial Activity,12  Mar-18*,-1164.0,HFCM
+175,Net Cashflow,12  Mar-18*,607.0,HFCM
+176,Net Sales,12  Mar-19*,47378.0,HFCM
+177,Other income,12  Mar-19*,470.0,HFCM
+178,Total revenues,12  Mar-19*,47848.0,HFCM
+179,Gross profit,12  Mar-19*,4113.0,HFCM
+180,Depreciation,12  Mar-19*,270.0,HFCM
+181,Interest,12  Mar-19*,919.0,HFCM
+182,Profit before tax,12  Mar-19*,3394.0,HFCM
+183,Minority Interest,12  Mar-19*,-1.0,HFCM
+184,Prior Period Items,12  Mar-19*,0.0,HFCM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HFCM
+186,Tax,12  Mar-19*,1070.0,HFCM
+187,Profit after tax,12  Mar-19*,2323.0,HFCM
+188,Gross profit margin,12  Mar-19*,8.7,HFCM
+189,Effective tax rate,12  Mar-19*,31.5,HFCM
+190,Net profit margin,12  Mar-19*,4.9,HFCM
+191,Current assets,12  Mar-19*,26764.0,HFCM
+192,Current liabilities,12  Mar-19*,17112.0,HFCM
+193,Net working cap to sales,12  Mar-19*,20.4,HFCM
+194,Current ratio,12  Mar-19*,1.6,HFCM
+195,Inventory Days,12  Mar-19*,20.0,HFCM
+196,Debtors Days,12  Mar-19*,113.0,HFCM
+197,Net fixed assets,12  Mar-19*,3294.0,HFCM
+198,Share capital,12  Mar-19*,1274.0,HFCM
+199,"""Free"" reserves",12  Mar-19*,13142.0,HFCM
+200,Net worth,12  Mar-19*,14417.0,HFCM
+201,Long term debt,12  Mar-19*,1344.0,HFCM
+202,Total assets,12  Mar-19*,33043.0,HFCM
+203,Interest coverage,12  Mar-19*,4.7,HFCM
+204,Debt to equity ratio,12  Mar-19*,0.1,HFCM
+205,Sales to assets ratio,12  Mar-19*,1.4,HFCM
+206,Return on assets,12  Mar-19*,9.8,HFCM
+207,Return on equity,12  Mar-19*,16.1,HFCM
+208,Return on capital,12  Mar-19*,27.4,HFCM
+209,Exports to sales,12  Mar-19*,0.0,HFCM
+210,Imports to sales,12  Mar-19*,0.0,HFCM
+211,Exports (fob),12  Mar-19*,0.0,HFCM
+212,Imports (cif),12  Mar-19*,0.0,HFCM
+213,Fx inflow,12  Mar-19*,736.0,HFCM
+214,Fx outflow,12  Mar-19*,7051.0,HFCM
+215,Net fx,12  Mar-19*,-6315.0,HFCM
+216,From Operations,12  Mar-19*,381.0,HFCM
+217,From Investments,12  Mar-19*,-1545.0,HFCM
+218,From Financial Activity,12  Mar-19*,674.0,HFCM
+219,Net Cashflow,12  Mar-19*,-490.0,HFCM

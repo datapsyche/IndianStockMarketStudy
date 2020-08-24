@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Sep-13*,1533.0,BART
+1,Other income,12  Sep-13*,632.0,BART
+2,Total revenues,12  Sep-13*,2165.0,BART
+3,Gross profit,12  Sep-13*,-818.0,BART
+4,Depreciation,12  Sep-13*,531.0,BART
+5,Interest,12  Sep-13*,505.0,BART
+6,Profit before tax,12  Sep-13*,-1221.0,BART
+7,Minority Interest,12  Sep-13*,0.0,BART
+8,Prior Period Items,12  Sep-13*,0.0,BART
+9,Extraordinary Inc (Exp),12  Sep-13*,0.0,BART
+10,Tax,12  Sep-13*,-455.0,BART
+11,Profit after tax,12  Sep-13*,-767.0,BART
+12,Gross profit margin,12  Sep-13*,-53.3,BART
+13,Effective tax rate,12  Sep-13*,37.2,BART
+14,Net profit margin,12  Sep-13*,-50.0,BART
+15,Current assets,12  Sep-13*,13893.0,BART
+16,Current liabilities,12  Sep-13*,14919.0,BART
+17,Net working cap to sales,12  Sep-13*,-66.9,BART
+18,Current ratio,12  Sep-13*,0.9,BART
+19,Inventory Days,12  Sep-13*,13.0,BART
+20,Debtors Days,12  Sep-13*,3147.0,BART
+21,Net fixed assets,12  Sep-13*,3321.0,BART
+22,Share capital,12  Sep-13*,341.0,BART
+23,"""Free"" reserves",12  Sep-13*,2856.0,BART
+24,Net worth,12  Sep-13*,3643.0,BART
+25,Long term debt,12  Sep-13*,155.0,BART
+26,Total assets,12  Sep-13*,18754.0,BART
+27,Interest coverage,12  Sep-13*,-1.4,BART
+28,Debt to equity ratio,12  Sep-13*,0.0,BART
+29,Sales to assets ratio,12  Sep-13*,0.1,BART
+30,Return on assets,12  Sep-13*,-1.4,BART
+31,Return on equity,12  Sep-13*,-21.0,BART
+32,Return on capital,12  Sep-13*,-18.9,BART
+33,Exports to sales,12  Sep-13*,0.0,BART
+34,Imports to sales,12  Sep-13*,24.6,BART
+35,Exports (fob),12  Sep-13*,0.0,BART
+36,Imports (cif),12  Sep-13*,378.0,BART
+37,Fx inflow,12  Sep-13*,12.0,BART
+38,Fx outflow,12  Sep-13*,378.0,BART
+39,Net fx,12  Sep-13*,-366.0,BART
+40,From Operations,12  Sep-13*,939.0,BART
+41,From Investments,12  Sep-13*,-563.0,BART
+42,From Financial Activity,12  Sep-13*,-441.0,BART
+43,Net Cashflow,12  Sep-13*,-65.0,BART
+44,Net Sales,18  Mar-15*,1082.0,BART
+45,Other income,18  Mar-15*,620.0,BART
+46,Total revenues,18  Mar-15*,1702.0,BART
+47,Gross profit,18  Mar-15*,-481.0,BART
+48,Depreciation,18  Mar-15*,574.0,BART
+49,Interest,18  Mar-15*,701.0,BART
+50,Profit before tax,18  Mar-15*,-1135.0,BART
+51,Minority Interest,18  Mar-15*,0.0,BART
+52,Prior Period Items,18  Mar-15*,0.0,BART
+53,Extraordinary Inc (Exp),18  Mar-15*,0.0,BART
+54,Tax,18  Mar-15*,-148.0,BART
+55,Profit after tax,18  Mar-15*,-987.0,BART
+56,Gross profit margin,18  Mar-15*,-44.5,BART
+57,Effective tax rate,18  Mar-15*,13.1,BART
+58,Net profit margin,18  Mar-15*,-91.2,BART
+59,Current assets,18  Mar-15*,11379.0,BART
+60,Current liabilities,18  Mar-15*,13148.0,BART
+61,Net working cap to sales,18  Mar-15*,-163.6,BART
+62,Current ratio,18  Mar-15*,0.9,BART
+63,Inventory Days,18  Mar-15*,24.0,BART
+64,Debtors Days,18  Mar-15*,3603.0,BART
+65,Net fixed assets,18  Mar-15*,2767.0,BART
+66,Share capital,18  Mar-15*,341.0,BART
+67,"""Free"" reserves",18  Mar-15*,2276.0,BART
+68,Net worth,18  Mar-15*,2617.0,BART
+69,Long term debt,18  Mar-15*,0.0,BART
+70,Total assets,18  Mar-15*,15788.0,BART
+71,Interest coverage,18  Mar-15*,-0.6,BART
+72,Debt to equity ratio,18  Mar-15*,0.0,BART
+73,Sales to assets ratio,18  Mar-15*,0.1,BART
+74,Return on assets,18  Mar-15*,-1.8,BART
+75,Return on equity,18  Mar-15*,-37.7,BART
+76,Return on capital,18  Mar-15*,-16.6,BART
+77,Exports to sales,18  Mar-15*,1.4,BART
+78,Imports to sales,18  Mar-15*,0.0,BART
+79,Exports (fob),18  Mar-15*,15.0,BART
+80,Imports (cif),18  Mar-15*,0.0,BART
+81,Fx inflow,18  Mar-15*,507.0,BART
+82,Fx outflow,18  Mar-15*,3.0,BART
+83,Net fx,18  Mar-15*,505.0,BART
+84,From Operations,18  Mar-15*,1228.0,BART
+85,From Investments,18  Mar-15*,-242.0,BART
+86,From Financial Activity,18  Mar-15*,-1169.0,BART
+87,Net Cashflow,18  Mar-15*,-183.0,BART
+88,Net Sales,12  Mar-16*,1100.0,BART
+89,Other income,12  Mar-16*,761.0,BART
+90,Total revenues,12  Mar-16*,1860.0,BART
+91,Gross profit,12  Mar-16*,-470.0,BART
+92,Depreciation,12  Mar-16*,112.0,BART
+93,Interest,12  Mar-16*,536.0,BART
+94,Profit before tax,12  Mar-16*,-357.0,BART
+95,Minority Interest,12  Mar-16*,0.0,BART
+96,Prior Period Items,12  Mar-16*,0.0,BART
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,BART
+98,Tax,12  Mar-16*,-23.0,BART
+99,Profit after tax,12  Mar-16*,-335.0,BART
+100,Gross profit margin,12  Mar-16*,-42.7,BART
+101,Effective tax rate,12  Mar-16*,6.3,BART
+102,Net profit margin,12  Mar-16*,-30.4,BART
+103,Current assets,12  Mar-16*,12477.0,BART
+104,Current liabilities,12  Mar-16*,14320.0,BART
+105,Net working cap to sales,12  Mar-16*,-167.7,BART
+106,Current ratio,12  Mar-16*,0.9,BART
+107,Inventory Days,12  Mar-16*,26.0,BART
+108,Debtors Days,12  Mar-16*,3882.0,BART
+109,Net fixed assets,12  Mar-16*,2674.0,BART
+110,Share capital,12  Mar-16*,341.0,BART
+111,"""Free"" reserves",12  Mar-16*,2045.0,BART
+112,Net worth,12  Mar-16*,2386.0,BART
+113,Long term debt,12  Mar-16*,0.0,BART
+114,Total assets,12  Mar-16*,16718.0,BART
+115,Interest coverage,12  Mar-16*,0.3,BART
+116,Debt to equity ratio,12  Mar-16*,0.0,BART
+117,Sales to assets ratio,12  Mar-16*,0.1,BART
+118,Return on assets,12  Mar-16*,1.2,BART
+119,Return on equity,12  Mar-16*,-14.0,BART
+120,Return on capital,12  Mar-16*,7.5,BART
+121,Exports to sales,12  Mar-16*,2.3,BART
+122,Imports to sales,12  Mar-16*,0.0,BART
+123,Exports (fob),12  Mar-16*,26.0,BART
+124,Imports (cif),12  Mar-16*,0.0,BART
+125,Fx inflow,12  Mar-16*,121.0,BART
+126,Fx outflow,12  Mar-16*,67.0,BART
+127,Net fx,12  Mar-16*,54.0,BART
+128,From Operations,12  Mar-16*,-75.0,BART
+129,From Investments,12  Mar-16*,48.0,BART
+130,From Financial Activity,12  Mar-16*,38.0,BART
+131,Net Cashflow,12  Mar-16*,10.0,BART
+132,Net Sales,12  Mar-17*,853.0,BART
+133,Other income,12  Mar-17*,2.0,BART
+134,Total revenues,12  Mar-17*,855.0,BART
+135,Gross profit,12  Mar-17*,102.0,BART
+136,Depreciation,12  Mar-17*,64.0,BART
+137,Interest,12  Mar-17*,519.0,BART
+138,Profit before tax,12  Mar-17*,-479.0,BART
+139,Minority Interest,12  Mar-17*,0.0,BART
+140,Prior Period Items,12  Mar-17*,0.0,BART
+141,Extraordinary Inc (Exp),12  Mar-17*,-35.0,BART
+142,Tax,12  Mar-17*,-4.0,BART
+143,Profit after tax,12  Mar-17*,-510.0,BART
+144,Gross profit margin,12  Mar-17*,12.0,BART
+145,Effective tax rate,12  Mar-17*,0.8,BART
+146,Net profit margin,12  Mar-17*,-59.8,BART
+147,Current assets,12  Mar-17*,12273.0,BART
+148,Current liabilities,12  Mar-17*,14478.0,BART
+149,Net working cap to sales,12  Mar-17*,-258.6,BART
+150,Current ratio,12  Mar-17*,0.8,BART
+151,Inventory Days,12  Mar-17*,22.0,BART
+152,Debtors Days,12  Mar-17*,4913.0,BART
+153,Net fixed assets,12  Mar-17*,2618.0,BART
+154,Share capital,12  Mar-17*,341.0,BART
+155,"""Free"" reserves",12  Mar-17*,1632.0,BART
+156,Net worth,12  Mar-17*,1972.0,BART
+157,Long term debt,12  Mar-17*,0.0,BART
+158,Total assets,12  Mar-17*,16462.0,BART
+159,Interest coverage,12  Mar-17*,0.1,BART
+160,Debt to equity ratio,12  Mar-17*,0.0,BART
+161,Sales to assets ratio,12  Mar-17*,0.1,BART
+162,Return on assets,12  Mar-17*,0.1,BART
+163,Return on equity,12  Mar-17*,-25.9,BART
+164,Return on capital,12  Mar-17*,0.2,BART
+165,Exports to sales,12  Mar-17*,0.9,BART
+166,Imports to sales,12  Mar-17*,0.0,BART
+167,Exports (fob),12  Mar-17*,8.0,BART
+168,Imports (cif),12  Mar-17*,0.0,BART
+169,Fx inflow,12  Mar-17*,15.0,BART
+170,Fx outflow,12  Mar-17*,17.0,BART
+171,Net fx,12  Mar-17*,-2.0,BART
+172,From Operations,12  Mar-17*,36.0,BART
+173,From Investments,12  Mar-17*,-8.0,BART
+174,From Financial Activity,12  Mar-17*,-19.0,BART
+175,Net Cashflow,12  Mar-17*,9.0,BART
+176,Net Sales,12  Mar-18*,754.0,BART
+177,Other income,12  Mar-18*,20.0,BART
+178,Total revenues,12  Mar-18*,774.0,BART
+179,Gross profit,12  Mar-18*,141.0,BART
+180,Depreciation,12  Mar-18*,59.0,BART
+181,Interest,12  Mar-18*,524.0,BART
+182,Profit before tax,12  Mar-18*,-422.0,BART
+183,Minority Interest,12  Mar-18*,0.0,BART
+184,Prior Period Items,12  Mar-18*,0.0,BART
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,BART
+186,Tax,12  Mar-18*,-4.0,BART
+187,Profit after tax,12  Mar-18*,-418.0,BART
+188,Gross profit margin,12  Mar-18*,18.6,BART
+189,Effective tax rate,12  Mar-18*,0.9,BART
+190,Net profit margin,12  Mar-18*,-55.5,BART
+191,Current assets,12  Mar-18*,10723.0,BART
+192,Current liabilities,12  Mar-18*,13023.0,BART
+193,Net working cap to sales,12  Mar-18*,-305.2,BART
+194,Current ratio,12  Mar-18*,0.8,BART
+195,Inventory Days,12  Mar-18*,21.0,BART
+196,Debtors Days,12  Mar-18*,4345.0,BART
+197,Net fixed assets,12  Mar-18*,2529.0,BART
+198,Share capital,12  Mar-18*,341.0,BART
+199,"""Free"" reserves",12  Mar-18*,1457.0,BART
+200,Net worth,12  Mar-18*,1798.0,BART
+201,Long term debt,12  Mar-18*,0.0,BART
+202,Total assets,12  Mar-18*,14826.0,BART
+203,Interest coverage,12  Mar-18*,0.2,BART
+204,Debt to equity ratio,12  Mar-18*,0.0,BART
+205,Sales to assets ratio,12  Mar-18*,0.1,BART
+206,Return on assets,12  Mar-18*,0.7,BART
+207,Return on equity,12  Mar-18*,-23.3,BART
+208,Return on capital,12  Mar-18*,5.7,BART
+209,Exports to sales,12  Mar-18*,3.0,BART
+210,Imports to sales,12  Mar-18*,0.0,BART
+211,Exports (fob),12  Mar-18*,23.0,BART
+212,Imports (cif),12  Mar-18*,0.0,BART
+213,Fx inflow,12  Mar-18*,53.0,BART
+214,Fx outflow,12  Mar-18*,16.0,BART
+215,Net fx,12  Mar-18*,38.0,BART
+216,From Operations,12  Mar-18*,-38.0,BART
+217,From Investments,12  Mar-18*,36.0,BART
+218,From Financial Activity,12  Mar-18*,1.0,BART
+219,Net Cashflow,12  Mar-18*,-1.0,BART

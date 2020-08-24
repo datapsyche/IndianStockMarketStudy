@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,549640.0,ICBK
+1,Other income,12  Mar-15*,352522.0,ICBK
+2,Interest expense,12  Mar-15*,323182.0,ICBK
+3,Net interest income,12  Mar-15*,226459.0,ICBK
+4,Operating expense,12  Mar-15*,350227.0,ICBK
+5,Provisions/contingencies,12  Mar-15*,45363.0,ICBK
+6,Profit before tax,12  Mar-15*,183390.0,ICBK
+7,Extraordinary Inc (Exp),12  Mar-15*,0.0,ICBK
+8,Minority Interest,12  Mar-15*,-6954.0,ICBK
+9,Prior Period Items,12  Mar-15*,0.0,ICBK
+10,Tax,12  Mar-15*,53967.0,ICBK
+11,Profit after tax,12  Mar-15*,122469.0,ICBK
+12,Net profit margin,12  Mar-15*,22.3,ICBK
+13,Advances,12  Mar-15*,4384901.0,ICBK
+14,Deposits,12  Mar-15*,3859553.0,ICBK
+15,Credit/Deposit ratio,12  Mar-15*,113.6,ICBK
+16,Yield on advances,12  Mar-15*,8.7,ICBK
+17,Cost of deposits,12  Mar-15*,5.4,ICBK
+18,Net Interest Margin,12  Mar-15*,2.9,ICBK
+19,Net fixed assets,12  Mar-15*,58712.0,ICBK
+20,Share capital,12  Mar-15*,11597.0,ICBK
+21,Free reserves,12  Mar-15*,553548.0,ICBK
+22,Net worth,12  Mar-15*,847045.0,ICBK
+23,Borrowings,12  Mar-15*,2112520.0,ICBK
+24,Investments,12  Mar-15*,3027616.0,ICBK
+25,Total assets,12  Mar-15*,8260792.0,ICBK
+26,Debt/equity ratio,12  Mar-15*,7.1,ICBK
+27,Return on assets,12  Mar-15*,1.5,ICBK
+28,Return on equity,12  Mar-15*,14.5,ICBK
+29,Capital adequacy ratio,12  Mar-15*,17.0,ICBK
+30,Net NPAs,12  Mar-15*,1.6,ICBK
+31,From Operations,12  Mar-15*,-122731.0,ICBK
+32,From Investments,12  Mar-15*,-129317.0,ICBK
+33,From Financial Activity,12  Mar-15*,248272.0,ICBK
+34,Net Cashflow,12  Mar-15*,-3777.0,ICBK
+35,Interest income,12  Mar-16*,592937.0,ICBK
+36,Other income,12  Mar-16*,421021.0,ICBK
+37,Interest expense,12  Mar-16*,339965.0,ICBK
+38,Net interest income,12  Mar-16*,252972.0,ICBK
+39,Operating expense,12  Mar-16*,407896.0,ICBK
+40,Provisions/contingencies,12  Mar-16*,123054.0,ICBK
+41,Profit before tax,12  Mar-16*,143044.0,ICBK
+42,Extraordinary Inc (Exp),12  Mar-16*,0.0,ICBK
+43,Minority Interest,12  Mar-16*,-7469.0,ICBK
+44,Prior Period Items,12  Mar-16*,0.0,ICBK
+45,Tax,12  Mar-16*,33775.0,ICBK
+46,Profit after tax,12  Mar-16*,101800.0,ICBK
+47,Net profit margin,12  Mar-16*,17.2,ICBK
+48,Advances,12  Mar-16*,4937291.0,ICBK
+49,Deposits,12  Mar-16*,4510774.0,ICBK
+50,Credit/Deposit ratio,12  Mar-16*,109.5,ICBK
+51,Yield on advances,12  Mar-16*,8.4,ICBK
+52,Cost of deposits,12  Mar-16*,4.9,ICBK
+53,Net Interest Margin,12  Mar-16*,3.0,ICBK
+54,Net fixed assets,12  Mar-16*,87135.0,ICBK
+55,Share capital,12  Mar-16*,11632.0,ICBK
+56,Free reserves,12  Mar-16*,560261.0,ICBK
+57,Net worth,12  Mar-16*,941040.0,ICBK
+58,Borrowings,12  Mar-16*,2203777.0,ICBK
+59,Investments,12  Mar-16*,2860441.0,ICBK
+60,Total assets,12  Mar-16*,9187562.0,ICBK
+61,Debt/equity ratio,12  Mar-16*,7.1,ICBK
+62,Return on assets,12  Mar-16*,1.1,ICBK
+63,Return on equity,12  Mar-16*,10.8,ICBK
+64,Capital adequacy ratio,12  Mar-16*,16.6,ICBK
+65,Net NPAs,12  Mar-16*,3.0,ICBK
+66,From Operations,12  Mar-16*,236453.0,ICBK
+67,From Investments,12  Mar-16*,-118193.0,ICBK
+68,From Financial Activity,12  Mar-16*,58139.0,ICBK
+69,Net Cashflow,12  Mar-16*,176400.0,ICBK
+70,Interest income,12  Mar-17*,609400.0,ICBK
+71,Other income,12  Mar-17*,524577.0,ICBK
+72,Interest expense,12  Mar-17*,348358.0,ICBK
+73,Net interest income,12  Mar-17*,261042.0,ICBK
+74,Operating expense,12  Mar-17*,481700.0,ICBK
+75,Provisions/contingencies,12  Mar-17*,175735.0,ICBK
+76,Profit before tax,12  Mar-17*,128183.0,ICBK
+77,Extraordinary Inc (Exp),12  Mar-17*,0.0,ICBK
+78,Minority Interest,12  Mar-17*,-11520.0,ICBK
+79,Prior Period Items,12  Mar-17*,0.0,ICBK
+80,Tax,12  Mar-17*,14780.0,ICBK
+81,Profit after tax,12  Mar-17*,101884.0,ICBK
+82,Net profit margin,12  Mar-17*,16.7,ICBK
+83,Advances,12  Mar-17*,5153173.0,ICBK
+84,Deposits,12  Mar-17*,5125873.0,ICBK
+85,Credit/Deposit ratio,12  Mar-17*,100.5,ICBK
+86,Yield on advances,12  Mar-17*,8.2,ICBK
+87,Cost of deposits,12  Mar-17*,4.5,ICBK
+88,Net Interest Margin,12  Mar-17*,2.9,ICBK
+89,Net fixed assets,12  Mar-17*,93380.0,ICBK
+90,Share capital,12  Mar-17*,11651.0,ICBK
+91,Free reserves,12  Mar-17*,581559.0,ICBK
+92,Net worth,12  Mar-17*,1046320.0,ICBK
+93,Borrowings,12  Mar-17*,1882868.0,ICBK
+94,Investments,12  Mar-17*,3043733.0,ICBK
+95,Total assets,12  Mar-17*,9857247.0,ICBK
+96,Debt/equity ratio,12  Mar-17*,6.7,ICBK
+97,Return on assets,12  Mar-17*,1.0,ICBK
+98,Return on equity,12  Mar-17*,9.7,ICBK
+99,Capital adequacy ratio,12  Mar-17*,17.4,ICBK
+100,Net NPAs,12  Mar-17*,4.9,ICBK
+101,From Operations,12  Mar-17*,526355.0,ICBK
+102,From Investments,12  Mar-17*,-16057.0,ICBK
+103,From Financial Activity,12  Mar-17*,-354695.0,ICBK
+104,Net Cashflow,12  Mar-17*,155603.0,ICBK
+105,Interest income,12  Mar-18*,621624.0,ICBK
+106,Other income,12  Mar-18*,568068.0,ICBK
+107,Interest expense,12  Mar-18*,342621.0,ICBK
+108,Net interest income,12  Mar-18*,279003.0,ICBK
+109,Operating expense,12  Mar-18*,557556.0,ICBK
+110,Provisions/contingencies,12  Mar-18*,191949.0,ICBK
+111,Profit before tax,12  Mar-18*,97565.0,ICBK
+112,Extraordinary Inc (Exp),12  Mar-18*,0.0,ICBK
+113,Minority Interest,12  Mar-18*,-13874.0,ICBK
+114,Prior Period Items,12  Mar-18*,0.0,ICBK
+115,Tax,12  Mar-18*,6570.0,ICBK
+116,Profit after tax,12  Mar-18*,77122.0,ICBK
+117,Net profit margin,12  Mar-18*,12.4,ICBK
+118,Advances,12  Mar-18*,5668542.0,ICBK
+119,Deposits,12  Mar-18*,5857961.0,ICBK
+120,Credit/Deposit ratio,12  Mar-18*,96.8,ICBK
+121,Yield on advances,12  Mar-18*,7.6,ICBK
+122,Cost of deposits,12  Mar-18*,4.1,ICBK
+123,Net Interest Margin,12  Mar-18*,2.7,ICBK
+124,Net fixed assets,12  Mar-18*,94650.0,ICBK
+125,Share capital,12  Mar-18*,12858.0,ICBK
+126,Free reserves,12  Mar-18*,591640.0,ICBK
+127,Net worth,12  Mar-18*,1106241.0,ICBK
+128,Borrowings,12  Mar-18*,2294018.0,ICBK
+129,Investments,12  Mar-18*,3722077.0,ICBK
+130,Total assets,12  Mar-18*,11242810.0,ICBK
+131,Debt/equity ratio,12  Mar-18*,7.4,ICBK
+132,Return on assets,12  Mar-18*,0.7,ICBK
+133,Return on equity,12  Mar-18*,7.0,ICBK
+134,Capital adequacy ratio,12  Mar-18*,18.4,ICBK
+135,Net NPAs,12  Mar-18*,5.4,ICBK
+136,From Operations,12  Mar-18*,193829.0,ICBK
+137,From Investments,12  Mar-18*,-505735.0,ICBK
+138,From Financial Activity,12  Mar-18*,396760.0,ICBK
+139,Net Cashflow,12  Mar-18*,85083.0,ICBK
+140,Interest income,12  Mar-19*,719817.0,ICBK
+141,Other income,12  Mar-19*,593248.0,ICBK
+142,Interest expense,12  Mar-19*,391775.0,ICBK
+143,Net interest income,12  Mar-19*,328041.0,ICBK
+144,Operating expense,12  Mar-19*,642589.0,ICBK
+145,Provisions/contingencies,12  Mar-19*,217669.0,ICBK
+146,Profit before tax,12  Mar-19*,61032.0,ICBK
+147,Extraordinary Inc (Exp),12  Mar-19*,0.0,ICBK
+148,Minority Interest,12  Mar-19*,-14349.0,ICBK
+149,Prior Period Items,12  Mar-19*,0.0,ICBK
+150,Tax,12  Mar-19*,4140.0,ICBK
+151,Profit after tax,12  Mar-19*,42542.0,ICBK
+152,Net profit margin,12  Mar-19*,5.9,ICBK
+153,Advances,12  Mar-19*,6469617.0,ICBK
+154,Deposits,12  Mar-19*,6813169.0,ICBK
+155,Credit/Deposit ratio,12  Mar-19*,95.0,ICBK
+156,Yield on advances,12  Mar-19*,7.9,ICBK
+157,Cost of deposits,12  Mar-19*,4.0,ICBK
+158,Net Interest Margin,12  Mar-19*,2.9,ICBK
+159,Net fixed assets,12  Mar-19*,96604.0,ICBK
+160,Share capital,12  Mar-19*,12895.0,ICBK
+161,Free reserves,12  Mar-19*,1129593.0,ICBK
+162,Net worth,12  Mar-19*,1142487.0,ICBK
+163,Borrowings,12  Mar-19*,2103241.0,ICBK
+164,Investments,12  Mar-19*,3982008.0,ICBK
+165,Total assets,12  Mar-19*,12387939.0,ICBK
+166,Debt/equity ratio,12  Mar-19*,7.8,ICBK
+167,Return on assets,12  Mar-19*,0.3,ICBK
+168,Return on equity,12  Mar-19*,3.7,ICBK
+169,Capital adequacy ratio,12  Mar-19*,16.9,ICBK
+170,Net NPAs,12  Mar-19*,2.3,ICBK
+171,From Operations,12  Mar-19*,486711.0,ICBK
+172,From Investments,12  Mar-19*,-301472.0,ICBK
+173,From Financial Activity,12  Mar-19*,-199974.0,ICBK
+174,Net Cashflow,12  Mar-19*,-16082.0,ICBK

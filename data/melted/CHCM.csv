@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-11,526.0,CHCM
+1,Other income,12  Mar-11,2.0,CHCM
+2,Total revenues,12  Mar-11,528.0,CHCM
+3,Gross profit,12  Mar-11,-1.0,CHCM
+4,Depreciation,12  Mar-11,0.0,CHCM
+5,Interest,12  Mar-11,1.0,CHCM
+6,Profit before tax,12  Mar-11,0.0,CHCM
+7,Minority Interest,12  Mar-11,0.0,CHCM
+8,Prior Period Items,12  Mar-11,0.0,CHCM
+9,Extraordinary Inc (Exp),12  Mar-11,11.0,CHCM
+10,Tax,12  Mar-11,2.0,CHCM
+11,Profit after tax,12  Mar-11,10.0,CHCM
+12,Gross profit margin,12  Mar-11,-0.1,CHCM
+13,Effective tax rate,12  Mar-11,900.0,CHCM
+14,Net profit margin,12  Mar-11,1.8,CHCM
+15,Current assets,12  Mar-11,89.0,CHCM
+16,Current liabilities,12  Mar-11,65.0,CHCM
+17,Net working cap to sales,12  Mar-11,4.6,CHCM
+18,Current ratio,12  Mar-11,1.4,CHCM
+19,Inventory Days,12  Mar-11,7.0,CHCM
+20,Debtors Days,12  Mar-11,20.0,CHCM
+21,Net fixed assets,12  Mar-11,43.0,CHCM
+22,Share capital,12  Mar-11,66.0,CHCM
+23,"""Free"" reserves",12  Mar-11,19.0,CHCM
+24,Net worth,12  Mar-11,87.0,CHCM
+25,Long term debt,12  Mar-11,0.0,CHCM
+26,Total assets,12  Mar-11,152.0,CHCM
+27,Interest coverage,12  Mar-11,1.2,CHCM
+28,Debt to equity ratio,12  Mar-11,0.0,CHCM
+29,Sales to assets ratio,12  Mar-11,3.5,CHCM
+30,Return on assets,12  Mar-11,7.0,CHCM
+31,Return on equity,12  Mar-11,11.0,CHCM
+32,Return on capital,12  Mar-11,14.2,CHCM
+33,Exports to sales,12  Mar-11,0.0,CHCM
+34,Imports to sales,12  Mar-11,0.0,CHCM
+35,Exports (fob),12  Mar-11,0.0,CHCM
+36,Imports (cif),12  Mar-11,0.0,CHCM
+37,Fx inflow,12  Mar-11,0.0,CHCM
+38,Fx outflow,12  Mar-11,0.0,CHCM
+39,Net fx,12  Mar-11,0.0,CHCM
+40,From Operations,12  Mar-11,-48.0,CHCM
+41,From Investments,12  Mar-11,-10.0,CHCM
+42,From Financial Activity,12  Mar-11,42.0,CHCM
+43,Net Cashflow,12  Mar-11,-15.0,CHCM
+44,Net Sales,12  Mar-12,720.0,CHCM
+45,Other income,12  Mar-12,8.0,CHCM
+46,Total revenues,12  Mar-12,728.0,CHCM
+47,Gross profit,12  Mar-12,12.0,CHCM
+48,Depreciation,12  Mar-12,1.0,CHCM
+49,Interest,12  Mar-12,11.0,CHCM
+50,Profit before tax,12  Mar-12,8.0,CHCM
+51,Minority Interest,12  Mar-12,0.0,CHCM
+52,Prior Period Items,12  Mar-12,0.0,CHCM
+53,Extraordinary Inc (Exp),12  Mar-12,2.0,CHCM
+54,Tax,12  Mar-12,1.0,CHCM
+55,Profit after tax,12  Mar-12,9.0,CHCM
+56,Gross profit margin,12  Mar-12,1.6,CHCM
+57,Effective tax rate,12  Mar-12,6.4,CHCM
+58,Net profit margin,12  Mar-12,1.3,CHCM
+59,Current assets,12  Mar-12,438.0,CHCM
+60,Current liabilities,12  Mar-12,241.0,CHCM
+61,Net working cap to sales,12  Mar-12,27.4,CHCM
+62,Current ratio,12  Mar-12,1.8,CHCM
+63,Inventory Days,12  Mar-12,35.0,CHCM
+64,Debtors Days,12  Mar-12,48.0,CHCM
+65,Net fixed assets,12  Mar-12,94.0,CHCM
+66,Share capital,12  Mar-12,192.0,CHCM
+67,"""Free"" reserves",12  Mar-12,151.0,CHCM
+68,Net worth,12  Mar-12,343.0,CHCM
+69,Long term debt,12  Mar-12,23.0,CHCM
+70,Total assets,12  Mar-12,607.0,CHCM
+71,Interest coverage,12  Mar-12,1.7,CHCM
+72,Debt to equity ratio,12  Mar-12,0.1,CHCM
+73,Sales to assets ratio,12  Mar-12,1.2,CHCM
+74,Return on assets,12  Mar-12,3.3,CHCM
+75,Return on equity,12  Mar-12,2.7,CHCM
+76,Return on capital,12  Mar-12,5.6,CHCM
+77,Exports to sales,12  Mar-12,0.0,CHCM
+78,Imports to sales,12  Mar-12,0.0,CHCM
+79,Exports (fob),12  Mar-12,0.0,CHCM
+80,Imports (cif),12  Mar-12,0.0,CHCM
+81,Fx inflow,12  Mar-12,0.0,CHCM
+82,Fx outflow,12  Mar-12,0.0,CHCM
+83,Net fx,12  Mar-12,0.0,CHCM
+84,From Operations,12  Mar-12,-88.0,CHCM
+85,From Investments,12  Mar-12,-177.0,CHCM
+86,From Financial Activity,12  Mar-12,342.0,CHCM
+87,Net Cashflow,12  Mar-12,77.0,CHCM
+88,Net Sales,12  Mar-13,773.0,CHCM
+89,Other income,12  Mar-13,16.0,CHCM
+90,Total revenues,12  Mar-13,789.0,CHCM
+91,Gross profit,12  Mar-13,27.0,CHCM
+92,Depreciation,12  Mar-13,8.0,CHCM
+93,Interest,12  Mar-13,11.0,CHCM
+94,Profit before tax,12  Mar-13,23.0,CHCM
+95,Minority Interest,12  Mar-13,0.0,CHCM
+96,Prior Period Items,12  Mar-13,0.0,CHCM
+97,Extraordinary Inc (Exp),12  Mar-13,0.0,CHCM
+98,Tax,12  Mar-13,6.0,CHCM
+99,Profit after tax,12  Mar-13,18.0,CHCM
+100,Gross profit margin,12  Mar-13,3.4,CHCM
+101,Effective tax rate,12  Mar-13,23.9,CHCM
+102,Net profit margin,12  Mar-13,2.3,CHCM
+103,Current assets,12  Mar-13,309.0,CHCM
+104,Current liabilities,12  Mar-13,233.0,CHCM
+105,Net working cap to sales,12  Mar-13,9.9,CHCM
+106,Current ratio,12  Mar-13,1.3,CHCM
+107,Inventory Days,12  Mar-13,62.0,CHCM
+108,Debtors Days,12  Mar-13,16.0,CHCM
+109,Net fixed assets,12  Mar-13,103.0,CHCM
+110,Share capital,12  Mar-13,192.0,CHCM
+111,"""Free"" reserves",12  Mar-13,163.0,CHCM
+112,Net worth,12  Mar-13,355.0,CHCM
+113,Long term debt,12  Mar-13,10.0,CHCM
+114,Total assets,12  Mar-13,598.0,CHCM
+115,Interest coverage,12  Mar-13,3.0,CHCM
+116,Debt to equity ratio,12  Mar-13,0.0,CHCM
+117,Sales to assets ratio,12  Mar-13,1.3,CHCM
+118,Return on assets,12  Mar-13,4.8,CHCM
+119,Return on equity,12  Mar-13,4.9,CHCM
+120,Return on capital,12  Mar-13,9.4,CHCM
+121,Exports to sales,12  Mar-13,0.0,CHCM
+122,Imports to sales,12  Mar-13,0.0,CHCM
+123,Exports (fob),12  Mar-13,0.0,CHCM
+124,Imports (cif),12  Mar-13,0.0,CHCM
+125,Fx inflow,12  Mar-13,0.0,CHCM
+126,Fx outflow,12  Mar-13,0.0,CHCM
+127,Net fx,12  Mar-13,0.0,CHCM
+128,From Operations,12  Mar-13,99.0,CHCM
+129,From Investments,12  Mar-13,-75.0,CHCM
+130,From Financial Activity,12  Mar-13,-76.0,CHCM
+131,Net Cashflow,12  Mar-13,-52.0,CHCM
+132,Net Sales,12  Mar-14,796.0,CHCM
+133,Other income,12  Mar-14,6.0,CHCM
+134,Total revenues,12  Mar-14,802.0,CHCM
+135,Gross profit,12  Mar-14,26.0,CHCM
+136,Depreciation,12  Mar-14,11.0,CHCM
+137,Interest,12  Mar-14,7.0,CHCM
+138,Profit before tax,12  Mar-14,14.0,CHCM
+139,Minority Interest,12  Mar-14,0.0,CHCM
+140,Prior Period Items,12  Mar-14,0.0,CHCM
+141,Extraordinary Inc (Exp),12  Mar-14,0.0,CHCM
+142,Tax,12  Mar-14,4.0,CHCM
+143,Profit after tax,12  Mar-14,10.0,CHCM
+144,Gross profit margin,12  Mar-14,3.3,CHCM
+145,Effective tax rate,12  Mar-14,28.8,CHCM
+146,Net profit margin,12  Mar-14,1.2,CHCM
+147,Current assets,12  Mar-14,357.0,CHCM
+148,Current liabilities,12  Mar-14,305.0,CHCM
+149,Net working cap to sales,12  Mar-14,6.5,CHCM
+150,Current ratio,12  Mar-14,1.2,CHCM
+151,Inventory Days,12  Mar-14,56.0,CHCM
+152,Debtors Days,12  Mar-14,55.0,CHCM
+153,Net fixed assets,12  Mar-14,189.0,CHCM
+154,Share capital,12  Mar-14,192.0,CHCM
+155,"""Free"" reserves",12  Mar-14,168.0,CHCM
+156,Net worth,12  Mar-14,359.0,CHCM
+157,Long term debt,12  Mar-14,32.0,CHCM
+158,Total assets,12  Mar-14,697.0,CHCM
+159,Interest coverage,12  Mar-14,3.1,CHCM
+160,Debt to equity ratio,12  Mar-14,0.1,CHCM
+161,Sales to assets ratio,12  Mar-14,1.1,CHCM
+162,Return on assets,12  Mar-14,2.4,CHCM
+163,Return on equity,12  Mar-14,2.8,CHCM
+164,Return on capital,12  Mar-14,5.2,CHCM
+165,Exports to sales,12  Mar-14,0.0,CHCM
+166,Imports to sales,12  Mar-14,0.0,CHCM
+167,Exports (fob),12  Mar-14,0.0,CHCM
+168,Imports (cif),12  Mar-14,0.0,CHCM
+169,Fx inflow,12  Mar-14,0.0,CHCM
+170,Fx outflow,12  Mar-14,20.0,CHCM
+171,Net fx,12  Mar-14,-20.0,CHCM
+172,From Operations,12  Mar-14,43.0,CHCM
+173,From Investments,12  Mar-14,-49.0,CHCM
+174,From Financial Activity,12  Mar-14,9.0,CHCM
+175,Net Cashflow,12  Mar-14,3.0,CHCM
+176,Net Sales,12  Mar-15,943.0,CHCM
+177,Other income,12  Mar-15,6.0,CHCM
+178,Total revenues,12  Mar-15,949.0,CHCM
+179,Gross profit,12  Mar-15,35.0,CHCM
+180,Depreciation,12  Mar-15,13.0,CHCM
+181,Interest,12  Mar-15,13.0,CHCM
+182,Profit before tax,12  Mar-15,15.0,CHCM
+183,Minority Interest,12  Mar-15,0.0,CHCM
+184,Prior Period Items,12  Mar-15,0.0,CHCM
+185,Extraordinary Inc (Exp),12  Mar-15,0.0,CHCM
+186,Tax,12  Mar-15,5.0,CHCM
+187,Profit after tax,12  Mar-15,10.0,CHCM
+188,Gross profit margin,12  Mar-15,3.7,CHCM
+189,Effective tax rate,12  Mar-15,32.0,CHCM
+190,Net profit margin,12  Mar-15,1.1,CHCM
+191,Current assets,12  Mar-15,315.0,CHCM
+192,Current liabilities,12  Mar-15,224.0,CHCM
+193,Net working cap to sales,12  Mar-15,9.6,CHCM
+194,Current ratio,12  Mar-15,1.4,CHCM
+195,Inventory Days,12  Mar-15,58.0,CHCM
+196,Debtors Days,12  Mar-15,6.0,CHCM
+197,Net fixed assets,12  Mar-15,212.0,CHCM
+198,Share capital,12  Mar-15,192.0,CHCM
+199,"""Free"" reserves",12  Mar-15,177.0,CHCM
+200,Net worth,12  Mar-15,369.0,CHCM
+201,Long term debt,12  Mar-15,34.0,CHCM
+202,Total assets,12  Mar-15,632.0,CHCM
+203,Interest coverage,12  Mar-15,2.2,CHCM
+204,Debt to equity ratio,12  Mar-15,0.1,CHCM
+205,Sales to assets ratio,12  Mar-15,1.5,CHCM
+206,Return on assets,12  Mar-15,3.7,CHCM
+207,Return on equity,12  Mar-15,2.8,CHCM
+208,Return on capital,12  Mar-15,7.0,CHCM
+209,Exports to sales,12  Mar-15,0.0,CHCM
+210,Imports to sales,12  Mar-15,0.0,CHCM
+211,Exports (fob),12  Mar-15,0.0,CHCM
+212,Imports (cif),12  Mar-15,0.0,CHCM
+213,Fx inflow,12  Mar-15,0.0,CHCM
+214,Fx outflow,12  Mar-15,0.0,CHCM
+215,Net fx,12  Mar-15,0.0,CHCM
+216,From Operations,12  Mar-15,14.0,CHCM
+217,From Investments,12  Mar-15,14.0,CHCM
+218,From Financial Activity,12  Mar-15,-1.0,CHCM
+219,Net Cashflow,12  Mar-15,27.0,CHCM

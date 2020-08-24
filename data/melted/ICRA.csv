@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3219.0,ICRA
+1,Other income,12  Mar-15*,262.0,ICRA
+2,Total revenues,12  Mar-15*,3481.0,ICRA
+3,Gross profit,12  Mar-15*,858.0,ICRA
+4,Depreciation,12  Mar-15*,97.0,ICRA
+5,Interest,12  Mar-15*,20.0,ICRA
+6,Profit before tax,12  Mar-15*,1004.0,ICRA
+7,Minority Interest,12  Mar-15*,-1.0,ICRA
+8,Prior Period Items,12  Mar-15*,0.0,ICRA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ICRA
+10,Tax,12  Mar-15*,349.0,ICRA
+11,Profit after tax,12  Mar-15*,655.0,ICRA
+12,Gross profit margin,12  Mar-15*,26.7,ICRA
+13,Effective tax rate,12  Mar-15*,34.7,ICRA
+14,Net profit margin,12  Mar-15*,20.3,ICRA
+15,Current assets,12  Mar-15*,3013.0,ICRA
+16,Current liabilities,12  Mar-15*,1296.0,ICRA
+17,Net working cap to sales,12  Mar-15*,53.3,ICRA
+18,Current ratio,12  Mar-15*,2.3,ICRA
+19,Inventory Days,12  Mar-15*,0.0,ICRA
+20,Debtors Days,12  Mar-15*,61.0,ICRA
+21,Net fixed assets,12  Mar-15*,490.0,ICRA
+22,Share capital,12  Mar-15*,100.0,ICRA
+23,"""Free"" reserves",12  Mar-15*,4059.0,ICRA
+24,Net worth,12  Mar-15*,4288.0,ICRA
+25,Long term debt,12  Mar-15*,96.0,ICRA
+26,Total assets,12  Mar-15*,5832.0,ICRA
+27,Interest coverage,12  Mar-15*,51.7,ICRA
+28,Debt to equity ratio,12  Mar-15*,0.0,ICRA
+29,Sales to assets ratio,12  Mar-15*,0.6,ICRA
+30,Return on assets,12  Mar-15*,11.6,ICRA
+31,Return on equity,12  Mar-15*,15.3,ICRA
+32,Return on capital,12  Mar-15*,23.3,ICRA
+33,Exports to sales,12  Mar-15*,0.0,ICRA
+34,Imports to sales,12  Mar-15*,0.0,ICRA
+35,Exports (fob),12  Mar-15*,0.0,ICRA
+36,Imports (cif),12  Mar-15*,0.0,ICRA
+37,Fx inflow,12  Mar-15*,3.0,ICRA
+38,Fx outflow,12  Mar-15*,3.0,ICRA
+39,Net fx,12  Mar-15*,0.0,ICRA
+40,From Operations,12  Mar-15*,670.0,ICRA
+41,From Investments,12  Mar-15*,-322.0,ICRA
+42,From Financial Activity,12  Mar-15*,-289.0,ICRA
+43,Net Cashflow,12  Mar-15*,67.0,ICRA
+44,Net Sales,12  Mar-16*,3412.0,ICRA
+45,Other income,12  Mar-16*,271.0,ICRA
+46,Total revenues,12  Mar-16*,3682.0,ICRA
+47,Gross profit,12  Mar-16*,1011.0,ICRA
+48,Depreciation,12  Mar-16*,96.0,ICRA
+49,Interest,12  Mar-16*,6.0,ICRA
+50,Profit before tax,12  Mar-16*,1180.0,ICRA
+51,Minority Interest,12  Mar-16*,-2.0,ICRA
+52,Prior Period Items,12  Mar-16*,0.0,ICRA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ICRA
+54,Tax,12  Mar-16*,416.0,ICRA
+55,Profit after tax,12  Mar-16*,762.0,ICRA
+56,Gross profit margin,12  Mar-16*,29.6,ICRA
+57,Effective tax rate,12  Mar-16*,35.2,ICRA
+58,Net profit margin,12  Mar-16*,22.3,ICRA
+59,Current assets,12  Mar-16*,3248.0,ICRA
+60,Current liabilities,12  Mar-16*,1066.0,ICRA
+61,Net working cap to sales,12  Mar-16*,64.0,ICRA
+62,Current ratio,12  Mar-16*,3.0,ICRA
+63,Inventory Days,12  Mar-16*,0.0,ICRA
+64,Debtors Days,12  Mar-16*,51.0,ICRA
+65,Net fixed assets,12  Mar-16*,496.0,ICRA
+66,Share capital,12  Mar-16*,100.0,ICRA
+67,"""Free"" reserves",12  Mar-16*,4530.0,ICRA
+68,Net worth,12  Mar-16*,4762.0,ICRA
+69,Long term debt,12  Mar-16*,0.0,ICRA
+70,Total assets,12  Mar-16*,6612.0,ICRA
+71,Interest coverage,12  Mar-16*,215.5,ICRA
+72,Debt to equity ratio,12  Mar-16*,0.0,ICRA
+73,Sales to assets ratio,12  Mar-16*,0.5,ICRA
+74,Return on assets,12  Mar-16*,11.6,ICRA
+75,Return on equity,12  Mar-16*,16.0,ICRA
+76,Return on capital,12  Mar-16*,24.9,ICRA
+77,Exports to sales,12  Mar-16*,0.0,ICRA
+78,Imports to sales,12  Mar-16*,0.0,ICRA
+79,Exports (fob),12  Mar-16*,0.0,ICRA
+80,Imports (cif),12  Mar-16*,0.0,ICRA
+81,Fx inflow,12  Mar-16*,10.0,ICRA
+82,Fx outflow,12  Mar-16*,5.0,ICRA
+83,Net fx,12  Mar-16*,5.0,ICRA
+84,From Operations,12  Mar-16*,712.0,ICRA
+85,From Investments,12  Mar-16*,-415.0,ICRA
+86,From Financial Activity,12  Mar-16*,-396.0,ICRA
+87,Net Cashflow,12  Mar-16*,-88.0,ICRA
+88,Net Sales,12  Mar-17*,3330.0,ICRA
+89,Other income,12  Mar-17*,396.0,ICRA
+90,Total revenues,12  Mar-17*,3726.0,ICRA
+91,Gross profit,12  Mar-17*,983.0,ICRA
+92,Depreciation,12  Mar-17*,85.0,ICRA
+93,Interest,12  Mar-17*,0.0,ICRA
+94,Profit before tax,12  Mar-17*,1294.0,ICRA
+95,Minority Interest,12  Mar-17*,0.0,ICRA
+96,Prior Period Items,12  Mar-17*,0.0,ICRA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ICRA
+98,Tax,12  Mar-17*,418.0,ICRA
+99,Profit after tax,12  Mar-17*,876.0,ICRA
+100,Gross profit margin,12  Mar-17*,29.5,ICRA
+101,Effective tax rate,12  Mar-17*,32.3,ICRA
+102,Net profit margin,12  Mar-17*,26.3,ICRA
+103,Current assets,12  Mar-17*,4439.0,ICRA
+104,Current liabilities,12  Mar-17*,1048.0,ICRA
+105,Net working cap to sales,12  Mar-17*,101.8,ICRA
+106,Current ratio,12  Mar-17*,4.2,ICRA
+107,Inventory Days,12  Mar-17*,0.0,ICRA
+108,Debtors Days,12  Mar-17*,37.0,ICRA
+109,Net fixed assets,12  Mar-17*,374.0,ICRA
+110,Share capital,12  Mar-17*,99.0,ICRA
+111,"""Free"" reserves",12  Mar-17*,5391.0,ICRA
+112,Net worth,12  Mar-17*,5490.0,ICRA
+113,Long term debt,12  Mar-17*,0.0,ICRA
+114,Total assets,12  Mar-17*,6602.0,ICRA
+115,Interest coverage,12  Mar-17*,3234.8,ICRA
+116,Debt to equity ratio,12  Mar-17*,0.0,ICRA
+117,Sales to assets ratio,12  Mar-17*,0.5,ICRA
+118,Return on assets,12  Mar-17*,13.3,ICRA
+119,Return on equity,12  Mar-17*,15.9,ICRA
+120,Return on capital,12  Mar-17*,23.6,ICRA
+121,Exports to sales,12  Mar-17*,0.0,ICRA
+122,Imports to sales,12  Mar-17*,0.0,ICRA
+123,Exports (fob),12  Mar-17*,0.0,ICRA
+124,Imports (cif),12  Mar-17*,0.0,ICRA
+125,Fx inflow,12  Mar-17*,6.0,ICRA
+126,Fx outflow,12  Mar-17*,4.0,ICRA
+127,Net fx,12  Mar-17*,2.0,ICRA
+128,From Operations,12  Mar-17*,634.0,ICRA
+129,From Investments,12  Mar-17*,102.0,ICRA
+130,From Financial Activity,12  Mar-17*,-689.0,ICRA
+131,Net Cashflow,12  Mar-17*,-170.0,ICRA
+132,Net Sales,12  Mar-18*,3089.0,ICRA
+133,Other income,12  Mar-18*,494.0,ICRA
+134,Total revenues,12  Mar-18*,3582.0,ICRA
+135,Gross profit,12  Mar-18*,1151.0,ICRA
+136,Depreciation,12  Mar-18*,75.0,ICRA
+137,Interest,12  Mar-18*,1.0,ICRA
+138,Profit before tax,12  Mar-18*,1568.0,ICRA
+139,Minority Interest,12  Mar-18*,0.0,ICRA
+140,Prior Period Items,12  Mar-18*,0.0,ICRA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ICRA
+142,Tax,12  Mar-18*,556.0,ICRA
+143,Profit after tax,12  Mar-18*,1012.0,ICRA
+144,Gross profit margin,12  Mar-18*,37.3,ICRA
+145,Effective tax rate,12  Mar-18*,35.5,ICRA
+146,Net profit margin,12  Mar-18*,32.8,ICRA
+147,Current assets,12  Mar-18*,4017.0,ICRA
+148,Current liabilities,12  Mar-18*,1068.0,ICRA
+149,Net working cap to sales,12  Mar-18*,95.5,ICRA
+150,Current ratio,12  Mar-18*,3.8,ICRA
+151,Inventory Days,12  Mar-18*,0.0,ICRA
+152,Debtors Days,12  Mar-18*,48.0,ICRA
+153,Net fixed assets,12  Mar-18*,367.0,ICRA
+154,Share capital,12  Mar-18*,99.0,ICRA
+155,"""Free"" reserves",12  Mar-18*,6451.0,ICRA
+156,Net worth,12  Mar-18*,6550.0,ICRA
+157,Long term debt,12  Mar-18*,0.0,ICRA
+158,Total assets,12  Mar-18*,7707.0,ICRA
+159,Interest coverage,12  Mar-18*,1569.0,ICRA
+160,Debt to equity ratio,12  Mar-18*,0.0,ICRA
+161,Sales to assets ratio,12  Mar-18*,0.4,ICRA
+162,Return on assets,12  Mar-18*,13.1,ICRA
+163,Return on equity,12  Mar-18*,15.4,ICRA
+164,Return on capital,12  Mar-18*,24.0,ICRA
+165,Exports to sales,12  Mar-18*,0.0,ICRA
+166,Imports to sales,12  Mar-18*,0.0,ICRA
+167,Exports (fob),12  Mar-18*,0.0,ICRA
+168,Imports (cif),12  Mar-18*,0.0,ICRA
+169,Fx inflow,12  Mar-18*,0.0,ICRA
+170,Fx outflow,12  Mar-18*,0.0,ICRA
+171,Net fx,12  Mar-18*,0.0,ICRA
+172,From Operations,12  Mar-18*,619.0,ICRA
+173,From Investments,12  Mar-18*,-538.0,ICRA
+174,From Financial Activity,12  Mar-18*,41.0,ICRA
+175,Net Cashflow,12  Mar-18*,123.0,ICRA
+176,Net Sales,12  Mar-19*,3281.0,ICRA
+177,Other income,12  Mar-19*,448.0,ICRA
+178,Total revenues,12  Mar-19*,3729.0,ICRA
+179,Gross profit,12  Mar-19*,1134.0,ICRA
+180,Depreciation,12  Mar-19*,56.0,ICRA
+181,Interest,12  Mar-19*,5.0,ICRA
+182,Profit before tax,12  Mar-19*,1520.0,ICRA
+183,Minority Interest,12  Mar-19*,0.0,ICRA
+184,Prior Period Items,12  Mar-19*,0.0,ICRA
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ICRA
+186,Tax,12  Mar-19*,475.0,ICRA
+187,Profit after tax,12  Mar-19*,1046.0,ICRA
+188,Gross profit margin,12  Mar-19*,34.6,ICRA
+189,Effective tax rate,12  Mar-19*,31.2,ICRA
+190,Net profit margin,12  Mar-19*,31.9,ICRA
+191,Current assets,12  Mar-19*,5637.0,ICRA
+192,Current liabilities,12  Mar-19*,1203.0,ICRA
+193,Net working cap to sales,12  Mar-19*,135.2,ICRA
+194,Current ratio,12  Mar-19*,4.7,ICRA
+195,Inventory Days,12  Mar-19*,0.0,ICRA
+196,Debtors Days,12  Mar-19*,38.0,ICRA
+197,Net fixed assets,12  Mar-19*,352.0,ICRA
+198,Share capital,12  Mar-19*,97.0,ICRA
+199,"""Free"" reserves",12  Mar-19*,6283.0,ICRA
+200,Net worth,12  Mar-19*,6379.0,ICRA
+201,Long term debt,12  Mar-19*,0.0,ICRA
+202,Total assets,12  Mar-19*,7675.0,ICRA
+203,Interest coverage,12  Mar-19*,299.1,ICRA
+204,Debt to equity ratio,12  Mar-19*,0.0,ICRA
+205,Sales to assets ratio,12  Mar-19*,0.4,ICRA
+206,Return on assets,12  Mar-19*,13.7,ICRA
+207,Return on equity,12  Mar-19*,16.4,ICRA
+208,Return on capital,12  Mar-19*,23.9,ICRA
+209,Exports to sales,12  Mar-19*,0.0,ICRA
+210,Imports to sales,12  Mar-19*,0.0,ICRA
+211,Exports (fob),12  Mar-19*,0.0,ICRA
+212,Imports (cif),12  Mar-19*,0.0,ICRA
+213,Fx inflow,12  Mar-19*,0.0,ICRA
+214,Fx outflow,12  Mar-19*,0.0,ICRA
+215,Net fx,12  Mar-19*,0.0,ICRA
+216,From Operations,12  Mar-19*,809.0,ICRA
+217,From Investments,12  Mar-19*,447.0,ICRA
+218,From Financial Activity,12  Mar-19*,-1209.0,ICRA
+219,Net Cashflow,12  Mar-19*,46.0,ICRA

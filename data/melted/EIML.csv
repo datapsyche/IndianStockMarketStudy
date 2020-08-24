@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,142117.0,EIML
+1,Other income,12  Mar-15*,199.0,EIML
+2,Total revenues,12  Mar-15*,142316.0,EIML
+3,Gross profit,12  Mar-15*,3486.0,EIML
+4,Depreciation,12  Mar-15*,69.0,EIML
+5,Interest,12  Mar-15*,384.0,EIML
+6,Profit before tax,12  Mar-15*,3232.0,EIML
+7,Minority Interest,12  Mar-15*,1.0,EIML
+8,Prior Period Items,12  Mar-15*,0.0,EIML
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,EIML
+10,Tax,12  Mar-15*,762.0,EIML
+11,Profit after tax,12  Mar-15*,2471.0,EIML
+12,Gross profit margin,12  Mar-15*,2.5,EIML
+13,Effective tax rate,12  Mar-15*,23.6,EIML
+14,Net profit margin,12  Mar-15*,1.7,EIML
+15,Current assets,12  Mar-15*,8279.0,EIML
+16,Current liabilities,12  Mar-15*,14297.0,EIML
+17,Net working cap to sales,12  Mar-15*,-4.2,EIML
+18,Current ratio,12  Mar-15*,0.6,EIML
+19,Inventory Days,12  Mar-15*,4.0,EIML
+20,Debtors Days,12  Mar-15*,12.0,EIML
+21,Net fixed assets,12  Mar-15*,22322.0,EIML
+22,Share capital,12  Mar-15*,925.0,EIML
+23,"""Free"" reserves",12  Mar-15*,13290.0,EIML
+24,Net worth,12  Mar-15*,14215.0,EIML
+25,Long term debt,12  Mar-15*,953.0,EIML
+26,Total assets,12  Mar-15*,31132.0,EIML
+27,Interest coverage,12  Mar-15*,9.4,EIML
+28,Debt to equity ratio,12  Mar-15*,0.1,EIML
+29,Sales to assets ratio,12  Mar-15*,4.6,EIML
+30,Return on assets,12  Mar-15*,9.2,EIML
+31,Return on equity,12  Mar-15*,17.4,EIML
+32,Return on capital,12  Mar-15*,23.8,EIML
+33,Exports to sales,12  Mar-15*,3.1,EIML
+34,Imports to sales,12  Mar-15*,0.0,EIML
+35,Exports (fob),12  Mar-15*,4430.0,EIML
+36,Imports (cif),12  Mar-15*,0.0,EIML
+37,Fx inflow,12  Mar-15*,4430.0,EIML
+38,Fx outflow,12  Mar-15*,32.0,EIML
+39,Net fx,12  Mar-15*,4398.0,EIML
+40,From Operations,12  Mar-15*,9333.0,EIML
+41,From Investments,12  Mar-15*,-10787.0,EIML
+42,From Financial Activity,12  Mar-15*,328.0,EIML
+43,Net Cashflow,12  Mar-15*,-1126.0,EIML
+44,Net Sales,12  Mar-16*,15827.0,EIML
+45,Other income,12  Mar-16*,430.0,EIML
+46,Total revenues,12  Mar-16*,16257.0,EIML
+47,Gross profit,12  Mar-16*,3214.0,EIML
+48,Depreciation,12  Mar-16*,95.0,EIML
+49,Interest,12  Mar-16*,339.0,EIML
+50,Profit before tax,12  Mar-16*,3211.0,EIML
+51,Minority Interest,12  Mar-16*,0.0,EIML
+52,Prior Period Items,12  Mar-16*,0.0,EIML
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,EIML
+54,Tax,12  Mar-16*,790.0,EIML
+55,Profit after tax,12  Mar-16*,2421.0,EIML
+56,Gross profit margin,12  Mar-16*,20.3,EIML
+57,Effective tax rate,12  Mar-16*,24.6,EIML
+58,Net profit margin,12  Mar-16*,15.3,EIML
+59,Current assets,12  Mar-16*,7695.0,EIML
+60,Current liabilities,12  Mar-16*,14392.0,EIML
+61,Net working cap to sales,12  Mar-16*,-42.3,EIML
+62,Current ratio,12  Mar-16*,0.5,EIML
+63,Inventory Days,12  Mar-16*,1.0,EIML
+64,Debtors Days,12  Mar-16*,92.0,EIML
+65,Net fixed assets,12  Mar-16*,26413.0,EIML
+66,Share capital,12  Mar-16*,936.0,EIML
+67,"""Free"" reserves",12  Mar-16*,16521.0,EIML
+68,Net worth,12  Mar-16*,17457.0,EIML
+69,Long term debt,12  Mar-16*,1066.0,EIML
+70,Total assets,12  Mar-16*,35007.0,EIML
+71,Interest coverage,12  Mar-16*,10.5,EIML
+72,Debt to equity ratio,12  Mar-16*,0.1,EIML
+73,Sales to assets ratio,12  Mar-16*,0.5,EIML
+74,Return on assets,12  Mar-16*,7.9,EIML
+75,Return on equity,12  Mar-16*,13.9,EIML
+76,Return on capital,12  Mar-16*,19.2,EIML
+77,Exports to sales,12  Mar-16*,13.2,EIML
+78,Imports to sales,12  Mar-16*,0.0,EIML
+79,Exports (fob),12  Mar-16*,2089.0,EIML
+80,Imports (cif),12  Mar-16*,0.0,EIML
+81,Fx inflow,12  Mar-16*,2089.0,EIML
+82,Fx outflow,12  Mar-16*,22.0,EIML
+83,Net fx,12  Mar-16*,2067.0,EIML
+84,From Operations,12  Mar-16*,11705.0,EIML
+85,From Investments,12  Mar-16*,-9849.0,EIML
+86,From Financial Activity,12  Mar-16*,-1869.0,EIML
+87,Net Cashflow,12  Mar-16*,-11.0,EIML
+88,Net Sales,12  Mar-17*,13997.0,EIML
+89,Other income,12  Mar-17*,456.0,EIML
+90,Total revenues,12  Mar-17*,14453.0,EIML
+91,Gross profit,12  Mar-17*,3408.0,EIML
+92,Depreciation,12  Mar-17*,96.0,EIML
+93,Interest,12  Mar-17*,545.0,EIML
+94,Profit before tax,12  Mar-17*,3222.0,EIML
+95,Minority Interest,12  Mar-17*,0.0,EIML
+96,Prior Period Items,12  Mar-17*,0.0,EIML
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,EIML
+98,Tax,12  Mar-17*,789.0,EIML
+99,Profit after tax,12  Mar-17*,2433.0,EIML
+100,Gross profit margin,12  Mar-17*,24.3,EIML
+101,Effective tax rate,12  Mar-17*,24.5,EIML
+102,Net profit margin,12  Mar-17*,17.4,EIML
+103,Current assets,12  Mar-17*,8410.0,EIML
+104,Current liabilities,12  Mar-17*,12615.0,EIML
+105,Net working cap to sales,12  Mar-17*,-30.0,EIML
+106,Current ratio,12  Mar-17*,0.7,EIML
+107,Inventory Days,12  Mar-17*,0.0,EIML
+108,Debtors Days,12  Mar-17*,164.0,EIML
+109,Net fixed assets,12  Mar-17*,27271.0,EIML
+110,Share capital,12  Mar-17*,939.0,EIML
+111,"""Free"" reserves",12  Mar-17*,19152.0,EIML
+112,Net worth,12  Mar-17*,20091.0,EIML
+113,Long term debt,12  Mar-17*,1494.0,EIML
+114,Total assets,12  Mar-17*,36758.0,EIML
+115,Interest coverage,12  Mar-17*,6.9,EIML
+116,Debt to equity ratio,12  Mar-17*,0.1,EIML
+117,Sales to assets ratio,12  Mar-17*,0.4,EIML
+118,Return on assets,12  Mar-17*,8.1,EIML
+119,Return on equity,12  Mar-17*,12.1,EIML
+120,Return on capital,12  Mar-17*,17.5,EIML
+121,Exports to sales,12  Mar-17*,0.0,EIML
+122,Imports to sales,12  Mar-17*,1.4,EIML
+123,Exports (fob),12  Mar-17*,0.0,EIML
+124,Imports (cif),12  Mar-17*,196.0,EIML
+125,Fx inflow,12  Mar-17*,3752.0,EIML
+126,Fx outflow,12  Mar-17*,211.0,EIML
+127,Net fx,12  Mar-17*,3541.0,EIML
+128,From Operations,12  Mar-17*,2352.0,EIML
+129,From Investments,12  Mar-17*,-5012.0,EIML
+130,From Financial Activity,12  Mar-17*,2382.0,EIML
+131,Net Cashflow,12  Mar-17*,-269.0,EIML
+132,Net Sales,12  Mar-18*,9602.0,EIML
+133,Other income,12  Mar-18*,499.0,EIML
+134,Total revenues,12  Mar-18*,10100.0,EIML
+135,Gross profit,12  Mar-18*,3283.0,EIML
+136,Depreciation,12  Mar-18*,103.0,EIML
+137,Interest,12  Mar-18*,805.0,EIML
+138,Profit before tax,12  Mar-18*,2874.0,EIML
+139,Minority Interest,12  Mar-18*,0.0,EIML
+140,Prior Period Items,12  Mar-18*,0.0,EIML
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,EIML
+142,Tax,12  Mar-18*,561.0,EIML
+143,Profit after tax,12  Mar-18*,2312.0,EIML
+144,Gross profit margin,12  Mar-18*,34.2,EIML
+145,Effective tax rate,12  Mar-18*,19.5,EIML
+146,Net profit margin,12  Mar-18*,24.1,EIML
+147,Current assets,12  Mar-18*,9020.0,EIML
+148,Current liabilities,12  Mar-18*,11154.0,EIML
+149,Net working cap to sales,12  Mar-18*,-22.2,EIML
+150,Current ratio,12  Mar-18*,0.8,EIML
+151,Inventory Days,12  Mar-18*,1.0,EIML
+152,Debtors Days,12  Mar-18*,266.0,EIML
+153,Net fixed assets,12  Mar-18*,27043.0,EIML
+154,Share capital,12  Mar-18*,950.0,EIML
+155,"""Free"" reserves",12  Mar-18*,21480.0,EIML
+156,Net worth,12  Mar-18*,22430.0,EIML
+157,Long term debt,12  Mar-18*,1495.0,EIML
+158,Total assets,12  Mar-18*,37868.0,EIML
+159,Interest coverage,12  Mar-18*,4.6,EIML
+160,Debt to equity ratio,12  Mar-18*,0.1,EIML
+161,Sales to assets ratio,12  Mar-18*,0.3,EIML
+162,Return on assets,12  Mar-18*,8.2,EIML
+163,Return on equity,12  Mar-18*,10.3,EIML
+164,Return on capital,12  Mar-18*,15.4,EIML
+165,Exports to sales,12  Mar-18*,0.0,EIML
+166,Imports to sales,12  Mar-18*,0.0,EIML
+167,Exports (fob),12  Mar-18*,0.0,EIML
+168,Imports (cif),12  Mar-18*,0.0,EIML
+169,Fx inflow,12  Mar-18*,1101.0,EIML
+170,Fx outflow,12  Mar-18*,37.0,EIML
+171,Net fx,12  Mar-18*,1064.0,EIML
+172,From Operations,12  Mar-18*,2353.0,EIML
+173,From Investments,12  Mar-18*,-1939.0,EIML
+174,From Financial Activity,12  Mar-18*,-330.0,EIML
+175,Net Cashflow,12  Mar-18*,83.0,EIML
+176,Net Sales,12  Mar-19*,10313.0,EIML
+177,Other income,12  Mar-19*,1084.0,EIML
+178,Total revenues,12  Mar-19*,11397.0,EIML
+179,Gross profit,12  Mar-19*,2958.0,EIML
+180,Depreciation,12  Mar-19*,91.0,EIML
+181,Interest,12  Mar-19*,775.0,EIML
+182,Profit before tax,12  Mar-19*,3176.0,EIML
+183,Minority Interest,12  Mar-19*,0.0,EIML
+184,Prior Period Items,12  Mar-19*,0.0,EIML
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,EIML
+186,Tax,12  Mar-19*,512.0,EIML
+187,Profit after tax,12  Mar-19*,2665.0,EIML
+188,Gross profit margin,12  Mar-19*,28.7,EIML
+189,Effective tax rate,12  Mar-19*,16.1,EIML
+190,Net profit margin,12  Mar-19*,25.8,EIML
+191,Current assets,12  Mar-19*,10288.0,EIML
+192,Current liabilities,12  Mar-19*,12503.0,EIML
+193,Net working cap to sales,12  Mar-19*,-21.5,EIML
+194,Current ratio,12  Mar-19*,0.8,EIML
+195,Inventory Days,12  Mar-19*,1.0,EIML
+196,Debtors Days,12  Mar-19*,281.0,EIML
+197,Net fixed assets,12  Mar-19*,26551.0,EIML
+198,Share capital,12  Mar-19*,955.0,EIML
+199,"""Free"" reserves",12  Mar-19*,24766.0,EIML
+200,Net worth,12  Mar-19*,25721.0,EIML
+201,Long term debt,12  Mar-19*,872.0,EIML
+202,Total assets,12  Mar-19*,42057.0,EIML
+203,Interest coverage,12  Mar-19*,5.1,EIML
+204,Debt to equity ratio,12  Mar-19*,0.0,EIML
+205,Sales to assets ratio,12  Mar-19*,0.2,EIML
+206,Return on assets,12  Mar-19*,8.2,EIML
+207,Return on equity,12  Mar-19*,10.4,EIML
+208,Return on capital,12  Mar-19*,14.9,EIML
+209,Exports to sales,12  Mar-19*,0.0,EIML
+210,Imports to sales,12  Mar-19*,0.0,EIML
+211,Exports (fob),12  Mar-19*,0.0,EIML
+212,Imports (cif),12  Mar-19*,0.0,EIML
+213,Fx inflow,12  Mar-19*,1653.0,EIML
+214,Fx outflow,12  Mar-19*,52.0,EIML
+215,Net fx,12  Mar-19*,1601.0,EIML
+216,From Operations,12  Mar-19*,4020.0,EIML
+217,From Investments,12  Mar-19*,-2427.0,EIML
+218,From Financial Activity,12  Mar-19*,-1767.0,EIML
+219,Net Cashflow,12  Mar-19*,-84.0,EIML

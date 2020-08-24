@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,2667.0,BTBL
+1,Other income,12  Mar-15*,18.0,BTBL
+2,Total revenues,12  Mar-15*,2685.0,BTBL
+3,Gross profit,12  Mar-15*,-13.0,BTBL
+4,Depreciation,12  Mar-15*,67.0,BTBL
+5,Interest,12  Mar-15*,78.0,BTBL
+6,Profit before tax,12  Mar-15*,-140.0,BTBL
+7,Minority Interest,12  Mar-15*,0.0,BTBL
+8,Prior Period Items,12  Mar-15*,0.0,BTBL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BTBL
+10,Tax,12  Mar-15*,-20.0,BTBL
+11,Profit after tax,12  Mar-15*,-120.0,BTBL
+12,Gross profit margin,12  Mar-15*,-0.5,BTBL
+13,Effective tax rate,12  Mar-15*,14.1,BTBL
+14,Net profit margin,12  Mar-15*,-4.5,BTBL
+15,Current assets,12  Mar-15*,1094.0,BTBL
+16,Current liabilities,12  Mar-15*,1285.0,BTBL
+17,Net working cap to sales,12  Mar-15*,-7.2,BTBL
+18,Current ratio,12  Mar-15*,0.9,BTBL
+19,Inventory Days,12  Mar-15*,57.0,BTBL
+20,Debtors Days,12  Mar-15*,72.0,BTBL
+21,Net fixed assets,12  Mar-15*,899.0,BTBL
+22,Share capital,12  Mar-15*,213.0,BTBL
+23,"""Free"" reserves",12  Mar-15*,206.0,BTBL
+24,Net worth,12  Mar-15*,440.0,BTBL
+25,Long term debt,12  Mar-15*,200.0,BTBL
+26,Total assets,12  Mar-15*,2092.0,BTBL
+27,Interest coverage,12  Mar-15*,-0.8,BTBL
+28,Debt to equity ratio,12  Mar-15*,0.5,BTBL
+29,Sales to assets ratio,12  Mar-15*,1.3,BTBL
+30,Return on assets,12  Mar-15*,-2.0,BTBL
+31,Return on equity,12  Mar-15*,-27.3,BTBL
+32,Return on capital,12  Mar-15*,-9.7,BTBL
+33,Exports to sales,12  Mar-15*,0.0,BTBL
+34,Imports to sales,12  Mar-15*,2.6,BTBL
+35,Exports (fob),12  Mar-15*,0.0,BTBL
+36,Imports (cif),12  Mar-15*,68.0,BTBL
+37,Fx inflow,12  Mar-15*,94.0,BTBL
+38,Fx outflow,12  Mar-15*,70.0,BTBL
+39,Net fx,12  Mar-15*,24.0,BTBL
+40,From Operations,12  Mar-15*,-189.0,BTBL
+41,From Investments,12  Mar-15*,19.0,BTBL
+42,From Financial Activity,12  Mar-15*,98.0,BTBL
+43,Net Cashflow,12  Mar-15*,-73.0,BTBL
+44,Net Sales,12  Mar-16*,2166.0,BTBL
+45,Other income,12  Mar-16*,13.0,BTBL
+46,Total revenues,12  Mar-16*,2179.0,BTBL
+47,Gross profit,12  Mar-16*,-27.0,BTBL
+48,Depreciation,12  Mar-16*,62.0,BTBL
+49,Interest,12  Mar-16*,88.0,BTBL
+50,Profit before tax,12  Mar-16*,-163.0,BTBL
+51,Minority Interest,12  Mar-16*,0.0,BTBL
+52,Prior Period Items,12  Mar-16*,0.0,BTBL
+53,Extraordinary Inc (Exp),12  Mar-16*,163.0,BTBL
+54,Tax,12  Mar-16*,1.0,BTBL
+55,Profit after tax,12  Mar-16*,-1.0,BTBL
+56,Gross profit margin,12  Mar-16*,-1.3,BTBL
+57,Effective tax rate,12  Mar-16*,-0.9,BTBL
+58,Net profit margin,12  Mar-16*,-0.1,BTBL
+59,Current assets,12  Mar-16*,893.0,BTBL
+60,Current liabilities,12  Mar-16*,1142.0,BTBL
+61,Net working cap to sales,12  Mar-16*,-11.5,BTBL
+62,Current ratio,12  Mar-16*,0.8,BTBL
+63,Inventory Days,12  Mar-16*,73.0,BTBL
+64,Debtors Days,12  Mar-16*,56.0,BTBL
+65,Net fixed assets,12  Mar-16*,2393.0,BTBL
+66,Share capital,12  Mar-16*,144.0,BTBL
+67,"""Free"" reserves",12  Mar-16*,1328.0,BTBL
+68,Net worth,12  Mar-16*,1472.0,BTBL
+69,Long term debt,12  Mar-16*,293.0,BTBL
+70,Total assets,12  Mar-16*,3333.0,BTBL
+71,Interest coverage,12  Mar-16*,-0.9,BTBL
+72,Debt to equity ratio,12  Mar-16*,0.2,BTBL
+73,Sales to assets ratio,12  Mar-16*,0.6,BTBL
+74,Return on assets,12  Mar-16*,2.6,BTBL
+75,Return on equity,12  Mar-16*,-0.1,BTBL
+76,Return on capital,12  Mar-16*,5.0,BTBL
+77,Exports to sales,12  Mar-16*,0.0,BTBL
+78,Imports to sales,12  Mar-16*,2.0,BTBL
+79,Exports (fob),12  Mar-16*,0.0,BTBL
+80,Imports (cif),12  Mar-16*,43.0,BTBL
+81,Fx inflow,12  Mar-16*,99.0,BTBL
+82,Fx outflow,12  Mar-16*,44.0,BTBL
+83,Net fx,12  Mar-16*,55.0,BTBL
+84,From Operations,12  Mar-16*,-25.0,BTBL
+85,From Investments,12  Mar-16*,136.0,BTBL
+86,From Financial Activity,12  Mar-16*,-122.0,BTBL
+87,Net Cashflow,12  Mar-16*,-10.0,BTBL
+88,Net Sales,12  Mar-17*,2043.0,BTBL
+89,Other income,12  Mar-17*,21.0,BTBL
+90,Total revenues,12  Mar-17*,2064.0,BTBL
+91,Gross profit,12  Mar-17*,-59.0,BTBL
+92,Depreciation,12  Mar-17*,53.0,BTBL
+93,Interest,12  Mar-17*,80.0,BTBL
+94,Profit before tax,12  Mar-17*,-171.0,BTBL
+95,Minority Interest,12  Mar-17*,0.0,BTBL
+96,Prior Period Items,12  Mar-17*,0.0,BTBL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BTBL
+98,Tax,12  Mar-17*,-36.0,BTBL
+99,Profit after tax,12  Mar-17*,-135.0,BTBL
+100,Gross profit margin,12  Mar-17*,-2.9,BTBL
+101,Effective tax rate,12  Mar-17*,21.1,BTBL
+102,Net profit margin,12  Mar-17*,-6.6,BTBL
+103,Current assets,12  Mar-17*,686.0,BTBL
+104,Current liabilities,12  Mar-17*,881.0,BTBL
+105,Net working cap to sales,12  Mar-17*,-9.6,BTBL
+106,Current ratio,12  Mar-17*,0.8,BTBL
+107,Inventory Days,12  Mar-17*,58.0,BTBL
+108,Debtors Days,12  Mar-17*,42.0,BTBL
+109,Net fixed assets,12  Mar-17*,2247.0,BTBL
+110,Share capital,12  Mar-17*,144.0,BTBL
+111,"""Free"" reserves",12  Mar-17*,1241.0,BTBL
+112,Net worth,12  Mar-17*,1385.0,BTBL
+113,Long term debt,12  Mar-17*,335.0,BTBL
+114,Total assets,12  Mar-17*,2975.0,BTBL
+115,Interest coverage,12  Mar-17*,-1.1,BTBL
+116,Debt to equity ratio,12  Mar-17*,0.2,BTBL
+117,Sales to assets ratio,12  Mar-17*,0.7,BTBL
+118,Return on assets,12  Mar-17*,-1.9,BTBL
+119,Return on equity,12  Mar-17*,-9.8,BTBL
+120,Return on capital,12  Mar-17*,-5.3,BTBL
+121,Exports to sales,12  Mar-17*,0.0,BTBL
+122,Imports to sales,12  Mar-17*,2.2,BTBL
+123,Exports (fob),12  Mar-17*,0.0,BTBL
+124,Imports (cif),12  Mar-17*,44.0,BTBL
+125,Fx inflow,12  Mar-17*,96.0,BTBL
+126,Fx outflow,12  Mar-17*,45.0,BTBL
+127,Net fx,12  Mar-17*,51.0,BTBL
+128,From Operations,12  Mar-17*,-93.0,BTBL
+129,From Investments,12  Mar-17*,98.0,BTBL
+130,From Financial Activity,12  Mar-17*,-7.0,BTBL
+131,Net Cashflow,12  Mar-17*,-3.0,BTBL
+132,Net Sales,12  Mar-18*,2112.0,BTBL
+133,Other income,12  Mar-18*,82.0,BTBL
+134,Total revenues,12  Mar-18*,2194.0,BTBL
+135,Gross profit,12  Mar-18*,-53.0,BTBL
+136,Depreciation,12  Mar-18*,48.0,BTBL
+137,Interest,12  Mar-18*,70.0,BTBL
+138,Profit before tax,12  Mar-18*,-89.0,BTBL
+139,Minority Interest,12  Mar-18*,0.0,BTBL
+140,Prior Period Items,12  Mar-18*,0.0,BTBL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BTBL
+142,Tax,12  Mar-18*,15.0,BTBL
+143,Profit after tax,12  Mar-18*,-104.0,BTBL
+144,Gross profit margin,12  Mar-18*,-2.5,BTBL
+145,Effective tax rate,12  Mar-18*,-16.3,BTBL
+146,Net profit margin,12  Mar-18*,-4.9,BTBL
+147,Current assets,12  Mar-18*,895.0,BTBL
+148,Current liabilities,12  Mar-18*,1164.0,BTBL
+149,Net working cap to sales,12  Mar-18*,-12.7,BTBL
+150,Current ratio,12  Mar-18*,0.8,BTBL
+151,Inventory Days,12  Mar-18*,57.0,BTBL
+152,Debtors Days,12  Mar-18*,76.0,BTBL
+153,Net fixed assets,12  Mar-18*,2218.0,BTBL
+154,Share capital,12  Mar-18*,144.0,BTBL
+155,"""Free"" reserves",12  Mar-18*,1095.0,BTBL
+156,Net worth,12  Mar-18*,1239.0,BTBL
+157,Long term debt,12  Mar-18*,322.0,BTBL
+158,Total assets,12  Mar-18*,3136.0,BTBL
+159,Interest coverage,12  Mar-18*,-0.3,BTBL
+160,Debt to equity ratio,12  Mar-18*,0.3,BTBL
+161,Sales to assets ratio,12  Mar-18*,0.7,BTBL
+162,Return on assets,12  Mar-18*,-1.1,BTBL
+163,Return on equity,12  Mar-18*,-8.4,BTBL
+164,Return on capital,12  Mar-18*,-1.3,BTBL
+165,Exports to sales,12  Mar-18*,0.0,BTBL
+166,Imports to sales,12  Mar-18*,0.0,BTBL
+167,Exports (fob),12  Mar-18*,0.0,BTBL
+168,Imports (cif),12  Mar-18*,0.0,BTBL
+169,Fx inflow,12  Mar-18*,118.0,BTBL
+170,Fx outflow,12  Mar-18*,2.0,BTBL
+171,Net fx,12  Mar-18*,117.0,BTBL
+172,From Operations,12  Mar-18*,12.0,BTBL
+173,From Investments,12  Mar-18*,-10.0,BTBL
+174,From Financial Activity,12  Mar-18*,-29.0,BTBL
+175,Net Cashflow,12  Mar-18*,-27.0,BTBL
+176,Net Sales,12  Mar-19*,2489.0,BTBL
+177,Other income,12  Mar-19*,65.0,BTBL
+178,Total revenues,12  Mar-19*,2554.0,BTBL
+179,Gross profit,12  Mar-19*,48.0,BTBL
+180,Depreciation,12  Mar-19*,41.0,BTBL
+181,Interest,12  Mar-19*,77.0,BTBL
+182,Profit before tax,12  Mar-19*,-6.0,BTBL
+183,Minority Interest,12  Mar-19*,0.0,BTBL
+184,Prior Period Items,12  Mar-19*,0.0,BTBL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BTBL
+186,Tax,12  Mar-19*,-135.0,BTBL
+187,Profit after tax,12  Mar-19*,129.0,BTBL
+188,Gross profit margin,12  Mar-19*,1.9,BTBL
+189,Effective tax rate,12  Mar-19*,2144.3,BTBL
+190,Net profit margin,12  Mar-19*,5.2,BTBL
+191,Current assets,12  Mar-19*,835.0,BTBL
+192,Current liabilities,12  Mar-19*,1117.0,BTBL
+193,Net working cap to sales,12  Mar-19*,-11.4,BTBL
+194,Current ratio,12  Mar-19*,0.7,BTBL
+195,Inventory Days,12  Mar-19*,55.0,BTBL
+196,Debtors Days,12  Mar-19*,49.0,BTBL
+197,Net fixed assets,12  Mar-19*,2020.0,BTBL
+198,Share capital,12  Mar-19*,144.0,BTBL
+199,"""Free"" reserves",12  Mar-19*,1225.0,BTBL
+200,Net worth,12  Mar-19*,1369.0,BTBL
+201,Long term debt,12  Mar-19*,321.0,BTBL
+202,Total assets,12  Mar-19*,3065.0,BTBL
+203,Interest coverage,12  Mar-19*,0.9,BTBL
+204,Debt to equity ratio,12  Mar-19*,0.2,BTBL
+205,Sales to assets ratio,12  Mar-19*,0.8,BTBL
+206,Return on assets,12  Mar-19*,6.7,BTBL
+207,Return on equity,12  Mar-19*,9.4,BTBL
+208,Return on capital,12  Mar-19*,4.2,BTBL
+209,Exports to sales,12  Mar-19*,0.0,BTBL
+210,Imports to sales,12  Mar-19*,0.0,BTBL
+211,Exports (fob),12  Mar-19*,0.0,BTBL
+212,Imports (cif),12  Mar-19*,0.0,BTBL
+213,Fx inflow,12  Mar-19*,145.0,BTBL
+214,Fx outflow,12  Mar-19*,68.0,BTBL
+215,Net fx,12  Mar-19*,76.0,BTBL
+216,From Operations,12  Mar-19*,18.0,BTBL
+217,From Investments,12  Mar-19*,-21.0,BTBL
+218,From Financial Activity,12  Mar-19*,4.0,BTBL
+219,Net Cashflow,12  Mar-19*,1.0,BTBL

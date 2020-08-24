@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-13*,34740.0,IFLEX
+1,Other income,12  Mar-13*,4595.0,IFLEX
+2,Total revenues,12  Mar-13*,39335.0,IFLEX
+3,Gross profit,12  Mar-13*,12192.0,IFLEX
+4,Depreciation,12  Mar-13*,655.0,IFLEX
+5,Interest,12  Mar-13*,0.0,IFLEX
+6,Profit before tax,12  Mar-13*,16132.0,IFLEX
+7,Minority Interest,12  Mar-13*,0.0,IFLEX
+8,Prior Period Items,12  Mar-13*,0.0,IFLEX
+9,Extraordinary Inc (Exp),12  Mar-13*,0.0,IFLEX
+10,Tax,12  Mar-13*,5381.0,IFLEX
+11,Profit after tax,12  Mar-13*,10751.0,IFLEX
+12,Gross profit margin,12  Mar-13*,35.1,IFLEX
+13,Effective tax rate,12  Mar-13*,33.4,IFLEX
+14,Net profit margin,12  Mar-13*,30.9,IFLEX
+15,Current assets,12  Mar-13*,67250,IFLEX
+16,Current liabilities,12  Mar-13*,9186,IFLEX
+17,Net working cap to sales,12  Mar-13*,167.1,IFLEX
+18,Current ratio,12  Mar-13*,7.3,IFLEX
+19,Inventory Days,12  Mar-13*,0,IFLEX
+20,Debtors Days,12  Mar-13*,76,IFLEX
+21,Net fixed assets,12  Mar-13*,10078,IFLEX
+22,Share capital,12  Mar-13*,420,IFLEX
+23,"""Free"" reserves",12  Mar-13*,73644,IFLEX
+24,Net worth,12  Mar-13*,74064,IFLEX
+25,Long term debt,12  Mar-13*,0,IFLEX
+26,Total assets,12  Mar-13*,84168,IFLEX
+27,Interest coverage,12  Mar-13*,NM,IFLEX
+28,Debt to equity ratio,12  Mar-13*,0,IFLEX
+29,Sales to assets ratio,12  Mar-13*,0.4,IFLEX
+30,Return on assets,12  Mar-13*,12.8,IFLEX
+31,Return on equity,12  Mar-13*,14.5,IFLEX
+32,Return on capital,12  Mar-13*,21.8,IFLEX
+33,Exports to sales,12  Mar-13*,0,IFLEX
+34,Imports to sales,12  Mar-13*,0.3,IFLEX
+35,Exports (fob),12  Mar-13*,0,IFLEX
+36,Imports (cif),12  Mar-13*,95,IFLEX
+37,Fx inflow,12  Mar-13*,28095,IFLEX
+38,Fx outflow,12  Mar-13*,8534,IFLEX
+39,Net fx,12  Mar-13*,19561,IFLEX
+40,From Operations,12  Mar-13*,11344,IFLEX
+41,From Investments,12  Mar-13*,-11742,IFLEX
+42,From Financial Activity,12  Mar-13*,152,IFLEX
+43,Net Cashflow,12  Mar-13*,-107,IFLEX
+44,Net Sales,12  Mar-14*,37413.0,IFLEX
+45,Other income,12  Mar-14*,6737.0,IFLEX
+46,Total revenues,12  Mar-14*,44150.0,IFLEX
+47,Gross profit,12  Mar-14*,13994.0,IFLEX
+48,Depreciation,12  Mar-14*,717.0,IFLEX
+49,Interest,12  Mar-14*,0.0,IFLEX
+50,Profit before tax,12  Mar-14*,20014.0,IFLEX
+51,Minority Interest,12  Mar-14*,0.0,IFLEX
+52,Prior Period Items,12  Mar-14*,0.0,IFLEX
+53,Extraordinary Inc (Exp),12  Mar-14*,0.0,IFLEX
+54,Tax,12  Mar-14*,6420.0,IFLEX
+55,Profit after tax,12  Mar-14*,13593.0,IFLEX
+56,Gross profit margin,12  Mar-14*,37.4,IFLEX
+57,Effective tax rate,12  Mar-14*,32.1,IFLEX
+58,Net profit margin,12  Mar-14*,36.3,IFLEX
+59,Current assets,12  Mar-14*,81590,IFLEX
+60,Current liabilities,12  Mar-14*,8435,IFLEX
+61,Net working cap to sales,12  Mar-14*,195.5,IFLEX
+62,Current ratio,12  Mar-14*,9.7,IFLEX
+63,Inventory Days,12  Mar-14*,0,IFLEX
+64,Debtors Days,12  Mar-14*,66,IFLEX
+65,Net fixed assets,12  Mar-14*,9660,IFLEX
+66,Share capital,12  Mar-14*,421,IFLEX
+67,"""Free"" reserves",12  Mar-14*,87345,IFLEX
+68,Net worth,12  Mar-14*,87766,IFLEX
+69,Long term debt,12  Mar-14*,0,IFLEX
+70,Total assets,12  Mar-14*,97251,IFLEX
+71,Interest coverage,12  Mar-14*,NM,IFLEX
+72,Debt to equity ratio,12  Mar-14*,0,IFLEX
+73,Sales to assets ratio,12  Mar-14*,0.4,IFLEX
+74,Return on assets,12  Mar-14*,14.0,IFLEX
+75,Return on equity,12  Mar-14*,15.5,IFLEX
+76,Return on capital,12  Mar-14*,22.8,IFLEX
+77,Exports to sales,12  Mar-14*,0,IFLEX
+78,Imports to sales,12  Mar-14*,0,IFLEX
+79,Exports (fob),12  Mar-14*,0,IFLEX
+80,Imports (cif),12  Mar-14*,0,IFLEX
+81,Fx inflow,12  Mar-14*,30233,IFLEX
+82,Fx outflow,12  Mar-14*,8542,IFLEX
+83,Net fx,12  Mar-14*,21691,IFLEX
+84,From Operations,12  Mar-14*,6732,IFLEX
+85,From Investments,12  Mar-14*,-6489,IFLEX
+86,From Financial Activity,12  Mar-14*,141,IFLEX
+87,Net Cashflow,12  Mar-14*,149,IFLEX
+88,Net Sales,12  Mar-15*,39049.0,IFLEX
+89,Other income,12  Mar-15*,3481.0,IFLEX
+90,Total revenues,12  Mar-15*,42530.0,IFLEX
+91,Gross profit,12  Mar-15*,15508.0,IFLEX
+92,Depreciation,12  Mar-15*,681.0,IFLEX
+93,Interest,12  Mar-15*,0.0,IFLEX
+94,Profit before tax,12  Mar-15*,18308.0,IFLEX
+95,Minority Interest,12  Mar-15*,0.0,IFLEX
+96,Prior Period Items,12  Mar-15*,0.0,IFLEX
+97,Extraordinary Inc (Exp),12  Mar-15*,0.0,IFLEX
+98,Tax,12  Mar-15*,6385.0,IFLEX
+99,Profit after tax,12  Mar-15*,11923.0,IFLEX
+100,Gross profit margin,12  Mar-15*,39.7,IFLEX
+101,Effective tax rate,12  Mar-15*,34.9,IFLEX
+102,Net profit margin,12  Mar-15*,30.5,IFLEX
+103,Current assets,12  Mar-15*,47114,IFLEX
+104,Current liabilities,12  Mar-15*,8988,IFLEX
+105,Net working cap to sales,12  Mar-15*,97.6,IFLEX
+106,Current ratio,12  Mar-15*,5.2,IFLEX
+107,Inventory Days,12  Mar-15*,0,IFLEX
+108,Debtors Days,12  Mar-15*,58,IFLEX
+109,Net fixed assets,12  Mar-15*,9126,IFLEX
+110,Share capital,12  Mar-15*,422,IFLEX
+111,"""Free"" reserves",12  Mar-15*,52346,IFLEX
+112,Net worth,12  Mar-15*,52768,IFLEX
+113,Long term debt,12  Mar-15*,0,IFLEX
+114,Total assets,12  Mar-15*,62856,IFLEX
+115,Interest coverage,12  Mar-15*,NM,IFLEX
+116,Debt to equity ratio,12  Mar-15*,0,IFLEX
+117,Sales to assets ratio,12  Mar-15*,0.6,IFLEX
+118,Return on assets,12  Mar-15*,19.0,IFLEX
+119,Return on equity,12  Mar-15*,22.6,IFLEX
+120,Return on capital,12  Mar-15*,34.7,IFLEX
+121,Exports to sales,12  Mar-15*,0,IFLEX
+122,Imports to sales,12  Mar-15*,0,IFLEX
+123,Exports (fob),12  Mar-15*,0,IFLEX
+124,Imports (cif),12  Mar-15*,12,IFLEX
+125,Fx inflow,12  Mar-15*,31744,IFLEX
+126,Fx outflow,12  Mar-15*,8587,IFLEX
+127,Net fx,12  Mar-15*,23157,IFLEX
+128,From Operations,12  Mar-15*,10604,IFLEX
+129,From Investments,12  Mar-15*,37261,IFLEX
+130,From Financial Activity,12  Mar-15*,-46896,IFLEX
+131,Net Cashflow,12  Mar-15*,720,IFLEX
+132,Net Sales,12  Mar-16*,41312.0,IFLEX
+133,Other income,12  Mar-16*,2107.0,IFLEX
+134,Total revenues,12  Mar-16*,43419.0,IFLEX
+135,Gross profit,12  Mar-16*,16118.0,IFLEX
+136,Depreciation,12  Mar-16*,529.0,IFLEX
+137,Interest,12  Mar-16*,0.0,IFLEX
+138,Profit before tax,12  Mar-16*,17695.0,IFLEX
+139,Minority Interest,12  Mar-16*,0.0,IFLEX
+140,Prior Period Items,12  Mar-16*,0.0,IFLEX
+141,Extraordinary Inc (Exp),12  Mar-16*,-219.0,IFLEX
+142,Tax,12  Mar-16*,6987.0,IFLEX
+143,Profit after tax,12  Mar-16*,10489.0,IFLEX
+144,Gross profit margin,12  Mar-16*,39.0,IFLEX
+145,Effective tax rate,12  Mar-16*,39.5,IFLEX
+146,Net profit margin,12  Mar-16*,25.4,IFLEX
+147,Current assets,12  Mar-16*,41205,IFLEX
+148,Current liabilities,12  Mar-16*,8753,IFLEX
+149,Net working cap to sales,12  Mar-16*,78.6,IFLEX
+150,Current ratio,12  Mar-16*,4.7,IFLEX
+151,Inventory Days,12  Mar-16*,0,IFLEX
+152,Debtors Days,12  Mar-16*,73,IFLEX
+153,Net fixed assets,12  Mar-16*,8799,IFLEX
+154,Share capital,12  Mar-16*,424,IFLEX
+155,"""Free"" reserves",12  Mar-16*,46315,IFLEX
+156,Net worth,12  Mar-16*,46739,IFLEX
+157,Long term debt,12  Mar-16*,0,IFLEX
+158,Total assets,12  Mar-16*,56857,IFLEX
+159,Interest coverage,12  Mar-16*,NM,IFLEX
+160,Debt to equity ratio,12  Mar-16*,0,IFLEX
+161,Sales to assets ratio,12  Mar-16*,0.7,IFLEX
+162,Return on assets,12  Mar-16*,18.4,IFLEX
+163,Return on equity,12  Mar-16*,22.4,IFLEX
+164,Return on capital,12  Mar-16*,37.4,IFLEX
+165,Exports to sales,12  Mar-16*,0,IFLEX
+166,Imports to sales,12  Mar-16*,0,IFLEX
+167,Exports (fob),12  Mar-16*,0,IFLEX
+168,Imports (cif),12  Mar-16*,0,IFLEX
+169,Fx inflow,12  Mar-16*,32891,IFLEX
+170,Fx outflow,12  Mar-16*,9027,IFLEX
+171,Net fx,12  Mar-16*,23864,IFLEX
+172,From Operations,12  Mar-16*,7123,IFLEX
+173,From Investments,12  Mar-16*,9807,IFLEX
+174,From Financial Activity,12  Mar-16*,-17762,IFLEX
+175,Net Cashflow,12  Mar-16*,-455,IFLEX
+176,Net Sales,12  Mar-17*,44265.0,IFLEX
+177,Other income,12  Mar-17*,1564.0,IFLEX
+178,Total revenues,12  Mar-17*,45829.0,IFLEX
+179,Gross profit,12  Mar-17*,17339.0,IFLEX
+180,Depreciation,12  Mar-17*,702.0,IFLEX
+181,Interest,12  Mar-17*,0.0,IFLEX
+182,Profit before tax,12  Mar-17*,18201.0,IFLEX
+183,Minority Interest,12  Mar-17*,-3.0,IFLEX
+184,Prior Period Items,12  Mar-17*,0.0,IFLEX
+185,Extraordinary Inc (Exp),12  Mar-17*,-628.0,IFLEX
+186,Tax,12  Mar-17*,5716.0,IFLEX
+187,Profit after tax,12  Mar-17*,11854.0,IFLEX
+188,Gross profit margin,12  Mar-17*,39.2,IFLEX
+189,Effective tax rate,12  Mar-17*,31.4,IFLEX
+190,Net profit margin,12  Mar-17*,26.8,IFLEX
+191,Current assets,12  Mar-17*,43006,IFLEX
+192,Current liabilities,12  Mar-17*,26242,IFLEX
+193,Net working cap to sales,12  Mar-17*,37.9,IFLEX
+194,Current ratio,12  Mar-17*,1.6,IFLEX
+195,Inventory Days,12  Mar-17*,0,IFLEX
+196,Debtors Days,12  Mar-17*,59,IFLEX
+197,Net fixed assets,12  Mar-17*,8706,IFLEX
+198,Share capital,12  Mar-17*,425,IFLEX
+199,"""Free"" reserves",12  Mar-17*,32221,IFLEX
+200,Net worth,12  Mar-17*,32646,IFLEX
+201,Long term debt,12  Mar-17*,0,IFLEX
+202,Total assets,12  Mar-17*,60208,IFLEX
+203,Interest coverage,12  Mar-17*,NM,IFLEX
+204,Debt to equity ratio,12  Mar-17*,0,IFLEX
+205,Sales to assets ratio,12  Mar-17*,0.7,IFLEX
+206,Return on assets,12  Mar-17*,19.7,IFLEX
+207,Return on equity,12  Mar-17*,36.3,IFLEX
+208,Return on capital,12  Mar-17*,53.8,IFLEX
+209,Exports to sales,12  Mar-17*,0,IFLEX
+210,Imports to sales,12  Mar-17*,0,IFLEX
+211,Exports (fob),12  Mar-17*,0,IFLEX
+212,Imports (cif),12  Mar-17*,0,IFLEX
+213,Fx inflow,12  Mar-17*,37744,IFLEX
+214,Fx outflow,12  Mar-17*,9405,IFLEX
+215,Net fx,12  Mar-17*,28339,IFLEX
+216,From Operations,12  Mar-17*,11211,IFLEX
+217,From Investments,12  Mar-17*,18486,IFLEX
+218,From Financial Activity,12  Mar-17*,-9314,IFLEX
+219,Net Cashflow,12  Mar-17*,20125,IFLEX

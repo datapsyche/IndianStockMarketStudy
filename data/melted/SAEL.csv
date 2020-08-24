@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,34468.0,SAEL
+1,Other income,12  Mar-15*,442.0,SAEL
+2,Total revenues,12  Mar-15*,34910.0,SAEL
+3,Gross profit,12  Mar-15*,5524.0,SAEL
+4,Depreciation,12  Mar-15*,2193.0,SAEL
+5,Interest,12  Mar-15*,6150.0,SAEL
+6,Profit before tax,12  Mar-15*,-2377.0,SAEL
+7,Minority Interest,12  Mar-15*,872.0,SAEL
+8,Prior Period Items,12  Mar-15*,-23.0,SAEL
+9,Extraordinary Inc (Exp),12  Mar-15*,117.0,SAEL
+10,Tax,12  Mar-15*,343.0,SAEL
+11,Profit after tax,12  Mar-15*,-1755.0,SAEL
+12,Gross profit margin,12  Mar-15*,16.0,SAEL
+13,Effective tax rate,12  Mar-15*,-14.4,SAEL
+14,Net profit margin,12  Mar-15*,-5.1,SAEL
+15,Current assets,12  Mar-15*,17310.0,SAEL
+16,Current liabilities,12  Mar-15*,14150.0,SAEL
+17,Net working cap to sales,12  Mar-15*,9.2,SAEL
+18,Current ratio,12  Mar-15*,1.2,SAEL
+19,Inventory Days,12  Mar-15*,23.0,SAEL
+20,Debtors Days,12  Mar-15*,71.0,SAEL
+21,Net fixed assets,12  Mar-15*,74688.0,SAEL
+22,Share capital,12  Mar-15*,172.0,SAEL
+23,"""Free"" reserves",12  Mar-15*,10816.0,SAEL
+24,Net worth,12  Mar-15*,10987.0,SAEL
+25,Long term debt,12  Mar-15*,62754.0,SAEL
+26,Total assets,12  Mar-15*,98560.0,SAEL
+27,Interest coverage,12  Mar-15*,0.6,SAEL
+28,Debt to equity ratio,12  Mar-15*,5.7,SAEL
+29,Sales to assets ratio,12  Mar-15*,0.3,SAEL
+30,Return on assets,12  Mar-15*,4.5,SAEL
+31,Return on equity,12  Mar-15*,-16.0,SAEL
+32,Return on capital,12  Mar-15*,6.4,SAEL
+33,Exports to sales,12  Mar-15*,0.0,SAEL
+34,Imports to sales,12  Mar-15*,0.3,SAEL
+35,Exports (fob),12  Mar-15*,0.0,SAEL
+36,Imports (cif),12  Mar-15*,99.0,SAEL
+37,Fx inflow,12  Mar-15*,0.0,SAEL
+38,Fx outflow,12  Mar-15*,145.0,SAEL
+39,Net fx,12  Mar-15*,-145.0,SAEL
+40,From Operations,12  Mar-15*,3850.0,SAEL
+41,From Investments,12  Mar-15*,-13574.0,SAEL
+42,From Financial Activity,12  Mar-15*,10367.0,SAEL
+43,Net Cashflow,12  Mar-15*,643.0,SAEL
+44,Net Sales,12  Mar-16*,40658.0,SAEL
+45,Other income,12  Mar-16*,667.0,SAEL
+46,Total revenues,12  Mar-16*,41325.0,SAEL
+47,Gross profit,12  Mar-16*,10424.0,SAEL
+48,Depreciation,12  Mar-16*,2326.0,SAEL
+49,Interest,12  Mar-16*,10752.0,SAEL
+50,Profit before tax,12  Mar-16*,-1987.0,SAEL
+51,Minority Interest,12  Mar-16*,0.0,SAEL
+52,Prior Period Items,12  Mar-16*,0.0,SAEL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SAEL
+54,Tax,12  Mar-16*,219.0,SAEL
+55,Profit after tax,12  Mar-16*,-2205.0,SAEL
+56,Gross profit margin,12  Mar-16*,25.6,SAEL
+57,Effective tax rate,12  Mar-16*,-11.0,SAEL
+58,Net profit margin,12  Mar-16*,-5.4,SAEL
+59,Current assets,12  Mar-16*,16926.0,SAEL
+60,Current liabilities,12  Mar-16*,18417.0,SAEL
+61,Net working cap to sales,12  Mar-16*,-3.7,SAEL
+62,Current ratio,12  Mar-16*,0.9,SAEL
+63,Inventory Days,12  Mar-16*,127.0,SAEL
+64,Debtors Days,12  Mar-16*,73.0,SAEL
+65,Net fixed assets,12  Mar-16*,103107.0,SAEL
+66,Share capital,12  Mar-16*,172.0,SAEL
+67,"""Free"" reserves",12  Mar-16*,9919.0,SAEL
+68,Net worth,12  Mar-16*,10090.0,SAEL
+69,Long term debt,12  Mar-16*,80381.0,SAEL
+70,Total assets,12  Mar-16*,127377.0,SAEL
+71,Interest coverage,12  Mar-16*,0.8,SAEL
+72,Debt to equity ratio,12  Mar-16*,8.0,SAEL
+73,Sales to assets ratio,12  Mar-16*,0.3,SAEL
+74,Return on assets,12  Mar-16*,6.7,SAEL
+75,Return on equity,12  Mar-16*,-21.9,SAEL
+76,Return on capital,12  Mar-16*,9.7,SAEL
+77,Exports to sales,12  Mar-16*,0.0,SAEL
+78,Imports to sales,12  Mar-16*,0.8,SAEL
+79,Exports (fob),12  Mar-16*,0.0,SAEL
+80,Imports (cif),12  Mar-16*,337.0,SAEL
+81,Fx inflow,12  Mar-16*,0.0,SAEL
+82,Fx outflow,12  Mar-16*,389.0,SAEL
+83,Net fx,12  Mar-16*,-389.0,SAEL
+84,From Operations,12  Mar-16*,13266.0,SAEL
+85,From Investments,12  Mar-16*,-13757.0,SAEL
+86,From Financial Activity,12  Mar-16*,-209.0,SAEL
+87,Net Cashflow,12  Mar-16*,-699.0,SAEL
+88,Net Sales,12  Mar-17*,44977.0,SAEL
+89,Other income,12  Mar-17*,1565.0,SAEL
+90,Total revenues,12  Mar-17*,46542.0,SAEL
+91,Gross profit,12  Mar-17*,11899.0,SAEL
+92,Depreciation,12  Mar-17*,3211.0,SAEL
+93,Interest,12  Mar-17*,11875.0,SAEL
+94,Profit before tax,12  Mar-17*,-1622.0,SAEL
+95,Minority Interest,12  Mar-17*,0.0,SAEL
+96,Prior Period Items,12  Mar-17*,0.0,SAEL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SAEL
+98,Tax,12  Mar-17*,94.0,SAEL
+99,Profit after tax,12  Mar-17*,-1717.0,SAEL
+100,Gross profit margin,12  Mar-17*,26.5,SAEL
+101,Effective tax rate,12  Mar-17*,-5.8,SAEL
+102,Net profit margin,12  Mar-17*,-3.8,SAEL
+103,Current assets,12  Mar-17*,25903.0,SAEL
+104,Current liabilities,12  Mar-17*,26631.0,SAEL
+105,Net working cap to sales,12  Mar-17*,-1.6,SAEL
+106,Current ratio,12  Mar-17*,1.0,SAEL
+107,Inventory Days,12  Mar-17*,10.0,SAEL
+108,Debtors Days,12  Mar-17*,129.0,SAEL
+109,Net fixed assets,12  Mar-17*,102467.0,SAEL
+110,Share capital,12  Mar-17*,172.0,SAEL
+111,"""Free"" reserves",12  Mar-17*,8892.0,SAEL
+112,Net worth,12  Mar-17*,9063.0,SAEL
+113,Long term debt,12  Mar-17*,82595.0,SAEL
+114,Total assets,12  Mar-17*,138199.0,SAEL
+115,Interest coverage,12  Mar-17*,0.9,SAEL
+116,Debt to equity ratio,12  Mar-17*,9.1,SAEL
+117,Sales to assets ratio,12  Mar-17*,0.3,SAEL
+118,Return on assets,12  Mar-17*,7.4,SAEL
+119,Return on equity,12  Mar-17*,-18.9,SAEL
+120,Return on capital,12  Mar-17*,11.2,SAEL
+121,Exports to sales,12  Mar-17*,0.0,SAEL
+122,Imports to sales,12  Mar-17*,0.0,SAEL
+123,Exports (fob),12  Mar-17*,0.0,SAEL
+124,Imports (cif),12  Mar-17*,0.0,SAEL
+125,Fx inflow,12  Mar-17*,0.0,SAEL
+126,Fx outflow,12  Mar-17*,0.0,SAEL
+127,Net fx,12  Mar-17*,0.0,SAEL
+128,From Operations,12  Mar-17*,3656.0,SAEL
+129,From Investments,12  Mar-17*,-2199.0,SAEL
+130,From Financial Activity,12  Mar-17*,-1864.0,SAEL
+131,Net Cashflow,12  Mar-17*,-407.0,SAEL
+132,Net Sales,12  Mar-18*,49747.0,SAEL
+133,Other income,12  Mar-18*,1186.0,SAEL
+134,Total revenues,12  Mar-18*,50934.0,SAEL
+135,Gross profit,12  Mar-18*,14767.0,SAEL
+136,Depreciation,12  Mar-18*,3584.0,SAEL
+137,Interest,12  Mar-18*,13129.0,SAEL
+138,Profit before tax,12  Mar-18*,-760.0,SAEL
+139,Minority Interest,12  Mar-18*,0.0,SAEL
+140,Prior Period Items,12  Mar-18*,0.0,SAEL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SAEL
+142,Tax,12  Mar-18*,380.0,SAEL
+143,Profit after tax,12  Mar-18*,-1140.0,SAEL
+144,Gross profit margin,12  Mar-18*,29.7,SAEL
+145,Effective tax rate,12  Mar-18*,-50.0,SAEL
+146,Net profit margin,12  Mar-18*,-2.3,SAEL
+147,Current assets,12  Mar-18*,40886.0,SAEL
+148,Current liabilities,12  Mar-18*,35633.0,SAEL
+149,Net working cap to sales,12  Mar-18*,10.6,SAEL
+150,Current ratio,12  Mar-18*,1.1,SAEL
+151,Inventory Days,12  Mar-18*,12.0,SAEL
+152,Debtors Days,12  Mar-18*,102.0,SAEL
+153,Net fixed assets,12  Mar-18*,100838.0,SAEL
+154,Share capital,12  Mar-18*,172.0,SAEL
+155,"""Free"" reserves",12  Mar-18*,8742.0,SAEL
+156,Net worth,12  Mar-18*,8913.0,SAEL
+157,Long term debt,12  Mar-18*,84357.0,SAEL
+158,Total assets,12  Mar-18*,149271.0,SAEL
+159,Interest coverage,12  Mar-18*,0.9,SAEL
+160,Debt to equity ratio,12  Mar-18*,9.5,SAEL
+161,Sales to assets ratio,12  Mar-18*,0.3,SAEL
+162,Return on assets,12  Mar-18*,8.0,SAEL
+163,Return on equity,12  Mar-18*,-12.8,SAEL
+164,Return on capital,12  Mar-18*,13.3,SAEL
+165,Exports to sales,12  Mar-18*,0.0,SAEL
+166,Imports to sales,12  Mar-18*,0.0,SAEL
+167,Exports (fob),12  Mar-18*,0.0,SAEL
+168,Imports (cif),12  Mar-18*,0.0,SAEL
+169,Fx inflow,12  Mar-18*,0.0,SAEL
+170,Fx outflow,12  Mar-18*,0.0,SAEL
+171,Net fx,12  Mar-18*,0.0,SAEL
+172,From Operations,12  Mar-18*,12735.0,SAEL
+173,From Investments,12  Mar-18*,-942.0,SAEL
+174,From Financial Activity,12  Mar-18*,-11260.0,SAEL
+175,Net Cashflow,12  Mar-18*,533.0,SAEL
+176,Net Sales,12  Mar-19*,52401.0,SAEL
+177,Other income,12  Mar-19*,2646.0,SAEL
+178,Total revenues,12  Mar-19*,55046.0,SAEL
+179,Gross profit,12  Mar-19*,14810.0,SAEL
+180,Depreciation,12  Mar-19*,3921.0,SAEL
+181,Interest,12  Mar-19*,13286.0,SAEL
+182,Profit before tax,12  Mar-19*,249.0,SAEL
+183,Minority Interest,12  Mar-19*,0.0,SAEL
+184,Prior Period Items,12  Mar-19*,0.0,SAEL
+185,Extraordinary Inc (Exp),12  Mar-19*,542.0,SAEL
+186,Tax,12  Mar-19*,1332.0,SAEL
+187,Profit after tax,12  Mar-19*,-541.0,SAEL
+188,Gross profit margin,12  Mar-19*,28.3,SAEL
+189,Effective tax rate,12  Mar-19*,535.8,SAEL
+190,Net profit margin,12  Mar-19*,-1.0,SAEL
+191,Current assets,12  Mar-19*,35459.0,SAEL
+192,Current liabilities,12  Mar-19*,34382.0,SAEL
+193,Net working cap to sales,12  Mar-19*,2.1,SAEL
+194,Current ratio,12  Mar-19*,1.0,SAEL
+195,Inventory Days,12  Mar-19*,12.0,SAEL
+196,Debtors Days,12  Mar-19*,77.0,SAEL
+197,Net fixed assets,12  Mar-19*,98236.0,SAEL
+198,Share capital,12  Mar-19*,172.0,SAEL
+199,"""Free"" reserves",12  Mar-19*,817844.0,SAEL
+200,Net worth,12  Mar-19*,818016.0,SAEL
+201,Long term debt,12  Mar-19*,96827.0,SAEL
+202,Total assets,12  Mar-19*,160961.0,SAEL
+203,Interest coverage,12  Mar-19*,1.0,SAEL
+204,Debt to equity ratio,12  Mar-19*,0.1,SAEL
+205,Sales to assets ratio,12  Mar-19*,0.3,SAEL
+206,Return on assets,12  Mar-19*,7.9,SAEL
+207,Return on equity,12  Mar-19*,-0.1,SAEL
+208,Return on capital,12  Mar-19*,1.5,SAEL
+209,Exports to sales,12  Mar-19*,0.0,SAEL
+210,Imports to sales,12  Mar-19*,0.0,SAEL
+211,Exports (fob),12  Mar-19*,0.0,SAEL
+212,Imports (cif),12  Mar-19*,0.0,SAEL
+213,Fx inflow,12  Mar-19*,0.0,SAEL
+214,Fx outflow,12  Mar-19*,0.0,SAEL
+215,Net fx,12  Mar-19*,0.0,SAEL
+216,From Operations,12  Mar-19*,2448.0,SAEL
+217,From Investments,12  Mar-19*,-37.0,SAEL
+218,From Financial Activity,12  Mar-19*,-2260.0,SAEL
+219,Net Cashflow,12  Mar-19*,151.0,SAEL

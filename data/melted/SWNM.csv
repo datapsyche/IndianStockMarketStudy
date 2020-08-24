@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3144.0,SWNM
+1,Other income,12  Mar-15*,144.0,SWNM
+2,Total revenues,12  Mar-15*,3288.0,SWNM
+3,Gross profit,12  Mar-15*,307.0,SWNM
+4,Depreciation,12  Mar-15*,103.0,SWNM
+5,Interest,12  Mar-15*,296.0,SWNM
+6,Profit before tax,12  Mar-15*,53.0,SWNM
+7,Minority Interest,12  Mar-15*,0.0,SWNM
+8,Prior Period Items,12  Mar-15*,0.0,SWNM
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SWNM
+10,Tax,12  Mar-15*,22.0,SWNM
+11,Profit after tax,12  Mar-15*,30.0,SWNM
+12,Gross profit margin,12  Mar-15*,9.8,SWNM
+13,Effective tax rate,12  Mar-15*,42.6,SWNM
+14,Net profit margin,12  Mar-15*,1.0,SWNM
+15,Current assets,12  Mar-15*,7475.0,SWNM
+16,Current liabilities,12  Mar-15*,4564.0,SWNM
+17,Net working cap to sales,12  Mar-15*,92.6,SWNM
+18,Current ratio,12  Mar-15*,1.6,SWNM
+19,Inventory Days,12  Mar-15*,645.0,SWNM
+20,Debtors Days,12  Mar-15*,67.0,SWNM
+21,Net fixed assets,12  Mar-15*,8821.0,SWNM
+22,Share capital,12  Mar-15*,221.0,SWNM
+23,"""Free"" reserves",12  Mar-15*,4083.0,SWNM
+24,Net worth,12  Mar-15*,4304.0,SWNM
+25,Long term debt,12  Mar-15*,3598.0,SWNM
+26,Total assets,12  Mar-15*,16900.0,SWNM
+27,Interest coverage,12  Mar-15*,1.2,SWNM
+28,Debt to equity ratio,12  Mar-15*,0.8,SWNM
+29,Sales to assets ratio,12  Mar-15*,0.2,SWNM
+30,Return on assets,12  Mar-15*,1.9,SWNM
+31,Return on equity,12  Mar-15*,0.7,SWNM
+32,Return on capital,12  Mar-15*,4.4,SWNM
+33,Exports to sales,12  Mar-15*,2.2,SWNM
+34,Imports to sales,12  Mar-15*,0.1,SWNM
+35,Exports (fob),12  Mar-15*,70.0,SWNM
+36,Imports (cif),12  Mar-15*,3.0,SWNM
+37,Fx inflow,12  Mar-15*,70.0,SWNM
+38,Fx outflow,12  Mar-15*,3.0,SWNM
+39,Net fx,12  Mar-15*,67.0,SWNM
+40,From Operations,12  Mar-15*,-1101.0,SWNM
+41,From Investments,12  Mar-15*,-613.0,SWNM
+42,From Financial Activity,12  Mar-15*,1732.0,SWNM
+43,Net Cashflow,12  Mar-15*,18.0,SWNM
+44,Net Sales,12  Mar-16*,3317.0,SWNM
+45,Other income,12  Mar-16*,73.0,SWNM
+46,Total revenues,12  Mar-16*,3390.0,SWNM
+47,Gross profit,12  Mar-16*,280.0,SWNM
+48,Depreciation,12  Mar-16*,108.0,SWNM
+49,Interest,12  Mar-16*,244.0,SWNM
+50,Profit before tax,12  Mar-16*,1.0,SWNM
+51,Minority Interest,12  Mar-16*,0.0,SWNM
+52,Prior Period Items,12  Mar-16*,0.0,SWNM
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SWNM
+54,Tax,12  Mar-16*,3.0,SWNM
+55,Profit after tax,12  Mar-16*,-2.0,SWNM
+56,Gross profit margin,12  Mar-16*,8.4,SWNM
+57,Effective tax rate,12  Mar-16*,232.9,SWNM
+58,Net profit margin,12  Mar-16*,-0.1,SWNM
+59,Current assets,12  Mar-16*,7741.0,SWNM
+60,Current liabilities,12  Mar-16*,9804.0,SWNM
+61,Net working cap to sales,12  Mar-16*,-62.2,SWNM
+62,Current ratio,12  Mar-16*,0.8,SWNM
+63,Inventory Days,12  Mar-16*,643.0,SWNM
+64,Debtors Days,12  Mar-16*,64.0,SWNM
+65,Net fixed assets,12  Mar-16*,9347.0,SWNM
+66,Share capital,12  Mar-16*,221.0,SWNM
+67,"""Free"" reserves",12  Mar-16*,4078.0,SWNM
+68,Net worth,12  Mar-16*,4299.0,SWNM
+69,Long term debt,12  Mar-16*,3221.0,SWNM
+70,Total assets,12  Mar-16*,17847.0,SWNM
+71,Interest coverage,12  Mar-16*,1.0,SWNM
+72,Debt to equity ratio,12  Mar-16*,0.7,SWNM
+73,Sales to assets ratio,12  Mar-16*,0.2,SWNM
+74,Return on assets,12  Mar-16*,1.4,SWNM
+75,Return on equity,12  Mar-16*,0.0,SWNM
+76,Return on capital,12  Mar-16*,3.3,SWNM
+77,Exports to sales,12  Mar-16*,5.2,SWNM
+78,Imports to sales,12  Mar-16*,0.2,SWNM
+79,Exports (fob),12  Mar-16*,172.0,SWNM
+80,Imports (cif),12  Mar-16*,7.0,SWNM
+81,Fx inflow,12  Mar-16*,172.0,SWNM
+82,Fx outflow,12  Mar-16*,7.0,SWNM
+83,Net fx,12  Mar-16*,165.0,SWNM
+84,From Operations,12  Mar-16*,1231.0,SWNM
+85,From Investments,12  Mar-16*,-630.0,SWNM
+86,From Financial Activity,12  Mar-16*,-454.0,SWNM
+87,Net Cashflow,12  Mar-16*,147.0,SWNM
+88,Net Sales,12  Mar-17*,3506.0,SWNM
+89,Other income,12  Mar-17*,127.0,SWNM
+90,Total revenues,12  Mar-17*,3633.0,SWNM
+91,Gross profit,12  Mar-17*,335.0,SWNM
+92,Depreciation,12  Mar-17*,118.0,SWNM
+93,Interest,12  Mar-17*,316.0,SWNM
+94,Profit before tax,12  Mar-17*,27.0,SWNM
+95,Minority Interest,12  Mar-17*,0.0,SWNM
+96,Prior Period Items,12  Mar-17*,0.0,SWNM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SWNM
+98,Tax,12  Mar-17*,21.0,SWNM
+99,Profit after tax,12  Mar-17*,6.0,SWNM
+100,Gross profit margin,12  Mar-17*,9.6,SWNM
+101,Effective tax rate,12  Mar-17*,77.6,SWNM
+102,Net profit margin,12  Mar-17*,0.2,SWNM
+103,Current assets,12  Mar-17*,8514.0,SWNM
+104,Current liabilities,12  Mar-17*,10327.0,SWNM
+105,Net working cap to sales,12  Mar-17*,-51.7,SWNM
+106,Current ratio,12  Mar-17*,0.8,SWNM
+107,Inventory Days,12  Mar-17*,616.0,SWNM
+108,Debtors Days,12  Mar-17*,96.0,SWNM
+109,Net fixed assets,12  Mar-17*,8795.0,SWNM
+110,Share capital,12  Mar-17*,221.0,SWNM
+111,"""Free"" reserves",12  Mar-17*,4092.0,SWNM
+112,Net worth,12  Mar-17*,4313.0,SWNM
+113,Long term debt,12  Mar-17*,3571.0,SWNM
+114,Total assets,12  Mar-17*,18479.0,SWNM
+115,Interest coverage,12  Mar-17*,1.1,SWNM
+116,Debt to equity ratio,12  Mar-17*,0.8,SWNM
+117,Sales to assets ratio,12  Mar-17*,0.2,SWNM
+118,Return on assets,12  Mar-17*,1.7,SWNM
+119,Return on equity,12  Mar-17*,0.1,SWNM
+120,Return on capital,12  Mar-17*,4.4,SWNM
+121,Exports to sales,12  Mar-17*,3.0,SWNM
+122,Imports to sales,12  Mar-17*,0.1,SWNM
+123,Exports (fob),12  Mar-17*,104.0,SWNM
+124,Imports (cif),12  Mar-17*,2.0,SWNM
+125,Fx inflow,12  Mar-17*,104.0,SWNM
+126,Fx outflow,12  Mar-17*,6.0,SWNM
+127,Net fx,12  Mar-17*,98.0,SWNM
+128,From Operations,12  Mar-17*,694.0,SWNM
+129,From Investments,12  Mar-17*,-285.0,SWNM
+130,From Financial Activity,12  Mar-17*,-290.0,SWNM
+131,Net Cashflow,12  Mar-17*,118.0,SWNM
+132,Net Sales,12  Mar-18*,3467.0,SWNM
+133,Other income,12  Mar-18*,1214.0,SWNM
+134,Total revenues,12  Mar-18*,4681.0,SWNM
+135,Gross profit,12  Mar-18*,239.0,SWNM
+136,Depreciation,12  Mar-18*,141.0,SWNM
+137,Interest,12  Mar-18*,578.0,SWNM
+138,Profit before tax,12  Mar-18*,734.0,SWNM
+139,Minority Interest,12  Mar-18*,0.0,SWNM
+140,Prior Period Items,12  Mar-18*,0.0,SWNM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SWNM
+142,Tax,12  Mar-18*,187.0,SWNM
+143,Profit after tax,12  Mar-18*,547.0,SWNM
+144,Gross profit margin,12  Mar-18*,6.9,SWNM
+145,Effective tax rate,12  Mar-18*,25.5,SWNM
+146,Net profit margin,12  Mar-18*,15.8,SWNM
+147,Current assets,12  Mar-18*,13601.0,SWNM
+148,Current liabilities,12  Mar-18*,13324.0,SWNM
+149,Net working cap to sales,12  Mar-18*,8.0,SWNM
+150,Current ratio,12  Mar-18*,1.0,SWNM
+151,Inventory Days,12  Mar-18*,638.0,SWNM
+152,Debtors Days,12  Mar-18*,60.0,SWNM
+153,Net fixed assets,12  Mar-18*,11939.0,SWNM
+154,Share capital,12  Mar-18*,244.0,SWNM
+155,"""Free"" reserves",12  Mar-18*,9075.0,SWNM
+156,Net worth,12  Mar-18*,9319.0,SWNM
+157,Long term debt,12  Mar-18*,3432.0,SWNM
+158,Total assets,12  Mar-18*,26364.0,SWNM
+159,Interest coverage,12  Mar-18*,2.3,SWNM
+160,Debt to equity ratio,12  Mar-18*,0.4,SWNM
+161,Sales to assets ratio,12  Mar-18*,0.1,SWNM
+162,Return on assets,12  Mar-18*,4.3,SWNM
+163,Return on equity,12  Mar-18*,5.9,SWNM
+164,Return on capital,12  Mar-18*,10.3,SWNM
+165,Exports to sales,12  Mar-18*,0.9,SWNM
+166,Imports to sales,12  Mar-18*,0.1,SWNM
+167,Exports (fob),12  Mar-18*,31.0,SWNM
+168,Imports (cif),12  Mar-18*,4.0,SWNM
+169,Fx inflow,12  Mar-18*,31.0,SWNM
+170,Fx outflow,12  Mar-18*,13.0,SWNM
+171,Net fx,12  Mar-18*,18.0,SWNM
+172,From Operations,12  Mar-18*,623.0,SWNM
+173,From Investments,12  Mar-18*,-5332.0,SWNM
+174,From Financial Activity,12  Mar-18*,4807.0,SWNM
+175,Net Cashflow,12  Mar-18*,99.0,SWNM
+176,Net Sales,12  Mar-19*,8916.0,SWNM
+177,Other income,12  Mar-19*,194.0,SWNM
+178,Total revenues,12  Mar-19*,9110.0,SWNM
+179,Gross profit,12  Mar-19*,778.0,SWNM
+180,Depreciation,12  Mar-19*,141.0,SWNM
+181,Interest,12  Mar-19*,540.0,SWNM
+182,Profit before tax,12  Mar-19*,291.0,SWNM
+183,Minority Interest,12  Mar-19*,0.0,SWNM
+184,Prior Period Items,12  Mar-19*,0.0,SWNM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SWNM
+186,Tax,12  Mar-19*,351.0,SWNM
+187,Profit after tax,12  Mar-19*,-60.0,SWNM
+188,Gross profit margin,12  Mar-19*,8.7,SWNM
+189,Effective tax rate,12  Mar-19*,120.6,SWNM
+190,Net profit margin,12  Mar-19*,-0.7,SWNM
+191,Current assets,12  Mar-19*,13712.0,SWNM
+192,Current liabilities,12  Mar-19*,18309.0,SWNM
+193,Net working cap to sales,12  Mar-19*,-51.6,SWNM
+194,Current ratio,12  Mar-19*,0.7,SWNM
+195,Inventory Days,12  Mar-19*,62.0,SWNM
+196,Debtors Days,12  Mar-19*,17.0,SWNM
+197,Net fixed assets,12  Mar-19*,17880.0,SWNM
+198,Share capital,12  Mar-19*,244.0,SWNM
+199,"""Free"" reserves",12  Mar-19*,8992.0,SWNM
+200,Net worth,12  Mar-19*,9237.0,SWNM
+201,Long term debt,12  Mar-19*,2152.0,SWNM
+202,Total assets,12  Mar-19*,32015.0,SWNM
+203,Interest coverage,12  Mar-19*,1.5,SWNM
+204,Debt to equity ratio,12  Mar-19*,0.2,SWNM
+205,Sales to assets ratio,12  Mar-19*,0.3,SWNM
+206,Return on assets,12  Mar-19*,1.5,SWNM
+207,Return on equity,12  Mar-19*,-0.6,SWNM
+208,Return on capital,12  Mar-19*,7.3,SWNM
+209,Exports to sales,12  Mar-19*,0.2,SWNM
+210,Imports to sales,12  Mar-19*,0.0,SWNM
+211,Exports (fob),12  Mar-19*,18.0,SWNM
+212,Imports (cif),12  Mar-19*,3.0,SWNM
+213,Fx inflow,12  Mar-19*,18.0,SWNM
+214,Fx outflow,12  Mar-19*,4.0,SWNM
+215,Net fx,12  Mar-19*,13.0,SWNM
+216,From Operations,12  Mar-19*,419.0,SWNM
+217,From Investments,12  Mar-19*,-7635.0,SWNM
+218,From Financial Activity,12  Mar-19*,7072.0,SWNM
+219,Net Cashflow,12  Mar-19*,-144.0,SWNM

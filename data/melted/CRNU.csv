@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4307.0,CRNU
+1,Other income,12  Mar-15*,276.0,CRNU
+2,Total revenues,12  Mar-15*,4583.0,CRNU
+3,Gross profit,12  Mar-15*,998.0,CRNU
+4,Depreciation,12  Mar-15*,77.0,CRNU
+5,Interest,12  Mar-15*,0.0,CRNU
+6,Profit before tax,12  Mar-15*,1197.0,CRNU
+7,Minority Interest,12  Mar-15*,-22.0,CRNU
+8,Prior Period Items,12  Mar-15*,0.0,CRNU
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CRNU
+10,Tax,12  Mar-15*,85.0,CRNU
+11,Profit after tax,12  Mar-15*,1090.0,CRNU
+12,Gross profit margin,12  Mar-15*,23.2,CRNU
+13,Effective tax rate,12  Mar-15*,7.1,CRNU
+14,Net profit margin,12  Mar-15*,25.3,CRNU
+15,Current assets,12  Mar-15*,3850,CRNU
+16,Current liabilities,12  Mar-15*,616,CRNU
+17,Net working cap to sales,12  Mar-15*,75.1,CRNU
+18,Current ratio,12  Mar-15*,6.3,CRNU
+19,Inventory Days,12  Mar-15*,22,CRNU
+20,Debtors Days,12  Mar-15*,1,CRNU
+21,Net fixed assets,12  Mar-15*,846,CRNU
+22,Share capital,12  Mar-15*,391,CRNU
+23,"""Free"" reserves",12  Mar-15*,4020,CRNU
+24,Net worth,12  Mar-15*,4411,CRNU
+25,Long term debt,12  Mar-15*,0,CRNU
+26,Total assets,12  Mar-15*,5079,CRNU
+27,Interest coverage,12  Mar-15*,NM,CRNU
+28,Debt to equity ratio,12  Mar-15*,0,CRNU
+29,Sales to assets ratio,12  Mar-15*,0.8,CRNU
+30,Return on assets,12  Mar-15*,21.5,CRNU
+31,Return on equity,12  Mar-15*,24.7,CRNU
+32,Return on capital,12  Mar-15*,26.6,CRNU
+33,Exports to sales,12  Mar-15*,0,CRNU
+34,Imports to sales,12  Mar-15*,0.1,CRNU
+35,Exports (fob),12  Mar-15*,1,CRNU
+36,Imports (cif),12  Mar-15*,5,CRNU
+37,Fx inflow,12  Mar-15*,1,CRNU
+38,Fx outflow,12  Mar-15*,5,CRNU
+39,Net fx,12  Mar-15*,-5,CRNU
+40,From Operations,12  Mar-15*,692,CRNU
+41,From Investments,12  Mar-15*,294,CRNU
+42,From Financial Activity,12  Mar-15*,-275,CRNU
+43,Net Cashflow,12  Mar-15*,712,CRNU
+44,Net Sales,12  Mar-16*,3967.0,CRNU
+45,Other income,12  Mar-16*,324.0,CRNU
+46,Total revenues,12  Mar-16*,4291.0,CRNU
+47,Gross profit,12  Mar-16*,913.0,CRNU
+48,Depreciation,12  Mar-16*,68.0,CRNU
+49,Interest,12  Mar-16*,1.0,CRNU
+50,Profit before tax,12  Mar-16*,1168.0,CRNU
+51,Minority Interest,12  Mar-16*,0.0,CRNU
+52,Prior Period Items,12  Mar-16*,0.0,CRNU
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CRNU
+54,Tax,12  Mar-16*,116.0,CRNU
+55,Profit after tax,12  Mar-16*,1052.0,CRNU
+56,Gross profit margin,12  Mar-16*,23.0,CRNU
+57,Effective tax rate,12  Mar-16*,9.9,CRNU
+58,Net profit margin,12  Mar-16*,26.5,CRNU
+59,Current assets,12  Mar-16*,4330.0,CRNU
+60,Current liabilities,12  Mar-16*,755.0,CRNU
+61,Net working cap to sales,12  Mar-16*,90.1,CRNU
+62,Current ratio,12  Mar-16*,5.7,CRNU
+63,Inventory Days,12  Mar-16*,22.0,CRNU
+64,Debtors Days,12  Mar-16*,3.0,CRNU
+65,Net fixed assets,12  Mar-16*,823.0,CRNU
+66,Share capital,12  Mar-16*,391.0,CRNU
+67,"""Free"" reserves",12  Mar-16*,4481.0,CRNU
+68,Net worth,12  Mar-16*,4872.0,CRNU
+69,Long term debt,12  Mar-16*,0.0,CRNU
+70,Total assets,12  Mar-16*,5678.0,CRNU
+71,Interest coverage,12  Mar-16*,835.3,CRNU
+72,Debt to equity ratio,12  Mar-16*,0.0,CRNU
+73,Sales to assets ratio,12  Mar-16*,0.7,CRNU
+74,Return on assets,12  Mar-16*,18.6,CRNU
+75,Return on equity,12  Mar-16*,21.6,CRNU
+76,Return on capital,12  Mar-16*,24.0,CRNU
+77,Exports to sales,12  Mar-16*,0.0,CRNU
+78,Imports to sales,12  Mar-16*,0.0,CRNU
+79,Exports (fob),12  Mar-16*,0.0,CRNU
+80,Imports (cif),12  Mar-16*,0.0,CRNU
+81,Fx inflow,12  Mar-16*,0.0,CRNU
+82,Fx outflow,12  Mar-16*,2.0,CRNU
+83,Net fx,12  Mar-16*,-2.0,CRNU
+84,From Operations,12  Mar-16*,899.0,CRNU
+85,From Investments,12  Mar-16*,-278.0,CRNU
+86,From Financial Activity,12  Mar-16*,-585.0,CRNU
+87,Net Cashflow,12  Mar-16*,36.0,CRNU
+88,Net Sales,12  Mar-17*,4306.0,CRNU
+89,Other income,12  Mar-17*,326.0,CRNU
+90,Total revenues,12  Mar-17*,4632.0,CRNU
+91,Gross profit,12  Mar-17*,991.0,CRNU
+92,Depreciation,12  Mar-17*,72.0,CRNU
+93,Interest,12  Mar-17*,6.0,CRNU
+94,Profit before tax,12  Mar-17*,1240.0,CRNU
+95,Minority Interest,12  Mar-17*,0.0,CRNU
+96,Prior Period Items,12  Mar-17*,0.0,CRNU
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CRNU
+98,Tax,12  Mar-17*,127.0,CRNU
+99,Profit after tax,12  Mar-17*,1113.0,CRNU
+100,Gross profit margin,12  Mar-17*,23.0,CRNU
+101,Effective tax rate,12  Mar-17*,10.3,CRNU
+102,Net profit margin,12  Mar-17*,25.8,CRNU
+103,Current assets,12  Mar-17*,5162.0,CRNU
+104,Current liabilities,12  Mar-17*,1135.0,CRNU
+105,Net working cap to sales,12  Mar-17*,93.5,CRNU
+106,Current ratio,12  Mar-17*,4.6,CRNU
+107,Inventory Days,12  Mar-17*,27.0,CRNU
+108,Debtors Days,12  Mar-17*,3.0,CRNU
+109,Net fixed assets,12  Mar-17*,1027.0,CRNU
+110,Share capital,12  Mar-17*,391.0,CRNU
+111,"""Free"" reserves",12  Mar-17*,5181.0,CRNU
+112,Net worth,12  Mar-17*,5572.0,CRNU
+113,Long term debt,12  Mar-17*,0.0,CRNU
+114,Total assets,12  Mar-17*,6832.0,CRNU
+115,Interest coverage,12  Mar-17*,226.5,CRNU
+116,Debt to equity ratio,12  Mar-17*,0.0,CRNU
+117,Sales to assets ratio,12  Mar-17*,0.6,CRNU
+118,Return on assets,12  Mar-17*,16.4,CRNU
+119,Return on equity,12  Mar-17*,20.0,CRNU
+120,Return on capital,12  Mar-17*,22.4,CRNU
+121,Exports to sales,12  Mar-17*,0.0,CRNU
+122,Imports to sales,12  Mar-17*,0.0,CRNU
+123,Exports (fob),12  Mar-17*,0.0,CRNU
+124,Imports (cif),12  Mar-17*,0.0,CRNU
+125,Fx inflow,12  Mar-17*,0.0,CRNU
+126,Fx outflow,12  Mar-17*,4.0,CRNU
+127,Net fx,12  Mar-17*,-4.0,CRNU
+128,From Operations,12  Mar-17*,770.0,CRNU
+129,From Investments,12  Mar-17*,-721.0,CRNU
+130,From Financial Activity,12  Mar-17*,-62.0,CRNU
+131,Net Cashflow,12  Mar-17*,-13.0,CRNU
+132,Net Sales,12  Mar-18*,5126.0,CRNU
+133,Other income,12  Mar-18*,351.0,CRNU
+134,Total revenues,12  Mar-18*,5477.0,CRNU
+135,Gross profit,12  Mar-18*,1253.0,CRNU
+136,Depreciation,12  Mar-18*,89.0,CRNU
+137,Interest,12  Mar-18*,17.0,CRNU
+138,Profit before tax,12  Mar-18*,1497.0,CRNU
+139,Minority Interest,12  Mar-18*,0.0,CRNU
+140,Prior Period Items,12  Mar-18*,0.0,CRNU
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CRNU
+142,Tax,12  Mar-18*,132.0,CRNU
+143,Profit after tax,12  Mar-18*,1365.0,CRNU
+144,Gross profit margin,12  Mar-18*,24.4,CRNU
+145,Effective tax rate,12  Mar-18*,8.8,CRNU
+146,Net profit margin,12  Mar-18*,26.6,CRNU
+147,Current assets,12  Mar-18*,6470.0,CRNU
+148,Current liabilities,12  Mar-18*,1217.0,CRNU
+149,Net working cap to sales,12  Mar-18*,102.5,CRNU
+150,Current ratio,12  Mar-18*,5.3,CRNU
+151,Inventory Days,12  Mar-18*,25.0,CRNU
+152,Debtors Days,12  Mar-18*,6.0,CRNU
+153,Net fixed assets,12  Mar-18*,1041.0,CRNU
+154,Share capital,12  Mar-18*,391.0,CRNU
+155,"""Free"" reserves",12  Mar-18*,6521.0,CRNU
+156,Net worth,12  Mar-18*,6912.0,CRNU
+157,Long term debt,12  Mar-18*,0.0,CRNU
+158,Total assets,12  Mar-18*,8289.0,CRNU
+159,Interest coverage,12  Mar-18*,89.1,CRNU
+160,Debt to equity ratio,12  Mar-18*,0.0,CRNU
+161,Sales to assets ratio,12  Mar-18*,0.6,CRNU
+162,Return on assets,12  Mar-18*,16.7,CRNU
+163,Return on equity,12  Mar-18*,19.7,CRNU
+164,Return on capital,12  Mar-18*,21.9,CRNU
+165,Exports to sales,12  Mar-18*,0.0,CRNU
+166,Imports to sales,12  Mar-18*,0.0,CRNU
+167,Exports (fob),12  Mar-18*,0.0,CRNU
+168,Imports (cif),12  Mar-18*,0.0,CRNU
+169,Fx inflow,12  Mar-18*,0.0,CRNU
+170,Fx outflow,12  Mar-18*,2.0,CRNU
+171,Net fx,12  Mar-18*,-2.0,CRNU
+172,From Operations,12  Mar-18*,691.0,CRNU
+173,From Investments,12  Mar-18*,-591.0,CRNU
+174,From Financial Activity,12  Mar-18*,-18.0,CRNU
+175,Net Cashflow,12  Mar-18*,81.0,CRNU
+176,Net Sales,12  Mar-19*,8428.0,CRNU
+177,Other income,12  Mar-19*,389.0,CRNU
+178,Total revenues,12  Mar-19*,8817.0,CRNU
+179,Gross profit,12  Mar-19*,1744.0,CRNU
+180,Depreciation,12  Mar-19*,125.0,CRNU
+181,Interest,12  Mar-19*,301.0,CRNU
+182,Profit before tax,12  Mar-19*,1706.0,CRNU
+183,Minority Interest,12  Mar-19*,0.0,CRNU
+184,Prior Period Items,12  Mar-19*,0.0,CRNU
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CRNU
+186,Tax,12  Mar-19*,-6.0,CRNU
+187,Profit after tax,12  Mar-19*,1712.0,CRNU
+188,Gross profit margin,12  Mar-19*,20.7,CRNU
+189,Effective tax rate,12  Mar-19*,-0.4,CRNU
+190,Net profit margin,12  Mar-19*,20.3,CRNU
+191,Current assets,12  Mar-19*,6980.0,CRNU
+192,Current liabilities,12  Mar-19*,5463.0,CRNU
+193,Net working cap to sales,12  Mar-19*,18.0,CRNU
+194,Current ratio,12  Mar-19*,1.3,CRNU
+195,Inventory Days,12  Mar-19*,1009.0,CRNU
+196,Debtors Days,12  Mar-19*,42.0,CRNU
+197,Net fixed assets,12  Mar-19*,45777.0,CRNU
+198,Share capital,12  Mar-19*,577.0,CRNU
+199,"""Free"" reserves",12  Mar-19*,33286.0,CRNU
+200,Net worth,12  Mar-19*,33863.0,CRNU
+201,Long term debt,12  Mar-19*,15000.0,CRNU
+202,Total assets,12  Mar-19*,54585.0,CRNU
+203,Interest coverage,12  Mar-19*,6.7,CRNU
+204,Debt to equity ratio,12  Mar-19*,0.4,CRNU
+205,Sales to assets ratio,12  Mar-19*,0.2,CRNU
+206,Return on assets,12  Mar-19*,3.7,CRNU
+207,Return on equity,12  Mar-19*,5.1,CRNU
+208,Return on capital,12  Mar-19*,4.1,CRNU
+209,Exports to sales,12  Mar-19*,0.0,CRNU
+210,Imports to sales,12  Mar-19*,0.0,CRNU
+211,Exports (fob),12  Mar-19*,0.0,CRNU
+212,Imports (cif),12  Mar-19*,0.0,CRNU
+213,Fx inflow,12  Mar-19*,34.0,CRNU
+214,Fx outflow,12  Mar-19*,20.0,CRNU
+215,Net fx,12  Mar-19*,14.0,CRNU
+216,From Operations,12  Mar-19*,1494.0,CRNU
+217,From Investments,12  Mar-19*,-41617.0,CRNU
+218,From Financial Activity,12  Mar-19*,40515.0,CRNU
+219,Net Cashflow,12  Mar-19*,1086.0,CRNU

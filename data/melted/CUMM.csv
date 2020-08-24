@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,44058.0,CUMM
+1,Other income,12  Mar-15*,2866.0,CUMM
+2,Total revenues,12  Mar-15*,46924.0,CUMM
+3,Gross profit,12  Mar-15*,7318.0,CUMM
+4,Depreciation,12  Mar-15*,797.0,CUMM
+5,Interest,12  Mar-15*,13.0,CUMM
+6,Profit before tax,12  Mar-15*,9374.0,CUMM
+7,Minority Interest,12  Mar-15*,0.0,CUMM
+8,Prior Period Items,12  Mar-15*,0.0,CUMM
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CUMM
+10,Tax,12  Mar-15*,1515.0,CUMM
+11,Profit after tax,12  Mar-15*,7859.0,CUMM
+12,Gross profit margin,12  Mar-15*,16.6,CUMM
+13,Effective tax rate,12  Mar-15*,16.2,CUMM
+14,Net profit margin,12  Mar-15*,17.8,CUMM
+15,Current assets,12  Mar-15*,24018.0,CUMM
+16,Current liabilities,12  Mar-15*,9523.0,CUMM
+17,Net working cap to sales,12  Mar-15*,32.9,CUMM
+18,Current ratio,12  Mar-15*,2.5,CUMM
+19,Inventory Days,12  Mar-15*,57.0,CUMM
+20,Debtors Days,12  Mar-15*,77.0,CUMM
+21,Net fixed assets,12  Mar-15*,13952.0,CUMM
+22,Share capital,12  Mar-15*,554.0,CUMM
+23,"""Free"" reserves",12  Mar-15*,33027.0,CUMM
+24,Net worth,12  Mar-15*,33581.0,CUMM
+25,Long term debt,12  Mar-15*,0.0,CUMM
+26,Total assets,12  Mar-15*,44761.0,CUMM
+27,Interest coverage,12  Mar-15*,745.0,CUMM
+28,Debt to equity ratio,12  Mar-15*,0.0,CUMM
+29,Sales to assets ratio,12  Mar-15*,1.0,CUMM
+30,Return on assets,12  Mar-15*,17.6,CUMM
+31,Return on equity,12  Mar-15*,23.4,CUMM
+32,Return on capital,12  Mar-15*,28.0,CUMM
+33,Exports to sales,12  Mar-15*,39.2,CUMM
+34,Imports to sales,12  Mar-15*,13.4,CUMM
+35,Exports (fob),12  Mar-15*,17268.0,CUMM
+36,Imports (cif),12  Mar-15*,5898.0,CUMM
+37,Fx inflow,12  Mar-15*,17742.0,CUMM
+38,Fx outflow,12  Mar-15*,9406.0,CUMM
+39,Net fx,12  Mar-15*,8336.0,CUMM
+40,From Operations,12  Mar-15*,4979.0,CUMM
+41,From Investments,12  Mar-15*,-563.0,CUMM
+42,From Financial Activity,12  Mar-15*,-4229.0,CUMM
+43,Net Cashflow,12  Mar-15*,188.0,CUMM
+44,Net Sales,12  Mar-16*,47202.0,CUMM
+45,Other income,12  Mar-16*,1156.0,CUMM
+46,Total revenues,12  Mar-16*,48358.0,CUMM
+47,Gross profit,12  Mar-16*,7749.0,CUMM
+48,Depreciation,12  Mar-16*,814.0,CUMM
+49,Interest,12  Mar-16*,98.0,CUMM
+50,Profit before tax,12  Mar-16*,7994.0,CUMM
+51,Minority Interest,12  Mar-16*,930.0,CUMM
+52,Prior Period Items,12  Mar-16*,0.0,CUMM
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CUMM
+54,Tax,12  Mar-16*,1710.0,CUMM
+55,Profit after tax,12  Mar-16*,7213.0,CUMM
+56,Gross profit margin,12  Mar-16*,16.4,CUMM
+57,Effective tax rate,12  Mar-16*,21.4,CUMM
+58,Net profit margin,12  Mar-16*,15.3,CUMM
+59,Current assets,12  Mar-16*,22907.0,CUMM
+60,Current liabilities,12  Mar-16*,9024.0,CUMM
+61,Net working cap to sales,12  Mar-16*,29.4,CUMM
+62,Current ratio,12  Mar-16*,2.5,CUMM
+63,Inventory Days,12  Mar-16*,47.0,CUMM
+64,Debtors Days,12  Mar-16*,73.0,CUMM
+65,Net fixed assets,12  Mar-16*,18024.0,CUMM
+66,Share capital,12  Mar-16*,554.0,CUMM
+67,"""Free"" reserves",12  Mar-16*,35535.0,CUMM
+68,Net worth,12  Mar-16*,36089.0,CUMM
+69,Long term debt,12  Mar-16*,0.0,CUMM
+70,Total assets,12  Mar-16*,46625.0,CUMM
+71,Interest coverage,12  Mar-16*,82.6,CUMM
+72,Debt to equity ratio,12  Mar-16*,0.0,CUMM
+73,Sales to assets ratio,12  Mar-16*,1.0,CUMM
+74,Return on assets,12  Mar-16*,15.7,CUMM
+75,Return on equity,12  Mar-16*,20.0,CUMM
+76,Return on capital,12  Mar-16*,25.0,CUMM
+77,Exports to sales,12  Mar-16*,35.4,CUMM
+78,Imports to sales,12  Mar-16*,10.3,CUMM
+79,Exports (fob),12  Mar-16*,16694.0,CUMM
+80,Imports (cif),12  Mar-16*,4842.0,CUMM
+81,Fx inflow,12  Mar-16*,17136.0,CUMM
+82,Fx outflow,12  Mar-16*,8264.0,CUMM
+83,Net fx,12  Mar-16*,8872.0,CUMM
+84,From Operations,12  Mar-16*,6955.0,CUMM
+85,From Investments,12  Mar-16*,-2124.0,CUMM
+86,From Financial Activity,12  Mar-16*,-4710.0,CUMM
+87,Net Cashflow,12  Mar-16*,99.0,CUMM
+88,Net Sales,12  Mar-17*,51064.0,CUMM
+89,Other income,12  Mar-17*,1410.0,CUMM
+90,Total revenues,12  Mar-17*,52473.0,CUMM
+91,Gross profit,12  Mar-17*,8046.0,CUMM
+92,Depreciation,12  Mar-17*,855.0,CUMM
+93,Interest,12  Mar-17*,171.0,CUMM
+94,Profit before tax,12  Mar-17*,8430.0,CUMM
+95,Minority Interest,12  Mar-17*,811.0,CUMM
+96,Prior Period Items,12  Mar-17*,0.0,CUMM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CUMM
+98,Tax,12  Mar-17*,1878.0,CUMM
+99,Profit after tax,12  Mar-17*,7363.0,CUMM
+100,Gross profit margin,12  Mar-17*,15.8,CUMM
+101,Effective tax rate,12  Mar-17*,22.3,CUMM
+102,Net profit margin,12  Mar-17*,14.4,CUMM
+103,Current assets,12  Mar-17*,26882.0,CUMM
+104,Current liabilities,12  Mar-17*,12159.0,CUMM
+105,Net working cap to sales,12  Mar-17*,28.8,CUMM
+106,Current ratio,12  Mar-17*,2.2,CUMM
+107,Inventory Days,12  Mar-17*,41.0,CUMM
+108,Debtors Days,12  Mar-17*,69.0,CUMM
+109,Net fixed assets,12  Mar-17*,19566.0,CUMM
+110,Share capital,12  Mar-17*,554.0,CUMM
+111,"""Free"" reserves",12  Mar-17*,38157.0,CUMM
+112,Net worth,12  Mar-17*,38711.0,CUMM
+113,Long term debt,12  Mar-17*,0.0,CUMM
+114,Total assets,12  Mar-17*,52143.0,CUMM
+115,Interest coverage,12  Mar-17*,50.4,CUMM
+116,Debt to equity ratio,12  Mar-17*,0.0,CUMM
+117,Sales to assets ratio,12  Mar-17*,1.0,CUMM
+118,Return on assets,12  Mar-17*,14.4,CUMM
+119,Return on equity,12  Mar-17*,19.0,CUMM
+120,Return on capital,12  Mar-17*,24.3,CUMM
+121,Exports to sales,12  Mar-17*,0.0,CUMM
+122,Imports to sales,12  Mar-17*,0.0,CUMM
+123,Exports (fob),12  Mar-17*,0.0,CUMM
+124,Imports (cif),12  Mar-17*,0.0,CUMM
+125,Fx inflow,12  Mar-17*,16313.0,CUMM
+126,Fx outflow,12  Mar-17*,9368.0,CUMM
+127,Net fx,12  Mar-17*,6945.0,CUMM
+128,From Operations,12  Mar-17*,7482.0,CUMM
+129,From Investments,12  Mar-17*,-4868.0,CUMM
+130,From Financial Activity,12  Mar-17*,-2265.0,CUMM
+131,Net Cashflow,12  Mar-17*,386.0,CUMM
+132,Net Sales,12  Mar-18*,51119.0,CUMM
+133,Other income,12  Mar-18*,1613.0,CUMM
+134,Total revenues,12  Mar-18*,52732.0,CUMM
+135,Gross profit,12  Mar-18*,7329.0,CUMM
+136,Depreciation,12  Mar-18*,944.0,CUMM
+137,Interest,12  Mar-18*,152.0,CUMM
+138,Profit before tax,12  Mar-18*,7847.0,CUMM
+139,Minority Interest,12  Mar-18*,858.0,CUMM
+140,Prior Period Items,12  Mar-18*,0.0,CUMM
+141,Extraordinary Inc (Exp),12  Mar-18*,561.0,CUMM
+142,Tax,12  Mar-18*,2147.0,CUMM
+143,Profit after tax,12  Mar-18*,7118.0,CUMM
+144,Gross profit margin,12  Mar-18*,14.3,CUMM
+145,Effective tax rate,12  Mar-18*,27.4,CUMM
+146,Net profit margin,12  Mar-18*,13.9,CUMM
+147,Current assets,12  Mar-18*,32301.0,CUMM
+148,Current liabilities,12  Mar-18*,14560.0,CUMM
+149,Net working cap to sales,12  Mar-18*,34.7,CUMM
+150,Current ratio,12  Mar-18*,2.2,CUMM
+151,Inventory Days,12  Mar-18*,39.0,CUMM
+152,Debtors Days,12  Mar-18*,96.0,CUMM
+153,Net fixed assets,12  Mar-18*,22568.0,CUMM
+154,Share capital,12  Mar-18*,554.0,CUMM
+155,"""Free"" reserves",12  Mar-18*,40632.0,CUMM
+156,Net worth,12  Mar-18*,41186.0,CUMM
+157,Long term debt,12  Mar-18*,0.0,CUMM
+158,Total assets,12  Mar-18*,57148.0,CUMM
+159,Interest coverage,12  Mar-18*,52.7,CUMM
+160,Debt to equity ratio,12  Mar-18*,0.0,CUMM
+161,Sales to assets ratio,12  Mar-18*,0.9,CUMM
+162,Return on assets,12  Mar-18*,12.7,CUMM
+163,Return on equity,12  Mar-18*,17.3,CUMM
+164,Return on capital,12  Mar-18*,22.9,CUMM
+165,Exports to sales,12  Mar-18*,0.0,CUMM
+166,Imports to sales,12  Mar-18*,0.0,CUMM
+167,Exports (fob),12  Mar-18*,0.0,CUMM
+168,Imports (cif),12  Mar-18*,0.0,CUMM
+169,Fx inflow,12  Mar-18*,16103.0,CUMM
+170,Fx outflow,12  Mar-18*,10254.0,CUMM
+171,Net fx,12  Mar-18*,5849.0,CUMM
+172,From Operations,12  Mar-18*,6319.0,CUMM
+173,From Investments,12  Mar-18*,-1340.0,CUMM
+174,From Financial Activity,12  Mar-18*,-4696.0,CUMM
+175,Net Cashflow,12  Mar-18*,284.0,CUMM
+176,Net Sales,12  Mar-19*,56973.0,CUMM
+177,Other income,12  Mar-19*,2351.0,CUMM
+178,Total revenues,12  Mar-19*,59324.0,CUMM
+179,Gross profit,12  Mar-19*,8691.0,CUMM
+180,Depreciation,12  Mar-19*,1111.0,CUMM
+181,Interest,12  Mar-19*,168.0,CUMM
+182,Profit before tax,12  Mar-19*,9763.0,CUMM
+183,Minority Interest,12  Mar-19*,926.0,CUMM
+184,Prior Period Items,12  Mar-19*,0.0,CUMM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CUMM
+186,Tax,12  Mar-19*,3263.0,CUMM
+187,Profit after tax,12  Mar-19*,7426.0,CUMM
+188,Gross profit margin,12  Mar-19*,15.3,CUMM
+189,Effective tax rate,12  Mar-19*,33.4,CUMM
+190,Net profit margin,12  Mar-19*,13.0,CUMM
+191,Current assets,12  Mar-19*,34286.0,CUMM
+192,Current liabilities,12  Mar-19*,15341.0,CUMM
+193,Net working cap to sales,12  Mar-19*,33.3,CUMM
+194,Current ratio,12  Mar-19*,2.2,CUMM
+195,Inventory Days,12  Mar-19*,41.0,CUMM
+196,Debtors Days,12  Mar-19*,82.0,CUMM
+197,Net fixed assets,12  Mar-19*,23939.0,CUMM
+198,Share capital,12  Mar-19*,554.0,CUMM
+199,"""Free"" reserves",12  Mar-19*,42275.0,CUMM
+200,Net worth,12  Mar-19*,42830.0,CUMM
+201,Long term debt,12  Mar-19*,0.0,CUMM
+202,Total assets,12  Mar-19*,60603.0,CUMM
+203,Interest coverage,12  Mar-19*,59.2,CUMM
+204,Debt to equity ratio,12  Mar-19*,0.0,CUMM
+205,Sales to assets ratio,12  Mar-19*,0.9,CUMM
+206,Return on assets,12  Mar-19*,12.5,CUMM
+207,Return on equity,12  Mar-19*,17.3,CUMM
+208,Return on capital,12  Mar-19*,25.3,CUMM
+209,Exports to sales,12  Mar-19*,0.0,CUMM
+210,Imports to sales,12  Mar-19*,0.0,CUMM
+211,Exports (fob),12  Mar-19*,0.0,CUMM
+212,Imports (cif),12  Mar-19*,0.0,CUMM
+213,Fx inflow,12  Mar-19*,20075.0,CUMM
+214,Fx outflow,12  Mar-19*,10243.0,CUMM
+215,Net fx,12  Mar-19*,9832.0,CUMM
+216,From Operations,12  Mar-19*,5492.0,CUMM
+217,From Investments,12  Mar-19*,162.0,CUMM
+218,From Financial Activity,12  Mar-19*,-5210.0,CUMM
+219,Net Cashflow,12  Mar-19*,431.0,CUMM

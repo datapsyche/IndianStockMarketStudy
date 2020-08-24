@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,16929.0,CCOFF
+1,Other income,12  Mar-15*,89.0,CCOFF
+2,Total revenues,12  Mar-15*,17019.0,CCOFF
+3,Gross profit,12  Mar-15*,3415.0,CCOFF
+4,Depreciation,12  Mar-15*,518.0,CCOFF
+5,Interest,12  Mar-15*,395.0,CCOFF
+6,Profit before tax,12  Mar-15*,2592.0,CCOFF
+7,Minority Interest,12  Mar-15*,-499.0,CCOFF
+8,Prior Period Items,12  Mar-15*,0.0,CCOFF
+9,Extraordinary Inc (Exp),12  Mar-15*,65.0,CCOFF
+10,Tax,12  Mar-15*,955.0,CCOFF
+11,Profit after tax,12  Mar-15*,1204.0,CCOFF
+12,Gross profit margin,12  Mar-15*,20.2,CCOFF
+13,Effective tax rate,12  Mar-15*,36.8,CCOFF
+14,Net profit margin,12  Mar-15*,7.1,CCOFF
+15,Current assets,12  Mar-15*,6459.0,CCOFF
+16,Current liabilities,12  Mar-15*,4203.0,CCOFF
+17,Net working cap to sales,12  Mar-15*,13.3,CCOFF
+18,Current ratio,12  Mar-15*,1.5,CCOFF
+19,Inventory Days,12  Mar-15*,70.0,CCOFF
+20,Debtors Days,12  Mar-15*,32.0,CCOFF
+21,Net fixed assets,12  Mar-15*,17539.0,CCOFF
+22,Share capital,12  Mar-15*,187.0,CCOFF
+23,"""Free"" reserves",12  Mar-15*,8331.0,CCOFF
+24,Net worth,12  Mar-15*,8518.0,CCOFF
+25,Long term debt,12  Mar-15*,7210.0,CCOFF
+26,Total assets,12  Mar-15*,24238.0,CCOFF
+27,Interest coverage,12  Mar-15*,7.6,CCOFF
+28,Debt to equity ratio,12  Mar-15*,0.8,CCOFF
+29,Sales to assets ratio,12  Mar-15*,0.7,CCOFF
+30,Return on assets,12  Mar-15*,6.6,CCOFF
+31,Return on equity,12  Mar-15*,14.1,CCOFF
+32,Return on capital,12  Mar-15*,16.2,CCOFF
+33,Exports to sales,12  Mar-15*,25.5,CCOFF
+34,Imports to sales,12  Mar-15*,9.4,CCOFF
+35,Exports (fob),12  Mar-15*,4321.0,CCOFF
+36,Imports (cif),12  Mar-15*,1590.0,CCOFF
+37,Fx inflow,12  Mar-15*,4587.0,CCOFF
+38,Fx outflow,12  Mar-15*,1617.0,CCOFF
+39,Net fx,12  Mar-15*,2970.0,CCOFF
+40,From Operations,12  Mar-15*,2380.0,CCOFF
+41,From Investments,12  Mar-15*,-745.0,CCOFF
+42,From Financial Activity,12  Mar-15*,-2063.0,CCOFF
+43,Net Cashflow,12  Mar-15*,-428.0,CCOFF
+44,Net Sales,12  Mar-16*,15511.0,CCOFF
+45,Other income,12  Mar-16*,197.0,CCOFF
+46,Total revenues,12  Mar-16*,15708.0,CCOFF
+47,Gross profit,12  Mar-16*,2831.0,CCOFF
+48,Depreciation,12  Mar-16*,530.0,CCOFF
+49,Interest,12  Mar-16*,373.0,CCOFF
+50,Profit before tax,12  Mar-16*,2125.0,CCOFF
+51,Minority Interest,12  Mar-16*,0.0,CCOFF
+52,Prior Period Items,12  Mar-16*,0.0,CCOFF
+53,Extraordinary Inc (Exp),12  Mar-16*,-66.0,CCOFF
+54,Tax,12  Mar-16*,808.0,CCOFF
+55,Profit after tax,12  Mar-16*,1251.0,CCOFF
+56,Gross profit margin,12  Mar-16*,18.3,CCOFF
+57,Effective tax rate,12  Mar-16*,38.0,CCOFF
+58,Net profit margin,12  Mar-16*,8.1,CCOFF
+59,Current assets,12  Mar-16*,6718.0,CCOFF
+60,Current liabilities,12  Mar-16*,4183.0,CCOFF
+61,Net working cap to sales,12  Mar-16*,16.3,CCOFF
+62,Current ratio,12  Mar-16*,1.6,CCOFF
+63,Inventory Days,12  Mar-16*,68.0,CCOFF
+64,Debtors Days,12  Mar-16*,39.0,CCOFF
+65,Net fixed assets,12  Mar-16*,18505.0,CCOFF
+66,Share capital,12  Mar-16*,187.0,CCOFF
+67,"""Free"" reserves",12  Mar-16*,9127.0,CCOFF
+68,Net worth,12  Mar-16*,9314.0,CCOFF
+69,Long term debt,12  Mar-16*,6923.0,CCOFF
+70,Total assets,12  Mar-16*,25498.0,CCOFF
+71,Interest coverage,12  Mar-16*,6.7,CCOFF
+72,Debt to equity ratio,12  Mar-16*,0.7,CCOFF
+73,Sales to assets ratio,12  Mar-16*,0.6,CCOFF
+74,Return on assets,12  Mar-16*,6.4,CCOFF
+75,Return on equity,12  Mar-16*,13.4,CCOFF
+76,Return on capital,12  Mar-16*,15.0,CCOFF
+77,Exports to sales,12  Mar-16*,29.9,CCOFF
+78,Imports to sales,12  Mar-16*,10.8,CCOFF
+79,Exports (fob),12  Mar-16*,4644.0,CCOFF
+80,Imports (cif),12  Mar-16*,1678.0,CCOFF
+81,Fx inflow,12  Mar-16*,4856.0,CCOFF
+82,Fx outflow,12  Mar-16*,1703.0,CCOFF
+83,Net fx,12  Mar-16*,3153.0,CCOFF
+84,From Operations,12  Mar-16*,2357.0,CCOFF
+85,From Investments,12  Mar-16*,-821.0,CCOFF
+86,From Financial Activity,12  Mar-16*,-1444.0,CCOFF
+87,Net Cashflow,12  Mar-16*,115.0,CCOFF
+88,Net Sales,12  Mar-17*,16060.0,CCOFF
+89,Other income,12  Mar-17*,228.0,CCOFF
+90,Total revenues,12  Mar-17*,16288.0,CCOFF
+91,Gross profit,12  Mar-17*,3909.0,CCOFF
+92,Depreciation,12  Mar-17*,565.0,CCOFF
+93,Interest,12  Mar-17*,370.0,CCOFF
+94,Profit before tax,12  Mar-17*,3202.0,CCOFF
+95,Minority Interest,12  Mar-17*,0.0,CCOFF
+96,Prior Period Items,12  Mar-17*,0.0,CCOFF
+97,Extraordinary Inc (Exp),12  Mar-17*,-23.0,CCOFF
+98,Tax,12  Mar-17*,1083.0,CCOFF
+99,Profit after tax,12  Mar-17*,2096.0,CCOFF
+100,Gross profit margin,12  Mar-17*,24.3,CCOFF
+101,Effective tax rate,12  Mar-17*,33.8,CCOFF
+102,Net profit margin,12  Mar-17*,13.0,CCOFF
+103,Current assets,12  Mar-17*,7617.0,CCOFF
+104,Current liabilities,12  Mar-17*,4171.0,CCOFF
+105,Net working cap to sales,12  Mar-17*,21.5,CCOFF
+106,Current ratio,12  Mar-17*,1.8,CCOFF
+107,Inventory Days,12  Mar-17*,70.0,CCOFF
+108,Debtors Days,12  Mar-17*,36.0,CCOFF
+109,Net fixed assets,12  Mar-17*,18362.0,CCOFF
+110,Share capital,12  Mar-17*,187.0,CCOFF
+111,"""Free"" reserves",12  Mar-17*,10384.0,CCOFF
+112,Net worth,12  Mar-17*,10571.0,CCOFF
+113,Long term debt,12  Mar-17*,6349.0,CCOFF
+114,Total assets,12  Mar-17*,26422.0,CCOFF
+115,Interest coverage,12  Mar-17*,9.7,CCOFF
+116,Debt to equity ratio,12  Mar-17*,0.6,CCOFF
+117,Sales to assets ratio,12  Mar-17*,0.6,CCOFF
+118,Return on assets,12  Mar-17*,9.3,CCOFF
+119,Return on equity,12  Mar-17*,19.8,CCOFF
+120,Return on capital,12  Mar-17*,21.0,CCOFF
+121,Exports to sales,12  Mar-17*,0.0,CCOFF
+122,Imports to sales,12  Mar-17*,0.0,CCOFF
+123,Exports (fob),12  Mar-17*,0.0,CCOFF
+124,Imports (cif),12  Mar-17*,0.0,CCOFF
+125,Fx inflow,12  Mar-17*,5591.0,CCOFF
+126,Fx outflow,12  Mar-17*,1883.0,CCOFF
+127,Net fx,12  Mar-17*,3708.0,CCOFF
+128,From Operations,12  Mar-17*,3273.0,CCOFF
+129,From Investments,12  Mar-17*,-1267.0,CCOFF
+130,From Financial Activity,12  Mar-17*,-2101.0,CCOFF
+131,Net Cashflow,12  Mar-17*,-102.0,CCOFF
+132,Net Sales,12  Mar-18*,15673.0,CCOFF
+133,Other income,12  Mar-18*,220.0,CCOFF
+134,Total revenues,12  Mar-18*,15894.0,CCOFF
+135,Gross profit,12  Mar-18*,2642.0,CCOFF
+136,Depreciation,12  Mar-18*,549.0,CCOFF
+137,Interest,12  Mar-18*,346.0,CCOFF
+138,Profit before tax,12  Mar-18*,1968.0,CCOFF
+139,Minority Interest,12  Mar-18*,0.0,CCOFF
+140,Prior Period Items,12  Mar-18*,0.0,CCOFF
+141,Extraordinary Inc (Exp),12  Mar-18*,-108.0,CCOFF
+142,Tax,12  Mar-18*,-11.0,CCOFF
+143,Profit after tax,12  Mar-18*,1870.0,CCOFF
+144,Gross profit margin,12  Mar-18*,16.9,CCOFF
+145,Effective tax rate,12  Mar-18*,-0.5,CCOFF
+146,Net profit margin,12  Mar-18*,11.9,CCOFF
+147,Current assets,12  Mar-18*,7651.0,CCOFF
+148,Current liabilities,12  Mar-18*,4316.0,CCOFF
+149,Net working cap to sales,12  Mar-18*,21.3,CCOFF
+150,Current ratio,12  Mar-18*,1.8,CCOFF
+151,Inventory Days,12  Mar-18*,75.0,CCOFF
+152,Debtors Days,12  Mar-18*,45.0,CCOFF
+153,Net fixed assets,12  Mar-18*,19125.0,CCOFF
+154,Share capital,12  Mar-18*,187.0,CCOFF
+155,"""Free"" reserves",12  Mar-18*,11038.0,CCOFF
+156,Net worth,12  Mar-18*,11224.0,CCOFF
+157,Long term debt,12  Mar-18*,8515.0,CCOFF
+158,Total assets,12  Mar-18*,29100.0,CCOFF
+159,Interest coverage,12  Mar-18*,6.7,CCOFF
+160,Debt to equity ratio,12  Mar-18*,0.8,CCOFF
+161,Sales to assets ratio,12  Mar-18*,0.5,CCOFF
+162,Return on assets,12  Mar-18*,7.6,CCOFF
+163,Return on equity,12  Mar-18*,16.7,CCOFF
+164,Return on capital,12  Mar-18*,11.2,CCOFF
+165,Exports to sales,12  Mar-18*,0.0,CCOFF
+166,Imports to sales,12  Mar-18*,0.0,CCOFF
+167,Exports (fob),12  Mar-18*,0.0,CCOFF
+168,Imports (cif),12  Mar-18*,0.0,CCOFF
+169,Fx inflow,12  Mar-18*,4258.0,CCOFF
+170,Fx outflow,12  Mar-18*,1629.0,CCOFF
+171,Net fx,12  Mar-18*,2629.0,CCOFF
+172,From Operations,12  Mar-18*,1243.0,CCOFF
+173,From Investments,12  Mar-18*,-1878.0,CCOFF
+174,From Financial Activity,12  Mar-18*,1020.0,CCOFF
+175,Net Cashflow,12  Mar-18*,384.0,CCOFF
+176,Net Sales,12  Mar-19*,18040.0,CCOFF
+177,Other income,12  Mar-19*,184.0,CCOFF
+178,Total revenues,12  Mar-19*,18224.0,CCOFF
+179,Gross profit,12  Mar-19*,2432.0,CCOFF
+180,Depreciation,12  Mar-19*,570.0,CCOFF
+181,Interest,12  Mar-19*,458.0,CCOFF
+182,Profit before tax,12  Mar-19*,1588.0,CCOFF
+183,Minority Interest,12  Mar-19*,0.0,CCOFF
+184,Prior Period Items,12  Mar-19*,0.0,CCOFF
+185,Extraordinary Inc (Exp),12  Mar-19*,113.0,CCOFF
+186,Tax,12  Mar-19*,632.0,CCOFF
+187,Profit after tax,12  Mar-19*,1069.0,CCOFF
+188,Gross profit margin,12  Mar-19*,13.5,CCOFF
+189,Effective tax rate,12  Mar-19*,39.8,CCOFF
+190,Net profit margin,12  Mar-19*,5.9,CCOFF
+191,Current assets,12  Mar-19*,7935.0,CCOFF
+192,Current liabilities,12  Mar-19*,4814.0,CCOFF
+193,Net working cap to sales,12  Mar-19*,17.3,CCOFF
+194,Current ratio,12  Mar-19*,1.6,CCOFF
+195,Inventory Days,12  Mar-19*,75.0,CCOFF
+196,Debtors Days,12  Mar-19*,35.0,CCOFF
+197,Net fixed assets,12  Mar-19*,23063.0,CCOFF
+198,Share capital,12  Mar-19*,187.0,CCOFF
+199,"""Free"" reserves",12  Mar-19*,11616.0,CCOFF
+200,Net worth,12  Mar-19*,11803.0,CCOFF
+201,Long term debt,12  Mar-19*,9965.0,CCOFF
+202,Total assets,12  Mar-19*,31887.0,CCOFF
+203,Interest coverage,12  Mar-19*,4.5,CCOFF
+204,Debt to equity ratio,12  Mar-19*,0.8,CCOFF
+205,Sales to assets ratio,12  Mar-19*,0.6,CCOFF
+206,Return on assets,12  Mar-19*,4.8,CCOFF
+207,Return on equity,12  Mar-19*,9.1,CCOFF
+208,Return on capital,12  Mar-19*,9.9,CCOFF
+209,Exports to sales,12  Mar-19*,0.0,CCOFF
+210,Imports to sales,12  Mar-19*,0.0,CCOFF
+211,Exports (fob),12  Mar-19*,0.0,CCOFF
+212,Imports (cif),12  Mar-19*,0.0,CCOFF
+213,Fx inflow,12  Mar-19*,4343.0,CCOFF
+214,Fx outflow,12  Mar-19*,1555.0,CCOFF
+215,Net fx,12  Mar-19*,2788.0,CCOFF
+216,From Operations,12  Mar-19*,1449.0,CCOFF
+217,From Investments,12  Mar-19*,-1703.0,CCOFF
+218,From Financial Activity,12  Mar-19*,-92.0,CCOFF
+219,Net Cashflow,12  Mar-19*,-326.0,CCOFF

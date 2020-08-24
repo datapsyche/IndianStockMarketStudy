@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,32583.0,BALW
+1,Other income,12  Mar-15*,646.0,BALW
+2,Total revenues,12  Mar-15*,33228.0,BALW
+3,Gross profit,12  Mar-15*,2225.0,BALW
+4,Depreciation,12  Mar-15*,462.0,BALW
+5,Interest,12  Mar-15*,227.0,BALW
+6,Profit before tax,12  Mar-15*,2181.0,BALW
+7,Minority Interest,12  Mar-15*,0.0,BALW
+8,Prior Period Items,12  Mar-15*,0.0,BALW
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BALW
+10,Tax,12  Mar-15*,660.0,BALW
+11,Profit after tax,12  Mar-15*,1521.0,BALW
+12,Gross profit margin,12  Mar-15*,6.8,BALW
+13,Effective tax rate,12  Mar-15*,30.3,BALW
+14,Net profit margin,12  Mar-15*,4.7,BALW
+15,Current assets,12  Mar-15*,9858.0,BALW
+16,Current liabilities,12  Mar-15*,4234.0,BALW
+17,Net working cap to sales,12  Mar-15*,17.3,BALW
+18,Current ratio,12  Mar-15*,2.3,BALW
+19,Inventory Days,12  Mar-15*,15.0,BALW
+20,Debtors Days,12  Mar-15*,24.0,BALW
+21,Net fixed assets,12  Mar-15*,3793.0,BALW
+22,Share capital,12  Mar-15*,285.0,BALW
+23,"""Free"" reserves",12  Mar-15*,10878.0,BALW
+24,Net worth,12  Mar-15*,11163.0,BALW
+25,Long term debt,12  Mar-15*,0.0,BALW
+26,Total assets,12  Mar-15*,16336.0,BALW
+27,Interest coverage,12  Mar-15*,10.6,BALW
+28,Debt to equity ratio,12  Mar-15*,0.0,BALW
+29,Sales to assets ratio,12  Mar-15*,2.0,BALW
+30,Return on assets,12  Mar-15*,10.7,BALW
+31,Return on equity,12  Mar-15*,13.6,BALW
+32,Return on capital,12  Mar-15*,21.6,BALW
+33,Exports to sales,12  Mar-15*,0.4,BALW
+34,Imports to sales,12  Mar-15*,2.6,BALW
+35,Exports (fob),12  Mar-15*,135.0,BALW
+36,Imports (cif),12  Mar-15*,850.0,BALW
+37,Fx inflow,12  Mar-15*,1257.0,BALW
+38,Fx outflow,12  Mar-15*,2633.0,BALW
+39,Net fx,12  Mar-15*,-1375.0,BALW
+40,From Operations,12  Mar-15*,2010.0,BALW
+41,From Investments,12  Mar-15*,-423.0,BALW
+42,From Financial Activity,12  Mar-15*,-1429.0,BALW
+43,Net Cashflow,12  Mar-15*,157.0,BALW
+44,Net Sales,12  Mar-16*,15946.0,BALW
+45,Other income,12  Mar-16*,630.0,BALW
+46,Total revenues,12  Mar-16*,16576.0,BALW
+47,Gross profit,12  Mar-16*,2055.0,BALW
+48,Depreciation,12  Mar-16*,240.0,BALW
+49,Interest,12  Mar-16*,46.0,BALW
+50,Profit before tax,12  Mar-16*,2399.0,BALW
+51,Minority Interest,12  Mar-16*,0.0,BALW
+52,Prior Period Items,12  Mar-16*,0.0,BALW
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BALW
+54,Tax,12  Mar-16*,759.0,BALW
+55,Profit after tax,12  Mar-16*,1640.0,BALW
+56,Gross profit margin,12  Mar-16*,12.9,BALW
+57,Effective tax rate,12  Mar-16*,31.6,BALW
+58,Net profit margin,12  Mar-16*,10.3,BALW
+59,Current assets,12  Mar-16*,11010.0,BALW
+60,Current liabilities,12  Mar-16*,4630.0,BALW
+61,Net working cap to sales,12  Mar-16*,40.0,BALW
+62,Current ratio,12  Mar-16*,2.4,BALW
+63,Inventory Days,12  Mar-16*,27.0,BALW
+64,Debtors Days,12  Mar-16*,53.0,BALW
+65,Net fixed assets,12  Mar-16*,4054.0,BALW
+66,Share capital,12  Mar-16*,285.0,BALW
+67,"""Free"" reserves",12  Mar-16*,12102.0,BALW
+68,Net worth,12  Mar-16*,12387.0,BALW
+69,Long term debt,12  Mar-16*,0.0,BALW
+70,Total assets,12  Mar-16*,17982.0,BALW
+71,Interest coverage,12  Mar-16*,53.7,BALW
+72,Debt to equity ratio,12  Mar-16*,0.0,BALW
+73,Sales to assets ratio,12  Mar-16*,0.9,BALW
+74,Return on assets,12  Mar-16*,9.4,BALW
+75,Return on equity,12  Mar-16*,13.2,BALW
+76,Return on capital,12  Mar-16*,19.7,BALW
+77,Exports to sales,12  Mar-16*,0.0,BALW
+78,Imports to sales,12  Mar-16*,0.0,BALW
+79,Exports (fob),12  Mar-16*,0.0,BALW
+80,Imports (cif),12  Mar-16*,0.0,BALW
+81,Fx inflow,12  Mar-16*,1046.0,BALW
+82,Fx outflow,12  Mar-16*,1726.0,BALW
+83,Net fx,12  Mar-16*,-680.0,BALW
+84,From Operations,12  Mar-16*,1503.0,BALW
+85,From Investments,12  Mar-16*,-708.0,BALW
+86,From Financial Activity,12  Mar-16*,-664.0,BALW
+87,Net Cashflow,12  Mar-16*,132.0,BALW
+88,Net Sales,12  Mar-17*,17064.0,BALW
+89,Other income,12  Mar-17*,556.0,BALW
+90,Total revenues,12  Mar-17*,17620.0,BALW
+91,Gross profit,12  Mar-17*,2108.0,BALW
+92,Depreciation,12  Mar-17*,259.0,BALW
+93,Interest,12  Mar-17*,45.0,BALW
+94,Profit before tax,12  Mar-17*,2360.0,BALW
+95,Minority Interest,12  Mar-17*,0.0,BALW
+96,Prior Period Items,12  Mar-17*,0.0,BALW
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BALW
+98,Tax,12  Mar-17*,812.0,BALW
+99,Profit after tax,12  Mar-17*,1548.0,BALW
+100,Gross profit margin,12  Mar-17*,12.4,BALW
+101,Effective tax rate,12  Mar-17*,34.4,BALW
+102,Net profit margin,12  Mar-17*,9.1,BALW
+103,Current assets,12  Mar-17*,12522.0,BALW
+104,Current liabilities,12  Mar-17*,5805.0,BALW
+105,Net working cap to sales,12  Mar-17*,39.4,BALW
+106,Current ratio,12  Mar-17*,2.2,BALW
+107,Inventory Days,12  Mar-17*,32.0,BALW
+108,Debtors Days,12  Mar-17*,60.0,BALW
+109,Net fixed assets,12  Mar-17*,4594.0,BALW
+110,Share capital,12  Mar-17*,1140.0,BALW
+111,"""Free"" reserves",12  Mar-17*,12448.0,BALW
+112,Net worth,12  Mar-17*,13589.0,BALW
+113,Long term debt,12  Mar-17*,0.0,BALW
+114,Total assets,12  Mar-17*,20299.0,BALW
+115,Interest coverage,12  Mar-17*,53.0,BALW
+116,Debt to equity ratio,12  Mar-17*,0.0,BALW
+117,Sales to assets ratio,12  Mar-17*,0.8,BALW
+118,Return on assets,12  Mar-17*,7.9,BALW
+119,Return on equity,12  Mar-17*,11.4,BALW
+120,Return on capital,12  Mar-17*,17.7,BALW
+121,Exports to sales,12  Mar-17*,0.7,BALW
+122,Imports to sales,12  Mar-17*,0.9,BALW
+123,Exports (fob),12  Mar-17*,112.0,BALW
+124,Imports (cif),12  Mar-17*,157.0,BALW
+125,Fx inflow,12  Mar-17*,961.0,BALW
+126,Fx outflow,12  Mar-17*,1735.0,BALW
+127,Net fx,12  Mar-17*,-773.0,BALW
+128,From Operations,12  Mar-17*,1815.0,BALW
+129,From Investments,12  Mar-17*,-1175.0,BALW
+130,From Financial Activity,12  Mar-17*,-732.0,BALW
+131,Net Cashflow,12  Mar-17*,-93.0,BALW
+132,Net Sales,12  Mar-18*,17246.0,BALW
+133,Other income,12  Mar-18*,506.0,BALW
+134,Total revenues,12  Mar-18*,17752.0,BALW
+135,Gross profit,12  Mar-18*,2188.0,BALW
+136,Depreciation,12  Mar-18*,269.0,BALW
+137,Interest,12  Mar-18*,42.0,BALW
+138,Profit before tax,12  Mar-18*,2383.0,BALW
+139,Minority Interest,12  Mar-18*,0.0,BALW
+140,Prior Period Items,12  Mar-18*,0.0,BALW
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BALW
+142,Tax,12  Mar-18*,735.0,BALW
+143,Profit after tax,12  Mar-18*,1648.0,BALW
+144,Gross profit margin,12  Mar-18*,12.7,BALW
+145,Effective tax rate,12  Mar-18*,30.8,BALW
+146,Net profit margin,12  Mar-18*,9.6,BALW
+147,Current assets,12  Mar-18*,12584.0,BALW
+148,Current liabilities,12  Mar-18*,5685.0,BALW
+149,Net working cap to sales,12  Mar-18*,40.0,BALW
+150,Current ratio,12  Mar-18*,2.2,BALW
+151,Inventory Days,12  Mar-18*,29.0,BALW
+152,Debtors Days,12  Mar-18*,57.0,BALW
+153,Net fixed assets,12  Mar-18*,5418.0,BALW
+154,Share capital,12  Mar-18*,1140.0,BALW
+155,"""Free"" reserves",12  Mar-18*,13429.0,BALW
+156,Net worth,12  Mar-18*,14569.0,BALW
+157,Long term debt,12  Mar-18*,112.0,BALW
+158,Total assets,12  Mar-18*,21909.0,BALW
+159,Interest coverage,12  Mar-18*,57.3,BALW
+160,Debt to equity ratio,12  Mar-18*,0.0,BALW
+161,Sales to assets ratio,12  Mar-18*,0.8,BALW
+162,Return on assets,12  Mar-18*,7.7,BALW
+163,Return on equity,12  Mar-18*,11.3,BALW
+164,Return on capital,12  Mar-18*,16.5,BALW
+165,Exports to sales,12  Mar-18*,1.1,BALW
+166,Imports to sales,12  Mar-18*,1.2,BALW
+167,Exports (fob),12  Mar-18*,193.0,BALW
+168,Imports (cif),12  Mar-18*,199.0,BALW
+169,Fx inflow,12  Mar-18*,1008.0,BALW
+170,Fx outflow,12  Mar-18*,1723.0,BALW
+171,Net fx,12  Mar-18*,-715.0,BALW
+172,From Operations,12  Mar-18*,1287.0,BALW
+173,From Investments,12  Mar-18*,-193.0,BALW
+174,From Financial Activity,12  Mar-18*,-858.0,BALW
+175,Net Cashflow,12  Mar-18*,237.0,BALW
+176,Net Sales,12  Mar-19*,17752.0,BALW
+177,Other income,12  Mar-19*,578.0,BALW
+178,Total revenues,12  Mar-19*,18330.0,BALW
+179,Gross profit,12  Mar-19*,2262.0,BALW
+180,Depreciation,12  Mar-19*,303.0,BALW
+181,Interest,12  Mar-19*,71.0,BALW
+182,Profit before tax,12  Mar-19*,2466.0,BALW
+183,Minority Interest,12  Mar-19*,0.0,BALW
+184,Prior Period Items,12  Mar-19*,0.0,BALW
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BALW
+186,Tax,12  Mar-19*,855.0,BALW
+187,Profit after tax,12  Mar-19*,1611.0,BALW
+188,Gross profit margin,12  Mar-19*,12.7,BALW
+189,Effective tax rate,12  Mar-19*,34.7,BALW
+190,Net profit margin,12  Mar-19*,9.1,BALW
+191,Current assets,12  Mar-19*,11750.0,BALW
+192,Current liabilities,12  Mar-19*,5164.0,BALW
+193,Net working cap to sales,12  Mar-19*,37.1,BALW
+194,Current ratio,12  Mar-19*,2.3,BALW
+195,Inventory Days,12  Mar-19*,29.0,BALW
+196,Debtors Days,12  Mar-19*,57.0,BALW
+197,Net fixed assets,12  Mar-19*,6854.0,BALW
+198,Share capital,12  Mar-19*,1140.0,BALW
+199,"""Free"" reserves",12  Mar-19*,14055.0,BALW
+200,Net worth,12  Mar-19*,15195.0,BALW
+201,Long term debt,12  Mar-19*,761.0,BALW
+202,Total assets,12  Mar-19*,22805.0,BALW
+203,Interest coverage,12  Mar-19*,35.6,BALW
+204,Debt to equity ratio,12  Mar-19*,0.1,BALW
+205,Sales to assets ratio,12  Mar-19*,0.8,BALW
+206,Return on assets,12  Mar-19*,7.4,BALW
+207,Return on equity,12  Mar-19*,10.6,BALW
+208,Return on capital,12  Mar-19*,15.9,BALW
+209,Exports to sales,12  Mar-19*,1.0,BALW
+210,Imports to sales,12  Mar-19*,1.8,BALW
+211,Exports (fob),12  Mar-19*,183.0,BALW
+212,Imports (cif),12  Mar-19*,318.0,BALW
+213,Fx inflow,12  Mar-19*,751.0,BALW
+214,Fx outflow,12  Mar-19*,1390.0,BALW
+215,Net fx,12  Mar-19*,-638.0,BALW
+216,From Operations,12  Mar-19*,1941.0,BALW
+217,From Investments,12  Mar-19*,-1369.0,BALW
+218,From Financial Activity,12  Mar-19*,-797.0,BALW
+219,Net Cashflow,12  Mar-19*,-226.0,BALW

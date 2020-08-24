@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,48304.0,WOCK
+1,Other income,12  Mar-14*,384.0,WOCK
+2,Total revenues,12  Mar-14*,48688.0,WOCK
+3,Gross profit,12  Mar-14*,10257.0,WOCK
+4,Depreciation,12  Mar-14*,1399.0,WOCK
+5,Interest,12  Mar-14*,834.0,WOCK
+6,Profit before tax,12  Mar-14*,8408.0,WOCK
+7,Minority Interest,12  Mar-14*,-21.0,WOCK
+8,Prior Period Items,12  Mar-14*,0.0,WOCK
+9,Extraordinary Inc (Exp),12  Mar-14*,498.0,WOCK
+10,Tax,12  Mar-14*,479.0,WOCK
+11,Profit after tax,12  Mar-14*,8407.0,WOCK
+12,Gross profit margin,12  Mar-14*,21.2,WOCK
+13,Effective tax rate,12  Mar-14*,5.7,WOCK
+14,Net profit margin,12  Mar-14*,17.4,WOCK
+15,Current assets,12  Mar-14*,33559.0,WOCK
+16,Current liabilities,12  Mar-14*,17432.0,WOCK
+17,Net working cap to sales,12  Mar-14*,33.4,WOCK
+18,Current ratio,12  Mar-14*,1.9,WOCK
+19,Inventory Days,12  Mar-14*,75.0,WOCK
+20,Debtors Days,12  Mar-14*,36.0,WOCK
+21,Net fixed assets,12  Mar-14*,30022.0,WOCK
+22,Share capital,12  Mar-14*,549.0,WOCK
+23,"""Free"" reserves",12  Mar-14*,28219.0,WOCK
+24,Net worth,12  Mar-14*,32829.0,WOCK
+25,Long term debt,12  Mar-14*,11023.0,WOCK
+26,Total assets,12  Mar-14*,66220.0,WOCK
+27,Interest coverage,12  Mar-14*,11.1,WOCK
+28,Debt to equity ratio,12  Mar-14*,0.3,WOCK
+29,Sales to assets ratio,12  Mar-14*,0.7,WOCK
+30,Return on assets,12  Mar-14*,14.0,WOCK
+31,Return on equity,12  Mar-14*,25.6,WOCK
+32,Return on capital,12  Mar-14*,22.2,WOCK
+33,Exports to sales,12  Mar-14*,12.8,WOCK
+34,Imports to sales,12  Mar-14*,7.8,WOCK
+35,Exports (fob),12  Mar-14*,6180.0,WOCK
+36,Imports (cif),12  Mar-14*,3760.0,WOCK
+37,Fx inflow,12  Mar-14*,11026.0,WOCK
+38,Fx outflow,12  Mar-14*,4361.0,WOCK
+39,Net fx,12  Mar-14*,6665.0,WOCK
+40,From Operations,12  Mar-14*,14763.0,WOCK
+41,From Investments,12  Mar-14*,-8516.0,WOCK
+42,From Financial Activity,12  Mar-14*,-6013.0,WOCK
+43,Net Cashflow,12  Mar-14*,234.0,WOCK
+44,Net Sales,12  Mar-15*,44815.0,WOCK
+45,Other income,12  Mar-15*,666.0,WOCK
+46,Total revenues,12  Mar-15*,45481.0,WOCK
+47,Gross profit,12  Mar-15*,7094.0,WOCK
+48,Depreciation,12  Mar-15*,1454.0,WOCK
+49,Interest,12  Mar-15*,552.0,WOCK
+50,Profit before tax,12  Mar-15*,5753.0,WOCK
+51,Minority Interest,12  Mar-15*,-78.0,WOCK
+52,Prior Period Items,12  Mar-15*,0.0,WOCK
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,WOCK
+54,Tax,12  Mar-15*,1627.0,WOCK
+55,Profit after tax,12  Mar-15*,4049.0,WOCK
+56,Gross profit margin,12  Mar-15*,15.8,WOCK
+57,Effective tax rate,12  Mar-15*,28.3,WOCK
+58,Net profit margin,12  Mar-15*,9.0,WOCK
+59,Current assets,12  Mar-15*,34637.0,WOCK
+60,Current liabilities,12  Mar-15*,17752.0,WOCK
+61,Net working cap to sales,12  Mar-15*,37.7,WOCK
+62,Current ratio,12  Mar-15*,2.0,WOCK
+63,Inventory Days,12  Mar-15*,83.0,WOCK
+64,Debtors Days,12  Mar-15*,53.0,WOCK
+65,Net fixed assets,12  Mar-15*,33909.0,WOCK
+66,Share capital,12  Mar-15*,550.0,WOCK
+67,"""Free"" reserves",12  Mar-15*,36332.0,WOCK
+68,Net worth,12  Mar-15*,36883.0,WOCK
+69,Long term debt,12  Mar-15*,14270.0,WOCK
+70,Total assets,12  Mar-15*,71715.0,WOCK
+71,Interest coverage,12  Mar-15*,11.4,WOCK
+72,Debt to equity ratio,12  Mar-15*,0.4,WOCK
+73,Sales to assets ratio,12  Mar-15*,0.6,WOCK
+74,Return on assets,12  Mar-15*,6.4,WOCK
+75,Return on equity,12  Mar-15*,11.0,WOCK
+76,Return on capital,12  Mar-15*,12.2,WOCK
+77,Exports to sales,12  Mar-15*,10.0,WOCK
+78,Imports to sales,12  Mar-15*,6.2,WOCK
+79,Exports (fob),12  Mar-15*,4471.0,WOCK
+80,Imports (cif),12  Mar-15*,2773.0,WOCK
+81,Fx inflow,12  Mar-15*,10740.0,WOCK
+82,Fx outflow,12  Mar-15*,3356.0,WOCK
+83,Net fx,12  Mar-15*,7383.0,WOCK
+84,From Operations,12  Mar-15*,3550.0,WOCK
+85,From Investments,12  Mar-15*,-2066.0,WOCK
+86,From Financial Activity,12  Mar-15*,-757.0,WOCK
+87,Net Cashflow,12  Mar-15*,727.0,WOCK
+88,Net Sales,12  Mar-16*,44530.0,WOCK
+89,Other income,12  Mar-16*,661.0,WOCK
+90,Total revenues,12  Mar-16*,45191.0,WOCK
+91,Gross profit,12  Mar-16*,4942.0,WOCK
+92,Depreciation,12  Mar-16*,1419.0,WOCK
+93,Interest,12  Mar-16*,1290.0,WOCK
+94,Profit before tax,12  Mar-16*,2895.0,WOCK
+95,Minority Interest,12  Mar-16*,6.0,WOCK
+96,Prior Period Items,12  Mar-16*,0.0,WOCK
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,WOCK
+98,Tax,12  Mar-16*,379.0,WOCK
+99,Profit after tax,12  Mar-16*,2522.0,WOCK
+100,Gross profit margin,12  Mar-16*,11.1,WOCK
+101,Effective tax rate,12  Mar-16*,13.1,WOCK
+102,Net profit margin,12  Mar-16*,5.7,WOCK
+103,Current assets,12  Mar-16*,39519.0,WOCK
+104,Current liabilities,12  Mar-16*,18419.0,WOCK
+105,Net working cap to sales,12  Mar-16*,47.4,WOCK
+106,Current ratio,12  Mar-16*,2.1,WOCK
+107,Inventory Days,12  Mar-16*,90.0,WOCK
+108,Debtors Days,12  Mar-16*,91.0,WOCK
+109,Net fixed assets,12  Mar-16*,37369.0,WOCK
+110,Share capital,12  Mar-16*,553.0,WOCK
+111,"""Free"" reserves",12  Mar-16*,37199.0,WOCK
+112,Net worth,12  Mar-16*,37751.0,WOCK
+113,Long term debt,12  Mar-16*,19206.0,WOCK
+114,Total assets,12  Mar-16*,81209.0,WOCK
+115,Interest coverage,12  Mar-16*,3.2,WOCK
+116,Debt to equity ratio,12  Mar-16*,0.5,WOCK
+117,Sales to assets ratio,12  Mar-16*,0.5,WOCK
+118,Return on assets,12  Mar-16*,4.7,WOCK
+119,Return on equity,12  Mar-16*,6.7,WOCK
+120,Return on capital,12  Mar-16*,7.4,WOCK
+121,Exports to sales,12  Mar-16*,11.6,WOCK
+122,Imports to sales,12  Mar-16*,4.5,WOCK
+123,Exports (fob),12  Mar-16*,5177.0,WOCK
+124,Imports (cif),12  Mar-16*,1990.0,WOCK
+125,Fx inflow,12  Mar-16*,7589.0,WOCK
+126,Fx outflow,12  Mar-16*,2878.0,WOCK
+127,Net fx,12  Mar-16*,4711.0,WOCK
+128,From Operations,12  Mar-16*,716.0,WOCK
+129,From Investments,12  Mar-16*,-8182.0,WOCK
+130,From Financial Activity,12  Mar-16*,2543.0,WOCK
+131,Net Cashflow,12  Mar-16*,-4941.0,WOCK
+132,Net Sales,12  Mar-17*,40146.0,WOCK
+133,Other income,12  Mar-17*,1143.0,WOCK
+134,Total revenues,12  Mar-17*,41289.0,WOCK
+135,Gross profit,12  Mar-17*,128.0,WOCK
+136,Depreciation,12  Mar-17*,1489.0,WOCK
+137,Interest,12  Mar-17*,2253.0,WOCK
+138,Profit before tax,12  Mar-17*,-2472.0,WOCK
+139,Minority Interest,12  Mar-17*,0.0,WOCK
+140,Prior Period Items,12  Mar-17*,0.0,WOCK
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,WOCK
+142,Tax,12  Mar-17*,-211.0,WOCK
+143,Profit after tax,12  Mar-17*,-2260.0,WOCK
+144,Gross profit margin,12  Mar-17*,0.3,WOCK
+145,Effective tax rate,12  Mar-17*,8.5,WOCK
+146,Net profit margin,12  Mar-17*,-5.6,WOCK
+147,Current assets,12  Mar-17*,45353.0,WOCK
+148,Current liabilities,12  Mar-17*,19788.0,WOCK
+149,Net working cap to sales,12  Mar-17*,63.7,WOCK
+150,Current ratio,12  Mar-17*,2.3,WOCK
+151,Inventory Days,12  Mar-17*,101.0,WOCK
+152,Debtors Days,12  Mar-17*,94.0,WOCK
+153,Net fixed assets,12  Mar-17*,40165.0,WOCK
+154,Share capital,12  Mar-17*,553.0,WOCK
+155,"""Free"" reserves",12  Mar-17*,32814.0,WOCK
+156,Net worth,12  Mar-17*,33367.0,WOCK
+157,Long term debt,12  Mar-17*,31903.0,WOCK
+158,Total assets,12  Mar-17*,90217.0,WOCK
+159,Interest coverage,12  Mar-17*,-0.1,WOCK
+160,Debt to equity ratio,12  Mar-17*,1.0,WOCK
+161,Sales to assets ratio,12  Mar-17*,0.4,WOCK
+162,Return on assets,12  Mar-17*,0.0,WOCK
+163,Return on equity,12  Mar-17*,-6.8,WOCK
+164,Return on capital,12  Mar-17*,-0.3,WOCK
+165,Exports to sales,12  Mar-17*,0.0,WOCK
+166,Imports to sales,12  Mar-17*,0.0,WOCK
+167,Exports (fob),12  Mar-17*,0.0,WOCK
+168,Imports (cif),12  Mar-17*,0.0,WOCK
+169,Fx inflow,12  Mar-17*,9121.0,WOCK
+170,Fx outflow,12  Mar-17*,2133.0,WOCK
+171,Net fx,12  Mar-17*,6988.0,WOCK
+172,From Operations,12  Mar-17*,-2695.0,WOCK
+173,From Investments,12  Mar-17*,-6866.0,WOCK
+174,From Financial Activity,12  Mar-17*,12545.0,WOCK
+175,Net Cashflow,12  Mar-17*,3007.0,WOCK
+176,Net Sales,12  Mar-18*,39369.0,WOCK
+177,Other income,12  Mar-18*,1202.0,WOCK
+178,Total revenues,12  Mar-18*,40571.0,WOCK
+179,Gross profit,12  Mar-18*,18.0,WOCK
+180,Depreciation,12  Mar-18*,1495.0,WOCK
+181,Interest,12  Mar-18*,2555.0,WOCK
+182,Profit before tax,12  Mar-18*,-2830.0,WOCK
+183,Minority Interest,12  Mar-18*,0.0,WOCK
+184,Prior Period Items,12  Mar-18*,0.0,WOCK
+185,Extraordinary Inc (Exp),12  Mar-18*,-3582.0,WOCK
+186,Tax,12  Mar-18*,257.0,WOCK
+187,Profit after tax,12  Mar-18*,-6669.0,WOCK
+188,Gross profit margin,12  Mar-18*,0.0,WOCK
+189,Effective tax rate,12  Mar-18*,-9.1,WOCK
+190,Net profit margin,12  Mar-18*,-16.9,WOCK
+191,Current assets,12  Mar-18*,33796.0,WOCK
+192,Current liabilities,12  Mar-18*,26917.0,WOCK
+193,Net working cap to sales,12  Mar-18*,17.5,WOCK
+194,Current ratio,12  Mar-18*,1.3,WOCK
+195,Inventory Days,12  Mar-18*,79.0,WOCK
+196,Debtors Days,12  Mar-18*,89.0,WOCK
+197,Net fixed assets,12  Mar-18*,39664.0,WOCK
+198,Share capital,12  Mar-18*,553.0,WOCK
+199,"""Free"" reserves",12  Mar-18*,27968.0,WOCK
+200,Net worth,12  Mar-18*,28522.0,WOCK
+201,Long term debt,12  Mar-18*,21731.0,WOCK
+202,Total assets,12  Mar-18*,81620.0,WOCK
+203,Interest coverage,12  Mar-18*,-0.1,WOCK
+204,Debt to equity ratio,12  Mar-18*,0.8,WOCK
+205,Sales to assets ratio,12  Mar-18*,0.5,WOCK
+206,Return on assets,12  Mar-18*,-5.0,WOCK
+207,Return on equity,12  Mar-18*,-23.4,WOCK
+208,Return on capital,12  Mar-18*,-7.7,WOCK
+209,Exports to sales,12  Mar-18*,0.0,WOCK
+210,Imports to sales,12  Mar-18*,0.0,WOCK
+211,Exports (fob),12  Mar-18*,0.0,WOCK
+212,Imports (cif),12  Mar-18*,0.0,WOCK
+213,Fx inflow,12  Mar-18*,9807.0,WOCK
+214,Fx outflow,12  Mar-18*,1789.0,WOCK
+215,Net fx,12  Mar-18*,8019.0,WOCK
+216,From Operations,12  Mar-18*,684.0,WOCK
+217,From Investments,12  Mar-18*,6302.0,WOCK
+218,From Financial Activity,12  Mar-18*,-7695.0,WOCK
+219,Net Cashflow,12  Mar-18*,-664.0,WOCK

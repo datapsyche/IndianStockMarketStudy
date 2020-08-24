@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-10,845.0,OMDCL
+1,Other income,12  Mar-10,714.0,OMDCL
+2,Total revenues,12  Mar-10,1559.0,OMDCL
+3,Gross profit,12  Mar-10,434.0,OMDCL
+4,Depreciation,12  Mar-10,25.0,OMDCL
+5,Interest,12  Mar-10,0.0,OMDCL
+6,Profit before tax,12  Mar-10,1123.0,OMDCL
+7,Minority Interest,12  Mar-10,0.0,OMDCL
+8,Prior Period Items,12  Mar-10,0.0,OMDCL
+9,Extraordinary Inc (Exp),12  Mar-10,0.0,OMDCL
+10,Tax,12  Mar-10,378.0,OMDCL
+11,Profit after tax,12  Mar-10,745.0,OMDCL
+12,Gross profit margin,12  Mar-10,51.4,OMDCL
+13,Effective tax rate,12  Mar-10,33.7,OMDCL
+14,Net profit margin,12  Mar-10,88.2,OMDCL
+15,Current assets,12  Mar-10,10613,OMDCL
+16,Current liabilities,12  Mar-10,2994,OMDCL
+17,Net working cap to sales,12  Mar-10,901.7,OMDCL
+18,Current ratio,12  Mar-10,3.5,OMDCL
+19,Inventory Days,12  Mar-10,119,OMDCL
+20,Debtors Days,12  Mar-10,8,OMDCL
+21,Net fixed assets,12  Mar-10,225,OMDCL
+22,Share capital,12  Mar-10,6,OMDCL
+23,"""Free"" reserves",12  Mar-10,7917,OMDCL
+24,Net worth,12  Mar-10,7932,OMDCL
+25,Long term debt,12  Mar-10,0,OMDCL
+26,Total assets,12  Mar-10,10919,OMDCL
+27,Interest coverage,12  Mar-10,NM,OMDCL
+28,Debt to equity ratio,12  Mar-10,0,OMDCL
+29,Sales to assets ratio,12  Mar-10,0.1,OMDCL
+30,Return on assets,12  Mar-10,6.8,OMDCL
+31,Return on equity,12  Mar-10,9.4,OMDCL
+32,Return on capital,12  Mar-10,14.2,OMDCL
+33,Exports to sales,12  Mar-10,0,OMDCL
+34,Imports to sales,12  Mar-10,0,OMDCL
+35,Exports (fob),12  Mar-10,0,OMDCL
+36,Imports (cif),12  Mar-10,0,OMDCL
+37,Fx inflow,12  Mar-10,0,OMDCL
+38,Fx outflow,12  Mar-10,0,OMDCL
+39,Net fx,12  Mar-10,0,OMDCL
+40,From Operations,12  Mar-10,-58,OMDCL
+41,From Investments,12  Mar-10,767,OMDCL
+42,From Financial Activity,12  Mar-10,-318,OMDCL
+43,Net Cashflow,12  Mar-10,391,OMDCL
+44,Net Sales,12  Mar-11,498.0,OMDCL
+45,Other income,12  Mar-11,494.0,OMDCL
+46,Total revenues,12  Mar-11,992.0,OMDCL
+47,Gross profit,12  Mar-11,-117.0,OMDCL
+48,Depreciation,12  Mar-11,215.0,OMDCL
+49,Interest,12  Mar-11,0.0,OMDCL
+50,Profit before tax,12  Mar-11,162.0,OMDCL
+51,Minority Interest,12  Mar-11,0.0,OMDCL
+52,Prior Period Items,12  Mar-11,-22.0,OMDCL
+53,Extraordinary Inc (Exp),12  Mar-11,-29.0,OMDCL
+54,Tax,12  Mar-11,35.0,OMDCL
+55,Profit after tax,12  Mar-11,77.0,OMDCL
+56,Gross profit margin,12  Mar-11,-23.4,OMDCL
+57,Effective tax rate,12  Mar-11,21.4,OMDCL
+58,Net profit margin,12  Mar-11,15.5,OMDCL
+59,Current assets,12  Mar-11,8326,OMDCL
+60,Current liabilities,12  Mar-11,1261,OMDCL
+61,Net working cap to sales,12  Mar-11,1419.4,OMDCL
+62,Current ratio,12  Mar-11,6.6,OMDCL
+63,Inventory Days,12  Mar-11,204,OMDCL
+64,Debtors Days,12  Mar-11,12,OMDCL
+65,Net fixed assets,12  Mar-11,854,OMDCL
+66,Share capital,12  Mar-11,6,OMDCL
+67,"""Free"" reserves",12  Mar-11,7980,OMDCL
+68,Net worth,12  Mar-11,7995,OMDCL
+69,Long term debt,12  Mar-11,0,OMDCL
+70,Total assets,12  Mar-11,9268,OMDCL
+71,Interest coverage,12  Mar-11,NM,OMDCL
+72,Debt to equity ratio,12  Mar-11,0,OMDCL
+73,Sales to assets ratio,12  Mar-11,0.1,OMDCL
+74,Return on assets,12  Mar-11,0.8,OMDCL
+75,Return on equity,12  Mar-11,1.0,OMDCL
+76,Return on capital,12  Mar-11,1.4,OMDCL
+77,Exports to sales,12  Mar-11,0,OMDCL
+78,Imports to sales,12  Mar-11,0,OMDCL
+79,Exports (fob),12  Mar-11,0,OMDCL
+80,Imports (cif),12  Mar-11,0,OMDCL
+81,Fx inflow,12  Mar-11,0,OMDCL
+82,Fx outflow,12  Mar-11,0,OMDCL
+83,Net fx,12  Mar-11,0,OMDCL
+84,From Operations,12  Mar-11,51,OMDCL
+85,From Investments,12  Mar-11,-458,OMDCL
+86,From Financial Activity,12  Mar-11,-130,OMDCL
+87,Net Cashflow,12  Mar-11,-537,OMDCL
+88,Net Sales,12  Mar-12,15.0,OMDCL
+89,Other income,12  Mar-12,597.0,OMDCL
+90,Total revenues,12  Mar-12,612.0,OMDCL
+91,Gross profit,12  Mar-12,-527.0,OMDCL
+92,Depreciation,12  Mar-12,-14.0,OMDCL
+93,Interest,12  Mar-12,0.0,OMDCL
+94,Profit before tax,12  Mar-12,84.0,OMDCL
+95,Minority Interest,12  Mar-12,0.0,OMDCL
+96,Prior Period Items,12  Mar-12,-1.0,OMDCL
+97,Extraordinary Inc (Exp),12  Mar-12,0.0,OMDCL
+98,Tax,12  Mar-12,48.0,OMDCL
+99,Profit after tax,12  Mar-12,34.0,OMDCL
+100,Gross profit margin,12  Mar-12,-3441.2,OMDCL
+101,Effective tax rate,12  Mar-12,57.8,OMDCL
+102,Net profit margin,12  Mar-12,224.8,OMDCL
+103,Current assets,12  Mar-12,7941,OMDCL
+104,Current liabilities,12  Mar-12,750,OMDCL
+105,Net working cap to sales,12  Mar-12,47001.3,OMDCL
+106,Current ratio,12  Mar-12,10.6,OMDCL
+107,Inventory Days,12  Mar-12,6353,OMDCL
+108,Debtors Days,12  Mar-12,289,OMDCL
+109,Net fixed assets,12  Mar-12,906,OMDCL
+110,Share capital,12  Mar-12,6,OMDCL
+111,"""Free"" reserves",12  Mar-12,8009,OMDCL
+112,Net worth,12  Mar-12,8024,OMDCL
+113,Long term debt,12  Mar-12,0,OMDCL
+114,Total assets,12  Mar-12,8924,OMDCL
+115,Interest coverage,12  Mar-12,NM,OMDCL
+116,Debt to equity ratio,12  Mar-12,0,OMDCL
+117,Sales to assets ratio,12  Mar-12,0,OMDCL
+118,Return on assets,12  Mar-12,0.4,OMDCL
+119,Return on equity,12  Mar-12,0.4,OMDCL
+120,Return on capital,12  Mar-12,1.0,OMDCL
+121,Exports to sales,12  Mar-12,0,OMDCL
+122,Imports to sales,12  Mar-12,0,OMDCL
+123,Exports (fob),12  Mar-12,0,OMDCL
+124,Imports (cif),12  Mar-12,0,OMDCL
+125,Fx inflow,12  Mar-12,0,OMDCL
+126,Fx outflow,12  Mar-12,0,OMDCL
+127,Net fx,12  Mar-12,0,OMDCL
+128,From Operations,12  Mar-12,-575,OMDCL
+129,From Investments,12  Mar-12,566,OMDCL
+130,From Financial Activity,12  Mar-12,-14,OMDCL
+131,Net Cashflow,12  Mar-12,-22,OMDCL
+132,Net Sales,12  Mar-13,0,OMDCL
+133,Other income,12  Mar-13,800,OMDCL
+134,Total revenues,12  Mar-13,800,OMDCL
+135,Gross profit,12  Mar-13,-444,OMDCL
+136,Depreciation,12  Mar-13,88,OMDCL
+137,Interest,12  Mar-13,0,OMDCL
+138,Profit before tax,12  Mar-13,268,OMDCL
+139,Minority Interest,12  Mar-13,0,OMDCL
+140,Prior Period Items,12  Mar-13,-5,OMDCL
+141,Extraordinary Inc (Exp),12  Mar-13,0,OMDCL
+142,Tax,12  Mar-13,134,OMDCL
+143,Profit after tax,12  Mar-13,129,OMDCL
+144,Gross profit margin,12  Mar-13,NM,OMDCL
+145,Effective tax rate,12  Mar-13,50.0,OMDCL
+146,Net profit margin,12  Mar-13,NM,OMDCL
+147,Current assets,12  Mar-13,7724,OMDCL
+148,Current liabilities,12  Mar-13,774,OMDCL
+149,Net working cap to sales,12  Mar-13,NM,OMDCL
+150,Current ratio,12  Mar-13,10.0,OMDCL
+151,Inventory Days,12  Mar-13,NM,OMDCL
+152,Debtors Days,12  Mar-13,NM,OMDCL
+153,Net fixed assets,12  Mar-13,912,OMDCL
+154,Share capital,12  Mar-13,6,OMDCL
+155,"""Free"" reserves",12  Mar-13,8115,OMDCL
+156,Net worth,12  Mar-13,8130,OMDCL
+157,Long term debt,12  Mar-13,0,OMDCL
+158,Total assets,12  Mar-13,9134,OMDCL
+159,Interest coverage,12  Mar-13,NM,OMDCL
+160,Debt to equity ratio,12  Mar-13,0,OMDCL
+161,Sales to assets ratio,12  Mar-13,0,OMDCL
+162,Return on assets,12  Mar-13,1.4,OMDCL
+163,Return on equity,12  Mar-13,1.6,OMDCL
+164,Return on capital,12  Mar-13,3.2,OMDCL
+165,Exports to sales,12  Mar-13,NM,OMDCL
+166,Imports to sales,12  Mar-13,NM,OMDCL
+167,Exports (fob),12  Mar-13,0,OMDCL
+168,Imports (cif),12  Mar-13,0,OMDCL
+169,Fx inflow,12  Mar-13,0,OMDCL
+170,Fx outflow,12  Mar-13,0,OMDCL
+171,Net fx,12  Mar-13,0,OMDCL
+172,From Operations,12  Mar-13,-809,OMDCL
+173,From Investments,12  Mar-13,613,OMDCL
+174,From Financial Activity,12  Mar-13,-15,OMDCL
+175,Net Cashflow,12  Mar-13,-211,OMDCL
+176,Net Sales,12  Mar-14,0,OMDCL
+177,Other income,12  Mar-14,754,OMDCL
+178,Total revenues,12  Mar-14,754,OMDCL
+179,Gross profit,12  Mar-14,-492,OMDCL
+180,Depreciation,12  Mar-14,90,OMDCL
+181,Interest,12  Mar-14,0,OMDCL
+182,Profit before tax,12  Mar-14,171,OMDCL
+183,Minority Interest,12  Mar-14,0,OMDCL
+184,Prior Period Items,12  Mar-14,-4,OMDCL
+185,Extraordinary Inc (Exp),12  Mar-14,0,OMDCL
+186,Tax,12  Mar-14,105,OMDCL
+187,Profit after tax,12  Mar-14,63,OMDCL
+188,Gross profit margin,12  Mar-14,NM,OMDCL
+189,Effective tax rate,12  Mar-14,61.3,OMDCL
+190,Net profit margin,12  Mar-14,NM,OMDCL
+191,Current assets,12  Mar-14,8380,OMDCL
+192,Current liabilities,12  Mar-14,821,OMDCL
+193,Net working cap to sales,12  Mar-14,NM,OMDCL
+194,Current ratio,12  Mar-14,10.2,OMDCL
+195,Inventory Days,12  Mar-14,NM,OMDCL
+196,Debtors Days,12  Mar-14,NM,OMDCL
+197,Net fixed assets,12  Mar-14,851,OMDCL
+198,Share capital,12  Mar-14,6,OMDCL
+199,"""Free"" reserves",12  Mar-14,8170,OMDCL
+200,Net worth,12  Mar-14,8185,OMDCL
+201,Long term debt,12  Mar-14,0,OMDCL
+202,Total assets,12  Mar-14,9327,OMDCL
+203,Interest coverage,12  Mar-14,NM,OMDCL
+204,Debt to equity ratio,12  Mar-14,0,OMDCL
+205,Sales to assets ratio,12  Mar-14,0,OMDCL
+206,Return on assets,12  Mar-14,0.7,OMDCL
+207,Return on equity,12  Mar-14,0.8,OMDCL
+208,Return on capital,12  Mar-14,2.0,OMDCL
+209,Exports to sales,12  Mar-14,NM,OMDCL
+210,Imports to sales,12  Mar-14,NM,OMDCL
+211,Exports (fob),12  Mar-14,0,OMDCL
+212,Imports (cif),12  Mar-14,0,OMDCL
+213,Fx inflow,12  Mar-14,0,OMDCL
+214,Fx outflow,12  Mar-14,0,OMDCL
+215,Net fx,12  Mar-14,0,OMDCL
+216,From Operations,12  Mar-14,-81,OMDCL
+217,From Investments,12  Mar-14,727,OMDCL
+218,From Financial Activity,12  Mar-14,-25,OMDCL
+219,Net Cashflow,12  Mar-14,621,OMDCL

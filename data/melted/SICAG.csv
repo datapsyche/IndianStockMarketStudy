@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8273.0,SICAG
+1,Other income,12  Mar-15*,408.0,SICAG
+2,Total revenues,12  Mar-15*,8681.0,SICAG
+3,Gross profit,12  Mar-15*,839.0,SICAG
+4,Depreciation,12  Mar-15*,457.0,SICAG
+5,Interest,12  Mar-15*,571.0,SICAG
+6,Profit before tax,12  Mar-15*,219.0,SICAG
+7,Minority Interest,12  Mar-15*,-35.0,SICAG
+8,Prior Period Items,12  Mar-15*,-2.0,SICAG
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SICAG
+10,Tax,12  Mar-15*,20.0,SICAG
+11,Profit after tax,12  Mar-15*,163.0,SICAG
+12,Gross profit margin,12  Mar-15*,10.1,SICAG
+13,Effective tax rate,12  Mar-15*,9.0,SICAG
+14,Net profit margin,12  Mar-15*,2.0,SICAG
+15,Current assets,12  Mar-15*,3001.0,SICAG
+16,Current liabilities,12  Mar-15*,3383.0,SICAG
+17,Net working cap to sales,12  Mar-15*,-4.6,SICAG
+18,Current ratio,12  Mar-15*,0.9,SICAG
+19,Inventory Days,12  Mar-15*,7.0,SICAG
+20,Debtors Days,12  Mar-15*,73.0,SICAG
+21,Net fixed assets,12  Mar-15*,12602.0,SICAG
+22,Share capital,12  Mar-15*,556.0,SICAG
+23,"""Free"" reserves",12  Mar-15*,3502.0,SICAG
+24,Net worth,12  Mar-15*,4424.0,SICAG
+25,Long term debt,12  Mar-15*,6210.0,SICAG
+26,Total assets,12  Mar-15*,17428.0,SICAG
+27,Interest coverage,12  Mar-15*,1.4,SICAG
+28,Debt to equity ratio,12  Mar-15*,1.4,SICAG
+29,Sales to assets ratio,12  Mar-15*,0.5,SICAG
+30,Return on assets,12  Mar-15*,4.2,SICAG
+31,Return on equity,12  Mar-15*,3.7,SICAG
+32,Return on capital,12  Mar-15*,7.1,SICAG
+33,Exports to sales,12  Mar-15*,0.0,SICAG
+34,Imports to sales,12  Mar-15*,0.0,SICAG
+35,Exports (fob),12  Mar-15*,0.0,SICAG
+36,Imports (cif),12  Mar-15*,0.0,SICAG
+37,Fx inflow,12  Mar-15*,107.0,SICAG
+38,Fx outflow,12  Mar-15*,89.0,SICAG
+39,Net fx,12  Mar-15*,18.0,SICAG
+40,From Operations,12  Mar-15*,751.0,SICAG
+41,From Investments,12  Mar-15*,-1368.0,SICAG
+42,From Financial Activity,12  Mar-15*,680.0,SICAG
+43,Net Cashflow,12  Mar-15*,63.0,SICAG
+44,Net Sales,12  Mar-16*,8352.0,SICAG
+45,Other income,12  Mar-16*,155.0,SICAG
+46,Total revenues,12  Mar-16*,8507.0,SICAG
+47,Gross profit,12  Mar-16*,1078.0,SICAG
+48,Depreciation,12  Mar-16*,482.0,SICAG
+49,Interest,12  Mar-16*,561.0,SICAG
+50,Profit before tax,12  Mar-16*,190.0,SICAG
+51,Minority Interest,12  Mar-16*,0.0,SICAG
+52,Prior Period Items,12  Mar-16*,-2.0,SICAG
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SICAG
+54,Tax,12  Mar-16*,46.0,SICAG
+55,Profit after tax,12  Mar-16*,142.0,SICAG
+56,Gross profit margin,12  Mar-16*,12.9,SICAG
+57,Effective tax rate,12  Mar-16*,24.1,SICAG
+58,Net profit margin,12  Mar-16*,1.7,SICAG
+59,Current assets,12  Mar-16*,4337.0,SICAG
+60,Current liabilities,12  Mar-16*,3720.0,SICAG
+61,Net working cap to sales,12  Mar-16*,7.4,SICAG
+62,Current ratio,12  Mar-16*,1.2,SICAG
+63,Inventory Days,12  Mar-16*,6.0,SICAG
+64,Debtors Days,12  Mar-16*,107.0,SICAG
+65,Net fixed assets,12  Mar-16*,13860.0,SICAG
+66,Share capital,12  Mar-16*,556.0,SICAG
+67,"""Free"" reserves",12  Mar-16*,3592.0,SICAG
+68,Net worth,12  Mar-16*,4567.0,SICAG
+69,Long term debt,12  Mar-16*,7615.0,SICAG
+70,Total assets,12  Mar-16*,19841.0,SICAG
+71,Interest coverage,12  Mar-16*,1.3,SICAG
+72,Debt to equity ratio,12  Mar-16*,1.7,SICAG
+73,Sales to assets ratio,12  Mar-16*,0.4,SICAG
+74,Return on assets,12  Mar-16*,3.5,SICAG
+75,Return on equity,12  Mar-16*,3.1,SICAG
+76,Return on capital,12  Mar-16*,6.2,SICAG
+77,Exports to sales,12  Mar-16*,0.0,SICAG
+78,Imports to sales,12  Mar-16*,0.0,SICAG
+79,Exports (fob),12  Mar-16*,0.0,SICAG
+80,Imports (cif),12  Mar-16*,0.0,SICAG
+81,Fx inflow,12  Mar-16*,87.0,SICAG
+82,Fx outflow,12  Mar-16*,178.0,SICAG
+83,Net fx,12  Mar-16*,-91.0,SICAG
+84,From Operations,12  Mar-16*,256.0,SICAG
+85,From Investments,12  Mar-16*,-1580.0,SICAG
+86,From Financial Activity,12  Mar-16*,1447.0,SICAG
+87,Net Cashflow,12  Mar-16*,122.0,SICAG
+88,Net Sales,12  Mar-17*,9220.0,SICAG
+89,Other income,12  Mar-17*,150.0,SICAG
+90,Total revenues,12  Mar-17*,9370.0,SICAG
+91,Gross profit,12  Mar-17*,1494.0,SICAG
+92,Depreciation,12  Mar-17*,428.0,SICAG
+93,Interest,12  Mar-17*,587.0,SICAG
+94,Profit before tax,12  Mar-17*,630.0,SICAG
+95,Minority Interest,12  Mar-17*,0.0,SICAG
+96,Prior Period Items,12  Mar-17*,10.0,SICAG
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SICAG
+98,Tax,12  Mar-17*,246.0,SICAG
+99,Profit after tax,12  Mar-17*,393.0,SICAG
+100,Gross profit margin,12  Mar-17*,16.2,SICAG
+101,Effective tax rate,12  Mar-17*,39.1,SICAG
+102,Net profit margin,12  Mar-17*,4.3,SICAG
+103,Current assets,12  Mar-17*,5220.0,SICAG
+104,Current liabilities,12  Mar-17*,7479.0,SICAG
+105,Net working cap to sales,12  Mar-17*,-24.5,SICAG
+106,Current ratio,12  Mar-17*,0.7,SICAG
+107,Inventory Days,12  Mar-17*,5.0,SICAG
+108,Debtors Days,12  Mar-17*,113.0,SICAG
+109,Net fixed assets,12  Mar-17*,16487.0,SICAG
+110,Share capital,12  Mar-17*,556.0,SICAG
+111,"""Free"" reserves",12  Mar-17*,4384.0,SICAG
+112,Net worth,12  Mar-17*,4941.0,SICAG
+113,Long term debt,12  Mar-17*,8529.0,SICAG
+114,Total assets,12  Mar-17*,22929.0,SICAG
+115,Interest coverage,12  Mar-17*,2.1,SICAG
+116,Debt to equity ratio,12  Mar-17*,1.7,SICAG
+117,Sales to assets ratio,12  Mar-17*,0.4,SICAG
+118,Return on assets,12  Mar-17*,4.3,SICAG
+119,Return on equity,12  Mar-17*,8.0,SICAG
+120,Return on capital,12  Mar-17*,9.1,SICAG
+121,Exports to sales,12  Mar-17*,0.0,SICAG
+122,Imports to sales,12  Mar-17*,0.0,SICAG
+123,Exports (fob),12  Mar-17*,0.0,SICAG
+124,Imports (cif),12  Mar-17*,0.0,SICAG
+125,Fx inflow,12  Mar-17*,87.0,SICAG
+126,Fx outflow,12  Mar-17*,451.0,SICAG
+127,Net fx,12  Mar-17*,-365.0,SICAG
+128,From Operations,12  Mar-17*,549.0,SICAG
+129,From Investments,12  Mar-17*,-2415.0,SICAG
+130,From Financial Activity,12  Mar-17*,1980.0,SICAG
+131,Net Cashflow,12  Mar-17*,113.0,SICAG
+132,Net Sales,12  Mar-18*,11942.0,SICAG
+133,Other income,12  Mar-18*,50.0,SICAG
+134,Total revenues,12  Mar-18*,11993.0,SICAG
+135,Gross profit,12  Mar-18*,1725.0,SICAG
+136,Depreciation,12  Mar-18*,628.0,SICAG
+137,Interest,12  Mar-18*,617.0,SICAG
+138,Profit before tax,12  Mar-18*,531.0,SICAG
+139,Minority Interest,12  Mar-18*,0.0,SICAG
+140,Prior Period Items,12  Mar-18*,37.0,SICAG
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SICAG
+142,Tax,12  Mar-18*,227.0,SICAG
+143,Profit after tax,12  Mar-18*,341.0,SICAG
+144,Gross profit margin,12  Mar-18*,14.4,SICAG
+145,Effective tax rate,12  Mar-18*,42.7,SICAG
+146,Net profit margin,12  Mar-18*,2.9,SICAG
+147,Current assets,12  Mar-18*,5121.0,SICAG
+148,Current liabilities,12  Mar-18*,9428.0,SICAG
+149,Net working cap to sales,12  Mar-18*,-36.1,SICAG
+150,Current ratio,12  Mar-18*,0.5,SICAG
+151,Inventory Days,12  Mar-18*,4.0,SICAG
+152,Debtors Days,12  Mar-18*,94.0,SICAG
+153,Net fixed assets,12  Mar-18*,17773.0,SICAG
+154,Share capital,12  Mar-18*,556.0,SICAG
+155,"""Free"" reserves",12  Mar-18*,4693.0,SICAG
+156,Net worth,12  Mar-18*,5249.0,SICAG
+157,Long term debt,12  Mar-18*,7694.0,SICAG
+158,Total assets,12  Mar-18*,24511.0,SICAG
+159,Interest coverage,12  Mar-18*,1.9,SICAG
+160,Debt to equity ratio,12  Mar-18*,1.5,SICAG
+161,Sales to assets ratio,12  Mar-18*,0.5,SICAG
+162,Return on assets,12  Mar-18*,3.9,SICAG
+163,Return on equity,12  Mar-18*,6.5,SICAG
+164,Return on capital,12  Mar-18*,9.2,SICAG
+165,Exports to sales,12  Mar-18*,0.0,SICAG
+166,Imports to sales,12  Mar-18*,0.0,SICAG
+167,Exports (fob),12  Mar-18*,0.0,SICAG
+168,Imports (cif),12  Mar-18*,0.0,SICAG
+169,Fx inflow,12  Mar-18*,123.0,SICAG
+170,Fx outflow,12  Mar-18*,458.0,SICAG
+171,Net fx,12  Mar-18*,-335.0,SICAG
+172,From Operations,12  Mar-18*,1199.0,SICAG
+173,From Investments,12  Mar-18*,-1845.0,SICAG
+174,From Financial Activity,12  Mar-18*,318.0,SICAG
+175,Net Cashflow,12  Mar-18*,-328.0,SICAG
+176,Net Sales,12  Mar-19*,15249.0,SICAG
+177,Other income,12  Mar-19*,59.0,SICAG
+178,Total revenues,12  Mar-19*,15309.0,SICAG
+179,Gross profit,12  Mar-19*,1726.0,SICAG
+180,Depreciation,12  Mar-19*,720.0,SICAG
+181,Interest,12  Mar-19*,640.0,SICAG
+182,Profit before tax,12  Mar-19*,425.0,SICAG
+183,Minority Interest,12  Mar-19*,0.0,SICAG
+184,Prior Period Items,12  Mar-19*,-58.0,SICAG
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SICAG
+186,Tax,12  Mar-19*,185.0,SICAG
+187,Profit after tax,12  Mar-19*,183.0,SICAG
+188,Gross profit margin,12  Mar-19*,11.3,SICAG
+189,Effective tax rate,12  Mar-19*,43.5,SICAG
+190,Net profit margin,12  Mar-19*,1.2,SICAG
+191,Current assets,12  Mar-19*,7385.0,SICAG
+192,Current liabilities,12  Mar-19*,11190.0,SICAG
+193,Net working cap to sales,12  Mar-19*,-25.0,SICAG
+194,Current ratio,12  Mar-19*,0.7,SICAG
+195,Inventory Days,12  Mar-19*,3.0,SICAG
+196,Debtors Days,12  Mar-19*,95.0,SICAG
+197,Net fixed assets,12  Mar-19*,19137.0,SICAG
+198,Share capital,12  Mar-19*,585.0,SICAG
+199,"""Free"" reserves",12  Mar-19*,5439.0,SICAG
+200,Net worth,12  Mar-19*,6025.0,SICAG
+201,Long term debt,12  Mar-19*,8082.0,SICAG
+202,Total assets,12  Mar-19*,27481.0,SICAG
+203,Interest coverage,12  Mar-19*,1.7,SICAG
+204,Debt to equity ratio,12  Mar-19*,1.3,SICAG
+205,Sales to assets ratio,12  Mar-19*,0.6,SICAG
+206,Return on assets,12  Mar-19*,3.0,SICAG
+207,Return on equity,12  Mar-19*,3.0,SICAG
+208,Return on capital,12  Mar-19*,7.1,SICAG
+209,Exports to sales,12  Mar-19*,0.0,SICAG
+210,Imports to sales,12  Mar-19*,0.0,SICAG
+211,Exports (fob),12  Mar-19*,0.0,SICAG
+212,Imports (cif),12  Mar-19*,0.0,SICAG
+213,Fx inflow,12  Mar-19*,117.0,SICAG
+214,Fx outflow,12  Mar-19*,651.0,SICAG
+215,Net fx,12  Mar-19*,-534.0,SICAG
+216,From Operations,12  Mar-19*,542.0,SICAG
+217,From Investments,12  Mar-19*,-2173.0,SICAG
+218,From Financial Activity,12  Mar-19*,1677.0,SICAG
+219,Net Cashflow,12  Mar-19*,45.0,SICAG

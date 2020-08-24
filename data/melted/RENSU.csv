@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,115464.0,RENSU
+1,Other income,12  Mar-14*,652.0,RENSU
+2,Total revenues,12  Mar-14*,116116.0,RENSU
+3,Gross profit,12  Mar-14*,9229.0,RENSU
+4,Depreciation,12  Mar-14*,10761.0,RENSU
+5,Interest,12  Mar-14*,9591.0,RENSU
+6,Profit before tax,12  Mar-14*,-10471.0,RENSU
+7,Minority Interest,12  Mar-14*,10.0,RENSU
+8,Prior Period Items,12  Mar-14*,0.0,RENSU
+9,Extraordinary Inc (Exp),12  Mar-14*,-6319.0,RENSU
+10,Tax,12  Mar-14*,-2000.0,RENSU
+11,Profit after tax,12  Mar-14*,-14780.0,RENSU
+12,Gross profit margin,12  Mar-14*,8.0,RENSU
+13,Effective tax rate,12  Mar-14*,19.1,RENSU
+14,Net profit margin,12  Mar-14*,-12.8,RENSU
+15,Current assets,12  Mar-14*,37930.0,RENSU
+16,Current liabilities,12  Mar-14*,80082.0,RENSU
+17,Net working cap to sales,12  Mar-14*,-36.5,RENSU
+18,Current ratio,12  Mar-14*,0.5,RENSU
+19,Inventory Days,12  Mar-14*,72.0,RENSU
+20,Debtors Days,12  Mar-14*,20.0,RENSU
+21,Net fixed assets,12  Mar-14*,80020.0,RENSU
+22,Share capital,12  Mar-14*,671.0,RENSU
+23,"""Free"" reserves",12  Mar-14*,-6547.0,RENSU
+24,Net worth,12  Mar-14*,-4965.0,RENSU
+25,Long term debt,12  Mar-14*,50197.0,RENSU
+26,Total assets,12  Mar-14*,129506.0,RENSU
+27,Interest coverage,12  Mar-14*,-0.1,RENSU
+28,Debt to equity ratio,12  Mar-14*,-10.1,RENSU
+29,Sales to assets ratio,12  Mar-14*,0.9,RENSU
+30,Return on assets,12  Mar-14*,-4.0,RENSU
+31,Return on equity,12  Mar-14*,297.7,RENSU
+32,Return on capital,12  Mar-14*,-15.9,RENSU
+33,Exports to sales,12  Mar-14*,26.5,RENSU
+34,Imports to sales,12  Mar-14*,13.4,RENSU
+35,Exports (fob),12  Mar-14*,30642.0,RENSU
+36,Imports (cif),12  Mar-14*,15442.0,RENSU
+37,Fx inflow,12  Mar-14*,31106.0,RENSU
+38,Fx outflow,12  Mar-14*,16181.0,RENSU
+39,Net fx,12  Mar-14*,14924.0,RENSU
+40,From Operations,12  Mar-14*,2239.0,RENSU
+41,From Investments,12  Mar-14*,-3.0,RENSU
+42,From Financial Activity,12  Mar-14*,-4081.0,RENSU
+43,Net Cashflow,12  Mar-14*,-1845.0,RENSU
+44,Net Sales,12  Mar-15*,100876.0,RENSU
+45,Other income,12  Mar-15*,465.0,RENSU
+46,Total revenues,12  Mar-15*,101341.0,RENSU
+47,Gross profit,12  Mar-15*,-2216.0,RENSU
+48,Depreciation,12  Mar-15*,9913.0,RENSU
+49,Interest,12  Mar-15*,9222.0,RENSU
+50,Profit before tax,12  Mar-15*,-20886.0,RENSU
+51,Minority Interest,12  Mar-15*,7.0,RENSU
+52,Prior Period Items,12  Mar-15*,0.0,RENSU
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,RENSU
+54,Tax,12  Mar-15*,-2750.0,RENSU
+55,Profit after tax,12  Mar-15*,-18129.0,RENSU
+56,Gross profit margin,12  Mar-15*,-2.2,RENSU
+57,Effective tax rate,12  Mar-15*,13.2,RENSU
+58,Net profit margin,12  Mar-15*,-18.0,RENSU
+59,Current assets,12  Mar-15*,35007.0,RENSU
+60,Current liabilities,12  Mar-15*,92736.0,RENSU
+61,Net working cap to sales,12  Mar-15*,-57.2,RENSU
+62,Current ratio,12  Mar-15*,0.4,RENSU
+63,Inventory Days,12  Mar-15*,58.0,RENSU
+64,Debtors Days,12  Mar-15*,24.0,RENSU
+65,Net fixed assets,12  Mar-15*,60409.0,RENSU
+66,Share capital,12  Mar-15*,929.0,RENSU
+67,"""Free"" reserves",12  Mar-15*,-24760.0,RENSU
+68,Net worth,12  Mar-15*,-23832.0,RENSU
+69,Long term debt,12  Mar-15*,37936.0,RENSU
+70,Total assets,12  Mar-15*,109280.0,RENSU
+71,Interest coverage,12  Mar-15*,-1.3,RENSU
+72,Debt to equity ratio,12  Mar-15*,-1.6,RENSU
+73,Sales to assets ratio,12  Mar-15*,0.9,RENSU
+74,Return on assets,12  Mar-15*,-8.2,RENSU
+75,Return on equity,12  Mar-15*,76.1,RENSU
+76,Return on capital,12  Mar-15*,-82.6,RENSU
+77,Exports to sales,12  Mar-15*,35.7,RENSU
+78,Imports to sales,12  Mar-15*,24.6,RENSU
+79,Exports (fob),12  Mar-15*,36055.0,RENSU
+80,Imports (cif),12  Mar-15*,24811.0,RENSU
+81,Fx inflow,12  Mar-15*,36519.0,RENSU
+82,Fx outflow,12  Mar-15*,25415.0,RENSU
+83,Net fx,12  Mar-15*,11104.0,RENSU
+84,From Operations,12  Mar-15*,7342.0,RENSU
+85,From Investments,12  Mar-15*,909.0,RENSU
+86,From Financial Activity,12  Mar-15*,-8981.0,RENSU
+87,Net Cashflow,12  Mar-15*,-730.0,RENSU
+88,Net Sales,12  Mar-16*,118445.0,RENSU
+89,Other income,12  Mar-16*,3772.0,RENSU
+90,Total revenues,12  Mar-16*,122217.0,RENSU
+91,Gross profit,12  Mar-16*,3700.0,RENSU
+92,Depreciation,12  Mar-16*,9550.0,RENSU
+93,Interest,12  Mar-16*,9581.0,RENSU
+94,Profit before tax,12  Mar-16*,-11659.0,RENSU
+95,Minority Interest,12  Mar-16*,0.0,RENSU
+96,Prior Period Items,12  Mar-16*,0.0,RENSU
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,RENSU
+98,Tax,12  Mar-16*,-139.0,RENSU
+99,Profit after tax,12  Mar-16*,-11520.0,RENSU
+100,Gross profit margin,12  Mar-16*,3.1,RENSU
+101,Effective tax rate,12  Mar-16*,1.2,RENSU
+102,Net profit margin,12  Mar-16*,-9.7,RENSU
+103,Current assets,12  Mar-16*,36484.0,RENSU
+104,Current liabilities,12  Mar-16*,103217.0,RENSU
+105,Net working cap to sales,12  Mar-16*,-56.3,RENSU
+106,Current ratio,12  Mar-16*,0.4,RENSU
+107,Inventory Days,12  Mar-16*,44.0,RENSU
+108,Debtors Days,12  Mar-16*,31.0,RENSU
+109,Net fixed assets,12  Mar-16*,76442.0,RENSU
+110,Share capital,12  Mar-16*,945.0,RENSU
+111,"""Free"" reserves",12  Mar-16*,-34371.0,RENSU
+112,Net worth,12  Mar-16*,-33425.0,RENSU
+113,Long term debt,12  Mar-16*,50461.0,RENSU
+114,Total assets,12  Mar-16*,128242.0,RENSU
+115,Interest coverage,12  Mar-16*,-0.2,RENSU
+116,Debt to equity ratio,12  Mar-16*,-1.5,RENSU
+117,Sales to assets ratio,12  Mar-16*,0.9,RENSU
+118,Return on assets,12  Mar-16*,-1.5,RENSU
+119,Return on equity,12  Mar-16*,34.5,RENSU
+120,Return on capital,12  Mar-16*,-12.2,RENSU
+121,Exports to sales,12  Mar-16*,49.4,RENSU
+122,Imports to sales,12  Mar-16*,14.0,RENSU
+123,Exports (fob),12  Mar-16*,58494.0,RENSU
+124,Imports (cif),12  Mar-16*,16598.0,RENSU
+125,Fx inflow,12  Mar-16*,58506.0,RENSU
+126,Fx outflow,12  Mar-16*,16612.0,RENSU
+127,Net fx,12  Mar-16*,41894.0,RENSU
+128,From Operations,12  Mar-16*,11178.0,RENSU
+129,From Investments,12  Mar-16*,-8643.0,RENSU
+130,From Financial Activity,12  Mar-16*,-2460.0,RENSU
+131,Net Cashflow,12  Mar-16*,75.0,RENSU
+132,Net Sales,12  Mar-17*,118445.0,RENSU
+133,Other income,12  Mar-17*,3536.0,RENSU
+134,Total revenues,12  Mar-17*,121980.0,RENSU
+135,Gross profit,12  Mar-17*,3701.0,RENSU
+136,Depreciation,12  Mar-17*,8455.0,RENSU
+137,Interest,12  Mar-17*,9318.0,RENSU
+138,Profit before tax,12  Mar-17*,-10536.0,RENSU
+139,Minority Interest,12  Mar-17*,0.0,RENSU
+140,Prior Period Items,12  Mar-17*,0.0,RENSU
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,RENSU
+142,Tax,12  Mar-17*,139.0,RENSU
+143,Profit after tax,12  Mar-17*,-10675.0,RENSU
+144,Gross profit margin,12  Mar-17*,3.1,RENSU
+145,Effective tax rate,12  Mar-17*,-1.3,RENSU
+146,Net profit margin,12  Mar-17*,-9.0,RENSU
+147,Current assets,12  Mar-17*,35619.0,RENSU
+148,Current liabilities,12  Mar-17*,101980.0,RENSU
+149,Net working cap to sales,12  Mar-17*,-56.0,RENSU
+150,Current ratio,12  Mar-17*,0.3,RENSU
+151,Inventory Days,12  Mar-17*,44.0,RENSU
+152,Debtors Days,12  Mar-17*,31.0,RENSU
+153,Net fixed assets,12  Mar-17*,76442.0,RENSU
+154,Share capital,12  Mar-17*,945.0,RENSU
+155,"""Free"" reserves",12  Mar-17*,-27467.0,RENSU
+156,Net worth,12  Mar-17*,-26522.0,RENSU
+157,Long term debt,12  Mar-17*,50461.0,RENSU
+158,Total assets,12  Mar-17*,130553.0,RENSU
+159,Interest coverage,12  Mar-17*,-0.1,RENSU
+160,Debt to equity ratio,12  Mar-17*,-1.9,RENSU
+161,Sales to assets ratio,12  Mar-17*,0.9,RENSU
+162,Return on assets,12  Mar-17*,-1.0,RENSU
+163,Return on equity,12  Mar-17*,40.3,RENSU
+164,Return on capital,12  Mar-17*,-5.1,RENSU
+165,Exports to sales,12  Mar-17*,49.4,RENSU
+166,Imports to sales,12  Mar-17*,14.0,RENSU
+167,Exports (fob),12  Mar-17*,58494.0,RENSU
+168,Imports (cif),12  Mar-17*,16598.0,RENSU
+169,Fx inflow,12  Mar-17*,58506.0,RENSU
+170,Fx outflow,12  Mar-17*,16612.0,RENSU
+171,Net fx,12  Mar-17*,41894.0,RENSU
+172,From Operations,12  Mar-17*,8101.0,RENSU
+173,From Investments,12  Mar-17*,-5831.0,RENSU
+174,From Financial Activity,12  Mar-17*,-2195.0,RENSU
+175,Net Cashflow,12  Mar-17*,75.0,RENSU
+176,Net Sales,12  Mar-18*,77280.0,RENSU
+177,Other income,12  Mar-18*,969.0,RENSU
+178,Total revenues,12  Mar-18*,78250.0,RENSU
+179,Gross profit,12  Mar-18*,-14900.0,RENSU
+180,Depreciation,12  Mar-18*,8606.0,RENSU
+181,Interest,12  Mar-18*,9633.0,RENSU
+182,Profit before tax,12  Mar-18*,-32169.0,RENSU
+183,Minority Interest,12  Mar-18*,0.0,RENSU
+184,Prior Period Items,12  Mar-18*,0.0,RENSU
+185,Extraordinary Inc (Exp),12  Mar-18*,4994.0,RENSU
+186,Tax,12  Mar-18*,-5138.0,RENSU
+187,Profit after tax,12  Mar-18*,-22038.0,RENSU
+188,Gross profit margin,12  Mar-18*,-19.3,RENSU
+189,Effective tax rate,12  Mar-18*,16.0,RENSU
+190,Net profit margin,12  Mar-18*,-28.5,RENSU
+191,Current assets,12  Mar-18*,25814.0,RENSU
+192,Current liabilities,12  Mar-18*,99323.0,RENSU
+193,Net working cap to sales,12  Mar-18*,-95.1,RENSU
+194,Current ratio,12  Mar-18*,0.3,RENSU
+195,Inventory Days,12  Mar-18*,49.0,RENSU
+196,Debtors Days,12  Mar-18*,36.0,RENSU
+197,Net fixed assets,12  Mar-18*,62213.0,RENSU
+198,Share capital,12  Mar-18*,1917.0,RENSU
+199,"""Free"" reserves",12  Mar-18*,-38629.0,RENSU
+200,Net worth,12  Mar-18*,-36712.0,RENSU
+201,Long term debt,12  Mar-18*,29058.0,RENSU
+202,Total assets,12  Mar-18*,100019.0,RENSU
+203,Interest coverage,12  Mar-18*,-2.3,RENSU
+204,Debt to equity ratio,12  Mar-18*,-0.8,RENSU
+205,Sales to assets ratio,12  Mar-18*,0.8,RENSU
+206,Return on assets,12  Mar-18*,-12.4,RENSU
+207,Return on equity,12  Mar-18*,60.0,RENSU
+208,Return on capital,12  Mar-18*,229.2,RENSU
+209,Exports to sales,12  Mar-18*,0.0,RENSU
+210,Imports to sales,12  Mar-18*,0.0,RENSU
+211,Exports (fob),12  Mar-18*,0.0,RENSU
+212,Imports (cif),12  Mar-18*,0.0,RENSU
+213,Fx inflow,12  Mar-18*,36189.0,RENSU
+214,Fx outflow,12  Mar-18*,12118.0,RENSU
+215,Net fx,12  Mar-18*,24071.0,RENSU
+216,From Operations,12  Mar-18*,4187.0,RENSU
+217,From Investments,12  Mar-18*,-1932.0,RENSU
+218,From Financial Activity,12  Mar-18*,-2296.0,RENSU
+219,Net Cashflow,12  Mar-18*,-40.0,RENSU

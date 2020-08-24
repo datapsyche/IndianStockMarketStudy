@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,18  Jun-13*,188057.0,VDFN
+1,Other income,18  Jun-13*,8903.0,VDFN
+2,Total revenues,18  Jun-13*,196960.0,VDFN
+3,Gross profit,18  Jun-13*,2091.0,VDFN
+4,Depreciation,18  Jun-13*,13256.0,VDFN
+5,Interest,18  Jun-13*,40775.0,VDFN
+6,Profit before tax,18  Jun-13*,-43037.0,VDFN
+7,Minority Interest,18  Jun-13*,3808.0,VDFN
+8,Prior Period Items,18  Jun-13*,-5.0,VDFN
+9,Extraordinary Inc (Exp),18  Jun-13*,-1032.0,VDFN
+10,Tax,18  Jun-13*,-12005.0,VDFN
+11,Profit after tax,18  Jun-13*,-28261.0,VDFN
+12,Gross profit margin,18  Jun-13*,1.1,VDFN
+13,Effective tax rate,18  Jun-13*,27.9,VDFN
+14,Net profit margin,18  Jun-13*,-15.0,VDFN
+15,Current assets,18  Jun-13*,218805.0,VDFN
+16,Current liabilities,18  Jun-13*,133187.0,VDFN
+17,Net working cap to sales,18  Jun-13*,45.5,VDFN
+18,Current ratio,18  Jun-13*,1.6,VDFN
+19,Inventory Days,18  Jun-13*,42.0,VDFN
+20,Debtors Days,18  Jun-13*,57.0,VDFN
+21,Net fixed assets,18  Jun-13*,194195.0,VDFN
+22,Share capital,18  Jun-13*,3188.0,VDFN
+23,"""Free"" reserves",18  Jun-13*,38036.0,VDFN
+24,Net worth,18  Jun-13*,46984.0,VDFN
+25,Long term debt,18  Jun-13*,310787.0,VDFN
+26,Total assets,18  Jun-13*,494690.0,VDFN
+27,Interest coverage,18  Jun-13*,-0.1,VDFN
+28,Debt to equity ratio,18  Jun-13*,6.6,VDFN
+29,Sales to assets ratio,18  Jun-13*,0.4,VDFN
+30,Return on assets,18  Jun-13*,2.5,VDFN
+31,Return on equity,18  Jun-13*,-60.2,VDFN
+32,Return on capital,18  Jun-13*,0.1,VDFN
+33,Exports to sales,18  Jun-13*,3.4,VDFN
+34,Imports to sales,18  Jun-13*,12.8,VDFN
+35,Exports (fob),18  Jun-13*,6428.0,VDFN
+36,Imports (cif),18  Jun-13*,24098.0,VDFN
+37,Fx inflow,18  Jun-13*,9852.0,VDFN
+38,Fx outflow,18  Jun-13*,26193.0,VDFN
+39,Net fx,18  Jun-13*,-16341.0,VDFN
+40,From Operations,18  Jun-13*,-22594.0,VDFN
+41,From Investments,18  Jun-13*,-68088.0,VDFN
+42,From Financial Activity,18  Jun-13*,86221.0,VDFN
+43,Net Cashflow,18  Jun-13*,-4461.0,VDFN
+44,Net Sales,18  Dec-14*,204622.0,VDFN
+45,Other income,18  Dec-14*,141090.0,VDFN
+46,Total revenues,18  Dec-14*,345712.0,VDFN
+47,Gross profit,18  Dec-14*,-1127.0,VDFN
+48,Depreciation,18  Dec-14*,15365.0,VDFN
+49,Interest,18  Dec-14*,49718.0,VDFN
+50,Profit before tax,18  Dec-14*,74881.0,VDFN
+51,Minority Interest,18  Dec-14*,1534.0,VDFN
+52,Prior Period Items,18  Dec-14*,6.0,VDFN
+53,Extraordinary Inc (Exp),18  Dec-14*,-8.0,VDFN
+54,Tax,18  Dec-14*,25216.0,VDFN
+55,Profit after tax,18  Dec-14*,51196.0,VDFN
+56,Gross profit margin,18  Dec-14*,-0.6,VDFN
+57,Effective tax rate,18  Dec-14*,33.7,VDFN
+58,Net profit margin,18  Dec-14*,25.0,VDFN
+59,Current assets,18  Dec-14*,313075.0,VDFN
+60,Current liabilities,18  Dec-14*,130998.0,VDFN
+61,Net working cap to sales,18  Dec-14*,89.0,VDFN
+62,Current ratio,18  Dec-14*,2.4,VDFN
+63,Inventory Days,18  Dec-14*,43.0,VDFN
+64,Debtors Days,18  Dec-14*,54.0,VDFN
+65,Net fixed assets,18  Dec-14*,203162.0,VDFN
+66,Share capital,18  Dec-14*,3345.0,VDFN
+67,"""Free"" reserves",18  Dec-14*,98708.0,VDFN
+68,Net worth,18  Dec-14*,102052.0,VDFN
+69,Long term debt,18  Dec-14*,355043.0,VDFN
+70,Total assets,18  Dec-14*,598152.0,VDFN
+71,Interest coverage,18  Dec-14*,2.5,VDFN
+72,Debt to equity ratio,18  Dec-14*,3.5,VDFN
+73,Sales to assets ratio,18  Dec-14*,0.3,VDFN
+74,Return on assets,18  Dec-14*,16.9,VDFN
+75,Return on equity,18  Dec-14*,50.2,VDFN
+76,Return on capital,18  Dec-14*,27.6,VDFN
+77,Exports to sales,18  Dec-14*,15.2,VDFN
+78,Imports to sales,18  Dec-14*,15.1,VDFN
+79,Exports (fob),18  Dec-14*,31029.0,VDFN
+80,Imports (cif),18  Dec-14*,30876.0,VDFN
+81,Fx inflow,18  Dec-14*,31029.0,VDFN
+82,Fx outflow,18  Dec-14*,33089.0,VDFN
+83,Net fx,18  Dec-14*,-2059.0,VDFN
+84,From Operations,18  Dec-14*,-52283.0,VDFN
+85,From Investments,18  Dec-14*,50739.0,VDFN
+86,From Financial Activity,18  Dec-14*,3860.0,VDFN
+87,Net Cashflow,18  Dec-14*,2316.0,VDFN
+88,Net Sales,12  Dec-15*,138036.0,VDFN
+89,Other income,12  Dec-15*,5227.0,VDFN
+90,Total revenues,12  Dec-15*,143263.0,VDFN
+91,Gross profit,12  Dec-15*,14915.0,VDFN
+92,Depreciation,12  Dec-15*,10412.0,VDFN
+93,Interest,12  Dec-15*,31911.0,VDFN
+94,Profit before tax,12  Dec-15*,-22181.0,VDFN
+95,Minority Interest,12  Dec-15*,250.0,VDFN
+96,Prior Period Items,12  Dec-15*,20.0,VDFN
+97,Extraordinary Inc (Exp),12  Dec-15*,0.0,VDFN
+98,Tax,12  Dec-15*,-49.0,VDFN
+99,Profit after tax,12  Dec-15*,-21862.0,VDFN
+100,Gross profit margin,12  Dec-15*,10.8,VDFN
+101,Effective tax rate,12  Dec-15*,0.2,VDFN
+102,Net profit margin,12  Dec-15*,-15.8,VDFN
+103,Current assets,12  Dec-15*,313252.0,VDFN
+104,Current liabilities,12  Dec-15*,179839.0,VDFN
+105,Net working cap to sales,12  Dec-15*,96.7,VDFN
+106,Current ratio,12  Dec-15*,1.7,VDFN
+107,Inventory Days,12  Dec-15*,63.0,VDFN
+108,Debtors Days,12  Dec-15*,81.0,VDFN
+109,Net fixed assets,12  Dec-15*,203886.0,VDFN
+110,Share capital,12  Dec-15*,3345.0,VDFN
+111,"""Free"" reserves",12  Dec-15*,83558.0,VDFN
+112,Net worth,12  Dec-15*,86903.0,VDFN
+113,Long term debt,12  Dec-15*,325160.0,VDFN
+114,Total assets,12  Dec-15*,607593.0,VDFN
+115,Interest coverage,12  Dec-15*,0.3,VDFN
+116,Debt to equity ratio,12  Dec-15*,3.7,VDFN
+117,Sales to assets ratio,12  Dec-15*,0.2,VDFN
+118,Return on assets,12  Dec-15*,1.7,VDFN
+119,Return on equity,12  Dec-15*,-25.2,VDFN
+120,Return on capital,12  Dec-15*,2.4,VDFN
+121,Exports to sales,12  Dec-15*,7.2,VDFN
+122,Imports to sales,12  Dec-15*,14.2,VDFN
+123,Exports (fob),12  Dec-15*,9938.0,VDFN
+124,Imports (cif),12  Dec-15*,19573.0,VDFN
+125,Fx inflow,12  Dec-15*,9938.0,VDFN
+126,Fx outflow,12  Dec-15*,21617.0,VDFN
+127,Net fx,12  Dec-15*,-11679.0,VDFN
+128,From Operations,12  Dec-15*,0.0,VDFN
+129,From Investments,12  Dec-15*,17987.0,VDFN
+130,From Financial Activity,12  Dec-15*,-9279.0,VDFN
+131,Net Cashflow,12  Dec-15*,8708.0,VDFN
+132,Net Sales,18  Mar-17*,125165.0,VDFN
+133,Other income,18  Mar-17*,4294.0,VDFN
+134,Total revenues,18  Mar-17*,129459.0,VDFN
+135,Gross profit,18  Mar-17*,235.0,VDFN
+136,Depreciation,18  Mar-17*,11044.0,VDFN
+137,Interest,18  Mar-17*,51272.0,VDFN
+138,Profit before tax,18  Mar-17*,-57786.0,VDFN
+139,Minority Interest,18  Mar-17*,0.0,VDFN
+140,Prior Period Items,18  Mar-17*,27922.0,VDFN
+141,Extraordinary Inc (Exp),18  Mar-17*,0.0,VDFN
+142,Tax,18  Mar-17*,-4361.0,VDFN
+143,Profit after tax,18  Mar-17*,-25504.0,VDFN
+144,Gross profit margin,18  Mar-17*,0.2,VDFN
+145,Effective tax rate,18  Mar-17*,7.5,VDFN
+146,Net profit margin,18  Mar-17*,-20.4,VDFN
+147,Current assets,18  Mar-17*,260542.0,VDFN
+148,Current liabilities,18  Mar-17*,133136.0,VDFN
+149,Net working cap to sales,18  Mar-17*,101.8,VDFN
+150,Current ratio,18  Mar-17*,2.0,VDFN
+151,Inventory Days,18  Mar-17*,84.0,VDFN
+152,Debtors Days,18  Mar-17*,71.0,VDFN
+153,Net fixed assets,18  Mar-17*,77215.0,VDFN
+154,Share capital,18  Mar-17*,3345.0,VDFN
+155,"""Free"" reserves",18  Mar-17*,24705.0,VDFN
+156,Net worth,18  Mar-17*,28050.0,VDFN
+157,Long term debt,18  Mar-17*,355834.0,VDFN
+158,Total assets,18  Mar-17*,528480.0,VDFN
+159,Interest coverage,18  Mar-17*,-0.1,VDFN
+160,Debt to equity ratio,18  Mar-17*,12.7,VDFN
+161,Sales to assets ratio,18  Mar-17*,0.2,VDFN
+162,Return on assets,18  Mar-17*,4.9,VDFN
+163,Return on equity,18  Mar-17*,-90.9,VDFN
+164,Return on capital,18  Mar-17*,5.6,VDFN
+165,Exports to sales,18  Mar-17*,4.5,VDFN
+166,Imports to sales,18  Mar-17*,24.6,VDFN
+167,Exports (fob),18  Mar-17*,5626.0,VDFN
+168,Imports (cif),18  Mar-17*,30846.0,VDFN
+169,Fx inflow,18  Mar-17*,10463.0,VDFN
+170,Fx outflow,18  Mar-17*,32128.0,VDFN
+171,Net fx,18  Mar-17*,-21665.0,VDFN
+172,From Operations,18  Mar-17*,41369.0,VDFN
+173,From Investments,18  Mar-17*,25925.0,VDFN
+174,From Financial Activity,18  Mar-17*,-78685.0,VDFN
+175,Net Cashflow,18  Mar-17*,-11391.0,VDFN
+176,Net Sales,12  Mar-18*,29338.0,VDFN
+177,Other income,12  Mar-18*,20855.0,VDFN
+178,Total revenues,12  Mar-18*,50193.0,VDFN
+179,Gross profit,12  Mar-18*,-28087.0,VDFN
+180,Depreciation,12  Mar-18*,8308.0,VDFN
+181,Interest,12  Mar-18*,49480.0,VDFN
+182,Profit before tax,12  Mar-18*,-65019.0,VDFN
+183,Minority Interest,12  Mar-18*,0.0,VDFN
+184,Prior Period Items,12  Mar-18*,0.0,VDFN
+185,Extraordinary Inc (Exp),12  Mar-18*,-6282.0,VDFN
+186,Tax,12  Mar-18*,-5763.0,VDFN
+187,Profit after tax,12  Mar-18*,-65537.0,VDFN
+188,Gross profit margin,12  Mar-18*,-95.7,VDFN
+189,Effective tax rate,12  Mar-18*,8.9,VDFN
+190,Net profit margin,12  Mar-18*,-223.4,VDFN
+191,Current assets,12  Mar-18*,153124.0,VDFN
+192,Current liabilities,12  Mar-18*,526366.0,VDFN
+193,Net working cap to sales,12  Mar-18*,-1272.2,VDFN
+194,Current ratio,12  Mar-18*,0.3,VDFN
+195,Inventory Days,12  Mar-18*,175.0,VDFN
+196,Debtors Days,12  Mar-18*,92.0,VDFN
+197,Net fixed assets,12  Mar-18*,62814.0,VDFN
+198,Share capital,12  Mar-18*,3345.0,VDFN
+199,"""Free"" reserves",12  Mar-18*,-39528.0,VDFN
+200,Net worth,12  Mar-18*,-36184.0,VDFN
+201,Long term debt,12  Mar-18*,1696.0,VDFN
+202,Total assets,12  Mar-18*,497019.0,VDFN
+203,Interest coverage,12  Mar-18*,-0.3,VDFN
+204,Debt to equity ratio,12  Mar-18*,0.0,VDFN
+205,Sales to assets ratio,12  Mar-18*,0.1,VDFN
+206,Return on assets,12  Mar-18*,-3.2,VDFN
+207,Return on equity,12  Mar-18*,181.1,VDFN
+208,Return on capital,12  Mar-18*,63.3,VDFN
+209,Exports to sales,12  Mar-18*,3.4,VDFN
+210,Imports to sales,12  Mar-18*,30.7,VDFN
+211,Exports (fob),12  Mar-18*,989.0,VDFN
+212,Imports (cif),12  Mar-18*,8992.0,VDFN
+213,Fx inflow,12  Mar-18*,5134.0,VDFN
+214,Fx outflow,12  Mar-18*,9268.0,VDFN
+215,Net fx,12  Mar-18*,-4134.0,VDFN
+216,From Operations,12  Mar-18*,-23738.0,VDFN
+217,From Investments,12  Mar-18*,28606.0,VDFN
+218,From Financial Activity,12  Mar-18*,-3919.0,VDFN
+219,Net Cashflow,12  Mar-18*,948.0,VDFN

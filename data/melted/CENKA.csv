@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,12185.0,CENKA
+1,Other income,12  Mar-15,70.0,CENKA
+2,Total revenues,12  Mar-15,12256.0,CENKA
+3,Gross profit,12  Mar-15,1157.0,CENKA
+4,Depreciation,12  Mar-15,428.0,CENKA
+5,Interest,12  Mar-15,173.0,CENKA
+6,Profit before tax,12  Mar-15,626.0,CENKA
+7,Minority Interest,12  Mar-15,0.0,CENKA
+8,Prior Period Items,12  Mar-15,0.0,CENKA
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,CENKA
+10,Tax,12  Mar-15,261.0,CENKA
+11,Profit after tax,12  Mar-15,366.0,CENKA
+12,Gross profit margin,12  Mar-15,9.5,CENKA
+13,Effective tax rate,12  Mar-15,41.6,CENKA
+14,Net profit margin,12  Mar-15,3.0,CENKA
+15,Current assets,12  Mar-15,3934.0,CENKA
+16,Current liabilities,12  Mar-15,1479.0,CENKA
+17,Net working cap to sales,12  Mar-15,20.1,CENKA
+18,Current ratio,12  Mar-15,2.7,CENKA
+19,Inventory Days,12  Mar-15,61.0,CENKA
+20,Debtors Days,12  Mar-15,49.0,CENKA
+21,Net fixed assets,12  Mar-15,6238.0,CENKA
+22,Share capital,12  Mar-15,219.0,CENKA
+23,"""Free"" reserves",12  Mar-15,6776.0,CENKA
+24,Net worth,12  Mar-15,7161.0,CENKA
+25,Long term debt,12  Mar-15,658.0,CENKA
+26,Total assets,12  Mar-15,10486.0,CENKA
+27,Interest coverage,12  Mar-15,4.6,CENKA
+28,Debt to equity ratio,12  Mar-15,0.1,CENKA
+29,Sales to assets ratio,12  Mar-15,1.2,CENKA
+30,Return on assets,12  Mar-15,5.1,CENKA
+31,Return on equity,12  Mar-15,5.1,CENKA
+32,Return on capital,12  Mar-15,10.2,CENKA
+33,Exports to sales,12  Mar-15,1.6,CENKA
+34,Imports to sales,12  Mar-15,28.1,CENKA
+35,Exports (fob),12  Mar-15,191.0,CENKA
+36,Imports (cif),12  Mar-15,3429.0,CENKA
+37,Fx inflow,12  Mar-15,198.0,CENKA
+38,Fx outflow,12  Mar-15,3456.0,CENKA
+39,Net fx,12  Mar-15,-3258.0,CENKA
+40,From Operations,12  Mar-15,1283.0,CENKA
+41,From Investments,12  Mar-15,-533.0,CENKA
+42,From Financial Activity,12  Mar-15,-757.0,CENKA
+43,Net Cashflow,12  Mar-15,-7.0,CENKA
+44,Net Sales,12  Mar-16,11436.0,CENKA
+45,Other income,12  Mar-16,39.0,CENKA
+46,Total revenues,12  Mar-16,11475.0,CENKA
+47,Gross profit,12  Mar-16,1422.0,CENKA
+48,Depreciation,12  Mar-16,402.0,CENKA
+49,Interest,12  Mar-16,96.0,CENKA
+50,Profit before tax,12  Mar-16,963.0,CENKA
+51,Minority Interest,12  Mar-16,0.0,CENKA
+52,Prior Period Items,12  Mar-16,0.0,CENKA
+53,Extraordinary Inc (Exp),12  Mar-16,-75.0,CENKA
+54,Tax,12  Mar-16,293.0,CENKA
+55,Profit after tax,12  Mar-16,595.0,CENKA
+56,Gross profit margin,12  Mar-16,12.4,CENKA
+57,Effective tax rate,12  Mar-16,30.4,CENKA
+58,Net profit margin,12  Mar-16,5.2,CENKA
+59,Current assets,12  Mar-16,3834.0,CENKA
+60,Current liabilities,12  Mar-16,862.0,CENKA
+61,Net working cap to sales,12  Mar-16,26.0,CENKA
+62,Current ratio,12  Mar-16,4.4,CENKA
+63,Inventory Days,12  Mar-16,47.0,CENKA
+64,Debtors Days,12  Mar-16,50.0,CENKA
+65,Net fixed assets,12  Mar-16,5991.0,CENKA
+66,Share capital,12  Mar-16,219.0,CENKA
+67,"""Free"" reserves",12  Mar-16,7177.0,CENKA
+68,Net worth,12  Mar-16,7559.0,CENKA
+69,Long term debt,12  Mar-16,514.0,CENKA
+70,Total assets,12  Mar-16,10124.0,CENKA
+71,Interest coverage,12  Mar-16,11.1,CENKA
+72,Debt to equity ratio,12  Mar-16,0.1,CENKA
+73,Sales to assets ratio,12  Mar-16,1.1,CENKA
+74,Return on assets,12  Mar-16,6.8,CENKA
+75,Return on equity,12  Mar-16,7.9,CENKA
+76,Return on capital,12  Mar-16,12.2,CENKA
+77,Exports to sales,12  Mar-16,0.9,CENKA
+78,Imports to sales,12  Mar-16,28.4,CENKA
+79,Exports (fob),12  Mar-16,99.0,CENKA
+80,Imports (cif),12  Mar-16,3246.0,CENKA
+81,Fx inflow,12  Mar-16,100.0,CENKA
+82,Fx outflow,12  Mar-16,3262.0,CENKA
+83,Net fx,12  Mar-16,-3162.0,CENKA
+84,From Operations,12  Mar-16,1920.0,CENKA
+85,From Investments,12  Mar-16,-837.0,CENKA
+86,From Financial Activity,12  Mar-16,-1077.0,CENKA
+87,Net Cashflow,12  Mar-16,6.0,CENKA
+88,Net Sales,12  Mar-17,11853.0,CENKA
+89,Other income,12  Mar-17,155.0,CENKA
+90,Total revenues,12  Mar-17,12008.0,CENKA
+91,Gross profit,12  Mar-17,1819.0,CENKA
+92,Depreciation,12  Mar-17,424.0,CENKA
+93,Interest,12  Mar-17,56.0,CENKA
+94,Profit before tax,12  Mar-17,1494.0,CENKA
+95,Minority Interest,12  Mar-17,0.0,CENKA
+96,Prior Period Items,12  Mar-17,0.0,CENKA
+97,Extraordinary Inc (Exp),12  Mar-17,-96.0,CENKA
+98,Tax,12  Mar-17,488.0,CENKA
+99,Profit after tax,12  Mar-17,910.0,CENKA
+100,Gross profit margin,12  Mar-17,15.3,CENKA
+101,Effective tax rate,12  Mar-17,32.7,CENKA
+102,Net profit margin,12  Mar-17,7.7,CENKA
+103,Current assets,12  Mar-17,5131.0,CENKA
+104,Current liabilities,12  Mar-17,1083.0,CENKA
+105,Net working cap to sales,12  Mar-17,34.1,CENKA
+106,Current ratio,12  Mar-17,4.7,CENKA
+107,Inventory Days,12  Mar-17,71.0,CENKA
+108,Debtors Days,12  Mar-17,58.0,CENKA
+109,Net fixed assets,12  Mar-17,5749.0,CENKA
+110,Share capital,12  Mar-17,219.0,CENKA
+111,"""Free"" reserves",12  Mar-17,8325.0,CENKA
+112,Net worth,12  Mar-17,8544.0,CENKA
+113,Long term debt,12  Mar-17,371.0,CENKA
+114,Total assets,12  Mar-17,11195.0,CENKA
+115,Interest coverage,12  Mar-17,27.6,CENKA
+116,Debt to equity ratio,12  Mar-17,0.0,CENKA
+117,Sales to assets ratio,12  Mar-17,1.1,CENKA
+118,Return on assets,12  Mar-17,8.6,CENKA
+119,Return on equity,12  Mar-17,10.6,CENKA
+120,Return on capital,12  Mar-17,16.3,CENKA
+121,Exports to sales,12  Mar-17,0.0,CENKA
+122,Imports to sales,12  Mar-17,0.0,CENKA
+123,Exports (fob),12  Mar-17,0.0,CENKA
+124,Imports (cif),12  Mar-17,0.0,CENKA
+125,Fx inflow,12  Mar-17,96.0,CENKA
+126,Fx outflow,12  Mar-17,4410.0,CENKA
+127,Net fx,12  Mar-17,-4314.0,CENKA
+128,From Operations,12  Mar-17,605.0,CENKA
+129,From Investments,12  Mar-17,-198.0,CENKA
+130,From Financial Activity,12  Mar-17,-427.0,CENKA
+131,Net Cashflow,12  Mar-17,-20.0,CENKA
+132,Net Sales,12  Mar-18,14165.0,CENKA
+133,Other income,12  Mar-18,178.0,CENKA
+134,Total revenues,12  Mar-18,14342.0,CENKA
+135,Gross profit,12  Mar-18,1117.0,CENKA
+136,Depreciation,12  Mar-18,419.0,CENKA
+137,Interest,12  Mar-18,34.0,CENKA
+138,Profit before tax,12  Mar-18,841.0,CENKA
+139,Minority Interest,12  Mar-18,0.0,CENKA
+140,Prior Period Items,12  Mar-18,0.0,CENKA
+141,Extraordinary Inc (Exp),12  Mar-18,249.0,CENKA
+142,Tax,12  Mar-18,389.0,CENKA
+143,Profit after tax,12  Mar-18,701.0,CENKA
+144,Gross profit margin,12  Mar-18,7.9,CENKA
+145,Effective tax rate,12  Mar-18,46.3,CENKA
+146,Net profit margin,12  Mar-18,4.9,CENKA
+147,Current assets,12  Mar-18,5572.0,CENKA
+148,Current liabilities,12  Mar-18,1050.0,CENKA
+149,Net working cap to sales,12  Mar-18,31.9,CENKA
+150,Current ratio,12  Mar-18,5.3,CENKA
+151,Inventory Days,12  Mar-18,56.0,CENKA
+152,Debtors Days,12  Mar-18,53.0,CENKA
+153,Net fixed assets,12  Mar-18,5786.0,CENKA
+154,Share capital,12  Mar-18,219.0,CENKA
+155,"""Free"" reserves",12  Mar-18,8791.0,CENKA
+156,Net worth,12  Mar-18,9009.0,CENKA
+157,Long term debt,12  Mar-18,306.0,CENKA
+158,Total assets,12  Mar-18,11637.0,CENKA
+159,Interest coverage,12  Mar-18,25.7,CENKA
+160,Debt to equity ratio,12  Mar-18,0.0,CENKA
+161,Sales to assets ratio,12  Mar-18,1.2,CENKA
+162,Return on assets,12  Mar-18,6.3,CENKA
+163,Return on equity,12  Mar-18,7.8,CENKA
+164,Return on capital,12  Mar-18,12.1,CENKA
+165,Exports to sales,12  Mar-18,0.0,CENKA
+166,Imports to sales,12  Mar-18,0.0,CENKA
+167,Exports (fob),12  Mar-18,0.0,CENKA
+168,Imports (cif),12  Mar-18,0.0,CENKA
+169,Fx inflow,12  Mar-18,226.0,CENKA
+170,Fx outflow,12  Mar-18,5043.0,CENKA
+171,Net fx,12  Mar-18,-4817.0,CENKA
+172,From Operations,12  Mar-18,561.0,CENKA
+173,From Investments,12  Mar-18,-83.0,CENKA
+174,From Financial Activity,12  Mar-18,-275.0,CENKA
+175,Net Cashflow,12  Mar-18,204.0,CENKA
+176,Net Sales,12  Mar-19,17914.0,CENKA
+177,Other income,12  Mar-19,216.0,CENKA
+178,Total revenues,12  Mar-19,18130.0,CENKA
+179,Gross profit,12  Mar-19,1505.0,CENKA
+180,Depreciation,12  Mar-19,450.0,CENKA
+181,Interest,12  Mar-19,35.0,CENKA
+182,Profit before tax,12  Mar-19,1236.0,CENKA
+183,Minority Interest,12  Mar-19,0.0,CENKA
+184,Prior Period Items,12  Mar-19,0.0,CENKA
+185,Extraordinary Inc (Exp),12  Mar-19,-45.0,CENKA
+186,Tax,12  Mar-19,425.0,CENKA
+187,Profit after tax,12  Mar-19,766.0,CENKA
+188,Gross profit margin,12  Mar-19,8.4,CENKA
+189,Effective tax rate,12  Mar-19,34.4,CENKA
+190,Net profit margin,12  Mar-19,4.3,CENKA
+191,Current assets,12  Mar-19,6423.0,CENKA
+192,Current liabilities,12  Mar-19,1289.0,CENKA
+193,Net working cap to sales,12  Mar-19,28.7,CENKA
+194,Current ratio,12  Mar-19,5.0,CENKA
+195,Inventory Days,12  Mar-19,44.0,CENKA
+196,Debtors Days,12  Mar-19,42.0,CENKA
+197,Net fixed assets,12  Mar-19,5501.0,CENKA
+198,Share capital,12  Mar-19,219.0,CENKA
+199,"""Free"" reserves",12  Mar-19,9330.0,CENKA
+200,Net worth,12  Mar-19,9549.0,CENKA
+201,Long term debt,12  Mar-19,210.0,CENKA
+202,Total assets,12  Mar-19,12312.0,CENKA
+203,Interest coverage,12  Mar-19,36.7,CENKA
+204,Debt to equity ratio,12  Mar-19,0.0,CENKA
+205,Sales to assets ratio,12  Mar-19,1.5,CENKA
+206,Return on assets,12  Mar-19,6.5,CENKA
+207,Return on equity,12  Mar-19,8.0,CENKA
+208,Return on capital,12  Mar-19,12.6,CENKA
+209,Exports to sales,12  Mar-19,0.0,CENKA
+210,Imports to sales,12  Mar-19,0.0,CENKA
+211,Exports (fob),12  Mar-19,0.0,CENKA
+212,Imports (cif),12  Mar-19,0.0,CENKA
+213,Fx inflow,12  Mar-19,371.0,CENKA
+214,Fx outflow,12  Mar-19,7999.0,CENKA
+215,Net fx,12  Mar-19,-7627.0,CENKA
+216,From Operations,12  Mar-19,1225.0,CENKA
+217,From Investments,12  Mar-19,-1102.0,CENKA
+218,From Financial Activity,12  Mar-19,-306.0,CENKA
+219,Net Cashflow,12  Mar-19,-183.0,CENKA

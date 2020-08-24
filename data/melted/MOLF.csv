@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,52431.0,MOLF
+1,Other income,12  Mar-15,1388.0,MOLF
+2,Total revenues,12  Mar-15,53818.0,MOLF
+3,Gross profit,12  Mar-15,-5970.0,MOLF
+4,Depreciation,12  Mar-15,1266.0,MOLF
+5,Interest,12  Mar-15,1635.0,MOLF
+6,Profit before tax,12  Mar-15,-7484.0,MOLF
+7,Minority Interest,12  Mar-15,0.0,MOLF
+8,Prior Period Items,12  Mar-15,0.0,MOLF
+9,Extraordinary Inc (Exp),12  Mar-15,614.0,MOLF
+10,Tax,12  Mar-15,0.0,MOLF
+11,Profit after tax,12  Mar-15,-6871.0,MOLF
+12,Gross profit margin,12  Mar-15,-11.4,MOLF
+13,Effective tax rate,12  Mar-15,0.0,MOLF
+14,Net profit margin,12  Mar-15,-13.1,MOLF
+15,Current assets,12  Mar-15,5530.0,MOLF
+16,Current liabilities,12  Mar-15,28785.0,MOLF
+17,Net working cap to sales,12  Mar-15,-44.4,MOLF
+18,Current ratio,12  Mar-15,0.2,MOLF
+19,Inventory Days,12  Mar-15,3.0,MOLF
+20,Debtors Days,12  Mar-15,9.0,MOLF
+21,Net fixed assets,12  Mar-15,21510.0,MOLF
+22,Share capital,12  Mar-15,5995.0,MOLF
+23,"""Free"" reserves",12  Mar-15,-20847.0,MOLF
+24,Net worth,12  Mar-15,-14852.0,MOLF
+25,Long term debt,12  Mar-15,11161.0,MOLF
+26,Total assets,12  Mar-15,27039.0,MOLF
+27,Interest coverage,12  Mar-15,-3.6,MOLF
+28,Debt to equity ratio,12  Mar-15,-0.8,MOLF
+29,Sales to assets ratio,12  Mar-15,1.9,MOLF
+30,Return on assets,12  Mar-15,-19.4,MOLF
+31,Return on equity,12  Mar-15,46.3,MOLF
+32,Return on capital,12  Mar-15,141.8,MOLF
+33,Exports to sales,12  Mar-15,0.0,MOLF
+34,Imports to sales,12  Mar-15,3.9,MOLF
+35,Exports (fob),12  Mar-15,0.0,MOLF
+36,Imports (cif),12  Mar-15,2069.0,MOLF
+37,Fx inflow,12  Mar-15,2652.0,MOLF
+38,Fx outflow,12  Mar-15,21273.0,MOLF
+39,Net fx,12  Mar-15,-18621.0,MOLF
+40,From Operations,12  Mar-15,-4109.0,MOLF
+41,From Investments,12  Mar-15,3038.0,MOLF
+42,From Financial Activity,12  Mar-15,1256.0,MOLF
+43,Net Cashflow,12  Mar-15,185.0,MOLF
+44,Net Sales,12  Mar-16,50881.0,MOLF
+45,Other income,12  Mar-16,1309.0,MOLF
+46,Total revenues,12  Mar-16,52190.0,MOLF
+47,Gross profit,12  Mar-16,-483.0,MOLF
+48,Depreciation,12  Mar-16,-1798.0,MOLF
+49,Interest,12  Mar-16,-1237.0,MOLF
+50,Profit before tax,12  Mar-16,3861.0,MOLF
+51,Minority Interest,12  Mar-16,0.0,MOLF
+52,Prior Period Items,12  Mar-16,0.0,MOLF
+53,Extraordinary Inc (Exp),12  Mar-16,637.0,MOLF
+54,Tax,12  Mar-16,0.0,MOLF
+55,Profit after tax,12  Mar-16,4498.0,MOLF
+56,Gross profit margin,12  Mar-16,-0.9,MOLF
+57,Effective tax rate,12  Mar-16,0.0,MOLF
+58,Net profit margin,12  Mar-16,8.8,MOLF
+59,Current assets,12  Mar-16,6803.0,MOLF
+60,Current liabilities,12  Mar-16,26255.0,MOLF
+61,Net working cap to sales,12  Mar-16,-38.2,MOLF
+62,Current ratio,12  Mar-16,0.3,MOLF
+63,Inventory Days,12  Mar-16,5.0,MOLF
+64,Debtors Days,12  Mar-16,3.0,MOLF
+65,Net fixed assets,12  Mar-16,21664.0,MOLF
+66,Share capital,12  Mar-16,5995.0,MOLF
+67,"""Free"" reserves",12  Mar-16,-16383.0,MOLF
+68,Net worth,12  Mar-16,-10389.0,MOLF
+69,Long term debt,12  Mar-16,9209.0,MOLF
+70,Total assets,12  Mar-16,28467.0,MOLF
+71,Interest coverage,12  Mar-16,-2.1,MOLF
+72,Debt to equity ratio,12  Mar-16,-0.9,MOLF
+73,Sales to assets ratio,12  Mar-16,1.8,MOLF
+74,Return on assets,12  Mar-16,11.5,MOLF
+75,Return on equity,12  Mar-16,-43.3,MOLF
+76,Return on capital,12  Mar-16,-276.5,MOLF
+77,Exports to sales,12  Mar-16,0.0,MOLF
+78,Imports to sales,12  Mar-16,3.9,MOLF
+79,Exports (fob),12  Mar-16,0.0,MOLF
+80,Imports (cif),12  Mar-16,1992.0,MOLF
+81,Fx inflow,12  Mar-16,3141.0,MOLF
+82,Fx outflow,12  Mar-16,19737.0,MOLF
+83,Net fx,12  Mar-16,-16596.0,MOLF
+84,From Operations,12  Mar-16,7112.0,MOLF
+85,From Investments,12  Mar-16,-2746.0,MOLF
+86,From Financial Activity,12  Mar-16,-3785.0,MOLF
+87,Net Cashflow,12  Mar-16,576.0,MOLF
+88,Net Sales,12  Mar-17,61914.0,MOLF
+89,Other income,12  Mar-17,801.0,MOLF
+90,Total revenues,12  Mar-17,62715.0,MOLF
+91,Gross profit,12  Mar-17,449.0,MOLF
+92,Depreciation,12  Mar-17,-1986.0,MOLF
+93,Interest,12  Mar-17,-650.0,MOLF
+94,Profit before tax,12  Mar-17,3887.0,MOLF
+95,Minority Interest,12  Mar-17,0.0,MOLF
+96,Prior Period Items,12  Mar-17,0.0,MOLF
+97,Extraordinary Inc (Exp),12  Mar-17,386.0,MOLF
+98,Tax,12  Mar-17,0.0,MOLF
+99,Profit after tax,12  Mar-17,4272.0,MOLF
+100,Gross profit margin,12  Mar-17,0.7,MOLF
+101,Effective tax rate,12  Mar-17,0.0,MOLF
+102,Net profit margin,12  Mar-17,6.9,MOLF
+103,Current assets,12  Mar-17,7113.0,MOLF
+104,Current liabilities,12  Mar-17,24704.0,MOLF
+105,Net working cap to sales,12  Mar-17,-28.4,MOLF
+106,Current ratio,12  Mar-17,0.3,MOLF
+107,Inventory Days,12  Mar-17,6.0,MOLF
+108,Debtors Days,12  Mar-17,4.0,MOLF
+109,Net fixed assets,12  Mar-17,16200.0,MOLF
+110,Share capital,12  Mar-17,5995.0,MOLF
+111,"""Free"" reserves",12  Mar-17,-12121.0,MOLF
+112,Net worth,12  Mar-17,-6126.0,MOLF
+113,Long term debt,12  Mar-17,7760.0,MOLF
+114,Total assets,12  Mar-17,29906.0,MOLF
+115,Interest coverage,12  Mar-17,-5.0,MOLF
+116,Debt to equity ratio,12  Mar-17,-1.3,MOLF
+117,Sales to assets ratio,12  Mar-17,2.1,MOLF
+118,Return on assets,12  Mar-17,12.1,MOLF
+119,Return on equity,12  Mar-17,-69.7,MOLF
+120,Return on capital,12  Mar-17,221.7,MOLF
+121,Exports to sales,12  Mar-17,0.0,MOLF
+122,Imports to sales,12  Mar-17,0.0,MOLF
+123,Exports (fob),12  Mar-17,0.0,MOLF
+124,Imports (cif),12  Mar-17,0.0,MOLF
+125,Fx inflow,12  Mar-17,4970.0,MOLF
+126,Fx outflow,12  Mar-17,20010.0,MOLF
+127,Net fx,12  Mar-17,-15040.0,MOLF
+128,From Operations,12  Mar-17,4792.0,MOLF
+129,From Investments,12  Mar-17,-4928.0,MOLF
+130,From Financial Activity,12  Mar-17,-434.0,MOLF
+131,Net Cashflow,12  Mar-17,-563.0,MOLF
+132,Net Sales,12  Mar-18,77601.0,MOLF
+133,Other income,12  Mar-18,795.0,MOLF
+134,Total revenues,12  Mar-18,78396.0,MOLF
+135,Gross profit,12  Mar-18,1540.0,MOLF
+136,Depreciation,12  Mar-18,-2313.0,MOLF
+137,Interest,12  Mar-18,-923.0,MOLF
+138,Profit before tax,12  Mar-18,5572.0,MOLF
+139,Minority Interest,12  Mar-18,0.0,MOLF
+140,Prior Period Items,12  Mar-18,0.0,MOLF
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,MOLF
+142,Tax,12  Mar-18,0.0,MOLF
+143,Profit after tax,12  Mar-18,5572.0,MOLF
+144,Gross profit margin,12  Mar-18,2.0,MOLF
+145,Effective tax rate,12  Mar-18,0.0,MOLF
+146,Net profit margin,12  Mar-18,7.2,MOLF
+147,Current assets,12  Mar-18,9407.0,MOLF
+148,Current liabilities,12  Mar-18,30975.0,MOLF
+149,Net working cap to sales,12  Mar-18,-27.8,MOLF
+150,Current ratio,12  Mar-18,0.3,MOLF
+151,Inventory Days,12  Mar-18,7.0,MOLF
+152,Debtors Days,12  Mar-18,4.0,MOLF
+153,Net fixed assets,12  Mar-18,15984.0,MOLF
+154,Share capital,12  Mar-18,5995.0,MOLF
+155,"""Free"" reserves",12  Mar-18,-6554.0,MOLF
+156,Net worth,12  Mar-18,-559.0,MOLF
+157,Long term debt,12  Mar-18,6510.0,MOLF
+158,Total assets,12  Mar-18,40193.0,MOLF
+159,Interest coverage,12  Mar-18,-5.0,MOLF
+160,Debt to equity ratio,12  Mar-18,-11.6,MOLF
+161,Sales to assets ratio,12  Mar-18,1.9,MOLF
+162,Return on assets,12  Mar-18,11.6,MOLF
+163,Return on equity,12  Mar-18,-996.4,MOLF
+164,Return on capital,12  Mar-18,78.1,MOLF
+165,Exports to sales,12  Mar-18,0.0,MOLF
+166,Imports to sales,12  Mar-18,0.0,MOLF
+167,Exports (fob),12  Mar-18,0.0,MOLF
+168,Imports (cif),12  Mar-18,0.0,MOLF
+169,Fx inflow,12  Mar-18,5942.0,MOLF
+170,Fx outflow,12  Mar-18,24958.0,MOLF
+171,Net fx,12  Mar-18,-19016.0,MOLF
+172,From Operations,12  Mar-18,10355.0,MOLF
+173,From Investments,12  Mar-18,-8251.0,MOLF
+174,From Financial Activity,12  Mar-18,-1101.0,MOLF
+175,Net Cashflow,12  Mar-18,1003.0,MOLF
+176,Net Sales,12  Mar-19,91215.0,MOLF
+177,Other income,12  Mar-19,583.0,MOLF
+178,Total revenues,12  Mar-19,91798.0,MOLF
+179,Gross profit,12  Mar-19,-6849.0,MOLF
+180,Depreciation,12  Mar-19,-2564.0,MOLF
+181,Interest,12  Mar-19,-1313.0,MOLF
+182,Profit before tax,12  Mar-19,-2389.0,MOLF
+183,Minority Interest,12  Mar-19,0.0,MOLF
+184,Prior Period Items,12  Mar-19,0.0,MOLF
+185,Extraordinary Inc (Exp),12  Mar-19,-635.0,MOLF
+186,Tax,12  Mar-19,0.0,MOLF
+187,Profit after tax,12  Mar-19,-3024.0,MOLF
+188,Gross profit margin,12  Mar-19,-7.5,MOLF
+189,Effective tax rate,12  Mar-19,0.0,MOLF
+190,Net profit margin,12  Mar-19,-3.3,MOLF
+191,Current assets,12  Mar-19,13696.0,MOLF
+192,Current liabilities,12  Mar-19,36196.0,MOLF
+193,Net working cap to sales,12  Mar-19,-24.7,MOLF
+194,Current ratio,12  Mar-19,0.4,MOLF
+195,Inventory Days,12  Mar-19,6.0,MOLF
+196,Debtors Days,12  Mar-19,5.0,MOLF
+197,Net fixed assets,12  Mar-19,16258.0,MOLF
+198,Share capital,12  Mar-19,5997.0,MOLF
+199,"""Free"" reserves",12  Mar-19,-9497.0,MOLF
+200,Net worth,12  Mar-19,-3500.0,MOLF
+201,Long term debt,12  Mar-19,5566.0,MOLF
+202,Total assets,12  Mar-19,47928.0,MOLF
+203,Interest coverage,12  Mar-19,2.8,MOLF
+204,Debt to equity ratio,12  Mar-19,-1.6,MOLF
+205,Sales to assets ratio,12  Mar-19,1.9,MOLF
+206,Return on assets,12  Mar-19,-9.0,MOLF
+207,Return on equity,12  Mar-19,86.4,MOLF
+208,Return on capital,12  Mar-19,-209.8,MOLF
+209,Exports to sales,12  Mar-19,0.0,MOLF
+210,Imports to sales,12  Mar-19,0.0,MOLF
+211,Exports (fob),12  Mar-19,0.0,MOLF
+212,Imports (cif),12  Mar-19,0.0,MOLF
+213,Fx inflow,12  Mar-19,12313.0,MOLF
+214,Fx outflow,12  Mar-19,32645.0,MOLF
+215,Net fx,12  Mar-19,-20332.0,MOLF
+216,From Operations,12  Mar-19,3377.0,MOLF
+217,From Investments,12  Mar-19,-1852.0,MOLF
+218,From Financial Activity,12  Mar-19,-2049.0,MOLF
+219,Net Cashflow,12  Mar-19,-532.0,MOLF

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,24702.0,PHIL
+1,Other income,12  Mar-15*,142.0,PHIL
+2,Total revenues,12  Mar-15*,24844.0,PHIL
+3,Gross profit,12  Mar-15*,1510.0,PHIL
+4,Depreciation,12  Mar-15*,584.0,PHIL
+5,Interest,12  Mar-15*,948.0,PHIL
+6,Profit before tax,12  Mar-15*,121.0,PHIL
+7,Minority Interest,12  Mar-15*,3.0,PHIL
+8,Prior Period Items,12  Mar-15*,0.0,PHIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PHIL
+10,Tax,12  Mar-15*,17.0,PHIL
+11,Profit after tax,12  Mar-15*,107.0,PHIL
+12,Gross profit margin,12  Mar-15*,6.1,PHIL
+13,Effective tax rate,12  Mar-15*,14.1,PHIL
+14,Net profit margin,12  Mar-15*,0.4,PHIL
+15,Current assets,12  Mar-15*,9169.0,PHIL
+16,Current liabilities,12  Mar-15*,11327.0,PHIL
+17,Net working cap to sales,12  Mar-15*,-8.7,PHIL
+18,Current ratio,12  Mar-15*,0.8,PHIL
+19,Inventory Days,12  Mar-15*,44.0,PHIL
+20,Debtors Days,12  Mar-15*,77.0,PHIL
+21,Net fixed assets,12  Mar-15*,15178.0,PHIL
+22,Share capital,12  Mar-15*,345.0,PHIL
+23,"""Free"" reserves",12  Mar-15*,10196.0,PHIL
+24,Net worth,12  Mar-15*,10541.0,PHIL
+25,Long term debt,12  Mar-15*,3263.0,PHIL
+26,Total assets,12  Mar-15*,26541.0,PHIL
+27,Interest coverage,12  Mar-15*,1.1,PHIL
+28,Debt to equity ratio,12  Mar-15*,0.3,PHIL
+29,Sales to assets ratio,12  Mar-15*,0.9,PHIL
+30,Return on assets,12  Mar-15*,4.0,PHIL
+31,Return on equity,12  Mar-15*,1.0,PHIL
+32,Return on capital,12  Mar-15*,7.8,PHIL
+33,Exports to sales,12  Mar-15*,25.1,PHIL
+34,Imports to sales,12  Mar-15*,64.2,PHIL
+35,Exports (fob),12  Mar-15*,6209.0,PHIL
+36,Imports (cif),12  Mar-15*,15863.0,PHIL
+37,Fx inflow,12  Mar-15*,6209.0,PHIL
+38,Fx outflow,12  Mar-15*,16157.0,PHIL
+39,Net fx,12  Mar-15*,-9947.0,PHIL
+40,From Operations,12  Mar-15*,353.0,PHIL
+41,From Investments,12  Mar-15*,-679.0,PHIL
+42,From Financial Activity,12  Mar-15*,336.0,PHIL
+43,Net Cashflow,12  Mar-15*,10.0,PHIL
+44,Net Sales,12  Mar-16*,18941.0,PHIL
+45,Other income,12  Mar-16*,165.0,PHIL
+46,Total revenues,12  Mar-16*,19106.0,PHIL
+47,Gross profit,12  Mar-16*,1652.0,PHIL
+48,Depreciation,12  Mar-16*,622.0,PHIL
+49,Interest,12  Mar-16*,721.0,PHIL
+50,Profit before tax,12  Mar-16*,474.0,PHIL
+51,Minority Interest,12  Mar-16*,0.0,PHIL
+52,Prior Period Items,12  Mar-16*,0.0,PHIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PHIL
+54,Tax,12  Mar-16*,315.0,PHIL
+55,Profit after tax,12  Mar-16*,159.0,PHIL
+56,Gross profit margin,12  Mar-16*,8.7,PHIL
+57,Effective tax rate,12  Mar-16*,66.4,PHIL
+58,Net profit margin,12  Mar-16*,0.8,PHIL
+59,Current assets,12  Mar-16*,9167.0,PHIL
+60,Current liabilities,12  Mar-16*,11822.0,PHIL
+61,Net working cap to sales,12  Mar-16*,-14.0,PHIL
+62,Current ratio,12  Mar-16*,0.8,PHIL
+63,Inventory Days,12  Mar-16*,47.0,PHIL
+64,Debtors Days,12  Mar-16*,84.0,PHIL
+65,Net fixed assets,12  Mar-16*,14956.0,PHIL
+66,Share capital,12  Mar-16*,345.0,PHIL
+67,"""Free"" reserves",12  Mar-16*,10104.0,PHIL
+68,Net worth,12  Mar-16*,10448.0,PHIL
+69,Long term debt,12  Mar-16*,2044.0,PHIL
+70,Total assets,12  Mar-16*,25908.0,PHIL
+71,Interest coverage,12  Mar-16*,1.7,PHIL
+72,Debt to equity ratio,12  Mar-16*,0.2,PHIL
+73,Sales to assets ratio,12  Mar-16*,0.7,PHIL
+74,Return on assets,12  Mar-16*,3.4,PHIL
+75,Return on equity,12  Mar-16*,1.5,PHIL
+76,Return on capital,12  Mar-16*,9.6,PHIL
+77,Exports to sales,12  Mar-16*,23.1,PHIL
+78,Imports to sales,12  Mar-16*,47.3,PHIL
+79,Exports (fob),12  Mar-16*,4368.0,PHIL
+80,Imports (cif),12  Mar-16*,8962.0,PHIL
+81,Fx inflow,12  Mar-16*,4368.0,PHIL
+82,Fx outflow,12  Mar-16*,9220.0,PHIL
+83,Net fx,12  Mar-16*,-4852.0,PHIL
+84,From Operations,12  Mar-16*,4220.0,PHIL
+85,From Investments,12  Mar-16*,-1215.0,PHIL
+86,From Financial Activity,12  Mar-16*,-2616.0,PHIL
+87,Net Cashflow,12  Mar-16*,391.0,PHIL
+88,Net Sales,12  Mar-17*,19270.0,PHIL
+89,Other income,12  Mar-17*,186.0,PHIL
+90,Total revenues,12  Mar-17*,19456.0,PHIL
+91,Gross profit,12  Mar-17*,2581.0,PHIL
+92,Depreciation,12  Mar-17*,606.0,PHIL
+93,Interest,12  Mar-17*,515.0,PHIL
+94,Profit before tax,12  Mar-17*,1647.0,PHIL
+95,Minority Interest,12  Mar-17*,0.0,PHIL
+96,Prior Period Items,12  Mar-17*,0.0,PHIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PHIL
+98,Tax,12  Mar-17*,960.0,PHIL
+99,Profit after tax,12  Mar-17*,687.0,PHIL
+100,Gross profit margin,12  Mar-17*,13.4,PHIL
+101,Effective tax rate,12  Mar-17*,58.3,PHIL
+102,Net profit margin,12  Mar-17*,3.6,PHIL
+103,Current assets,12  Mar-17*,8650.0,PHIL
+104,Current liabilities,12  Mar-17*,10480.0,PHIL
+105,Net working cap to sales,12  Mar-17*,-9.5,PHIL
+106,Current ratio,12  Mar-17*,0.8,PHIL
+107,Inventory Days,12  Mar-17*,46.0,PHIL
+108,Debtors Days,12  Mar-17*,88.0,PHIL
+109,Net fixed assets,12  Mar-17*,14672.0,PHIL
+110,Share capital,12  Mar-17*,345.0,PHIL
+111,"""Free"" reserves",12  Mar-17*,10962.0,PHIL
+112,Net worth,12  Mar-17*,11307.0,PHIL
+113,Long term debt,12  Mar-17*,1902.0,PHIL
+114,Total assets,12  Mar-17*,25801.0,PHIL
+115,Interest coverage,12  Mar-17*,4.2,PHIL
+116,Debt to equity ratio,12  Mar-17*,0.2,PHIL
+117,Sales to assets ratio,12  Mar-17*,0.7,PHIL
+118,Return on assets,12  Mar-17*,4.7,PHIL
+119,Return on equity,12  Mar-17*,6.1,PHIL
+120,Return on capital,12  Mar-17*,16.4,PHIL
+121,Exports to sales,12  Mar-17*,0.0,PHIL
+122,Imports to sales,12  Mar-17*,0.0,PHIL
+123,Exports (fob),12  Mar-17*,0.0,PHIL
+124,Imports (cif),12  Mar-17*,0.0,PHIL
+125,Fx inflow,12  Mar-17*,4533.0,PHIL
+126,Fx outflow,12  Mar-17*,12231.0,PHIL
+127,Net fx,12  Mar-17*,-7698.0,PHIL
+128,From Operations,12  Mar-17*,3464.0,PHIL
+129,From Investments,12  Mar-17*,-359.0,PHIL
+130,From Financial Activity,12  Mar-17*,-3371.0,PHIL
+131,Net Cashflow,12  Mar-17*,-266.0,PHIL
+132,Net Sales,12  Mar-18*,25579.0,PHIL
+133,Other income,12  Mar-18*,288.0,PHIL
+134,Total revenues,12  Mar-18*,25867.0,PHIL
+135,Gross profit,12  Mar-18*,3768.0,PHIL
+136,Depreciation,12  Mar-18*,605.0,PHIL
+137,Interest,12  Mar-18*,414.0,PHIL
+138,Profit before tax,12  Mar-18*,3036.0,PHIL
+139,Minority Interest,12  Mar-18*,0.0,PHIL
+140,Prior Period Items,12  Mar-18*,0.0,PHIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PHIL
+142,Tax,12  Mar-18*,740.0,PHIL
+143,Profit after tax,12  Mar-18*,2296.0,PHIL
+144,Gross profit margin,12  Mar-18*,14.7,PHIL
+145,Effective tax rate,12  Mar-18*,24.4,PHIL
+146,Net profit margin,12  Mar-18*,9.0,PHIL
+147,Current assets,12  Mar-18*,10278.0,PHIL
+148,Current liabilities,12  Mar-18*,10950.0,PHIL
+149,Net working cap to sales,12  Mar-18*,-2.6,PHIL
+150,Current ratio,12  Mar-18*,0.9,PHIL
+151,Inventory Days,12  Mar-18*,44.0,PHIL
+152,Debtors Days,12  Mar-18*,74.0,PHIL
+153,Net fixed assets,12  Mar-18*,14660.0,PHIL
+154,Share capital,12  Mar-18*,345.0,PHIL
+155,"""Free"" reserves",12  Mar-18*,13431.0,PHIL
+156,Net worth,12  Mar-18*,13776.0,PHIL
+157,Long term debt,12  Mar-18*,1643.0,PHIL
+158,Total assets,12  Mar-18*,28714.0,PHIL
+159,Interest coverage,12  Mar-18*,8.3,PHIL
+160,Debt to equity ratio,12  Mar-18*,0.1,PHIL
+161,Sales to assets ratio,12  Mar-18*,0.9,PHIL
+162,Return on assets,12  Mar-18*,9.4,PHIL
+163,Return on equity,12  Mar-18*,16.7,PHIL
+164,Return on capital,12  Mar-18*,22.4,PHIL
+165,Exports to sales,12  Mar-18*,0.0,PHIL
+166,Imports to sales,12  Mar-18*,0.0,PHIL
+167,Exports (fob),12  Mar-18*,0.0,PHIL
+168,Imports (cif),12  Mar-18*,0.0,PHIL
+169,Fx inflow,12  Mar-18*,5577.0,PHIL
+170,Fx outflow,12  Mar-18*,12925.0,PHIL
+171,Net fx,12  Mar-18*,-7348.0,PHIL
+172,From Operations,12  Mar-18*,2926.0,PHIL
+173,From Investments,12  Mar-18*,-343.0,PHIL
+174,From Financial Activity,12  Mar-18*,-1099.0,PHIL
+175,Net Cashflow,12  Mar-18*,1484.0,PHIL
+176,Net Sales,12  Mar-19*,35286.0,PHIL
+177,Other income,12  Mar-19*,199.0,PHIL
+178,Total revenues,12  Mar-19*,35485.0,PHIL
+179,Gross profit,12  Mar-19*,6162.0,PHIL
+180,Depreciation,12  Mar-19*,664.0,PHIL
+181,Interest,12  Mar-19*,368.0,PHIL
+182,Profit before tax,12  Mar-19*,5329.0,PHIL
+183,Minority Interest,12  Mar-19*,0.0,PHIL
+184,Prior Period Items,12  Mar-19*,0.0,PHIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PHIL
+186,Tax,12  Mar-19*,1503.0,PHIL
+187,Profit after tax,12  Mar-19*,3827.0,PHIL
+188,Gross profit margin,12  Mar-19*,17.5,PHIL
+189,Effective tax rate,12  Mar-19*,28.2,PHIL
+190,Net profit margin,12  Mar-19*,10.8,PHIL
+191,Current assets,12  Mar-19*,14147.0,PHIL
+192,Current liabilities,12  Mar-19*,12027.0,PHIL
+193,Net working cap to sales,12  Mar-19*,6.0,PHIL
+194,Current ratio,12  Mar-19*,1.2,PHIL
+195,Inventory Days,12  Mar-19*,48.0,PHIL
+196,Debtors Days,12  Mar-19*,68.0,PHIL
+197,Net fixed assets,12  Mar-19*,16753.0,PHIL
+198,Share capital,12  Mar-19*,345.0,PHIL
+199,"""Free"" reserves",12  Mar-19*,16154.0,PHIL
+200,Net worth,12  Mar-19*,16499.0,PHIL
+201,Long term debt,12  Mar-19*,2707.0,PHIL
+202,Total assets,12  Mar-19*,33871.0,PHIL
+203,Interest coverage,12  Mar-19*,15.5,PHIL
+204,Debt to equity ratio,12  Mar-19*,0.2,PHIL
+205,Sales to assets ratio,12  Mar-19*,1.0,PHIL
+206,Return on assets,12  Mar-19*,12.4,PHIL
+207,Return on equity,12  Mar-19*,23.2,PHIL
+208,Return on capital,12  Mar-19*,29.7,PHIL
+209,Exports to sales,12  Mar-19*,0.0,PHIL
+210,Imports to sales,12  Mar-19*,0.0,PHIL
+211,Exports (fob),12  Mar-19*,0.0,PHIL
+212,Imports (cif),12  Mar-19*,0.0,PHIL
+213,Fx inflow,12  Mar-19*,15071.0,PHIL
+214,Fx outflow,12  Mar-19*,25992.0,PHIL
+215,Net fx,12  Mar-19*,-10920.0,PHIL
+216,From Operations,12  Mar-19*,2899.0,PHIL
+217,From Investments,12  Mar-19*,-2775.0,PHIL
+218,From Financial Activity,12  Mar-19*,-704.0,PHIL
+219,Net Cashflow,12  Mar-19*,-580.0,PHIL

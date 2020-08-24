@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,48296.0,MNDRA
+1,Other income,12  Mar-14*,6848.0,MNDRA
+2,Total revenues,12  Mar-14*,55144.0,MNDRA
+3,Gross profit,12  Mar-14*,29192.0,MNDRA
+4,Depreciation,12  Mar-14*,6495.0,MNDRA
+5,Interest,12  Mar-14*,9768.0,MNDRA
+6,Profit before tax,12  Mar-14*,19777.0,MNDRA
+7,Minority Interest,12  Mar-14*,0.0,MNDRA
+8,Prior Period Items,12  Mar-14*,-14.0,MNDRA
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,MNDRA
+10,Tax,12  Mar-14*,2367.0,MNDRA
+11,Profit after tax,12  Mar-14*,17396.0,MNDRA
+12,Gross profit margin,12  Mar-14*,60.4,MNDRA
+13,Effective tax rate,12  Mar-14*,12.0,MNDRA
+14,Net profit margin,12  Mar-14*,36.0,MNDRA
+15,Current assets,12  Mar-14*,54452.0,MNDRA
+16,Current liabilities,12  Mar-14*,26999.0,MNDRA
+17,Net working cap to sales,12  Mar-14*,56.8,MNDRA
+18,Current ratio,12  Mar-14*,2.0,MNDRA
+19,Inventory Days,12  Mar-14*,13.0,MNDRA
+20,Debtors Days,12  Mar-14*,70.0,MNDRA
+21,Net fixed assets,12  Mar-14*,151475.0,MNDRA
+22,Share capital,12  Mar-14*,4168.0,MNDRA
+23,"""Free"" reserves",12  Mar-14*,80903.0,MNDRA
+24,Net worth,12  Mar-14*,87681.0,MNDRA
+25,Long term debt,12  Mar-14*,112884.0,MNDRA
+26,Total assets,12  Mar-14*,246772.0,MNDRA
+27,Interest coverage,12  Mar-14*,3.0,MNDRA
+28,Debt to equity ratio,12  Mar-14*,1.3,MNDRA
+29,Sales to assets ratio,12  Mar-14*,0.2,MNDRA
+30,Return on assets,12  Mar-14*,11.0,MNDRA
+31,Return on equity,12  Mar-14*,19.8,MNDRA
+32,Return on capital,12  Mar-14*,14.7,MNDRA
+33,Exports to sales,12  Mar-14*,0.0,MNDRA
+34,Imports to sales,12  Mar-14*,3.7,MNDRA
+35,Exports (fob),12  Mar-14*,0.0,MNDRA
+36,Imports (cif),12  Mar-14*,1804.0,MNDRA
+37,Fx inflow,12  Mar-14*,11.0,MNDRA
+38,Fx outflow,12  Mar-14*,4026.0,MNDRA
+39,Net fx,12  Mar-14*,-4016.0,MNDRA
+40,From Operations,12  Mar-14*,11319.0,MNDRA
+41,From Investments,12  Mar-14*,-25100.0,MNDRA
+42,From Financial Activity,12  Mar-14*,7725.0,MNDRA
+43,Net Cashflow,12  Mar-14*,-6056.0,MNDRA
+44,Net Sales,12  Mar-15*,61520.0,MNDRA
+45,Other income,12  Mar-15*,6856.0,MNDRA
+46,Total revenues,12  Mar-15*,68376.0,MNDRA
+47,Gross profit,12  Mar-15*,39023.0,MNDRA
+48,Depreciation,12  Mar-15*,9117.0,MNDRA
+49,Interest,12  Mar-15*,11751.0,MNDRA
+50,Profit before tax,12  Mar-15*,25012.0,MNDRA
+51,Minority Interest,12  Mar-15*,-102.0,MNDRA
+52,Prior Period Items,12  Mar-15*,0.0,MNDRA
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,MNDRA
+54,Tax,12  Mar-15*,1767.0,MNDRA
+55,Profit after tax,12  Mar-15*,23143.0,MNDRA
+56,Gross profit margin,12  Mar-15*,63.4,MNDRA
+57,Effective tax rate,12  Mar-15*,7.1,MNDRA
+58,Net profit margin,12  Mar-15*,37.6,MNDRA
+59,Current assets,12  Mar-15*,72228.0,MNDRA
+60,Current liabilities,12  Mar-15*,53626.0,MNDRA
+61,Net working cap to sales,12  Mar-15*,30.2,MNDRA
+62,Current ratio,12  Mar-15*,1.3,MNDRA
+63,Inventory Days,12  Mar-15*,15.0,MNDRA
+64,Debtors Days,12  Mar-15*,78.0,MNDRA
+65,Net fixed assets,12  Mar-15*,192027.0,MNDRA
+66,Share capital,12  Mar-15*,4140.0,MNDRA
+67,"""Free"" reserves",12  Mar-15*,108665.0,MNDRA
+68,Net worth,12  Mar-15*,112805.0,MNDRA
+69,Long term debt,12  Mar-15*,133219.0,MNDRA
+70,Total assets,12  Mar-15*,315900.0,MNDRA
+71,Interest coverage,12  Mar-15*,3.1,MNDRA
+72,Debt to equity ratio,12  Mar-15*,1.2,MNDRA
+73,Sales to assets ratio,12  Mar-15*,0.2,MNDRA
+74,Return on assets,12  Mar-15*,11.0,MNDRA
+75,Return on equity,12  Mar-15*,20.5,MNDRA
+76,Return on capital,12  Mar-15*,14.9,MNDRA
+77,Exports to sales,12  Mar-15*,0.0,MNDRA
+78,Imports to sales,12  Mar-15*,4.1,MNDRA
+79,Exports (fob),12  Mar-15*,0.0,MNDRA
+80,Imports (cif),12  Mar-15*,2547.0,MNDRA
+81,Fx inflow,12  Mar-15*,0.0,MNDRA
+82,Fx outflow,12  Mar-15*,4622.0,MNDRA
+83,Net fx,12  Mar-15*,-4622.0,MNDRA
+84,From Operations,12  Mar-15*,30571.0,MNDRA
+85,From Investments,12  Mar-15*,-24852.0,MNDRA
+86,From Financial Activity,12  Mar-15*,-2365.0,MNDRA
+87,Net Cashflow,12  Mar-15*,3353.0,MNDRA
+88,Net Sales,12  Mar-16*,71087.0,MNDRA
+89,Other income,12  Mar-16*,7327.0,MNDRA
+90,Total revenues,12  Mar-16*,78413.0,MNDRA
+91,Gross profit,12  Mar-16*,45740.0,MNDRA
+92,Depreciation,12  Mar-16*,10630.0,MNDRA
+93,Interest,12  Mar-16*,11243.0,MNDRA
+94,Profit before tax,12  Mar-16*,31194.0,MNDRA
+95,Minority Interest,12  Mar-16*,0.0,MNDRA
+96,Prior Period Items,12  Mar-16*,193.0,MNDRA
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,MNDRA
+98,Tax,12  Mar-16*,2828.0,MNDRA
+99,Profit after tax,12  Mar-16*,28559.0,MNDRA
+100,Gross profit margin,12  Mar-16*,64.3,MNDRA
+101,Effective tax rate,12  Mar-16*,9.1,MNDRA
+102,Net profit margin,12  Mar-16*,40.2,MNDRA
+103,Current assets,12  Mar-16*,70598.0,MNDRA
+104,Current liabilities,12  Mar-16*,78971.0,MNDRA
+105,Net working cap to sales,12  Mar-16*,-11.8,MNDRA
+106,Current ratio,12  Mar-16*,0.9,MNDRA
+107,Inventory Days,12  Mar-16*,11.0,MNDRA
+108,Debtors Days,12  Mar-16*,99.0,MNDRA
+109,Net fixed assets,12  Mar-16*,208384.0,MNDRA
+110,Share capital,12  Mar-16*,4142.0,MNDRA
+111,"""Free"" reserves",12  Mar-16*,130913.0,MNDRA
+112,Net worth,12  Mar-16*,135055.0,MNDRA
+113,Long term debt,12  Mar-16*,158197.0,MNDRA
+114,Total assets,12  Mar-16*,386060.0,MNDRA
+115,Interest coverage,12  Mar-16*,3.8,MNDRA
+116,Debt to equity ratio,12  Mar-16*,1.2,MNDRA
+117,Sales to assets ratio,12  Mar-16*,0.2,MNDRA
+118,Return on assets,12  Mar-16*,10.3,MNDRA
+119,Return on equity,12  Mar-16*,21.1,MNDRA
+120,Return on capital,12  Mar-16*,14.5,MNDRA
+121,Exports to sales,12  Mar-16*,0.0,MNDRA
+122,Imports to sales,12  Mar-16*,0.8,MNDRA
+123,Exports (fob),12  Mar-16*,0.0,MNDRA
+124,Imports (cif),12  Mar-16*,588.0,MNDRA
+125,Fx inflow,12  Mar-16*,0.0,MNDRA
+126,Fx outflow,12  Mar-16*,3633.0,MNDRA
+127,Net fx,12  Mar-16*,-3633.0,MNDRA
+128,From Operations,12  Mar-16*,23805.0,MNDRA
+129,From Investments,12  Mar-16*,-41532.0,MNDRA
+130,From Financial Activity,12  Mar-16*,21704.0,MNDRA
+131,Net Cashflow,12  Mar-16*,3978.0,MNDRA
+132,Net Sales,12  Mar-17*,84394.0,MNDRA
+133,Other income,12  Mar-17*,10401.0,MNDRA
+134,Total revenues,12  Mar-17*,94795.0,MNDRA
+135,Gross profit,12  Mar-17*,56921.0,MNDRA
+136,Depreciation,12  Mar-17*,11602.0,MNDRA
+137,Interest,12  Mar-17*,13932.0,MNDRA
+138,Profit before tax,12  Mar-17*,41789.0,MNDRA
+139,Minority Interest,12  Mar-17*,0.0,MNDRA
+140,Prior Period Items,12  Mar-17*,93.0,MNDRA
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MNDRA
+142,Tax,12  Mar-17*,2866.0,MNDRA
+143,Profit after tax,12  Mar-17*,39015.0,MNDRA
+144,Gross profit margin,12  Mar-17*,67.4,MNDRA
+145,Effective tax rate,12  Mar-17*,6.9,MNDRA
+146,Net profit margin,12  Mar-17*,46.2,MNDRA
+147,Current assets,12  Mar-17*,119074.0,MNDRA
+148,Current liabilities,12  Mar-17*,65559.0,MNDRA
+149,Net working cap to sales,12  Mar-17*,63.4,MNDRA
+150,Current ratio,12  Mar-17*,1.8,MNDRA
+151,Inventory Days,12  Mar-17*,28.0,MNDRA
+152,Debtors Days,12  Mar-17*,85.0,MNDRA
+153,Net fixed assets,12  Mar-17*,255675.0,MNDRA
+154,Share capital,12  Mar-17*,4142.0,MNDRA
+155,"""Free"" reserves",12  Mar-17*,171118.0,MNDRA
+156,Net worth,12  Mar-17*,175260.0,MNDRA
+157,Long term debt,12  Mar-17*,179932.0,MNDRA
+158,Total assets,12  Mar-17*,435851.0,MNDRA
+159,Interest coverage,12  Mar-17*,4.0,MNDRA
+160,Debt to equity ratio,12  Mar-17*,1.0,MNDRA
+161,Sales to assets ratio,12  Mar-17*,0.2,MNDRA
+162,Return on assets,12  Mar-17*,12.1,MNDRA
+163,Return on equity,12  Mar-17*,22.3,MNDRA
+164,Return on capital,12  Mar-17*,15.7,MNDRA
+165,Exports to sales,12  Mar-17*,0.0,MNDRA
+166,Imports to sales,12  Mar-17*,0.0,MNDRA
+167,Exports (fob),12  Mar-17*,0.0,MNDRA
+168,Imports (cif),12  Mar-17*,0.0,MNDRA
+169,Fx inflow,12  Mar-17*,0.0,MNDRA
+170,Fx outflow,12  Mar-17*,3789.0,MNDRA
+171,Net fx,12  Mar-17*,-3789.0,MNDRA
+172,From Operations,12  Mar-17*,40626.0,MNDRA
+173,From Investments,12  Mar-17*,-26394.0,MNDRA
+174,From Financial Activity,12  Mar-17*,-13247.0,MNDRA
+175,Net Cashflow,12  Mar-17*,1087.0,MNDRA
+176,Net Sales,12  Mar-18*,113230.0,MNDRA
+177,Other income,12  Mar-18*,10109.0,MNDRA
+178,Total revenues,12  Mar-18*,123339.0,MNDRA
+179,Gross profit,12  Mar-18*,70621.0,MNDRA
+180,Depreciation,12  Mar-18*,11884.0,MNDRA
+181,Interest,12  Mar-18*,14954.0,MNDRA
+182,Profit before tax,12  Mar-18*,53893.0,MNDRA
+183,Minority Interest,12  Mar-18*,0.0,MNDRA
+184,Prior Period Items,12  Mar-18*,0.0,MNDRA
+185,Extraordinary Inc (Exp),12  Mar-18*,-1552.0,MNDRA
+186,Tax,12  Mar-18*,15442.0,MNDRA
+187,Profit after tax,12  Mar-18*,36900.0,MNDRA
+188,Gross profit margin,12  Mar-18*,62.4,MNDRA
+189,Effective tax rate,12  Mar-18*,28.7,MNDRA
+190,Net profit margin,12  Mar-18*,32.6,MNDRA
+191,Current assets,12  Mar-18*,142900.0,MNDRA
+192,Current liabilities,12  Mar-18*,40444.0,MNDRA
+193,Net working cap to sales,12  Mar-18*,90.5,MNDRA
+194,Current ratio,12  Mar-18*,3.5,MNDRA
+195,Inventory Days,12  Mar-18*,17.0,MNDRA
+196,Debtors Days,12  Mar-18*,114.0,MNDRA
+197,Net fixed assets,12  Mar-18*,272155.0,MNDRA
+198,Share capital,12  Mar-18*,4142.0,MNDRA
+199,"""Free"" reserves",12  Mar-18*,206546.0,MNDRA
+200,Net worth,12  Mar-18*,210688.0,MNDRA
+201,Long term debt,12  Mar-18*,206290.0,MNDRA
+202,Total assets,12  Mar-18*,473751.0,MNDRA
+203,Interest coverage,12  Mar-18*,4.6,MNDRA
+204,Debt to equity ratio,12  Mar-18*,1.0,MNDRA
+205,Sales to assets ratio,12  Mar-18*,0.2,MNDRA
+206,Return on assets,12  Mar-18*,10.9,MNDRA
+207,Return on equity,12  Mar-18*,17.5,MNDRA
+208,Return on capital,12  Mar-18*,16.1,MNDRA
+209,Exports to sales,12  Mar-18*,0.0,MNDRA
+210,Imports to sales,12  Mar-18*,0.0,MNDRA
+211,Exports (fob),12  Mar-18*,0.0,MNDRA
+212,Imports (cif),12  Mar-18*,0.0,MNDRA
+213,Fx inflow,12  Mar-18*,0.0,MNDRA
+214,Fx outflow,12  Mar-18*,5416.0,MNDRA
+215,Net fx,12  Mar-18*,-5416.0,MNDRA
+216,From Operations,12  Mar-18*,56081.0,MNDRA
+217,From Investments,12  Mar-18*,-38458.0,MNDRA
+218,From Financial Activity,12  Mar-18*,-18890.0,MNDRA
+219,Net Cashflow,12  Mar-18*,-1267.0,MNDRA

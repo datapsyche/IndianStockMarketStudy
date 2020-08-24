@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,119370.0,PRCE
+1,Other income,12  Dec-14*,774.0,PRCE
+2,Total revenues,12  Dec-14*,120143.0,PRCE
+3,Gross profit,12  Dec-14*,12049.0,PRCE
+4,Depreciation,12  Dec-14*,3470.0,PRCE
+5,Interest,12  Dec-14*,6199.0,PRCE
+6,Profit before tax,12  Dec-14*,3154.0,PRCE
+7,Minority Interest,12  Dec-14*,189.0,PRCE
+8,Prior Period Items,12  Dec-14*,-1.0,PRCE
+9,Extraordinary Inc (Exp),12  Dec-14*,-2577.0,PRCE
+10,Tax,12  Dec-14*,-121.0,PRCE
+11,Profit after tax,12  Dec-14*,885.0,PRCE
+12,Gross profit margin,12  Dec-14*,10.1,PRCE
+13,Effective tax rate,12  Dec-14*,-3.8,PRCE
+14,Net profit margin,12  Dec-14*,0.7,PRCE
+15,Current assets,12  Dec-14*,41051.0,PRCE
+16,Current liabilities,12  Dec-14*,21549.0,PRCE
+17,Net working cap to sales,12  Dec-14*,16.3,PRCE
+18,Current ratio,12  Dec-14*,1.9,PRCE
+19,Inventory Days,12  Dec-14*,47.0,PRCE
+20,Debtors Days,12  Dec-14*,42.0,PRCE
+21,Net fixed assets,12  Dec-14*,89809.0,PRCE
+22,Share capital,12  Dec-14*,673.0,PRCE
+23,"""Free"" reserves",12  Dec-14*,26627.0,PRCE
+24,Net worth,12  Dec-14*,29458.0,PRCE
+25,Long term debt,12  Dec-14*,71678.0,PRCE
+26,Total assets,12  Dec-14*,135551.0,PRCE
+27,Interest coverage,12  Dec-14*,1.5,PRCE
+28,Debt to equity ratio,12  Dec-14*,2.4,PRCE
+29,Sales to assets ratio,12  Dec-14*,0.9,PRCE
+30,Return on assets,12  Dec-14*,5.2,PRCE
+31,Return on equity,12  Dec-14*,3.0,PRCE
+32,Return on capital,12  Dec-14*,6.9,PRCE
+33,Exports to sales,12  Dec-14*,0.0,PRCE
+34,Imports to sales,12  Dec-14*,0.0,PRCE
+35,Exports (fob),12  Dec-14*,0.0,PRCE
+36,Imports (cif),12  Dec-14*,0.0,PRCE
+37,Fx inflow,12  Dec-14*,842.0,PRCE
+38,Fx outflow,12  Dec-14*,926.0,PRCE
+39,Net fx,12  Dec-14*,-84.0,PRCE
+40,From Operations,12  Dec-14*,12913.0,PRCE
+41,From Investments,12  Dec-14*,-4031.0,PRCE
+42,From Financial Activity,12  Dec-14*,-8917.0,PRCE
+43,Net Cashflow,12  Dec-14*,262.0,PRCE
+44,Net Sales,12  Dec-15*,102185.0,PRCE
+45,Other income,12  Dec-15*,796.0,PRCE
+46,Total revenues,12  Dec-15*,102982.0,PRCE
+47,Gross profit,12  Dec-15*,13492.0,PRCE
+48,Depreciation,12  Dec-15*,3278.0,PRCE
+49,Interest,12  Dec-15*,5965.0,PRCE
+50,Profit before tax,12  Dec-15*,5046.0,PRCE
+51,Minority Interest,12  Dec-15*,-7.0,PRCE
+52,Prior Period Items,12  Dec-15*,217.0,PRCE
+53,Extraordinary Inc (Exp),12  Dec-15*,-61.0,PRCE
+54,Tax,12  Dec-15*,1962.0,PRCE
+55,Profit after tax,12  Dec-15*,3233.0,PRCE
+56,Gross profit margin,12  Dec-15*,13.2,PRCE
+57,Effective tax rate,12  Dec-15*,38.9,PRCE
+58,Net profit margin,12  Dec-15*,3.2,PRCE
+59,Current assets,12  Dec-15*,39321.0,PRCE
+60,Current liabilities,12  Dec-15*,20672.0,PRCE
+61,Net working cap to sales,12  Dec-15*,18.2,PRCE
+62,Current ratio,12  Dec-15*,1.9,PRCE
+63,Inventory Days,12  Dec-15*,58.0,PRCE
+64,Debtors Days,12  Dec-15*,43.0,PRCE
+65,Net fixed assets,12  Dec-15*,89506.0,PRCE
+66,Share capital,12  Dec-15*,673.0,PRCE
+67,"""Free"" reserves",12  Dec-15*,27997.0,PRCE
+68,Net worth,12  Dec-15*,29375.0,PRCE
+69,Long term debt,12  Dec-15*,71323.0,PRCE
+70,Total assets,12  Dec-15*,133230.0,PRCE
+71,Interest coverage,12  Dec-15*,1.8,PRCE
+72,Debt to equity ratio,12  Dec-15*,2.4,PRCE
+73,Sales to assets ratio,12  Dec-15*,0.8,PRCE
+74,Return on assets,12  Dec-15*,6.9,PRCE
+75,Return on equity,12  Dec-15*,11.0,PRCE
+76,Return on capital,12  Dec-15*,11.1,PRCE
+77,Exports to sales,12  Dec-15*,0.0,PRCE
+78,Imports to sales,12  Dec-15*,0.0,PRCE
+79,Exports (fob),12  Dec-15*,0.0,PRCE
+80,Imports (cif),12  Dec-15*,0.0,PRCE
+81,Fx inflow,12  Dec-15*,2010.0,PRCE
+82,Fx outflow,12  Dec-15*,3127.0,PRCE
+83,Net fx,12  Dec-15*,-1117.0,PRCE
+84,From Operations,12  Dec-15*,12382.0,PRCE
+85,From Investments,12  Dec-15*,-4093.0,PRCE
+86,From Financial Activity,12  Dec-15*,-7954.0,PRCE
+87,Net Cashflow,12  Dec-15*,-73.0,PRCE
+88,Net Sales,12  Dec-16*,92582.0,PRCE
+89,Other income,12  Dec-16*,1212.0,PRCE
+90,Total revenues,12  Dec-16*,93793.0,PRCE
+91,Gross profit,12  Dec-16*,15307.0,PRCE
+92,Depreciation,12  Dec-16*,5190.0,PRCE
+93,Interest,12  Dec-16*,6309.0,PRCE
+94,Profit before tax,12  Dec-16*,5020.0,PRCE
+95,Minority Interest,12  Dec-16*,42.0,PRCE
+96,Prior Period Items,12  Dec-16*,0.0,PRCE
+97,Extraordinary Inc (Exp),12  Dec-16*,-262.0,PRCE
+98,Tax,12  Dec-16*,1792.0,PRCE
+99,Profit after tax,12  Dec-16*,3008.0,PRCE
+100,Gross profit margin,12  Dec-16*,16.5,PRCE
+101,Effective tax rate,12  Dec-16*,35.7,PRCE
+102,Net profit margin,12  Dec-16*,3.2,PRCE
+103,Current assets,12  Dec-16*,35623.0,PRCE
+104,Current liabilities,12  Dec-16*,17989.0,PRCE
+105,Net working cap to sales,12  Dec-16*,19.0,PRCE
+106,Current ratio,12  Dec-16*,2.0,PRCE
+107,Inventory Days,12  Dec-16*,50.0,PRCE
+108,Debtors Days,12  Dec-16*,41.0,PRCE
+109,Net fixed assets,12  Dec-16*,91487.0,PRCE
+110,Share capital,12  Dec-16*,673.0,PRCE
+111,"""Free"" reserves",12  Dec-16*,30975.0,PRCE
+112,Net worth,12  Dec-16*,31648.0,PRCE
+113,Long term debt,12  Dec-16*,68525.0,PRCE
+114,Total assets,12  Dec-16*,130794.0,PRCE
+115,Interest coverage,12  Dec-16*,1.8,PRCE
+116,Debt to equity ratio,12  Dec-16*,2.2,PRCE
+117,Sales to assets ratio,12  Dec-16*,0.7,PRCE
+118,Return on assets,12  Dec-16*,7.1,PRCE
+119,Return on equity,12  Dec-16*,9.5,PRCE
+120,Return on capital,12  Dec-16*,11.1,PRCE
+121,Exports to sales,12  Dec-16*,0.0,PRCE
+122,Imports to sales,12  Dec-16*,0.0,PRCE
+123,Exports (fob),12  Dec-16*,0.0,PRCE
+124,Imports (cif),12  Dec-16*,0.0,PRCE
+125,Fx inflow,12  Dec-16*,3015.0,PRCE
+126,Fx outflow,12  Dec-16*,2850.0,PRCE
+127,Net fx,12  Dec-16*,166.0,PRCE
+128,From Operations,12  Dec-16*,15668.0,PRCE
+129,From Investments,12  Dec-16*,-4789.0,PRCE
+130,From Financial Activity,12  Dec-16*,-8866.0,PRCE
+131,Net Cashflow,12  Dec-16*,1761.0,PRCE
+132,Net Sales,12  Dec-17*,113032.0,PRCE
+133,Other income,12  Dec-17*,1110.0,PRCE
+134,Total revenues,12  Dec-17*,114142.0,PRCE
+135,Gross profit,12  Dec-17*,22727.0,PRCE
+136,Depreciation,12  Dec-17*,5256.0,PRCE
+137,Interest,12  Dec-17*,5947.0,PRCE
+138,Profit before tax,12  Dec-17*,12634.0,PRCE
+139,Minority Interest,12  Dec-17*,9.0,PRCE
+140,Prior Period Items,12  Dec-17*,0.0,PRCE
+141,Extraordinary Inc (Exp),12  Dec-17*,-1803.0,PRCE
+142,Tax,12  Dec-17*,2918.0,PRCE
+143,Profit after tax,12  Dec-17*,7921.0,PRCE
+144,Gross profit margin,12  Dec-17*,20.1,PRCE
+145,Effective tax rate,12  Dec-17*,23.1,PRCE
+146,Net profit margin,12  Dec-17*,7.0,PRCE
+147,Current assets,12  Dec-17*,49545.0,PRCE
+148,Current liabilities,12  Dec-17*,55243.0,PRCE
+149,Net working cap to sales,12  Dec-17*,-5.0,PRCE
+150,Current ratio,12  Dec-17*,0.9,PRCE
+151,Inventory Days,12  Dec-17*,65.0,PRCE
+152,Debtors Days,12  Dec-17*,54.0,PRCE
+153,Net fixed assets,12  Dec-17*,91309.0,PRCE
+154,Share capital,12  Dec-17*,673.0,PRCE
+155,"""Free"" reserves",12  Dec-17*,38768.0,PRCE
+156,Net worth,12  Dec-17*,39441.0,PRCE
+157,Long term debt,12  Dec-17*,37397.0,PRCE
+158,Total assets,12  Dec-17*,145503.0,PRCE
+159,Interest coverage,12  Dec-17*,3.1,PRCE
+160,Debt to equity ratio,12  Dec-17*,0.9,PRCE
+161,Sales to assets ratio,12  Dec-17*,0.8,PRCE
+162,Return on assets,12  Dec-17*,9.5,PRCE
+163,Return on equity,12  Dec-17*,20.1,PRCE
+164,Return on capital,12  Dec-17*,21.8,PRCE
+165,Exports to sales,12  Dec-17*,0.0,PRCE
+166,Imports to sales,12  Dec-17*,0.0,PRCE
+167,Exports (fob),12  Dec-17*,0.0,PRCE
+168,Imports (cif),12  Dec-17*,0.0,PRCE
+169,Fx inflow,12  Dec-17*,1984.0,PRCE
+170,Fx outflow,12  Dec-17*,1449.0,PRCE
+171,Net fx,12  Dec-17*,535.0,PRCE
+172,From Operations,12  Dec-17*,8681.0,PRCE
+173,From Investments,12  Dec-17*,-5035.0,PRCE
+174,From Financial Activity,12  Dec-17*,-5205.0,PRCE
+175,Net Cashflow,12  Dec-17*,-1916.0,PRCE
+176,Net Sales,12  Dec-18*,140490.0,PRCE
+177,Other income,12  Dec-18*,408.0,PRCE
+178,Total revenues,12  Dec-18*,140898.0,PRCE
+179,Gross profit,12  Dec-18*,19656.0,PRCE
+180,Depreciation,12  Dec-18*,5551.0,PRCE
+181,Interest,12  Dec-18*,4565.0,PRCE
+182,Profit before tax,12  Dec-18*,9948.0,PRCE
+183,Minority Interest,12  Dec-18*,9.0,PRCE
+184,Prior Period Items,12  Dec-18*,0.0,PRCE
+185,Extraordinary Inc (Exp),12  Dec-18*,0.0,PRCE
+186,Tax,12  Dec-18*,3643.0,PRCE
+187,Profit after tax,12  Dec-18*,6313.0,PRCE
+188,Gross profit margin,12  Dec-18*,14.0,PRCE
+189,Effective tax rate,12  Dec-18*,36.6,PRCE
+190,Net profit margin,12  Dec-18*,4.5,PRCE
+191,Current assets,12  Dec-18*,51730.0,PRCE
+192,Current liabilities,12  Dec-18*,25700.0,PRCE
+193,Net working cap to sales,12  Dec-18*,18.5,PRCE
+194,Current ratio,12  Dec-18*,2.0,PRCE
+195,Inventory Days,12  Dec-18*,62.0,PRCE
+196,Debtors Days,12  Dec-18*,42.0,PRCE
+197,Net fixed assets,12  Dec-18*,100641.0,PRCE
+198,Share capital,12  Dec-18*,673.0,PRCE
+199,"""Free"" reserves",12  Dec-18*,45555.0,PRCE
+200,Net worth,12  Dec-18*,46227.0,PRCE
+201,Long term debt,12  Dec-18*,72420.0,PRCE
+202,Total assets,12  Dec-18*,157495.0,PRCE
+203,Interest coverage,12  Dec-18*,3.2,PRCE
+204,Debt to equity ratio,12  Dec-18*,1.6,PRCE
+205,Sales to assets ratio,12  Dec-18*,0.9,PRCE
+206,Return on assets,12  Dec-18*,6.9,PRCE
+207,Return on equity,12  Dec-18*,13.7,PRCE
+208,Return on capital,12  Dec-18*,12.2,PRCE
+209,Exports to sales,12  Dec-18*,0.0,PRCE
+210,Imports to sales,12  Dec-18*,0.0,PRCE
+211,Exports (fob),12  Dec-18*,0.0,PRCE
+212,Imports (cif),12  Dec-18*,0.0,PRCE
+213,Fx inflow,12  Dec-18*,178.0,PRCE
+214,Fx outflow,12  Dec-18*,4157.0,PRCE
+215,Net fx,12  Dec-18*,-3978.0,PRCE
+216,From Operations,12  Dec-18*,17144.0,PRCE
+217,From Investments,12  Dec-18*,-10324.0,PRCE
+218,From Financial Activity,12  Dec-18*,-6186.0,PRCE
+219,Net Cashflow,12  Dec-18*,493.0,PRCE

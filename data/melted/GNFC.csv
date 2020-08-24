@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,45385.0,GNFC
+1,Other income,12  Mar-15,518.0,GNFC
+2,Total revenues,12  Mar-15,45902.0,GNFC
+3,Gross profit,12  Mar-15,3094.0,GNFC
+4,Depreciation,12  Mar-15,2088.0,GNFC
+5,Interest,12  Mar-15,2745.0,GNFC
+6,Profit before tax,12  Mar-15,-1221.0,GNFC
+7,Minority Interest,12  Mar-15,0.0,GNFC
+8,Prior Period Items,12  Mar-15,91.0,GNFC
+9,Extraordinary Inc (Exp),12  Mar-15,-3300.0,GNFC
+10,Tax,12  Mar-15,0.0,GNFC
+11,Profit after tax,12  Mar-15,-4430.0,GNFC
+12,Gross profit margin,12  Mar-15,6.8,GNFC
+13,Effective tax rate,12  Mar-15,0.0,GNFC
+14,Net profit margin,12  Mar-15,-9.8,GNFC
+15,Current assets,12  Mar-15,30209.0,GNFC
+16,Current liabilities,12  Mar-15,30585.0,GNFC
+17,Net working cap to sales,12  Mar-15,-0.8,GNFC
+18,Current ratio,12  Mar-15,1.0,GNFC
+19,Inventory Days,12  Mar-15,58.0,GNFC
+20,Debtors Days,12  Mar-15,109.0,GNFC
+21,Net fixed assets,12  Mar-15,45809.0,GNFC
+22,Share capital,12  Mar-15,1554.0,GNFC
+23,"""Free"" reserves",12  Mar-15,29990.0,GNFC
+24,Net worth,12  Mar-15,31544.0,GNFC
+25,Long term debt,12  Mar-15,15204.0,GNFC
+26,Total assets,12  Mar-15,91092.0,GNFC
+27,Interest coverage,12  Mar-15,0.6,GNFC
+28,Debt to equity ratio,12  Mar-15,0.5,GNFC
+29,Sales to assets ratio,12  Mar-15,0.5,GNFC
+30,Return on assets,12  Mar-15,-1.8,GNFC
+31,Return on equity,12  Mar-15,-14.0,GNFC
+32,Return on capital,12  Mar-15,-3.6,GNFC
+33,Exports to sales,12  Mar-15,0.5,GNFC
+34,Imports to sales,12  Mar-15,4.5,GNFC
+35,Exports (fob),12  Mar-15,233.0,GNFC
+36,Imports (cif),12  Mar-15,2042.0,GNFC
+37,Fx inflow,12  Mar-15,238.0,GNFC
+38,Fx outflow,12  Mar-15,2309.0,GNFC
+39,Net fx,12  Mar-15,-2071.0,GNFC
+40,From Operations,12  Mar-15,4901.0,GNFC
+41,From Investments,12  Mar-15,-2838.0,GNFC
+42,From Financial Activity,12  Mar-15,-3626.0,GNFC
+43,Net Cashflow,12  Mar-15,-1563.0,GNFC
+44,Net Sales,12  Mar-16*,45519.0,GNFC
+45,Other income,12  Mar-16*,2524.0,GNFC
+46,Total revenues,12  Mar-16*,48043.0,GNFC
+47,Gross profit,12  Mar-16*,5629.0,GNFC
+48,Depreciation,12  Mar-16*,2508.0,GNFC
+49,Interest,12  Mar-16*,2967.0,GNFC
+50,Profit before tax,12  Mar-16*,2677.0,GNFC
+51,Minority Interest,12  Mar-16*,0.0,GNFC
+52,Prior Period Items,12  Mar-16*,72.0,GNFC
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,GNFC
+54,Tax,12  Mar-16*,950.0,GNFC
+55,Profit after tax,12  Mar-16*,1799.0,GNFC
+56,Gross profit margin,12  Mar-16*,12.4,GNFC
+57,Effective tax rate,12  Mar-16*,35.5,GNFC
+58,Net profit margin,12  Mar-16*,4.0,GNFC
+59,Current assets,12  Mar-16*,28953.0,GNFC
+60,Current liabilities,12  Mar-16*,27847.0,GNFC
+61,Net working cap to sales,12  Mar-16*,2.4,GNFC
+62,Current ratio,12  Mar-16*,1.0,GNFC
+63,Inventory Days,12  Mar-16*,56.0,GNFC
+64,Debtors Days,12  Mar-16*,119.0,GNFC
+65,Net fixed assets,12  Mar-16*,43955.0,GNFC
+66,Share capital,12  Mar-16*,1554.0,GNFC
+67,"""Free"" reserves",12  Mar-16*,31683.0,GNFC
+68,Net worth,12  Mar-16*,33237.0,GNFC
+69,Long term debt,12  Mar-16*,10333.0,GNFC
+70,Total assets,12  Mar-16*,85549.0,GNFC
+71,Interest coverage,12  Mar-16*,1.9,GNFC
+72,Debt to equity ratio,12  Mar-16*,0.3,GNFC
+73,Sales to assets ratio,12  Mar-16*,0.5,GNFC
+74,Return on assets,12  Mar-16*,5.6,GNFC
+75,Return on equity,12  Mar-16*,5.4,GNFC
+76,Return on capital,12  Mar-16*,13.1,GNFC
+77,Exports to sales,12  Mar-16*,0.0,GNFC
+78,Imports to sales,12  Mar-16*,0.0,GNFC
+79,Exports (fob),12  Mar-16*,0.0,GNFC
+80,Imports (cif),12  Mar-16*,0.0,GNFC
+81,Fx inflow,12  Mar-16*,338.0,GNFC
+82,Fx outflow,12  Mar-16*,3507.0,GNFC
+83,Net fx,12  Mar-16*,-3170.0,GNFC
+84,From Operations,12  Mar-16*,9963.0,GNFC
+85,From Investments,12  Mar-16*,358.0,GNFC
+86,From Financial Activity,12  Mar-16*,-10369.0,GNFC
+87,Net Cashflow,12  Mar-16*,-49.0,GNFC
+88,Net Sales,12  Mar-17*,45888.0,GNFC
+89,Other income,12  Mar-17*,2249.0,GNFC
+90,Total revenues,12  Mar-17*,48136.0,GNFC
+91,Gross profit,12  Mar-17*,6528.0,GNFC
+92,Depreciation,12  Mar-17*,2514.0,GNFC
+93,Interest,12  Mar-17*,2034.0,GNFC
+94,Profit before tax,12  Mar-17*,4228.0,GNFC
+95,Minority Interest,12  Mar-17*,0.0,GNFC
+96,Prior Period Items,12  Mar-17*,75.0,GNFC
+97,Extraordinary Inc (Exp),12  Mar-17*,2922.0,GNFC
+98,Tax,12  Mar-17*,1938.0,GNFC
+99,Profit after tax,12  Mar-17*,5288.0,GNFC
+100,Gross profit margin,12  Mar-17*,14.2,GNFC
+101,Effective tax rate,12  Mar-17*,45.8,GNFC
+102,Net profit margin,12  Mar-17*,11.5,GNFC
+103,Current assets,12  Mar-17*,24570.0,GNFC
+104,Current liabilities,12  Mar-17*,21068.0,GNFC
+105,Net working cap to sales,12  Mar-17*,7.6,GNFC
+106,Current ratio,12  Mar-17*,1.2,GNFC
+107,Inventory Days,12  Mar-17*,53.0,GNFC
+108,Debtors Days,12  Mar-17*,88.0,GNFC
+109,Net fixed assets,12  Mar-17*,44566.0,GNFC
+110,Share capital,12  Mar-17*,1554.0,GNFC
+111,"""Free"" reserves",12  Mar-17*,36998.0,GNFC
+112,Net worth,12  Mar-17*,38552.0,GNFC
+113,Long term debt,12  Mar-17*,5334.0,GNFC
+114,Total assets,12  Mar-17*,79175.0,GNFC
+115,Interest coverage,12  Mar-17*,3.1,GNFC
+116,Debt to equity ratio,12  Mar-17*,0.1,GNFC
+117,Sales to assets ratio,12  Mar-17*,0.6,GNFC
+118,Return on assets,12  Mar-17*,9.2,GNFC
+119,Return on equity,12  Mar-17*,13.7,GNFC
+120,Return on capital,12  Mar-17*,21.1,GNFC
+121,Exports to sales,12  Mar-17*,0.0,GNFC
+122,Imports to sales,12  Mar-17*,0.0,GNFC
+123,Exports (fob),12  Mar-17*,0.0,GNFC
+124,Imports (cif),12  Mar-17*,0.0,GNFC
+125,Fx inflow,12  Mar-17*,1176.0,GNFC
+126,Fx outflow,12  Mar-17*,2813.0,GNFC
+127,Net fx,12  Mar-17*,-1637.0,GNFC
+128,From Operations,12  Mar-17*,14452.0,GNFC
+129,From Investments,12  Mar-17*,-528.0,GNFC
+130,From Financial Activity,12  Mar-17*,-10727.0,GNFC
+131,Net Cashflow,12  Mar-17*,3197.0,GNFC
+132,Net Sales,12  Mar-18*,58373.0,GNFC
+133,Other income,12  Mar-18*,1415.0,GNFC
+134,Total revenues,12  Mar-18*,59788.0,GNFC
+135,Gross profit,12  Mar-18*,13906.0,GNFC
+136,Depreciation,12  Mar-18*,2705.0,GNFC
+137,Interest,12  Mar-18*,997.0,GNFC
+138,Profit before tax,12  Mar-18*,11619.0,GNFC
+139,Minority Interest,12  Mar-18*,0.0,GNFC
+140,Prior Period Items,12  Mar-18*,55.0,GNFC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GNFC
+142,Tax,12  Mar-18*,3725.0,GNFC
+143,Profit after tax,12  Mar-18*,7949.0,GNFC
+144,Gross profit margin,12  Mar-18*,23.8,GNFC
+145,Effective tax rate,12  Mar-18*,32.1,GNFC
+146,Net profit margin,12  Mar-18*,13.6,GNFC
+147,Current assets,12  Mar-18*,21074.0,GNFC
+148,Current liabilities,12  Mar-18*,11815.0,GNFC
+149,Net working cap to sales,12  Mar-18*,15.9,GNFC
+150,Current ratio,12  Mar-18*,1.8,GNFC
+151,Inventory Days,12  Mar-18*,43.0,GNFC
+152,Debtors Days,12  Mar-18*,70.0,GNFC
+153,Net fixed assets,12  Mar-18*,41748.0,GNFC
+154,Share capital,12  Mar-18*,1554.0,GNFC
+155,"""Free"" reserves",12  Mar-18*,43616.0,GNFC
+156,Net worth,12  Mar-18*,45170.0,GNFC
+157,Long term debt,12  Mar-18*,0.0,GNFC
+158,Total assets,12  Mar-18*,72324.0,GNFC
+159,Interest coverage,12  Mar-18*,12.7,GNFC
+160,Debt to equity ratio,12  Mar-18*,0.0,GNFC
+161,Sales to assets ratio,12  Mar-18*,0.8,GNFC
+162,Return on assets,12  Mar-18*,12.4,GNFC
+163,Return on equity,12  Mar-18*,17.6,GNFC
+164,Return on capital,12  Mar-18*,28.1,GNFC
+165,Exports to sales,12  Mar-18*,0.0,GNFC
+166,Imports to sales,12  Mar-18*,0.0,GNFC
+167,Exports (fob),12  Mar-18*,0.0,GNFC
+168,Imports (cif),12  Mar-18*,0.0,GNFC
+169,Fx inflow,12  Mar-18*,4063.0,GNFC
+170,Fx outflow,12  Mar-18*,4083.0,GNFC
+171,Net fx,12  Mar-18*,-20.0,GNFC
+172,From Operations,12  Mar-18*,18186.0,GNFC
+173,From Investments,12  Mar-18*,495.0,GNFC
+174,From Financial Activity,12  Mar-18*,-14000.0,GNFC
+175,Net Cashflow,12  Mar-18*,4680.0,GNFC
+176,Net Sales,12  Mar-19*,58960.0,GNFC
+177,Other income,12  Mar-19*,2205.0,GNFC
+178,Total revenues,12  Mar-19*,61166.0,GNFC
+179,Gross profit,12  Mar-19*,8682.0,GNFC
+180,Depreciation,12  Mar-19*,2630.0,GNFC
+181,Interest,12  Mar-19*,64.0,GNFC
+182,Profit before tax,12  Mar-19*,8194.0,GNFC
+183,Minority Interest,12  Mar-19*,0.0,GNFC
+184,Prior Period Items,12  Mar-19*,86.0,GNFC
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GNFC
+186,Tax,12  Mar-19*,782.0,GNFC
+187,Profit after tax,12  Mar-19*,7497.0,GNFC
+188,Gross profit margin,12  Mar-19*,14.7,GNFC
+189,Effective tax rate,12  Mar-19*,9.5,GNFC
+190,Net profit margin,12  Mar-19*,12.7,GNFC
+191,Current assets,12  Mar-19*,24879.0,GNFC
+192,Current liabilities,12  Mar-19*,10221.0,GNFC
+193,Net working cap to sales,12  Mar-19*,24.9,GNFC
+194,Current ratio,12  Mar-19*,2.4,GNFC
+195,Inventory Days,12  Mar-19*,51.0,GNFC
+196,Debtors Days,12  Mar-19*,77.0,GNFC
+197,Net fixed assets,12  Mar-19*,39843.0,GNFC
+198,Share capital,12  Mar-19*,1554.0,GNFC
+199,"""Free"" reserves",12  Mar-19*,49093.0,GNFC
+200,Net worth,12  Mar-19*,50647.0,GNFC
+201,Long term debt,12  Mar-19*,0.0,GNFC
+202,Total assets,12  Mar-19*,76092.0,GNFC
+203,Interest coverage,12  Mar-19*,129.4,GNFC
+204,Debt to equity ratio,12  Mar-19*,0.0,GNFC
+205,Sales to assets ratio,12  Mar-19*,0.8,GNFC
+206,Return on assets,12  Mar-19*,9.9,GNFC
+207,Return on equity,12  Mar-19*,14.8,GNFC
+208,Return on capital,12  Mar-19*,16.5,GNFC
+209,Exports to sales,12  Mar-19*,0.0,GNFC
+210,Imports to sales,12  Mar-19*,0.0,GNFC
+211,Exports (fob),12  Mar-19*,0.0,GNFC
+212,Imports (cif),12  Mar-19*,0.0,GNFC
+213,Fx inflow,12  Mar-19*,3879.0,GNFC
+214,Fx outflow,12  Mar-19*,5429.0,GNFC
+215,Net fx,12  Mar-19*,-1550.0,GNFC
+216,From Operations,12  Mar-19*,5412.0,GNFC
+217,From Investments,12  Mar-19*,-1503.0,GNFC
+218,From Financial Activity,12  Mar-19*,-1849.0,GNFC
+219,Net Cashflow,12  Mar-19*,2060.0,GNFC

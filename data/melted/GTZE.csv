@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,15  Mar-15*,15459.0,GTZE
+1,Other income,15  Mar-15*,528.0,GTZE
+2,Total revenues,15  Mar-15*,15986.0,GTZE
+3,Gross profit,15  Mar-15*,1533.0,GTZE
+4,Depreciation,15  Mar-15*,934.0,GTZE
+5,Interest,15  Mar-15*,334.0,GTZE
+6,Profit before tax,15  Mar-15*,793.0,GTZE
+7,Minority Interest,15  Mar-15*,-113.0,GTZE
+8,Prior Period Items,15  Mar-15*,0.0,GTZE
+9,Extraordinary Inc (Exp),15  Mar-15*,0.0,GTZE
+10,Tax,15  Mar-15*,285.0,GTZE
+11,Profit after tax,15  Mar-15*,395.0,GTZE
+12,Gross profit margin,15  Mar-15*,9.9,GTZE
+13,Effective tax rate,15  Mar-15*,35.9,GTZE
+14,Net profit margin,15  Mar-15*,2.6,GTZE
+15,Current assets,15  Mar-15*,4621.0,GTZE
+16,Current liabilities,15  Mar-15*,4242.0,GTZE
+17,Net working cap to sales,15  Mar-15*,2.4,GTZE
+18,Current ratio,15  Mar-15*,1.1,GTZE
+19,Inventory Days,15  Mar-15*,49.0,GTZE
+20,Debtors Days,15  Mar-15*,43.0,GTZE
+21,Net fixed assets,15  Mar-15*,5435.0,GTZE
+22,Share capital,15  Mar-15*,556.0,GTZE
+23,"""Free"" reserves",15  Mar-15*,4147.0,GTZE
+24,Net worth,15  Mar-15*,4709.0,GTZE
+25,Long term debt,15  Mar-15*,72.0,GTZE
+26,Total assets,15  Mar-15*,10399.0,GTZE
+27,Interest coverage,15  Mar-15*,3.4,GTZE
+28,Debt to equity ratio,15  Mar-15*,0.0,GTZE
+29,Sales to assets ratio,15  Mar-15*,1.5,GTZE
+30,Return on assets,15  Mar-15*,7.0,GTZE
+31,Return on equity,15  Mar-15*,8.4,GTZE
+32,Return on capital,15  Mar-15*,21.2,GTZE
+33,Exports to sales,15  Mar-15*,12.2,GTZE
+34,Imports to sales,15  Mar-15*,11.9,GTZE
+35,Exports (fob),15  Mar-15*,1885.0,GTZE
+36,Imports (cif),15  Mar-15*,1840.0,GTZE
+37,Fx inflow,15  Mar-15*,1885.0,GTZE
+38,Fx outflow,15  Mar-15*,2295.0,GTZE
+39,Net fx,15  Mar-15*,-410.0,GTZE
+40,From Operations,15  Mar-15*,1265.0,GTZE
+41,From Investments,15  Mar-15*,-967.0,GTZE
+42,From Financial Activity,15  Mar-15*,-219.0,GTZE
+43,Net Cashflow,15  Mar-15*,79.0,GTZE
+44,Net Sales,12  Mar-16*,13309.0,GTZE
+45,Other income,12  Mar-16*,203.0,GTZE
+46,Total revenues,12  Mar-16*,13512.0,GTZE
+47,Gross profit,12  Mar-16*,1745.0,GTZE
+48,Depreciation,12  Mar-16*,784.0,GTZE
+49,Interest,12  Mar-16*,252.0,GTZE
+50,Profit before tax,12  Mar-16*,912.0,GTZE
+51,Minority Interest,12  Mar-16*,-74.0,GTZE
+52,Prior Period Items,12  Mar-16*,0.0,GTZE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,GTZE
+54,Tax,12  Mar-16*,362.0,GTZE
+55,Profit after tax,12  Mar-16*,476.0,GTZE
+56,Gross profit margin,12  Mar-16*,13.1,GTZE
+57,Effective tax rate,12  Mar-16*,39.7,GTZE
+58,Net profit margin,12  Mar-16*,3.6,GTZE
+59,Current assets,12  Mar-16*,4920.0,GTZE
+60,Current liabilities,12  Mar-16*,4184.0,GTZE
+61,Net working cap to sales,12  Mar-16*,5.5,GTZE
+62,Current ratio,12  Mar-16*,1.2,GTZE
+63,Inventory Days,12  Mar-16*,57.0,GTZE
+64,Debtors Days,12  Mar-16*,51.0,GTZE
+65,Net fixed assets,12  Mar-16*,5721.0,GTZE
+66,Share capital,12  Mar-16*,556.0,GTZE
+67,"""Free"" reserves",12  Mar-16*,4545.0,GTZE
+68,Net worth,12  Mar-16*,5102.0,GTZE
+69,Long term debt,12  Mar-16*,372.0,GTZE
+70,Total assets,12  Mar-16*,11134.0,GTZE
+71,Interest coverage,12  Mar-16*,4.6,GTZE
+72,Debt to equity ratio,12  Mar-16*,0.1,GTZE
+73,Sales to assets ratio,12  Mar-16*,1.2,GTZE
+74,Return on assets,12  Mar-16*,6.5,GTZE
+75,Return on equity,12  Mar-16*,9.3,GTZE
+76,Return on capital,12  Mar-16*,19.9,GTZE
+77,Exports to sales,12  Mar-16*,12.6,GTZE
+78,Imports to sales,12  Mar-16*,13.1,GTZE
+79,Exports (fob),12  Mar-16*,1671.0,GTZE
+80,Imports (cif),12  Mar-16*,1739.0,GTZE
+81,Fx inflow,12  Mar-16*,1671.0,GTZE
+82,Fx outflow,12  Mar-16*,2065.0,GTZE
+83,Net fx,12  Mar-16*,-394.0,GTZE
+84,From Operations,12  Mar-16*,1918.0,GTZE
+85,From Investments,12  Mar-16*,-1145.0,GTZE
+86,From Financial Activity,12  Mar-16*,-455.0,GTZE
+87,Net Cashflow,12  Mar-16*,317.0,GTZE
+88,Net Sales,12  Mar-17*,12791.0,GTZE
+89,Other income,12  Mar-17*,120.0,GTZE
+90,Total revenues,12  Mar-17*,12911.0,GTZE
+91,Gross profit,12  Mar-17*,2201.0,GTZE
+92,Depreciation,12  Mar-17*,793.0,GTZE
+93,Interest,12  Mar-17*,163.0,GTZE
+94,Profit before tax,12  Mar-17*,1365.0,GTZE
+95,Minority Interest,12  Mar-17*,-64.0,GTZE
+96,Prior Period Items,12  Mar-17*,0.0,GTZE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GTZE
+98,Tax,12  Mar-17*,463.0,GTZE
+99,Profit after tax,12  Mar-17*,837.0,GTZE
+100,Gross profit margin,12  Mar-17*,17.2,GTZE
+101,Effective tax rate,12  Mar-17*,33.9,GTZE
+102,Net profit margin,12  Mar-17*,6.5,GTZE
+103,Current assets,12  Mar-17*,4560.0,GTZE
+104,Current liabilities,12  Mar-17*,3182.0,GTZE
+105,Net working cap to sales,12  Mar-17*,10.8,GTZE
+106,Current ratio,12  Mar-17*,1.4,GTZE
+107,Inventory Days,12  Mar-17*,55.0,GTZE
+108,Debtors Days,12  Mar-17*,55.0,GTZE
+109,Net fixed assets,12  Mar-17*,5815.0,GTZE
+110,Share capital,12  Mar-17*,556.0,GTZE
+111,"""Free"" reserves",12  Mar-17*,5575.0,GTZE
+112,Net worth,12  Mar-17*,6131.0,GTZE
+113,Long term debt,12  Mar-17*,233.0,GTZE
+114,Total assets,12  Mar-17*,10801.0,GTZE
+115,Interest coverage,12  Mar-17*,9.4,GTZE
+116,Debt to equity ratio,12  Mar-17*,0.0,GTZE
+117,Sales to assets ratio,12  Mar-17*,1.2,GTZE
+118,Return on assets,12  Mar-17*,9.3,GTZE
+119,Return on equity,12  Mar-17*,13.7,GTZE
+120,Return on capital,12  Mar-17*,23.0,GTZE
+121,Exports to sales,12  Mar-17*,12.5,GTZE
+122,Imports to sales,12  Mar-17*,10.9,GTZE
+123,Exports (fob),12  Mar-17*,1593.0,GTZE
+124,Imports (cif),12  Mar-17*,1388.0,GTZE
+125,Fx inflow,12  Mar-17*,1593.0,GTZE
+126,Fx outflow,12  Mar-17*,1696.0,GTZE
+127,Net fx,12  Mar-17*,-103.0,GTZE
+128,From Operations,12  Mar-17*,1593.0,GTZE
+129,From Investments,12  Mar-17*,-863.0,GTZE
+130,From Financial Activity,12  Mar-17*,-1003.0,GTZE
+131,Net Cashflow,12  Mar-17*,-273.0,GTZE
+132,Net Sales,12  Mar-18*,13253.0,GTZE
+133,Other income,12  Mar-18*,116.0,GTZE
+134,Total revenues,12  Mar-18*,13369.0,GTZE
+135,Gross profit,12  Mar-18*,2268.0,GTZE
+136,Depreciation,12  Mar-18*,770.0,GTZE
+137,Interest,12  Mar-18*,67.0,GTZE
+138,Profit before tax,12  Mar-18*,1547.0,GTZE
+139,Minority Interest,12  Mar-18*,0.0,GTZE
+140,Prior Period Items,12  Mar-18*,0.0,GTZE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GTZE
+142,Tax,12  Mar-18*,585.0,GTZE
+143,Profit after tax,12  Mar-18*,962.0,GTZE
+144,Gross profit margin,12  Mar-18*,17.1,GTZE
+145,Effective tax rate,12  Mar-18*,37.8,GTZE
+146,Net profit margin,12  Mar-18*,7.3,GTZE
+147,Current assets,12  Mar-18*,4595.0,GTZE
+148,Current liabilities,12  Mar-18*,2583.0,GTZE
+149,Net working cap to sales,12  Mar-18*,15.2,GTZE
+150,Current ratio,12  Mar-18*,1.8,GTZE
+151,Inventory Days,12  Mar-18*,53.0,GTZE
+152,Debtors Days,12  Mar-18*,60.0,GTZE
+153,Net fixed assets,12  Mar-18*,5888.0,GTZE
+154,Share capital,12  Mar-18*,556.0,GTZE
+155,"""Free"" reserves",12  Mar-18*,6482.0,GTZE
+156,Net worth,12  Mar-18*,7039.0,GTZE
+157,Long term debt,12  Mar-18*,0.0,GTZE
+158,Total assets,12  Mar-18*,10891.0,GTZE
+159,Interest coverage,12  Mar-18*,24.2,GTZE
+160,Debt to equity ratio,12  Mar-18*,0.0,GTZE
+161,Sales to assets ratio,12  Mar-18*,1.2,GTZE
+162,Return on assets,12  Mar-18*,9.4,GTZE
+163,Return on equity,12  Mar-18*,13.7,GTZE
+164,Return on capital,12  Mar-18*,22.9,GTZE
+165,Exports to sales,12  Mar-18*,0.0,GTZE
+166,Imports to sales,12  Mar-18*,0.0,GTZE
+167,Exports (fob),12  Mar-18*,0.0,GTZE
+168,Imports (cif),12  Mar-18*,0.0,GTZE
+169,Fx inflow,12  Mar-18*,1457.0,GTZE
+170,Fx outflow,12  Mar-18*,546.0,GTZE
+171,Net fx,12  Mar-18*,911.0,GTZE
+172,From Operations,12  Mar-18*,1379.0,GTZE
+173,From Investments,12  Mar-18*,-721.0,GTZE
+174,From Financial Activity,12  Mar-18*,-691.0,GTZE
+175,Net Cashflow,12  Mar-18*,-33.0,GTZE
+176,Net Sales,12  Mar-19*,13148.0,GTZE
+177,Other income,12  Mar-19*,142.0,GTZE
+178,Total revenues,12  Mar-19*,13291.0,GTZE
+179,Gross profit,12  Mar-19*,2256.0,GTZE
+180,Depreciation,12  Mar-19*,858.0,GTZE
+181,Interest,12  Mar-19*,51.0,GTZE
+182,Profit before tax,12  Mar-19*,1489.0,GTZE
+183,Minority Interest,12  Mar-19*,0.0,GTZE
+184,Prior Period Items,12  Mar-19*,0.0,GTZE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GTZE
+186,Tax,12  Mar-19*,535.0,GTZE
+187,Profit after tax,12  Mar-19*,955.0,GTZE
+188,Gross profit margin,12  Mar-19*,17.2,GTZE
+189,Effective tax rate,12  Mar-19*,35.9,GTZE
+190,Net profit margin,12  Mar-19*,7.3,GTZE
+191,Current assets,12  Mar-19*,5265.0,GTZE
+192,Current liabilities,12  Mar-19*,2514.0,GTZE
+193,Net working cap to sales,12  Mar-19*,20.9,GTZE
+194,Current ratio,12  Mar-19*,2.1,GTZE
+195,Inventory Days,12  Mar-19*,60.0,GTZE
+196,Debtors Days,12  Mar-19*,66.0,GTZE
+197,Net fixed assets,12  Mar-19*,6067.0,GTZE
+198,Share capital,12  Mar-19*,556.0,GTZE
+199,"""Free"" reserves",12  Mar-19*,7387.0,GTZE
+200,Net worth,12  Mar-19*,7944.0,GTZE
+201,Long term debt,12  Mar-19*,0.0,GTZE
+202,Total assets,12  Mar-19*,11701.0,GTZE
+203,Interest coverage,12  Mar-19*,30.0,GTZE
+204,Debt to equity ratio,12  Mar-19*,0.0,GTZE
+205,Sales to assets ratio,12  Mar-19*,1.1,GTZE
+206,Return on assets,12  Mar-19*,8.6,GTZE
+207,Return on equity,12  Mar-19*,12.0,GTZE
+208,Return on capital,12  Mar-19*,19.4,GTZE
+209,Exports to sales,12  Mar-19*,0.0,GTZE
+210,Imports to sales,12  Mar-19*,0.0,GTZE
+211,Exports (fob),12  Mar-19*,0.0,GTZE
+212,Imports (cif),12  Mar-19*,0.0,GTZE
+213,Fx inflow,12  Mar-19*,1094.0,GTZE
+214,Fx outflow,12  Mar-19*,592.0,GTZE
+215,Net fx,12  Mar-19*,502.0,GTZE
+216,From Operations,12  Mar-19*,1333.0,GTZE
+217,From Investments,12  Mar-19*,-1209.0,GTZE
+218,From Financial Activity,12  Mar-19*,-83.0,GTZE
+219,Net Cashflow,12  Mar-19*,41.0,GTZE

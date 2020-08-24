@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,975.0,HERH
+1,Other income,12  Mar-15,97.0,HERH
+2,Total revenues,12  Mar-15,1072.0,HERH
+3,Gross profit,12  Mar-15,105.0,HERH
+4,Depreciation,12  Mar-15,26.0,HERH
+5,Interest,12  Mar-15,0.0,HERH
+6,Profit before tax,12  Mar-15,176.0,HERH
+7,Minority Interest,12  Mar-15,0.0,HERH
+8,Prior Period Items,12  Mar-15,0.0,HERH
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,HERH
+10,Tax,12  Mar-15,50.0,HERH
+11,Profit after tax,12  Mar-15,126.0,HERH
+12,Gross profit margin,12  Mar-15,10.7,HERH
+13,Effective tax rate,12  Mar-15,28.2,HERH
+14,Net profit margin,12  Mar-15,13.0,HERH
+15,Current assets,12  Mar-15,1293,HERH
+16,Current liabilities,12  Mar-15,305,HERH
+17,Net working cap to sales,12  Mar-15,101.3,HERH
+18,Current ratio,12  Mar-15,4.2,HERH
+19,Inventory Days,12  Mar-15,119,HERH
+20,Debtors Days,12  Mar-15,125,HERH
+21,Net fixed assets,12  Mar-15,267,HERH
+22,Share capital,12  Mar-15,32,HERH
+23,"""Free"" reserves",12  Mar-15,1770,HERH
+24,Net worth,12  Mar-15,1802,HERH
+25,Long term debt,12  Mar-15,0,HERH
+26,Total assets,12  Mar-15,2153,HERH
+27,Interest coverage,12  Mar-15,NM,HERH
+28,Debt to equity ratio,12  Mar-15,0,HERH
+29,Sales to assets ratio,12  Mar-15,0.5,HERH
+30,Return on assets,12  Mar-15,5.9,HERH
+31,Return on equity,12  Mar-15,7.0,HERH
+32,Return on capital,12  Mar-15,9.8,HERH
+33,Exports to sales,12  Mar-15,1.3,HERH
+34,Imports to sales,12  Mar-15,9.2,HERH
+35,Exports (fob),12  Mar-15,13,HERH
+36,Imports (cif),12  Mar-15,90,HERH
+37,Fx inflow,12  Mar-15,13,HERH
+38,Fx outflow,12  Mar-15,94,HERH
+39,Net fx,12  Mar-15,-81,HERH
+40,From Operations,12  Mar-15,129,HERH
+41,From Investments,12  Mar-15,-79,HERH
+42,From Financial Activity,12  Mar-15,-56,HERH
+43,Net Cashflow,12  Mar-15,-6,HERH
+44,Net Sales,12  Mar-16,911.0,HERH
+45,Other income,12  Mar-16,122.0,HERH
+46,Total revenues,12  Mar-16,1033.0,HERH
+47,Gross profit,12  Mar-16,70.0,HERH
+48,Depreciation,12  Mar-16,22.0,HERH
+49,Interest,12  Mar-16,3.0,HERH
+50,Profit before tax,12  Mar-16,167.0,HERH
+51,Minority Interest,12  Mar-16,0.0,HERH
+52,Prior Period Items,12  Mar-16,0.0,HERH
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,HERH
+54,Tax,12  Mar-16,34.0,HERH
+55,Profit after tax,12  Mar-16,133.0,HERH
+56,Gross profit margin,12  Mar-16,7.7,HERH
+57,Effective tax rate,12  Mar-16,20.4,HERH
+58,Net profit margin,12  Mar-16,14.6,HERH
+59,Current assets,12  Mar-16,1450.0,HERH
+60,Current liabilities,12  Mar-16,450.0,HERH
+61,Net working cap to sales,12  Mar-16,109.7,HERH
+62,Current ratio,12  Mar-16,3.2,HERH
+63,Inventory Days,12  Mar-16,189.0,HERH
+64,Debtors Days,12  Mar-16,128.0,HERH
+65,Net fixed assets,12  Mar-16,261.0,HERH
+66,Share capital,12  Mar-16,32.0,HERH
+67,"""Free"" reserves",12  Mar-16,2776.0,HERH
+68,Net worth,12  Mar-16,2808.0,HERH
+69,Long term debt,12  Mar-16,0.0,HERH
+70,Total assets,12  Mar-16,3288.0,HERH
+71,Interest coverage,12  Mar-16,67.8,HERH
+72,Debt to equity ratio,12  Mar-16,0.0,HERH
+73,Sales to assets ratio,12  Mar-16,0.3,HERH
+74,Return on assets,12  Mar-16,4.1,HERH
+75,Return on equity,12  Mar-16,4.7,HERH
+76,Return on capital,12  Mar-16,6.0,HERH
+77,Exports to sales,12  Mar-16,0.5,HERH
+78,Imports to sales,12  Mar-16,8.7,HERH
+79,Exports (fob),12  Mar-16,5.0,HERH
+80,Imports (cif),12  Mar-16,79.0,HERH
+81,Fx inflow,12  Mar-16,5.0,HERH
+82,Fx outflow,12  Mar-16,83.0,HERH
+83,Net fx,12  Mar-16,-78.0,HERH
+84,From Operations,12  Mar-16,-56.0,HERH
+85,From Investments,12  Mar-16,52.0,HERH
+86,From Financial Activity,12  Mar-16,13.0,HERH
+87,Net Cashflow,12  Mar-16,10.0,HERH
+88,Net Sales,12  Mar-17,731.0,HERH
+89,Other income,12  Mar-17,118.0,HERH
+90,Total revenues,12  Mar-17,848.0,HERH
+91,Gross profit,12  Mar-17,10.0,HERH
+92,Depreciation,12  Mar-17,26.0,HERH
+93,Interest,12  Mar-17,2.0,HERH
+94,Profit before tax,12  Mar-17,100.0,HERH
+95,Minority Interest,12  Mar-17,0.0,HERH
+96,Prior Period Items,12  Mar-17,0.0,HERH
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,HERH
+98,Tax,12  Mar-17,20.0,HERH
+99,Profit after tax,12  Mar-17,80.0,HERH
+100,Gross profit margin,12  Mar-17,1.4,HERH
+101,Effective tax rate,12  Mar-17,20.0,HERH
+102,Net profit margin,12  Mar-17,10.9,HERH
+103,Current assets,12  Mar-17,1036.0,HERH
+104,Current liabilities,12  Mar-17,115.0,HERH
+105,Net working cap to sales,12  Mar-17,126.1,HERH
+106,Current ratio,12  Mar-17,9.0,HERH
+107,Inventory Days,12  Mar-17,163.0,HERH
+108,Debtors Days,12  Mar-17,113.0,HERH
+109,Net fixed assets,12  Mar-17,357.0,HERH
+110,Share capital,12  Mar-17,32.0,HERH
+111,"""Free"" reserves",12  Mar-17,3361.0,HERH
+112,Net worth,12  Mar-17,3393.0,HERH
+113,Long term debt,12  Mar-17,0.0,HERH
+114,Total assets,12  Mar-17,3541.0,HERH
+115,Interest coverage,12  Mar-17,44.3,HERH
+116,Debt to equity ratio,12  Mar-17,0.0,HERH
+117,Sales to assets ratio,12  Mar-17,0.2,HERH
+118,Return on assets,12  Mar-17,2.3,HERH
+119,Return on equity,12  Mar-17,2.3,HERH
+120,Return on capital,12  Mar-17,3.0,HERH
+121,Exports to sales,12  Mar-17,0.0,HERH
+122,Imports to sales,12  Mar-17,0.0,HERH
+123,Exports (fob),12  Mar-17,0.0,HERH
+124,Imports (cif),12  Mar-17,0.0,HERH
+125,Fx inflow,12  Mar-17,1.0,HERH
+126,Fx outflow,12  Mar-17,77.0,HERH
+127,Net fx,12  Mar-17,-77.0,HERH
+128,From Operations,12  Mar-17,122.0,HERH
+129,From Investments,12  Mar-17,10.0,HERH
+130,From Financial Activity,12  Mar-17,-133.0,HERH
+131,Net Cashflow,12  Mar-17,-1.0,HERH
+132,Net Sales,12  Mar-18,755.0,HERH
+133,Other income,12  Mar-18,98.0,HERH
+134,Total revenues,12  Mar-18,853.0,HERH
+135,Gross profit,12  Mar-18,39.0,HERH
+136,Depreciation,12  Mar-18,29.0,HERH
+137,Interest,12  Mar-18,0.0,HERH
+138,Profit before tax,12  Mar-18,107.0,HERH
+139,Minority Interest,12  Mar-18,0.0,HERH
+140,Prior Period Items,12  Mar-18,0.0,HERH
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,HERH
+142,Tax,12  Mar-18,9.0,HERH
+143,Profit after tax,12  Mar-18,98.0,HERH
+144,Gross profit margin,12  Mar-18,5.1,HERH
+145,Effective tax rate,12  Mar-18,8.5,HERH
+146,Net profit margin,12  Mar-18,13.0,HERH
+147,Current assets,12  Mar-18,966.0,HERH
+148,Current liabilities,12  Mar-18,139.0,HERH
+149,Net working cap to sales,12  Mar-18,109.6,HERH
+150,Current ratio,12  Mar-18,7.0,HERH
+151,Inventory Days,12  Mar-18,160.0,HERH
+152,Debtors Days,12  Mar-18,91.0,HERH
+153,Net fixed assets,12  Mar-18,352.0,HERH
+154,Share capital,12  Mar-18,32.0,HERH
+155,"""Free"" reserves",12  Mar-18,3769.0,HERH
+156,Net worth,12  Mar-18,3801.0,HERH
+157,Long term debt,12  Mar-18,0.0,HERH
+158,Total assets,12  Mar-18,3969.0,HERH
+159,Interest coverage,12  Mar-18,268.5,HERH
+160,Debt to equity ratio,12  Mar-18,0.0,HERH
+161,Sales to assets ratio,12  Mar-18,0.2,HERH
+162,Return on assets,12  Mar-18,2.5,HERH
+163,Return on equity,12  Mar-18,2.6,HERH
+164,Return on capital,12  Mar-18,2.8,HERH
+165,Exports to sales,12  Mar-18,0.0,HERH
+166,Imports to sales,12  Mar-18,0.0,HERH
+167,Exports (fob),12  Mar-18,0.0,HERH
+168,Imports (cif),12  Mar-18,0.0,HERH
+169,Fx inflow,12  Mar-18,0.0,HERH
+170,Fx outflow,12  Mar-18,43.0,HERH
+171,Net fx,12  Mar-18,-43.0,HERH
+172,From Operations,12  Mar-18,151.0,HERH
+173,From Investments,12  Mar-18,-114.0,HERH
+174,From Financial Activity,12  Mar-18,-39.0,HERH
+175,Net Cashflow,12  Mar-18,-1.0,HERH
+176,Net Sales,12  Mar-19,1022.0,HERH
+177,Other income,12  Mar-19,98.0,HERH
+178,Total revenues,12  Mar-19,1119.0,HERH
+179,Gross profit,12  Mar-19,94.0,HERH
+180,Depreciation,12  Mar-19,30.0,HERH
+181,Interest,12  Mar-19,0.0,HERH
+182,Profit before tax,12  Mar-19,161.0,HERH
+183,Minority Interest,12  Mar-19,0.0,HERH
+184,Prior Period Items,12  Mar-19,0.0,HERH
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,HERH
+186,Tax,12  Mar-19,33.0,HERH
+187,Profit after tax,12  Mar-19,128.0,HERH
+188,Gross profit margin,12  Mar-19,9.2,HERH
+189,Effective tax rate,12  Mar-19,20.6,HERH
+190,Net profit margin,12  Mar-19,12.5,HERH
+191,Current assets,12  Mar-19,1143,HERH
+192,Current liabilities,12  Mar-19,163,HERH
+193,Net working cap to sales,12  Mar-19,95.9,HERH
+194,Current ratio,12  Mar-19,7.0,HERH
+195,Inventory Days,12  Mar-19,141,HERH
+196,Debtors Days,12  Mar-19,41,HERH
+197,Net fixed assets,12  Mar-19,360,HERH
+198,Share capital,12  Mar-19,32,HERH
+199,"""Free"" reserves",12  Mar-19,4236,HERH
+200,Net worth,12  Mar-19,4268,HERH
+201,Long term debt,12  Mar-19,0,HERH
+202,Total assets,12  Mar-19,4507,HERH
+203,Interest coverage,12  Mar-19,NM,HERH
+204,Debt to equity ratio,12  Mar-19,0,HERH
+205,Sales to assets ratio,12  Mar-19,0.2,HERH
+206,Return on assets,12  Mar-19,2.8,HERH
+207,Return on equity,12  Mar-19,3.0,HERH
+208,Return on capital,12  Mar-19,3.8,HERH
+209,Exports to sales,12  Mar-19,0,HERH
+210,Imports to sales,12  Mar-19,0,HERH
+211,Exports (fob),12  Mar-19,0,HERH
+212,Imports (cif),12  Mar-19,0,HERH
+213,Fx inflow,12  Mar-19,4,HERH
+214,Fx outflow,12  Mar-19,92,HERH
+215,Net fx,12  Mar-19,-88,HERH
+216,From Operations,12  Mar-19,128,HERH
+217,From Investments,12  Mar-19,-45,HERH
+218,From Financial Activity,12  Mar-19,-48,HERH
+219,Net Cashflow,12  Mar-19,35,HERH

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,19337.0,TBZL
+1,Other income,12  Mar-15*,135.0,TBZL
+2,Total revenues,12  Mar-15*,19472.0,TBZL
+3,Gross profit,12  Mar-15*,832.0,TBZL
+4,Depreciation,12  Mar-15*,87.0,TBZL
+5,Interest,12  Mar-15*,502.0,TBZL
+6,Profit before tax,12  Mar-15*,378.0,TBZL
+7,Minority Interest,12  Mar-15*,0.0,TBZL
+8,Prior Period Items,12  Mar-15*,0.0,TBZL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TBZL
+10,Tax,12  Mar-15*,135.0,TBZL
+11,Profit after tax,12  Mar-15*,243.0,TBZL
+12,Gross profit margin,12  Mar-15*,4.3,TBZL
+13,Effective tax rate,12  Mar-15*,35.6,TBZL
+14,Net profit margin,12  Mar-15*,1.3,TBZL
+15,Current assets,12  Mar-15*,11620.0,TBZL
+16,Current liabilities,12  Mar-15*,8055.0,TBZL
+17,Net working cap to sales,12  Mar-15*,18.4,TBZL
+18,Current ratio,12  Mar-15*,1.4,TBZL
+19,Inventory Days,12  Mar-15*,210.0,TBZL
+20,Debtors Days,12  Mar-15*,0.0,TBZL
+21,Net fixed assets,12  Mar-15*,1125.0,TBZL
+22,Share capital,12  Mar-15*,667.0,TBZL
+23,"""Free"" reserves",12  Mar-15*,3963.0,TBZL
+24,Net worth,12  Mar-15*,4636.0,TBZL
+25,Long term debt,12  Mar-15*,120.0,TBZL
+26,Total assets,12  Mar-15*,12889.0,TBZL
+27,Interest coverage,12  Mar-15*,1.8,TBZL
+28,Debt to equity ratio,12  Mar-15*,0.0,TBZL
+29,Sales to assets ratio,12  Mar-15*,1.5,TBZL
+30,Return on assets,12  Mar-15*,5.8,TBZL
+31,Return on equity,12  Mar-15*,5.2,TBZL
+32,Return on capital,12  Mar-15*,18.5,TBZL
+33,Exports to sales,12  Mar-15*,0.0,TBZL
+34,Imports to sales,12  Mar-15*,2.8,TBZL
+35,Exports (fob),12  Mar-15*,0.0,TBZL
+36,Imports (cif),12  Mar-15*,534.0,TBZL
+37,Fx inflow,12  Mar-15*,0.0,TBZL
+38,Fx outflow,12  Mar-15*,603.0,TBZL
+39,Net fx,12  Mar-15*,-603.0,TBZL
+40,From Operations,12  Mar-15*,148.0,TBZL
+41,From Investments,12  Mar-15*,260.0,TBZL
+42,From Financial Activity,12  Mar-15*,-474.0,TBZL
+43,Net Cashflow,12  Mar-15*,-66.0,TBZL
+44,Net Sales,12  Mar-16*,16543.0,TBZL
+45,Other income,12  Mar-16*,36.0,TBZL
+46,Total revenues,12  Mar-16*,16579.0,TBZL
+47,Gross profit,12  Mar-16*,370.0,TBZL
+48,Depreciation,12  Mar-16*,105.0,TBZL
+49,Interest,12  Mar-16*,558.0,TBZL
+50,Profit before tax,12  Mar-16*,-256.0,TBZL
+51,Minority Interest,12  Mar-16*,0.0,TBZL
+52,Prior Period Items,12  Mar-16*,0.0,TBZL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TBZL
+54,Tax,12  Mar-16*,19.0,TBZL
+55,Profit after tax,12  Mar-16*,-276.0,TBZL
+56,Gross profit margin,12  Mar-16*,2.2,TBZL
+57,Effective tax rate,12  Mar-16*,-7.5,TBZL
+58,Net profit margin,12  Mar-16*,-1.7,TBZL
+59,Current assets,12  Mar-16*,11706.0,TBZL
+60,Current liabilities,12  Mar-16*,8404.0,TBZL
+61,Net working cap to sales,12  Mar-16*,20.0,TBZL
+62,Current ratio,12  Mar-16*,1.4,TBZL
+63,Inventory Days,12  Mar-16*,248.0,TBZL
+64,Debtors Days,12  Mar-16*,0.0,TBZL
+65,Net fixed assets,12  Mar-16*,1089.0,TBZL
+66,Share capital,12  Mar-16*,667.0,TBZL
+67,"""Free"" reserves",12  Mar-16*,3690.0,TBZL
+68,Net worth,12  Mar-16*,4361.0,TBZL
+69,Long term debt,12  Mar-16*,75.0,TBZL
+70,Total assets,12  Mar-16*,12961.0,TBZL
+71,Interest coverage,12  Mar-16*,0.5,TBZL
+72,Debt to equity ratio,12  Mar-16*,0.0,TBZL
+73,Sales to assets ratio,12  Mar-16*,1.3,TBZL
+74,Return on assets,12  Mar-16*,2.2,TBZL
+75,Return on equity,12  Mar-16*,-6.3,TBZL
+76,Return on capital,12  Mar-16*,6.8,TBZL
+77,Exports to sales,12  Mar-16*,0.0,TBZL
+78,Imports to sales,12  Mar-16*,0.6,TBZL
+79,Exports (fob),12  Mar-16*,0.0,TBZL
+80,Imports (cif),12  Mar-16*,104.0,TBZL
+81,Fx inflow,12  Mar-16*,443.0,TBZL
+82,Fx outflow,12  Mar-16*,120.0,TBZL
+83,Net fx,12  Mar-16*,324.0,TBZL
+84,From Operations,12  Mar-16*,141.0,TBZL
+85,From Investments,12  Mar-16*,-115.0,TBZL
+86,From Financial Activity,12  Mar-16*,-15.0,TBZL
+87,Net Cashflow,12  Mar-16*,12.0,TBZL
+88,Net Sales,12  Mar-17*,16900.0,TBZL
+89,Other income,12  Mar-17*,31.0,TBZL
+90,Total revenues,12  Mar-17*,16931.0,TBZL
+91,Gross profit,12  Mar-17*,679.0,TBZL
+92,Depreciation,12  Mar-17*,90.0,TBZL
+93,Interest,12  Mar-17*,502.0,TBZL
+94,Profit before tax,12  Mar-17*,117.0,TBZL
+95,Minority Interest,12  Mar-17*,0.0,TBZL
+96,Prior Period Items,12  Mar-17*,0.0,TBZL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TBZL
+98,Tax,12  Mar-17*,-12.0,TBZL
+99,Profit after tax,12  Mar-17*,129.0,TBZL
+100,Gross profit margin,12  Mar-17*,4.0,TBZL
+101,Effective tax rate,12  Mar-17*,-10.2,TBZL
+102,Net profit margin,12  Mar-17*,0.8,TBZL
+103,Current assets,12  Mar-17*,10669.0,TBZL
+104,Current liabilities,12  Mar-17*,7314.0,TBZL
+105,Net working cap to sales,12  Mar-17*,19.9,TBZL
+106,Current ratio,12  Mar-17*,1.5,TBZL
+107,Inventory Days,12  Mar-17*,222.0,TBZL
+108,Debtors Days,12  Mar-17*,0.0,TBZL
+109,Net fixed assets,12  Mar-17*,1044.0,TBZL
+110,Share capital,12  Mar-17*,667.0,TBZL
+111,"""Free"" reserves",12  Mar-17*,3891.0,TBZL
+112,Net worth,12  Mar-17*,4558.0,TBZL
+113,Long term debt,12  Mar-17*,1.0,TBZL
+114,Total assets,12  Mar-17*,11923.0,TBZL
+115,Interest coverage,12  Mar-17*,1.2,TBZL
+116,Debt to equity ratio,12  Mar-17*,0.0,TBZL
+117,Sales to assets ratio,12  Mar-17*,1.4,TBZL
+118,Return on assets,12  Mar-17*,5.3,TBZL
+119,Return on equity,12  Mar-17*,2.8,TBZL
+120,Return on capital,12  Mar-17*,13.6,TBZL
+121,Exports to sales,12  Mar-17*,0.0,TBZL
+122,Imports to sales,12  Mar-17*,0.0,TBZL
+123,Exports (fob),12  Mar-17*,0.0,TBZL
+124,Imports (cif),12  Mar-17*,0.0,TBZL
+125,Fx inflow,12  Mar-17*,0.0,TBZL
+126,Fx outflow,12  Mar-17*,14.0,TBZL
+127,Net fx,12  Mar-17*,-14.0,TBZL
+128,From Operations,12  Mar-17*,1530.0,TBZL
+129,From Investments,12  Mar-17*,4.0,TBZL
+130,From Financial Activity,12  Mar-17*,-1553.0,TBZL
+131,Net Cashflow,12  Mar-17*,-19.0,TBZL
+132,Net Sales,12  Mar-18*,17514.0,TBZL
+133,Other income,12  Mar-18*,60.0,TBZL
+134,Total revenues,12  Mar-18*,17574.0,TBZL
+135,Gross profit,12  Mar-18*,745.0,TBZL
+136,Depreciation,12  Mar-18*,88.0,TBZL
+137,Interest,12  Mar-18*,397.0,TBZL
+138,Profit before tax,12  Mar-18*,320.0,TBZL
+139,Minority Interest,12  Mar-18*,0.0,TBZL
+140,Prior Period Items,12  Mar-18*,0.0,TBZL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TBZL
+142,Tax,12  Mar-18*,107.0,TBZL
+143,Profit after tax,12  Mar-18*,213.0,TBZL
+144,Gross profit margin,12  Mar-18*,4.3,TBZL
+145,Effective tax rate,12  Mar-18*,33.5,TBZL
+146,Net profit margin,12  Mar-18*,1.2,TBZL
+147,Current assets,12  Mar-18*,10916.0,TBZL
+148,Current liabilities,12  Mar-18*,7340.0,TBZL
+149,Net working cap to sales,12  Mar-18*,20.4,TBZL
+150,Current ratio,12  Mar-18*,1.5,TBZL
+151,Inventory Days,12  Mar-18*,213.0,TBZL
+152,Debtors Days,12  Mar-18*,5.0,TBZL
+153,Net fixed assets,12  Mar-18*,1033.0,TBZL
+154,Share capital,12  Mar-18*,667.0,TBZL
+155,"""Free"" reserves",12  Mar-18*,4099.0,TBZL
+156,Net worth,12  Mar-18*,4767.0,TBZL
+157,Long term debt,12  Mar-18*,1.0,TBZL
+158,Total assets,12  Mar-18*,12190.0,TBZL
+159,Interest coverage,12  Mar-18*,1.8,TBZL
+160,Debt to equity ratio,12  Mar-18*,0.0,TBZL
+161,Sales to assets ratio,12  Mar-18*,1.4,TBZL
+162,Return on assets,12  Mar-18*,5.0,TBZL
+163,Return on equity,12  Mar-18*,4.5,TBZL
+164,Return on capital,12  Mar-18*,15.0,TBZL
+165,Exports to sales,12  Mar-18*,0.0,TBZL
+166,Imports to sales,12  Mar-18*,0.0,TBZL
+167,Exports (fob),12  Mar-18*,0.0,TBZL
+168,Imports (cif),12  Mar-18*,0.0,TBZL
+169,Fx inflow,12  Mar-18*,14.0,TBZL
+170,Fx outflow,12  Mar-18*,15.0,TBZL
+171,Net fx,12  Mar-18*,-1.0,TBZL
+172,From Operations,12  Mar-18*,415.0,TBZL
+173,From Investments,12  Mar-18*,-89.0,TBZL
+174,From Financial Activity,12  Mar-18*,-269.0,TBZL
+175,Net Cashflow,12  Mar-18*,58.0,TBZL
+176,Net Sales,12  Mar-19*,17636.0,TBZL
+177,Other income,12  Mar-19*,42.0,TBZL
+178,Total revenues,12  Mar-19*,17678.0,TBZL
+179,Gross profit,12  Mar-19*,755.0,TBZL
+180,Depreciation,12  Mar-19*,102.0,TBZL
+181,Interest,12  Mar-19*,464.0,TBZL
+182,Profit before tax,12  Mar-19*,231.0,TBZL
+183,Minority Interest,12  Mar-19*,0.0,TBZL
+184,Prior Period Items,12  Mar-19*,0.0,TBZL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TBZL
+186,Tax,12  Mar-19*,76.0,TBZL
+187,Profit after tax,12  Mar-19*,156.0,TBZL
+188,Gross profit margin,12  Mar-19*,4.3,TBZL
+189,Effective tax rate,12  Mar-19*,32.8,TBZL
+190,Net profit margin,12  Mar-19*,0.9,TBZL
+191,Current assets,12  Mar-19*,12922.0,TBZL
+192,Current liabilities,12  Mar-19*,9313.0,TBZL
+193,Net working cap to sales,12  Mar-19*,20.5,TBZL
+194,Current ratio,12  Mar-19*,1.4,TBZL
+195,Inventory Days,12  Mar-19*,244.0,TBZL
+196,Debtors Days,12  Mar-19*,5.0,TBZL
+197,Net fixed assets,12  Mar-19*,1108.0,TBZL
+198,Share capital,12  Mar-19*,667.0,TBZL
+199,"""Free"" reserves",12  Mar-19*,4171.0,TBZL
+200,Net worth,12  Mar-19*,4838.0,TBZL
+201,Long term debt,12  Mar-19*,0.0,TBZL
+202,Total assets,12  Mar-19*,14233.0,TBZL
+203,Interest coverage,12  Mar-19*,1.5,TBZL
+204,Debt to equity ratio,12  Mar-19*,0.0,TBZL
+205,Sales to assets ratio,12  Mar-19*,1.2,TBZL
+206,Return on assets,12  Mar-19*,4.4,TBZL
+207,Return on equity,12  Mar-19*,3.2,TBZL
+208,Return on capital,12  Mar-19*,14.4,TBZL
+209,Exports to sales,12  Mar-19*,0.0,TBZL
+210,Imports to sales,12  Mar-19*,0.0,TBZL
+211,Exports (fob),12  Mar-19*,0.0,TBZL
+212,Imports (cif),12  Mar-19*,0.0,TBZL
+213,Fx inflow,12  Mar-19*,0.0,TBZL
+214,Fx outflow,12  Mar-19*,5.0,TBZL
+215,Net fx,12  Mar-19*,-5.0,TBZL
+216,From Operations,12  Mar-19*,324.0,TBZL
+217,From Investments,12  Mar-19*,-209.0,TBZL
+218,From Financial Activity,12  Mar-19*,-159.0,TBZL
+219,Net Cashflow,12  Mar-19*,-45.0,TBZL

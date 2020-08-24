@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,17807.0,AVFD
+1,Other income,12  Mar-15*,80.0,AVFD
+2,Total revenues,12  Mar-15*,17886.0,AVFD
+3,Gross profit,12  Mar-15*,1820.0,AVFD
+4,Depreciation,12  Mar-15*,88.0,AVFD
+5,Interest,12  Mar-15*,14.0,AVFD
+6,Profit before tax,12  Mar-15*,1798.0,AVFD
+7,Minority Interest,12  Mar-15*,0.0,AVFD
+8,Prior Period Items,12  Mar-15*,-7.0,AVFD
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,AVFD
+10,Tax,12  Mar-15*,633.0,AVFD
+11,Profit after tax,12  Mar-15*,1159.0,AVFD
+12,Gross profit margin,12  Mar-15*,10.2,AVFD
+13,Effective tax rate,12  Mar-15*,35.2,AVFD
+14,Net profit margin,12  Mar-15*,6.5,AVFD
+15,Current assets,12  Mar-15*,3480.0,AVFD
+16,Current liabilities,12  Mar-15*,1983.0,AVFD
+17,Net working cap to sales,12  Mar-15*,8.4,AVFD
+18,Current ratio,12  Mar-15*,1.8,AVFD
+19,Inventory Days,12  Mar-15*,46.0,AVFD
+20,Debtors Days,12  Mar-15*,7.0,AVFD
+21,Net fixed assets,12  Mar-15*,896.0,AVFD
+22,Share capital,12  Mar-15*,91.0,AVFD
+23,"""Free"" reserves",12  Mar-15*,2501.0,AVFD
+24,Net worth,12  Mar-15*,2653.0,AVFD
+25,Long term debt,12  Mar-15*,42.0,AVFD
+26,Total assets,12  Mar-15*,4776.0,AVFD
+27,Interest coverage,12  Mar-15*,132.3,AVFD
+28,Debt to equity ratio,12  Mar-15*,0.0,AVFD
+29,Sales to assets ratio,12  Mar-15*,3.7,AVFD
+30,Return on assets,12  Mar-15*,24.6,AVFD
+31,Return on equity,12  Mar-15*,43.7,AVFD
+32,Return on capital,12  Mar-15*,67.0,AVFD
+33,Exports to sales,12  Mar-15*,13.7,AVFD
+34,Imports to sales,12  Mar-15*,2.4,AVFD
+35,Exports (fob),12  Mar-15*,2441.0,AVFD
+36,Imports (cif),12  Mar-15*,421.0,AVFD
+37,Fx inflow,12  Mar-15*,2441.0,AVFD
+38,Fx outflow,12  Mar-15*,562.0,AVFD
+39,Net fx,12  Mar-15*,1878.0,AVFD
+40,From Operations,12  Mar-15*,893.0,AVFD
+41,From Investments,12  Mar-15*,-835.0,AVFD
+42,From Financial Activity,12  Mar-15*,-120.0,AVFD
+43,Net Cashflow,12  Mar-15*,-61.0,AVFD
+44,Net Sales,12  Mar-16*,20183.0,AVFD
+45,Other income,12  Mar-16*,166.0,AVFD
+46,Total revenues,12  Mar-16*,20348.0,AVFD
+47,Gross profit,12  Mar-16*,2298.0,AVFD
+48,Depreciation,12  Mar-16*,102.0,AVFD
+49,Interest,12  Mar-16*,18.0,AVFD
+50,Profit before tax,12  Mar-16*,2343.0,AVFD
+51,Minority Interest,12  Mar-16*,0.0,AVFD
+52,Prior Period Items,12  Mar-16*,-15.0,AVFD
+53,Extraordinary Inc (Exp),12  Mar-16*,39.0,AVFD
+54,Tax,12  Mar-16*,792.0,AVFD
+55,Profit after tax,12  Mar-16*,1575.0,AVFD
+56,Gross profit margin,12  Mar-16*,11.4,AVFD
+57,Effective tax rate,12  Mar-16*,33.8,AVFD
+58,Net profit margin,12  Mar-16*,7.8,AVFD
+59,Current assets,12  Mar-16*,4090.0,AVFD
+60,Current liabilities,12  Mar-16*,1896.0,AVFD
+61,Net working cap to sales,12  Mar-16*,10.9,AVFD
+62,Current ratio,12  Mar-16*,2.2,AVFD
+63,Inventory Days,12  Mar-16*,52.0,AVFD
+64,Debtors Days,12  Mar-16*,6.0,AVFD
+65,Net fixed assets,12  Mar-16*,1456.0,AVFD
+66,Share capital,12  Mar-16*,91.0,AVFD
+67,"""Free"" reserves",12  Mar-16*,4137.0,AVFD
+68,Net worth,12  Mar-16*,3845.0,AVFD
+69,Long term debt,12  Mar-16*,21.0,AVFD
+70,Total assets,12  Mar-16*,6215.0,AVFD
+71,Interest coverage,12  Mar-16*,128.3,AVFD
+72,Debt to equity ratio,12  Mar-16*,0.0,AVFD
+73,Sales to assets ratio,12  Mar-16*,3.2,AVFD
+74,Return on assets,12  Mar-16*,25.6,AVFD
+75,Return on equity,12  Mar-16*,41.0,AVFD
+76,Return on capital,12  Mar-16*,61.7,AVFD
+77,Exports to sales,12  Mar-16*,12.5,AVFD
+78,Imports to sales,12  Mar-16*,3.7,AVFD
+79,Exports (fob),12  Mar-16*,2522.0,AVFD
+80,Imports (cif),12  Mar-16*,756.0,AVFD
+81,Fx inflow,12  Mar-16*,2571.0,AVFD
+82,Fx outflow,12  Mar-16*,936.0,AVFD
+83,Net fx,12  Mar-16*,1635.0,AVFD
+84,From Operations,12  Mar-16*,1220.0,AVFD
+85,From Investments,12  Mar-16*,181.0,AVFD
+86,From Financial Activity,12  Mar-16*,-743.0,AVFD
+87,Net Cashflow,12  Mar-16*,659.0,AVFD
+88,Net Sales,12  Mar-17*,26157.0,AVFD
+89,Other income,12  Mar-17*,235.0,AVFD
+90,Total revenues,12  Mar-17*,26393.0,AVFD
+91,Gross profit,12  Mar-17*,3301.0,AVFD
+92,Depreciation,12  Mar-17*,137.0,AVFD
+93,Interest,12  Mar-17*,30.0,AVFD
+94,Profit before tax,12  Mar-17*,3369.0,AVFD
+95,Minority Interest,12  Mar-17*,-3.0,AVFD
+96,Prior Period Items,12  Mar-17*,0.0,AVFD
+97,Extraordinary Inc (Exp),12  Mar-17*,1.0,AVFD
+98,Tax,12  Mar-17*,1104.0,AVFD
+99,Profit after tax,12  Mar-17*,2263.0,AVFD
+100,Gross profit margin,12  Mar-17*,12.6,AVFD
+101,Effective tax rate,12  Mar-17*,32.8,AVFD
+102,Net profit margin,12  Mar-17*,8.7,AVFD
+103,Current assets,12  Mar-17*,7689.0,AVFD
+104,Current liabilities,12  Mar-17*,2904.0,AVFD
+105,Net working cap to sales,12  Mar-17*,18.3,AVFD
+106,Current ratio,12  Mar-17*,2.6,AVFD
+107,Inventory Days,12  Mar-17*,50.0,AVFD
+108,Debtors Days,12  Mar-17*,3.0,AVFD
+109,Net fixed assets,12  Mar-17*,2389.0,AVFD
+110,Share capital,12  Mar-17*,91.0,AVFD
+111,"""Free"" reserves",12  Mar-17*,6263.0,AVFD
+112,Net worth,12  Mar-17*,6354.0,AVFD
+113,Long term debt,12  Mar-17*,122.0,AVFD
+114,Total assets,12  Mar-17*,10686.0,AVFD
+115,Interest coverage,12  Mar-17*,113.3,AVFD
+116,Debt to equity ratio,12  Mar-17*,0.0,AVFD
+117,Sales to assets ratio,12  Mar-17*,2.4,AVFD
+118,Return on assets,12  Mar-17*,21.5,AVFD
+119,Return on equity,12  Mar-17*,35.6,AVFD
+120,Return on capital,12  Mar-17*,52.5,AVFD
+121,Exports to sales,12  Mar-17*,8.8,AVFD
+122,Imports to sales,12  Mar-17*,3.0,AVFD
+123,Exports (fob),12  Mar-17*,2311.0,AVFD
+124,Imports (cif),12  Mar-17*,773.0,AVFD
+125,Fx inflow,12  Mar-17*,2312.0,AVFD
+126,Fx outflow,12  Mar-17*,978.0,AVFD
+127,Net fx,12  Mar-17*,1334.0,AVFD
+128,From Operations,12  Mar-17*,2778.0,AVFD
+129,From Investments,12  Mar-17*,-4078.0,AVFD
+130,From Financial Activity,12  Mar-17*,1005.0,AVFD
+131,Net Cashflow,12  Mar-17*,-295.0,AVFD
+132,Net Sales,12  Mar-18*,33929.0,AVFD
+133,Other income,12  Mar-18*,483.0,AVFD
+134,Total revenues,12  Mar-18*,34412.0,AVFD
+135,Gross profit,12  Mar-18*,6826.0,AVFD
+136,Depreciation,12  Mar-18*,238.0,AVFD
+137,Interest,12  Mar-18*,30.0,AVFD
+138,Profit before tax,12  Mar-18*,7042.0,AVFD
+139,Minority Interest,12  Mar-18*,11.0,AVFD
+140,Prior Period Items,12  Mar-18*,0.0,AVFD
+141,Extraordinary Inc (Exp),12  Mar-18*,-8.0,AVFD
+142,Tax,12  Mar-18*,2380.0,AVFD
+143,Profit after tax,12  Mar-18*,4665.0,AVFD
+144,Gross profit margin,12  Mar-18*,20.1,AVFD
+145,Effective tax rate,12  Mar-18*,33.8,AVFD
+146,Net profit margin,12  Mar-18*,13.7,AVFD
+147,Current assets,12  Mar-18*,11623.0,AVFD
+148,Current liabilities,12  Mar-18*,3279.0,AVFD
+149,Net working cap to sales,12  Mar-18*,24.6,AVFD
+150,Current ratio,12  Mar-18*,3.5,AVFD
+151,Inventory Days,12  Mar-18*,56.0,AVFD
+152,Debtors Days,12  Mar-18*,5.0,AVFD
+153,Net fixed assets,12  Mar-18*,3453.0,AVFD
+154,Share capital,12  Mar-18*,91.0,AVFD
+155,"""Free"" reserves",12  Mar-18*,10224.0,AVFD
+156,Net worth,12  Mar-18*,10315.0,AVFD
+157,Long term debt,12  Mar-18*,18.0,AVFD
+158,Total assets,12  Mar-18*,15263.0,AVFD
+159,Interest coverage,12  Mar-18*,238.9,AVFD
+160,Debt to equity ratio,12  Mar-18*,0.0,AVFD
+161,Sales to assets ratio,12  Mar-18*,2.2,AVFD
+162,Return on assets,12  Mar-18*,30.8,AVFD
+163,Return on equity,12  Mar-18*,45.2,AVFD
+164,Return on capital,12  Mar-18*,68.5,AVFD
+165,Exports to sales,12  Mar-18*,0.0,AVFD
+166,Imports to sales,12  Mar-18*,0.0,AVFD
+167,Exports (fob),12  Mar-18*,0.0,AVFD
+168,Imports (cif),12  Mar-18*,0.0,AVFD
+169,Fx inflow,12  Mar-18*,0.0,AVFD
+170,Fx outflow,12  Mar-18*,1471.0,AVFD
+171,Net fx,12  Mar-18*,-1471.0,AVFD
+172,From Operations,12  Mar-18*,2809.0,AVFD
+173,From Investments,12  Mar-18*,-2693.0,AVFD
+174,From Financial Activity,12  Mar-18*,-455.0,AVFD
+175,Net Cashflow,12  Mar-18*,-338.0,AVFD
+176,Net Sales,12  Mar-19*,34878.0,AVFD
+177,Other income,12  Mar-19*,538.0,AVFD
+178,Total revenues,12  Mar-19*,35416.0,AVFD
+179,Gross profit,12  Mar-19*,4073.0,AVFD
+180,Depreciation,12  Mar-19*,358.0,AVFD
+181,Interest,12  Mar-19*,26.0,AVFD
+182,Profit before tax,12  Mar-19*,4226.0,AVFD
+183,Minority Interest,12  Mar-19*,3.0,AVFD
+184,Prior Period Items,12  Mar-19*,0.0,AVFD
+185,Extraordinary Inc (Exp),12  Mar-19*,52.0,AVFD
+186,Tax,12  Mar-19*,1214.0,AVFD
+187,Profit after tax,12  Mar-19*,3066.0,AVFD
+188,Gross profit margin,12  Mar-19*,11.7,AVFD
+189,Effective tax rate,12  Mar-19*,28.7,AVFD
+190,Net profit margin,12  Mar-19*,8.8,AVFD
+191,Current assets,12  Mar-19*,11795.0,AVFD
+192,Current liabilities,12  Mar-19*,2199.0,AVFD
+193,Net working cap to sales,12  Mar-19*,27.5,AVFD
+194,Current ratio,12  Mar-19*,5.4,AVFD
+195,Inventory Days,12  Mar-19*,40.0,AVFD
+196,Debtors Days,12  Mar-19*,5.0,AVFD
+197,Net fixed assets,12  Mar-19*,3330.0,AVFD
+198,Share capital,12  Mar-19*,136.0,AVFD
+199,"""Free"" reserves",12  Mar-19*,11923.0,AVFD
+200,Net worth,12  Mar-19*,12060.0,AVFD
+201,Long term debt,12  Mar-19*,11.0,AVFD
+202,Total assets,12  Mar-19*,16148.0,AVFD
+203,Interest coverage,12  Mar-19*,161.7,AVFD
+204,Debt to equity ratio,12  Mar-19*,0.0,AVFD
+205,Sales to assets ratio,12  Mar-19*,2.2,AVFD
+206,Return on assets,12  Mar-19*,19.2,AVFD
+207,Return on equity,12  Mar-19*,25.4,AVFD
+208,Return on capital,12  Mar-19*,35.7,AVFD
+209,Exports to sales,12  Mar-19*,0.0,AVFD
+210,Imports to sales,12  Mar-19*,0.0,AVFD
+211,Exports (fob),12  Mar-19*,0.0,AVFD
+212,Imports (cif),12  Mar-19*,0.0,AVFD
+213,Fx inflow,12  Mar-19*,16.0,AVFD
+214,Fx outflow,12  Mar-19*,1486.0,AVFD
+215,Net fx,12  Mar-19*,-1470.0,AVFD
+216,From Operations,12  Mar-19*,1838.0,AVFD
+217,From Investments,12  Mar-19*,-268.0,AVFD
+218,From Financial Activity,12  Mar-19*,-1058.0,AVFD
+219,Net Cashflow,12  Mar-19*,512.0,AVFD

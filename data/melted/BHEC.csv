@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,68953.0,BHEC
+1,Other income,12  Mar-15*,5067.0,BHEC
+2,Total revenues,12  Mar-15*,74021.0,BHEC
+3,Gross profit,12  Mar-15*,11746.0,BHEC
+4,Depreciation,12  Mar-15*,1662.0,BHEC
+5,Interest,12  Mar-15*,27.0,BHEC
+6,Profit before tax,12  Mar-15*,15125.0,BHEC
+7,Minority Interest,12  Mar-15*,2.0,BHEC
+8,Prior Period Items,12  Mar-15*,7.0,BHEC
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BHEC
+10,Tax,12  Mar-15*,3162.0,BHEC
+11,Profit after tax,12  Mar-15*,11972.0,BHEC
+12,Gross profit margin,12  Mar-15*,17.0,BHEC
+13,Effective tax rate,12  Mar-15*,20.9,BHEC
+14,Net profit margin,12  Mar-15*,17.4,BHEC
+15,Current assets,12  Mar-15*,138319.0,BHEC
+16,Current liabilities,12  Mar-15*,67553.0,BHEC
+17,Net working cap to sales,12  Mar-15*,102.6,BHEC
+18,Current ratio,12  Mar-15*,2.0,BHEC
+19,Inventory Days,12  Mar-15*,179.0,BHEC
+20,Debtors Days,12  Mar-15*,201.0,BHEC
+21,Net fixed assets,12  Mar-15*,10155.0,BHEC
+22,Share capital,12  Mar-15*,800.0,BHEC
+23,"""Free"" reserves",12  Mar-15*,81638.0,BHEC
+24,Net worth,12  Mar-15*,82438.0,BHEC
+25,Long term debt,12  Mar-15*,0.0,BHEC
+26,Total assets,12  Mar-15*,157692.0,BHEC
+27,Interest coverage,12  Mar-15*,565.0,BHEC
+28,Debt to equity ratio,12  Mar-15*,0.0,BHEC
+29,Sales to assets ratio,12  Mar-15*,0.4,BHEC
+30,Return on assets,12  Mar-15*,7.6,BHEC
+31,Return on equity,12  Mar-15*,14.5,BHEC
+32,Return on capital,12  Mar-15*,18.4,BHEC
+33,Exports to sales,12  Mar-15*,5.2,BHEC
+34,Imports to sales,12  Mar-15*,0.0,BHEC
+35,Exports (fob),12  Mar-15*,3585.0,BHEC
+36,Imports (cif),12  Mar-15*,0.0,BHEC
+37,Fx inflow,12  Mar-15*,3585.0,BHEC
+38,Fx outflow,12  Mar-15*,18466.0,BHEC
+39,Net fx,12  Mar-15*,-14881.0,BHEC
+40,From Operations,12  Mar-15*,14337.0,BHEC
+41,From Investments,12  Mar-15*,-8392.0,BHEC
+42,From Financial Activity,12  Mar-15*,-2090.0,BHEC
+43,Net Cashflow,12  Mar-15*,3856.0,BHEC
+44,Net Sales,12  Mar-16*,73538.0,BHEC
+45,Other income,12  Mar-16*,5395.0,BHEC
+46,Total revenues,12  Mar-16*,78933.0,BHEC
+47,Gross profit,12  Mar-16*,13893.0,BHEC
+48,Depreciation,12  Mar-16*,1920.0,BHEC
+49,Interest,12  Mar-16*,60.0,BHEC
+50,Profit before tax,12  Mar-16*,17308.0,BHEC
+51,Minority Interest,12  Mar-16*,332.0,BHEC
+52,Prior Period Items,12  Mar-16*,0.0,BHEC
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BHEC
+54,Tax,12  Mar-16*,4272.0,BHEC
+55,Profit after tax,12  Mar-16*,13368.0,BHEC
+56,Gross profit margin,12  Mar-16*,18.9,BHEC
+57,Effective tax rate,12  Mar-16*,24.7,BHEC
+58,Net profit margin,12  Mar-16*,18.2,BHEC
+59,Current assets,12  Mar-16*,158327.0,BHEC
+60,Current liabilities,12  Mar-16*,84510.0,BHEC
+61,Net working cap to sales,12  Mar-16*,100.4,BHEC
+62,Current ratio,12  Mar-16*,1.9,BHEC
+63,Inventory Days,12  Mar-16*,206.0,BHEC
+64,Debtors Days,12  Mar-16*,185.0,BHEC
+65,Net fixed assets,12  Mar-16*,12815.0,BHEC
+66,Share capital,12  Mar-16*,2400.0,BHEC
+67,"""Free"" reserves",12  Mar-16*,90062.0,BHEC
+68,Net worth,12  Mar-16*,92462.0,BHEC
+69,Long term debt,12  Mar-16*,0.0,BHEC
+70,Total assets,12  Mar-16*,186043.0,BHEC
+71,Interest coverage,12  Mar-16*,288.5,BHEC
+72,Debt to equity ratio,12  Mar-16*,0.0,BHEC
+73,Sales to assets ratio,12  Mar-16*,0.4,BHEC
+74,Return on assets,12  Mar-16*,7.2,BHEC
+75,Return on equity,12  Mar-16*,14.5,BHEC
+76,Return on capital,12  Mar-16*,19.1,BHEC
+77,Exports to sales,12  Mar-16*,7.6,BHEC
+78,Imports to sales,12  Mar-16*,0.0,BHEC
+79,Exports (fob),12  Mar-16*,5587.0,BHEC
+80,Imports (cif),12  Mar-16*,0.0,BHEC
+81,Fx inflow,12  Mar-16*,5587.0,BHEC
+82,Fx outflow,12  Mar-16*,22793.0,BHEC
+83,Net fx,12  Mar-16*,-17206.0,BHEC
+84,From Operations,12  Mar-16*,22601.0,BHEC
+85,From Investments,12  Mar-16*,-14703.0,BHEC
+86,From Financial Activity,12  Mar-16*,-3177.0,BHEC
+87,Net Cashflow,12  Mar-16*,4720.0,BHEC
+88,Net Sales,12  Mar-17*,86683.0,BHEC
+89,Other income,12  Mar-17*,4201.0,BHEC
+90,Total revenues,12  Mar-17*,90885.0,BHEC
+91,Gross profit,12  Mar-17*,17870.0,BHEC
+92,Depreciation,12  Mar-17*,2116.0,BHEC
+93,Interest,12  Mar-17*,129.0,BHEC
+94,Profit before tax,12  Mar-17*,19826.0,BHEC
+95,Minority Interest,12  Mar-17*,263.0,BHEC
+96,Prior Period Items,12  Mar-17*,0.0,BHEC
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BHEC
+98,Tax,12  Mar-17*,4855.0,BHEC
+99,Profit after tax,12  Mar-17*,15234.0,BHEC
+100,Gross profit margin,12  Mar-17*,20.6,BHEC
+101,Effective tax rate,12  Mar-17*,24.5,BHEC
+102,Net profit margin,12  Mar-17*,17.6,BHEC
+103,Current assets,12  Mar-17*,140665.0,BHEC
+104,Current liabilities,12  Mar-17*,87508.0,BHEC
+105,Net working cap to sales,12  Mar-17*,61.3,BHEC
+106,Current ratio,12  Mar-17*,1.6,BHEC
+107,Inventory Days,12  Mar-17*,206.0,BHEC
+108,Debtors Days,12  Mar-17*,184.0,BHEC
+109,Net fixed assets,12  Mar-17*,17556.0,BHEC
+110,Share capital,12  Mar-17*,2234.0,BHEC
+111,"""Free"" reserves",12  Mar-17*,75124.0,BHEC
+112,Net worth,12  Mar-17*,77358.0,BHEC
+113,Long term debt,12  Mar-17*,167.0,BHEC
+114,Total assets,12  Mar-17*,175963.0,BHEC
+115,Interest coverage,12  Mar-17*,154.9,BHEC
+116,Debt to equity ratio,12  Mar-17*,0.0,BHEC
+117,Sales to assets ratio,12  Mar-17*,0.5,BHEC
+118,Return on assets,12  Mar-17*,8.7,BHEC
+119,Return on equity,12  Mar-17*,19.7,BHEC
+120,Return on capital,12  Mar-17*,26.1,BHEC
+121,Exports to sales,12  Mar-17*,5.0,BHEC
+122,Imports to sales,12  Mar-17*,0.0,BHEC
+123,Exports (fob),12  Mar-17*,4325.0,BHEC
+124,Imports (cif),12  Mar-17*,0.0,BHEC
+125,Fx inflow,12  Mar-17*,4325.0,BHEC
+126,Fx outflow,12  Mar-17*,31705.0,BHEC
+127,Net fx,12  Mar-17*,-27381.0,BHEC
+128,From Operations,12  Mar-17*,-609.0,BHEC
+129,From Investments,12  Mar-17*,31145.0,BHEC
+130,From Financial Activity,12  Mar-17*,-28568.0,BHEC
+131,Net Cashflow,12  Mar-17*,1967.0,BHEC
+132,Net Sales,12  Mar-18*,104008.0,BHEC
+133,Other income,12  Mar-18*,1957.0,BHEC
+134,Total revenues,12  Mar-18*,105965.0,BHEC
+135,Gross profit,12  Mar-18*,20352.0,BHEC
+136,Depreciation,12  Mar-18*,2717.0,BHEC
+137,Interest,12  Mar-18*,22.0,BHEC
+138,Profit before tax,12  Mar-18*,19570.0,BHEC
+139,Minority Interest,12  Mar-18*,238.0,BHEC
+140,Prior Period Items,12  Mar-18*,0.0,BHEC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BHEC
+142,Tax,12  Mar-18*,5498.0,BHEC
+143,Profit after tax,12  Mar-18*,14310.0,BHEC
+144,Gross profit margin,12  Mar-18*,19.6,BHEC
+145,Effective tax rate,12  Mar-18*,28.1,BHEC
+146,Net profit margin,12  Mar-18*,13.8,BHEC
+147,Current assets,12  Mar-18*,143045.0,BHEC
+148,Current liabilities,12  Mar-18*,98962.0,BHEC
+149,Net working cap to sales,12  Mar-18*,42.4,BHEC
+150,Current ratio,12  Mar-18*,1.4,BHEC
+151,Inventory Days,12  Mar-18*,161.0,BHEC
+152,Debtors Days,12  Mar-18*,176.0,BHEC
+153,Net fixed assets,12  Mar-18*,21337.0,BHEC
+154,Share capital,12  Mar-18*,2437.0,BHEC
+155,"""Free"" reserves",12  Mar-18*,77720.0,BHEC
+156,Net worth,12  Mar-18*,80157.0,BHEC
+157,Long term debt,12  Mar-18*,333.0,BHEC
+158,Total assets,12  Mar-18*,189515.0,BHEC
+159,Interest coverage,12  Mar-18*,894.6,BHEC
+160,Debt to equity ratio,12  Mar-18*,0.0,BHEC
+161,Sales to assets ratio,12  Mar-18*,0.5,BHEC
+162,Return on assets,12  Mar-18*,7.6,BHEC
+163,Return on equity,12  Mar-18*,17.9,BHEC
+164,Return on capital,12  Mar-18*,24.6,BHEC
+165,Exports to sales,12  Mar-18*,0.0,BHEC
+166,Imports to sales,12  Mar-18*,0.0,BHEC
+167,Exports (fob),12  Mar-18*,0.0,BHEC
+168,Imports (cif),12  Mar-18*,0.0,BHEC
+169,Fx inflow,12  Mar-18*,0.0,BHEC
+170,Fx outflow,12  Mar-18*,0.0,BHEC
+171,Net fx,12  Mar-18*,0.0,BHEC
+172,From Operations,12  Mar-18*,-6866.0,BHEC
+173,From Investments,12  Mar-18*,-64.0,BHEC
+174,From Financial Activity,12  Mar-18*,-12024.0,BHEC
+175,Net Cashflow,12  Mar-18*,-18954.0,BHEC
+176,Net Sales,12  Mar-19*,121642.0,BHEC
+177,Other income,12  Mar-19*,730.0,BHEC
+178,Total revenues,12  Mar-19*,122372.0,BHEC
+179,Gross profit,12  Mar-19*,29062.0,BHEC
+180,Depreciation,12  Mar-19*,3381.0,BHEC
+181,Interest,12  Mar-19*,128.0,BHEC
+182,Profit before tax,12  Mar-19*,26283.0,BHEC
+183,Minority Interest,12  Mar-19*,386.0,BHEC
+184,Prior Period Items,12  Mar-19*,0.0,BHEC
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BHEC
+186,Tax,12  Mar-19*,7803.0,BHEC
+187,Profit after tax,12  Mar-19*,18867.0,BHEC
+188,Gross profit margin,12  Mar-19*,23.9,BHEC
+189,Effective tax rate,12  Mar-19*,29.7,BHEC
+190,Net profit margin,12  Mar-19*,15.5,BHEC
+191,Current assets,12  Mar-19*,158744.0,BHEC
+192,Current liabilities,12  Mar-19*,104488.0,BHEC
+193,Net working cap to sales,12  Mar-19*,44.6,BHEC
+194,Current ratio,12  Mar-19*,1.5,BHEC
+195,Inventory Days,12  Mar-19*,133.0,BHEC
+196,Debtors Days,12  Mar-19*,161.0,BHEC
+197,Net fixed assets,12  Mar-19*,32769.0,BHEC
+198,Share capital,12  Mar-19*,2437.0,BHEC
+199,"""Free"" reserves",12  Mar-19*,89678.0,BHEC
+200,Net worth,12  Mar-19*,92115.0,BHEC
+201,Long term debt,12  Mar-19*,0.0,BHEC
+202,Total assets,12  Mar-19*,208206.0,BHEC
+203,Interest coverage,12  Mar-19*,207.1,BHEC
+204,Debt to equity ratio,12  Mar-19*,0.0,BHEC
+205,Sales to assets ratio,12  Mar-19*,0.6,BHEC
+206,Return on assets,12  Mar-19*,9.1,BHEC
+207,Return on equity,12  Mar-19*,20.5,BHEC
+208,Return on capital,12  Mar-19*,29.1,BHEC
+209,Exports to sales,12  Mar-19*,0.0,BHEC
+210,Imports to sales,12  Mar-19*,0.0,BHEC
+211,Exports (fob),12  Mar-19*,0.0,BHEC
+212,Imports (cif),12  Mar-19*,0.0,BHEC
+213,Fx inflow,12  Mar-19*,0.0,BHEC
+214,Fx outflow,12  Mar-19*,0.0,BHEC
+215,Net fx,12  Mar-19*,0.0,BHEC
+216,From Operations,12  Mar-19*,15461.0,BHEC
+217,From Investments,12  Mar-19*,-9281.0,BHEC
+218,From Financial Activity,12  Mar-19*,-6627.0,BHEC
+219,Net Cashflow,12  Mar-19*,-447.0,BHEC

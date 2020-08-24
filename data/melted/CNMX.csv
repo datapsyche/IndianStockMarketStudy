@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,204.0,CNMX
+1,Other income,12  Mar-15,62.0,CNMX
+2,Total revenues,12  Mar-15,266.0,CNMX
+3,Gross profit,12  Mar-15,135.0,CNMX
+4,Depreciation,12  Mar-15,61.0,CNMX
+5,Interest,12  Mar-15,78.0,CNMX
+6,Profit before tax,12  Mar-15,58.0,CNMX
+7,Minority Interest,12  Mar-15,0.0,CNMX
+8,Prior Period Items,12  Mar-15,0.0,CNMX
+9,Extraordinary Inc (Exp),12  Mar-15,22.0,CNMX
+10,Tax,12  Mar-15,40.0,CNMX
+11,Profit after tax,12  Mar-15,40.0,CNMX
+12,Gross profit margin,12  Mar-15,66.0,CNMX
+13,Effective tax rate,12  Mar-15,68.8,CNMX
+14,Net profit margin,12  Mar-15,19.4,CNMX
+15,Current assets,12  Mar-15,500.0,CNMX
+16,Current liabilities,12  Mar-15,63.0,CNMX
+17,Net working cap to sales,12  Mar-15,214.2,CNMX
+18,Current ratio,12  Mar-15,7.9,CNMX
+19,Inventory Days,12  Mar-15,0.0,CNMX
+20,Debtors Days,12  Mar-15,35.0,CNMX
+21,Net fixed assets,12  Mar-15,934.0,CNMX
+22,Share capital,12  Mar-15,140.0,CNMX
+23,"""Free"" reserves",12  Mar-15,636.0,CNMX
+24,Net worth,12  Mar-15,777.0,CNMX
+25,Long term debt,12  Mar-15,579.0,CNMX
+26,Total assets,12  Mar-15,1542.0,CNMX
+27,Interest coverage,12  Mar-15,1.7,CNMX
+28,Debt to equity ratio,12  Mar-15,0.7,CNMX
+29,Sales to assets ratio,12  Mar-15,0.1,CNMX
+30,Return on assets,12  Mar-15,7.6,CNMX
+31,Return on equity,12  Mar-15,5.1,CNMX
+32,Return on capital,12  Mar-15,11.6,CNMX
+33,Exports to sales,12  Mar-15,0.0,CNMX
+34,Imports to sales,12  Mar-15,0.0,CNMX
+35,Exports (fob),12  Mar-15,0.0,CNMX
+36,Imports (cif),12  Mar-15,0.0,CNMX
+37,Fx inflow,12  Mar-15,0.0,CNMX
+38,Fx outflow,12  Mar-15,0.0,CNMX
+39,Net fx,12  Mar-15,0.0,CNMX
+40,From Operations,12  Mar-15,38.0,CNMX
+41,From Investments,12  Mar-15,54.0,CNMX
+42,From Financial Activity,12  Mar-15,-95.0,CNMX
+43,Net Cashflow,12  Mar-15,-3.0,CNMX
+44,Net Sales,12  Mar-16,228.0,CNMX
+45,Other income,12  Mar-16,93.0,CNMX
+46,Total revenues,12  Mar-16,321.0,CNMX
+47,Gross profit,12  Mar-16,144.0,CNMX
+48,Depreciation,12  Mar-16,61.0,CNMX
+49,Interest,12  Mar-16,101.0,CNMX
+50,Profit before tax,12  Mar-16,76.0,CNMX
+51,Minority Interest,12  Mar-16,0.0,CNMX
+52,Prior Period Items,12  Mar-16,0.0,CNMX
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,CNMX
+54,Tax,12  Mar-16,18.0,CNMX
+55,Profit after tax,12  Mar-16,58.0,CNMX
+56,Gross profit margin,12  Mar-16,63.4,CNMX
+57,Effective tax rate,12  Mar-16,23.9,CNMX
+58,Net profit margin,12  Mar-16,25.3,CNMX
+59,Current assets,12  Mar-16,710.0,CNMX
+60,Current liabilities,12  Mar-16,102.0,CNMX
+61,Net working cap to sales,12  Mar-16,266.8,CNMX
+62,Current ratio,12  Mar-16,7.0,CNMX
+63,Inventory Days,12  Mar-16,0.0,CNMX
+64,Debtors Days,12  Mar-16,59.0,CNMX
+65,Net fixed assets,12  Mar-16,873.0,CNMX
+66,Share capital,12  Mar-16,140.0,CNMX
+67,"""Free"" reserves",12  Mar-16,711.0,CNMX
+68,Net worth,12  Mar-16,851.0,CNMX
+69,Long term debt,12  Mar-16,1239.0,CNMX
+70,Total assets,12  Mar-16,2267.0,CNMX
+71,Interest coverage,12  Mar-16,1.8,CNMX
+72,Debt to equity ratio,12  Mar-16,1.5,CNMX
+73,Sales to assets ratio,12  Mar-16,0.1,CNMX
+74,Return on assets,12  Mar-16,7.0,CNMX
+75,Return on equity,12  Mar-16,6.8,CNMX
+76,Return on capital,12  Mar-16,8.4,CNMX
+77,Exports to sales,12  Mar-16,0.0,CNMX
+78,Imports to sales,12  Mar-16,0.0,CNMX
+79,Exports (fob),12  Mar-16,0.0,CNMX
+80,Imports (cif),12  Mar-16,0.0,CNMX
+81,Fx inflow,12  Mar-16,0.0,CNMX
+82,Fx outflow,12  Mar-16,0.0,CNMX
+83,Net fx,12  Mar-16,0.0,CNMX
+84,From Operations,12  Mar-16,-55.0,CNMX
+85,From Investments,12  Mar-16,-503.0,CNMX
+86,From Financial Activity,12  Mar-16,562.0,CNMX
+87,Net Cashflow,12  Mar-16,3.0,CNMX
+88,Net Sales,12  Mar-17,224.0,CNMX
+89,Other income,12  Mar-17,111.0,CNMX
+90,Total revenues,12  Mar-17,335.0,CNMX
+91,Gross profit,12  Mar-17,151.0,CNMX
+92,Depreciation,12  Mar-17,36.0,CNMX
+93,Interest,12  Mar-17,84.0,CNMX
+94,Profit before tax,12  Mar-17,143.0,CNMX
+95,Minority Interest,12  Mar-17,0.0,CNMX
+96,Prior Period Items,12  Mar-17,0.0,CNMX
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,CNMX
+98,Tax,12  Mar-17,38.0,CNMX
+99,Profit after tax,12  Mar-17,105.0,CNMX
+100,Gross profit margin,12  Mar-17,67.5,CNMX
+101,Effective tax rate,12  Mar-17,26.3,CNMX
+102,Net profit margin,12  Mar-17,46.9,CNMX
+103,Current assets,12  Mar-17,843.0,CNMX
+104,Current liabilities,12  Mar-17,83.0,CNMX
+105,Net working cap to sales,12  Mar-17,338.8,CNMX
+106,Current ratio,12  Mar-17,10.2,CNMX
+107,Inventory Days,12  Mar-17,0.0,CNMX
+108,Debtors Days,12  Mar-17,45.0,CNMX
+109,Net fixed assets,12  Mar-17,845.0,CNMX
+110,Share capital,12  Mar-17,140.0,CNMX
+111,"""Free"" reserves",12  Mar-17,816.0,CNMX
+112,Net worth,12  Mar-17,956.0,CNMX
+113,Long term debt,12  Mar-17,1291.0,CNMX
+114,Total assets,12  Mar-17,2412.0,CNMX
+115,Interest coverage,12  Mar-17,2.7,CNMX
+116,Debt to equity ratio,12  Mar-17,1.4,CNMX
+117,Sales to assets ratio,12  Mar-17,0.1,CNMX
+118,Return on assets,12  Mar-17,7.8,CNMX
+119,Return on equity,12  Mar-17,11.0,CNMX
+120,Return on capital,12  Mar-17,10.1,CNMX
+121,Exports to sales,12  Mar-17,0.0,CNMX
+122,Imports to sales,12  Mar-17,0.0,CNMX
+123,Exports (fob),12  Mar-17,0.0,CNMX
+124,Imports (cif),12  Mar-17,0.0,CNMX
+125,Fx inflow,12  Mar-17,0.0,CNMX
+126,Fx outflow,12  Mar-17,0.0,CNMX
+127,Net fx,12  Mar-17,0.0,CNMX
+128,From Operations,12  Mar-17,80.0,CNMX
+129,From Investments,12  Mar-17,1.0,CNMX
+130,From Financial Activity,12  Mar-17,-79.0,CNMX
+131,Net Cashflow,12  Mar-17,2.0,CNMX
+132,Net Sales,12  Mar-18,223.0,CNMX
+133,Other income,12  Mar-18,101.0,CNMX
+134,Total revenues,12  Mar-18,324.0,CNMX
+135,Gross profit,12  Mar-18,145.0,CNMX
+136,Depreciation,12  Mar-18,36.0,CNMX
+137,Interest,12  Mar-18,78.0,CNMX
+138,Profit before tax,12  Mar-18,133.0,CNMX
+139,Minority Interest,12  Mar-18,0.0,CNMX
+140,Prior Period Items,12  Mar-18,0.0,CNMX
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,CNMX
+142,Tax,12  Mar-18,27.0,CNMX
+143,Profit after tax,12  Mar-18,106.0,CNMX
+144,Gross profit margin,12  Mar-18,65.3,CNMX
+145,Effective tax rate,12  Mar-18,20.6,CNMX
+146,Net profit margin,12  Mar-18,47.4,CNMX
+147,Current assets,12  Mar-18,64.0,CNMX
+148,Current liabilities,12  Mar-18,95.0,CNMX
+149,Net working cap to sales,12  Mar-18,-13.7,CNMX
+150,Current ratio,12  Mar-18,0.7,CNMX
+151,Inventory Days,12  Mar-18,0.0,CNMX
+152,Debtors Days,12  Mar-18,44.0,CNMX
+153,Net fixed assets,12  Mar-18,809.0,CNMX
+154,Share capital,12  Mar-18,140.0,CNMX
+155,"""Free"" reserves",12  Mar-18,905.0,CNMX
+156,Net worth,12  Mar-18,1045.0,CNMX
+157,Long term debt,12  Mar-18,1243.0,CNMX
+158,Total assets,12  Mar-18,2475.0,CNMX
+159,Interest coverage,12  Mar-18,2.7,CNMX
+160,Debt to equity ratio,12  Mar-18,1.2,CNMX
+161,Sales to assets ratio,12  Mar-18,0.1,CNMX
+162,Return on assets,12  Mar-18,7.4,CNMX
+163,Return on equity,12  Mar-18,10.1,CNMX
+164,Return on capital,12  Mar-18,9.2,CNMX
+165,Exports to sales,12  Mar-18,0.0,CNMX
+166,Imports to sales,12  Mar-18,0.0,CNMX
+167,Exports (fob),12  Mar-18,0.0,CNMX
+168,Imports (cif),12  Mar-18,0.0,CNMX
+169,Fx inflow,12  Mar-18,0.0,CNMX
+170,Fx outflow,12  Mar-18,0.0,CNMX
+171,Net fx,12  Mar-18,0.0,CNMX
+172,From Operations,12  Mar-18,768.0,CNMX
+173,From Investments,12  Mar-18,-578.0,CNMX
+174,From Financial Activity,12  Mar-18,-190.0,CNMX
+175,Net Cashflow,12  Mar-18,-1.0,CNMX
+176,Net Sales,12  Mar-19,242.0,CNMX
+177,Other income,12  Mar-19,107.0,CNMX
+178,Total revenues,12  Mar-19,349.0,CNMX
+179,Gross profit,12  Mar-19,161.0,CNMX
+180,Depreciation,12  Mar-19,36.0,CNMX
+181,Interest,12  Mar-19,96.0,CNMX
+182,Profit before tax,12  Mar-19,135.0,CNMX
+183,Minority Interest,12  Mar-19,0.0,CNMX
+184,Prior Period Items,12  Mar-19,0.0,CNMX
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,CNMX
+186,Tax,12  Mar-19,37.0,CNMX
+187,Profit after tax,12  Mar-19,99.0,CNMX
+188,Gross profit margin,12  Mar-19,66.3,CNMX
+189,Effective tax rate,12  Mar-19,27.1,CNMX
+190,Net profit margin,12  Mar-19,40.7,CNMX
+191,Current assets,12  Mar-19,433.0,CNMX
+192,Current liabilities,12  Mar-19,56.0,CNMX
+193,Net working cap to sales,12  Mar-19,155.4,CNMX
+194,Current ratio,12  Mar-19,7.7,CNMX
+195,Inventory Days,12  Mar-19,0.0,CNMX
+196,Debtors Days,12  Mar-19,42.0,CNMX
+197,Net fixed assets,12  Mar-19,2309.0,CNMX
+198,Share capital,12  Mar-19,140.0,CNMX
+199,"""Free"" reserves",12  Mar-19,1003.0,CNMX
+200,Net worth,12  Mar-19,1143.0,CNMX
+201,Long term debt,12  Mar-19,1561.0,CNMX
+202,Total assets,12  Mar-19,2882.0,CNMX
+203,Interest coverage,12  Mar-19,2.4,CNMX
+204,Debt to equity ratio,12  Mar-19,1.4,CNMX
+205,Sales to assets ratio,12  Mar-19,0.1,CNMX
+206,Return on assets,12  Mar-19,6.8,CNMX
+207,Return on equity,12  Mar-19,8.6,CNMX
+208,Return on capital,12  Mar-19,8.6,CNMX
+209,Exports to sales,12  Mar-19,0.0,CNMX
+210,Imports to sales,12  Mar-19,0.0,CNMX
+211,Exports (fob),12  Mar-19,0.0,CNMX
+212,Imports (cif),12  Mar-19,0.0,CNMX
+213,Fx inflow,12  Mar-19,0.0,CNMX
+214,Fx outflow,12  Mar-19,0.0,CNMX
+215,Net fx,12  Mar-19,0.0,CNMX
+216,From Operations,12  Mar-19,-23.0,CNMX
+217,From Investments,12  Mar-19,35.0,CNMX
+218,From Financial Activity,12  Mar-19,198.0,CNMX
+219,Net Cashflow,12  Mar-19,210.0,CNMX

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,71982.0,KAPW
+1,Other income,12  Mar-15*,251.0,KAPW
+2,Total revenues,12  Mar-15*,72233.0,KAPW
+3,Gross profit,12  Mar-15*,7043.0,KAPW
+4,Depreciation,12  Mar-15*,1683.0,KAPW
+5,Interest,12  Mar-15*,3370.0,KAPW
+6,Profit before tax,12  Mar-15*,2241.0,KAPW
+7,Minority Interest,12  Mar-15*,49.0,KAPW
+8,Prior Period Items,12  Mar-15*,0.0,KAPW
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,KAPW
+10,Tax,12  Mar-15*,1086.0,KAPW
+11,Profit after tax,12  Mar-15*,1204.0,KAPW
+12,Gross profit margin,12  Mar-15*,9.8,KAPW
+13,Effective tax rate,12  Mar-15*,48.5,KAPW
+14,Net profit margin,12  Mar-15*,1.7,KAPW
+15,Current assets,12  Mar-15*,55546.0,KAPW
+16,Current liabilities,12  Mar-15*,42010.0,KAPW
+17,Net working cap to sales,12  Mar-15*,18.8,KAPW
+18,Current ratio,12  Mar-15*,1.3,KAPW
+19,Inventory Days,12  Mar-15*,56.0,KAPW
+20,Debtors Days,12  Mar-15*,134.0,KAPW
+21,Net fixed assets,12  Mar-15*,35816.0,KAPW
+22,Share capital,12  Mar-15*,307.0,KAPW
+23,"""Free"" reserves",12  Mar-15*,21569.0,KAPW
+24,Net worth,12  Mar-15*,21876.0,KAPW
+25,Long term debt,12  Mar-15*,19681.0,KAPW
+26,Total assets,12  Mar-15*,92271.0,KAPW
+27,Interest coverage,12  Mar-15*,1.7,KAPW
+28,Debt to equity ratio,12  Mar-15*,0.9,KAPW
+29,Sales to assets ratio,12  Mar-15*,0.8,KAPW
+30,Return on assets,12  Mar-15*,5.0,KAPW
+31,Return on equity,12  Mar-15*,5.5,KAPW
+32,Return on capital,12  Mar-15*,13.6,KAPW
+33,Exports to sales,12  Mar-15*,20.1,KAPW
+34,Imports to sales,12  Mar-15*,1.2,KAPW
+35,Exports (fob),12  Mar-15*,14464.0,KAPW
+36,Imports (cif),12  Mar-15*,830.0,KAPW
+37,Fx inflow,12  Mar-15*,16599.0,KAPW
+38,Fx outflow,12  Mar-15*,8047.0,KAPW
+39,Net fx,12  Mar-15*,8552.0,KAPW
+40,From Operations,12  Mar-15*,720.0,KAPW
+41,From Investments,12  Mar-15*,-6074.0,KAPW
+42,From Financial Activity,12  Mar-15*,5505.0,KAPW
+43,Net Cashflow,12  Mar-15*,150.0,KAPW
+44,Net Sales,12  Mar-16*,71849.0,KAPW
+45,Other income,12  Mar-16*,181.0,KAPW
+46,Total revenues,12  Mar-16*,72030.0,KAPW
+47,Gross profit,12  Mar-16*,7899.0,KAPW
+48,Depreciation,12  Mar-16*,1862.0,KAPW
+49,Interest,12  Mar-16*,4140.0,KAPW
+50,Profit before tax,12  Mar-16*,2078.0,KAPW
+51,Minority Interest,12  Mar-16*,0.0,KAPW
+52,Prior Period Items,12  Mar-16*,-366.0,KAPW
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,KAPW
+54,Tax,12  Mar-16*,954.0,KAPW
+55,Profit after tax,12  Mar-16*,758.0,KAPW
+56,Gross profit margin,12  Mar-16*,11.0,KAPW
+57,Effective tax rate,12  Mar-16*,45.9,KAPW
+58,Net profit margin,12  Mar-16*,1.1,KAPW
+59,Current assets,12  Mar-16*,55843.0,KAPW
+60,Current liabilities,12  Mar-16*,43142.0,KAPW
+61,Net working cap to sales,12  Mar-16*,17.7,KAPW
+62,Current ratio,12  Mar-16*,1.3,KAPW
+63,Inventory Days,12  Mar-16*,45.0,KAPW
+64,Debtors Days,12  Mar-16*,149.0,KAPW
+65,Net fixed assets,12  Mar-16*,36920.0,KAPW
+66,Share capital,12  Mar-16*,307.0,KAPW
+67,"""Free"" reserves",12  Mar-16*,22166.0,KAPW
+68,Net worth,12  Mar-16*,22473.0,KAPW
+69,Long term debt,12  Mar-16*,19977.0,KAPW
+70,Total assets,12  Mar-16*,94858.0,KAPW
+71,Interest coverage,12  Mar-16*,1.5,KAPW
+72,Debt to equity ratio,12  Mar-16*,0.9,KAPW
+73,Sales to assets ratio,12  Mar-16*,0.8,KAPW
+74,Return on assets,12  Mar-16*,5.2,KAPW
+75,Return on equity,12  Mar-16*,3.4,KAPW
+76,Return on capital,12  Mar-16*,13.8,KAPW
+77,Exports to sales,12  Mar-16*,18.9,KAPW
+78,Imports to sales,12  Mar-16*,1.3,KAPW
+79,Exports (fob),12  Mar-16*,13586.0,KAPW
+80,Imports (cif),12  Mar-16*,957.0,KAPW
+81,Fx inflow,12  Mar-16*,16754.0,KAPW
+82,Fx outflow,12  Mar-16*,7138.0,KAPW
+83,Net fx,12  Mar-16*,9616.0,KAPW
+84,From Operations,12  Mar-16*,11042.0,KAPW
+85,From Investments,12  Mar-16*,-3856.0,KAPW
+86,From Financial Activity,12  Mar-16*,-7257.0,KAPW
+87,Net Cashflow,12  Mar-16*,-89.0,KAPW
+88,Net Sales,12  Mar-17*,75125.0,KAPW
+89,Other income,12  Mar-17*,240.0,KAPW
+90,Total revenues,12  Mar-17*,75365.0,KAPW
+91,Gross profit,12  Mar-17*,8674.0,KAPW
+92,Depreciation,12  Mar-17*,1805.0,KAPW
+93,Interest,12  Mar-17*,3845.0,KAPW
+94,Profit before tax,12  Mar-17*,3264.0,KAPW
+95,Minority Interest,12  Mar-17*,0.0,KAPW
+96,Prior Period Items,12  Mar-17*,-316.0,KAPW
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,KAPW
+98,Tax,12  Mar-17*,1375.0,KAPW
+99,Profit after tax,12  Mar-17*,1573.0,KAPW
+100,Gross profit margin,12  Mar-17*,11.5,KAPW
+101,Effective tax rate,12  Mar-17*,42.1,KAPW
+102,Net profit margin,12  Mar-17*,2.1,KAPW
+103,Current assets,12  Mar-17*,63040.0,KAPW
+104,Current liabilities,12  Mar-17*,46920.0,KAPW
+105,Net working cap to sales,12  Mar-17*,21.5,KAPW
+106,Current ratio,12  Mar-17*,1.3,KAPW
+107,Inventory Days,12  Mar-17*,45.0,KAPW
+108,Debtors Days,12  Mar-17*,165.0,KAPW
+109,Net fixed assets,12  Mar-17*,31645.0,KAPW
+110,Share capital,12  Mar-17*,307.0,KAPW
+111,"""Free"" reserves",12  Mar-17*,23914.0,KAPW
+112,Net worth,12  Mar-17*,24221.0,KAPW
+113,Long term debt,12  Mar-17*,19922.0,KAPW
+114,Total assets,12  Mar-17*,102218.0,KAPW
+115,Interest coverage,12  Mar-17*,1.8,KAPW
+116,Debt to equity ratio,12  Mar-17*,0.8,KAPW
+117,Sales to assets ratio,12  Mar-17*,0.7,KAPW
+118,Return on assets,12  Mar-17*,5.3,KAPW
+119,Return on equity,12  Mar-17*,6.5,KAPW
+120,Return on capital,12  Mar-17*,15.4,KAPW
+121,Exports to sales,12  Mar-17*,17.3,KAPW
+122,Imports to sales,12  Mar-17*,0.8,KAPW
+123,Exports (fob),12  Mar-17*,12989.0,KAPW
+124,Imports (cif),12  Mar-17*,639.0,KAPW
+125,Fx inflow,12  Mar-17*,14935.0,KAPW
+126,Fx outflow,12  Mar-17*,7538.0,KAPW
+127,Net fx,12  Mar-17*,7397.0,KAPW
+128,From Operations,12  Mar-17*,7664.0,KAPW
+129,From Investments,12  Mar-17*,-2333.0,KAPW
+130,From Financial Activity,12  Mar-17*,-4388.0,KAPW
+131,Net Cashflow,12  Mar-17*,928.0,KAPW
+132,Net Sales,12  Mar-18*,87044.0,KAPW
+133,Other income,12  Mar-18*,253.0,KAPW
+134,Total revenues,12  Mar-18*,87297.0,KAPW
+135,Gross profit,12  Mar-18*,10217.0,KAPW
+136,Depreciation,12  Mar-18*,1915.0,KAPW
+137,Interest,12  Mar-18*,3777.0,KAPW
+138,Profit before tax,12  Mar-18*,4778.0,KAPW
+139,Minority Interest,12  Mar-18*,0.0,KAPW
+140,Prior Period Items,12  Mar-18*,-168.0,KAPW
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,KAPW
+142,Tax,12  Mar-18*,1827.0,KAPW
+143,Profit after tax,12  Mar-18*,2783.0,KAPW
+144,Gross profit margin,12  Mar-18*,11.7,KAPW
+145,Effective tax rate,12  Mar-18*,38.2,KAPW
+146,Net profit margin,12  Mar-18*,3.2,KAPW
+147,Current assets,12  Mar-18*,79261.0,KAPW
+148,Current liabilities,12  Mar-18*,60184.0,KAPW
+149,Net working cap to sales,12  Mar-18*,21.9,KAPW
+150,Current ratio,12  Mar-18*,1.3,KAPW
+151,Inventory Days,12  Mar-18*,42.0,KAPW
+152,Debtors Days,12  Mar-18*,166.0,KAPW
+153,Net fixed assets,12  Mar-18*,37856.0,KAPW
+154,Share capital,12  Mar-18*,307.0,KAPW
+155,"""Free"" reserves",12  Mar-18*,26427.0,KAPW
+156,Net worth,12  Mar-18*,26734.0,KAPW
+157,Long term debt,12  Mar-18*,23740.0,KAPW
+158,Total assets,12  Mar-18*,124019.0,KAPW
+159,Interest coverage,12  Mar-18*,2.3,KAPW
+160,Debt to equity ratio,12  Mar-18*,0.9,KAPW
+161,Sales to assets ratio,12  Mar-18*,0.7,KAPW
+162,Return on assets,12  Mar-18*,5.3,KAPW
+163,Return on equity,12  Mar-18*,10.4,KAPW
+164,Return on capital,12  Mar-18*,16.6,KAPW
+165,Exports to sales,12  Mar-18*,18.6,KAPW
+166,Imports to sales,12  Mar-18*,1.0,KAPW
+167,Exports (fob),12  Mar-18*,16199.0,KAPW
+168,Imports (cif),12  Mar-18*,865.0,KAPW
+169,Fx inflow,12  Mar-18*,18096.0,KAPW
+170,Fx outflow,12  Mar-18*,9772.0,KAPW
+171,Net fx,12  Mar-18*,8324.0,KAPW
+172,From Operations,12  Mar-18*,6496.0,KAPW
+173,From Investments,12  Mar-18*,-7000.0,KAPW
+174,From Financial Activity,12  Mar-18*,658.0,KAPW
+175,Net Cashflow,12  Mar-18*,166.0,KAPW
+176,Net Sales,12  Mar-19*,108405.0,KAPW
+177,Other income,12  Mar-19*,441.0,KAPW
+178,Total revenues,12  Mar-19*,108846.0,KAPW
+179,Gross profit,12  Mar-19*,13472.0,KAPW
+180,Depreciation,12  Mar-19*,2109.0,KAPW
+181,Interest,12  Mar-19*,4010.0,KAPW
+182,Profit before tax,12  Mar-19*,7794.0,KAPW
+183,Minority Interest,12  Mar-19*,0.0,KAPW
+184,Prior Period Items,12  Mar-19*,-181.0,KAPW
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,KAPW
+186,Tax,12  Mar-19*,2742.0,KAPW
+187,Profit after tax,12  Mar-19*,4871.0,KAPW
+188,Gross profit margin,12  Mar-19*,12.4,KAPW
+189,Effective tax rate,12  Mar-19*,35.2,KAPW
+190,Net profit margin,12  Mar-19*,4.5,KAPW
+191,Current assets,12  Mar-19*,92023.0,KAPW
+192,Current liabilities,12  Mar-19*,66934.0,KAPW
+193,Net working cap to sales,12  Mar-19*,23.1,KAPW
+194,Current ratio,12  Mar-19*,1.4,KAPW
+195,Inventory Days,12  Mar-19*,38.0,KAPW
+196,Debtors Days,12  Mar-19*,142.0,KAPW
+197,Net fixed assets,12  Mar-19*,31565.0,KAPW
+198,Share capital,12  Mar-19*,307.0,KAPW
+199,"""Free"" reserves",12  Mar-19*,30888.0,KAPW
+200,Net worth,12  Mar-19*,31195.0,KAPW
+201,Long term debt,12  Mar-19*,19182.0,KAPW
+202,Total assets,12  Mar-19*,141480.0,KAPW
+203,Interest coverage,12  Mar-19*,2.9,KAPW
+204,Debt to equity ratio,12  Mar-19*,0.6,KAPW
+205,Sales to assets ratio,12  Mar-19*,0.8,KAPW
+206,Return on assets,12  Mar-19*,6.3,KAPW
+207,Return on equity,12  Mar-19*,15.6,KAPW
+208,Return on capital,12  Mar-19*,23.1,KAPW
+209,Exports to sales,12  Mar-19*,0.0,KAPW
+210,Imports to sales,12  Mar-19*,0.0,KAPW
+211,Exports (fob),12  Mar-19*,0.0,KAPW
+212,Imports (cif),12  Mar-19*,0.0,KAPW
+213,Fx inflow,12  Mar-19*,16798.0,KAPW
+214,Fx outflow,12  Mar-19*,7817.0,KAPW
+215,Net fx,12  Mar-19*,8982.0,KAPW
+216,From Operations,12  Mar-19*,10353.0,KAPW
+217,From Investments,12  Mar-19*,-8356.0,KAPW
+218,From Financial Activity,12  Mar-19*,-2189.0,KAPW
+219,Net Cashflow,12  Mar-19*,-189.0,KAPW

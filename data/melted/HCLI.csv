@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-15*,62201.0,HCLI
+1,Other income,12  Jun-15*,643.0,HCLI
+2,Total revenues,12  Jun-15*,62844.0,HCLI
+3,Gross profit,12  Jun-15*,-722.0,HCLI
+4,Depreciation,12  Jun-15*,519.0,HCLI
+5,Interest,12  Jun-15*,1428.0,HCLI
+6,Profit before tax,12  Jun-15*,-2025.0,HCLI
+7,Minority Interest,12  Jun-15*,0.0,HCLI
+8,Prior Period Items,12  Jun-15*,0.0,HCLI
+9,Extraordinary Inc (Exp),12  Jun-15*,289.0,HCLI
+10,Tax,12  Jun-15*,111.0,HCLI
+11,Profit after tax,12  Jun-15*,-1847.0,HCLI
+12,Gross profit margin,12  Jun-15*,-1.2,HCLI
+13,Effective tax rate,12  Jun-15*,-5.5,HCLI
+14,Net profit margin,12  Jun-15*,-3.0,HCLI
+15,Current assets,12  Jun-15*,28177.0,HCLI
+16,Current liabilities,12  Jun-15*,27219.0,HCLI
+17,Net working cap to sales,12  Jun-15*,1.5,HCLI
+18,Current ratio,12  Jun-15*,1.0,HCLI
+19,Inventory Days,12  Jun-15*,15.0,HCLI
+20,Debtors Days,12  Jun-15*,103.0,HCLI
+21,Net fixed assets,12  Jun-15*,8114.0,HCLI
+22,Share capital,12  Jun-15*,446.0,HCLI
+23,"""Free"" reserves",12  Jun-15*,9686.0,HCLI
+24,Net worth,12  Jun-15*,10132.0,HCLI
+25,Long term debt,12  Jun-15*,2337.0,HCLI
+26,Total assets,12  Jun-15*,40042.0,HCLI
+27,Interest coverage,12  Jun-15*,-0.4,HCLI
+28,Debt to equity ratio,12  Jun-15*,0.2,HCLI
+29,Sales to assets ratio,12  Jun-15*,1.6,HCLI
+30,Return on assets,12  Jun-15*,-1.0,HCLI
+31,Return on equity,12  Jun-15*,-18.2,HCLI
+32,Return on capital,12  Jun-15*,-2.5,HCLI
+33,Exports to sales,12  Jun-15*,0.0,HCLI
+34,Imports to sales,12  Jun-15*,1.4,HCLI
+35,Exports (fob),12  Jun-15*,28.0,HCLI
+36,Imports (cif),12  Jun-15*,858.0,HCLI
+37,Fx inflow,12  Jun-15*,30.0,HCLI
+38,Fx outflow,12  Jun-15*,861.0,HCLI
+39,Net fx,12  Jun-15*,-831.0,HCLI
+40,From Operations,12  Jun-15*,-3692.0,HCLI
+41,From Investments,12  Jun-15*,2876.0,HCLI
+42,From Financial Activity,12  Jun-15*,-24.0,HCLI
+43,Net Cashflow,12  Jun-15*,-840.0,HCLI
+44,Net Sales,9  Mar-16*,36562.0,HCLI
+45,Other income,9  Mar-16*,1362.0,HCLI
+46,Total revenues,9  Mar-16*,37924.0,HCLI
+47,Gross profit,9  Mar-16*,-1303.0,HCLI
+48,Depreciation,9  Mar-16*,320.0,HCLI
+49,Interest,9  Mar-16*,1257.0,HCLI
+50,Profit before tax,9  Mar-16*,-1519.0,HCLI
+51,Minority Interest,9  Mar-16*,0.0,HCLI
+52,Prior Period Items,9  Mar-16*,0.0,HCLI
+53,Extraordinary Inc (Exp),9  Mar-16*,-672.0,HCLI
+54,Tax,9  Mar-16*,-48.0,HCLI
+55,Profit after tax,9  Mar-16*,-2143.0,HCLI
+56,Gross profit margin,9  Mar-16*,-3.6,HCLI
+57,Effective tax rate,9  Mar-16*,3.1,HCLI
+58,Net profit margin,9  Mar-16*,-5.9,HCLI
+59,Current assets,9  Mar-16*,23904.0,HCLI
+60,Current liabilities,9  Mar-16*,21967.0,HCLI
+61,Net working cap to sales,9  Mar-16*,5.3,HCLI
+62,Current ratio,9  Mar-16*,1.1,HCLI
+63,Inventory Days,9  Mar-16*,21.0,HCLI
+64,Debtors Days,9  Mar-16*,155.0,HCLI
+65,Net fixed assets,9  Mar-16*,7295.0,HCLI
+66,Share capital,9  Mar-16*,446.0,HCLI
+67,"""Free"" reserves",9  Mar-16*,7594.0,HCLI
+68,Net worth,9  Mar-16*,8039.0,HCLI
+69,Long term debt,9  Mar-16*,5282.0,HCLI
+70,Total assets,9  Mar-16*,35664.0,HCLI
+71,Interest coverage,9  Mar-16*,-0.2,HCLI
+72,Debt to equity ratio,9  Mar-16*,0.7,HCLI
+73,Sales to assets ratio,9  Mar-16*,1.0,HCLI
+74,Return on assets,9  Mar-16*,-2.5,HCLI
+75,Return on equity,9  Mar-16*,-26.7,HCLI
+76,Return on capital,9  Mar-16*,-7.0,HCLI
+77,Exports to sales,9  Mar-16*,0.0,HCLI
+78,Imports to sales,9  Mar-16*,0.0,HCLI
+79,Exports (fob),9  Mar-16*,0.0,HCLI
+80,Imports (cif),9  Mar-16*,0.0,HCLI
+81,Fx inflow,9  Mar-16*,9.0,HCLI
+82,Fx outflow,9  Mar-16*,20.0,HCLI
+83,Net fx,9  Mar-16*,-12.0,HCLI
+84,From Operations,9  Mar-16*,-1863.0,HCLI
+85,From Investments,9  Mar-16*,3490.0,HCLI
+86,From Financial Activity,9  Mar-16*,-880.0,HCLI
+87,Net Cashflow,9  Mar-16*,747.0,HCLI
+88,Net Sales,12  Mar-17*,32253.0,HCLI
+89,Other income,12  Mar-17*,1459.0,HCLI
+90,Total revenues,12  Mar-17*,33712.0,HCLI
+91,Gross profit,12  Mar-17*,-843.0,HCLI
+92,Depreciation,12  Mar-17*,311.0,HCLI
+93,Interest,12  Mar-17*,1525.0,HCLI
+94,Profit before tax,12  Mar-17*,-1220.0,HCLI
+95,Minority Interest,12  Mar-17*,0.0,HCLI
+96,Prior Period Items,12  Mar-17*,0.0,HCLI
+97,Extraordinary Inc (Exp),12  Mar-17*,-110.0,HCLI
+98,Tax,12  Mar-17*,-93.0,HCLI
+99,Profit after tax,12  Mar-17*,-1237.0,HCLI
+100,Gross profit margin,12  Mar-17*,-2.6,HCLI
+101,Effective tax rate,12  Mar-17*,7.6,HCLI
+102,Net profit margin,12  Mar-17*,-3.8,HCLI
+103,Current assets,12  Mar-17*,20402.0,HCLI
+104,Current liabilities,12  Mar-17*,22017.0,HCLI
+105,Net working cap to sales,12  Mar-17*,-5.0,HCLI
+106,Current ratio,12  Mar-17*,0.9,HCLI
+107,Inventory Days,12  Mar-17*,16.0,HCLI
+108,Debtors Days,12  Mar-17*,146.0,HCLI
+109,Net fixed assets,12  Mar-17*,6397.0,HCLI
+110,Share capital,12  Mar-17*,446.0,HCLI
+111,"""Free"" reserves",12  Mar-17*,5048.0,HCLI
+112,Net worth,12  Mar-17*,5494.0,HCLI
+113,Long term debt,12  Mar-17*,4132.0,HCLI
+114,Total assets,12  Mar-17*,31840.0,HCLI
+115,Interest coverage,12  Mar-17*,0.2,HCLI
+116,Debt to equity ratio,12  Mar-17*,0.8,HCLI
+117,Sales to assets ratio,12  Mar-17*,1.0,HCLI
+118,Return on assets,12  Mar-17*,0.9,HCLI
+119,Return on equity,12  Mar-17*,-22.5,HCLI
+120,Return on capital,12  Mar-17*,2.0,HCLI
+121,Exports to sales,12  Mar-17*,0.0,HCLI
+122,Imports to sales,12  Mar-17*,0.0,HCLI
+123,Exports (fob),12  Mar-17*,0.0,HCLI
+124,Imports (cif),12  Mar-17*,0.0,HCLI
+125,Fx inflow,12  Mar-17*,69.0,HCLI
+126,Fx outflow,12  Mar-17*,1262.0,HCLI
+127,Net fx,12  Mar-17*,-1193.0,HCLI
+128,From Operations,12  Mar-17*,773.0,HCLI
+129,From Investments,12  Mar-17*,-27.0,HCLI
+130,From Financial Activity,12  Mar-17*,-1354.0,HCLI
+131,Net Cashflow,12  Mar-17*,-608.0,HCLI
+132,Net Sales,12  Mar-18*,35646.0,HCLI
+133,Other income,12  Mar-18*,1307.0,HCLI
+134,Total revenues,12  Mar-18*,36954.0,HCLI
+135,Gross profit,12  Mar-18*,-1342.0,HCLI
+136,Depreciation,12  Mar-18*,275.0,HCLI
+137,Interest,12  Mar-18*,1411.0,HCLI
+138,Profit before tax,12  Mar-18*,-1721.0,HCLI
+139,Minority Interest,12  Mar-18*,0.0,HCLI
+140,Prior Period Items,12  Mar-18*,0.0,HCLI
+141,Extraordinary Inc (Exp),12  Mar-18*,-314.0,HCLI
+142,Tax,12  Mar-18*,51.0,HCLI
+143,Profit after tax,12  Mar-18*,-2086.0,HCLI
+144,Gross profit margin,12  Mar-18*,-3.8,HCLI
+145,Effective tax rate,12  Mar-18*,-3.0,HCLI
+146,Net profit margin,12  Mar-18*,-5.9,HCLI
+147,Current assets,12  Mar-18*,21413.0,HCLI
+148,Current liabilities,12  Mar-18*,23718.0,HCLI
+149,Net working cap to sales,12  Mar-18*,-6.5,HCLI
+150,Current ratio,12  Mar-18*,0.9,HCLI
+151,Inventory Days,12  Mar-18*,31.0,HCLI
+152,Debtors Days,12  Mar-18*,132.0,HCLI
+153,Net fixed assets,12  Mar-18*,1676.0,HCLI
+154,Share capital,12  Mar-18*,658.0,HCLI
+155,"""Free"" reserves",12  Mar-18*,1695.0,HCLI
+156,Net worth,12  Mar-18*,2353.0,HCLI
+157,Long term debt,12  Mar-18*,1692.0,HCLI
+158,Total assets,12  Mar-18*,28797.0,HCLI
+159,Interest coverage,12  Mar-18*,-0.2,HCLI
+160,Debt to equity ratio,12  Mar-18*,0.7,HCLI
+161,Sales to assets ratio,12  Mar-18*,1.2,HCLI
+162,Return on assets,12  Mar-18*,-2.3,HCLI
+163,Return on equity,12  Mar-18*,-88.6,HCLI
+164,Return on capital,12  Mar-18*,-15.4,HCLI
+165,Exports to sales,12  Mar-18*,0.0,HCLI
+166,Imports to sales,12  Mar-18*,0.0,HCLI
+167,Exports (fob),12  Mar-18*,0.0,HCLI
+168,Imports (cif),12  Mar-18*,0.0,HCLI
+169,Fx inflow,12  Mar-18*,66.0,HCLI
+170,Fx outflow,12  Mar-18*,1219.0,HCLI
+171,Net fx,12  Mar-18*,-1153.0,HCLI
+172,From Operations,12  Mar-18*,-3508.0,HCLI
+173,From Investments,12  Mar-18*,921.0,HCLI
+174,From Financial Activity,12  Mar-18*,2347.0,HCLI
+175,Net Cashflow,12  Mar-18*,-223.0,HCLI
+176,Net Sales,12  Mar-19*,43400.0,HCLI
+177,Other income,12  Mar-19*,1024.0,HCLI
+178,Total revenues,12  Mar-19*,44424.0,HCLI
+179,Gross profit,12  Mar-19*,-971.0,HCLI
+180,Depreciation,12  Mar-19*,216.0,HCLI
+181,Interest,12  Mar-19*,1230.0,HCLI
+182,Profit before tax,12  Mar-19*,-1395.0,HCLI
+183,Minority Interest,12  Mar-19*,0.0,HCLI
+184,Prior Period Items,12  Mar-19*,0.0,HCLI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HCLI
+186,Tax,12  Mar-19*,82.0,HCLI
+187,Profit after tax,12  Mar-19*,-1477.0,HCLI
+188,Gross profit margin,12  Mar-19*,-2.2,HCLI
+189,Effective tax rate,12  Mar-19*,-5.9,HCLI
+190,Net profit margin,12  Mar-19*,-3.4,HCLI
+191,Current assets,12  Mar-19*,14327.0,HCLI
+192,Current liabilities,12  Mar-19*,17808.0,HCLI
+193,Net working cap to sales,12  Mar-19*,-8.0,HCLI
+194,Current ratio,12  Mar-19*,0.8,HCLI
+195,Inventory Days,12  Mar-19*,8.0,HCLI
+196,Debtors Days,12  Mar-19*,48.0,HCLI
+197,Net fixed assets,12  Mar-19*,1420.0,HCLI
+198,Share capital,12  Mar-19*,658.0,HCLI
+199,"""Free"" reserves",12  Mar-19*,383.0,HCLI
+200,Net worth,12  Mar-19*,1042.0,HCLI
+201,Long term debt,12  Mar-19*,991.0,HCLI
+202,Total assets,12  Mar-19*,19974.0,HCLI
+203,Interest coverage,12  Mar-19*,-0.1,HCLI
+204,Debt to equity ratio,12  Mar-19*,1.0,HCLI
+205,Sales to assets ratio,12  Mar-19*,2.2,HCLI
+206,Return on assets,12  Mar-19*,-1.2,HCLI
+207,Return on equity,12  Mar-19*,-141.8,HCLI
+208,Return on capital,12  Mar-19*,-8.1,HCLI
+209,Exports to sales,12  Mar-19*,0.0,HCLI
+210,Imports to sales,12  Mar-19*,0.0,HCLI
+211,Exports (fob),12  Mar-19*,0.0,HCLI
+212,Imports (cif),12  Mar-19*,0.0,HCLI
+213,Fx inflow,12  Mar-19*,3.0,HCLI
+214,Fx outflow,12  Mar-19*,2073.0,HCLI
+215,Net fx,12  Mar-19*,-2069.0,HCLI
+216,From Operations,12  Mar-19*,3871.0,HCLI
+217,From Investments,12  Mar-19*,1286.0,HCLI
+218,From Financial Activity,12  Mar-19*,-4771.0,HCLI
+219,Net Cashflow,12  Mar-19*,384.0,HCLI

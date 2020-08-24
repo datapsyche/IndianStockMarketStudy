@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,29870.0,CHINI
+1,Other income,12  Mar-15*,152.0,CHINI
+2,Total revenues,12  Mar-15*,30022.0,CHINI
+3,Gross profit,12  Mar-15*,1265.0,CHINI
+4,Depreciation,12  Mar-15*,1159.0,CHINI
+5,Interest,12  Mar-15*,1021.0,CHINI
+6,Profit before tax,12  Mar-15*,-764.0,CHINI
+7,Minority Interest,12  Mar-15*,0.0,CHINI
+8,Prior Period Items,12  Mar-15*,0.0,CHINI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CHINI
+10,Tax,12  Mar-15*,-184.0,CHINI
+11,Profit after tax,12  Mar-15*,-579.0,CHINI
+12,Gross profit margin,12  Mar-15*,4.2,CHINI
+13,Effective tax rate,12  Mar-15*,24.1,CHINI
+14,Net profit margin,12  Mar-15*,-1.9,CHINI
+15,Current assets,12  Mar-15*,22065.0,CHINI
+16,Current liabilities,12  Mar-15*,20945.0,CHINI
+17,Net working cap to sales,12  Mar-15*,3.8,CHINI
+18,Current ratio,12  Mar-15*,1.1,CHINI
+19,Inventory Days,12  Mar-15*,204.0,CHINI
+20,Debtors Days,12  Mar-15*,19.0,CHINI
+21,Net fixed assets,12  Mar-15*,13843.0,CHINI
+22,Share capital,12  Mar-15*,245.0,CHINI
+23,"""Free"" reserves",12  Mar-15*,11045.0,CHINI
+24,Net worth,12  Mar-15*,11290.0,CHINI
+25,Long term debt,12  Mar-15*,4322.0,CHINI
+26,Total assets,12  Mar-15*,38455.0,CHINI
+27,Interest coverage,12  Mar-15*,0.3,CHINI
+28,Debt to equity ratio,12  Mar-15*,0.4,CHINI
+29,Sales to assets ratio,12  Mar-15*,0.8,CHINI
+30,Return on assets,12  Mar-15*,1.1,CHINI
+31,Return on equity,12  Mar-15*,-5.1,CHINI
+32,Return on capital,12  Mar-15*,1.6,CHINI
+33,Exports to sales,12  Mar-15*,0.0,CHINI
+34,Imports to sales,12  Mar-15*,0.0,CHINI
+35,Exports (fob),12  Mar-15*,0.0,CHINI
+36,Imports (cif),12  Mar-15*,3.0,CHINI
+37,Fx inflow,12  Mar-15*,0.0,CHINI
+38,Fx outflow,12  Mar-15*,17.0,CHINI
+39,Net fx,12  Mar-15*,-17.0,CHINI
+40,From Operations,12  Mar-15*,-763.0,CHINI
+41,From Investments,12  Mar-15*,-230.0,CHINI
+42,From Financial Activity,12  Mar-15*,378.0,CHINI
+43,Net Cashflow,12  Mar-15*,-616.0,CHINI
+44,Net Sales,12  Mar-16*,27567.0,CHINI
+45,Other income,12  Mar-16*,465.0,CHINI
+46,Total revenues,12  Mar-16*,28032.0,CHINI
+47,Gross profit,12  Mar-16*,4109.0,CHINI
+48,Depreciation,12  Mar-16*,1102.0,CHINI
+49,Interest,12  Mar-16*,666.0,CHINI
+50,Profit before tax,12  Mar-16*,2807.0,CHINI
+51,Minority Interest,12  Mar-16*,0.0,CHINI
+52,Prior Period Items,12  Mar-16*,0.0,CHINI
+53,Extraordinary Inc (Exp),12  Mar-16*,-1731.0,CHINI
+54,Tax,12  Mar-16*,74.0,CHINI
+55,Profit after tax,12  Mar-16*,1002.0,CHINI
+56,Gross profit margin,12  Mar-16*,14.9,CHINI
+57,Effective tax rate,12  Mar-16*,2.6,CHINI
+58,Net profit margin,12  Mar-16*,3.6,CHINI
+59,Current assets,12  Mar-16*,21829.0,CHINI
+60,Current liabilities,12  Mar-16*,17929.0,CHINI
+61,Net working cap to sales,12  Mar-16*,14.1,CHINI
+62,Current ratio,12  Mar-16*,1.2,CHINI
+63,Inventory Days,12  Mar-16*,247.0,CHINI
+64,Debtors Days,12  Mar-16*,26.0,CHINI
+65,Net fixed assets,12  Mar-16*,14265.0,CHINI
+66,Share capital,12  Mar-16*,245.0,CHINI
+67,"""Free"" reserves",12  Mar-16*,12046.0,CHINI
+68,Net worth,12  Mar-16*,12291.0,CHINI
+69,Long term debt,12  Mar-16*,5020.0,CHINI
+70,Total assets,12  Mar-16*,37006.0,CHINI
+71,Interest coverage,12  Mar-16*,5.2,CHINI
+72,Debt to equity ratio,12  Mar-16*,0.4,CHINI
+73,Sales to assets ratio,12  Mar-16*,0.7,CHINI
+74,Return on assets,12  Mar-16*,4.5,CHINI
+75,Return on equity,12  Mar-16*,8.1,CHINI
+76,Return on capital,12  Mar-16*,10.1,CHINI
+77,Exports to sales,12  Mar-16*,0.0,CHINI
+78,Imports to sales,12  Mar-16*,0.0,CHINI
+79,Exports (fob),12  Mar-16*,0.0,CHINI
+80,Imports (cif),12  Mar-16*,1.0,CHINI
+81,Fx inflow,12  Mar-16*,0.0,CHINI
+82,Fx outflow,12  Mar-16*,4.0,CHINI
+83,Net fx,12  Mar-16*,-4.0,CHINI
+84,From Operations,12  Mar-16*,1470.0,CHINI
+85,From Investments,12  Mar-16*,-1466.0,CHINI
+86,From Financial Activity,12  Mar-16*,-699.0,CHINI
+87,Net Cashflow,12  Mar-16*,-695.0,CHINI
+88,Net Sales,12  Mar-17*,34601.0,CHINI
+89,Other income,12  Mar-17*,251.0,CHINI
+90,Total revenues,12  Mar-17*,34852.0,CHINI
+91,Gross profit,12  Mar-17*,8690.0,CHINI
+92,Depreciation,12  Mar-17*,1050.0,CHINI
+93,Interest,12  Mar-17*,554.0,CHINI
+94,Profit before tax,12  Mar-17*,7336.0,CHINI
+95,Minority Interest,12  Mar-17*,13.0,CHINI
+96,Prior Period Items,12  Mar-17*,0.0,CHINI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CHINI
+98,Tax,12  Mar-17*,1422.0,CHINI
+99,Profit after tax,12  Mar-17*,5928.0,CHINI
+100,Gross profit margin,12  Mar-17*,25.1,CHINI
+101,Effective tax rate,12  Mar-17*,19.4,CHINI
+102,Net profit margin,12  Mar-17*,17.1,CHINI
+103,Current assets,12  Mar-17*,25235.0,CHINI
+104,Current liabilities,12  Mar-17*,21833.0,CHINI
+105,Net working cap to sales,12  Mar-17*,9.8,CHINI
+106,Current ratio,12  Mar-17*,1.2,CHINI
+107,Inventory Days,12  Mar-17*,244.0,CHINI
+108,Debtors Days,12  Mar-17*,17.0,CHINI
+109,Net fixed assets,12  Mar-17*,14694.0,CHINI
+110,Share capital,12  Mar-17*,235.0,CHINI
+111,"""Free"" reserves",12  Mar-17*,15371.0,CHINI
+112,Net worth,12  Mar-17*,15606.0,CHINI
+113,Long term debt,12  Mar-17*,1243.0,CHINI
+114,Total assets,12  Mar-17*,40275.0,CHINI
+115,Interest coverage,12  Mar-17*,14.2,CHINI
+116,Debt to equity ratio,12  Mar-17*,0.1,CHINI
+117,Sales to assets ratio,12  Mar-17*,0.9,CHINI
+118,Return on assets,12  Mar-17*,16.1,CHINI
+119,Return on equity,12  Mar-17*,38.0,CHINI
+120,Return on capital,12  Mar-17*,46.9,CHINI
+121,Exports to sales,12  Mar-17*,0.0,CHINI
+122,Imports to sales,12  Mar-17*,0.0,CHINI
+123,Exports (fob),12  Mar-17*,0.0,CHINI
+124,Imports (cif),12  Mar-17*,0.0,CHINI
+125,Fx inflow,12  Mar-17*,0.0,CHINI
+126,Fx outflow,12  Mar-17*,10.0,CHINI
+127,Net fx,12  Mar-17*,-10.0,CHINI
+128,From Operations,12  Mar-17*,3457.0,CHINI
+129,From Investments,12  Mar-17*,-1165.0,CHINI
+130,From Financial Activity,12  Mar-17*,-2327.0,CHINI
+131,Net Cashflow,12  Mar-17*,-41.0,CHINI
+132,Net Sales,12  Mar-18*,43425.0,CHINI
+133,Other income,12  Mar-18*,303.0,CHINI
+134,Total revenues,12  Mar-18*,43728.0,CHINI
+135,Gross profit,12  Mar-18*,4517.0,CHINI
+136,Depreciation,12  Mar-18*,952.0,CHINI
+137,Interest,12  Mar-18*,520.0,CHINI
+138,Profit before tax,12  Mar-18*,3347.0,CHINI
+139,Minority Interest,12  Mar-18*,104.0,CHINI
+140,Prior Period Items,12  Mar-18*,0.0,CHINI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CHINI
+142,Tax,12  Mar-18*,1135.0,CHINI
+143,Profit after tax,12  Mar-18*,2317.0,CHINI
+144,Gross profit margin,12  Mar-18*,10.4,CHINI
+145,Effective tax rate,12  Mar-18*,33.9,CHINI
+146,Net profit margin,12  Mar-18*,5.3,CHINI
+147,Current assets,12  Mar-18*,20655.0,CHINI
+148,Current liabilities,12  Mar-18*,18716.0,CHINI
+149,Net working cap to sales,12  Mar-18*,4.5,CHINI
+150,Current ratio,12  Mar-18*,1.1,CHINI
+151,Inventory Days,12  Mar-18*,151.0,CHINI
+152,Debtors Days,12  Mar-18*,15.0,CHINI
+153,Net fixed assets,12  Mar-18*,14583.0,CHINI
+154,Share capital,12  Mar-18*,228.0,CHINI
+155,"""Free"" reserves",12  Mar-18*,15942.0,CHINI
+156,Net worth,12  Mar-18*,16171.0,CHINI
+157,Long term debt,12  Mar-18*,107.0,CHINI
+158,Total assets,12  Mar-18*,36996.0,CHINI
+159,Interest coverage,12  Mar-18*,7.4,CHINI
+160,Debt to equity ratio,12  Mar-18*,0.0,CHINI
+161,Sales to assets ratio,12  Mar-18*,1.2,CHINI
+162,Return on assets,12  Mar-18*,7.7,CHINI
+163,Return on equity,12  Mar-18*,14.3,CHINI
+164,Return on capital,12  Mar-18*,24.4,CHINI
+165,Exports to sales,12  Mar-18*,0.0,CHINI
+166,Imports to sales,12  Mar-18*,0.0,CHINI
+167,Exports (fob),12  Mar-18*,0.0,CHINI
+168,Imports (cif),12  Mar-18*,0.0,CHINI
+169,Fx inflow,12  Mar-18*,0.0,CHINI
+170,Fx outflow,12  Mar-18*,21.0,CHINI
+171,Net fx,12  Mar-18*,-21.0,CHINI
+172,From Operations,12  Mar-18*,11798.0,CHINI
+173,From Investments,12  Mar-18*,-1593.0,CHINI
+174,From Financial Activity,12  Mar-18*,-10201.0,CHINI
+175,Net Cashflow,12  Mar-18*,4.0,CHINI
+176,Net Sales,12  Mar-19*,42858.0,CHINI
+177,Other income,12  Mar-19*,428.0,CHINI
+178,Total revenues,12  Mar-19*,43285.0,CHINI
+179,Gross profit,12  Mar-19*,6891.0,CHINI
+180,Depreciation,12  Mar-19*,959.0,CHINI
+181,Interest,12  Mar-19*,409.0,CHINI
+182,Profit before tax,12  Mar-19*,5950.0,CHINI
+183,Minority Interest,12  Mar-19*,68.0,CHINI
+184,Prior Period Items,12  Mar-19*,0.0,CHINI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CHINI
+186,Tax,12  Mar-19*,260.0,CHINI
+187,Profit after tax,12  Mar-19*,5758.0,CHINI
+188,Gross profit margin,12  Mar-19*,16.1,CHINI
+189,Effective tax rate,12  Mar-19*,4.4,CHINI
+190,Net profit margin,12  Mar-19*,13.4,CHINI
+191,Current assets,12  Mar-19*,29831.0,CHINI
+192,Current liabilities,12  Mar-19*,21845.0,CHINI
+193,Net working cap to sales,12  Mar-19*,18.6,CHINI
+194,Current ratio,12  Mar-19*,1.4,CHINI
+195,Inventory Days,12  Mar-19*,197.0,CHINI
+196,Debtors Days,12  Mar-19*,38.0,CHINI
+197,Net fixed assets,12  Mar-19*,14674.0,CHINI
+198,Share capital,12  Mar-19*,228.0,CHINI
+199,"""Free"" reserves",12  Mar-19*,20950.0,CHINI
+200,Net worth,12  Mar-19*,21178.0,CHINI
+201,Long term debt,12  Mar-19*,2793.0,CHINI
+202,Total assets,12  Mar-19*,47022.0,CHINI
+203,Interest coverage,12  Mar-19*,15.5,CHINI
+204,Debt to equity ratio,12  Mar-19*,0.1,CHINI
+205,Sales to assets ratio,12  Mar-19*,0.9,CHINI
+206,Return on assets,12  Mar-19*,13.1,CHINI
+207,Return on equity,12  Mar-19*,27.2,CHINI
+208,Return on capital,12  Mar-19*,26.8,CHINI
+209,Exports to sales,12  Mar-19*,0.0,CHINI
+210,Imports to sales,12  Mar-19*,0.0,CHINI
+211,Exports (fob),12  Mar-19*,0.0,CHINI
+212,Imports (cif),12  Mar-19*,0.0,CHINI
+213,Fx inflow,12  Mar-19*,0.0,CHINI
+214,Fx outflow,12  Mar-19*,1.0,CHINI
+215,Net fx,12  Mar-19*,-1.0,CHINI
+216,From Operations,12  Mar-19*,-5230.0,CHINI
+217,From Investments,12  Mar-19*,-1592.0,CHINI
+218,From Financial Activity,12  Mar-19*,6819.0,CHINI
+219,Net Cashflow,12  Mar-19*,-3.0,CHINI

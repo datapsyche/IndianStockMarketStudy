@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,5915.0,POLN
+1,Other income,12  Mar-15*,295.0,POLN
+2,Total revenues,12  Mar-15*,6210.0,POLN
+3,Gross profit,12  Mar-15*,722.0,POLN
+4,Depreciation,12  Mar-15*,201.0,POLN
+5,Interest,12  Mar-15*,33.0,POLN
+6,Profit before tax,12  Mar-15*,783.0,POLN
+7,Minority Interest,12  Mar-15*,-37.0,POLN
+8,Prior Period Items,12  Mar-15*,0.0,POLN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,POLN
+10,Tax,12  Mar-15*,200.0,POLN
+11,Profit after tax,12  Mar-15*,546.0,POLN
+12,Gross profit margin,12  Mar-15*,12.2,POLN
+13,Effective tax rate,12  Mar-15*,25.6,POLN
+14,Net profit margin,12  Mar-15*,9.2,POLN
+15,Current assets,12  Mar-15*,3111.0,POLN
+16,Current liabilities,12  Mar-15*,1641.0,POLN
+17,Net working cap to sales,12  Mar-15*,24.8,POLN
+18,Current ratio,12  Mar-15*,1.9,POLN
+19,Inventory Days,12  Mar-15*,47.0,POLN
+20,Debtors Days,12  Mar-15*,74.0,POLN
+21,Net fixed assets,12  Mar-15*,2933.0,POLN
+22,Share capital,12  Mar-15*,98.0,POLN
+23,"""Free"" reserves",12  Mar-15*,4261.0,POLN
+24,Net worth,12  Mar-15*,5877.0,POLN
+25,Long term debt,12  Mar-15*,275.0,POLN
+26,Total assets,12  Mar-15*,8519.0,POLN
+27,Interest coverage,12  Mar-15*,24.5,POLN
+28,Debt to equity ratio,12  Mar-15*,0.0,POLN
+29,Sales to assets ratio,12  Mar-15*,0.7,POLN
+30,Return on assets,12  Mar-15*,6.8,POLN
+31,Return on equity,12  Mar-15*,9.3,POLN
+32,Return on capital,12  Mar-15*,12.7,POLN
+33,Exports to sales,12  Mar-15*,32.7,POLN
+34,Imports to sales,12  Mar-15*,29.7,POLN
+35,Exports (fob),12  Mar-15*,1933.0,POLN
+36,Imports (cif),12  Mar-15*,1757.0,POLN
+37,Fx inflow,12  Mar-15*,2165.0,POLN
+38,Fx outflow,12  Mar-15*,1831.0,POLN
+39,Net fx,12  Mar-15*,334.0,POLN
+40,From Operations,12  Mar-15*,10.0,POLN
+41,From Investments,12  Mar-15*,34.0,POLN
+42,From Financial Activity,12  Mar-15*,-213.0,POLN
+43,Net Cashflow,12  Mar-15*,-169.0,POLN
+44,Net Sales,12  Mar-16*,6797.0,POLN
+45,Other income,12  Mar-16*,245.0,POLN
+46,Total revenues,12  Mar-16*,7042.0,POLN
+47,Gross profit,12  Mar-16*,1174.0,POLN
+48,Depreciation,12  Mar-16*,225.0,POLN
+49,Interest,12  Mar-16*,38.0,POLN
+50,Profit before tax,12  Mar-16*,1156.0,POLN
+51,Minority Interest,12  Mar-16*,0.0,POLN
+52,Prior Period Items,12  Mar-16*,0.0,POLN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,POLN
+54,Tax,12  Mar-16*,321.0,POLN
+55,Profit after tax,12  Mar-16*,835.0,POLN
+56,Gross profit margin,12  Mar-16*,17.3,POLN
+57,Effective tax rate,12  Mar-16*,27.7,POLN
+58,Net profit margin,12  Mar-16*,12.3,POLN
+59,Current assets,12  Mar-16*,3467.0,POLN
+60,Current liabilities,12  Mar-16*,1964.0,POLN
+61,Net working cap to sales,12  Mar-16*,22.1,POLN
+62,Current ratio,12  Mar-16*,1.8,POLN
+63,Inventory Days,12  Mar-16*,41.0,POLN
+64,Debtors Days,12  Mar-16*,81.0,POLN
+65,Net fixed assets,12  Mar-16*,3073.0,POLN
+66,Share capital,12  Mar-16*,98.0,POLN
+67,"""Free"" reserves",12  Mar-16*,6356.0,POLN
+68,Net worth,12  Mar-16*,6453.0,POLN
+69,Long term debt,12  Mar-16*,476.0,POLN
+70,Total assets,12  Mar-16*,9549.0,POLN
+71,Interest coverage,12  Mar-16*,31.6,POLN
+72,Debt to equity ratio,12  Mar-16*,0.1,POLN
+73,Sales to assets ratio,12  Mar-16*,0.7,POLN
+74,Return on assets,12  Mar-16*,9.1,POLN
+75,Return on equity,12  Mar-16*,12.9,POLN
+76,Return on capital,12  Mar-16*,17.2,POLN
+77,Exports to sales,12  Mar-16*,42.0,POLN
+78,Imports to sales,12  Mar-16*,26.1,POLN
+79,Exports (fob),12  Mar-16*,2852.0,POLN
+80,Imports (cif),12  Mar-16*,1773.0,POLN
+81,Fx inflow,12  Mar-16*,2852.0,POLN
+82,Fx outflow,12  Mar-16*,1853.0,POLN
+83,Net fx,12  Mar-16*,998.0,POLN
+84,From Operations,12  Mar-16*,760.0,POLN
+85,From Investments,12  Mar-16*,-527.0,POLN
+86,From Financial Activity,12  Mar-16*,-173.0,POLN
+87,Net Cashflow,12  Mar-16*,60.0,POLN
+88,Net Sales,12  Mar-17*,7415.0,POLN
+89,Other income,12  Mar-17*,558.0,POLN
+90,Total revenues,12  Mar-17*,7973.0,POLN
+91,Gross profit,12  Mar-17*,1588.0,POLN
+92,Depreciation,12  Mar-17*,299.0,POLN
+93,Interest,12  Mar-17*,27.0,POLN
+94,Profit before tax,12  Mar-17*,1820.0,POLN
+95,Minority Interest,12  Mar-17*,0.0,POLN
+96,Prior Period Items,12  Mar-17*,-4.0,POLN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,POLN
+98,Tax,12  Mar-17*,451.0,POLN
+99,Profit after tax,12  Mar-17*,1366.0,POLN
+100,Gross profit margin,12  Mar-17*,21.4,POLN
+101,Effective tax rate,12  Mar-17*,24.8,POLN
+102,Net profit margin,12  Mar-17*,18.4,POLN
+103,Current assets,12  Mar-17*,4674.0,POLN
+104,Current liabilities,12  Mar-17*,2797.0,POLN
+105,Net working cap to sales,12  Mar-17*,25.3,POLN
+106,Current ratio,12  Mar-17*,1.7,POLN
+107,Inventory Days,12  Mar-17*,56.0,POLN
+108,Debtors Days,12  Mar-17*,68.0,POLN
+109,Net fixed assets,12  Mar-17*,4902.0,POLN
+110,Share capital,12  Mar-17*,98.0,POLN
+111,"""Free"" reserves",12  Mar-17*,8254.0,POLN
+112,Net worth,12  Mar-17*,8352.0,POLN
+113,Long term debt,12  Mar-17*,111.0,POLN
+114,Total assets,12  Mar-17*,11774.0,POLN
+115,Interest coverage,12  Mar-17*,68.4,POLN
+116,Debt to equity ratio,12  Mar-17*,0.0,POLN
+117,Sales to assets ratio,12  Mar-17*,0.6,POLN
+118,Return on assets,12  Mar-17*,11.8,POLN
+119,Return on equity,12  Mar-17*,16.4,POLN
+120,Return on capital,12  Mar-17*,21.8,POLN
+121,Exports to sales,12  Mar-17*,41.8,POLN
+122,Imports to sales,12  Mar-17*,27.4,POLN
+123,Exports (fob),12  Mar-17*,3102.0,POLN
+124,Imports (cif),12  Mar-17*,2031.0,POLN
+125,Fx inflow,12  Mar-17*,3125.0,POLN
+126,Fx outflow,12  Mar-17*,2146.0,POLN
+127,Net fx,12  Mar-17*,979.0,POLN
+128,From Operations,12  Mar-17*,924.0,POLN
+129,From Investments,12  Mar-17*,-156.0,POLN
+130,From Financial Activity,12  Mar-17*,-671.0,POLN
+131,Net Cashflow,12  Mar-17*,98.0,POLN
+132,Net Sales,12  Mar-18*,9127.0,POLN
+133,Other income,12  Mar-18*,925.0,POLN
+134,Total revenues,12  Mar-18*,10052.0,POLN
+135,Gross profit,12  Mar-18*,2150.0,POLN
+136,Depreciation,12  Mar-18*,398.0,POLN
+137,Interest,12  Mar-18*,12.0,POLN
+138,Profit before tax,12  Mar-18*,2665.0,POLN
+139,Minority Interest,12  Mar-18*,0.0,POLN
+140,Prior Period Items,12  Mar-18*,-27.0,POLN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,POLN
+142,Tax,12  Mar-18*,840.0,POLN
+143,Profit after tax,12  Mar-18*,1798.0,POLN
+144,Gross profit margin,12  Mar-18*,23.6,POLN
+145,Effective tax rate,12  Mar-18*,31.5,POLN
+146,Net profit margin,12  Mar-18*,19.7,POLN
+147,Current assets,12  Mar-18*,5651.0,POLN
+148,Current liabilities,12  Mar-18*,2114.0,POLN
+149,Net working cap to sales,12  Mar-18*,38.7,POLN
+150,Current ratio,12  Mar-18*,2.7,POLN
+151,Inventory Days,12  Mar-18*,46.0,POLN
+152,Debtors Days,12  Mar-18*,62.0,POLN
+153,Net fixed assets,12  Mar-18*,3592.0,POLN
+154,Share capital,12  Mar-18*,99.0,POLN
+155,"""Free"" reserves",12  Mar-18*,9736.0,POLN
+156,Net worth,12  Mar-18*,9835.0,POLN
+157,Long term debt,12  Mar-18*,42.0,POLN
+158,Total assets,12  Mar-18*,12556.0,POLN
+159,Interest coverage,12  Mar-18*,224.9,POLN
+160,Debt to equity ratio,12  Mar-18*,0.0,POLN
+161,Sales to assets ratio,12  Mar-18*,0.7,POLN
+162,Return on assets,12  Mar-18*,14.4,POLN
+163,Return on equity,12  Mar-18*,18.3,POLN
+164,Return on capital,12  Mar-18*,26.8,POLN
+165,Exports to sales,12  Mar-18*,48.4,POLN
+166,Imports to sales,12  Mar-18*,26.2,POLN
+167,Exports (fob),12  Mar-18*,4418.0,POLN
+168,Imports (cif),12  Mar-18*,2389.0,POLN
+169,Fx inflow,12  Mar-18*,4431.0,POLN
+170,Fx outflow,12  Mar-18*,2389.0,POLN
+171,Net fx,12  Mar-18*,2042.0,POLN
+172,From Operations,12  Mar-18*,1694.0,POLN
+173,From Investments,12  Mar-18*,-1363.0,POLN
+174,From Financial Activity,12  Mar-18*,-390.0,POLN
+175,Net Cashflow,12  Mar-18*,-59.0,POLN
+176,Net Sales,12  Mar-19*,9959.0,POLN
+177,Other income,12  Mar-19*,344.0,POLN
+178,Total revenues,12  Mar-19*,10303.0,POLN
+179,Gross profit,12  Mar-19*,2184.0,POLN
+180,Depreciation,12  Mar-19*,275.0,POLN
+181,Interest,12  Mar-19*,8.0,POLN
+182,Profit before tax,12  Mar-19*,2244.0,POLN
+183,Minority Interest,12  Mar-19*,0.0,POLN
+184,Prior Period Items,12  Mar-19*,17.0,POLN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,POLN
+186,Tax,12  Mar-19*,770.0,POLN
+187,Profit after tax,12  Mar-19*,1491.0,POLN
+188,Gross profit margin,12  Mar-19*,21.9,POLN
+189,Effective tax rate,12  Mar-19*,34.3,POLN
+190,Net profit margin,12  Mar-19*,15.0,POLN
+191,Current assets,12  Mar-19*,5608.0,POLN
+192,Current liabilities,12  Mar-19*,1769.0,POLN
+193,Net working cap to sales,12  Mar-19*,38.5,POLN
+194,Current ratio,12  Mar-19*,3.2,POLN
+195,Inventory Days,12  Mar-19*,41.0,POLN
+196,Debtors Days,12  Mar-19*,63.0,POLN
+197,Net fixed assets,12  Mar-19*,3805.0,POLN
+198,Share capital,12  Mar-19*,99.0,POLN
+199,"""Free"" reserves",12  Mar-19*,10626.0,POLN
+200,Net worth,12  Mar-19*,10725.0,POLN
+201,Long term debt,12  Mar-19*,0.0,POLN
+202,Total assets,12  Mar-19*,13072.0,POLN
+203,Interest coverage,12  Mar-19*,271.4,POLN
+204,Debt to equity ratio,12  Mar-19*,0.0,POLN
+205,Sales to assets ratio,12  Mar-19*,0.8,POLN
+206,Return on assets,12  Mar-19*,11.5,POLN
+207,Return on equity,12  Mar-19*,13.9,POLN
+208,Return on capital,12  Mar-19*,21.2,POLN
+209,Exports to sales,12  Mar-19*,42.8,POLN
+210,Imports to sales,12  Mar-19*,27.7,POLN
+211,Exports (fob),12  Mar-19*,4266.0,POLN
+212,Imports (cif),12  Mar-19*,2760.0,POLN
+213,Fx inflow,12  Mar-19*,4270.0,POLN
+214,Fx outflow,12  Mar-19*,2760.0,POLN
+215,Net fx,12  Mar-19*,1510.0,POLN
+216,From Operations,12  Mar-19*,902.0,POLN
+217,From Investments,12  Mar-19*,-243.0,POLN
+218,From Financial Activity,12  Mar-19*,-683.0,POLN
+219,Net Cashflow,12  Mar-19*,-25.0,POLN

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,3392.0,EDMR
+1,Other income,12  Mar-14*,104.0,EDMR
+2,Total revenues,12  Mar-14*,3497.0,EDMR
+3,Gross profit,12  Mar-14*,-1402.0,EDMR
+4,Depreciation,12  Mar-14*,438.0,EDMR
+5,Interest,12  Mar-14*,967.0,EDMR
+6,Profit before tax,12  Mar-14*,-2702.0,EDMR
+7,Minority Interest,12  Mar-14*,0.0,EDMR
+8,Prior Period Items,12  Mar-14*,0.0,EDMR
+9,Extraordinary Inc (Exp),12  Mar-14*,694.0,EDMR
+10,Tax,12  Mar-14*,-978.0,EDMR
+11,Profit after tax,12  Mar-14*,-1030.0,EDMR
+12,Gross profit margin,12  Mar-14*,-41.3,EDMR
+13,Effective tax rate,12  Mar-14*,36.2,EDMR
+14,Net profit margin,12  Mar-14*,-30.4,EDMR
+15,Current assets,12  Mar-14*,805.0,EDMR
+16,Current liabilities,12  Mar-14*,12851.0,EDMR
+17,Net working cap to sales,12  Mar-14*,-355.1,EDMR
+18,Current ratio,12  Mar-14*,0.1,EDMR
+19,Inventory Days,12  Mar-14*,3.0,EDMR
+20,Debtors Days,12  Mar-14*,42.0,EDMR
+21,Net fixed assets,12  Mar-14*,6349.0,EDMR
+22,Share capital,12  Mar-14*,236.0,EDMR
+23,"""Free"" reserves",12  Mar-14*,-1572.0,EDMR
+24,Net worth,12  Mar-14*,-1068.0,EDMR
+25,Long term debt,12  Mar-14*,295.0,EDMR
+26,Total assets,12  Mar-14*,12087.0,EDMR
+27,Interest coverage,12  Mar-14*,-1.8,EDMR
+28,Debt to equity ratio,12  Mar-14*,-0.3,EDMR
+29,Sales to assets ratio,12  Mar-14*,0.3,EDMR
+30,Return on assets,12  Mar-14*,-0.5,EDMR
+31,Return on equity,12  Mar-14*,96.4,EDMR
+32,Return on capital,12  Mar-14*,134.7,EDMR
+33,Exports to sales,12  Mar-14*,2.3,EDMR
+34,Imports to sales,12  Mar-14*,0.0,EDMR
+35,Exports (fob),12  Mar-14*,76.0,EDMR
+36,Imports (cif),12  Mar-14*,0.0,EDMR
+37,Fx inflow,12  Mar-14*,76.0,EDMR
+38,Fx outflow,12  Mar-14*,170.0,EDMR
+39,Net fx,12  Mar-14*,-94.0,EDMR
+40,From Operations,12  Mar-14*,519.0,EDMR
+41,From Investments,12  Mar-14*,-71.0,EDMR
+42,From Financial Activity,12  Mar-14*,-464.0,EDMR
+43,Net Cashflow,12  Mar-14*,-16.0,EDMR
+44,Net Sales,12  Mar-15*,3676.0,EDMR
+45,Other income,12  Mar-15*,806.0,EDMR
+46,Total revenues,12  Mar-15*,4482.0,EDMR
+47,Gross profit,12  Mar-15*,-27.0,EDMR
+48,Depreciation,12  Mar-15*,308.0,EDMR
+49,Interest,12  Mar-15*,1136.0,EDMR
+50,Profit before tax,12  Mar-15*,-666.0,EDMR
+51,Minority Interest,12  Mar-15*,0.0,EDMR
+52,Prior Period Items,12  Mar-15*,0.0,EDMR
+53,Extraordinary Inc (Exp),12  Mar-15*,-9.0,EDMR
+54,Tax,12  Mar-15*,-279.0,EDMR
+55,Profit after tax,12  Mar-15*,-396.0,EDMR
+56,Gross profit margin,12  Mar-15*,-0.7,EDMR
+57,Effective tax rate,12  Mar-15*,41.9,EDMR
+58,Net profit margin,12  Mar-15*,-10.8,EDMR
+59,Current assets,12  Mar-15*,3568.0,EDMR
+60,Current liabilities,12  Mar-15*,13870.0,EDMR
+61,Net working cap to sales,12  Mar-15*,-280.2,EDMR
+62,Current ratio,12  Mar-15*,0.3,EDMR
+63,Inventory Days,12  Mar-15*,1.0,EDMR
+64,Debtors Days,12  Mar-15*,81.0,EDMR
+65,Net fixed assets,12  Mar-15*,5886.0,EDMR
+66,Share capital,12  Mar-15*,236.0,EDMR
+67,"""Free"" reserves",12  Mar-15*,-2091.0,EDMR
+68,Net worth,12  Mar-15*,-1590.0,EDMR
+69,Long term debt,12  Mar-15*,147.0,EDMR
+70,Total assets,12  Mar-15*,12435.0,EDMR
+71,Interest coverage,12  Mar-15*,0.4,EDMR
+72,Debt to equity ratio,12  Mar-15*,-0.1,EDMR
+73,Sales to assets ratio,12  Mar-15*,0.3,EDMR
+74,Return on assets,12  Mar-15*,6.0,EDMR
+75,Return on equity,12  Mar-15*,24.9,EDMR
+76,Return on capital,12  Mar-15*,-32.0,EDMR
+77,Exports to sales,12  Mar-15*,1.9,EDMR
+78,Imports to sales,12  Mar-15*,0.0,EDMR
+79,Exports (fob),12  Mar-15*,71.0,EDMR
+80,Imports (cif),12  Mar-15*,0.0,EDMR
+81,Fx inflow,12  Mar-15*,71.0,EDMR
+82,Fx outflow,12  Mar-15*,161.0,EDMR
+83,Net fx,12  Mar-15*,-90.0,EDMR
+84,From Operations,12  Mar-15*,-589.0,EDMR
+85,From Investments,12  Mar-15*,-7.0,EDMR
+86,From Financial Activity,12  Mar-15*,590.0,EDMR
+87,Net Cashflow,12  Mar-15*,-6.0,EDMR
+88,Net Sales,12  Mar-16*,3881.0,EDMR
+89,Other income,12  Mar-16*,69.0,EDMR
+90,Total revenues,12  Mar-16*,3950.0,EDMR
+91,Gross profit,12  Mar-16*,-310.0,EDMR
+92,Depreciation,12  Mar-16*,321.0,EDMR
+93,Interest,12  Mar-16*,931.0,EDMR
+94,Profit before tax,12  Mar-16*,-1493.0,EDMR
+95,Minority Interest,12  Mar-16*,0.0,EDMR
+96,Prior Period Items,12  Mar-16*,0.0,EDMR
+97,Extraordinary Inc (Exp),12  Mar-16*,1.0,EDMR
+98,Tax,12  Mar-16*,-371.0,EDMR
+99,Profit after tax,12  Mar-16*,-1121.0,EDMR
+100,Gross profit margin,12  Mar-16*,-8.0,EDMR
+101,Effective tax rate,12  Mar-16*,24.9,EDMR
+102,Net profit margin,12  Mar-16*,-28.9,EDMR
+103,Current assets,12  Mar-16*,1563.0,EDMR
+104,Current liabilities,12  Mar-16*,15223.0,EDMR
+105,Net working cap to sales,12  Mar-16*,-352.0,EDMR
+106,Current ratio,12  Mar-16*,0.1,EDMR
+107,Inventory Days,12  Mar-16*,3.0,EDMR
+108,Debtors Days,12  Mar-16*,87.0,EDMR
+109,Net fixed assets,12  Mar-16*,5106.0,EDMR
+110,Share capital,12  Mar-16*,236.0,EDMR
+111,"""Free"" reserves",12  Mar-16*,-5370.0,EDMR
+112,Net worth,12  Mar-16*,-2710.0,EDMR
+113,Long term debt,12  Mar-16*,147.0,EDMR
+114,Total assets,12  Mar-16*,10092.0,EDMR
+115,Interest coverage,12  Mar-16*,-0.6,EDMR
+116,Debt to equity ratio,12  Mar-16*,-0.1,EDMR
+117,Sales to assets ratio,12  Mar-16*,0.4,EDMR
+118,Return on assets,12  Mar-16*,-1.9,EDMR
+119,Return on equity,12  Mar-16*,41.4,EDMR
+120,Return on capital,12  Mar-16*,21.9,EDMR
+121,Exports to sales,12  Mar-16*,1.7,EDMR
+122,Imports to sales,12  Mar-16*,0.0,EDMR
+123,Exports (fob),12  Mar-16*,64.0,EDMR
+124,Imports (cif),12  Mar-16*,0.0,EDMR
+125,Fx inflow,12  Mar-16*,68.0,EDMR
+126,Fx outflow,12  Mar-16*,148.0,EDMR
+127,Net fx,12  Mar-16*,-80.0,EDMR
+128,From Operations,12  Mar-16*,-517.0,EDMR
+129,From Investments,12  Mar-16*,471.0,EDMR
+130,From Financial Activity,12  Mar-16*,99.0,EDMR
+131,Net Cashflow,12  Mar-16*,53.0,EDMR
+132,Net Sales,12  Mar-17*,3255.0,EDMR
+133,Other income,12  Mar-17*,225.0,EDMR
+134,Total revenues,12  Mar-17*,3480.0,EDMR
+135,Gross profit,12  Mar-17*,38.0,EDMR
+136,Depreciation,12  Mar-17*,304.0,EDMR
+137,Interest,12  Mar-17*,1217.0,EDMR
+138,Profit before tax,12  Mar-17*,-1258.0,EDMR
+139,Minority Interest,12  Mar-17*,0.0,EDMR
+140,Prior Period Items,12  Mar-17*,0.0,EDMR
+141,Extraordinary Inc (Exp),12  Mar-17*,-1.0,EDMR
+142,Tax,12  Mar-17*,-362.0,EDMR
+143,Profit after tax,12  Mar-17*,-897.0,EDMR
+144,Gross profit margin,12  Mar-17*,1.2,EDMR
+145,Effective tax rate,12  Mar-17*,28.8,EDMR
+146,Net profit margin,12  Mar-17*,-27.6,EDMR
+147,Current assets,12  Mar-17*,973.0,EDMR
+148,Current liabilities,12  Mar-17*,15370.0,EDMR
+149,Net working cap to sales,12  Mar-17*,-442.3,EDMR
+150,Current ratio,12  Mar-17*,0.1,EDMR
+151,Inventory Days,12  Mar-17*,2.0,EDMR
+152,Debtors Days,12  Mar-17*,90.0,EDMR
+153,Net fixed assets,12  Mar-17*,4791.0,EDMR
+154,Share capital,12  Mar-17*,236.0,EDMR
+155,"""Free"" reserves",12  Mar-17*,6035.0,EDMR
+156,Net worth,12  Mar-17*,-3375.0,EDMR
+157,Long term debt,12  Mar-17*,147.0,EDMR
+158,Total assets,12  Mar-17*,9574.0,EDMR
+159,Interest coverage,12  Mar-17*,0.0,EDMR
+160,Debt to equity ratio,12  Mar-17*,0.0,EDMR
+161,Sales to assets ratio,12  Mar-17*,0.3,EDMR
+162,Return on assets,12  Mar-17*,3.3,EDMR
+163,Return on equity,12  Mar-17*,26.6,EDMR
+164,Return on capital,12  Mar-17*,1.3,EDMR
+165,Exports to sales,12  Mar-17*,1.8,EDMR
+166,Imports to sales,12  Mar-17*,0.0,EDMR
+167,Exports (fob),12  Mar-17*,58.0,EDMR
+168,Imports (cif),12  Mar-17*,0.0,EDMR
+169,Fx inflow,12  Mar-17*,58.0,EDMR
+170,Fx outflow,12  Mar-17*,150.0,EDMR
+171,Net fx,12  Mar-17*,-92.0,EDMR
+172,From Operations,12  Mar-17*,-105.0,EDMR
+173,From Investments,12  Mar-17*,-15.0,EDMR
+174,From Financial Activity,12  Mar-17*,42.0,EDMR
+175,Net Cashflow,12  Mar-17*,-78.0,EDMR
+176,Net Sales,12  Mar-18*,1705.0,EDMR
+177,Other income,12  Mar-18*,929.0,EDMR
+178,Total revenues,12  Mar-18*,2634.0,EDMR
+179,Gross profit,12  Mar-18*,-1650.0,EDMR
+180,Depreciation,12  Mar-18*,146.0,EDMR
+181,Interest,12  Mar-18*,15.0,EDMR
+182,Profit before tax,12  Mar-18*,-882.0,EDMR
+183,Minority Interest,12  Mar-18*,0.0,EDMR
+184,Prior Period Items,12  Mar-18*,0.0,EDMR
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,EDMR
+186,Tax,12  Mar-18*,-100.0,EDMR
+187,Profit after tax,12  Mar-18*,-782.0,EDMR
+188,Gross profit margin,12  Mar-18*,-96.8,EDMR
+189,Effective tax rate,12  Mar-18*,11.3,EDMR
+190,Net profit margin,12  Mar-18*,-45.9,EDMR
+191,Current assets,12  Mar-18*,427.0,EDMR
+192,Current liabilities,12  Mar-18*,12173.0,EDMR
+193,Net working cap to sales,12  Mar-18*,-688.9,EDMR
+194,Current ratio,12  Mar-18*,0.0,EDMR
+195,Inventory Days,12  Mar-18*,0.0,EDMR
+196,Debtors Days,12  Mar-18*,77.0,EDMR
+197,Net fixed assets,12  Mar-18*,1276.0,EDMR
+198,Share capital,12  Mar-18*,236.0,EDMR
+199,"""Free"" reserves",12  Mar-18*,-6792.0,EDMR
+200,Net worth,12  Mar-18*,-6557.0,EDMR
+201,Long term debt,12  Mar-18*,0.0,EDMR
+202,Total assets,12  Mar-18*,5619.0,EDMR
+203,Interest coverage,12  Mar-18*,-57.4,EDMR
+204,Debt to equity ratio,12  Mar-18*,0.0,EDMR
+205,Sales to assets ratio,12  Mar-18*,0.3,EDMR
+206,Return on assets,12  Mar-18*,-13.7,EDMR
+207,Return on equity,12  Mar-18*,11.9,EDMR
+208,Return on capital,12  Mar-18*,13.2,EDMR
+209,Exports to sales,12  Mar-18*,3.0,EDMR
+210,Imports to sales,12  Mar-18*,0.0,EDMR
+211,Exports (fob),12  Mar-18*,51.0,EDMR
+212,Imports (cif),12  Mar-18*,0.0,EDMR
+213,Fx inflow,12  Mar-18*,51.0,EDMR
+214,Fx outflow,12  Mar-18*,3.0,EDMR
+215,Net fx,12  Mar-18*,48.0,EDMR
+216,From Operations,12  Mar-18*,-2178.0,EDMR
+217,From Investments,12  Mar-18*,2327.0,EDMR
+218,From Financial Activity,12  Mar-18*,-184.0,EDMR
+219,Net Cashflow,12  Mar-18*,-35.0,EDMR

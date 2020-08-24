@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,51748.0,RPWR
+1,Other income,12  Mar-14*,3712.0,RPWR
+2,Total revenues,12  Mar-14*,55459.0,RPWR
+3,Gross profit,12  Mar-14*,19159.0,RPWR
+4,Depreciation,12  Mar-14*,3639.0,RPWR
+5,Interest,12  Mar-14*,6844.0,RPWR
+6,Profit before tax,12  Mar-14*,12388.0,RPWR
+7,Minority Interest,12  Mar-14*,0.0,RPWR
+8,Prior Period Items,12  Mar-14*,0.0,RPWR
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,RPWR
+10,Tax,12  Mar-14*,2121.0,RPWR
+11,Profit after tax,12  Mar-14*,10267.0,RPWR
+12,Gross profit margin,12  Mar-14*,37.0,RPWR
+13,Effective tax rate,12  Mar-14*,17.1,RPWR
+14,Net profit margin,12  Mar-14*,19.8,RPWR
+15,Current assets,12  Mar-14*,63559.0,RPWR
+16,Current liabilities,12  Mar-14*,70472.0,RPWR
+17,Net working cap to sales,12  Mar-14*,-13.4,RPWR
+18,Current ratio,12  Mar-14*,0.9,RPWR
+19,Inventory Days,12  Mar-14*,44.0,RPWR
+20,Debtors Days,12  Mar-14*,76.0,RPWR
+21,Net fixed assets,12  Mar-14*,460937.0,RPWR
+22,Share capital,12  Mar-14*,27966.0,RPWR
+23,"""Free"" reserves",12  Mar-14*,165884.0,RPWR
+24,Net worth,12  Mar-14*,194684.0,RPWR
+25,Long term debt,12  Mar-14*,262535.0,RPWR
+26,Total assets,12  Mar-14*,556259.0,RPWR
+27,Interest coverage,12  Mar-14*,2.8,RPWR
+28,Debt to equity ratio,12  Mar-14*,1.3,RPWR
+29,Sales to assets ratio,12  Mar-14*,0.1,RPWR
+30,Return on assets,12  Mar-14*,3.1,RPWR
+31,Return on equity,12  Mar-14*,5.3,RPWR
+32,Return on capital,12  Mar-14*,4.2,RPWR
+33,Exports to sales,12  Mar-14*,0.0,RPWR
+34,Imports to sales,12  Mar-14*,0.0,RPWR
+35,Exports (fob),12  Mar-14*,0.0,RPWR
+36,Imports (cif),12  Mar-14*,0.0,RPWR
+37,Fx inflow,12  Mar-14*,0.0,RPWR
+38,Fx outflow,12  Mar-14*,143.0,RPWR
+39,Net fx,12  Mar-14*,-143.0,RPWR
+40,From Operations,12  Mar-14*,23103.0,RPWR
+41,From Investments,12  Mar-14*,-24731.0,RPWR
+42,From Financial Activity,12  Mar-14*,-5858.0,RPWR
+43,Net Cashflow,12  Mar-14*,-7486.0,RPWR
+44,Net Sales,12  Mar-15*,69034.0,RPWR
+45,Other income,12  Mar-15*,2986.0,RPWR
+46,Total revenues,12  Mar-15*,72020.0,RPWR
+47,Gross profit,12  Mar-15*,141629.0,RPWR
+48,Depreciation,12  Mar-15*,5237.0,RPWR
+49,Interest,12  Mar-15*,10742.0,RPWR
+50,Profit before tax,12  Mar-15*,128636.0,RPWR
+51,Minority Interest,12  Mar-15*,0.0,RPWR
+52,Prior Period Items,12  Mar-15*,0.0,RPWR
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,RPWR
+54,Tax,12  Mar-15*,118353.0,RPWR
+55,Profit after tax,12  Mar-15*,10283.0,RPWR
+56,Gross profit margin,12  Mar-15*,205.2,RPWR
+57,Effective tax rate,12  Mar-15*,92.0,RPWR
+58,Net profit margin,12  Mar-15*,14.9,RPWR
+59,Current assets,12  Mar-15*,84449.0,RPWR
+60,Current liabilities,12  Mar-15*,99644.0,RPWR
+61,Net working cap to sales,12  Mar-15*,-22.0,RPWR
+62,Current ratio,12  Mar-15*,0.8,RPWR
+63,Inventory Days,12  Mar-15*,55.0,RPWR
+64,Debtors Days,12  Mar-15*,154.0,RPWR
+65,Net fixed assets,12  Mar-15*,417031.0,RPWR
+66,Share capital,12  Mar-15*,28051.0,RPWR
+67,"""Free"" reserves",12  Mar-15*,174606.0,RPWR
+68,Net worth,12  Mar-15*,202657.0,RPWR
+69,Long term debt,12  Mar-15*,277743.0,RPWR
+70,Total assets,12  Mar-15*,642900.0,RPWR
+71,Interest coverage,12  Mar-15*,13.0,RPWR
+72,Debt to equity ratio,12  Mar-15*,1.4,RPWR
+73,Sales to assets ratio,12  Mar-15*,0.1,RPWR
+74,Return on assets,12  Mar-15*,3.3,RPWR
+75,Return on equity,12  Mar-15*,5.1,RPWR
+76,Return on capital,12  Mar-15*,29.0,RPWR
+77,Exports to sales,12  Mar-15*,0.0,RPWR
+78,Imports to sales,12  Mar-15*,0.0,RPWR
+79,Exports (fob),12  Mar-15*,0.0,RPWR
+80,Imports (cif),12  Mar-15*,0.0,RPWR
+81,Fx inflow,12  Mar-15*,85.0,RPWR
+82,Fx outflow,12  Mar-15*,119.0,RPWR
+83,Net fx,12  Mar-15*,-34.0,RPWR
+84,From Operations,12  Mar-15*,13991.0,RPWR
+85,From Investments,12  Mar-15*,-36297.0,RPWR
+86,From Financial Activity,12  Mar-15*,6954.0,RPWR
+87,Net Cashflow,12  Mar-15*,-15352.0,RPWR
+88,Net Sales,12  Mar-16*,102986.0,RPWR
+89,Other income,12  Mar-16*,3229.0,RPWR
+90,Total revenues,12  Mar-16*,106215.0,RPWR
+91,Gross profit,12  Mar-16*,44144.0,RPWR
+92,Depreciation,12  Mar-16*,7014.0,RPWR
+93,Interest,12  Mar-16*,26827.0,RPWR
+94,Profit before tax,12  Mar-16*,13532.0,RPWR
+95,Minority Interest,12  Mar-16*,0.0,RPWR
+96,Prior Period Items,12  Mar-16*,0.0,RPWR
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,RPWR
+98,Tax,12  Mar-16*,4578.0,RPWR
+99,Profit after tax,12  Mar-16*,8954.0,RPWR
+100,Gross profit margin,12  Mar-16*,42.9,RPWR
+101,Effective tax rate,12  Mar-16*,33.8,RPWR
+102,Net profit margin,12  Mar-16*,8.7,RPWR
+103,Current assets,12  Mar-16*,85115.0,RPWR
+104,Current liabilities,12  Mar-16*,105801.0,RPWR
+105,Net working cap to sales,12  Mar-16*,-20.1,RPWR
+106,Current ratio,12  Mar-16*,0.8,RPWR
+107,Inventory Days,12  Mar-16*,40.0,RPWR
+108,Debtors Days,12  Mar-16*,125.0,RPWR
+109,Net fixed assets,12  Mar-16*,418547.0,RPWR
+110,Share capital,12  Mar-16*,28051.0,RPWR
+111,"""Free"" reserves",12  Mar-16*,174217.0,RPWR
+112,Net worth,12  Mar-16*,202268.0,RPWR
+113,Long term debt,12  Mar-16*,287387.0,RPWR
+114,Total assets,12  Mar-16*,640137.0,RPWR
+115,Interest coverage,12  Mar-16*,1.5,RPWR
+116,Debt to equity ratio,12  Mar-16*,1.4,RPWR
+117,Sales to assets ratio,12  Mar-16*,0.2,RPWR
+118,Return on assets,12  Mar-16*,5.6,RPWR
+119,Return on equity,12  Mar-16*,4.4,RPWR
+120,Return on capital,12  Mar-16*,8.2,RPWR
+121,Exports to sales,12  Mar-16*,0.0,RPWR
+122,Imports to sales,12  Mar-16*,0.0,RPWR
+123,Exports (fob),12  Mar-16*,0.0,RPWR
+124,Imports (cif),12  Mar-16*,0.0,RPWR
+125,Fx inflow,12  Mar-16*,80.0,RPWR
+126,Fx outflow,12  Mar-16*,76.0,RPWR
+127,Net fx,12  Mar-16*,4.0,RPWR
+128,From Operations,12  Mar-16*,45735.0,RPWR
+129,From Investments,12  Mar-16*,-13476.0,RPWR
+130,From Financial Activity,12  Mar-16*,-31943.0,RPWR
+131,Net Cashflow,12  Mar-16*,316.0,RPWR
+132,Net Sales,12  Mar-17*,103957.0,RPWR
+133,Other income,12  Mar-17*,4960.0,RPWR
+134,Total revenues,12  Mar-17*,108917.0,RPWR
+135,Gross profit,12  Mar-17*,45065.0,RPWR
+136,Depreciation,12  Mar-17*,7340.0,RPWR
+137,Interest,12  Mar-17*,28431.0,RPWR
+138,Profit before tax,12  Mar-17*,14254.0,RPWR
+139,Minority Interest,12  Mar-17*,0.0,RPWR
+140,Prior Period Items,12  Mar-17*,0.0,RPWR
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,RPWR
+142,Tax,12  Mar-17*,3213.0,RPWR
+143,Profit after tax,12  Mar-17*,11042.0,RPWR
+144,Gross profit margin,12  Mar-17*,43.3,RPWR
+145,Effective tax rate,12  Mar-17*,22.5,RPWR
+146,Net profit margin,12  Mar-17*,10.6,RPWR
+147,Current assets,12  Mar-17*,91749.0,RPWR
+148,Current liabilities,12  Mar-17*,119297.0,RPWR
+149,Net working cap to sales,12  Mar-17*,-26.5,RPWR
+150,Current ratio,12  Mar-17*,0.8,RPWR
+151,Inventory Days,12  Mar-17*,36.0,RPWR
+152,Debtors Days,12  Mar-17*,105.0,RPWR
+153,Net fixed assets,12  Mar-17*,422086.0,RPWR
+154,Share capital,12  Mar-17*,28051.0,RPWR
+155,"""Free"" reserves",12  Mar-17*,185625.0,RPWR
+156,Net worth,12  Mar-17*,213676.0,RPWR
+157,Long term debt,12  Mar-17*,262900.0,RPWR
+158,Total assets,12  Mar-17*,641652.0,RPWR
+159,Interest coverage,12  Mar-17*,1.5,RPWR
+160,Debt to equity ratio,12  Mar-17*,1.2,RPWR
+161,Sales to assets ratio,12  Mar-17*,0.2,RPWR
+162,Return on assets,12  Mar-17*,6.2,RPWR
+163,Return on equity,12  Mar-17*,5.2,RPWR
+164,Return on capital,12  Mar-17*,9.0,RPWR
+165,Exports to sales,12  Mar-17*,0.0,RPWR
+166,Imports to sales,12  Mar-17*,0.0,RPWR
+167,Exports (fob),12  Mar-17*,0.0,RPWR
+168,Imports (cif),12  Mar-17*,0.0,RPWR
+169,Fx inflow,12  Mar-17*,0.0,RPWR
+170,Fx outflow,12  Mar-17*,33.0,RPWR
+171,Net fx,12  Mar-17*,-33.0,RPWR
+172,From Operations,12  Mar-17*,47054.0,RPWR
+173,From Investments,12  Mar-17*,-21419.0,RPWR
+174,From Financial Activity,12  Mar-17*,-33893.0,RPWR
+175,Net Cashflow,12  Mar-17*,-8258.0,RPWR
+176,Net Sales,12  Mar-18*,98398.0,RPWR
+177,Other income,12  Mar-18*,2831.0,RPWR
+178,Total revenues,12  Mar-18*,101229.0,RPWR
+179,Gross profit,12  Mar-18*,46331.0,RPWR
+180,Depreciation,12  Mar-18*,7588.0,RPWR
+181,Interest,12  Mar-18*,29260.0,RPWR
+182,Profit before tax,12  Mar-18*,12313.0,RPWR
+183,Minority Interest,12  Mar-18*,0.0,RPWR
+184,Prior Period Items,12  Mar-18*,0.0,RPWR
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,RPWR
+186,Tax,12  Mar-18*,1965.0,RPWR
+187,Profit after tax,12  Mar-18*,10348.0,RPWR
+188,Gross profit margin,12  Mar-18*,47.1,RPWR
+189,Effective tax rate,12  Mar-18*,16.0,RPWR
+190,Net profit margin,12  Mar-18*,10.5,RPWR
+191,Current assets,12  Mar-18*,93051.0,RPWR
+192,Current liabilities,12  Mar-18*,123366.0,RPWR
+193,Net working cap to sales,12  Mar-18*,-30.8,RPWR
+194,Current ratio,12  Mar-18*,0.8,RPWR
+195,Inventory Days,12  Mar-18*,27.0,RPWR
+196,Debtors Days,12  Mar-18*,138.0,RPWR
+197,Net fixed assets,12  Mar-18*,417398.0,RPWR
+198,Share capital,12  Mar-18*,28051.0,RPWR
+199,"""Free"" reserves",12  Mar-18*,196766.0,RPWR
+200,Net worth,12  Mar-18*,224818.0,RPWR
+201,Long term debt,12  Mar-18*,242012.0,RPWR
+202,Total assets,12  Mar-18*,634735.0,RPWR
+203,Interest coverage,12  Mar-18*,1.4,RPWR
+204,Debt to equity ratio,12  Mar-18*,1.1,RPWR
+205,Sales to assets ratio,12  Mar-18*,0.2,RPWR
+206,Return on assets,12  Mar-18*,6.2,RPWR
+207,Return on equity,12  Mar-18*,4.6,RPWR
+208,Return on capital,12  Mar-18*,8.9,RPWR
+209,Exports to sales,12  Mar-18*,0.0,RPWR
+210,Imports to sales,12  Mar-18*,0.0,RPWR
+211,Exports (fob),12  Mar-18*,0.0,RPWR
+212,Imports (cif),12  Mar-18*,0.0,RPWR
+213,Fx inflow,12  Mar-18*,271.0,RPWR
+214,Fx outflow,12  Mar-18*,10.0,RPWR
+215,Net fx,12  Mar-18*,260.0,RPWR
+216,From Operations,12  Mar-18*,43647.0,RPWR
+217,From Investments,12  Mar-18*,3543.0,RPWR
+218,From Financial Activity,12  Mar-18*,-43109.0,RPWR
+219,Net Cashflow,12  Mar-18*,4081.0,RPWR

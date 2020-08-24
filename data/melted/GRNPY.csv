@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,22169.0,GRNPY
+1,Other income,12  Mar-14*,80.0,GRNPY
+2,Total revenues,12  Mar-14*,22249.0,GRNPY
+3,Gross profit,12  Mar-14*,2646.0,GRNPY
+4,Depreciation,12  Mar-14*,596.0,GRNPY
+5,Interest,12  Mar-14*,602.0,GRNPY
+6,Profit before tax,12  Mar-14*,1528.0,GRNPY
+7,Minority Interest,12  Mar-14*,0.0,GRNPY
+8,Prior Period Items,12  Mar-14*,0.0,GRNPY
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,GRNPY
+10,Tax,12  Mar-14*,353.0,GRNPY
+11,Profit after tax,12  Mar-14*,1176.0,GRNPY
+12,Gross profit margin,12  Mar-14*,11.9,GRNPY
+13,Effective tax rate,12  Mar-14*,23.1,GRNPY
+14,Net profit margin,12  Mar-14*,5.3,GRNPY
+15,Current assets,12  Mar-14*,9333.0,GRNPY
+16,Current liabilities,12  Mar-14*,8908.0,GRNPY
+17,Net working cap to sales,12  Mar-14*,1.9,GRNPY
+18,Current ratio,12  Mar-14*,1.0,GRNPY
+19,Inventory Days,12  Mar-14*,70.0,GRNPY
+20,Debtors Days,12  Mar-14*,61.0,GRNPY
+21,Net fixed assets,12  Mar-14*,8158.0,GRNPY
+22,Share capital,12  Mar-14*,121.0,GRNPY
+23,"""Free"" reserves",12  Mar-14*,5709.0,GRNPY
+24,Net worth,12  Mar-14*,5837.0,GRNPY
+25,Long term debt,12  Mar-14*,2682.0,GRNPY
+26,Total assets,12  Mar-14*,18201.0,GRNPY
+27,Interest coverage,12  Mar-14*,3.5,GRNPY
+28,Debt to equity ratio,12  Mar-14*,0.5,GRNPY
+29,Sales to assets ratio,12  Mar-14*,1.2,GRNPY
+30,Return on assets,12  Mar-14*,9.8,GRNPY
+31,Return on equity,12  Mar-14*,20.1,GRNPY
+32,Return on capital,12  Mar-14*,25.0,GRNPY
+33,Exports to sales,12  Mar-14*,12.6,GRNPY
+34,Imports to sales,12  Mar-14*,21.7,GRNPY
+35,Exports (fob),12  Mar-14*,2797.0,GRNPY
+36,Imports (cif),12  Mar-14*,4806.0,GRNPY
+37,Fx inflow,12  Mar-14*,2797.0,GRNPY
+38,Fx outflow,12  Mar-14*,4945.0,GRNPY
+39,Net fx,12  Mar-14*,-2149.0,GRNPY
+40,From Operations,12  Mar-14*,1884.0,GRNPY
+41,From Investments,12  Mar-14*,-1702.0,GRNPY
+42,From Financial Activity,12  Mar-14*,-233.0,GRNPY
+43,Net Cashflow,12  Mar-14*,-51.0,GRNPY
+44,Net Sales,12  Mar-15*,15643.0,GRNPY
+45,Other income,12  Mar-15*,11.0,GRNPY
+46,Total revenues,12  Mar-15*,15653.0,GRNPY
+47,Gross profit,12  Mar-15*,2073.0,GRNPY
+48,Depreciation,12  Mar-15*,471.0,GRNPY
+49,Interest,12  Mar-15*,359.0,GRNPY
+50,Profit before tax,12  Mar-15*,1254.0,GRNPY
+51,Minority Interest,12  Mar-15*,0.0,GRNPY
+52,Prior Period Items,12  Mar-15*,0.0,GRNPY
+53,Extraordinary Inc (Exp),12  Mar-15*,158.0,GRNPY
+54,Tax,12  Mar-15*,170.0,GRNPY
+55,Profit after tax,12  Mar-15*,1242.0,GRNPY
+56,Gross profit margin,12  Mar-15*,13.3,GRNPY
+57,Effective tax rate,12  Mar-15*,13.5,GRNPY
+58,Net profit margin,12  Mar-15*,7.9,GRNPY
+59,Current assets,12  Mar-15*,5703.0,GRNPY
+60,Current liabilities,12  Mar-15*,4721.0,GRNPY
+61,Net working cap to sales,12  Mar-15*,6.3,GRNPY
+62,Current ratio,12  Mar-15*,1.2,GRNPY
+63,Inventory Days,12  Mar-15*,44.0,GRNPY
+64,Debtors Days,12  Mar-15*,60.0,GRNPY
+65,Net fixed assets,12  Mar-15*,5470.0,GRNPY
+66,Share capital,12  Mar-15*,121.0,GRNPY
+67,"""Free"" reserves",12  Mar-15*,4743.0,GRNPY
+68,Net worth,12  Mar-15*,4863.0,GRNPY
+69,Long term debt,12  Mar-15*,1266.0,GRNPY
+70,Total assets,12  Mar-15*,11492.0,GRNPY
+71,Interest coverage,12  Mar-15*,4.5,GRNPY
+72,Debt to equity ratio,12  Mar-15*,0.3,GRNPY
+73,Sales to assets ratio,12  Mar-15*,1.4,GRNPY
+74,Return on assets,12  Mar-15*,13.9,GRNPY
+75,Return on equity,12  Mar-15*,25.5,GRNPY
+76,Return on capital,12  Mar-15*,28.9,GRNPY
+77,Exports to sales,12  Mar-15*,0.2,GRNPY
+78,Imports to sales,12  Mar-15*,15.9,GRNPY
+79,Exports (fob),12  Mar-15*,29.0,GRNPY
+80,Imports (cif),12  Mar-15*,2486.0,GRNPY
+81,Fx inflow,12  Mar-15*,29.0,GRNPY
+82,Fx outflow,12  Mar-15*,2625.0,GRNPY
+83,Net fx,12  Mar-15*,-2596.0,GRNPY
+84,From Operations,12  Mar-15*,1874.0,GRNPY
+85,From Investments,12  Mar-15*,-1045.0,GRNPY
+86,From Financial Activity,12  Mar-15*,-824.0,GRNPY
+87,Net Cashflow,12  Mar-15*,-20.0,GRNPY
+88,Net Sales,12  Mar-16*,16565.0,GRNPY
+89,Other income,12  Mar-16*,45.0,GRNPY
+90,Total revenues,12  Mar-16*,16609.0,GRNPY
+91,Gross profit,12  Mar-16*,2427.0,GRNPY
+92,Depreciation,12  Mar-16*,500.0,GRNPY
+93,Interest,12  Mar-16*,287.0,GRNPY
+94,Profit before tax,12  Mar-16*,1684.0,GRNPY
+95,Minority Interest,12  Mar-16*,0.0,GRNPY
+96,Prior Period Items,12  Mar-16*,14.0,GRNPY
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,GRNPY
+98,Tax,12  Mar-16*,421.0,GRNPY
+99,Profit after tax,12  Mar-16*,1277.0,GRNPY
+100,Gross profit margin,12  Mar-16*,14.7,GRNPY
+101,Effective tax rate,12  Mar-16*,25.0,GRNPY
+102,Net profit margin,12  Mar-16*,7.7,GRNPY
+103,Current assets,12  Mar-16*,5889.0,GRNPY
+104,Current liabilities,12  Mar-16*,4108.0,GRNPY
+105,Net working cap to sales,12  Mar-16*,10.8,GRNPY
+106,Current ratio,12  Mar-16*,1.4,GRNPY
+107,Inventory Days,12  Mar-16*,31.0,GRNPY
+108,Debtors Days,12  Mar-16*,67.0,GRNPY
+109,Net fixed assets,12  Mar-16*,5660.0,GRNPY
+110,Share capital,12  Mar-16*,121.0,GRNPY
+111,"""Free"" reserves",12  Mar-16*,5932.0,GRNPY
+112,Net worth,12  Mar-16*,6053.0,GRNPY
+113,Long term debt,12  Mar-16*,1215.0,GRNPY
+114,Total assets,12  Mar-16*,12073.0,GRNPY
+115,Interest coverage,12  Mar-16*,6.9,GRNPY
+116,Debt to equity ratio,12  Mar-16*,0.2,GRNPY
+117,Sales to assets ratio,12  Mar-16*,1.4,GRNPY
+118,Return on assets,12  Mar-16*,13.0,GRNPY
+119,Return on equity,12  Mar-16*,21.1,GRNPY
+120,Return on capital,12  Mar-16*,27.3,GRNPY
+121,Exports to sales,12  Mar-16*,0.2,GRNPY
+122,Imports to sales,12  Mar-16*,12.5,GRNPY
+123,Exports (fob),12  Mar-16*,31.0,GRNPY
+124,Imports (cif),12  Mar-16*,2072.0,GRNPY
+125,Fx inflow,12  Mar-16*,31.0,GRNPY
+126,Fx outflow,12  Mar-16*,2072.0,GRNPY
+127,Net fx,12  Mar-16*,-2041.0,GRNPY
+128,From Operations,12  Mar-16*,2236.0,GRNPY
+129,From Investments,12  Mar-16*,-624.0,GRNPY
+130,From Financial Activity,12  Mar-16*,-1333.0,GRNPY
+131,Net Cashflow,12  Mar-16*,278.0,GRNPY
+132,Net Sales,12  Mar-17*,16680.0,GRNPY
+133,Other income,12  Mar-17*,38.0,GRNPY
+134,Total revenues,12  Mar-17*,16717.0,GRNPY
+135,Gross profit,12  Mar-17*,2449.0,GRNPY
+136,Depreciation,12  Mar-17*,507.0,GRNPY
+137,Interest,12  Mar-17*,189.0,GRNPY
+138,Profit before tax,12  Mar-17*,1791.0,GRNPY
+139,Minority Interest,12  Mar-17*,22.0,GRNPY
+140,Prior Period Items,12  Mar-17*,0.0,GRNPY
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,GRNPY
+142,Tax,12  Mar-17*,559.0,GRNPY
+143,Profit after tax,12  Mar-17*,1254.0,GRNPY
+144,Gross profit margin,12  Mar-17*,14.7,GRNPY
+145,Effective tax rate,12  Mar-17*,31.2,GRNPY
+146,Net profit margin,12  Mar-17*,7.5,GRNPY
+147,Current assets,12  Mar-17*,5976.0,GRNPY
+148,Current liabilities,12  Mar-17*,4718.0,GRNPY
+149,Net working cap to sales,12  Mar-17*,7.5,GRNPY
+150,Current ratio,12  Mar-17*,1.3,GRNPY
+151,Inventory Days,12  Mar-17*,35.0,GRNPY
+152,Debtors Days,12  Mar-17*,65.0,GRNPY
+153,Net fixed assets,12  Mar-17*,7946.0,GRNPY
+154,Share capital,12  Mar-17*,123.0,GRNPY
+155,"""Free"" reserves",12  Mar-17*,7604.0,GRNPY
+156,Net worth,12  Mar-17*,7727.0,GRNPY
+157,Long term debt,12  Mar-17*,2659.0,GRNPY
+158,Total assets,12  Mar-17*,15745.0,GRNPY
+159,Interest coverage,12  Mar-17*,10.5,GRNPY
+160,Debt to equity ratio,12  Mar-17*,0.3,GRNPY
+161,Sales to assets ratio,12  Mar-17*,1.1,GRNPY
+162,Return on assets,12  Mar-17*,9.2,GRNPY
+163,Return on equity,12  Mar-17*,16.2,GRNPY
+164,Return on capital,12  Mar-17*,19.3,GRNPY
+165,Exports to sales,12  Mar-17*,1.0,GRNPY
+166,Imports to sales,12  Mar-17*,16.7,GRNPY
+167,Exports (fob),12  Mar-17*,167.0,GRNPY
+168,Imports (cif),12  Mar-17*,2782.0,GRNPY
+169,Fx inflow,12  Mar-17*,167.0,GRNPY
+170,Fx outflow,12  Mar-17*,2782.0,GRNPY
+171,Net fx,12  Mar-17*,-2615.0,GRNPY
+172,From Operations,12  Mar-17*,2120.0,GRNPY
+173,From Investments,12  Mar-17*,-3628.0,GRNPY
+174,From Financial Activity,12  Mar-17*,1896.0,GRNPY
+175,Net Cashflow,12  Mar-17*,387.0,GRNPY
+176,Net Sales,12  Mar-18*,17132.0,GRNPY
+177,Other income,12  Mar-18*,22.0,GRNPY
+178,Total revenues,12  Mar-18*,17154.0,GRNPY
+179,Gross profit,12  Mar-18*,2308.0,GRNPY
+180,Depreciation,12  Mar-18*,498.0,GRNPY
+181,Interest,12  Mar-18*,114.0,GRNPY
+182,Profit before tax,12  Mar-18*,1717.0,GRNPY
+183,Minority Interest,12  Mar-18*,-76.0,GRNPY
+184,Prior Period Items,12  Mar-18*,0.0,GRNPY
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,GRNPY
+186,Tax,12  Mar-18*,535.0,GRNPY
+187,Profit after tax,12  Mar-18*,1106.0,GRNPY
+188,Gross profit margin,12  Mar-18*,13.5,GRNPY
+189,Effective tax rate,12  Mar-18*,31.2,GRNPY
+190,Net profit margin,12  Mar-18*,6.5,GRNPY
+191,Current assets,12  Mar-18*,6482.0,GRNPY
+192,Current liabilities,12  Mar-18*,6157.0,GRNPY
+193,Net working cap to sales,12  Mar-18*,1.9,GRNPY
+194,Current ratio,12  Mar-18*,1.1,GRNPY
+195,Inventory Days,12  Mar-18*,49.0,GRNPY
+196,Debtors Days,12  Mar-18*,61.0,GRNPY
+197,Net fixed assets,12  Mar-18*,13509.0,GRNPY
+198,Share capital,12  Mar-18*,123.0,GRNPY
+199,"""Free"" reserves",12  Mar-18*,8652.0,GRNPY
+200,Net worth,12  Mar-18*,8775.0,GRNPY
+201,Long term debt,12  Mar-18*,4848.0,GRNPY
+202,Total assets,12  Mar-18*,21111.0,GRNPY
+203,Interest coverage,12  Mar-18*,16.1,GRNPY
+204,Debt to equity ratio,12  Mar-18*,0.6,GRNPY
+205,Sales to assets ratio,12  Mar-18*,0.8,GRNPY
+206,Return on assets,12  Mar-18*,5.8,GRNPY
+207,Return on equity,12  Mar-18*,12.6,GRNPY
+208,Return on capital,12  Mar-18*,12.9,GRNPY
+209,Exports to sales,12  Mar-18*,1.8,GRNPY
+210,Imports to sales,12  Mar-18*,16.4,GRNPY
+211,Exports (fob),12  Mar-18*,309.0,GRNPY
+212,Imports (cif),12  Mar-18*,2811.0,GRNPY
+213,Fx inflow,12  Mar-18*,309.0,GRNPY
+214,Fx outflow,12  Mar-18*,2811.0,GRNPY
+215,Net fx,12  Mar-18*,-2503.0,GRNPY
+216,From Operations,12  Mar-18*,1134.0,GRNPY
+217,From Investments,12  Mar-18*,-3280.0,GRNPY
+218,From Financial Activity,12  Mar-18*,1644.0,GRNPY
+219,Net Cashflow,12  Mar-18*,-502.0,GRNPY

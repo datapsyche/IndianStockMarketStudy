@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,7190.0,NOCIL
+1,Other income,12  Mar-15*,40.0,NOCIL
+2,Total revenues,12  Mar-15*,7230.0,NOCIL
+3,Gross profit,12  Mar-15*,1133.0,NOCIL
+4,Depreciation,12  Mar-15*,145.0,NOCIL
+5,Interest,12  Mar-15*,165.0,NOCIL
+6,Profit before tax,12  Mar-15*,862.0,NOCIL
+7,Minority Interest,12  Mar-15*,0.0,NOCIL
+8,Prior Period Items,12  Mar-15*,0.0,NOCIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NOCIL
+10,Tax,12  Mar-15*,291.0,NOCIL
+11,Profit after tax,12  Mar-15*,571.0,NOCIL
+12,Gross profit margin,12  Mar-15*,15.8,NOCIL
+13,Effective tax rate,12  Mar-15*,33.8,NOCIL
+14,Net profit margin,12  Mar-15*,7.9,NOCIL
+15,Current assets,12  Mar-15*,3803.0,NOCIL
+16,Current liabilities,12  Mar-15*,2331.0,NOCIL
+17,Net working cap to sales,12  Mar-15*,20.5,NOCIL
+18,Current ratio,12  Mar-15*,1.6,NOCIL
+19,Inventory Days,12  Mar-15*,95.0,NOCIL
+20,Debtors Days,12  Mar-15*,85.0,NOCIL
+21,Net fixed assets,12  Mar-15*,3143.0,NOCIL
+22,Share capital,12  Mar-15*,1608.0,NOCIL
+23,"""Free"" reserves",12  Mar-15*,2540.0,NOCIL
+24,Net worth,12  Mar-15*,4150.0,NOCIL
+25,Long term debt,12  Mar-15*,505.0,NOCIL
+26,Total assets,12  Mar-15*,7551.0,NOCIL
+27,Interest coverage,12  Mar-15*,6.2,NOCIL
+28,Debt to equity ratio,12  Mar-15*,0.1,NOCIL
+29,Sales to assets ratio,12  Mar-15*,1.0,NOCIL
+30,Return on assets,12  Mar-15*,9.7,NOCIL
+31,Return on equity,12  Mar-15*,13.8,NOCIL
+32,Return on capital,12  Mar-15*,22.1,NOCIL
+33,Exports to sales,12  Mar-15*,32.0,NOCIL
+34,Imports to sales,12  Mar-15*,26.1,NOCIL
+35,Exports (fob),12  Mar-15*,2300.0,NOCIL
+36,Imports (cif),12  Mar-15*,1875.0,NOCIL
+37,Fx inflow,12  Mar-15*,2300.0,NOCIL
+38,Fx outflow,12  Mar-15*,1895.0,NOCIL
+39,Net fx,12  Mar-15*,405.0,NOCIL
+40,From Operations,12  Mar-15*,301.0,NOCIL
+41,From Investments,12  Mar-15*,-53.0,NOCIL
+42,From Financial Activity,12  Mar-15*,-326.0,NOCIL
+43,Net Cashflow,12  Mar-15*,-79.0,NOCIL
+44,Net Sales,12  Mar-16*,7152.0,NOCIL
+45,Other income,12  Mar-16*,35.0,NOCIL
+46,Total revenues,12  Mar-16*,7187.0,NOCIL
+47,Gross profit,12  Mar-16*,1394.0,NOCIL
+48,Depreciation,12  Mar-16*,146.0,NOCIL
+49,Interest,12  Mar-16*,93.0,NOCIL
+50,Profit before tax,12  Mar-16*,1189.0,NOCIL
+51,Minority Interest,12  Mar-16*,0.0,NOCIL
+52,Prior Period Items,12  Mar-16*,0.0,NOCIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NOCIL
+54,Tax,12  Mar-16*,407.0,NOCIL
+55,Profit after tax,12  Mar-16*,783.0,NOCIL
+56,Gross profit margin,12  Mar-16*,19.5,NOCIL
+57,Effective tax rate,12  Mar-16*,34.2,NOCIL
+58,Net profit margin,12  Mar-16*,10.9,NOCIL
+59,Current assets,12  Mar-16*,3136.0,NOCIL
+60,Current liabilities,12  Mar-16*,1070.0,NOCIL
+61,Net working cap to sales,12  Mar-16*,28.9,NOCIL
+62,Current ratio,12  Mar-16*,2.9,NOCIL
+63,Inventory Days,12  Mar-16*,68.0,NOCIL
+64,Debtors Days,12  Mar-16*,77.0,NOCIL
+65,Net fixed assets,12  Mar-16*,5550.0,NOCIL
+66,Share capital,12  Mar-16*,1608.0,NOCIL
+67,"""Free"" reserves",12  Mar-16*,6084.0,NOCIL
+68,Net worth,12  Mar-16*,7692.0,NOCIL
+69,Long term debt,12  Mar-16*,150.0,NOCIL
+70,Total assets,12  Mar-16*,10138.0,NOCIL
+71,Interest coverage,12  Mar-16*,13.7,NOCIL
+72,Debt to equity ratio,12  Mar-16*,0.0,NOCIL
+73,Sales to assets ratio,12  Mar-16*,0.7,NOCIL
+74,Return on assets,12  Mar-16*,8.6,NOCIL
+75,Return on equity,12  Mar-16*,10.2,NOCIL
+76,Return on capital,12  Mar-16*,16.4,NOCIL
+77,Exports to sales,12  Mar-16*,27.8,NOCIL
+78,Imports to sales,12  Mar-16*,15.9,NOCIL
+79,Exports (fob),12  Mar-16*,1988.0,NOCIL
+80,Imports (cif),12  Mar-16*,1137.0,NOCIL
+81,Fx inflow,12  Mar-16*,1988.0,NOCIL
+82,Fx outflow,12  Mar-16*,1157.0,NOCIL
+83,Net fx,12  Mar-16*,831.0,NOCIL
+84,From Operations,12  Mar-16*,1704.0,NOCIL
+85,From Investments,12  Mar-16*,-123.0,NOCIL
+86,From Financial Activity,12  Mar-16*,-1508.0,NOCIL
+87,Net Cashflow,12  Mar-16*,73.0,NOCIL
+88,Net Sales,12  Mar-17*,7422.0,NOCIL
+89,Other income,12  Mar-17*,95.0,NOCIL
+90,Total revenues,12  Mar-17*,7517.0,NOCIL
+91,Gross profit,12  Mar-17*,1592.0,NOCIL
+92,Depreciation,12  Mar-17*,197.0,NOCIL
+93,Interest,12  Mar-17*,22.0,NOCIL
+94,Profit before tax,12  Mar-17*,1468.0,NOCIL
+95,Minority Interest,12  Mar-17*,0.0,NOCIL
+96,Prior Period Items,12  Mar-17*,0.0,NOCIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NOCIL
+98,Tax,12  Mar-17*,497.0,NOCIL
+99,Profit after tax,12  Mar-17*,971.0,NOCIL
+100,Gross profit margin,12  Mar-17*,21.5,NOCIL
+101,Effective tax rate,12  Mar-17*,33.8,NOCIL
+102,Net profit margin,12  Mar-17*,13.1,NOCIL
+103,Current assets,12  Mar-17*,4171.0,NOCIL
+104,Current liabilities,12  Mar-17*,1195.0,NOCIL
+105,Net working cap to sales,12  Mar-17*,40.1,NOCIL
+106,Current ratio,12  Mar-17*,3.5,NOCIL
+107,Inventory Days,12  Mar-17*,56.0,NOCIL
+108,Debtors Days,12  Mar-17*,82.0,NOCIL
+109,Net fixed assets,12  Mar-17*,5470.0,NOCIL
+110,Share capital,12  Mar-17*,1636.0,NOCIL
+111,"""Free"" reserves",12  Mar-17*,7496.0,NOCIL
+112,Net worth,12  Mar-17*,9131.0,NOCIL
+113,Long term debt,12  Mar-17*,50.0,NOCIL
+114,Total assets,12  Mar-17*,11609.0,NOCIL
+115,Interest coverage,12  Mar-17*,67.1,NOCIL
+116,Debt to equity ratio,12  Mar-17*,0.0,NOCIL
+117,Sales to assets ratio,12  Mar-17*,0.6,NOCIL
+118,Return on assets,12  Mar-17*,8.6,NOCIL
+119,Return on equity,12  Mar-17*,10.6,NOCIL
+120,Return on capital,12  Mar-17*,16.2,NOCIL
+121,Exports to sales,12  Mar-17*,29.3,NOCIL
+122,Imports to sales,12  Mar-17*,14.7,NOCIL
+123,Exports (fob),12  Mar-17*,2175.0,NOCIL
+124,Imports (cif),12  Mar-17*,1091.0,NOCIL
+125,Fx inflow,12  Mar-17*,2175.0,NOCIL
+126,Fx outflow,12  Mar-17*,1111.0,NOCIL
+127,Net fx,12  Mar-17*,1064.0,NOCIL
+128,From Operations,12  Mar-17*,1422.0,NOCIL
+129,From Investments,12  Mar-17*,-96.0,NOCIL
+130,From Financial Activity,12  Mar-17*,-306.0,NOCIL
+131,Net Cashflow,12  Mar-17*,1011.0,NOCIL
+132,Net Sales,12  Mar-18*,9676.0,NOCIL
+133,Other income,12  Mar-18*,146.0,NOCIL
+134,Total revenues,12  Mar-18*,9822.0,NOCIL
+135,Gross profit,12  Mar-18*,2654.0,NOCIL
+136,Depreciation,12  Mar-18*,240.0,NOCIL
+137,Interest,12  Mar-18*,12.0,NOCIL
+138,Profit before tax,12  Mar-18*,2547.0,NOCIL
+139,Minority Interest,12  Mar-18*,0.0,NOCIL
+140,Prior Period Items,12  Mar-18*,0.0,NOCIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NOCIL
+142,Tax,12  Mar-18*,848.0,NOCIL
+143,Profit after tax,12  Mar-18*,1699.0,NOCIL
+144,Gross profit margin,12  Mar-18*,27.4,NOCIL
+145,Effective tax rate,12  Mar-18*,33.3,NOCIL
+146,Net profit margin,12  Mar-18*,17.6,NOCIL
+147,Current assets,12  Mar-18*,6732.0,NOCIL
+148,Current liabilities,12  Mar-18*,1644.0,NOCIL
+149,Net working cap to sales,12  Mar-18*,52.6,NOCIL
+150,Current ratio,12  Mar-18*,4.1,NOCIL
+151,Inventory Days,12  Mar-18*,59.0,NOCIL
+152,Debtors Days,12  Mar-18*,92.0,NOCIL
+153,Net fixed assets,12  Mar-18*,5702.0,NOCIL
+154,Share capital,12  Mar-18*,1645.0,NOCIL
+155,"""Free"" reserves",12  Mar-18*,8822.0,NOCIL
+156,Net worth,12  Mar-18*,10467.0,NOCIL
+157,Long term debt,12  Mar-18*,0.0,NOCIL
+158,Total assets,12  Mar-18*,13311.0,NOCIL
+159,Interest coverage,12  Mar-18*,209.8,NOCIL
+160,Debt to equity ratio,12  Mar-18*,0.0,NOCIL
+161,Sales to assets ratio,12  Mar-18*,0.7,NOCIL
+162,Return on assets,12  Mar-18*,12.9,NOCIL
+163,Return on equity,12  Mar-18*,16.2,NOCIL
+164,Return on capital,12  Mar-18*,24.5,NOCIL
+165,Exports to sales,12  Mar-18*,26.2,NOCIL
+166,Imports to sales,12  Mar-18*,20.0,NOCIL
+167,Exports (fob),12  Mar-18*,2540.0,NOCIL
+168,Imports (cif),12  Mar-18*,1940.0,NOCIL
+169,Fx inflow,12  Mar-18*,2540.0,NOCIL
+170,Fx outflow,12  Mar-18*,1963.0,NOCIL
+171,Net fx,12  Mar-18*,577.0,NOCIL
+172,From Operations,12  Mar-18*,1023.0,NOCIL
+173,From Investments,12  Mar-18*,-1415.0,NOCIL
+174,From Financial Activity,12  Mar-18*,-426.0,NOCIL
+175,Net Cashflow,12  Mar-18*,-816.0,NOCIL
+176,Net Sales,12  Mar-19*,10429.0,NOCIL
+177,Other income,12  Mar-19*,100.0,NOCIL
+178,Total revenues,12  Mar-19*,10529.0,NOCIL
+179,Gross profit,12  Mar-19*,2927.0,NOCIL
+180,Depreciation,12  Mar-19*,243.0,NOCIL
+181,Interest,12  Mar-19*,6.0,NOCIL
+182,Profit before tax,12  Mar-19*,2777.0,NOCIL
+183,Minority Interest,12  Mar-19*,0.0,NOCIL
+184,Prior Period Items,12  Mar-19*,0.0,NOCIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NOCIL
+186,Tax,12  Mar-19*,929.0,NOCIL
+187,Profit after tax,12  Mar-19*,1849.0,NOCIL
+188,Gross profit margin,12  Mar-19*,28.1,NOCIL
+189,Effective tax rate,12  Mar-19*,33.4,NOCIL
+190,Net profit margin,12  Mar-19*,17.7,NOCIL
+191,Current assets,12  Mar-19*,5838.0,NOCIL
+192,Current liabilities,12  Mar-19*,1548.0,NOCIL
+193,Net working cap to sales,12  Mar-19*,41.1,NOCIL
+194,Current ratio,12  Mar-19*,3.8,NOCIL
+195,Inventory Days,12  Mar-19*,60.0,NOCIL
+196,Debtors Days,12  Mar-19*,81.0,NOCIL
+197,Net fixed assets,12  Mar-19*,7883.0,NOCIL
+198,Share capital,12  Mar-19*,1654.0,NOCIL
+199,"""Free"" reserves",12  Mar-19*,9976.0,NOCIL
+200,Net worth,12  Mar-19*,11630.0,NOCIL
+201,Long term debt,12  Mar-19*,0.0,NOCIL
+202,Total assets,12  Mar-19*,14423.0,NOCIL
+203,Interest coverage,12  Mar-19*,441.9,NOCIL
+204,Debt to equity ratio,12  Mar-19*,0.0,NOCIL
+205,Sales to assets ratio,12  Mar-19*,0.7,NOCIL
+206,Return on assets,12  Mar-19*,12.9,NOCIL
+207,Return on equity,12  Mar-19*,15.9,NOCIL
+208,Return on capital,12  Mar-19*,23.9,NOCIL
+209,Exports to sales,12  Mar-19*,30.2,NOCIL
+210,Imports to sales,12  Mar-19*,21.8,NOCIL
+211,Exports (fob),12  Mar-19*,3150.0,NOCIL
+212,Imports (cif),12  Mar-19*,2276.0,NOCIL
+213,Fx inflow,12  Mar-19*,3150.0,NOCIL
+214,Fx outflow,12  Mar-19*,2300.0,NOCIL
+215,Net fx,12  Mar-19*,850.0,NOCIL
+216,From Operations,12  Mar-19*,1641.0,NOCIL
+217,From Investments,12  Mar-19*,-1007.0,NOCIL
+218,From Financial Activity,12  Mar-19*,-502.0,NOCIL
+219,Net Cashflow,12  Mar-19*,127.0,NOCIL

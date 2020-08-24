@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,9772.0,NAVN
+1,Other income,12  Mar-15*,28.0,NAVN
+2,Total revenues,12  Mar-15*,9800.0,NAVN
+3,Gross profit,12  Mar-15*,2367.0,NAVN
+4,Depreciation,12  Mar-15*,308.0,NAVN
+5,Interest,12  Mar-15*,91.0,NAVN
+6,Profit before tax,12  Mar-15*,1997.0,NAVN
+7,Minority Interest,12  Mar-15*,0.0,NAVN
+8,Prior Period Items,12  Mar-15*,0.0,NAVN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NAVN
+10,Tax,12  Mar-15*,693.0,NAVN
+11,Profit after tax,12  Mar-15*,1304.0,NAVN
+12,Gross profit margin,12  Mar-15*,24.2,NAVN
+13,Effective tax rate,12  Mar-15*,34.7,NAVN
+14,Net profit margin,12  Mar-15*,13.3,NAVN
+15,Current assets,12  Mar-15*,5808.0,NAVN
+16,Current liabilities,12  Mar-15*,2702.0,NAVN
+17,Net working cap to sales,12  Mar-15*,31.8,NAVN
+18,Current ratio,12  Mar-15*,2.1,NAVN
+19,Inventory Days,12  Mar-15*,130.0,NAVN
+20,Debtors Days,12  Mar-15*,70.0,NAVN
+21,Net fixed assets,12  Mar-15*,1739.0,NAVN
+22,Share capital,12  Mar-15*,476.0,NAVN
+23,"""Free"" reserves",12  Mar-15*,4942.0,NAVN
+24,Net worth,12  Mar-15*,5433.0,NAVN
+25,Long term debt,12  Mar-15*,0.0,NAVN
+26,Total assets,12  Mar-15*,8226.0,NAVN
+27,Interest coverage,12  Mar-15*,22.9,NAVN
+28,Debt to equity ratio,12  Mar-15*,0.0,NAVN
+29,Sales to assets ratio,12  Mar-15*,1.2,NAVN
+30,Return on assets,12  Mar-15*,17.0,NAVN
+31,Return on equity,12  Mar-15*,24.0,NAVN
+32,Return on capital,12  Mar-15*,38.4,NAVN
+33,Exports to sales,12  Mar-15*,17.4,NAVN
+34,Imports to sales,12  Mar-15*,1.4,NAVN
+35,Exports (fob),12  Mar-15*,1697.0,NAVN
+36,Imports (cif),12  Mar-15*,141.0,NAVN
+37,Fx inflow,12  Mar-15*,1702.0,NAVN
+38,Fx outflow,12  Mar-15*,222.0,NAVN
+39,Net fx,12  Mar-15*,1480.0,NAVN
+40,From Operations,12  Mar-15*,1622.0,NAVN
+41,From Investments,12  Mar-15*,-81.0,NAVN
+42,From Financial Activity,12  Mar-15*,-1555.0,NAVN
+43,Net Cashflow,12  Mar-15*,-14.0,NAVN
+44,Net Sales,12  Mar-16*,9493.0,NAVN
+45,Other income,12  Mar-16*,167.0,NAVN
+46,Total revenues,12  Mar-16*,9660.0,NAVN
+47,Gross profit,12  Mar-16*,2139.0,NAVN
+48,Depreciation,12  Mar-16*,297.0,NAVN
+49,Interest,12  Mar-16*,36.0,NAVN
+50,Profit before tax,12  Mar-16*,1974.0,NAVN
+51,Minority Interest,12  Mar-16*,0.0,NAVN
+52,Prior Period Items,12  Mar-16*,-202.0,NAVN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NAVN
+54,Tax,12  Mar-16*,697.0,NAVN
+55,Profit after tax,12  Mar-16*,1075.0,NAVN
+56,Gross profit margin,12  Mar-16*,22.5,NAVN
+57,Effective tax rate,12  Mar-16*,35.3,NAVN
+58,Net profit margin,12  Mar-16*,11.3,NAVN
+59,Current assets,12  Mar-16*,5253.0,NAVN
+60,Current liabilities,12  Mar-16*,1730.0,NAVN
+61,Net working cap to sales,12  Mar-16*,37.1,NAVN
+62,Current ratio,12  Mar-16*,3.0,NAVN
+63,Inventory Days,12  Mar-16*,118.0,NAVN
+64,Debtors Days,12  Mar-16*,72.0,NAVN
+65,Net fixed assets,12  Mar-16*,1763.0,NAVN
+66,Share capital,12  Mar-16*,476.0,NAVN
+67,"""Free"" reserves",12  Mar-16*,5354.0,NAVN
+68,Net worth,12  Mar-16*,5833.0,NAVN
+69,Long term debt,12  Mar-16*,0.0,NAVN
+70,Total assets,12  Mar-16*,7694.0,NAVN
+71,Interest coverage,12  Mar-16*,56.6,NAVN
+72,Debt to equity ratio,12  Mar-16*,0.0,NAVN
+73,Sales to assets ratio,12  Mar-16*,1.2,NAVN
+74,Return on assets,12  Mar-16*,14.4,NAVN
+75,Return on equity,12  Mar-16*,18.4,NAVN
+76,Return on capital,12  Mar-16*,31.0,NAVN
+77,Exports to sales,12  Mar-16*,18.1,NAVN
+78,Imports to sales,12  Mar-16*,1.2,NAVN
+79,Exports (fob),12  Mar-16*,1717.0,NAVN
+80,Imports (cif),12  Mar-16*,116.0,NAVN
+81,Fx inflow,12  Mar-16*,1724.0,NAVN
+82,Fx outflow,12  Mar-16*,204.0,NAVN
+83,Net fx,12  Mar-16*,1520.0,NAVN
+84,From Operations,12  Mar-16*,1679.0,NAVN
+85,From Investments,12  Mar-16*,-40.0,NAVN
+86,From Financial Activity,12  Mar-16*,-1699.0,NAVN
+87,Net Cashflow,12  Mar-16*,-59.0,NAVN
+88,Net Sales,12  Mar-17*,11677.0,NAVN
+89,Other income,12  Mar-17*,223.0,NAVN
+90,Total revenues,12  Mar-17*,11900.0,NAVN
+91,Gross profit,12  Mar-17*,2741.0,NAVN
+92,Depreciation,12  Mar-17*,284.0,NAVN
+93,Interest,12  Mar-17*,43.0,NAVN
+94,Profit before tax,12  Mar-17*,2638.0,NAVN
+95,Minority Interest,12  Mar-17*,0.0,NAVN
+96,Prior Period Items,12  Mar-17*,0.0,NAVN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NAVN
+98,Tax,12  Mar-17*,827.0,NAVN
+99,Profit after tax,12  Mar-17*,1811.0,NAVN
+100,Gross profit margin,12  Mar-17*,23.5,NAVN
+101,Effective tax rate,12  Mar-17*,31.3,NAVN
+102,Net profit margin,12  Mar-17*,15.5,NAVN
+103,Current assets,12  Mar-17*,7079.0,NAVN
+104,Current liabilities,12  Mar-17*,3097.0,NAVN
+105,Net working cap to sales,12  Mar-17*,34.1,NAVN
+106,Current ratio,12  Mar-17*,2.3,NAVN
+107,Inventory Days,12  Mar-17*,120.0,NAVN
+108,Debtors Days,12  Mar-17*,87.0,NAVN
+109,Net fixed assets,12  Mar-17*,2152.0,NAVN
+110,Share capital,12  Mar-17*,467.0,NAVN
+111,"""Free"" reserves",12  Mar-17*,6471.0,NAVN
+112,Net worth,12  Mar-17*,6938.0,NAVN
+113,Long term debt,12  Mar-17*,6.0,NAVN
+114,Total assets,12  Mar-17*,10199.0,NAVN
+115,Interest coverage,12  Mar-17*,62.5,NAVN
+116,Debt to equity ratio,12  Mar-17*,0.0,NAVN
+117,Sales to assets ratio,12  Mar-17*,1.1,NAVN
+118,Return on assets,12  Mar-17*,18.2,NAVN
+119,Return on equity,12  Mar-17*,26.1,NAVN
+120,Return on capital,12  Mar-17*,38.6,NAVN
+121,Exports to sales,12  Mar-17*,20.5,NAVN
+122,Imports to sales,12  Mar-17*,1.3,NAVN
+123,Exports (fob),12  Mar-17*,2398.0,NAVN
+124,Imports (cif),12  Mar-17*,157.0,NAVN
+125,Fx inflow,12  Mar-17*,2414.0,NAVN
+126,Fx outflow,12  Mar-17*,264.0,NAVN
+127,Net fx,12  Mar-17*,2150.0,NAVN
+128,From Operations,12  Mar-17*,788.0,NAVN
+129,From Investments,12  Mar-17*,-787.0,NAVN
+130,From Financial Activity,12  Mar-17*,-63.0,NAVN
+131,Net Cashflow,12  Mar-17*,-62.0,NAVN
+132,Net Sales,12  Mar-18*,12040.0,NAVN
+133,Other income,12  Mar-18*,260.0,NAVN
+134,Total revenues,12  Mar-18*,12300.0,NAVN
+135,Gross profit,12  Mar-18*,2224.0,NAVN
+136,Depreciation,12  Mar-18*,307.0,NAVN
+137,Interest,12  Mar-18*,77.0,NAVN
+138,Profit before tax,12  Mar-18*,2100.0,NAVN
+139,Minority Interest,12  Mar-18*,0.0,NAVN
+140,Prior Period Items,12  Mar-18*,0.0,NAVN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NAVN
+142,Tax,12  Mar-18*,825.0,NAVN
+143,Profit after tax,12  Mar-18*,1275.0,NAVN
+144,Gross profit margin,12  Mar-18*,18.5,NAVN
+145,Effective tax rate,12  Mar-18*,39.3,NAVN
+146,Net profit margin,12  Mar-18*,10.6,NAVN
+147,Current assets,12  Mar-18*,8135.0,NAVN
+148,Current liabilities,12  Mar-18*,3848.0,NAVN
+149,Net working cap to sales,12  Mar-18*,35.6,NAVN
+150,Current ratio,12  Mar-18*,2.1,NAVN
+151,Inventory Days,12  Mar-18*,130.0,NAVN
+152,Debtors Days,12  Mar-18*,96.0,NAVN
+153,Net fixed assets,12  Mar-18*,2872.0,NAVN
+154,Share capital,12  Mar-18*,467.0,NAVN
+155,"""Free"" reserves",12  Mar-18*,7050.0,NAVN
+156,Net worth,12  Mar-18*,7517.0,NAVN
+157,Long term debt,12  Mar-18*,0.0,NAVN
+158,Total assets,12  Mar-18*,11536.0,NAVN
+159,Interest coverage,12  Mar-18*,28.2,NAVN
+160,Debt to equity ratio,12  Mar-18*,0.0,NAVN
+161,Sales to assets ratio,12  Mar-18*,1.0,NAVN
+162,Return on assets,12  Mar-18*,11.7,NAVN
+163,Return on equity,12  Mar-18*,17.0,NAVN
+164,Return on capital,12  Mar-18*,29.0,NAVN
+165,Exports to sales,12  Mar-18*,0.0,NAVN
+166,Imports to sales,12  Mar-18*,0.0,NAVN
+167,Exports (fob),12  Mar-18*,0.0,NAVN
+168,Imports (cif),12  Mar-18*,0.0,NAVN
+169,Fx inflow,12  Mar-18*,2400.0,NAVN
+170,Fx outflow,12  Mar-18*,348.0,NAVN
+171,Net fx,12  Mar-18*,2053.0,NAVN
+172,From Operations,12  Mar-18*,480.0,NAVN
+173,From Investments,12  Mar-18*,-536.0,NAVN
+174,From Financial Activity,12  Mar-18*,-790.0,NAVN
+175,Net Cashflow,12  Mar-18*,-846.0,NAVN
+176,Net Sales,12  Mar-19*,14450.0,NAVN
+177,Other income,12  Mar-19*,169.0,NAVN
+178,Total revenues,12  Mar-19*,14619.0,NAVN
+179,Gross profit,12  Mar-19*,2708.0,NAVN
+180,Depreciation,12  Mar-19*,327.0,NAVN
+181,Interest,12  Mar-19*,153.0,NAVN
+182,Profit before tax,12  Mar-19*,2397.0,NAVN
+183,Minority Interest,12  Mar-19*,0.0,NAVN
+184,Prior Period Items,12  Mar-19*,0.0,NAVN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NAVN
+186,Tax,12  Mar-19*,925.0,NAVN
+187,Profit after tax,12  Mar-19*,1472.0,NAVN
+188,Gross profit margin,12  Mar-19*,18.7,NAVN
+189,Effective tax rate,12  Mar-19*,38.6,NAVN
+190,Net profit margin,12  Mar-19*,10.2,NAVN
+191,Current assets,12  Mar-19*,9266.0,NAVN
+192,Current liabilities,12  Mar-19*,5078.0,NAVN
+193,Net working cap to sales,12  Mar-19*,29.0,NAVN
+194,Current ratio,12  Mar-19*,1.8,NAVN
+195,Inventory Days,12  Mar-19*,139.0,NAVN
+196,Debtors Days,12  Mar-19*,74.0,NAVN
+197,Net fixed assets,12  Mar-19*,3340.0,NAVN
+198,Share capital,12  Mar-19*,458.0,NAVN
+199,"""Free"" reserves",12  Mar-19*,7451.0,NAVN
+200,Net worth,12  Mar-19*,7909.0,NAVN
+201,Long term debt,12  Mar-19*,4.0,NAVN
+202,Total assets,12  Mar-19*,13176.0,NAVN
+203,Interest coverage,12  Mar-19*,16.6,NAVN
+204,Debt to equity ratio,12  Mar-19*,0.0,NAVN
+205,Sales to assets ratio,12  Mar-19*,1.1,NAVN
+206,Return on assets,12  Mar-19*,12.3,NAVN
+207,Return on equity,12  Mar-19*,18.6,NAVN
+208,Return on capital,12  Mar-19*,32.2,NAVN
+209,Exports to sales,12  Mar-19*,0.0,NAVN
+210,Imports to sales,12  Mar-19*,0.0,NAVN
+211,Exports (fob),12  Mar-19*,0.0,NAVN
+212,Imports (cif),12  Mar-19*,0.0,NAVN
+213,Fx inflow,12  Mar-19*,3781.0,NAVN
+214,Fx outflow,12  Mar-19*,257.0,NAVN
+215,Net fx,12  Mar-19*,3525.0,NAVN
+216,From Operations,12  Mar-19*,953.0,NAVN
+217,From Investments,12  Mar-19*,-431.0,NAVN
+218,From Financial Activity,12  Mar-19*,-113.0,NAVN
+219,Net Cashflow,12  Mar-19*,407.0,NAVN

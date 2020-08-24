@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,24018.0,ELETST
+1,Other income,12  Mar-15*,622.0,ELETST
+2,Total revenues,12  Mar-15*,24640.0,ELETST
+3,Gross profit,12  Mar-15*,3085.0,ELETST
+4,Depreciation,12  Mar-15*,706.0,ELETST
+5,Interest,12  Mar-15*,1566.0,ELETST
+6,Profit before tax,12  Mar-15*,1435.0,ELETST
+7,Minority Interest,12  Mar-15*,-1.0,ELETST
+8,Prior Period Items,12  Mar-15*,-2322.0,ELETST
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ELETST
+10,Tax,12  Mar-15*,272.0,ELETST
+11,Profit after tax,12  Mar-15*,-1161.0,ELETST
+12,Gross profit margin,12  Mar-15*,12.8,ELETST
+13,Effective tax rate,12  Mar-15*,19.0,ELETST
+14,Net profit margin,12  Mar-15*,-4.8,ELETST
+15,Current assets,12  Mar-15*,19920.0,ELETST
+16,Current liabilities,12  Mar-15*,18065.0,ELETST
+17,Net working cap to sales,12  Mar-15*,7.7,ELETST
+18,Current ratio,12  Mar-15*,1.1,ELETST
+19,Inventory Days,12  Mar-15*,105.0,ELETST
+20,Debtors Days,12  Mar-15*,78.0,ELETST
+21,Net fixed assets,12  Mar-15*,24250.0,ELETST
+22,Share capital,12  Mar-15*,357.0,ELETST
+23,"""Free"" reserves",12  Mar-15*,13834.0,ELETST
+24,Net worth,12  Mar-15*,20704.0,ELETST
+25,Long term debt,12  Mar-15*,12967.0,ELETST
+26,Total assets,12  Mar-15*,52177.0,ELETST
+27,Interest coverage,12  Mar-15*,1.9,ELETST
+28,Debt to equity ratio,12  Mar-15*,0.6,ELETST
+29,Sales to assets ratio,12  Mar-15*,0.5,ELETST
+30,Return on assets,12  Mar-15*,0.8,ELETST
+31,Return on equity,12  Mar-15*,-5.6,ELETST
+32,Return on capital,12  Mar-15*,2.0,ELETST
+33,Exports to sales,12  Mar-15*,28.6,ELETST
+34,Imports to sales,12  Mar-15*,14.8,ELETST
+35,Exports (fob),12  Mar-15*,6880.0,ELETST
+36,Imports (cif),12  Mar-15*,3550.0,ELETST
+37,Fx inflow,12  Mar-15*,6974.0,ELETST
+38,Fx outflow,12  Mar-15*,5275.0,ELETST
+39,Net fx,12  Mar-15*,1699.0,ELETST
+40,From Operations,12  Mar-15*,4433.0,ELETST
+41,From Investments,12  Mar-15*,-2160.0,ELETST
+42,From Financial Activity,12  Mar-15*,-2355.0,ELETST
+43,Net Cashflow,12  Mar-15*,6.0,ELETST
+44,Net Sales,12  Mar-16*,21603.0,ELETST
+45,Other income,12  Mar-16*,201.0,ELETST
+46,Total revenues,12  Mar-16*,21804.0,ELETST
+47,Gross profit,12  Mar-16*,2882.0,ELETST
+48,Depreciation,12  Mar-16*,660.0,ELETST
+49,Interest,12  Mar-16*,1812.0,ELETST
+50,Profit before tax,12  Mar-16*,611.0,ELETST
+51,Minority Interest,12  Mar-16*,0.0,ELETST
+52,Prior Period Items,12  Mar-16*,-719.0,ELETST
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ELETST
+54,Tax,12  Mar-16*,224.0,ELETST
+55,Profit after tax,12  Mar-16*,-332.0,ELETST
+56,Gross profit margin,12  Mar-16*,13.3,ELETST
+57,Effective tax rate,12  Mar-16*,36.7,ELETST
+58,Net profit margin,12  Mar-16*,-1.5,ELETST
+59,Current assets,12  Mar-16*,18088.0,ELETST
+60,Current liabilities,12  Mar-16*,16119.0,ELETST
+61,Net working cap to sales,12  Mar-16*,9.1,ELETST
+62,Current ratio,12  Mar-16*,1.1,ELETST
+63,Inventory Days,12  Mar-16*,100.0,ELETST
+64,Debtors Days,12  Mar-16*,91.0,ELETST
+65,Net fixed assets,12  Mar-16*,24209.0,ELETST
+66,Share capital,12  Mar-16*,357.0,ELETST
+67,"""Free"" reserves",12  Mar-16*,13705.0,ELETST
+68,Net worth,12  Mar-16*,20157.0,ELETST
+69,Long term debt,12  Mar-16*,11602.0,ELETST
+70,Total assets,12  Mar-16*,49811.0,ELETST
+71,Interest coverage,12  Mar-16*,1.3,ELETST
+72,Debt to equity ratio,12  Mar-16*,0.6,ELETST
+73,Sales to assets ratio,12  Mar-16*,0.4,ELETST
+74,Return on assets,12  Mar-16*,3.0,ELETST
+75,Return on equity,12  Mar-16*,-1.6,ELETST
+76,Return on capital,12  Mar-16*,5.4,ELETST
+77,Exports to sales,12  Mar-16*,34.0,ELETST
+78,Imports to sales,12  Mar-16*,16.9,ELETST
+79,Exports (fob),12  Mar-16*,7352.0,ELETST
+80,Imports (cif),12  Mar-16*,3650.0,ELETST
+81,Fx inflow,12  Mar-16*,7360.0,ELETST
+82,Fx outflow,12  Mar-16*,4928.0,ELETST
+83,Net fx,12  Mar-16*,2432.0,ELETST
+84,From Operations,12  Mar-16*,5269.0,ELETST
+85,From Investments,12  Mar-16*,736.0,ELETST
+86,From Financial Activity,12  Mar-16*,-5916.0,ELETST
+87,Net Cashflow,12  Mar-16*,7.0,ELETST
+88,Net Sales,12  Mar-17*,21176.0,ELETST
+89,Other income,12  Mar-17*,1005.0,ELETST
+90,Total revenues,12  Mar-17*,22181.0,ELETST
+91,Gross profit,12  Mar-17*,2882.0,ELETST
+92,Depreciation,12  Mar-17*,669.0,ELETST
+93,Interest,12  Mar-17*,2104.0,ELETST
+94,Profit before tax,12  Mar-17*,1114.0,ELETST
+95,Minority Interest,12  Mar-17*,0.0,ELETST
+96,Prior Period Items,12  Mar-17*,664.0,ELETST
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ELETST
+98,Tax,12  Mar-17*,338.0,ELETST
+99,Profit after tax,12  Mar-17*,1441.0,ELETST
+100,Gross profit margin,12  Mar-17*,13.6,ELETST
+101,Effective tax rate,12  Mar-17*,30.3,ELETST
+102,Net profit margin,12  Mar-17*,6.8,ELETST
+103,Current assets,12  Mar-17*,19582.0,ELETST
+104,Current liabilities,12  Mar-17*,14468.0,ELETST
+105,Net working cap to sales,12  Mar-17*,24.1,ELETST
+106,Current ratio,12  Mar-17*,1.4,ELETST
+107,Inventory Days,12  Mar-17*,109.0,ELETST
+108,Debtors Days,12  Mar-17*,79.0,ELETST
+109,Net fixed assets,12  Mar-17*,29165.0,ELETST
+110,Share capital,12  Mar-17*,357.0,ELETST
+111,"""Free"" reserves",12  Mar-17*,23492.0,ELETST
+112,Net worth,12  Mar-17*,23849.0,ELETST
+113,Long term debt,12  Mar-17*,11350.0,ELETST
+114,Total assets,12  Mar-17*,55194.0,ELETST
+115,Interest coverage,12  Mar-17*,1.5,ELETST
+116,Debt to equity ratio,12  Mar-17*,0.5,ELETST
+117,Sales to assets ratio,12  Mar-17*,0.4,ELETST
+118,Return on assets,12  Mar-17*,6.4,ELETST
+119,Return on equity,12  Mar-17*,6.0,ELETST
+120,Return on capital,12  Mar-17*,11.0,ELETST
+121,Exports to sales,12  Mar-17*,0.0,ELETST
+122,Imports to sales,12  Mar-17*,0.0,ELETST
+123,Exports (fob),12  Mar-17*,0.0,ELETST
+124,Imports (cif),12  Mar-17*,0.0,ELETST
+125,Fx inflow,12  Mar-17*,4802.0,ELETST
+126,Fx outflow,12  Mar-17*,5185.0,ELETST
+127,Net fx,12  Mar-17*,-383.0,ELETST
+128,From Operations,12  Mar-17*,4213.0,ELETST
+129,From Investments,12  Mar-17*,719.0,ELETST
+130,From Financial Activity,12  Mar-17*,-3315.0,ELETST
+131,Net Cashflow,12  Mar-17*,1617.0,ELETST
+132,Net Sales,12  Mar-18*,22684.0,ELETST
+133,Other income,12  Mar-18*,811.0,ELETST
+134,Total revenues,12  Mar-18*,23495.0,ELETST
+135,Gross profit,12  Mar-18*,2561.0,ELETST
+136,Depreciation,12  Mar-18*,624.0,ELETST
+137,Interest,12  Mar-18*,2103.0,ELETST
+138,Profit before tax,12  Mar-18*,645.0,ELETST
+139,Minority Interest,12  Mar-18*,0.0,ELETST
+140,Prior Period Items,12  Mar-18*,586.0,ELETST
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ELETST
+142,Tax,12  Mar-18*,-11.0,ELETST
+143,Profit after tax,12  Mar-18*,1242.0,ELETST
+144,Gross profit margin,12  Mar-18*,11.3,ELETST
+145,Effective tax rate,12  Mar-18*,-1.7,ELETST
+146,Net profit margin,12  Mar-18*,5.5,ELETST
+147,Current assets,12  Mar-18*,18208.0,ELETST
+148,Current liabilities,12  Mar-18*,15609.0,ELETST
+149,Net working cap to sales,12  Mar-18*,11.5,ELETST
+150,Current ratio,12  Mar-18*,1.2,ELETST
+151,Inventory Days,12  Mar-18*,98.0,ELETST
+152,Debtors Days,12  Mar-18*,84.0,ELETST
+153,Net fixed assets,12  Mar-18*,28794.0,ELETST
+154,Share capital,12  Mar-18*,357.0,ELETST
+155,"""Free"" reserves",12  Mar-18*,24430.0,ELETST
+156,Net worth,12  Mar-18*,24787.0,ELETST
+157,Long term debt,12  Mar-18*,8486.0,ELETST
+158,Total assets,12  Mar-18*,54005.0,ELETST
+159,Interest coverage,12  Mar-18*,1.3,ELETST
+160,Debt to equity ratio,12  Mar-18*,0.3,ELETST
+161,Sales to assets ratio,12  Mar-18*,0.4,ELETST
+162,Return on assets,12  Mar-18*,6.2,ELETST
+163,Return on equity,12  Mar-18*,5.0,ELETST
+164,Return on capital,12  Mar-18*,10.0,ELETST
+165,Exports to sales,12  Mar-18*,0.0,ELETST
+166,Imports to sales,12  Mar-18*,0.0,ELETST
+167,Exports (fob),12  Mar-18*,0.0,ELETST
+168,Imports (cif),12  Mar-18*,0.0,ELETST
+169,Fx inflow,12  Mar-18*,5614.0,ELETST
+170,Fx outflow,12  Mar-18*,4708.0,ELETST
+171,Net fx,12  Mar-18*,906.0,ELETST
+172,From Operations,12  Mar-18*,4505.0,ELETST
+173,From Investments,12  Mar-18*,-690.0,ELETST
+174,From Financial Activity,12  Mar-18*,-5745.0,ELETST
+175,Net Cashflow,12  Mar-18*,-1931.0,ELETST
+176,Net Sales,12  Mar-19*,26994.0,ELETST
+177,Other income,12  Mar-19*,569.0,ELETST
+178,Total revenues,12  Mar-19*,27564.0,ELETST
+179,Gross profit,12  Mar-19*,3947.0,ELETST
+180,Depreciation,12  Mar-19*,585.0,ELETST
+181,Interest,12  Mar-19*,2347.0,ELETST
+182,Profit before tax,12  Mar-19*,1584.0,ELETST
+183,Minority Interest,12  Mar-19*,0.0,ELETST
+184,Prior Period Items,12  Mar-19*,462.0,ELETST
+185,Extraordinary Inc (Exp),12  Mar-19*,-1840.0,ELETST
+186,Tax,12  Mar-19*,-180.0,ELETST
+187,Profit after tax,12  Mar-19*,387.0,ELETST
+188,Gross profit margin,12  Mar-19*,14.6,ELETST
+189,Effective tax rate,12  Mar-19*,-11.4,ELETST
+190,Net profit margin,12  Mar-19*,1.4,ELETST
+191,Current assets,12  Mar-19*,18167.0,ELETST
+192,Current liabilities,12  Mar-19*,14731.0,ELETST
+193,Net working cap to sales,12  Mar-19*,12.7,ELETST
+194,Current ratio,12  Mar-19*,1.2,ELETST
+195,Inventory Days,12  Mar-19*,102.0,ELETST
+196,Debtors Days,12  Mar-19*,82.0,ELETST
+197,Net fixed assets,12  Mar-19*,179699.0,ELETST
+198,Share capital,12  Mar-19*,406.0,ELETST
+199,"""Free"" reserves",12  Mar-19*,25980.0,ELETST
+200,Net worth,12  Mar-19*,26385.0,ELETST
+201,Long term debt,12  Mar-19*,8383.0,ELETST
+202,Total assets,12  Mar-19*,54214.0,ELETST
+203,Interest coverage,12  Mar-19*,1.7,ELETST
+204,Debt to equity ratio,12  Mar-19*,0.3,ELETST
+205,Sales to assets ratio,12  Mar-19*,0.5,ELETST
+206,Return on assets,12  Mar-19*,5.0,ELETST
+207,Return on equity,12  Mar-19*,1.5,ELETST
+208,Return on capital,12  Mar-19*,7.3,ELETST
+209,Exports to sales,12  Mar-19*,0.0,ELETST
+210,Imports to sales,12  Mar-19*,0.0,ELETST
+211,Exports (fob),12  Mar-19*,0.0,ELETST
+212,Imports (cif),12  Mar-19*,0.0,ELETST
+213,Fx inflow,12  Mar-19*,10468.0,ELETST
+214,Fx outflow,12  Mar-19*,6911.0,ELETST
+215,Net fx,12  Mar-19*,3557.0,ELETST
+216,From Operations,12  Mar-19*,-462.0,ELETST
+217,From Investments,12  Mar-19*,332.0,ELETST
+218,From Financial Activity,12  Mar-19*,-52.0,ELETST
+219,Net Cashflow,12  Mar-19*,-181.0,ELETST

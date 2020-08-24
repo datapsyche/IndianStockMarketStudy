@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,196658.0,JPAS
+1,Other income,12  Mar-15*,1459.0,JPAS
+2,Total revenues,12  Mar-15*,198117.0,JPAS
+3,Gross profit,12  Mar-15*,61342.0,JPAS
+4,Depreciation,12  Mar-15*,16941.0,JPAS
+5,Interest,12  Mar-15*,72287.0,JPAS
+6,Profit before tax,12  Mar-15*,-26427.0,JPAS
+7,Minority Interest,12  Mar-15*,-1839.0,JPAS
+8,Prior Period Items,12  Mar-15*,156.0,JPAS
+9,Extraordinary Inc (Exp),12  Mar-15*,5136.0,JPAS
+10,Tax,12  Mar-15*,-5623.0,JPAS
+11,Profit after tax,12  Mar-15*,-17351.0,JPAS
+12,Gross profit margin,12  Mar-15*,31.2,JPAS
+13,Effective tax rate,12  Mar-15*,21.3,JPAS
+14,Net profit margin,12  Mar-15*,-8.8,JPAS
+15,Current assets,12  Mar-15*,263970.0,JPAS
+16,Current liabilities,12  Mar-15*,290225.0,JPAS
+17,Net working cap to sales,12  Mar-15*,-13.4,JPAS
+18,Current ratio,12  Mar-15*,0.9,JPAS
+19,Inventory Days,12  Mar-15*,262.0,JPAS
+20,Debtors Days,12  Mar-15*,71.0,JPAS
+21,Net fixed assets,12  Mar-15*,330264.0,JPAS
+22,Share capital,12  Mar-15*,4865.0,JPAS
+23,"""Free"" reserves",12  Mar-15*,134200.0,JPAS
+24,Net worth,12  Mar-15*,139065.0,JPAS
+25,Long term debt,12  Mar-15*,553989.0,JPAS
+26,Total assets,12  Mar-15*,1101461.0,JPAS
+27,Interest coverage,12  Mar-15*,0.6,JPAS
+28,Debt to equity ratio,12  Mar-15*,4.0,JPAS
+29,Sales to assets ratio,12  Mar-15*,0.2,JPAS
+30,Return on assets,12  Mar-15*,5.0,JPAS
+31,Return on equity,12  Mar-15*,-12.5,JPAS
+32,Return on capital,12  Mar-15*,7.1,JPAS
+33,Exports to sales,12  Mar-15*,0.1,JPAS
+34,Imports to sales,12  Mar-15*,3.0,JPAS
+35,Exports (fob),12  Mar-15*,113.0,JPAS
+36,Imports (cif),12  Mar-15*,5832.0,JPAS
+37,Fx inflow,12  Mar-15*,12047.0,JPAS
+38,Fx outflow,12  Mar-15*,8287.0,JPAS
+39,Net fx,12  Mar-15*,3760.0,JPAS
+40,From Operations,12  Mar-15*,36958.0,JPAS
+41,From Investments,12  Mar-15*,-36076.0,JPAS
+42,From Financial Activity,12  Mar-15*,-5182.0,JPAS
+43,Net Cashflow,12  Mar-15*,-4300.0,JPAS
+44,Net Sales,12  Mar-16*,183965.0,JPAS
+45,Other income,12  Mar-16*,1058.0,JPAS
+46,Total revenues,12  Mar-16*,185023.0,JPAS
+47,Gross profit,12  Mar-16*,49426.0,JPAS
+48,Depreciation,12  Mar-16*,18203.0,JPAS
+49,Interest,12  Mar-16*,77414.0,JPAS
+50,Profit before tax,12  Mar-16*,-45133.0,JPAS
+51,Minority Interest,12  Mar-16*,0.0,JPAS
+52,Prior Period Items,12  Mar-16*,0.0,JPAS
+53,Extraordinary Inc (Exp),12  Mar-16*,-2073.0,JPAS
+54,Tax,12  Mar-16*,-15562.0,JPAS
+55,Profit after tax,12  Mar-16*,-31644.0,JPAS
+56,Gross profit margin,12  Mar-16*,26.9,JPAS
+57,Effective tax rate,12  Mar-16*,34.5,JPAS
+58,Net profit margin,12  Mar-16*,-17.2,JPAS
+59,Current assets,12  Mar-16*,233273.0,JPAS
+60,Current liabilities,12  Mar-16*,230383.0,JPAS
+61,Net working cap to sales,12  Mar-16*,1.6,JPAS
+62,Current ratio,12  Mar-16*,1.0,JPAS
+63,Inventory Days,12  Mar-16*,267.0,JPAS
+64,Debtors Days,12  Mar-16*,84.0,JPAS
+65,Net fixed assets,12  Mar-16*,331595.0,JPAS
+66,Share capital,12  Mar-16*,4865.0,JPAS
+67,"""Free"" reserves",12  Mar-16*,120303.0,JPAS
+68,Net worth,12  Mar-16*,125168.0,JPAS
+69,Long term debt,12  Mar-16*,528611.0,JPAS
+70,Total assets,12  Mar-16*,1001873.0,JPAS
+71,Interest coverage,12  Mar-16*,0.4,JPAS
+72,Debt to equity ratio,12  Mar-16*,4.2,JPAS
+73,Sales to assets ratio,12  Mar-16*,0.2,JPAS
+74,Return on assets,12  Mar-16*,4.6,JPAS
+75,Return on equity,12  Mar-16*,-25.3,JPAS
+76,Return on capital,12  Mar-16*,4.6,JPAS
+77,Exports to sales,12  Mar-16*,0.0,JPAS
+78,Imports to sales,12  Mar-16*,1.8,JPAS
+79,Exports (fob),12  Mar-16*,20.0,JPAS
+80,Imports (cif),12  Mar-16*,3397.0,JPAS
+81,Fx inflow,12  Mar-16*,8082.0,JPAS
+82,Fx outflow,12  Mar-16*,5480.0,JPAS
+83,Net fx,12  Mar-16*,2602.0,JPAS
+84,From Operations,12  Mar-16*,66757.0,JPAS
+85,From Investments,12  Mar-16*,70003.0,JPAS
+86,From Financial Activity,12  Mar-16*,-144211.0,JPAS
+87,Net Cashflow,12  Mar-16*,-7452.0,JPAS
+88,Net Sales,12  Mar-17*,137590.0,JPAS
+89,Other income,12  Mar-17*,1443.0,JPAS
+90,Total revenues,12  Mar-17*,139034.0,JPAS
+91,Gross profit,12  Mar-17*,16377.0,JPAS
+92,Depreciation,12  Mar-17*,18883.0,JPAS
+93,Interest,12  Mar-17*,74065.0,JPAS
+94,Profit before tax,12  Mar-17*,-75128.0,JPAS
+95,Minority Interest,12  Mar-17*,1.0,JPAS
+96,Prior Period Items,12  Mar-17*,0.0,JPAS
+97,Extraordinary Inc (Exp),12  Mar-17*,-30900.0,JPAS
+98,Tax,12  Mar-17*,-11901.0,JPAS
+99,Profit after tax,12  Mar-17*,-94126.0,JPAS
+100,Gross profit margin,12  Mar-17*,11.9,JPAS
+101,Effective tax rate,12  Mar-17*,15.8,JPAS
+102,Net profit margin,12  Mar-17*,-68.4,JPAS
+103,Current assets,12  Mar-17*,183033.0,JPAS
+104,Current liabilities,12  Mar-17*,263608.0,JPAS
+105,Net working cap to sales,12  Mar-17*,-58.6,JPAS
+106,Current ratio,12  Mar-17*,0.7,JPAS
+107,Inventory Days,12  Mar-17*,326.0,JPAS
+108,Debtors Days,12  Mar-17*,49.0,JPAS
+109,Net fixed assets,12  Mar-17*,116482.0,JPAS
+110,Share capital,12  Mar-17*,4865.0,JPAS
+111,"""Free"" reserves",12  Mar-17*,33238.0,JPAS
+112,Net worth,12  Mar-17*,38103.0,JPAS
+113,Long term debt,12  Mar-17*,265779.0,JPAS
+114,Total assets,12  Mar-17*,613536.0,JPAS
+115,Interest coverage,12  Mar-17*,0.0,JPAS
+116,Debt to equity ratio,12  Mar-17*,7.0,JPAS
+117,Sales to assets ratio,12  Mar-17*,0.2,JPAS
+118,Return on assets,12  Mar-17*,-3.3,JPAS
+119,Return on equity,12  Mar-17*,-247.0,JPAS
+120,Return on capital,12  Mar-17*,-10.5,JPAS
+121,Exports to sales,12  Mar-17*,0.0,JPAS
+122,Imports to sales,12  Mar-17*,0.0,JPAS
+123,Exports (fob),12  Mar-17*,0.0,JPAS
+124,Imports (cif),12  Mar-17*,0.0,JPAS
+125,Fx inflow,12  Mar-17*,6353.0,JPAS
+126,Fx outflow,12  Mar-17*,3310.0,JPAS
+127,Net fx,12  Mar-17*,3043.0,JPAS
+128,From Operations,12  Mar-17*,57932.0,JPAS
+129,From Investments,12  Mar-17*,-12921.0,JPAS
+130,From Financial Activity,12  Mar-17*,-45544.0,JPAS
+131,Net Cashflow,12  Mar-17*,-1872.0,JPAS
+132,Net Sales,12  Mar-18*,76445.0,JPAS
+133,Other income,12  Mar-18*,1456.0,JPAS
+134,Total revenues,12  Mar-18*,77901.0,JPAS
+135,Gross profit,12  Mar-18*,326.0,JPAS
+136,Depreciation,12  Mar-18*,7821.0,JPAS
+137,Interest,12  Mar-18*,24405.0,JPAS
+138,Profit before tax,12  Mar-18*,-30444.0,JPAS
+139,Minority Interest,12  Mar-18*,-6694.0,JPAS
+140,Prior Period Items,12  Mar-18*,0.0,JPAS
+141,Extraordinary Inc (Exp),12  Mar-18*,11164.0,JPAS
+142,Tax,12  Mar-18*,-8.0,JPAS
+143,Profit after tax,12  Mar-18*,-25966.0,JPAS
+144,Gross profit margin,12  Mar-18*,0.4,JPAS
+145,Effective tax rate,12  Mar-18*,0.0,JPAS
+146,Net profit margin,12  Mar-18*,-34.0,JPAS
+147,Current assets,12  Mar-18*,209049.0,JPAS
+148,Current liabilities,12  Mar-18*,148667.0,JPAS
+149,Net working cap to sales,12  Mar-18*,79.0,JPAS
+150,Current ratio,12  Mar-18*,1.4,JPAS
+151,Inventory Days,12  Mar-18*,656.0,JPAS
+152,Debtors Days,12  Mar-18*,93.0,JPAS
+153,Net fixed assets,12  Mar-18*,211794.0,JPAS
+154,Share capital,12  Mar-18*,4865.0,JPAS
+155,"""Free"" reserves",12  Mar-18*,41923.0,JPAS
+156,Net worth,12  Mar-18*,46787.0,JPAS
+157,Long term debt,12  Mar-18*,257059.0,JPAS
+158,Total assets,12  Mar-18*,496259.0,JPAS
+159,Interest coverage,12  Mar-18*,-0.2,JPAS
+160,Debt to equity ratio,12  Mar-18*,5.5,JPAS
+161,Sales to assets ratio,12  Mar-18*,0.2,JPAS
+162,Return on assets,12  Mar-18*,-0.3,JPAS
+163,Return on equity,12  Mar-18*,-55.5,JPAS
+164,Return on capital,12  Mar-18*,-0.5,JPAS
+165,Exports to sales,12  Mar-18*,0.0,JPAS
+166,Imports to sales,12  Mar-18*,0.0,JPAS
+167,Exports (fob),12  Mar-18*,0.0,JPAS
+168,Imports (cif),12  Mar-18*,0.0,JPAS
+169,Fx inflow,12  Mar-18*,5024.0,JPAS
+170,Fx outflow,12  Mar-18*,4777.0,JPAS
+171,Net fx,12  Mar-18*,246.0,JPAS
+172,From Operations,12  Mar-18*,-8553.0,JPAS
+173,From Investments,12  Mar-18*,151220.0,JPAS
+174,From Financial Activity,12  Mar-18*,-142197.0,JPAS
+175,Net Cashflow,12  Mar-18*,470.0,JPAS
+176,Net Sales,12  Mar-19*,108208.0,JPAS
+177,Other income,12  Mar-19*,704.0,JPAS
+178,Total revenues,12  Mar-19*,108912.0,JPAS
+179,Gross profit,12  Mar-19*,11336.0,JPAS
+180,Depreciation,12  Mar-19*,7365.0,JPAS
+181,Interest,12  Mar-19*,25576.0,JPAS
+182,Profit before tax,12  Mar-19*,-20901.0,JPAS
+183,Minority Interest,12  Mar-19*,-1067.0,JPAS
+184,Prior Period Items,12  Mar-19*,0.0,JPAS
+185,Extraordinary Inc (Exp),12  Mar-19*,-3282.0,JPAS
+186,Tax,12  Mar-19*,1846.0,JPAS
+187,Profit after tax,12  Mar-19*,-27095.0,JPAS
+188,Gross profit margin,12  Mar-19*,10.5,JPAS
+189,Effective tax rate,12  Mar-19*,-8.8,JPAS
+190,Net profit margin,12  Mar-19*,-25.0,JPAS
+191,Current assets,12  Mar-19*,288587.0,JPAS
+192,Current liabilities,12  Mar-19*,256449.0,JPAS
+193,Net working cap to sales,12  Mar-19*,29.7,JPAS
+194,Current ratio,12  Mar-19*,1.1,JPAS
+195,Inventory Days,12  Mar-19*,739.0,JPAS
+196,Debtors Days,12  Mar-19*,72.0,JPAS
+197,Net fixed assets,12  Mar-19*,265121.0,JPAS
+198,Share capital,12  Mar-19*,4865.0,JPAS
+199,"""Free"" reserves",12  Mar-19*,5694.0,JPAS
+200,Net worth,12  Mar-19*,10559.0,JPAS
+201,Long term debt,12  Mar-19*,247629.0,JPAS
+202,Total assets,12  Mar-19*,565229.0,JPAS
+203,Interest coverage,12  Mar-19*,0.2,JPAS
+204,Debt to equity ratio,12  Mar-19*,23.5,JPAS
+205,Sales to assets ratio,12  Mar-19*,0.2,JPAS
+206,Return on assets,12  Mar-19*,-0.3,JPAS
+207,Return on equity,12  Mar-19*,-256.6,JPAS
+208,Return on capital,12  Mar-19*,0.1,JPAS
+209,Exports to sales,12  Mar-19*,0.0,JPAS
+210,Imports to sales,12  Mar-19*,0.0,JPAS
+211,Exports (fob),12  Mar-19*,0.0,JPAS
+212,Imports (cif),12  Mar-19*,0.0,JPAS
+213,Fx inflow,12  Mar-19*,6015.0,JPAS
+214,Fx outflow,12  Mar-19*,4754.0,JPAS
+215,Net fx,12  Mar-19*,1261.0,JPAS
+216,From Operations,12  Mar-19*,7030.0,JPAS
+217,From Investments,12  Mar-19*,633.0,JPAS
+218,From Financial Activity,12  Mar-19*,-9312.0,JPAS
+219,Net Cashflow,12  Mar-19*,-1649.0,JPAS

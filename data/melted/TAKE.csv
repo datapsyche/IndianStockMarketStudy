@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,7304.0,TAKE
+1,Other income,12  Mar-15*,83.0,TAKE
+2,Total revenues,12  Mar-15*,7387.0,TAKE
+3,Gross profit,12  Mar-15*,1494.0,TAKE
+4,Depreciation,12  Mar-15*,596.0,TAKE
+5,Interest,12  Mar-15*,127.0,TAKE
+6,Profit before tax,12  Mar-15*,854.0,TAKE
+7,Minority Interest,12  Mar-15*,-101.0,TAKE
+8,Prior Period Items,12  Mar-15*,0.0,TAKE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TAKE
+10,Tax,12  Mar-15*,54.0,TAKE
+11,Profit after tax,12  Mar-15*,699.0,TAKE
+12,Gross profit margin,12  Mar-15*,20.5,TAKE
+13,Effective tax rate,12  Mar-15*,6.4,TAKE
+14,Net profit margin,12  Mar-15*,9.6,TAKE
+15,Current assets,12  Mar-15*,5248.0,TAKE
+16,Current liabilities,12  Mar-15*,3156.0,TAKE
+17,Net working cap to sales,12  Mar-15*,28.6,TAKE
+18,Current ratio,12  Mar-15*,1.7,TAKE
+19,Inventory Days,12  Mar-15*,11.0,TAKE
+20,Debtors Days,12  Mar-15*,120.0,TAKE
+21,Net fixed assets,12  Mar-15*,1876.0,TAKE
+22,Share capital,12  Mar-15*,120.0,TAKE
+23,"""Free"" reserves",12  Mar-15*,5124.0,TAKE
+24,Net worth,12  Mar-15*,5244.0,TAKE
+25,Long term debt,12  Mar-15*,8.0,TAKE
+26,Total assets,12  Mar-15*,9224.0,TAKE
+27,Interest coverage,12  Mar-15*,7.7,TAKE
+28,Debt to equity ratio,12  Mar-15*,0.0,TAKE
+29,Sales to assets ratio,12  Mar-15*,0.8,TAKE
+30,Return on assets,12  Mar-15*,9.0,TAKE
+31,Return on equity,12  Mar-15*,13.3,TAKE
+32,Return on capital,12  Mar-15*,16.8,TAKE
+33,Exports to sales,12  Mar-15*,0.0,TAKE
+34,Imports to sales,12  Mar-15*,0.0,TAKE
+35,Exports (fob),12  Mar-15*,0.0,TAKE
+36,Imports (cif),12  Mar-15*,0.0,TAKE
+37,Fx inflow,12  Mar-15*,8.0,TAKE
+38,Fx outflow,12  Mar-15*,2.0,TAKE
+39,Net fx,12  Mar-15*,6.0,TAKE
+40,From Operations,12  Mar-15*,741.0,TAKE
+41,From Investments,12  Mar-15*,-165.0,TAKE
+42,From Financial Activity,12  Mar-15*,-114.0,TAKE
+43,Net Cashflow,12  Mar-15*,491.0,TAKE
+44,Net Sales,12  Mar-16*,10301.0,TAKE
+45,Other income,12  Mar-16*,208.0,TAKE
+46,Total revenues,12  Mar-16*,10509.0,TAKE
+47,Gross profit,12  Mar-16*,2133.0,TAKE
+48,Depreciation,12  Mar-16*,743.0,TAKE
+49,Interest,12  Mar-16*,148.0,TAKE
+50,Profit before tax,12  Mar-16*,1450.0,TAKE
+51,Minority Interest,12  Mar-16*,-52.0,TAKE
+52,Prior Period Items,12  Mar-16*,0.0,TAKE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TAKE
+54,Tax,12  Mar-16*,201.0,TAKE
+55,Profit after tax,12  Mar-16*,1197.0,TAKE
+56,Gross profit margin,12  Mar-16*,20.7,TAKE
+57,Effective tax rate,12  Mar-16*,13.9,TAKE
+58,Net profit margin,12  Mar-16*,11.6,TAKE
+59,Current assets,12  Mar-16*,6256.0,TAKE
+60,Current liabilities,12  Mar-16*,4361.0,TAKE
+61,Net working cap to sales,12  Mar-16*,18.4,TAKE
+62,Current ratio,12  Mar-16*,1.4,TAKE
+63,Inventory Days,12  Mar-16*,8.0,TAKE
+64,Debtors Days,12  Mar-16*,107.0,TAKE
+65,Net fixed assets,12  Mar-16*,2899.0,TAKE
+66,Share capital,12  Mar-16*,120.0,TAKE
+67,"""Free"" reserves",12  Mar-16*,6259.0,TAKE
+68,Net worth,12  Mar-16*,6379.0,TAKE
+69,Long term debt,12  Mar-16*,676.0,TAKE
+70,Total assets,12  Mar-16*,12150.0,TAKE
+71,Interest coverage,12  Mar-16*,10.8,TAKE
+72,Debt to equity ratio,12  Mar-16*,0.1,TAKE
+73,Sales to assets ratio,12  Mar-16*,0.8,TAKE
+74,Return on assets,12  Mar-16*,11.1,TAKE
+75,Return on equity,12  Mar-16*,18.8,TAKE
+76,Return on capital,12  Mar-16*,21.9,TAKE
+77,Exports to sales,12  Mar-16*,0.0,TAKE
+78,Imports to sales,12  Mar-16*,0.0,TAKE
+79,Exports (fob),12  Mar-16*,0.0,TAKE
+80,Imports (cif),12  Mar-16*,0.0,TAKE
+81,Fx inflow,12  Mar-16*,78.0,TAKE
+82,Fx outflow,12  Mar-16*,10.0,TAKE
+83,Net fx,12  Mar-16*,68.0,TAKE
+84,From Operations,12  Mar-16*,1481.0,TAKE
+85,From Investments,12  Mar-16*,-2574.0,TAKE
+86,From Financial Activity,12  Mar-16*,1138.0,TAKE
+87,Net Cashflow,12  Mar-16*,-303.0,TAKE
+88,Net Sales,12  Mar-17*,13446.0,TAKE
+89,Other income,12  Mar-17*,129.0,TAKE
+90,Total revenues,12  Mar-17*,13574.0,TAKE
+91,Gross profit,12  Mar-17*,2622.0,TAKE
+92,Depreciation,12  Mar-17*,875.0,TAKE
+93,Interest,12  Mar-17*,226.0,TAKE
+94,Profit before tax,12  Mar-17*,1650.0,TAKE
+95,Minority Interest,12  Mar-17*,0.0,TAKE
+96,Prior Period Items,12  Mar-17*,0.0,TAKE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TAKE
+98,Tax,12  Mar-17*,189.0,TAKE
+99,Profit after tax,12  Mar-17*,1462.0,TAKE
+100,Gross profit margin,12  Mar-17*,19.5,TAKE
+101,Effective tax rate,12  Mar-17*,11.4,TAKE
+102,Net profit margin,12  Mar-17*,10.9,TAKE
+103,Current assets,12  Mar-17*,7791.0,TAKE
+104,Current liabilities,12  Mar-17*,3355.0,TAKE
+105,Net working cap to sales,12  Mar-17*,33.0,TAKE
+106,Current ratio,12  Mar-17*,2.3,TAKE
+107,Inventory Days,12  Mar-17*,5.0,TAKE
+108,Debtors Days,12  Mar-17*,118.0,TAKE
+109,Net fixed assets,12  Mar-17*,1685.0,TAKE
+110,Share capital,12  Mar-17*,131.0,TAKE
+111,"""Free"" reserves",12  Mar-17*,8978.0,TAKE
+112,Net worth,12  Mar-17*,9109.0,TAKE
+113,Long term debt,12  Mar-17*,488.0,TAKE
+114,Total assets,12  Mar-17*,13727.0,TAKE
+115,Interest coverage,12  Mar-17*,8.3,TAKE
+116,Debt to equity ratio,12  Mar-17*,0.1,TAKE
+117,Sales to assets ratio,12  Mar-17*,1.0,TAKE
+118,Return on assets,12  Mar-17*,12.3,TAKE
+119,Return on equity,12  Mar-17*,16.0,TAKE
+120,Return on capital,12  Mar-17*,19.6,TAKE
+121,Exports to sales,12  Mar-17*,0.0,TAKE
+122,Imports to sales,12  Mar-17*,0.0,TAKE
+123,Exports (fob),12  Mar-17*,0.0,TAKE
+124,Imports (cif),12  Mar-17*,0.0,TAKE
+125,Fx inflow,12  Mar-17*,2.0,TAKE
+126,Fx outflow,12  Mar-17*,14.0,TAKE
+127,Net fx,12  Mar-17*,-12.0,TAKE
+128,From Operations,12  Mar-17*,559.0,TAKE
+129,From Investments,12  Mar-17*,-1291.0,TAKE
+130,From Financial Activity,12  Mar-17*,559.0,TAKE
+131,Net Cashflow,12  Mar-17*,-180.0,TAKE
+132,Net Sales,12  Mar-18*,15872.0,TAKE
+133,Other income,12  Mar-18*,64.0,TAKE
+134,Total revenues,12  Mar-18*,15937.0,TAKE
+135,Gross profit,12  Mar-18*,3065.0,TAKE
+136,Depreciation,12  Mar-18*,1042.0,TAKE
+137,Interest,12  Mar-18*,208.0,TAKE
+138,Profit before tax,12  Mar-18*,1880.0,TAKE
+139,Minority Interest,12  Mar-18*,0.0,TAKE
+140,Prior Period Items,12  Mar-18*,0.0,TAKE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TAKE
+142,Tax,12  Mar-18*,281.0,TAKE
+143,Profit after tax,12  Mar-18*,1599.0,TAKE
+144,Gross profit margin,12  Mar-18*,19.3,TAKE
+145,Effective tax rate,12  Mar-18*,15.0,TAKE
+146,Net profit margin,12  Mar-18*,10.1,TAKE
+147,Current assets,12  Mar-18*,11777.0,TAKE
+148,Current liabilities,12  Mar-18*,4147.0,TAKE
+149,Net working cap to sales,12  Mar-18*,48.1,TAKE
+150,Current ratio,12  Mar-18*,2.8,TAKE
+151,Inventory Days,12  Mar-18*,4.0,TAKE
+152,Debtors Days,12  Mar-18*,108.0,TAKE
+153,Net fixed assets,12  Mar-18*,2135.0,TAKE
+154,Share capital,12  Mar-18*,146.0,TAKE
+155,"""Free"" reserves",12  Mar-18*,13137.0,TAKE
+156,Net worth,12  Mar-18*,13283.0,TAKE
+157,Long term debt,12  Mar-18*,546.0,TAKE
+158,Total assets,12  Mar-18*,18436.0,TAKE
+159,Interest coverage,12  Mar-18*,10.1,TAKE
+160,Debt to equity ratio,12  Mar-18*,0.0,TAKE
+161,Sales to assets ratio,12  Mar-18*,0.9,TAKE
+162,Return on assets,12  Mar-18*,9.8,TAKE
+163,Return on equity,12  Mar-18*,12.0,TAKE
+164,Return on capital,12  Mar-18*,15.1,TAKE
+165,Exports to sales,12  Mar-18*,0.0,TAKE
+166,Imports to sales,12  Mar-18*,0.0,TAKE
+167,Exports (fob),12  Mar-18*,0.0,TAKE
+168,Imports (cif),12  Mar-18*,0.0,TAKE
+169,Fx inflow,12  Mar-18*,2758.0,TAKE
+170,Fx outflow,12  Mar-18*,331.0,TAKE
+171,Net fx,12  Mar-18*,2428.0,TAKE
+172,From Operations,12  Mar-18*,1209.0,TAKE
+173,From Investments,12  Mar-18*,-1788.0,TAKE
+174,From Financial Activity,12  Mar-18*,3015.0,TAKE
+175,Net Cashflow,12  Mar-18*,2434.0,TAKE
+176,Net Sales,12  Mar-19*,20390.0,TAKE
+177,Other income,12  Mar-19*,108.0,TAKE
+178,Total revenues,12  Mar-19*,20498.0,TAKE
+179,Gross profit,12  Mar-19*,3835.0,TAKE
+180,Depreciation,12  Mar-19*,1535.0,TAKE
+181,Interest,12  Mar-19*,250.0,TAKE
+182,Profit before tax,12  Mar-19*,2157.0,TAKE
+183,Minority Interest,12  Mar-19*,0.0,TAKE
+184,Prior Period Items,12  Mar-19*,0.0,TAKE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TAKE
+186,Tax,12  Mar-19*,373.0,TAKE
+187,Profit after tax,12  Mar-19*,1784.0,TAKE
+188,Gross profit margin,12  Mar-19*,18.8,TAKE
+189,Effective tax rate,12  Mar-19*,17.3,TAKE
+190,Net profit margin,12  Mar-19*,8.7,TAKE
+191,Current assets,12  Mar-19*,11719.0,TAKE
+192,Current liabilities,12  Mar-19*,7237.0,TAKE
+193,Net working cap to sales,12  Mar-19*,22.0,TAKE
+194,Current ratio,12  Mar-19*,1.6,TAKE
+195,Inventory Days,12  Mar-19*,3.0,TAKE
+196,Debtors Days,12  Mar-19*,94.0,TAKE
+197,Net fixed assets,12  Mar-19*,2652.0,TAKE
+198,Share capital,12  Mar-19*,146.0,TAKE
+199,"""Free"" reserves",12  Mar-19*,15036.0,TAKE
+200,Net worth,12  Mar-19*,15182.0,TAKE
+201,Long term debt,12  Mar-19*,389.0,TAKE
+202,Total assets,12  Mar-19*,23339.0,TAKE
+203,Interest coverage,12  Mar-19*,9.6,TAKE
+204,Debt to equity ratio,12  Mar-19*,0.0,TAKE
+205,Sales to assets ratio,12  Mar-19*,0.9,TAKE
+206,Return on assets,12  Mar-19*,8.7,TAKE
+207,Return on equity,12  Mar-19*,11.8,TAKE
+208,Return on capital,12  Mar-19*,15.5,TAKE
+209,Exports to sales,12  Mar-19*,0.0,TAKE
+210,Imports to sales,12  Mar-19*,0.0,TAKE
+211,Exports (fob),12  Mar-19*,0.0,TAKE
+212,Imports (cif),12  Mar-19*,0.0,TAKE
+213,Fx inflow,12  Mar-19*,85.0,TAKE
+214,Fx outflow,12  Mar-19*,320.0,TAKE
+215,Net fx,12  Mar-19*,-235.0,TAKE
+216,From Operations,12  Mar-19*,1036.0,TAKE
+217,From Investments,12  Mar-19*,-4847.0,TAKE
+218,From Financial Activity,12  Mar-19*,999.0,TAKE
+219,Net Cashflow,12  Mar-19*,-2704.0,TAKE

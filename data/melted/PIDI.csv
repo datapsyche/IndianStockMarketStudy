@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,48441.0,PIDI
+1,Other income,12  Mar-15*,455.0,PIDI
+2,Total revenues,12  Mar-15*,48896.0,PIDI
+3,Gross profit,12  Mar-15*,7708.0,PIDI
+4,Depreciation,12  Mar-15*,1178.0,PIDI
+5,Interest,12  Mar-15*,156.0,PIDI
+6,Profit before tax,12  Mar-15*,6828.0,PIDI
+7,Minority Interest,12  Mar-15*,-10.0,PIDI
+8,Prior Period Items,12  Mar-15*,50.0,PIDI
+9,Extraordinary Inc (Exp),12  Mar-15*,-49.0,PIDI
+10,Tax,12  Mar-15*,1694.0,PIDI
+11,Profit after tax,12  Mar-15*,5126.0,PIDI
+12,Gross profit margin,12  Mar-15*,15.9,PIDI
+13,Effective tax rate,12  Mar-15*,24.8,PIDI
+14,Net profit margin,12  Mar-15*,10.6,PIDI
+15,Current assets,12  Mar-15*,16809.0,PIDI
+16,Current liabilities,12  Mar-15*,8578.0,PIDI
+17,Net working cap to sales,12  Mar-15*,17.0,PIDI
+18,Current ratio,12  Mar-15*,2.0,PIDI
+19,Inventory Days,12  Mar-15*,48.0,PIDI
+20,Debtors Days,12  Mar-15*,43.0,PIDI
+21,Net fixed assets,12  Mar-15*,11754.0,PIDI
+22,Share capital,12  Mar-15*,513.0,PIDI
+23,"""Free"" reserves",12  Mar-15*,21737.0,PIDI
+24,Net worth,12  Mar-15*,22250.0,PIDI
+25,Long term debt,12  Mar-15*,5.0,PIDI
+26,Total assets,12  Mar-15*,30879.0,PIDI
+27,Interest coverage,12  Mar-15*,44.7,PIDI
+28,Debt to equity ratio,12  Mar-15*,0.0,PIDI
+29,Sales to assets ratio,12  Mar-15*,1.6,PIDI
+30,Return on assets,12  Mar-15*,17.1,PIDI
+31,Return on equity,12  Mar-15*,23.0,PIDI
+32,Return on capital,12  Mar-15*,31.3,PIDI
+33,Exports to sales,12  Mar-15*,8.6,PIDI
+34,Imports to sales,12  Mar-15*,12.4,PIDI
+35,Exports (fob),12  Mar-15*,4149.0,PIDI
+36,Imports (cif),12  Mar-15*,6024.0,PIDI
+37,Fx inflow,12  Mar-15*,4173.0,PIDI
+38,Fx outflow,12  Mar-15*,6735.0,PIDI
+39,Net fx,12  Mar-15*,-2562.0,PIDI
+40,From Operations,12  Mar-15*,5520.0,PIDI
+41,From Investments,12  Mar-15*,-4359.0,PIDI
+42,From Financial Activity,12  Mar-15*,-1651.0,PIDI
+43,Net Cashflow,12  Mar-15*,-490.0,PIDI
+44,Net Sales,12  Mar-16*,53612.0,PIDI
+45,Other income,12  Mar-16*,778.0,PIDI
+46,Total revenues,12  Mar-16*,54390.0,PIDI
+47,Gross profit,12  Mar-16*,11799.0,PIDI
+48,Depreciation,12  Mar-16*,1005.0,PIDI
+49,Interest,12  Mar-16*,133.0,PIDI
+50,Profit before tax,12  Mar-16*,11440.0,PIDI
+51,Minority Interest,12  Mar-16*,1.0,PIDI
+52,Prior Period Items,12  Mar-16*,-33.0,PIDI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PIDI
+54,Tax,12  Mar-16*,3335.0,PIDI
+55,Profit after tax,12  Mar-16*,8072.0,PIDI
+56,Gross profit margin,12  Mar-16*,22.0,PIDI
+57,Effective tax rate,12  Mar-16*,29.2,PIDI
+58,Net profit margin,12  Mar-16*,15.1,PIDI
+59,Current assets,12  Mar-16*,21511.0,PIDI
+60,Current liabilities,12  Mar-16*,10376.0,PIDI
+61,Net working cap to sales,12  Mar-16*,20.8,PIDI
+62,Current ratio,12  Mar-16*,2.1,PIDI
+63,Inventory Days,12  Mar-16*,43.0,PIDI
+64,Debtors Days,12  Mar-16*,48.0,PIDI
+65,Net fixed assets,12  Mar-16*,12955.0,PIDI
+66,Share capital,12  Mar-16*,513.0,PIDI
+67,"""Free"" reserves",12  Mar-16*,25867.0,PIDI
+68,Net worth,12  Mar-16*,26380.0,PIDI
+69,Long term debt,12  Mar-16*,55.0,PIDI
+70,Total assets,12  Mar-16*,37190.0,PIDI
+71,Interest coverage,12  Mar-16*,87.2,PIDI
+72,Debt to equity ratio,12  Mar-16*,0.0,PIDI
+73,Sales to assets ratio,12  Mar-16*,1.4,PIDI
+74,Return on assets,12  Mar-16*,22.1,PIDI
+75,Return on equity,12  Mar-16*,30.6,PIDI
+76,Return on capital,12  Mar-16*,43.7,PIDI
+77,Exports to sales,12  Mar-16*,8.0,PIDI
+78,Imports to sales,12  Mar-16*,10.7,PIDI
+79,Exports (fob),12  Mar-16*,4302.0,PIDI
+80,Imports (cif),12  Mar-16*,5758.0,PIDI
+81,Fx inflow,12  Mar-16*,4340.0,PIDI
+82,Fx outflow,12  Mar-16*,6210.0,PIDI
+83,Net fx,12  Mar-16*,-1870.0,PIDI
+84,From Operations,12  Mar-16*,9075.0,PIDI
+85,From Investments,12  Mar-16*,-4911.0,PIDI
+86,From Financial Activity,12  Mar-16*,-3711.0,PIDI
+87,Net Cashflow,12  Mar-16*,444.0,PIDI
+88,Net Sales,12  Mar-17*,56168.0,PIDI
+89,Other income,12  Mar-17*,1123.0,PIDI
+90,Total revenues,12  Mar-17*,57290.0,PIDI
+91,Gross profit,12  Mar-17*,12633.0,PIDI
+92,Depreciation,12  Mar-17*,1151.0,PIDI
+93,Interest,12  Mar-17*,139.0,PIDI
+94,Profit before tax,12  Mar-17*,12465.0,PIDI
+95,Minority Interest,12  Mar-17*,18.0,PIDI
+96,Prior Period Items,12  Mar-17*,0.0,PIDI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PIDI
+98,Tax,12  Mar-17*,3851.0,PIDI
+99,Profit after tax,12  Mar-17*,8632.0,PIDI
+100,Gross profit margin,12  Mar-17*,22.5,PIDI
+101,Effective tax rate,12  Mar-17*,30.9,PIDI
+102,Net profit margin,12  Mar-17*,15.4,PIDI
+103,Current assets,12  Mar-17*,31340.0,PIDI
+104,Current liabilities,12  Mar-17*,11760.0,PIDI
+105,Net working cap to sales,12  Mar-17*,34.9,PIDI
+106,Current ratio,12  Mar-17*,2.7,PIDI
+107,Inventory Days,12  Mar-17*,47.0,PIDI
+108,Debtors Days,12  Mar-17*,50.0,PIDI
+109,Net fixed assets,12  Mar-17*,14230.0,PIDI
+110,Share capital,12  Mar-17*,513.0,PIDI
+111,"""Free"" reserves",12  Mar-17*,34196.0,PIDI
+112,Net worth,12  Mar-17*,34709.0,PIDI
+113,Long term debt,12  Mar-17*,49.0,PIDI
+114,Total assets,12  Mar-17*,47742.0,PIDI
+115,Interest coverage,12  Mar-17*,90.5,PIDI
+116,Debt to equity ratio,12  Mar-17*,0.0,PIDI
+117,Sales to assets ratio,12  Mar-17*,1.2,PIDI
+118,Return on assets,12  Mar-17*,18.4,PIDI
+119,Return on equity,12  Mar-17*,24.9,PIDI
+120,Return on capital,12  Mar-17*,36.3,PIDI
+121,Exports to sales,12  Mar-17*,0.0,PIDI
+122,Imports to sales,12  Mar-17*,0.0,PIDI
+123,Exports (fob),12  Mar-17*,0.0,PIDI
+124,Imports (cif),12  Mar-17*,0.0,PIDI
+125,Fx inflow,12  Mar-17*,4490.0,PIDI
+126,Fx outflow,12  Mar-17*,6670.0,PIDI
+127,Net fx,12  Mar-17*,-2180.0,PIDI
+128,From Operations,12  Mar-17*,7938.0,PIDI
+129,From Investments,12  Mar-17*,-8790.0,PIDI
+130,From Financial Activity,12  Mar-17*,407.0,PIDI
+131,Net Cashflow,12  Mar-17*,-435.0,PIDI
+132,Net Sales,12  Mar-18*,60784.0,PIDI
+133,Other income,12  Mar-18*,1484.0,PIDI
+134,Total revenues,12  Mar-18*,62268.0,PIDI
+135,Gross profit,12  Mar-18*,13460.0,PIDI
+136,Depreciation,12  Mar-18*,1199.0,PIDI
+137,Interest,12  Mar-18*,155.0,PIDI
+138,Profit before tax,12  Mar-18*,13590.0,PIDI
+139,Minority Interest,12  Mar-18*,-2.0,PIDI
+140,Prior Period Items,12  Mar-18*,0.0,PIDI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PIDI
+142,Tax,12  Mar-18*,3927.0,PIDI
+143,Profit after tax,12  Mar-18*,9661.0,PIDI
+144,Gross profit margin,12  Mar-18*,22.1,PIDI
+145,Effective tax rate,12  Mar-18*,28.9,PIDI
+146,Net profit margin,12  Mar-18*,15.9,PIDI
+147,Current assets,12  Mar-18*,33088.0,PIDI
+148,Current liabilities,12  Mar-18*,14554.0,PIDI
+149,Net working cap to sales,12  Mar-18*,30.5,PIDI
+150,Current ratio,12  Mar-18*,2.3,PIDI
+151,Inventory Days,12  Mar-18*,48.0,PIDI
+152,Debtors Days,12  Mar-18*,56.0,PIDI
+153,Net fixed assets,12  Mar-18*,15950.0,PIDI
+154,Share capital,12  Mar-18*,508.0,PIDI
+155,"""Free"" reserves",12  Mar-18*,35233.0,PIDI
+156,Net worth,12  Mar-18*,35740.0,PIDI
+157,Long term debt,12  Mar-18*,71.0,PIDI
+158,Total assets,12  Mar-18*,52045.0,PIDI
+159,Interest coverage,12  Mar-18*,88.4,PIDI
+160,Debt to equity ratio,12  Mar-18*,0.0,PIDI
+161,Sales to assets ratio,12  Mar-18*,1.2,PIDI
+162,Return on assets,12  Mar-18*,18.9,PIDI
+163,Return on equity,12  Mar-18*,27.0,PIDI
+164,Return on capital,12  Mar-18*,38.4,PIDI
+165,Exports to sales,12  Mar-18*,0.0,PIDI
+166,Imports to sales,12  Mar-18*,0.0,PIDI
+167,Exports (fob),12  Mar-18*,0.0,PIDI
+168,Imports (cif),12  Mar-18*,0.0,PIDI
+169,Fx inflow,12  Mar-18*,4710.0,PIDI
+170,Fx outflow,12  Mar-18*,7910.0,PIDI
+171,Net fx,12  Mar-18*,-3200.0,PIDI
+172,From Operations,12  Mar-18*,7964.0,PIDI
+173,From Investments,12  Mar-18*,393.0,PIDI
+174,From Financial Activity,12  Mar-18*,-7898.0,PIDI
+175,Net Cashflow,12  Mar-18*,459.0,PIDI
+176,Net Sales,12  Mar-19*,70787.0,PIDI
+177,Other income,12  Mar-19*,1466.0,PIDI
+178,Total revenues,12  Mar-19*,72254.0,PIDI
+179,Gross profit,12  Mar-19*,13538.0,PIDI
+180,Depreciation,12  Mar-19*,1327.0,PIDI
+181,Interest,12  Mar-19*,261.0,PIDI
+182,Profit before tax,12  Mar-19*,13416.0,PIDI
+183,Minority Interest,12  Mar-19*,0.0,PIDI
+184,Prior Period Items,12  Mar-19*,0.0,PIDI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PIDI
+186,Tax,12  Mar-19*,4132.0,PIDI
+187,Profit after tax,12  Mar-19*,9284.0,PIDI
+188,Gross profit margin,12  Mar-19*,19.1,PIDI
+189,Effective tax rate,12  Mar-19*,30.8,PIDI
+190,Net profit margin,12  Mar-19*,13.1,PIDI
+191,Current assets,12  Mar-19*,35820.0,PIDI
+192,Current liabilities,12  Mar-19*,15593.0,PIDI
+193,Net working cap to sales,12  Mar-19*,28.6,PIDI
+194,Current ratio,12  Mar-19*,2.3,PIDI
+195,Inventory Days,12  Mar-19*,48.0,PIDI
+196,Debtors Days,12  Mar-19*,54.0,PIDI
+197,Net fixed assets,12  Mar-19*,17142.0,PIDI
+198,Share capital,12  Mar-19*,508.0,PIDI
+199,"""Free"" reserves",12  Mar-19*,40973.0,PIDI
+200,Net worth,12  Mar-19*,41481.0,PIDI
+201,Long term debt,12  Mar-19*,85.0,PIDI
+202,Total assets,12  Mar-19*,59145.0,PIDI
+203,Interest coverage,12  Mar-19*,52.5,PIDI
+204,Debt to equity ratio,12  Mar-19*,0.0,PIDI
+205,Sales to assets ratio,12  Mar-19*,1.2,PIDI
+206,Return on assets,12  Mar-19*,16.1,PIDI
+207,Return on equity,12  Mar-19*,22.4,PIDI
+208,Return on capital,12  Mar-19*,32.9,PIDI
+209,Exports to sales,12  Mar-19*,0.0,PIDI
+210,Imports to sales,12  Mar-19*,0.0,PIDI
+211,Exports (fob),12  Mar-19*,0.0,PIDI
+212,Imports (cif),12  Mar-19*,0.0,PIDI
+213,Fx inflow,12  Mar-19*,5430.0,PIDI
+214,Fx outflow,12  Mar-19*,9720.0,PIDI
+215,Net fx,12  Mar-19*,-4290.0,PIDI
+216,From Operations,12  Mar-19*,8448.0,PIDI
+217,From Investments,12  Mar-19*,-5131.0,PIDI
+218,From Financial Activity,12  Mar-19*,-3606.0,PIDI
+219,Net Cashflow,12  Mar-19*,-183.0,PIDI

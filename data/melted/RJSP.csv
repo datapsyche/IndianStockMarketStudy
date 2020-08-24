@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,30034.0,RJSP
+1,Other income,12  Mar-15,316.0,RJSP
+2,Total revenues,12  Mar-15,30349.0,RJSP
+3,Gross profit,12  Mar-15,3459.0,RJSP
+4,Depreciation,12  Mar-15,1353.0,RJSP
+5,Interest,12  Mar-15,1252.0,RJSP
+6,Profit before tax,12  Mar-15,1170.0,RJSP
+7,Minority Interest,12  Mar-15,0.0,RJSP
+8,Prior Period Items,12  Mar-15,0.0,RJSP
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,RJSP
+10,Tax,12  Mar-15,321.0,RJSP
+11,Profit after tax,12  Mar-15,849.0,RJSP
+12,Gross profit margin,12  Mar-15,11.5,RJSP
+13,Effective tax rate,12  Mar-15,27.4,RJSP
+14,Net profit margin,12  Mar-15,2.8,RJSP
+15,Current assets,12  Mar-15,7516.0,RJSP
+16,Current liabilities,12  Mar-15,8314.0,RJSP
+17,Net working cap to sales,12  Mar-15,-2.7,RJSP
+18,Current ratio,12  Mar-15,0.9,RJSP
+19,Inventory Days,12  Mar-15,48.0,RJSP
+20,Debtors Days,12  Mar-15,24.0,RJSP
+21,Net fixed assets,12  Mar-15,11608.0,RJSP
+22,Share capital,12  Mar-15,232.0,RJSP
+23,"""Free"" reserves",12  Mar-15,5255.0,RJSP
+24,Net worth,12  Mar-15,5487.0,RJSP
+25,Long term debt,12  Mar-15,6794.0,RJSP
+26,Total assets,12  Mar-15,22853.0,RJSP
+27,Interest coverage,12  Mar-15,1.9,RJSP
+28,Debt to equity ratio,12  Mar-15,1.2,RJSP
+29,Sales to assets ratio,12  Mar-15,1.3,RJSP
+30,Return on assets,12  Mar-15,9.2,RJSP
+31,Return on equity,12  Mar-15,15.5,RJSP
+32,Return on capital,12  Mar-15,19.7,RJSP
+33,Exports to sales,12  Mar-15,32.0,RJSP
+34,Imports to sales,12  Mar-15,4.6,RJSP
+35,Exports (fob),12  Mar-15,9614.0,RJSP
+36,Imports (cif),12  Mar-15,1369.0,RJSP
+37,Fx inflow,12  Mar-15,9614.0,RJSP
+38,Fx outflow,12  Mar-15,1529.0,RJSP
+39,Net fx,12  Mar-15,8085.0,RJSP
+40,From Operations,12  Mar-15,4361.0,RJSP
+41,From Investments,12  Mar-15,-2756.0,RJSP
+42,From Financial Activity,12  Mar-15,-1612.0,RJSP
+43,Net Cashflow,12  Mar-15,-7.0,RJSP
+44,Net Sales,12  Mar-16,29333.0,RJSP
+45,Other income,12  Mar-16,244.0,RJSP
+46,Total revenues,12  Mar-16,29576.0,RJSP
+47,Gross profit,12  Mar-16,3983.0,RJSP
+48,Depreciation,12  Mar-16,1492.0,RJSP
+49,Interest,12  Mar-16,1259.0,RJSP
+50,Profit before tax,12  Mar-16,1475.0,RJSP
+51,Minority Interest,12  Mar-16,0.0,RJSP
+52,Prior Period Items,12  Mar-16,53.0,RJSP
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,RJSP
+54,Tax,12  Mar-16,406.0,RJSP
+55,Profit after tax,12  Mar-16,1122.0,RJSP
+56,Gross profit margin,12  Mar-16,13.6,RJSP
+57,Effective tax rate,12  Mar-16,27.5,RJSP
+58,Net profit margin,12  Mar-16,3.8,RJSP
+59,Current assets,12  Mar-16,7966.0,RJSP
+60,Current liabilities,12  Mar-16,8778.0,RJSP
+61,Net working cap to sales,12  Mar-16,-2.8,RJSP
+62,Current ratio,12  Mar-16,0.9,RJSP
+63,Inventory Days,12  Mar-16,53.0,RJSP
+64,Debtors Days,12  Mar-16,46.0,RJSP
+65,Net fixed assets,12  Mar-16,11424.0,RJSP
+66,Share capital,12  Mar-16,232.0,RJSP
+67,"""Free"" reserves",12  Mar-16,6009.0,RJSP
+68,Net worth,12  Mar-16,6241.0,RJSP
+69,Long term debt,12  Mar-16,5639.0,RJSP
+70,Total assets,12  Mar-16,22846.0,RJSP
+71,Interest coverage,12  Mar-16,2.2,RJSP
+72,Debt to equity ratio,12  Mar-16,0.9,RJSP
+73,Sales to assets ratio,12  Mar-16,1.3,RJSP
+74,Return on assets,12  Mar-16,10.4,RJSP
+75,Return on equity,12  Mar-16,18.0,RJSP
+76,Return on capital,12  Mar-16,23.5,RJSP
+77,Exports to sales,12  Mar-16,30.1,RJSP
+78,Imports to sales,12  Mar-16,3.0,RJSP
+79,Exports (fob),12  Mar-16,8841.0,RJSP
+80,Imports (cif),12  Mar-16,891.0,RJSP
+81,Fx inflow,12  Mar-16,8841.0,RJSP
+82,Fx outflow,12  Mar-16,9731.0,RJSP
+83,Net fx,12  Mar-16,-891.0,RJSP
+84,From Operations,12  Mar-16,3389.0,RJSP
+85,From Investments,12  Mar-16,-1236.0,RJSP
+86,From Financial Activity,12  Mar-16,-2152.0,RJSP
+87,Net Cashflow,12  Mar-16,2.0,RJSP
+88,Net Sales,12  Mar-17,29866.0,RJSP
+89,Other income,12  Mar-17,316.0,RJSP
+90,Total revenues,12  Mar-17,30182.0,RJSP
+91,Gross profit,12  Mar-17,3263.0,RJSP
+92,Depreciation,12  Mar-17,1322.0,RJSP
+93,Interest,12  Mar-17,1104.0,RJSP
+94,Profit before tax,12  Mar-17,1154.0,RJSP
+95,Minority Interest,12  Mar-17,0.0,RJSP
+96,Prior Period Items,12  Mar-17,31.0,RJSP
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,RJSP
+98,Tax,12  Mar-17,144.0,RJSP
+99,Profit after tax,12  Mar-17,1041.0,RJSP
+100,Gross profit margin,12  Mar-17,10.9,RJSP
+101,Effective tax rate,12  Mar-17,12.5,RJSP
+102,Net profit margin,12  Mar-17,3.5,RJSP
+103,Current assets,12  Mar-17,10708.0,RJSP
+104,Current liabilities,12  Mar-17,11535.0,RJSP
+105,Net working cap to sales,12  Mar-17,-2.8,RJSP
+106,Current ratio,12  Mar-17,0.9,RJSP
+107,Inventory Days,12  Mar-17,66.0,RJSP
+108,Debtors Days,12  Mar-17,46.0,RJSP
+109,Net fixed assets,12  Mar-17,11902.0,RJSP
+110,Share capital,12  Mar-17,236.0,RJSP
+111,"""Free"" reserves",12  Mar-17,6848.0,RJSP
+112,Net worth,12  Mar-17,7083.0,RJSP
+113,Long term debt,12  Mar-17,4969.0,RJSP
+114,Total assets,12  Mar-17,24655.0,RJSP
+115,Interest coverage,12  Mar-17,2.0,RJSP
+116,Debt to equity ratio,12  Mar-17,0.7,RJSP
+117,Sales to assets ratio,12  Mar-17,1.2,RJSP
+118,Return on assets,12  Mar-17,8.7,RJSP
+119,Return on equity,12  Mar-17,14.7,RJSP
+120,Return on capital,12  Mar-17,19.0,RJSP
+121,Exports to sales,12  Mar-17,0.0,RJSP
+122,Imports to sales,12  Mar-17,0.0,RJSP
+123,Exports (fob),12  Mar-17,0.0,RJSP
+124,Imports (cif),12  Mar-17,0.0,RJSP
+125,Fx inflow,12  Mar-17,0.0,RJSP
+126,Fx outflow,12  Mar-17,0.0,RJSP
+127,Net fx,12  Mar-17,0.0,RJSP
+128,From Operations,12  Mar-17,2220.0,RJSP
+129,From Investments,12  Mar-17,-1540.0,RJSP
+130,From Financial Activity,12  Mar-17,-679.0,RJSP
+131,Net Cashflow,12  Mar-17,1.0,RJSP
+132,Net Sales,12  Mar-18,29398.0,RJSP
+133,Other income,12  Mar-18,362.0,RJSP
+134,Total revenues,12  Mar-18,29760.0,RJSP
+135,Gross profit,12  Mar-18,2269.0,RJSP
+136,Depreciation,12  Mar-18,1245.0,RJSP
+137,Interest,12  Mar-18,1173.0,RJSP
+138,Profit before tax,12  Mar-18,213.0,RJSP
+139,Minority Interest,12  Mar-18,0.0,RJSP
+140,Prior Period Items,12  Mar-18,65.0,RJSP
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,RJSP
+142,Tax,12  Mar-18,68.0,RJSP
+143,Profit after tax,12  Mar-18,210.0,RJSP
+144,Gross profit margin,12  Mar-18,7.7,RJSP
+145,Effective tax rate,12  Mar-18,32.0,RJSP
+146,Net profit margin,12  Mar-18,0.7,RJSP
+147,Current assets,12  Mar-18,11485.0,RJSP
+148,Current liabilities,12  Mar-18,11379.0,RJSP
+149,Net working cap to sales,12  Mar-18,0.4,RJSP
+150,Current ratio,12  Mar-18,1.0,RJSP
+151,Inventory Days,12  Mar-18,66.0,RJSP
+152,Debtors Days,12  Mar-18,54.0,RJSP
+153,Net fixed assets,12  Mar-18,11383.0,RJSP
+154,Share capital,12  Mar-18,236.0,RJSP
+155,"""Free"" reserves",12  Mar-18,9588.0,RJSP
+156,Net worth,12  Mar-18,9824.0,RJSP
+157,Long term debt,12  Mar-18,5709.0,RJSP
+158,Total assets,12  Mar-18,27947.0,RJSP
+159,Interest coverage,12  Mar-18,1.2,RJSP
+160,Debt to equity ratio,12  Mar-18,0.6,RJSP
+161,Sales to assets ratio,12  Mar-18,1.1,RJSP
+162,Return on assets,12  Mar-18,4.9,RJSP
+163,Return on equity,12  Mar-18,2.1,RJSP
+164,Return on capital,12  Mar-18,9.3,RJSP
+165,Exports to sales,12  Mar-18,31.5,RJSP
+166,Imports to sales,12  Mar-18,0.0,RJSP
+167,Exports (fob),12  Mar-18,9270.0,RJSP
+168,Imports (cif),12  Mar-18,0.0,RJSP
+169,Fx inflow,12  Mar-18,9270.0,RJSP
+170,Fx outflow,12  Mar-18,891.0,RJSP
+171,Net fx,12  Mar-18,8379.0,RJSP
+172,From Operations,12  Mar-18,1656.0,RJSP
+173,From Investments,12  Mar-18,-607.0,RJSP
+174,From Financial Activity,12  Mar-18,-970.0,RJSP
+175,Net Cashflow,12  Mar-18,79.0,RJSP
+176,Net Sales,12  Mar-19,29620.0,RJSP
+177,Other income,12  Mar-19,321.0,RJSP
+178,Total revenues,12  Mar-19,29941.0,RJSP
+179,Gross profit,12  Mar-19,1800.0,RJSP
+180,Depreciation,12  Mar-19,1236.0,RJSP
+181,Interest,12  Mar-19,1196.0,RJSP
+182,Profit before tax,12  Mar-19,-312.0,RJSP
+183,Minority Interest,12  Mar-19,0.0,RJSP
+184,Prior Period Items,12  Mar-19,-157.0,RJSP
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,RJSP
+186,Tax,12  Mar-19,-91.0,RJSP
+187,Profit after tax,12  Mar-19,-377.0,RJSP
+188,Gross profit margin,12  Mar-19,6.1,RJSP
+189,Effective tax rate,12  Mar-19,29.2,RJSP
+190,Net profit margin,12  Mar-19,-1.3,RJSP
+191,Current assets,12  Mar-19,6819.0,RJSP
+192,Current liabilities,12  Mar-19,10889.0,RJSP
+193,Net working cap to sales,12  Mar-19,-13.7,RJSP
+194,Current ratio,12  Mar-19,0.6,RJSP
+195,Inventory Days,12  Mar-19,53.0,RJSP
+196,Debtors Days,12  Mar-19,56.0,RJSP
+197,Net fixed assets,12  Mar-19,11543.0,RJSP
+198,Share capital,12  Mar-19,236.0,RJSP
+199,"""Free"" reserves",12  Mar-19,8271.0,RJSP
+200,Net worth,12  Mar-19,8507.0,RJSP
+201,Long term debt,12  Mar-19,5726.0,RJSP
+202,Total assets,12  Mar-19,26122.0,RJSP
+203,Interest coverage,12  Mar-19,0.7,RJSP
+204,Debt to equity ratio,12  Mar-19,0.7,RJSP
+205,Sales to assets ratio,12  Mar-19,1.1,RJSP
+206,Return on assets,12  Mar-19,3.1,RJSP
+207,Return on equity,12  Mar-19,-4.4,RJSP
+208,Return on capital,12  Mar-19,5.1,RJSP
+209,Exports to sales,12  Mar-19,33.2,RJSP
+210,Imports to sales,12  Mar-19,0.0,RJSP
+211,Exports (fob),12  Mar-19,9839.0,RJSP
+212,Imports (cif),12  Mar-19,0.0,RJSP
+213,Fx inflow,12  Mar-19,9839.0,RJSP
+214,Fx outflow,12  Mar-19,1138.0,RJSP
+215,Net fx,12  Mar-19,8700.0,RJSP
+216,From Operations,12  Mar-19,2629.0,RJSP
+217,From Investments,12  Mar-19,-586.0,RJSP
+218,From Financial Activity,12  Mar-19,-2047.0,RJSP
+219,Net Cashflow,12  Mar-19,-1.0,RJSP

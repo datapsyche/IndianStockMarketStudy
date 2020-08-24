@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,24406.0,SOBHA
+1,Other income,12  Mar-15*,149.0,SOBHA
+2,Total revenues,12  Mar-15*,24555.0,SOBHA
+3,Gross profit,12  Mar-15*,6173.0,SOBHA
+4,Depreciation,12  Mar-15*,723.0,SOBHA
+5,Interest,12  Mar-15*,1883.0,SOBHA
+6,Profit before tax,12  Mar-15*,3716.0,SOBHA
+7,Minority Interest,12  Mar-15*,-59.0,SOBHA
+8,Prior Period Items,12  Mar-15*,0.0,SOBHA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SOBHA
+10,Tax,12  Mar-15*,1277.0,SOBHA
+11,Profit after tax,12  Mar-15*,2380.0,SOBHA
+12,Gross profit margin,12  Mar-15*,25.3,SOBHA
+13,Effective tax rate,12  Mar-15*,34.4,SOBHA
+14,Net profit margin,12  Mar-15*,9.8,SOBHA
+15,Current assets,12  Mar-15*,63139.0,SOBHA
+16,Current liabilities,12  Mar-15*,43327.0,SOBHA
+17,Net working cap to sales,12  Mar-15*,81.2,SOBHA
+18,Current ratio,12  Mar-15*,1.5,SOBHA
+19,Inventory Days,12  Mar-15*,571.0,SOBHA
+20,Debtors Days,12  Mar-15*,27.0,SOBHA
+21,Net fixed assets,12  Mar-15*,3720.0,SOBHA
+22,Share capital,12  Mar-15*,981.0,SOBHA
+23,"""Free"" reserves",12  Mar-15*,24116.0,SOBHA
+24,Net worth,12  Mar-15*,25096.0,SOBHA
+25,Long term debt,12  Mar-15*,1950.0,SOBHA
+26,Total assets,12  Mar-15*,72044.0,SOBHA
+27,Interest coverage,12  Mar-15*,3.0,SOBHA
+28,Debt to equity ratio,12  Mar-15*,0.1,SOBHA
+29,Sales to assets ratio,12  Mar-15*,0.3,SOBHA
+30,Return on assets,12  Mar-15*,5.9,SOBHA
+31,Return on equity,12  Mar-15*,9.5,SOBHA
+32,Return on capital,12  Mar-15*,20.5,SOBHA
+33,Exports to sales,12  Mar-15*,0.0,SOBHA
+34,Imports to sales,12  Mar-15*,2.0,SOBHA
+35,Exports (fob),12  Mar-15*,0.0,SOBHA
+36,Imports (cif),12  Mar-15*,479.0,SOBHA
+37,Fx inflow,12  Mar-15*,0.0,SOBHA
+38,Fx outflow,12  Mar-15*,528.0,SOBHA
+39,Net fx,12  Mar-15*,-528.0,SOBHA
+40,From Operations,12  Mar-15*,-2164.0,SOBHA
+41,From Investments,12  Mar-15*,-599.0,SOBHA
+42,From Financial Activity,12  Mar-15*,3372.0,SOBHA
+43,Net Cashflow,12  Mar-15*,609.0,SOBHA
+44,Net Sales,12  Mar-16*,19432.0,SOBHA
+45,Other income,12  Mar-16*,89.0,SOBHA
+46,Total revenues,12  Mar-16*,19521.0,SOBHA
+47,Gross profit,12  Mar-16*,4684.0,SOBHA
+48,Depreciation,12  Mar-16*,597.0,SOBHA
+49,Interest,12  Mar-16*,1637.0,SOBHA
+50,Profit before tax,12  Mar-16*,2539.0,SOBHA
+51,Minority Interest,12  Mar-16*,30.0,SOBHA
+52,Prior Period Items,12  Mar-16*,0.0,SOBHA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SOBHA
+54,Tax,12  Mar-16*,1188.0,SOBHA
+55,Profit after tax,12  Mar-16*,1381.0,SOBHA
+56,Gross profit margin,12  Mar-16*,24.1,SOBHA
+57,Effective tax rate,12  Mar-16*,46.8,SOBHA
+58,Net profit margin,12  Mar-16*,7.1,SOBHA
+59,Current assets,12  Mar-16*,69262.0,SOBHA
+60,Current liabilities,12  Mar-16*,47745.0,SOBHA
+61,Net working cap to sales,12  Mar-16*,110.7,SOBHA
+62,Current ratio,12  Mar-16*,1.5,SOBHA
+63,Inventory Days,12  Mar-16*,801.0,SOBHA
+64,Debtors Days,12  Mar-16*,47.0,SOBHA
+65,Net fixed assets,12  Mar-16*,6181.0,SOBHA
+66,Share capital,12  Mar-16*,981.0,SOBHA
+67,"""Free"" reserves",12  Mar-16*,24668.0,SOBHA
+68,Net worth,12  Mar-16*,25648.0,SOBHA
+69,Long term debt,12  Mar-16*,4771.0,SOBHA
+70,Total assets,12  Mar-16*,80687.0,SOBHA
+71,Interest coverage,12  Mar-16*,2.6,SOBHA
+72,Debt to equity ratio,12  Mar-16*,0.2,SOBHA
+73,Sales to assets ratio,12  Mar-16*,0.2,SOBHA
+74,Return on assets,12  Mar-16*,3.7,SOBHA
+75,Return on equity,12  Mar-16*,5.4,SOBHA
+76,Return on capital,12  Mar-16*,13.8,SOBHA
+77,Exports to sales,12  Mar-16*,0.0,SOBHA
+78,Imports to sales,12  Mar-16*,4.3,SOBHA
+79,Exports (fob),12  Mar-16*,0.0,SOBHA
+80,Imports (cif),12  Mar-16*,830.0,SOBHA
+81,Fx inflow,12  Mar-16*,0.0,SOBHA
+82,Fx outflow,12  Mar-16*,884.0,SOBHA
+83,Net fx,12  Mar-16*,-884.0,SOBHA
+84,From Operations,12  Mar-16*,3884.0,SOBHA
+85,From Investments,12  Mar-16*,-2451.0,SOBHA
+86,From Financial Activity,12  Mar-16*,-1327.0,SOBHA
+87,Net Cashflow,12  Mar-16*,106.0,SOBHA
+88,Net Sales,12  Mar-17*,22291.0,SOBHA
+89,Other income,12  Mar-17*,58.0,SOBHA
+90,Total revenues,12  Mar-17*,22348.0,SOBHA
+91,Gross profit,12  Mar-17*,4526.0,SOBHA
+92,Depreciation,12  Mar-17*,638.0,SOBHA
+93,Interest,12  Mar-17*,1497.0,SOBHA
+94,Profit before tax,12  Mar-17*,2449.0,SOBHA
+95,Minority Interest,12  Mar-17*,129.0,SOBHA
+96,Prior Period Items,12  Mar-17*,0.0,SOBHA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SOBHA
+98,Tax,12  Mar-17*,970.0,SOBHA
+99,Profit after tax,12  Mar-17*,1608.0,SOBHA
+100,Gross profit margin,12  Mar-17*,20.3,SOBHA
+101,Effective tax rate,12  Mar-17*,39.6,SOBHA
+102,Net profit margin,12  Mar-17*,7.2,SOBHA
+103,Current assets,12  Mar-17*,78118.0,SOBHA
+104,Current liabilities,12  Mar-17*,55616.0,SOBHA
+105,Net working cap to sales,12  Mar-17*,101.0,SOBHA
+106,Current ratio,12  Mar-17*,1.4,SOBHA
+107,Inventory Days,12  Mar-17*,834.0,SOBHA
+108,Debtors Days,12  Mar-17*,37.0,SOBHA
+109,Net fixed assets,12  Mar-17*,5952.0,SOBHA
+110,Share capital,12  Mar-17*,963.0,SOBHA
+111,"""Free"" reserves",12  Mar-17*,25482.0,SOBHA
+112,Net worth,12  Mar-17*,26445.0,SOBHA
+113,Long term debt,12  Mar-17*,4423.0,SOBHA
+114,Total assets,12  Mar-17*,88930.0,SOBHA
+115,Interest coverage,12  Mar-17*,2.6,SOBHA
+116,Debt to equity ratio,12  Mar-17*,0.2,SOBHA
+117,Sales to assets ratio,12  Mar-17*,0.3,SOBHA
+118,Return on assets,12  Mar-17*,3.5,SOBHA
+119,Return on equity,12  Mar-17*,6.1,SOBHA
+120,Return on capital,12  Mar-17*,13.2,SOBHA
+121,Exports to sales,12  Mar-17*,0.0,SOBHA
+122,Imports to sales,12  Mar-17*,0.0,SOBHA
+123,Exports (fob),12  Mar-17*,0.0,SOBHA
+124,Imports (cif),12  Mar-17*,0.0,SOBHA
+125,Fx inflow,12  Mar-17*,0.0,SOBHA
+126,Fx outflow,12  Mar-17*,43.0,SOBHA
+127,Net fx,12  Mar-17*,-43.0,SOBHA
+128,From Operations,12  Mar-17*,3538.0,SOBHA
+129,From Investments,12  Mar-17*,20.0,SOBHA
+130,From Financial Activity,12  Mar-17*,-3455.0,SOBHA
+131,Net Cashflow,12  Mar-17*,105.0,SOBHA
+132,Net Sales,12  Mar-18*,27830.0,SOBHA
+133,Other income,12  Mar-18*,164.0,SOBHA
+134,Total revenues,12  Mar-18*,27995.0,SOBHA
+135,Gross profit,12  Mar-18*,5529.0,SOBHA
+136,Depreciation,12  Mar-18*,544.0,SOBHA
+137,Interest,12  Mar-18*,1978.0,SOBHA
+138,Profit before tax,12  Mar-18*,3171.0,SOBHA
+139,Minority Interest,12  Mar-18*,0.0,SOBHA
+140,Prior Period Items,12  Mar-18*,0.0,SOBHA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SOBHA
+142,Tax,12  Mar-18*,1003.0,SOBHA
+143,Profit after tax,12  Mar-18*,2169.0,SOBHA
+144,Gross profit margin,12  Mar-18*,19.9,SOBHA
+145,Effective tax rate,12  Mar-18*,31.6,SOBHA
+146,Net profit margin,12  Mar-18*,7.8,SOBHA
+147,Current assets,12  Mar-18*,78147.0,SOBHA
+148,Current liabilities,12  Mar-18*,57055.0,SOBHA
+149,Net working cap to sales,12  Mar-18*,75.8,SOBHA
+150,Current ratio,12  Mar-18*,1.4,SOBHA
+151,Inventory Days,12  Mar-18*,634.0,SOBHA
+152,Debtors Days,12  Mar-18*,43.0,SOBHA
+153,Net fixed assets,12  Mar-18*,6103.0,SOBHA
+154,Share capital,12  Mar-18*,949.0,SOBHA
+155,"""Free"" reserves",12  Mar-18*,26751.0,SOBHA
+156,Net worth,12  Mar-18*,27699.0,SOBHA
+157,Long term debt,12  Mar-18*,2788.0,SOBHA
+158,Total assets,12  Mar-18*,90248.0,SOBHA
+159,Interest coverage,12  Mar-18*,2.6,SOBHA
+160,Debt to equity ratio,12  Mar-18*,0.1,SOBHA
+161,Sales to assets ratio,12  Mar-18*,0.3,SOBHA
+162,Return on assets,12  Mar-18*,4.6,SOBHA
+163,Return on equity,12  Mar-18*,7.8,SOBHA
+164,Return on capital,12  Mar-18*,16.9,SOBHA
+165,Exports to sales,12  Mar-18*,0.0,SOBHA
+166,Imports to sales,12  Mar-18*,0.0,SOBHA
+167,Exports (fob),12  Mar-18*,0.0,SOBHA
+168,Imports (cif),12  Mar-18*,0.0,SOBHA
+169,Fx inflow,12  Mar-18*,0.0,SOBHA
+170,Fx outflow,12  Mar-18*,50.0,SOBHA
+171,Net fx,12  Mar-18*,-50.0,SOBHA
+172,From Operations,12  Mar-18*,3535.0,SOBHA
+173,From Investments,12  Mar-18*,-1287.0,SOBHA
+174,From Financial Activity,12  Mar-18*,-2428.0,SOBHA
+175,Net Cashflow,12  Mar-18*,-180.0,SOBHA
+176,Net Sales,12  Mar-19*,34421.0,SOBHA
+177,Other income,12  Mar-19*,348.0,SOBHA
+178,Total revenues,12  Mar-19*,34769.0,SOBHA
+179,Gross profit,12  Mar-19*,7120.0,SOBHA
+180,Depreciation,12  Mar-19*,623.0,SOBHA
+181,Interest,12  Mar-19*,2362.0,SOBHA
+182,Profit before tax,12  Mar-19*,4482.0,SOBHA
+183,Minority Interest,12  Mar-19*,0.0,SOBHA
+184,Prior Period Items,12  Mar-19*,0.0,SOBHA
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SOBHA
+186,Tax,12  Mar-19*,1512.0,SOBHA
+187,Profit after tax,12  Mar-19*,2970.0,SOBHA
+188,Gross profit margin,12  Mar-19*,20.7,SOBHA
+189,Effective tax rate,12  Mar-19*,33.7,SOBHA
+190,Net profit margin,12  Mar-19*,8.6,SOBHA
+191,Current assets,12  Mar-19*,93096.0,SOBHA
+192,Current liabilities,12  Mar-19*,84937.0,SOBHA
+193,Net working cap to sales,12  Mar-19*,23.7,SOBHA
+194,Current ratio,12  Mar-19*,1.1,SOBHA
+195,Inventory Days,12  Mar-19*,691.0,SOBHA
+196,Debtors Days,12  Mar-19*,35.0,SOBHA
+197,Net fixed assets,12  Mar-19*,6777.0,SOBHA
+198,Share capital,12  Mar-19*,949.0,SOBHA
+199,"""Free"" reserves",12  Mar-19*,21343.0,SOBHA
+200,Net worth,12  Mar-19*,22291.0,SOBHA
+201,Long term debt,12  Mar-19*,48.0,SOBHA
+202,Total assets,12  Mar-19*,107397.0,SOBHA
+203,Interest coverage,12  Mar-19*,2.9,SOBHA
+204,Debt to equity ratio,12  Mar-19*,0.0,SOBHA
+205,Sales to assets ratio,12  Mar-19*,0.3,SOBHA
+206,Return on assets,12  Mar-19*,5.0,SOBHA
+207,Return on equity,12  Mar-19*,13.3,SOBHA
+208,Return on capital,12  Mar-19*,30.6,SOBHA
+209,Exports to sales,12  Mar-19*,0.0,SOBHA
+210,Imports to sales,12  Mar-19*,0.0,SOBHA
+211,Exports (fob),12  Mar-19*,0.0,SOBHA
+212,Imports (cif),12  Mar-19*,0.0,SOBHA
+213,Fx inflow,12  Mar-19*,0.0,SOBHA
+214,Fx outflow,12  Mar-19*,92.0,SOBHA
+215,Net fx,12  Mar-19*,-92.0,SOBHA
+216,From Operations,12  Mar-19*,2061.0,SOBHA
+217,From Investments,12  Mar-19*,-614.0,SOBHA
+218,From Financial Activity,12  Mar-19*,-862.0,SOBHA
+219,Net Cashflow,12  Mar-19*,585.0,SOBHA

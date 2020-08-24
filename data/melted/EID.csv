@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,139526.0,EID
+1,Other income,12  Mar-15*,1116.0,EID
+2,Total revenues,12  Mar-15*,140642.0,EID
+3,Gross profit,12  Mar-15*,10115.0,EID
+4,Depreciation,12  Mar-15*,2441.0,EID
+5,Interest,12  Mar-15*,4197.0,EID
+6,Profit before tax,12  Mar-15*,4592.0,EID
+7,Minority Interest,12  Mar-15*,-1596.0,EID
+8,Prior Period Items,12  Mar-15*,0.0,EID
+9,Extraordinary Inc (Exp),12  Mar-15*,-39.0,EID
+10,Tax,12  Mar-15*,1789.0,EID
+11,Profit after tax,12  Mar-15*,1168.0,EID
+12,Gross profit margin,12  Mar-15*,7.2,EID
+13,Effective tax rate,12  Mar-15*,39.0,EID
+14,Net profit margin,12  Mar-15*,0.8,EID
+15,Current assets,12  Mar-15*,87043.0,EID
+16,Current liabilities,12  Mar-15*,82330.0,EID
+17,Net working cap to sales,12  Mar-15*,3.4,EID
+18,Current ratio,12  Mar-15*,1.1,EID
+19,Inventory Days,12  Mar-15*,103.0,EID
+20,Debtors Days,12  Mar-15*,41.0,EID
+21,Net fixed assets,12  Mar-15*,35028.0,EID
+22,Share capital,12  Mar-15*,176.0,EID
+23,"""Free"" reserves",12  Mar-15*,23512.0,EID
+24,Net worth,12  Mar-15*,23687.0,EID
+25,Long term debt,12  Mar-15*,11334.0,EID
+26,Total assets,12  Mar-15*,129451.0,EID
+27,Interest coverage,12  Mar-15*,2.1,EID
+28,Debt to equity ratio,12  Mar-15*,0.5,EID
+29,Sales to assets ratio,12  Mar-15*,1.1,EID
+30,Return on assets,12  Mar-15*,4.1,EID
+31,Return on equity,12  Mar-15*,4.9,EID
+32,Return on capital,12  Mar-15*,20.4,EID
+33,Exports to sales,12  Mar-15*,1.3,EID
+34,Imports to sales,12  Mar-15*,0.0,EID
+35,Exports (fob),12  Mar-15*,1763.0,EID
+36,Imports (cif),12  Mar-15*,50.0,EID
+37,Fx inflow,12  Mar-15*,1790.0,EID
+38,Fx outflow,12  Mar-15*,102.0,EID
+39,Net fx,12  Mar-15*,1688.0,EID
+40,From Operations,12  Mar-15*,2217.0,EID
+41,From Investments,12  Mar-15*,-3070.0,EID
+42,From Financial Activity,12  Mar-15*,-1423.0,EID
+43,Net Cashflow,12  Mar-15*,-2274.0,EID
+44,Net Sales,12  Mar-16*,153577.0,EID
+45,Other income,12  Mar-16*,1553.0,EID
+46,Total revenues,12  Mar-16*,155131.0,EID
+47,Gross profit,12  Mar-16*,8410.0,EID
+48,Depreciation,12  Mar-16*,2496.0,EID
+49,Interest,12  Mar-16*,4512.0,EID
+50,Profit before tax,12  Mar-16*,2955.0,EID
+51,Minority Interest,12  Mar-16*,234.0,EID
+52,Prior Period Items,12  Mar-16*,0.0,EID
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,EID
+54,Tax,12  Mar-16*,1437.0,EID
+55,Profit after tax,12  Mar-16*,1752.0,EID
+56,Gross profit margin,12  Mar-16*,5.5,EID
+57,Effective tax rate,12  Mar-16*,48.6,EID
+58,Net profit margin,12  Mar-16*,1.1,EID
+59,Current assets,12  Mar-16*,99500.0,EID
+60,Current liabilities,12  Mar-16*,94772.0,EID
+61,Net working cap to sales,12  Mar-16*,3.1,EID
+62,Current ratio,12  Mar-16*,1.0,EID
+63,Inventory Days,12  Mar-16*,95.0,EID
+64,Debtors Days,12  Mar-16*,49.0,EID
+65,Net fixed assets,12  Mar-16*,34573.0,EID
+66,Share capital,12  Mar-16*,176.0,EID
+67,"""Free"" reserves",12  Mar-16*,23698.0,EID
+68,Net worth,12  Mar-16*,23873.0,EID
+69,Long term debt,12  Mar-16*,10267.0,EID
+70,Total assets,12  Mar-16*,141660.0,EID
+71,Interest coverage,12  Mar-16*,1.7,EID
+72,Debt to equity ratio,12  Mar-16*,0.4,EID
+73,Sales to assets ratio,12  Mar-16*,1.1,EID
+74,Return on assets,12  Mar-16*,4.4,EID
+75,Return on equity,12  Mar-16*,7.3,EID
+76,Return on capital,12  Mar-16*,22.6,EID
+77,Exports to sales,12  Mar-16*,1.6,EID
+78,Imports to sales,12  Mar-16*,0.0,EID
+79,Exports (fob),12  Mar-16*,2515.0,EID
+80,Imports (cif),12  Mar-16*,10.0,EID
+81,Fx inflow,12  Mar-16*,2515.0,EID
+82,Fx outflow,12  Mar-16*,88.0,EID
+83,Net fx,12  Mar-16*,2427.0,EID
+84,From Operations,12  Mar-16*,4370.0,EID
+85,From Investments,12  Mar-16*,-1900.0,EID
+86,From Financial Activity,12  Mar-16*,-2212.0,EID
+87,Net Cashflow,12  Mar-16*,234.0,EID
+88,Net Sales,12  Mar-17*,143913.0,EID
+89,Other income,12  Mar-17*,1586.0,EID
+90,Total revenues,12  Mar-17*,145498.0,EID
+91,Gross profit,12  Mar-17*,14264.0,EID
+92,Depreciation,12  Mar-17*,2480.0,EID
+93,Interest,12  Mar-17*,4173.0,EID
+94,Profit before tax,12  Mar-17*,9196.0,EID
+95,Minority Interest,12  Mar-17*,0.0,EID
+96,Prior Period Items,12  Mar-17*,0.0,EID
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,EID
+98,Tax,12  Mar-17*,2114.0,EID
+99,Profit after tax,12  Mar-17*,7083.0,EID
+100,Gross profit margin,12  Mar-17*,9.9,EID
+101,Effective tax rate,12  Mar-17*,23.0,EID
+102,Net profit margin,12  Mar-17*,4.9,EID
+103,Current assets,12  Mar-17*,94597.0,EID
+104,Current liabilities,12  Mar-17*,85157.0,EID
+105,Net working cap to sales,12  Mar-17*,6.6,EID
+106,Current ratio,12  Mar-17*,1.1,EID
+107,Inventory Days,12  Mar-17*,91.0,EID
+108,Debtors Days,12  Mar-17*,47.0,EID
+109,Net fixed assets,12  Mar-17*,33352.0,EID
+110,Share capital,12  Mar-17*,176.0,EID
+111,"""Free"" reserves",12  Mar-17*,27327.0,EID
+112,Net worth,12  Mar-17*,27503.0,EID
+113,Long term debt,12  Mar-17*,8427.0,EID
+114,Total assets,12  Mar-17*,134313.0,EID
+115,Interest coverage,12  Mar-17*,3.2,EID
+116,Debt to equity ratio,12  Mar-17*,0.3,EID
+117,Sales to assets ratio,12  Mar-17*,1.1,EID
+118,Return on assets,12  Mar-17*,8.4,EID
+119,Return on equity,12  Mar-17*,25.8,EID
+120,Return on capital,12  Mar-17*,37.2,EID
+121,Exports to sales,12  Mar-17*,1.0,EID
+122,Imports to sales,12  Mar-17*,0.0,EID
+123,Exports (fob),12  Mar-17*,1455.0,EID
+124,Imports (cif),12  Mar-17*,0.0,EID
+125,Fx inflow,12  Mar-17*,1455.0,EID
+126,Fx outflow,12  Mar-17*,148.0,EID
+127,Net fx,12  Mar-17*,1308.0,EID
+128,From Operations,12  Mar-17*,19688.0,EID
+129,From Investments,12  Mar-17*,-1482.0,EID
+130,From Financial Activity,12  Mar-17*,-18417.0,EID
+131,Net Cashflow,12  Mar-17*,-210.0,EID
+132,Net Sales,12  Mar-18*,153728.0,EID
+133,Other income,12  Mar-18*,1734.0,EID
+134,Total revenues,12  Mar-18*,155462.0,EID
+135,Gross profit,12  Mar-18*,12816.0,EID
+136,Depreciation,12  Mar-18*,2513.0,EID
+137,Interest,12  Mar-18*,3355.0,EID
+138,Profit before tax,12  Mar-18*,8682.0,EID
+139,Minority Interest,12  Mar-18*,0.0,EID
+140,Prior Period Items,12  Mar-18*,0.0,EID
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,EID
+142,Tax,12  Mar-18*,3507.0,EID
+143,Profit after tax,12  Mar-18*,5174.0,EID
+144,Gross profit margin,12  Mar-18*,8.3,EID
+145,Effective tax rate,12  Mar-18*,40.4,EID
+146,Net profit margin,12  Mar-18*,3.4,EID
+147,Current assets,12  Mar-18*,106721.0,EID
+148,Current liabilities,12  Mar-18*,97905.0,EID
+149,Net working cap to sales,12  Mar-18*,5.7,EID
+150,Current ratio,12  Mar-18*,1.1,EID
+151,Inventory Days,12  Mar-18*,97.0,EID
+152,Debtors Days,12  Mar-18*,43.0,EID
+153,Net fixed assets,12  Mar-18*,32507.0,EID
+154,Share capital,12  Mar-18*,177.0,EID
+155,"""Free"" reserves",12  Mar-18*,29522.0,EID
+156,Net worth,12  Mar-18*,29699.0,EID
+157,Long term debt,12  Mar-18*,4100.0,EID
+158,Total assets,12  Mar-18*,145988.0,EID
+159,Interest coverage,12  Mar-18*,3.6,EID
+160,Debt to equity ratio,12  Mar-18*,0.1,EID
+161,Sales to assets ratio,12  Mar-18*,1.1,EID
+162,Return on assets,12  Mar-18*,5.8,EID
+163,Return on equity,12  Mar-18*,17.4,EID
+164,Return on capital,12  Mar-18*,35.6,EID
+165,Exports to sales,12  Mar-18*,0.9,EID
+166,Imports to sales,12  Mar-18*,0.0,EID
+167,Exports (fob),12  Mar-18*,1423.0,EID
+168,Imports (cif),12  Mar-18*,0.0,EID
+169,Fx inflow,12  Mar-18*,1423.0,EID
+170,Fx outflow,12  Mar-18*,4180.0,EID
+171,Net fx,12  Mar-18*,-2757.0,EID
+172,From Operations,12  Mar-18*,2593.0,EID
+173,From Investments,12  Mar-18*,128.0,EID
+174,From Financial Activity,12  Mar-18*,418.0,EID
+175,Net Cashflow,12  Mar-18*,3139.0,EID
+176,Net Sales,12  Mar-19*,165654.0,EID
+177,Other income,12  Mar-19*,-476.0,EID
+178,Total revenues,12  Mar-19*,165178.0,EID
+179,Gross profit,12  Mar-19*,15814.0,EID
+180,Depreciation,12  Mar-19*,2723.0,EID
+181,Interest,12  Mar-19*,4245.0,EID
+182,Profit before tax,12  Mar-19*,8370.0,EID
+183,Minority Interest,12  Mar-19*,0.0,EID
+184,Prior Period Items,12  Mar-19*,0.0,EID
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,EID
+186,Tax,12  Mar-19*,3993.0,EID
+187,Profit after tax,12  Mar-19*,4377.0,EID
+188,Gross profit margin,12  Mar-19*,9.5,EID
+189,Effective tax rate,12  Mar-19*,47.7,EID
+190,Net profit margin,12  Mar-19*,2.6,EID
+191,Current assets,12  Mar-19*,120031.0,EID
+192,Current liabilities,12  Mar-19*,109124.0,EID
+193,Net working cap to sales,12  Mar-19*,6.6,EID
+194,Current ratio,12  Mar-19*,1.1,EID
+195,Inventory Days,12  Mar-19*,127.0,EID
+196,Debtors Days,12  Mar-19*,46.0,EID
+197,Net fixed assets,12  Mar-19*,32805.0,EID
+198,Share capital,12  Mar-19*,177.0,EID
+199,"""Free"" reserves",12  Mar-19*,31102.0,EID
+200,Net worth,12  Mar-19*,31279.0,EID
+201,Long term debt,12  Mar-19*,4521.0,EID
+202,Total assets,12  Mar-19*,159896.0,EID
+203,Interest coverage,12  Mar-19*,3.0,EID
+204,Debt to equity ratio,12  Mar-19*,0.1,EID
+205,Sales to assets ratio,12  Mar-19*,1.0,EID
+206,Return on assets,12  Mar-19*,5.4,EID
+207,Return on equity,12  Mar-19*,14.0,EID
+208,Return on capital,12  Mar-19*,35.2,EID
+209,Exports to sales,12  Mar-19*,1.1,EID
+210,Imports to sales,12  Mar-19*,0.0,EID
+211,Exports (fob),12  Mar-19*,1757.0,EID
+212,Imports (cif),12  Mar-19*,0.0,EID
+213,Fx inflow,12  Mar-19*,1757.0,EID
+214,Fx outflow,12  Mar-19*,174.0,EID
+215,Net fx,12  Mar-19*,1583.0,EID
+216,From Operations,12  Mar-19*,-524.0,EID
+217,From Investments,12  Mar-19*,-3583.0,EID
+218,From Financial Activity,12  Mar-19*,344.0,EID
+219,Net Cashflow,12  Mar-19*,-3748.0,EID

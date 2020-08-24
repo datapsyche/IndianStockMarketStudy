@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,5443.0,ZNEWS
+1,Other income,12  Mar-15*,94.0,ZNEWS
+2,Total revenues,12  Mar-15*,5538.0,ZNEWS
+3,Gross profit,12  Mar-15*,382.0,ZNEWS
+4,Depreciation,12  Mar-15*,505.0,ZNEWS
+5,Interest,12  Mar-15*,526.0,ZNEWS
+6,Profit before tax,12  Mar-15*,-555.0,ZNEWS
+7,Minority Interest,12  Mar-15*,-35.0,ZNEWS
+8,Prior Period Items,12  Mar-15*,0.0,ZNEWS
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ZNEWS
+10,Tax,12  Mar-15*,-124.0,ZNEWS
+11,Profit after tax,12  Mar-15*,-467.0,ZNEWS
+12,Gross profit margin,12  Mar-15*,7.0,ZNEWS
+13,Effective tax rate,12  Mar-15*,22.3,ZNEWS
+14,Net profit margin,12  Mar-15*,-8.6,ZNEWS
+15,Current assets,12  Mar-15*,2025.0,ZNEWS
+16,Current liabilities,12  Mar-15*,3275.0,ZNEWS
+17,Net working cap to sales,12  Mar-15*,-23.0,ZNEWS
+18,Current ratio,12  Mar-15*,0.6,ZNEWS
+19,Inventory Days,12  Mar-15*,3.0,ZNEWS
+20,Debtors Days,12  Mar-15*,77.0,ZNEWS
+21,Net fixed assets,12  Mar-15*,6335.0,ZNEWS
+22,Share capital,12  Mar-15*,337.0,ZNEWS
+23,"""Free"" reserves",12  Mar-15*,3247.0,ZNEWS
+24,Net worth,12  Mar-15*,3584.0,ZNEWS
+25,Long term debt,12  Mar-15*,2727.0,ZNEWS
+26,Total assets,12  Mar-15*,9878.0,ZNEWS
+27,Interest coverage,12  Mar-15*,-0.1,ZNEWS
+28,Debt to equity ratio,12  Mar-15*,0.8,ZNEWS
+29,Sales to assets ratio,12  Mar-15*,0.6,ZNEWS
+30,Return on assets,12  Mar-15*,0.6,ZNEWS
+31,Return on equity,12  Mar-15*,-13.0,ZNEWS
+32,Return on capital,12  Mar-15*,-1.0,ZNEWS
+33,Exports to sales,12  Mar-15*,2.1,ZNEWS
+34,Imports to sales,12  Mar-15*,1.2,ZNEWS
+35,Exports (fob),12  Mar-15*,115.0,ZNEWS
+36,Imports (cif),12  Mar-15*,66.0,ZNEWS
+37,Fx inflow,12  Mar-15*,131.0,ZNEWS
+38,Fx outflow,12  Mar-15*,160.0,ZNEWS
+39,Net fx,12  Mar-15*,-29.0,ZNEWS
+40,From Operations,12  Mar-15*,-179.0,ZNEWS
+41,From Investments,12  Mar-15*,133.0,ZNEWS
+42,From Financial Activity,12  Mar-15*,189.0,ZNEWS
+43,Net Cashflow,12  Mar-15*,185.0,ZNEWS
+44,Net Sales,12  Mar-16*,5430.0,ZNEWS
+45,Other income,12  Mar-16*,186.0,ZNEWS
+46,Total revenues,12  Mar-16*,5616.0,ZNEWS
+47,Gross profit,12  Mar-16*,787.0,ZNEWS
+48,Depreciation,12  Mar-16*,466.0,ZNEWS
+49,Interest,12  Mar-16*,487.0,ZNEWS
+50,Profit before tax,12  Mar-16*,21.0,ZNEWS
+51,Minority Interest,12  Mar-16*,0.0,ZNEWS
+52,Prior Period Items,12  Mar-16*,0.0,ZNEWS
+53,Extraordinary Inc (Exp),12  Mar-16*,-62.0,ZNEWS
+54,Tax,12  Mar-16*,5.0,ZNEWS
+55,Profit after tax,12  Mar-16*,-45.0,ZNEWS
+56,Gross profit margin,12  Mar-16*,14.5,ZNEWS
+57,Effective tax rate,12  Mar-16*,23.5,ZNEWS
+58,Net profit margin,12  Mar-16*,-0.8,ZNEWS
+59,Current assets,12  Mar-16*,3164.0,ZNEWS
+60,Current liabilities,12  Mar-16*,1899.0,ZNEWS
+61,Net working cap to sales,12  Mar-16*,23.3,ZNEWS
+62,Current ratio,12  Mar-16*,1.7,ZNEWS
+63,Inventory Days,12  Mar-16*,4.0,ZNEWS
+64,Debtors Days,12  Mar-16*,79.0,ZNEWS
+65,Net fixed assets,12  Mar-16*,5951.0,ZNEWS
+66,Share capital,12  Mar-16*,440.0,ZNEWS
+67,"""Free"" reserves",12  Mar-16*,5004.0,ZNEWS
+68,Net worth,12  Mar-16*,5444.0,ZNEWS
+69,Long term debt,12  Mar-16*,3361.0,ZNEWS
+70,Total assets,12  Mar-16*,11045.0,ZNEWS
+71,Interest coverage,12  Mar-16*,1.0,ZNEWS
+72,Debt to equity ratio,12  Mar-16*,0.6,ZNEWS
+73,Sales to assets ratio,12  Mar-16*,0.5,ZNEWS
+74,Return on assets,12  Mar-16*,4.0,ZNEWS
+75,Return on equity,12  Mar-16*,-0.8,ZNEWS
+76,Return on capital,12  Mar-16*,5.1,ZNEWS
+77,Exports to sales,12  Mar-16*,2.4,ZNEWS
+78,Imports to sales,12  Mar-16*,2.4,ZNEWS
+79,Exports (fob),12  Mar-16*,128.0,ZNEWS
+80,Imports (cif),12  Mar-16*,130.0,ZNEWS
+81,Fx inflow,12  Mar-16*,149.0,ZNEWS
+82,Fx outflow,12  Mar-16*,209.0,ZNEWS
+83,Net fx,12  Mar-16*,-60.0,ZNEWS
+84,From Operations,12  Mar-16*,335.0,ZNEWS
+85,From Investments,12  Mar-16*,-646.0,ZNEWS
+86,From Financial Activity,12  Mar-16*,1002.0,ZNEWS
+87,Net Cashflow,12  Mar-16*,691.0,ZNEWS
+88,Net Sales,12  Mar-17*,4498.0,ZNEWS
+89,Other income,12  Mar-17*,166.0,ZNEWS
+90,Total revenues,12  Mar-17*,4665.0,ZNEWS
+91,Gross profit,12  Mar-17*,999.0,ZNEWS
+92,Depreciation,12  Mar-17*,275.0,ZNEWS
+93,Interest,12  Mar-17*,150.0,ZNEWS
+94,Profit before tax,12  Mar-17*,741.0,ZNEWS
+95,Minority Interest,12  Mar-17*,-30.0,ZNEWS
+96,Prior Period Items,12  Mar-17*,0.0,ZNEWS
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ZNEWS
+98,Tax,12  Mar-17*,229.0,ZNEWS
+99,Profit after tax,12  Mar-17*,482.0,ZNEWS
+100,Gross profit margin,12  Mar-17*,22.2,ZNEWS
+101,Effective tax rate,12  Mar-17*,30.9,ZNEWS
+102,Net profit margin,12  Mar-17*,10.7,ZNEWS
+103,Current assets,12  Mar-17*,2302.0,ZNEWS
+104,Current liabilities,12  Mar-17*,2120.0,ZNEWS
+105,Net working cap to sales,12  Mar-17*,4.1,ZNEWS
+106,Current ratio,12  Mar-17*,1.1,ZNEWS
+107,Inventory Days,12  Mar-17*,0.0,ZNEWS
+108,Debtors Days,12  Mar-17*,114.0,ZNEWS
+109,Net fixed assets,12  Mar-17*,1390.0,ZNEWS
+110,Share capital,12  Mar-17*,471.0,ZNEWS
+111,"""Free"" reserves",12  Mar-17*,4686.0,ZNEWS
+112,Net worth,12  Mar-17*,5157.0,ZNEWS
+113,Long term debt,12  Mar-17*,480.0,ZNEWS
+114,Total assets,12  Mar-17*,11876.0,ZNEWS
+115,Interest coverage,12  Mar-17*,5.9,ZNEWS
+116,Debt to equity ratio,12  Mar-17*,0.1,ZNEWS
+117,Sales to assets ratio,12  Mar-17*,0.4,ZNEWS
+118,Return on assets,12  Mar-17*,5.3,ZNEWS
+119,Return on equity,12  Mar-17*,9.3,ZNEWS
+120,Return on capital,12  Mar-17*,15.3,ZNEWS
+121,Exports to sales,12  Mar-17*,0.0,ZNEWS
+122,Imports to sales,12  Mar-17*,0.0,ZNEWS
+123,Exports (fob),12  Mar-17*,0.0,ZNEWS
+124,Imports (cif),12  Mar-17*,0.0,ZNEWS
+125,Fx inflow,12  Mar-17*,87.0,ZNEWS
+126,Fx outflow,12  Mar-17*,102.0,ZNEWS
+127,Net fx,12  Mar-17*,-15.0,ZNEWS
+128,From Operations,12  Mar-17*,951.0,ZNEWS
+129,From Investments,12  Mar-17*,-954.0,ZNEWS
+130,From Financial Activity,12  Mar-17*,-326.0,ZNEWS
+131,Net Cashflow,12  Mar-17*,-375.0,ZNEWS
+132,Net Sales,12  Mar-18*,5735.0,ZNEWS
+133,Other income,12  Mar-18*,89.0,ZNEWS
+134,Total revenues,12  Mar-18*,5824.0,ZNEWS
+135,Gross profit,12  Mar-18*,1330.0,ZNEWS
+136,Depreciation,12  Mar-18*,410.0,ZNEWS
+137,Interest,12  Mar-18*,176.0,ZNEWS
+138,Profit before tax,12  Mar-18*,833.0,ZNEWS
+139,Minority Interest,12  Mar-18*,-46.0,ZNEWS
+140,Prior Period Items,12  Mar-18*,0.0,ZNEWS
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ZNEWS
+142,Tax,12  Mar-18*,297.0,ZNEWS
+143,Profit after tax,12  Mar-18*,490.0,ZNEWS
+144,Gross profit margin,12  Mar-18*,23.2,ZNEWS
+145,Effective tax rate,12  Mar-18*,35.7,ZNEWS
+146,Net profit margin,12  Mar-18*,8.5,ZNEWS
+147,Current assets,12  Mar-18*,2323.0,ZNEWS
+148,Current liabilities,12  Mar-18*,2395.0,ZNEWS
+149,Net working cap to sales,12  Mar-18*,-1.3,ZNEWS
+150,Current ratio,12  Mar-18*,1.0,ZNEWS
+151,Inventory Days,12  Mar-18*,0.0,ZNEWS
+152,Debtors Days,12  Mar-18*,111.0,ZNEWS
+153,Net fixed assets,12  Mar-18*,2377.0,ZNEWS
+154,Share capital,12  Mar-18*,471.0,ZNEWS
+155,"""Free"" reserves",12  Mar-18*,6251.0,ZNEWS
+156,Net worth,12  Mar-18*,6721.0,ZNEWS
+157,Long term debt,12  Mar-18*,628.0,ZNEWS
+158,Total assets,12  Mar-18*,10525.0,ZNEWS
+159,Interest coverage,12  Mar-18*,5.7,ZNEWS
+160,Debt to equity ratio,12  Mar-18*,0.1,ZNEWS
+161,Sales to assets ratio,12  Mar-18*,0.5,ZNEWS
+162,Return on assets,12  Mar-18*,6.3,ZNEWS
+163,Return on equity,12  Mar-18*,7.3,ZNEWS
+164,Return on capital,12  Mar-18*,13.1,ZNEWS
+165,Exports to sales,12  Mar-18*,0.0,ZNEWS
+166,Imports to sales,12  Mar-18*,0.0,ZNEWS
+167,Exports (fob),12  Mar-18*,0.0,ZNEWS
+168,Imports (cif),12  Mar-18*,0.0,ZNEWS
+169,Fx inflow,12  Mar-18*,132.0,ZNEWS
+170,Fx outflow,12  Mar-18*,123.0,ZNEWS
+171,Net fx,12  Mar-18*,8.0,ZNEWS
+172,From Operations,12  Mar-18*,660.0,ZNEWS
+173,From Investments,12  Mar-18*,-1028.0,ZNEWS
+174,From Financial Activity,12  Mar-18*,-148.0,ZNEWS
+175,Net Cashflow,12  Mar-18*,-516.0,ZNEWS
+176,Net Sales,12  Mar-19*,6869.0,ZNEWS
+177,Other income,12  Mar-19*,117.0,ZNEWS
+178,Total revenues,12  Mar-19*,6986.0,ZNEWS
+179,Gross profit,12  Mar-19*,1737.0,ZNEWS
+180,Depreciation,12  Mar-19*,554.0,ZNEWS
+181,Interest,12  Mar-19*,180.0,ZNEWS
+182,Profit before tax,12  Mar-19*,1119.0,ZNEWS
+183,Minority Interest,12  Mar-19*,-6.0,ZNEWS
+184,Prior Period Items,12  Mar-19*,0.0,ZNEWS
+185,Extraordinary Inc (Exp),12  Mar-19*,-621.0,ZNEWS
+186,Tax,12  Mar-19*,360.0,ZNEWS
+187,Profit after tax,12  Mar-19*,132.0,ZNEWS
+188,Gross profit margin,12  Mar-19*,25.3,ZNEWS
+189,Effective tax rate,12  Mar-19*,32.2,ZNEWS
+190,Net profit margin,12  Mar-19*,1.9,ZNEWS
+191,Current assets,12  Mar-19*,3581.0,ZNEWS
+192,Current liabilities,12  Mar-19*,2696.0,ZNEWS
+193,Net working cap to sales,12  Mar-19*,12.9,ZNEWS
+194,Current ratio,12  Mar-19*,1.3,ZNEWS
+195,Inventory Days,12  Mar-19*,2.0,ZNEWS
+196,Debtors Days,12  Mar-19*,110.0,ZNEWS
+197,Net fixed assets,12  Mar-19*,2475.0,ZNEWS
+198,Share capital,12  Mar-19*,471.0,ZNEWS
+199,"""Free"" reserves",12  Mar-19*,5905.0,ZNEWS
+200,Net worth,12  Mar-19*,6376.0,ZNEWS
+201,Long term debt,12  Mar-19*,1013.0,ZNEWS
+202,Total assets,12  Mar-19*,10425.0,ZNEWS
+203,Interest coverage,12  Mar-19*,7.2,ZNEWS
+204,Debt to equity ratio,12  Mar-19*,0.2,ZNEWS
+205,Sales to assets ratio,12  Mar-19*,0.7,ZNEWS
+206,Return on assets,12  Mar-19*,3.0,ZNEWS
+207,Return on equity,12  Mar-19*,2.1,ZNEWS
+208,Return on capital,12  Mar-19*,9.1,ZNEWS
+209,Exports to sales,12  Mar-19*,0.0,ZNEWS
+210,Imports to sales,12  Mar-19*,0.0,ZNEWS
+211,Exports (fob),12  Mar-19*,0.0,ZNEWS
+212,Imports (cif),12  Mar-19*,0.0,ZNEWS
+213,Fx inflow,12  Mar-19*,97.0,ZNEWS
+214,Fx outflow,12  Mar-19*,215.0,ZNEWS
+215,Net fx,12  Mar-19*,-118.0,ZNEWS
+216,From Operations,12  Mar-19*,589.0,ZNEWS
+217,From Investments,12  Mar-19*,-980.0,ZNEWS
+218,From Financial Activity,12  Mar-19*,343.0,ZNEWS
+219,Net Cashflow,12  Mar-19*,-46.0,ZNEWS

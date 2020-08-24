@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,9537.0,INOL
+1,Other income,12  Mar-15,111.0,INOL
+2,Total revenues,12  Mar-15,9647.0,INOL
+3,Gross profit,12  Mar-15,1207.0,INOL
+4,Depreciation,12  Mar-15,715.0,INOL
+5,Interest,12  Mar-15,384.0,INOL
+6,Profit before tax,12  Mar-15,219.0,INOL
+7,Minority Interest,12  Mar-15,0.0,INOL
+8,Prior Period Items,12  Mar-15,85.0,INOL
+9,Extraordinary Inc (Exp),12  Mar-15,-5.0,INOL
+10,Tax,12  Mar-15,51.0,INOL
+11,Profit after tax,12  Mar-15,248.0,INOL
+12,Gross profit margin,12  Mar-15,12.7,INOL
+13,Effective tax rate,12  Mar-15,23.4,INOL
+14,Net profit margin,12  Mar-15,2.6,INOL
+15,Current assets,12  Mar-15,1007.0,INOL
+16,Current liabilities,12  Mar-15,2207.0,INOL
+17,Net working cap to sales,12  Mar-15,-12.6,INOL
+18,Current ratio,12  Mar-15,0.5,INOL
+19,Inventory Days,12  Mar-15,3.0,INOL
+20,Debtors Days,12  Mar-15,23.0,INOL
+21,Net fixed assets,12  Mar-15,6132.0,INOL
+22,Share capital,12  Mar-15,962.0,INOL
+23,"""Free"" reserves",12  Mar-15,3779.0,INOL
+24,Net worth,12  Mar-15,4741.0,INOL
+25,Long term debt,12  Mar-15,2005.0,INOL
+26,Total assets,12  Mar-15,9607.0,INOL
+27,Interest coverage,12  Mar-15,1.6,INOL
+28,Debt to equity ratio,12  Mar-15,0.4,INOL
+29,Sales to assets ratio,12  Mar-15,1.0,INOL
+30,Return on assets,12  Mar-15,6.6,INOL
+31,Return on equity,12  Mar-15,5.2,INOL
+32,Return on capital,12  Mar-15,10.1,INOL
+33,Exports to sales,12  Mar-15,0.0,INOL
+34,Imports to sales,12  Mar-15,0.3,INOL
+35,Exports (fob),12  Mar-15,0.0,INOL
+36,Imports (cif),12  Mar-15,30.0,INOL
+37,Fx inflow,12  Mar-15,0.0,INOL
+38,Fx outflow,12  Mar-15,33.0,INOL
+39,Net fx,12  Mar-15,-33.0,INOL
+40,From Operations,12  Mar-15,849.0,INOL
+41,From Investments,12  Mar-15,-469.0,INOL
+42,From Financial Activity,12  Mar-15,-436.0,INOL
+43,Net Cashflow,12  Mar-15,-56.0,INOL
+44,Net Sales,12  Mar-16*,11606.0,INOL
+45,Other income,12  Mar-16*,78.0,INOL
+46,Total revenues,12  Mar-16*,11684.0,INOL
+47,Gross profit,12  Mar-16*,1891.0,INOL
+48,Depreciation,12  Mar-16*,791.0,INOL
+49,Interest,12  Mar-16*,245.0,INOL
+50,Profit before tax,12  Mar-16*,933.0,INOL
+51,Minority Interest,12  Mar-16*,0.0,INOL
+52,Prior Period Items,12  Mar-16*,0.0,INOL
+53,Extraordinary Inc (Exp),12  Mar-16*,-50.0,INOL
+54,Tax,12  Mar-16*,74.0,INOL
+55,Profit after tax,12  Mar-16*,811.0,INOL
+56,Gross profit margin,12  Mar-16*,16.3,INOL
+57,Effective tax rate,12  Mar-16*,7.9,INOL
+58,Net profit margin,12  Mar-16*,7.0,INOL
+59,Current assets,12  Mar-16*,1171.0,INOL
+60,Current liabilities,12  Mar-16*,2173.0,INOL
+61,Net working cap to sales,12  Mar-16*,-8.6,INOL
+62,Current ratio,12  Mar-16*,0.5,INOL
+63,Inventory Days,12  Mar-16*,2.0,INOL
+64,Debtors Days,12  Mar-16*,16.0,INOL
+65,Net fixed assets,12  Mar-16*,7044.0,INOL
+66,Share capital,12  Mar-16*,962.0,INOL
+67,"""Free"" reserves",12  Mar-16*,4588.0,INOL
+68,Net worth,12  Mar-16*,5549.0,INOL
+69,Long term debt,12  Mar-16*,2169.0,INOL
+70,Total assets,12  Mar-16*,10521.0,INOL
+71,Interest coverage,12  Mar-16*,4.8,INOL
+72,Debt to equity ratio,12  Mar-16*,0.4,INOL
+73,Sales to assets ratio,12  Mar-16*,1.1,INOL
+74,Return on assets,12  Mar-16*,10.0,INOL
+75,Return on equity,12  Mar-16*,14.6,INOL
+76,Return on capital,12  Mar-16*,14.6,INOL
+77,Exports to sales,12  Mar-16*,0.0,INOL
+78,Imports to sales,12  Mar-16*,0.8,INOL
+79,Exports (fob),12  Mar-16*,0.0,INOL
+80,Imports (cif),12  Mar-16*,90.0,INOL
+81,Fx inflow,12  Mar-16*,0.0,INOL
+82,Fx outflow,12  Mar-16*,101.0,INOL
+83,Net fx,12  Mar-16*,-101.0,INOL
+84,From Operations,12  Mar-16*,1691.0,INOL
+85,From Investments,12  Mar-16*,-1568.0,INOL
+86,From Financial Activity,12  Mar-16*,6.0,INOL
+87,Net Cashflow,12  Mar-16*,129.0,INOL
+88,Net Sales,12  Mar-17*,12207.0,INOL
+89,Other income,12  Mar-17*,91.0,INOL
+90,Total revenues,12  Mar-17*,12298.0,INOL
+91,Gross profit,12  Mar-17*,1448.0,INOL
+92,Depreciation,12  Mar-17*,841.0,INOL
+93,Interest,12  Mar-17*,253.0,INOL
+94,Profit before tax,12  Mar-17*,446.0,INOL
+95,Minority Interest,12  Mar-17*,1.0,INOL
+96,Prior Period Items,12  Mar-17*,0.0,INOL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,INOL
+98,Tax,12  Mar-17*,140.0,INOL
+99,Profit after tax,12  Mar-17*,306.0,INOL
+100,Gross profit margin,12  Mar-17*,11.9,INOL
+101,Effective tax rate,12  Mar-17*,31.4,INOL
+102,Net profit margin,12  Mar-17*,2.5,INOL
+103,Current assets,12  Mar-17*,1053.0,INOL
+104,Current liabilities,12  Mar-17*,2036.0,INOL
+105,Net working cap to sales,12  Mar-17*,-8.1,INOL
+106,Current ratio,12  Mar-17*,0.5,INOL
+107,Inventory Days,12  Mar-17*,3.0,INOL
+108,Debtors Days,12  Mar-17*,14.0,INOL
+109,Net fixed assets,12  Mar-17*,7653.0,INOL
+110,Share capital,12  Mar-17*,962.0,INOL
+111,"""Free"" reserves",12  Mar-17*,4890.0,INOL
+112,Net worth,12  Mar-17*,5852.0,INOL
+113,Long term debt,12  Mar-17*,2919.0,INOL
+114,Total assets,12  Mar-17*,11441.0,INOL
+115,Interest coverage,12  Mar-17*,2.8,INOL
+116,Debt to equity ratio,12  Mar-17*,0.5,INOL
+117,Sales to assets ratio,12  Mar-17*,1.1,INOL
+118,Return on assets,12  Mar-17*,4.9,INOL
+119,Return on equity,12  Mar-17*,5.2,INOL
+120,Return on capital,12  Mar-17*,8.0,INOL
+121,Exports to sales,12  Mar-17*,0.0,INOL
+122,Imports to sales,12  Mar-17*,3.0,INOL
+123,Exports (fob),12  Mar-17*,0.0,INOL
+124,Imports (cif),12  Mar-17*,369.0,INOL
+125,Fx inflow,12  Mar-17*,0.0,INOL
+126,Fx outflow,12  Mar-17*,373.0,INOL
+127,Net fx,12  Mar-17*,-373.0,INOL
+128,From Operations,12  Mar-17*,1080.0,INOL
+129,From Investments,12  Mar-17*,-1453.0,INOL
+130,From Financial Activity,12  Mar-17*,244.0,INOL
+131,Net Cashflow,12  Mar-17*,-129.0,INOL
+132,Net Sales,12  Mar-18*,13481.0,INOL
+133,Other income,12  Mar-18*,145.0,INOL
+134,Total revenues,12  Mar-18*,13626.0,INOL
+135,Gross profit,12  Mar-18*,2074.0,INOL
+136,Depreciation,12  Mar-18*,867.0,INOL
+137,Interest,12  Mar-18*,289.0,INOL
+138,Profit before tax,12  Mar-18*,1062.0,INOL
+139,Minority Interest,12  Mar-18*,0.0,INOL
+140,Prior Period Items,12  Mar-18*,0.0,INOL
+141,Extraordinary Inc (Exp),12  Mar-18*,-85.0,INOL
+142,Tax,12  Mar-18*,-170.0,INOL
+143,Profit after tax,12  Mar-18*,1146.0,INOL
+144,Gross profit margin,12  Mar-18*,15.4,INOL
+145,Effective tax rate,12  Mar-18*,-16.0,INOL
+146,Net profit margin,12  Mar-18*,8.5,INOL
+147,Current assets,12  Mar-18*,1435.0,INOL
+148,Current liabilities,12  Mar-18*,2741.0,INOL
+149,Net working cap to sales,12  Mar-18*,-9.7,INOL
+150,Current ratio,12  Mar-18*,0.5,INOL
+151,Inventory Days,12  Mar-18*,3.0,INOL
+152,Debtors Days,12  Mar-18*,21.0,INOL
+153,Net fixed assets,12  Mar-18*,8257.0,INOL
+154,Share capital,12  Mar-18*,962.0,INOL
+155,"""Free"" reserves",12  Mar-18*,6061.0,INOL
+156,Net worth,12  Mar-18*,7023.0,INOL
+157,Long term debt,12  Mar-18*,2524.0,INOL
+158,Total assets,12  Mar-18*,12850.0,INOL
+159,Interest coverage,12  Mar-18*,4.7,INOL
+160,Debt to equity ratio,12  Mar-18*,0.4,INOL
+161,Sales to assets ratio,12  Mar-18*,1.0,INOL
+162,Return on assets,12  Mar-18*,11.2,INOL
+163,Return on equity,12  Mar-18*,16.3,INOL
+164,Return on capital,12  Mar-18*,13.3,INOL
+165,Exports to sales,12  Mar-18*,0.0,INOL
+166,Imports to sales,12  Mar-18*,2.4,INOL
+167,Exports (fob),12  Mar-18*,0.0,INOL
+168,Imports (cif),12  Mar-18*,327.0,INOL
+169,Fx inflow,12  Mar-18*,0.0,INOL
+170,Fx outflow,12  Mar-18*,332.0,INOL
+171,Net fx,12  Mar-18*,-332.0,INOL
+172,From Operations,12  Mar-18*,2111.0,INOL
+173,From Investments,12  Mar-18*,-1539.0,INOL
+174,From Financial Activity,12  Mar-18*,-540.0,INOL
+175,Net Cashflow,12  Mar-18*,35.0,INOL
+176,Net Sales,12  Mar-19*,16922.0,INOL
+177,Other income,12  Mar-19*,149.0,INOL
+178,Total revenues,12  Mar-19*,17071.0,INOL
+179,Gross profit,12  Mar-19*,3083.0,INOL
+180,Depreciation,12  Mar-19*,955.0,INOL
+181,Interest,12  Mar-19*,237.0,INOL
+182,Profit before tax,12  Mar-19*,2041.0,INOL
+183,Minority Interest,12  Mar-19*,0.0,INOL
+184,Prior Period Items,12  Mar-19*,0.0,INOL
+185,Extraordinary Inc (Exp),12  Mar-19*,-50.0,INOL
+186,Tax,12  Mar-19*,656.0,INOL
+187,Profit after tax,12  Mar-19*,1335.0,INOL
+188,Gross profit margin,12  Mar-19*,18.2,INOL
+189,Effective tax rate,12  Mar-19*,32.1,INOL
+190,Net profit margin,12  Mar-19*,7.9,INOL
+191,Current assets,12  Mar-19*,1513.0,INOL
+192,Current liabilities,12  Mar-19*,3693.0,INOL
+193,Net working cap to sales,12  Mar-19*,-12.9,INOL
+194,Current ratio,12  Mar-19*,0.4,INOL
+195,Inventory Days,12  Mar-19*,3.0,INOL
+196,Debtors Days,12  Mar-19*,19.0,INOL
+197,Net fixed assets,12  Mar-19*,9861.0,INOL
+198,Share capital,12  Mar-19*,1026.0,INOL
+199,"""Free"" reserves",12  Mar-19*,8939.0,INOL
+200,Net worth,12  Mar-19*,9965.0,INOL
+201,Long term debt,12  Mar-19*,550.0,INOL
+202,Total assets,12  Mar-19*,14788.0,INOL
+203,Interest coverage,12  Mar-19*,9.6,INOL
+204,Debt to equity ratio,12  Mar-19*,0.1,INOL
+205,Sales to assets ratio,12  Mar-19*,1.1,INOL
+206,Return on assets,12  Mar-19*,10.6,INOL
+207,Return on equity,12  Mar-19*,13.4,INOL
+208,Return on capital,12  Mar-19*,21.2,INOL
+209,Exports to sales,12  Mar-19*,0.0,INOL
+210,Imports to sales,12  Mar-19*,1.8,INOL
+211,Exports (fob),12  Mar-19*,0.0,INOL
+212,Imports (cif),12  Mar-19*,302.0,INOL
+213,Fx inflow,12  Mar-19*,0.0,INOL
+214,Fx outflow,12  Mar-19*,376.0,INOL
+215,Net fx,12  Mar-19*,-376.0,INOL
+216,From Operations,12  Mar-19*,2797.0,INOL
+217,From Investments,12  Mar-19*,-2356.0,INOL
+218,From Financial Activity,12  Mar-19*,-456.0,INOL
+219,Net Cashflow,12  Mar-19*,-16.0,INOL

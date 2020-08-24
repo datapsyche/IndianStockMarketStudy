@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,6487.0,APSL
+1,Other income,12  Mar-14*,255.0,APSL
+2,Total revenues,12  Mar-14*,6742.0,APSL
+3,Gross profit,12  Mar-14*,772.0,APSL
+4,Depreciation,12  Mar-14*,362.0,APSL
+5,Interest,12  Mar-14*,174.0,APSL
+6,Profit before tax,12  Mar-14*,491.0,APSL
+7,Minority Interest,12  Mar-14*,-4.0,APSL
+8,Prior Period Items,12  Mar-14*,0.0,APSL
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,APSL
+10,Tax,12  Mar-14*,-113.0,APSL
+11,Profit after tax,12  Mar-14*,600.0,APSL
+12,Gross profit margin,12  Mar-14*,11.9,APSL
+13,Effective tax rate,12  Mar-14*,-22.9,APSL
+14,Net profit margin,12  Mar-14*,9.3,APSL
+15,Current assets,12  Mar-14*,4123.0,APSL
+16,Current liabilities,12  Mar-14*,3019.0,APSL
+17,Net working cap to sales,12  Mar-14*,17.0,APSL
+18,Current ratio,12  Mar-14*,1.4,APSL
+19,Inventory Days,12  Mar-14*,4.0,APSL
+20,Debtors Days,12  Mar-14*,109.0,APSL
+21,Net fixed assets,12  Mar-14*,3158.0,APSL
+22,Share capital,12  Mar-14*,178.0,APSL
+23,"""Free"" reserves",12  Mar-14*,4749.0,APSL
+24,Net worth,12  Mar-14*,6002.0,APSL
+25,Long term debt,12  Mar-14*,248.0,APSL
+26,Total assets,12  Mar-14*,9285.0,APSL
+27,Interest coverage,12  Mar-14*,3.8,APSL
+28,Debt to equity ratio,12  Mar-14*,0.0,APSL
+29,Sales to assets ratio,12  Mar-14*,0.7,APSL
+30,Return on assets,12  Mar-14*,8.3,APSL
+31,Return on equity,12  Mar-14*,10.0,APSL
+32,Return on capital,12  Mar-14*,10.6,APSL
+33,Exports to sales,12  Mar-14*,0.0,APSL
+34,Imports to sales,12  Mar-14*,0.0,APSL
+35,Exports (fob),12  Mar-14*,0.0,APSL
+36,Imports (cif),12  Mar-14*,0.0,APSL
+37,Fx inflow,12  Mar-14*,671.0,APSL
+38,Fx outflow,12  Mar-14*,35.0,APSL
+39,Net fx,12  Mar-14*,636.0,APSL
+40,From Operations,12  Mar-14*,639.0,APSL
+41,From Investments,12  Mar-14*,-634.0,APSL
+42,From Financial Activity,12  Mar-14*,193.0,APSL
+43,Net Cashflow,12  Mar-14*,197.0,APSL
+44,Net Sales,12  Mar-15*,7369.0,APSL
+45,Other income,12  Mar-15*,175.0,APSL
+46,Total revenues,12  Mar-15*,7544.0,APSL
+47,Gross profit,12  Mar-15*,1245.0,APSL
+48,Depreciation,12  Mar-15*,377.0,APSL
+49,Interest,12  Mar-15*,224.0,APSL
+50,Profit before tax,12  Mar-15*,819.0,APSL
+51,Minority Interest,12  Mar-15*,1.0,APSL
+52,Prior Period Items,12  Mar-15*,0.0,APSL
+53,Extraordinary Inc (Exp),12  Mar-15*,-2229.0,APSL
+54,Tax,12  Mar-15*,28.0,APSL
+55,Profit after tax,12  Mar-15*,-1438.0,APSL
+56,Gross profit margin,12  Mar-15*,16.9,APSL
+57,Effective tax rate,12  Mar-15*,3.5,APSL
+58,Net profit margin,12  Mar-15*,-19.5,APSL
+59,Current assets,12  Mar-15*,3925.0,APSL
+60,Current liabilities,12  Mar-15*,2840.0,APSL
+61,Net working cap to sales,12  Mar-15*,14.7,APSL
+62,Current ratio,12  Mar-15*,1.4,APSL
+63,Inventory Days,12  Mar-15*,3.0,APSL
+64,Debtors Days,12  Mar-15*,91.0,APSL
+65,Net fixed assets,12  Mar-15*,1666.0,APSL
+66,Share capital,12  Mar-15*,197.0,APSL
+67,"""Free"" reserves",12  Mar-15*,3535.0,APSL
+68,Net worth,12  Mar-15*,4835.0,APSL
+69,Long term debt,12  Mar-15*,382.0,APSL
+70,Total assets,12  Mar-15*,8246.0,APSL
+71,Interest coverage,12  Mar-15*,4.7,APSL
+72,Debt to equity ratio,12  Mar-15*,0.1,APSL
+73,Sales to assets ratio,12  Mar-15*,0.9,APSL
+74,Return on assets,12  Mar-15*,-14.7,APSL
+75,Return on equity,12  Mar-15*,-29.7,APSL
+76,Return on capital,12  Mar-15*,-22.7,APSL
+77,Exports to sales,12  Mar-15*,0.0,APSL
+78,Imports to sales,12  Mar-15*,0.6,APSL
+79,Exports (fob),12  Mar-15*,0.0,APSL
+80,Imports (cif),12  Mar-15*,43.0,APSL
+81,Fx inflow,12  Mar-15*,800.0,APSL
+82,Fx outflow,12  Mar-15*,151.0,APSL
+83,Net fx,12  Mar-15*,649.0,APSL
+84,From Operations,12  Mar-15*,772.0,APSL
+85,From Investments,12  Mar-15*,-985.0,APSL
+86,From Financial Activity,12  Mar-15*,77.0,APSL
+87,Net Cashflow,12  Mar-15*,-136.0,APSL
+88,Net Sales,12  Mar-16*,7104.0,APSL
+89,Other income,12  Mar-16*,8.0,APSL
+90,Total revenues,12  Mar-16*,7113.0,APSL
+91,Gross profit,12  Mar-16*,1011.0,APSL
+92,Depreciation,12  Mar-16*,165.0,APSL
+93,Interest,12  Mar-16*,231.0,APSL
+94,Profit before tax,12  Mar-16*,623.0,APSL
+95,Minority Interest,12  Mar-16*,-9.0,APSL
+96,Prior Period Items,12  Mar-16*,0.0,APSL
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,APSL
+98,Tax,12  Mar-16*,72.0,APSL
+99,Profit after tax,12  Mar-16*,542.0,APSL
+100,Gross profit margin,12  Mar-16*,14.2,APSL
+101,Effective tax rate,12  Mar-16*,11.6,APSL
+102,Net profit margin,12  Mar-16*,7.6,APSL
+103,Current assets,12  Mar-16*,4559.0,APSL
+104,Current liabilities,12  Mar-16*,2939.0,APSL
+105,Net working cap to sales,12  Mar-16*,22.8,APSL
+106,Current ratio,12  Mar-16*,1.6,APSL
+107,Inventory Days,12  Mar-16*,4.0,APSL
+108,Debtors Days,12  Mar-16*,94.0,APSL
+109,Net fixed assets,12  Mar-16*,1827.0,APSL
+110,Share capital,12  Mar-16*,220.0,APSL
+111,"""Free"" reserves",12  Mar-16*,4410.0,APSL
+112,Net worth,12  Mar-16*,5942.0,APSL
+113,Long term debt,12  Mar-16*,321.0,APSL
+114,Total assets,12  Mar-16*,9246.0,APSL
+115,Interest coverage,12  Mar-16*,3.7,APSL
+116,Debt to equity ratio,12  Mar-16*,0.1,APSL
+117,Sales to assets ratio,12  Mar-16*,0.8,APSL
+118,Return on assets,12  Mar-16*,8.4,APSL
+119,Return on equity,12  Mar-16*,9.1,APSL
+120,Return on capital,12  Mar-16*,13.5,APSL
+121,Exports to sales,12  Mar-16*,0.0,APSL
+122,Imports to sales,12  Mar-16*,1.3,APSL
+123,Exports (fob),12  Mar-16*,0.0,APSL
+124,Imports (cif),12  Mar-16*,93.0,APSL
+125,Fx inflow,12  Mar-16*,634.0,APSL
+126,Fx outflow,12  Mar-16*,73.0,APSL
+127,Net fx,12  Mar-16*,561.0,APSL
+128,From Operations,12  Mar-16*,329.0,APSL
+129,From Investments,12  Mar-16*,-426.0,APSL
+130,From Financial Activity,12  Mar-16*,140.0,APSL
+131,Net Cashflow,12  Mar-16*,42.0,APSL
+132,Net Sales,12  Mar-17*,4930.0,APSL
+133,Other income,12  Mar-17*,85.0,APSL
+134,Total revenues,12  Mar-17*,5014.0,APSL
+135,Gross profit,12  Mar-17*,459.0,APSL
+136,Depreciation,12  Mar-17*,295.0,APSL
+137,Interest,12  Mar-17*,164.0,APSL
+138,Profit before tax,12  Mar-17*,85.0,APSL
+139,Minority Interest,12  Mar-17*,0.0,APSL
+140,Prior Period Items,12  Mar-17*,0.0,APSL
+141,Extraordinary Inc (Exp),12  Mar-17*,276.0,APSL
+142,Tax,12  Mar-17*,36.0,APSL
+143,Profit after tax,12  Mar-17*,325.0,APSL
+144,Gross profit margin,12  Mar-17*,9.3,APSL
+145,Effective tax rate,12  Mar-17*,42.0,APSL
+146,Net profit margin,12  Mar-17*,6.6,APSL
+147,Current assets,12  Mar-17*,2582.0,APSL
+148,Current liabilities,12  Mar-17*,2476.0,APSL
+149,Net working cap to sales,12  Mar-17*,2.2,APSL
+150,Current ratio,12  Mar-17*,1.0,APSL
+151,Inventory Days,12  Mar-17*,6.0,APSL
+152,Debtors Days,12  Mar-17*,94.0,APSL
+153,Net fixed assets,12  Mar-17*,3265.0,APSL
+154,Share capital,12  Mar-17*,220.0,APSL
+155,"""Free"" reserves",12  Mar-17*,3017.0,APSL
+156,Net worth,12  Mar-17*,3237.0,APSL
+157,Long term debt,12  Mar-17*,330.0,APSL
+158,Total assets,12  Mar-17*,7009.0,APSL
+159,Interest coverage,12  Mar-17*,1.5,APSL
+160,Debt to equity ratio,12  Mar-17*,0.1,APSL
+161,Sales to assets ratio,12  Mar-17*,0.7,APSL
+162,Return on assets,12  Mar-17*,7.0,APSL
+163,Return on equity,12  Mar-17*,10.0,APSL
+164,Return on capital,12  Mar-17*,14.7,APSL
+165,Exports to sales,12  Mar-17*,0.0,APSL
+166,Imports to sales,12  Mar-17*,0.0,APSL
+167,Exports (fob),12  Mar-17*,0.0,APSL
+168,Imports (cif),12  Mar-17*,0.0,APSL
+169,Fx inflow,12  Mar-17*,468.0,APSL
+170,Fx outflow,12  Mar-17*,47.0,APSL
+171,Net fx,12  Mar-17*,421.0,APSL
+172,From Operations,12  Mar-17*,1094.0,APSL
+173,From Investments,12  Mar-17*,-513.0,APSL
+174,From Financial Activity,12  Mar-17*,-522.0,APSL
+175,Net Cashflow,12  Mar-17*,41.0,APSL
+176,Net Sales,12  Mar-18*,4185.0,APSL
+177,Other income,12  Mar-18*,57.0,APSL
+178,Total revenues,12  Mar-18*,4242.0,APSL
+179,Gross profit,12  Mar-18*,799.0,APSL
+180,Depreciation,12  Mar-18*,323.0,APSL
+181,Interest,12  Mar-18*,140.0,APSL
+182,Profit before tax,12  Mar-18*,393.0,APSL
+183,Minority Interest,12  Mar-18*,0.0,APSL
+184,Prior Period Items,12  Mar-18*,0.0,APSL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,APSL
+186,Tax,12  Mar-18*,15.0,APSL
+187,Profit after tax,12  Mar-18*,379.0,APSL
+188,Gross profit margin,12  Mar-18*,19.1,APSL
+189,Effective tax rate,12  Mar-18*,3.7,APSL
+190,Net profit margin,12  Mar-18*,9.1,APSL
+191,Current assets,12  Mar-18*,4400.0,APSL
+192,Current liabilities,12  Mar-18*,2848.0,APSL
+193,Net working cap to sales,12  Mar-18*,37.1,APSL
+194,Current ratio,12  Mar-18*,1.5,APSL
+195,Inventory Days,12  Mar-18*,14.0,APSL
+196,Debtors Days,12  Mar-18*,111.0,APSL
+197,Net fixed assets,12  Mar-18*,2226.0,APSL
+198,Share capital,12  Mar-18*,236.0,APSL
+199,"""Free"" reserves",12  Mar-18*,3859.0,APSL
+200,Net worth,12  Mar-18*,4095.0,APSL
+201,Long term debt,12  Mar-18*,197.0,APSL
+202,Total assets,12  Mar-18*,8382.0,APSL
+203,Interest coverage,12  Mar-18*,3.8,APSL
+204,Debt to equity ratio,12  Mar-18*,0.0,APSL
+205,Sales to assets ratio,12  Mar-18*,0.5,APSL
+206,Return on assets,12  Mar-18*,6.2,APSL
+207,Return on equity,12  Mar-18*,9.3,APSL
+208,Return on capital,12  Mar-18*,12.4,APSL
+209,Exports to sales,12  Mar-18*,0.0,APSL
+210,Imports to sales,12  Mar-18*,2.6,APSL
+211,Exports (fob),12  Mar-18*,0.0,APSL
+212,Imports (cif),12  Mar-18*,107.0,APSL
+213,Fx inflow,12  Mar-18*,415.0,APSL
+214,Fx outflow,12  Mar-18*,130.0,APSL
+215,Net fx,12  Mar-18*,286.0,APSL
+216,From Operations,12  Mar-18*,1321.0,APSL
+217,From Investments,12  Mar-18*,-78.0,APSL
+218,From Financial Activity,12  Mar-18*,-354.0,APSL
+219,Net Cashflow,12  Mar-18*,890.0,APSL

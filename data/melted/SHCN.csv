@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,42318.0,SHCN
+1,Other income,12  Mar-14,3072.0,SHCN
+2,Total revenues,12  Mar-14,45390.0,SHCN
+3,Gross profit,12  Mar-14,5885.0,SHCN
+4,Depreciation,12  Mar-14,8564.0,SHCN
+5,Interest,12  Mar-14,2077.0,SHCN
+6,Profit before tax,12  Mar-14,-1685.0,SHCN
+7,Minority Interest,12  Mar-14,0.0,SHCN
+8,Prior Period Items,12  Mar-14,-529.0,SHCN
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,SHCN
+10,Tax,12  Mar-14,533.0,SHCN
+11,Profit after tax,12  Mar-14,-2747.0,SHCN
+12,Gross profit margin,12  Mar-14,13.9,SHCN
+13,Effective tax rate,12  Mar-14,-31.6,SHCN
+14,Net profit margin,12  Mar-14,-6.5,SHCN
+15,Current assets,12  Mar-14,32517.0,SHCN
+16,Current liabilities,12  Mar-14,32117.0,SHCN
+17,Net working cap to sales,12  Mar-14,0.9,SHCN
+18,Current ratio,12  Mar-14,1.0,SHCN
+19,Inventory Days,12  Mar-14,16.0,SHCN
+20,Debtors Days,12  Mar-14,88.0,SHCN
+21,Net fixed assets,12  Mar-14,119976.0,SHCN
+22,Share capital,12  Mar-14,4658.0,SHCN
+23,"""Free"" reserves",12  Mar-14,43331.0,SHCN
+24,Net worth,12  Mar-14,63398.0,SHCN
+25,Long term debt,12  Mar-14,65707.0,SHCN
+26,Total assets,12  Mar-14,162548.0,SHCN
+27,Interest coverage,12  Mar-14,0.2,SHCN
+28,Debt to equity ratio,12  Mar-14,1.0,SHCN
+29,Sales to assets ratio,12  Mar-14,0.3,SHCN
+30,Return on assets,12  Mar-14,-0.4,SHCN
+31,Return on equity,12  Mar-14,-4.3,SHCN
+32,Return on capital,12  Mar-14,-0.1,SHCN
+33,Exports to sales,12  Mar-14,0.0,SHCN
+34,Imports to sales,12  Mar-14,0.0,SHCN
+35,Exports (fob),12  Mar-14,0.0,SHCN
+36,Imports (cif),12  Mar-14,0.0,SHCN
+37,Fx inflow,12  Mar-14,0.0,SHCN
+38,Fx outflow,12  Mar-14,0.0,SHCN
+39,Net fx,12  Mar-14,0.0,SHCN
+40,From Operations,12  Mar-14,8399.0,SHCN
+41,From Investments,12  Mar-14,-9657.0,SHCN
+42,From Financial Activity,12  Mar-14,-1201.0,SHCN
+43,Net Cashflow,12  Mar-14,-2459.0,SHCN
+44,Net Sales,12  Mar-15,42739.0,SHCN
+45,Other income,12  Mar-15,3948.0,SHCN
+46,Total revenues,12  Mar-15,46688.0,SHCN
+47,Gross profit,12  Mar-15,9146.0,SHCN
+48,Depreciation,12  Mar-15,8015.0,SHCN
+49,Interest,12  Mar-15,2377.0,SHCN
+50,Profit before tax,12  Mar-15,2703.0,SHCN
+51,Minority Interest,12  Mar-15,0.0,SHCN
+52,Prior Period Items,12  Mar-15,0.0,SHCN
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,SHCN
+54,Tax,12  Mar-15,752.0,SHCN
+55,Profit after tax,12  Mar-15,1950.0,SHCN
+56,Gross profit margin,12  Mar-15,21.4,SHCN
+57,Effective tax rate,12  Mar-15,27.8,SHCN
+58,Net profit margin,12  Mar-15,4.6,SHCN
+59,Current assets,12  Mar-15,25464.0,SHCN
+60,Current liabilities,12  Mar-15,30323.0,SHCN
+61,Net working cap to sales,12  Mar-15,-11.4,SHCN
+62,Current ratio,12  Mar-15,0.8,SHCN
+63,Inventory Days,12  Mar-15,8.0,SHCN
+64,Debtors Days,12  Mar-15,68.0,SHCN
+65,Net fixed assets,12  Mar-15,128467.0,SHCN
+66,Share capital,12  Mar-15,4658.0,SHCN
+67,"""Free"" reserves",12  Mar-15,60534.0,SHCN
+68,Net worth,12  Mar-15,65192.0,SHCN
+69,Long term debt,12  Mar-15,61490.0,SHCN
+70,Total assets,12  Mar-15,158389.0,SHCN
+71,Interest coverage,12  Mar-15,2.1,SHCN
+72,Debt to equity ratio,12  Mar-15,0.9,SHCN
+73,Sales to assets ratio,12  Mar-15,0.3,SHCN
+74,Return on assets,12  Mar-15,2.7,SHCN
+75,Return on equity,12  Mar-15,3.0,SHCN
+76,Return on capital,12  Mar-15,4.0,SHCN
+77,Exports to sales,12  Mar-15,0.0,SHCN
+78,Imports to sales,12  Mar-15,0.0,SHCN
+79,Exports (fob),12  Mar-15,0.0,SHCN
+80,Imports (cif),12  Mar-15,0.0,SHCN
+81,Fx inflow,12  Mar-15,41037.0,SHCN
+82,Fx outflow,12  Mar-15,41833.0,SHCN
+83,Net fx,12  Mar-15,-796.0,SHCN
+84,From Operations,12  Mar-15,21973.0,SHCN
+85,From Investments,12  Mar-15,-3081.0,SHCN
+86,From Financial Activity,12  Mar-15,-16747.0,SHCN
+87,Net Cashflow,12  Mar-15,2142.0,SHCN
+88,Net Sales,12  Mar-16,42139.0,SHCN
+89,Other income,12  Mar-16,1589.0,SHCN
+90,Total revenues,12  Mar-16,43728.0,SHCN
+91,Gross profit,12  Mar-16,10986.0,SHCN
+92,Depreciation,12  Mar-16,6107.0,SHCN
+93,Interest,12  Mar-16,2109.0,SHCN
+94,Profit before tax,12  Mar-16,4359.0,SHCN
+95,Minority Interest,12  Mar-16,0.0,SHCN
+96,Prior Period Items,12  Mar-16,0.0,SHCN
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,SHCN
+98,Tax,12  Mar-16,465.0,SHCN
+99,Profit after tax,12  Mar-16,3894.0,SHCN
+100,Gross profit margin,12  Mar-16,26.1,SHCN
+101,Effective tax rate,12  Mar-16,10.7,SHCN
+102,Net profit margin,12  Mar-16,9.2,SHCN
+103,Current assets,12  Mar-16,26797.0,SHCN
+104,Current liabilities,12  Mar-16,29660.0,SHCN
+105,Net working cap to sales,12  Mar-16,-6.8,SHCN
+106,Current ratio,12  Mar-16,0.9,SHCN
+107,Inventory Days,12  Mar-16,7.0,SHCN
+108,Debtors Days,12  Mar-16,59.0,SHCN
+109,Net fixed assets,12  Mar-16,126117.0,SHCN
+110,Share capital,12  Mar-16,4658.0,SHCN
+111,"""Free"" reserves",12  Mar-16,64426.0,SHCN
+112,Net worth,12  Mar-16,69084.0,SHCN
+113,Long term debt,12  Mar-16,45562.0,SHCN
+114,Total assets,12  Mar-16,147585.0,SHCN
+115,Interest coverage,12  Mar-16,3.1,SHCN
+116,Debt to equity ratio,12  Mar-16,0.7,SHCN
+117,Sales to assets ratio,12  Mar-16,0.3,SHCN
+118,Return on assets,12  Mar-16,4.1,SHCN
+119,Return on equity,12  Mar-16,5.6,SHCN
+120,Return on capital,12  Mar-16,5.6,SHCN
+121,Exports to sales,12  Mar-16,0.0,SHCN
+122,Imports to sales,12  Mar-16,0.0,SHCN
+123,Exports (fob),12  Mar-16,0.0,SHCN
+124,Imports (cif),12  Mar-16,0.0,SHCN
+125,Fx inflow,12  Mar-16,37716.0,SHCN
+126,Fx outflow,12  Mar-16,36784.0,SHCN
+127,Net fx,12  Mar-16,932.0,SHCN
+128,From Operations,12  Mar-16,14250.0,SHCN
+129,From Investments,12  Mar-16,-3155.0,SHCN
+130,From Financial Activity,12  Mar-16,-10778.0,SHCN
+131,Net Cashflow,12  Mar-16,321.0,SHCN
+132,Net Sales,12  Mar-17,34474.0,SHCN
+133,Other income,12  Mar-17,1452.0,SHCN
+134,Total revenues,12  Mar-17,35926.0,SHCN
+135,Gross profit,12  Mar-17,7787.0,SHCN
+136,Depreciation,12  Mar-17,5661.0,SHCN
+137,Interest,12  Mar-17,1722.0,SHCN
+138,Profit before tax,12  Mar-17,1857.0,SHCN
+139,Minority Interest,12  Mar-17,0.0,SHCN
+140,Prior Period Items,12  Mar-17,402.0,SHCN
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,SHCN
+142,Tax,12  Mar-17,435.0,SHCN
+143,Profit after tax,12  Mar-17,1824.0,SHCN
+144,Gross profit margin,12  Mar-17,22.6,SHCN
+145,Effective tax rate,12  Mar-17,23.4,SHCN
+146,Net profit margin,12  Mar-17,5.3,SHCN
+147,Current assets,12  Mar-17,27357.0,SHCN
+148,Current liabilities,12  Mar-17,41025.0,SHCN
+149,Net working cap to sales,12  Mar-17,-39.6,SHCN
+150,Current ratio,12  Mar-17,0.7,SHCN
+151,Inventory Days,12  Mar-17,12.0,SHCN
+152,Debtors Days,12  Mar-17,70.0,SHCN
+153,Net fixed assets,12  Mar-17,115730.0,SHCN
+154,Share capital,12  Mar-17,4658.0,SHCN
+155,"""Free"" reserves",12  Mar-17,64283.0,SHCN
+156,Net worth,12  Mar-17,68941.0,SHCN
+157,Long term debt,12  Mar-17,30776.0,SHCN
+158,Total assets,12  Mar-17,145486.0,SHCN
+159,Interest coverage,12  Mar-17,2.1,SHCN
+160,Debt to equity ratio,12  Mar-17,0.4,SHCN
+161,Sales to assets ratio,12  Mar-17,0.2,SHCN
+162,Return on assets,12  Mar-17,2.4,SHCN
+163,Return on equity,12  Mar-17,2.6,SHCN
+164,Return on capital,12  Mar-17,4.0,SHCN
+165,Exports to sales,12  Mar-17,0.0,SHCN
+166,Imports to sales,12  Mar-17,0.0,SHCN
+167,Exports (fob),12  Mar-17,0.0,SHCN
+168,Imports (cif),12  Mar-17,0.0,SHCN
+169,Fx inflow,12  Mar-17,35558.0,SHCN
+170,Fx outflow,12  Mar-17,36759.0,SHCN
+171,Net fx,12  Mar-17,-1201.0,SHCN
+172,From Operations,12  Mar-17,6825.0,SHCN
+173,From Investments,12  Mar-17,-858.0,SHCN
+174,From Financial Activity,12  Mar-17,-5224.0,SHCN
+175,Net Cashflow,12  Mar-17,745.0,SHCN
+176,Net Sales,12  Mar-18,34695.0,SHCN
+177,Other income,12  Mar-18,1480.0,SHCN
+178,Total revenues,12  Mar-18,36175.0,SHCN
+179,Gross profit,12  Mar-18,6715.0,SHCN
+180,Depreciation,12  Mar-18,6103.0,SHCN
+181,Interest,12  Mar-18,1798.0,SHCN
+182,Profit before tax,12  Mar-18,295.0,SHCN
+183,Minority Interest,12  Mar-18,0.0,SHCN
+184,Prior Period Items,12  Mar-18,528.0,SHCN
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,SHCN
+186,Tax,12  Mar-18,-2243.0,SHCN
+187,Profit after tax,12  Mar-18,3065.0,SHCN
+188,Gross profit margin,12  Mar-18,19.4,SHCN
+189,Effective tax rate,12  Mar-18,-760.8,SHCN
+190,Net profit margin,12  Mar-18,8.8,SHCN
+191,Current assets,12  Mar-18,27089.0,SHCN
+192,Current liabilities,12  Mar-18,38016.0,SHCN
+193,Net working cap to sales,12  Mar-18,-31.5,SHCN
+194,Current ratio,12  Mar-18,0.7,SHCN
+195,Inventory Days,12  Mar-18,12.0,SHCN
+196,Debtors Days,12  Mar-18,64.0,SHCN
+197,Net fixed assets,12  Mar-18,115661.0,SHCN
+198,Share capital,12  Mar-18,4658.0,SHCN
+199,"""Free"" reserves",12  Mar-18,67684.0,SHCN
+200,Net worth,12  Mar-18,72342.0,SHCN
+201,Long term debt,12  Mar-18,33066.0,SHCN
+202,Total assets,12  Mar-18,145373.0,SHCN
+203,Interest coverage,12  Mar-18,1.2,SHCN
+204,Debt to equity ratio,12  Mar-18,0.5,SHCN
+205,Sales to assets ratio,12  Mar-18,0.2,SHCN
+206,Return on assets,12  Mar-18,3.3,SHCN
+207,Return on equity,12  Mar-18,4.2,SHCN
+208,Return on capital,12  Mar-18,2.5,SHCN
+209,Exports to sales,12  Mar-18,0.0,SHCN
+210,Imports to sales,12  Mar-18,0.0,SHCN
+211,Exports (fob),12  Mar-18,0.0,SHCN
+212,Imports (cif),12  Mar-18,0.0,SHCN
+213,Fx inflow,12  Mar-18,34598.0,SHCN
+214,Fx outflow,12  Mar-18,37675.0,SHCN
+215,Net fx,12  Mar-18,-3078.0,SHCN
+216,From Operations,12  Mar-18,2472.0,SHCN
+217,From Investments,12  Mar-18,-4708.0,SHCN
+218,From Financial Activity,12  Mar-18,-871.0,SHCN
+219,Net Cashflow,12  Mar-18,-3107.0,SHCN

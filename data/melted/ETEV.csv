@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,12789.0,ETEV
+1,Other income,12  Mar-15*,39.0,ETEV
+2,Total revenues,12  Mar-15*,12828.0,ETEV
+3,Gross profit,12  Mar-15*,1240.0,ETEV
+4,Depreciation,12  Mar-15*,320.0,ETEV
+5,Interest,12  Mar-15*,340.0,ETEV
+6,Profit before tax,12  Mar-15*,619.0,ETEV
+7,Minority Interest,12  Mar-15*,0.0,ETEV
+8,Prior Period Items,12  Mar-15*,0.0,ETEV
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ETEV
+10,Tax,12  Mar-15*,130.0,ETEV
+11,Profit after tax,12  Mar-15*,489.0,ETEV
+12,Gross profit margin,12  Mar-15*,9.7,ETEV
+13,Effective tax rate,12  Mar-15*,21.0,ETEV
+14,Net profit margin,12  Mar-15*,3.8,ETEV
+15,Current assets,12  Mar-15*,3482.0,ETEV
+16,Current liabilities,12  Mar-15*,4051.0,ETEV
+17,Net working cap to sales,12  Mar-15*,-4.4,ETEV
+18,Current ratio,12  Mar-15*,0.9,ETEV
+19,Inventory Days,12  Mar-15*,74.0,ETEV
+20,Debtors Days,12  Mar-15*,14.0,ETEV
+21,Net fixed assets,12  Mar-15*,7242.0,ETEV
+22,Share capital,12  Mar-15*,363.0,ETEV
+23,"""Free"" reserves",12  Mar-15*,4617.0,ETEV
+24,Net worth,12  Mar-15*,6246.0,ETEV
+25,Long term debt,12  Mar-15*,528.0,ETEV
+26,Total assets,12  Mar-15*,11007.0,ETEV
+27,Interest coverage,12  Mar-15*,2.8,ETEV
+28,Debt to equity ratio,12  Mar-15*,0.1,ETEV
+29,Sales to assets ratio,12  Mar-15*,1.2,ETEV
+30,Return on assets,12  Mar-15*,7.5,ETEV
+31,Return on equity,12  Mar-15*,7.8,ETEV
+32,Return on capital,12  Mar-15*,14.2,ETEV
+33,Exports to sales,12  Mar-15*,1.5,ETEV
+34,Imports to sales,12  Mar-15*,14.6,ETEV
+35,Exports (fob),12  Mar-15*,195.0,ETEV
+36,Imports (cif),12  Mar-15*,1869.0,ETEV
+37,Fx inflow,12  Mar-15*,195.0,ETEV
+38,Fx outflow,12  Mar-15*,1886.0,ETEV
+39,Net fx,12  Mar-15*,-1691.0,ETEV
+40,From Operations,12  Mar-15*,717.0,ETEV
+41,From Investments,12  Mar-15*,-297.0,ETEV
+42,From Financial Activity,12  Mar-15*,-368.0,ETEV
+43,Net Cashflow,12  Mar-15*,53.0,ETEV
+44,Net Sales,12  Mar-16*,13134.0,ETEV
+45,Other income,12  Mar-16*,129.0,ETEV
+46,Total revenues,12  Mar-16*,13263.0,ETEV
+47,Gross profit,12  Mar-16*,823.0,ETEV
+48,Depreciation,12  Mar-16*,256.0,ETEV
+49,Interest,12  Mar-16*,191.0,ETEV
+50,Profit before tax,12  Mar-16*,505.0,ETEV
+51,Minority Interest,12  Mar-16*,0.0,ETEV
+52,Prior Period Items,12  Mar-16*,0.0,ETEV
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ETEV
+54,Tax,12  Mar-16*,160.0,ETEV
+55,Profit after tax,12  Mar-16*,344.0,ETEV
+56,Gross profit margin,12  Mar-16*,6.3,ETEV
+57,Effective tax rate,12  Mar-16*,31.8,ETEV
+58,Net profit margin,12  Mar-16*,2.6,ETEV
+59,Current assets,12  Mar-16*,4889.0,ETEV
+60,Current liabilities,12  Mar-16*,4240.0,ETEV
+61,Net working cap to sales,12  Mar-16*,4.9,ETEV
+62,Current ratio,12  Mar-16*,1.2,ETEV
+63,Inventory Days,12  Mar-16*,70.0,ETEV
+64,Debtors Days,12  Mar-16*,30.0,ETEV
+65,Net fixed assets,12  Mar-16*,3597.0,ETEV
+66,Share capital,12  Mar-16*,154.0,ETEV
+67,"""Free"" reserves",12  Mar-16*,3309.0,ETEV
+68,Net worth,12  Mar-16*,3466.0,ETEV
+69,Long term debt,12  Mar-16*,1177.0,ETEV
+70,Total assets,12  Mar-16*,9190.0,ETEV
+71,Interest coverage,12  Mar-16*,3.6,ETEV
+72,Debt to equity ratio,12  Mar-16*,0.3,ETEV
+73,Sales to assets ratio,12  Mar-16*,1.4,ETEV
+74,Return on assets,12  Mar-16*,5.8,ETEV
+75,Return on equity,12  Mar-16*,9.9,ETEV
+76,Return on capital,12  Mar-16*,15.0,ETEV
+77,Exports to sales,12  Mar-16*,4.7,ETEV
+78,Imports to sales,12  Mar-16*,16.7,ETEV
+79,Exports (fob),12  Mar-16*,613.0,ETEV
+80,Imports (cif),12  Mar-16*,2193.0,ETEV
+81,Fx inflow,12  Mar-16*,613.0,ETEV
+82,Fx outflow,12  Mar-16*,2282.0,ETEV
+83,Net fx,12  Mar-16*,-1669.0,ETEV
+84,From Operations,12  Mar-16*,890.0,ETEV
+85,From Investments,12  Mar-16*,-198.0,ETEV
+86,From Financial Activity,12  Mar-16*,-747.0,ETEV
+87,Net Cashflow,12  Mar-16*,-54.0,ETEV
+88,Net Sales,12  Mar-17*,10794.0,ETEV
+89,Other income,12  Mar-17*,91.0,ETEV
+90,Total revenues,12  Mar-17*,10886.0,ETEV
+91,Gross profit,12  Mar-17*,416.0,ETEV
+92,Depreciation,12  Mar-17*,255.0,ETEV
+93,Interest,12  Mar-17*,208.0,ETEV
+94,Profit before tax,12  Mar-17*,45.0,ETEV
+95,Minority Interest,12  Mar-17*,0.0,ETEV
+96,Prior Period Items,12  Mar-17*,0.0,ETEV
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ETEV
+98,Tax,12  Mar-17*,14.0,ETEV
+99,Profit after tax,12  Mar-17*,30.0,ETEV
+100,Gross profit margin,12  Mar-17*,3.9,ETEV
+101,Effective tax rate,12  Mar-17*,32.3,ETEV
+102,Net profit margin,12  Mar-17*,0.3,ETEV
+103,Current assets,12  Mar-17*,4316.0,ETEV
+104,Current liabilities,12  Mar-17*,3840.0,ETEV
+105,Net working cap to sales,12  Mar-17*,4.4,ETEV
+106,Current ratio,12  Mar-17*,1.1,ETEV
+107,Inventory Days,12  Mar-17*,79.0,ETEV
+108,Debtors Days,12  Mar-17*,34.0,ETEV
+109,Net fixed assets,12  Mar-17*,3626.0,ETEV
+110,Share capital,12  Mar-17*,154.0,ETEV
+111,"""Free"" reserves",12  Mar-17*,3233.0,ETEV
+112,Net worth,12  Mar-17*,3387.0,ETEV
+113,Long term debt,12  Mar-17*,915.0,ETEV
+114,Total assets,12  Mar-17*,8457.0,ETEV
+115,Interest coverage,12  Mar-17*,1.2,ETEV
+116,Debt to equity ratio,12  Mar-17*,0.3,ETEV
+117,Sales to assets ratio,12  Mar-17*,1.3,ETEV
+118,Return on assets,12  Mar-17*,2.8,ETEV
+119,Return on equity,12  Mar-17*,0.9,ETEV
+120,Return on capital,12  Mar-17*,5.9,ETEV
+121,Exports to sales,12  Mar-17*,0.0,ETEV
+122,Imports to sales,12  Mar-17*,0.0,ETEV
+123,Exports (fob),12  Mar-17*,0.0,ETEV
+124,Imports (cif),12  Mar-17*,0.0,ETEV
+125,Fx inflow,12  Mar-17*,357.0,ETEV
+126,Fx outflow,12  Mar-17*,2121.0,ETEV
+127,Net fx,12  Mar-17*,-1764.0,ETEV
+128,From Operations,12  Mar-17*,583.0,ETEV
+129,From Investments,12  Mar-17*,-186.0,ETEV
+130,From Financial Activity,12  Mar-17*,-864.0,ETEV
+131,Net Cashflow,12  Mar-17*,-467.0,ETEV
+132,Net Sales,12  Mar-18*,12441.0,ETEV
+133,Other income,12  Mar-18*,100.0,ETEV
+134,Total revenues,12  Mar-18*,12542.0,ETEV
+135,Gross profit,12  Mar-18*,899.0,ETEV
+136,Depreciation,12  Mar-18*,236.0,ETEV
+137,Interest,12  Mar-18*,126.0,ETEV
+138,Profit before tax,12  Mar-18*,638.0,ETEV
+139,Minority Interest,12  Mar-18*,0.0,ETEV
+140,Prior Period Items,12  Mar-18*,0.0,ETEV
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ETEV
+142,Tax,12  Mar-18*,108.0,ETEV
+143,Profit after tax,12  Mar-18*,531.0,ETEV
+144,Gross profit margin,12  Mar-18*,7.2,ETEV
+145,Effective tax rate,12  Mar-18*,16.8,ETEV
+146,Net profit margin,12  Mar-18*,4.3,ETEV
+147,Current assets,12  Mar-18*,3884.0,ETEV
+148,Current liabilities,12  Mar-18*,3242.0,ETEV
+149,Net working cap to sales,12  Mar-18*,5.2,ETEV
+150,Current ratio,12  Mar-18*,1.2,ETEV
+151,Inventory Days,12  Mar-18*,73.0,ETEV
+152,Debtors Days,12  Mar-18*,21.0,ETEV
+153,Net fixed assets,12  Mar-18*,3611.0,ETEV
+154,Share capital,12  Mar-18*,156.0,ETEV
+155,"""Free"" reserves",12  Mar-18*,3824.0,ETEV
+156,Net worth,12  Mar-18*,3981.0,ETEV
+157,Long term debt,12  Mar-18*,511.0,ETEV
+158,Total assets,12  Mar-18*,8021.0,ETEV
+159,Interest coverage,12  Mar-18*,6.1,ETEV
+160,Debt to equity ratio,12  Mar-18*,0.1,ETEV
+161,Sales to assets ratio,12  Mar-18*,1.6,ETEV
+162,Return on assets,12  Mar-18*,8.2,ETEV
+163,Return on equity,12  Mar-18*,13.3,ETEV
+164,Return on capital,12  Mar-18*,17.0,ETEV
+165,Exports to sales,12  Mar-18*,0.0,ETEV
+166,Imports to sales,12  Mar-18*,0.0,ETEV
+167,Exports (fob),12  Mar-18*,0.0,ETEV
+168,Imports (cif),12  Mar-18*,0.0,ETEV
+169,Fx inflow,12  Mar-18*,467.0,ETEV
+170,Fx outflow,12  Mar-18*,2137.0,ETEV
+171,Net fx,12  Mar-18*,-1670.0,ETEV
+172,From Operations,12  Mar-18*,1481.0,ETEV
+173,From Investments,12  Mar-18*,-157.0,ETEV
+174,From Financial Activity,12  Mar-18*,-1230.0,ETEV
+175,Net Cashflow,12  Mar-18*,94.0,ETEV
+176,Net Sales,12  Mar-19*,14083.0,ETEV
+177,Other income,12  Mar-19*,65.0,ETEV
+178,Total revenues,12  Mar-19*,14148.0,ETEV
+179,Gross profit,12  Mar-19*,1046.0,ETEV
+180,Depreciation,12  Mar-19*,206.0,ETEV
+181,Interest,12  Mar-19*,76.0,ETEV
+182,Profit before tax,12  Mar-19*,829.0,ETEV
+183,Minority Interest,12  Mar-19*,0.0,ETEV
+184,Prior Period Items,12  Mar-19*,0.0,ETEV
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ETEV
+186,Tax,12  Mar-19*,210.0,ETEV
+187,Profit after tax,12  Mar-19*,619.0,ETEV
+188,Gross profit margin,12  Mar-19*,7.4,ETEV
+189,Effective tax rate,12  Mar-19*,25.4,ETEV
+190,Net profit margin,12  Mar-19*,4.4,ETEV
+191,Current assets,12  Mar-19*,4990.0,ETEV
+192,Current liabilities,12  Mar-19*,3750.0,ETEV
+193,Net working cap to sales,12  Mar-19*,8.8,ETEV
+194,Current ratio,12  Mar-19*,1.3,ETEV
+195,Inventory Days,12  Mar-19*,85.0,ETEV
+196,Debtors Days,12  Mar-19*,26.0,ETEV
+197,Net fixed assets,12  Mar-19*,3627.0,ETEV
+198,Share capital,12  Mar-19*,156.0,ETEV
+199,"""Free"" reserves",12  Mar-19*,4357.0,ETEV
+200,Net worth,12  Mar-19*,4514.0,ETEV
+201,Long term debt,12  Mar-19*,467.0,ETEV
+202,Total assets,12  Mar-19*,9021.0,ETEV
+203,Interest coverage,12  Mar-19*,11.9,ETEV
+204,Debt to equity ratio,12  Mar-19*,0.1,ETEV
+205,Sales to assets ratio,12  Mar-19*,1.6,ETEV
+206,Return on assets,12  Mar-19*,7.7,ETEV
+207,Return on equity,12  Mar-19*,13.7,ETEV
+208,Return on capital,12  Mar-19*,18.2,ETEV
+209,Exports to sales,12  Mar-19*,0.0,ETEV
+210,Imports to sales,12  Mar-19*,0.0,ETEV
+211,Exports (fob),12  Mar-19*,0.0,ETEV
+212,Imports (cif),12  Mar-19*,0.0,ETEV
+213,Fx inflow,12  Mar-19*,274.0,ETEV
+214,Fx outflow,12  Mar-19*,2121.0,ETEV
+215,Net fx,12  Mar-19*,-1847.0,ETEV
+216,From Operations,12  Mar-19*,346.0,ETEV
+217,From Investments,12  Mar-19*,-223.0,ETEV
+218,From Financial Activity,12  Mar-19*,-160.0,ETEV
+219,Net Cashflow,12  Mar-19*,-36.0,ETEV

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16,46178.0,AMAR
+1,Other income,12  Mar-16,459.0,AMAR
+2,Total revenues,12  Mar-16,46636.0,AMAR
+3,Gross profit,12  Mar-16,8230.0,AMAR
+4,Depreciation,12  Mar-16,1407.0,AMAR
+5,Interest,12  Mar-16,55.0,AMAR
+6,Profit before tax,12  Mar-16,7226.0,AMAR
+7,Minority Interest,12  Mar-16,0.0,AMAR
+8,Prior Period Items,12  Mar-16,0.0,AMAR
+9,Extraordinary Inc (Exp),12  Mar-16,0.0,AMAR
+10,Tax,12  Mar-16,2310.0,AMAR
+11,Profit after tax,12  Mar-16,4916.0,AMAR
+12,Gross profit margin,12  Mar-16,17.8,AMAR
+13,Effective tax rate,12  Mar-16,32.0,AMAR
+14,Net profit margin,12  Mar-16,10.6,AMAR
+15,Current assets,12  Mar-16,14081.0,AMAR
+16,Current liabilities,12  Mar-16,6378.0,AMAR
+17,Net working cap to sales,12  Mar-16,16.7,AMAR
+18,Current ratio,12  Mar-16,2.2,AMAR
+19,Inventory Days,12  Mar-16,48.0,AMAR
+20,Debtors Days,12  Mar-16,47.0,AMAR
+21,Net fixed assets,12  Mar-16,14706.0,AMAR
+22,Share capital,12  Mar-16,171.0,AMAR
+23,"""Free"" reserves",12  Mar-16,20988.0,AMAR
+24,Net worth,12  Mar-16,21159.0,AMAR
+25,Long term debt,12  Mar-16,725.0,AMAR
+26,Total assets,12  Mar-16,29508.0,AMAR
+27,Interest coverage,12  Mar-16,131.7,AMAR
+28,Debt to equity ratio,12  Mar-16,0.0,AMAR
+29,Sales to assets ratio,12  Mar-16,1.6,AMAR
+30,Return on assets,12  Mar-16,16.8,AMAR
+31,Return on equity,12  Mar-16,23.2,AMAR
+32,Return on capital,12  Mar-16,33.3,AMAR
+33,Exports to sales,12  Mar-16,6.0,AMAR
+34,Imports to sales,12  Mar-16,27.1,AMAR
+35,Exports (fob),12  Mar-16,2782.0,AMAR
+36,Imports (cif),12  Mar-16,12498.0,AMAR
+37,Fx inflow,12  Mar-16,2796.0,AMAR
+38,Fx outflow,12  Mar-16,12583.0,AMAR
+39,Net fx,12  Mar-16,-9787.0,AMAR
+40,From Operations,12  Mar-16,5547.0,AMAR
+41,From Investments,12  Mar-16,-3938.0,AMAR
+42,From Financial Activity,12  Mar-16,-1637.0,AMAR
+43,Net Cashflow,12  Mar-16,38.0,AMAR
+44,Net Sales,12  Mar-17,53172.0,AMAR
+45,Other income,12  Mar-17,492.0,AMAR
+46,Total revenues,12  Mar-17,53664.0,AMAR
+47,Gross profit,12  Mar-17,8499.0,AMAR
+48,Depreciation,12  Mar-17,1912.0,AMAR
+49,Interest,12  Mar-17,58.0,AMAR
+50,Profit before tax,12  Mar-17,7022.0,AMAR
+51,Minority Interest,12  Mar-17,0.0,AMAR
+52,Prior Period Items,12  Mar-17,0.0,AMAR
+53,Extraordinary Inc (Exp),12  Mar-17,0.0,AMAR
+54,Tax,12  Mar-17,2237.0,AMAR
+55,Profit after tax,12  Mar-17,4785.0,AMAR
+56,Gross profit margin,12  Mar-17,16.0,AMAR
+57,Effective tax rate,12  Mar-17,31.9,AMAR
+58,Net profit margin,12  Mar-17,9.0,AMAR
+59,Current assets,12  Mar-17,17586.0,AMAR
+60,Current liabilities,12  Mar-17,7596.0,AMAR
+61,Net working cap to sales,12  Mar-17,18.8,AMAR
+62,Current ratio,12  Mar-17,2.3,AMAR
+63,Inventory Days,12  Mar-17,56.0,AMAR
+64,Debtors Days,12  Mar-17,39.0,AMAR
+65,Net fixed assets,12  Mar-17,17273.0,AMAR
+66,Share capital,12  Mar-17,171.0,AMAR
+67,"""Free"" reserves",12  Mar-17,25760.0,AMAR
+68,Net worth,12  Mar-17,25931.0,AMAR
+69,Long term debt,12  Mar-17,690.0,AMAR
+70,Total assets,12  Mar-17,35846.0,AMAR
+71,Interest coverage,12  Mar-17,122.7,AMAR
+72,Debt to equity ratio,12  Mar-17,0.0,AMAR
+73,Sales to assets ratio,12  Mar-17,1.5,AMAR
+74,Return on assets,12  Mar-17,13.5,AMAR
+75,Return on equity,12  Mar-17,18.5,AMAR
+76,Return on capital,12  Mar-17,26.6,AMAR
+77,Exports to sales,12  Mar-17,0.0,AMAR
+78,Imports to sales,12  Mar-17,0.0,AMAR
+79,Exports (fob),12  Mar-17,0.0,AMAR
+80,Imports (cif),12  Mar-17,0.0,AMAR
+81,Fx inflow,12  Mar-17,4067.0,AMAR
+82,Fx outflow,12  Mar-17,14963.0,AMAR
+83,Net fx,12  Mar-17,-10895.0,AMAR
+84,From Operations,12  Mar-17,5529.0,AMAR
+85,From Investments,12  Mar-17,-5349.0,AMAR
+86,From Financial Activity,12  Mar-17,-20.0,AMAR
+87,Net Cashflow,12  Mar-17,223.0,AMAR
+88,Net Sales,12  Mar-18,60592.0,AMAR
+89,Other income,12  Mar-18,664.0,AMAR
+90,Total revenues,12  Mar-18,61255.0,AMAR
+91,Gross profit,12  Mar-18,8832.0,AMAR
+92,Depreciation,12  Mar-18,2303.0,AMAR
+93,Interest,12  Mar-18,51.0,AMAR
+94,Profit before tax,12  Mar-18,7142.0,AMAR
+95,Minority Interest,12  Mar-18,0.0,AMAR
+96,Prior Period Items,12  Mar-18,0.0,AMAR
+97,Extraordinary Inc (Exp),12  Mar-18,0.0,AMAR
+98,Tax,12  Mar-18,2429.0,AMAR
+99,Profit after tax,12  Mar-18,4713.0,AMAR
+100,Gross profit margin,12  Mar-18,14.6,AMAR
+101,Effective tax rate,12  Mar-18,34.0,AMAR
+102,Net profit margin,12  Mar-18,7.8,AMAR
+103,Current assets,12  Mar-18,21523.0,AMAR
+104,Current liabilities,12  Mar-18,9930.0,AMAR
+105,Net working cap to sales,12  Mar-18,19.1,AMAR
+106,Current ratio,12  Mar-18,2.2,AMAR
+107,Inventory Days,12  Mar-18,63.0,AMAR
+108,Debtors Days,12  Mar-18,47.0,AMAR
+109,Net fixed assets,12  Mar-18,19296.0,AMAR
+110,Share capital,12  Mar-18,171.0,AMAR
+111,"""Free"" reserves",12  Mar-18,29203.0,AMAR
+112,Net worth,12  Mar-18,29374.0,AMAR
+113,Long term debt,12  Mar-18,584.0,AMAR
+114,Total assets,12  Mar-18,41686.0,AMAR
+115,Interest coverage,12  Mar-18,142.1,AMAR
+116,Debt to equity ratio,12  Mar-18,0.0,AMAR
+117,Sales to assets ratio,12  Mar-18,1.5,AMAR
+118,Return on assets,12  Mar-18,11.4,AMAR
+119,Return on equity,12  Mar-18,16.0,AMAR
+120,Return on capital,12  Mar-18,24.0,AMAR
+121,Exports to sales,12  Mar-18,0.0,AMAR
+122,Imports to sales,12  Mar-18,0.0,AMAR
+123,Exports (fob),12  Mar-18,0.0,AMAR
+124,Imports (cif),12  Mar-18,0.0,AMAR
+125,Fx inflow,12  Mar-18,4746.0,AMAR
+126,Fx outflow,12  Mar-18,16858.0,AMAR
+127,Net fx,12  Mar-18,-12112.0,AMAR
+128,From Operations,12  Mar-18,3217.0,AMAR
+129,From Investments,12  Mar-18,-2443.0,AMAR
+130,From Financial Activity,12  Mar-18,-1382.0,AMAR
+131,Net Cashflow,12  Mar-18,-520.0,AMAR
+132,Net Sales,12  Mar-19,67931.0,AMAR
+133,Other income,12  Mar-19,468.0,AMAR
+134,Total revenues,12  Mar-19,68399.0,AMAR
+135,Gross profit,12  Mar-19,9515.0,AMAR
+136,Depreciation,12  Mar-19,2612.0,AMAR
+137,Interest,12  Mar-19,70.0,AMAR
+138,Profit before tax,12  Mar-19,7301.0,AMAR
+139,Minority Interest,12  Mar-19,0.0,AMAR
+140,Prior Period Items,12  Mar-19,0.0,AMAR
+141,Extraordinary Inc (Exp),12  Mar-19,0.0,AMAR
+142,Tax,12  Mar-19,2469.0,AMAR
+143,Profit after tax,12  Mar-19,4832.0,AMAR
+144,Gross profit margin,12  Mar-19,14.0,AMAR
+145,Effective tax rate,12  Mar-19,33.8,AMAR
+146,Net profit margin,12  Mar-19,7.1,AMAR
+147,Current assets,12  Mar-19,22041.0,AMAR
+148,Current liabilities,12  Mar-19,9025.0,AMAR
+149,Net working cap to sales,12  Mar-19,19.2,AMAR
+150,Current ratio,12  Mar-19,2.4,AMAR
+151,Inventory Days,12  Mar-19,57.0,AMAR
+152,Debtors Days,12  Mar-19,41.0,AMAR
+153,Net fixed assets,12  Mar-19,21275.0,AMAR
+154,Share capital,12  Mar-19,171.0,AMAR
+155,"""Free"" reserves",12  Mar-19,33180.0,AMAR
+156,Net worth,12  Mar-19,33350.0,AMAR
+157,Long term debt,12  Mar-19,468.0,AMAR
+158,Total assets,12  Mar-19,44957.0,AMAR
+159,Interest coverage,12  Mar-19,106.1,AMAR
+160,Debt to equity ratio,12  Mar-19,0.0,AMAR
+161,Sales to assets ratio,12  Mar-19,1.5,AMAR
+162,Return on assets,12  Mar-19,10.9,AMAR
+163,Return on equity,12  Mar-19,14.5,AMAR
+164,Return on capital,12  Mar-19,21.8,AMAR
+165,Exports to sales,12  Mar-19,0.0,AMAR
+166,Imports to sales,12  Mar-19,0.0,AMAR
+167,Exports (fob),12  Mar-19,0.0,AMAR
+168,Imports (cif),12  Mar-19,0.0,AMAR
+169,Fx inflow,12  Mar-19,7243.0,AMAR
+170,Fx outflow,12  Mar-19,21068.0,AMAR
+171,Net fx,12  Mar-19,-13825.0,AMAR
+172,From Operations,12  Mar-19,5411.0,AMAR
+173,From Investments,12  Mar-19,-4629.0,AMAR
+174,From Financial Activity,12  Mar-19,-916.0,AMAR
+175,Net Cashflow,12  Mar-19,15.0,AMAR
+176,Net Sales,12  Mar-20,68392.0,AMAR
+177,Other income,12  Mar-20,551.0,AMAR
+178,Total revenues,12  Mar-20,68942.0,AMAR
+179,Gross profit,12  Mar-20,10985.0,AMAR
+180,Depreciation,12  Mar-20,3007.0,AMAR
+181,Interest,12  Mar-20,122.0,AMAR
+182,Profit before tax,12  Mar-20,8407.0,AMAR
+183,Minority Interest,12  Mar-20,0.0,AMAR
+184,Prior Period Items,12  Mar-20,0.0,AMAR
+185,Extraordinary Inc (Exp),12  Mar-20,0.0,AMAR
+186,Tax,12  Mar-20,1799.0,AMAR
+187,Profit after tax,12  Mar-20,6608.0,AMAR
+188,Gross profit margin,12  Mar-20,16.1,AMAR
+189,Effective tax rate,12  Mar-20,21.4,AMAR
+190,Net profit margin,12  Mar-20,9.7,AMAR
+191,Current assets,12  Mar-20,22233.0,AMAR
+192,Current liabilities,12  Mar-20,11021.0,AMAR
+193,Net working cap to sales,12  Mar-20,16.4,AMAR
+194,Current ratio,12  Mar-20,2.0,AMAR
+195,Inventory Days,12  Mar-20,61.0,AMAR
+196,Debtors Days,12  Mar-20,34.0,AMAR
+197,Net fixed assets,12  Mar-20,26562.0,AMAR
+198,Share capital,12  Mar-20,171.0,AMAR
+199,"""Free"" reserves",12  Mar-20,36382.0,AMAR
+200,Net worth,12  Mar-20,36553.0,AMAR
+201,Long term debt,12  Mar-20,343.0,AMAR
+202,Total assets,12  Mar-20,50004.0,AMAR
+203,Interest coverage,12  Mar-20,70.0,AMAR
+204,Debt to equity ratio,12  Mar-20,0.0,AMAR
+205,Sales to assets ratio,12  Mar-20,1.4,AMAR
+206,Return on assets,12  Mar-20,13.5,AMAR
+207,Return on equity,12  Mar-20,18.1,AMAR
+208,Return on capital,12  Mar-20,23.1,AMAR
+209,Exports to sales,12  Mar-20,0.0,AMAR
+210,Imports to sales,12  Mar-20,0.0,AMAR
+211,Exports (fob),12  Mar-20,0.0,AMAR
+212,Imports (cif),12  Mar-20,0.0,AMAR
+213,Fx inflow,12  Mar-20,8358.0,AMAR
+214,Fx outflow,12  Mar-20,13225.0,AMAR
+215,Net fx,12  Mar-20,-4867.0,AMAR
+216,From Operations,12  Mar-20,11766.0,AMAR
+217,From Investments,12  Mar-20,-8494.0,AMAR
+218,From Financial Activity,12  Mar-20,-3638.0,AMAR
+219,Net Cashflow,12  Mar-20,-176.0,AMAR

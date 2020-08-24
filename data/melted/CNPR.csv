@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1129.0,CNPR
+1,Other income,12  Mar-15*,13.0,CNPR
+2,Total revenues,12  Mar-15*,1142.0,CNPR
+3,Gross profit,12  Mar-15*,272.0,CNPR
+4,Depreciation,12  Mar-15*,21.0,CNPR
+5,Interest,12  Mar-15*,11.0,CNPR
+6,Profit before tax,12  Mar-15*,253.0,CNPR
+7,Minority Interest,12  Mar-15*,0.0,CNPR
+8,Prior Period Items,12  Mar-15*,0.0,CNPR
+9,Extraordinary Inc (Exp),12  Mar-15*,23.0,CNPR
+10,Tax,12  Mar-15*,78.0,CNPR
+11,Profit after tax,12  Mar-15*,199.0,CNPR
+12,Gross profit margin,12  Mar-15*,24.1,CNPR
+13,Effective tax rate,12  Mar-15*,30.8,CNPR
+14,Net profit margin,12  Mar-15*,17.6,CNPR
+15,Current assets,12  Mar-15*,858.0,CNPR
+16,Current liabilities,12  Mar-15*,337.0,CNPR
+17,Net working cap to sales,12  Mar-15*,46.1,CNPR
+18,Current ratio,12  Mar-15*,2.5,CNPR
+19,Inventory Days,12  Mar-15*,181.0,CNPR
+20,Debtors Days,12  Mar-15*,87.0,CNPR
+21,Net fixed assets,12  Mar-15*,382.0,CNPR
+22,Share capital,12  Mar-15*,99.0,CNPR
+23,"""Free"" reserves",12  Mar-15*,694.0,CNPR
+24,Net worth,12  Mar-15*,1005.0,CNPR
+25,Long term debt,12  Mar-15*,0.0,CNPR
+26,Total assets,12  Mar-15*,1386.0,CNPR
+27,Interest coverage,12  Mar-15*,25.1,CNPR
+28,Debt to equity ratio,12  Mar-15*,0.0,CNPR
+29,Sales to assets ratio,12  Mar-15*,0.8,CNPR
+30,Return on assets,12  Mar-15*,15.1,CNPR
+31,Return on equity,12  Mar-15*,19.8,CNPR
+32,Return on capital,12  Mar-15*,28.6,CNPR
+33,Exports to sales,12  Mar-15*,2.1,CNPR
+34,Imports to sales,12  Mar-15*,15.4,CNPR
+35,Exports (fob),12  Mar-15*,24.0,CNPR
+36,Imports (cif),12  Mar-15*,174.0,CNPR
+37,Fx inflow,12  Mar-15*,24.0,CNPR
+38,Fx outflow,12  Mar-15*,243.0,CNPR
+39,Net fx,12  Mar-15*,-219.0,CNPR
+40,From Operations,12  Mar-15*,85.0,CNPR
+41,From Investments,12  Mar-15*,-81.0,CNPR
+42,From Financial Activity,12  Mar-15*,-2.0,CNPR
+43,Net Cashflow,12  Mar-15*,2.0,CNPR
+44,Net Sales,12  Mar-16*,1345.0,CNPR
+45,Other income,12  Mar-16*,6.0,CNPR
+46,Total revenues,12  Mar-16*,1351.0,CNPR
+47,Gross profit,12  Mar-16*,357.0,CNPR
+48,Depreciation,12  Mar-16*,29.0,CNPR
+49,Interest,12  Mar-16*,16.0,CNPR
+50,Profit before tax,12  Mar-16*,317.0,CNPR
+51,Minority Interest,12  Mar-16*,0.0,CNPR
+52,Prior Period Items,12  Mar-16*,7.0,CNPR
+53,Extraordinary Inc (Exp),12  Mar-16*,16.0,CNPR
+54,Tax,12  Mar-16*,78.0,CNPR
+55,Profit after tax,12  Mar-16*,262.0,CNPR
+56,Gross profit margin,12  Mar-16*,26.5,CNPR
+57,Effective tax rate,12  Mar-16*,24.7,CNPR
+58,Net profit margin,12  Mar-16*,19.4,CNPR
+59,Current assets,12  Mar-16*,1040.0,CNPR
+60,Current liabilities,12  Mar-16*,711.0,CNPR
+61,Net working cap to sales,12  Mar-16*,24.5,CNPR
+62,Current ratio,12  Mar-16*,1.5,CNPR
+63,Inventory Days,12  Mar-16*,141.0,CNPR
+64,Debtors Days,12  Mar-16*,92.0,CNPR
+65,Net fixed assets,12  Mar-16*,827.0,CNPR
+66,Share capital,12  Mar-16*,157.0,CNPR
+67,"""Free"" reserves",12  Mar-16*,1079.0,CNPR
+68,Net worth,12  Mar-16*,1236.0,CNPR
+69,Long term debt,12  Mar-16*,0.0,CNPR
+70,Total assets,12  Mar-16*,1947.0,CNPR
+71,Interest coverage,12  Mar-16*,20.3,CNPR
+72,Debt to equity ratio,12  Mar-16*,0.0,CNPR
+73,Sales to assets ratio,12  Mar-16*,0.7,CNPR
+74,Return on assets,12  Mar-16*,14.3,CNPR
+75,Return on equity,12  Mar-16*,21.2,CNPR
+76,Return on capital,12  Mar-16*,28.8,CNPR
+77,Exports to sales,12  Mar-16*,1.9,CNPR
+78,Imports to sales,12  Mar-16*,14.8,CNPR
+79,Exports (fob),12  Mar-16*,25.0,CNPR
+80,Imports (cif),12  Mar-16*,199.0,CNPR
+81,Fx inflow,12  Mar-16*,25.0,CNPR
+82,Fx outflow,12  Mar-16*,277.0,CNPR
+83,Net fx,12  Mar-16*,-252.0,CNPR
+84,From Operations,12  Mar-16*,84.0,CNPR
+85,From Investments,12  Mar-16*,-59.0,CNPR
+86,From Financial Activity,12  Mar-16*,-17.0,CNPR
+87,Net Cashflow,12  Mar-16*,8.0,CNPR
+88,Net Sales,12  Mar-17*,1474.0,CNPR
+89,Other income,12  Mar-17*,7.0,CNPR
+90,Total revenues,12  Mar-17*,1480.0,CNPR
+91,Gross profit,12  Mar-17*,386.0,CNPR
+92,Depreciation,12  Mar-17*,149.0,CNPR
+93,Interest,12  Mar-17*,11.0,CNPR
+94,Profit before tax,12  Mar-17*,233.0,CNPR
+95,Minority Interest,12  Mar-17*,0.0,CNPR
+96,Prior Period Items,12  Mar-17*,0.0,CNPR
+97,Extraordinary Inc (Exp),12  Mar-17*,24.0,CNPR
+98,Tax,12  Mar-17*,63.0,CNPR
+99,Profit after tax,12  Mar-17*,195.0,CNPR
+100,Gross profit margin,12  Mar-17*,26.2,CNPR
+101,Effective tax rate,12  Mar-17*,27.0,CNPR
+102,Net profit margin,12  Mar-17*,13.2,CNPR
+103,Current assets,12  Mar-17*,1189.0,CNPR
+104,Current liabilities,12  Mar-17*,696.0,CNPR
+105,Net working cap to sales,12  Mar-17*,33.5,CNPR
+106,Current ratio,12  Mar-17*,1.7,CNPR
+107,Inventory Days,12  Mar-17*,134.0,CNPR
+108,Debtors Days,12  Mar-17*,85.0,CNPR
+109,Net fixed assets,12  Mar-17*,786.0,CNPR
+110,Share capital,12  Mar-17*,157.0,CNPR
+111,"""Free"" reserves",12  Mar-17*,1195.0,CNPR
+112,Net worth,12  Mar-17*,1352.0,CNPR
+113,Long term debt,12  Mar-17*,0.0,CNPR
+114,Total assets,12  Mar-17*,2048.0,CNPR
+115,Interest coverage,12  Mar-17*,23.0,CNPR
+116,Debt to equity ratio,12  Mar-17*,0.0,CNPR
+117,Sales to assets ratio,12  Mar-17*,0.7,CNPR
+118,Return on assets,12  Mar-17*,10.0,CNPR
+119,Return on equity,12  Mar-17*,14.4,CNPR
+120,Return on capital,12  Mar-17*,19.8,CNPR
+121,Exports to sales,12  Mar-17*,1.8,CNPR
+122,Imports to sales,12  Mar-17*,13.2,CNPR
+123,Exports (fob),12  Mar-17*,27.0,CNPR
+124,Imports (cif),12  Mar-17*,195.0,CNPR
+125,Fx inflow,12  Mar-17*,27.0,CNPR
+126,Fx outflow,12  Mar-17*,456.0,CNPR
+127,Net fx,12  Mar-17*,-429.0,CNPR
+128,From Operations,12  Mar-17*,183.0,CNPR
+129,From Investments,12  Mar-17*,-109.0,CNPR
+130,From Financial Activity,12  Mar-17*,-79.0,CNPR
+131,Net Cashflow,12  Mar-17*,-6.0,CNPR
+132,Net Sales,12  Mar-18*,1739.0,CNPR
+133,Other income,12  Mar-18*,4.0,CNPR
+134,Total revenues,12  Mar-18*,1744.0,CNPR
+135,Gross profit,12  Mar-18*,501.0,CNPR
+136,Depreciation,12  Mar-18*,71.0,CNPR
+137,Interest,12  Mar-18*,13.0,CNPR
+138,Profit before tax,12  Mar-18*,421.0,CNPR
+139,Minority Interest,12  Mar-18*,0.0,CNPR
+140,Prior Period Items,12  Mar-18*,0.0,CNPR
+141,Extraordinary Inc (Exp),12  Mar-18*,-39.0,CNPR
+142,Tax,12  Mar-18*,69.0,CNPR
+143,Profit after tax,12  Mar-18*,313.0,CNPR
+144,Gross profit margin,12  Mar-18*,28.8,CNPR
+145,Effective tax rate,12  Mar-18*,16.3,CNPR
+146,Net profit margin,12  Mar-18*,18.0,CNPR
+147,Current assets,12  Mar-18*,1464.0,CNPR
+148,Current liabilities,12  Mar-18*,539.0,CNPR
+149,Net working cap to sales,12  Mar-18*,53.2,CNPR
+150,Current ratio,12  Mar-18*,2.7,CNPR
+151,Inventory Days,12  Mar-18*,137.0,CNPR
+152,Debtors Days,12  Mar-18*,89.0,CNPR
+153,Net fixed assets,12  Mar-18*,825.0,CNPR
+154,Share capital,12  Mar-18*,163.0,CNPR
+155,"""Free"" reserves",12  Mar-18*,1652.0,CNPR
+156,Net worth,12  Mar-18*,1816.0,CNPR
+157,Long term debt,12  Mar-18*,0.0,CNPR
+158,Total assets,12  Mar-18*,2355.0,CNPR
+159,Interest coverage,12  Mar-18*,33.4,CNPR
+160,Debt to equity ratio,12  Mar-18*,0.0,CNPR
+161,Sales to assets ratio,12  Mar-18*,0.7,CNPR
+162,Return on assets,12  Mar-18*,13.9,CNPR
+163,Return on equity,12  Mar-18*,17.2,CNPR
+164,Return on capital,12  Mar-18*,21.8,CNPR
+165,Exports to sales,12  Mar-18*,0.0,CNPR
+166,Imports to sales,12  Mar-18*,0.0,CNPR
+167,Exports (fob),12  Mar-18*,0.0,CNPR
+168,Imports (cif),12  Mar-18*,0.0,CNPR
+169,Fx inflow,12  Mar-18*,54.0,CNPR
+170,Fx outflow,12  Mar-18*,293.0,CNPR
+171,Net fx,12  Mar-18*,-239.0,CNPR
+172,From Operations,12  Mar-18*,135.0,CNPR
+173,From Investments,12  Mar-18*,-119.0,CNPR
+174,From Financial Activity,12  Mar-18*,8.0,CNPR
+175,Net Cashflow,12  Mar-18*,25.0,CNPR
+176,Net Sales,12  Mar-19*,1746.0,CNPR
+177,Other income,12  Mar-19*,8.0,CNPR
+178,Total revenues,12  Mar-19*,1754.0,CNPR
+179,Gross profit,12  Mar-19*,399.0,CNPR
+180,Depreciation,12  Mar-19*,77.0,CNPR
+181,Interest,12  Mar-19*,3.0,CNPR
+182,Profit before tax,12  Mar-19*,328.0,CNPR
+183,Minority Interest,12  Mar-19*,0.0,CNPR
+184,Prior Period Items,12  Mar-19*,0.0,CNPR
+185,Extraordinary Inc (Exp),12  Mar-19*,45.0,CNPR
+186,Tax,12  Mar-19*,76.0,CNPR
+187,Profit after tax,12  Mar-19*,298.0,CNPR
+188,Gross profit margin,12  Mar-19*,22.9,CNPR
+189,Effective tax rate,12  Mar-19*,23.1,CNPR
+190,Net profit margin,12  Mar-19*,17.0,CNPR
+191,Current assets,12  Mar-19*,1615.0,CNPR
+192,Current liabilities,12  Mar-19*,504.0,CNPR
+193,Net working cap to sales,12  Mar-19*,63.6,CNPR
+194,Current ratio,12  Mar-19*,3.2,CNPR
+195,Inventory Days,12  Mar-19*,129.0,CNPR
+196,Debtors Days,12  Mar-19*,98.0,CNPR
+197,Net fixed assets,12  Mar-19*,877.0,CNPR
+198,Share capital,12  Mar-19*,163.0,CNPR
+199,"""Free"" reserves",12  Mar-19*,1844.0,CNPR
+200,Net worth,12  Mar-19*,2007.0,CNPR
+201,Long term debt,12  Mar-19*,0.0,CNPR
+202,Total assets,12  Mar-19*,2511.0,CNPR
+203,Interest coverage,12  Mar-19*,122.6,CNPR
+204,Debt to equity ratio,12  Mar-19*,0.0,CNPR
+205,Sales to assets ratio,12  Mar-19*,0.7,CNPR
+206,Return on assets,12  Mar-19*,12.0,CNPR
+207,Return on equity,12  Mar-19*,14.8,CNPR
+208,Return on capital,12  Mar-19*,18.7,CNPR
+209,Exports to sales,12  Mar-19*,0.0,CNPR
+210,Imports to sales,12  Mar-19*,0.0,CNPR
+211,Exports (fob),12  Mar-19*,0.0,CNPR
+212,Imports (cif),12  Mar-19*,0.0,CNPR
+213,Fx inflow,12  Mar-19*,35.0,CNPR
+214,Fx outflow,12  Mar-19*,338.0,CNPR
+215,Net fx,12  Mar-19*,-303.0,CNPR
+216,From Operations,12  Mar-19*,341.0,CNPR
+217,From Investments,12  Mar-19*,-91.0,CNPR
+218,From Financial Activity,12  Mar-19*,-131.0,CNPR
+219,Net Cashflow,12  Mar-19*,120.0,CNPR

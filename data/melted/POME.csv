@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3904.0,POME
+1,Other income,12  Mar-15*,81.0,POME
+2,Total revenues,12  Mar-15*,3985.0,POME
+3,Gross profit,12  Mar-15*,841.0,POME
+4,Depreciation,12  Mar-15*,83.0,POME
+5,Interest,12  Mar-15*,188.0,POME
+6,Profit before tax,12  Mar-15*,652.0,POME
+7,Minority Interest,12  Mar-15*,0.0,POME
+8,Prior Period Items,12  Mar-15*,7.0,POME
+9,Extraordinary Inc (Exp),12  Mar-15*,196.0,POME
+10,Tax,12  Mar-15*,231.0,POME
+11,Profit after tax,12  Mar-15*,623.0,POME
+12,Gross profit margin,12  Mar-15*,21.6,POME
+13,Effective tax rate,12  Mar-15*,35.4,POME
+14,Net profit margin,12  Mar-15*,16.0,POME
+15,Current assets,12  Mar-15*,1596.0,POME
+16,Current liabilities,12  Mar-15*,1125.0,POME
+17,Net working cap to sales,12  Mar-15*,12.1,POME
+18,Current ratio,12  Mar-15*,1.4,POME
+19,Inventory Days,12  Mar-15*,54.0,POME
+20,Debtors Days,12  Mar-15*,59.0,POME
+21,Net fixed assets,12  Mar-15*,1753.0,POME
+22,Share capital,12  Mar-15*,221.0,POME
+23,"""Free"" reserves",12  Mar-15*,1700.0,POME
+24,Net worth,12  Mar-15*,1962.0,POME
+25,Long term debt,12  Mar-15*,403.0,POME
+26,Total assets,12  Mar-15*,3640.0,POME
+27,Interest coverage,12  Mar-15*,4.5,POME
+28,Debt to equity ratio,12  Mar-15*,0.2,POME
+29,Sales to assets ratio,12  Mar-15*,1.1,POME
+30,Return on assets,12  Mar-15*,22.3,POME
+31,Return on equity,12  Mar-15*,31.8,POME
+32,Return on capital,12  Mar-15*,44.1,POME
+33,Exports to sales,12  Mar-15*,64.4,POME
+34,Imports to sales,12  Mar-15*,33.9,POME
+35,Exports (fob),12  Mar-15*,2514.0,POME
+36,Imports (cif),12  Mar-15*,1322.0,POME
+37,Fx inflow,12  Mar-15*,2812.0,POME
+38,Fx outflow,12  Mar-15*,1407.0,POME
+39,Net fx,12  Mar-15*,1405.0,POME
+40,From Operations,12  Mar-15*,633.0,POME
+41,From Investments,12  Mar-15*,-593.0,POME
+42,From Financial Activity,12  Mar-15*,-59.0,POME
+43,Net Cashflow,12  Mar-15*,-19.0,POME
+44,Net Sales,12  Mar-16*,4123.0,POME
+45,Other income,12  Mar-16*,83.0,POME
+46,Total revenues,12  Mar-16*,4205.0,POME
+47,Gross profit,12  Mar-16*,858.0,POME
+48,Depreciation,12  Mar-16*,80.0,POME
+49,Interest,12  Mar-16*,210.0,POME
+50,Profit before tax,12  Mar-16*,650.0,POME
+51,Minority Interest,12  Mar-16*,0.0,POME
+52,Prior Period Items,12  Mar-16*,8.0,POME
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,POME
+54,Tax,12  Mar-16*,176.0,POME
+55,Profit after tax,12  Mar-16*,483.0,POME
+56,Gross profit margin,12  Mar-16*,20.8,POME
+57,Effective tax rate,12  Mar-16*,27.0,POME
+58,Net profit margin,12  Mar-16*,11.7,POME
+59,Current assets,12  Mar-16*,1714.0,POME
+60,Current liabilities,12  Mar-16*,1065.0,POME
+61,Net working cap to sales,12  Mar-16*,15.8,POME
+62,Current ratio,12  Mar-16*,1.6,POME
+63,Inventory Days,12  Mar-16*,41.0,POME
+64,Debtors Days,12  Mar-16*,73.0,POME
+65,Net fixed assets,12  Mar-16*,1961.0,POME
+66,Share capital,12  Mar-16*,221.0,POME
+67,"""Free"" reserves",12  Mar-16*,2028.0,POME
+68,Net worth,12  Mar-16*,2286.0,POME
+69,Long term debt,12  Mar-16*,311.0,POME
+70,Total assets,12  Mar-16*,3872.0,POME
+71,Interest coverage,12  Mar-16*,4.1,POME
+72,Debt to equity ratio,12  Mar-16*,0.1,POME
+73,Sales to assets ratio,12  Mar-16*,1.1,POME
+74,Return on assets,12  Mar-16*,17.9,POME
+75,Return on equity,12  Mar-16*,21.1,POME
+76,Return on capital,12  Mar-16*,33.5,POME
+77,Exports to sales,12  Mar-16*,63.5,POME
+78,Imports to sales,12  Mar-16*,30.4,POME
+79,Exports (fob),12  Mar-16*,2616.0,POME
+80,Imports (cif),12  Mar-16*,1252.0,POME
+81,Fx inflow,12  Mar-16*,2642.0,POME
+82,Fx outflow,12  Mar-16*,1335.0,POME
+83,Net fx,12  Mar-16*,1307.0,POME
+84,From Operations,12  Mar-16*,634.0,POME
+85,From Investments,12  Mar-16*,-314.0,POME
+86,From Financial Activity,12  Mar-16*,-310.0,POME
+87,Net Cashflow,12  Mar-16*,11.0,POME
+88,Net Sales,12  Mar-17*,4550.0,POME
+89,Other income,12  Mar-17*,134.0,POME
+90,Total revenues,12  Mar-17*,4684.0,POME
+91,Gross profit,12  Mar-17*,917.0,POME
+92,Depreciation,12  Mar-17*,237.0,POME
+93,Interest,12  Mar-17*,67.0,POME
+94,Profit before tax,12  Mar-17*,746.0,POME
+95,Minority Interest,12  Mar-17*,0.0,POME
+96,Prior Period Items,12  Mar-17*,6.0,POME
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,POME
+98,Tax,12  Mar-17*,201.0,POME
+99,Profit after tax,12  Mar-17*,551.0,POME
+100,Gross profit margin,12  Mar-17*,20.2,POME
+101,Effective tax rate,12  Mar-17*,26.9,POME
+102,Net profit margin,12  Mar-17*,12.1,POME
+103,Current assets,12  Mar-17*,2049.0,POME
+104,Current liabilities,12  Mar-17*,1139.0,POME
+105,Net working cap to sales,12  Mar-17*,20.0,POME
+106,Current ratio,12  Mar-17*,1.8,POME
+107,Inventory Days,12  Mar-17*,50.0,POME
+108,Debtors Days,12  Mar-17*,77.0,POME
+109,Net fixed assets,12  Mar-17*,2056.0,POME
+110,Share capital,12  Mar-17*,441.0,POME
+111,"""Free"" reserves",12  Mar-17*,2274.0,POME
+112,Net worth,12  Mar-17*,2715.0,POME
+113,Long term debt,12  Mar-17*,476.0,POME
+114,Total assets,12  Mar-17*,4570.0,POME
+115,Interest coverage,12  Mar-17*,12.1,POME
+116,Debt to equity ratio,12  Mar-17*,0.2,POME
+117,Sales to assets ratio,12  Mar-17*,1.0,POME
+118,Return on assets,12  Mar-17*,13.5,POME
+119,Return on equity,12  Mar-17*,20.3,POME
+120,Return on capital,12  Mar-17*,25.7,POME
+121,Exports to sales,12  Mar-17*,0.0,POME
+122,Imports to sales,12  Mar-17*,0.0,POME
+123,Exports (fob),12  Mar-17*,0.0,POME
+124,Imports (cif),12  Mar-17*,0.0,POME
+125,Fx inflow,12  Mar-17*,2833.0,POME
+126,Fx outflow,12  Mar-17*,1494.0,POME
+127,Net fx,12  Mar-17*,1339.0,POME
+128,From Operations,12  Mar-17*,561.0,POME
+129,From Investments,12  Mar-17*,-557.0,POME
+130,From Financial Activity,12  Mar-17*,-3.0,POME
+131,Net Cashflow,12  Mar-17*,1.0,POME
+132,Net Sales,12  Mar-18*,5204.0,POME
+133,Other income,12  Mar-18*,144.0,POME
+134,Total revenues,12  Mar-18*,5348.0,POME
+135,Gross profit,12  Mar-18*,1203.0,POME
+136,Depreciation,12  Mar-18*,292.0,POME
+137,Interest,12  Mar-18*,100.0,POME
+138,Profit before tax,12  Mar-18*,955.0,POME
+139,Minority Interest,12  Mar-18*,0.0,POME
+140,Prior Period Items,12  Mar-18*,12.0,POME
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,POME
+142,Tax,12  Mar-18*,262.0,POME
+143,Profit after tax,12  Mar-18*,706.0,POME
+144,Gross profit margin,12  Mar-18*,23.1,POME
+145,Effective tax rate,12  Mar-18*,27.4,POME
+146,Net profit margin,12  Mar-18*,13.6,POME
+147,Current assets,12  Mar-18*,2552.0,POME
+148,Current liabilities,12  Mar-18*,1226.0,POME
+149,Net working cap to sales,12  Mar-18*,25.5,POME
+150,Current ratio,12  Mar-18*,2.1,POME
+151,Inventory Days,12  Mar-18*,51.0,POME
+152,Debtors Days,12  Mar-18*,79.0,POME
+153,Net fixed assets,12  Mar-18*,2800.0,POME
+154,Share capital,12  Mar-18*,441.0,POME
+155,"""Free"" reserves",12  Mar-18*,2942.0,POME
+156,Net worth,12  Mar-18*,3383.0,POME
+157,Long term debt,12  Mar-18*,791.0,POME
+158,Total assets,12  Mar-18*,5648.0,POME
+159,Interest coverage,12  Mar-18*,10.6,POME
+160,Debt to equity ratio,12  Mar-18*,0.2,POME
+161,Sales to assets ratio,12  Mar-18*,0.9,POME
+162,Return on assets,12  Mar-18*,14.3,POME
+163,Return on equity,12  Mar-18*,20.9,POME
+164,Return on capital,12  Mar-18*,25.6,POME
+165,Exports to sales,12  Mar-18*,0.0,POME
+166,Imports to sales,12  Mar-18*,0.0,POME
+167,Exports (fob),12  Mar-18*,0.0,POME
+168,Imports (cif),12  Mar-18*,0.0,POME
+169,Fx inflow,12  Mar-18*,3448.0,POME
+170,Fx outflow,12  Mar-18*,1456.0,POME
+171,Net fx,12  Mar-18*,1992.0,POME
+172,From Operations,12  Mar-18*,750.0,POME
+173,From Investments,12  Mar-18*,-880.0,POME
+174,From Financial Activity,12  Mar-18*,157.0,POME
+175,Net Cashflow,12  Mar-18*,26.0,POME
+176,Net Sales,12  Mar-19*,6108.0,POME
+177,Other income,12  Mar-19*,183.0,POME
+178,Total revenues,12  Mar-19*,6291.0,POME
+179,Gross profit,12  Mar-19*,1295.0,POME
+180,Depreciation,12  Mar-19*,373.0,POME
+181,Interest,12  Mar-19*,118.0,POME
+182,Profit before tax,12  Mar-19*,987.0,POME
+183,Minority Interest,12  Mar-19*,0.0,POME
+184,Prior Period Items,12  Mar-19*,14.0,POME
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,POME
+186,Tax,12  Mar-19*,347.0,POME
+187,Profit after tax,12  Mar-19*,654.0,POME
+188,Gross profit margin,12  Mar-19*,21.2,POME
+189,Effective tax rate,12  Mar-19*,35.1,POME
+190,Net profit margin,12  Mar-19*,10.7,POME
+191,Current assets,12  Mar-19*,3017.0,POME
+192,Current liabilities,12  Mar-19*,1536.0,POME
+193,Net working cap to sales,12  Mar-19*,24.2,POME
+194,Current ratio,12  Mar-19*,2.0,POME
+195,Inventory Days,12  Mar-19*,50.0,POME
+196,Debtors Days,12  Mar-19*,77.0,POME
+197,Net fixed assets,12  Mar-19*,3257.0,POME
+198,Share capital,12  Mar-19*,441.0,POME
+199,"""Free"" reserves",12  Mar-19*,3373.0,POME
+200,Net worth,12  Mar-19*,3814.0,POME
+201,Long term debt,12  Mar-19*,914.0,POME
+202,Total assets,12  Mar-19*,6540.0,POME
+203,Interest coverage,12  Mar-19*,9.4,POME
+204,Debt to equity ratio,12  Mar-19*,0.2,POME
+205,Sales to assets ratio,12  Mar-19*,0.9,POME
+206,Return on assets,12  Mar-19*,11.8,POME
+207,Return on equity,12  Mar-19*,17.1,POME
+208,Return on capital,12  Mar-19*,23.7,POME
+209,Exports to sales,12  Mar-19*,0.0,POME
+210,Imports to sales,12  Mar-19*,0.0,POME
+211,Exports (fob),12  Mar-19*,0.0,POME
+212,Imports (cif),12  Mar-19*,0.0,POME
+213,Fx inflow,12  Mar-19*,3868.0,POME
+214,Fx outflow,12  Mar-19*,1554.0,POME
+215,Net fx,12  Mar-19*,2313.0,POME
+216,From Operations,12  Mar-19*,1071.0,POME
+217,From Investments,12  Mar-19*,-1019.0,POME
+218,From Financial Activity,12  Mar-19*,-46.0,POME
+219,Net Cashflow,12  Mar-19*,6.0,POME

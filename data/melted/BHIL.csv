@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,116683.0,BHIL
+1,Other income,12  Mar-15*,5223.0,BHIL
+2,Total revenues,12  Mar-15*,121906.0,BHIL
+3,Gross profit,12  Mar-15*,50041.0,BHIL
+4,Depreciation,12  Mar-15*,21847.0,BHIL
+5,Interest,12  Mar-15*,2902.0,BHIL
+6,Profit before tax,12  Mar-15*,30515.0,BHIL
+7,Minority Interest,12  Mar-15*,0.0,BHIL
+8,Prior Period Items,12  Mar-15*,0.0,BHIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BHIL
+10,Tax,12  Mar-15*,10591.0,BHIL
+11,Profit after tax,12  Mar-15*,19924.0,BHIL
+12,Gross profit margin,12  Mar-15*,42.9,BHIL
+13,Effective tax rate,12  Mar-15*,34.7,BHIL
+14,Net profit margin,12  Mar-15*,17.1,BHIL
+15,Current assets,12  Mar-15*,51659.0,BHIL
+16,Current liabilities,12  Mar-15*,13799.0,BHIL
+17,Net working cap to sales,12  Mar-15*,32.4,BHIL
+18,Current ratio,12  Mar-15*,3.7,BHIL
+19,Inventory Days,12  Mar-15*,0.0,BHIL
+20,Debtors Days,12  Mar-15*,11.0,BHIL
+21,Net fixed assets,12  Mar-15*,110614.0,BHIL
+22,Share capital,12  Mar-15*,18938.0,BHIL
+23,"""Free"" reserves",12  Mar-15*,157552.0,BHIL
+24,Net worth,12  Mar-15*,176490.0,BHIL
+25,Long term debt,12  Mar-15*,0.0,BHIL
+26,Total assets,12  Mar-15*,199276.0,BHIL
+27,Interest coverage,12  Mar-15*,11.5,BHIL
+28,Debt to equity ratio,12  Mar-15*,0.0,BHIL
+29,Sales to assets ratio,12  Mar-15*,0.6,BHIL
+30,Return on assets,12  Mar-15*,11.5,BHIL
+31,Return on equity,12  Mar-15*,11.3,BHIL
+32,Return on capital,12  Mar-15*,18.9,BHIL
+33,Exports to sales,12  Mar-15*,0.0,BHIL
+34,Imports to sales,12  Mar-15*,0.0,BHIL
+35,Exports (fob),12  Mar-15*,0.0,BHIL
+36,Imports (cif),12  Mar-15*,0.0,BHIL
+37,Fx inflow,12  Mar-15*,0.0,BHIL
+38,Fx outflow,12  Mar-15*,49.0,BHIL
+39,Net fx,12  Mar-15*,-49.0,BHIL
+40,From Operations,12  Mar-15*,39895.0,BHIL
+41,From Investments,12  Mar-15*,-9374.0,BHIL
+42,From Financial Activity,12  Mar-15*,-31876.0,BHIL
+43,Net Cashflow,12  Mar-15*,-1355.0,BHIL
+44,Net Sales,12  Mar-16*,55583.0,BHIL
+45,Other income,12  Mar-16*,1104.0,BHIL
+46,Total revenues,12  Mar-16*,56687.0,BHIL
+47,Gross profit,12  Mar-16*,25454.0,BHIL
+48,Depreciation,12  Mar-16*,12121.0,BHIL
+49,Interest,12  Mar-16*,-4285.0,BHIL
+50,Profit before tax,12  Mar-16*,18722.0,BHIL
+51,Minority Interest,12  Mar-16*,11069.0,BHIL
+52,Prior Period Items,12  Mar-16*,0.0,BHIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BHIL
+54,Tax,12  Mar-16*,7317.0,BHIL
+55,Profit after tax,12  Mar-16*,22474.0,BHIL
+56,Gross profit margin,12  Mar-16*,45.8,BHIL
+57,Effective tax rate,12  Mar-16*,39.1,BHIL
+58,Net profit margin,12  Mar-16*,40.4,BHIL
+59,Current assets,12  Mar-16*,55454.0,BHIL
+60,Current liabilities,12  Mar-16*,14166.0,BHIL
+61,Net working cap to sales,12  Mar-16*,74.3,BHIL
+62,Current ratio,12  Mar-16*,3.9,BHIL
+63,Inventory Days,12  Mar-16*,0.0,BHIL
+64,Debtors Days,12  Mar-16*,13.0,BHIL
+65,Net fixed assets,12  Mar-16*,117512.0,BHIL
+66,Share capital,12  Mar-16*,18967.0,BHIL
+67,"""Free"" reserves",12  Mar-16*,163454.0,BHIL
+68,Net worth,12  Mar-16*,182421.0,BHIL
+69,Long term debt,12  Mar-16*,0.0,BHIL
+70,Total assets,12  Mar-16*,207032.0,BHIL
+71,Interest coverage,12  Mar-16*,-3.4,BHIL
+72,Debt to equity ratio,12  Mar-16*,0.0,BHIL
+73,Sales to assets ratio,12  Mar-16*,0.3,BHIL
+74,Return on assets,12  Mar-16*,8.8,BHIL
+75,Return on equity,12  Mar-16*,12.3,BHIL
+76,Return on capital,12  Mar-16*,14.0,BHIL
+77,Exports to sales,12  Mar-16*,0.0,BHIL
+78,Imports to sales,12  Mar-16*,0.0,BHIL
+79,Exports (fob),12  Mar-16*,0.0,BHIL
+80,Imports (cif),12  Mar-16*,0.0,BHIL
+81,Fx inflow,12  Mar-16*,0.0,BHIL
+82,Fx outflow,12  Mar-16*,5.0,BHIL
+83,Net fx,12  Mar-16*,-5.0,BHIL
+84,From Operations,12  Mar-16*,19115.0,BHIL
+85,From Investments,12  Mar-16*,15483.0,BHIL
+86,From Financial Activity,12  Mar-16*,-14529.0,BHIL
+87,Net Cashflow,12  Mar-16*,20069.0,BHIL
+88,Net Sales,12  Mar-17*,60847.0,BHIL
+89,Other income,12  Mar-17*,711.0,BHIL
+90,Total revenues,12  Mar-17*,61558.0,BHIL
+91,Gross profit,12  Mar-17*,28761.0,BHIL
+92,Depreciation,12  Mar-17*,12167.0,BHIL
+93,Interest,12  Mar-17*,-6542.0,BHIL
+94,Profit before tax,12  Mar-17*,23847.0,BHIL
+95,Minority Interest,12  Mar-17*,11950.0,BHIL
+96,Prior Period Items,12  Mar-17*,0.0,BHIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BHIL
+98,Tax,12  Mar-17*,8327.0,BHIL
+99,Profit after tax,12  Mar-17*,27470.0,BHIL
+100,Gross profit margin,12  Mar-17*,47.3,BHIL
+101,Effective tax rate,12  Mar-17*,34.9,BHIL
+102,Net profit margin,12  Mar-17*,45.1,BHIL
+103,Current assets,12  Mar-17*,48759.0,BHIL
+104,Current liabilities,12  Mar-17*,45735.0,BHIL
+105,Net working cap to sales,12  Mar-17*,5.0,BHIL
+106,Current ratio,12  Mar-17*,1.1,BHIL
+107,Inventory Days,12  Mar-17*,0.0,BHIL
+108,Debtors Days,12  Mar-17*,18.0,BHIL
+109,Net fixed assets,12  Mar-17*,114036.0,BHIL
+110,Share capital,12  Mar-17*,18496.0,BHIL
+111,"""Free"" reserves",12  Mar-17*,136497.0,BHIL
+112,Net worth,12  Mar-17*,154993.0,BHIL
+113,Long term debt,12  Mar-17*,0.0,BHIL
+114,Total assets,12  Mar-17*,209411.0,BHIL
+115,Interest coverage,12  Mar-17*,-2.6,BHIL
+116,Debt to equity ratio,12  Mar-17*,0.0,BHIL
+117,Sales to assets ratio,12  Mar-17*,0.3,BHIL
+118,Return on assets,12  Mar-17*,10.0,BHIL
+119,Return on equity,12  Mar-17*,17.7,BHIL
+120,Return on capital,12  Mar-17*,18.9,BHIL
+121,Exports to sales,12  Mar-17*,0.0,BHIL
+122,Imports to sales,12  Mar-17*,0.0,BHIL
+123,Exports (fob),12  Mar-17*,0.0,BHIL
+124,Imports (cif),12  Mar-17*,0.0,BHIL
+125,Fx inflow,12  Mar-17*,0.0,BHIL
+126,Fx outflow,12  Mar-17*,0.0,BHIL
+127,Net fx,12  Mar-17*,0.0,BHIL
+128,From Operations,12  Mar-17*,28662.0,BHIL
+129,From Investments,12  Mar-17*,-2372.0,BHIL
+130,From Financial Activity,12  Mar-17*,-26710.0,BHIL
+131,Net Cashflow,12  Mar-17*,-420.0,BHIL
+132,Net Sales,12  Mar-18*,66212.0,BHIL
+133,Other income,12  Mar-18*,1052.0,BHIL
+134,Total revenues,12  Mar-18*,67264.0,BHIL
+135,Gross profit,12  Mar-18*,34128.0,BHIL
+136,Depreciation,12  Mar-18*,12188.0,BHIL
+137,Interest,12  Mar-18*,465.0,BHIL
+138,Profit before tax,12  Mar-18*,22527.0,BHIL
+139,Minority Interest,12  Mar-18*,13025.0,BHIL
+140,Prior Period Items,12  Mar-18*,0.0,BHIL
+141,Extraordinary Inc (Exp),12  Mar-18*,-260.0,BHIL
+142,Tax,12  Mar-18*,10355.0,BHIL
+143,Profit after tax,12  Mar-18*,24937.0,BHIL
+144,Gross profit margin,12  Mar-18*,51.5,BHIL
+145,Effective tax rate,12  Mar-18*,46.0,BHIL
+146,Net profit margin,12  Mar-18*,37.7,BHIL
+147,Current assets,12  Mar-18*,76120.0,BHIL
+148,Current liabilities,12  Mar-18*,18159.0,BHIL
+149,Net working cap to sales,12  Mar-18*,87.5,BHIL
+150,Current ratio,12  Mar-18*,4.2,BHIL
+151,Inventory Days,12  Mar-18*,0.0,BHIL
+152,Debtors Days,12  Mar-18*,15.0,BHIL
+153,Net fixed assets,12  Mar-18*,112470.0,BHIL
+154,Share capital,12  Mar-18*,18496.0,BHIL
+155,"""Free"" reserves",12  Mar-18*,151148.0,BHIL
+156,Net worth,12  Mar-18*,169644.0,BHIL
+157,Long term debt,12  Mar-18*,0.0,BHIL
+158,Total assets,12  Mar-18*,196796.0,BHIL
+159,Interest coverage,12  Mar-18*,49.4,BHIL
+160,Debt to equity ratio,12  Mar-18*,0.0,BHIL
+161,Sales to assets ratio,12  Mar-18*,0.3,BHIL
+162,Return on assets,12  Mar-18*,12.9,BHIL
+163,Return on equity,12  Mar-18*,14.7,BHIL
+164,Return on capital,12  Mar-18*,21.1,BHIL
+165,Exports to sales,12  Mar-18*,0.0,BHIL
+166,Imports to sales,12  Mar-18*,0.0,BHIL
+167,Exports (fob),12  Mar-18*,0.0,BHIL
+168,Imports (cif),12  Mar-18*,0.0,BHIL
+169,Fx inflow,12  Mar-18*,0.0,BHIL
+170,Fx outflow,12  Mar-18*,0.0,BHIL
+171,Net fx,12  Mar-18*,0.0,BHIL
+172,From Operations,12  Mar-18*,34694.0,BHIL
+173,From Investments,12  Mar-18*,-18551.0,BHIL
+174,From Financial Activity,12  Mar-18*,-35548.0,BHIL
+175,Net Cashflow,12  Mar-18*,-19405.0,BHIL
+176,Net Sales,12  Mar-19*,68262.0,BHIL
+177,Other income,12  Mar-19*,1015.0,BHIL
+178,Total revenues,12  Mar-19*,69277.0,BHIL
+179,Gross profit,12  Mar-19*,35933.0,BHIL
+180,Depreciation,12  Mar-19*,11064.0,BHIL
+181,Interest,12  Mar-19*,529.0,BHIL
+182,Profit before tax,12  Mar-19*,25355.0,BHIL
+183,Minority Interest,12  Mar-19*,10172.0,BHIL
+184,Prior Period Items,12  Mar-19*,0.0,BHIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BHIL
+186,Tax,12  Mar-19*,10589.0,BHIL
+187,Profit after tax,12  Mar-19*,24938.0,BHIL
+188,Gross profit margin,12  Mar-19*,52.6,BHIL
+189,Effective tax rate,12  Mar-19*,41.8,BHIL
+190,Net profit margin,12  Mar-19*,36.5,BHIL
+191,Current assets,12  Mar-19*,42800.0,BHIL
+192,Current liabilities,12  Mar-19*,17752.0,BHIL
+193,Net working cap to sales,12  Mar-19*,36.7,BHIL
+194,Current ratio,12  Mar-19*,2.4,BHIL
+195,Inventory Days,12  Mar-19*,0.0,BHIL
+196,Debtors Days,12  Mar-19*,29.0,BHIL
+197,Net fixed assets,12  Mar-19*,105587.0,BHIL
+198,Share capital,12  Mar-19*,18496.0,BHIL
+199,"""Free"" reserves",12  Mar-19*,126820.0,BHIL
+200,Net worth,12  Mar-19*,145316.0,BHIL
+201,Long term debt,12  Mar-19*,0.0,BHIL
+202,Total assets,12  Mar-19*,171305.0,BHIL
+203,Interest coverage,12  Mar-19*,48.9,BHIL
+204,Debt to equity ratio,12  Mar-19*,0.0,BHIL
+205,Sales to assets ratio,12  Mar-19*,0.4,BHIL
+206,Return on assets,12  Mar-19*,14.9,BHIL
+207,Return on equity,12  Mar-19*,17.2,BHIL
+208,Return on capital,12  Mar-19*,24.8,BHIL
+209,Exports to sales,12  Mar-19*,0.0,BHIL
+210,Imports to sales,12  Mar-19*,0.0,BHIL
+211,Exports (fob),12  Mar-19*,0.0,BHIL
+212,Imports (cif),12  Mar-19*,0.0,BHIL
+213,Fx inflow,12  Mar-19*,0.0,BHIL
+214,Fx outflow,12  Mar-19*,0.0,BHIL
+215,Net fx,12  Mar-19*,0.0,BHIL
+216,From Operations,12  Mar-19*,31586.0,BHIL
+217,From Investments,12  Mar-19*,15999.0,BHIL
+218,From Financial Activity,12  Mar-19*,-47947.0,BHIL
+219,Net Cashflow,12  Mar-19*,-362.0,BHIL

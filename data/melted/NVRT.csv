@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,8734.0,NVRT
+1,Other income,12  Mar-15,1076.0,NVRT
+2,Total revenues,12  Mar-15,9810.0,NVRT
+3,Gross profit,12  Mar-15,-39.0,NVRT
+4,Depreciation,12  Mar-15,40.0,NVRT
+5,Interest,12  Mar-15,2.0,NVRT
+6,Profit before tax,12  Mar-15,996.0,NVRT
+7,Minority Interest,12  Mar-15,0.0,NVRT
+8,Prior Period Items,12  Mar-15,165.0,NVRT
+9,Extraordinary Inc (Exp),12  Mar-15,-63.0,NVRT
+10,Tax,12  Mar-15,306.0,NVRT
+11,Profit after tax,12  Mar-15,791.0,NVRT
+12,Gross profit margin,12  Mar-15,-0.4,NVRT
+13,Effective tax rate,12  Mar-15,30.7,NVRT
+14,Net profit margin,12  Mar-15,9.1,NVRT
+15,Current assets,12  Mar-15,10634.0,NVRT
+16,Current liabilities,12  Mar-15,2107.0,NVRT
+17,Net working cap to sales,12  Mar-15,97.6,NVRT
+18,Current ratio,12  Mar-15,5.0,NVRT
+19,Inventory Days,12  Mar-15,42.0,NVRT
+20,Debtors Days,12  Mar-15,35.0,NVRT
+21,Net fixed assets,12  Mar-15,85.0,NVRT
+22,Share capital,12  Mar-15,160.0,NVRT
+23,"""Free"" reserves",12  Mar-15,9859.0,NVRT
+24,Net worth,12  Mar-15,10020.0,NVRT
+25,Long term debt,12  Mar-15,0.0,NVRT
+26,Total assets,12  Mar-15,12461.0,NVRT
+27,Interest coverage,12  Mar-15,475.1,NVRT
+28,Debt to equity ratio,12  Mar-15,0.0,NVRT
+29,Sales to assets ratio,12  Mar-15,0.7,NVRT
+30,Return on assets,12  Mar-15,6.4,NVRT
+31,Return on equity,12  Mar-15,7.9,NVRT
+32,Return on capital,12  Mar-15,11.0,NVRT
+33,Exports to sales,12  Mar-15,0.9,NVRT
+34,Imports to sales,12  Mar-15,14.2,NVRT
+35,Exports (fob),12  Mar-15,80.0,NVRT
+36,Imports (cif),12  Mar-15,1244.0,NVRT
+37,Fx inflow,12  Mar-15,149.0,NVRT
+38,Fx outflow,12  Mar-15,1645.0,NVRT
+39,Net fx,12  Mar-15,-1497.0,NVRT
+40,From Operations,12  Mar-15,-596.0,NVRT
+41,From Investments,12  Mar-15,7189.0,NVRT
+42,From Financial Activity,12  Mar-15,-377.0,NVRT
+43,Net Cashflow,12  Mar-15,6217.0,NVRT
+44,Net Sales,12  Mar-16,6898.0,NVRT
+45,Other income,12  Mar-16,809.0,NVRT
+46,Total revenues,12  Mar-16,7707.0,NVRT
+47,Gross profit,12  Mar-16,-113.0,NVRT
+48,Depreciation,12  Mar-16,35.0,NVRT
+49,Interest,12  Mar-16,2.0,NVRT
+50,Profit before tax,12  Mar-16,659.0,NVRT
+51,Minority Interest,12  Mar-16,0.0,NVRT
+52,Prior Period Items,12  Mar-16,17.0,NVRT
+53,Extraordinary Inc (Exp),12  Mar-16,1696.0,NVRT
+54,Tax,12  Mar-16,389.0,NVRT
+55,Profit after tax,12  Mar-16,1983.0,NVRT
+56,Gross profit margin,12  Mar-16,-1.6,NVRT
+57,Effective tax rate,12  Mar-16,59.0,NVRT
+58,Net profit margin,12  Mar-16,28.7,NVRT
+59,Current assets,12  Mar-16,12637.0,NVRT
+60,Current liabilities,12  Mar-16,2045.0,NVRT
+61,Net working cap to sales,12  Mar-16,153.6,NVRT
+62,Current ratio,12  Mar-16,6.2,NVRT
+63,Inventory Days,12  Mar-16,38.0,NVRT
+64,Debtors Days,12  Mar-16,27.0,NVRT
+65,Net fixed assets,12  Mar-16,69.0,NVRT
+66,Share capital,12  Mar-16,160.0,NVRT
+67,"""Free"" reserves",12  Mar-16,11776.0,NVRT
+68,Net worth,12  Mar-16,11936.0,NVRT
+69,Long term debt,12  Mar-16,0.0,NVRT
+70,Total assets,12  Mar-16,14326.0,NVRT
+71,Interest coverage,12  Mar-16,314.7,NVRT
+72,Debt to equity ratio,12  Mar-16,0.0,NVRT
+73,Sales to assets ratio,12  Mar-16,0.5,NVRT
+74,Return on assets,12  Mar-16,13.9,NVRT
+75,Return on equity,12  Mar-16,16.6,NVRT
+76,Return on capital,12  Mar-16,19.9,NVRT
+77,Exports to sales,12  Mar-16,0.9,NVRT
+78,Imports to sales,12  Mar-16,21.8,NVRT
+79,Exports (fob),12  Mar-16,60.0,NVRT
+80,Imports (cif),12  Mar-16,1503.0,NVRT
+81,Fx inflow,12  Mar-16,186.0,NVRT
+82,Fx outflow,12  Mar-16,1821.0,NVRT
+83,Net fx,12  Mar-16,-1635.0,NVRT
+84,From Operations,12  Mar-16,566.0,NVRT
+85,From Investments,12  Mar-16,-6305.0,NVRT
+86,From Financial Activity,12  Mar-16,-386.0,NVRT
+87,Net Cashflow,12  Mar-16,-6125.0,NVRT
+88,Net Sales,12  Mar-17,6562.0,NVRT
+89,Other income,12  Mar-17,702.0,NVRT
+90,Total revenues,12  Mar-17,7264.0,NVRT
+91,Gross profit,12  Mar-17,259.0,NVRT
+92,Depreciation,12  Mar-17,36.0,NVRT
+93,Interest,12  Mar-17,7.0,NVRT
+94,Profit before tax,12  Mar-17,917.0,NVRT
+95,Minority Interest,12  Mar-17,0.0,NVRT
+96,Prior Period Items,12  Mar-17,0.0,NVRT
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,NVRT
+98,Tax,12  Mar-17,345.0,NVRT
+99,Profit after tax,12  Mar-17,572.0,NVRT
+100,Gross profit margin,12  Mar-17,3.9,NVRT
+101,Effective tax rate,12  Mar-17,37.6,NVRT
+102,Net profit margin,12  Mar-17,8.7,NVRT
+103,Current assets,12  Mar-17,9731.0,NVRT
+104,Current liabilities,12  Mar-17,1830.0,NVRT
+105,Net working cap to sales,12  Mar-17,120.4,NVRT
+106,Current ratio,12  Mar-17,5.3,NVRT
+107,Inventory Days,12  Mar-17,49.0,NVRT
+108,Debtors Days,12  Mar-17,23.0,NVRT
+109,Net fixed assets,12  Mar-17,57.0,NVRT
+110,Share capital,12  Mar-17,141.0,NVRT
+111,"""Free"" reserves",12  Mar-17,9056.0,NVRT
+112,Net worth,12  Mar-17,9196.0,NVRT
+113,Long term debt,12  Mar-17,0.0,NVRT
+114,Total assets,12  Mar-17,11499.0,NVRT
+115,Interest coverage,12  Mar-17,128.4,NVRT
+116,Debt to equity ratio,12  Mar-17,0.0,NVRT
+117,Sales to assets ratio,12  Mar-17,0.6,NVRT
+118,Return on assets,12  Mar-17,5.0,NVRT
+119,Return on equity,12  Mar-17,6.2,NVRT
+120,Return on capital,12  Mar-17,10.1,NVRT
+121,Exports to sales,12  Mar-17,0.0,NVRT
+122,Imports to sales,12  Mar-17,0.0,NVRT
+123,Exports (fob),12  Mar-17,0.0,NVRT
+124,Imports (cif),12  Mar-17,0.0,NVRT
+125,Fx inflow,12  Mar-17,129.0,NVRT
+126,Fx outflow,12  Mar-17,1734.0,NVRT
+127,Net fx,12  Mar-17,-1605.0,NVRT
+128,From Operations,12  Mar-17,-408.0,NVRT
+129,From Investments,12  Mar-17,4236.0,NVRT
+130,From Financial Activity,12  Mar-17,-3318.0,NVRT
+131,Net Cashflow,12  Mar-17,510.0,NVRT
+132,Net Sales,12  Mar-18,5639.0,NVRT
+133,Other income,12  Mar-18,1718.0,NVRT
+134,Total revenues,12  Mar-18,7357.0,NVRT
+135,Gross profit,12  Mar-18,-63.0,NVRT
+136,Depreciation,12  Mar-18,25.0,NVRT
+137,Interest,12  Mar-18,55.0,NVRT
+138,Profit before tax,12  Mar-18,1575.0,NVRT
+139,Minority Interest,12  Mar-18,0.0,NVRT
+140,Prior Period Items,12  Mar-18,0.0,NVRT
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,NVRT
+142,Tax,12  Mar-18,792.0,NVRT
+143,Profit after tax,12  Mar-18,784.0,NVRT
+144,Gross profit margin,12  Mar-18,-1.1,NVRT
+145,Effective tax rate,12  Mar-18,50.3,NVRT
+146,Net profit margin,12  Mar-18,13.9,NVRT
+147,Current assets,12  Mar-18,9522.0,NVRT
+148,Current liabilities,12  Mar-18,3296.0,NVRT
+149,Net working cap to sales,12  Mar-18,110.4,NVRT
+150,Current ratio,12  Mar-18,2.9,NVRT
+151,Inventory Days,12  Mar-18,37.0,NVRT
+152,Debtors Days,12  Mar-18,28.0,NVRT
+153,Net fixed assets,12  Mar-18,46.0,NVRT
+154,Share capital,12  Mar-18,123.0,NVRT
+155,"""Free"" reserves",12  Mar-18,7213.0,NVRT
+156,Net worth,12  Mar-18,7336.0,NVRT
+157,Long term debt,12  Mar-18,0.0,NVRT
+158,Total assets,12  Mar-18,11105.0,NVRT
+159,Interest coverage,12  Mar-18,29.5,NVRT
+160,Debt to equity ratio,12  Mar-18,0.0,NVRT
+161,Sales to assets ratio,12  Mar-18,0.5,NVRT
+162,Return on assets,12  Mar-18,7.6,NVRT
+163,Return on equity,12  Mar-18,10.7,NVRT
+164,Return on capital,12  Mar-18,22.2,NVRT
+165,Exports to sales,12  Mar-18,0.0,NVRT
+166,Imports to sales,12  Mar-18,0.0,NVRT
+167,Exports (fob),12  Mar-18,0.0,NVRT
+168,Imports (cif),12  Mar-18,0.0,NVRT
+169,Fx inflow,12  Mar-18,61.0,NVRT
+170,Fx outflow,12  Mar-18,3630.0,NVRT
+171,Net fx,12  Mar-18,-3570.0,NVRT
+172,From Operations,12  Mar-18,1610.0,NVRT
+173,From Investments,12  Mar-18,687.0,NVRT
+174,From Financial Activity,12  Mar-18,-2677.0,NVRT
+175,Net Cashflow,12  Mar-18,-380.0,NVRT
+176,Net Sales,12  Mar-19,4907.0,NVRT
+177,Other income,12  Mar-19,783.0,NVRT
+178,Total revenues,12  Mar-19,5689.0,NVRT
+179,Gross profit,12  Mar-19,123.0,NVRT
+180,Depreciation,12  Mar-19,32.0,NVRT
+181,Interest,12  Mar-19,16.0,NVRT
+182,Profit before tax,12  Mar-19,858.0,NVRT
+183,Minority Interest,12  Mar-19,0.0,NVRT
+184,Prior Period Items,12  Mar-19,0.0,NVRT
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,NVRT
+186,Tax,12  Mar-19,340.0,NVRT
+187,Profit after tax,12  Mar-19,518.0,NVRT
+188,Gross profit margin,12  Mar-19,2.5,NVRT
+189,Effective tax rate,12  Mar-19,39.6,NVRT
+190,Net profit margin,12  Mar-19,10.6,NVRT
+191,Current assets,12  Mar-19,8055.0,NVRT
+192,Current liabilities,12  Mar-19,1850.0,NVRT
+193,Net working cap to sales,12  Mar-19,126.4,NVRT
+194,Current ratio,12  Mar-19,4.4,NVRT
+195,Inventory Days,12  Mar-19,45.0,NVRT
+196,Debtors Days,12  Mar-19,34.0,NVRT
+197,Net fixed assets,12  Mar-19,150.0,NVRT
+198,Share capital,12  Mar-19,123.0,NVRT
+199,"""Free"" reserves",12  Mar-19,7469.0,NVRT
+200,Net worth,12  Mar-19,7592.0,NVRT
+201,Long term debt,12  Mar-19,0.0,NVRT
+202,Total assets,12  Mar-19,9824.0,NVRT
+203,Interest coverage,12  Mar-19,54.9,NVRT
+204,Debt to equity ratio,12  Mar-19,0.0,NVRT
+205,Sales to assets ratio,12  Mar-19,0.5,NVRT
+206,Return on assets,12  Mar-19,5.4,NVRT
+207,Return on equity,12  Mar-19,6.8,NVRT
+208,Return on capital,12  Mar-19,11.5,NVRT
+209,Exports to sales,12  Mar-19,0.0,NVRT
+210,Imports to sales,12  Mar-19,0.0,NVRT
+211,Exports (fob),12  Mar-19,0.0,NVRT
+212,Imports (cif),12  Mar-19,0.0,NVRT
+213,Fx inflow,12  Mar-19,58.0,NVRT
+214,Fx outflow,12  Mar-19,1326.0,NVRT
+215,Net fx,12  Mar-19,-1269.0,NVRT
+216,From Operations,12  Mar-19,-1943.0,NVRT
+217,From Investments,12  Mar-19,2742.0,NVRT
+218,From Financial Activity,12  Mar-19,-298.0,NVRT
+219,Net Cashflow,12  Mar-19,501.0,NVRT

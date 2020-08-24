@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,2083.0,GEOJIT
+1,Other income,12  Mar-14*,242.0,GEOJIT
+2,Total revenues,12  Mar-14*,2325.0,GEOJIT
+3,Gross profit,12  Mar-14*,553.0,GEOJIT
+4,Depreciation,12  Mar-14*,110.0,GEOJIT
+5,Interest,12  Mar-14*,25.0,GEOJIT
+6,Profit before tax,12  Mar-14*,661.0,GEOJIT
+7,Minority Interest,12  Mar-14*,44.0,GEOJIT
+8,Prior Period Items,12  Mar-14*,-4.0,GEOJIT
+9,Extraordinary Inc (Exp),12  Mar-14*,-1213.0,GEOJIT
+10,Tax,12  Mar-14*,220.0,GEOJIT
+11,Profit after tax,12  Mar-14*,-732.0,GEOJIT
+12,Gross profit margin,12  Mar-14*,26.5,GEOJIT
+13,Effective tax rate,12  Mar-14*,33.3,GEOJIT
+14,Net profit margin,12  Mar-14*,-35.2,GEOJIT
+15,Current assets,12  Mar-14*,4968.0,GEOJIT
+16,Current liabilities,12  Mar-14*,2486.0,GEOJIT
+17,Net working cap to sales,12  Mar-14*,119.1,GEOJIT
+18,Current ratio,12  Mar-14*,2.0,GEOJIT
+19,Inventory Days,12  Mar-14*,0.0,GEOJIT
+20,Debtors Days,12  Mar-14*,199.0,GEOJIT
+21,Net fixed assets,12  Mar-14*,539.0,GEOJIT
+22,Share capital,12  Mar-14*,228.0,GEOJIT
+23,"""Free"" reserves",12  Mar-14*,3896.0,GEOJIT
+24,Net worth,12  Mar-14*,4343.0,GEOJIT
+25,Long term debt,12  Mar-14*,0.0,GEOJIT
+26,Total assets,12  Mar-14*,7228.0,GEOJIT
+27,Interest coverage,12  Mar-14*,27.5,GEOJIT
+28,Debt to equity ratio,12  Mar-14*,0.0,GEOJIT
+29,Sales to assets ratio,12  Mar-14*,0.3,GEOJIT
+30,Return on assets,12  Mar-14*,-9.8,GEOJIT
+31,Return on equity,12  Mar-14*,-16.9,GEOJIT
+32,Return on capital,12  Mar-14*,-11.2,GEOJIT
+33,Exports to sales,12  Mar-14*,0.0,GEOJIT
+34,Imports to sales,12  Mar-14*,0.0,GEOJIT
+35,Exports (fob),12  Mar-14*,0.0,GEOJIT
+36,Imports (cif),12  Mar-14*,0.0,GEOJIT
+37,Fx inflow,12  Mar-14*,1.0,GEOJIT
+38,Fx outflow,12  Mar-14*,5.0,GEOJIT
+39,Net fx,12  Mar-14*,-4.0,GEOJIT
+40,From Operations,12  Mar-14*,378.0,GEOJIT
+41,From Investments,12  Mar-14*,-344.0,GEOJIT
+42,From Financial Activity,12  Mar-14*,-713.0,GEOJIT
+43,Net Cashflow,12  Mar-14*,-679.0,GEOJIT
+44,Net Sales,12  Mar-15*,3047.0,GEOJIT
+45,Other income,12  Mar-15*,217.0,GEOJIT
+46,Total revenues,12  Mar-15*,3264.0,GEOJIT
+47,Gross profit,12  Mar-15*,1082.0,GEOJIT
+48,Depreciation,12  Mar-15*,98.0,GEOJIT
+49,Interest,12  Mar-15*,11.0,GEOJIT
+50,Profit before tax,12  Mar-15*,1190.0,GEOJIT
+51,Minority Interest,12  Mar-15*,0.0,GEOJIT
+52,Prior Period Items,12  Mar-15*,3.0,GEOJIT
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,GEOJIT
+54,Tax,12  Mar-15*,374.0,GEOJIT
+55,Profit after tax,12  Mar-15*,819.0,GEOJIT
+56,Gross profit margin,12  Mar-15*,35.5,GEOJIT
+57,Effective tax rate,12  Mar-15*,31.5,GEOJIT
+58,Net profit margin,12  Mar-15*,26.9,GEOJIT
+59,Current assets,12  Mar-15*,4965.0,GEOJIT
+60,Current liabilities,12  Mar-15*,2088.0,GEOJIT
+61,Net working cap to sales,12  Mar-15*,94.4,GEOJIT
+62,Current ratio,12  Mar-15*,2.4,GEOJIT
+63,Inventory Days,12  Mar-15*,0.0,GEOJIT
+64,Debtors Days,12  Mar-15*,149.0,GEOJIT
+65,Net fixed assets,12  Mar-15*,605.0,GEOJIT
+66,Share capital,12  Mar-15*,231.0,GEOJIT
+67,"""Free"" reserves",12  Mar-15*,4452.0,GEOJIT
+68,Net worth,12  Mar-15*,4683.0,GEOJIT
+69,Long term debt,12  Mar-15*,0.0,GEOJIT
+70,Total assets,12  Mar-15*,7217.0,GEOJIT
+71,Interest coverage,12  Mar-15*,107.3,GEOJIT
+72,Debt to equity ratio,12  Mar-15*,0.0,GEOJIT
+73,Sales to assets ratio,12  Mar-15*,0.4,GEOJIT
+74,Return on assets,12  Mar-15*,11.5,GEOJIT
+75,Return on equity,12  Mar-15*,17.5,GEOJIT
+76,Return on capital,12  Mar-15*,25.7,GEOJIT
+77,Exports to sales,12  Mar-15*,0.0,GEOJIT
+78,Imports to sales,12  Mar-15*,0.0,GEOJIT
+79,Exports (fob),12  Mar-15*,0.0,GEOJIT
+80,Imports (cif),12  Mar-15*,0.0,GEOJIT
+81,Fx inflow,12  Mar-15*,25.0,GEOJIT
+82,Fx outflow,12  Mar-15*,3.0,GEOJIT
+83,Net fx,12  Mar-15*,22.0,GEOJIT
+84,From Operations,12  Mar-15*,455.0,GEOJIT
+85,From Investments,12  Mar-15*,143.0,GEOJIT
+86,From Financial Activity,12  Mar-15*,-75.0,GEOJIT
+87,Net Cashflow,12  Mar-15*,537.0,GEOJIT
+88,Net Sales,12  Mar-16*,2460.0,GEOJIT
+89,Other income,12  Mar-16*,260.0,GEOJIT
+90,Total revenues,12  Mar-16*,2720.0,GEOJIT
+91,Gross profit,12  Mar-16*,497.0,GEOJIT
+92,Depreciation,12  Mar-16*,130.0,GEOJIT
+93,Interest,12  Mar-16*,8.0,GEOJIT
+94,Profit before tax,12  Mar-16*,619.0,GEOJIT
+95,Minority Interest,12  Mar-16*,0.0,GEOJIT
+96,Prior Period Items,12  Mar-16*,1.0,GEOJIT
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,GEOJIT
+98,Tax,12  Mar-16*,179.0,GEOJIT
+99,Profit after tax,12  Mar-16*,441.0,GEOJIT
+100,Gross profit margin,12  Mar-16*,20.2,GEOJIT
+101,Effective tax rate,12  Mar-16*,28.9,GEOJIT
+102,Net profit margin,12  Mar-16*,17.9,GEOJIT
+103,Current assets,12  Mar-16*,4806.0,GEOJIT
+104,Current liabilities,12  Mar-16*,1641.0,GEOJIT
+105,Net working cap to sales,12  Mar-16*,128.7,GEOJIT
+106,Current ratio,12  Mar-16*,2.9,GEOJIT
+107,Inventory Days,12  Mar-16*,0.0,GEOJIT
+108,Debtors Days,12  Mar-16*,161.0,GEOJIT
+109,Net fixed assets,12  Mar-16*,627.0,GEOJIT
+110,Share capital,12  Mar-16*,231.0,GEOJIT
+111,"""Free"" reserves",12  Mar-16*,4666.0,GEOJIT
+112,Net worth,12  Mar-16*,4897.0,GEOJIT
+113,Long term debt,12  Mar-16*,0.0,GEOJIT
+114,Total assets,12  Mar-16*,7068.0,GEOJIT
+115,Interest coverage,12  Mar-16*,74.7,GEOJIT
+116,Debt to equity ratio,12  Mar-16*,0.0,GEOJIT
+117,Sales to assets ratio,12  Mar-16*,0.3,GEOJIT
+118,Return on assets,12  Mar-16*,6.4,GEOJIT
+119,Return on equity,12  Mar-16*,9.0,GEOJIT
+120,Return on capital,12  Mar-16*,12.8,GEOJIT
+121,Exports to sales,12  Mar-16*,0.0,GEOJIT
+122,Imports to sales,12  Mar-16*,0.0,GEOJIT
+123,Exports (fob),12  Mar-16*,0.0,GEOJIT
+124,Imports (cif),12  Mar-16*,0.0,GEOJIT
+125,Fx inflow,12  Mar-16*,26.0,GEOJIT
+126,Fx outflow,12  Mar-16*,3.0,GEOJIT
+127,Net fx,12  Mar-16*,23.0,GEOJIT
+128,From Operations,12  Mar-16*,478.0,GEOJIT
+129,From Investments,12  Mar-16*,-314.0,GEOJIT
+130,From Financial Activity,12  Mar-16*,-748.0,GEOJIT
+131,Net Cashflow,12  Mar-16*,-546.0,GEOJIT
+132,Net Sales,12  Mar-17*,2737.0,GEOJIT
+133,Other income,12  Mar-17*,320.0,GEOJIT
+134,Total revenues,12  Mar-17*,3058.0,GEOJIT
+135,Gross profit,12  Mar-17*,742.0,GEOJIT
+136,Depreciation,12  Mar-17*,142.0,GEOJIT
+137,Interest,12  Mar-17*,6.0,GEOJIT
+138,Profit before tax,12  Mar-17*,915.0,GEOJIT
+139,Minority Interest,12  Mar-17*,-53.0,GEOJIT
+140,Prior Period Items,12  Mar-17*,0.0,GEOJIT
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,GEOJIT
+142,Tax,12  Mar-17*,302.0,GEOJIT
+143,Profit after tax,12  Mar-17*,560.0,GEOJIT
+144,Gross profit margin,12  Mar-17*,27.1,GEOJIT
+145,Effective tax rate,12  Mar-17*,33.0,GEOJIT
+146,Net profit margin,12  Mar-17*,20.5,GEOJIT
+147,Current assets,12  Mar-17*,6460.0,GEOJIT
+148,Current liabilities,12  Mar-17*,2444.0,GEOJIT
+149,Net working cap to sales,12  Mar-17*,146.7,GEOJIT
+150,Current ratio,12  Mar-17*,2.6,GEOJIT
+151,Inventory Days,12  Mar-17*,0.0,GEOJIT
+152,Debtors Days,12  Mar-17*,195.0,GEOJIT
+153,Net fixed assets,12  Mar-17*,604.0,GEOJIT
+154,Share capital,12  Mar-17*,236.0,GEOJIT
+155,"""Free"" reserves",12  Mar-17*,4885.0,GEOJIT
+156,Net worth,12  Mar-17*,5120.0,GEOJIT
+157,Long term debt,12  Mar-17*,0.0,GEOJIT
+158,Total assets,12  Mar-17*,8183.0,GEOJIT
+159,Interest coverage,12  Mar-17*,150.9,GEOJIT
+160,Debt to equity ratio,12  Mar-17*,0.0,GEOJIT
+161,Sales to assets ratio,12  Mar-17*,0.3,GEOJIT
+162,Return on assets,12  Mar-17*,6.9,GEOJIT
+163,Return on equity,12  Mar-17*,10.9,GEOJIT
+164,Return on capital,12  Mar-17*,17.0,GEOJIT
+165,Exports to sales,12  Mar-17*,0.0,GEOJIT
+166,Imports to sales,12  Mar-17*,0.0,GEOJIT
+167,Exports (fob),12  Mar-17*,0.0,GEOJIT
+168,Imports (cif),12  Mar-17*,0.0,GEOJIT
+169,Fx inflow,12  Mar-17*,21.0,GEOJIT
+170,Fx outflow,12  Mar-17*,2.0,GEOJIT
+171,Net fx,12  Mar-17*,19.0,GEOJIT
+172,From Operations,12  Mar-17*,1123.0,GEOJIT
+173,From Investments,12  Mar-17*,-742.0,GEOJIT
+174,From Financial Activity,12  Mar-17*,61.0,GEOJIT
+175,Net Cashflow,12  Mar-17*,435.0,GEOJIT
+176,Net Sales,12  Mar-18*,3342.0,GEOJIT
+177,Other income,12  Mar-18*,338.0,GEOJIT
+178,Total revenues,12  Mar-18*,3680.0,GEOJIT
+179,Gross profit,12  Mar-18*,964.0,GEOJIT
+180,Depreciation,12  Mar-18*,143.0,GEOJIT
+181,Interest,12  Mar-18*,7.0,GEOJIT
+182,Profit before tax,12  Mar-18*,1152.0,GEOJIT
+183,Minority Interest,12  Mar-18*,-45.0,GEOJIT
+184,Prior Period Items,12  Mar-18*,1.0,GEOJIT
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,GEOJIT
+186,Tax,12  Mar-18*,376.0,GEOJIT
+187,Profit after tax,12  Mar-18*,732.0,GEOJIT
+188,Gross profit margin,12  Mar-18*,28.9,GEOJIT
+189,Effective tax rate,12  Mar-18*,32.6,GEOJIT
+190,Net profit margin,12  Mar-18*,21.9,GEOJIT
+191,Current assets,12  Mar-18*,6371.0,GEOJIT
+192,Current liabilities,12  Mar-18*,2330.0,GEOJIT
+193,Net working cap to sales,12  Mar-18*,120.9,GEOJIT
+194,Current ratio,12  Mar-18*,2.7,GEOJIT
+195,Inventory Days,12  Mar-18*,0.0,GEOJIT
+196,Debtors Days,12  Mar-18*,149.0,GEOJIT
+197,Net fixed assets,12  Mar-18*,596.0,GEOJIT
+198,Share capital,12  Mar-18*,238.0,GEOJIT
+199,"""Free"" reserves",12  Mar-18*,5336.0,GEOJIT
+200,Net worth,12  Mar-18*,5574.0,GEOJIT
+201,Long term debt,12  Mar-18*,0.0,GEOJIT
+202,Total assets,12  Mar-18*,8520.0,GEOJIT
+203,Interest coverage,12  Mar-18*,158.8,GEOJIT
+204,Debt to equity ratio,12  Mar-18*,0.0,GEOJIT
+205,Sales to assets ratio,12  Mar-18*,0.4,GEOJIT
+206,Return on assets,12  Mar-18*,8.7,GEOJIT
+207,Return on equity,12  Mar-18*,13.1,GEOJIT
+208,Return on capital,12  Mar-18*,20.0,GEOJIT
+209,Exports to sales,12  Mar-18*,0.0,GEOJIT
+210,Imports to sales,12  Mar-18*,0.0,GEOJIT
+211,Exports (fob),12  Mar-18*,0.0,GEOJIT
+212,Imports (cif),12  Mar-18*,0.0,GEOJIT
+213,Fx inflow,12  Mar-18*,20.0,GEOJIT
+214,Fx outflow,12  Mar-18*,3.0,GEOJIT
+215,Net fx,12  Mar-18*,17.0,GEOJIT
+216,From Operations,12  Mar-18*,588.0,GEOJIT
+217,From Investments,12  Mar-18*,-87.0,GEOJIT
+218,From Financial Activity,12  Mar-18*,-370.0,GEOJIT
+219,Net Cashflow,12  Mar-18*,133.0,GEOJIT

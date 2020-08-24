@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,19519.0,VAKRA
+1,Other income,12  Mar-14*,62.0,VAKRA
+2,Total revenues,12  Mar-14*,19581.0,VAKRA
+3,Gross profit,12  Mar-14*,5346.0,VAKRA
+4,Depreciation,12  Mar-14*,1809.0,VAKRA
+5,Interest,12  Mar-14*,779.0,VAKRA
+6,Profit before tax,12  Mar-14*,2820.0,VAKRA
+7,Minority Interest,12  Mar-14*,1.0,VAKRA
+8,Prior Period Items,12  Mar-14*,0.0,VAKRA
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,VAKRA
+10,Tax,12  Mar-14*,1070.0,VAKRA
+11,Profit after tax,12  Mar-14*,1750.0,VAKRA
+12,Gross profit margin,12  Mar-14*,27.4,VAKRA
+13,Effective tax rate,12  Mar-14*,37.9,VAKRA
+14,Net profit margin,12  Mar-14*,9.0,VAKRA
+15,Current assets,12  Mar-14*,11670.0,VAKRA
+16,Current liabilities,12  Mar-14*,7844.0,VAKRA
+17,Net working cap to sales,12  Mar-14*,19.6,VAKRA
+18,Current ratio,12  Mar-14*,1.5,VAKRA
+19,Inventory Days,12  Mar-14*,30.0,VAKRA
+20,Debtors Days,12  Mar-14*,144.0,VAKRA
+21,Net fixed assets,12  Mar-14*,4845.0,VAKRA
+22,Share capital,12  Mar-14*,504.0,VAKRA
+23,"""Free"" reserves",12  Mar-14*,6174.0,VAKRA
+24,Net worth,12  Mar-14*,7795.0,VAKRA
+25,Long term debt,12  Mar-14*,862.0,VAKRA
+26,Total assets,12  Mar-14*,17246.0,VAKRA
+27,Interest coverage,12  Mar-14*,4.6,VAKRA
+28,Debt to equity ratio,12  Mar-14*,0.1,VAKRA
+29,Sales to assets ratio,12  Mar-14*,1.1,VAKRA
+30,Return on assets,12  Mar-14*,14.7,VAKRA
+31,Return on equity,12  Mar-14*,22.5,VAKRA
+32,Return on capital,12  Mar-14*,41.6,VAKRA
+33,Exports to sales,12  Mar-14*,0.7,VAKRA
+34,Imports to sales,12  Mar-14*,0.0,VAKRA
+35,Exports (fob),12  Mar-14*,141.0,VAKRA
+36,Imports (cif),12  Mar-14*,0.0,VAKRA
+37,Fx inflow,12  Mar-14*,173.0,VAKRA
+38,Fx outflow,12  Mar-14*,22.0,VAKRA
+39,Net fx,12  Mar-14*,151.0,VAKRA
+40,From Operations,12  Mar-14*,2275.0,VAKRA
+41,From Investments,12  Mar-14*,-2261.0,VAKRA
+42,From Financial Activity,12  Mar-14*,-39.0,VAKRA
+43,Net Cashflow,12  Mar-14*,-26.0,VAKRA
+44,Net Sales,12  Mar-15*,27805.0,VAKRA
+45,Other income,12  Mar-15*,59.0,VAKRA
+46,Total revenues,12  Mar-15*,27864.0,VAKRA
+47,Gross profit,12  Mar-15*,7232.0,VAKRA
+48,Depreciation,12  Mar-15*,1649.0,VAKRA
+49,Interest,12  Mar-15*,750.0,VAKRA
+50,Profit before tax,12  Mar-15*,4893.0,VAKRA
+51,Minority Interest,12  Mar-15*,0.0,VAKRA
+52,Prior Period Items,12  Mar-15*,0.0,VAKRA
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,VAKRA
+54,Tax,12  Mar-15*,1675.0,VAKRA
+55,Profit after tax,12  Mar-15*,3218.0,VAKRA
+56,Gross profit margin,12  Mar-15*,26.0,VAKRA
+57,Effective tax rate,12  Mar-15*,34.2,VAKRA
+58,Net profit margin,12  Mar-15*,11.6,VAKRA
+59,Current assets,12  Mar-15*,17281.0,VAKRA
+60,Current liabilities,12  Mar-15*,7336.0,VAKRA
+61,Net working cap to sales,12  Mar-15*,35.8,VAKRA
+62,Current ratio,12  Mar-15*,2.4,VAKRA
+63,Inventory Days,12  Mar-15*,22.0,VAKRA
+64,Debtors Days,12  Mar-15*,157.0,VAKRA
+65,Net fixed assets,12  Mar-15*,2829.0,VAKRA
+66,Share capital,12  Mar-15*,504.0,VAKRA
+67,"""Free"" reserves",12  Mar-15*,11562.0,VAKRA
+68,Net worth,12  Mar-15*,12066.0,VAKRA
+69,Long term debt,12  Mar-15*,370.0,VAKRA
+70,Total assets,12  Mar-15*,20227.0,VAKRA
+71,Interest coverage,12  Mar-15*,7.5,VAKRA
+72,Debt to equity ratio,12  Mar-15*,0.0,VAKRA
+73,Sales to assets ratio,12  Mar-15*,1.4,VAKRA
+74,Return on assets,12  Mar-15*,19.6,VAKRA
+75,Return on equity,12  Mar-15*,26.7,VAKRA
+76,Return on capital,12  Mar-15*,45.4,VAKRA
+77,Exports to sales,12  Mar-15*,0.0,VAKRA
+78,Imports to sales,12  Mar-15*,0.0,VAKRA
+79,Exports (fob),12  Mar-15*,0.0,VAKRA
+80,Imports (cif),12  Mar-15*,0.0,VAKRA
+81,Fx inflow,12  Mar-15*,40.0,VAKRA
+82,Fx outflow,12  Mar-15*,33.0,VAKRA
+83,Net fx,12  Mar-15*,7.0,VAKRA
+84,From Operations,12  Mar-15*,-11.0,VAKRA
+85,From Investments,12  Mar-15*,-2.0,VAKRA
+86,From Financial Activity,12  Mar-15*,102.0,VAKRA
+87,Net Cashflow,12  Mar-15*,89.0,VAKRA
+88,Net Sales,12  Mar-16*,31907.0,VAKRA
+89,Other income,12  Mar-16*,56.0,VAKRA
+90,Total revenues,12  Mar-16*,31964.0,VAKRA
+91,Gross profit,12  Mar-16*,8208.0,VAKRA
+92,Depreciation,12  Mar-16*,1640.0,VAKRA
+93,Interest,12  Mar-16*,563.0,VAKRA
+94,Profit before tax,12  Mar-16*,6060.0,VAKRA
+95,Minority Interest,12  Mar-16*,0.0,VAKRA
+96,Prior Period Items,12  Mar-16*,0.0,VAKRA
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,VAKRA
+98,Tax,12  Mar-16*,2112.0,VAKRA
+99,Profit after tax,12  Mar-16*,3949.0,VAKRA
+100,Gross profit margin,12  Mar-16*,25.7,VAKRA
+101,Effective tax rate,12  Mar-16*,34.8,VAKRA
+102,Net profit margin,12  Mar-16*,12.4,VAKRA
+103,Current assets,12  Mar-16*,19282.0,VAKRA
+104,Current liabilities,12  Mar-16*,4800.0,VAKRA
+105,Net working cap to sales,12  Mar-16*,45.4,VAKRA
+106,Current ratio,12  Mar-16*,4.0,VAKRA
+107,Inventory Days,12  Mar-16*,58.0,VAKRA
+108,Debtors Days,12  Mar-16*,97.0,VAKRA
+109,Net fixed assets,12  Mar-16*,1322.0,VAKRA
+110,Share capital,12  Mar-16*,529.0,VAKRA
+111,"""Free"" reserves",12  Mar-16*,15302.0,VAKRA
+112,Net worth,12  Mar-16*,15832.0,VAKRA
+113,Long term debt,12  Mar-16*,122.0,VAKRA
+114,Total assets,12  Mar-16*,20923.0,VAKRA
+115,Interest coverage,12  Mar-16*,11.8,VAKRA
+116,Debt to equity ratio,12  Mar-16*,0.0,VAKRA
+117,Sales to assets ratio,12  Mar-16*,1.5,VAKRA
+118,Return on assets,12  Mar-16*,21.6,VAKRA
+119,Return on equity,12  Mar-16*,24.9,VAKRA
+120,Return on capital,12  Mar-16*,41.5,VAKRA
+121,Exports to sales,12  Mar-16*,0.0,VAKRA
+122,Imports to sales,12  Mar-16*,0.0,VAKRA
+123,Exports (fob),12  Mar-16*,0.0,VAKRA
+124,Imports (cif),12  Mar-16*,0.0,VAKRA
+125,Fx inflow,12  Mar-16*,49.0,VAKRA
+126,Fx outflow,12  Mar-16*,16.0,VAKRA
+127,Net fx,12  Mar-16*,32.0,VAKRA
+128,From Operations,12  Mar-16*,2719.0,VAKRA
+129,From Investments,12  Mar-16*,-90.0,VAKRA
+130,From Financial Activity,12  Mar-16*,-1121.0,VAKRA
+131,Net Cashflow,12  Mar-16*,1507.0,VAKRA
+132,Net Sales,12  Mar-17*,40005.0,VAKRA
+133,Other income,12  Mar-17*,53.0,VAKRA
+134,Total revenues,12  Mar-17*,40057.0,VAKRA
+135,Gross profit,12  Mar-17*,9460.0,VAKRA
+136,Depreciation,12  Mar-17*,734.0,VAKRA
+137,Interest,12  Mar-17*,501.0,VAKRA
+138,Profit before tax,12  Mar-17*,8278.0,VAKRA
+139,Minority Interest,12  Mar-17*,0.0,VAKRA
+140,Prior Period Items,12  Mar-17*,0.0,VAKRA
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,VAKRA
+142,Tax,12  Mar-17*,2970.0,VAKRA
+143,Profit after tax,12  Mar-17*,5308.0,VAKRA
+144,Gross profit margin,12  Mar-17*,23.6,VAKRA
+145,Effective tax rate,12  Mar-17*,35.9,VAKRA
+146,Net profit margin,12  Mar-17*,13.3,VAKRA
+147,Current assets,12  Mar-17*,22278.0,VAKRA
+148,Current liabilities,12  Mar-17*,2110.0,VAKRA
+149,Net working cap to sales,12  Mar-17*,50.4,VAKRA
+150,Current ratio,12  Mar-17*,10.6,VAKRA
+151,Inventory Days,12  Mar-17*,46.0,VAKRA
+152,Debtors Days,12  Mar-17*,75.0,VAKRA
+153,Net fixed assets,12  Mar-17*,287.0,VAKRA
+154,Share capital,12  Mar-17*,529.0,VAKRA
+155,"""Free"" reserves",12  Mar-17*,20008.0,VAKRA
+156,Net worth,12  Mar-17*,20538.0,VAKRA
+157,Long term debt,12  Mar-17*,0.0,VAKRA
+158,Total assets,12  Mar-17*,22684.0,VAKRA
+159,Interest coverage,12  Mar-17*,17.5,VAKRA
+160,Debt to equity ratio,12  Mar-17*,0.0,VAKRA
+161,Sales to assets ratio,12  Mar-17*,1.8,VAKRA
+162,Return on assets,12  Mar-17*,25.6,VAKRA
+163,Return on equity,12  Mar-17*,25.8,VAKRA
+164,Return on capital,12  Mar-17*,42.7,VAKRA
+165,Exports to sales,12  Mar-17*,0.0,VAKRA
+166,Imports to sales,12  Mar-17*,0.0,VAKRA
+167,Exports (fob),12  Mar-17*,0.0,VAKRA
+168,Imports (cif),12  Mar-17*,0.0,VAKRA
+169,Fx inflow,12  Mar-17*,57.0,VAKRA
+170,Fx outflow,12  Mar-17*,13.0,VAKRA
+171,Net fx,12  Mar-17*,45.0,VAKRA
+172,From Operations,12  Mar-17*,6688.0,VAKRA
+173,From Investments,12  Mar-17*,537.0,VAKRA
+174,From Financial Activity,12  Mar-17*,-1419.0,VAKRA
+175,Net Cashflow,12  Mar-17*,5806.0,VAKRA
+176,Net Sales,12  Mar-18*,65020.0,VAKRA
+177,Other income,12  Mar-18*,345.0,VAKRA
+178,Total revenues,12  Mar-18*,65365.0,VAKRA
+179,Gross profit,12  Mar-18*,10039.0,VAKRA
+180,Depreciation,12  Mar-18*,42.0,VAKRA
+181,Interest,12  Mar-18*,103.0,VAKRA
+182,Profit before tax,12  Mar-18*,10239.0,VAKRA
+183,Minority Interest,12  Mar-18*,0.0,VAKRA
+184,Prior Period Items,12  Mar-18*,0.0,VAKRA
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,VAKRA
+186,Tax,12  Mar-18*,3434.0,VAKRA
+187,Profit after tax,12  Mar-18*,6805.0,VAKRA
+188,Gross profit margin,12  Mar-18*,15.4,VAKRA
+189,Effective tax rate,12  Mar-18*,33.5,VAKRA
+190,Net profit margin,12  Mar-18*,10.5,VAKRA
+191,Current assets,12  Mar-18*,28430.0,VAKRA
+192,Current liabilities,12  Mar-18*,3927.0,VAKRA
+193,Net working cap to sales,12  Mar-18*,37.7,VAKRA
+194,Current ratio,12  Mar-18*,7.2,VAKRA
+195,Inventory Days,12  Mar-18*,1.0,VAKRA
+196,Debtors Days,12  Mar-18*,73.0,VAKRA
+197,Net fixed assets,12  Mar-18*,930.0,VAKRA
+198,Share capital,12  Mar-18*,1059.0,VAKRA
+199,"""Free"" reserves",12  Mar-18*,24865.0,VAKRA
+200,Net worth,12  Mar-18*,25924.0,VAKRA
+201,Long term debt,12  Mar-18*,0.0,VAKRA
+202,Total assets,12  Mar-18*,29926.0,VAKRA
+203,Interest coverage,12  Mar-18*,100.3,VAKRA
+204,Debt to equity ratio,12  Mar-18*,0.0,VAKRA
+205,Sales to assets ratio,12  Mar-18*,2.2,VAKRA
+206,Return on assets,12  Mar-18*,23.1,VAKRA
+207,Return on equity,12  Mar-18*,26.2,VAKRA
+208,Return on capital,12  Mar-18*,39.9,VAKRA
+209,Exports to sales,12  Mar-18*,0.0,VAKRA
+210,Imports to sales,12  Mar-18*,0.0,VAKRA
+211,Exports (fob),12  Mar-18*,0.0,VAKRA
+212,Imports (cif),12  Mar-18*,0.0,VAKRA
+213,Fx inflow,12  Mar-18*,59.0,VAKRA
+214,Fx outflow,12  Mar-18*,3.0,VAKRA
+215,Net fx,12  Mar-18*,57.0,VAKRA
+216,From Operations,12  Mar-18*,5299.0,VAKRA
+217,From Investments,12  Mar-18*,-989.0,VAKRA
+218,From Financial Activity,12  Mar-18*,-1365.0,VAKRA
+219,Net Cashflow,12  Mar-18*,2945.0,VAKRA

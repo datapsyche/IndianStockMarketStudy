@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,20808.0,SVCH
+1,Other income,12  Mar-14,149.0,SVCH
+2,Total revenues,12  Mar-14,20957.0,SVCH
+3,Gross profit,12  Mar-14,1528.0,SVCH
+4,Depreciation,12  Mar-14,300.0,SVCH
+5,Interest,12  Mar-14,630.0,SVCH
+6,Profit before tax,12  Mar-14,747.0,SVCH
+7,Minority Interest,12  Mar-14,0.0,SVCH
+8,Prior Period Items,12  Mar-14,0.0,SVCH
+9,Extraordinary Inc (Exp),12  Mar-14,579.0,SVCH
+10,Tax,12  Mar-14,429.0,SVCH
+11,Profit after tax,12  Mar-14,897.0,SVCH
+12,Gross profit margin,12  Mar-14,7.3,SVCH
+13,Effective tax rate,12  Mar-14,57.4,SVCH
+14,Net profit margin,12  Mar-14,4.3,SVCH
+15,Current assets,12  Mar-14,12239.0,SVCH
+16,Current liabilities,12  Mar-14,8684.0,SVCH
+17,Net working cap to sales,12  Mar-14,17.1,SVCH
+18,Current ratio,12  Mar-14,1.4,SVCH
+19,Inventory Days,12  Mar-14,109.0,SVCH
+20,Debtors Days,12  Mar-14,93.0,SVCH
+21,Net fixed assets,12  Mar-14,2918.0,SVCH
+22,Share capital,12  Mar-14,146.0,SVCH
+23,"""Free"" reserves",12  Mar-14,5552.0,SVCH
+24,Net worth,12  Mar-14,5710.0,SVCH
+25,Long term debt,12  Mar-14,583.0,SVCH
+26,Total assets,12  Mar-14,15352.0,SVCH
+27,Interest coverage,12  Mar-14,2.2,SVCH
+28,Debt to equity ratio,12  Mar-14,0.1,SVCH
+29,Sales to assets ratio,12  Mar-14,1.4,SVCH
+30,Return on assets,12  Mar-14,9.9,SVCH
+31,Return on equity,12  Mar-14,15.7,SVCH
+32,Return on capital,12  Mar-14,31.1,SVCH
+33,Exports to sales,12  Mar-14,19.0,SVCH
+34,Imports to sales,12  Mar-14,77.8,SVCH
+35,Exports (fob),12  Mar-14,3964.0,SVCH
+36,Imports (cif),12  Mar-14,16194.0,SVCH
+37,Fx inflow,12  Mar-14,4086.0,SVCH
+38,Fx outflow,12  Mar-14,16319.0,SVCH
+39,Net fx,12  Mar-14,-12232.0,SVCH
+40,From Operations,12  Mar-14,769.0,SVCH
+41,From Investments,12  Mar-14,-658.0,SVCH
+42,From Financial Activity,12  Mar-14,-211.0,SVCH
+43,Net Cashflow,12  Mar-14,-99.0,SVCH
+44,Net Sales,12  Mar-15,18489.0,SVCH
+45,Other income,12  Mar-15,88.0,SVCH
+46,Total revenues,12  Mar-15,18577.0,SVCH
+47,Gross profit,12  Mar-15,617.0,SVCH
+48,Depreciation,12  Mar-15,341.0,SVCH
+49,Interest,12  Mar-15,406.0,SVCH
+50,Profit before tax,12  Mar-15,-42.0,SVCH
+51,Minority Interest,12  Mar-15,0.0,SVCH
+52,Prior Period Items,12  Mar-15,0.0,SVCH
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,SVCH
+54,Tax,12  Mar-15,-29.0,SVCH
+55,Profit after tax,12  Mar-15,-13.0,SVCH
+56,Gross profit margin,12  Mar-15,3.3,SVCH
+57,Effective tax rate,12  Mar-15,69.6,SVCH
+58,Net profit margin,12  Mar-15,-0.1,SVCH
+59,Current assets,12  Mar-15,8557.0,SVCH
+60,Current liabilities,12  Mar-15,5116.0,SVCH
+61,Net working cap to sales,12  Mar-15,18.6,SVCH
+62,Current ratio,12  Mar-15,1.7,SVCH
+63,Inventory Days,12  Mar-15,60.0,SVCH
+64,Debtors Days,12  Mar-15,92.0,SVCH
+65,Net fixed assets,12  Mar-15,2661.0,SVCH
+66,Share capital,12  Mar-15,146.0,SVCH
+67,"""Free"" reserves",12  Mar-15,5492.0,SVCH
+68,Net worth,12  Mar-15,5650.0,SVCH
+69,Long term debt,12  Mar-15,368.0,SVCH
+70,Total assets,12  Mar-15,8557.0,SVCH
+71,Interest coverage,12  Mar-15,0.9,SVCH
+72,Debt to equity ratio,12  Mar-15,0.1,SVCH
+73,Sales to assets ratio,12  Mar-15,2.2,SVCH
+74,Return on assets,12  Mar-15,4.6,SVCH
+75,Return on equity,12  Mar-15,-0.2,SVCH
+76,Return on capital,12  Mar-15,6.1,SVCH
+77,Exports to sales,12  Mar-15,17.3,SVCH
+78,Imports to sales,12  Mar-15,55.1,SVCH
+79,Exports (fob),12  Mar-15,3192.0,SVCH
+80,Imports (cif),12  Mar-15,10182.0,SVCH
+81,Fx inflow,12  Mar-15,3316.0,SVCH
+82,Fx outflow,12  Mar-15,10291.0,SVCH
+83,Net fx,12  Mar-15,-6976.0,SVCH
+84,From Operations,12  Mar-15,1210.0,SVCH
+85,From Investments,12  Mar-15,-255.0,SVCH
+86,From Financial Activity,12  Mar-15,-978.0,SVCH
+87,Net Cashflow,12  Mar-15,-23.0,SVCH
+88,Net Sales,12  Mar-16,15019.0,SVCH
+89,Other income,12  Mar-16,78.0,SVCH
+90,Total revenues,12  Mar-16,15096.0,SVCH
+91,Gross profit,12  Mar-16,894.0,SVCH
+92,Depreciation,12  Mar-16,303.0,SVCH
+93,Interest,12  Mar-16,255.0,SVCH
+94,Profit before tax,12  Mar-16,414.0,SVCH
+95,Minority Interest,12  Mar-16,0.0,SVCH
+96,Prior Period Items,12  Mar-16,0.0,SVCH
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,SVCH
+98,Tax,12  Mar-16,71.0,SVCH
+99,Profit after tax,12  Mar-16,343.0,SVCH
+100,Gross profit margin,12  Mar-16,6.0,SVCH
+101,Effective tax rate,12  Mar-16,17.1,SVCH
+102,Net profit margin,12  Mar-16,2.3,SVCH
+103,Current assets,12  Mar-16,7714.0,SVCH
+104,Current liabilities,12  Mar-16,4056.0,SVCH
+105,Net working cap to sales,12  Mar-16,24.4,SVCH
+106,Current ratio,12  Mar-16,1.9,SVCH
+107,Inventory Days,12  Mar-16,76.0,SVCH
+108,Debtors Days,12  Mar-16,94.0,SVCH
+109,Net fixed assets,12  Mar-16,2528.0,SVCH
+110,Share capital,12  Mar-16,146.0,SVCH
+111,"""Free"" reserves",12  Mar-16,5759.0,SVCH
+112,Net worth,12  Mar-16,5905.0,SVCH
+113,Long term debt,12  Mar-16,185.0,SVCH
+114,Total assets,12  Mar-16,10478.0,SVCH
+115,Interest coverage,12  Mar-16,2.6,SVCH
+116,Debt to equity ratio,12  Mar-16,0.0,SVCH
+117,Sales to assets ratio,12  Mar-16,1.4,SVCH
+118,Return on assets,12  Mar-16,5.7,SVCH
+119,Return on equity,12  Mar-16,5.8,SVCH
+120,Return on capital,12  Mar-16,11.0,SVCH
+121,Exports to sales,12  Mar-16,16.5,SVCH
+122,Imports to sales,12  Mar-16,59.3,SVCH
+123,Exports (fob),12  Mar-16,2485.0,SVCH
+124,Imports (cif),12  Mar-16,8909.0,SVCH
+125,Fx inflow,12  Mar-16,2571.0,SVCH
+126,Fx outflow,12  Mar-16,9010.0,SVCH
+127,Net fx,12  Mar-16,-6439.0,SVCH
+128,From Operations,12  Mar-16,736.0,SVCH
+129,From Investments,12  Mar-16,-93.0,SVCH
+130,From Financial Activity,12  Mar-16,-659.0,SVCH
+131,Net Cashflow,12  Mar-16,-16.0,SVCH
+132,Net Sales,12  Mar-17,14972.0,SVCH
+133,Other income,12  Mar-17,131.0,SVCH
+134,Total revenues,12  Mar-17,15102.0,SVCH
+135,Gross profit,12  Mar-17,1551.0,SVCH
+136,Depreciation,12  Mar-17,283.0,SVCH
+137,Interest,12  Mar-17,137.0,SVCH
+138,Profit before tax,12  Mar-17,1262.0,SVCH
+139,Minority Interest,12  Mar-17,0.0,SVCH
+140,Prior Period Items,12  Mar-17,0.0,SVCH
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,SVCH
+142,Tax,12  Mar-17,325.0,SVCH
+143,Profit after tax,12  Mar-17,936.0,SVCH
+144,Gross profit margin,12  Mar-17,10.4,SVCH
+145,Effective tax rate,12  Mar-17,25.8,SVCH
+146,Net profit margin,12  Mar-17,6.3,SVCH
+147,Current assets,12  Mar-17,9047.0,SVCH
+148,Current liabilities,12  Mar-17,4591.0,SVCH
+149,Net working cap to sales,12  Mar-17,29.8,SVCH
+150,Current ratio,12  Mar-17,2.0,SVCH
+151,Inventory Days,12  Mar-17,99.0,SVCH
+152,Debtors Days,12  Mar-17,103.0,SVCH
+153,Net fixed assets,12  Mar-17,2313.0,SVCH
+154,Share capital,12  Mar-17,146.0,SVCH
+155,"""Free"" reserves",12  Mar-17,6466.0,SVCH
+156,Net worth,12  Mar-17,6612.0,SVCH
+157,Long term debt,12  Mar-17,55.0,SVCH
+158,Total assets,12  Mar-17,11441.0,SVCH
+159,Interest coverage,12  Mar-17,10.2,SVCH
+160,Debt to equity ratio,12  Mar-17,0.0,SVCH
+161,Sales to assets ratio,12  Mar-17,1.3,SVCH
+162,Return on assets,12  Mar-17,9.4,SVCH
+163,Return on equity,12  Mar-17,14.2,SVCH
+164,Return on capital,12  Mar-17,21.0,SVCH
+165,Exports to sales,12  Mar-17,16.6,SVCH
+166,Imports to sales,12  Mar-17,62.3,SVCH
+167,Exports (fob),12  Mar-17,2478.0,SVCH
+168,Imports (cif),12  Mar-17,9322.0,SVCH
+169,Fx inflow,12  Mar-17,2479.0,SVCH
+170,Fx outflow,12  Mar-17,9394.0,SVCH
+171,Net fx,12  Mar-17,-6915.0,SVCH
+172,From Operations,12  Mar-17,547.0,SVCH
+173,From Investments,12  Mar-17,-32.0,SVCH
+174,From Financial Activity,12  Mar-17,-555.0,SVCH
+175,Net Cashflow,12  Mar-17,-40.0,SVCH
+176,Net Sales,12  Mar-18,17827.0,SVCH
+177,Other income,12  Mar-18,96.0,SVCH
+178,Total revenues,12  Mar-18,17923.0,SVCH
+179,Gross profit,12  Mar-18,1862.0,SVCH
+180,Depreciation,12  Mar-18,259.0,SVCH
+181,Interest,12  Mar-18,138.0,SVCH
+182,Profit before tax,12  Mar-18,1561.0,SVCH
+183,Minority Interest,12  Mar-18,0.0,SVCH
+184,Prior Period Items,12  Mar-18,0.0,SVCH
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,SVCH
+186,Tax,12  Mar-18,299.0,SVCH
+187,Profit after tax,12  Mar-18,1262.0,SVCH
+188,Gross profit margin,12  Mar-18,10.4,SVCH
+189,Effective tax rate,12  Mar-18,19.1,SVCH
+190,Net profit margin,12  Mar-18,7.1,SVCH
+191,Current assets,12  Mar-18,10600.0,SVCH
+192,Current liabilities,12  Mar-18,5250.0,SVCH
+193,Net working cap to sales,12  Mar-18,30.0,SVCH
+194,Current ratio,12  Mar-18,2.0,SVCH
+195,Inventory Days,12  Mar-18,85.0,SVCH
+196,Debtors Days,12  Mar-18,110.0,SVCH
+197,Net fixed assets,12  Mar-18,2120.0,SVCH
+198,Share capital,12  Mar-18,143.0,SVCH
+199,"""Free"" reserves",12  Mar-18,7280.0,SVCH
+200,Net worth,12  Mar-18,7423.0,SVCH
+201,Long term debt,12  Mar-18,22.0,SVCH
+202,Total assets,12  Mar-18,12844.0,SVCH
+203,Interest coverage,12  Mar-18,12.4,SVCH
+204,Debt to equity ratio,12  Mar-18,0.0,SVCH
+205,Sales to assets ratio,12  Mar-18,1.4,SVCH
+206,Return on assets,12  Mar-18,10.9,SVCH
+207,Return on equity,12  Mar-18,17.0,SVCH
+208,Return on capital,12  Mar-18,22.8,SVCH
+209,Exports to sales,12  Mar-18,15.5,SVCH
+210,Imports to sales,12  Mar-18,58.2,SVCH
+211,Exports (fob),12  Mar-18,2758.0,SVCH
+212,Imports (cif),12  Mar-18,10367.0,SVCH
+213,Fx inflow,12  Mar-18,2758.0,SVCH
+214,Fx outflow,12  Mar-18,10420.0,SVCH
+215,Net fx,12  Mar-18,-7662.0,SVCH
+216,From Operations,12  Mar-18,971.0,SVCH
+217,From Investments,12  Mar-18,-94.0,SVCH
+218,From Financial Activity,12  Mar-18,-749.0,SVCH
+219,Net Cashflow,12  Mar-18,128.0,SVCH

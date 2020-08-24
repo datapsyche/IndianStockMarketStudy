@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,79928.0,TTEA
+1,Other income,12  Mar-15*,700.0,TTEA
+2,Total revenues,12  Mar-15*,80628.0,TTEA
+3,Gross profit,12  Mar-15*,7748.0,TTEA
+4,Depreciation,12  Mar-15*,1331.0,TTEA
+5,Interest,12  Mar-15*,819.0,TTEA
+6,Profit before tax,12  Mar-15*,6299.0,TTEA
+7,Minority Interest,12  Mar-15*,-257.0,TTEA
+8,Prior Period Items,12  Mar-15*,-109.0,TTEA
+9,Extraordinary Inc (Exp),12  Mar-15*,-1300.0,TTEA
+10,Tax,12  Mar-15*,2155.0,TTEA
+11,Profit after tax,12  Mar-15*,2478.0,TTEA
+12,Gross profit margin,12  Mar-15*,9.7,TTEA
+13,Effective tax rate,12  Mar-15*,34.2,TTEA
+14,Net profit margin,12  Mar-15*,3.1,TTEA
+15,Current assets,12  Mar-15*,35200.0,TTEA
+16,Current liabilities,12  Mar-15*,15665.0,TTEA
+17,Net working cap to sales,12  Mar-15*,24.4,TTEA
+18,Current ratio,12  Mar-15*,2.2,TTEA
+19,Inventory Days,12  Mar-15*,71.0,TTEA
+20,Debtors Days,12  Mar-15*,27.0,TTEA
+21,Net fixed assets,12  Mar-15*,49689.0,TTEA
+22,Share capital,12  Mar-15*,618.0,TTEA
+23,"""Free"" reserves",12  Mar-15*,64224.0,TTEA
+24,Net worth,12  Mar-15*,64843.0,TTEA
+25,Long term debt,12  Mar-15*,9144.0,TTEA
+26,Total assets,12  Mar-15*,102790.0,TTEA
+27,Interest coverage,12  Mar-15*,8.7,TTEA
+28,Debt to equity ratio,12  Mar-15*,0.1,TTEA
+29,Sales to assets ratio,12  Mar-15*,0.8,TTEA
+30,Return on assets,12  Mar-15*,3.2,TTEA
+31,Return on equity,12  Mar-15*,3.8,TTEA
+32,Return on capital,12  Mar-15*,7.4,TTEA
+33,Exports to sales,12  Mar-15*,2.1,TTEA
+34,Imports to sales,12  Mar-15*,0.7,TTEA
+35,Exports (fob),12  Mar-15*,1661.0,TTEA
+36,Imports (cif),12  Mar-15*,590.0,TTEA
+37,Fx inflow,12  Mar-15*,3232.0,TTEA
+38,Fx outflow,12  Mar-15*,1095.0,TTEA
+39,Net fx,12  Mar-15*,2137.0,TTEA
+40,From Operations,12  Mar-15*,4178.0,TTEA
+41,From Investments,12  Mar-15*,-1748.0,TTEA
+42,From Financial Activity,12  Mar-15*,-3924.0,TTEA
+43,Net Cashflow,12  Mar-15*,-1494.0,TTEA
+44,Net Sales,12  Mar-16*,66365.0,TTEA
+45,Other income,12  Mar-16*,820.0,TTEA
+46,Total revenues,12  Mar-16*,67185.0,TTEA
+47,Gross profit,12  Mar-16*,6543.0,TTEA
+48,Depreciation,12  Mar-16*,1168.0,TTEA
+49,Interest,12  Mar-16*,1169.0,TTEA
+50,Profit before tax,12  Mar-16*,5026.0,TTEA
+51,Minority Interest,12  Mar-16*,0.0,TTEA
+52,Prior Period Items,12  Mar-16*,-68.0,TTEA
+53,Extraordinary Inc (Exp),12  Mar-16*,-3329.0,TTEA
+54,Tax,12  Mar-16*,2000.0,TTEA
+55,Profit after tax,12  Mar-16*,-371.0,TTEA
+56,Gross profit margin,12  Mar-16*,9.9,TTEA
+57,Effective tax rate,12  Mar-16*,39.8,TTEA
+58,Net profit margin,12  Mar-16*,-0.6,TTEA
+59,Current assets,12  Mar-16*,37425.0,TTEA
+60,Current liabilities,12  Mar-16*,19040.0,TTEA
+61,Net working cap to sales,12  Mar-16*,27.7,TTEA
+62,Current ratio,12  Mar-16*,2.0,TTEA
+63,Inventory Days,12  Mar-16*,90.0,TTEA
+64,Debtors Days,12  Mar-16*,33.0,TTEA
+65,Net fixed assets,12  Mar-16*,48930.0,TTEA
+66,Share capital,12  Mar-16*,631.0,TTEA
+67,"""Free"" reserves",12  Mar-16*,61841.0,TTEA
+68,Net worth,12  Mar-16*,62472.0,TTEA
+69,Long term debt,12  Mar-16*,5041.0,TTEA
+70,Total assets,12  Mar-16*,100116.0,TTEA
+71,Interest coverage,12  Mar-16*,5.3,TTEA
+72,Debt to equity ratio,12  Mar-16*,0.1,TTEA
+73,Sales to assets ratio,12  Mar-16*,0.7,TTEA
+74,Return on assets,12  Mar-16*,0.8,TTEA
+75,Return on equity,12  Mar-16*,-0.6,TTEA
+76,Return on capital,12  Mar-16*,4.1,TTEA
+77,Exports to sales,12  Mar-16*,2.9,TTEA
+78,Imports to sales,12  Mar-16*,1.0,TTEA
+79,Exports (fob),12  Mar-16*,1908.0,TTEA
+80,Imports (cif),12  Mar-16*,643.0,TTEA
+81,Fx inflow,12  Mar-16*,3148.0,TTEA
+82,Fx outflow,12  Mar-16*,1030.0,TTEA
+83,Net fx,12  Mar-16*,2119.0,TTEA
+84,From Operations,12  Mar-16*,1160.0,TTEA
+85,From Investments,12  Mar-16*,1209.0,TTEA
+86,From Financial Activity,12  Mar-16*,-2818.0,TTEA
+87,Net Cashflow,12  Mar-16*,-212.0,TTEA
+88,Net Sales,12  Mar-17*,67796.0,TTEA
+89,Other income,12  Mar-17*,831.0,TTEA
+90,Total revenues,12  Mar-17*,68627.0,TTEA
+91,Gross profit,12  Mar-17*,7911.0,TTEA
+92,Depreciation,12  Mar-17*,1260.0,TTEA
+93,Interest,12  Mar-17*,915.0,TTEA
+94,Profit before tax,12  Mar-17*,6567.0,TTEA
+95,Minority Interest,12  Mar-17*,0.0,TTEA
+96,Prior Period Items,12  Mar-17*,-89.0,TTEA
+97,Extraordinary Inc (Exp),12  Mar-17*,53.0,TTEA
+98,Tax,12  Mar-17*,1983.0,TTEA
+99,Profit after tax,12  Mar-17*,4548.0,TTEA
+100,Gross profit margin,12  Mar-17*,11.7,TTEA
+101,Effective tax rate,12  Mar-17*,30.2,TTEA
+102,Net profit margin,12  Mar-17*,6.7,TTEA
+103,Current assets,12  Mar-17*,33021.0,TTEA
+104,Current liabilities,12  Mar-17*,15396.0,TTEA
+105,Net working cap to sales,12  Mar-17*,26.0,TTEA
+106,Current ratio,12  Mar-17*,2.1,TTEA
+107,Inventory Days,12  Mar-17*,78.0,TTEA
+108,Debtors Days,12  Mar-17*,32.0,TTEA
+109,Net fixed assets,12  Mar-17*,46358.0,TTEA
+110,Share capital,12  Mar-17*,631.0,TTEA
+111,"""Free"" reserves",12  Mar-17*,62024.0,TTEA
+112,Net worth,12  Mar-17*,62655.0,TTEA
+113,Long term debt,12  Mar-17*,4501.0,TTEA
+114,Total assets,12  Mar-17*,96134.0,TTEA
+115,Interest coverage,12  Mar-17*,8.2,TTEA
+116,Debt to equity ratio,12  Mar-17*,0.1,TTEA
+117,Sales to assets ratio,12  Mar-17*,0.7,TTEA
+118,Return on assets,12  Mar-17*,5.7,TTEA
+119,Return on equity,12  Mar-17*,7.3,TTEA
+120,Return on capital,12  Mar-17*,11.1,TTEA
+121,Exports to sales,12  Mar-17*,0.0,TTEA
+122,Imports to sales,12  Mar-17*,0.0,TTEA
+123,Exports (fob),12  Mar-17*,0.0,TTEA
+124,Imports (cif),12  Mar-17*,0.0,TTEA
+125,Fx inflow,12  Mar-17*,2712.0,TTEA
+126,Fx outflow,12  Mar-17*,973.0,TTEA
+127,Net fx,12  Mar-17*,1739.0,TTEA
+128,From Operations,12  Mar-17*,7412.0,TTEA
+129,From Investments,12  Mar-17*,2249.0,TTEA
+130,From Financial Activity,12  Mar-17*,-8158.0,TTEA
+131,Net Cashflow,12  Mar-17*,704.0,TTEA
+132,Net Sales,12  Mar-18*,68132.0,TTEA
+133,Other income,12  Mar-18*,942.0,TTEA
+134,Total revenues,12  Mar-18*,69074.0,TTEA
+135,Gross profit,12  Mar-18*,8389.0,TTEA
+136,Depreciation,12  Mar-18*,1160.0,TTEA
+137,Interest,12  Mar-18*,428.0,TTEA
+138,Profit before tax,12  Mar-18*,7743.0,TTEA
+139,Minority Interest,12  Mar-18*,0.0,TTEA
+140,Prior Period Items,12  Mar-18*,-108.0,TTEA
+141,Extraordinary Inc (Exp),12  Mar-18*,-211.0,TTEA
+142,Tax,12  Mar-18*,1859.0,TTEA
+143,Profit after tax,12  Mar-18*,5565.0,TTEA
+144,Gross profit margin,12  Mar-18*,12.3,TTEA
+145,Effective tax rate,12  Mar-18*,24.0,TTEA
+146,Net profit margin,12  Mar-18*,8.2,TTEA
+147,Current assets,12  Mar-18*,44972.0,TTEA
+148,Current liabilities,12  Mar-18*,15860.0,TTEA
+149,Net working cap to sales,12  Mar-18*,42.7,TTEA
+150,Current ratio,12  Mar-18*,2.8,TTEA
+151,Inventory Days,12  Mar-18*,78.0,TTEA
+152,Debtors Days,12  Mar-18*,35.0,TTEA
+153,Net fixed assets,12  Mar-18*,49333.0,TTEA
+154,Share capital,12  Mar-18*,631.0,TTEA
+155,"""Free"" reserves",12  Mar-18*,69685.0,TTEA
+156,Net worth,12  Mar-18*,70316.0,TTEA
+157,Long term debt,12  Mar-18*,6560.0,TTEA
+158,Total assets,12  Mar-18*,105922.0,TTEA
+159,Interest coverage,12  Mar-18*,19.1,TTEA
+160,Debt to equity ratio,12  Mar-18*,0.1,TTEA
+161,Sales to assets ratio,12  Mar-18*,0.6,TTEA
+162,Return on assets,12  Mar-18*,5.7,TTEA
+163,Return on equity,12  Mar-18*,7.9,TTEA
+164,Return on capital,12  Mar-18*,10.2,TTEA
+165,Exports to sales,12  Mar-18*,0.0,TTEA
+166,Imports to sales,12  Mar-18*,0.0,TTEA
+167,Exports (fob),12  Mar-18*,0.0,TTEA
+168,Imports (cif),12  Mar-18*,0.0,TTEA
+169,Fx inflow,12  Mar-18*,4583.0,TTEA
+170,Fx outflow,12  Mar-18*,968.0,TTEA
+171,Net fx,12  Mar-18*,3615.0,TTEA
+172,From Operations,12  Mar-18*,3556.0,TTEA
+173,From Investments,12  Mar-18*,-741.0,TTEA
+174,From Financial Activity,12  Mar-18*,-304.0,TTEA
+175,Net Cashflow,12  Mar-18*,2941.0,TTEA
+176,Net Sales,12  Mar-19*,72515.0,TTEA
+177,Other income,12  Mar-19*,1571.0,TTEA
+178,Total revenues,12  Mar-19*,74086.0,TTEA
+179,Gross profit,12  Mar-19*,7859.0,TTEA
+180,Depreciation,12  Mar-19*,1226.0,TTEA
+181,Interest,12  Mar-19*,525.0,TTEA
+182,Profit before tax,12  Mar-19*,7680.0,TTEA
+183,Minority Interest,12  Mar-19*,0.0,TTEA
+184,Prior Period Items,12  Mar-19*,-169.0,TTEA
+185,Extraordinary Inc (Exp),12  Mar-19*,-333.0,TTEA
+186,Tax,12  Mar-19*,2609.0,TTEA
+187,Profit after tax,12  Mar-19*,4570.0,TTEA
+188,Gross profit margin,12  Mar-19*,10.8,TTEA
+189,Effective tax rate,12  Mar-19*,34.0,TTEA
+190,Net profit margin,12  Mar-19*,6.3,TTEA
+191,Current assets,12  Mar-19*,45108.0,TTEA
+192,Current liabilities,12  Mar-19*,14582.0,TTEA
+193,Net working cap to sales,12  Mar-19*,42.1,TTEA
+194,Current ratio,12  Mar-19*,3.1,TTEA
+195,Inventory Days,12  Mar-19*,81.0,TTEA
+196,Debtors Days,12  Mar-19*,34.0,TTEA
+197,Net fixed assets,12  Mar-19*,56253.0,TTEA
+198,Share capital,12  Mar-19*,631.0,TTEA
+199,"""Free"" reserves",12  Mar-19*,72686.0,TTEA
+200,Net worth,12  Mar-19*,73317.0,TTEA
+201,Long term debt,12  Mar-19*,7872.0,TTEA
+202,Total assets,12  Mar-19*,109387.0,TTEA
+203,Interest coverage,12  Mar-19*,15.6,TTEA
+204,Debt to equity ratio,12  Mar-19*,0.1,TTEA
+205,Sales to assets ratio,12  Mar-19*,0.7,TTEA
+206,Return on assets,12  Mar-19*,4.7,TTEA
+207,Return on equity,12  Mar-19*,6.2,TTEA
+208,Return on capital,12  Mar-19*,9.5,TTEA
+209,Exports to sales,12  Mar-19*,0.0,TTEA
+210,Imports to sales,12  Mar-19*,0.0,TTEA
+211,Exports (fob),12  Mar-19*,0.0,TTEA
+212,Imports (cif),12  Mar-19*,0.0,TTEA
+213,Fx inflow,12  Mar-19*,3248.0,TTEA
+214,Fx outflow,12  Mar-19*,1047.0,TTEA
+215,Net fx,12  Mar-19*,2202.0,TTEA
+216,From Operations,12  Mar-19*,2099.0,TTEA
+217,From Investments,12  Mar-19*,733.0,TTEA
+218,From Financial Activity,12  Mar-19*,-2237.0,TTEA
+219,Net Cashflow,12  Mar-19*,393.0,TTEA

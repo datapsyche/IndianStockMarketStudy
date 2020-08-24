@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,284994.0,RUSO
+1,Other income,12  Mar-14*,3208.0,RUSO
+2,Total revenues,12  Mar-14*,288202.0,RUSO
+3,Gross profit,12  Mar-14*,5608.0,RUSO
+4,Depreciation,12  Mar-14*,1769.0,RUSO
+5,Interest,12  Mar-14*,6650.0,RUSO
+6,Profit before tax,12  Mar-14*,396.0,RUSO
+7,Minority Interest,12  Mar-14*,2.0,RUSO
+8,Prior Period Items,12  Mar-14*,-9.0,RUSO
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,RUSO
+10,Tax,12  Mar-14*,387.0,RUSO
+11,Profit after tax,12  Mar-14*,2.0,RUSO
+12,Gross profit margin,12  Mar-14*,2.0,RUSO
+13,Effective tax rate,12  Mar-14*,97.8,RUSO
+14,Net profit margin,12  Mar-14*,0.0,RUSO
+15,Current assets,12  Mar-14*,109791.0,RUSO
+16,Current liabilities,12  Mar-14*,101825.0,RUSO
+17,Net working cap to sales,12  Mar-14*,2.8,RUSO
+18,Current ratio,12  Mar-14*,1.1,RUSO
+19,Inventory Days,12  Mar-14*,48.0,RUSO
+20,Debtors Days,12  Mar-14*,67.0,RUSO
+21,Net fixed assets,12  Mar-14*,28479.0,RUSO
+22,Share capital,12  Mar-14*,668.0,RUSO
+23,"""Free"" reserves",12  Mar-14*,18547.0,RUSO
+24,Net worth,12  Mar-14*,23674.0,RUSO
+25,Long term debt,12  Mar-14*,11213.0,RUSO
+26,Total assets,12  Mar-14*,140949.0,RUSO
+27,Interest coverage,12  Mar-14*,1.1,RUSO
+28,Debt to equity ratio,12  Mar-14*,0.5,RUSO
+29,Sales to assets ratio,12  Mar-14*,2.0,RUSO
+30,Return on assets,12  Mar-14*,4.7,RUSO
+31,Return on equity,12  Mar-14*,0.0,RUSO
+32,Return on capital,12  Mar-14*,20.2,RUSO
+33,Exports to sales,12  Mar-14*,15.7,RUSO
+34,Imports to sales,12  Mar-14*,28.4,RUSO
+35,Exports (fob),12  Mar-14*,44751.0,RUSO
+36,Imports (cif),12  Mar-14*,80970.0,RUSO
+37,Fx inflow,12  Mar-14*,57200.0,RUSO
+38,Fx outflow,12  Mar-14*,81993.0,RUSO
+39,Net fx,12  Mar-14*,-24792.0,RUSO
+40,From Operations,12  Mar-14*,39462.0,RUSO
+41,From Investments,12  Mar-14*,1133.0,RUSO
+42,From Financial Activity,12  Mar-14*,-42336.0,RUSO
+43,Net Cashflow,12  Mar-14*,-1741.0,RUSO
+44,Net Sales,12  Mar-15*,315612.0,RUSO
+45,Other income,12  Mar-15*,1988.0,RUSO
+46,Total revenues,12  Mar-15*,317600.0,RUSO
+47,Gross profit,12  Mar-15*,5948.0,RUSO
+48,Depreciation,12  Mar-15*,1923.0,RUSO
+49,Interest,12  Mar-15*,5512.0,RUSO
+50,Profit before tax,12  Mar-15*,502.0,RUSO
+51,Minority Interest,12  Mar-15*,71.0,RUSO
+52,Prior Period Items,12  Mar-15*,-47.0,RUSO
+53,Extraordinary Inc (Exp),12  Mar-15*,523.0,RUSO
+54,Tax,12  Mar-15*,249.0,RUSO
+55,Profit after tax,12  Mar-15*,800.0,RUSO
+56,Gross profit margin,12  Mar-15*,1.9,RUSO
+57,Effective tax rate,12  Mar-15*,49.6,RUSO
+58,Net profit margin,12  Mar-15*,0.3,RUSO
+59,Current assets,12  Mar-15*,113431.0,RUSO
+60,Current liabilities,12  Mar-15*,125249.0,RUSO
+61,Net working cap to sales,12  Mar-15*,-3.7,RUSO
+62,Current ratio,12  Mar-15*,0.9,RUSO
+63,Inventory Days,12  Mar-15*,36.0,RUSO
+64,Debtors Days,12  Mar-15*,72.0,RUSO
+65,Net fixed assets,12  Mar-15*,58309.0,RUSO
+66,Share capital,12  Mar-15*,653.0,RUSO
+67,"""Free"" reserves",12  Mar-15*,36878.0,RUSO
+68,Net worth,12  Mar-15*,37530.0,RUSO
+69,Long term debt,12  Mar-15*,905.0,RUSO
+70,Total assets,12  Mar-15*,174224.0,RUSO
+71,Interest coverage,12  Mar-15*,1.1,RUSO
+72,Debt to equity ratio,12  Mar-15*,0.0,RUSO
+73,Sales to assets ratio,12  Mar-15*,1.8,RUSO
+74,Return on assets,12  Mar-15*,3.6,RUSO
+75,Return on equity,12  Mar-15*,2.1,RUSO
+76,Return on capital,12  Mar-15*,17.1,RUSO
+77,Exports to sales,12  Mar-15*,13.2,RUSO
+78,Imports to sales,12  Mar-15*,36.9,RUSO
+79,Exports (fob),12  Mar-15*,41538.0,RUSO
+80,Imports (cif),12  Mar-15*,116594.0,RUSO
+81,Fx inflow,12  Mar-15*,60268.0,RUSO
+82,Fx outflow,12  Mar-15*,117012.0,RUSO
+83,Net fx,12  Mar-15*,-56745.0,RUSO
+84,From Operations,12  Mar-15*,-2707.0,RUSO
+85,From Investments,12  Mar-15*,1045.0,RUSO
+86,From Financial Activity,12  Mar-15*,-32.0,RUSO
+87,Net Cashflow,12  Mar-15*,-1694.0,RUSO
+88,Net Sales,12  Mar-16*,302405.0,RUSO
+89,Other income,12  Mar-16*,971.0,RUSO
+90,Total revenues,12  Mar-16*,303376.0,RUSO
+91,Gross profit,12  Mar-16*,416.0,RUSO
+92,Depreciation,12  Mar-16*,1667.0,RUSO
+93,Interest,12  Mar-16*,13612.0,RUSO
+94,Profit before tax,12  Mar-16*,-13891.0,RUSO
+95,Minority Interest,12  Mar-16*,330.0,RUSO
+96,Prior Period Items,12  Mar-16*,0.0,RUSO
+97,Extraordinary Inc (Exp),12  Mar-16*,24.0,RUSO
+98,Tax,12  Mar-16*,-802.0,RUSO
+99,Profit after tax,12  Mar-16*,-12736.0,RUSO
+100,Gross profit margin,12  Mar-16*,0.1,RUSO
+101,Effective tax rate,12  Mar-16*,5.8,RUSO
+102,Net profit margin,12  Mar-16*,-4.2,RUSO
+103,Current assets,12  Mar-16*,112431.0,RUSO
+104,Current liabilities,12  Mar-16*,138919.0,RUSO
+105,Net working cap to sales,12  Mar-16*,-8.8,RUSO
+106,Current ratio,12  Mar-16*,0.8,RUSO
+107,Inventory Days,12  Mar-16*,30.0,RUSO
+108,Debtors Days,12  Mar-16*,82.0,RUSO
+109,Net fixed assets,12  Mar-16*,57123.0,RUSO
+110,Share capital,12  Mar-16*,653.0,RUSO
+111,"""Free"" reserves",12  Mar-16*,23670.0,RUSO
+112,Net worth,12  Mar-16*,24323.0,RUSO
+113,Long term debt,12  Mar-16*,832.0,RUSO
+114,Total assets,12  Mar-16*,172478.0,RUSO
+115,Interest coverage,12  Mar-16*,0.0,RUSO
+116,Debt to equity ratio,12  Mar-16*,0.0,RUSO
+117,Sales to assets ratio,12  Mar-16*,1.8,RUSO
+118,Return on assets,12  Mar-16*,0.5,RUSO
+119,Return on equity,12  Mar-16*,-52.4,RUSO
+120,Return on capital,12  Mar-16*,0.3,RUSO
+121,Exports to sales,12  Mar-16*,6.7,RUSO
+122,Imports to sales,12  Mar-16*,43.0,RUSO
+123,Exports (fob),12  Mar-16*,20129.0,RUSO
+124,Imports (cif),12  Mar-16*,129939.0,RUSO
+125,Fx inflow,12  Mar-16*,48293.0,RUSO
+126,Fx outflow,12  Mar-16*,130192.0,RUSO
+127,Net fx,12  Mar-16*,-81899.0,RUSO
+128,From Operations,12  Mar-16*,-4118.0,RUSO
+129,From Investments,12  Mar-16*,172.0,RUSO
+130,From Financial Activity,12  Mar-16*,5631.0,RUSO
+131,Net Cashflow,12  Mar-16*,1684.0,RUSO
+132,Net Sales,12  Mar-17*,191729.0,RUSO
+133,Other income,12  Mar-17*,1076.0,RUSO
+134,Total revenues,12  Mar-17*,192805.0,RUSO
+135,Gross profit,12  Mar-17*,-7582.0,RUSO
+136,Depreciation,12  Mar-17*,1589.0,RUSO
+137,Interest,12  Mar-17*,9606.0,RUSO
+138,Profit before tax,12  Mar-17*,-17700.0,RUSO
+139,Minority Interest,12  Mar-17*,0.0,RUSO
+140,Prior Period Items,12  Mar-17*,0.0,RUSO
+141,Extraordinary Inc (Exp),12  Mar-17*,333.0,RUSO
+142,Tax,12  Mar-17*,-3742.0,RUSO
+143,Profit after tax,12  Mar-17*,-13626.0,RUSO
+144,Gross profit margin,12  Mar-17*,-4.0,RUSO
+145,Effective tax rate,12  Mar-17*,21.1,RUSO
+146,Net profit margin,12  Mar-17*,-7.1,RUSO
+147,Current assets,12  Mar-17*,77145.0,RUSO
+148,Current liabilities,12  Mar-17*,121690.0,RUSO
+149,Net working cap to sales,12  Mar-17*,-23.2,RUSO
+150,Current ratio,12  Mar-17*,0.6,RUSO
+151,Inventory Days,12  Mar-17*,24.0,RUSO
+152,Debtors Days,12  Mar-17*,101.0,RUSO
+153,Net fixed assets,12  Mar-17*,55611.0,RUSO
+154,Share capital,12  Mar-17*,653.0,RUSO
+155,"""Free"" reserves",12  Mar-17*,8649.0,RUSO
+156,Net worth,12  Mar-17*,9302.0,RUSO
+157,Long term debt,12  Mar-17*,797.0,RUSO
+158,Total assets,12  Mar-17*,135233.0,RUSO
+159,Interest coverage,12  Mar-17*,-0.8,RUSO
+160,Debt to equity ratio,12  Mar-17*,0.1,RUSO
+161,Sales to assets ratio,12  Mar-17*,1.4,RUSO
+162,Return on assets,12  Mar-17*,-3.0,RUSO
+163,Return on equity,12  Mar-17*,-146.5,RUSO
+164,Return on capital,12  Mar-17*,-76.9,RUSO
+165,Exports to sales,12  Mar-17*,0.0,RUSO
+166,Imports to sales,12  Mar-17*,0.0,RUSO
+167,Exports (fob),12  Mar-17*,0.0,RUSO
+168,Imports (cif),12  Mar-17*,0.0,RUSO
+169,Fx inflow,12  Mar-17*,13770.0,RUSO
+170,Fx outflow,12  Mar-17*,51550.0,RUSO
+171,Net fx,12  Mar-17*,-37781.0,RUSO
+172,From Operations,12  Mar-17*,4414.0,RUSO
+173,From Investments,12  Mar-17*,863.0,RUSO
+174,From Financial Activity,12  Mar-17*,-6685.0,RUSO
+175,Net Cashflow,12  Mar-17*,-1408.0,RUSO
+176,Net Sales,12  Mar-18*,120271.0,RUSO
+177,Other income,12  Mar-18*,369.0,RUSO
+178,Total revenues,12  Mar-18*,120639.0,RUSO
+179,Gross profit,12  Mar-18*,-51153.0,RUSO
+180,Depreciation,12  Mar-18*,1428.0,RUSO
+181,Interest,12  Mar-18*,9704.0,RUSO
+182,Profit before tax,12  Mar-18*,-61916.0,RUSO
+183,Minority Interest,12  Mar-18*,0.0,RUSO
+184,Prior Period Items,12  Mar-18*,0.0,RUSO
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,RUSO
+186,Tax,12  Mar-18*,-4369.0,RUSO
+187,Profit after tax,12  Mar-18*,-57546.0,RUSO
+188,Gross profit margin,12  Mar-18*,-42.5,RUSO
+189,Effective tax rate,12  Mar-18*,7.1,RUSO
+190,Net profit margin,12  Mar-18*,-47.8,RUSO
+191,Current assets,12  Mar-18*,21277.0,RUSO
+192,Current liabilities,12  Mar-18*,125802.0,RUSO
+193,Net working cap to sales,12  Mar-18*,-86.9,RUSO
+194,Current ratio,12  Mar-18*,0.2,RUSO
+195,Inventory Days,12  Mar-18*,36.0,RUSO
+196,Debtors Days,12  Mar-18*,9.0,RUSO
+197,Net fixed assets,12  Mar-18*,54167.0,RUSO
+198,Share capital,12  Mar-18*,653.0,RUSO
+199,"""Free"" reserves",12  Mar-18*,-47722.0,RUSO
+200,Net worth,12  Mar-18*,-47069.0,RUSO
+201,Long term debt,12  Mar-18*,734.0,RUSO
+202,Total assets,12  Mar-18*,77315.0,RUSO
+203,Interest coverage,12  Mar-18*,-5.4,RUSO
+204,Debt to equity ratio,12  Mar-18*,0.0,RUSO
+205,Sales to assets ratio,12  Mar-18*,1.6,RUSO
+206,Return on assets,12  Mar-18*,-61.9,RUSO
+207,Return on equity,12  Mar-18*,122.3,RUSO
+208,Return on capital,12  Mar-18*,112.7,RUSO
+209,Exports to sales,12  Mar-18*,0.0,RUSO
+210,Imports to sales,12  Mar-18*,0.0,RUSO
+211,Exports (fob),12  Mar-18*,0.0,RUSO
+212,Imports (cif),12  Mar-18*,0.0,RUSO
+213,Fx inflow,12  Mar-18*,6978.0,RUSO
+214,Fx outflow,12  Mar-18*,31673.0,RUSO
+215,Net fx,12  Mar-18*,-24695.0,RUSO
+216,From Operations,12  Mar-18*,-11876.0,RUSO
+217,From Investments,12  Mar-18*,-681.0,RUSO
+218,From Financial Activity,12  Mar-18*,11964.0,RUSO
+219,Net Cashflow,12  Mar-18*,-594.0,RUSO

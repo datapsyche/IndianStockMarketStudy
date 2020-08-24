@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,6872.0,PANB
+1,Other income,12  Mar-15*,285.0,PANB
+2,Total revenues,12  Mar-15*,7157.0,PANB
+3,Gross profit,12  Mar-15*,439.0,PANB
+4,Depreciation,12  Mar-15*,672.0,PANB
+5,Interest,12  Mar-15*,1045.0,PANB
+6,Profit before tax,12  Mar-15*,-994.0,PANB
+7,Minority Interest,12  Mar-15*,18.0,PANB
+8,Prior Period Items,12  Mar-15*,-58.0,PANB
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PANB
+10,Tax,12  Mar-15*,31.0,PANB
+11,Profit after tax,12  Mar-15*,-1065.0,PANB
+12,Gross profit margin,12  Mar-15*,6.4,PANB
+13,Effective tax rate,12  Mar-15*,-3.1,PANB
+14,Net profit margin,12  Mar-15*,-15.5,PANB
+15,Current assets,12  Mar-15*,5257.0,PANB
+16,Current liabilities,12  Mar-15*,7060.0,PANB
+17,Net working cap to sales,12  Mar-15*,-26.2,PANB
+18,Current ratio,12  Mar-15*,0.7,PANB
+19,Inventory Days,12  Mar-15*,165.0,PANB
+20,Debtors Days,12  Mar-15*,52.0,PANB
+21,Net fixed assets,12  Mar-15*,12998.0,PANB
+22,Share capital,12  Mar-15*,61.0,PANB
+23,"""Free"" reserves",12  Mar-15*,4488.0,PANB
+24,Net worth,12  Mar-15*,4549.0,PANB
+25,Long term debt,12  Mar-15*,7230.0,PANB
+26,Total assets,12  Mar-15*,19305.0,PANB
+27,Interest coverage,12  Mar-15*,0.0,PANB
+28,Debt to equity ratio,12  Mar-15*,1.6,PANB
+29,Sales to assets ratio,12  Mar-15*,0.4,PANB
+30,Return on assets,12  Mar-15*,-0.1,PANB
+31,Return on equity,12  Mar-15*,-23.4,PANB
+32,Return on capital,12  Mar-15*,0.1,PANB
+33,Exports to sales,12  Mar-15*,30.9,PANB
+34,Imports to sales,12  Mar-15*,20.4,PANB
+35,Exports (fob),12  Mar-15*,2125.0,PANB
+36,Imports (cif),12  Mar-15*,1399.0,PANB
+37,Fx inflow,12  Mar-15*,2399.0,PANB
+38,Fx outflow,12  Mar-15*,1673.0,PANB
+39,Net fx,12  Mar-15*,726.0,PANB
+40,From Operations,12  Mar-15*,372.0,PANB
+41,From Investments,12  Mar-15*,-374.0,PANB
+42,From Financial Activity,12  Mar-15*,-7.0,PANB
+43,Net Cashflow,12  Mar-15*,-9.0,PANB
+44,Net Sales,12  Mar-16*,6531.0,PANB
+45,Other income,12  Mar-16*,204.0,PANB
+46,Total revenues,12  Mar-16*,6734.0,PANB
+47,Gross profit,12  Mar-16*,1117.0,PANB
+48,Depreciation,12  Mar-16*,733.0,PANB
+49,Interest,12  Mar-16*,1273.0,PANB
+50,Profit before tax,12  Mar-16*,-686.0,PANB
+51,Minority Interest,12  Mar-16*,23.0,PANB
+52,Prior Period Items,12  Mar-16*,2.0,PANB
+53,Extraordinary Inc (Exp),12  Mar-16*,497.0,PANB
+54,Tax,12  Mar-16*,19.0,PANB
+55,Profit after tax,12  Mar-16*,-183.0,PANB
+56,Gross profit margin,12  Mar-16*,17.1,PANB
+57,Effective tax rate,12  Mar-16*,-2.8,PANB
+58,Net profit margin,12  Mar-16*,-2.8,PANB
+59,Current assets,12  Mar-16*,4991.0,PANB
+60,Current liabilities,12  Mar-16*,4657.0,PANB
+61,Net working cap to sales,12  Mar-16*,5.1,PANB
+62,Current ratio,12  Mar-16*,1.1,PANB
+63,Inventory Days,12  Mar-16*,172.0,PANB
+64,Debtors Days,12  Mar-16*,69.0,PANB
+65,Net fixed assets,12  Mar-16*,12321.0,PANB
+66,Share capital,12  Mar-16*,61.0,PANB
+67,"""Free"" reserves",12  Mar-16*,3974.0,PANB
+68,Net worth,12  Mar-16*,4036.0,PANB
+69,Long term debt,12  Mar-16*,7857.0,PANB
+70,Total assets,12  Mar-16*,18030.0,PANB
+71,Interest coverage,12  Mar-16*,0.5,PANB
+72,Debt to equity ratio,12  Mar-16*,1.9,PANB
+73,Sales to assets ratio,12  Mar-16*,0.4,PANB
+74,Return on assets,12  Mar-16*,6.0,PANB
+75,Return on equity,12  Mar-16*,-4.5,PANB
+76,Return on capital,12  Mar-16*,9.3,PANB
+77,Exports to sales,12  Mar-16*,36.0,PANB
+78,Imports to sales,12  Mar-16*,9.5,PANB
+79,Exports (fob),12  Mar-16*,2348.0,PANB
+80,Imports (cif),12  Mar-16*,619.0,PANB
+81,Fx inflow,12  Mar-16*,2698.0,PANB
+82,Fx outflow,12  Mar-16*,925.0,PANB
+83,Net fx,12  Mar-16*,1773.0,PANB
+84,From Operations,12  Mar-16*,907.0,PANB
+85,From Investments,12  Mar-16*,164.0,PANB
+86,From Financial Activity,12  Mar-16*,-1174.0,PANB
+87,Net Cashflow,12  Mar-16*,-103.0,PANB
+88,Net Sales,12  Mar-17*,5440.0,PANB
+89,Other income,12  Mar-17*,466.0,PANB
+90,Total revenues,12  Mar-17*,5906.0,PANB
+91,Gross profit,12  Mar-17*,624.0,PANB
+92,Depreciation,12  Mar-17*,680.0,PANB
+93,Interest,12  Mar-17*,1009.0,PANB
+94,Profit before tax,12  Mar-17*,-599.0,PANB
+95,Minority Interest,12  Mar-17*,0.0,PANB
+96,Prior Period Items,12  Mar-17*,3.0,PANB
+97,Extraordinary Inc (Exp),12  Mar-17*,77.0,PANB
+98,Tax,12  Mar-17*,-110.0,PANB
+99,Profit after tax,12  Mar-17*,-409.0,PANB
+100,Gross profit margin,12  Mar-17*,11.5,PANB
+101,Effective tax rate,12  Mar-17*,18.3,PANB
+102,Net profit margin,12  Mar-17*,-7.5,PANB
+103,Current assets,12  Mar-17*,5334.0,PANB
+104,Current liabilities,12  Mar-17*,5881.0,PANB
+105,Net working cap to sales,12  Mar-17*,-10.1,PANB
+106,Current ratio,12  Mar-17*,0.9,PANB
+107,Inventory Days,12  Mar-17*,212.0,PANB
+108,Debtors Days,12  Mar-17*,95.0,PANB
+109,Net fixed assets,12  Mar-17*,10368.0,PANB
+110,Share capital,12  Mar-17*,61.0,PANB
+111,"""Free"" reserves",12  Mar-17*,3496.0,PANB
+112,Net worth,12  Mar-17*,3557.0,PANB
+113,Long term debt,12  Mar-17*,7141.0,PANB
+114,Total assets,12  Mar-17*,18001.0,PANB
+115,Interest coverage,12  Mar-17*,0.4,PANB
+116,Debt to equity ratio,12  Mar-17*,2.0,PANB
+117,Sales to assets ratio,12  Mar-17*,0.3,PANB
+118,Return on assets,12  Mar-17*,3.3,PANB
+119,Return on equity,12  Mar-17*,-11.5,PANB
+120,Return on capital,12  Mar-17*,4.6,PANB
+121,Exports to sales,12  Mar-17*,33.7,PANB
+122,Imports to sales,12  Mar-17*,14.3,PANB
+123,Exports (fob),12  Mar-17*,1832.0,PANB
+124,Imports (cif),12  Mar-17*,780.0,PANB
+125,Fx inflow,12  Mar-17*,1998.0,PANB
+126,Fx outflow,12  Mar-17*,898.0,PANB
+127,Net fx,12  Mar-17*,1101.0,PANB
+128,From Operations,12  Mar-17*,1307.0,PANB
+129,From Investments,12  Mar-17*,-258.0,PANB
+130,From Financial Activity,12  Mar-17*,-1070.0,PANB
+131,Net Cashflow,12  Mar-17*,-21.0,PANB
+132,Net Sales,12  Mar-18*,5928.0,PANB
+133,Other income,12  Mar-18*,78.0,PANB
+134,Total revenues,12  Mar-18*,6006.0,PANB
+135,Gross profit,12  Mar-18*,863.0,PANB
+136,Depreciation,12  Mar-18*,573.0,PANB
+137,Interest,12  Mar-18*,1006.0,PANB
+138,Profit before tax,12  Mar-18*,-637.0,PANB
+139,Minority Interest,12  Mar-18*,0.0,PANB
+140,Prior Period Items,12  Mar-18*,0.0,PANB
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PANB
+142,Tax,12  Mar-18*,99.0,PANB
+143,Profit after tax,12  Mar-18*,-736.0,PANB
+144,Gross profit margin,12  Mar-18*,14.6,PANB
+145,Effective tax rate,12  Mar-18*,-15.5,PANB
+146,Net profit margin,12  Mar-18*,-12.4,PANB
+147,Current assets,12  Mar-18*,5603.0,PANB
+148,Current liabilities,12  Mar-18*,6910.0,PANB
+149,Net working cap to sales,12  Mar-18*,-22.0,PANB
+150,Current ratio,12  Mar-18*,0.8,PANB
+151,Inventory Days,12  Mar-18*,206.0,PANB
+152,Debtors Days,12  Mar-18*,84.0,PANB
+153,Net fixed assets,12  Mar-18*,9941.0,PANB
+154,Share capital,12  Mar-18*,61.0,PANB
+155,"""Free"" reserves",12  Mar-18*,3026.0,PANB
+156,Net worth,12  Mar-18*,3087.0,PANB
+157,Long term debt,12  Mar-18*,5707.0,PANB
+158,Total assets,12  Mar-18*,16076.0,PANB
+159,Interest coverage,12  Mar-18*,0.4,PANB
+160,Debt to equity ratio,12  Mar-18*,1.8,PANB
+161,Sales to assets ratio,12  Mar-18*,0.4,PANB
+162,Return on assets,12  Mar-18*,1.7,PANB
+163,Return on equity,12  Mar-18*,-23.8,PANB
+164,Return on capital,12  Mar-18*,4.2,PANB
+165,Exports to sales,12  Mar-18*,24.0,PANB
+166,Imports to sales,12  Mar-18*,17.5,PANB
+167,Exports (fob),12  Mar-18*,1424.0,PANB
+168,Imports (cif),12  Mar-18*,1040.0,PANB
+169,Fx inflow,12  Mar-18*,1600.0,PANB
+170,Fx outflow,12  Mar-18*,1131.0,PANB
+171,Net fx,12  Mar-18*,469.0,PANB
+172,From Operations,12  Mar-18*,1180.0,PANB
+173,From Investments,12  Mar-18*,553.0,PANB
+174,From Financial Activity,12  Mar-18*,-1644.0,PANB
+175,Net Cashflow,12  Mar-18*,90.0,PANB
+176,Net Sales,12  Mar-19*,4567.0,PANB
+177,Other income,12  Mar-19*,45.0,PANB
+178,Total revenues,12  Mar-19*,4612.0,PANB
+179,Gross profit,12  Mar-19*,2030.0,PANB
+180,Depreciation,12  Mar-19*,540.0,PANB
+181,Interest,12  Mar-19*,1048.0,PANB
+182,Profit before tax,12  Mar-19*,486.0,PANB
+183,Minority Interest,12  Mar-19*,0.0,PANB
+184,Prior Period Items,12  Mar-19*,0.0,PANB
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PANB
+186,Tax,12  Mar-19*,77.0,PANB
+187,Profit after tax,12  Mar-19*,409.0,PANB
+188,Gross profit margin,12  Mar-19*,44.4,PANB
+189,Effective tax rate,12  Mar-19*,15.9,PANB
+190,Net profit margin,12  Mar-19*,9.0,PANB
+191,Current assets,12  Mar-19*,2415.0,PANB
+192,Current liabilities,12  Mar-19*,9077.0,PANB
+193,Net working cap to sales,12  Mar-19*,-145.9,PANB
+194,Current ratio,12  Mar-19*,0.3,PANB
+195,Inventory Days,12  Mar-19*,65.0,PANB
+196,Debtors Days,12  Mar-19*,71.0,PANB
+197,Net fixed assets,12  Mar-19*,8333.0,PANB
+198,Share capital,12  Mar-19*,61.0,PANB
+199,"""Free"" reserves",12  Mar-19*,3443.0,PANB
+200,Net worth,12  Mar-19*,3504.0,PANB
+201,Long term debt,12  Mar-19*,461.0,PANB
+202,Total assets,12  Mar-19*,13755.0,PANB
+203,Interest coverage,12  Mar-19*,1.5,PANB
+204,Debt to equity ratio,12  Mar-19*,0.1,PANB
+205,Sales to assets ratio,12  Mar-19*,0.3,PANB
+206,Return on assets,12  Mar-19*,10.6,PANB
+207,Return on equity,12  Mar-19*,11.7,PANB
+208,Return on capital,12  Mar-19*,38.7,PANB
+209,Exports to sales,12  Mar-19*,20.9,PANB
+210,Imports to sales,12  Mar-19*,8.1,PANB
+211,Exports (fob),12  Mar-19*,954.0,PANB
+212,Imports (cif),12  Mar-19*,372.0,PANB
+213,Fx inflow,12  Mar-19*,1203.0,PANB
+214,Fx outflow,12  Mar-19*,467.0,PANB
+215,Net fx,12  Mar-19*,736.0,PANB
+216,From Operations,12  Mar-19*,1049.0,PANB
+217,From Investments,12  Mar-19*,-54.0,PANB
+218,From Financial Activity,12  Mar-19*,-1011.0,PANB
+219,Net Cashflow,12  Mar-19*,-20.0,PANB

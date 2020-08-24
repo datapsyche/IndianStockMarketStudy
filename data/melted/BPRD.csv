@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,11288.0,BPRD
+1,Other income,12  Mar-15*,571.0,BPRD
+2,Total revenues,12  Mar-15*,11859.0,BPRD
+3,Gross profit,12  Mar-15*,979.0,BPRD
+4,Depreciation,12  Mar-15*,338.0,BPRD
+5,Interest,12  Mar-15*,84.0,BPRD
+6,Profit before tax,12  Mar-15*,1128.0,BPRD
+7,Minority Interest,12  Mar-15*,0.0,BPRD
+8,Prior Period Items,12  Mar-15*,0.0,BPRD
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BPRD
+10,Tax,12  Mar-15*,252.0,BPRD
+11,Profit after tax,12  Mar-15*,877.0,BPRD
+12,Gross profit margin,12  Mar-15*,8.7,BPRD
+13,Effective tax rate,12  Mar-15*,22.3,BPRD
+14,Net profit margin,12  Mar-15*,7.8,BPRD
+15,Current assets,12  Mar-15*,5495.0,BPRD
+16,Current liabilities,12  Mar-15*,1676.0,BPRD
+17,Net working cap to sales,12  Mar-15*,33.8,BPRD
+18,Current ratio,12  Mar-15*,3.3,BPRD
+19,Inventory Days,12  Mar-15*,83.0,BPRD
+20,Debtors Days,12  Mar-15*,57.0,BPRD
+21,Net fixed assets,12  Mar-15*,2372.0,BPRD
+22,Share capital,12  Mar-15*,143.0,BPRD
+23,"""Free"" reserves",12  Mar-15*,5011.0,BPRD
+24,Net worth,12  Mar-15*,6198.0,BPRD
+25,Long term debt,12  Mar-15*,78.0,BPRD
+26,Total assets,12  Mar-15*,8219.0,BPRD
+27,Interest coverage,12  Mar-15*,14.5,BPRD
+28,Debt to equity ratio,12  Mar-15*,0.0,BPRD
+29,Sales to assets ratio,12  Mar-15*,1.4,BPRD
+30,Return on assets,12  Mar-15*,11.7,BPRD
+31,Return on equity,12  Mar-15*,14.1,BPRD
+32,Return on capital,12  Mar-15*,19.3,BPRD
+33,Exports to sales,12  Mar-15*,11.2,BPRD
+34,Imports to sales,12  Mar-15*,10.6,BPRD
+35,Exports (fob),12  Mar-15*,1263.0,BPRD
+36,Imports (cif),12  Mar-15*,1201.0,BPRD
+37,Fx inflow,12  Mar-15*,1284.0,BPRD
+38,Fx outflow,12  Mar-15*,1278.0,BPRD
+39,Net fx,12  Mar-15*,6.0,BPRD
+40,From Operations,12  Mar-15*,848.0,BPRD
+41,From Investments,12  Mar-15*,881.0,BPRD
+42,From Financial Activity,12  Mar-15*,-1365.0,BPRD
+43,Net Cashflow,12  Mar-15*,364.0,BPRD
+44,Net Sales,12  Mar-16*,12043.0,BPRD
+45,Other income,12  Mar-16*,110.0,BPRD
+46,Total revenues,12  Mar-16*,12153.0,BPRD
+47,Gross profit,12  Mar-16*,1463.0,BPRD
+48,Depreciation,12  Mar-16*,347.0,BPRD
+49,Interest,12  Mar-16*,32.0,BPRD
+50,Profit before tax,12  Mar-16*,1195.0,BPRD
+51,Minority Interest,12  Mar-16*,0.0,BPRD
+52,Prior Period Items,12  Mar-16*,0.0,BPRD
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BPRD
+54,Tax,12  Mar-16*,296.0,BPRD
+55,Profit after tax,12  Mar-16*,899.0,BPRD
+56,Gross profit margin,12  Mar-16*,12.2,BPRD
+57,Effective tax rate,12  Mar-16*,24.8,BPRD
+58,Net profit margin,12  Mar-16*,7.5,BPRD
+59,Current assets,12  Mar-16*,6938.0,BPRD
+60,Current liabilities,12  Mar-16*,2498.0,BPRD
+61,Net working cap to sales,12  Mar-16*,36.9,BPRD
+62,Current ratio,12  Mar-16*,2.8,BPRD
+63,Inventory Days,12  Mar-16*,99.0,BPRD
+64,Debtors Days,12  Mar-16*,67.0,BPRD
+65,Net fixed assets,12  Mar-16*,2240.0,BPRD
+66,Share capital,12  Mar-16*,143.0,BPRD
+67,"""Free"" reserves",12  Mar-16*,6736.0,BPRD
+68,Net worth,12  Mar-16*,6879.0,BPRD
+69,Long term debt,12  Mar-16*,0.0,BPRD
+70,Total assets,12  Mar-16*,9626.0,BPRD
+71,Interest coverage,12  Mar-16*,37.9,BPRD
+72,Debt to equity ratio,12  Mar-16*,0.0,BPRD
+73,Sales to assets ratio,12  Mar-16*,1.3,BPRD
+74,Return on assets,12  Mar-16*,9.7,BPRD
+75,Return on equity,12  Mar-16*,13.1,BPRD
+76,Return on capital,12  Mar-16*,17.8,BPRD
+77,Exports to sales,12  Mar-16*,11.3,BPRD
+78,Imports to sales,12  Mar-16*,11.0,BPRD
+79,Exports (fob),12  Mar-16*,1356.0,BPRD
+80,Imports (cif),12  Mar-16*,1323.0,BPRD
+81,Fx inflow,12  Mar-16*,1655.0,BPRD
+82,Fx outflow,12  Mar-16*,1323.0,BPRD
+83,Net fx,12  Mar-16*,333.0,BPRD
+84,From Operations,12  Mar-16*,685.0,BPRD
+85,From Investments,12  Mar-16*,-165.0,BPRD
+86,From Financial Activity,12  Mar-16*,-63.0,BPRD
+87,Net Cashflow,12  Mar-16*,457.0,BPRD
+88,Net Sales,12  Mar-17*,12394.0,BPRD
+89,Other income,12  Mar-17*,325.0,BPRD
+90,Total revenues,12  Mar-17*,12718.0,BPRD
+91,Gross profit,12  Mar-17*,1436.0,BPRD
+92,Depreciation,12  Mar-17*,333.0,BPRD
+93,Interest,12  Mar-17*,20.0,BPRD
+94,Profit before tax,12  Mar-17*,1408.0,BPRD
+95,Minority Interest,12  Mar-17*,0.0,BPRD
+96,Prior Period Items,12  Mar-17*,0.0,BPRD
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BPRD
+98,Tax,12  Mar-17*,436.0,BPRD
+99,Profit after tax,12  Mar-17*,972.0,BPRD
+100,Gross profit margin,12  Mar-17*,11.6,BPRD
+101,Effective tax rate,12  Mar-17*,31.0,BPRD
+102,Net profit margin,12  Mar-17*,7.8,BPRD
+103,Current assets,12  Mar-17*,7224.0,BPRD
+104,Current liabilities,12  Mar-17*,2037.0,BPRD
+105,Net working cap to sales,12  Mar-17*,41.8,BPRD
+106,Current ratio,12  Mar-17*,3.5,BPRD
+107,Inventory Days,12  Mar-17*,95.0,BPRD
+108,Debtors Days,12  Mar-17*,60.0,BPRD
+109,Net fixed assets,12  Mar-17*,1962.0,BPRD
+110,Share capital,12  Mar-17*,143.0,BPRD
+111,"""Free"" reserves",12  Mar-17*,7052.0,BPRD
+112,Net worth,12  Mar-17*,7195.0,BPRD
+113,Long term debt,12  Mar-17*,0.0,BPRD
+114,Total assets,12  Mar-17*,9943.0,BPRD
+115,Interest coverage,12  Mar-17*,72.8,BPRD
+116,Debt to equity ratio,12  Mar-17*,0.0,BPRD
+117,Sales to assets ratio,12  Mar-17*,1.2,BPRD
+118,Return on assets,12  Mar-17*,10.0,BPRD
+119,Return on equity,12  Mar-17*,13.5,BPRD
+120,Return on capital,12  Mar-17*,19.8,BPRD
+121,Exports to sales,12  Mar-17*,9.5,BPRD
+122,Imports to sales,12  Mar-17*,10.7,BPRD
+123,Exports (fob),12  Mar-17*,1182.0,BPRD
+124,Imports (cif),12  Mar-17*,1321.0,BPRD
+125,Fx inflow,12  Mar-17*,1969.0,BPRD
+126,Fx outflow,12  Mar-17*,1642.0,BPRD
+127,Net fx,12  Mar-17*,327.0,BPRD
+128,From Operations,12  Mar-17*,903.0,BPRD
+129,From Investments,12  Mar-17*,316.0,BPRD
+130,From Financial Activity,12  Mar-17*,-615.0,BPRD
+131,Net Cashflow,12  Mar-17*,605.0,BPRD
+132,Net Sales,12  Mar-18*,13356.0,BPRD
+133,Other income,12  Mar-18*,149.0,BPRD
+134,Total revenues,12  Mar-18*,13505.0,BPRD
+135,Gross profit,12  Mar-18*,1788.0,BPRD
+136,Depreciation,12  Mar-18*,277.0,BPRD
+137,Interest,12  Mar-18*,18.0,BPRD
+138,Profit before tax,12  Mar-18*,1642.0,BPRD
+139,Minority Interest,12  Mar-18*,0.0,BPRD
+140,Prior Period Items,12  Mar-18*,0.0,BPRD
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BPRD
+142,Tax,12  Mar-18*,502.0,BPRD
+143,Profit after tax,12  Mar-18*,1140.0,BPRD
+144,Gross profit margin,12  Mar-18*,13.4,BPRD
+145,Effective tax rate,12  Mar-18*,30.6,BPRD
+146,Net profit margin,12  Mar-18*,8.5,BPRD
+147,Current assets,12  Mar-18*,9391.0,BPRD
+148,Current liabilities,12  Mar-18*,3357.0,BPRD
+149,Net working cap to sales,12  Mar-18*,45.2,BPRD
+150,Current ratio,12  Mar-18*,2.8,BPRD
+151,Inventory Days,12  Mar-18*,120.0,BPRD
+152,Debtors Days,12  Mar-18*,70.0,BPRD
+153,Net fixed assets,12  Mar-18*,2028.0,BPRD
+154,Share capital,12  Mar-18*,143.0,BPRD
+155,"""Free"" reserves",12  Mar-18*,7934.0,BPRD
+156,Net worth,12  Mar-18*,8077.0,BPRD
+157,Long term debt,12  Mar-18*,11.0,BPRD
+158,Total assets,12  Mar-18*,12233.0,BPRD
+159,Interest coverage,12  Mar-18*,93.8,BPRD
+160,Debt to equity ratio,12  Mar-18*,0.0,BPRD
+161,Sales to assets ratio,12  Mar-18*,1.1,BPRD
+162,Return on assets,12  Mar-18*,9.5,BPRD
+163,Return on equity,12  Mar-18*,14.1,BPRD
+164,Return on capital,12  Mar-18*,20.5,BPRD
+165,Exports to sales,12  Mar-18*,0.0,BPRD
+166,Imports to sales,12  Mar-18*,0.0,BPRD
+167,Exports (fob),12  Mar-18*,0.0,BPRD
+168,Imports (cif),12  Mar-18*,0.0,BPRD
+169,Fx inflow,12  Mar-18*,1948.0,BPRD
+170,Fx outflow,12  Mar-18*,2043.0,BPRD
+171,Net fx,12  Mar-18*,-96.0,BPRD
+172,From Operations,12  Mar-18*,990.0,BPRD
+173,From Investments,12  Mar-18*,768.0,BPRD
+174,From Financial Activity,12  Mar-18*,-679.0,BPRD
+175,Net Cashflow,12  Mar-18*,1168.0,BPRD
+176,Net Sales,12  Mar-19*,15666.0,BPRD
+177,Other income,12  Mar-19*,106.0,BPRD
+178,Total revenues,12  Mar-19*,15772.0,BPRD
+179,Gross profit,12  Mar-19*,1754.0,BPRD
+180,Depreciation,12  Mar-19*,292.0,BPRD
+181,Interest,12  Mar-19*,43.0,BPRD
+182,Profit before tax,12  Mar-19*,1525.0,BPRD
+183,Minority Interest,12  Mar-19*,0.0,BPRD
+184,Prior Period Items,12  Mar-19*,0.0,BPRD
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BPRD
+186,Tax,12  Mar-19*,692.0,BPRD
+187,Profit after tax,12  Mar-19*,833.0,BPRD
+188,Gross profit margin,12  Mar-19*,11.2,BPRD
+189,Effective tax rate,12  Mar-19*,45.4,BPRD
+190,Net profit margin,12  Mar-19*,5.3,BPRD
+191,Current assets,12  Mar-19*,9654.0,BPRD
+192,Current liabilities,12  Mar-19*,3104.0,BPRD
+193,Net working cap to sales,12  Mar-19*,41.8,BPRD
+194,Current ratio,12  Mar-19*,3.1,BPRD
+195,Inventory Days,12  Mar-19*,112.0,BPRD
+196,Debtors Days,12  Mar-19*,66.0,BPRD
+197,Net fixed assets,12  Mar-19*,1969.0,BPRD
+198,Share capital,12  Mar-19*,143.0,BPRD
+199,"""Free"" reserves",12  Mar-19*,8184.0,BPRD
+200,Net worth,12  Mar-19*,8327.0,BPRD
+201,Long term debt,12  Mar-19*,62.0,BPRD
+202,Total assets,12  Mar-19*,12244.0,BPRD
+203,Interest coverage,12  Mar-19*,36.8,BPRD
+204,Debt to equity ratio,12  Mar-19*,0.0,BPRD
+205,Sales to assets ratio,12  Mar-19*,1.3,BPRD
+206,Return on assets,12  Mar-19*,7.2,BPRD
+207,Return on equity,12  Mar-19*,10.0,BPRD
+208,Return on capital,12  Mar-19*,18.7,BPRD
+209,Exports to sales,12  Mar-19*,0.0,BPRD
+210,Imports to sales,12  Mar-19*,0.0,BPRD
+211,Exports (fob),12  Mar-19*,0.0,BPRD
+212,Imports (cif),12  Mar-19*,0.0,BPRD
+213,Fx inflow,12  Mar-19*,2794.0,BPRD
+214,Fx outflow,12  Mar-19*,2607.0,BPRD
+215,Net fx,12  Mar-19*,187.0,BPRD
+216,From Operations,12  Mar-19*,624.0,BPRD
+217,From Investments,12  Mar-19*,108.0,BPRD
+218,From Financial Activity,12  Mar-19*,-494.0,BPRD
+219,Net Cashflow,12  Mar-19*,-147.0,BPRD

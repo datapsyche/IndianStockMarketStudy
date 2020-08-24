@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,1996.0,ALST
+1,Other income,12  Mar-14*,23.0,ALST
+2,Total revenues,12  Mar-14*,2019.0,ALST
+3,Gross profit,12  Mar-14*,-368.0,ALST
+4,Depreciation,12  Mar-14*,124.0,ALST
+5,Interest,12  Mar-14*,67.0,ALST
+6,Profit before tax,12  Mar-14*,-536.0,ALST
+7,Minority Interest,12  Mar-14*,121.0,ALST
+8,Prior Period Items,12  Mar-14*,0.0,ALST
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,ALST
+10,Tax,12  Mar-14*,-165.0,ALST
+11,Profit after tax,12  Mar-14*,-250.0,ALST
+12,Gross profit margin,12  Mar-14*,-18.5,ALST
+13,Effective tax rate,12  Mar-14*,30.8,ALST
+14,Net profit margin,12  Mar-14*,-12.5,ALST
+15,Current assets,12  Mar-14*,554.0,ALST
+16,Current liabilities,12  Mar-14*,525.0,ALST
+17,Net working cap to sales,12  Mar-14*,1.5,ALST
+18,Current ratio,12  Mar-14*,1.1,ALST
+19,Inventory Days,12  Mar-14*,0.0,ALST
+20,Debtors Days,12  Mar-14*,60.0,ALST
+21,Net fixed assets,12  Mar-14*,394.0,ALST
+22,Share capital,12  Mar-14*,152.0,ALST
+23,"""Free"" reserves",12  Mar-14*,563.0,ALST
+24,Net worth,12  Mar-14*,795.0,ALST
+25,Long term debt,12  Mar-14*,26.0,ALST
+26,Total assets,12  Mar-14*,1350.0,ALST
+27,Interest coverage,12  Mar-14*,-7.0,ALST
+28,Debt to equity ratio,12  Mar-14*,0.0,ALST
+29,Sales to assets ratio,12  Mar-14*,1.5,ALST
+30,Return on assets,12  Mar-14*,-13.6,ALST
+31,Return on equity,12  Mar-14*,-31.4,ALST
+32,Return on capital,12  Mar-14*,-42.4,ALST
+33,Exports to sales,12  Mar-14*,0.0,ALST
+34,Imports to sales,12  Mar-14*,0.0,ALST
+35,Exports (fob),12  Mar-14*,0.0,ALST
+36,Imports (cif),12  Mar-14*,1.0,ALST
+37,Fx inflow,12  Mar-14*,537.0,ALST
+38,Fx outflow,12  Mar-14*,68.0,ALST
+39,Net fx,12  Mar-14*,469.0,ALST
+40,From Operations,12  Mar-14*,-60.0,ALST
+41,From Investments,12  Mar-14*,119.0,ALST
+42,From Financial Activity,12  Mar-14*,102.0,ALST
+43,Net Cashflow,12  Mar-14*,160.0,ALST
+44,Net Sales,12  Mar-15*,1509.0,ALST
+45,Other income,12  Mar-15*,87.0,ALST
+46,Total revenues,12  Mar-15*,1596.0,ALST
+47,Gross profit,12  Mar-15*,-84.0,ALST
+48,Depreciation,12  Mar-15*,110.0,ALST
+49,Interest,12  Mar-15*,16.0,ALST
+50,Profit before tax,12  Mar-15*,-123.0,ALST
+51,Minority Interest,12  Mar-15*,0.0,ALST
+52,Prior Period Items,12  Mar-15*,0.0,ALST
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ALST
+54,Tax,12  Mar-15*,17.0,ALST
+55,Profit after tax,12  Mar-15*,-141.0,ALST
+56,Gross profit margin,12  Mar-15*,-5.6,ALST
+57,Effective tax rate,12  Mar-15*,-14.0,ALST
+58,Net profit margin,12  Mar-15*,-9.3,ALST
+59,Current assets,12  Mar-15*,432.0,ALST
+60,Current liabilities,12  Mar-15*,264.0,ALST
+61,Net working cap to sales,12  Mar-15*,11.2,ALST
+62,Current ratio,12  Mar-15*,1.6,ALST
+63,Inventory Days,12  Mar-15*,0.0,ALST
+64,Debtors Days,12  Mar-15*,71.0,ALST
+65,Net fixed assets,12  Mar-15*,268.0,ALST
+66,Share capital,12  Mar-15*,152.0,ALST
+67,"""Free"" reserves",12  Mar-15*,377.0,ALST
+68,Net worth,12  Mar-15*,615.0,ALST
+69,Long term debt,12  Mar-15*,78.0,ALST
+70,Total assets,12  Mar-15*,962.0,ALST
+71,Interest coverage,12  Mar-15*,-6.6,ALST
+72,Debt to equity ratio,12  Mar-15*,0.1,ALST
+73,Sales to assets ratio,12  Mar-15*,1.6,ALST
+74,Return on assets,12  Mar-15*,-12.9,ALST
+75,Return on equity,12  Mar-15*,-22.9,ALST
+76,Return on capital,12  Mar-15*,-15.5,ALST
+77,Exports to sales,12  Mar-15*,0.0,ALST
+78,Imports to sales,12  Mar-15*,0.1,ALST
+79,Exports (fob),12  Mar-15*,0.0,ALST
+80,Imports (cif),12  Mar-15*,1.0,ALST
+81,Fx inflow,12  Mar-15*,331.0,ALST
+82,Fx outflow,12  Mar-15*,54.0,ALST
+83,Net fx,12  Mar-15*,277.0,ALST
+84,From Operations,12  Mar-15*,-60.0,ALST
+85,From Investments,12  Mar-15*,78.0,ALST
+86,From Financial Activity,12  Mar-15*,-22.0,ALST
+87,Net Cashflow,12  Mar-15*,-3.0,ALST
+88,Net Sales,12  Mar-16*,2334.0,ALST
+89,Other income,12  Mar-16*,80.0,ALST
+90,Total revenues,12  Mar-16*,2414.0,ALST
+91,Gross profit,12  Mar-16*,359.0,ALST
+92,Depreciation,12  Mar-16*,76.0,ALST
+93,Interest,12  Mar-16*,18.0,ALST
+94,Profit before tax,12  Mar-16*,345.0,ALST
+95,Minority Interest,12  Mar-16*,0.0,ALST
+96,Prior Period Items,12  Mar-16*,0.0,ALST
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,ALST
+98,Tax,12  Mar-16*,36.0,ALST
+99,Profit after tax,12  Mar-16*,309.0,ALST
+100,Gross profit margin,12  Mar-16*,15.4,ALST
+101,Effective tax rate,12  Mar-16*,10.4,ALST
+102,Net profit margin,12  Mar-16*,13.3,ALST
+103,Current assets,12  Mar-16*,968.0,ALST
+104,Current liabilities,12  Mar-16*,420.0,ALST
+105,Net working cap to sales,12  Mar-16*,23.5,ALST
+106,Current ratio,12  Mar-16*,2.3,ALST
+107,Inventory Days,12  Mar-16*,0.0,ALST
+108,Debtors Days,12  Mar-16*,88.0,ALST
+109,Net fixed assets,12  Mar-16*,226.0,ALST
+110,Share capital,12  Mar-16*,152.0,ALST
+111,"""Free"" reserves",12  Mar-16*,763.0,ALST
+112,Net worth,12  Mar-16*,915.0,ALST
+113,Long term debt,12  Mar-16*,4.0,ALST
+114,Total assets,12  Mar-16*,1345.0,ALST
+115,Interest coverage,12  Mar-16*,19.8,ALST
+116,Debt to equity ratio,12  Mar-16*,0.0,ALST
+117,Sales to assets ratio,12  Mar-16*,1.7,ALST
+118,Return on assets,12  Mar-16*,24.4,ALST
+119,Return on equity,12  Mar-16*,33.8,ALST
+120,Return on capital,12  Mar-16*,39.6,ALST
+121,Exports to sales,12  Mar-16*,0.0,ALST
+122,Imports to sales,12  Mar-16*,0.4,ALST
+123,Exports (fob),12  Mar-16*,0.0,ALST
+124,Imports (cif),12  Mar-16*,9.0,ALST
+125,Fx inflow,12  Mar-16*,381.0,ALST
+126,Fx outflow,12  Mar-16*,49.0,ALST
+127,Net fx,12  Mar-16*,332.0,ALST
+128,From Operations,12  Mar-16*,348.0,ALST
+129,From Investments,12  Mar-16*,-190.0,ALST
+130,From Financial Activity,12  Mar-16*,-79.0,ALST
+131,Net Cashflow,12  Mar-16*,79.0,ALST
+132,Net Sales,12  Mar-17*,3181.0,ALST
+133,Other income,12  Mar-17*,73.0,ALST
+134,Total revenues,12  Mar-17*,3254.0,ALST
+135,Gross profit,12  Mar-17*,627.0,ALST
+136,Depreciation,12  Mar-17*,55.0,ALST
+137,Interest,12  Mar-17*,12.0,ALST
+138,Profit before tax,12  Mar-17*,633.0,ALST
+139,Minority Interest,12  Mar-17*,0.0,ALST
+140,Prior Period Items,12  Mar-17*,0.0,ALST
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ALST
+142,Tax,12  Mar-17*,16.0,ALST
+143,Profit after tax,12  Mar-17*,617.0,ALST
+144,Gross profit margin,12  Mar-17*,19.7,ALST
+145,Effective tax rate,12  Mar-17*,2.5,ALST
+146,Net profit margin,12  Mar-17*,19.4,ALST
+147,Current assets,12  Mar-17*,1346.0,ALST
+148,Current liabilities,12  Mar-17*,256.0,ALST
+149,Net working cap to sales,12  Mar-17*,34.2,ALST
+150,Current ratio,12  Mar-17*,5.3,ALST
+151,Inventory Days,12  Mar-17*,0.0,ALST
+152,Debtors Days,12  Mar-17*,42.0,ALST
+153,Net fixed assets,12  Mar-17*,223.0,ALST
+154,Share capital,12  Mar-17*,152.0,ALST
+155,"""Free"" reserves",12  Mar-17*,1344.0,ALST
+156,Net worth,12  Mar-17*,1496.0,ALST
+157,Long term debt,12  Mar-17*,3.0,ALST
+158,Total assets,12  Mar-17*,1764.0,ALST
+159,Interest coverage,12  Mar-17*,54.2,ALST
+160,Debt to equity ratio,12  Mar-17*,0.0,ALST
+161,Sales to assets ratio,12  Mar-17*,1.8,ALST
+162,Return on assets,12  Mar-17*,35.7,ALST
+163,Return on equity,12  Mar-17*,41.3,ALST
+164,Return on capital,12  Mar-17*,43.0,ALST
+165,Exports to sales,12  Mar-17*,0.0,ALST
+166,Imports to sales,12  Mar-17*,0.0,ALST
+167,Exports (fob),12  Mar-17*,0.0,ALST
+168,Imports (cif),12  Mar-17*,0.0,ALST
+169,Fx inflow,12  Mar-17*,390.0,ALST
+170,Fx outflow,12  Mar-17*,25.0,ALST
+171,Net fx,12  Mar-17*,365.0,ALST
+172,From Operations,12  Mar-17*,703.0,ALST
+173,From Investments,12  Mar-17*,-423.0,ALST
+174,From Financial Activity,12  Mar-17*,-93.0,ALST
+175,Net Cashflow,12  Mar-17*,165.0,ALST
+176,Net Sales,12  Mar-18*,3250.0,ALST
+177,Other income,12  Mar-18*,74.0,ALST
+178,Total revenues,12  Mar-18*,3323.0,ALST
+179,Gross profit,12  Mar-18*,610.0,ALST
+180,Depreciation,12  Mar-18*,45.0,ALST
+181,Interest,12  Mar-18*,3.0,ALST
+182,Profit before tax,12  Mar-18*,636.0,ALST
+183,Minority Interest,12  Mar-18*,0.0,ALST
+184,Prior Period Items,12  Mar-18*,0.0,ALST
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ALST
+186,Tax,12  Mar-18*,41.0,ALST
+187,Profit after tax,12  Mar-18*,595.0,ALST
+188,Gross profit margin,12  Mar-18*,18.8,ALST
+189,Effective tax rate,12  Mar-18*,6.4,ALST
+190,Net profit margin,12  Mar-18*,18.3,ALST
+191,Current assets,12  Mar-18*,1877.0,ALST
+192,Current liabilities,12  Mar-18*,302.0,ALST
+193,Net working cap to sales,12  Mar-18*,48.4,ALST
+194,Current ratio,12  Mar-18*,6.2,ALST
+195,Inventory Days,12  Mar-18*,0.0,ALST
+196,Debtors Days,12  Mar-18*,46.0,ALST
+197,Net fixed assets,12  Mar-18*,242.0,ALST
+198,Share capital,12  Mar-18*,152.0,ALST
+199,"""Free"" reserves",12  Mar-18*,1923.0,ALST
+200,Net worth,12  Mar-18*,2075.0,ALST
+201,Long term debt,12  Mar-18*,7.0,ALST
+202,Total assets,12  Mar-18*,2415.0,ALST
+203,Interest coverage,12  Mar-18*,193.7,ALST
+204,Debt to equity ratio,12  Mar-18*,0.0,ALST
+205,Sales to assets ratio,12  Mar-18*,1.3,ALST
+206,Return on assets,12  Mar-18*,24.8,ALST
+207,Return on equity,12  Mar-18*,28.7,ALST
+208,Return on capital,12  Mar-18*,30.7,ALST
+209,Exports to sales,12  Mar-18*,0.0,ALST
+210,Imports to sales,12  Mar-18*,0.0,ALST
+211,Exports (fob),12  Mar-18*,0.0,ALST
+212,Imports (cif),12  Mar-18*,0.0,ALST
+213,Fx inflow,12  Mar-18*,404.0,ALST
+214,Fx outflow,12  Mar-18*,20.0,ALST
+215,Net fx,12  Mar-18*,384.0,ALST
+216,From Operations,12  Mar-18*,528.0,ALST
+217,From Investments,12  Mar-18*,-142.0,ALST
+218,From Financial Activity,12  Mar-18*,1.0,ALST
+219,Net Cashflow,12  Mar-18*,375.0,ALST

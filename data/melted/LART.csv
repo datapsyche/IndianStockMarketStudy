@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,1011225.0,LART
+1,Other income,12  Mar-16*,9044.0,LART
+2,Total revenues,12  Mar-16*,1020268.0,LART
+3,Gross profit,12  Mar-16*,105557.0,LART
+4,Depreciation,12  Mar-16*,17867.0,LART
+5,Interest,12  Mar-16*,16551.0,LART
+6,Profit before tax,12  Mar-16*,80182.0,LART
+7,Minority Interest,12  Mar-16*,-9424.0,LART
+8,Prior Period Items,12  Mar-16*,0.0,LART
+9,Extraordinary Inc (Exp),12  Mar-16*,-942.0,LART
+10,Tax,12  Mar-16*,24370.0,LART
+11,Profit after tax,12  Mar-16*,45447.0,LART
+12,Gross profit margin,12  Mar-16*,10.4,LART
+13,Effective tax rate,12  Mar-16*,30.4,LART
+14,Net profit margin,12  Mar-16*,4.5,LART
+15,Current assets,12  Mar-16*,605652.0,LART
+16,Current liabilities,12  Mar-16*,582377.0,LART
+17,Net working cap to sales,12  Mar-16*,2.3,LART
+18,Current ratio,12  Mar-16*,1.0,LART
+19,Inventory Days,12  Mar-16*,18.0,LART
+20,Debtors Days,12  Mar-16*,94.0,LART
+21,Net fixed assets,12  Mar-16*,295362.0,LART
+22,Share capital,12  Mar-16*,1863.0,LART
+23,"""Free"" reserves",12  Mar-16*,439941.0,LART
+24,Net worth,12  Mar-16*,441804.0,LART
+25,Long term debt,12  Mar-16*,612238.0,LART
+26,Total assets,12  Mar-16*,1947262.0,LART
+27,Interest coverage,12  Mar-16*,5.8,LART
+28,Debt to equity ratio,12  Mar-16*,1.4,LART
+29,Sales to assets ratio,12  Mar-16*,0.5,LART
+30,Return on assets,12  Mar-16*,3.2,LART
+31,Return on equity,12  Mar-16*,10.3,LART
+32,Return on capital,12  Mar-16*,8.2,LART
+33,Exports to sales,12  Mar-16*,0.9,LART
+34,Imports to sales,12  Mar-16*,3.0,LART
+35,Exports (fob),12  Mar-16*,8781.0,LART
+36,Imports (cif),12  Mar-16*,30359.0,LART
+37,Fx inflow,12  Mar-16*,110890.0,LART
+38,Fx outflow,12  Mar-16*,112484.0,LART
+39,Net fx,12  Mar-16*,-1594.0,LART
+40,From Operations,12  Mar-16*,-32396.0,LART
+41,From Investments,12  Mar-16*,-46266.0,LART
+42,From Financial Activity,12  Mar-16*,72527.0,LART
+43,Net Cashflow,12  Mar-16*,-6135.0,LART
+44,Net Sales,12  Mar-17*,1093118.0,LART
+45,Other income,12  Mar-17*,13441.0,LART
+46,Total revenues,12  Mar-17*,1106559.0,LART
+47,Gross profit,12  Mar-17*,111316.0,LART
+48,Depreciation,12  Mar-17*,23699.0,LART
+49,Interest,12  Mar-17*,13398.0,LART
+50,Profit before tax,12  Mar-17*,87659.0,LART
+51,Minority Interest,12  Mar-17*,-3953.0,LART
+52,Prior Period Items,12  Mar-17*,0.0,LART
+53,Extraordinary Inc (Exp),12  Mar-17*,1214.0,LART
+54,Tax,12  Mar-17*,20066.0,LART
+55,Profit after tax,12  Mar-17*,64855.0,LART
+56,Gross profit margin,12  Mar-17*,10.2,LART
+57,Effective tax rate,12  Mar-17*,22.9,LART
+58,Net profit margin,12  Mar-17*,5.9,LART
+59,Current assets,12  Mar-17*,731933.0,LART
+60,Current liabilities,12  Mar-17*,617369.0,LART
+61,Net working cap to sales,12  Mar-17*,10.5,LART
+62,Current ratio,12  Mar-17*,1.2,LART
+63,Inventory Days,12  Mar-17*,14.0,LART
+64,Debtors Days,12  Mar-17*,96.0,LART
+65,Net fixed assets,12  Mar-17*,299751.0,LART
+66,Share capital,12  Mar-17*,1866.0,LART
+67,"""Free"" reserves",12  Mar-17*,500299.0,LART
+68,Net worth,12  Mar-17*,502165.0,LART
+69,Long term debt,12  Mar-17*,673406.0,LART
+70,Total assets,12  Mar-17*,2110045.0,LART
+71,Interest coverage,12  Mar-17*,7.5,LART
+72,Debt to equity ratio,12  Mar-17*,1.3,LART
+73,Sales to assets ratio,12  Mar-17*,0.5,LART
+74,Return on assets,12  Mar-17*,3.7,LART
+75,Return on equity,12  Mar-17*,12.9,LART
+76,Return on capital,12  Mar-17*,8.4,LART
+77,Exports to sales,12  Mar-17*,0.0,LART
+78,Imports to sales,12  Mar-17*,0.0,LART
+79,Exports (fob),12  Mar-17*,0.0,LART
+80,Imports (cif),12  Mar-17*,0.0,LART
+81,Fx inflow,12  Mar-17*,171321.0,LART
+82,Fx outflow,12  Mar-17*,155884.0,LART
+83,Net fx,12  Mar-17*,15436.0,LART
+84,From Operations,12  Mar-17*,66553.0,LART
+85,From Investments,12  Mar-17*,-97959.0,LART
+86,From Financial Activity,12  Mar-17*,28959.0,LART
+87,Net Cashflow,12  Mar-17*,-2448.0,LART
+88,Net Sales,12  Mar-18*,1196832.0,LART
+89,Other income,12  Mar-18*,13419.0,LART
+90,Total revenues,12  Mar-18*,1210251.0,LART
+91,Gross profit,12  Mar-18*,136415.0,LART
+92,Depreciation,12  Mar-18*,19287.0,LART
+93,Interest,12  Mar-18*,15385.0,LART
+94,Profit before tax,12  Mar-18*,115162.0,LART
+95,Minority Interest,12  Mar-18*,-4359.0,LART
+96,Prior Period Items,12  Mar-18*,0.0,LART
+97,Extraordinary Inc (Exp),12  Mar-18*,1230.0,LART
+98,Tax,12  Mar-18*,31989.0,LART
+99,Profit after tax,12  Mar-18*,80044.0,LART
+100,Gross profit margin,12  Mar-18*,11.4,LART
+101,Effective tax rate,12  Mar-18*,27.8,LART
+102,Net profit margin,12  Mar-18*,6.7,LART
+103,Current assets,12  Mar-18*,873732.0,LART
+104,Current liabilities,12  Mar-18*,774389.0,LART
+105,Net working cap to sales,12  Mar-18*,8.3,LART
+106,Current ratio,12  Mar-18*,1.1,LART
+107,Inventory Days,12  Mar-18*,15.0,LART
+108,Debtors Days,12  Mar-18*,101.0,LART
+109,Net fixed assets,12  Mar-18*,320236.0,LART
+110,Share capital,12  Mar-18*,2803.0,LART
+111,"""Free"" reserves",12  Mar-18*,553767.0,LART
+112,Net worth,12  Mar-18*,556570.0,LART
+113,Long term debt,12  Mar-18*,729148.0,LART
+114,Total assets,12  Mar-18*,2438775.0,LART
+115,Interest coverage,12  Mar-18*,8.5,LART
+116,Debt to equity ratio,12  Mar-18*,1.3,LART
+117,Sales to assets ratio,12  Mar-18*,0.5,LART
+118,Return on assets,12  Mar-18*,3.9,LART
+119,Return on equity,12  Mar-18*,14.4,LART
+120,Return on capital,12  Mar-18*,9.9,LART
+121,Exports to sales,12  Mar-18*,0.0,LART
+122,Imports to sales,12  Mar-18*,0.0,LART
+123,Exports (fob),12  Mar-18*,0.0,LART
+124,Imports (cif),12  Mar-18*,0.0,LART
+125,Fx inflow,12  Mar-18*,176993.0,LART
+126,Fx outflow,12  Mar-18*,152779.0,LART
+127,Net fx,12  Mar-18*,24214.0,LART
+128,From Operations,12  Mar-18*,-100310.0,LART
+129,From Investments,12  Mar-18*,39145.0,LART
+130,From Financial Activity,12  Mar-18*,93705.0,LART
+131,Net Cashflow,12  Mar-18*,32539.0,LART
+132,Net Sales,12  Mar-19*,1352203.0,LART
+133,Other income,12  Mar-19*,18365.0,LART
+134,Total revenues,12  Mar-19*,1370568.0,LART
+135,Gross profit,12  Mar-19*,158990.0,LART
+136,Depreciation,12  Mar-19*,19230.0,LART
+137,Interest,12  Mar-19*,18026.0,LART
+138,Profit before tax,12  Mar-19*,140099.0,LART
+139,Minority Interest,12  Mar-19*,-210.0,LART
+140,Prior Period Items,12  Mar-19*,0.0,LART
+141,Extraordinary Inc (Exp),12  Mar-19*,2948.0,LART
+142,Tax,12  Mar-19*,40671.0,LART
+143,Profit after tax,12  Mar-19*,102166.0,LART
+144,Gross profit margin,12  Mar-19*,11.8,LART
+145,Effective tax rate,12  Mar-19*,29.0,LART
+146,Net profit margin,12  Mar-19*,7.6,LART
+147,Current assets,12  Mar-19*,1082270.0,LART
+148,Current liabilities,12  Mar-19*,990519.0,LART
+149,Net working cap to sales,12  Mar-19*,6.8,LART
+150,Current ratio,12  Mar-19*,1.1,LART
+151,Inventory Days,12  Mar-19*,17.0,LART
+152,Debtors Days,12  Mar-19*,99.0,LART
+153,Net fixed assets,12  Mar-19*,351134.0,LART
+154,Share capital,12  Mar-19*,2806.0,LART
+155,"""Free"" reserves",12  Mar-19*,620943.0,LART
+156,Net worth,12  Mar-19*,623748.0,LART
+157,Long term debt,12  Mar-19*,741208.0,LART
+158,Total assets,12  Mar-19*,2783474.0,LART
+159,Interest coverage,12  Mar-19*,8.8,LART
+160,Debt to equity ratio,12  Mar-19*,1.2,LART
+161,Sales to assets ratio,12  Mar-19*,0.5,LART
+162,Return on assets,12  Mar-19*,4.3,LART
+163,Return on equity,12  Mar-19*,16.4,LART
+164,Return on capital,12  Mar-19*,11.8,LART
+165,Exports to sales,12  Mar-19*,0.0,LART
+166,Imports to sales,12  Mar-19*,0.0,LART
+167,Exports (fob),12  Mar-19*,0.0,LART
+168,Imports (cif),12  Mar-19*,0.0,LART
+169,Fx inflow,12  Mar-19*,202120.0,LART
+170,Fx outflow,12  Mar-19*,202124.0,LART
+171,Net fx,12  Mar-19*,-4.0,LART
+172,From Operations,12  Mar-19*,-47558.0,LART
+173,From Investments,12  Mar-19*,-110228.0,LART
+174,From Financial Activity,12  Mar-19*,154410.0,LART
+175,Net Cashflow,12  Mar-19*,-3377.0,LART
+176,Net Sales,12  Mar-20*,1454524.0,LART
+177,Other income,12  Mar-20*,23609.0,LART
+178,Total revenues,12  Mar-20*,1478133.0,LART
+179,Gross profit,12  Mar-20*,163290.0,LART
+180,Depreciation,12  Mar-20*,24623.0,LART
+181,Interest,12  Mar-20*,27967.0,LART
+182,Profit before tax,12  Mar-20*,134310.0,LART
+183,Minority Interest,12  Mar-20*,720.0,LART
+184,Prior Period Items,12  Mar-20*,0.0,LART
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,LART
+186,Tax,12  Mar-20*,32632.0,LART
+187,Profit after tax,12  Mar-20*,102397.0,LART
+188,Gross profit margin,12  Mar-20*,11.2,LART
+189,Effective tax rate,12  Mar-20*,24.3,LART
+190,Net profit margin,12  Mar-20*,7.0,LART
+191,Current assets,12  Mar-20*,1139163.0,LART
+192,Current liabilities,12  Mar-20*,1076679.0,LART
+193,Net working cap to sales,12  Mar-20*,4.3,LART
+194,Current ratio,12  Mar-20*,1.1,LART
+195,Inventory Days,12  Mar-20*,14.0,LART
+196,Debtors Days,12  Mar-20*,102.0,LART
+197,Net fixed assets,12  Mar-20*,469640.0,LART
+198,Share capital,12  Mar-20*,2808.0,LART
+199,"""Free"" reserves",12  Mar-20*,664424.0,LART
+200,Net worth,12  Mar-20*,667232.0,LART
+201,Long term debt,12  Mar-20*,823313.0,LART
+202,Total assets,12  Mar-20*,3081401.0,LART
+203,Interest coverage,12  Mar-20*,5.8,LART
+204,Debt to equity ratio,12  Mar-20*,1.2,LART
+205,Sales to assets ratio,12  Mar-20*,0.5,LART
+206,Return on assets,12  Mar-20*,4.2,LART
+207,Return on equity,12  Mar-20*,15.3,LART
+208,Return on capital,12  Mar-20*,10.9,LART
+209,Exports to sales,12  Mar-20*,0.0,LART
+210,Imports to sales,12  Mar-20*,0.0,LART
+211,Exports (fob),12  Mar-20*,0.0,LART
+212,Imports (cif),12  Mar-20*,0.0,LART
+213,Fx inflow,12  Mar-20*,101880.0,LART
+214,Fx outflow,12  Mar-20*,249475.0,LART
+215,Net fx,12  Mar-20*,-147595.0,LART
+216,From Operations,12  Mar-20*,66939.0,LART
+217,From Investments,12  Mar-20*,-82563.0,LART
+218,From Financial Activity,12  Mar-20*,63716.0,LART
+219,Net Cashflow,12  Mar-20*,46578.0,LART

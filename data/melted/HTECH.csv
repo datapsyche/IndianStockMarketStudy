@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-17*,475675.0,HTECH
+1,Other income,12  Mar-17*,10733.0,HTECH
+2,Total revenues,12  Mar-17*,486409.0,HTECH
+3,Gross profit,12  Mar-17*,103846.0,HTECH
+4,Depreciation,12  Mar-17*,8281.0,HTECH
+5,Interest,12  Mar-17*,891.0,HTECH
+6,Profit before tax,12  Mar-17*,105407.0,HTECH
+7,Minority Interest,12  Mar-17*,21.0,HTECH
+8,Prior Period Items,12  Mar-17*,0.0,HTECH
+9,Extraordinary Inc (Exp),12  Mar-17*,0.0,HTECH
+10,Tax,12  Mar-17*,19363.0,HTECH
+11,Profit after tax,12  Mar-17*,86065.0,HTECH
+12,Gross profit margin,12  Mar-17*,21.8,HTECH
+13,Effective tax rate,12  Mar-17*,18.4,HTECH
+14,Net profit margin,12  Mar-17*,18.1,HTECH
+15,Current assets,12  Mar-17*,264698.0,HTECH
+16,Current liabilities,12  Mar-17*,113417.0,HTECH
+17,Net working cap to sales,12  Mar-17*,31.8,HTECH
+18,Current ratio,12  Mar-17*,2.3,HTECH
+19,Inventory Days,12  Mar-17*,2.0,HTECH
+20,Debtors Days,12  Mar-17*,64.0,HTECH
+21,Net fixed assets,12  Mar-17*,158097.0,HTECH
+22,Share capital,12  Mar-17*,2854.0,HTECH
+23,"""Free"" reserves",12  Mar-17*,326645.0,HTECH
+24,Net worth,12  Mar-17*,329499.0,HTECH
+25,Long term debt,12  Mar-17*,3826.0,HTECH
+26,Total assets,12  Mar-17*,457694.0,HTECH
+27,Interest coverage,12  Mar-17*,119.3,HTECH
+28,Debt to equity ratio,12  Mar-17*,0.0,HTECH
+29,Sales to assets ratio,12  Mar-17*,1.0,HTECH
+30,Return on assets,12  Mar-17*,19.0,HTECH
+31,Return on equity,12  Mar-17*,26.1,HTECH
+32,Return on capital,12  Mar-17*,31.9,HTECH
+33,Exports to sales,12  Mar-17*,0.0,HTECH
+34,Imports to sales,12  Mar-17*,0.5,HTECH
+35,Exports (fob),12  Mar-17*,0.0,HTECH
+36,Imports (cif),12  Mar-17*,2280.0,HTECH
+37,Fx inflow,12  Mar-17*,195450.0,HTECH
+38,Fx outflow,12  Mar-17*,23923.0,HTECH
+39,Net fx,12  Mar-17*,171527.0,HTECH
+40,From Operations,12  Mar-17*,89951.0,HTECH
+41,From Investments,12  Mar-17*,-38330.0,HTECH
+42,From Financial Activity,12  Mar-17*,-45170.0,HTECH
+43,Net Cashflow,12  Mar-17*,5881.0,HTECH
+44,Net Sales,12  Mar-17*.1,475675.0,HTECH
+45,Other income,12  Mar-17*.1,10733.0,HTECH
+46,Total revenues,12  Mar-17*.1,486409.0,HTECH
+47,Gross profit,12  Mar-17*.1,103846.0,HTECH
+48,Depreciation,12  Mar-17*.1,8281.0,HTECH
+49,Interest,12  Mar-17*.1,891.0,HTECH
+50,Profit before tax,12  Mar-17*.1,105407.0,HTECH
+51,Minority Interest,12  Mar-17*.1,21.0,HTECH
+52,Prior Period Items,12  Mar-17*.1,0.0,HTECH
+53,Extraordinary Inc (Exp),12  Mar-17*.1,0.0,HTECH
+54,Tax,12  Mar-17*.1,19363.0,HTECH
+55,Profit after tax,12  Mar-17*.1,86065.0,HTECH
+56,Gross profit margin,12  Mar-17*.1,21.8,HTECH
+57,Effective tax rate,12  Mar-17*.1,18.4,HTECH
+58,Net profit margin,12  Mar-17*.1,18.1,HTECH
+59,Current assets,12  Mar-17*.1,264698.0,HTECH
+60,Current liabilities,12  Mar-17*.1,113417.0,HTECH
+61,Net working cap to sales,12  Mar-17*.1,31.8,HTECH
+62,Current ratio,12  Mar-17*.1,2.3,HTECH
+63,Inventory Days,12  Mar-17*.1,2.0,HTECH
+64,Debtors Days,12  Mar-17*.1,64.0,HTECH
+65,Net fixed assets,12  Mar-17*.1,158097.0,HTECH
+66,Share capital,12  Mar-17*.1,2854.0,HTECH
+67,"""Free"" reserves",12  Mar-17*.1,326645.0,HTECH
+68,Net worth,12  Mar-17*.1,329499.0,HTECH
+69,Long term debt,12  Mar-17*.1,3826.0,HTECH
+70,Total assets,12  Mar-17*.1,457694.0,HTECH
+71,Interest coverage,12  Mar-17*.1,119.3,HTECH
+72,Debt to equity ratio,12  Mar-17*.1,0.0,HTECH
+73,Sales to assets ratio,12  Mar-17*.1,1.0,HTECH
+74,Return on assets,12  Mar-17*.1,19.0,HTECH
+75,Return on equity,12  Mar-17*.1,26.1,HTECH
+76,Return on capital,12  Mar-17*.1,31.9,HTECH
+77,Exports to sales,12  Mar-17*.1,0.0,HTECH
+78,Imports to sales,12  Mar-17*.1,0.5,HTECH
+79,Exports (fob),12  Mar-17*.1,0.0,HTECH
+80,Imports (cif),12  Mar-17*.1,2280.0,HTECH
+81,Fx inflow,12  Mar-17*.1,195450.0,HTECH
+82,Fx outflow,12  Mar-17*.1,23923.0,HTECH
+83,Net fx,12  Mar-17*.1,171527.0,HTECH
+84,From Operations,12  Mar-17*.1,89951.0,HTECH
+85,From Investments,12  Mar-17*.1,-38330.0,HTECH
+86,From Financial Activity,12  Mar-17*.1,-45170.0,HTECH
+87,Net Cashflow,12  Mar-17*.1,5881.0,HTECH
+88,Net Sales,12  Mar-18*,505690.0,HTECH
+89,Other income,12  Mar-18*,12170.0,HTECH
+90,Total revenues,12  Mar-18*,517860.0,HTECH
+91,Gross profit,12  Mar-18*,112460.0,HTECH
+92,Depreciation,12  Mar-18*,13830.0,HTECH
+93,Interest,12  Mar-18*,690.0,HTECH
+94,Profit before tax,12  Mar-18*,110110.0,HTECH
+95,Minority Interest,12  Mar-18*,130.0,HTECH
+96,Prior Period Items,12  Mar-18*,0.0,HTECH
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,HTECH
+98,Tax,12  Mar-18*,23020.0,HTECH
+99,Profit after tax,12  Mar-18*,87220.0,HTECH
+100,Gross profit margin,12  Mar-18*,22.2,HTECH
+101,Effective tax rate,12  Mar-18*,20.9,HTECH
+102,Net profit margin,12  Mar-18*,17.2,HTECH
+103,Current assets,12  Mar-18*,243860.0,HTECH
+104,Current liabilities,12  Mar-18*,101070.0,HTECH
+105,Net working cap to sales,12  Mar-18*,28.2,HTECH
+106,Current ratio,12  Mar-18*,2.4,HTECH
+107,Inventory Days,12  Mar-18*,1.0,HTECH
+108,Debtors Days,12  Mar-18*,70.0,HTECH
+109,Net fixed assets,12  Mar-18*,190730.0,HTECH
+110,Share capital,12  Mar-18*,2780.0,HTECH
+111,"""Free"" reserves",12  Mar-18*,361080.0,HTECH
+112,Net worth,12  Mar-18*,363860.0,HTECH
+113,Long term debt,12  Mar-18*,3380.0,HTECH
+114,Total assets,12  Mar-18*,480230.0,HTECH
+115,Interest coverage,12  Mar-18*,160.6,HTECH
+116,Debt to equity ratio,12  Mar-18*,0.0,HTECH
+117,Sales to assets ratio,12  Mar-18*,1.1,HTECH
+118,Return on assets,12  Mar-18*,18.3,HTECH
+119,Return on equity,12  Mar-18*,24.0,HTECH
+120,Return on capital,12  Mar-18*,30.2,HTECH
+121,Exports to sales,12  Mar-18*,0.0,HTECH
+122,Imports to sales,12  Mar-18*,6.2,HTECH
+123,Exports (fob),12  Mar-18*,0.0,HTECH
+124,Imports (cif),12  Mar-18*,31550.0,HTECH
+125,Fx inflow,12  Mar-18*,192750.0,HTECH
+126,Fx outflow,12  Mar-18*,51670.0,HTECH
+127,Net fx,12  Mar-18*,141080.0,HTECH
+128,From Operations,12  Mar-18*,83280.0,HTECH
+129,From Investments,12  Mar-18*,-22830.0,HTECH
+130,From Financial Activity,12  Mar-18*,-57140.0,HTECH
+131,Net Cashflow,12  Mar-18*,3780.0,HTECH
+132,Net Sales,12  Mar-18*.1,505690.0,HTECH
+133,Other income,12  Mar-18*.1,12170.0,HTECH
+134,Total revenues,12  Mar-18*.1,517860.0,HTECH
+135,Gross profit,12  Mar-18*.1,112460.0,HTECH
+136,Depreciation,12  Mar-18*.1,13830.0,HTECH
+137,Interest,12  Mar-18*.1,690.0,HTECH
+138,Profit before tax,12  Mar-18*.1,110110.0,HTECH
+139,Minority Interest,12  Mar-18*.1,130.0,HTECH
+140,Prior Period Items,12  Mar-18*.1,0.0,HTECH
+141,Extraordinary Inc (Exp),12  Mar-18*.1,0.0,HTECH
+142,Tax,12  Mar-18*.1,23020.0,HTECH
+143,Profit after tax,12  Mar-18*.1,87220.0,HTECH
+144,Gross profit margin,12  Mar-18*.1,22.2,HTECH
+145,Effective tax rate,12  Mar-18*.1,20.9,HTECH
+146,Net profit margin,12  Mar-18*.1,17.2,HTECH
+147,Current assets,12  Mar-18*.1,245580.0,HTECH
+148,Current liabilities,12  Mar-18*.1,101070.0,HTECH
+149,Net working cap to sales,12  Mar-18*.1,28.6,HTECH
+150,Current ratio,12  Mar-18*.1,2.4,HTECH
+151,Inventory Days,12  Mar-18*.1,1.0,HTECH
+152,Debtors Days,12  Mar-18*.1,70.0,HTECH
+153,Net fixed assets,12  Mar-18*.1,190730.0,HTECH
+154,Share capital,12  Mar-18*.1,2780.0,HTECH
+155,"""Free"" reserves",12  Mar-18*.1,361080.0,HTECH
+156,Net worth,12  Mar-18*.1,363860.0,HTECH
+157,Long term debt,12  Mar-18*.1,3380.0,HTECH
+158,Total assets,12  Mar-18*.1,480230.0,HTECH
+159,Interest coverage,12  Mar-18*.1,160.6,HTECH
+160,Debt to equity ratio,12  Mar-18*.1,0.0,HTECH
+161,Sales to assets ratio,12  Mar-18*.1,1.1,HTECH
+162,Return on assets,12  Mar-18*.1,18.3,HTECH
+163,Return on equity,12  Mar-18*.1,24.0,HTECH
+164,Return on capital,12  Mar-18*.1,30.2,HTECH
+165,Exports to sales,12  Mar-18*.1,0.0,HTECH
+166,Imports to sales,12  Mar-18*.1,6.2,HTECH
+167,Exports (fob),12  Mar-18*.1,0.0,HTECH
+168,Imports (cif),12  Mar-18*.1,31550.0,HTECH
+169,Fx inflow,12  Mar-18*.1,192750.0,HTECH
+170,Fx outflow,12  Mar-18*.1,51670.0,HTECH
+171,Net fx,12  Mar-18*.1,141080.0,HTECH
+172,From Operations,12  Mar-18*.1,83280.0,HTECH
+173,From Investments,12  Mar-18*.1,-22830.0,HTECH
+174,From Financial Activity,12  Mar-18*.1,-57140.0,HTECH
+175,Net Cashflow,12  Mar-18*.1,3780.0,HTECH
+176,Net Sales,12  Mar-19*,604270.0,HTECH
+177,Other income,12  Mar-19*,94300.0,HTECH
+178,Total revenues,12  Mar-19*,698570.0,HTECH
+179,Gross profit,12  Mar-19*,52824.0,HTECH
+180,Depreciation,12  Mar-19*,20730.0,HTECH
+181,Interest,12  Mar-19*,174.0,HTECH
+182,Profit before tax,12  Mar-19*,126220.0,HTECH
+183,Minority Interest,12  Mar-19*,0.0,HTECH
+184,Prior Period Items,12  Mar-19*,0.0,HTECH
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HTECH
+186,Tax,12  Mar-19*,25020.0,HTECH
+187,Profit after tax,12  Mar-19*,101200.0,HTECH
+188,Gross profit margin,12  Mar-19*,8.7,HTECH
+189,Effective tax rate,12  Mar-19*,19.8,HTECH
+190,Net profit margin,12  Mar-19*,16.7,HTECH
+191,Current assets,12  Mar-19*,297220.0,HTECH
+192,Current liabilities,12  Mar-19*,116474.0,HTECH
+193,Net working cap to sales,12  Mar-19*,29.9,HTECH
+194,Current ratio,12  Mar-19*,2.6,HTECH
+195,Inventory Days,12  Mar-19*,1.0,HTECH
+196,Debtors Days,12  Mar-19*,71.0,HTECH
+197,Net fixed assets,12  Mar-19*,231230.0,HTECH
+198,Share capital,12  Mar-19*,2710.0,HTECH
+199,"""Free"" reserves",12  Mar-19*,410950.0,HTECH
+200,Net worth,12  Mar-19*,413660.0,HTECH
+201,Long term debt,12  Mar-19*,29770.0,HTECH
+202,Total assets,12  Mar-19*,585750.0,HTECH
+203,Interest coverage,12  Mar-19*,726.4,HTECH
+204,Debt to equity ratio,12  Mar-19*,0.1,HTECH
+205,Sales to assets ratio,12  Mar-19*,1.0,HTECH
+206,Return on assets,12  Mar-19*,17.3,HTECH
+207,Return on equity,12  Mar-19*,24.5,HTECH
+208,Return on capital,12  Mar-19*,28.5,HTECH
+209,Exports to sales,12  Mar-19*,0.0,HTECH
+210,Imports to sales,12  Mar-19*,3.1,HTECH
+211,Exports (fob),12  Mar-19*,0.0,HTECH
+212,Imports (cif),12  Mar-19*,18860.0,HTECH
+213,Fx inflow,12  Mar-19*,22892.0,HTECH
+214,Fx outflow,12  Mar-19*,63560.0,HTECH
+215,Net fx,12  Mar-19*,-40668.0,HTECH
+216,From Operations,12  Mar-19*,89710.0,HTECH
+217,From Investments,12  Mar-19*,-30730.0,HTECH
+218,From Financial Activity,12  Mar-19*,-14620.0,HTECH
+219,Net Cashflow,12  Mar-19*,42350.0,HTECH

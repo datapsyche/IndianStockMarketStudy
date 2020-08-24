@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,23350.0,FUJI
+1,Other income,12  Mar-14*,303.0,FUJI
+2,Total revenues,12  Mar-14*,23653.0,FUJI
+3,Gross profit,12  Mar-14*,3582.0,FUJI
+4,Depreciation,12  Mar-14*,383.0,FUJI
+5,Interest,12  Mar-14*,103.0,FUJI
+6,Profit before tax,12  Mar-14*,3399.0,FUJI
+7,Minority Interest,12  Mar-14*,0.0,FUJI
+8,Prior Period Items,12  Mar-14*,0.0,FUJI
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,FUJI
+10,Tax,12  Mar-14*,1023.0,FUJI
+11,Profit after tax,12  Mar-14*,2375.0,FUJI
+12,Gross profit margin,12  Mar-14*,15.3,FUJI
+13,Effective tax rate,12  Mar-14*,30.1,FUJI
+14,Net profit margin,12  Mar-14*,10.2,FUJI
+15,Current assets,12  Mar-14*,10015.0,FUJI
+16,Current liabilities,12  Mar-14*,4294.0,FUJI
+17,Net working cap to sales,12  Mar-14*,24.5,FUJI
+18,Current ratio,12  Mar-14*,2.3,FUJI
+19,Inventory Days,12  Mar-14*,20.0,FUJI
+20,Debtors Days,12  Mar-14*,56.0,FUJI
+21,Net fixed assets,12  Mar-14*,4236.0,FUJI
+22,Share capital,12  Mar-14*,438.0,FUJI
+23,"""Free"" reserves",12  Mar-14*,8625.0,FUJI
+24,Net worth,12  Mar-14*,9455.0,FUJI
+25,Long term debt,12  Mar-14*,746.0,FUJI
+26,Total assets,12  Mar-14*,14859.0,FUJI
+27,Interest coverage,12  Mar-14*,34.1,FUJI
+28,Debt to equity ratio,12  Mar-14*,0.1,FUJI
+29,Sales to assets ratio,12  Mar-14*,1.6,FUJI
+30,Return on assets,12  Mar-14*,16.7,FUJI
+31,Return on equity,12  Mar-14*,25.1,FUJI
+32,Return on capital,12  Mar-14*,34.3,FUJI
+33,Exports to sales,12  Mar-14*,0.0,FUJI
+34,Imports to sales,12  Mar-14*,0.2,FUJI
+35,Exports (fob),12  Mar-14*,0.0,FUJI
+36,Imports (cif),12  Mar-14*,41.0,FUJI
+37,Fx inflow,12  Mar-14*,7520.0,FUJI
+38,Fx outflow,12  Mar-14*,466.0,FUJI
+39,Net fx,12  Mar-14*,7054.0,FUJI
+40,From Operations,12  Mar-14*,2095.0,FUJI
+41,From Investments,12  Mar-14*,-1284.0,FUJI
+42,From Financial Activity,12  Mar-14*,-774.0,FUJI
+43,Net Cashflow,12  Mar-14*,36.0,FUJI
+44,Net Sales,12  Mar-15*,26558.0,FUJI
+45,Other income,12  Mar-15*,270.0,FUJI
+46,Total revenues,12  Mar-15*,26827.0,FUJI
+47,Gross profit,12  Mar-15*,3917.0,FUJI
+48,Depreciation,12  Mar-15*,415.0,FUJI
+49,Interest,12  Mar-15*,112.0,FUJI
+50,Profit before tax,12  Mar-15*,3659.0,FUJI
+51,Minority Interest,12  Mar-15*,0.0,FUJI
+52,Prior Period Items,12  Mar-15*,0.0,FUJI
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,FUJI
+54,Tax,12  Mar-15*,1013.0,FUJI
+55,Profit after tax,12  Mar-15*,2646.0,FUJI
+56,Gross profit margin,12  Mar-15*,14.7,FUJI
+57,Effective tax rate,12  Mar-15*,27.7,FUJI
+58,Net profit margin,12  Mar-15*,10.0,FUJI
+59,Current assets,12  Mar-15*,11240.0,FUJI
+60,Current liabilities,12  Mar-15*,5339.0,FUJI
+61,Net working cap to sales,12  Mar-15*,22.2,FUJI
+62,Current ratio,12  Mar-15*,2.1,FUJI
+63,Inventory Days,12  Mar-15*,17.0,FUJI
+64,Debtors Days,12  Mar-15*,62.0,FUJI
+65,Net fixed assets,12  Mar-15*,5488.0,FUJI
+66,Share capital,12  Mar-15*,443.0,FUJI
+67,"""Free"" reserves",12  Mar-15*,10749.0,FUJI
+68,Net worth,12  Mar-15*,11570.0,FUJI
+69,Long term debt,12  Mar-15*,15.0,FUJI
+70,Total assets,12  Mar-15*,17345.0,FUJI
+71,Interest coverage,12  Mar-15*,33.8,FUJI
+72,Debt to equity ratio,12  Mar-15*,0.0,FUJI
+73,Sales to assets ratio,12  Mar-15*,1.5,FUJI
+74,Return on assets,12  Mar-15*,15.9,FUJI
+75,Return on equity,12  Mar-15*,22.9,FUJI
+76,Return on capital,12  Mar-15*,32.5,FUJI
+77,Exports to sales,12  Mar-15*,0.0,FUJI
+78,Imports to sales,12  Mar-15*,0.3,FUJI
+79,Exports (fob),12  Mar-15*,0.0,FUJI
+80,Imports (cif),12  Mar-15*,89.0,FUJI
+81,Fx inflow,12  Mar-15*,8512.0,FUJI
+82,Fx outflow,12  Mar-15*,512.0,FUJI
+83,Net fx,12  Mar-15*,8000.0,FUJI
+84,From Operations,12  Mar-15*,3206.0,FUJI
+85,From Investments,12  Mar-15*,-1820.0,FUJI
+86,From Financial Activity,12  Mar-15*,-874.0,FUJI
+87,Net Cashflow,12  Mar-15*,512.0,FUJI
+88,Net Sales,12  Mar-16*,29519.0,FUJI
+89,Other income,12  Mar-16*,538.0,FUJI
+90,Total revenues,12  Mar-16*,30057.0,FUJI
+91,Gross profit,12  Mar-16*,4388.0,FUJI
+92,Depreciation,12  Mar-16*,651.0,FUJI
+93,Interest,12  Mar-16*,107.0,FUJI
+94,Profit before tax,12  Mar-16*,4169.0,FUJI
+95,Minority Interest,12  Mar-16*,0.0,FUJI
+96,Prior Period Items,12  Mar-16*,0.0,FUJI
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,FUJI
+98,Tax,12  Mar-16*,1246.0,FUJI
+99,Profit after tax,12  Mar-16*,2923.0,FUJI
+100,Gross profit margin,12  Mar-16*,14.9,FUJI
+101,Effective tax rate,12  Mar-16*,29.9,FUJI
+102,Net profit margin,12  Mar-16*,9.9,FUJI
+103,Current assets,12  Mar-16*,13861.0,FUJI
+104,Current liabilities,12  Mar-16*,5505.0,FUJI
+105,Net working cap to sales,12  Mar-16*,28.3,FUJI
+106,Current ratio,12  Mar-16*,2.5,FUJI
+107,Inventory Days,12  Mar-16*,16.0,FUJI
+108,Debtors Days,12  Mar-16*,67.0,FUJI
+109,Net fixed assets,12  Mar-16*,3863.0,FUJI
+110,Share capital,12  Mar-16*,446.0,FUJI
+111,"""Free"" reserves",12  Mar-16*,13260.0,FUJI
+112,Net worth,12  Mar-16*,12690.0,FUJI
+113,Long term debt,12  Mar-16*,8.0,FUJI
+114,Total assets,12  Mar-16*,18690.0,FUJI
+115,Interest coverage,12  Mar-16*,40.1,FUJI
+116,Debt to equity ratio,12  Mar-16*,0.0,FUJI
+117,Sales to assets ratio,12  Mar-16*,1.6,FUJI
+118,Return on assets,12  Mar-16*,16.2,FUJI
+119,Return on equity,12  Mar-16*,23.0,FUJI
+120,Return on capital,12  Mar-16*,33.7,FUJI
+121,Exports to sales,12  Mar-16*,0.0,FUJI
+122,Imports to sales,12  Mar-16*,0.4,FUJI
+123,Exports (fob),12  Mar-16*,0.0,FUJI
+124,Imports (cif),12  Mar-16*,129.0,FUJI
+125,Fx inflow,12  Mar-16*,10573.0,FUJI
+126,Fx outflow,12  Mar-16*,561.0,FUJI
+127,Net fx,12  Mar-16*,10012.0,FUJI
+128,From Operations,12  Mar-16*,2548.0,FUJI
+129,From Investments,12  Mar-16*,-406.0,FUJI
+130,From Financial Activity,12  Mar-16*,-1291.0,FUJI
+131,Net Cashflow,12  Mar-16*,851.0,FUJI
+132,Net Sales,12  Mar-17*,30556.0,FUJI
+133,Other income,12  Mar-17*,241.0,FUJI
+134,Total revenues,12  Mar-17*,30797.0,FUJI
+135,Gross profit,12  Mar-17*,3819.0,FUJI
+136,Depreciation,12  Mar-17*,486.0,FUJI
+137,Interest,12  Mar-17*,88.0,FUJI
+138,Profit before tax,12  Mar-17*,3486.0,FUJI
+139,Minority Interest,12  Mar-17*,0.0,FUJI
+140,Prior Period Items,12  Mar-17*,0.0,FUJI
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,FUJI
+142,Tax,12  Mar-17*,1103.0,FUJI
+143,Profit after tax,12  Mar-17*,2384.0,FUJI
+144,Gross profit margin,12  Mar-17*,12.5,FUJI
+145,Effective tax rate,12  Mar-17*,31.6,FUJI
+146,Net profit margin,12  Mar-17*,7.8,FUJI
+147,Current assets,12  Mar-17*,14665.0,FUJI
+148,Current liabilities,12  Mar-17*,5796.0,FUJI
+149,Net working cap to sales,12  Mar-17*,29.0,FUJI
+150,Current ratio,12  Mar-17*,2.5,FUJI
+151,Inventory Days,12  Mar-17*,13.0,FUJI
+152,Debtors Days,12  Mar-17*,64.0,FUJI
+153,Net fixed assets,12  Mar-17*,4491.0,FUJI
+154,Share capital,12  Mar-17*,449.0,FUJI
+155,"""Free"" reserves",12  Mar-17*,14212.0,FUJI
+156,Net worth,12  Mar-17*,14661.0,FUJI
+157,Long term debt,12  Mar-17*,3.0,FUJI
+158,Total assets,12  Mar-17*,21057.0,FUJI
+159,Interest coverage,12  Mar-17*,40.8,FUJI
+160,Debt to equity ratio,12  Mar-17*,0.0,FUJI
+161,Sales to assets ratio,12  Mar-17*,1.5,FUJI
+162,Return on assets,12  Mar-17*,11.7,FUJI
+163,Return on equity,12  Mar-17*,16.3,FUJI
+164,Return on capital,12  Mar-17*,24.4,FUJI
+165,Exports to sales,12  Mar-17*,0.0,FUJI
+166,Imports to sales,12  Mar-17*,0.0,FUJI
+167,Exports (fob),12  Mar-17*,0.0,FUJI
+168,Imports (cif),12  Mar-17*,0.0,FUJI
+169,Fx inflow,12  Mar-17*,11723.0,FUJI
+170,Fx outflow,12  Mar-17*,555.0,FUJI
+171,Net fx,12  Mar-17*,11169.0,FUJI
+172,From Operations,12  Mar-17*,3044.0,FUJI
+173,From Investments,12  Mar-17*,-1902.0,FUJI
+174,From Financial Activity,12  Mar-17*,-499.0,FUJI
+175,Net Cashflow,12  Mar-17*,505.0,FUJI
+176,Net Sales,12  Mar-18*,31077.0,FUJI
+177,Other income,12  Mar-18*,744.0,FUJI
+178,Total revenues,12  Mar-18*,31821.0,FUJI
+179,Gross profit,12  Mar-18*,3649.0,FUJI
+180,Depreciation,12  Mar-18*,651.0,FUJI
+181,Interest,12  Mar-18*,227.0,FUJI
+182,Profit before tax,12  Mar-18*,3516.0,FUJI
+183,Minority Interest,12  Mar-18*,0.0,FUJI
+184,Prior Period Items,12  Mar-18*,0.0,FUJI
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,FUJI
+186,Tax,12  Mar-18*,1051.0,FUJI
+187,Profit after tax,12  Mar-18*,2465.0,FUJI
+188,Gross profit margin,12  Mar-18*,11.7,FUJI
+189,Effective tax rate,12  Mar-18*,29.9,FUJI
+190,Net profit margin,12  Mar-18*,7.9,FUJI
+191,Current assets,12  Mar-18*,14633.0,FUJI
+192,Current liabilities,12  Mar-18*,5301.0,FUJI
+193,Net working cap to sales,12  Mar-18*,30.0,FUJI
+194,Current ratio,12  Mar-18*,2.8,FUJI
+195,Inventory Days,12  Mar-18*,12.0,FUJI
+196,Debtors Days,12  Mar-18*,75.0,FUJI
+197,Net fixed assets,12  Mar-18*,5976.0,FUJI
+198,Share capital,12  Mar-18*,450.0,FUJI
+199,"""Free"" reserves",12  Mar-18*,16051.0,FUJI
+200,Net worth,12  Mar-18*,16501.0,FUJI
+201,Long term debt,12  Mar-18*,60.0,FUJI
+202,Total assets,12  Mar-18*,22964.0,FUJI
+203,Interest coverage,12  Mar-18*,16.5,FUJI
+204,Debt to equity ratio,12  Mar-18*,0.0,FUJI
+205,Sales to assets ratio,12  Mar-18*,1.4,FUJI
+206,Return on assets,12  Mar-18*,11.7,FUJI
+207,Return on equity,12  Mar-18*,14.9,FUJI
+208,Return on capital,12  Mar-18*,22.6,FUJI
+209,Exports to sales,12  Mar-18*,0.0,FUJI
+210,Imports to sales,12  Mar-18*,0.0,FUJI
+211,Exports (fob),12  Mar-18*,0.0,FUJI
+212,Imports (cif),12  Mar-18*,0.0,FUJI
+213,Fx inflow,12  Mar-18*,12174.0,FUJI
+214,Fx outflow,12  Mar-18*,1159.0,FUJI
+215,Net fx,12  Mar-18*,11015.0,FUJI
+216,From Operations,12  Mar-18*,2059.0,FUJI
+217,From Investments,12  Mar-18*,-1565.0,FUJI
+218,From Financial Activity,12  Mar-18*,-2040.0,FUJI
+219,Net Cashflow,12  Mar-18*,-1398.0,FUJI

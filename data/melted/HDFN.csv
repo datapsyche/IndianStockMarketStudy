@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,7666.0,HDFN
+1,Other income,12  Mar-14*,69.0,HDFN
+2,Total revenues,12  Mar-14*,7735.0,HDFN
+3,Gross profit,12  Mar-14*,1372.0,HDFN
+4,Depreciation,12  Mar-14*,1218.0,HDFN
+5,Interest,12  Mar-14*,1203.0,HDFN
+6,Profit before tax,12  Mar-14*,-980.0,HDFN
+7,Minority Interest,12  Mar-14*,568.0,HDFN
+8,Prior Period Items,12  Mar-14*,0.0,HDFN
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,HDFN
+10,Tax,12  Mar-14*,-414.0,HDFN
+11,Profit after tax,12  Mar-14*,2.0,HDFN
+12,Gross profit margin,12  Mar-14*,17.9,HDFN
+13,Effective tax rate,12  Mar-14*,42.3,HDFN
+14,Net profit margin,12  Mar-14*,0.0,HDFN
+15,Current assets,12  Mar-14*,9231.0,HDFN
+16,Current liabilities,12  Mar-14*,4808.0,HDFN
+17,Net working cap to sales,12  Mar-14*,57.7,HDFN
+18,Current ratio,12  Mar-14*,1.9,HDFN
+19,Inventory Days,12  Mar-14*,202.0,HDFN
+20,Debtors Days,12  Mar-14*,171.0,HDFN
+21,Net fixed assets,12  Mar-14*,6070.0,HDFN
+22,Share capital,12  Mar-14*,206.0,HDFN
+23,"""Free"" reserves",12  Mar-14*,6500.0,HDFN
+24,Net worth,12  Mar-14*,7830.0,HDFN
+25,Long term debt,12  Mar-14*,6292.0,HDFN
+26,Total assets,12  Mar-14*,20057.0,HDFN
+27,Interest coverage,12  Mar-14*,0.2,HDFN
+28,Debt to equity ratio,12  Mar-14*,0.8,HDFN
+29,Sales to assets ratio,12  Mar-14*,0.4,HDFN
+30,Return on assets,12  Mar-14*,6.0,HDFN
+31,Return on equity,12  Mar-14*,0.0,HDFN
+32,Return on capital,12  Mar-14*,5.6,HDFN
+33,Exports to sales,12  Mar-14*,0.0,HDFN
+34,Imports to sales,12  Mar-14*,0.0,HDFN
+35,Exports (fob),12  Mar-14*,0.0,HDFN
+36,Imports (cif),12  Mar-14*,0.0,HDFN
+37,Fx inflow,12  Mar-14*,0.0,HDFN
+38,Fx outflow,12  Mar-14*,43.0,HDFN
+39,Net fx,12  Mar-14*,-43.0,HDFN
+40,From Operations,12  Mar-14*,993.0,HDFN
+41,From Investments,12  Mar-14*,-196.0,HDFN
+42,From Financial Activity,12  Mar-14*,-670.0,HDFN
+43,Net Cashflow,12  Mar-14*,127.0,HDFN
+44,Net Sales,12  Mar-15*,7549.0,HDFN
+45,Other income,12  Mar-15*,312.0,HDFN
+46,Total revenues,12  Mar-15*,7861.0,HDFN
+47,Gross profit,12  Mar-15*,1093.0,HDFN
+48,Depreciation,12  Mar-15*,842.0,HDFN
+49,Interest,12  Mar-15*,927.0,HDFN
+50,Profit before tax,12  Mar-15*,-363.0,HDFN
+51,Minority Interest,12  Mar-15*,821.0,HDFN
+52,Prior Period Items,12  Mar-15*,0.0,HDFN
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,HDFN
+54,Tax,12  Mar-15*,275.0,HDFN
+55,Profit after tax,12  Mar-15*,183.0,HDFN
+56,Gross profit margin,12  Mar-15*,14.5,HDFN
+57,Effective tax rate,12  Mar-15*,-75.7,HDFN
+58,Net profit margin,12  Mar-15*,2.4,HDFN
+59,Current assets,12  Mar-15*,10836.0,HDFN
+60,Current liabilities,12  Mar-15*,6253.0,HDFN
+61,Net working cap to sales,12  Mar-15*,60.7,HDFN
+62,Current ratio,12  Mar-15*,1.7,HDFN
+63,Inventory Days,12  Mar-15*,214.0,HDFN
+64,Debtors Days,12  Mar-15*,171.0,HDFN
+65,Net fixed assets,12  Mar-15*,6075.0,HDFN
+66,Share capital,12  Mar-15*,206.0,HDFN
+67,"""Free"" reserves",12  Mar-15*,6304.0,HDFN
+68,Net worth,12  Mar-15*,7634.0,HDFN
+69,Long term debt,12  Mar-15*,7484.0,HDFN
+70,Total assets,12  Mar-15*,21618.0,HDFN
+71,Interest coverage,12  Mar-15*,0.6,HDFN
+72,Debt to equity ratio,12  Mar-15*,1.0,HDFN
+73,Sales to assets ratio,12  Mar-15*,0.3,HDFN
+74,Return on assets,12  Mar-15*,5.1,HDFN
+75,Return on equity,12  Mar-15*,2.4,HDFN
+76,Return on capital,12  Mar-15*,9.2,HDFN
+77,Exports to sales,12  Mar-15*,0.0,HDFN
+78,Imports to sales,12  Mar-15*,0.0,HDFN
+79,Exports (fob),12  Mar-15*,0.0,HDFN
+80,Imports (cif),12  Mar-15*,0.0,HDFN
+81,Fx inflow,12  Mar-15*,0.0,HDFN
+82,Fx outflow,12  Mar-15*,43.0,HDFN
+83,Net fx,12  Mar-15*,-43.0,HDFN
+84,From Operations,12  Mar-15*,-170.0,HDFN
+85,From Investments,12  Mar-15*,318.0,HDFN
+86,From Financial Activity,12  Mar-15*,-35.0,HDFN
+87,Net Cashflow,12  Mar-15*,114.0,HDFN
+88,Net Sales,12  Mar-16*,6708.0,HDFN
+89,Other income,12  Mar-16*,92.0,HDFN
+90,Total revenues,12  Mar-16*,6800.0,HDFN
+91,Gross profit,12  Mar-16*,1603.0,HDFN
+92,Depreciation,12  Mar-16*,885.0,HDFN
+93,Interest,12  Mar-16*,1335.0,HDFN
+94,Profit before tax,12  Mar-16*,-526.0,HDFN
+95,Minority Interest,12  Mar-16*,90.0,HDFN
+96,Prior Period Items,12  Mar-16*,0.0,HDFN
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,HDFN
+98,Tax,12  Mar-16*,376.0,HDFN
+99,Profit after tax,12  Mar-16*,-812.0,HDFN
+100,Gross profit margin,12  Mar-16*,23.9,HDFN
+101,Effective tax rate,12  Mar-16*,-71.5,HDFN
+102,Net profit margin,12  Mar-16*,-12.1,HDFN
+103,Current assets,12  Mar-16*,8834.0,HDFN
+104,Current liabilities,12  Mar-16*,8843.0,HDFN
+105,Net working cap to sales,12  Mar-16*,-0.1,HDFN
+106,Current ratio,12  Mar-16*,1.0,HDFN
+107,Inventory Days,12  Mar-16*,274.0,HDFN
+108,Debtors Days,12  Mar-16*,103.0,HDFN
+109,Net fixed assets,12  Mar-16*,9226.0,HDFN
+110,Share capital,12  Mar-16*,206.0,HDFN
+111,"""Free"" reserves",12  Mar-16*,6395.0,HDFN
+112,Net worth,12  Mar-16*,6600.0,HDFN
+113,Long term debt,12  Mar-16*,9570.0,HDFN
+114,Total assets,12  Mar-16*,25591.0,HDFN
+115,Interest coverage,12  Mar-16*,0.6,HDFN
+116,Debt to equity ratio,12  Mar-16*,1.4,HDFN
+117,Sales to assets ratio,12  Mar-16*,0.3,HDFN
+118,Return on assets,12  Mar-16*,2.0,HDFN
+119,Return on equity,12  Mar-16*,-12.3,HDFN
+120,Return on capital,12  Mar-16*,5.6,HDFN
+121,Exports to sales,12  Mar-16*,0.0,HDFN
+122,Imports to sales,12  Mar-16*,0.0,HDFN
+123,Exports (fob),12  Mar-16*,0.0,HDFN
+124,Imports (cif),12  Mar-16*,0.0,HDFN
+125,Fx inflow,12  Mar-16*,0.0,HDFN
+126,Fx outflow,12  Mar-16*,734.0,HDFN
+127,Net fx,12  Mar-16*,-734.0,HDFN
+128,From Operations,12  Mar-16*,5481.0,HDFN
+129,From Investments,12  Mar-16*,-6055.0,HDFN
+130,From Financial Activity,12  Mar-16*,773.0,HDFN
+131,Net Cashflow,12  Mar-16*,200.0,HDFN
+132,Net Sales,12  Mar-17*,7849.0,HDFN
+133,Other income,12  Mar-17*,411.0,HDFN
+134,Total revenues,12  Mar-17*,8260.0,HDFN
+135,Gross profit,12  Mar-17*,584.0,HDFN
+136,Depreciation,12  Mar-17*,1240.0,HDFN
+137,Interest,12  Mar-17*,1618.0,HDFN
+138,Profit before tax,12  Mar-17*,-1864.0,HDFN
+139,Minority Interest,12  Mar-17*,1473.0,HDFN
+140,Prior Period Items,12  Mar-17*,0.0,HDFN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,HDFN
+142,Tax,12  Mar-17*,176.0,HDFN
+143,Profit after tax,12  Mar-17*,-566.0,HDFN
+144,Gross profit margin,12  Mar-17*,7.4,HDFN
+145,Effective tax rate,12  Mar-17*,-9.4,HDFN
+146,Net profit margin,12  Mar-17*,-7.2,HDFN
+147,Current assets,12  Mar-17*,7627.0,HDFN
+148,Current liabilities,12  Mar-17*,7972.0,HDFN
+149,Net working cap to sales,12  Mar-17*,-4.4,HDFN
+150,Current ratio,12  Mar-17*,1.0,HDFN
+151,Inventory Days,12  Mar-17*,202.0,HDFN
+152,Debtors Days,12  Mar-17*,74.0,HDFN
+153,Net fixed assets,12  Mar-17*,8394.0,HDFN
+154,Share capital,12  Mar-17*,206.0,HDFN
+155,"""Free"" reserves",12  Mar-17*,4291.0,HDFN
+156,Net worth,12  Mar-17*,4496.0,HDFN
+157,Long term debt,12  Mar-17*,7720.0,HDFN
+158,Total assets,12  Mar-17*,21712.0,HDFN
+159,Interest coverage,12  Mar-17*,-0.2,HDFN
+160,Debt to equity ratio,12  Mar-17*,1.7,HDFN
+161,Sales to assets ratio,12  Mar-17*,0.4,HDFN
+162,Return on assets,12  Mar-17*,4.8,HDFN
+163,Return on equity,12  Mar-17*,-12.6,HDFN
+164,Return on capital,12  Mar-17*,10.0,HDFN
+165,Exports to sales,12  Mar-17*,0.0,HDFN
+166,Imports to sales,12  Mar-17*,0.0,HDFN
+167,Exports (fob),12  Mar-17*,0.0,HDFN
+168,Imports (cif),12  Mar-17*,0.0,HDFN
+169,Fx inflow,12  Mar-17*,1383.0,HDFN
+170,Fx outflow,12  Mar-17*,377.0,HDFN
+171,Net fx,12  Mar-17*,1006.0,HDFN
+172,From Operations,12  Mar-17*,1012.0,HDFN
+173,From Investments,12  Mar-17*,1985.0,HDFN
+174,From Financial Activity,12  Mar-17*,-3043.0,HDFN
+175,Net Cashflow,12  Mar-17*,-45.0,HDFN
+176,Net Sales,12  Mar-18*,8448.0,HDFN
+177,Other income,12  Mar-18*,242.0,HDFN
+178,Total revenues,12  Mar-18*,8690.0,HDFN
+179,Gross profit,12  Mar-18*,454.0,HDFN
+180,Depreciation,12  Mar-18*,1535.0,HDFN
+181,Interest,12  Mar-18*,1498.0,HDFN
+182,Profit before tax,12  Mar-18*,-2337.0,HDFN
+183,Minority Interest,12  Mar-18*,466.0,HDFN
+184,Prior Period Items,12  Mar-18*,0.0,HDFN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,HDFN
+186,Tax,12  Mar-18*,574.0,HDFN
+187,Profit after tax,12  Mar-18*,-2445.0,HDFN
+188,Gross profit margin,12  Mar-18*,5.4,HDFN
+189,Effective tax rate,12  Mar-18*,-24.6,HDFN
+190,Net profit margin,12  Mar-18*,-28.9,HDFN
+191,Current assets,12  Mar-18*,8213.0,HDFN
+192,Current liabilities,12  Mar-18*,12908.0,HDFN
+193,Net working cap to sales,12  Mar-18*,-55.6,HDFN
+194,Current ratio,12  Mar-18*,0.6,HDFN
+195,Inventory Days,12  Mar-18*,161.0,HDFN
+196,Debtors Days,12  Mar-18*,70.0,HDFN
+197,Net fixed assets,12  Mar-18*,8317.0,HDFN
+198,Share capital,12  Mar-18*,206.0,HDFN
+199,"""Free"" reserves",12  Mar-18*,1582.0,HDFN
+200,Net worth,12  Mar-18*,1788.0,HDFN
+201,Long term debt,12  Mar-18*,6878.0,HDFN
+202,Total assets,12  Mar-18*,22558.0,HDFN
+203,Interest coverage,12  Mar-18*,-0.6,HDFN
+204,Debt to equity ratio,12  Mar-18*,3.8,HDFN
+205,Sales to assets ratio,12  Mar-18*,0.4,HDFN
+206,Return on assets,12  Mar-18*,-4.2,HDFN
+207,Return on equity,12  Mar-18*,-136.8,HDFN
+208,Return on capital,12  Mar-18*,-4.3,HDFN
+209,Exports to sales,12  Mar-18*,0.0,HDFN
+210,Imports to sales,12  Mar-18*,0.0,HDFN
+211,Exports (fob),12  Mar-18*,0.0,HDFN
+212,Imports (cif),12  Mar-18*,0.0,HDFN
+213,Fx inflow,12  Mar-18*,0.0,HDFN
+214,Fx outflow,12  Mar-18*,0.0,HDFN
+215,Net fx,12  Mar-18*,0.0,HDFN
+216,From Operations,12  Mar-18*,732.0,HDFN
+217,From Investments,12  Mar-18*,-1671.0,HDFN
+218,From Financial Activity,12  Mar-18*,674.0,HDFN
+219,Net Cashflow,12  Mar-18*,-265.0,HDFN

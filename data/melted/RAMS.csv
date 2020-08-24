@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,3887.0,RAMS
+1,Other income,12  Mar-15,66.0,RAMS
+2,Total revenues,12  Mar-15,3953.0,RAMS
+3,Gross profit,12  Mar-15,465.0,RAMS
+4,Depreciation,12  Mar-15,166.0,RAMS
+5,Interest,12  Mar-15,277.0,RAMS
+6,Profit before tax,12  Mar-15,89.0,RAMS
+7,Minority Interest,12  Mar-15,0.0,RAMS
+8,Prior Period Items,12  Mar-15,0.0,RAMS
+9,Extraordinary Inc (Exp),12  Mar-15,102.0,RAMS
+10,Tax,12  Mar-15,71.0,RAMS
+11,Profit after tax,12  Mar-15,120.0,RAMS
+12,Gross profit margin,12  Mar-15,12.0,RAMS
+13,Effective tax rate,12  Mar-15,79.3,RAMS
+14,Net profit margin,12  Mar-15,3.1,RAMS
+15,Current assets,12  Mar-15,1646.0,RAMS
+16,Current liabilities,12  Mar-15,2353.0,RAMS
+17,Net working cap to sales,12  Mar-15,-18.2,RAMS
+18,Current ratio,12  Mar-15,0.7,RAMS
+19,Inventory Days,12  Mar-15,94.0,RAMS
+20,Debtors Days,12  Mar-15,39.0,RAMS
+21,Net fixed assets,12  Mar-15,3099.0,RAMS
+22,Share capital,12  Mar-15,74.0,RAMS
+23,"""Free"" reserves",12  Mar-15,1884.0,RAMS
+24,Net worth,12  Mar-15,1958.0,RAMS
+25,Long term debt,12  Mar-15,1027.0,RAMS
+26,Total assets,12  Mar-15,5933.0,RAMS
+27,Interest coverage,12  Mar-15,1.3,RAMS
+28,Debt to equity ratio,12  Mar-15,0.5,RAMS
+29,Sales to assets ratio,12  Mar-15,0.7,RAMS
+30,Return on assets,12  Mar-15,6.7,RAMS
+31,Return on equity,12  Mar-15,6.1,RAMS
+32,Return on capital,12  Mar-15,15.7,RAMS
+33,Exports to sales,12  Mar-15,7.9,RAMS
+34,Imports to sales,12  Mar-15,9.2,RAMS
+35,Exports (fob),12  Mar-15,305.0,RAMS
+36,Imports (cif),12  Mar-15,358.0,RAMS
+37,Fx inflow,12  Mar-15,305.0,RAMS
+38,Fx outflow,12  Mar-15,372.0,RAMS
+39,Net fx,12  Mar-15,-67.0,RAMS
+40,From Operations,12  Mar-15,779.0,RAMS
+41,From Investments,12  Mar-15,-221.0,RAMS
+42,From Financial Activity,12  Mar-15,-590.0,RAMS
+43,Net Cashflow,12  Mar-15,-31.0,RAMS
+44,Net Sales,12  Mar-16*,3935.0,RAMS
+45,Other income,12  Mar-16*,31.0,RAMS
+46,Total revenues,12  Mar-16*,3966.0,RAMS
+47,Gross profit,12  Mar-16*,603.0,RAMS
+48,Depreciation,12  Mar-16*,219.0,RAMS
+49,Interest,12  Mar-16*,267.0,RAMS
+50,Profit before tax,12  Mar-16*,149.0,RAMS
+51,Minority Interest,12  Mar-16*,0.0,RAMS
+52,Prior Period Items,12  Mar-16*,0.0,RAMS
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,RAMS
+54,Tax,12  Mar-16*,59.0,RAMS
+55,Profit after tax,12  Mar-16*,90.0,RAMS
+56,Gross profit margin,12  Mar-16*,15.3,RAMS
+57,Effective tax rate,12  Mar-16*,39.6,RAMS
+58,Net profit margin,12  Mar-16*,2.3,RAMS
+59,Current assets,12  Mar-16*,1713.0,RAMS
+60,Current liabilities,12  Mar-16*,2180.0,RAMS
+61,Net working cap to sales,12  Mar-16*,-11.9,RAMS
+62,Current ratio,12  Mar-16*,0.8,RAMS
+63,Inventory Days,12  Mar-16*,101.0,RAMS
+64,Debtors Days,12  Mar-16*,37.0,RAMS
+65,Net fixed assets,12  Mar-16*,14853.0,RAMS
+66,Share capital,12  Mar-16*,73.0,RAMS
+67,"""Free"" reserves",12  Mar-16*,13426.0,RAMS
+68,Net worth,12  Mar-16*,13500.0,RAMS
+69,Long term debt,12  Mar-16*,1003.0,RAMS
+70,Total assets,12  Mar-16*,17002.0,RAMS
+71,Interest coverage,12  Mar-16*,1.6,RAMS
+72,Debt to equity ratio,12  Mar-16*,0.1,RAMS
+73,Sales to assets ratio,12  Mar-16*,0.2,RAMS
+74,Return on assets,12  Mar-16*,2.1,RAMS
+75,Return on equity,12  Mar-16*,0.7,RAMS
+76,Return on capital,12  Mar-16*,2.9,RAMS
+77,Exports to sales,12  Mar-16*,19.8,RAMS
+78,Imports to sales,12  Mar-16*,10.1,RAMS
+79,Exports (fob),12  Mar-16*,779.0,RAMS
+80,Imports (cif),12  Mar-16*,397.0,RAMS
+81,Fx inflow,12  Mar-16*,779.0,RAMS
+82,Fx outflow,12  Mar-16*,411.0,RAMS
+83,Net fx,12  Mar-16*,368.0,RAMS
+84,From Operations,12  Mar-16*,453.0,RAMS
+85,From Investments,12  Mar-16*,63.0,RAMS
+86,From Financial Activity,12  Mar-16*,-530.0,RAMS
+87,Net Cashflow,12  Mar-16*,-14.0,RAMS
+88,Net Sales,12  Mar-17*,4071.0,RAMS
+89,Other income,12  Mar-17*,51.0,RAMS
+90,Total revenues,12  Mar-17*,4122.0,RAMS
+91,Gross profit,12  Mar-17*,754.0,RAMS
+92,Depreciation,12  Mar-17*,211.0,RAMS
+93,Interest,12  Mar-17*,214.0,RAMS
+94,Profit before tax,12  Mar-17*,379.0,RAMS
+95,Minority Interest,12  Mar-17*,0.0,RAMS
+96,Prior Period Items,12  Mar-17*,0.0,RAMS
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,RAMS
+98,Tax,12  Mar-17*,25.0,RAMS
+99,Profit after tax,12  Mar-17*,354.0,RAMS
+100,Gross profit margin,12  Mar-17*,18.5,RAMS
+101,Effective tax rate,12  Mar-17*,6.6,RAMS
+102,Net profit margin,12  Mar-17*,8.7,RAMS
+103,Current assets,12  Mar-17*,2084.0,RAMS
+104,Current liabilities,12  Mar-17*,2443.0,RAMS
+105,Net working cap to sales,12  Mar-17*,-8.8,RAMS
+106,Current ratio,12  Mar-17*,0.9,RAMS
+107,Inventory Days,12  Mar-17*,132.0,RAMS
+108,Debtors Days,12  Mar-17*,39.0,RAMS
+109,Net fixed assets,12  Mar-17*,15828.0,RAMS
+110,Share capital,12  Mar-17*,74.0,RAMS
+111,"""Free"" reserves",12  Mar-17*,14809.0,RAMS
+112,Net worth,12  Mar-17*,14882.0,RAMS
+113,Long term debt,12  Mar-17*,729.0,RAMS
+114,Total assets,12  Mar-17*,18396.0,RAMS
+115,Interest coverage,12  Mar-17*,2.8,RAMS
+116,Debt to equity ratio,12  Mar-17*,0.0,RAMS
+117,Sales to assets ratio,12  Mar-17*,0.2,RAMS
+118,Return on assets,12  Mar-17*,3.1,RAMS
+119,Return on equity,12  Mar-17*,2.4,RAMS
+120,Return on capital,12  Mar-17*,3.8,RAMS
+121,Exports to sales,12  Mar-17*,0.0,RAMS
+122,Imports to sales,12  Mar-17*,0.0,RAMS
+123,Exports (fob),12  Mar-17*,0.0,RAMS
+124,Imports (cif),12  Mar-17*,0.0,RAMS
+125,Fx inflow,12  Mar-17*,943.0,RAMS
+126,Fx outflow,12  Mar-17*,1071.0,RAMS
+127,Net fx,12  Mar-17*,-127.0,RAMS
+128,From Operations,12  Mar-17*,320.0,RAMS
+129,From Investments,12  Mar-17*,-53.0,RAMS
+130,From Financial Activity,12  Mar-17*,-260.0,RAMS
+131,Net Cashflow,12  Mar-17*,8.0,RAMS
+132,Net Sales,12  Mar-18*,4260.0,RAMS
+133,Other income,12  Mar-18*,62.0,RAMS
+134,Total revenues,12  Mar-18*,4323.0,RAMS
+135,Gross profit,12  Mar-18*,582.0,RAMS
+136,Depreciation,12  Mar-18*,329.0,RAMS
+137,Interest,12  Mar-18*,175.0,RAMS
+138,Profit before tax,12  Mar-18*,141.0,RAMS
+139,Minority Interest,12  Mar-18*,0.0,RAMS
+140,Prior Period Items,12  Mar-18*,0.0,RAMS
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,RAMS
+142,Tax,12  Mar-18*,-39.0,RAMS
+143,Profit after tax,12  Mar-18*,180.0,RAMS
+144,Gross profit margin,12  Mar-18*,13.7,RAMS
+145,Effective tax rate,12  Mar-18*,-27.8,RAMS
+146,Net profit margin,12  Mar-18*,4.2,RAMS
+147,Current assets,12  Mar-18*,1807.0,RAMS
+148,Current liabilities,12  Mar-18*,2176.0,RAMS
+149,Net working cap to sales,12  Mar-18*,-8.7,RAMS
+150,Current ratio,12  Mar-18*,0.8,RAMS
+151,Inventory Days,12  Mar-18*,99.0,RAMS
+152,Debtors Days,12  Mar-18*,43.0,RAMS
+153,Net fixed assets,12  Mar-18*,16627.0,RAMS
+154,Share capital,12  Mar-18*,74.0,RAMS
+155,"""Free"" reserves",12  Mar-18*,15937.0,RAMS
+156,Net worth,12  Mar-18*,16011.0,RAMS
+157,Long term debt,12  Mar-18*,488.0,RAMS
+158,Total assets,12  Mar-18*,18951.0,RAMS
+159,Interest coverage,12  Mar-18*,1.8,RAMS
+160,Debt to equity ratio,12  Mar-18*,0.0,RAMS
+161,Sales to assets ratio,12  Mar-18*,0.2,RAMS
+162,Return on assets,12  Mar-18*,1.9,RAMS
+163,Return on equity,12  Mar-18*,1.1,RAMS
+164,Return on capital,12  Mar-18*,1.9,RAMS
+165,Exports to sales,12  Mar-18*,0.0,RAMS
+166,Imports to sales,12  Mar-18*,0.0,RAMS
+167,Exports (fob),12  Mar-18*,0.0,RAMS
+168,Imports (cif),12  Mar-18*,0.0,RAMS
+169,Fx inflow,12  Mar-18*,800.0,RAMS
+170,Fx outflow,12  Mar-18*,1108.0,RAMS
+171,Net fx,12  Mar-18*,-308.0,RAMS
+172,From Operations,12  Mar-18*,765.0,RAMS
+173,From Investments,12  Mar-18*,-102.0,RAMS
+174,From Financial Activity,12  Mar-18*,-675.0,RAMS
+175,Net Cashflow,12  Mar-18*,-12.0,RAMS
+176,Net Sales,12  Mar-19*,4126.0,RAMS
+177,Other income,12  Mar-19*,158.0,RAMS
+178,Total revenues,12  Mar-19*,4284.0,RAMS
+179,Gross profit,12  Mar-19*,519.0,RAMS
+180,Depreciation,12  Mar-19*,318.0,RAMS
+181,Interest,12  Mar-19*,220.0,RAMS
+182,Profit before tax,12  Mar-19*,139.0,RAMS
+183,Minority Interest,12  Mar-19*,0.0,RAMS
+184,Prior Period Items,12  Mar-19*,0.0,RAMS
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,RAMS
+186,Tax,12  Mar-19*,-16.0,RAMS
+187,Profit after tax,12  Mar-19*,156.0,RAMS
+188,Gross profit margin,12  Mar-19*,12.6,RAMS
+189,Effective tax rate,12  Mar-19*,-11.8,RAMS
+190,Net profit margin,12  Mar-19*,3.8,RAMS
+191,Current assets,12  Mar-19*,2401.0,RAMS
+192,Current liabilities,12  Mar-19*,3096.0,RAMS
+193,Net working cap to sales,12  Mar-19*,-16.9,RAMS
+194,Current ratio,12  Mar-19*,0.8,RAMS
+195,Inventory Days,12  Mar-19*,132.0,RAMS
+196,Debtors Days,12  Mar-19*,55.0,RAMS
+197,Net fixed assets,12  Mar-19*,18771.0,RAMS
+198,Share capital,12  Mar-19*,74.0,RAMS
+199,"""Free"" reserves",12  Mar-19*,16939.0,RAMS
+200,Net worth,12  Mar-19*,17012.0,RAMS
+201,Long term debt,12  Mar-19*,1959.0,RAMS
+202,Total assets,12  Mar-19*,22332.0,RAMS
+203,Interest coverage,12  Mar-19*,1.6,RAMS
+204,Debt to equity ratio,12  Mar-19*,0.1,RAMS
+205,Sales to assets ratio,12  Mar-19*,0.2,RAMS
+206,Return on assets,12  Mar-19*,1.7,RAMS
+207,Return on equity,12  Mar-19*,0.9,RAMS
+208,Return on capital,12  Mar-19*,1.9,RAMS
+209,Exports to sales,12  Mar-19*,0.0,RAMS
+210,Imports to sales,12  Mar-19*,0.0,RAMS
+211,Exports (fob),12  Mar-19*,0.0,RAMS
+212,Imports (cif),12  Mar-19*,0.0,RAMS
+213,Fx inflow,12  Mar-19*,1000.0,RAMS
+214,Fx outflow,12  Mar-19*,1911.0,RAMS
+215,Net fx,12  Mar-19*,-911.0,RAMS
+216,From Operations,12  Mar-19*,215.0,RAMS
+217,From Investments,12  Mar-19*,-2092.0,RAMS
+218,From Financial Activity,12  Mar-19*,1895.0,RAMS
+219,Net Cashflow,12  Mar-19*,18.0,RAMS

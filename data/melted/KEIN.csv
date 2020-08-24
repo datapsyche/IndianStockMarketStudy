@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,16189.0,KEIN
+1,Other income,12  Mar-14,13.0,KEIN
+2,Total revenues,12  Mar-14,16202.0,KEIN
+3,Gross profit,12  Mar-14,1530.0,KEIN
+4,Depreciation,12  Mar-14,210.0,KEIN
+5,Interest,12  Mar-14,1115.0,KEIN
+6,Profit before tax,12  Mar-14,218.0,KEIN
+7,Minority Interest,12  Mar-14,0.0,KEIN
+8,Prior Period Items,12  Mar-14,0.0,KEIN
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,KEIN
+10,Tax,12  Mar-14,102.0,KEIN
+11,Profit after tax,12  Mar-14,116.0,KEIN
+12,Gross profit margin,12  Mar-14,9.5,KEIN
+13,Effective tax rate,12  Mar-14,46.8,KEIN
+14,Net profit margin,12  Mar-14,0.7,KEIN
+15,Current assets,12  Mar-14,9227.0,KEIN
+16,Current liabilities,12  Mar-14,8355.0,KEIN
+17,Net working cap to sales,12  Mar-14,5.4,KEIN
+18,Current ratio,12  Mar-14,1.1,KEIN
+19,Inventory Days,12  Mar-14,91.0,KEIN
+20,Debtors Days,12  Mar-14,97.0,KEIN
+21,Net fixed assets,12  Mar-14,3143.0,KEIN
+22,Share capital,12  Mar-14,148.0,KEIN
+23,"""Free"" reserves",12  Mar-14,2474.0,KEIN
+24,Net worth,12  Mar-14,2731.0,KEIN
+25,Long term debt,12  Mar-14,1166.0,KEIN
+26,Total assets,12  Mar-14,12435.0,KEIN
+27,Interest coverage,12  Mar-14,1.2,KEIN
+28,Debt to equity ratio,12  Mar-14,0.4,KEIN
+29,Sales to assets ratio,12  Mar-14,1.3,KEIN
+30,Return on assets,12  Mar-14,9.9,KEIN
+31,Return on equity,12  Mar-14,4.2,KEIN
+32,Return on capital,12  Mar-14,34.2,KEIN
+33,Exports to sales,12  Mar-14,12.2,KEIN
+34,Imports to sales,12  Mar-14,6.2,KEIN
+35,Exports (fob),12  Mar-14,1975.0,KEIN
+36,Imports (cif),12  Mar-14,1009.0,KEIN
+37,Fx inflow,12  Mar-14,1975.0,KEIN
+38,Fx outflow,12  Mar-14,1184.0,KEIN
+39,Net fx,12  Mar-14,791.0,KEIN
+40,From Operations,12  Mar-14,835.0,KEIN
+41,From Investments,12  Mar-14,-219.0,KEIN
+42,From Financial Activity,12  Mar-14,-727.0,KEIN
+43,Net Cashflow,12  Mar-14,-111.0,KEIN
+44,Net Sales,12  Mar-15*,20330.0,KEIN
+45,Other income,12  Mar-15*,24.0,KEIN
+46,Total revenues,12  Mar-15*,20354.0,KEIN
+47,Gross profit,12  Mar-15*,1937.0,KEIN
+48,Depreciation,12  Mar-15*,246.0,KEIN
+49,Interest,12  Mar-15*,1212.0,KEIN
+50,Profit before tax,12  Mar-15*,503.0,KEIN
+51,Minority Interest,12  Mar-15*,26.0,KEIN
+52,Prior Period Items,12  Mar-15*,0.0,KEIN
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,KEIN
+54,Tax,12  Mar-15*,186.0,KEIN
+55,Profit after tax,12  Mar-15*,343.0,KEIN
+56,Gross profit margin,12  Mar-15*,9.5,KEIN
+57,Effective tax rate,12  Mar-15*,37.1,KEIN
+58,Net profit margin,12  Mar-15*,1.7,KEIN
+59,Current assets,12  Mar-15*,10342.0,KEIN
+60,Current liabilities,12  Mar-15*,8932.0,KEIN
+61,Net working cap to sales,12  Mar-15*,6.9,KEIN
+62,Current ratio,12  Mar-15*,1.2,KEIN
+63,Inventory Days,12  Mar-15*,79.0,KEIN
+64,Debtors Days,12  Mar-15*,85.0,KEIN
+65,Net fixed assets,12  Mar-15*,3025.0,KEIN
+66,Share capital,12  Mar-15*,155.0,KEIN
+67,"""Free"" reserves",12  Mar-15*,2884.0,KEIN
+68,Net worth,12  Mar-15*,3039.0,KEIN
+69,Long term debt,12  Mar-15*,1209.0,KEIN
+70,Total assets,12  Mar-15*,13447.0,KEIN
+71,Interest coverage,12  Mar-15*,1.4,KEIN
+72,Debt to equity ratio,12  Mar-15*,0.4,KEIN
+73,Sales to assets ratio,12  Mar-15*,1.5,KEIN
+74,Return on assets,12  Mar-15*,11.6,KEIN
+75,Return on equity,12  Mar-15*,11.3,KEIN
+76,Return on capital,12  Mar-15*,41.0,KEIN
+77,Exports to sales,12  Mar-15*,7.3,KEIN
+78,Imports to sales,12  Mar-15*,5.8,KEIN
+79,Exports (fob),12  Mar-15*,1474.0,KEIN
+80,Imports (cif),12  Mar-15*,1182.0,KEIN
+81,Fx inflow,12  Mar-15*,1474.0,KEIN
+82,Fx outflow,12  Mar-15*,1287.0,KEIN
+83,Net fx,12  Mar-15*,187.0,KEIN
+84,From Operations,12  Mar-15*,1988.0,KEIN
+85,From Investments,12  Mar-15*,-166.0,KEIN
+86,From Financial Activity,12  Mar-15*,-1820.0,KEIN
+87,Net Cashflow,12  Mar-15*,2.0,KEIN
+88,Net Sales,12  Mar-16*,23510.0,KEIN
+89,Other income,12  Mar-16*,58.0,KEIN
+90,Total revenues,12  Mar-16*,23568.0,KEIN
+91,Gross profit,12  Mar-16*,2426.0,KEIN
+92,Depreciation,12  Mar-16*,253.0,KEIN
+93,Interest,12  Mar-16*,1272.0,KEIN
+94,Profit before tax,12  Mar-16*,959.0,KEIN
+95,Minority Interest,12  Mar-16*,0.0,KEIN
+96,Prior Period Items,12  Mar-16*,0.0,KEIN
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,KEIN
+98,Tax,12  Mar-16*,333.0,KEIN
+99,Profit after tax,12  Mar-16*,626.0,KEIN
+100,Gross profit margin,12  Mar-16*,10.3,KEIN
+101,Effective tax rate,12  Mar-16*,34.7,KEIN
+102,Net profit margin,12  Mar-16*,2.7,KEIN
+103,Current assets,12  Mar-16*,11361.0,KEIN
+104,Current liabilities,12  Mar-16*,9570.0,KEIN
+105,Net working cap to sales,12  Mar-16*,7.6,KEIN
+106,Current ratio,12  Mar-16*,1.2,KEIN
+107,Inventory Days,12  Mar-16*,66.0,KEIN
+108,Debtors Days,12  Mar-16*,97.0,KEIN
+109,Net fixed assets,12  Mar-16*,3575.0,KEIN
+110,Share capital,12  Mar-16*,155.0,KEIN
+111,"""Free"" reserves",12  Mar-16*,3479.0,KEIN
+112,Net worth,12  Mar-16*,3633.0,KEIN
+113,Long term debt,12  Mar-16*,1635.0,KEIN
+114,Total assets,12  Mar-16*,15197.0,KEIN
+115,Interest coverage,12  Mar-16*,1.8,KEIN
+116,Debt to equity ratio,12  Mar-16*,0.4,KEIN
+117,Sales to assets ratio,12  Mar-16*,1.5,KEIN
+118,Return on assets,12  Mar-16*,12.5,KEIN
+119,Return on equity,12  Mar-16*,17.2,KEIN
+120,Return on capital,12  Mar-16*,42.3,KEIN
+121,Exports to sales,12  Mar-16*,8.1,KEIN
+122,Imports to sales,12  Mar-16*,10.2,KEIN
+123,Exports (fob),12  Mar-16*,1910.0,KEIN
+124,Imports (cif),12  Mar-16*,2391.0,KEIN
+125,Fx inflow,12  Mar-16*,1910.0,KEIN
+126,Fx outflow,12  Mar-16*,2529.0,KEIN
+127,Net fx,12  Mar-16*,-619.0,KEIN
+128,From Operations,12  Mar-16*,1858.0,KEIN
+129,From Investments,12  Mar-16*,-978.0,KEIN
+130,From Financial Activity,12  Mar-16*,-868.0,KEIN
+131,Net Cashflow,12  Mar-16*,12.0,KEIN
+132,Net Sales,12  Mar-17*,26285.0,KEIN
+133,Other income,12  Mar-17*,101.0,KEIN
+134,Total revenues,12  Mar-17*,26385.0,KEIN
+135,Gross profit,12  Mar-17*,2690.0,KEIN
+136,Depreciation,12  Mar-17*,284.0,KEIN
+137,Interest,12  Mar-17*,1244.0,KEIN
+138,Profit before tax,12  Mar-17*,1262.0,KEIN
+139,Minority Interest,12  Mar-17*,-2.0,KEIN
+140,Prior Period Items,12  Mar-17*,0.0,KEIN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,KEIN
+142,Tax,12  Mar-17*,324.0,KEIN
+143,Profit after tax,12  Mar-17*,937.0,KEIN
+144,Gross profit margin,12  Mar-17*,10.2,KEIN
+145,Effective tax rate,12  Mar-17*,25.7,KEIN
+146,Net profit margin,12  Mar-17*,3.6,KEIN
+147,Current assets,12  Mar-17*,14762.0,KEIN
+148,Current liabilities,12  Mar-17*,13180.0,KEIN
+149,Net working cap to sales,12  Mar-17*,6.0,KEIN
+150,Current ratio,12  Mar-17*,1.1,KEIN
+151,Inventory Days,12  Mar-17*,69.0,KEIN
+152,Debtors Days,12  Mar-17*,115.0,KEIN
+153,Net fixed assets,12  Mar-17*,4084.0,KEIN
+154,Share capital,12  Mar-17*,156.0,KEIN
+155,"""Free"" reserves",12  Mar-17*,4455.0,KEIN
+156,Net worth,12  Mar-17*,4611.0,KEIN
+157,Long term debt,12  Mar-17*,764.0,KEIN
+158,Total assets,12  Mar-17*,18958.0,KEIN
+159,Interest coverage,12  Mar-17*,2.0,KEIN
+160,Debt to equity ratio,12  Mar-17*,0.2,KEIN
+161,Sales to assets ratio,12  Mar-17*,1.4,KEIN
+162,Return on assets,12  Mar-17*,11.5,KEIN
+163,Return on equity,12  Mar-17*,20.3,KEIN
+164,Return on capital,12  Mar-17*,46.6,KEIN
+165,Exports to sales,12  Mar-17*,14.4,KEIN
+166,Imports to sales,12  Mar-17*,0.0,KEIN
+167,Exports (fob),12  Mar-17*,3793.0,KEIN
+168,Imports (cif),12  Mar-17*,0.0,KEIN
+169,Fx inflow,12  Mar-17*,3793.0,KEIN
+170,Fx outflow,12  Mar-17*,5524.0,KEIN
+171,Net fx,12  Mar-17*,-1730.0,KEIN
+172,From Operations,12  Mar-17*,-288.0,KEIN
+173,From Investments,12  Mar-17*,-627.0,KEIN
+174,From Financial Activity,12  Mar-17*,2287.0,KEIN
+175,Net Cashflow,12  Mar-17*,1371.0,KEIN
+176,Net Sales,12  Mar-18*,34655.0,KEIN
+177,Other income,12  Mar-18*,93.0,KEIN
+178,Total revenues,12  Mar-18*,34748.0,KEIN
+179,Gross profit,12  Mar-18*,3393.0,KEIN
+180,Depreciation,12  Mar-18*,322.0,KEIN
+181,Interest,12  Mar-18*,1119.0,KEIN
+182,Profit before tax,12  Mar-18*,2045.0,KEIN
+183,Minority Interest,12  Mar-18*,0.0,KEIN
+184,Prior Period Items,12  Mar-18*,0.0,KEIN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,KEIN
+186,Tax,12  Mar-18*,597.0,KEIN
+187,Profit after tax,12  Mar-18*,1448.0,KEIN
+188,Gross profit margin,12  Mar-18*,9.8,KEIN
+189,Effective tax rate,12  Mar-18*,29.2,KEIN
+190,Net profit margin,12  Mar-18*,4.2,KEIN
+191,Current assets,12  Mar-18*,17707.0,KEIN
+192,Current liabilities,12  Mar-18*,14231.0,KEIN
+193,Net working cap to sales,12  Mar-18*,10.0,KEIN
+194,Current ratio,12  Mar-18*,1.2,KEIN
+195,Inventory Days,12  Mar-18*,59.0,KEIN
+196,Debtors Days,12  Mar-18*,108.0,KEIN
+197,Net fixed assets,12  Mar-18*,4300.0,KEIN
+198,Share capital,12  Mar-18*,157.0,KEIN
+199,"""Free"" reserves",12  Mar-18*,5890.0,KEIN
+200,Net worth,12  Mar-18*,6047.0,KEIN
+201,Long term debt,12  Mar-18*,1457.0,KEIN
+202,Total assets,12  Mar-18*,22199.0,KEIN
+203,Interest coverage,12  Mar-18*,2.8,KEIN
+204,Debt to equity ratio,12  Mar-18*,0.2,KEIN
+205,Sales to assets ratio,12  Mar-18*,1.6,KEIN
+206,Return on assets,12  Mar-18*,11.6,KEIN
+207,Return on equity,12  Mar-18*,23.9,KEIN
+208,Return on capital,12  Mar-18*,42.2,KEIN
+209,Exports to sales,12  Mar-18*,13.1,KEIN
+210,Imports to sales,12  Mar-18*,0.0,KEIN
+211,Exports (fob),12  Mar-18*,4542.0,KEIN
+212,Imports (cif),12  Mar-18*,0.0,KEIN
+213,Fx inflow,12  Mar-18*,4542.0,KEIN
+214,Fx outflow,12  Mar-18*,6845.0,KEIN
+215,Net fx,12  Mar-18*,-2303.0,KEIN
+216,From Operations,12  Mar-18*,1907.0,KEIN
+217,From Investments,12  Mar-18*,-763.0,KEIN
+218,From Financial Activity,12  Mar-18*,-690.0,KEIN
+219,Net Cashflow,12  Mar-18*,454.0,KEIN

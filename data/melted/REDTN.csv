@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,315549.0,REDTN
+1,Other income,12  Mar-15*,678.0,REDTN
+2,Total revenues,12  Mar-15*,316227.0,REDTN
+3,Gross profit,12  Mar-15*,6940.0,REDTN
+4,Depreciation,12  Mar-15*,426.0,REDTN
+5,Interest,12  Mar-15*,1586.0,REDTN
+6,Profit before tax,12  Mar-15*,5606.0,REDTN
+7,Minority Interest,12  Mar-15*,-238.0,REDTN
+8,Prior Period Items,12  Mar-15*,1.0,REDTN
+9,Extraordinary Inc (Exp),12  Mar-15*,-52.0,REDTN
+10,Tax,12  Mar-15*,1450.0,REDTN
+11,Profit after tax,12  Mar-15*,3865.0,REDTN
+12,Gross profit margin,12  Mar-15*,2.2,REDTN
+13,Effective tax rate,12  Mar-15*,25.9,REDTN
+14,Net profit margin,12  Mar-15*,1.2,REDTN
+15,Current assets,12  Mar-15*,80200.0,REDTN
+16,Current liabilities,12  Mar-15*,56447.0,REDTN
+17,Net working cap to sales,12  Mar-15*,7.5,REDTN
+18,Current ratio,12  Mar-15*,1.4,REDTN
+19,Inventory Days,12  Mar-15*,33.0,REDTN
+20,Debtors Days,12  Mar-15*,51.0,REDTN
+21,Net fixed assets,12  Mar-15*,2152.0,REDTN
+22,Share capital,12  Mar-15*,799.0,REDTN
+23,"""Free"" reserves",12  Mar-15*,20810.0,REDTN
+24,Net worth,12  Mar-15*,23742.0,REDTN
+25,Long term debt,12  Mar-15*,1011.0,REDTN
+26,Total assets,12  Mar-15*,83829.0,REDTN
+27,Interest coverage,12  Mar-15*,4.5,REDTN
+28,Debt to equity ratio,12  Mar-15*,0.0,REDTN
+29,Sales to assets ratio,12  Mar-15*,3.8,REDTN
+30,Return on assets,12  Mar-15*,6.5,REDTN
+31,Return on equity,12  Mar-15*,16.3,REDTN
+32,Return on capital,12  Mar-15*,27.9,REDTN
+33,Exports to sales,12  Mar-15*,0.0,REDTN
+34,Imports to sales,12  Mar-15*,4.0,REDTN
+35,Exports (fob),12  Mar-15*,106.0,REDTN
+36,Imports (cif),12  Mar-15*,12758.0,REDTN
+37,Fx inflow,12  Mar-15*,863.0,REDTN
+38,Fx outflow,12  Mar-15*,13108.0,REDTN
+39,Net fx,12  Mar-15*,-12245.0,REDTN
+40,From Operations,12  Mar-15*,2568.0,REDTN
+41,From Investments,12  Mar-15*,-55.0,REDTN
+42,From Financial Activity,12  Mar-15*,-2249.0,REDTN
+43,Net Cashflow,12  Mar-15*,264.0,REDTN
+44,Net Sales,12  Mar-16*,354297.0,REDTN
+45,Other income,12  Mar-16*,467.0,REDTN
+46,Total revenues,12  Mar-16*,354763.0,REDTN
+47,Gross profit,12  Mar-16*,7709.0,REDTN
+48,Depreciation,12  Mar-16*,433.0,REDTN
+49,Interest,12  Mar-16*,1797.0,REDTN
+50,Profit before tax,12  Mar-16*,5946.0,REDTN
+51,Minority Interest,12  Mar-16*,-220.0,REDTN
+52,Prior Period Items,12  Mar-16*,0.0,REDTN
+53,Extraordinary Inc (Exp),12  Mar-16*,-5.0,REDTN
+54,Tax,12  Mar-16*,1464.0,REDTN
+55,Profit after tax,12  Mar-16*,4257.0,REDTN
+56,Gross profit margin,12  Mar-16*,2.2,REDTN
+57,Effective tax rate,12  Mar-16*,24.6,REDTN
+58,Net profit margin,12  Mar-16*,1.2,REDTN
+59,Current assets,12  Mar-16*,99066.0,REDTN
+60,Current liabilities,12  Mar-16*,72456.0,REDTN
+61,Net working cap to sales,12  Mar-16*,7.5,REDTN
+62,Current ratio,12  Mar-16*,1.4,REDTN
+63,Inventory Days,12  Mar-16*,39.0,REDTN
+64,Debtors Days,12  Mar-16*,55.0,REDTN
+65,Net fixed assets,12  Mar-16*,3341.0,REDTN
+66,Share capital,12  Mar-16*,799.0,REDTN
+67,"""Free"" reserves",12  Mar-16*,27074.0,REDTN
+68,Net worth,12  Mar-16*,27874.0,REDTN
+69,Long term debt,12  Mar-16*,0.0,REDTN
+70,Total assets,12  Mar-16*,103501.0,REDTN
+71,Interest coverage,12  Mar-16*,4.3,REDTN
+72,Debt to equity ratio,12  Mar-16*,0.0,REDTN
+73,Sales to assets ratio,12  Mar-16*,3.4,REDTN
+74,Return on assets,12  Mar-16*,5.8,REDTN
+75,Return on equity,12  Mar-16*,15.3,REDTN
+76,Return on capital,12  Mar-16*,27.0,REDTN
+77,Exports to sales,12  Mar-16*,0.1,REDTN
+78,Imports to sales,12  Mar-16*,3.7,REDTN
+79,Exports (fob),12  Mar-16*,359.0,REDTN
+80,Imports (cif),12  Mar-16*,13284.0,REDTN
+81,Fx inflow,12  Mar-16*,1242.0,REDTN
+82,Fx outflow,12  Mar-16*,13411.0,REDTN
+83,Net fx,12  Mar-16*,-12169.0,REDTN
+84,From Operations,12  Mar-16*,-1421.0,REDTN
+85,From Investments,12  Mar-16*,-641.0,REDTN
+86,From Financial Activity,12  Mar-16*,2016.0,REDTN
+87,Net Cashflow,12  Mar-16*,250.0,REDTN
+88,Net Sales,12  Mar-17*,411147.0,REDTN
+89,Other income,12  Mar-17*,414.0,REDTN
+90,Total revenues,12  Mar-17*,411560.0,REDTN
+91,Gross profit,12  Mar-17*,8248.0,REDTN
+92,Depreciation,12  Mar-17*,547.0,REDTN
+93,Interest,12  Mar-17*,1570.0,REDTN
+94,Profit before tax,12  Mar-17*,6545.0,REDTN
+95,Minority Interest,12  Mar-17*,0.0,REDTN
+96,Prior Period Items,12  Mar-17*,0.0,REDTN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,REDTN
+98,Tax,12  Mar-17*,1778.0,REDTN
+99,Profit after tax,12  Mar-17*,4767.0,REDTN
+100,Gross profit margin,12  Mar-17*,2.0,REDTN
+101,Effective tax rate,12  Mar-17*,27.2,REDTN
+102,Net profit margin,12  Mar-17*,1.2,REDTN
+103,Current assets,12  Mar-17*,95353.0,REDTN
+104,Current liabilities,12  Mar-17*,65716.0,REDTN
+105,Net working cap to sales,12  Mar-17*,7.2,REDTN
+106,Current ratio,12  Mar-17*,1.5,REDTN
+107,Inventory Days,12  Mar-17*,30.0,REDTN
+108,Debtors Days,12  Mar-17*,45.0,REDTN
+109,Net fixed assets,12  Mar-17*,4765.0,REDTN
+110,Share capital,12  Mar-17*,799.0,REDTN
+111,"""Free"" reserves",12  Mar-17*,30679.0,REDTN
+112,Net worth,12  Mar-17*,31479.0,REDTN
+113,Long term debt,12  Mar-17*,0.0,REDTN
+114,Total assets,12  Mar-17*,101502.0,REDTN
+115,Interest coverage,12  Mar-17*,5.2,REDTN
+116,Debt to equity ratio,12  Mar-17*,0.0,REDTN
+117,Sales to assets ratio,12  Mar-17*,4.1,REDTN
+118,Return on assets,12  Mar-17*,6.2,REDTN
+119,Return on equity,12  Mar-17*,15.1,REDTN
+120,Return on capital,12  Mar-17*,25.8,REDTN
+121,Exports to sales,12  Mar-17*,0.0,REDTN
+122,Imports to sales,12  Mar-17*,5.0,REDTN
+123,Exports (fob),12  Mar-17*,19.0,REDTN
+124,Imports (cif),12  Mar-17*,20398.0,REDTN
+125,Fx inflow,12  Mar-17*,1366.0,REDTN
+126,Fx outflow,12  Mar-17*,20623.0,REDTN
+127,Net fx,12  Mar-17*,-19257.0,REDTN
+128,From Operations,12  Mar-17*,13605.0,REDTN
+129,From Investments,12  Mar-17*,-753.0,REDTN
+130,From Financial Activity,12  Mar-17*,-11307.0,REDTN
+131,Net Cashflow,12  Mar-17*,1440.0,REDTN
+132,Net Sales,12  Mar-18*,416026.0,REDTN
+133,Other income,12  Mar-18*,391.0,REDTN
+134,Total revenues,12  Mar-18*,416417.0,REDTN
+135,Gross profit,12  Mar-18*,8165.0,REDTN
+136,Depreciation,12  Mar-18*,569.0,REDTN
+137,Interest,12  Mar-18*,1680.0,REDTN
+138,Profit before tax,12  Mar-18*,6306.0,REDTN
+139,Minority Interest,12  Mar-18*,0.0,REDTN
+140,Prior Period Items,12  Mar-18*,0.0,REDTN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,REDTN
+142,Tax,12  Mar-18*,1462.0,REDTN
+143,Profit after tax,12  Mar-18*,4844.0,REDTN
+144,Gross profit margin,12  Mar-18*,2.0,REDTN
+145,Effective tax rate,12  Mar-18*,23.2,REDTN
+146,Net profit margin,12  Mar-18*,1.2,REDTN
+147,Current assets,12  Mar-18*,102254.0,REDTN
+148,Current liabilities,12  Mar-18*,68879.0,REDTN
+149,Net working cap to sales,12  Mar-18*,8.0,REDTN
+150,Current ratio,12  Mar-18*,1.5,REDTN
+151,Inventory Days,12  Mar-18*,27.0,REDTN
+152,Debtors Days,12  Mar-18*,53.0,REDTN
+153,Net fixed assets,12  Mar-18*,4905.0,REDTN
+154,Share capital,12  Mar-18*,800.0,REDTN
+155,"""Free"" reserves",12  Mar-18*,34505.0,REDTN
+156,Net worth,12  Mar-18*,35306.0,REDTN
+157,Long term debt,12  Mar-18*,42.0,REDTN
+158,Total assets,12  Mar-18*,108648.0,REDTN
+159,Interest coverage,12  Mar-18*,4.8,REDTN
+160,Debt to equity ratio,12  Mar-18*,0.0,REDTN
+161,Sales to assets ratio,12  Mar-18*,3.8,REDTN
+162,Return on assets,12  Mar-18*,6.0,REDTN
+163,Return on equity,12  Mar-18*,13.7,REDTN
+164,Return on capital,12  Mar-18*,22.6,REDTN
+165,Exports to sales,12  Mar-18*,0.0,REDTN
+166,Imports to sales,12  Mar-18*,0.0,REDTN
+167,Exports (fob),12  Mar-18*,7.0,REDTN
+168,Imports (cif),12  Mar-18*,0.0,REDTN
+169,Fx inflow,12  Mar-18*,1290.0,REDTN
+170,Fx outflow,12  Mar-18*,267.0,REDTN
+171,Net fx,12  Mar-18*,1023.0,REDTN
+172,From Operations,12  Mar-18*,1856.0,REDTN
+173,From Investments,12  Mar-18*,-191.0,REDTN
+174,From Financial Activity,12  Mar-18*,-1990.0,REDTN
+175,Net Cashflow,12  Mar-18*,-380.0,REDTN
+176,Net Sales,12  Mar-19*,465362.0,REDTN
+177,Other income,12  Mar-19*,632.0,REDTN
+178,Total revenues,12  Mar-19*,465994.0,REDTN
+179,Gross profit,12  Mar-19*,8276.0,REDTN
+180,Depreciation,12  Mar-19*,634.0,REDTN
+181,Interest,12  Mar-19*,2042.0,REDTN
+182,Profit before tax,12  Mar-19*,6233.0,REDTN
+183,Minority Interest,12  Mar-19*,0.0,REDTN
+184,Prior Period Items,12  Mar-19*,0.0,REDTN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,REDTN
+186,Tax,12  Mar-19*,1389.0,REDTN
+187,Profit after tax,12  Mar-19*,4845.0,REDTN
+188,Gross profit margin,12  Mar-19*,1.8,REDTN
+189,Effective tax rate,12  Mar-19*,22.3,REDTN
+190,Net profit margin,12  Mar-19*,1.0,REDTN
+191,Current assets,12  Mar-19*,116686.0,REDTN
+192,Current liabilities,12  Mar-19*,80399.0,REDTN
+193,Net working cap to sales,12  Mar-19*,7.8,REDTN
+194,Current ratio,12  Mar-19*,1.5,REDTN
+195,Inventory Days,12  Mar-19*,30.0,REDTN
+196,Debtors Days,12  Mar-19*,49.0,REDTN
+197,Net fixed assets,12  Mar-19*,4921.0,REDTN
+198,Share capital,12  Mar-19*,778.0,REDTN
+199,"""Free"" reserves",12  Mar-19*,38282.0,REDTN
+200,Net worth,12  Mar-19*,39060.0,REDTN
+201,Long term debt,12  Mar-19*,245.0,REDTN
+202,Total assets,12  Mar-19*,124207.0,REDTN
+203,Interest coverage,12  Mar-19*,4.1,REDTN
+204,Debt to equity ratio,12  Mar-19*,0.0,REDTN
+205,Sales to assets ratio,12  Mar-19*,3.7,REDTN
+206,Return on assets,12  Mar-19*,5.5,REDTN
+207,Return on equity,12  Mar-19*,12.4,REDTN
+208,Return on capital,12  Mar-19*,21.1,REDTN
+209,Exports to sales,12  Mar-19*,0.0,REDTN
+210,Imports to sales,12  Mar-19*,8.3,REDTN
+211,Exports (fob),12  Mar-19*,0.0,REDTN
+212,Imports (cif),12  Mar-19*,38631.0,REDTN
+213,Fx inflow,12  Mar-19*,1442.0,REDTN
+214,Fx outflow,12  Mar-19*,38936.0,REDTN
+215,Net fx,12  Mar-19*,-37494.0,REDTN
+216,From Operations,12  Mar-19*,10684.0,REDTN
+217,From Investments,12  Mar-19*,-944.0,REDTN
+218,From Financial Activity,12  Mar-19*,-6507.0,REDTN
+219,Net Cashflow,12  Mar-19*,3240.0,REDTN

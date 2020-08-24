@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-12*,2652.0,GAPL
+1,Other income,12  Mar-12*,83.0,GAPL
+2,Total revenues,12  Mar-12*,2735.0,GAPL
+3,Gross profit,12  Mar-12*,386.0,GAPL
+4,Depreciation,12  Mar-12*,50.0,GAPL
+5,Interest,12  Mar-12*,54.0,GAPL
+6,Profit before tax,12  Mar-12*,365.0,GAPL
+7,Minority Interest,12  Mar-12*,0.0,GAPL
+8,Prior Period Items,12  Mar-12*,0.0,GAPL
+9,Extraordinary Inc (Exp),12  Mar-12*,3.0,GAPL
+10,Tax,12  Mar-12*,135.0,GAPL
+11,Profit after tax,12  Mar-12*,233.0,GAPL
+12,Gross profit margin,12  Mar-12*,14.6,GAPL
+13,Effective tax rate,12  Mar-12*,36.9,GAPL
+14,Net profit margin,12  Mar-12*,8.8,GAPL
+15,Current assets,12  Mar-12*,1893.0,GAPL
+16,Current liabilities,12  Mar-12*,800.0,GAPL
+17,Net working cap to sales,12  Mar-12*,41.2,GAPL
+18,Current ratio,12  Mar-12*,2.4,GAPL
+19,Inventory Days,12  Mar-12*,85.0,GAPL
+20,Debtors Days,12  Mar-12*,69.0,GAPL
+21,Net fixed assets,12  Mar-12*,822.0,GAPL
+22,Share capital,12  Mar-12*,166.0,GAPL
+23,"""Free"" reserves",12  Mar-12*,1806.0,GAPL
+24,Net worth,12  Mar-12*,1972.0,GAPL
+25,Long term debt,12  Mar-12*,114.0,GAPL
+26,Total assets,12  Mar-12*,2952.0,GAPL
+27,Interest coverage,12  Mar-12*,7.7,GAPL
+28,Debt to equity ratio,12  Mar-12*,0.1,GAPL
+29,Sales to assets ratio,12  Mar-12*,0.9,GAPL
+30,Return on assets,12  Mar-12*,9.7,GAPL
+31,Return on equity,12  Mar-12*,11.8,GAPL
+32,Return on capital,12  Mar-12*,20.2,GAPL
+33,Exports to sales,12  Mar-12*,9.8,GAPL
+34,Imports to sales,12  Mar-12*,5.9,GAPL
+35,Exports (fob),12  Mar-12*,259.0,GAPL
+36,Imports (cif),12  Mar-12*,157.0,GAPL
+37,Fx inflow,12  Mar-12*,265.0,GAPL
+38,Fx outflow,12  Mar-12*,178.0,GAPL
+39,Net fx,12  Mar-12*,87.0,GAPL
+40,From Operations,12  Mar-12*,170.0,GAPL
+41,From Investments,12  Mar-12*,-47.0,GAPL
+42,From Financial Activity,12  Mar-12*,-164.0,GAPL
+43,Net Cashflow,12  Mar-12*,-41.0,GAPL
+44,Net Sales,12  Mar-13*,2546.0,GAPL
+45,Other income,12  Mar-13*,131.0,GAPL
+46,Total revenues,12  Mar-13*,2677.0,GAPL
+47,Gross profit,12  Mar-13*,329.0,GAPL
+48,Depreciation,12  Mar-13*,55.0,GAPL
+49,Interest,12  Mar-13*,70.0,GAPL
+50,Profit before tax,12  Mar-13*,335.0,GAPL
+51,Minority Interest,12  Mar-13*,0.0,GAPL
+52,Prior Period Items,12  Mar-13*,0.0,GAPL
+53,Extraordinary Inc (Exp),12  Mar-13*,36.0,GAPL
+54,Tax,12  Mar-13*,121.0,GAPL
+55,Profit after tax,12  Mar-13*,250.0,GAPL
+56,Gross profit margin,12  Mar-13*,12.9,GAPL
+57,Effective tax rate,12  Mar-13*,36.1,GAPL
+58,Net profit margin,12  Mar-13*,9.8,GAPL
+59,Current assets,12  Mar-13*,2133.0,GAPL
+60,Current liabilities,12  Mar-13*,1327.0,GAPL
+61,Net working cap to sales,12  Mar-13*,31.6,GAPL
+62,Current ratio,12  Mar-13*,1.6,GAPL
+63,Inventory Days,12  Mar-13*,81.0,GAPL
+64,Debtors Days,12  Mar-13*,61.0,GAPL
+65,Net fixed assets,12  Mar-13*,855.0,GAPL
+66,Share capital,12  Mar-13*,166.0,GAPL
+67,"""Free"" reserves",12  Mar-13*,1858.0,GAPL
+68,Net worth,12  Mar-13*,2024.0,GAPL
+69,Long term debt,12  Mar-13*,99.0,GAPL
+70,Total assets,12  Mar-13*,3573.0,GAPL
+71,Interest coverage,12  Mar-13*,5.8,GAPL
+72,Debt to equity ratio,12  Mar-13*,0.0,GAPL
+73,Sales to assets ratio,12  Mar-13*,0.7,GAPL
+74,Return on assets,12  Mar-13*,8.9,GAPL
+75,Return on equity,12  Mar-13*,12.3,GAPL
+76,Return on capital,12  Mar-13*,20.8,GAPL
+77,Exports to sales,12  Mar-13*,16.9,GAPL
+78,Imports to sales,12  Mar-13*,1.9,GAPL
+79,Exports (fob),12  Mar-13*,429.0,GAPL
+80,Imports (cif),12  Mar-13*,49.0,GAPL
+81,Fx inflow,12  Mar-13*,430.0,GAPL
+82,Fx outflow,12  Mar-13*,77.0,GAPL
+83,Net fx,12  Mar-13*,352.0,GAPL
+84,From Operations,12  Mar-13*,417.0,GAPL
+85,From Investments,12  Mar-13*,-412.0,GAPL
+86,From Financial Activity,12  Mar-13*,48.0,GAPL
+87,Net Cashflow,12  Mar-13*,53.0,GAPL
+88,Net Sales,12  Mar-14*,584.0,GAPL
+89,Other income,12  Mar-14*,344.0,GAPL
+90,Total revenues,12  Mar-14*,928.0,GAPL
+91,Gross profit,12  Mar-14*,-156.0,GAPL
+92,Depreciation,12  Mar-14*,31.0,GAPL
+93,Interest,12  Mar-14*,49.0,GAPL
+94,Profit before tax,12  Mar-14*,110.0,GAPL
+95,Minority Interest,12  Mar-14*,0.0,GAPL
+96,Prior Period Items,12  Mar-14*,0.0,GAPL
+97,Extraordinary Inc (Exp),12  Mar-14*,1631.0,GAPL
+98,Tax,12  Mar-14*,-18.0,GAPL
+99,Profit after tax,12  Mar-14*,1759.0,GAPL
+100,Gross profit margin,12  Mar-14*,-26.6,GAPL
+101,Effective tax rate,12  Mar-14*,-16.3,GAPL
+102,Net profit margin,12  Mar-14*,301.3,GAPL
+103,Current assets,12  Mar-14*,3764.0,GAPL
+104,Current liabilities,12  Mar-14*,1293.0,GAPL
+105,Net working cap to sales,12  Mar-14*,423.4,GAPL
+106,Current ratio,12  Mar-14*,2.9,GAPL
+107,Inventory Days,12  Mar-14*,206.0,GAPL
+108,Debtors Days,12  Mar-14*,88.0,GAPL
+109,Net fixed assets,12  Mar-14*,562.0,GAPL
+110,Share capital,12  Mar-14*,159.0,GAPL
+111,"""Free"" reserves",12  Mar-14*,3498.0,GAPL
+112,Net worth,12  Mar-14*,3658.0,GAPL
+113,Long term debt,12  Mar-14*,119.0,GAPL
+114,Total assets,12  Mar-14*,5112.0,GAPL
+115,Interest coverage,12  Mar-14*,3.3,GAPL
+116,Debt to equity ratio,12  Mar-14*,0.0,GAPL
+117,Sales to assets ratio,12  Mar-14*,0.1,GAPL
+118,Return on assets,12  Mar-14*,35.4,GAPL
+119,Return on equity,12  Mar-14*,48.1,GAPL
+120,Return on capital,12  Mar-14*,47.4,GAPL
+121,Exports to sales,12  Mar-14*,14.2,GAPL
+122,Imports to sales,12  Mar-14*,1.0,GAPL
+123,Exports (fob),12  Mar-14*,83.0,GAPL
+124,Imports (cif),12  Mar-14*,6.0,GAPL
+125,Fx inflow,12  Mar-14*,83.0,GAPL
+126,Fx outflow,12  Mar-14*,10.0,GAPL
+127,Net fx,12  Mar-14*,73.0,GAPL
+128,From Operations,12  Mar-14*,809.0,GAPL
+129,From Investments,12  Mar-14*,-628.0,GAPL
+130,From Financial Activity,12  Mar-14*,67.0,GAPL
+131,Net Cashflow,12  Mar-14*,248.0,GAPL
+132,Net Sales,12  Mar-15*,675.0,GAPL
+133,Other income,12  Mar-15*,237.0,GAPL
+134,Total revenues,12  Mar-15*,911.0,GAPL
+135,Gross profit,12  Mar-15*,-66.0,GAPL
+136,Depreciation,12  Mar-15*,40.0,GAPL
+137,Interest,12  Mar-15*,112.0,GAPL
+138,Profit before tax,12  Mar-15*,19.0,GAPL
+139,Minority Interest,12  Mar-15*,0.0,GAPL
+140,Prior Period Items,12  Mar-15*,0.0,GAPL
+141,Extraordinary Inc (Exp),12  Mar-15*,0.0,GAPL
+142,Tax,12  Mar-15*,29.0,GAPL
+143,Profit after tax,12  Mar-15*,-10.0,GAPL
+144,Gross profit margin,12  Mar-15*,-9.8,GAPL
+145,Effective tax rate,12  Mar-15*,151.2,GAPL
+146,Net profit margin,12  Mar-15*,-1.5,GAPL
+147,Current assets,12  Mar-15*,3451.0,GAPL
+148,Current liabilities,12  Mar-15*,1274.0,GAPL
+149,Net working cap to sales,12  Mar-15*,322.7,GAPL
+150,Current ratio,12  Mar-15*,2.7,GAPL
+151,Inventory Days,12  Mar-15*,161.0,GAPL
+152,Debtors Days,12  Mar-15*,50.0,GAPL
+153,Net fixed assets,12  Mar-15*,559.0,GAPL
+154,Share capital,12  Mar-15*,152.0,GAPL
+155,"""Free"" reserves",12  Mar-15*,3363.0,GAPL
+156,Net worth,12  Mar-15*,3529.0,GAPL
+157,Long term debt,12  Mar-15*,53.0,GAPL
+158,Total assets,12  Mar-15*,4899.0,GAPL
+159,Interest coverage,12  Mar-15*,1.2,GAPL
+160,Debt to equity ratio,12  Mar-15*,0.0,GAPL
+161,Sales to assets ratio,12  Mar-15*,0.1,GAPL
+162,Return on assets,12  Mar-15*,2.1,GAPL
+163,Return on equity,12  Mar-15*,-0.3,GAPL
+164,Return on capital,12  Mar-15*,3.7,GAPL
+165,Exports to sales,12  Mar-15*,1.5,GAPL
+166,Imports to sales,12  Mar-15*,1.0,GAPL
+167,Exports (fob),12  Mar-15*,10.0,GAPL
+168,Imports (cif),12  Mar-15*,7.0,GAPL
+169,Fx inflow,12  Mar-15*,10.0,GAPL
+170,Fx outflow,12  Mar-15*,21.0,GAPL
+171,Net fx,12  Mar-15*,-11.0,GAPL
+172,From Operations,12  Mar-15*,-364.0,GAPL
+173,From Investments,12  Mar-15*,346.0,GAPL
+174,From Financial Activity,12  Mar-15*,-87.0,GAPL
+175,Net Cashflow,12  Mar-15*,-105.0,GAPL
+176,Net Sales,12  Mar-16*,779.0,GAPL
+177,Other income,12  Mar-16*,282.0,GAPL
+178,Total revenues,12  Mar-16*,1061.0,GAPL
+179,Gross profit,12  Mar-16*,-120.0,GAPL
+180,Depreciation,12  Mar-16*,33.0,GAPL
+181,Interest,12  Mar-16*,103.0,GAPL
+182,Profit before tax,12  Mar-16*,26.0,GAPL
+183,Minority Interest,12  Mar-16*,0.0,GAPL
+184,Prior Period Items,12  Mar-16*,158.0,GAPL
+185,Extraordinary Inc (Exp),12  Mar-16*,0.0,GAPL
+186,Tax,12  Mar-16*,-7.0,GAPL
+187,Profit after tax,12  Mar-16*,191.0,GAPL
+188,Gross profit margin,12  Mar-16*,-15.4,GAPL
+189,Effective tax rate,12  Mar-16*,-28.1,GAPL
+190,Net profit margin,12  Mar-16*,24.5,GAPL
+191,Current assets,12  Mar-16*,2875.0,GAPL
+192,Current liabilities,12  Mar-16*,1345.0,GAPL
+193,Net working cap to sales,12  Mar-16*,196.5,GAPL
+194,Current ratio,12  Mar-16*,2.1,GAPL
+195,Inventory Days,12  Mar-16*,133.0,GAPL
+196,Debtors Days,12  Mar-16*,45.0,GAPL
+197,Net fixed assets,12  Mar-16*,548.0,GAPL
+198,Share capital,12  Mar-16*,137.0,GAPL
+199,"""Free"" reserves",12  Mar-16*,4101.0,GAPL
+200,Net worth,12  Mar-16*,4267.0,GAPL
+201,Long term debt,12  Mar-16*,15.0,GAPL
+202,Total assets,12  Mar-16*,5654.0,GAPL
+203,Interest coverage,12  Mar-16*,1.3,GAPL
+204,Debt to equity ratio,12  Mar-16*,0.0,GAPL
+205,Sales to assets ratio,12  Mar-16*,0.1,GAPL
+206,Return on assets,12  Mar-16*,5.2,GAPL
+207,Return on equity,12  Mar-16*,4.5,GAPL
+208,Return on capital,12  Mar-16*,6.7,GAPL
+209,Exports to sales,12  Mar-16*,0.4,GAPL
+210,Imports to sales,12  Mar-16*,1.4,GAPL
+211,Exports (fob),12  Mar-16*,3.0,GAPL
+212,Imports (cif),12  Mar-16*,11.0,GAPL
+213,Fx inflow,12  Mar-16*,3.0,GAPL
+214,Fx outflow,12  Mar-16*,16.0,GAPL
+215,Net fx,12  Mar-16*,-12.0,GAPL
+216,From Operations,12  Mar-16*,160.0,GAPL
+217,From Investments,12  Mar-16*,102.0,GAPL
+218,From Financial Activity,12  Mar-16*,-353.0,GAPL
+219,Net Cashflow,12  Mar-16*,-91.0,GAPL

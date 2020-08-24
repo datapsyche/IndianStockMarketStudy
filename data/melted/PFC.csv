@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-14*,214025.0,PFC
+1,Other income,12  Mar-14*,275.0,PFC
+2,Interest expense,12  Mar-14*,130078.0,PFC
+3,Net interest income,12  Mar-14*,83947.0,PFC
+4,Operating expense,12  Mar-14*,9778.0,PFC
+5,Gross profit,12  Mar-14*,74169.0,PFC
+6,Gross profit margin,12  Mar-14*,34.7,PFC
+7,Provisions/contingencies,12  Mar-14*,4753.0,PFC
+8,Profit before tax,12  Mar-14*,76244.0,PFC
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,PFC
+10,Minority Interest,12  Mar-14*,0.0,PFC
+11,Prior Period Items,12  Mar-14*,0.0,PFC
+12,Tax,12  Mar-14*,21626.0,PFC
+13,Profit after tax,12  Mar-14*,54618.0,PFC
+14,Net profit margin,12  Mar-14*,25.5,PFC
+15,Advances,12  Mar-14*,1688162,PFC
+16,Deposits,12  Mar-14*,0,PFC
+17,Credit/Deposit ratio,12  Mar-14*,NM,PFC
+18,Yield on advances,12  Mar-14*,12.4,PFC
+19,Cost of deposits,12  Mar-14*,N.A.,PFC
+20,Net Interest Margin,12  Mar-14*,5.0,PFC
+21,Net fixed assets,12  Mar-14*,723,PFC
+22,Share capital,12  Mar-14*,13200,PFC
+23,Free reserves,12  Mar-14*,146807,PFC
+24,Net worth,12  Mar-14*,275223,PFC
+25,Borrowings,12  Mar-14*,1424916,PFC
+26,Investments,12  Mar-14*,236,PFC
+27,Total assets,12  Mar-14*,1943197,PFC
+28,Debt/equity ratio,12  Mar-14*,5.2,PFC
+29,Return on assets,12  Mar-14*,2.8,PFC
+30,Return on equity,12  Mar-14*,19.8,PFC
+31,Capital adequacy ratio,12  Mar-14*,20.1,PFC
+32,Net NPAs,12  Mar-14*,0.5,PFC
+33,From Operations,12  Mar-14*,-224733,PFC
+34,From Investments,12  Mar-14*,92,PFC
+35,From Financial Activity,12  Mar-14*,176709,PFC
+36,Net Cashflow,12  Mar-14*,-47931,PFC
+37,Interest income,12  Mar-15*,245939.0,PFC
+38,Other income,12  Mar-15*,590.0,PFC
+39,Interest expense,12  Mar-15*,154513.0,PFC
+40,Net interest income,12  Mar-15*,91426.0,PFC
+41,Operating expense,12  Mar-15*,2647.0,PFC
+42,Gross profit,12  Mar-15*,88779.0,PFC
+43,Gross profit margin,12  Mar-15*,36.1,PFC
+44,Provisions/contingencies,12  Mar-15*,8510.0,PFC
+45,Profit before tax,12  Mar-15*,84459.0,PFC
+46,Extraordinary Inc (Exp),12  Mar-15*,0.0,PFC
+47,Minority Interest,12  Mar-15*,0.0,PFC
+48,Prior Period Items,12  Mar-15*,0.0,PFC
+49,Tax,12  Mar-15*,24415.0,PFC
+50,Profit after tax,12  Mar-15*,60044.0,PFC
+51,Net profit margin,12  Mar-15*,24.4,PFC
+52,Advances,12  Mar-15*,1979303,PFC
+53,Deposits,12  Mar-15*,0,PFC
+54,Credit/Deposit ratio,12  Mar-15*,NM,PFC
+55,Yield on advances,12  Mar-15*,12.5,PFC
+56,Cost of deposits,12  Mar-15*,N.A.,PFC
+57,Net Interest Margin,12  Mar-15*,4.6,PFC
+58,Net fixed assets,12  Mar-15*,1039,PFC
+59,Share capital,12  Mar-15*,13200,PFC
+60,Free reserves,12  Mar-15*,169694,PFC
+61,Net worth,12  Mar-15*,324114,PFC
+62,Borrowings,12  Mar-15*,1649954,PFC
+63,Investments,12  Mar-15*,238,PFC
+64,Total assets,12  Mar-15*,2289117,PFC
+65,Debt/equity ratio,12  Mar-15*,5.1,PFC
+66,Return on assets,12  Mar-15*,2.6,PFC
+67,Return on equity,12  Mar-15*,18.5,PFC
+68,Capital adequacy ratio,12  Mar-15*,20.3,PFC
+69,Net NPAs,12  Mar-15*,0.9,PFC
+70,From Operations,12  Mar-15*,-214553,PFC
+71,From Investments,12  Mar-15*,-4906,PFC
+72,From Financial Activity,12  Mar-15*,269162,PFC
+73,Net Cashflow,12  Mar-15*,49703,PFC
+74,Interest income,12  Mar-16*,277802.0,PFC
+75,Other income,12  Mar-16*,1056.0,PFC
+76,Interest expense,12  Mar-16*,166454.0,PFC
+77,Net interest income,12  Mar-16*,111348.0,PFC
+78,Operating expense,12  Mar-16*,4431.0,PFC
+79,Gross profit,12  Mar-16*,106918.0,PFC
+80,Gross profit margin,12  Mar-16*,38.5,PFC
+81,Provisions/contingencies,12  Mar-16*,16302.0,PFC
+82,Profit before tax,12  Mar-16*,91671.0,PFC
+83,Extraordinary Inc (Exp),12  Mar-16*,0.0,PFC
+84,Minority Interest,12  Mar-16*,0.0,PFC
+85,Prior Period Items,12  Mar-16*,0.0,PFC
+86,Tax,12  Mar-16*,29831.0,PFC
+87,Profit after tax,12  Mar-16*,61840.0,PFC
+88,Net profit margin,12  Mar-16*,22.3,PFC
+89,Advances,12  Mar-16*,2003807,PFC
+90,Deposits,12  Mar-16*,0,PFC
+91,Credit/Deposit ratio,12  Mar-16*,NM,PFC
+92,Yield on advances,12  Mar-16*,13.7,PFC
+93,Cost of deposits,12  Mar-16*,N.A.,PFC
+94,Net Interest Margin,12  Mar-16*,5.5,PFC
+95,Net fixed assets,12  Mar-16*,2451,PFC
+96,Share capital,12  Mar-16*,13200,PFC
+97,Free reserves,12  Mar-16*,178654,PFC
+98,Net worth,12  Mar-16*,360283,PFC
+99,Borrowings,12  Mar-16*,1726146,PFC
+100,Investments,12  Mar-16*,18192,PFC
+101,Total assets,12  Mar-16*,2472198,PFC
+102,Debt/equity ratio,12  Mar-16*,4.8,PFC
+103,Return on assets,12  Mar-16*,2.5,PFC
+104,Return on equity,12  Mar-16*,17.2,PFC
+105,Capital adequacy ratio,12  Mar-16*,20.3,PFC
+106,Net NPAs,12  Mar-16*,2.6,PFC
+107,From Operations,12  Mar-16*,-132977,PFC
+108,From Investments,12  Mar-16*,-19733,PFC
+109,From Financial Activity,12  Mar-16*,103835,PFC
+110,Net Cashflow,12  Mar-16*,-48875,PFC
+111,Interest income,12  Mar-17*,274812.0,PFC
+112,Other income,12  Mar-17*,1301.0,PFC
+113,Interest expense,12  Mar-17*,167676.0,PFC
+114,Net interest income,12  Mar-17*,107135.0,PFC
+115,Operating expense,12  Mar-17*,4268.0,PFC
+116,Gross profit,12  Mar-17*,102867.0,PFC
+117,Gross profit margin,12  Mar-17*,37.4,PFC
+118,Provisions/contingencies,12  Mar-17*,51532.0,PFC
+119,Profit before tax,12  Mar-17*,52637.0,PFC
+120,Extraordinary Inc (Exp),12  Mar-17*,0.0,PFC
+121,Minority Interest,12  Mar-17*,0.0,PFC
+122,Prior Period Items,12  Mar-17*,0.0,PFC
+123,Tax,12  Mar-17*,30276.0,PFC
+124,Profit after tax,12  Mar-17*,22361.0,PFC
+125,Net profit margin,12  Mar-17*,8.1,PFC
+126,Advances,12  Mar-17*,2009383,PFC
+127,Deposits,12  Mar-17*,0,PFC
+128,Credit/Deposit ratio,12  Mar-17*,NM,PFC
+129,Yield on advances,12  Mar-17*,13.2,PFC
+130,Cost of deposits,12  Mar-17*,N.A.,PFC
+131,Net Interest Margin,12  Mar-17*,5.3,PFC
+132,Net fixed assets,12  Mar-17*,4018,PFC
+133,Share capital,12  Mar-17*,26401,PFC
+134,Free reserves,12  Mar-17*,147993,PFC
+135,Net worth,12  Mar-17*,368449,PFC
+136,Borrowings,12  Mar-17*,1751034,PFC
+137,Investments,12  Mar-17*,18195,PFC
+138,Total assets,12  Mar-17*,2595375,PFC
+139,Debt/equity ratio,12  Mar-17*,4.8,PFC
+140,Return on assets,12  Mar-17*,0.9,PFC
+141,Return on equity,12  Mar-17*,6.1,PFC
+142,Capital adequacy ratio,12  Mar-17*,19.3,PFC
+143,Net NPAs,12  Mar-17*,4.4,PFC
+144,From Operations,12  Mar-17*,17955,PFC
+145,From Investments,12  Mar-17*,-6671,PFC
+146,From Financial Activity,12  Mar-17*,19503,PFC
+147,Net Cashflow,12  Mar-17*,30787,PFC
+148,Interest income,12  Mar-18*,269762.0,PFC
+149,Other income,12  Mar-18*,2692.0,PFC
+150,Interest expense,12  Mar-18*,175414.0,PFC
+151,Net interest income,12  Mar-18*,94348.0,PFC
+152,Operating expense,12  Mar-18*,7040.0,PFC
+153,Gross profit,12  Mar-18*,87308.0,PFC
+154,Gross profit margin,12  Mar-18*,32.4,PFC
+155,Provisions/contingencies,12  Mar-18*,6405.0,PFC
+156,Profit before tax,12  Mar-18*,83595.0,PFC
+157,Extraordinary Inc (Exp),12  Mar-18*,0.0,PFC
+158,Minority Interest,12  Mar-18*,0.0,PFC
+159,Prior Period Items,12  Mar-18*,0.0,PFC
+160,Tax,12  Mar-18*,25154.0,PFC
+161,Profit after tax,12  Mar-18*,58441.0,PFC
+162,Net profit margin,12  Mar-18*,21.7,PFC
+163,Advances,12  Mar-18*,2354617,PFC
+164,Deposits,12  Mar-18*,0,PFC
+165,Credit/Deposit ratio,12  Mar-18*,NM,PFC
+166,Yield on advances,12  Mar-18*,11.1,PFC
+167,Cost of deposits,12  Mar-18*,N.A.,PFC
+168,Net Interest Margin,12  Mar-18*,4.0,PFC
+169,Net fixed assets,12  Mar-18*,7821,PFC
+170,Share capital,12  Mar-18*,26401,PFC
+171,Free reserves,12  Mar-18*,158305,PFC
+172,Net worth,12  Mar-18*,402017,PFC
+173,Borrowings,12  Mar-18*,1920545,PFC
+174,Investments,12  Mar-18*,8760,PFC
+175,Total assets,12  Mar-18*,2881750,PFC
+176,Debt/equity ratio,12  Mar-18*,4.8,PFC
+177,Return on assets,12  Mar-18*,2.0,PFC
+178,Return on equity,12  Mar-18*,14.5,PFC
+179,Capital adequacy ratio,12  Mar-18*,20.0,PFC
+180,Net NPAs,12  Mar-18*,7.4,PFC
+181,From Operations,12  Mar-18*,-272961,PFC
+182,From Investments,12  Mar-18*,6105,PFC
+183,From Financial Activity,12  Mar-18*,241516,PFC
+184,Net Cashflow,12  Mar-18*,-25340,PFC

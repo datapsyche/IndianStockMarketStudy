@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,85197.0,NTFR
+1,Other income,12  Mar-15,371.0,NTFR
+2,Total revenues,12  Mar-15,85568.0,NTFR
+3,Gross profit,12  Mar-15,3815.0,NTFR
+4,Depreciation,12  Mar-15,726.0,NTFR
+5,Interest,12  Mar-15,3014.0,NTFR
+6,Profit before tax,12  Mar-15,447.0,NTFR
+7,Minority Interest,12  Mar-15,0.0,NTFR
+8,Prior Period Items,12  Mar-15,0.0,NTFR
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,NTFR
+10,Tax,12  Mar-15,185.0,NTFR
+11,Profit after tax,12  Mar-15,262.0,NTFR
+12,Gross profit margin,12  Mar-15,4.5,NTFR
+13,Effective tax rate,12  Mar-15,41.3,NTFR
+14,Net profit margin,12  Mar-15,0.3,NTFR
+15,Current assets,12  Mar-15,72802.0,NTFR
+16,Current liabilities,12  Mar-15,65881.0,NTFR
+17,Net working cap to sales,12  Mar-15,8.1,NTFR
+18,Current ratio,12  Mar-15,1.1,NTFR
+19,Inventory Days,12  Mar-15,12.0,NTFR
+20,Debtors Days,12  Mar-15,215.0,NTFR
+21,Net fixed assets,12  Mar-15,44823.0,NTFR
+22,Share capital,12  Mar-15,4906.0,NTFR
+23,"""Free"" reserves",12  Mar-15,9703.0,NTFR
+24,Net worth,12  Mar-15,14810.0,NTFR
+25,Long term debt,12  Mar-15,17849.0,NTFR
+26,Total assets,12  Mar-15,133873.0,NTFR
+27,Interest coverage,12  Mar-15,1.1,NTFR
+28,Debt to equity ratio,12  Mar-15,1.2,NTFR
+29,Sales to assets ratio,12  Mar-15,0.6,NTFR
+30,Return on assets,12  Mar-15,2.4,NTFR
+31,Return on equity,12  Mar-15,1.8,NTFR
+32,Return on capital,12  Mar-15,10.6,NTFR
+33,Exports to sales,12  Mar-15,0.0,NTFR
+34,Imports to sales,12  Mar-15,0.4,NTFR
+35,Exports (fob),12  Mar-15,0.0,NTFR
+36,Imports (cif),12  Mar-15,311.0,NTFR
+37,Fx inflow,12  Mar-15,0.0,NTFR
+38,Fx outflow,12  Mar-15,487.0,NTFR
+39,Net fx,12  Mar-15,-487.0,NTFR
+40,From Operations,12  Mar-15,3037.0,NTFR
+41,From Investments,12  Mar-15,-886.0,NTFR
+42,From Financial Activity,12  Mar-15,-2143.0,NTFR
+43,Net Cashflow,12  Mar-15,8.0,NTFR
+44,Net Sales,12  Mar-16,77659.0,NTFR
+45,Other income,12  Mar-16,463.0,NTFR
+46,Total revenues,12  Mar-16,78122.0,NTFR
+47,Gross profit,12  Mar-16,5451.0,NTFR
+48,Depreciation,12  Mar-16,800.0,NTFR
+49,Interest,12  Mar-16,2279.0,NTFR
+50,Profit before tax,12  Mar-16,2835.0,NTFR
+51,Minority Interest,12  Mar-16,0.0,NTFR
+52,Prior Period Items,12  Mar-16,0.0,NTFR
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,NTFR
+54,Tax,12  Mar-16,864.0,NTFR
+55,Profit after tax,12  Mar-16,1971.0,NTFR
+56,Gross profit margin,12  Mar-16,7.0,NTFR
+57,Effective tax rate,12  Mar-16,30.5,NTFR
+58,Net profit margin,12  Mar-16,2.5,NTFR
+59,Current assets,12  Mar-16,69298.0,NTFR
+60,Current liabilities,12  Mar-16,60808.0,NTFR
+61,Net working cap to sales,12  Mar-16,10.9,NTFR
+62,Current ratio,12  Mar-16,1.1,NTFR
+63,Inventory Days,12  Mar-16,24.0,NTFR
+64,Debtors Days,12  Mar-16,227.0,NTFR
+65,Net fixed assets,12  Mar-16,43163.0,NTFR
+66,Share capital,12  Mar-16,4906.0,NTFR
+67,"""Free"" reserves",12  Mar-16,11035.0,NTFR
+68,Net worth,12  Mar-16,16066.0,NTFR
+69,Long term debt,12  Mar-16,9851.0,NTFR
+70,Total assets,12  Mar-16,121245.0,NTFR
+71,Interest coverage,12  Mar-16,2.2,NTFR
+72,Debt to equity ratio,12  Mar-16,0.6,NTFR
+73,Sales to assets ratio,12  Mar-16,0.6,NTFR
+74,Return on assets,12  Mar-16,3.5,NTFR
+75,Return on equity,12  Mar-16,12.3,NTFR
+76,Return on capital,12  Mar-16,19.7,NTFR
+77,Exports to sales,12  Mar-16,0.0,NTFR
+78,Imports to sales,12  Mar-16,0.1,NTFR
+79,Exports (fob),12  Mar-16,0.0,NTFR
+80,Imports (cif),12  Mar-16,89.0,NTFR
+81,Fx inflow,12  Mar-16,0.0,NTFR
+82,Fx outflow,12  Mar-16,211.0,NTFR
+83,Net fx,12  Mar-16,-211.0,NTFR
+84,From Operations,12  Mar-16,18561.0,NTFR
+85,From Investments,12  Mar-16,-901.0,NTFR
+86,From Financial Activity,12  Mar-16,-17631.0,NTFR
+87,Net Cashflow,12  Mar-16,29.0,NTFR
+88,Net Sales,12  Mar-17,76001.0,NTFR
+89,Other income,12  Mar-17,446.0,NTFR
+90,Total revenues,12  Mar-17,76447.0,NTFR
+91,Gross profit,12  Mar-17,5553.0,NTFR
+92,Depreciation,12  Mar-17,852.0,NTFR
+93,Interest,12  Mar-17,1898.0,NTFR
+94,Profit before tax,12  Mar-17,3249.0,NTFR
+95,Minority Interest,12  Mar-17,-2.0,NTFR
+96,Prior Period Items,12  Mar-17,0.0,NTFR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,NTFR
+98,Tax,12  Mar-17,1167.0,NTFR
+99,Profit after tax,12  Mar-17,2079.0,NTFR
+100,Gross profit margin,12  Mar-17,7.3,NTFR
+101,Effective tax rate,12  Mar-17,35.9,NTFR
+102,Net profit margin,12  Mar-17,2.7,NTFR
+103,Current assets,12  Mar-17,57785.0,NTFR
+104,Current liabilities,12  Mar-17,51633.0,NTFR
+105,Net working cap to sales,12  Mar-17,8.1,NTFR
+106,Current ratio,12  Mar-17,1.1,NTFR
+107,Inventory Days,12  Mar-17,28.0,NTFR
+108,Debtors Days,12  Mar-17,205.0,NTFR
+109,Net fixed assets,12  Mar-17,42607.0,NTFR
+110,Share capital,12  Mar-17,4906.0,NTFR
+111,"""Free"" reserves",12  Mar-17,13342.0,NTFR
+112,Net worth,12  Mar-17,18248.0,NTFR
+113,Long term debt,12  Mar-17,1724.0,NTFR
+114,Total assets,12  Mar-17,101802.0,NTFR
+115,Interest coverage,12  Mar-17,2.7,NTFR
+116,Debt to equity ratio,12  Mar-17,0.1,NTFR
+117,Sales to assets ratio,12  Mar-17,0.7,NTFR
+118,Return on assets,12  Mar-17,3.9,NTFR
+119,Return on equity,12  Mar-17,11.4,NTFR
+120,Return on capital,12  Mar-17,25.8,NTFR
+121,Exports to sales,12  Mar-17,0.0,NTFR
+122,Imports to sales,12  Mar-17,0.0,NTFR
+123,Exports (fob),12  Mar-17,0.0,NTFR
+124,Imports (cif),12  Mar-17,0.0,NTFR
+125,Fx inflow,12  Mar-17,0.0,NTFR
+126,Fx outflow,12  Mar-17,5191.0,NTFR
+127,Net fx,12  Mar-17,-5191.0,NTFR
+128,From Operations,12  Mar-17,24529.0,NTFR
+129,From Investments,12  Mar-17,-2015.0,NTFR
+130,From Financial Activity,12  Mar-17,-22503.0,NTFR
+131,Net Cashflow,12  Mar-17,12.0,NTFR
+132,Net Sales,12  Mar-18,89425.0,NTFR
+133,Other income,12  Mar-18,618.0,NTFR
+134,Total revenues,12  Mar-18,90044.0,NTFR
+135,Gross profit,12  Mar-18,5361.0,NTFR
+136,Depreciation,12  Mar-18,733.0,NTFR
+137,Interest,12  Mar-18,1898.0,NTFR
+138,Profit before tax,12  Mar-18,3348.0,NTFR
+139,Minority Interest,12  Mar-18,0.0,NTFR
+140,Prior Period Items,12  Mar-18,0.0,NTFR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,NTFR
+142,Tax,12  Mar-18,1221.0,NTFR
+143,Profit after tax,12  Mar-18,2128.0,NTFR
+144,Gross profit margin,12  Mar-18,6.0,NTFR
+145,Effective tax rate,12  Mar-18,36.5,NTFR
+146,Net profit margin,12  Mar-18,2.4,NTFR
+147,Current assets,12  Mar-18,52455.0,NTFR
+148,Current liabilities,12  Mar-18,45317.0,NTFR
+149,Net working cap to sales,12  Mar-18,8.0,NTFR
+150,Current ratio,12  Mar-18,1.2,NTFR
+151,Inventory Days,12  Mar-18,21.0,NTFR
+152,Debtors Days,12  Mar-18,160.0,NTFR
+153,Net fixed assets,12  Mar-18,43607.0,NTFR
+154,Share capital,12  Mar-18,4906.0,NTFR
+155,"""Free"" reserves",12  Mar-18,14950.0,NTFR
+156,Net worth,12  Mar-18,19856.0,NTFR
+157,Long term debt,12  Mar-18,1146.0,NTFR
+158,Total assets,12  Mar-18,96266.0,NTFR
+159,Interest coverage,12  Mar-18,2.8,NTFR
+160,Debt to equity ratio,12  Mar-18,0.1,NTFR
+161,Sales to assets ratio,12  Mar-18,0.9,NTFR
+162,Return on assets,12  Mar-18,4.2,NTFR
+163,Return on equity,12  Mar-18,10.7,NTFR
+164,Return on capital,12  Mar-18,25.0,NTFR
+165,Exports to sales,12  Mar-18,0.0,NTFR
+166,Imports to sales,12  Mar-18,0.0,NTFR
+167,Exports (fob),12  Mar-18,0.0,NTFR
+168,Imports (cif),12  Mar-18,0.0,NTFR
+169,Fx inflow,12  Mar-18,0.0,NTFR
+170,Fx outflow,12  Mar-18,9586.0,NTFR
+171,Net fx,12  Mar-18,-9586.0,NTFR
+172,From Operations,12  Mar-18,16611.0,NTFR
+173,From Investments,12  Mar-18,-3458.0,NTFR
+174,From Financial Activity,12  Mar-18,-13140.0,NTFR
+175,Net Cashflow,12  Mar-18,14.0,NTFR
+176,Net Sales,12  Mar-19,122452.0,NTFR
+177,Other income,12  Mar-19,558.0,NTFR
+178,Total revenues,12  Mar-19,123011.0,NTFR
+179,Gross profit,12  Mar-19,8251.0,NTFR
+180,Depreciation,12  Mar-19,1011.0,NTFR
+181,Interest,12  Mar-19,3164.0,NTFR
+182,Profit before tax,12  Mar-19,4634.0,NTFR
+183,Minority Interest,12  Mar-19,-34.0,NTFR
+184,Prior Period Items,12  Mar-19,0.0,NTFR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,NTFR
+186,Tax,12  Mar-19,1649.0,NTFR
+187,Profit after tax,12  Mar-19,2951.0,NTFR
+188,Gross profit margin,12  Mar-19,6.7,NTFR
+189,Effective tax rate,12  Mar-19,35.6,NTFR
+190,Net profit margin,12  Mar-19,2.4,NTFR
+191,Current assets,12  Mar-19,94926.0,NTFR
+192,Current liabilities,12  Mar-19,85352.0,NTFR
+193,Net working cap to sales,12  Mar-19,7.8,NTFR
+194,Current ratio,12  Mar-19,1.1,NTFR
+195,Inventory Days,12  Mar-19,47.0,NTFR
+196,Debtors Days,12  Mar-19,213.0,NTFR
+197,Net fixed assets,12  Mar-19,43953.0,NTFR
+198,Share capital,12  Mar-19,4906.0,NTFR
+199,"""Free"" reserves",12  Mar-19,17232.0,NTFR
+200,Net worth,12  Mar-19,22138.0,NTFR
+201,Long term debt,12  Mar-19,2796.0,NTFR
+202,Total assets,12  Mar-19,139069.0,NTFR
+203,Interest coverage,12  Mar-19,2.5,NTFR
+204,Debt to equity ratio,12  Mar-19,0.1,NTFR
+205,Sales to assets ratio,12  Mar-19,0.9,NTFR
+206,Return on assets,12  Mar-19,4.4,NTFR
+207,Return on equity,12  Mar-19,13.3,NTFR
+208,Return on capital,12  Mar-19,31.1,NTFR
+209,Exports to sales,12  Mar-19,0.0,NTFR
+210,Imports to sales,12  Mar-19,0.0,NTFR
+211,Exports (fob),12  Mar-19,0.0,NTFR
+212,Imports (cif),12  Mar-19,0.0,NTFR
+213,Fx inflow,12  Mar-19,51.0,NTFR
+214,Fx outflow,12  Mar-19,22639.0,NTFR
+215,Net fx,12  Mar-19,-22588.0,NTFR
+216,From Operations,12  Mar-19,-27101.0,NTFR
+217,From Investments,12  Mar-19,-3029.0,NTFR
+218,From Financial Activity,12  Mar-19,30221.0,NTFR
+219,Net Cashflow,12  Mar-19,91.0,NTFR

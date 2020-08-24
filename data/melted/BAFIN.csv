@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,60210.0,BAFIN
+1,Other income,12  Mar-14*,40.0,BAFIN
+2,Total revenues,12  Mar-14*,60250.0,BAFIN
+3,Gross profit,12  Mar-14*,44904.0,BAFIN
+4,Depreciation,12  Mar-14*,309.0,BAFIN
+5,Interest,12  Mar-14*,15619.0,BAFIN
+6,Profit before tax,12  Mar-14*,29016.0,BAFIN
+7,Minority Interest,12  Mar-14*,-6469.0,BAFIN
+8,Prior Period Items,12  Mar-14*,-2.0,BAFIN
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,BAFIN
+10,Tax,12  Mar-14*,7105.0,BAFIN
+11,Profit after tax,12  Mar-14*,15441.0,BAFIN
+12,Gross profit margin,12  Mar-14*,74.6,BAFIN
+13,Effective tax rate,12  Mar-14*,24.5,BAFIN
+14,Net profit margin,12  Mar-14*,25.6,BAFIN
+15,Current assets,12  Mar-14*,332047.0,BAFIN
+16,Current liabilities,12  Mar-14*,381120.0,BAFIN
+17,Net working cap to sales,12  Mar-14*,-81.5,BAFIN
+18,Current ratio,12  Mar-14*,0.9,BAFIN
+19,Inventory Days,12  Mar-14*,0.0,BAFIN
+20,Debtors Days,12  Mar-14*,23.0,BAFIN
+21,Net fixed assets,12  Mar-14*,8348.0,BAFIN
+22,Share capital,12  Mar-14*,796.0,BAFIN
+23,"""Free"" reserves",12  Mar-14*,88722.0,BAFIN
+24,Net worth,12  Mar-14*,93112.0,BAFIN
+25,Long term debt,12  Mar-14*,103003.0,BAFIN
+26,Total assets,12  Mar-14*,743911.0,BAFIN
+27,Interest coverage,12  Mar-14*,2.9,BAFIN
+28,Debt to equity ratio,12  Mar-14*,1.1,BAFIN
+29,Sales to assets ratio,12  Mar-14*,0.1,BAFIN
+30,Return on assets,12  Mar-14*,4.2,BAFIN
+31,Return on equity,12  Mar-14*,16.6,BAFIN
+32,Return on capital,12  Mar-14*,19.5,BAFIN
+33,Exports to sales,12  Mar-14*,0.0,BAFIN
+34,Imports to sales,12  Mar-14*,0.0,BAFIN
+35,Exports (fob),12  Mar-14*,0.0,BAFIN
+36,Imports (cif),12  Mar-14*,0.0,BAFIN
+37,Fx inflow,12  Mar-14*,0.0,BAFIN
+38,Fx outflow,12  Mar-14*,20.0,BAFIN
+39,Net fx,12  Mar-14*,-20.0,BAFIN
+40,From Operations,12  Mar-14*,-97902.0,BAFIN
+41,From Investments,12  Mar-14*,39078.0,BAFIN
+42,From Financial Activity,12  Mar-14*,65215.0,BAFIN
+43,Net Cashflow,12  Mar-14*,6391.0,BAFIN
+44,Net Sales,12  Mar-15*,75904.0,BAFIN
+45,Other income,12  Mar-15*,34.0,BAFIN
+46,Total revenues,12  Mar-15*,75938.0,BAFIN
+47,Gross profit,12  Mar-15*,55105.0,BAFIN
+48,Depreciation,12  Mar-15*,382.0,BAFIN
+49,Interest,12  Mar-15*,22296.0,BAFIN
+50,Profit before tax,12  Mar-15*,32462.0,BAFIN
+51,Minority Interest,12  Mar-15*,-7194.0,BAFIN
+52,Prior Period Items,12  Mar-15*,50.0,BAFIN
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,BAFIN
+54,Tax,12  Mar-15*,8419.0,BAFIN
+55,Profit after tax,12  Mar-15*,16898.0,BAFIN
+56,Gross profit margin,12  Mar-15*,72.6,BAFIN
+57,Effective tax rate,12  Mar-15*,25.9,BAFIN
+58,Net profit margin,12  Mar-15*,22.3,BAFIN
+59,Current assets,12  Mar-15*,388572.0,BAFIN
+60,Current liabilities,12  Mar-15*,381113.0,BAFIN
+61,Net working cap to sales,12  Mar-15*,9.8,BAFIN
+62,Current ratio,12  Mar-15*,1.0,BAFIN
+63,Inventory Days,12  Mar-15*,0.0,BAFIN
+64,Debtors Days,12  Mar-15*,26.0,BAFIN
+65,Net fixed assets,12  Mar-15*,8344.0,BAFIN
+66,Share capital,12  Mar-15*,796.0,BAFIN
+67,"""Free"" reserves",12  Mar-15*,103817.0,BAFIN
+68,Net worth,12  Mar-15*,109646.0,BAFIN
+69,Long term debt,12  Mar-15*,179310.0,BAFIN
+70,Total assets,12  Mar-15*,882398.0,BAFIN
+71,Interest coverage,12  Mar-15*,2.5,BAFIN
+72,Debt to equity ratio,12  Mar-15*,1.6,BAFIN
+73,Sales to assets ratio,12  Mar-15*,0.1,BAFIN
+74,Return on assets,12  Mar-15*,4.4,BAFIN
+75,Return on equity,12  Mar-15*,15.4,BAFIN
+76,Return on capital,12  Mar-15*,16.5,BAFIN
+77,Exports to sales,12  Mar-15*,0.0,BAFIN
+78,Imports to sales,12  Mar-15*,0.0,BAFIN
+79,Exports (fob),12  Mar-15*,0.0,BAFIN
+80,Imports (cif),12  Mar-15*,0.0,BAFIN
+81,Fx inflow,12  Mar-15*,0.0,BAFIN
+82,Fx outflow,12  Mar-15*,15.0,BAFIN
+83,Net fx,12  Mar-15*,-15.0,BAFIN
+84,From Operations,12  Mar-15*,-107311.0,BAFIN
+85,From Investments,12  Mar-15*,37093.0,BAFIN
+86,From Financial Activity,12  Mar-15*,68388.0,BAFIN
+87,Net Cashflow,12  Mar-15*,-1831.0,BAFIN
+88,Net Sales,12  Mar-16*,75314.0,BAFIN
+89,Other income,12  Mar-16*,3.0,BAFIN
+90,Total revenues,12  Mar-16*,75317.0,BAFIN
+91,Gross profit,12  Mar-16*,58271.0,BAFIN
+92,Depreciation,12  Mar-16*,577.0,BAFIN
+93,Interest,12  Mar-16*,28770.0,BAFIN
+94,Profit before tax,12  Mar-16*,28927.0,BAFIN
+95,Minority Interest,12  Mar-16*,9113.0,BAFIN
+96,Prior Period Items,12  Mar-16*,0.0,BAFIN
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,BAFIN
+98,Tax,12  Mar-16*,10295.0,BAFIN
+99,Profit after tax,12  Mar-16*,27745.0,BAFIN
+100,Gross profit margin,12  Mar-16*,77.4,BAFIN
+101,Effective tax rate,12  Mar-16*,35.6,BAFIN
+102,Net profit margin,12  Mar-16*,36.8,BAFIN
+103,Current assets,12  Mar-16*,442824.0,BAFIN
+104,Current liabilities,12  Mar-16*,401399.0,BAFIN
+105,Net working cap to sales,12  Mar-16*,55.0,BAFIN
+106,Current ratio,12  Mar-16*,1.1,BAFIN
+107,Inventory Days,12  Mar-16*,0.0,BAFIN
+108,Debtors Days,12  Mar-16*,33.0,BAFIN
+109,Net fixed assets,12  Mar-16*,8553.0,BAFIN
+110,Share capital,12  Mar-16*,796.0,BAFIN
+111,"""Free"" reserves",12  Mar-16*,133115.0,BAFIN
+112,Net worth,12  Mar-16*,133911.0,BAFIN
+113,Long term debt,12  Mar-16*,245494.0,BAFIN
+114,Total assets,12  Mar-16*,1039615.0,BAFIN
+115,Interest coverage,12  Mar-16*,2.0,BAFIN
+116,Debt to equity ratio,12  Mar-16*,1.8,BAFIN
+117,Sales to assets ratio,12  Mar-16*,0.1,BAFIN
+118,Return on assets,12  Mar-16*,5.4,BAFIN
+119,Return on equity,12  Mar-16*,20.7,BAFIN
+120,Return on capital,12  Mar-16*,17.6,BAFIN
+121,Exports to sales,12  Mar-16*,0.0,BAFIN
+122,Imports to sales,12  Mar-16*,0.0,BAFIN
+123,Exports (fob),12  Mar-16*,0.0,BAFIN
+124,Imports (cif),12  Mar-16*,0.0,BAFIN
+125,Fx inflow,12  Mar-16*,0.0,BAFIN
+126,Fx outflow,12  Mar-16*,6.0,BAFIN
+127,Net fx,12  Mar-16*,-6.0,BAFIN
+128,From Operations,12  Mar-16*,-97901.0,BAFIN
+129,From Investments,12  Mar-16*,-8858.0,BAFIN
+130,From Financial Activity,12  Mar-16*,116016.0,BAFIN
+131,Net Cashflow,12  Mar-16*,9257.0,BAFIN
+132,Net Sales,12  Mar-17*,100905.0,BAFIN
+133,Other income,12  Mar-17*,6.0,BAFIN
+134,Total revenues,12  Mar-17*,100910.0,BAFIN
+135,Gross profit,12  Mar-17*,87129.0,BAFIN
+136,Depreciation,12  Mar-17*,726.0,BAFIN
+137,Interest,12  Mar-17*,37163.0,BAFIN
+138,Profit before tax,12  Mar-17*,49245.0,BAFIN
+139,Minority Interest,12  Mar-17*,-11878.0,BAFIN
+140,Prior Period Items,12  Mar-17*,0.0,BAFIN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,BAFIN
+142,Tax,12  Mar-17*,14748.0,BAFIN
+143,Profit after tax,12  Mar-17*,22619.0,BAFIN
+144,Gross profit margin,12  Mar-17*,86.3,BAFIN
+145,Effective tax rate,12  Mar-17*,29.9,BAFIN
+146,Net profit margin,12  Mar-17*,22.4,BAFIN
+147,Current assets,12  Mar-17*,576499.0,BAFIN
+148,Current liabilities,12  Mar-17*,498123.0,BAFIN
+149,Net working cap to sales,12  Mar-17*,77.7,BAFIN
+150,Current ratio,12  Mar-17*,1.2,BAFIN
+151,Inventory Days,12  Mar-17*,0.0,BAFIN
+152,Debtors Days,12  Mar-17*,45.0,BAFIN
+153,Net fixed assets,12  Mar-17*,9537.0,BAFIN
+154,Share capital,12  Mar-17*,796.0,BAFIN
+155,"""Free"" reserves",12  Mar-17*,157365.0,BAFIN
+156,Net worth,12  Mar-17*,158161.0,BAFIN
+157,Long term debt,12  Mar-17*,323885.0,BAFIN
+158,Total assets,12  Mar-17*,1286232.0,BAFIN
+159,Interest coverage,12  Mar-17*,2.3,BAFIN
+160,Debt to equity ratio,12  Mar-17*,2.0,BAFIN
+161,Sales to assets ratio,12  Mar-17*,0.1,BAFIN
+162,Return on assets,12  Mar-17*,4.6,BAFIN
+163,Return on equity,12  Mar-17*,14.3,BAFIN
+164,Return on capital,12  Mar-17*,15.5,BAFIN
+165,Exports to sales,12  Mar-17*,0.0,BAFIN
+166,Imports to sales,12  Mar-17*,0.0,BAFIN
+167,Exports (fob),12  Mar-17*,0.0,BAFIN
+168,Imports (cif),12  Mar-17*,0.0,BAFIN
+169,Fx inflow,12  Mar-17*,0.0,BAFIN
+170,Fx outflow,12  Mar-17*,6.0,BAFIN
+171,Net fx,12  Mar-17*,-6.0,BAFIN
+172,From Operations,12  Mar-17*,-109222.0,BAFIN
+173,From Investments,12  Mar-17*,1513.0,BAFIN
+174,From Financial Activity,12  Mar-17*,125128.0,BAFIN
+175,Net Cashflow,12  Mar-17*,17418.0,BAFIN
+176,Net Sales,12  Mar-18*,135616.0,BAFIN
+177,Other income,12  Mar-18*,5.0,BAFIN
+178,Total revenues,12  Mar-18*,135622.0,BAFIN
+179,Gross profit,12  Mar-18*,109645.0,BAFIN
+180,Depreciation,12  Mar-18*,1034.0,BAFIN
+181,Interest,12  Mar-18*,45514.0,BAFIN
+182,Profit before tax,12  Mar-18*,63102.0,BAFIN
+183,Minority Interest,12  Mar-18*,-15984.0,BAFIN
+184,Prior Period Items,12  Mar-18*,0.0,BAFIN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,BAFIN
+186,Tax,12  Mar-18*,19703.0,BAFIN
+187,Profit after tax,12  Mar-18*,27414.0,BAFIN
+188,Gross profit margin,12  Mar-18*,80.8,BAFIN
+189,Effective tax rate,12  Mar-18*,31.2,BAFIN
+190,Net profit margin,12  Mar-18*,20.2,BAFIN
+191,Current assets,12  Mar-18*,676765.0,BAFIN
+192,Current liabilities,12  Mar-18*,567389.0,BAFIN
+193,Net working cap to sales,12  Mar-18*,80.7,BAFIN
+194,Current ratio,12  Mar-18*,1.2,BAFIN
+195,Inventory Days,12  Mar-18*,0.0,BAFIN
+196,Debtors Days,12  Mar-18*,32.0,BAFIN
+197,Net fixed assets,12  Mar-18*,10896.0,BAFIN
+198,Share capital,12  Mar-18*,796.0,BAFIN
+199,"""Free"" reserves",12  Mar-18*,206391.0,BAFIN
+200,Net worth,12  Mar-18*,207186.0,BAFIN
+201,Long term debt,12  Mar-18*,450688.0,BAFIN
+202,Total assets,12  Mar-18*,1591261.0,BAFIN
+203,Interest coverage,12  Mar-18*,2.4,BAFIN
+204,Debt to equity ratio,12  Mar-18*,2.2,BAFIN
+205,Sales to assets ratio,12  Mar-18*,0.1,BAFIN
+206,Return on assets,12  Mar-18*,4.6,BAFIN
+207,Return on equity,12  Mar-18*,13.2,BAFIN
+208,Return on capital,12  Mar-18*,14.1,BAFIN
+209,Exports to sales,12  Mar-18*,0.0,BAFIN
+210,Imports to sales,12  Mar-18*,0.0,BAFIN
+211,Exports (fob),12  Mar-18*,0.0,BAFIN
+212,Imports (cif),12  Mar-18*,0.0,BAFIN
+213,Fx inflow,12  Mar-18*,0.0,BAFIN
+214,Fx outflow,12  Mar-18*,7.0,BAFIN
+215,Net fx,12  Mar-18*,-7.0,BAFIN
+216,From Operations,12  Mar-18*,-193608.0,BAFIN
+217,From Investments,12  Mar-18*,-10249.0,BAFIN
+218,From Financial Activity,12  Mar-18*,194757.0,BAFIN
+219,Net Cashflow,12  Mar-18*,-9100.0,BAFIN

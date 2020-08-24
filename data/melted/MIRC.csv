@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10735.0,MIRC
+1,Other income,12  Mar-15*,105.0,MIRC
+2,Total revenues,12  Mar-15*,10840.0,MIRC
+3,Gross profit,12  Mar-15*,274.0,MIRC
+4,Depreciation,12  Mar-15*,153.0,MIRC
+5,Interest,12  Mar-15*,339.0,MIRC
+6,Profit before tax,12  Mar-15*,-114.0,MIRC
+7,Minority Interest,12  Mar-15*,0.0,MIRC
+8,Prior Period Items,12  Mar-15*,0.0,MIRC
+9,Extraordinary Inc (Exp),12  Mar-15*,95.0,MIRC
+10,Tax,12  Mar-15*,26.0,MIRC
+11,Profit after tax,12  Mar-15*,-46.0,MIRC
+12,Gross profit margin,12  Mar-15*,2.6,MIRC
+13,Effective tax rate,12  Mar-15*,-23.2,MIRC
+14,Net profit margin,12  Mar-15*,-0.4,MIRC
+15,Current assets,12  Mar-15*,4903.0,MIRC
+16,Current liabilities,12  Mar-15*,5112.0,MIRC
+17,Net working cap to sales,12  Mar-15*,-1.9,MIRC
+18,Current ratio,12  Mar-15*,1.0,MIRC
+19,Inventory Days,12  Mar-15*,97.0,MIRC
+20,Debtors Days,12  Mar-15*,43.0,MIRC
+21,Net fixed assets,12  Mar-15*,1393.0,MIRC
+22,Share capital,12  Mar-15*,196.0,MIRC
+23,"""Free"" reserves",12  Mar-15*,999.0,MIRC
+24,Net worth,12  Mar-15*,1513.0,MIRC
+25,Long term debt,12  Mar-15*,14.0,MIRC
+26,Total assets,12  Mar-15*,6655.0,MIRC
+27,Interest coverage,12  Mar-15*,0.7,MIRC
+28,Debt to equity ratio,12  Mar-15*,0.0,MIRC
+29,Sales to assets ratio,12  Mar-15*,1.6,MIRC
+30,Return on assets,12  Mar-15*,4.4,MIRC
+31,Return on equity,12  Mar-15*,-3.0,MIRC
+32,Return on capital,12  Mar-15*,20.9,MIRC
+33,Exports to sales,12  Mar-15*,0.8,MIRC
+34,Imports to sales,12  Mar-15*,57.6,MIRC
+35,Exports (fob),12  Mar-15*,91.0,MIRC
+36,Imports (cif),12  Mar-15*,6179.0,MIRC
+37,Fx inflow,12  Mar-15*,91.0,MIRC
+38,Fx outflow,12  Mar-15*,6254.0,MIRC
+39,Net fx,12  Mar-15*,-6163.0,MIRC
+40,From Operations,12  Mar-15*,428.0,MIRC
+41,From Investments,12  Mar-15*,84.0,MIRC
+42,From Financial Activity,12  Mar-15*,-583.0,MIRC
+43,Net Cashflow,12  Mar-15*,-71.0,MIRC
+44,Net Sales,12  Mar-16*,7720.0,MIRC
+45,Other income,12  Mar-16*,33.0,MIRC
+46,Total revenues,12  Mar-16*,7752.0,MIRC
+47,Gross profit,12  Mar-16*,-7.0,MIRC
+48,Depreciation,12  Mar-16*,116.0,MIRC
+49,Interest,12  Mar-16*,288.0,MIRC
+50,Profit before tax,12  Mar-16*,-379.0,MIRC
+51,Minority Interest,12  Mar-16*,0.0,MIRC
+52,Prior Period Items,12  Mar-16*,0.0,MIRC
+53,Extraordinary Inc (Exp),12  Mar-16*,47.0,MIRC
+54,Tax,12  Mar-16*,-62.0,MIRC
+55,Profit after tax,12  Mar-16*,-270.0,MIRC
+56,Gross profit margin,12  Mar-16*,-0.1,MIRC
+57,Effective tax rate,12  Mar-16*,16.3,MIRC
+58,Net profit margin,12  Mar-16*,-3.5,MIRC
+59,Current assets,12  Mar-16*,4147.0,MIRC
+60,Current liabilities,12  Mar-16*,4382.0,MIRC
+61,Net working cap to sales,12  Mar-16*,-3.0,MIRC
+62,Current ratio,12  Mar-16*,0.9,MIRC
+63,Inventory Days,12  Mar-16*,114.0,MIRC
+64,Debtors Days,12  Mar-16*,59.0,MIRC
+65,Net fixed assets,12  Mar-16*,1148.0,MIRC
+66,Share capital,12  Mar-16*,196.0,MIRC
+67,"""Free"" reserves",12  Mar-16*,1025.0,MIRC
+68,Net worth,12  Mar-16*,1222.0,MIRC
+69,Long term debt,12  Mar-16*,71.0,MIRC
+70,Total assets,12  Mar-16*,5758.0,MIRC
+71,Interest coverage,12  Mar-16*,-0.3,MIRC
+72,Debt to equity ratio,12  Mar-16*,0.1,MIRC
+73,Sales to assets ratio,12  Mar-16*,1.3,MIRC
+74,Return on assets,12  Mar-16*,0.3,MIRC
+75,Return on equity,12  Mar-16*,-22.1,MIRC
+76,Return on capital,12  Mar-16*,-3.4,MIRC
+77,Exports to sales,12  Mar-16*,2.3,MIRC
+78,Imports to sales,12  Mar-16*,52.5,MIRC
+79,Exports (fob),12  Mar-16*,174.0,MIRC
+80,Imports (cif),12  Mar-16*,4052.0,MIRC
+81,Fx inflow,12  Mar-16*,174.0,MIRC
+82,Fx outflow,12  Mar-16*,4134.0,MIRC
+83,Net fx,12  Mar-16*,-3960.0,MIRC
+84,From Operations,12  Mar-16*,218.0,MIRC
+85,From Investments,12  Mar-16*,127.0,MIRC
+86,From Financial Activity,12  Mar-16*,-379.0,MIRC
+87,Net Cashflow,12  Mar-16*,-34.0,MIRC
+88,Net Sales,12  Mar-17*,7288.0,MIRC
+89,Other income,12  Mar-17*,20.0,MIRC
+90,Total revenues,12  Mar-17*,7308.0,MIRC
+91,Gross profit,12  Mar-17*,335.0,MIRC
+92,Depreciation,12  Mar-17*,105.0,MIRC
+93,Interest,12  Mar-17*,206.0,MIRC
+94,Profit before tax,12  Mar-17*,45.0,MIRC
+95,Minority Interest,12  Mar-17*,0.0,MIRC
+96,Prior Period Items,12  Mar-17*,0.0,MIRC
+97,Extraordinary Inc (Exp),12  Mar-17*,-237.0,MIRC
+98,Tax,12  Mar-17*,0.0,MIRC
+99,Profit after tax,12  Mar-17*,-192.0,MIRC
+100,Gross profit margin,12  Mar-17*,4.6,MIRC
+101,Effective tax rate,12  Mar-17*,0.0,MIRC
+102,Net profit margin,12  Mar-17*,-2.6,MIRC
+103,Current assets,12  Mar-17*,3689.0,MIRC
+104,Current liabilities,12  Mar-17*,3835.0,MIRC
+105,Net working cap to sales,12  Mar-17*,-2.0,MIRC
+106,Current ratio,12  Mar-17*,1.0,MIRC
+107,Inventory Days,12  Mar-17*,103.0,MIRC
+108,Debtors Days,12  Mar-17*,63.0,MIRC
+109,Net fixed assets,12  Mar-17*,1140.0,MIRC
+110,Share capital,12  Mar-17*,212.0,MIRC
+111,"""Free"" reserves",12  Mar-17*,1031.0,MIRC
+112,Net worth,12  Mar-17*,1243.0,MIRC
+113,Long term debt,12  Mar-17*,54.0,MIRC
+114,Total assets,12  Mar-17*,5173.0,MIRC
+115,Interest coverage,12  Mar-17*,1.2,MIRC
+116,Debt to equity ratio,12  Mar-17*,0.0,MIRC
+117,Sales to assets ratio,12  Mar-17*,1.4,MIRC
+118,Return on assets,12  Mar-17*,0.3,MIRC
+119,Return on equity,12  Mar-17*,-15.5,MIRC
+120,Return on capital,12  Mar-17*,1.0,MIRC
+121,Exports to sales,12  Mar-17*,2.7,MIRC
+122,Imports to sales,12  Mar-17*,52.2,MIRC
+123,Exports (fob),12  Mar-17*,197.0,MIRC
+124,Imports (cif),12  Mar-17*,3804.0,MIRC
+125,Fx inflow,12  Mar-17*,197.0,MIRC
+126,Fx outflow,12  Mar-17*,3884.0,MIRC
+127,Net fx,12  Mar-17*,-3687.0,MIRC
+128,From Operations,12  Mar-17*,500.0,MIRC
+129,From Investments,12  Mar-17*,-152.0,MIRC
+130,From Financial Activity,12  Mar-17*,-372.0,MIRC
+131,Net Cashflow,12  Mar-17*,-23.0,MIRC
+132,Net Sales,12  Mar-18*,7281.0,MIRC
+133,Other income,12  Mar-18*,47.0,MIRC
+134,Total revenues,12  Mar-18*,7328.0,MIRC
+135,Gross profit,12  Mar-18*,423.0,MIRC
+136,Depreciation,12  Mar-18*,95.0,MIRC
+137,Interest,12  Mar-18*,141.0,MIRC
+138,Profit before tax,12  Mar-18*,235.0,MIRC
+139,Minority Interest,12  Mar-18*,0.0,MIRC
+140,Prior Period Items,12  Mar-18*,0.0,MIRC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MIRC
+142,Tax,12  Mar-18*,0.0,MIRC
+143,Profit after tax,12  Mar-18*,235.0,MIRC
+144,Gross profit margin,12  Mar-18*,5.8,MIRC
+145,Effective tax rate,12  Mar-18*,0.0,MIRC
+146,Net profit margin,12  Mar-18*,3.2,MIRC
+147,Current assets,12  Mar-18*,3974.0,MIRC
+148,Current liabilities,12  Mar-18*,2966.0,MIRC
+149,Net working cap to sales,12  Mar-18*,13.8,MIRC
+150,Current ratio,12  Mar-18*,1.3,MIRC
+151,Inventory Days,12  Mar-18*,113.0,MIRC
+152,Debtors Days,12  Mar-18*,67.0,MIRC
+153,Net fixed assets,12  Mar-18*,1067.0,MIRC
+154,Share capital,12  Mar-18*,231.0,MIRC
+155,"""Free"" reserves",12  Mar-18*,1963.0,MIRC
+156,Net worth,12  Mar-18*,2194.0,MIRC
+157,Long term debt,12  Mar-18*,29.0,MIRC
+158,Total assets,12  Mar-18*,5426.0,MIRC
+159,Interest coverage,12  Mar-18*,2.7,MIRC
+160,Debt to equity ratio,12  Mar-18*,0.0,MIRC
+161,Sales to assets ratio,12  Mar-18*,1.3,MIRC
+162,Return on assets,12  Mar-18*,6.9,MIRC
+163,Return on equity,12  Mar-18*,10.7,MIRC
+164,Return on capital,12  Mar-18*,16.9,MIRC
+165,Exports to sales,12  Mar-18*,1.9,MIRC
+166,Imports to sales,12  Mar-18*,0.0,MIRC
+167,Exports (fob),12  Mar-18*,136.0,MIRC
+168,Imports (cif),12  Mar-18*,0.0,MIRC
+169,Fx inflow,12  Mar-18*,136.0,MIRC
+170,Fx outflow,12  Mar-18*,81.0,MIRC
+171,Net fx,12  Mar-18*,55.0,MIRC
+172,From Operations,12  Mar-18*,472.0,MIRC
+173,From Investments,12  Mar-18*,-17.0,MIRC
+174,From Financial Activity,12  Mar-18*,-426.0,MIRC
+175,Net Cashflow,12  Mar-18*,30.0,MIRC
+176,Net Sales,12  Mar-19*,6445.0,MIRC
+177,Other income,12  Mar-19*,36.0,MIRC
+178,Total revenues,12  Mar-19*,6481.0,MIRC
+179,Gross profit,12  Mar-19*,166.0,MIRC
+180,Depreciation,12  Mar-19*,83.0,MIRC
+181,Interest,12  Mar-19*,148.0,MIRC
+182,Profit before tax,12  Mar-19*,-28.0,MIRC
+183,Minority Interest,12  Mar-19*,0.0,MIRC
+184,Prior Period Items,12  Mar-19*,0.0,MIRC
+185,Extraordinary Inc (Exp),12  Mar-19*,-16.0,MIRC
+186,Tax,12  Mar-19*,0.0,MIRC
+187,Profit after tax,12  Mar-19*,-44.0,MIRC
+188,Gross profit margin,12  Mar-19*,2.6,MIRC
+189,Effective tax rate,12  Mar-19*,0.0,MIRC
+190,Net profit margin,12  Mar-19*,-0.7,MIRC
+191,Current assets,12  Mar-19*,3615.0,MIRC
+192,Current liabilities,12  Mar-19*,2558.0,MIRC
+193,Net working cap to sales,12  Mar-19*,16.4,MIRC
+194,Current ratio,12  Mar-19*,1.4,MIRC
+195,Inventory Days,12  Mar-19*,122.0,MIRC
+196,Debtors Days,12  Mar-19*,68.0,MIRC
+197,Net fixed assets,12  Mar-19*,1014.0,MIRC
+198,Share capital,12  Mar-19*,231.0,MIRC
+199,"""Free"" reserves",12  Mar-19*,1924.0,MIRC
+200,Net worth,12  Mar-19*,2156.0,MIRC
+201,Long term debt,12  Mar-19*,176.0,MIRC
+202,Total assets,12  Mar-19*,5128.0,MIRC
+203,Interest coverage,12  Mar-19*,0.8,MIRC
+204,Debt to equity ratio,12  Mar-19*,0.1,MIRC
+205,Sales to assets ratio,12  Mar-19*,1.3,MIRC
+206,Return on assets,12  Mar-19*,2.0,MIRC
+207,Return on equity,12  Mar-19*,-2.0,MIRC
+208,Return on capital,12  Mar-19*,4.5,MIRC
+209,Exports to sales,12  Mar-19*,1.4,MIRC
+210,Imports to sales,12  Mar-19*,0.0,MIRC
+211,Exports (fob),12  Mar-19*,90.0,MIRC
+212,Imports (cif),12  Mar-19*,0.0,MIRC
+213,Fx inflow,12  Mar-19*,90.0,MIRC
+214,Fx outflow,12  Mar-19*,58.0,MIRC
+215,Net fx,12  Mar-19*,32.0,MIRC
+216,From Operations,12  Mar-19*,-151.0,MIRC
+217,From Investments,12  Mar-19*,19.0,MIRC
+218,From Financial Activity,12  Mar-19*,24.0,MIRC
+219,Net Cashflow,12  Mar-19*,-108.0,MIRC

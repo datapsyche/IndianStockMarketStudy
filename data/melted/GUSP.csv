@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,10507.0,GUSP
+1,Other income,12  Mar-14*,569.0,GUSP
+2,Total revenues,12  Mar-14*,11076.0,GUSP
+3,Gross profit,12  Mar-14*,9289.0,GUSP
+4,Depreciation,12  Mar-14*,1839.0,GUSP
+5,Interest,12  Mar-14*,1419.0,GUSP
+6,Profit before tax,12  Mar-14*,6600.0,GUSP
+7,Minority Interest,12  Mar-14*,-16.0,GUSP
+8,Prior Period Items,12  Mar-14*,-20.0,GUSP
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,GUSP
+10,Tax,12  Mar-14*,2407.0,GUSP
+11,Profit after tax,12  Mar-14*,4158.0,GUSP
+12,Gross profit margin,12  Mar-14*,88.4,GUSP
+13,Effective tax rate,12  Mar-14*,36.5,GUSP
+14,Net profit margin,12  Mar-14*,39.6,GUSP
+15,Current assets,12  Mar-14*,9125.0,GUSP
+16,Current liabilities,12  Mar-14*,6308.0,GUSP
+17,Net working cap to sales,12  Mar-14*,26.8,GUSP
+18,Current ratio,12  Mar-14*,1.4,GUSP
+19,Inventory Days,12  Mar-14*,24.0,GUSP
+20,Debtors Days,12  Mar-14*,87.0,GUSP
+21,Net fixed assets,12  Mar-14*,40093.0,GUSP
+22,Share capital,12  Mar-14*,5627.0,GUSP
+23,"""Free"" reserves",12  Mar-14*,28142.0,GUSP
+24,Net worth,12  Mar-14*,33855.0,GUSP
+25,Long term debt,12  Mar-14*,10365.0,GUSP
+26,Total assets,12  Mar-14*,56248.0,GUSP
+27,Interest coverage,12  Mar-14*,5.7,GUSP
+28,Debt to equity ratio,12  Mar-14*,0.3,GUSP
+29,Sales to assets ratio,12  Mar-14*,0.2,GUSP
+30,Return on assets,12  Mar-14*,9.9,GUSP
+31,Return on equity,12  Mar-14*,12.3,GUSP
+32,Return on capital,12  Mar-14*,18.1,GUSP
+33,Exports to sales,12  Mar-14*,0.0,GUSP
+34,Imports to sales,12  Mar-14*,0.0,GUSP
+35,Exports (fob),12  Mar-14*,0.0,GUSP
+36,Imports (cif),12  Mar-14*,0.0,GUSP
+37,Fx inflow,12  Mar-14*,0.0,GUSP
+38,Fx outflow,12  Mar-14*,109.0,GUSP
+39,Net fx,12  Mar-14*,-109.0,GUSP
+40,From Operations,12  Mar-14*,6439.0,GUSP
+41,From Investments,12  Mar-14*,-7083.0,GUSP
+42,From Financial Activity,12  Mar-14*,-3376.0,GUSP
+43,Net Cashflow,12  Mar-14*,-4020.0,GUSP
+44,Net Sales,12  Mar-15*,10646.0,GUSP
+45,Other income,12  Mar-15*,553.0,GUSP
+46,Total revenues,12  Mar-15*,11199.0,GUSP
+47,Gross profit,12  Mar-15*,9280.0,GUSP
+48,Depreciation,12  Mar-15*,1892.0,GUSP
+49,Interest,12  Mar-15*,1178.0,GUSP
+50,Profit before tax,12  Mar-15*,6762.0,GUSP
+51,Minority Interest,12  Mar-15*,-13.0,GUSP
+52,Prior Period Items,12  Mar-15*,627.0,GUSP
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,GUSP
+54,Tax,12  Mar-15*,2513.0,GUSP
+55,Profit after tax,12  Mar-15*,4863.0,GUSP
+56,Gross profit margin,12  Mar-15*,87.2,GUSP
+57,Effective tax rate,12  Mar-15*,37.2,GUSP
+58,Net profit margin,12  Mar-15*,45.7,GUSP
+59,Current assets,12  Mar-15*,7465.0,GUSP
+60,Current liabilities,12  Mar-15*,4700.0,GUSP
+61,Net working cap to sales,12  Mar-15*,26.0,GUSP
+62,Current ratio,12  Mar-15*,1.6,GUSP
+63,Inventory Days,12  Mar-15*,38.0,GUSP
+64,Debtors Days,12  Mar-15*,52.0,GUSP
+65,Net fixed assets,12  Mar-15*,44220.0,GUSP
+66,Share capital,12  Mar-15*,5630.0,GUSP
+67,"""Free"" reserves",12  Mar-15*,30646.0,GUSP
+68,Net worth,12  Mar-15*,36276.0,GUSP
+69,Long term debt,12  Mar-15*,8791.0,GUSP
+70,Total assets,12  Mar-15*,55325.0,GUSP
+71,Interest coverage,12  Mar-15*,6.7,GUSP
+72,Debt to equity ratio,12  Mar-15*,0.2,GUSP
+73,Sales to assets ratio,12  Mar-15*,0.2,GUSP
+74,Return on assets,12  Mar-15*,10.9,GUSP
+75,Return on equity,12  Mar-15*,13.4,GUSP
+76,Return on capital,12  Mar-15*,19.0,GUSP
+77,Exports to sales,12  Mar-15*,0.0,GUSP
+78,Imports to sales,12  Mar-15*,0.0,GUSP
+79,Exports (fob),12  Mar-15*,0.0,GUSP
+80,Imports (cif),12  Mar-15*,0.0,GUSP
+81,Fx inflow,12  Mar-15*,0.0,GUSP
+82,Fx outflow,12  Mar-15*,124.0,GUSP
+83,Net fx,12  Mar-15*,-124.0,GUSP
+84,From Operations,12  Mar-15*,6261.0,GUSP
+85,From Investments,12  Mar-15*,-2010.0,GUSP
+86,From Financial Activity,12  Mar-15*,-4383.0,GUSP
+87,Net Cashflow,12  Mar-15*,-133.0,GUSP
+88,Net Sales,12  Mar-16*,9919.0,GUSP
+89,Other income,12  Mar-16*,55.0,GUSP
+90,Total revenues,12  Mar-16*,9974.0,GUSP
+91,Gross profit,12  Mar-16*,9078.0,GUSP
+92,Depreciation,12  Mar-16*,1829.0,GUSP
+93,Interest,12  Mar-16*,799.0,GUSP
+94,Profit before tax,12  Mar-16*,6504.0,GUSP
+95,Minority Interest,12  Mar-16*,463.0,GUSP
+96,Prior Period Items,12  Mar-16*,0.0,GUSP
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,GUSP
+98,Tax,12  Mar-16*,2315.0,GUSP
+99,Profit after tax,12  Mar-16*,4652.0,GUSP
+100,Gross profit margin,12  Mar-16*,91.5,GUSP
+101,Effective tax rate,12  Mar-16*,35.6,GUSP
+102,Net profit margin,12  Mar-16*,46.9,GUSP
+103,Current assets,12  Mar-16*,8902.0,GUSP
+104,Current liabilities,12  Mar-16*,4726.0,GUSP
+105,Net working cap to sales,12  Mar-16*,42.1,GUSP
+106,Current ratio,12  Mar-16*,1.9,GUSP
+107,Inventory Days,12  Mar-16*,43.0,GUSP
+108,Debtors Days,12  Mar-16*,56.0,GUSP
+109,Net fixed assets,12  Mar-16*,45591.0,GUSP
+110,Share capital,12  Mar-16*,5633.0,GUSP
+111,"""Free"" reserves",12  Mar-16*,34231.0,GUSP
+112,Net worth,12  Mar-16*,39864.0,GUSP
+113,Long term debt,12  Mar-16*,7905.0,GUSP
+114,Total assets,12  Mar-16*,58384.0,GUSP
+115,Interest coverage,12  Mar-16*,9.1,GUSP
+116,Debt to equity ratio,12  Mar-16*,0.2,GUSP
+117,Sales to assets ratio,12  Mar-16*,0.2,GUSP
+118,Return on assets,12  Mar-16*,9.3,GUSP
+119,Return on equity,12  Mar-16*,11.7,GUSP
+120,Return on capital,12  Mar-16*,16.3,GUSP
+121,Exports to sales,12  Mar-16*,0.0,GUSP
+122,Imports to sales,12  Mar-16*,0.0,GUSP
+123,Exports (fob),12  Mar-16*,0.0,GUSP
+124,Imports (cif),12  Mar-16*,0.0,GUSP
+125,Fx inflow,12  Mar-16*,0.0,GUSP
+126,Fx outflow,12  Mar-16*,71.0,GUSP
+127,Net fx,12  Mar-16*,-71.0,GUSP
+128,From Operations,12  Mar-16*,6027.0,GUSP
+129,From Investments,12  Mar-16*,-3206.0,GUSP
+130,From Financial Activity,12  Mar-16*,-2972.0,GUSP
+131,Net Cashflow,12  Mar-16*,-151.0,GUSP
+132,Net Sales,12  Mar-17,10276.0,GUSP
+133,Other income,12  Mar-17,882.0,GUSP
+134,Total revenues,12  Mar-17,11158.0,GUSP
+135,Gross profit,12  Mar-17,8883.0,GUSP
+136,Depreciation,12  Mar-17,1791.0,GUSP
+137,Interest,12  Mar-17,596.0,GUSP
+138,Profit before tax,12  Mar-17,7378.0,GUSP
+139,Minority Interest,12  Mar-17,0.0,GUSP
+140,Prior Period Items,12  Mar-17,0.0,GUSP
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,GUSP
+142,Tax,12  Mar-17,2412.0,GUSP
+143,Profit after tax,12  Mar-17,4966.0,GUSP
+144,Gross profit margin,12  Mar-17,86.4,GUSP
+145,Effective tax rate,12  Mar-17,32.7,GUSP
+146,Net profit margin,12  Mar-17,48.3,GUSP
+147,Current assets,12  Mar-17,10773.0,GUSP
+148,Current liabilities,12  Mar-17,3236.0,GUSP
+149,Net working cap to sales,12  Mar-17,73.3,GUSP
+150,Current ratio,12  Mar-17,3.3,GUSP
+151,Inventory Days,12  Mar-17,40.0,GUSP
+152,Debtors Days,12  Mar-17,42.0,GUSP
+153,Net fixed assets,12  Mar-17,46230.0,GUSP
+154,Share capital,12  Mar-17,5636.0,GUSP
+155,"""Free"" reserves",12  Mar-17,39324.0,GUSP
+156,Net worth,12  Mar-17,44960.0,GUSP
+157,Long term debt,12  Mar-17,5012.0,GUSP
+158,Total assets,12  Mar-17,58334.0,GUSP
+159,Interest coverage,12  Mar-17,13.4,GUSP
+160,Debt to equity ratio,12  Mar-17,0.1,GUSP
+161,Sales to assets ratio,12  Mar-17,0.2,GUSP
+162,Return on assets,12  Mar-17,9.5,GUSP
+163,Return on equity,12  Mar-17,11.0,GUSP
+164,Return on capital,12  Mar-17,16.0,GUSP
+165,Exports to sales,12  Mar-17,0.0,GUSP
+166,Imports to sales,12  Mar-17,0.0,GUSP
+167,Exports (fob),12  Mar-17,0.0,GUSP
+168,Imports (cif),12  Mar-17,0.0,GUSP
+169,Fx inflow,12  Mar-17,0.0,GUSP
+170,Fx outflow,12  Mar-17,141.0,GUSP
+171,Net fx,12  Mar-17,-141.0,GUSP
+172,From Operations,12  Mar-17,9436.0,GUSP
+173,From Investments,12  Mar-17,-3676.0,GUSP
+174,From Financial Activity,12  Mar-17,-6366.0,GUSP
+175,Net Cashflow,12  Mar-17,-606.0,GUSP
+176,Net Sales,12  Mar-18,13318.0,GUSP
+177,Other income,12  Mar-18,735.0,GUSP
+178,Total revenues,12  Mar-18,14052.0,GUSP
+179,Gross profit,12  Mar-18,11478.0,GUSP
+180,Depreciation,12  Mar-18,1750.0,GUSP
+181,Interest,12  Mar-18,354.0,GUSP
+182,Profit before tax,12  Mar-18,10108.0,GUSP
+183,Minority Interest,12  Mar-18,0.0,GUSP
+184,Prior Period Items,12  Mar-18,0.0,GUSP
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,GUSP
+186,Tax,12  Mar-18,3424.0,GUSP
+187,Profit after tax,12  Mar-18,6684.0,GUSP
+188,Gross profit margin,12  Mar-18,86.2,GUSP
+189,Effective tax rate,12  Mar-18,33.9,GUSP
+190,Net profit margin,12  Mar-18,50.2,GUSP
+191,Current assets,12  Mar-18,6308.0,GUSP
+192,Current liabilities,12  Mar-18,15830.0,GUSP
+193,Net working cap to sales,12  Mar-18,-71.5,GUSP
+194,Current ratio,12  Mar-18,0.4,GUSP
+195,Inventory Days,12  Mar-18,34.0,GUSP
+196,Debtors Days,12  Mar-18,34.0,GUSP
+197,Net fixed assets,12  Mar-18,40101.0,GUSP
+198,Share capital,12  Mar-18,5638.0,GUSP
+199,"""Free"" reserves",12  Mar-18,45012.0,GUSP
+200,Net worth,12  Mar-18,50650.0,GUSP
+201,Long term debt,12  Mar-18,17595.0,GUSP
+202,Total assets,12  Mar-18,89485.0,GUSP
+203,Interest coverage,12  Mar-18,29.5,GUSP
+204,Debt to equity ratio,12  Mar-18,0.3,GUSP
+205,Sales to assets ratio,12  Mar-18,0.1,GUSP
+206,Return on assets,12  Mar-18,7.9,GUSP
+207,Return on equity,12  Mar-18,13.2,GUSP
+208,Return on capital,12  Mar-18,15.3,GUSP
+209,Exports to sales,12  Mar-18,0.0,GUSP
+210,Imports to sales,12  Mar-18,0.0,GUSP
+211,Exports (fob),12  Mar-18,0.0,GUSP
+212,Imports (cif),12  Mar-18,0.0,GUSP
+213,Fx inflow,12  Mar-18,0.0,GUSP
+214,Fx outflow,12  Mar-18,227.0,GUSP
+215,Net fx,12  Mar-18,-227.0,GUSP
+216,From Operations,12  Mar-18,8944.0,GUSP
+217,From Investments,12  Mar-18,-31735.0,GUSP
+218,From Financial Activity,12  Mar-18,22865.0,GUSP
+219,Net Cashflow,12  Mar-18,73.0,GUSP

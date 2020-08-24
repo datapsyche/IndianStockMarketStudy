@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,76518.0,JKID
+1,Other income,12  Mar-14*,183.0,JKID
+2,Total revenues,12  Mar-14*,76701.0,JKID
+3,Gross profit,12  Mar-14*,8713.0,JKID
+4,Depreciation,12  Mar-14*,1795.0,JKID
+5,Interest,12  Mar-14*,2762.0,JKID
+6,Profit before tax,12  Mar-14*,4340.0,JKID
+7,Minority Interest,12  Mar-14*,0.0,JKID
+8,Prior Period Items,12  Mar-14*,74.0,JKID
+9,Extraordinary Inc (Exp),12  Mar-14*,-595.0,JKID
+10,Tax,12  Mar-14*,1188.0,JKID
+11,Profit after tax,12  Mar-14*,2630.0,JKID
+12,Gross profit margin,12  Mar-14*,11.4,JKID
+13,Effective tax rate,12  Mar-14*,27.4,JKID
+14,Net profit margin,12  Mar-14*,3.4,JKID
+15,Current assets,12  Mar-14*,28425.0,JKID
+16,Current liabilities,12  Mar-14*,30277.0,JKID
+17,Net working cap to sales,12  Mar-14*,-2.4,JKID
+18,Current ratio,12  Mar-14*,0.9,JKID
+19,Inventory Days,12  Mar-14*,45.0,JKID
+20,Debtors Days,12  Mar-14*,64.0,JKID
+21,Net fixed assets,12  Mar-14*,28674.0,JKID
+22,Share capital,12  Mar-14*,411.0,JKID
+23,"""Free"" reserves",12  Mar-14*,8856.0,JKID
+24,Net worth,12  Mar-14*,10971.0,JKID
+25,Long term debt,12  Mar-14*,12308.0,JKID
+26,Total assets,12  Mar-14*,60426.0,JKID
+27,Interest coverage,12  Mar-14*,2.6,JKID
+28,Debt to equity ratio,12  Mar-14*,1.1,JKID
+29,Sales to assets ratio,12  Mar-14*,1.3,JKID
+30,Return on assets,12  Mar-14*,8.9,JKID
+31,Return on equity,12  Mar-14*,24.0,JKID
+32,Return on capital,12  Mar-14*,28.3,JKID
+33,Exports to sales,12  Mar-14*,13.6,JKID
+34,Imports to sales,12  Mar-14*,22.4,JKID
+35,Exports (fob),12  Mar-14*,10397.0,JKID
+36,Imports (cif),12  Mar-14*,17174.0,JKID
+37,Fx inflow,12  Mar-14*,10580.0,JKID
+38,Fx outflow,12  Mar-14*,17476.0,JKID
+39,Net fx,12  Mar-14*,-6896.0,JKID
+40,From Operations,12  Mar-14*,6548.0,JKID
+41,From Investments,12  Mar-14*,-2276.0,JKID
+42,From Financial Activity,12  Mar-14*,-3352.0,JKID
+43,Net Cashflow,12  Mar-14*,920.0,JKID
+44,Net Sales,12  Mar-15*,73837.0,JKID
+45,Other income,12  Mar-15*,169.0,JKID
+46,Total revenues,12  Mar-15*,74006.0,JKID
+47,Gross profit,12  Mar-15*,9308.0,JKID
+48,Depreciation,12  Mar-15*,1578.0,JKID
+49,Interest,12  Mar-15*,2574.0,JKID
+50,Profit before tax,12  Mar-15*,5325.0,JKID
+51,Minority Interest,12  Mar-15*,0.0,JKID
+52,Prior Period Items,12  Mar-15*,58.0,JKID
+53,Extraordinary Inc (Exp),12  Mar-15*,-469.0,JKID
+54,Tax,12  Mar-15*,1617.0,JKID
+55,Profit after tax,12  Mar-15*,3297.0,JKID
+56,Gross profit margin,12  Mar-15*,12.6,JKID
+57,Effective tax rate,12  Mar-15*,30.4,JKID
+58,Net profit margin,12  Mar-15*,4.5,JKID
+59,Current assets,12  Mar-15*,27957.0,JKID
+60,Current liabilities,12  Mar-15*,30580.0,JKID
+61,Net working cap to sales,12  Mar-15*,-3.6,JKID
+62,Current ratio,12  Mar-15*,0.9,JKID
+63,Inventory Days,12  Mar-15*,43.0,JKID
+64,Debtors Days,12  Mar-15*,71.0,JKID
+65,Net fixed assets,12  Mar-15*,35316.0,JKID
+66,Share capital,12  Mar-15*,454.0,JKID
+67,"""Free"" reserves",12  Mar-15*,13147.0,JKID
+68,Net worth,12  Mar-15*,13600.0,JKID
+69,Long term debt,12  Mar-15*,14869.0,JKID
+70,Total assets,12  Mar-15*,67322.0,JKID
+71,Interest coverage,12  Mar-15*,3.1,JKID
+72,Debt to equity ratio,12  Mar-15*,1.1,JKID
+73,Sales to assets ratio,12  Mar-15*,1.1,JKID
+74,Return on assets,12  Mar-15*,8.7,JKID
+75,Return on equity,12  Mar-15*,24.2,JKID
+76,Return on capital,12  Mar-15*,26.3,JKID
+77,Exports to sales,12  Mar-15*,11.4,JKID
+78,Imports to sales,12  Mar-15*,25.1,JKID
+79,Exports (fob),12  Mar-15*,8441.0,JKID
+80,Imports (cif),12  Mar-15*,18528.0,JKID
+81,Fx inflow,12  Mar-15*,8608.0,JKID
+82,Fx outflow,12  Mar-15*,18945.0,JKID
+83,Net fx,12  Mar-15*,-10338.0,JKID
+84,From Operations,12  Mar-15*,7342.0,JKID
+85,From Investments,12  Mar-15*,-7999.0,JKID
+86,From Financial Activity,12  Mar-15*,-12.0,JKID
+87,Net Cashflow,12  Mar-15*,-670.0,JKID
+88,Net Sales,12  Mar-16*,68982.0,JKID
+89,Other income,12  Mar-16*,242.0,JKID
+90,Total revenues,12  Mar-16*,69225.0,JKID
+91,Gross profit,12  Mar-16*,11166.0,JKID
+92,Depreciation,12  Mar-16*,2161.0,JKID
+93,Interest,12  Mar-16*,2524.0,JKID
+94,Profit before tax,12  Mar-16*,6723.0,JKID
+95,Minority Interest,12  Mar-16*,0.0,JKID
+96,Prior Period Items,12  Mar-16*,105.0,JKID
+97,Extraordinary Inc (Exp),12  Mar-16*,-128.0,JKID
+98,Tax,12  Mar-16*,2027.0,JKID
+99,Profit after tax,12  Mar-16*,4673.0,JKID
+100,Gross profit margin,12  Mar-16*,16.2,JKID
+101,Effective tax rate,12  Mar-16*,30.2,JKID
+102,Net profit margin,12  Mar-16*,6.8,JKID
+103,Current assets,12  Mar-16*,27700.0,JKID
+104,Current liabilities,12  Mar-16*,28556.0,JKID
+105,Net working cap to sales,12  Mar-16*,-1.2,JKID
+106,Current ratio,12  Mar-16*,1.0,JKID
+107,Inventory Days,12  Mar-16*,46.0,JKID
+108,Debtors Days,12  Mar-16*,74.0,JKID
+109,Net fixed assets,12  Mar-16*,38588.0,JKID
+110,Share capital,12  Mar-16*,454.0,JKID
+111,"""Free"" reserves",12  Mar-16*,17061.0,JKID
+112,Net worth,12  Mar-16*,17514.0,JKID
+113,Long term debt,12  Mar-16*,15487.0,JKID
+114,Total assets,12  Mar-16*,70781.0,JKID
+115,Interest coverage,12  Mar-16*,3.7,JKID
+116,Debt to equity ratio,12  Mar-16*,0.9,JKID
+117,Sales to assets ratio,12  Mar-16*,1.0,JKID
+118,Return on assets,12  Mar-16*,10.2,JKID
+119,Return on equity,12  Mar-16*,26.7,JKID
+120,Return on capital,12  Mar-16*,28.0,JKID
+121,Exports to sales,12  Mar-16*,8.7,JKID
+122,Imports to sales,12  Mar-16*,20.9,JKID
+123,Exports (fob),12  Mar-16*,5977.0,JKID
+124,Imports (cif),12  Mar-16*,14415.0,JKID
+125,Fx inflow,12  Mar-16*,5977.0,JKID
+126,Fx outflow,12  Mar-16*,14415.0,JKID
+127,Net fx,12  Mar-16*,-8439.0,JKID
+128,From Operations,12  Mar-16*,9030.0,JKID
+129,From Investments,12  Mar-16*,-5060.0,JKID
+130,From Financial Activity,12  Mar-16*,-4224.0,JKID
+131,Net Cashflow,12  Mar-16*,-254.0,JKID
+132,Net Sales,12  Mar-17*,76894.0,JKID
+133,Other income,12  Mar-17*,654.0,JKID
+134,Total revenues,12  Mar-17*,77548.0,JKID
+135,Gross profit,12  Mar-17*,11324.0,JKID
+136,Depreciation,12  Mar-17*,2913.0,JKID
+137,Interest,12  Mar-17*,4404.0,JKID
+138,Profit before tax,12  Mar-17*,4662.0,JKID
+139,Minority Interest,12  Mar-17*,0.0,JKID
+140,Prior Period Items,12  Mar-17*,12.0,JKID
+141,Extraordinary Inc (Exp),12  Mar-17*,691.0,JKID
+142,Tax,12  Mar-17*,1554.0,JKID
+143,Profit after tax,12  Mar-17*,3811.0,JKID
+144,Gross profit margin,12  Mar-17*,14.7,JKID
+145,Effective tax rate,12  Mar-17*,33.3,JKID
+146,Net profit margin,12  Mar-17*,5.0,JKID
+147,Current assets,12  Mar-17*,40578.0,JKID
+148,Current liabilities,12  Mar-17*,38666.0,JKID
+149,Net working cap to sales,12  Mar-17*,2.5,JKID
+150,Current ratio,12  Mar-17*,1.0,JKID
+151,Inventory Days,12  Mar-17*,63.0,JKID
+152,Debtors Days,12  Mar-17*,85.0,JKID
+153,Net fixed assets,12  Mar-17*,61130.0,JKID
+154,Share capital,12  Mar-17*,454.0,JKID
+155,"""Free"" reserves",12  Mar-17*,19194.0,JKID
+156,Net worth,12  Mar-17*,19648.0,JKID
+157,Long term debt,12  Mar-17*,35703.0,JKID
+158,Total assets,12  Mar-17*,104352.0,JKID
+159,Interest coverage,12  Mar-17*,2.1,JKID
+160,Debt to equity ratio,12  Mar-17*,1.8,JKID
+161,Sales to assets ratio,12  Mar-17*,0.7,JKID
+162,Return on assets,12  Mar-17*,7.9,JKID
+163,Return on equity,12  Mar-17*,19.4,JKID
+164,Return on capital,12  Mar-17*,17.6,JKID
+165,Exports to sales,12  Mar-17*,8.4,JKID
+166,Imports to sales,12  Mar-17*,18.7,JKID
+167,Exports (fob),12  Mar-17*,6475.0,JKID
+168,Imports (cif),12  Mar-17*,14414.0,JKID
+169,Fx inflow,12  Mar-17*,6475.0,JKID
+170,Fx outflow,12  Mar-17*,14414.0,JKID
+171,Net fx,12  Mar-17*,-7940.0,JKID
+172,From Operations,12  Mar-17*,1057.0,JKID
+173,From Investments,12  Mar-17*,-8353.0,JKID
+174,From Financial Activity,12  Mar-17*,8300.0,JKID
+175,Net Cashflow,12  Mar-17*,1283.0,JKID
+176,Net Sales,12  Mar-18*,82721.0,JKID
+177,Other income,12  Mar-18*,1461.0,JKID
+178,Total revenues,12  Mar-18*,84182.0,JKID
+179,Gross profit,12  Mar-18*,7371.0,JKID
+180,Depreciation,12  Mar-18*,2995.0,JKID
+181,Interest,12  Mar-18*,4655.0,JKID
+182,Profit before tax,12  Mar-18*,1182.0,JKID
+183,Minority Interest,12  Mar-18*,0.0,JKID
+184,Prior Period Items,12  Mar-18*,4.0,JKID
+185,Extraordinary Inc (Exp),12  Mar-18*,-114.0,JKID
+186,Tax,12  Mar-18*,439.0,JKID
+187,Profit after tax,12  Mar-18*,633.0,JKID
+188,Gross profit margin,12  Mar-18*,8.9,JKID
+189,Effective tax rate,12  Mar-18*,37.1,JKID
+190,Net profit margin,12  Mar-18*,0.8,JKID
+191,Current assets,12  Mar-18*,37744.0,JKID
+192,Current liabilities,12  Mar-18*,44717.0,JKID
+193,Net working cap to sales,12  Mar-18*,-8.4,JKID
+194,Current ratio,12  Mar-18*,0.8,JKID
+195,Inventory Days,12  Mar-18*,64.0,JKID
+196,Debtors Days,12  Mar-18*,68.0,JKID
+197,Net fixed assets,12  Mar-18*,61895.0,JKID
+198,Share capital,12  Mar-18*,454.0,JKID
+199,"""Free"" reserves",12  Mar-18*,19157.0,JKID
+200,Net worth,12  Mar-18*,19611.0,JKID
+201,Long term debt,12  Mar-18*,31265.0,JKID
+202,Total assets,12  Mar-18*,105675.0,JKID
+203,Interest coverage,12  Mar-18*,1.3,JKID
+204,Debt to equity ratio,12  Mar-18*,1.6,JKID
+205,Sales to assets ratio,12  Mar-18*,0.8,JKID
+206,Return on assets,12  Mar-18*,5.0,JKID
+207,Return on equity,12  Mar-18*,3.2,JKID
+208,Return on capital,12  Mar-18*,11.3,JKID
+209,Exports to sales,12  Mar-18*,10.9,JKID
+210,Imports to sales,12  Mar-18*,16.4,JKID
+211,Exports (fob),12  Mar-18*,9024.0,JKID
+212,Imports (cif),12  Mar-18*,13573.0,JKID
+213,Fx inflow,12  Mar-18*,9024.0,JKID
+214,Fx outflow,12  Mar-18*,13573.0,JKID
+215,Net fx,12  Mar-18*,-4549.0,JKID
+216,From Operations,12  Mar-18*,6374.0,JKID
+217,From Investments,12  Mar-18*,-3945.0,JKID
+218,From Financial Activity,12  Mar-18*,-4086.0,JKID
+219,Net Cashflow,12  Mar-18*,-1651.0,JKID

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,56544.0,PRISM
+1,Other income,12  Mar-15*,357.0,PRISM
+2,Total revenues,12  Mar-15*,56902.0,PRISM
+3,Gross profit,12  Mar-15*,3512.0,PRISM
+4,Depreciation,12  Mar-15*,1649.0,PRISM
+5,Interest,12  Mar-15*,2896.0,PRISM
+6,Profit before tax,12  Mar-15*,-675.0,PRISM
+7,Minority Interest,12  Mar-15*,-22.0,PRISM
+8,Prior Period Items,12  Mar-15*,0.0,PRISM
+9,Extraordinary Inc (Exp),12  Mar-15*,603.0,PRISM
+10,Tax,12  Mar-15*,-120.0,PRISM
+11,Profit after tax,12  Mar-15*,26.0,PRISM
+12,Gross profit margin,12  Mar-15*,6.2,PRISM
+13,Effective tax rate,12  Mar-15*,17.8,PRISM
+14,Net profit margin,12  Mar-15*,0.0,PRISM
+15,Current assets,12  Mar-15*,17999.0,PRISM
+16,Current liabilities,12  Mar-15*,18549.0,PRISM
+17,Net working cap to sales,12  Mar-15*,-1.0,PRISM
+18,Current ratio,12  Mar-15*,1.0,PRISM
+19,Inventory Days,12  Mar-15*,45.0,PRISM
+20,Debtors Days,12  Mar-15*,36.0,PRISM
+21,Net fixed assets,12  Mar-15*,27848.0,PRISM
+22,Share capital,12  Mar-15*,5034.0,PRISM
+23,"""Free"" reserves",12  Mar-15*,5359.0,PRISM
+24,Net worth,12  Mar-15*,10393.0,PRISM
+25,Long term debt,12  Mar-15*,16340.0,PRISM
+26,Total assets,12  Mar-15*,48701.0,PRISM
+27,Interest coverage,12  Mar-15*,0.8,PRISM
+28,Debt to equity ratio,12  Mar-15*,1.6,PRISM
+29,Sales to assets ratio,12  Mar-15*,1.2,PRISM
+30,Return on assets,12  Mar-15*,6.0,PRISM
+31,Return on equity,12  Mar-15*,0.3,PRISM
+32,Return on capital,12  Mar-15*,10.5,PRISM
+33,Exports to sales,12  Mar-15*,1.0,PRISM
+34,Imports to sales,12  Mar-15*,3.6,PRISM
+35,Exports (fob),12  Mar-15*,561.0,PRISM
+36,Imports (cif),12  Mar-15*,2018.0,PRISM
+37,Fx inflow,12  Mar-15*,561.0,PRISM
+38,Fx outflow,12  Mar-15*,2038.0,PRISM
+39,Net fx,12  Mar-15*,-1478.0,PRISM
+40,From Operations,12  Mar-15*,1986.0,PRISM
+41,From Investments,12  Mar-15*,-573.0,PRISM
+42,From Financial Activity,12  Mar-15*,-1080.0,PRISM
+43,Net Cashflow,12  Mar-15*,334.0,PRISM
+44,Net Sales,12  Mar-16*,52231.0,PRISM
+45,Other income,12  Mar-16*,1523.0,PRISM
+46,Total revenues,12  Mar-16*,53754.0,PRISM
+47,Gross profit,12  Mar-16*,3409.0,PRISM
+48,Depreciation,12  Mar-16*,1841.0,PRISM
+49,Interest,12  Mar-16*,2814.0,PRISM
+50,Profit before tax,12  Mar-16*,277.0,PRISM
+51,Minority Interest,12  Mar-16*,-2.0,PRISM
+52,Prior Period Items,12  Mar-16*,0.0,PRISM
+53,Extraordinary Inc (Exp),12  Mar-16*,-38.0,PRISM
+54,Tax,12  Mar-16*,-15.0,PRISM
+55,Profit after tax,12  Mar-16*,253.0,PRISM
+56,Gross profit margin,12  Mar-16*,6.5,PRISM
+57,Effective tax rate,12  Mar-16*,-5.6,PRISM
+58,Net profit margin,12  Mar-16*,0.5,PRISM
+59,Current assets,12  Mar-16*,19445.0,PRISM
+60,Current liabilities,12  Mar-16*,19890.0,PRISM
+61,Net working cap to sales,12  Mar-16*,-0.9,PRISM
+62,Current ratio,12  Mar-16*,1.0,PRISM
+63,Inventory Days,12  Mar-16*,45.0,PRISM
+64,Debtors Days,12  Mar-16*,43.0,PRISM
+65,Net fixed assets,12  Mar-16*,25772.0,PRISM
+66,Share capital,12  Mar-16*,5034.0,PRISM
+67,"""Free"" reserves",12  Mar-16*,4948.0,PRISM
+68,Net worth,12  Mar-16*,9982.0,PRISM
+69,Long term debt,12  Mar-16*,14769.0,PRISM
+70,Total assets,12  Mar-16*,50131.0,PRISM
+71,Interest coverage,12  Mar-16*,1.1,PRISM
+72,Debt to equity ratio,12  Mar-16*,1.5,PRISM
+73,Sales to assets ratio,12  Mar-16*,1.0,PRISM
+74,Return on assets,12  Mar-16*,6.1,PRISM
+75,Return on equity,12  Mar-16*,2.5,PRISM
+76,Return on capital,12  Mar-16*,12.3,PRISM
+77,Exports to sales,12  Mar-16*,0.9,PRISM
+78,Imports to sales,12  Mar-16*,5.2,PRISM
+79,Exports (fob),12  Mar-16*,452.0,PRISM
+80,Imports (cif),12  Mar-16*,2730.0,PRISM
+81,Fx inflow,12  Mar-16*,452.0,PRISM
+82,Fx outflow,12  Mar-16*,2767.0,PRISM
+83,Net fx,12  Mar-16*,-2315.0,PRISM
+84,From Operations,12  Mar-16*,4621.0,PRISM
+85,From Investments,12  Mar-16*,-1269.0,PRISM
+86,From Financial Activity,12  Mar-16*,-3280.0,PRISM
+87,Net Cashflow,12  Mar-16*,240.0,PRISM
+88,Net Sales,12  Mar-17*,50125.0,PRISM
+89,Other income,12  Mar-17*,920.0,PRISM
+90,Total revenues,12  Mar-17*,51044.0,PRISM
+91,Gross profit,12  Mar-17*,3567.0,PRISM
+92,Depreciation,12  Mar-17*,1918.0,PRISM
+93,Interest,12  Mar-17*,2166.0,PRISM
+94,Profit before tax,12  Mar-17*,402.0,PRISM
+95,Minority Interest,12  Mar-17*,15.0,PRISM
+96,Prior Period Items,12  Mar-17*,0.0,PRISM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PRISM
+98,Tax,12  Mar-17*,275.0,PRISM
+99,Profit after tax,12  Mar-17*,143.0,PRISM
+100,Gross profit margin,12  Mar-17*,7.1,PRISM
+101,Effective tax rate,12  Mar-17*,68.3,PRISM
+102,Net profit margin,12  Mar-17*,0.3,PRISM
+103,Current assets,12  Mar-17*,15990.0,PRISM
+104,Current liabilities,12  Mar-17*,20975.0,PRISM
+105,Net working cap to sales,12  Mar-17*,-9.9,PRISM
+106,Current ratio,12  Mar-17*,0.8,PRISM
+107,Inventory Days,12  Mar-17*,41.0,PRISM
+108,Debtors Days,12  Mar-17*,46.0,PRISM
+109,Net fixed assets,12  Mar-17*,25924.0,PRISM
+110,Share capital,12  Mar-17*,5034.0,PRISM
+111,"""Free"" reserves",12  Mar-17*,4916.0,PRISM
+112,Net worth,12  Mar-17*,9949.0,PRISM
+113,Long term debt,12  Mar-17*,11900.0,PRISM
+114,Total assets,12  Mar-17*,48941.0,PRISM
+115,Interest coverage,12  Mar-17*,1.2,PRISM
+116,Debt to equity ratio,12  Mar-17*,1.2,PRISM
+117,Sales to assets ratio,12  Mar-17*,1.0,PRISM
+118,Return on assets,12  Mar-17*,4.7,PRISM
+119,Return on equity,12  Mar-17*,1.4,PRISM
+120,Return on capital,12  Mar-17*,11.8,PRISM
+121,Exports to sales,12  Mar-17*,0.9,PRISM
+122,Imports to sales,12  Mar-17*,0.0,PRISM
+123,Exports (fob),12  Mar-17*,473.0,PRISM
+124,Imports (cif),12  Mar-17*,0.0,PRISM
+125,Fx inflow,12  Mar-17*,473.0,PRISM
+126,Fx outflow,12  Mar-17*,26.0,PRISM
+127,Net fx,12  Mar-17*,447.0,PRISM
+128,From Operations,12  Mar-17*,6756.0,PRISM
+129,From Investments,12  Mar-17*,-2361.0,PRISM
+130,From Financial Activity,12  Mar-17*,-4606.0,PRISM
+131,Net Cashflow,12  Mar-17*,-211.0,PRISM
+132,Net Sales,12  Mar-18*,55077.0,PRISM
+133,Other income,12  Mar-18*,658.0,PRISM
+134,Total revenues,12  Mar-18*,55735.0,PRISM
+135,Gross profit,12  Mar-18*,4431.0,PRISM
+136,Depreciation,12  Mar-18*,1844.0,PRISM
+137,Interest,12  Mar-18*,2270.0,PRISM
+138,Profit before tax,12  Mar-18*,975.0,PRISM
+139,Minority Interest,12  Mar-18*,32.0,PRISM
+140,Prior Period Items,12  Mar-18*,0.0,PRISM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PRISM
+142,Tax,12  Mar-18*,457.0,PRISM
+143,Profit after tax,12  Mar-18*,550.0,PRISM
+144,Gross profit margin,12  Mar-18*,8.0,PRISM
+145,Effective tax rate,12  Mar-18*,46.8,PRISM
+146,Net profit margin,12  Mar-18*,1.0,PRISM
+147,Current assets,12  Mar-18*,16953.0,PRISM
+148,Current liabilities,12  Mar-18*,23281.0,PRISM
+149,Net working cap to sales,12  Mar-18*,-11.5,PRISM
+150,Current ratio,12  Mar-18*,0.7,PRISM
+151,Inventory Days,12  Mar-18*,41.0,PRISM
+152,Debtors Days,12  Mar-18*,44.0,PRISM
+153,Net fixed assets,12  Mar-18*,27466.0,PRISM
+154,Share capital,12  Mar-18*,5034.0,PRISM
+155,"""Free"" reserves",12  Mar-18*,5345.0,PRISM
+156,Net worth,12  Mar-18*,10379.0,PRISM
+157,Long term debt,12  Mar-18*,11520.0,PRISM
+158,Total assets,12  Mar-18*,51668.0,PRISM
+159,Interest coverage,12  Mar-18*,1.4,PRISM
+160,Debt to equity ratio,12  Mar-18*,1.1,PRISM
+161,Sales to assets ratio,12  Mar-18*,1.1,PRISM
+162,Return on assets,12  Mar-18*,5.5,PRISM
+163,Return on equity,12  Mar-18*,5.3,PRISM
+164,Return on capital,12  Mar-18*,15.0,PRISM
+165,Exports to sales,12  Mar-18*,0.7,PRISM
+166,Imports to sales,12  Mar-18*,0.0,PRISM
+167,Exports (fob),12  Mar-18*,406.0,PRISM
+168,Imports (cif),12  Mar-18*,0.0,PRISM
+169,Fx inflow,12  Mar-18*,406.0,PRISM
+170,Fx outflow,12  Mar-18*,29.0,PRISM
+171,Net fx,12  Mar-18*,377.0,PRISM
+172,From Operations,12  Mar-18*,5866.0,PRISM
+173,From Investments,12  Mar-18*,-4066.0,PRISM
+174,From Financial Activity,12  Mar-18*,-1796.0,PRISM
+175,Net Cashflow,12  Mar-18*,4.0,PRISM
+176,Net Sales,12  Mar-19*,61944.0,PRISM
+177,Other income,12  Mar-19*,266.0,PRISM
+178,Total revenues,12  Mar-19*,62211.0,PRISM
+179,Gross profit,12  Mar-19*,6010.0,PRISM
+180,Depreciation,12  Mar-19*,2000.0,PRISM
+181,Interest,12  Mar-19*,2196.0,PRISM
+182,Profit before tax,12  Mar-19*,2081.0,PRISM
+183,Minority Interest,12  Mar-19*,44.0,PRISM
+184,Prior Period Items,12  Mar-19*,0.0,PRISM
+185,Extraordinary Inc (Exp),12  Mar-19*,-113.0,PRISM
+186,Tax,12  Mar-19*,916.0,PRISM
+187,Profit after tax,12  Mar-19*,1096.0,PRISM
+188,Gross profit margin,12  Mar-19*,9.7,PRISM
+189,Effective tax rate,12  Mar-19*,44.0,PRISM
+190,Net profit margin,12  Mar-19*,1.8,PRISM
+191,Current assets,12  Mar-19*,19195.0,PRISM
+192,Current liabilities,12  Mar-19*,23680.0,PRISM
+193,Net working cap to sales,12  Mar-19*,-7.2,PRISM
+194,Current ratio,12  Mar-19*,0.8,PRISM
+195,Inventory Days,12  Mar-19*,42.0,PRISM
+196,Debtors Days,12  Mar-19*,43.0,PRISM
+197,Net fixed assets,12  Mar-19*,28023.0,PRISM
+198,Share capital,12  Mar-19*,5034.0,PRISM
+199,"""Free"" reserves",12  Mar-19*,6228.0,PRISM
+200,Net worth,12  Mar-19*,11261.0,PRISM
+201,Long term debt,12  Mar-19*,11752.0,PRISM
+202,Total assets,12  Mar-19*,54759.0,PRISM
+203,Interest coverage,12  Mar-19*,1.9,PRISM
+204,Debt to equity ratio,12  Mar-19*,1.0,PRISM
+205,Sales to assets ratio,12  Mar-19*,1.1,PRISM
+206,Return on assets,12  Mar-19*,6.0,PRISM
+207,Return on equity,12  Mar-19*,9.7,PRISM
+208,Return on capital,12  Mar-19*,18.3,PRISM
+209,Exports to sales,12  Mar-19*,0.6,PRISM
+210,Imports to sales,12  Mar-19*,0.0,PRISM
+211,Exports (fob),12  Mar-19*,373.0,PRISM
+212,Imports (cif),12  Mar-19*,0.0,PRISM
+213,Fx inflow,12  Mar-19*,373.0,PRISM
+214,Fx outflow,12  Mar-19*,76.0,PRISM
+215,Net fx,12  Mar-19*,297.0,PRISM
+216,From Operations,12  Mar-19*,6539.0,PRISM
+217,From Investments,12  Mar-19*,-3301.0,PRISM
+218,From Financial Activity,12  Mar-19*,-3247.0,PRISM
+219,Net Cashflow,12  Mar-19*,-10.0,PRISM

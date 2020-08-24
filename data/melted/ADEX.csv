@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,645819.0,ADEX
+1,Other income,12  Mar-15*,9380.0,ADEX
+2,Total revenues,12  Mar-15*,655199.0,ADEX
+3,Gross profit,12  Mar-15*,124455.0,ADEX
+4,Depreciation,12  Mar-15*,35219.0,ADEX
+5,Interest,12  Mar-15*,70563.0,ADEX
+6,Profit before tax,12  Mar-15*,28053.0,ADEX
+7,Minority Interest,12  Mar-15*,-3500.0,ADEX
+8,Prior Period Items,12  Mar-15*,0.0,ADEX
+9,Extraordinary Inc (Exp),12  Mar-15*,-1419.0,ADEX
+10,Tax,12  Mar-15*,3654.0,ADEX
+11,Profit after tax,12  Mar-15*,19481.0,ADEX
+12,Gross profit margin,12  Mar-15*,19.3,ADEX
+13,Effective tax rate,12  Mar-15*,13.0,ADEX
+14,Net profit margin,12  Mar-15*,3.0,ADEX
+15,Current assets,12  Mar-15*,224432.0,ADEX
+16,Current liabilities,12  Mar-15*,239024.0,ADEX
+17,Net working cap to sales,12  Mar-15*,-2.3,ADEX
+18,Current ratio,12  Mar-15*,0.9,ADEX
+19,Inventory Days,12  Mar-15*,7.0,ADEX
+20,Debtors Days,12  Mar-15*,75.0,ADEX
+21,Net fixed assets,12  Mar-15*,885500.0,ADEX
+22,Share capital,12  Mar-15*,1100.0,ADEX
+23,"""Free"" reserves",12  Mar-15*,119285.0,ADEX
+24,Net worth,12  Mar-15*,120385.0,ADEX
+25,Long term debt,12  Mar-15*,49952.0,ADEX
+26,Total assets,12  Mar-15*,416096.0,ADEX
+27,Interest coverage,12  Mar-15*,1.4,ADEX
+28,Debt to equity ratio,12  Mar-15*,0.4,ADEX
+29,Sales to assets ratio,12  Mar-15*,1.6,ADEX
+30,Return on assets,12  Mar-15*,21.6,ADEX
+31,Return on equity,12  Mar-15*,16.2,ADEX
+32,Return on capital,12  Mar-15*,55.0,ADEX
+33,Exports to sales,12  Mar-15*,0.0,ADEX
+34,Imports to sales,12  Mar-15*,14.0,ADEX
+35,Exports (fob),12  Mar-15*,0.0,ADEX
+36,Imports (cif),12  Mar-15*,90670.0,ADEX
+37,Fx inflow,12  Mar-15*,0.0,ADEX
+38,Fx outflow,12  Mar-15*,90841.0,ADEX
+39,Net fx,12  Mar-15*,-90841.0,ADEX
+40,From Operations,12  Mar-15*,85317.0,ADEX
+41,From Investments,12  Mar-15*,-117605.0,ADEX
+42,From Financial Activity,12  Mar-15*,34452.0,ADEX
+43,Net Cashflow,12  Mar-15*,2164.0,ADEX
+44,Net Sales,12  Mar-16*,340084.0,ADEX
+45,Other income,12  Mar-16*,11223.0,ADEX
+46,Total revenues,12  Mar-16*,351307.0,ADEX
+47,Gross profit,12  Mar-16*,16668.0,ADEX
+48,Depreciation,12  Mar-16*,3145.0,ADEX
+49,Interest,12  Mar-16*,13570.0,ADEX
+50,Profit before tax,12  Mar-16*,11176.0,ADEX
+51,Minority Interest,12  Mar-16*,0.0,ADEX
+52,Prior Period Items,12  Mar-16*,220.0,ADEX
+53,Extraordinary Inc (Exp),12  Mar-16*,-618.0,ADEX
+54,Tax,12  Mar-16*,779.0,ADEX
+55,Profit after tax,12  Mar-16*,9998.0,ADEX
+56,Gross profit margin,12  Mar-16*,4.9,ADEX
+57,Effective tax rate,12  Mar-16*,7.0,ADEX
+58,Net profit margin,12  Mar-16*,2.9,ADEX
+59,Current assets,12  Mar-16*,213367.0,ADEX
+60,Current liabilities,12  Mar-16*,199713.0,ADEX
+61,Net working cap to sales,12  Mar-16*,4.0,ADEX
+62,Current ratio,12  Mar-16*,1.1,ADEX
+63,Inventory Days,12  Mar-16*,14.0,ADEX
+64,Debtors Days,12  Mar-16*,109.0,ADEX
+65,Net fixed assets,12  Mar-16*,194495.0,ADEX
+66,Share capital,12  Mar-16*,1100.0,ADEX
+67,"""Free"" reserves",12  Mar-16*,132676.0,ADEX
+68,Net worth,12  Mar-16*,133776.0,ADEX
+69,Long term debt,12  Mar-16*,70090.0,ADEX
+70,Total assets,12  Mar-16*,417561.0,ADEX
+71,Interest coverage,12  Mar-16*,1.8,ADEX
+72,Debt to equity ratio,12  Mar-16*,0.5,ADEX
+73,Sales to assets ratio,12  Mar-16*,0.8,ADEX
+74,Return on assets,12  Mar-16*,5.6,ADEX
+75,Return on equity,12  Mar-16*,7.5,ADEX
+76,Return on capital,12  Mar-16*,11.9,ADEX
+77,Exports to sales,12  Mar-16*,0.0,ADEX
+78,Imports to sales,12  Mar-16*,8.9,ADEX
+79,Exports (fob),12  Mar-16*,4.0,ADEX
+80,Imports (cif),12  Mar-16*,30390.0,ADEX
+81,Fx inflow,12  Mar-16*,4.0,ADEX
+82,Fx outflow,12  Mar-16*,30660.0,ADEX
+83,Net fx,12  Mar-16*,-30656.0,ADEX
+84,From Operations,12  Mar-16*,51120.0,ADEX
+85,From Investments,12  Mar-16*,-23202.0,ADEX
+86,From Financial Activity,12  Mar-16*,-34481.0,ADEX
+87,Net Cashflow,12  Mar-16*,-1612.0,ADEX
+88,Net Sales,12  Mar-17*,366083.0,ADEX
+89,Other income,12  Mar-17*,7343.0,ADEX
+90,Total revenues,12  Mar-17*,373426.0,ADEX
+91,Gross profit,12  Mar-17*,19292.0,ADEX
+92,Depreciation,12  Mar-17*,3155.0,ADEX
+93,Interest,12  Mar-17*,12573.0,ADEX
+94,Profit before tax,12  Mar-17*,10907.0,ADEX
+95,Minority Interest,12  Mar-17*,0.0,ADEX
+96,Prior Period Items,12  Mar-17*,1175.0,ADEX
+97,Extraordinary Inc (Exp),12  Mar-17*,270.0,ADEX
+98,Tax,12  Mar-17*,2712.0,ADEX
+99,Profit after tax,12  Mar-17*,9641.0,ADEX
+100,Gross profit margin,12  Mar-17*,5.3,ADEX
+101,Effective tax rate,12  Mar-17*,24.9,ADEX
+102,Net profit margin,12  Mar-17*,2.6,ADEX
+103,Current assets,12  Mar-17*,221587.0,ADEX
+104,Current liabilities,12  Mar-17*,222270.0,ADEX
+105,Net working cap to sales,12  Mar-17*,-0.2,ADEX
+106,Current ratio,12  Mar-17*,1.0,ADEX
+107,Inventory Days,12  Mar-17*,16.0,ADEX
+108,Debtors Days,12  Mar-17*,127.0,ADEX
+109,Net fixed assets,12  Mar-17*,213995.0,ADEX
+110,Share capital,12  Mar-17*,1100.0,ADEX
+111,"""Free"" reserves",12  Mar-17*,140260.0,ADEX
+112,Net worth,12  Mar-17*,141360.0,ADEX
+113,Long term debt,12  Mar-17*,91733.0,ADEX
+114,Total assets,12  Mar-17*,476894.0,ADEX
+115,Interest coverage,12  Mar-17*,1.9,ADEX
+116,Debt to equity ratio,12  Mar-17*,0.6,ADEX
+117,Sales to assets ratio,12  Mar-17*,0.8,ADEX
+118,Return on assets,12  Mar-17*,4.7,ADEX
+119,Return on equity,12  Mar-17*,6.8,ADEX
+120,Return on capital,12  Mar-17*,10.7,ADEX
+121,Exports to sales,12  Mar-17*,0.0,ADEX
+122,Imports to sales,12  Mar-17*,0.0,ADEX
+123,Exports (fob),12  Mar-17*,111.0,ADEX
+124,Imports (cif),12  Mar-17*,0.0,ADEX
+125,Fx inflow,12  Mar-17*,111.0,ADEX
+126,Fx outflow,12  Mar-17*,42104.0,ADEX
+127,Net fx,12  Mar-17*,-41994.0,ADEX
+128,From Operations,12  Mar-17*,7741.0,ADEX
+129,From Investments,12  Mar-17*,-12289.0,ADEX
+130,From Financial Activity,12  Mar-17*,7158.0,ADEX
+131,Net Cashflow,12  Mar-17*,301.0,ADEX
+132,Net Sales,12  Mar-18*,359239.0,ADEX
+133,Other income,12  Mar-18*,5922.0,ADEX
+134,Total revenues,12  Mar-18*,365162.0,ADEX
+135,Gross profit,12  Mar-18*,20342.0,ADEX
+136,Depreciation,12  Mar-18*,6639.0,ADEX
+137,Interest,12  Mar-18*,12502.0,ADEX
+138,Profit before tax,12  Mar-18*,7124.0,ADEX
+139,Minority Interest,12  Mar-18*,0.0,ADEX
+140,Prior Period Items,12  Mar-18*,2195.0,ADEX
+141,Extraordinary Inc (Exp),12  Mar-18*,-2731.0,ADEX
+142,Tax,12  Mar-18*,1121.0,ADEX
+143,Profit after tax,12  Mar-18*,5466.0,ADEX
+144,Gross profit margin,12  Mar-18*,5.7,ADEX
+145,Effective tax rate,12  Mar-18*,15.7,ADEX
+146,Net profit margin,12  Mar-18*,1.5,ADEX
+147,Current assets,12  Mar-18*,354564.0,ADEX
+148,Current liabilities,12  Mar-18*,238478.0,ADEX
+149,Net working cap to sales,12  Mar-18*,32.3,ADEX
+150,Current ratio,12  Mar-18*,1.5,ADEX
+151,Inventory Days,12  Mar-18*,24.0,ADEX
+152,Debtors Days,12  Mar-18*,123.0,ADEX
+153,Net fixed assets,12  Mar-18*,160811.0,ADEX
+154,Share capital,12  Mar-18*,1100.0,ADEX
+155,"""Free"" reserves",12  Mar-18*,149792.0,ADEX
+156,Net worth,12  Mar-18*,150892.0,ADEX
+157,Long term debt,12  Mar-18*,42730.0,ADEX
+158,Total assets,12  Mar-18*,564947.0,ADEX
+159,Interest coverage,12  Mar-18*,1.6,ADEX
+160,Debt to equity ratio,12  Mar-18*,0.3,ADEX
+161,Sales to assets ratio,12  Mar-18*,0.6,ADEX
+162,Return on assets,12  Mar-18*,3.2,ADEX
+163,Return on equity,12  Mar-18*,3.6,ADEX
+164,Return on capital,12  Mar-18*,9.9,ADEX
+165,Exports to sales,12  Mar-18*,21.9,ADEX
+166,Imports to sales,12  Mar-18*,0.0,ADEX
+167,Exports (fob),12  Mar-18*,78808.0,ADEX
+168,Imports (cif),12  Mar-18*,0.0,ADEX
+169,Fx inflow,12  Mar-18*,78808.0,ADEX
+170,Fx outflow,12  Mar-18*,54.0,ADEX
+171,Net fx,12  Mar-18*,78754.0,ADEX
+172,From Operations,12  Mar-18*,29424.0,ADEX
+173,From Investments,12  Mar-18*,-77065.0,ADEX
+174,From Financial Activity,12  Mar-18*,51196.0,ADEX
+175,Net Cashflow,12  Mar-18*,4131.0,ADEX
+176,Net Sales,12  Mar-19*,403787.0,ADEX
+177,Other income,12  Mar-19*,5720.0,ADEX
+178,Total revenues,12  Mar-19*,409506.0,ADEX
+179,Gross profit,12  Mar-19*,19688.0,ADEX
+180,Depreciation,12  Mar-19*,3898.0,ADEX
+181,Interest,12  Mar-19*,16251.0,ADEX
+182,Profit before tax,12  Mar-19*,5259.0,ADEX
+183,Minority Interest,12  Mar-19*,0.0,ADEX
+184,Prior Period Items,12  Mar-19*,1917.0,ADEX
+185,Extraordinary Inc (Exp),12  Mar-19*,-1580.0,ADEX
+186,Tax,12  Mar-19*,1445.0,ADEX
+187,Profit after tax,12  Mar-19*,4151.0,ADEX
+188,Gross profit margin,12  Mar-19*,4.9,ADEX
+189,Effective tax rate,12  Mar-19*,27.5,ADEX
+190,Net profit margin,12  Mar-19*,1.0,ADEX
+191,Current assets,12  Mar-19*,229994.0,ADEX
+192,Current liabilities,12  Mar-19*,223807.0,ADEX
+193,Net working cap to sales,12  Mar-19*,1.5,ADEX
+194,Current ratio,12  Mar-19*,1.0,ADEX
+195,Inventory Days,12  Mar-19*,24.0,ADEX
+196,Debtors Days,12  Mar-19*,128.0,ADEX
+197,Net fixed assets,12  Mar-19*,147850.0,ADEX
+198,Share capital,12  Mar-19*,1100.0,ADEX
+199,"""Free"" reserves",12  Mar-19*,146460.0,ADEX
+200,Net worth,12  Mar-19*,147559.0,ADEX
+201,Long term debt,12  Mar-19*,29922.0,ADEX
+202,Total assets,12  Mar-19*,424076.0,ADEX
+203,Interest coverage,12  Mar-19*,1.3,ADEX
+204,Debt to equity ratio,12  Mar-19*,0.2,ADEX
+205,Sales to assets ratio,12  Mar-19*,1.0,ADEX
+206,Return on assets,12  Mar-19*,4.8,ADEX
+207,Return on equity,12  Mar-19*,2.8,ADEX
+208,Return on capital,12  Mar-19*,12.3,ADEX
+209,Exports to sales,12  Mar-19*,0.0,ADEX
+210,Imports to sales,12  Mar-19*,0.0,ADEX
+211,Exports (fob),12  Mar-19*,0.0,ADEX
+212,Imports (cif),12  Mar-19*,0.0,ADEX
+213,Fx inflow,12  Mar-19*,95927.0,ADEX
+214,Fx outflow,12  Mar-19*,1.0,ADEX
+215,Net fx,12  Mar-19*,95926.0,ADEX
+216,From Operations,12  Mar-19*,33267.0,ADEX
+217,From Investments,12  Mar-19*,18091.0,ADEX
+218,From Financial Activity,12  Mar-19*,-61584.0,ADEX
+219,Net Cashflow,12  Mar-19*,-4376.0,ADEX

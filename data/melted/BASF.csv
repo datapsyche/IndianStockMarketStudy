@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,44698.0,BASF
+1,Other income,12  Mar-15,99.0,BASF
+2,Total revenues,12  Mar-15,44797.0,BASF
+3,Gross profit,12  Mar-15,1330.0,BASF
+4,Depreciation,12  Mar-15,1424.0,BASF
+5,Interest,12  Mar-15,956.0,BASF
+6,Profit before tax,12  Mar-15,-951.0,BASF
+7,Minority Interest,12  Mar-15,0.0,BASF
+8,Prior Period Items,12  Mar-15,0.0,BASF
+9,Extraordinary Inc (Exp),12  Mar-15,292.0,BASF
+10,Tax,12  Mar-15,10.0,BASF
+11,Profit after tax,12  Mar-15,-669.0,BASF
+12,Gross profit margin,12  Mar-15,3.0,BASF
+13,Effective tax rate,12  Mar-15,-1.1,BASF
+14,Net profit margin,12  Mar-15,-1.5,BASF
+15,Current assets,12  Mar-15,24095.0,BASF
+16,Current liabilities,12  Mar-15,17759.0,BASF
+17,Net working cap to sales,12  Mar-15,14.2,BASF
+18,Current ratio,12  Mar-15,1.4,BASF
+19,Inventory Days,12  Mar-15,81.0,BASF
+20,Debtors Days,12  Mar-15,76.0,BASF
+21,Net fixed assets,12  Mar-15,14248.0,BASF
+22,Share capital,12  Mar-15,433.0,BASF
+23,"""Free"" reserves",12  Mar-15,11250.0,BASF
+24,Net worth,12  Mar-15,11683.0,BASF
+25,Long term debt,12  Mar-15,9522.0,BASF
+26,Total assets,12  Mar-15,39925.0,BASF
+27,Interest coverage,12  Mar-15,0.0,BASF
+28,Debt to equity ratio,12  Mar-15,0.8,BASF
+29,Sales to assets ratio,12  Mar-15,1.1,BASF
+30,Return on assets,12  Mar-15,0.7,BASF
+31,Return on equity,12  Mar-15,-5.7,BASF
+32,Return on capital,12  Mar-15,1.4,BASF
+33,Exports to sales,12  Mar-15,7.8,BASF
+34,Imports to sales,12  Mar-15,47.7,BASF
+35,Exports (fob),12  Mar-15,3505.0,BASF
+36,Imports (cif),12  Mar-15,21336.0,BASF
+37,Fx inflow,12  Mar-15,5618.0,BASF
+38,Fx outflow,12  Mar-15,23585.0,BASF
+39,Net fx,12  Mar-15,-17967.0,BASF
+40,From Operations,12  Mar-15,-963.0,BASF
+41,From Investments,12  Mar-15,-1631.0,BASF
+42,From Financial Activity,12  Mar-15,3720.0,BASF
+43,Net Cashflow,12  Mar-15,1126.0,BASF
+44,Net Sales,12  Mar-16,47472.0,BASF
+45,Other income,12  Mar-16,29.0,BASF
+46,Total revenues,12  Mar-16,47501.0,BASF
+47,Gross profit,12  Mar-16,1058.0,BASF
+48,Depreciation,12  Mar-16,1631.0,BASF
+49,Interest,12  Mar-16,1481.0,BASF
+50,Profit before tax,12  Mar-16,-2025.0,BASF
+51,Minority Interest,12  Mar-16,0.0,BASF
+52,Prior Period Items,12  Mar-16,0.0,BASF
+53,Extraordinary Inc (Exp),12  Mar-16,1721.0,BASF
+54,Tax,12  Mar-16,0.0,BASF
+55,Profit after tax,12  Mar-16,-304.0,BASF
+56,Gross profit margin,12  Mar-16,2.2,BASF
+57,Effective tax rate,12  Mar-16,0.0,BASF
+58,Net profit margin,12  Mar-16,-0.6,BASF
+59,Current assets,12  Mar-16,22288.0,BASF
+60,Current liabilities,12  Mar-16,16634.0,BASF
+61,Net working cap to sales,12  Mar-16,11.9,BASF
+62,Current ratio,12  Mar-16,1.3,BASF
+63,Inventory Days,12  Mar-16,62.0,BASF
+64,Debtors Days,12  Mar-16,80.0,BASF
+65,Net fixed assets,12  Mar-16,13440.0,BASF
+66,Share capital,12  Mar-16,433.0,BASF
+67,"""Free"" reserves",12  Mar-16,10727.0,BASF
+68,Net worth,12  Mar-16,11160.0,BASF
+69,Long term debt,12  Mar-16,9256.0,BASF
+70,Total assets,12  Mar-16,37766.0,BASF
+71,Interest coverage,12  Mar-16,-0.4,BASF
+72,Debt to equity ratio,12  Mar-16,0.8,BASF
+73,Sales to assets ratio,12  Mar-16,1.3,BASF
+74,Return on assets,12  Mar-16,3.1,BASF
+75,Return on equity,12  Mar-16,-2.7,BASF
+76,Return on capital,12  Mar-16,5.8,BASF
+77,Exports to sales,12  Mar-16,11.6,BASF
+78,Imports to sales,12  Mar-16,47.3,BASF
+79,Exports (fob),12  Mar-16,5498.0,BASF
+80,Imports (cif),12  Mar-16,22435.0,BASF
+81,Fx inflow,12  Mar-16,7358.0,BASF
+82,Fx outflow,12  Mar-16,24850.0,BASF
+83,Net fx,12  Mar-16,-17491.0,BASF
+84,From Operations,12  Mar-16,1989.0,BASF
+85,From Investments,12  Mar-16,1993.0,BASF
+86,From Financial Activity,12  Mar-16,-4251.0,BASF
+87,Net Cashflow,12  Mar-16,-269.0,BASF
+88,Net Sales,12  Mar-17,50782.0,BASF
+89,Other income,12  Mar-17,115.0,BASF
+90,Total revenues,12  Mar-17,50897.0,BASF
+91,Gross profit,12  Mar-17,2697.0,BASF
+92,Depreciation,12  Mar-17,1690.0,BASF
+93,Interest,12  Mar-17,1416.0,BASF
+94,Profit before tax,12  Mar-17,-295.0,BASF
+95,Minority Interest,12  Mar-17,0.0,BASF
+96,Prior Period Items,12  Mar-17,0.0,BASF
+97,Extraordinary Inc (Exp),12  Mar-17,170.0,BASF
+98,Tax,12  Mar-17,17.0,BASF
+99,Profit after tax,12  Mar-17,-141.0,BASF
+100,Gross profit margin,12  Mar-17,5.3,BASF
+101,Effective tax rate,12  Mar-17,-5.6,BASF
+102,Net profit margin,12  Mar-17,-0.3,BASF
+103,Current assets,12  Mar-17,24666.0,BASF
+104,Current liabilities,12  Mar-17,19437.0,BASF
+105,Net working cap to sales,12  Mar-17,10.3,BASF
+106,Current ratio,12  Mar-17,1.3,BASF
+107,Inventory Days,12  Mar-17,66.0,BASF
+108,Debtors Days,12  Mar-17,77.0,BASF
+109,Net fixed assets,12  Mar-17,12553.0,BASF
+110,Share capital,12  Mar-17,433.0,BASF
+111,"""Free"" reserves",12  Mar-17,10590.0,BASF
+112,Net worth,12  Mar-17,11023.0,BASF
+113,Long term debt,12  Mar-17,6928.0,BASF
+114,Total assets,12  Mar-17,38746.0,BASF
+115,Interest coverage,12  Mar-17,0.8,BASF
+116,Debt to equity ratio,12  Mar-17,0.6,BASF
+117,Sales to assets ratio,12  Mar-17,1.3,BASF
+118,Return on assets,12  Mar-17,3.3,BASF
+119,Return on equity,12  Mar-17,-1.3,BASF
+120,Return on capital,12  Mar-17,7.2,BASF
+121,Exports to sales,12  Mar-17,0.0,BASF
+122,Imports to sales,12  Mar-17,0.0,BASF
+123,Exports (fob),12  Mar-17,0.0,BASF
+124,Imports (cif),12  Mar-17,0.0,BASF
+125,Fx inflow,12  Mar-17,5251.0,BASF
+126,Fx outflow,12  Mar-17,2306.0,BASF
+127,Net fx,12  Mar-17,2944.0,BASF
+128,From Operations,12  Mar-17,2211.0,BASF
+129,From Investments,12  Mar-17,-660.0,BASF
+130,From Financial Activity,12  Mar-17,-1330.0,BASF
+131,Net Cashflow,12  Mar-17,221.0,BASF
+132,Net Sales,12  Mar-18,55834.0,BASF
+133,Other income,12  Mar-18,229.0,BASF
+134,Total revenues,12  Mar-18,56063.0,BASF
+135,Gross profit,12  Mar-18,3459.0,BASF
+136,Depreciation,12  Mar-18,1534.0,BASF
+137,Interest,12  Mar-18,1130.0,BASF
+138,Profit before tax,12  Mar-18,1025.0,BASF
+139,Minority Interest,12  Mar-18,0.0,BASF
+140,Prior Period Items,12  Mar-18,0.0,BASF
+141,Extraordinary Inc (Exp),12  Mar-18,1586.0,BASF
+142,Tax,12  Mar-18,145.0,BASF
+143,Profit after tax,12  Mar-18,2465.0,BASF
+144,Gross profit margin,12  Mar-18,6.2,BASF
+145,Effective tax rate,12  Mar-18,14.2,BASF
+146,Net profit margin,12  Mar-18,4.4,BASF
+147,Current assets,12  Mar-18,25108.0,BASF
+148,Current liabilities,12  Mar-18,20669.0,BASF
+149,Net working cap to sales,12  Mar-18,7.9,BASF
+150,Current ratio,12  Mar-18,1.2,BASF
+151,Inventory Days,12  Mar-18,67.0,BASF
+152,Debtors Days,12  Mar-18,71.0,BASF
+153,Net fixed assets,12  Mar-18,11448.0,BASF
+154,Share capital,12  Mar-18,433.0,BASF
+155,"""Free"" reserves",12  Mar-18,13006.0,BASF
+156,Net worth,12  Mar-18,13439.0,BASF
+157,Long term debt,12  Mar-18,3207.0,BASF
+158,Total assets,12  Mar-18,38464.0,BASF
+159,Interest coverage,12  Mar-18,1.9,BASF
+160,Debt to equity ratio,12  Mar-18,0.2,BASF
+161,Sales to assets ratio,12  Mar-18,1.5,BASF
+162,Return on assets,12  Mar-18,9.3,BASF
+163,Return on equity,12  Mar-18,18.3,BASF
+164,Return on capital,12  Mar-18,22.5,BASF
+165,Exports to sales,12  Mar-18,0.0,BASF
+166,Imports to sales,12  Mar-18,0.0,BASF
+167,Exports (fob),12  Mar-18,0.0,BASF
+168,Imports (cif),12  Mar-18,0.0,BASF
+169,Fx inflow,12  Mar-18,6848.0,BASF
+170,Fx outflow,12  Mar-18,2470.0,BASF
+171,Net fx,12  Mar-18,4377.0,BASF
+172,From Operations,12  Mar-18,2900.0,BASF
+173,From Investments,12  Mar-18,1583.0,BASF
+174,From Financial Activity,12  Mar-18,-4647.0,BASF
+175,Net Cashflow,12  Mar-18,-164.0,BASF
+176,Net Sales,12  Mar-19,60257.0,BASF
+177,Other income,12  Mar-19,133.0,BASF
+178,Total revenues,12  Mar-19,60390.0,BASF
+179,Gross profit,12  Mar-19,1647.0,BASF
+180,Depreciation,12  Mar-19,1471.0,BASF
+181,Interest,12  Mar-19,851.0,BASF
+182,Profit before tax,12  Mar-19,-542.0,BASF
+183,Minority Interest,12  Mar-19,0.0,BASF
+184,Prior Period Items,12  Mar-19,0.0,BASF
+185,Extraordinary Inc (Exp),12  Mar-19,1261.0,BASF
+186,Tax,12  Mar-19,-99.0,BASF
+187,Profit after tax,12  Mar-19,817.0,BASF
+188,Gross profit margin,12  Mar-19,2.7,BASF
+189,Effective tax rate,12  Mar-19,18.2,BASF
+190,Net profit margin,12  Mar-19,1.4,BASF
+191,Current assets,12  Mar-19,26101.0,BASF
+192,Current liabilities,12  Mar-19,20663.0,BASF
+193,Net working cap to sales,12  Mar-19,9.0,BASF
+194,Current ratio,12  Mar-19,1.3,BASF
+195,Inventory Days,12  Mar-19,73.0,BASF
+196,Debtors Days,12  Mar-19,63.0,BASF
+197,Net fixed assets,12  Mar-19,9992.0,BASF
+198,Share capital,12  Mar-19,433.0,BASF
+199,"""Free"" reserves",12  Mar-19,13696.0,BASF
+200,Net worth,12  Mar-19,14129.0,BASF
+201,Long term debt,12  Mar-19,3034.0,BASF
+202,Total assets,12  Mar-19,38515.0,BASF
+203,Interest coverage,12  Mar-19,0.4,BASF
+204,Debt to equity ratio,12  Mar-19,0.2,BASF
+205,Sales to assets ratio,12  Mar-19,1.6,BASF
+206,Return on assets,12  Mar-19,4.3,BASF
+207,Return on equity,12  Mar-19,5.8,BASF
+208,Return on capital,12  Mar-19,9.1,BASF
+209,Exports to sales,12  Mar-19,0.0,BASF
+210,Imports to sales,12  Mar-19,0.0,BASF
+211,Exports (fob),12  Mar-19,0.0,BASF
+212,Imports (cif),12  Mar-19,0.0,BASF
+213,Fx inflow,12  Mar-19,7811.0,BASF
+214,Fx outflow,12  Mar-19,2404.0,BASF
+215,Net fx,12  Mar-19,5407.0,BASF
+216,From Operations,12  Mar-19,-772.0,BASF
+217,From Investments,12  Mar-19,1768.0,BASF
+218,From Financial Activity,12  Mar-19,-950.0,BASF
+219,Net Cashflow,12  Mar-19,47.0,BASF

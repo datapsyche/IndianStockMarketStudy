@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23197.0,ASHBL
+1,Other income,12  Mar-15*,290.0,ASHBL
+2,Total revenues,12  Mar-15*,23487.0,ASHBL
+3,Gross profit,12  Mar-15*,4740.0,ASHBL
+4,Depreciation,12  Mar-15*,1527.0,ASHBL
+5,Interest,12  Mar-15*,2721.0,ASHBL
+6,Profit before tax,12  Mar-15*,782.0,ASHBL
+7,Minority Interest,12  Mar-15*,828.0,ASHBL
+8,Prior Period Items,12  Mar-15*,0.0,ASHBL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ASHBL
+10,Tax,12  Mar-15*,796.0,ASHBL
+11,Profit after tax,12  Mar-15*,815.0,ASHBL
+12,Gross profit margin,12  Mar-15*,20.4,ASHBL
+13,Effective tax rate,12  Mar-15*,101.7,ASHBL
+14,Net profit margin,12  Mar-15*,3.5,ASHBL
+15,Current assets,12  Mar-15*,13810.0,ASHBL
+16,Current liabilities,12  Mar-15*,17277.0,ASHBL
+17,Net working cap to sales,12  Mar-15*,-14.9,ASHBL
+18,Current ratio,12  Mar-15*,0.8,ASHBL
+19,Inventory Days,12  Mar-15*,115.0,ASHBL
+20,Debtors Days,12  Mar-15*,70.0,ASHBL
+21,Net fixed assets,12  Mar-15*,86936.0,ASHBL
+22,Share capital,12  Mar-15*,793.0,ASHBL
+23,"""Free"" reserves",12  Mar-15*,13265.0,ASHBL
+24,Net worth,12  Mar-15*,14058.0,ASHBL
+25,Long term debt,12  Mar-15*,39946.0,ASHBL
+26,Total assets,12  Mar-15*,104790.0,ASHBL
+27,Interest coverage,12  Mar-15*,1.3,ASHBL
+28,Debt to equity ratio,12  Mar-15*,2.8,ASHBL
+29,Sales to assets ratio,12  Mar-15*,0.2,ASHBL
+30,Return on assets,12  Mar-15*,3.4,ASHBL
+31,Return on equity,12  Mar-15*,5.8,ASHBL
+32,Return on capital,12  Mar-15*,8.0,ASHBL
+33,Exports to sales,12  Mar-15*,0.0,ASHBL
+34,Imports to sales,12  Mar-15*,0.0,ASHBL
+35,Exports (fob),12  Mar-15*,0.0,ASHBL
+36,Imports (cif),12  Mar-15*,0.0,ASHBL
+37,Fx inflow,12  Mar-15*,0.0,ASHBL
+38,Fx outflow,12  Mar-15*,81.0,ASHBL
+39,Net fx,12  Mar-15*,-81.0,ASHBL
+40,From Operations,12  Mar-15*,3898.0,ASHBL
+41,From Investments,12  Mar-15*,-8122.0,ASHBL
+42,From Financial Activity,12  Mar-15*,3694.0,ASHBL
+43,Net Cashflow,12  Mar-15*,-530.0,ASHBL
+44,Net Sales,12  Mar-16*,28249.0,ASHBL
+45,Other income,12  Mar-16*,811.0,ASHBL
+46,Total revenues,12  Mar-16*,29060.0,ASHBL
+47,Gross profit,12  Mar-16*,10566.0,ASHBL
+48,Depreciation,12  Mar-16*,2690.0,ASHBL
+49,Interest,12  Mar-16*,7996.0,ASHBL
+50,Profit before tax,12  Mar-16*,691.0,ASHBL
+51,Minority Interest,12  Mar-16*,-1383.0,ASHBL
+52,Prior Period Items,12  Mar-16*,0.0,ASHBL
+53,Extraordinary Inc (Exp),12  Mar-16*,-570.0,ASHBL
+54,Tax,12  Mar-16*,974.0,ASHBL
+55,Profit after tax,12  Mar-16*,-2236.0,ASHBL
+56,Gross profit margin,12  Mar-16*,37.4,ASHBL
+57,Effective tax rate,12  Mar-16*,141.0,ASHBL
+58,Net profit margin,12  Mar-16*,-7.9,ASHBL
+59,Current assets,12  Mar-16*,17148.0,ASHBL
+60,Current liabilities,12  Mar-16*,28155.0,ASHBL
+61,Net working cap to sales,12  Mar-16*,-39.0,ASHBL
+62,Current ratio,12  Mar-16*,0.6,ASHBL
+63,Inventory Days,12  Mar-16*,39.0,ASHBL
+64,Debtors Days,12  Mar-16*,43.0,ASHBL
+65,Net fixed assets,12  Mar-16*,85348.0,ASHBL
+66,Share capital,12  Mar-16*,936.0,ASHBL
+67,"""Free"" reserves",12  Mar-16*,6114.0,ASHBL
+68,Net worth,12  Mar-16*,7050.0,ASHBL
+69,Long term debt,12  Mar-16*,42292.0,ASHBL
+70,Total assets,12  Mar-16*,106278.0,ASHBL
+71,Interest coverage,12  Mar-16*,1.1,ASHBL
+72,Debt to equity ratio,12  Mar-16*,6.0,ASHBL
+73,Sales to assets ratio,12  Mar-16*,0.3,ASHBL
+74,Return on assets,12  Mar-16*,5.4,ASHBL
+75,Return on equity,12  Mar-16*,-31.7,ASHBL
+76,Return on capital,12  Mar-16*,13.6,ASHBL
+77,Exports to sales,12  Mar-16*,0.0,ASHBL
+78,Imports to sales,12  Mar-16*,0.0,ASHBL
+79,Exports (fob),12  Mar-16*,0.0,ASHBL
+80,Imports (cif),12  Mar-16*,0.0,ASHBL
+81,Fx inflow,12  Mar-16*,66.0,ASHBL
+82,Fx outflow,12  Mar-16*,3.0,ASHBL
+83,Net fx,12  Mar-16*,63.0,ASHBL
+84,From Operations,12  Mar-16*,2507.0,ASHBL
+85,From Investments,12  Mar-16*,-1043.0,ASHBL
+86,From Financial Activity,12  Mar-16*,250.0,ASHBL
+87,Net Cashflow,12  Mar-16*,1715.0,ASHBL
+88,Net Sales,12  Mar-17*,29728.0,ASHBL
+89,Other income,12  Mar-17*,815.0,ASHBL
+90,Total revenues,12  Mar-17*,30543.0,ASHBL
+91,Gross profit,12  Mar-17*,9506.0,ASHBL
+92,Depreciation,12  Mar-17*,2640.0,ASHBL
+93,Interest,12  Mar-17*,9078.0,ASHBL
+94,Profit before tax,12  Mar-17*,-1398.0,ASHBL
+95,Minority Interest,12  Mar-17*,-151.0,ASHBL
+96,Prior Period Items,12  Mar-17*,0.0,ASHBL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ASHBL
+98,Tax,12  Mar-17*,698.0,ASHBL
+99,Profit after tax,12  Mar-17*,-2247.0,ASHBL
+100,Gross profit margin,12  Mar-17*,32.0,ASHBL
+101,Effective tax rate,12  Mar-17*,-50.0,ASHBL
+102,Net profit margin,12  Mar-17*,-7.6,ASHBL
+103,Current assets,12  Mar-17*,20455.0,ASHBL
+104,Current liabilities,12  Mar-17*,28203.0,ASHBL
+105,Net working cap to sales,12  Mar-17*,-26.1,ASHBL
+106,Current ratio,12  Mar-17*,0.7,ASHBL
+107,Inventory Days,12  Mar-17*,44.0,ASHBL
+108,Debtors Days,12  Mar-17*,44.0,ASHBL
+109,Net fixed assets,12  Mar-17*,84060.0,ASHBL
+110,Share capital,12  Mar-17*,936.0,ASHBL
+111,"""Free"" reserves",12  Mar-17*,3759.0,ASHBL
+112,Net worth,12  Mar-17*,4695.0,ASHBL
+113,Long term debt,12  Mar-17*,45488.0,ASHBL
+114,Total assets,12  Mar-17*,108058.0,ASHBL
+115,Interest coverage,12  Mar-17*,0.8,ASHBL
+116,Debt to equity ratio,12  Mar-17*,9.7,ASHBL
+117,Sales to assets ratio,12  Mar-17*,0.3,ASHBL
+118,Return on assets,12  Mar-17*,6.3,ASHBL
+119,Return on equity,12  Mar-17*,-47.9,ASHBL
+120,Return on capital,12  Mar-17*,15.0,ASHBL
+121,Exports to sales,12  Mar-17*,0.0,ASHBL
+122,Imports to sales,12  Mar-17*,0.0,ASHBL
+123,Exports (fob),12  Mar-17*,0.0,ASHBL
+124,Imports (cif),12  Mar-17*,0.0,ASHBL
+125,Fx inflow,12  Mar-17*,111.0,ASHBL
+126,Fx outflow,12  Mar-17*,140.0,ASHBL
+127,Net fx,12  Mar-17*,-30.0,ASHBL
+128,From Operations,12  Mar-17*,8273.0,ASHBL
+129,From Investments,12  Mar-17*,-628.0,ASHBL
+130,From Financial Activity,12  Mar-17*,-8659.0,ASHBL
+131,Net Cashflow,12  Mar-17*,-1014.0,ASHBL
+132,Net Sales,12  Mar-18*,36010.0,ASHBL
+133,Other income,12  Mar-18*,516.0,ASHBL
+134,Total revenues,12  Mar-18*,36526.0,ASHBL
+135,Gross profit,12  Mar-18*,11395.0,ASHBL
+136,Depreciation,12  Mar-18*,2914.0,ASHBL
+137,Interest,12  Mar-18*,9938.0,ASHBL
+138,Profit before tax,12  Mar-18*,-942.0,ASHBL
+139,Minority Interest,12  Mar-18*,592.0,ASHBL
+140,Prior Period Items,12  Mar-18*,0.0,ASHBL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ASHBL
+142,Tax,12  Mar-18*,837.0,ASHBL
+143,Profit after tax,12  Mar-18*,-1187.0,ASHBL
+144,Gross profit margin,12  Mar-18*,31.6,ASHBL
+145,Effective tax rate,12  Mar-18*,-88.9,ASHBL
+146,Net profit margin,12  Mar-18*,-3.3,ASHBL
+147,Current assets,12  Mar-18*,23817.0,ASHBL
+148,Current liabilities,12  Mar-18*,32619.0,ASHBL
+149,Net working cap to sales,12  Mar-18*,-24.4,ASHBL
+150,Current ratio,12  Mar-18*,0.7,ASHBL
+151,Inventory Days,12  Mar-18*,43.0,ASHBL
+152,Debtors Days,12  Mar-18*,13.0,ASHBL
+153,Net fixed assets,12  Mar-18*,79212.0,ASHBL
+154,Share capital,12  Mar-18*,936.0,ASHBL
+155,"""Free"" reserves",12  Mar-18*,2223.0,ASHBL
+156,Net worth,12  Mar-18*,3159.0,ASHBL
+157,Long term debt,12  Mar-18*,48704.0,ASHBL
+158,Total assets,12  Mar-18*,115503.0,ASHBL
+159,Interest coverage,12  Mar-18*,0.9,ASHBL
+160,Debt to equity ratio,12  Mar-18*,15.4,ASHBL
+161,Sales to assets ratio,12  Mar-18*,0.3,ASHBL
+162,Return on assets,12  Mar-18*,7.6,ASHBL
+163,Return on equity,12  Mar-18*,-37.6,ASHBL
+164,Return on capital,12  Mar-18*,18.5,ASHBL
+165,Exports to sales,12  Mar-18*,0.0,ASHBL
+166,Imports to sales,12  Mar-18*,0.0,ASHBL
+167,Exports (fob),12  Mar-18*,0.0,ASHBL
+168,Imports (cif),12  Mar-18*,0.0,ASHBL
+169,Fx inflow,12  Mar-18*,56.0,ASHBL
+170,Fx outflow,12  Mar-18*,1.0,ASHBL
+171,Net fx,12  Mar-18*,55.0,ASHBL
+172,From Operations,12  Mar-18*,6211.0,ASHBL
+173,From Investments,12  Mar-18*,-3148.0,ASHBL
+174,From Financial Activity,12  Mar-18*,-984.0,ASHBL
+175,Net Cashflow,12  Mar-18*,2079.0,ASHBL
+176,Net Sales,12  Mar-19*,49301.0,ASHBL
+177,Other income,12  Mar-19*,771.0,ASHBL
+178,Total revenues,12  Mar-19*,50072.0,ASHBL
+179,Gross profit,12  Mar-19*,13943.0,ASHBL
+180,Depreciation,12  Mar-19*,2582.0,ASHBL
+181,Interest,12  Mar-19*,10213.0,ASHBL
+182,Profit before tax,12  Mar-19*,1918.0,ASHBL
+183,Minority Interest,12  Mar-19*,-11.0,ASHBL
+184,Prior Period Items,12  Mar-19*,0.0,ASHBL
+185,Extraordinary Inc (Exp),12  Mar-19*,-601.0,ASHBL
+186,Tax,12  Mar-19*,1709.0,ASHBL
+187,Profit after tax,12  Mar-19*,-403.0,ASHBL
+188,Gross profit margin,12  Mar-19*,28.3,ASHBL
+189,Effective tax rate,12  Mar-19*,89.1,ASHBL
+190,Net profit margin,12  Mar-19*,-0.8,ASHBL
+191,Current assets,12  Mar-19*,34164.0,ASHBL
+192,Current liabilities,12  Mar-19*,43326.0,ASHBL
+193,Net working cap to sales,12  Mar-19*,-18.6,ASHBL
+194,Current ratio,12  Mar-19*,0.8,ASHBL
+195,Inventory Days,12  Mar-19*,32.0,ASHBL
+196,Debtors Days,12  Mar-19*,20.0,ASHBL
+197,Net fixed assets,12  Mar-19*,87321.0,ASHBL
+198,Share capital,12  Mar-19*,1404.0,ASHBL
+199,"""Free"" reserves",12  Mar-19*,1465.0,ASHBL
+200,Net worth,12  Mar-19*,2869.0,ASHBL
+201,Long term debt,12  Mar-19*,54099.0,ASHBL
+202,Total assets,12  Mar-19*,131014.0,ASHBL
+203,Interest coverage,12  Mar-19*,1.2,ASHBL
+204,Debt to equity ratio,12  Mar-19*,18.9,ASHBL
+205,Sales to assets ratio,12  Mar-19*,0.4,ASHBL
+206,Return on assets,12  Mar-19*,7.5,ASHBL
+207,Return on equity,12  Mar-19*,-14.0,ASHBL
+208,Return on capital,12  Mar-19*,20.2,ASHBL
+209,Exports to sales,12  Mar-19*,0.0,ASHBL
+210,Imports to sales,12  Mar-19*,0.0,ASHBL
+211,Exports (fob),12  Mar-19*,0.0,ASHBL
+212,Imports (cif),12  Mar-19*,0.0,ASHBL
+213,Fx inflow,12  Mar-19*,0.0,ASHBL
+214,Fx outflow,12  Mar-19*,38.0,ASHBL
+215,Net fx,12  Mar-19*,-38.0,ASHBL
+216,From Operations,12  Mar-19*,-1611.0,ASHBL
+217,From Investments,12  Mar-19*,-1736.0,ASHBL
+218,From Financial Activity,12  Mar-19*,3105.0,ASHBL
+219,Net Cashflow,12  Mar-19*,-241.0,ASHBL

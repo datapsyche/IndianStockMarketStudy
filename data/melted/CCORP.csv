@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,61221.0,CCORP
+1,Other income,12  Mar-15*,3545.0,CCORP
+2,Total revenues,12  Mar-15*,64767.0,CCORP
+3,Gross profit,12  Mar-15*,13942.0,CCORP
+4,Depreciation,12  Mar-15*,4109.0,CCORP
+5,Interest,12  Mar-15*,180.0,CCORP
+6,Profit before tax,12  Mar-15*,13198.0,CCORP
+7,Minority Interest,12  Mar-15*,-14.0,CCORP
+8,Prior Period Items,12  Mar-15*,0.0,CCORP
+9,Extraordinary Inc (Exp),12  Mar-15*,-1.0,CCORP
+10,Tax,12  Mar-15*,2638.0,CCORP
+11,Profit after tax,12  Mar-15*,10544.0,CCORP
+12,Gross profit margin,12  Mar-15*,22.8,CCORP
+13,Effective tax rate,12  Mar-15*,20.0,CCORP
+14,Net profit margin,12  Mar-15*,17.2,CCORP
+15,Current assets,12  Mar-15*,30460.0,CCORP
+16,Current liabilities,12  Mar-15*,7092.0,CCORP
+17,Net working cap to sales,12  Mar-15*,38.2,CCORP
+18,Current ratio,12  Mar-15*,4.3,CCORP
+19,Inventory Days,12  Mar-15*,3.0,CCORP
+20,Debtors Days,12  Mar-15*,4.0,CCORP
+21,Net fixed assets,12  Mar-15*,32901.0,CCORP
+22,Share capital,12  Mar-15*,1950.0,CCORP
+23,"""Free"" reserves",12  Mar-15*,74604.0,CCORP
+24,Net worth,12  Mar-15*,76554.0,CCORP
+25,Long term debt,12  Mar-15*,0.0,CCORP
+26,Total assets,12  Mar-15*,87720.0,CCORP
+27,Interest coverage,12  Mar-15*,74.3,CCORP
+28,Debt to equity ratio,12  Mar-15*,0.0,CCORP
+29,Sales to assets ratio,12  Mar-15*,0.7,CCORP
+30,Return on assets,12  Mar-15*,12.2,CCORP
+31,Return on equity,12  Mar-15*,13.8,CCORP
+32,Return on capital,12  Mar-15*,17.5,CCORP
+33,Exports to sales,12  Mar-15*,0.0,CCORP
+34,Imports to sales,12  Mar-15*,32.6,CCORP
+35,Exports (fob),12  Mar-15*,0.0,CCORP
+36,Imports (cif),12  Mar-15*,19936.0,CCORP
+37,Fx inflow,12  Mar-15*,0.0,CCORP
+38,Fx outflow,12  Mar-15*,20120.0,CCORP
+39,Net fx,12  Mar-15*,-20120.0,CCORP
+40,From Operations,12  Mar-15*,11663.0,CCORP
+41,From Investments,12  Mar-15*,-6484.0,CCORP
+42,From Financial Activity,12  Mar-15*,-3486.0,CCORP
+43,Net Cashflow,12  Mar-15*,1693.0,CCORP
+44,Net Sales,12  Mar-16*,62782.0,CCORP
+45,Other income,12  Mar-16*,3133.0,CCORP
+46,Total revenues,12  Mar-16*,65915.0,CCORP
+47,Gross profit,12  Mar-16*,13423.0,CCORP
+48,Depreciation,12  Mar-16*,3549.0,CCORP
+49,Interest,12  Mar-16*,2.0,CCORP
+50,Profit before tax,12  Mar-16*,13005.0,CCORP
+51,Minority Interest,12  Mar-16*,341.0,CCORP
+52,Prior Period Items,12  Mar-16*,0.0,CCORP
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CCORP
+54,Tax,12  Mar-16*,3680.0,CCORP
+55,Profit after tax,12  Mar-16*,9666.0,CCORP
+56,Gross profit margin,12  Mar-16*,21.4,CCORP
+57,Effective tax rate,12  Mar-16*,28.3,CCORP
+58,Net profit margin,12  Mar-16*,15.4,CCORP
+59,Current assets,12  Mar-16*,13799.0,CCORP
+60,Current liabilities,12  Mar-16*,7443.0,CCORP
+61,Net working cap to sales,12  Mar-16*,10.1,CCORP
+62,Current ratio,12  Mar-16*,1.9,CCORP
+63,Inventory Days,12  Mar-16*,1.0,CCORP
+64,Debtors Days,12  Mar-16*,3.0,CCORP
+65,Net fixed assets,12  Mar-16*,36307.0,CCORP
+66,Share capital,12  Mar-16*,1950.0,CCORP
+67,"""Free"" reserves",12  Mar-16*,81124.0,CCORP
+68,Net worth,12  Mar-16*,83073.0,CCORP
+69,Long term debt,12  Mar-16*,101.0,CCORP
+70,Total assets,12  Mar-16*,95809.0,CCORP
+71,Interest coverage,12  Mar-16*,8671.1,CCORP
+72,Debt to equity ratio,12  Mar-16*,0.0,CCORP
+73,Sales to assets ratio,12  Mar-16*,0.7,CCORP
+74,Return on assets,12  Mar-16*,10.1,CCORP
+75,Return on equity,12  Mar-16*,11.6,CCORP
+76,Return on capital,12  Mar-16*,16.0,CCORP
+77,Exports to sales,12  Mar-16*,0.0,CCORP
+78,Imports to sales,12  Mar-16*,1.6,CCORP
+79,Exports (fob),12  Mar-16*,0.0,CCORP
+80,Imports (cif),12  Mar-16*,988.0,CCORP
+81,Fx inflow,12  Mar-16*,0.0,CCORP
+82,Fx outflow,12  Mar-16*,1114.0,CCORP
+83,Net fx,12  Mar-16*,-1114.0,CCORP
+84,From Operations,12  Mar-16*,-7814.0,CCORP
+85,From Investments,12  Mar-16*,-7527.0,CCORP
+86,From Financial Activity,12  Mar-16*,-2985.0,CCORP
+87,Net Cashflow,12  Mar-16*,-18326.0,CCORP
+88,Net Sales,12  Mar-17*,59797.0,CCORP
+89,Other income,12  Mar-17*,2850.0,CCORP
+90,Total revenues,12  Mar-17*,62648.0,CCORP
+91,Gross profit,12  Mar-17*,12711.0,CCORP
+92,Depreciation,12  Mar-17*,3671.0,CCORP
+93,Interest,12  Mar-17*,37.0,CCORP
+94,Profit before tax,12  Mar-17*,11854.0,CCORP
+95,Minority Interest,12  Mar-17*,0.0,CCORP
+96,Prior Period Items,12  Mar-17*,0.0,CCORP
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CCORP
+98,Tax,12  Mar-17*,3312.0,CCORP
+99,Profit after tax,12  Mar-17*,8541.0,CCORP
+100,Gross profit margin,12  Mar-17*,21.3,CCORP
+101,Effective tax rate,12  Mar-17*,27.9,CCORP
+102,Net profit margin,12  Mar-17*,14.3,CCORP
+103,Current assets,12  Mar-17*,26823.0,CCORP
+104,Current liabilities,12  Mar-17*,8476.0,CCORP
+105,Net working cap to sales,12  Mar-17*,30.7,CCORP
+106,Current ratio,12  Mar-17*,3.2,CCORP
+107,Inventory Days,12  Mar-17*,1.0,CCORP
+108,Debtors Days,12  Mar-17*,4.0,CCORP
+109,Net fixed assets,12  Mar-17*,42745.0,CCORP
+110,Share capital,12  Mar-17*,1950.0,CCORP
+111,"""Free"" reserves",12  Mar-17*,85762.0,CCORP
+112,Net worth,12  Mar-17*,87712.0,CCORP
+113,Long term debt,12  Mar-17*,620.0,CCORP
+114,Total assets,12  Mar-17*,101270.0,CCORP
+115,Interest coverage,12  Mar-17*,324.9,CCORP
+116,Debt to equity ratio,12  Mar-17*,0.0,CCORP
+117,Sales to assets ratio,12  Mar-17*,0.6,CCORP
+118,Return on assets,12  Mar-17*,8.5,CCORP
+119,Return on equity,12  Mar-17*,9.7,CCORP
+120,Return on capital,12  Mar-17*,13.5,CCORP
+121,Exports to sales,12  Mar-17*,0.0,CCORP
+122,Imports to sales,12  Mar-17*,1.4,CCORP
+123,Exports (fob),12  Mar-17*,0.0,CCORP
+124,Imports (cif),12  Mar-17*,863.0,CCORP
+125,Fx inflow,12  Mar-17*,0.0,CCORP
+126,Fx outflow,12  Mar-17*,866.0,CCORP
+127,Net fx,12  Mar-17*,-866.0,CCORP
+128,From Operations,12  Mar-17*,20294.0,CCORP
+129,From Investments,12  Mar-17*,-8820.0,CCORP
+130,From Financial Activity,12  Mar-17*,-2925.0,CCORP
+131,Net Cashflow,12  Mar-17*,8549.0,CCORP
+132,Net Sales,12  Mar-18*,66124.0,CCORP
+133,Other income,12  Mar-18*,2868.0,CCORP
+134,Total revenues,12  Mar-18*,68992.0,CCORP
+135,Gross profit,12  Mar-18*,15475.0,CCORP
+136,Depreciation,12  Mar-18*,4200.0,CCORP
+137,Interest,12  Mar-18*,56.0,CCORP
+138,Profit before tax,12  Mar-18*,14087.0,CCORP
+139,Minority Interest,12  Mar-18*,0.0,CCORP
+140,Prior Period Items,12  Mar-18*,0.0,CCORP
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CCORP
+142,Tax,12  Mar-18*,3486.0,CCORP
+143,Profit after tax,12  Mar-18*,10601.0,CCORP
+144,Gross profit margin,12  Mar-18*,23.4,CCORP
+145,Effective tax rate,12  Mar-18*,24.7,CCORP
+146,Net profit margin,12  Mar-18*,16.0,CCORP
+147,Current assets,12  Mar-18*,32200.0,CCORP
+148,Current liabilities,12  Mar-18*,10637.0,CCORP
+149,Net working cap to sales,12  Mar-18*,32.6,CCORP
+150,Current ratio,12  Mar-18*,3.0,CCORP
+151,Inventory Days,12  Mar-18*,2.0,CCORP
+152,Debtors Days,12  Mar-18*,5.0,CCORP
+153,Net fixed assets,12  Mar-18*,47111.0,CCORP
+154,Share capital,12  Mar-18*,2437.0,CCORP
+155,"""Free"" reserves",12  Mar-18*,91044.0,CCORP
+156,Net worth,12  Mar-18*,93482.0,CCORP
+157,Long term debt,12  Mar-18*,620.0,CCORP
+158,Total assets,12  Mar-18*,109196.0,CCORP
+159,Interest coverage,12  Mar-18*,254.8,CCORP
+160,Debt to equity ratio,12  Mar-18*,0.0,CCORP
+161,Sales to assets ratio,12  Mar-18*,0.6,CCORP
+162,Return on assets,12  Mar-18*,9.8,CCORP
+163,Return on equity,12  Mar-18*,11.3,CCORP
+164,Return on capital,12  Mar-18*,15.0,CCORP
+165,Exports to sales,12  Mar-18*,0.0,CCORP
+166,Imports to sales,12  Mar-18*,0.8,CCORP
+167,Exports (fob),12  Mar-18*,0.0,CCORP
+168,Imports (cif),12  Mar-18*,508.0,CCORP
+169,Fx inflow,12  Mar-18*,0.0,CCORP
+170,Fx outflow,12  Mar-18*,508.0,CCORP
+171,Net fx,12  Mar-18*,-508.0,CCORP
+172,From Operations,12  Mar-18*,13133.0,CCORP
+173,From Investments,12  Mar-18*,-7462.0,CCORP
+174,From Financial Activity,12  Mar-18*,-4924.0,CCORP
+175,Net Cashflow,12  Mar-18*,747.0,CCORP
+176,Net Sales,12  Mar-19*,89561.0,CCORP
+177,Other income,12  Mar-19*,3170.0,CCORP
+178,Total revenues,12  Mar-19*,92731.0,CCORP
+179,Gross profit,12  Mar-19*,18408.0,CCORP
+180,Depreciation,12  Mar-19*,4523.0,CCORP
+181,Interest,12  Mar-19*,65.0,CCORP
+182,Profit before tax,12  Mar-19*,16990.0,CCORP
+183,Minority Interest,12  Mar-19*,0.0,CCORP
+184,Prior Period Items,12  Mar-19*,0.0,CCORP
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CCORP
+186,Tax,12  Mar-19*,4744.0,CCORP
+187,Profit after tax,12  Mar-19*,12246.0,CCORP
+188,Gross profit margin,12  Mar-19*,20.6,CCORP
+189,Effective tax rate,12  Mar-19*,27.9,CCORP
+190,Net profit margin,12  Mar-19*,13.7,CCORP
+191,Current assets,12  Mar-19*,47287.0,CCORP
+192,Current liabilities,12  Mar-19*,19412.0,CCORP
+193,Net working cap to sales,12  Mar-19*,31.1,CCORP
+194,Current ratio,12  Mar-19*,2.4,CCORP
+195,Inventory Days,12  Mar-19*,1.0,CCORP
+196,Debtors Days,12  Mar-19*,4.0,CCORP
+197,Net fixed assets,12  Mar-19*,51904.0,CCORP
+198,Share capital,12  Mar-19*,3047.0,CCORP
+199,"""Free"" reserves",12  Mar-19*,100253.0,CCORP
+200,Net worth,12  Mar-19*,103299.0,CCORP
+201,Long term debt,12  Mar-19*,700.0,CCORP
+202,Total assets,12  Mar-19*,128003.0,CCORP
+203,Interest coverage,12  Mar-19*,260.8,CCORP
+204,Debt to equity ratio,12  Mar-19*,0.0,CCORP
+205,Sales to assets ratio,12  Mar-19*,0.7,CCORP
+206,Return on assets,12  Mar-19*,9.6,CCORP
+207,Return on equity,12  Mar-19*,11.9,CCORP
+208,Return on capital,12  Mar-19*,16.4,CCORP
+209,Exports to sales,12  Mar-19*,0.0,CCORP
+210,Imports to sales,12  Mar-19*,2.6,CCORP
+211,Exports (fob),12  Mar-19*,0.0,CCORP
+212,Imports (cif),12  Mar-19*,2363.0,CCORP
+213,Fx inflow,12  Mar-19*,0.0,CCORP
+214,Fx outflow,12  Mar-19*,2363.0,CCORP
+215,Net fx,12  Mar-19*,-2363.0,CCORP
+216,From Operations,12  Mar-19*,-18782.0,CCORP
+217,From Investments,12  Mar-19*,13159.0,CCORP
+218,From Financial Activity,12  Mar-19*,4806.0,CCORP
+219,Net Cashflow,12  Mar-19*,-816.0,CCORP

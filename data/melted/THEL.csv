@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,1576.0,THEL
+1,Other income,12  Mar-14,13.0,THEL
+2,Total revenues,12  Mar-14,1590.0,THEL
+3,Gross profit,12  Mar-14,892.0,THEL
+4,Depreciation,12  Mar-14,170.0,THEL
+5,Interest,12  Mar-14,76.0,THEL
+6,Profit before tax,12  Mar-14,660.0,THEL
+7,Minority Interest,12  Mar-14,0.0,THEL
+8,Prior Period Items,12  Mar-14,0.0,THEL
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,THEL
+10,Tax,12  Mar-14,221.0,THEL
+11,Profit after tax,12  Mar-14,439.0,THEL
+12,Gross profit margin,12  Mar-14,56.6,THEL
+13,Effective tax rate,12  Mar-14,33.5,THEL
+14,Net profit margin,12  Mar-14,27.9,THEL
+15,Current assets,12  Mar-14,529.0,THEL
+16,Current liabilities,12  Mar-14,696.0,THEL
+17,Net working cap to sales,12  Mar-14,-10.7,THEL
+18,Current ratio,12  Mar-14,0.8,THEL
+19,Inventory Days,12  Mar-14,13.0,THEL
+20,Debtors Days,12  Mar-14,67.0,THEL
+21,Net fixed assets,12  Mar-14,2753.0,THEL
+22,Share capital,12  Mar-14,372.0,THEL
+23,"""Free"" reserves",12  Mar-14,3604.0,THEL
+24,Net worth,12  Mar-14,4009.0,THEL
+25,Long term debt,12  Mar-14,507.0,THEL
+26,Total assets,12  Mar-14,5267.0,THEL
+27,Interest coverage,12  Mar-14,9.7,THEL
+28,Debt to equity ratio,12  Mar-14,0.1,THEL
+29,Sales to assets ratio,12  Mar-14,0.3,THEL
+30,Return on assets,12  Mar-14,9.8,THEL
+31,Return on equity,12  Mar-14,11.0,THEL
+32,Return on capital,12  Mar-14,16.3,THEL
+33,Exports to sales,12  Mar-14,0.0,THEL
+34,Imports to sales,12  Mar-14,0.0,THEL
+35,Exports (fob),12  Mar-14,0.0,THEL
+36,Imports (cif),12  Mar-14,0.0,THEL
+37,Fx inflow,12  Mar-14,0.0,THEL
+38,Fx outflow,12  Mar-14,0.0,THEL
+39,Net fx,12  Mar-14,0.0,THEL
+40,From Operations,12  Mar-14,352.0,THEL
+41,From Investments,12  Mar-14,-974.0,THEL
+42,From Financial Activity,12  Mar-14,242.0,THEL
+43,Net Cashflow,12  Mar-14,-379.0,THEL
+44,Net Sales,12  Mar-15,2075.0,THEL
+45,Other income,12  Mar-15,72.0,THEL
+46,Total revenues,12  Mar-15,2146.0,THEL
+47,Gross profit,12  Mar-15,1187.0,THEL
+48,Depreciation,12  Mar-15,268.0,THEL
+49,Interest,12  Mar-15,153.0,THEL
+50,Profit before tax,12  Mar-15,837.0,THEL
+51,Minority Interest,12  Mar-15,0.0,THEL
+52,Prior Period Items,12  Mar-15,0.0,THEL
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,THEL
+54,Tax,12  Mar-15,229.0,THEL
+55,Profit after tax,12  Mar-15,609.0,THEL
+56,Gross profit margin,12  Mar-15,57.2,THEL
+57,Effective tax rate,12  Mar-15,27.3,THEL
+58,Net profit margin,12  Mar-15,29.3,THEL
+59,Current assets,12  Mar-15,2150.0,THEL
+60,Current liabilities,12  Mar-15,1177.0,THEL
+61,Net working cap to sales,12  Mar-15,46.9,THEL
+62,Current ratio,12  Mar-15,1.8,THEL
+63,Inventory Days,12  Mar-15,9.0,THEL
+64,Debtors Days,12  Mar-15,76.0,THEL
+65,Net fixed assets,12  Mar-15,3472.0,THEL
+66,Share capital,12  Mar-15,423.0,THEL
+67,"""Free"" reserves",12  Mar-15,6024.0,THEL
+68,Net worth,12  Mar-15,6447.0,THEL
+69,Long term debt,12  Mar-15,411.0,THEL
+70,Total assets,12  Mar-15,8045.0,THEL
+71,Interest coverage,12  Mar-15,6.5,THEL
+72,Debt to equity ratio,12  Mar-15,0.1,THEL
+73,Sales to assets ratio,12  Mar-15,0.3,THEL
+74,Return on assets,12  Mar-15,9.5,THEL
+75,Return on equity,12  Mar-15,9.4,THEL
+76,Return on capital,12  Mar-15,14.4,THEL
+77,Exports to sales,12  Mar-15,0.0,THEL
+78,Imports to sales,12  Mar-15,0.0,THEL
+79,Exports (fob),12  Mar-15,0.0,THEL
+80,Imports (cif),12  Mar-15,0.0,THEL
+81,Fx inflow,12  Mar-15,0.0,THEL
+82,Fx outflow,12  Mar-15,6.0,THEL
+83,Net fx,12  Mar-15,-6.0,THEL
+84,From Operations,12  Mar-15,590.0,THEL
+85,From Investments,12  Mar-15,-1084.0,THEL
+86,From Financial Activity,12  Mar-15,1999.0,THEL
+87,Net Cashflow,12  Mar-15,1506.0,THEL
+88,Net Sales,12  Mar-16,2093.0,THEL
+89,Other income,12  Mar-16,101.0,THEL
+90,Total revenues,12  Mar-16,2194.0,THEL
+91,Gross profit,12  Mar-16,677.0,THEL
+92,Depreciation,12  Mar-16,448.0,THEL
+93,Interest,12  Mar-16,167.0,THEL
+94,Profit before tax,12  Mar-16,162.0,THEL
+95,Minority Interest,12  Mar-16,0.0,THEL
+96,Prior Period Items,12  Mar-16,0.0,THEL
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,THEL
+98,Tax,12  Mar-16,95.0,THEL
+99,Profit after tax,12  Mar-16,68.0,THEL
+100,Gross profit margin,12  Mar-16,32.3,THEL
+101,Effective tax rate,12  Mar-16,58.3,THEL
+102,Net profit margin,12  Mar-16,3.2,THEL
+103,Current assets,12  Mar-16,886.0,THEL
+104,Current liabilities,12  Mar-16,832.0,THEL
+105,Net working cap to sales,12  Mar-16,2.6,THEL
+106,Current ratio,12  Mar-16,1.1,THEL
+107,Inventory Days,12  Mar-16,8.0,THEL
+108,Debtors Days,12  Mar-16,100.0,THEL
+109,Net fixed assets,12  Mar-16,4690.0,THEL
+110,Share capital,12  Mar-16,423.0,THEL
+111,"""Free"" reserves",12  Mar-16,6124.0,THEL
+112,Net worth,12  Mar-16,6547.0,THEL
+113,Long term debt,12  Mar-16,532.0,THEL
+114,Total assets,12  Mar-16,7941.0,THEL
+115,Interest coverage,12  Mar-16,2.0,THEL
+116,Debt to equity ratio,12  Mar-16,0.1,THEL
+117,Sales to assets ratio,12  Mar-16,0.3,THEL
+118,Return on assets,12  Mar-16,3.0,THEL
+119,Return on equity,12  Mar-16,1.0,THEL
+120,Return on capital,12  Mar-16,4.7,THEL
+121,Exports to sales,12  Mar-16,0.0,THEL
+122,Imports to sales,12  Mar-16,0.0,THEL
+123,Exports (fob),12  Mar-16,0.0,THEL
+124,Imports (cif),12  Mar-16,0.0,THEL
+125,Fx inflow,12  Mar-16,0.0,THEL
+126,Fx outflow,12  Mar-16,0.0,THEL
+127,Net fx,12  Mar-16,0.0,THEL
+128,From Operations,12  Mar-16,-126.0,THEL
+129,From Investments,12  Mar-16,-946.0,THEL
+130,From Financial Activity,12  Mar-16,-321.0,THEL
+131,Net Cashflow,12  Mar-16,-1393.0,THEL
+132,Net Sales,12  Mar-17*,593.0,THEL
+133,Other income,12  Mar-17*,37.0,THEL
+134,Total revenues,12  Mar-17*,630.0,THEL
+135,Gross profit,12  Mar-17*,-183.0,THEL
+136,Depreciation,12  Mar-17*,499.0,THEL
+137,Interest,12  Mar-17*,108.0,THEL
+138,Profit before tax,12  Mar-17*,-753.0,THEL
+139,Minority Interest,12  Mar-17*,0.0,THEL
+140,Prior Period Items,12  Mar-17*,2.0,THEL
+141,Extraordinary Inc (Exp),12  Mar-17*,-880.0,THEL
+142,Tax,12  Mar-17*,1.0,THEL
+143,Profit after tax,12  Mar-17*,-1631.0,THEL
+144,Gross profit margin,12  Mar-17*,-30.9,THEL
+145,Effective tax rate,12  Mar-17*,-0.1,THEL
+146,Net profit margin,12  Mar-17*,-275.2,THEL
+147,Current assets,12  Mar-17*,570.0,THEL
+148,Current liabilities,12  Mar-17*,1077.0,THEL
+149,Net working cap to sales,12  Mar-17*,-85.5,THEL
+150,Current ratio,12  Mar-17*,0.5,THEL
+151,Inventory Days,12  Mar-17*,17.0,THEL
+152,Debtors Days,12  Mar-17*,181.0,THEL
+153,Net fixed assets,12  Mar-17*,3370.0,THEL
+154,Share capital,12  Mar-17*,423.0,THEL
+155,"""Free"" reserves",12  Mar-17*,4504.0,THEL
+156,Net worth,12  Mar-17*,4927.0,THEL
+157,Long term debt,12  Mar-17*,0.0,THEL
+158,Total assets,12  Mar-17*,6006.0,THEL
+159,Interest coverage,12  Mar-17*,-6.0,THEL
+160,Debt to equity ratio,12  Mar-17*,0.0,THEL
+161,Sales to assets ratio,12  Mar-17*,0.1,THEL
+162,Return on assets,12  Mar-17*,-25.4,THEL
+163,Return on equity,12  Mar-17*,-33.1,THEL
+164,Return on capital,12  Mar-17*,-30.9,THEL
+165,Exports to sales,12  Mar-17*,0.0,THEL
+166,Imports to sales,12  Mar-17*,0.0,THEL
+167,Exports (fob),12  Mar-17*,0.0,THEL
+168,Imports (cif),12  Mar-17*,0.0,THEL
+169,Fx inflow,12  Mar-17*,0.0,THEL
+170,Fx outflow,12  Mar-17*,0.0,THEL
+171,Net fx,12  Mar-17*,0.0,THEL
+172,From Operations,12  Mar-17*,81.0,THEL
+173,From Investments,12  Mar-17*,36.0,THEL
+174,From Financial Activity,12  Mar-17*,-329.0,THEL
+175,Net Cashflow,12  Mar-17*,-212.0,THEL
+176,Net Sales,12  Mar-18*,70.0,THEL
+177,Other income,12  Mar-18*,35.0,THEL
+178,Total revenues,12  Mar-18*,105.0,THEL
+179,Gross profit,12  Mar-18*,-73.0,THEL
+180,Depreciation,12  Mar-18*,526.0,THEL
+181,Interest,12  Mar-18*,55.0,THEL
+182,Profit before tax,12  Mar-18*,-619.0,THEL
+183,Minority Interest,12  Mar-18*,0.0,THEL
+184,Prior Period Items,12  Mar-18*,-2.0,THEL
+185,Extraordinary Inc (Exp),12  Mar-18*,-351.0,THEL
+186,Tax,12  Mar-18*,0.0,THEL
+187,Profit after tax,12  Mar-18*,-972.0,THEL
+188,Gross profit margin,12  Mar-18*,-104.3,THEL
+189,Effective tax rate,12  Mar-18*,0.0,THEL
+190,Net profit margin,12  Mar-18*,-1389.1,THEL
+191,Current assets,12  Mar-18*,445.0,THEL
+192,Current liabilities,12  Mar-18*,1003.0,THEL
+193,Net working cap to sales,12  Mar-18*,-796.8,THEL
+194,Current ratio,12  Mar-18*,0.4,THEL
+195,Inventory Days,12  Mar-18*,72.0,THEL
+196,Debtors Days,12  Mar-18*,1416.0,THEL
+197,Net fixed assets,12  Mar-18*,2600.0,THEL
+198,Share capital,12  Mar-18*,423.0,THEL
+199,"""Free"" reserves",12  Mar-18*,3476.0,THEL
+200,Net worth,12  Mar-18*,3899.0,THEL
+201,Long term debt,12  Mar-18*,0.0,THEL
+202,Total assets,12  Mar-18*,4902.0,THEL
+203,Interest coverage,12  Mar-18*,-10.2,THEL
+204,Debt to equity ratio,12  Mar-18*,0.0,THEL
+205,Sales to assets ratio,12  Mar-18*,0.0,THEL
+206,Return on assets,12  Mar-18*,-18.7,THEL
+207,Return on equity,12  Mar-18*,-24.9,THEL
+208,Return on capital,12  Mar-18*,-23.5,THEL
+209,Exports to sales,12  Mar-18*,0.0,THEL
+210,Imports to sales,12  Mar-18*,0.0,THEL
+211,Exports (fob),12  Mar-18*,0.0,THEL
+212,Imports (cif),12  Mar-18*,0.0,THEL
+213,Fx inflow,12  Mar-18*,0.0,THEL
+214,Fx outflow,12  Mar-18*,0.0,THEL
+215,Net fx,12  Mar-18*,0.0,THEL
+216,From Operations,12  Mar-18*,19.0,THEL
+217,From Investments,12  Mar-18*,2.0,THEL
+218,From Financial Activity,12  Mar-18*,-24.0,THEL
+219,Net Cashflow,12  Mar-18*,-3.0,THEL

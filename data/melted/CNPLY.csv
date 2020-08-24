@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,15884.0,CNPLY
+1,Other income,12  Mar-15*,177.0,CNPLY
+2,Total revenues,12  Mar-15*,16062.0,CNPLY
+3,Gross profit,12  Mar-15*,2559.0,CNPLY
+4,Depreciation,12  Mar-15*,485.0,CNPLY
+5,Interest,12  Mar-15*,456.0,CNPLY
+6,Profit before tax,12  Mar-15*,1796.0,CNPLY
+7,Minority Interest,12  Mar-15*,-9.0,CNPLY
+8,Prior Period Items,12  Mar-15*,-1.0,CNPLY
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CNPLY
+10,Tax,12  Mar-15*,296.0,CNPLY
+11,Profit after tax,12  Mar-15*,1490.0,CNPLY
+12,Gross profit margin,12  Mar-15*,16.1,CNPLY
+13,Effective tax rate,12  Mar-15*,16.5,CNPLY
+14,Net profit margin,12  Mar-15*,9.4,CNPLY
+15,Current assets,12  Mar-15*,7168.0,CNPLY
+16,Current liabilities,12  Mar-15*,5876.0,CNPLY
+17,Net working cap to sales,12  Mar-15*,8.1,CNPLY
+18,Current ratio,12  Mar-15*,1.2,CNPLY
+19,Inventory Days,12  Mar-15*,76.0,CNPLY
+20,Debtors Days,12  Mar-15*,62.0,CNPLY
+21,Net fixed assets,12  Mar-15*,2782.0,CNPLY
+22,Share capital,12  Mar-15*,223.0,CNPLY
+23,"""Free"" reserves",12  Mar-15*,3522.0,CNPLY
+24,Net worth,12  Mar-15*,3894.0,CNPLY
+25,Long term debt,12  Mar-15*,814.0,CNPLY
+26,Total assets,12  Mar-15*,10675.0,CNPLY
+27,Interest coverage,12  Mar-15*,4.9,CNPLY
+28,Debt to equity ratio,12  Mar-15*,0.2,CNPLY
+29,Sales to assets ratio,12  Mar-15*,1.5,CNPLY
+30,Return on assets,12  Mar-15*,18.2,CNPLY
+31,Return on equity,12  Mar-15*,38.3,CNPLY
+32,Return on capital,12  Mar-15*,47.6,CNPLY
+33,Exports to sales,12  Mar-15*,4.2,CNPLY
+34,Imports to sales,12  Mar-15*,28.8,CNPLY
+35,Exports (fob),12  Mar-15*,660.0,CNPLY
+36,Imports (cif),12  Mar-15*,4579.0,CNPLY
+37,Fx inflow,12  Mar-15*,660.0,CNPLY
+38,Fx outflow,12  Mar-15*,4653.0,CNPLY
+39,Net fx,12  Mar-15*,-3993.0,CNPLY
+40,From Operations,12  Mar-15*,1488.0,CNPLY
+41,From Investments,12  Mar-15*,128.0,CNPLY
+42,From Financial Activity,12  Mar-15*,-1577.0,CNPLY
+43,Net Cashflow,12  Mar-15*,39.0,CNPLY
+44,Net Sales,12  Mar-16*,16409.0,CNPLY
+45,Other income,12  Mar-16*,60.0,CNPLY
+46,Total revenues,12  Mar-16*,16469.0,CNPLY
+47,Gross profit,12  Mar-16*,2886.0,CNPLY
+48,Depreciation,12  Mar-16*,484.0,CNPLY
+49,Interest,12  Mar-16*,482.0,CNPLY
+50,Profit before tax,12  Mar-16*,1981.0,CNPLY
+51,Minority Interest,12  Mar-16*,-8.0,CNPLY
+52,Prior Period Items,12  Mar-16*,0.0,CNPLY
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CNPLY
+54,Tax,12  Mar-16*,301.0,CNPLY
+55,Profit after tax,12  Mar-16*,1672.0,CNPLY
+56,Gross profit margin,12  Mar-16*,17.6,CNPLY
+57,Effective tax rate,12  Mar-16*,15.2,CNPLY
+58,Net profit margin,12  Mar-16*,10.2,CNPLY
+59,Current assets,12  Mar-16*,7156.0,CNPLY
+60,Current liabilities,12  Mar-16*,5681.0,CNPLY
+61,Net working cap to sales,12  Mar-16*,9.0,CNPLY
+62,Current ratio,12  Mar-16*,1.3,CNPLY
+63,Inventory Days,12  Mar-16*,66.0,CNPLY
+64,Debtors Days,12  Mar-16*,64.0,CNPLY
+65,Net fixed assets,12  Mar-16*,3652.0,CNPLY
+66,Share capital,12  Mar-16*,223.0,CNPLY
+67,"""Free"" reserves",12  Mar-16*,5104.0,CNPLY
+68,Net worth,12  Mar-16*,5327.0,CNPLY
+69,Long term debt,12  Mar-16*,641.0,CNPLY
+70,Total assets,12  Mar-16*,11793.0,CNPLY
+71,Interest coverage,12  Mar-16*,5.1,CNPLY
+72,Debt to equity ratio,12  Mar-16*,0.1,CNPLY
+73,Sales to assets ratio,12  Mar-16*,1.4,CNPLY
+74,Return on assets,12  Mar-16*,18.3,CNPLY
+75,Return on equity,12  Mar-16*,31.4,CNPLY
+76,Return on capital,12  Mar-16*,41.1,CNPLY
+77,Exports to sales,12  Mar-16*,5.8,CNPLY
+78,Imports to sales,12  Mar-16*,29.6,CNPLY
+79,Exports (fob),12  Mar-16*,949.0,CNPLY
+80,Imports (cif),12  Mar-16*,4852.0,CNPLY
+81,Fx inflow,12  Mar-16*,949.0,CNPLY
+82,Fx outflow,12  Mar-16*,4902.0,CNPLY
+83,Net fx,12  Mar-16*,-3952.0,CNPLY
+84,From Operations,12  Mar-16*,2929.0,CNPLY
+85,From Investments,12  Mar-16*,-1389.0,CNPLY
+86,From Financial Activity,12  Mar-16*,-1525.0,CNPLY
+87,Net Cashflow,12  Mar-16*,14.0,CNPLY
+88,Net Sales,12  Mar-17*,18187.0,CNPLY
+89,Other income,12  Mar-17*,226.0,CNPLY
+90,Total revenues,12  Mar-17*,18413.0,CNPLY
+91,Gross profit,12  Mar-17*,3120.0,CNPLY
+92,Depreciation,12  Mar-17*,593.0,CNPLY
+93,Interest,12  Mar-17*,302.0,CNPLY
+94,Profit before tax,12  Mar-17*,2450.0,CNPLY
+95,Minority Interest,12  Mar-17*,0.0,CNPLY
+96,Prior Period Items,12  Mar-17*,0.0,CNPLY
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CNPLY
+98,Tax,12  Mar-17*,515.0,CNPLY
+99,Profit after tax,12  Mar-17*,1935.0,CNPLY
+100,Gross profit margin,12  Mar-17*,17.2,CNPLY
+101,Effective tax rate,12  Mar-17*,21.0,CNPLY
+102,Net profit margin,12  Mar-17*,10.6,CNPLY
+103,Current assets,12  Mar-17*,8703.0,CNPLY
+104,Current liabilities,12  Mar-17*,6989.0,CNPLY
+105,Net working cap to sales,12  Mar-17*,9.4,CNPLY
+106,Current ratio,12  Mar-17*,1.2,CNPLY
+107,Inventory Days,12  Mar-17*,60.0,CNPLY
+108,Debtors Days,12  Mar-17*,69.0,CNPLY
+109,Net fixed assets,12  Mar-17*,6029.0,CNPLY
+110,Share capital,12  Mar-17*,223.0,CNPLY
+111,"""Free"" reserves",12  Mar-17*,6927.0,CNPLY
+112,Net worth,12  Mar-17*,7149.0,CNPLY
+113,Long term debt,12  Mar-17*,1468.0,CNPLY
+114,Total assets,12  Mar-17*,15849.0,CNPLY
+115,Interest coverage,12  Mar-17*,9.1,CNPLY
+116,Debt to equity ratio,12  Mar-17*,0.2,CNPLY
+117,Sales to assets ratio,12  Mar-17*,1.1,CNPLY
+118,Return on assets,12  Mar-17*,14.1,CNPLY
+119,Return on equity,12  Mar-17*,27.1,CNPLY
+120,Return on capital,12  Mar-17*,31.9,CNPLY
+121,Exports to sales,12  Mar-17*,4.7,CNPLY
+122,Imports to sales,12  Mar-17*,27.0,CNPLY
+123,Exports (fob),12  Mar-17*,846.0,CNPLY
+124,Imports (cif),12  Mar-17*,4914.0,CNPLY
+125,Fx inflow,12  Mar-17*,846.0,CNPLY
+126,Fx outflow,12  Mar-17*,5472.0,CNPLY
+127,Net fx,12  Mar-17*,-4626.0,CNPLY
+128,From Operations,12  Mar-17*,2205.0,CNPLY
+129,From Investments,12  Mar-17*,-3044.0,CNPLY
+130,From Financial Activity,12  Mar-17*,1122.0,CNPLY
+131,Net Cashflow,12  Mar-17*,284.0,CNPLY
+132,Net Sales,12  Mar-18*,20239.0,CNPLY
+133,Other income,12  Mar-18*,79.0,CNPLY
+134,Total revenues,12  Mar-18*,20318.0,CNPLY
+135,Gross profit,12  Mar-18*,3311.0,CNPLY
+136,Depreciation,12  Mar-18*,907.0,CNPLY
+137,Interest,12  Mar-18*,358.0,CNPLY
+138,Profit before tax,12  Mar-18*,2124.0,CNPLY
+139,Minority Interest,12  Mar-18*,0.0,CNPLY
+140,Prior Period Items,12  Mar-18*,0.0,CNPLY
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CNPLY
+142,Tax,12  Mar-18*,463.0,CNPLY
+143,Profit after tax,12  Mar-18*,1661.0,CNPLY
+144,Gross profit margin,12  Mar-18*,16.4,CNPLY
+145,Effective tax rate,12  Mar-18*,21.8,CNPLY
+146,Net profit margin,12  Mar-18*,8.2,CNPLY
+147,Current assets,12  Mar-18*,8458.0,CNPLY
+148,Current liabilities,12  Mar-18*,6800.0,CNPLY
+149,Net working cap to sales,12  Mar-18*,8.2,CNPLY
+150,Current ratio,12  Mar-18*,1.2,CNPLY
+151,Inventory Days,12  Mar-18*,69.0,CNPLY
+152,Debtors Days,12  Mar-18*,64.0,CNPLY
+153,Net fixed assets,12  Mar-18*,7815.0,CNPLY
+154,Share capital,12  Mar-18*,223.0,CNPLY
+155,"""Free"" reserves",12  Mar-18*,8293.0,CNPLY
+156,Net worth,12  Mar-18*,8516.0,CNPLY
+157,Long term debt,12  Mar-18*,1669.0,CNPLY
+158,Total assets,12  Mar-18*,17254.0,CNPLY
+159,Interest coverage,12  Mar-18*,6.9,CNPLY
+160,Debt to equity ratio,12  Mar-18*,0.2,CNPLY
+161,Sales to assets ratio,12  Mar-18*,1.2,CNPLY
+162,Return on assets,12  Mar-18*,11.7,CNPLY
+163,Return on equity,12  Mar-18*,19.5,CNPLY
+164,Return on capital,12  Mar-18*,24.4,CNPLY
+165,Exports to sales,12  Mar-18*,4.5,CNPLY
+166,Imports to sales,12  Mar-18*,0.0,CNPLY
+167,Exports (fob),12  Mar-18*,903.0,CNPLY
+168,Imports (cif),12  Mar-18*,0.0,CNPLY
+169,Fx inflow,12  Mar-18*,903.0,CNPLY
+170,Fx outflow,12  Mar-18*,5048.0,CNPLY
+171,Net fx,12  Mar-18*,-4145.0,CNPLY
+172,From Operations,12  Mar-18*,3046.0,CNPLY
+173,From Investments,12  Mar-18*,-2504.0,CNPLY
+174,From Financial Activity,12  Mar-18*,-1003.0,CNPLY
+175,Net Cashflow,12  Mar-18*,-461.0,CNPLY
+176,Net Sales,12  Mar-19*,22804.0,CNPLY
+177,Other income,12  Mar-19*,72.0,CNPLY
+178,Total revenues,12  Mar-19*,22875.0,CNPLY
+179,Gross profit,12  Mar-19*,3016.0,CNPLY
+180,Depreciation,12  Mar-19*,595.0,CNPLY
+181,Interest,12  Mar-19*,469.0,CNPLY
+182,Profit before tax,12  Mar-19*,2023.0,CNPLY
+183,Minority Interest,12  Mar-19*,0.0,CNPLY
+184,Prior Period Items,12  Mar-19*,0.0,CNPLY
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CNPLY
+186,Tax,12  Mar-19*,535.0,CNPLY
+187,Profit after tax,12  Mar-19*,1489.0,CNPLY
+188,Gross profit margin,12  Mar-19*,13.2,CNPLY
+189,Effective tax rate,12  Mar-19*,26.4,CNPLY
+190,Net profit margin,12  Mar-19*,6.5,CNPLY
+191,Current assets,12  Mar-19*,8526.0,CNPLY
+192,Current liabilities,12  Mar-19*,6755.0,CNPLY
+193,Net working cap to sales,12  Mar-19*,7.8,CNPLY
+194,Current ratio,12  Mar-19*,1.3,CNPLY
+195,Inventory Days,12  Mar-19*,74.0,CNPLY
+196,Debtors Days,12  Mar-19*,47.0,CNPLY
+197,Net fixed assets,12  Mar-19*,8694.0,CNPLY
+198,Share capital,12  Mar-19*,223.0,CNPLY
+199,"""Free"" reserves",12  Mar-19*,9527.0,CNPLY
+200,Net worth,12  Mar-19*,9749.0,CNPLY
+201,Long term debt,12  Mar-19*,1323.0,CNPLY
+202,Total assets,12  Mar-19*,18118.0,CNPLY
+203,Interest coverage,12  Mar-19*,5.3,CNPLY
+204,Debt to equity ratio,12  Mar-19*,0.1,CNPLY
+205,Sales to assets ratio,12  Mar-19*,1.3,CNPLY
+206,Return on assets,12  Mar-19*,10.8,CNPLY
+207,Return on equity,12  Mar-19*,15.3,CNPLY
+208,Return on capital,12  Mar-19*,22.5,CNPLY
+209,Exports to sales,12  Mar-19*,4.2,CNPLY
+210,Imports to sales,12  Mar-19*,0.0,CNPLY
+211,Exports (fob),12  Mar-19*,967.0,CNPLY
+212,Imports (cif),12  Mar-19*,0.0,CNPLY
+213,Fx inflow,12  Mar-19*,967.0,CNPLY
+214,Fx outflow,12  Mar-19*,4807.0,CNPLY
+215,Net fx,12  Mar-19*,-3840.0,CNPLY
+216,From Operations,12  Mar-19*,2658.0,CNPLY
+217,From Investments,12  Mar-19*,-1470.0,CNPLY
+218,From Financial Activity,12  Mar-19*,-1159.0,CNPLY
+219,Net Cashflow,12  Mar-19*,29.0,CNPLY

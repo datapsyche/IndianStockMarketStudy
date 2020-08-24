@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,115720.0,YES
+1,Other income,12  Mar-15*,20479.0,YES
+2,Interest expense,12  Mar-15*,80834.0,YES
+3,Net interest income,12  Mar-15*,34886.0,YES
+4,Operating expense,12  Mar-15*,22949.0,YES
+5,Provisions/contingencies,12  Mar-15*,3395.0,YES
+6,Profit before tax,12  Mar-15*,29022.0,YES
+7,Extraordinary Inc (Exp),12  Mar-15*,0.0,YES
+8,Minority Interest,12  Mar-15*,0.0,YES
+9,Prior Period Items,12  Mar-15*,0.0,YES
+10,Tax,12  Mar-15*,9048.0,YES
+11,Profit after tax,12  Mar-15*,19974.0,YES
+12,Net profit margin,12  Mar-15*,17.3,YES
+13,Advances,12  Mar-15*,755498.0,YES
+14,Deposits,12  Mar-15*,911588.0,YES
+15,Credit/Deposit ratio,12  Mar-15*,82.9,YES
+16,Yield on advances,12  Mar-15*,10.6,YES
+17,Cost of deposits,12  Mar-15*,7.2,YES
+18,Net Interest Margin,12  Mar-15*,2.8,YES
+19,Net fixed assets,12  Mar-15*,3218.0,YES
+20,Share capital,12  Mar-15*,4177.0,YES
+21,Free reserves,12  Mar-15*,90807.0,YES
+22,Net worth,12  Mar-15*,116655.0,YES
+23,Borrowings,12  Mar-15*,262204.0,YES
+24,Investments,12  Mar-15*,431935.0,YES
+25,Total assets,12  Mar-15*,1361430.0,YES
+26,Debt/equity ratio,12  Mar-15*,10.1,YES
+27,Return on assets,12  Mar-15*,1.5,YES
+28,Return on equity,12  Mar-15*,17.1,YES
+29,Capital adequacy ratio,12  Mar-15*,15.6,YES
+30,Net NPAs,12  Mar-15*,0.1,YES
+31,From Operations,12  Mar-15*,-23170.0,YES
+32,From Investments,12  Mar-15*,-35912.0,YES
+33,From Financial Activity,12  Mar-15*,75740.0,YES
+34,Net Cashflow,12  Mar-15*,16657.0,YES
+35,Interest income,12  Mar-16*,135334.0,YES
+36,Other income,12  Mar-16*,27294.0,YES
+37,Interest expense,12  Mar-16*,89654.0,YES
+38,Net interest income,12  Mar-16*,45680.0,YES
+39,Operating expense,12  Mar-16*,30050.0,YES
+40,Provisions/contingencies,12  Mar-16*,5360.0,YES
+41,Profit before tax,12  Mar-16*,37564.0,YES
+42,Extraordinary Inc (Exp),12  Mar-16*,0.0,YES
+43,Minority Interest,12  Mar-16*,0.0,YES
+44,Prior Period Items,12  Mar-16*,0.0,YES
+45,Tax,12  Mar-16*,12268.0,YES
+46,Profit after tax,12  Mar-16*,25297.0,YES
+47,Net profit margin,12  Mar-16*,18.7,YES
+48,Advances,12  Mar-16*,982099.0,YES
+49,Deposits,12  Mar-16*,1117042.0,YES
+50,Credit/Deposit ratio,12  Mar-16*,87.9,YES
+51,Yield on advances,12  Mar-16*,9.9,YES
+52,Cost of deposits,12  Mar-16*,6.4,YES
+53,Net Interest Margin,12  Mar-16*,2.9,YES
+54,Net fixed assets,12  Mar-16*,4746.0,YES
+55,Share capital,12  Mar-16*,4205.0,YES
+56,Free reserves,12  Mar-16*,104667.0,YES
+57,Net worth,12  Mar-16*,137624.0,YES
+58,Borrowings,12  Mar-16*,316590.0,YES
+59,Investments,12  Mar-16*,487885.0,YES
+60,Total assets,12  Mar-16*,1652426.0,YES
+61,Debt/equity ratio,12  Mar-16*,10.4,YES
+62,Return on assets,12  Mar-16*,1.5,YES
+63,Return on equity,12  Mar-16*,18.4,YES
+64,Capital adequacy ratio,12  Mar-16*,16.5,YES
+65,Net NPAs,12  Mar-16*,0.3,YES
+66,From Operations,12  Mar-16*,-3044.0,YES
+67,From Investments,12  Mar-16*,-40226.0,YES
+68,From Financial Activity,12  Mar-16*,49882.0,YES
+69,Net Cashflow,12  Mar-16*,6612.0,YES
+70,Interest income,12  Mar-17*,164250.0,YES
+71,Other income,12  Mar-17*,42178.0,YES
+72,Interest expense,12  Mar-17*,106265.0,YES
+73,Net interest income,12  Mar-17*,57985.0,YES
+74,Operating expense,12  Mar-17*,41686.0,YES
+75,Provisions/contingencies,12  Mar-17*,7938.0,YES
+76,Profit before tax,12  Mar-17*,50441.0,YES
+77,Extraordinary Inc (Exp),12  Mar-17*,0.0,YES
+78,Minority Interest,12  Mar-17*,0.0,YES
+79,Prior Period Items,12  Mar-17*,0.0,YES
+80,Tax,12  Mar-17*,17140.0,YES
+81,Profit after tax,12  Mar-17*,33301.0,YES
+82,Net profit margin,12  Mar-17*,20.3,YES
+83,Advances,12  Mar-17*,1322627.0,YES
+84,Deposits,12  Mar-17*,1428574.0,YES
+85,Credit/Deposit ratio,12  Mar-17*,92.6,YES
+86,Yield on advances,12  Mar-17*,9.2,YES
+87,Cost of deposits,12  Mar-17*,5.7,YES
+88,Net Interest Margin,12  Mar-17*,2.9,YES
+89,Net fixed assets,12  Mar-17*,6835.0,YES
+90,Share capital,12  Mar-17*,4565.0,YES
+91,Free reserves,12  Mar-17*,215976.0,YES
+92,Net worth,12  Mar-17*,220541.0,YES
+93,Borrowings,12  Mar-17*,386067.0,YES
+94,Investments,12  Mar-17*,500318.0,YES
+95,Total assets,12  Mar-17*,2150599.0,YES
+96,Debt/equity ratio,12  Mar-17*,8.2,YES
+97,Return on assets,12  Mar-17*,1.5,YES
+98,Return on equity,12  Mar-17*,15.1,YES
+99,Capital adequacy ratio,12  Mar-17*,17.0,YES
+100,Net NPAs,12  Mar-17*,0.8,YES
+101,From Operations,12  Mar-17*,43787.0,YES
+102,From Investments,12  Mar-17*,-44731.0,YES
+103,From Financial Activity,12  Mar-17*,114292.0,YES
+104,Net Cashflow,12  Mar-17*,113310.0,YES
+105,Interest income,12  Mar-18*,202686.0,YES
+106,Other income,12  Mar-18*,52932.0,YES
+107,Interest expense,12  Mar-18*,125294.0,YES
+108,Net interest income,12  Mar-18*,77392.0,YES
+109,Operating expense,12  Mar-18*,52735.0,YES
+110,Provisions/contingencies,12  Mar-18*,15558.0,YES
+111,Profit before tax,12  Mar-18*,62030.0,YES
+112,Extraordinary Inc (Exp),12  Mar-18*,0.0,YES
+113,Minority Interest,12  Mar-18*,0.0,YES
+114,Prior Period Items,12  Mar-18*,0.0,YES
+115,Tax,12  Mar-18*,19698.0,YES
+116,Profit after tax,12  Mar-18*,42332.0,YES
+117,Net profit margin,12  Mar-18*,20.9,YES
+118,Advances,12  Mar-18*,2035339.0,YES
+119,Deposits,12  Mar-18*,2006886.0,YES
+120,Credit/Deposit ratio,12  Mar-18*,101.4,YES
+121,Yield on advances,12  Mar-18*,7.6,YES
+122,Cost of deposits,12  Mar-18*,4.7,YES
+123,Net Interest Margin,12  Mar-18*,2.6,YES
+124,Net fixed assets,12  Mar-18*,8373.0,YES
+125,Share capital,12  Mar-18*,4606.0,YES
+126,Free reserves,12  Mar-18*,251919.0,YES
+127,Net worth,12  Mar-18*,256525.0,YES
+128,Borrowings,12  Mar-18*,748936.0,YES
+129,Investments,12  Mar-18*,682934.0,YES
+130,Total assets,12  Mar-18*,3124497.0,YES
+131,Debt/equity ratio,12  Mar-18*,10.7,YES
+132,Return on assets,12  Mar-18*,1.4,YES
+133,Return on equity,12  Mar-18*,16.5,YES
+134,Capital adequacy ratio,12  Mar-18*,18.4,YES
+135,Net NPAs,12  Mar-18*,0.6,YES
+136,From Operations,12  Mar-18*,-218104.0,YES
+137,From Investments,12  Mar-18*,-87449.0,YES
+138,From Financial Activity,12  Mar-18*,357479.0,YES
+139,Net Cashflow,12  Mar-18*,51992.0,YES
+140,Interest income,12  Mar-19*,296238.0,YES
+141,Other income,12  Mar-19*,46755.0,YES
+142,Interest expense,12  Mar-19*,198113.0,YES
+143,Net interest income,12  Mar-19*,98125.0,YES
+144,Operating expense,12  Mar-19*,63614.0,YES
+145,Provisions/contingencies,12  Mar-19*,57802.0,YES
+146,Profit before tax,12  Mar-19*,23463.0,YES
+147,Extraordinary Inc (Exp),12  Mar-19*,0.0,YES
+148,Minority Interest,12  Mar-19*,0.0,YES
+149,Prior Period Items,12  Mar-19*,0.0,YES
+150,Tax,12  Mar-19*,6371.0,YES
+151,Profit after tax,12  Mar-19*,17093.0,YES
+152,Net profit margin,12  Mar-19*,5.8,YES
+153,Advances,12  Mar-19*,2413972.0,YES
+154,Deposits,12  Mar-19*,2275579.0,YES
+155,Credit/Deposit ratio,12  Mar-19*,106.1,YES
+156,Yield on advances,12  Mar-19*,9.5,YES
+157,Cost of deposits,12  Mar-19*,6.0,YES
+158,Net Interest Margin,12  Mar-19*,2.7,YES
+159,Net fixed assets,12  Mar-19*,8299.0,YES
+160,Share capital,12  Mar-19*,4630.0,YES
+161,Free reserves,12  Mar-19*,264244.0,YES
+162,Net worth,12  Mar-19*,268874.0,YES
+163,Borrowings,12  Mar-19*,1084241.0,YES
+164,Investments,12  Mar-19*,893285.0,YES
+165,Total assets,12  Mar-19*,3808596.0,YES
+166,Debt/equity ratio,12  Mar-19*,12.5,YES
+167,Return on assets,12  Mar-19*,0.4,YES
+168,Return on equity,12  Mar-19*,6.4,YES
+169,Capital adequacy ratio,12  Mar-19*,16.5,YES
+170,Net NPAs,12  Mar-19*,1.9,YES
+171,From Operations,12  Mar-19*,-245733.0,YES
+172,From Investments,12  Mar-19*,-62937.0,YES
+173,From Financial Activity,12  Mar-19*,330393.0,YES
+174,Net Cashflow,12  Mar-19*,22311.0,YES

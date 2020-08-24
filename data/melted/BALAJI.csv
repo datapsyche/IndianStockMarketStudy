@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3465.0,BALAJI
+1,Other income,12  Mar-15*,110.0,BALAJI
+2,Total revenues,12  Mar-15*,3575.0,BALAJI
+3,Gross profit,12  Mar-15*,61.0,BALAJI
+4,Depreciation,12  Mar-15*,83.0,BALAJI
+5,Interest,12  Mar-15*,3.0,BALAJI
+6,Profit before tax,12  Mar-15*,85.0,BALAJI
+7,Minority Interest,12  Mar-15*,0.0,BALAJI
+8,Prior Period Items,12  Mar-15*,0.0,BALAJI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BALAJI
+10,Tax,12  Mar-15*,29.0,BALAJI
+11,Profit after tax,12  Mar-15*,56.0,BALAJI
+12,Gross profit margin,12  Mar-15*,1.8,BALAJI
+13,Effective tax rate,12  Mar-15*,33.7,BALAJI
+14,Net profit margin,12  Mar-15*,1.6,BALAJI
+15,Current assets,12  Mar-15*,2988.0,BALAJI
+16,Current liabilities,12  Mar-15*,478.0,BALAJI
+17,Net working cap to sales,12  Mar-15*,72.4,BALAJI
+18,Current ratio,12  Mar-15*,6.2,BALAJI
+19,Inventory Days,12  Mar-15*,32.0,BALAJI
+20,Debtors Days,12  Mar-15*,71.0,BALAJI
+21,Net fixed assets,12  Mar-15*,272.0,BALAJI
+22,Share capital,12  Mar-15*,130.0,BALAJI
+23,"""Free"" reserves",12  Mar-15*,3687.0,BALAJI
+24,Net worth,12  Mar-15*,3818.0,BALAJI
+25,Long term debt,12  Mar-15*,0.0,BALAJI
+26,Total assets,12  Mar-15*,4296.0,BALAJI
+27,Interest coverage,12  Mar-15*,26.0,BALAJI
+28,Debt to equity ratio,12  Mar-15*,0.0,BALAJI
+29,Sales to assets ratio,12  Mar-15*,0.8,BALAJI
+30,Return on assets,12  Mar-15*,1.4,BALAJI
+31,Return on equity,12  Mar-15*,1.5,BALAJI
+32,Return on capital,12  Mar-15*,2.3,BALAJI
+33,Exports to sales,12  Mar-15*,0.0,BALAJI
+34,Imports to sales,12  Mar-15*,0.0,BALAJI
+35,Exports (fob),12  Mar-15*,0.0,BALAJI
+36,Imports (cif),12  Mar-15*,0.0,BALAJI
+37,Fx inflow,12  Mar-15*,81.0,BALAJI
+38,Fx outflow,12  Mar-15*,80.0,BALAJI
+39,Net fx,12  Mar-15*,1.0,BALAJI
+40,From Operations,12  Mar-15*,-19.0,BALAJI
+41,From Investments,12  Mar-15*,98.0,BALAJI
+42,From Financial Activity,12  Mar-15*,-47.0,BALAJI
+43,Net Cashflow,12  Mar-15*,32.0,BALAJI
+44,Net Sales,12  Mar-16*,2928.0,BALAJI
+45,Other income,12  Mar-16*,223.0,BALAJI
+46,Total revenues,12  Mar-16*,3150.0,BALAJI
+47,Gross profit,12  Mar-16*,59.0,BALAJI
+48,Depreciation,12  Mar-16*,94.0,BALAJI
+49,Interest,12  Mar-16*,0.0,BALAJI
+50,Profit before tax,12  Mar-16*,188.0,BALAJI
+51,Minority Interest,12  Mar-16*,0.0,BALAJI
+52,Prior Period Items,12  Mar-16*,0.0,BALAJI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BALAJI
+54,Tax,12  Mar-16*,161.0,BALAJI
+55,Profit after tax,12  Mar-16*,28.0,BALAJI
+56,Gross profit margin,12  Mar-16*,2.0,BALAJI
+57,Effective tax rate,12  Mar-16*,85.5,BALAJI
+58,Net profit margin,12  Mar-16*,1.0,BALAJI
+59,Current assets,12  Mar-16*,4458.0,BALAJI
+60,Current liabilities,12  Mar-16*,759.0,BALAJI
+61,Net working cap to sales,12  Mar-16*,126.3,BALAJI
+62,Current ratio,12  Mar-16*,5.9,BALAJI
+63,Inventory Days,12  Mar-16*,149.0,BALAJI
+64,Debtors Days,12  Mar-16*,101.0,BALAJI
+65,Net fixed assets,12  Mar-16*,348.0,BALAJI
+66,Share capital,12  Mar-16*,152.0,BALAJI
+67,"""Free"" reserves",12  Mar-16*,5085.0,BALAJI
+68,Net worth,12  Mar-16*,5237.0,BALAJI
+69,Long term debt,12  Mar-16*,0.0,BALAJI
+70,Total assets,12  Mar-16*,5996.0,BALAJI
+71,Interest coverage,12  Mar-16*,1879.0,BALAJI
+72,Debt to equity ratio,12  Mar-16*,0.0,BALAJI
+73,Sales to assets ratio,12  Mar-16*,0.5,BALAJI
+74,Return on assets,12  Mar-16*,0.5,BALAJI
+75,Return on equity,12  Mar-16*,0.5,BALAJI
+76,Return on capital,12  Mar-16*,3.6,BALAJI
+77,Exports to sales,12  Mar-16*,0.0,BALAJI
+78,Imports to sales,12  Mar-16*,0.0,BALAJI
+79,Exports (fob),12  Mar-16*,0.0,BALAJI
+80,Imports (cif),12  Mar-16*,0.0,BALAJI
+81,Fx inflow,12  Mar-16*,14.0,BALAJI
+82,Fx outflow,12  Mar-16*,308.0,BALAJI
+83,Net fx,12  Mar-16*,-294.0,BALAJI
+84,From Operations,12  Mar-16*,-1068.0,BALAJI
+85,From Investments,12  Mar-16*,-222.0,BALAJI
+86,From Financial Activity,12  Mar-16*,1349.0,BALAJI
+87,Net Cashflow,12  Mar-16*,59.0,BALAJI
+88,Net Sales,12  Mar-17*,4187.0,BALAJI
+89,Other income,12  Mar-17*,203.0,BALAJI
+90,Total revenues,12  Mar-17*,4389.0,BALAJI
+91,Gross profit,12  Mar-17*,-206.0,BALAJI
+92,Depreciation,12  Mar-17*,125.0,BALAJI
+93,Interest,12  Mar-17*,0.0,BALAJI
+94,Profit before tax,12  Mar-17*,-129.0,BALAJI
+95,Minority Interest,12  Mar-17*,0.0,BALAJI
+96,Prior Period Items,12  Mar-17*,0.0,BALAJI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BALAJI
+98,Tax,12  Mar-17*,169.0,BALAJI
+99,Profit after tax,12  Mar-17*,-297.0,BALAJI
+100,Gross profit margin,12  Mar-17*,-4.9,BALAJI
+101,Effective tax rate,12  Mar-17*,-130.9,BALAJI
+102,Net profit margin,12  Mar-17*,-7.1,BALAJI
+103,Current assets,12  Mar-17*,4623.0,BALAJI
+104,Current liabilities,12  Mar-17*,1239.0,BALAJI
+105,Net working cap to sales,12  Mar-17*,80.8,BALAJI
+106,Current ratio,12  Mar-17*,3.7,BALAJI
+107,Inventory Days,12  Mar-17*,86.0,BALAJI
+108,Debtors Days,12  Mar-17*,85.0,BALAJI
+109,Net fixed assets,12  Mar-17*,469.0,BALAJI
+110,Share capital,12  Mar-17*,152.0,BALAJI
+111,"""Free"" reserves",12  Mar-17*,4916.0,BALAJI
+112,Net worth,12  Mar-17*,5068.0,BALAJI
+113,Long term debt,12  Mar-17*,1.0,BALAJI
+114,Total assets,12  Mar-17*,6353.0,BALAJI
+115,Interest coverage,12  Mar-17*,-321.0,BALAJI
+116,Debt to equity ratio,12  Mar-17*,0.0,BALAJI
+117,Sales to assets ratio,12  Mar-17*,0.7,BALAJI
+118,Return on assets,12  Mar-17*,-4.7,BALAJI
+119,Return on equity,12  Mar-17*,-5.9,BALAJI
+120,Return on capital,12  Mar-17*,-2.5,BALAJI
+121,Exports to sales,12  Mar-17*,0.0,BALAJI
+122,Imports to sales,12  Mar-17*,0.0,BALAJI
+123,Exports (fob),12  Mar-17*,0.0,BALAJI
+124,Imports (cif),12  Mar-17*,0.0,BALAJI
+125,Fx inflow,12  Mar-17*,1.0,BALAJI
+126,Fx outflow,12  Mar-17*,50.0,BALAJI
+127,Net fx,12  Mar-17*,-50.0,BALAJI
+128,From Operations,12  Mar-17*,-128.0,BALAJI
+129,From Investments,12  Mar-17*,118.0,BALAJI
+130,From Financial Activity,12  Mar-17*,0.0,BALAJI
+131,Net Cashflow,12  Mar-17*,-10.0,BALAJI
+132,Net Sales,12  Mar-18*,4133.0,BALAJI
+133,Other income,12  Mar-18*,190.0,BALAJI
+134,Total revenues,12  Mar-18*,4323.0,BALAJI
+135,Gross profit,12  Mar-18*,-518.0,BALAJI
+136,Depreciation,12  Mar-18*,177.0,BALAJI
+137,Interest,12  Mar-18*,1.0,BALAJI
+138,Profit before tax,12  Mar-18*,-505.0,BALAJI
+139,Minority Interest,12  Mar-18*,0.0,BALAJI
+140,Prior Period Items,12  Mar-18*,0.0,BALAJI
+141,Extraordinary Inc (Exp),12  Mar-18*,-91.0,BALAJI
+142,Tax,12  Mar-18*,-132.0,BALAJI
+143,Profit after tax,12  Mar-18*,-463.0,BALAJI
+144,Gross profit margin,12  Mar-18*,-12.5,BALAJI
+145,Effective tax rate,12  Mar-18*,26.2,BALAJI
+146,Net profit margin,12  Mar-18*,-11.2,BALAJI
+147,Current assets,12  Mar-18*,7604.0,BALAJI
+148,Current liabilities,12  Mar-18*,993.0,BALAJI
+149,Net working cap to sales,12  Mar-18*,160.0,BALAJI
+150,Current ratio,12  Mar-18*,7.7,BALAJI
+151,Inventory Days,12  Mar-18*,113.0,BALAJI
+152,Debtors Days,12  Mar-18*,83.0,BALAJI
+153,Net fixed assets,12  Mar-18*,440.0,BALAJI
+154,Share capital,12  Mar-18*,202.0,BALAJI
+155,"""Free"" reserves",12  Mar-18*,8326.0,BALAJI
+156,Net worth,12  Mar-18*,8529.0,BALAJI
+157,Long term debt,12  Mar-18*,1.0,BALAJI
+158,Total assets,12  Mar-18*,9492.0,BALAJI
+159,Interest coverage,12  Mar-18*,-1009.2,BALAJI
+160,Debt to equity ratio,12  Mar-18*,0.0,BALAJI
+161,Sales to assets ratio,12  Mar-18*,0.4,BALAJI
+162,Return on assets,12  Mar-18*,-4.9,BALAJI
+163,Return on equity,12  Mar-18*,-5.4,BALAJI
+164,Return on capital,12  Mar-18*,-7.0,BALAJI
+165,Exports to sales,12  Mar-18*,0.0,BALAJI
+166,Imports to sales,12  Mar-18*,0.0,BALAJI
+167,Exports (fob),12  Mar-18*,0.0,BALAJI
+168,Imports (cif),12  Mar-18*,0.0,BALAJI
+169,Fx inflow,12  Mar-18*,67.0,BALAJI
+170,Fx outflow,12  Mar-18*,27.0,BALAJI
+171,Net fx,12  Mar-18*,40.0,BALAJI
+172,From Operations,12  Mar-18*,-1038.0,BALAJI
+173,From Investments,12  Mar-18*,-2753.0,BALAJI
+174,From Financial Activity,12  Mar-18*,3913.0,BALAJI
+175,Net Cashflow,12  Mar-18*,122.0,BALAJI
+176,Net Sales,12  Mar-19*,4277.0,BALAJI
+177,Other income,12  Mar-19*,318.0,BALAJI
+178,Total revenues,12  Mar-19*,4595.0,BALAJI
+179,Gross profit,12  Mar-19*,-1051.0,BALAJI
+180,Depreciation,12  Mar-19*,181.0,BALAJI
+181,Interest,12  Mar-19*,0.0,BALAJI
+182,Profit before tax,12  Mar-19*,-914.0,BALAJI
+183,Minority Interest,12  Mar-19*,0.0,BALAJI
+184,Prior Period Items,12  Mar-19*,0.0,BALAJI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BALAJI
+186,Tax,12  Mar-19*,63.0,BALAJI
+187,Profit after tax,12  Mar-19*,-978.0,BALAJI
+188,Gross profit margin,12  Mar-19*,-24.6,BALAJI
+189,Effective tax rate,12  Mar-19*,-6.9,BALAJI
+190,Net profit margin,12  Mar-19*,-22.9,BALAJI
+191,Current assets,12  Mar-19*,7307.0,BALAJI
+192,Current liabilities,12  Mar-19*,1190.0,BALAJI
+193,Net working cap to sales,12  Mar-19*,143.0,BALAJI
+194,Current ratio,12  Mar-19*,6.1,BALAJI
+195,Inventory Days,12  Mar-19*,167.0,BALAJI
+196,Debtors Days,12  Mar-19*,84.0,BALAJI
+197,Net fixed assets,12  Mar-19*,382.0,BALAJI
+198,Share capital,12  Mar-19*,202.0,BALAJI
+199,"""Free"" reserves",12  Mar-19*,7416.0,BALAJI
+200,Net worth,12  Mar-19*,7618.0,BALAJI
+201,Long term debt,12  Mar-19*,1.0,BALAJI
+202,Total assets,12  Mar-19*,8805.0,BALAJI
+203,Interest coverage,12  Mar-19*,-4570.5,BALAJI
+204,Debt to equity ratio,12  Mar-19*,0.0,BALAJI
+205,Sales to assets ratio,12  Mar-19*,0.5,BALAJI
+206,Return on assets,12  Mar-19*,-11.1,BALAJI
+207,Return on equity,12  Mar-19*,-12.8,BALAJI
+208,Return on capital,12  Mar-19*,-12.0,BALAJI
+209,Exports to sales,12  Mar-19*,0.0,BALAJI
+210,Imports to sales,12  Mar-19*,0.0,BALAJI
+211,Exports (fob),12  Mar-19*,0.0,BALAJI
+212,Imports (cif),12  Mar-19*,0.0,BALAJI
+213,Fx inflow,12  Mar-19*,135.0,BALAJI
+214,Fx outflow,12  Mar-19*,7.0,BALAJI
+215,Net fx,12  Mar-19*,128.0,BALAJI
+216,From Operations,12  Mar-19*,-1784.0,BALAJI
+217,From Investments,12  Mar-19*,1831.0,BALAJI
+218,From Financial Activity,12  Mar-19*,-50.0,BALAJI
+219,Net Cashflow,12  Mar-19*,-3.0,BALAJI

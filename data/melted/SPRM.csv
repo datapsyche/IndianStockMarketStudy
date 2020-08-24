@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,9  Mar-15*,42552.0,SPRM
+1,Other income,9  Mar-15*,24.0,SPRM
+2,Total revenues,9  Mar-15*,42576.0,SPRM
+3,Gross profit,9  Mar-15*,6663.0,SPRM
+4,Depreciation,9  Mar-15*,1390.0,SPRM
+5,Interest,9  Mar-15*,580.0,SPRM
+6,Profit before tax,9  Mar-15*,4718.0,SPRM
+7,Minority Interest,9  Mar-15*,0.0,SPRM
+8,Prior Period Items,9  Mar-15*,107.0,SPRM
+9,Extraordinary Inc (Exp),9  Mar-15*,0.0,SPRM
+10,Tax,9  Mar-15*,1600.0,SPRM
+11,Profit after tax,9  Mar-15*,3224.0,SPRM
+12,Gross profit margin,9  Mar-15*,15.7,SPRM
+13,Effective tax rate,9  Mar-15*,33.9,SPRM
+14,Net profit margin,9  Mar-15*,7.6,SPRM
+15,Current assets,9  Mar-15*,10160.0,SPRM
+16,Current liabilities,9  Mar-15*,7044.0,SPRM
+17,Net working cap to sales,9  Mar-15*,7.3,SPRM
+18,Current ratio,9  Mar-15*,1.4,SPRM
+19,Inventory Days,9  Mar-15*,40.0,SPRM
+20,Debtors Days,9  Mar-15*,20.0,SPRM
+21,Net fixed assets,9  Mar-15*,11343.0,SPRM
+22,Share capital,9  Mar-15*,254.0,SPRM
+23,"""Free"" reserves",9  Mar-15*,12949.0,SPRM
+24,Net worth,9  Mar-15*,13203.0,SPRM
+25,Long term debt,9  Mar-15*,2322.0,SPRM
+26,Total assets,9  Mar-15*,23570.0,SPRM
+27,Interest coverage,9  Mar-15*,9.1,SPRM
+28,Debt to equity ratio,9  Mar-15*,0.2,SPRM
+29,Sales to assets ratio,9  Mar-15*,1.8,SPRM
+30,Return on assets,9  Mar-15*,16.1,SPRM
+31,Return on equity,9  Mar-15*,24.4,SPRM
+32,Return on capital,9  Mar-15*,34.8,SPRM
+33,Exports to sales,9  Mar-15*,1.9,SPRM
+34,Imports to sales,9  Mar-15*,31.3,SPRM
+35,Exports (fob),9  Mar-15*,804.0,SPRM
+36,Imports (cif),9  Mar-15*,13329.0,SPRM
+37,Fx inflow,9  Mar-15*,823.0,SPRM
+38,Fx outflow,9  Mar-15*,13634.0,SPRM
+39,Net fx,9  Mar-15*,-12811.0,SPRM
+40,From Operations,9  Mar-15*,6008.0,SPRM
+41,From Investments,9  Mar-15*,1860.0,SPRM
+42,From Financial Activity,9  Mar-15*,2596.0,SPRM
+43,Net Cashflow,9  Mar-15*,10464.0,SPRM
+44,Net Sales,12  Mar-16*,25924.0,SPRM
+45,Other income,12  Mar-16*,21.0,SPRM
+46,Total revenues,12  Mar-16*,25945.0,SPRM
+47,Gross profit,12  Mar-16*,4610.0,SPRM
+48,Depreciation,12  Mar-16*,1046.0,SPRM
+49,Interest,12  Mar-16*,289.0,SPRM
+50,Profit before tax,12  Mar-16*,3297.0,SPRM
+51,Minority Interest,12  Mar-16*,0.0,SPRM
+52,Prior Period Items,12  Mar-16*,0.0,SPRM
+53,Extraordinary Inc (Exp),12  Mar-16*,-77.0,SPRM
+54,Tax,12  Mar-16*,1176.0,SPRM
+55,Profit after tax,12  Mar-16*,2043.0,SPRM
+56,Gross profit margin,12  Mar-16*,17.8,SPRM
+57,Effective tax rate,12  Mar-16*,35.7,SPRM
+58,Net profit margin,12  Mar-16*,7.9,SPRM
+59,Current assets,12  Mar-16*,9766.0,SPRM
+60,Current liabilities,12  Mar-16*,9272.0,SPRM
+61,Net working cap to sales,12  Mar-16*,1.9,SPRM
+62,Current ratio,12  Mar-16*,1.1,SPRM
+63,Inventory Days,12  Mar-16*,79.0,SPRM
+64,Debtors Days,12  Mar-16*,33.0,SPRM
+65,Net fixed assets,12  Mar-16*,12529.0,SPRM
+66,Share capital,12  Mar-16*,254.0,SPRM
+67,"""Free"" reserves",12  Mar-16*,12903.0,SPRM
+68,Net worth,12  Mar-16*,13157.0,SPRM
+69,Long term debt,12  Mar-16*,641.0,SPRM
+70,Total assets,12  Mar-16*,24251.0,SPRM
+71,Interest coverage,12  Mar-16*,12.4,SPRM
+72,Debt to equity ratio,12  Mar-16*,0.0,SPRM
+73,Sales to assets ratio,12  Mar-16*,1.1,SPRM
+74,Return on assets,12  Mar-16*,9.6,SPRM
+75,Return on equity,12  Mar-16*,15.5,SPRM
+76,Return on capital,12  Mar-16*,25.4,SPRM
+77,Exports to sales,12  Mar-16*,2.1,SPRM
+78,Imports to sales,12  Mar-16*,38.3,SPRM
+79,Exports (fob),12  Mar-16*,536.0,SPRM
+80,Imports (cif),12  Mar-16*,9920.0,SPRM
+81,Fx inflow,12  Mar-16*,544.0,SPRM
+82,Fx outflow,12  Mar-16*,10478.0,SPRM
+83,Net fx,12  Mar-16*,-9933.0,SPRM
+84,From Operations,12  Mar-16*,2964.0,SPRM
+85,From Investments,12  Mar-16*,-2181.0,SPRM
+86,From Financial Activity,12  Mar-16*,-2335.0,SPRM
+87,Net Cashflow,12  Mar-16*,-1552.0,SPRM
+88,Net Sales,12  Mar-17*,39251.0,SPRM
+89,Other income,12  Mar-17*,51.0,SPRM
+90,Total revenues,12  Mar-17*,39302.0,SPRM
+91,Gross profit,12  Mar-17*,7619.0,SPRM
+92,Depreciation,12  Mar-17*,1543.0,SPRM
+93,Interest,12  Mar-17*,303.0,SPRM
+94,Profit before tax,12  Mar-17*,5825.0,SPRM
+95,Minority Interest,12  Mar-17*,0.0,SPRM
+96,Prior Period Items,12  Mar-17*,0.0,SPRM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SPRM
+98,Tax,12  Mar-17*,2058.0,SPRM
+99,Profit after tax,12  Mar-17*,3767.0,SPRM
+100,Gross profit margin,12  Mar-17*,19.4,SPRM
+101,Effective tax rate,12  Mar-17*,35.3,SPRM
+102,Net profit margin,12  Mar-17*,9.6,SPRM
+103,Current assets,12  Mar-17*,12779.0,SPRM
+104,Current liabilities,12  Mar-17*,9639.0,SPRM
+105,Net working cap to sales,12  Mar-17*,8.0,SPRM
+106,Current ratio,12  Mar-17*,1.3,SPRM
+107,Inventory Days,12  Mar-17*,72.0,SPRM
+108,Debtors Days,12  Mar-17*,26.0,SPRM
+109,Net fixed assets,12  Mar-17*,13092.0,SPRM
+110,Share capital,12  Mar-17*,254.0,SPRM
+111,"""Free"" reserves",12  Mar-17*,16703.0,SPRM
+112,Net worth,12  Mar-17*,16957.0,SPRM
+113,Long term debt,12  Mar-17*,166.0,SPRM
+114,Total assets,12  Mar-17*,28066.0,SPRM
+115,Interest coverage,12  Mar-17*,20.2,SPRM
+116,Debt to equity ratio,12  Mar-17*,0.0,SPRM
+117,Sales to assets ratio,12  Mar-17*,1.4,SPRM
+118,Return on assets,12  Mar-17*,14.5,SPRM
+119,Return on equity,12  Mar-17*,22.2,SPRM
+120,Return on capital,12  Mar-17*,35.8,SPRM
+121,Exports to sales,12  Mar-17*,0.0,SPRM
+122,Imports to sales,12  Mar-17*,0.0,SPRM
+123,Exports (fob),12  Mar-17*,0.0,SPRM
+124,Imports (cif),12  Mar-17*,0.0,SPRM
+125,Fx inflow,12  Mar-17*,888.0,SPRM
+126,Fx outflow,12  Mar-17*,14434.0,SPRM
+127,Net fx,12  Mar-17*,-13546.0,SPRM
+128,From Operations,12  Mar-17*,4650.0,SPRM
+129,From Investments,12  Mar-17*,-2022.0,SPRM
+130,From Financial Activity,12  Mar-17*,-2104.0,SPRM
+131,Net Cashflow,12  Mar-17*,524.0,SPRM
+132,Net Sales,12  Mar-18*,48309.0,SPRM
+133,Other income,12  Mar-18*,35.0,SPRM
+134,Total revenues,12  Mar-18*,48344.0,SPRM
+135,Gross profit,12  Mar-18*,7871.0,SPRM
+136,Depreciation,12  Mar-18*,1672.0,SPRM
+137,Interest,12  Mar-18*,206.0,SPRM
+138,Profit before tax,12  Mar-18*,6028.0,SPRM
+139,Minority Interest,12  Mar-18*,347.0,SPRM
+140,Prior Period Items,12  Mar-18*,0.0,SPRM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SPRM
+142,Tax,12  Mar-18*,2057.0,SPRM
+143,Profit after tax,12  Mar-18*,4318.0,SPRM
+144,Gross profit margin,12  Mar-18*,16.3,SPRM
+145,Effective tax rate,12  Mar-18*,34.1,SPRM
+146,Net profit margin,12  Mar-18*,8.9,SPRM
+147,Current assets,12  Mar-18*,12602.0,SPRM
+148,Current liabilities,12  Mar-18*,9123.0,SPRM
+149,Net working cap to sales,12  Mar-18*,7.2,SPRM
+150,Current ratio,12  Mar-18*,1.4,SPRM
+151,Inventory Days,12  Mar-18*,53.0,SPRM
+152,Debtors Days,12  Mar-18*,29.0,SPRM
+153,Net fixed assets,12  Mar-18*,14284.0,SPRM
+154,Share capital,12  Mar-18*,254.0,SPRM
+155,"""Free"" reserves",12  Mar-18*,18695.0,SPRM
+156,Net worth,12  Mar-18*,18949.0,SPRM
+157,Long term debt,12  Mar-18*,14.0,SPRM
+158,Total assets,12  Mar-18*,29361.0,SPRM
+159,Interest coverage,12  Mar-18*,30.2,SPRM
+160,Debt to equity ratio,12  Mar-18*,0.0,SPRM
+161,Sales to assets ratio,12  Mar-18*,1.6,SPRM
+162,Return on assets,12  Mar-18*,15.4,SPRM
+163,Return on equity,12  Mar-18*,22.8,SPRM
+164,Return on capital,12  Mar-18*,34.7,SPRM
+165,Exports to sales,12  Mar-18*,0.0,SPRM
+166,Imports to sales,12  Mar-18*,0.0,SPRM
+167,Exports (fob),12  Mar-18*,0.0,SPRM
+168,Imports (cif),12  Mar-18*,0.0,SPRM
+169,Fx inflow,12  Mar-18*,1044.0,SPRM
+170,Fx outflow,12  Mar-18*,17850.0,SPRM
+171,Net fx,12  Mar-18*,-16806.0,SPRM
+172,From Operations,12  Mar-18*,5076.0,SPRM
+173,From Investments,12  Mar-18*,-2668.0,SPRM
+174,From Financial Activity,12  Mar-18*,-2838.0,SPRM
+175,Net Cashflow,12  Mar-18*,-431.0,SPRM
+176,Net Sales,12  Mar-19*,56120.0,SPRM
+177,Other income,12  Mar-19*,78.0,SPRM
+178,Total revenues,12  Mar-19*,56198.0,SPRM
+179,Gross profit,12  Mar-19*,7846.0,SPRM
+180,Depreciation,12  Mar-19*,1835.0,SPRM
+181,Interest,12  Mar-19*,260.0,SPRM
+182,Profit before tax,12  Mar-19*,5828.0,SPRM
+183,Minority Interest,12  Mar-19*,144.0,SPRM
+184,Prior Period Items,12  Mar-19*,0.0,SPRM
+185,Extraordinary Inc (Exp),12  Mar-19*,672.0,SPRM
+186,Tax,12  Mar-19*,2158.0,SPRM
+187,Profit after tax,12  Mar-19*,4486.0,SPRM
+188,Gross profit margin,12  Mar-19*,14.0,SPRM
+189,Effective tax rate,12  Mar-19*,37.0,SPRM
+190,Net profit margin,12  Mar-19*,8.0,SPRM
+191,Current assets,12  Mar-19*,13378.0,SPRM
+192,Current liabilities,12  Mar-19*,9358.0,SPRM
+193,Net working cap to sales,12  Mar-19*,7.2,SPRM
+194,Current ratio,12  Mar-19*,1.4,SPRM
+195,Inventory Days,12  Mar-19*,49.0,SPRM
+196,Debtors Days,12  Mar-19*,25.0,SPRM
+197,Net fixed assets,12  Mar-19*,16110.0,SPRM
+198,Share capital,12  Mar-19*,254.0,SPRM
+199,"""Free"" reserves",12  Mar-19*,21286.0,SPRM
+200,Net worth,12  Mar-19*,21540.0,SPRM
+201,Long term debt,12  Mar-19*,11.0,SPRM
+202,Total assets,12  Mar-19*,32293.0,SPRM
+203,Interest coverage,12  Mar-19*,23.4,SPRM
+204,Debt to equity ratio,12  Mar-19*,0.0,SPRM
+205,Sales to assets ratio,12  Mar-19*,1.7,SPRM
+206,Return on assets,12  Mar-19*,14.7,SPRM
+207,Return on equity,12  Mar-19*,20.8,SPRM
+208,Return on capital,12  Mar-19*,32.0,SPRM
+209,Exports to sales,12  Mar-19*,0.0,SPRM
+210,Imports to sales,12  Mar-19*,0.0,SPRM
+211,Exports (fob),12  Mar-19*,0.0,SPRM
+212,Imports (cif),12  Mar-19*,0.0,SPRM
+213,Fx inflow,12  Mar-19*,1532.0,SPRM
+214,Fx outflow,12  Mar-19*,21819.0,SPRM
+215,Net fx,12  Mar-19*,-20287.0,SPRM
+216,From Operations,12  Mar-19*,5557.0,SPRM
+217,From Investments,12  Mar-19*,-3160.0,SPRM
+218,From Financial Activity,12  Mar-19*,-3160.0,SPRM
+219,Net Cashflow,12  Mar-19*,-763.0,SPRM

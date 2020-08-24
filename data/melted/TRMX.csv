@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,53044.0,TRMX
+1,Other income,12  Mar-15*,1230.0,TRMX
+2,Total revenues,12  Mar-15*,54275.0,TRMX
+3,Gross profit,12  Mar-15*,4614.0,TRMX
+4,Depreciation,12  Mar-15*,1341.0,TRMX
+5,Interest,12  Mar-15*,820.0,TRMX
+6,Profit before tax,12  Mar-15*,3684.0,TRMX
+7,Minority Interest,12  Mar-15*,616.0,TRMX
+8,Prior Period Items,12  Mar-15*,0.0,TRMX
+9,Extraordinary Inc (Exp),12  Mar-15*,-494.0,TRMX
+10,Tax,12  Mar-15*,1708.0,TRMX
+11,Profit after tax,12  Mar-15*,2098.0,TRMX
+12,Gross profit margin,12  Mar-15*,8.7,TRMX
+13,Effective tax rate,12  Mar-15*,46.4,TRMX
+14,Net profit margin,12  Mar-15*,4.0,TRMX
+15,Current assets,12  Mar-15*,38312.0,TRMX
+16,Current liabilities,12  Mar-15*,28783.0,TRMX
+17,Net working cap to sales,12  Mar-15*,18.0,TRMX
+18,Current ratio,12  Mar-15*,1.3,TRMX
+19,Inventory Days,12  Mar-15*,26.0,TRMX
+20,Debtors Days,12  Mar-15*,106.0,TRMX
+21,Net fixed assets,12  Mar-15*,6876.0,TRMX
+22,Share capital,12  Mar-15*,225.0,TRMX
+23,"""Free"" reserves",12  Mar-15*,21851.0,TRMX
+24,Net worth,12  Mar-15*,22076.0,TRMX
+25,Long term debt,12  Mar-15*,524.0,TRMX
+26,Total assets,12  Mar-15*,52279.0,TRMX
+27,Interest coverage,12  Mar-15*,5.5,TRMX
+28,Debt to equity ratio,12  Mar-15*,0.0,TRMX
+29,Sales to assets ratio,12  Mar-15*,1.0,TRMX
+30,Return on assets,12  Mar-15*,5.6,TRMX
+31,Return on equity,12  Mar-15*,9.5,TRMX
+32,Return on capital,12  Mar-15*,20.5,TRMX
+33,Exports to sales,12  Mar-15*,18.7,TRMX
+34,Imports to sales,12  Mar-15*,5.4,TRMX
+35,Exports (fob),12  Mar-15*,9931.0,TRMX
+36,Imports (cif),12  Mar-15*,2850.0,TRMX
+37,Fx inflow,12  Mar-15*,10261.0,TRMX
+38,Fx outflow,12  Mar-15*,3889.0,TRMX
+39,Net fx,12  Mar-15*,6372.0,TRMX
+40,From Operations,12  Mar-15*,3108.0,TRMX
+41,From Investments,12  Mar-15*,796.0,TRMX
+42,From Financial Activity,12  Mar-15*,-3512.0,TRMX
+43,Net Cashflow,12  Mar-15*,391.0,TRMX
+44,Net Sales,12  Mar-16*,51450.0,TRMX
+45,Other income,12  Mar-16*,1224.0,TRMX
+46,Total revenues,12  Mar-16*,52674.0,TRMX
+47,Gross profit,12  Mar-16*,4892.0,TRMX
+48,Depreciation,12  Mar-16*,722.0,TRMX
+49,Interest,12  Mar-16*,722.0,TRMX
+50,Profit before tax,12  Mar-16*,4671.0,TRMX
+51,Minority Interest,12  Mar-16*,-409.0,TRMX
+52,Prior Period Items,12  Mar-16*,0.0,TRMX
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TRMX
+54,Tax,12  Mar-16*,1439.0,TRMX
+55,Profit after tax,12  Mar-16*,2823.0,TRMX
+56,Gross profit margin,12  Mar-16*,9.5,TRMX
+57,Effective tax rate,12  Mar-16*,30.8,TRMX
+58,Net profit margin,12  Mar-16*,5.5,TRMX
+59,Current assets,12  Mar-16*,36100.0,TRMX
+60,Current liabilities,12  Mar-16*,26153.0,TRMX
+61,Net working cap to sales,12  Mar-16*,19.3,TRMX
+62,Current ratio,12  Mar-16*,1.4,TRMX
+63,Inventory Days,12  Mar-16*,21.0,TRMX
+64,Debtors Days,12  Mar-16*,95.0,TRMX
+65,Net fixed assets,12  Mar-16*,7173.0,TRMX
+66,Share capital,12  Mar-16*,225.0,TRMX
+67,"""Free"" reserves",12  Mar-16*,23936.0,TRMX
+68,Net worth,12  Mar-16*,24162.0,TRMX
+69,Long term debt,12  Mar-16*,342.0,TRMX
+70,Total assets,12  Mar-16*,51810.0,TRMX
+71,Interest coverage,12  Mar-16*,7.5,TRMX
+72,Debt to equity ratio,12  Mar-16*,0.0,TRMX
+73,Sales to assets ratio,12  Mar-16*,1.0,TRMX
+74,Return on assets,12  Mar-16*,6.8,TRMX
+75,Return on equity,12  Mar-16*,11.7,TRMX
+76,Return on capital,12  Mar-16*,20.3,TRMX
+77,Exports to sales,12  Mar-16*,27.5,TRMX
+78,Imports to sales,12  Mar-16*,4.6,TRMX
+79,Exports (fob),12  Mar-16*,14141.0,TRMX
+80,Imports (cif),12  Mar-16*,2384.0,TRMX
+81,Fx inflow,12  Mar-16*,14374.0,TRMX
+82,Fx outflow,12  Mar-16*,3276.0,TRMX
+83,Net fx,12  Mar-16*,11098.0,TRMX
+84,From Operations,12  Mar-16*,2526.0,TRMX
+85,From Investments,12  Mar-16*,-1458.0,TRMX
+86,From Financial Activity,12  Mar-16*,-1123.0,TRMX
+87,Net Cashflow,12  Mar-16*,132.0,TRMX
+88,Net Sales,12  Mar-17*,44831.0,TRMX
+89,Other income,12  Mar-17*,1141.0,TRMX
+90,Total revenues,12  Mar-17*,45971.0,TRMX
+91,Gross profit,12  Mar-17*,4330.0,TRMX
+92,Depreciation,12  Mar-17*,819.0,TRMX
+93,Interest,12  Mar-17*,97.0,TRMX
+94,Profit before tax,12  Mar-17*,4554.0,TRMX
+95,Minority Interest,12  Mar-17*,-655.0,TRMX
+96,Prior Period Items,12  Mar-17*,0.0,TRMX
+97,Extraordinary Inc (Exp),12  Mar-17*,-178.0,TRMX
+98,Tax,12  Mar-17*,1560.0,TRMX
+99,Profit after tax,12  Mar-17*,2161.0,TRMX
+100,Gross profit margin,12  Mar-17*,9.7,TRMX
+101,Effective tax rate,12  Mar-17*,34.3,TRMX
+102,Net profit margin,12  Mar-17*,4.8,TRMX
+103,Current assets,12  Mar-17*,32974.0,TRMX
+104,Current liabilities,12  Mar-17*,23652.0,TRMX
+105,Net working cap to sales,12  Mar-17*,20.8,TRMX
+106,Current ratio,12  Mar-17*,1.4,TRMX
+107,Inventory Days,12  Mar-17*,23.0,TRMX
+108,Debtors Days,12  Mar-17*,84.0,TRMX
+109,Net fixed assets,12  Mar-17*,8066.0,TRMX
+110,Share capital,12  Mar-17*,225.0,TRMX
+111,"""Free"" reserves",12  Mar-17*,25151.0,TRMX
+112,Net worth,12  Mar-17*,25376.0,TRMX
+113,Long term debt,12  Mar-17*,460.0,TRMX
+114,Total assets,12  Mar-17*,50605.0,TRMX
+115,Interest coverage,12  Mar-17*,47.9,TRMX
+116,Debt to equity ratio,12  Mar-17*,0.0,TRMX
+117,Sales to assets ratio,12  Mar-17*,0.9,TRMX
+118,Return on assets,12  Mar-17*,4.5,TRMX
+119,Return on equity,12  Mar-17*,8.5,TRMX
+120,Return on capital,12  Mar-17*,14.8,TRMX
+121,Exports to sales,12  Mar-17*,0.0,TRMX
+122,Imports to sales,12  Mar-17*,0.0,TRMX
+123,Exports (fob),12  Mar-17*,0.0,TRMX
+124,Imports (cif),12  Mar-17*,0.0,TRMX
+125,Fx inflow,12  Mar-17*,6310.0,TRMX
+126,Fx outflow,12  Mar-17*,0.0,TRMX
+127,Net fx,12  Mar-17*,6310.0,TRMX
+128,From Operations,12  Mar-17*,3346.0,TRMX
+129,From Investments,12  Mar-17*,-750.0,TRMX
+130,From Financial Activity,12  Mar-17*,-1256.0,TRMX
+131,Net Cashflow,12  Mar-17*,1097.0,TRMX
+132,Net Sales,12  Mar-18*,44649.0,TRMX
+133,Other income,12  Mar-18*,1164.0,TRMX
+134,Total revenues,12  Mar-18*,45813.0,TRMX
+135,Gross profit,12  Mar-18*,4009.0,TRMX
+136,Depreciation,12  Mar-18*,824.0,TRMX
+137,Interest,12  Mar-18*,129.0,TRMX
+138,Profit before tax,12  Mar-18*,4220.0,TRMX
+139,Minority Interest,12  Mar-18*,-252.0,TRMX
+140,Prior Period Items,12  Mar-18*,0.0,TRMX
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TRMX
+142,Tax,12  Mar-18*,1658.0,TRMX
+143,Profit after tax,12  Mar-18*,2311.0,TRMX
+144,Gross profit margin,12  Mar-18*,9.0,TRMX
+145,Effective tax rate,12  Mar-18*,39.3,TRMX
+146,Net profit margin,12  Mar-18*,5.2,TRMX
+147,Current assets,12  Mar-18*,41016.0,TRMX
+148,Current liabilities,12  Mar-18*,30787.0,TRMX
+149,Net working cap to sales,12  Mar-18*,22.9,TRMX
+150,Current ratio,12  Mar-18*,1.3,TRMX
+151,Inventory Days,12  Mar-18*,30.0,TRMX
+152,Debtors Days,12  Mar-18*,102.0,TRMX
+153,Net fixed assets,12  Mar-18*,12650.0,TRMX
+154,Share capital,12  Mar-18*,225.0,TRMX
+155,"""Free"" reserves",12  Mar-18*,26922.0,TRMX
+156,Net worth,12  Mar-18*,27147.0,TRMX
+157,Long term debt,12  Mar-18*,530.0,TRMX
+158,Total assets,12  Mar-18*,59450.0,TRMX
+159,Interest coverage,12  Mar-18*,33.8,TRMX
+160,Debt to equity ratio,12  Mar-18*,0.0,TRMX
+161,Sales to assets ratio,12  Mar-18*,0.8,TRMX
+162,Return on assets,12  Mar-18*,4.1,TRMX
+163,Return on equity,12  Mar-18*,8.5,TRMX
+164,Return on capital,12  Mar-18*,14.8,TRMX
+165,Exports to sales,12  Mar-18*,0.0,TRMX
+166,Imports to sales,12  Mar-18*,0.0,TRMX
+167,Exports (fob),12  Mar-18*,0.0,TRMX
+168,Imports (cif),12  Mar-18*,0.0,TRMX
+169,Fx inflow,12  Mar-18*,5450.0,TRMX
+170,Fx outflow,12  Mar-18*,0.0,TRMX
+171,Net fx,12  Mar-18*,5450.0,TRMX
+172,From Operations,12  Mar-18*,5336.0,TRMX
+173,From Investments,12  Mar-18*,-5311.0,TRMX
+174,From Financial Activity,12  Mar-18*,-203.0,TRMX
+175,Net Cashflow,12  Mar-18*,67.0,TRMX
+176,Net Sales,12  Mar-19*,59732.0,TRMX
+177,Other income,12  Mar-19*,1499.0,TRMX
+178,Total revenues,12  Mar-19*,61231.0,TRMX
+179,Gross profit,12  Mar-19*,4574.0,TRMX
+180,Depreciation,12  Mar-19*,920.0,TRMX
+181,Interest,12  Mar-19*,143.0,TRMX
+182,Profit before tax,12  Mar-19*,5010.0,TRMX
+183,Minority Interest,12  Mar-19*,-11.0,TRMX
+184,Prior Period Items,12  Mar-19*,0.0,TRMX
+185,Extraordinary Inc (Exp),12  Mar-19*,-895.0,TRMX
+186,Tax,12  Mar-19*,849.0,TRMX
+187,Profit after tax,12  Mar-19*,3254.0,TRMX
+188,Gross profit margin,12  Mar-19*,7.7,TRMX
+189,Effective tax rate,12  Mar-19*,17.0,TRMX
+190,Net profit margin,12  Mar-19*,5.4,TRMX
+191,Current assets,12  Mar-19*,47371.0,TRMX
+192,Current liabilities,12  Mar-19*,36538.0,TRMX
+193,Net working cap to sales,12  Mar-19*,18.1,TRMX
+194,Current ratio,12  Mar-19*,1.3,TRMX
+195,Inventory Days,12  Mar-19*,31.0,TRMX
+196,Debtors Days,12  Mar-19*,84.0,TRMX
+197,Net fixed assets,12  Mar-19*,13520.0,TRMX
+198,Share capital,12  Mar-19*,225.0,TRMX
+199,"""Free"" reserves",12  Mar-19*,29918.0,TRMX
+200,Net worth,12  Mar-19*,30143.0,TRMX
+201,Long term debt,12  Mar-19*,351.0,TRMX
+202,Total assets,12  Mar-19*,67999.0,TRMX
+203,Interest coverage,12  Mar-19*,36.0,TRMX
+204,Debt to equity ratio,12  Mar-19*,0.0,TRMX
+205,Sales to assets ratio,12  Mar-19*,0.9,TRMX
+206,Return on assets,12  Mar-19*,5.0,TRMX
+207,Return on equity,12  Mar-19*,10.8,TRMX
+208,Return on capital,12  Mar-19*,13.9,TRMX
+209,Exports to sales,12  Mar-19*,0.0,TRMX
+210,Imports to sales,12  Mar-19*,0.0,TRMX
+211,Exports (fob),12  Mar-19*,0.0,TRMX
+212,Imports (cif),12  Mar-19*,0.0,TRMX
+213,Fx inflow,12  Mar-19*,10100.0,TRMX
+214,Fx outflow,12  Mar-19*,0.0,TRMX
+215,Net fx,12  Mar-19*,10100.0,TRMX
+216,From Operations,12  Mar-19*,-1154.0,TRMX
+217,From Investments,12  Mar-19*,2655.0,TRMX
+218,From Financial Activity,12  Mar-19*,-654.0,TRMX
+219,Net Cashflow,12  Mar-19*,852.0,TRMX

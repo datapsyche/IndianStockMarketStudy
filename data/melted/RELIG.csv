@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,33438.0,RELIG
+1,Other income,12  Mar-14*,1279.0,RELIG
+2,Total revenues,12  Mar-14*,34717.0,RELIG
+3,Gross profit,12  Mar-14*,17485.0,RELIG
+4,Depreciation,12  Mar-14*,341.0,RELIG
+5,Interest,12  Mar-14*,15793.0,RELIG
+6,Profit before tax,12  Mar-14*,2631.0,RELIG
+7,Minority Interest,12  Mar-14*,-963.0,RELIG
+8,Prior Period Items,12  Mar-14*,4.0,RELIG
+9,Extraordinary Inc (Exp),12  Mar-14*,-806.0,RELIG
+10,Tax,12  Mar-14*,1559.0,RELIG
+11,Profit after tax,12  Mar-14*,-693.0,RELIG
+12,Gross profit margin,12  Mar-14*,52.3,RELIG
+13,Effective tax rate,12  Mar-14*,59.2,RELIG
+14,Net profit margin,12  Mar-14*,-2.1,RELIG
+15,Current assets,12  Mar-14*,91847.0,RELIG
+16,Current liabilities,12  Mar-14*,88107.0,RELIG
+17,Net working cap to sales,12  Mar-14*,11.2,RELIG
+18,Current ratio,12  Mar-14*,1.0,RELIG
+19,Inventory Days,12  Mar-14*,44.0,RELIG
+20,Debtors Days,12  Mar-14*,53.0,RELIG
+21,Net fixed assets,12  Mar-14*,19927.0,RELIG
+22,Share capital,12  Mar-14*,1496.0,RELIG
+23,"""Free"" reserves",12  Mar-14*,28489.0,RELIG
+24,Net worth,12  Mar-14*,31316.0,RELIG
+25,Long term debt,12  Mar-14*,66224.0,RELIG
+26,Total assets,12  Mar-14*,211252.0,RELIG
+27,Interest coverage,12  Mar-14*,1.2,RELIG
+28,Debt to equity ratio,12  Mar-14*,2.1,RELIG
+29,Sales to assets ratio,12  Mar-14*,0.2,RELIG
+30,Return on assets,12  Mar-14*,7.1,RELIG
+31,Return on equity,12  Mar-14*,-2.2,RELIG
+32,Return on capital,12  Mar-14*,17.1,RELIG
+33,Exports to sales,12  Mar-14*,0.0,RELIG
+34,Imports to sales,12  Mar-14*,0.0,RELIG
+35,Exports (fob),12  Mar-14*,0.0,RELIG
+36,Imports (cif),12  Mar-14*,0.0,RELIG
+37,Fx inflow,12  Mar-14*,0.0,RELIG
+38,Fx outflow,12  Mar-14*,80.0,RELIG
+39,Net fx,12  Mar-14*,-80.0,RELIG
+40,From Operations,12  Mar-14*,16344.0,RELIG
+41,From Investments,12  Mar-14*,-4082.0,RELIG
+42,From Financial Activity,12  Mar-14*,-14003.0,RELIG
+43,Net Cashflow,12  Mar-14*,-1741.0,RELIG
+44,Net Sales,12  Mar-15*,41046.0,RELIG
+45,Other income,12  Mar-15*,828.0,RELIG
+46,Total revenues,12  Mar-15*,41874.0,RELIG
+47,Gross profit,12  Mar-15*,20914.0,RELIG
+48,Depreciation,12  Mar-15*,369.0,RELIG
+49,Interest,12  Mar-15*,16521.0,RELIG
+50,Profit before tax,12  Mar-15*,4852.0,RELIG
+51,Minority Interest,12  Mar-15*,-1675.0,RELIG
+52,Prior Period Items,12  Mar-15*,3.0,RELIG
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,RELIG
+54,Tax,12  Mar-15*,1642.0,RELIG
+55,Profit after tax,12  Mar-15*,1538.0,RELIG
+56,Gross profit margin,12  Mar-15*,51.0,RELIG
+57,Effective tax rate,12  Mar-15*,33.8,RELIG
+58,Net profit margin,12  Mar-15*,3.7,RELIG
+59,Current assets,12  Mar-15*,103029.0,RELIG
+60,Current liabilities,12  Mar-15*,102008.0,RELIG
+61,Net working cap to sales,12  Mar-15*,2.5,RELIG
+62,Current ratio,12  Mar-15*,1.0,RELIG
+63,Inventory Days,12  Mar-15*,6.0,RELIG
+64,Debtors Days,12  Mar-15*,52.0,RELIG
+65,Net fixed assets,12  Mar-15*,21322.0,RELIG
+66,Share capital,12  Mar-15*,2033.0,RELIG
+67,"""Free"" reserves",12  Mar-15*,35198.0,RELIG
+68,Net worth,12  Mar-15*,39088.0,RELIG
+69,Long term debt,12  Mar-15*,86883.0,RELIG
+70,Total assets,12  Mar-15*,254390.0,RELIG
+71,Interest coverage,12  Mar-15*,1.3,RELIG
+72,Debt to equity ratio,12  Mar-15*,2.2,RELIG
+73,Sales to assets ratio,12  Mar-15*,0.2,RELIG
+74,Return on assets,12  Mar-15*,7.1,RELIG
+75,Return on equity,12  Mar-15*,3.9,RELIG
+76,Return on capital,12  Mar-15*,15.6,RELIG
+77,Exports to sales,12  Mar-15*,0.0,RELIG
+78,Imports to sales,12  Mar-15*,0.0,RELIG
+79,Exports (fob),12  Mar-15*,0.0,RELIG
+80,Imports (cif),12  Mar-15*,0.0,RELIG
+81,Fx inflow,12  Mar-15*,0.0,RELIG
+82,Fx outflow,12  Mar-15*,81.0,RELIG
+83,Net fx,12  Mar-15*,-81.0,RELIG
+84,From Operations,12  Mar-15*,-7057.0,RELIG
+85,From Investments,12  Mar-15*,-6169.0,RELIG
+86,From Financial Activity,12  Mar-15*,10939.0,RELIG
+87,Net Cashflow,12  Mar-15*,-2287.0,RELIG
+88,Net Sales,12  Mar-16*,44318.0,RELIG
+89,Other income,12  Mar-16*,709.0,RELIG
+90,Total revenues,12  Mar-16*,45026.0,RELIG
+91,Gross profit,12  Mar-16*,23723.0,RELIG
+92,Depreciation,12  Mar-16*,359.0,RELIG
+93,Interest,12  Mar-16*,18721.0,RELIG
+94,Profit before tax,12  Mar-16*,5351.0,RELIG
+95,Minority Interest,12  Mar-16*,-1085.0,RELIG
+96,Prior Period Items,12  Mar-16*,6.0,RELIG
+97,Extraordinary Inc (Exp),12  Mar-16*,-2533.0,RELIG
+98,Tax,12  Mar-16*,2215.0,RELIG
+99,Profit after tax,12  Mar-16*,-477.0,RELIG
+100,Gross profit margin,12  Mar-16*,53.5,RELIG
+101,Effective tax rate,12  Mar-16*,41.4,RELIG
+102,Net profit margin,12  Mar-16*,-1.1,RELIG
+103,Current assets,12  Mar-16*,94957.0,RELIG
+104,Current liabilities,12  Mar-16*,103036.0,RELIG
+105,Net working cap to sales,12  Mar-16*,-18.2,RELIG
+106,Current ratio,12  Mar-16*,0.9,RELIG
+107,Inventory Days,12  Mar-16*,5.0,RELIG
+108,Debtors Days,12  Mar-16*,38.0,RELIG
+109,Net fixed assets,12  Mar-16*,17890.0,RELIG
+110,Share capital,12  Mar-16*,2033.0,RELIG
+111,"""Free"" reserves",12  Mar-16*,36595.0,RELIG
+112,Net worth,12  Mar-16*,38629.0,RELIG
+113,Long term debt,12  Mar-16*,118583.0,RELIG
+114,Total assets,12  Mar-16*,274293.0,RELIG
+115,Interest coverage,12  Mar-16*,1.3,RELIG
+116,Debt to equity ratio,12  Mar-16*,3.1,RELIG
+117,Sales to assets ratio,12  Mar-16*,0.2,RELIG
+118,Return on assets,12  Mar-16*,6.7,RELIG
+119,Return on equity,12  Mar-16*,-1.2,RELIG
+120,Return on capital,12  Mar-16*,13.0,RELIG
+121,Exports to sales,12  Mar-16*,0.0,RELIG
+122,Imports to sales,12  Mar-16*,0.0,RELIG
+123,Exports (fob),12  Mar-16*,0.0,RELIG
+124,Imports (cif),12  Mar-16*,0.0,RELIG
+125,Fx inflow,12  Mar-16*,0.0,RELIG
+126,Fx outflow,12  Mar-16*,12.0,RELIG
+127,Net fx,12  Mar-16*,-12.0,RELIG
+128,From Operations,12  Mar-16*,-21540.0,RELIG
+129,From Investments,12  Mar-16*,5149.0,RELIG
+130,From Financial Activity,12  Mar-16*,18531.0,RELIG
+131,Net Cashflow,12  Mar-16*,1978.0,RELIG
+132,Net Sales,12  Mar-17*,37718.0,RELIG
+133,Other income,12  Mar-17*,693.0,RELIG
+134,Total revenues,12  Mar-17*,38410.0,RELIG
+135,Gross profit,12  Mar-17*,21035.0,RELIG
+136,Depreciation,12  Mar-17*,310.0,RELIG
+137,Interest,12  Mar-17*,18363.0,RELIG
+138,Profit before tax,12  Mar-17*,3055.0,RELIG
+139,Minority Interest,12  Mar-17*,-507.0,RELIG
+140,Prior Period Items,12  Mar-17*,-2.0,RELIG
+141,Extraordinary Inc (Exp),12  Mar-17*,-4419.0,RELIG
+142,Tax,12  Mar-17*,-130.0,RELIG
+143,Profit after tax,12  Mar-17*,-1743.0,RELIG
+144,Gross profit margin,12  Mar-17*,55.8,RELIG
+145,Effective tax rate,12  Mar-17*,-4.3,RELIG
+146,Net profit margin,12  Mar-17*,-4.6,RELIG
+147,Current assets,12  Mar-17*,90534.0,RELIG
+148,Current liabilities,12  Mar-17*,80912.0,RELIG
+149,Net working cap to sales,12  Mar-17*,25.5,RELIG
+150,Current ratio,12  Mar-17*,1.1,RELIG
+151,Inventory Days,12  Mar-17*,0.0,RELIG
+152,Debtors Days,12  Mar-17*,59.0,RELIG
+153,Net fixed assets,12  Mar-17*,12489.0,RELIG
+154,Share capital,12  Mar-17*,2048.0,RELIG
+155,"""Free"" reserves",12  Mar-17*,25469.0,RELIG
+156,Net worth,12  Mar-17*,27517.0,RELIG
+157,Long term debt,12  Mar-17*,89166.0,RELIG
+158,Total assets,12  Mar-17*,210378.0,RELIG
+159,Interest coverage,12  Mar-17*,1.2,RELIG
+160,Debt to equity ratio,12  Mar-17*,3.2,RELIG
+161,Sales to assets ratio,12  Mar-17*,0.2,RELIG
+162,Return on assets,12  Mar-17*,7.9,RELIG
+163,Return on equity,12  Mar-17*,-6.3,RELIG
+164,Return on capital,12  Mar-17*,14.1,RELIG
+165,Exports to sales,12  Mar-17*,0.0,RELIG
+166,Imports to sales,12  Mar-17*,0.0,RELIG
+167,Exports (fob),12  Mar-17*,0.0,RELIG
+168,Imports (cif),12  Mar-17*,0.0,RELIG
+169,Fx inflow,12  Mar-17*,0.0,RELIG
+170,Fx outflow,12  Mar-17*,3.0,RELIG
+171,Net fx,12  Mar-17*,-3.0,RELIG
+172,From Operations,12  Mar-17*,58706.0,RELIG
+173,From Investments,12  Mar-17*,23178.0,RELIG
+174,From Financial Activity,12  Mar-17*,-76960.0,RELIG
+175,Net Cashflow,12  Mar-17*,3238.0,RELIG
+176,Net Sales,12  Mar-18*,25868.0,RELIG
+177,Other income,12  Mar-18*,1064.0,RELIG
+178,Total revenues,12  Mar-18*,26932.0,RELIG
+179,Gross profit,12  Mar-18*,-3856.0,RELIG
+180,Depreciation,12  Mar-18*,376.0,RELIG
+181,Interest,12  Mar-18*,12610.0,RELIG
+182,Profit before tax,12  Mar-18*,-15779.0,RELIG
+183,Minority Interest,12  Mar-18*,1579.0,RELIG
+184,Prior Period Items,12  Mar-18*,0.0,RELIG
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,RELIG
+186,Tax,12  Mar-18*,-2274.0,RELIG
+187,Profit after tax,12  Mar-18*,-11925.0,RELIG
+188,Gross profit margin,12  Mar-18*,-14.9,RELIG
+189,Effective tax rate,12  Mar-18*,14.4,RELIG
+190,Net profit margin,12  Mar-18*,-46.1,RELIG
+191,Current assets,12  Mar-18*,76160.0,RELIG
+192,Current liabilities,12  Mar-18*,72751.0,RELIG
+193,Net working cap to sales,12  Mar-18*,13.2,RELIG
+194,Current ratio,12  Mar-18*,1.0,RELIG
+195,Inventory Days,12  Mar-18*,0.0,RELIG
+196,Debtors Days,12  Mar-18*,40.0,RELIG
+197,Net fixed assets,12  Mar-18*,15041.0,RELIG
+198,Share capital,12  Mar-18*,2050.0,RELIG
+199,"""Free"" reserves",12  Mar-18*,14797.0,RELIG
+200,Net worth,12  Mar-18*,16846.0,RELIG
+201,Long term debt,12  Mar-18*,58287.0,RELIG
+202,Total assets,12  Mar-18*,158762.0,RELIG
+203,Interest coverage,12  Mar-18*,-0.3,RELIG
+204,Debt to equity ratio,12  Mar-18*,3.5,RELIG
+205,Sales to assets ratio,12  Mar-18*,0.2,RELIG
+206,Return on assets,12  Mar-18*,0.4,RELIG
+207,Return on equity,12  Mar-18*,-70.8,RELIG
+208,Return on capital,12  Mar-18*,-2.1,RELIG
+209,Exports to sales,12  Mar-18*,0.0,RELIG
+210,Imports to sales,12  Mar-18*,0.0,RELIG
+211,Exports (fob),12  Mar-18*,0.0,RELIG
+212,Imports (cif),12  Mar-18*,0.0,RELIG
+213,Fx inflow,12  Mar-18*,0.0,RELIG
+214,Fx outflow,12  Mar-18*,12.0,RELIG
+215,Net fx,12  Mar-18*,-12.0,RELIG
+216,From Operations,12  Mar-18*,57227.0,RELIG
+217,From Investments,12  Mar-18*,-4220.0,RELIG
+218,From Financial Activity,12  Mar-18*,-63772.0,RELIG
+219,Net Cashflow,12  Mar-18*,-10769.0,RELIG

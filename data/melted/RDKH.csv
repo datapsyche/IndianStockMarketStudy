@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,14884.0,RDKH
+1,Other income,12  Mar-15,450.0,RDKH
+2,Total revenues,12  Mar-15,15334.0,RDKH
+3,Gross profit,12  Mar-15,1704.0,RDKH
+4,Depreciation,12  Mar-15,383.0,RDKH
+5,Interest,12  Mar-15,900.0,RDKH
+6,Profit before tax,12  Mar-15,871.0,RDKH
+7,Minority Interest,12  Mar-15,0.0,RDKH
+8,Prior Period Items,12  Mar-15,0.0,RDKH
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,RDKH
+10,Tax,12  Mar-15,195.0,RDKH
+11,Profit after tax,12  Mar-15,676.0,RDKH
+12,Gross profit margin,12  Mar-15,11.4,RDKH
+13,Effective tax rate,12  Mar-15,22.4,RDKH
+14,Net profit margin,12  Mar-15,4.5,RDKH
+15,Current assets,12  Mar-15,12105.0,RDKH
+16,Current liabilities,12  Mar-15,9455.0,RDKH
+17,Net working cap to sales,12  Mar-15,17.8,RDKH
+18,Current ratio,12  Mar-15,1.3,RDKH
+19,Inventory Days,12  Mar-15,63.0,RDKH
+20,Debtors Days,12  Mar-15,129.0,RDKH
+21,Net fixed assets,12  Mar-15,7343.0,RDKH
+22,Share capital,12  Mar-15,266.0,RDKH
+23,"""Free"" reserves",12  Mar-15,8868.0,RDKH
+24,Net worth,12  Mar-15,9135.0,RDKH
+25,Long term debt,12  Mar-15,3210.0,RDKH
+26,Total assets,12  Mar-15,22371.0,RDKH
+27,Interest coverage,12  Mar-15,2.0,RDKH
+28,Debt to equity ratio,12  Mar-15,0.4,RDKH
+29,Sales to assets ratio,12  Mar-15,0.7,RDKH
+30,Return on assets,12  Mar-15,7.0,RDKH
+31,Return on equity,12  Mar-15,7.4,RDKH
+32,Return on capital,12  Mar-15,14.3,RDKH
+33,Exports to sales,12  Mar-15,17.4,RDKH
+34,Imports to sales,12  Mar-15,0.9,RDKH
+35,Exports (fob),12  Mar-15,2586.0,RDKH
+36,Imports (cif),12  Mar-15,132.0,RDKH
+37,Fx inflow,12  Mar-15,2586.0,RDKH
+38,Fx outflow,12  Mar-15,465.0,RDKH
+39,Net fx,12  Mar-15,2121.0,RDKH
+40,From Operations,12  Mar-15,2504.0,RDKH
+41,From Investments,12  Mar-15,-829.0,RDKH
+42,From Financial Activity,12  Mar-15,-1724.0,RDKH
+43,Net Cashflow,12  Mar-15,-50.0,RDKH
+44,Net Sales,12  Mar-16,16518.0,RDKH
+45,Other income,12  Mar-16,389.0,RDKH
+46,Total revenues,12  Mar-16,16907.0,RDKH
+47,Gross profit,12  Mar-16,1877.0,RDKH
+48,Depreciation,12  Mar-16,431.0,RDKH
+49,Interest,12  Mar-16,848.0,RDKH
+50,Profit before tax,12  Mar-16,987.0,RDKH
+51,Minority Interest,12  Mar-16,47.0,RDKH
+52,Prior Period Items,12  Mar-16,0.0,RDKH
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,RDKH
+54,Tax,12  Mar-16,253.0,RDKH
+55,Profit after tax,12  Mar-16,782.0,RDKH
+56,Gross profit margin,12  Mar-16,11.4,RDKH
+57,Effective tax rate,12  Mar-16,25.6,RDKH
+58,Net profit margin,12  Mar-16,4.7,RDKH
+59,Current assets,12  Mar-16,13106.0,RDKH
+60,Current liabilities,12  Mar-16,10888.0,RDKH
+61,Net working cap to sales,12  Mar-16,13.4,RDKH
+62,Current ratio,12  Mar-16,1.2,RDKH
+63,Inventory Days,12  Mar-16,61.0,RDKH
+64,Debtors Days,12  Mar-16,135.0,RDKH
+65,Net fixed assets,12  Mar-16,7313.0,RDKH
+66,Share capital,12  Mar-16,266.0,RDKH
+67,"""Free"" reserves",12  Mar-16,9507.0,RDKH
+68,Net worth,12  Mar-16,9773.0,RDKH
+69,Long term debt,12  Mar-16,1957.0,RDKH
+70,Total assets,12  Mar-16,23252.0,RDKH
+71,Interest coverage,12  Mar-16,2.2,RDKH
+72,Debt to equity ratio,12  Mar-16,0.2,RDKH
+73,Sales to assets ratio,12  Mar-16,0.7,RDKH
+74,Return on assets,12  Mar-16,7.0,RDKH
+75,Return on equity,12  Mar-16,8.0,RDKH
+76,Return on capital,12  Mar-16,16.0,RDKH
+77,Exports to sales,12  Mar-16,11.6,RDKH
+78,Imports to sales,12  Mar-16,1.2,RDKH
+79,Exports (fob),12  Mar-16,1920.0,RDKH
+80,Imports (cif),12  Mar-16,196.0,RDKH
+81,Fx inflow,12  Mar-16,1920.0,RDKH
+82,Fx outflow,12  Mar-16,506.0,RDKH
+83,Net fx,12  Mar-16,1414.0,RDKH
+84,From Operations,12  Mar-16,-363.0,RDKH
+85,From Investments,12  Mar-16,808.0,RDKH
+86,From Financial Activity,12  Mar-16,-866.0,RDKH
+87,Net Cashflow,12  Mar-16,-421.0,RDKH
+88,Net Sales,12  Mar-17,16799.0,RDKH
+89,Other income,12  Mar-17,197.0,RDKH
+90,Total revenues,12  Mar-17,16996.0,RDKH
+91,Gross profit,12  Mar-17,2113.0,RDKH
+92,Depreciation,12  Mar-17,417.0,RDKH
+93,Interest,12  Mar-17,804.0,RDKH
+94,Profit before tax,12  Mar-17,1089.0,RDKH
+95,Minority Interest,12  Mar-17,1.0,RDKH
+96,Prior Period Items,12  Mar-17,0.0,RDKH
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,RDKH
+98,Tax,12  Mar-17,288.0,RDKH
+99,Profit after tax,12  Mar-17,802.0,RDKH
+100,Gross profit margin,12  Mar-17,12.6,RDKH
+101,Effective tax rate,12  Mar-17,26.4,RDKH
+102,Net profit margin,12  Mar-17,4.8,RDKH
+103,Current assets,12  Mar-17,11639.0,RDKH
+104,Current liabilities,12  Mar-17,10085.0,RDKH
+105,Net working cap to sales,12  Mar-17,9.2,RDKH
+106,Current ratio,12  Mar-17,1.2,RDKH
+107,Inventory Days,12  Mar-17,64.0,RDKH
+108,Debtors Days,12  Mar-17,136.0,RDKH
+109,Net fixed assets,12  Mar-17,7060.0,RDKH
+110,Share capital,12  Mar-17,266.0,RDKH
+111,"""Free"" reserves",12  Mar-17,10175.0,RDKH
+112,Net worth,12  Mar-17,10441.0,RDKH
+113,Long term debt,12  Mar-17,1033.0,RDKH
+114,Total assets,12  Mar-17,22344.0,RDKH
+115,Interest coverage,12  Mar-17,2.4,RDKH
+116,Debt to equity ratio,12  Mar-17,0.1,RDKH
+117,Sales to assets ratio,12  Mar-17,0.8,RDKH
+118,Return on assets,12  Mar-17,7.2,RDKH
+119,Return on equity,12  Mar-17,7.7,RDKH
+120,Return on capital,12  Mar-17,16.5,RDKH
+121,Exports to sales,12  Mar-17,9.3,RDKH
+122,Imports to sales,12  Mar-17,0.0,RDKH
+123,Exports (fob),12  Mar-17,1559.0,RDKH
+124,Imports (cif),12  Mar-17,0.0,RDKH
+125,Fx inflow,12  Mar-17,1559.0,RDKH
+126,Fx outflow,12  Mar-17,0.0,RDKH
+127,Net fx,12  Mar-17,1559.0,RDKH
+128,From Operations,12  Mar-17,2520.0,RDKH
+129,From Investments,12  Mar-17,30.0,RDKH
+130,From Financial Activity,12  Mar-17,-2340.0,RDKH
+131,Net Cashflow,12  Mar-17,211.0,RDKH
+132,Net Sales,12  Mar-18,18228.0,RDKH
+133,Other income,12  Mar-18,267.0,RDKH
+134,Total revenues,12  Mar-18,18494.0,RDKH
+135,Gross profit,12  Mar-18,2698.0,RDKH
+136,Depreciation,12  Mar-18,409.0,RDKH
+137,Interest,12  Mar-18,682.0,RDKH
+138,Profit before tax,12  Mar-18,1873.0,RDKH
+139,Minority Interest,12  Mar-18,5.0,RDKH
+140,Prior Period Items,12  Mar-18,0.0,RDKH
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,RDKH
+142,Tax,12  Mar-18,638.0,RDKH
+143,Profit after tax,12  Mar-18,1240.0,RDKH
+144,Gross profit margin,12  Mar-18,14.8,RDKH
+145,Effective tax rate,12  Mar-18,34.1,RDKH
+146,Net profit margin,12  Mar-18,6.8,RDKH
+147,Current assets,12  Mar-18,12389.0,RDKH
+148,Current liabilities,12  Mar-18,9513.0,RDKH
+149,Net working cap to sales,12  Mar-18,15.8,RDKH
+150,Current ratio,12  Mar-18,1.3,RDKH
+151,Inventory Days,12  Mar-18,62.0,RDKH
+152,Debtors Days,12  Mar-18,126.0,RDKH
+153,Net fixed assets,12  Mar-18,7057.0,RDKH
+154,Share capital,12  Mar-18,267.0,RDKH
+155,"""Free"" reserves",12  Mar-18,11302.0,RDKH
+156,Net worth,12  Mar-18,11569.0,RDKH
+157,Long term debt,12  Mar-18,344.0,RDKH
+158,Total assets,12  Mar-18,22459.0,RDKH
+159,Interest coverage,12  Mar-18,3.7,RDKH
+160,Debt to equity ratio,12  Mar-18,0.0,RDKH
+161,Sales to assets ratio,12  Mar-18,0.8,RDKH
+162,Return on assets,12  Mar-18,8.6,RDKH
+163,Return on equity,12  Mar-18,10.7,RDKH
+164,Return on capital,12  Mar-18,21.5,RDKH
+165,Exports to sales,12  Mar-18,6.3,RDKH
+166,Imports to sales,12  Mar-18,0.0,RDKH
+167,Exports (fob),12  Mar-18,1153.0,RDKH
+168,Imports (cif),12  Mar-18,0.0,RDKH
+169,Fx inflow,12  Mar-18,1153.0,RDKH
+170,Fx outflow,12  Mar-18,0.0,RDKH
+171,Net fx,12  Mar-18,1153.0,RDKH
+172,From Operations,12  Mar-18,3158.0,RDKH
+173,From Investments,12  Mar-18,-208.0,RDKH
+174,From Financial Activity,12  Mar-18,-2926.0,RDKH
+175,Net Cashflow,12  Mar-18,25.0,RDKH
+176,Net Sales,12  Mar-19,20969.0,RDKH
+177,Other income,12  Mar-19,133.0,RDKH
+178,Total revenues,12  Mar-19,21102.0,RDKH
+179,Gross profit,12  Mar-19,3503.0,RDKH
+180,Depreciation,12  Mar-19,424.0,RDKH
+181,Interest,12  Mar-19,355.0,RDKH
+182,Profit before tax,12  Mar-19,2857.0,RDKH
+183,Minority Interest,12  Mar-19,61.0,RDKH
+184,Prior Period Items,12  Mar-19,0.0,RDKH
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,RDKH
+186,Tax,12  Mar-19,976.0,RDKH
+187,Profit after tax,12  Mar-19,1941.0,RDKH
+188,Gross profit margin,12  Mar-19,16.7,RDKH
+189,Effective tax rate,12  Mar-19,34.2,RDKH
+190,Net profit margin,12  Mar-19,9.3,RDKH
+191,Current assets,12  Mar-19,12254.0,RDKH
+192,Current liabilities,12  Mar-19,7789.0,RDKH
+193,Net working cap to sales,12  Mar-19,21.3,RDKH
+194,Current ratio,12  Mar-19,1.6,RDKH
+195,Inventory Days,12  Mar-19,63.0,RDKH
+196,Debtors Days,12  Mar-19,112.0,RDKH
+197,Net fixed assets,12  Mar-19,7299.0,RDKH
+198,Share capital,12  Mar-19,267.0,RDKH
+199,"""Free"" reserves",12  Mar-19,13091.0,RDKH
+200,Net worth,12  Mar-19,13357.0,RDKH
+201,Long term debt,12  Mar-19,217.0,RDKH
+202,Total assets,12  Mar-19,22514.0,RDKH
+203,Interest coverage,12  Mar-19,9.1,RDKH
+204,Debt to equity ratio,12  Mar-19,0.0,RDKH
+205,Sales to assets ratio,12  Mar-19,0.9,RDKH
+206,Return on assets,12  Mar-19,10.2,RDKH
+207,Return on equity,12  Mar-19,14.5,RDKH
+208,Return on capital,12  Mar-19,24.1,RDKH
+209,Exports to sales,12  Mar-19,4.4,RDKH
+210,Imports to sales,12  Mar-19,0.0,RDKH
+211,Exports (fob),12  Mar-19,917.0,RDKH
+212,Imports (cif),12  Mar-19,0.0,RDKH
+213,Fx inflow,12  Mar-19,917.0,RDKH
+214,Fx outflow,12  Mar-19,0.0,RDKH
+215,Net fx,12  Mar-19,917.0,RDKH
+216,From Operations,12  Mar-19,3087.0,RDKH
+217,From Investments,12  Mar-19,-66.0,RDKH
+218,From Financial Activity,12  Mar-19,-2259.0,RDKH
+219,Net Cashflow,12  Mar-19,762.0,RDKH

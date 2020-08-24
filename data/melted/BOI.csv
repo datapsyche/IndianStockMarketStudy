@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,436849.0,BOI
+1,Other income,12  Mar-15*,42781.0,BOI
+2,Interest expense,12  Mar-15*,322201.0,BOI
+3,Net interest income,12  Mar-15*,114648.0,BOI
+4,Operating expense,12  Mar-15*,81934.0,BOI
+5,Provisions/contingencies,12  Mar-15*,56977.0,BOI
+6,Profit before tax,12  Mar-15*,21182.0,BOI
+7,Extraordinary Inc (Exp),12  Mar-15*,0.0,BOI
+8,Minority Interest,12  Mar-15*,-19.0,BOI
+9,Prior Period Items,12  Mar-15*,0.0,BOI
+10,Tax,12  Mar-15*,1034.0,BOI
+11,Profit after tax,12  Mar-15*,20129.0,BOI
+12,Net profit margin,12  Mar-15*,4.6,BOI
+13,Advances,12  Mar-15*,4043894.0,BOI
+14,Deposits,12  Mar-15*,5344823.0,BOI
+15,Credit/Deposit ratio,12  Mar-15*,75.7,BOI
+16,Yield on advances,12  Mar-15*,7.9,BOI
+17,Cost of deposits,12  Mar-15*,5.4,BOI
+18,Net Interest Margin,12  Mar-15*,1.9,BOI
+19,Net fixed assets,12  Mar-15*,59145.0,BOI
+20,Share capital,12  Mar-15*,6657.0,BOI
+21,Free reserves,12  Mar-15*,167949.0,BOI
+22,Net worth,12  Mar-15*,325228.0,BOI
+23,Borrowings,12  Mar-15*,400897.0,BOI
+24,Investments,12  Mar-15*,1231955.0,BOI
+25,Total assets,12  Mar-15*,6252847.0,BOI
+26,Debt/equity ratio,12  Mar-15*,17.7,BOI
+27,Return on assets,12  Mar-15*,0.3,BOI
+28,Return on equity,12  Mar-15*,6.2,BOI
+29,Capital adequacy ratio,12  Mar-15*,11.4,BOI
+30,Net NPAs,12  Mar-15*,3.4,BOI
+31,From Operations,12  Mar-15*,146382.0,BOI
+32,From Investments,12  Mar-15*,-7547.0,BOI
+33,From Financial Activity,12  Mar-15*,12951.0,BOI
+34,Net Cashflow,12  Mar-15*,151786.0,BOI
+35,Interest income,12  Mar-16*,420928.0,BOI
+36,Other income,12  Mar-16*,36716.0,BOI
+37,Interest expense,12  Mar-16*,302453.0,BOI
+38,Net interest income,12  Mar-16*,118475.0,BOI
+39,Operating expense,12  Mar-16*,94250.0,BOI
+40,Provisions/contingencies,12  Mar-16*,141517.0,BOI
+41,Profit before tax,12  Mar-16*,-45533.0,BOI
+42,Extraordinary Inc (Exp),12  Mar-16*,0.0,BOI
+43,Minority Interest,12  Mar-16*,717.0,BOI
+44,Prior Period Items,12  Mar-16*,0.0,BOI
+45,Tax,12  Mar-16*,-17226.0,BOI
+46,Profit after tax,12  Mar-16*,-27590.0,BOI
+47,Net profit margin,12  Mar-16*,-6.6,BOI
+48,Advances,12  Mar-16*,3613019.0,BOI
+49,Deposits,12  Mar-16*,5157225.0,BOI
+50,Credit/Deposit ratio,12  Mar-16*,70.1,BOI
+51,Yield on advances,12  Mar-16*,8.5,BOI
+52,Cost of deposits,12  Mar-16*,5.3,BOI
+53,Net Interest Margin,12  Mar-16*,2.0,BOI
+54,Net fixed assets,12  Mar-16*,85729.0,BOI
+55,Share capital,12  Mar-16*,8173.0,BOI
+56,Free reserves,12  Mar-16*,194186.0,BOI
+57,Net worth,12  Mar-16*,320420.0,BOI
+58,Borrowings,12  Mar-16*,511033.0,BOI
+59,Investments,12  Mar-16*,1226209.0,BOI
+60,Total assets,12  Mar-16*,6166292.0,BOI
+61,Debt/equity ratio,12  Mar-16*,17.7,BOI
+62,Return on assets,12  Mar-16*,-0.4,BOI
+63,Return on equity,12  Mar-16*,-8.6,BOI
+64,Capital adequacy ratio,12  Mar-16*,12.1,BOI
+65,Net NPAs,12  Mar-16*,7.8,BOI
+66,From Operations,12  Mar-16*,183108.0,BOI
+67,From Investments,12  Mar-16*,-6087.0,BOI
+68,From Financial Activity,12  Mar-16*,48637.0,BOI
+69,Net Cashflow,12  Mar-16*,225658.0,BOI
+70,Interest income,12  Mar-17*,395852.0,BOI
+71,Other income,12  Mar-17*,68195.0,BOI
+72,Interest expense,12  Mar-17*,276058.0,BOI
+73,Net interest income,12  Mar-17*,119795.0,BOI
+74,Operating expense,12  Mar-17*,89750.0,BOI
+75,Provisions/contingencies,12  Mar-17*,122361.0,BOI
+76,Profit before tax,12  Mar-17*,-6731.0,BOI
+77,Extraordinary Inc (Exp),12  Mar-17*,0.0,BOI
+78,Minority Interest,12  Mar-17*,214.0,BOI
+79,Prior Period Items,12  Mar-17*,0.0,BOI
+80,Tax,12  Mar-17*,-8184.0,BOI
+81,Profit after tax,12  Mar-17*,1667.0,BOI
+82,Net profit margin,12  Mar-17*,0.4,BOI
+83,Advances,12  Mar-17*,3683288.0,BOI
+84,Deposits,12  Mar-17*,5423521.0,BOI
+85,Credit/Deposit ratio,12  Mar-17*,67.9,BOI
+86,Yield on advances,12  Mar-17*,7.4,BOI
+87,Cost of deposits,12  Mar-17*,4.5,BOI
+88,Net Interest Margin,12  Mar-17*,2.0,BOI
+89,Net fixed assets,12  Mar-17*,85458.0,BOI
+90,Share capital,12  Mar-17*,10554.0,BOI
+91,Free reserves,12  Mar-17*,211157.0,BOI
+92,Net worth,12  Mar-17*,319073.0,BOI
+93,Borrowings,12  Mar-17*,394914.0,BOI
+94,Investments,12  Mar-17*,1307513.0,BOI
+95,Total assets,12  Mar-17*,6320260.0,BOI
+96,Debt/equity ratio,12  Mar-17*,18.2,BOI
+97,Return on assets,12  Mar-17*,0.0,BOI
+98,Return on equity,12  Mar-17*,0.5,BOI
+99,Capital adequacy ratio,12  Mar-17*,12.1,BOI
+100,Net NPAs,12  Mar-17*,7.2,BOI
+101,From Operations,12  Mar-17*,-66241.0,BOI
+102,From Investments,12  Mar-17*,-3711.0,BOI
+103,From Financial Activity,12  Mar-17*,39551.0,BOI
+104,Net Cashflow,12  Mar-17*,-30400.0,BOI
+105,Interest income,12  Mar-18*,383128.0,BOI
+106,Other income,12  Mar-18*,58459.0,BOI
+107,Interest expense,12  Mar-18*,276788.0,BOI
+108,Net interest income,12  Mar-18*,106340.0,BOI
+109,Operating expense,12  Mar-18*,92652.0,BOI
+110,Provisions/contingencies,12  Mar-18*,158746.0,BOI
+111,Profit before tax,12  Mar-18*,-33947.0,BOI
+112,Extraordinary Inc (Exp),12  Mar-18*,0.0,BOI
+113,Minority Interest,12  Mar-18*,204.0,BOI
+114,Prior Period Items,12  Mar-18*,0.0,BOI
+115,Tax,12  Mar-18*,-25870.0,BOI
+116,Profit after tax,12  Mar-18*,-7873.0,BOI
+117,Net profit margin,12  Mar-18*,-2.1,BOI
+118,Advances,12  Mar-18*,3432889.0,BOI
+119,Deposits,12  Mar-18*,5229969.0,BOI
+120,Credit/Deposit ratio,12  Mar-18*,65.6,BOI
+121,Yield on advances,12  Mar-18*,7.4,BOI
+122,Cost of deposits,12  Mar-18*,4.7,BOI
+123,Net Interest Margin,12  Mar-18*,1.8,BOI
+124,Net fixed assets,12  Mar-18*,83499.0,BOI
+125,Share capital,12  Mar-18*,17437.0,BOI
+126,Free reserves,12  Mar-18*,310409.0,BOI
+127,Net worth,12  Mar-18*,367565.0,BOI
+128,Borrowings,12  Mar-18*,435983.0,BOI
+129,Investments,12  Mar-18*,1403211.0,BOI
+130,Total assets,12  Mar-18*,6151843.0,BOI
+131,Debt/equity ratio,12  Mar-18*,15.4,BOI
+132,Return on assets,12  Mar-18*,-0.1,BOI
+133,Return on equity,12  Mar-18*,-2.1,BOI
+134,Capital adequacy ratio,12  Mar-18*,12.9,BOI
+135,Net NPAs,12  Mar-18*,8.3,BOI
+136,From Operations,12  Mar-18*,-73660.0,BOI
+137,From Investments,12  Mar-18*,-2599.0,BOI
+138,From Financial Activity,12  Mar-18*,71854.0,BOI
+139,Net Cashflow,12  Mar-18*,-4405.0,BOI
+140,Interest income,12  Mar-19*,410048.0,BOI
+141,Other income,12  Mar-19*,52640.0,BOI
+142,Interest expense,12  Mar-19*,272071.0,BOI
+143,Net interest income,12  Mar-19*,137977.0,BOI
+144,Operating expense,12  Mar-19*,108670.0,BOI
+145,Provisions/contingencies,12  Mar-19*,168586.0,BOI
+146,Profit before tax,12  Mar-19*,-22596.0,BOI
+147,Extraordinary Inc (Exp),12  Mar-19*,0.0,BOI
+148,Minority Interest,12  Mar-19*,-5.0,BOI
+149,Prior Period Items,12  Mar-19*,0.0,BOI
+150,Tax,12  Mar-19*,-31665.0,BOI
+151,Profit after tax,12  Mar-19*,9065.0,BOI
+152,Net profit margin,12  Mar-19*,2.2,BOI
+153,Advances,12  Mar-19*,3429663.0,BOI
+154,Deposits,12  Mar-19*,5225550.0,BOI
+155,Credit/Deposit ratio,12  Mar-19*,65.6,BOI
+156,Yield on advances,12  Mar-19*,7.9,BOI
+157,Cost of deposits,12  Mar-19*,4.4,BOI
+158,Net Interest Margin,12  Mar-19*,2.3,BOI
+159,Net fixed assets,12  Mar-19*,89991.0,BOI
+160,Share capital,12  Mar-19*,27600.0,BOI
+161,Free reserves,12  Mar-19*,402539.0,BOI
+162,Net worth,12  Mar-19*,430140.0,BOI
+163,Borrowings,12  Mar-19*,442652.0,BOI
+164,Investments,12  Mar-19*,1509050.0,BOI
+165,Total assets,12  Mar-19*,6308839.0,BOI
+166,Debt/equity ratio,12  Mar-19*,13.2,BOI
+167,Return on assets,12  Mar-19*,0.1,BOI
+168,Return on equity,12  Mar-19*,2.1,BOI
+169,Capital adequacy ratio,12  Mar-19*,14.2,BOI
+170,Net NPAs,12  Mar-19*,5.6,BOI
+171,From Operations,12  Mar-19*,-92181.0,BOI
+172,From Investments,12  Mar-19*,711.0,BOI
+173,From Financial Activity,12  Mar-19*,79828.0,BOI
+174,Net Cashflow,12  Mar-19*,-11642.0,BOI

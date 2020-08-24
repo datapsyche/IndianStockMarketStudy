@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,12266.0,KYST
+1,Other income,12  Mar-15,27.0,KYST
+2,Total revenues,12  Mar-15,12293.0,KYST
+3,Gross profit,12  Mar-15,1671.0,KYST
+4,Depreciation,12  Mar-15,310.0,KYST
+5,Interest,12  Mar-15,148.0,KYST
+6,Profit before tax,12  Mar-15,1240.0,KYST
+7,Minority Interest,12  Mar-15,0.0,KYST
+8,Prior Period Items,12  Mar-15,0.0,KYST
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,KYST
+10,Tax,12  Mar-15,407.0,KYST
+11,Profit after tax,12  Mar-15,833.0,KYST
+12,Gross profit margin,12  Mar-15,13.6,KYST
+13,Effective tax rate,12  Mar-15,32.8,KYST
+14,Net profit margin,12  Mar-15,6.8,KYST
+15,Current assets,12  Mar-15,5418.0,KYST
+16,Current liabilities,12  Mar-15,3067.0,KYST
+17,Net working cap to sales,12  Mar-15,19.2,KYST
+18,Current ratio,12  Mar-15,1.8,KYST
+19,Inventory Days,12  Mar-15,46.0,KYST
+20,Debtors Days,12  Mar-15,97.0,KYST
+21,Net fixed assets,12  Mar-15,4559.0,KYST
+22,Share capital,12  Mar-15,219.0,KYST
+23,"""Free"" reserves",12  Mar-15,4541.0,KYST
+24,Net worth,12  Mar-15,4759.0,KYST
+25,Long term debt,12  Mar-15,1571.0,KYST
+26,Total assets,12  Mar-15,10842.0,KYST
+27,Interest coverage,12  Mar-15,9.4,KYST
+28,Debt to equity ratio,12  Mar-15,0.3,KYST
+29,Sales to assets ratio,12  Mar-15,1.1,KYST
+30,Return on assets,12  Mar-15,9.0,KYST
+31,Return on equity,12  Mar-15,17.5,KYST
+32,Return on capital,12  Mar-15,21.9,KYST
+33,Exports to sales,12  Mar-15,2.7,KYST
+34,Imports to sales,12  Mar-15,22.0,KYST
+35,Exports (fob),12  Mar-15,332.0,KYST
+36,Imports (cif),12  Mar-15,2697.0,KYST
+37,Fx inflow,12  Mar-15,332.0,KYST
+38,Fx outflow,12  Mar-15,2768.0,KYST
+39,Net fx,12  Mar-15,-2436.0,KYST
+40,From Operations,12  Mar-15,1142.0,KYST
+41,From Investments,12  Mar-15,-1069.0,KYST
+42,From Financial Activity,12  Mar-15,-192.0,KYST
+43,Net Cashflow,12  Mar-15,-119.0,KYST
+44,Net Sales,12  Mar-16*,11792.0,KYST
+45,Other income,12  Mar-16*,27.0,KYST
+46,Total revenues,12  Mar-16*,11818.0,KYST
+47,Gross profit,12  Mar-16*,2351.0,KYST
+48,Depreciation,12  Mar-16*,518.0,KYST
+49,Interest,12  Mar-16*,121.0,KYST
+50,Profit before tax,12  Mar-16*,1738.0,KYST
+51,Minority Interest,12  Mar-16*,0.0,KYST
+52,Prior Period Items,12  Mar-16*,0.0,KYST
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,KYST
+54,Tax,12  Mar-16*,604.0,KYST
+55,Profit after tax,12  Mar-16*,1135.0,KYST
+56,Gross profit margin,12  Mar-16*,19.9,KYST
+57,Effective tax rate,12  Mar-16*,34.7,KYST
+58,Net profit margin,12  Mar-16*,9.6,KYST
+59,Current assets,12  Mar-16*,5309.0,KYST
+60,Current liabilities,12  Mar-16*,4859.0,KYST
+61,Net working cap to sales,12  Mar-16*,3.8,KYST
+62,Current ratio,12  Mar-16*,1.1,KYST
+63,Inventory Days,12  Mar-16*,34.0,KYST
+64,Debtors Days,12  Mar-16*,106.0,KYST
+65,Net fixed assets,12  Mar-16*,4908.0,KYST
+66,Share capital,12  Mar-16*,219.0,KYST
+67,"""Free"" reserves",12  Mar-16*,5005.0,KYST
+68,Net worth,12  Mar-16*,5223.0,KYST
+69,Long term debt,12  Mar-16*,1152.0,KYST
+70,Total assets,12  Mar-16*,12005.0,KYST
+71,Interest coverage,12  Mar-16*,15.4,KYST
+72,Debt to equity ratio,12  Mar-16*,0.2,KYST
+73,Sales to assets ratio,12  Mar-16*,1.0,KYST
+74,Return on assets,12  Mar-16*,10.5,KYST
+75,Return on equity,12  Mar-16*,21.7,KYST
+76,Return on capital,12  Mar-16*,29.2,KYST
+77,Exports to sales,12  Mar-16*,3.7,KYST
+78,Imports to sales,12  Mar-16*,14.4,KYST
+79,Exports (fob),12  Mar-16*,442.0,KYST
+80,Imports (cif),12  Mar-16*,1699.0,KYST
+81,Fx inflow,12  Mar-16*,442.0,KYST
+82,Fx outflow,12  Mar-16*,1774.0,KYST
+83,Net fx,12  Mar-16*,-1332.0,KYST
+84,From Operations,12  Mar-16*,1603.0,KYST
+85,From Investments,12  Mar-16*,-2551.0,KYST
+86,From Financial Activity,12  Mar-16*,967.0,KYST
+87,Net Cashflow,12  Mar-16*,19.0,KYST
+88,Net Sales,12  Mar-17,12574.0,KYST
+89,Other income,12  Mar-17,136.0,KYST
+90,Total revenues,12  Mar-17,12711.0,KYST
+91,Gross profit,12  Mar-17,2872.0,KYST
+92,Depreciation,12  Mar-17,521.0,KYST
+93,Interest,12  Mar-17,102.0,KYST
+94,Profit before tax,12  Mar-17,2386.0,KYST
+95,Minority Interest,12  Mar-17,0.0,KYST
+96,Prior Period Items,12  Mar-17,0.0,KYST
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,KYST
+98,Tax,12  Mar-17,827.0,KYST
+99,Profit after tax,12  Mar-17,1559.0,KYST
+100,Gross profit margin,12  Mar-17,22.8,KYST
+101,Effective tax rate,12  Mar-17,34.7,KYST
+102,Net profit margin,12  Mar-17,12.4,KYST
+103,Current assets,12  Mar-17,7243.0,KYST
+104,Current liabilities,12  Mar-17,5406.0,KYST
+105,Net working cap to sales,12  Mar-17,14.6,KYST
+106,Current ratio,12  Mar-17,1.3,KYST
+107,Inventory Days,12  Mar-17,39.0,KYST
+108,Debtors Days,12  Mar-17,135.0,KYST
+109,Net fixed assets,12  Mar-17,4437.0,KYST
+110,Share capital,12  Mar-17,219.0,KYST
+111,"""Free"" reserves",12  Mar-17,6561.0,KYST
+112,Net worth,12  Mar-17,6780.0,KYST
+113,Long term debt,12  Mar-17,652.0,KYST
+114,Total assets,12  Mar-17,13623.0,KYST
+115,Interest coverage,12  Mar-17,24.4,KYST
+116,Debt to equity ratio,12  Mar-17,0.1,KYST
+117,Sales to assets ratio,12  Mar-17,0.9,KYST
+118,Return on assets,12  Mar-17,12.2,KYST
+119,Return on equity,12  Mar-17,23.0,KYST
+120,Return on capital,12  Mar-17,33.5,KYST
+121,Exports to sales,12  Mar-17,1.6,KYST
+122,Imports to sales,12  Mar-17,19.0,KYST
+123,Exports (fob),12  Mar-17,201.0,KYST
+124,Imports (cif),12  Mar-17,2384.0,KYST
+125,Fx inflow,12  Mar-17,201.0,KYST
+126,Fx outflow,12  Mar-17,3092.0,KYST
+127,Net fx,12  Mar-17,-2891.0,KYST
+128,From Operations,12  Mar-17,1521.0,KYST
+129,From Investments,12  Mar-17,-381.0,KYST
+130,From Financial Activity,12  Mar-17,-982.0,KYST
+131,Net Cashflow,12  Mar-17,157.0,KYST
+132,Net Sales,12  Mar-18,13442.0,KYST
+133,Other income,12  Mar-18,174.0,KYST
+134,Total revenues,12  Mar-18,13615.0,KYST
+135,Gross profit,12  Mar-18,2041.0,KYST
+136,Depreciation,12  Mar-18,373.0,KYST
+137,Interest,12  Mar-18,93.0,KYST
+138,Profit before tax,12  Mar-18,1750.0,KYST
+139,Minority Interest,12  Mar-18,0.0,KYST
+140,Prior Period Items,12  Mar-18,0.0,KYST
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,KYST
+142,Tax,12  Mar-18,597.0,KYST
+143,Profit after tax,12  Mar-18,1153.0,KYST
+144,Gross profit margin,12  Mar-18,15.2,KYST
+145,Effective tax rate,12  Mar-18,34.1,KYST
+146,Net profit margin,12  Mar-18,8.6,KYST
+147,Current assets,12  Mar-18,6615.0,KYST
+148,Current liabilities,12  Mar-18,4229.0,KYST
+149,Net working cap to sales,12  Mar-18,17.8,KYST
+150,Current ratio,12  Mar-18,1.6,KYST
+151,Inventory Days,12  Mar-18,30.0,KYST
+152,Debtors Days,12  Mar-18,102.0,KYST
+153,Net fixed assets,12  Mar-18,4445.0,KYST
+154,Share capital,12  Mar-18,219.0,KYST
+155,"""Free"" reserves",12  Mar-18,7455.0,KYST
+156,Net worth,12  Mar-18,7673.0,KYST
+157,Long term debt,12  Mar-18,236.0,KYST
+158,Total assets,12  Mar-18,12799.0,KYST
+159,Interest coverage,12  Mar-18,19.9,KYST
+160,Debt to equity ratio,12  Mar-18,0.0,KYST
+161,Sales to assets ratio,12  Mar-18,1.1,KYST
+162,Return on assets,12  Mar-18,9.7,KYST
+163,Return on equity,12  Mar-18,15.0,KYST
+164,Return on capital,12  Mar-18,23.3,KYST
+165,Exports to sales,12  Mar-18,4.3,KYST
+166,Imports to sales,12  Mar-18,0.0,KYST
+167,Exports (fob),12  Mar-18,584.0,KYST
+168,Imports (cif),12  Mar-18,0.0,KYST
+169,Fx inflow,12  Mar-18,584.0,KYST
+170,Fx outflow,12  Mar-18,3938.0,KYST
+171,Net fx,12  Mar-18,-3354.0,KYST
+172,From Operations,12  Mar-18,1912.0,KYST
+173,From Investments,12  Mar-18,-766.0,KYST
+174,From Financial Activity,12  Mar-18,-1051.0,KYST
+175,Net Cashflow,12  Mar-18,95.0,KYST
+176,Net Sales,12  Mar-19,14066.0,KYST
+177,Other income,12  Mar-19,133.0,KYST
+178,Total revenues,12  Mar-19,14198.0,KYST
+179,Gross profit,12  Mar-19,2124.0,KYST
+180,Depreciation,12  Mar-19,384.0,KYST
+181,Interest,12  Mar-19,73.0,KYST
+182,Profit before tax,12  Mar-19,1799.0,KYST
+183,Minority Interest,12  Mar-19,0.0,KYST
+184,Prior Period Items,12  Mar-19,0.0,KYST
+185,Extraordinary Inc (Exp),12  Mar-19,119.0,KYST
+186,Tax,12  Mar-19,605.0,KYST
+187,Profit after tax,12  Mar-19,1314.0,KYST
+188,Gross profit margin,12  Mar-19,15.1,KYST
+189,Effective tax rate,12  Mar-19,33.6,KYST
+190,Net profit margin,12  Mar-19,9.3,KYST
+191,Current assets,12  Mar-19,7761.0,KYST
+192,Current liabilities,12  Mar-19,4356.0,KYST
+193,Net working cap to sales,12  Mar-19,24.2,KYST
+194,Current ratio,12  Mar-19,1.8,KYST
+195,Inventory Days,12  Mar-19,40.0,KYST
+196,Debtors Days,12  Mar-19,92.0,KYST
+197,Net fixed assets,12  Mar-19,4300.0,KYST
+198,Share capital,12  Mar-19,219.0,KYST
+199,"""Free"" reserves",12  Mar-19,8507.0,KYST
+200,Net worth,12  Mar-19,8725.0,KYST
+201,Long term debt,12  Mar-19,74.0,KYST
+202,Total assets,12  Mar-19,13789.0,KYST
+203,Interest coverage,12  Mar-19,25.6,KYST
+204,Debt to equity ratio,12  Mar-19,0.0,KYST
+205,Sales to assets ratio,12  Mar-19,1.0,KYST
+206,Return on assets,12  Mar-19,10.1,KYST
+207,Return on equity,12  Mar-19,15.1,KYST
+208,Return on capital,12  Mar-19,22.6,KYST
+209,Exports to sales,12  Mar-19,4.3,KYST
+210,Imports to sales,12  Mar-19,0.0,KYST
+211,Exports (fob),12  Mar-19,603.0,KYST
+212,Imports (cif),12  Mar-19,0.0,KYST
+213,Fx inflow,12  Mar-19,584.0,KYST
+214,Fx outflow,12  Mar-19,4024.0,KYST
+215,Net fx,12  Mar-19,-3440.0,KYST
+216,From Operations,12  Mar-19,2858.0,KYST
+217,From Investments,12  Mar-19,-995.0,KYST
+218,From Financial Activity,12  Mar-19,-1814.0,KYST
+219,Net Cashflow,12  Mar-19,49.0,KYST

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8256.0,BAJCL
+1,Other income,12  Mar-15*,316.0,BAJCL
+2,Total revenues,12  Mar-15*,8572.0,BAJCL
+3,Gross profit,12  Mar-15*,2392.0,BAJCL
+4,Depreciation,12  Mar-15*,49.0,BAJCL
+5,Interest,12  Mar-15*,1.0,BAJCL
+6,Profit before tax,12  Mar-15*,2658.0,BAJCL
+7,Minority Interest,12  Mar-15*,0.0,BAJCL
+8,Prior Period Items,12  Mar-15*,0.0,BAJCL
+9,Extraordinary Inc (Exp),12  Mar-15*,-470.0,BAJCL
+10,Tax,12  Mar-15*,462.0,BAJCL
+11,Profit after tax,12  Mar-15*,1727.0,BAJCL
+12,Gross profit margin,12  Mar-15*,29.0,BAJCL
+13,Effective tax rate,12  Mar-15*,17.4,BAJCL
+14,Net profit margin,12  Mar-15*,20.9,BAJCL
+15,Current assets,12  Mar-15*,3821.0,BAJCL
+16,Current liabilities,12  Mar-15*,788.0,BAJCL
+17,Net working cap to sales,12  Mar-15*,36.7,BAJCL
+18,Current ratio,12  Mar-15*,4.8,BAJCL
+19,Inventory Days,12  Mar-15*,17.0,BAJCL
+20,Debtors Days,12  Mar-15*,6.0,BAJCL
+21,Net fixed assets,12  Mar-15*,1854.0,BAJCL
+22,Share capital,12  Mar-15*,148.0,BAJCL
+23,"""Free"" reserves",12  Mar-15*,4740.0,BAJCL
+24,Net worth,12  Mar-15*,4887.0,BAJCL
+25,Long term debt,12  Mar-15*,0.0,BAJCL
+26,Total assets,12  Mar-15*,5681.0,BAJCL
+27,Interest coverage,12  Mar-15*,2045.5,BAJCL
+28,Debt to equity ratio,12  Mar-15*,0.0,BAJCL
+29,Sales to assets ratio,12  Mar-15*,1.5,BAJCL
+30,Return on assets,12  Mar-15*,30.4,BAJCL
+31,Return on equity,12  Mar-15*,35.3,BAJCL
+32,Return on capital,12  Mar-15*,44.8,BAJCL
+33,Exports to sales,12  Mar-15*,2.0,BAJCL
+34,Imports to sales,12  Mar-15*,0.0,BAJCL
+35,Exports (fob),12  Mar-15*,161.0,BAJCL
+36,Imports (cif),12  Mar-15*,0.0,BAJCL
+37,Fx inflow,12  Mar-15*,161.0,BAJCL
+38,Fx outflow,12  Mar-15*,7.0,BAJCL
+39,Net fx,12  Mar-15*,154.0,BAJCL
+40,From Operations,12  Mar-15*,2067.0,BAJCL
+41,From Investments,12  Mar-15*,-195.0,BAJCL
+42,From Financial Activity,12  Mar-15*,-2035.0,BAJCL
+43,Net Cashflow,12  Mar-15*,-164.0,BAJCL
+44,Net Sales,12  Mar-16*,7997.0,BAJCL
+45,Other income,12  Mar-16*,287.0,BAJCL
+46,Total revenues,12  Mar-16*,8284.0,BAJCL
+47,Gross profit,12  Mar-16*,2737.0,BAJCL
+48,Depreciation,12  Mar-16*,49.0,BAJCL
+49,Interest,12  Mar-16*,2.0,BAJCL
+50,Profit before tax,12  Mar-16*,2972.0,BAJCL
+51,Minority Interest,12  Mar-16*,0.0,BAJCL
+52,Prior Period Items,12  Mar-16*,0.0,BAJCL
+53,Extraordinary Inc (Exp),12  Mar-16*,-470.0,BAJCL
+54,Tax,12  Mar-16*,538.0,BAJCL
+55,Profit after tax,12  Mar-16*,1964.0,BAJCL
+56,Gross profit margin,12  Mar-16*,34.2,BAJCL
+57,Effective tax rate,12  Mar-16*,18.1,BAJCL
+58,Net profit margin,12  Mar-16*,24.6,BAJCL
+59,Current assets,12  Mar-16*,4152.0,BAJCL
+60,Current liabilities,12  Mar-16*,844.0,BAJCL
+61,Net working cap to sales,12  Mar-16*,41.4,BAJCL
+62,Current ratio,12  Mar-16*,4.9,BAJCL
+63,Inventory Days,12  Mar-16*,23.0,BAJCL
+64,Debtors Days,12  Mar-16*,12.0,BAJCL
+65,Net fixed assets,12  Mar-16*,1402.0,BAJCL
+66,Share capital,12  Mar-16*,148.0,BAJCL
+67,"""Free"" reserves",12  Mar-16*,4663.0,BAJCL
+68,Net worth,12  Mar-16*,4811.0,BAJCL
+69,Long term debt,12  Mar-16*,0.0,BAJCL
+70,Total assets,12  Mar-16*,5662.0,BAJCL
+71,Interest coverage,12  Mar-16*,1293.3,BAJCL
+72,Debt to equity ratio,12  Mar-16*,0.0,BAJCL
+73,Sales to assets ratio,12  Mar-16*,1.4,BAJCL
+74,Return on assets,12  Mar-16*,34.7,BAJCL
+75,Return on equity,12  Mar-16*,40.8,BAJCL
+76,Return on capital,12  Mar-16*,52.1,BAJCL
+77,Exports to sales,12  Mar-16*,2.8,BAJCL
+78,Imports to sales,12  Mar-16*,0.0,BAJCL
+79,Exports (fob),12  Mar-16*,222.0,BAJCL
+80,Imports (cif),12  Mar-16*,0.0,BAJCL
+81,Fx inflow,12  Mar-16*,222.0,BAJCL
+82,Fx outflow,12  Mar-16*,3.0,BAJCL
+83,Net fx,12  Mar-16*,219.0,BAJCL
+84,From Operations,12  Mar-16*,1929.0,BAJCL
+85,From Investments,12  Mar-16*,60.0,BAJCL
+86,From Financial Activity,12  Mar-16*,-1943.0,BAJCL
+87,Net Cashflow,12  Mar-16*,46.0,BAJCL
+88,Net Sales,12  Mar-17*,7969.0,BAJCL
+89,Other income,12  Mar-17*,394.0,BAJCL
+90,Total revenues,12  Mar-17*,8363.0,BAJCL
+91,Gross profit,12  Mar-17*,2636.0,BAJCL
+92,Depreciation,12  Mar-17*,53.0,BAJCL
+93,Interest,12  Mar-17*,10.0,BAJCL
+94,Profit before tax,12  Mar-17*,2966.0,BAJCL
+95,Minority Interest,12  Mar-17*,0.0,BAJCL
+96,Prior Period Items,12  Mar-17*,0.0,BAJCL
+97,Extraordinary Inc (Exp),12  Mar-17*,-184.0,BAJCL
+98,Tax,12  Mar-17*,600.0,BAJCL
+99,Profit after tax,12  Mar-17*,2182.0,BAJCL
+100,Gross profit margin,12  Mar-17*,33.1,BAJCL
+101,Effective tax rate,12  Mar-17*,20.2,BAJCL
+102,Net profit margin,12  Mar-17*,27.4,BAJCL
+103,Current assets,12  Mar-17*,4259.0,BAJCL
+104,Current liabilities,12  Mar-17*,947.0,BAJCL
+105,Net working cap to sales,12  Mar-17*,41.6,BAJCL
+106,Current ratio,12  Mar-17*,4.5,BAJCL
+107,Inventory Days,12  Mar-17*,19.0,BAJCL
+108,Debtors Days,12  Mar-17*,13.0,BAJCL
+109,Net fixed assets,12  Mar-17*,1616.0,BAJCL
+110,Share capital,12  Mar-17*,148.0,BAJCL
+111,"""Free"" reserves",12  Mar-17*,4794.0,BAJCL
+112,Net worth,12  Mar-17*,4942.0,BAJCL
+113,Long term debt,12  Mar-17*,0.0,BAJCL
+114,Total assets,12  Mar-17*,5897.0,BAJCL
+115,Interest coverage,12  Mar-17*,289.0,BAJCL
+116,Debt to equity ratio,12  Mar-17*,0.0,BAJCL
+117,Sales to assets ratio,12  Mar-17*,1.4,BAJCL
+118,Return on assets,12  Mar-17*,37.2,BAJCL
+119,Return on equity,12  Mar-17*,44.2,BAJCL
+120,Return on capital,12  Mar-17*,56.5,BAJCL
+121,Exports to sales,12  Mar-17*,0.0,BAJCL
+122,Imports to sales,12  Mar-17*,0.0,BAJCL
+123,Exports (fob),12  Mar-17*,0.0,BAJCL
+124,Imports (cif),12  Mar-17*,0.0,BAJCL
+125,Fx inflow,12  Mar-17*,30.0,BAJCL
+126,Fx outflow,12  Mar-17*,7.0,BAJCL
+127,Net fx,12  Mar-17*,23.0,BAJCL
+128,From Operations,12  Mar-17*,2120.0,BAJCL
+129,From Investments,12  Mar-17*,-153.0,BAJCL
+130,From Financial Activity,12  Mar-17*,-2000.0,BAJCL
+131,Net Cashflow,12  Mar-17*,-33.0,BAJCL
+132,Net Sales,12  Mar-18*,8285.0,BAJCL
+133,Other income,12  Mar-18*,244.0,BAJCL
+134,Total revenues,12  Mar-18*,8529.0,BAJCL
+135,Gross profit,12  Mar-18*,2539.0,BAJCL
+136,Depreciation,12  Mar-18*,74.0,BAJCL
+137,Interest,12  Mar-18*,12.0,BAJCL
+138,Profit before tax,12  Mar-18*,2698.0,BAJCL
+139,Minority Interest,12  Mar-18*,0.0,BAJCL
+140,Prior Period Items,12  Mar-18*,0.0,BAJCL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BAJCL
+142,Tax,12  Mar-18*,587.0,BAJCL
+143,Profit after tax,12  Mar-18*,2111.0,BAJCL
+144,Gross profit margin,12  Mar-18*,30.6,BAJCL
+145,Effective tax rate,12  Mar-18*,21.7,BAJCL
+146,Net profit margin,12  Mar-18*,25.5,BAJCL
+147,Current assets,12  Mar-18*,4318.0,BAJCL
+148,Current liabilities,12  Mar-18*,1143.0,BAJCL
+149,Net working cap to sales,12  Mar-18*,38.3,BAJCL
+150,Current ratio,12  Mar-18*,3.8,BAJCL
+151,Inventory Days,12  Mar-18*,21.0,BAJCL
+152,Debtors Days,12  Mar-18*,14.0,BAJCL
+153,Net fixed assets,12  Mar-18*,1734.0,BAJCL
+154,Share capital,12  Mar-18*,148.0,BAJCL
+155,"""Free"" reserves",12  Mar-18*,4777.0,BAJCL
+156,Net worth,12  Mar-18*,4925.0,BAJCL
+157,Long term debt,12  Mar-18*,0.0,BAJCL
+158,Total assets,12  Mar-18*,6075.0,BAJCL
+159,Interest coverage,12  Mar-18*,220.3,BAJCL
+160,Debt to equity ratio,12  Mar-18*,0.0,BAJCL
+161,Sales to assets ratio,12  Mar-18*,1.4,BAJCL
+162,Return on assets,12  Mar-18*,34.9,BAJCL
+163,Return on equity,12  Mar-18*,42.9,BAJCL
+164,Return on capital,12  Mar-18*,55.0,BAJCL
+165,Exports to sales,12  Mar-18*,0.0,BAJCL
+166,Imports to sales,12  Mar-18*,0.0,BAJCL
+167,Exports (fob),12  Mar-18*,0.0,BAJCL
+168,Imports (cif),12  Mar-18*,0.0,BAJCL
+169,Fx inflow,12  Mar-18*,157.0,BAJCL
+170,Fx outflow,12  Mar-18*,25.0,BAJCL
+171,Net fx,12  Mar-18*,132.0,BAJCL
+172,From Operations,12  Mar-18*,1801.0,BAJCL
+173,From Investments,12  Mar-18*,368.0,BAJCL
+174,From Financial Activity,12  Mar-18*,-2156.0,BAJCL
+175,Net Cashflow,12  Mar-18*,13.0,BAJCL
+176,Net Sales,12  Mar-19*,9185.0,BAJCL
+177,Other income,12  Mar-19*,170.0,BAJCL
+178,Total revenues,12  Mar-19*,9355.0,BAJCL
+179,Gross profit,12  Mar-19*,2744.0,BAJCL
+180,Depreciation,12  Mar-19*,71.0,BAJCL
+181,Interest,12  Mar-19*,12.0,BAJCL
+182,Profit before tax,12  Mar-19*,2832.0,BAJCL
+183,Minority Interest,12  Mar-19*,0.0,BAJCL
+184,Prior Period Items,12  Mar-19*,0.0,BAJCL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BAJCL
+186,Tax,12  Mar-19*,616.0,BAJCL
+187,Profit after tax,12  Mar-19*,2216.0,BAJCL
+188,Gross profit margin,12  Mar-19*,29.9,BAJCL
+189,Effective tax rate,12  Mar-19*,21.7,BAJCL
+190,Net profit margin,12  Mar-19*,24.1,BAJCL
+191,Current assets,12  Mar-19*,4250.0,BAJCL
+192,Current liabilities,12  Mar-19*,1376.0,BAJCL
+193,Net working cap to sales,12  Mar-19*,31.3,BAJCL
+194,Current ratio,12  Mar-19*,3.1,BAJCL
+195,Inventory Days,12  Mar-19*,24.0,BAJCL
+196,Debtors Days,12  Mar-19*,15.0,BAJCL
+197,Net fixed assets,12  Mar-19*,1769.0,BAJCL
+198,Share capital,12  Mar-19*,148.0,BAJCL
+199,"""Free"" reserves",12  Mar-19*,4526.0,BAJCL
+200,Net worth,12  Mar-19*,4674.0,BAJCL
+201,Long term debt,12  Mar-19*,0.0,BAJCL
+202,Total assets,12  Mar-19*,6052.0,BAJCL
+203,Interest coverage,12  Mar-19*,243.0,BAJCL
+204,Debt to equity ratio,12  Mar-19*,0.0,BAJCL
+205,Sales to assets ratio,12  Mar-19*,1.5,BAJCL
+206,Return on assets,12  Mar-19*,36.8,BAJCL
+207,Return on equity,12  Mar-19*,47.4,BAJCL
+208,Return on capital,12  Mar-19*,60.8,BAJCL
+209,Exports to sales,12  Mar-19*,0.0,BAJCL
+210,Imports to sales,12  Mar-19*,0.0,BAJCL
+211,Exports (fob),12  Mar-19*,0.0,BAJCL
+212,Imports (cif),12  Mar-19*,0.0,BAJCL
+213,Fx inflow,12  Mar-19*,123.0,BAJCL
+214,Fx outflow,12  Mar-19*,26.0,BAJCL
+215,Net fx,12  Mar-19*,97.0,BAJCL
+216,From Operations,12  Mar-19*,1764.0,BAJCL
+217,From Investments,12  Mar-19*,686.0,BAJCL
+218,From Financial Activity,12  Mar-19*,-2384.0,BAJCL
+219,Net Cashflow,12  Mar-19*,62.0,BAJCL

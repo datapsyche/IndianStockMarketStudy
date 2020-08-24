@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,25171.0,MUKD
+1,Other income,12  Mar-14*,1217.0,MUKD
+2,Total revenues,12  Mar-14*,26388.0,MUKD
+3,Gross profit,12  Mar-14*,945.0,MUKD
+4,Depreciation,12  Mar-14*,677.0,MUKD
+5,Interest,12  Mar-14*,2540.0,MUKD
+6,Profit before tax,12  Mar-14*,-1055.0,MUKD
+7,Minority Interest,12  Mar-14*,-5.0,MUKD
+8,Prior Period Items,12  Mar-14*,7.0,MUKD
+9,Extraordinary Inc (Exp),12  Mar-14*,-126.0,MUKD
+10,Tax,12  Mar-14*,-335.0,MUKD
+11,Profit after tax,12  Mar-14*,-845.0,MUKD
+12,Gross profit margin,12  Mar-14*,3.8,MUKD
+13,Effective tax rate,12  Mar-14*,31.7,MUKD
+14,Net profit margin,12  Mar-14*,-3.4,MUKD
+15,Current assets,12  Mar-14*,28037.0,MUKD
+16,Current liabilities,12  Mar-14*,24381.0,MUKD
+17,Net working cap to sales,12  Mar-14*,14.5,MUKD
+18,Current ratio,12  Mar-14*,1.1,MUKD
+19,Inventory Days,12  Mar-14*,183.0,MUKD
+20,Debtors Days,12  Mar-14*,135.0,MUKD
+21,Net fixed assets,12  Mar-14*,25525.0,MUKD
+22,Share capital,12  Mar-14*,1471.0,MUKD
+23,"""Free"" reserves",12  Mar-14*,579.0,MUKD
+24,Net worth,12  Mar-14*,18734.0,MUKD
+25,Long term debt,12  Mar-14*,11616.0,MUKD
+26,Total assets,12  Mar-14*,56323.0,MUKD
+27,Interest coverage,12  Mar-14*,0.6,MUKD
+28,Debt to equity ratio,12  Mar-14*,0.6,MUKD
+29,Sales to assets ratio,12  Mar-14*,0.4,MUKD
+30,Return on assets,12  Mar-14*,3.0,MUKD
+31,Return on equity,12  Mar-14*,-4.5,MUKD
+32,Return on capital,12  Mar-14*,4.5,MUKD
+33,Exports to sales,12  Mar-14*,4.9,MUKD
+34,Imports to sales,12  Mar-14*,20.0,MUKD
+35,Exports (fob),12  Mar-14*,1239.0,MUKD
+36,Imports (cif),12  Mar-14*,5040.0,MUKD
+37,Fx inflow,12  Mar-14*,1245.0,MUKD
+38,Fx outflow,12  Mar-14*,5080.0,MUKD
+39,Net fx,12  Mar-14*,-3834.0,MUKD
+40,From Operations,12  Mar-14*,-588.0,MUKD
+41,From Investments,12  Mar-14*,-87.0,MUKD
+42,From Financial Activity,12  Mar-14*,775.0,MUKD
+43,Net Cashflow,12  Mar-14*,100.0,MUKD
+44,Net Sales,12  Mar-15*,30054.0,MUKD
+45,Other income,12  Mar-15*,188.0,MUKD
+46,Total revenues,12  Mar-15*,30242.0,MUKD
+47,Gross profit,12  Mar-15*,3619.0,MUKD
+48,Depreciation,12  Mar-15*,765.0,MUKD
+49,Interest,12  Mar-15*,2757.0,MUKD
+50,Profit before tax,12  Mar-15*,285.0,MUKD
+51,Minority Interest,12  Mar-15*,-12.0,MUKD
+52,Prior Period Items,12  Mar-15*,6.0,MUKD
+53,Extraordinary Inc (Exp),12  Mar-15*,-151.0,MUKD
+54,Tax,12  Mar-15*,16.0,MUKD
+55,Profit after tax,12  Mar-15*,111.0,MUKD
+56,Gross profit margin,12  Mar-15*,12.0,MUKD
+57,Effective tax rate,12  Mar-15*,5.7,MUKD
+58,Net profit margin,12  Mar-15*,0.4,MUKD
+59,Current assets,12  Mar-15*,31012.0,MUKD
+60,Current liabilities,12  Mar-15*,22905.0,MUKD
+61,Net working cap to sales,12  Mar-15*,27.0,MUKD
+62,Current ratio,12  Mar-15*,1.4,MUKD
+63,Inventory Days,12  Mar-15*,177.0,MUKD
+64,Debtors Days,12  Mar-15*,123.0,MUKD
+65,Net fixed assets,12  Mar-15*,24985.0,MUKD
+66,Share capital,12  Mar-15*,1471.0,MUKD
+67,"""Free"" reserves",12  Mar-15*,661.0,MUKD
+68,Net worth,12  Mar-15*,18722.0,MUKD
+69,Long term debt,12  Mar-15*,15463.0,MUKD
+70,Total assets,12  Mar-15*,58645.0,MUKD
+71,Interest coverage,12  Mar-15*,1.1,MUKD
+72,Debt to equity ratio,12  Mar-15*,0.8,MUKD
+73,Sales to assets ratio,12  Mar-15*,0.5,MUKD
+74,Return on assets,12  Mar-15*,4.9,MUKD
+75,Return on equity,12  Mar-15*,0.6,MUKD
+76,Return on capital,12  Mar-15*,8.4,MUKD
+77,Exports to sales,12  Mar-15*,4.3,MUKD
+78,Imports to sales,12  Mar-15*,19.1,MUKD
+79,Exports (fob),12  Mar-15*,1281.0,MUKD
+80,Imports (cif),12  Mar-15*,5744.0,MUKD
+81,Fx inflow,12  Mar-15*,1285.0,MUKD
+82,Fx outflow,12  Mar-15*,5774.0,MUKD
+83,Net fx,12  Mar-15*,-4489.0,MUKD
+84,From Operations,12  Mar-15*,185.0,MUKD
+85,From Investments,12  Mar-15*,-113.0,MUKD
+86,From Financial Activity,12  Mar-15*,-104.0,MUKD
+87,Net Cashflow,12  Mar-15*,-32.0,MUKD
+88,Net Sales,12  Mar-16*,29524.0,MUKD
+89,Other income,12  Mar-16*,251.0,MUKD
+90,Total revenues,12  Mar-16*,29776.0,MUKD
+91,Gross profit,12  Mar-16*,3573.0,MUKD
+92,Depreciation,12  Mar-16*,770.0,MUKD
+93,Interest,12  Mar-16*,2906.0,MUKD
+94,Profit before tax,12  Mar-16*,148.0,MUKD
+95,Minority Interest,12  Mar-16*,-17.0,MUKD
+96,Prior Period Items,12  Mar-16*,-24.0,MUKD
+97,Extraordinary Inc (Exp),12  Mar-16*,-129.0,MUKD
+98,Tax,12  Mar-16*,53.0,MUKD
+99,Profit after tax,12  Mar-16*,-75.0,MUKD
+100,Gross profit margin,12  Mar-16*,12.1,MUKD
+101,Effective tax rate,12  Mar-16*,36.0,MUKD
+102,Net profit margin,12  Mar-16*,-0.3,MUKD
+103,Current assets,12  Mar-16*,30821.0,MUKD
+104,Current liabilities,12  Mar-16*,22571.0,MUKD
+105,Net working cap to sales,12  Mar-16*,27.9,MUKD
+106,Current ratio,12  Mar-16*,1.4,MUKD
+107,Inventory Days,12  Mar-16*,143.0,MUKD
+108,Debtors Days,12  Mar-16*,129.0,MUKD
+109,Net fixed assets,12  Mar-16*,24597.0,MUKD
+110,Share capital,12  Mar-16*,1414.0,MUKD
+111,"""Free"" reserves",12  Mar-16*,1795.0,MUKD
+112,Net worth,12  Mar-16*,3209.0,MUKD
+113,Long term debt,12  Mar-16*,16390.0,MUKD
+114,Total assets,12  Mar-16*,42639.0,MUKD
+115,Interest coverage,12  Mar-16*,1.1,MUKD
+116,Debt to equity ratio,12  Mar-16*,5.1,MUKD
+117,Sales to assets ratio,12  Mar-16*,0.7,MUKD
+118,Return on assets,12  Mar-16*,6.6,MUKD
+119,Return on equity,12  Mar-16*,-2.3,MUKD
+120,Return on capital,12  Mar-16*,14.7,MUKD
+121,Exports to sales,12  Mar-16*,3.6,MUKD
+122,Imports to sales,12  Mar-16*,22.1,MUKD
+123,Exports (fob),12  Mar-16*,1049.0,MUKD
+124,Imports (cif),12  Mar-16*,6514.0,MUKD
+125,Fx inflow,12  Mar-16*,1069.0,MUKD
+126,Fx outflow,12  Mar-16*,6551.0,MUKD
+127,Net fx,12  Mar-16*,-5482.0,MUKD
+128,From Operations,12  Mar-16*,1348.0,MUKD
+129,From Investments,12  Mar-16*,-350.0,MUKD
+130,From Financial Activity,12  Mar-16*,-943.0,MUKD
+131,Net Cashflow,12  Mar-16*,55.0,MUKD
+132,Net Sales,12  Mar-17*,27128.0,MUKD
+133,Other income,12  Mar-17*,315.0,MUKD
+134,Total revenues,12  Mar-17*,27443.0,MUKD
+135,Gross profit,12  Mar-17*,3614.0,MUKD
+136,Depreciation,12  Mar-17*,715.0,MUKD
+137,Interest,12  Mar-17*,2936.0,MUKD
+138,Profit before tax,12  Mar-17*,278.0,MUKD
+139,Minority Interest,12  Mar-17*,140.0,MUKD
+140,Prior Period Items,12  Mar-17*,0.0,MUKD
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MUKD
+142,Tax,12  Mar-17*,532.0,MUKD
+143,Profit after tax,12  Mar-17*,-114.0,MUKD
+144,Gross profit margin,12  Mar-17*,13.3,MUKD
+145,Effective tax rate,12  Mar-17*,191.2,MUKD
+146,Net profit margin,12  Mar-17*,-0.4,MUKD
+147,Current assets,12  Mar-17*,33550.0,MUKD
+148,Current liabilities,12  Mar-17*,24044.0,MUKD
+149,Net working cap to sales,12  Mar-17*,35.0,MUKD
+150,Current ratio,12  Mar-17*,1.4,MUKD
+151,Inventory Days,12  Mar-17*,181.0,MUKD
+152,Debtors Days,12  Mar-17*,137.0,MUKD
+153,Net fixed assets,12  Mar-17*,7681.0,MUKD
+154,Share capital,12  Mar-17*,1414.0,MUKD
+155,"""Free"" reserves",12  Mar-17*,1728.0,MUKD
+156,Net worth,12  Mar-17*,3142.0,MUKD
+157,Long term debt,12  Mar-17*,17093.0,MUKD
+158,Total assets,12  Mar-17*,44761.0,MUKD
+159,Interest coverage,12  Mar-17*,1.1,MUKD
+160,Debt to equity ratio,12  Mar-17*,5.4,MUKD
+161,Sales to assets ratio,12  Mar-17*,0.6,MUKD
+162,Return on assets,12  Mar-17*,6.3,MUKD
+163,Return on equity,12  Mar-17*,-3.6,MUKD
+164,Return on capital,12  Mar-17*,16.6,MUKD
+165,Exports to sales,12  Mar-17*,5.6,MUKD
+166,Imports to sales,12  Mar-17*,28.1,MUKD
+167,Exports (fob),12  Mar-17*,1511.0,MUKD
+168,Imports (cif),12  Mar-17*,7616.0,MUKD
+169,Fx inflow,12  Mar-17*,1551.0,MUKD
+170,Fx outflow,12  Mar-17*,7671.0,MUKD
+171,Net fx,12  Mar-17*,-6120.0,MUKD
+172,From Operations,12  Mar-17*,3188.0,MUKD
+173,From Investments,12  Mar-17*,-362.0,MUKD
+174,From Financial Activity,12  Mar-17*,-2830.0,MUKD
+175,Net Cashflow,12  Mar-17*,-4.0,MUKD
+176,Net Sales,12  Mar-18*,34358.0,MUKD
+177,Other income,12  Mar-18*,450.0,MUKD
+178,Total revenues,12  Mar-18*,34807.0,MUKD
+179,Gross profit,12  Mar-18*,2119.0,MUKD
+180,Depreciation,12  Mar-18*,1583.0,MUKD
+181,Interest,12  Mar-18*,4726.0,MUKD
+182,Profit before tax,12  Mar-18*,-3741.0,MUKD
+183,Minority Interest,12  Mar-18*,108.0,MUKD
+184,Prior Period Items,12  Mar-18*,0.0,MUKD
+185,Extraordinary Inc (Exp),12  Mar-18*,12834.0,MUKD
+186,Tax,12  Mar-18*,991.0,MUKD
+187,Profit after tax,12  Mar-18*,8210.0,MUKD
+188,Gross profit margin,12  Mar-18*,6.2,MUKD
+189,Effective tax rate,12  Mar-18*,-26.5,MUKD
+190,Net profit margin,12  Mar-18*,23.9,MUKD
+191,Current assets,12  Mar-18*,23945.0,MUKD
+192,Current liabilities,12  Mar-18*,24699.0,MUKD
+193,Net working cap to sales,12  Mar-18*,-2.2,MUKD
+194,Current ratio,12  Mar-18*,1.0,MUKD
+195,Inventory Days,12  Mar-18*,117.0,MUKD
+196,Debtors Days,12  Mar-18*,31.0,MUKD
+197,Net fixed assets,12  Mar-18*,18530.0,MUKD
+198,Share capital,12  Mar-18*,1414.0,MUKD
+199,"""Free"" reserves",12  Mar-18*,9383.0,MUKD
+200,Net worth,12  Mar-18*,10798.0,MUKD
+201,Long term debt,12  Mar-18*,7791.0,MUKD
+202,Total assets,12  Mar-18*,44058.0,MUKD
+203,Interest coverage,12  Mar-18*,0.2,MUKD
+204,Debt to equity ratio,12  Mar-18*,0.7,MUKD
+205,Sales to assets ratio,12  Mar-18*,0.8,MUKD
+206,Return on assets,12  Mar-18*,29.4,MUKD
+207,Return on equity,12  Mar-18*,76.0,MUKD
+208,Return on capital,12  Mar-18*,74.9,MUKD
+209,Exports to sales,12  Mar-18*,6.4,MUKD
+210,Imports to sales,12  Mar-18*,32.9,MUKD
+211,Exports (fob),12  Mar-18*,2194.0,MUKD
+212,Imports (cif),12  Mar-18*,11293.0,MUKD
+213,Fx inflow,12  Mar-18*,2225.0,MUKD
+214,Fx outflow,12  Mar-18*,11373.0,MUKD
+215,Net fx,12  Mar-18*,-9148.0,MUKD
+216,From Operations,12  Mar-18*,9073.0,MUKD
+217,From Investments,12  Mar-18*,876.0,MUKD
+218,From Financial Activity,12  Mar-18*,-10000.0,MUKD
+219,Net Cashflow,12  Mar-18*,-51.0,MUKD

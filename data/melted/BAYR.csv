@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,37233.0,BAYR
+1,Other income,12  Mar-15,879.0,BAYR
+2,Total revenues,12  Mar-15,38112.0,BAYR
+3,Gross profit,12  Mar-15,5155.0,BAYR
+4,Depreciation,12  Mar-15,253.0,BAYR
+5,Interest,12  Mar-15,46.0,BAYR
+6,Profit before tax,12  Mar-15,5735.0,BAYR
+7,Minority Interest,12  Mar-15,0.0,BAYR
+8,Prior Period Items,12  Mar-15,0.0,BAYR
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,BAYR
+10,Tax,12  Mar-15,1905.0,BAYR
+11,Profit after tax,12  Mar-15,3830.0,BAYR
+12,Gross profit margin,12  Mar-15,13.8,BAYR
+13,Effective tax rate,12  Mar-15,33.2,BAYR
+14,Net profit margin,12  Mar-15,10.3,BAYR
+15,Current assets,12  Mar-15,23445.0,BAYR
+16,Current liabilities,12  Mar-15,5692.0,BAYR
+17,Net working cap to sales,12  Mar-15,47.7,BAYR
+18,Current ratio,12  Mar-15,4.1,BAYR
+19,Inventory Days,12  Mar-15,57.0,BAYR
+20,Debtors Days,12  Mar-15,47.0,BAYR
+21,Net fixed assets,12  Mar-15,3224.0,BAYR
+22,Share capital,12  Mar-15,366.0,BAYR
+23,"""Free"" reserves",12  Mar-15,20740.0,BAYR
+24,Net worth,12  Mar-15,21106.0,BAYR
+25,Long term debt,12  Mar-15,0.0,BAYR
+26,Total assets,12  Mar-15,27495.0,BAYR
+27,Interest coverage,12  Mar-15,125.7,BAYR
+28,Debt to equity ratio,12  Mar-15,0.0,BAYR
+29,Sales to assets ratio,12  Mar-15,1.4,BAYR
+30,Return on assets,12  Mar-15,14.1,BAYR
+31,Return on equity,12  Mar-15,18.1,BAYR
+32,Return on capital,12  Mar-15,27.4,BAYR
+33,Exports to sales,12  Mar-15,16.9,BAYR
+34,Imports to sales,12  Mar-15,22.1,BAYR
+35,Exports (fob),12  Mar-15,6287.0,BAYR
+36,Imports (cif),12  Mar-15,8222.0,BAYR
+37,Fx inflow,12  Mar-15,6534.0,BAYR
+38,Fx outflow,12  Mar-15,8689.0,BAYR
+39,Net fx,12  Mar-15,-2155.0,BAYR
+40,From Operations,12  Mar-15,2004.0,BAYR
+41,From Investments,12  Mar-15,4852.0,BAYR
+42,From Financial Activity,12  Mar-15,-415.0,BAYR
+43,Net Cashflow,12  Mar-15,6441.0,BAYR
+44,Net Sales,12  Mar-16,27690.0,BAYR
+45,Other income,12  Mar-16,817.0,BAYR
+46,Total revenues,12  Mar-16,28507.0,BAYR
+47,Gross profit,12  Mar-16,4346.0,BAYR
+48,Depreciation,12  Mar-16,247.0,BAYR
+49,Interest,12  Mar-16,100.0,BAYR
+50,Profit before tax,12  Mar-16,4816.0,BAYR
+51,Minority Interest,12  Mar-16,0.0,BAYR
+52,Prior Period Items,12  Mar-16,0.0,BAYR
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,BAYR
+54,Tax,12  Mar-16,1665.0,BAYR
+55,Profit after tax,12  Mar-16,3151.0,BAYR
+56,Gross profit margin,12  Mar-16,15.7,BAYR
+57,Effective tax rate,12  Mar-16,34.6,BAYR
+58,Net profit margin,12  Mar-16,11.4,BAYR
+59,Current assets,12  Mar-16,20219.0,BAYR
+60,Current liabilities,12  Mar-16,5224.0,BAYR
+61,Net working cap to sales,12  Mar-16,54.2,BAYR
+62,Current ratio,12  Mar-16,3.9,BAYR
+63,Inventory Days,12  Mar-16,88.0,BAYR
+64,Debtors Days,12  Mar-16,53.0,BAYR
+65,Net fixed assets,12  Mar-16,3251.0,BAYR
+66,Share capital,12  Mar-16,354.0,BAYR
+67,"""Free"" reserves",12  Mar-16,18040.0,BAYR
+68,Net worth,12  Mar-16,18394.0,BAYR
+69,Long term debt,12  Mar-16,0.0,BAYR
+70,Total assets,12  Mar-16,24368.0,BAYR
+71,Interest coverage,12  Mar-16,49.2,BAYR
+72,Debt to equity ratio,12  Mar-16,0.0,BAYR
+73,Sales to assets ratio,12  Mar-16,1.1,BAYR
+74,Return on assets,12  Mar-16,13.3,BAYR
+75,Return on equity,12  Mar-16,17.1,BAYR
+76,Return on capital,12  Mar-16,26.7,BAYR
+77,Exports to sales,12  Mar-16,19.7,BAYR
+78,Imports to sales,12  Mar-16,37.7,BAYR
+79,Exports (fob),12  Mar-16,5442.0,BAYR
+80,Imports (cif),12  Mar-16,10426.0,BAYR
+81,Fx inflow,12  Mar-16,5648.0,BAYR
+82,Fx outflow,12  Mar-16,10878.0,BAYR
+83,Net fx,12  Mar-16,-5230.0,BAYR
+84,From Operations,12  Mar-16,2065.0,BAYR
+85,From Investments,12  Mar-16,158.0,BAYR
+86,From Financial Activity,12  Mar-16,-5896.0,BAYR
+87,Net Cashflow,12  Mar-16,-3673.0,BAYR
+88,Net Sales,12  Mar-17,28028.0,BAYR
+89,Other income,12  Mar-17,701.0,BAYR
+90,Total revenues,12  Mar-17,28729.0,BAYR
+91,Gross profit,12  Mar-17,4136.0,BAYR
+92,Depreciation,12  Mar-17,289.0,BAYR
+93,Interest,12  Mar-17,69.0,BAYR
+94,Profit before tax,12  Mar-17,4479.0,BAYR
+95,Minority Interest,12  Mar-17,0.0,BAYR
+96,Prior Period Items,12  Mar-17,0.0,BAYR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,BAYR
+98,Tax,12  Mar-17,1569.0,BAYR
+99,Profit after tax,12  Mar-17,2910.0,BAYR
+100,Gross profit margin,12  Mar-17,14.8,BAYR
+101,Effective tax rate,12  Mar-17,35.0,BAYR
+102,Net profit margin,12  Mar-17,10.4,BAYR
+103,Current assets,12  Mar-17,23742.0,BAYR
+104,Current liabilities,12  Mar-17,6831.0,BAYR
+105,Net working cap to sales,12  Mar-17,60.3,BAYR
+106,Current ratio,12  Mar-17,3.5,BAYR
+107,Inventory Days,12  Mar-17,100.0,BAYR
+108,Debtors Days,12  Mar-17,72.0,BAYR
+109,Net fixed assets,12  Mar-17,3661.0,BAYR
+110,Share capital,12  Mar-17,354.0,BAYR
+111,"""Free"" reserves",12  Mar-17,20213.0,BAYR
+112,Net worth,12  Mar-17,20567.0,BAYR
+113,Long term debt,12  Mar-17,0.0,BAYR
+114,Total assets,12  Mar-17,28254.0,BAYR
+115,Interest coverage,12  Mar-17,65.9,BAYR
+116,Debt to equity ratio,12  Mar-17,0.0,BAYR
+117,Sales to assets ratio,12  Mar-17,1.0,BAYR
+118,Return on assets,12  Mar-17,10.5,BAYR
+119,Return on equity,12  Mar-17,14.1,BAYR
+120,Return on capital,12  Mar-17,22.1,BAYR
+121,Exports to sales,12  Mar-17,15.1,BAYR
+122,Imports to sales,12  Mar-17,40.5,BAYR
+123,Exports (fob),12  Mar-17,4241.0,BAYR
+124,Imports (cif),12  Mar-17,11363.0,BAYR
+125,Fx inflow,12  Mar-17,4437.0,BAYR
+126,Fx outflow,12  Mar-17,11847.0,BAYR
+127,Net fx,12  Mar-17,-7410.0,BAYR
+128,From Operations,12  Mar-17,1573.0,BAYR
+129,From Investments,12  Mar-17,-84.0,BAYR
+130,From Financial Activity,12  Mar-17,-733.0,BAYR
+131,Net Cashflow,12  Mar-17,756.0,BAYR
+132,Net Sales,12  Mar-18,27099.0,BAYR
+133,Other income,12  Mar-18,388.0,BAYR
+134,Total revenues,12  Mar-18,27487.0,BAYR
+135,Gross profit,12  Mar-18,4094.0,BAYR
+136,Depreciation,12  Mar-18,331.0,BAYR
+137,Interest,12  Mar-18,113.0,BAYR
+138,Profit before tax,12  Mar-18,4038.0,BAYR
+139,Minority Interest,12  Mar-18,0.0,BAYR
+140,Prior Period Items,12  Mar-18,0.0,BAYR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,BAYR
+142,Tax,12  Mar-18,1037.0,BAYR
+143,Profit after tax,12  Mar-18,3001.0,BAYR
+144,Gross profit margin,12  Mar-18,15.1,BAYR
+145,Effective tax rate,12  Mar-18,25.7,BAYR
+146,Net profit margin,12  Mar-18,11.1,BAYR
+147,Current assets,12  Mar-18,20761.0,BAYR
+148,Current liabilities,12  Mar-18,6619.0,BAYR
+149,Net working cap to sales,12  Mar-18,52.2,BAYR
+150,Current ratio,12  Mar-18,3.1,BAYR
+151,Inventory Days,12  Mar-18,100.0,BAYR
+152,Debtors Days,12  Mar-18,89.0,BAYR
+153,Net fixed assets,12  Mar-18,3705.0,BAYR
+154,Share capital,12  Mar-18,343.0,BAYR
+155,"""Free"" reserves",12  Mar-18,17440.0,BAYR
+156,Net worth,12  Mar-18,17783.0,BAYR
+157,Long term debt,12  Mar-18,0.0,BAYR
+158,Total assets,12  Mar-18,25348.0,BAYR
+159,Interest coverage,12  Mar-18,36.7,BAYR
+160,Debt to equity ratio,12  Mar-18,0.0,BAYR
+161,Sales to assets ratio,12  Mar-18,1.1,BAYR
+162,Return on assets,12  Mar-18,12.3,BAYR
+163,Return on equity,12  Mar-18,16.9,BAYR
+164,Return on capital,12  Mar-18,23.3,BAYR
+165,Exports to sales,12  Mar-18,9.2,BAYR
+166,Imports to sales,12  Mar-18,33.0,BAYR
+167,Exports (fob),12  Mar-18,2496.0,BAYR
+168,Imports (cif),12  Mar-18,8951.0,BAYR
+169,Fx inflow,12  Mar-18,2720.0,BAYR
+170,Fx outflow,12  Mar-18,9385.0,BAYR
+171,Net fx,12  Mar-18,-6665.0,BAYR
+172,From Operations,12  Mar-18,1214.0,BAYR
+173,From Investments,12  Mar-18,383.0,BAYR
+174,From Financial Activity,12  Mar-18,-5811.0,BAYR
+175,Net Cashflow,12  Mar-18,-4214.0,BAYR
+176,Net Sales,12  Mar-19,26857.0,BAYR
+177,Other income,12  Mar-19,372.0,BAYR
+178,Total revenues,12  Mar-19,27229.0,BAYR
+179,Gross profit,12  Mar-19,3732.0,BAYR
+180,Depreciation,12  Mar-19,342.0,BAYR
+181,Interest,12  Mar-19,99.0,BAYR
+182,Profit before tax,12  Mar-19,3663.0,BAYR
+183,Minority Interest,12  Mar-19,0.0,BAYR
+184,Prior Period Items,12  Mar-19,0.0,BAYR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,BAYR
+186,Tax,12  Mar-19,1287.0,BAYR
+187,Profit after tax,12  Mar-19,2376.0,BAYR
+188,Gross profit margin,12  Mar-19,13.9,BAYR
+189,Effective tax rate,12  Mar-19,35.1,BAYR
+190,Net profit margin,12  Mar-19,8.8,BAYR
+191,Current assets,12  Mar-19,20908.0,BAYR
+192,Current liabilities,12  Mar-19,9044.0,BAYR
+193,Net working cap to sales,12  Mar-19,44.2,BAYR
+194,Current ratio,12  Mar-19,2.3,BAYR
+195,Inventory Days,12  Mar-19,119.0,BAYR
+196,Debtors Days,12  Mar-19,81.0,BAYR
+197,Net fixed assets,12  Mar-19,3654.0,BAYR
+198,Share capital,12  Mar-19,343.0,BAYR
+199,"""Free"" reserves",12  Mar-19,18491.0,BAYR
+200,Net worth,12  Mar-19,18834.0,BAYR
+201,Long term debt,12  Mar-19,0.0,BAYR
+202,Total assets,12  Mar-19,29015.0,BAYR
+203,Interest coverage,12  Mar-19,38.0,BAYR
+204,Debt to equity ratio,12  Mar-19,0.0,BAYR
+205,Sales to assets ratio,12  Mar-19,0.9,BAYR
+206,Return on assets,12  Mar-19,8.5,BAYR
+207,Return on equity,12  Mar-19,12.6,BAYR
+208,Return on capital,12  Mar-19,20.0,BAYR
+209,Exports to sales,12  Mar-19,3.1,BAYR
+210,Imports to sales,12  Mar-19,1.7,BAYR
+211,Exports (fob),12  Mar-19,837.0,BAYR
+212,Imports (cif),12  Mar-19,453.0,BAYR
+213,Fx inflow,12  Mar-19,1029.0,BAYR
+214,Fx outflow,12  Mar-19,887.0,BAYR
+215,Net fx,12  Mar-19,142.0,BAYR
+216,From Operations,12  Mar-19,4018.0,BAYR
+217,From Investments,12  Mar-19,-4124.0,BAYR
+218,From Financial Activity,12  Mar-19,-791.0,BAYR
+219,Net Cashflow,12  Mar-19,-897.0,BAYR

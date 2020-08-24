@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,112759.0,TITN
+1,Other income,12  Mar-16*,739.0,TITN
+2,Total revenues,12  Mar-16*,113498.0,TITN
+3,Gross profit,12  Mar-16*,9347.0,TITN
+4,Depreciation,12  Mar-16*,982.0,TITN
+5,Interest,12  Mar-16*,424.0,TITN
+6,Profit before tax,12  Mar-16*,8681.0,TITN
+7,Minority Interest,12  Mar-16*,-20.0,TITN
+8,Prior Period Items,12  Mar-16*,0.0,TITN
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,TITN
+10,Tax,12  Mar-16*,1916.0,TITN
+11,Profit after tax,12  Mar-16*,6745.0,TITN
+12,Gross profit margin,12  Mar-16*,8.3,TITN
+13,Effective tax rate,12  Mar-16*,22.1,TITN
+14,Net profit margin,12  Mar-16*,6.0,TITN
+15,Current assets,12  Mar-16*,51253.0,TITN
+16,Current liabilities,12  Mar-16*,27136.0,TITN
+17,Net working cap to sales,12  Mar-16*,21.4,TITN
+18,Current ratio,12  Mar-16*,1.9,TITN
+19,Inventory Days,12  Mar-16*,144.0,TITN
+20,Debtors Days,12  Mar-16*,6.0,TITN
+21,Net fixed assets,12  Mar-16*,8475.0,TITN
+22,Share capital,12  Mar-16*,888.0,TITN
+23,"""Free"" reserves",12  Mar-16*,34175.0,TITN
+24,Net worth,12  Mar-16*,35063.0,TITN
+25,Long term debt,12  Mar-16*,0.0,TITN
+26,Total assets,12  Mar-16*,63452.0,TITN
+27,Interest coverage,12  Mar-16*,21.5,TITN
+28,Debt to equity ratio,12  Mar-16*,0.0,TITN
+29,Sales to assets ratio,12  Mar-16*,1.8,TITN
+30,Return on assets,12  Mar-16*,11.3,TITN
+31,Return on equity,12  Mar-16*,19.2,TITN
+32,Return on capital,12  Mar-16*,25.9,TITN
+33,Exports to sales,12  Mar-16*,3.0,TITN
+34,Imports to sales,12  Mar-16*,4.7,TITN
+35,Exports (fob),12  Mar-16*,3347.0,TITN
+36,Imports (cif),12  Mar-16*,5265.0,TITN
+37,Fx inflow,12  Mar-16*,3374.0,TITN
+38,Fx outflow,12  Mar-16*,5381.0,TITN
+39,Net fx,12  Mar-16*,-2008.0,TITN
+40,From Operations,12  Mar-16*,5761.0,TITN
+41,From Investments,12  Mar-16*,-1588.0,TITN
+42,From Financial Activity,12  Mar-16*,-5048.0,TITN
+43,Net Cashflow,12  Mar-16*,-884.0,TITN
+44,Net Sales,12  Mar-17*,132608.0,TITN
+45,Other income,12  Mar-17*,705.0,TITN
+46,Total revenues,12  Mar-17*,133313.0,TITN
+47,Gross profit,12  Mar-17*,11537.0,TITN
+48,Depreciation,12  Mar-17*,1105.0,TITN
+49,Interest,12  Mar-17*,377.0,TITN
+50,Profit before tax,12  Mar-17*,10759.0,TITN
+51,Minority Interest,12  Mar-17*,0.0,TITN
+52,Prior Period Items,12  Mar-17*,0.0,TITN
+53,Extraordinary Inc (Exp),12  Mar-17*,-1027.0,TITN
+54,Tax,12  Mar-17*,2760.0,TITN
+55,Profit after tax,12  Mar-17*,6973.0,TITN
+56,Gross profit margin,12  Mar-17*,8.7,TITN
+57,Effective tax rate,12  Mar-17*,25.6,TITN
+58,Net profit margin,12  Mar-17*,5.3,TITN
+59,Current assets,12  Mar-17*,67357.0,TITN
+60,Current liabilities,12  Mar-17*,40278.0,TITN
+61,Net working cap to sales,12  Mar-17*,20.4,TITN
+62,Current ratio,12  Mar-17*,1.7,TITN
+63,Inventory Days,12  Mar-17*,136.0,TITN
+64,Debtors Days,12  Mar-17*,6.0,TITN
+65,Net fixed assets,12  Mar-17*,9964.0,TITN
+66,Share capital,12  Mar-17*,888.0,TITN
+67,"""Free"" reserves",12  Mar-17*,41436.0,TITN
+68,Net worth,12  Mar-17*,42324.0,TITN
+69,Long term debt,12  Mar-17*,0.0,TITN
+70,Total assets,12  Mar-17*,84079.0,TITN
+71,Interest coverage,12  Mar-17*,29.5,TITN
+72,Debt to equity ratio,12  Mar-17*,0.0,TITN
+73,Sales to assets ratio,12  Mar-17*,1.6,TITN
+74,Return on assets,12  Mar-17*,8.7,TITN
+75,Return on equity,12  Mar-17*,16.5,TITN
+76,Return on capital,12  Mar-17*,23.9,TITN
+77,Exports to sales,12  Mar-17*,0.0,TITN
+78,Imports to sales,12  Mar-17*,0.0,TITN
+79,Exports (fob),12  Mar-17*,0.0,TITN
+80,Imports (cif),12  Mar-17*,0.0,TITN
+81,Fx inflow,12  Mar-17*,2800.0,TITN
+82,Fx outflow,12  Mar-17*,5760.0,TITN
+83,Net fx,12  Mar-17*,-2960.0,TITN
+84,From Operations,12  Mar-17*,17123.0,TITN
+85,From Investments,12  Mar-17*,-9844.0,TITN
+86,From Financial Activity,12  Mar-17*,-1656.0,TITN
+87,Net Cashflow,12  Mar-17*,5948.0,TITN
+88,Net Sales,12  Mar-18*,161198.0,TITN
+89,Other income,12  Mar-18*,889.0,TITN
+90,Total revenues,12  Mar-18*,162086.0,TITN
+91,Gross profit,12  Mar-18*,16253.0,TITN
+92,Depreciation,12  Mar-18*,1314.0,TITN
+93,Interest,12  Mar-18*,529.0,TITN
+94,Profit before tax,12  Mar-18*,15298.0,TITN
+95,Minority Interest,12  Mar-18*,0.0,TITN
+96,Prior Period Items,12  Mar-18*,0.0,TITN
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,TITN
+98,Tax,12  Mar-18*,4279.0,TITN
+99,Profit after tax,12  Mar-18*,11019.0,TITN
+100,Gross profit margin,12  Mar-18*,10.1,TITN
+101,Effective tax rate,12  Mar-18*,28.0,TITN
+102,Net profit margin,12  Mar-18*,6.8,TITN
+103,Current assets,12  Mar-18*,76010.0,TITN
+104,Current liabilities,12  Mar-18*,43154.0,TITN
+105,Net working cap to sales,12  Mar-18*,20.4,TITN
+106,Current ratio,12  Mar-18*,1.8,TITN
+107,Inventory Days,12  Mar-18*,134.0,TITN
+108,Debtors Days,12  Mar-18*,7.0,TITN
+109,Net fixed assets,12  Mar-18*,15172.0,TITN
+110,Share capital,12  Mar-18*,888.0,TITN
+111,"""Free"" reserves",12  Mar-18*,50011.0,TITN
+112,Net worth,12  Mar-18*,50899.0,TITN
+113,Long term debt,12  Mar-18*,0.0,TITN
+114,Total assets,12  Mar-18*,95242.0,TITN
+115,Interest coverage,12  Mar-18*,29.9,TITN
+116,Debt to equity ratio,12  Mar-18*,0.0,TITN
+117,Sales to assets ratio,12  Mar-18*,1.7,TITN
+118,Return on assets,12  Mar-18*,12.1,TITN
+119,Return on equity,12  Mar-18*,21.6,TITN
+120,Return on capital,12  Mar-18*,31.1,TITN
+121,Exports to sales,12  Mar-18*,0.0,TITN
+122,Imports to sales,12  Mar-18*,0.0,TITN
+123,Exports (fob),12  Mar-18*,0.0,TITN
+124,Imports (cif),12  Mar-18*,0.0,TITN
+125,Fx inflow,12  Mar-18*,1939.0,TITN
+126,Fx outflow,12  Mar-18*,6201.0,TITN
+127,Net fx,12  Mar-18*,-4263.0,TITN
+128,From Operations,12  Mar-18*,-511.0,TITN
+129,From Investments,12  Mar-18*,964.0,TITN
+130,From Financial Activity,12  Mar-18*,-2525.0,TITN
+131,Net Cashflow,12  Mar-18*,-2060.0,TITN
+132,Net Sales,12  Mar-19*,197785.0,TITN
+133,Other income,12  Mar-19*,1829.0,TITN
+134,Total revenues,12  Mar-19*,199615.0,TITN
+135,Gross profit,12  Mar-19*,19893.0,TITN
+136,Depreciation,12  Mar-19*,1628.0,TITN
+137,Interest,12  Mar-19*,525.0,TITN
+138,Profit before tax,12  Mar-19*,19569.0,TITN
+139,Minority Interest,12  Mar-19*,0.0,TITN
+140,Prior Period Items,12  Mar-19*,0.0,TITN
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,TITN
+142,Tax,12  Mar-19*,5682.0,TITN
+143,Profit after tax,12  Mar-19*,13887.0,TITN
+144,Gross profit margin,12  Mar-19*,10.1,TITN
+145,Effective tax rate,12  Mar-19*,29.0,TITN
+146,Net profit margin,12  Mar-19*,7.0,TITN
+147,Current assets,12  Mar-19*,95873.0,TITN
+148,Current liabilities,12  Mar-19*,54619.0,TITN
+149,Net working cap to sales,12  Mar-19*,20.9,TITN
+150,Current ratio,12  Mar-19*,1.8,TITN
+151,Inventory Days,12  Mar-19*,130.0,TITN
+152,Debtors Days,12  Mar-19*,8.0,TITN
+153,Net fixed assets,12  Mar-19*,15984.0,TITN
+154,Share capital,12  Mar-19*,888.0,TITN
+155,"""Free"" reserves",12  Mar-19*,59814.0,TITN
+156,Net worth,12  Mar-19*,60701.0,TITN
+157,Long term debt,12  Mar-19*,317.0,TITN
+158,Total assets,12  Mar-19*,117153.0,TITN
+159,Interest coverage,12  Mar-19*,38.2,TITN
+160,Debt to equity ratio,12  Mar-19*,0.0,TITN
+161,Sales to assets ratio,12  Mar-19*,1.7,TITN
+162,Return on assets,12  Mar-19*,12.3,TITN
+163,Return on equity,12  Mar-19*,22.9,TITN
+164,Return on capital,12  Mar-19*,32.9,TITN
+165,Exports to sales,12  Mar-19*,0.0,TITN
+166,Imports to sales,12  Mar-19*,0.0,TITN
+167,Exports (fob),12  Mar-19*,0.0,TITN
+168,Imports (cif),12  Mar-19*,0.0,TITN
+169,Fx inflow,12  Mar-19*,1933.0,TITN
+170,Fx outflow,12  Mar-19*,7590.0,TITN
+171,Net fx,12  Mar-19*,-5657.0,TITN
+172,From Operations,12  Mar-19*,12429.0,TITN
+173,From Investments,12  Mar-19*,-7983.0,TITN
+174,From Financial Activity,12  Mar-19*,-4888.0,TITN
+175,Net Cashflow,12  Mar-19*,-425.0,TITN
+176,Net Sales,12  Mar-20*,210515.0,TITN
+177,Other income,12  Mar-20*,1532.0,TITN
+178,Total revenues,12  Mar-20*,212048.0,TITN
+179,Gross profit,12  Mar-20*,24626.0,TITN
+180,Depreciation,12  Mar-20*,3480.0,TITN
+181,Interest,12  Mar-20*,1662.0,TITN
+182,Profit before tax,12  Mar-20*,21017.0,TITN
+183,Minority Interest,12  Mar-20*,0.0,TITN
+184,Prior Period Items,12  Mar-20*,0.0,TITN
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,TITN
+186,Tax,12  Mar-20*,6090.0,TITN
+187,Profit after tax,12  Mar-20*,14927.0,TITN
+188,Gross profit margin,12  Mar-20*,11.7,TITN
+189,Effective tax rate,12  Mar-20*,29.0,TITN
+190,Net profit margin,12  Mar-20*,7.1,TITN
+191,Current assets,12  Mar-20*,101203.0,TITN
+192,Current liabilities,12  Mar-20*,56266.0,TITN
+193,Net working cap to sales,12  Mar-20*,21.3,TITN
+194,Current ratio,12  Mar-20*,1.8,TITN
+195,Inventory Days,12  Mar-20*,140.0,TITN
+196,Debtors Days,12  Mar-20*,5.0,TITN
+197,Net fixed assets,12  Mar-20*,26517.0,TITN
+198,Share capital,12  Mar-20*,888.0,TITN
+199,"""Free"" reserves",12  Mar-20*,65800.0,TITN
+200,Net worth,12  Mar-20*,66687.0,TITN
+201,Long term debt,12  Mar-20*,170.0,TITN
+202,Total assets,12  Mar-20*,135498.0,TITN
+203,Interest coverage,12  Mar-20*,13.6,TITN
+204,Debt to equity ratio,12  Mar-20*,0.0,TITN
+205,Sales to assets ratio,12  Mar-20*,1.6,TITN
+206,Return on assets,12  Mar-20*,12.2,TITN
+207,Return on equity,12  Mar-20*,22.4,TITN
+208,Return on capital,12  Mar-20*,33.9,TITN
+209,Exports to sales,12  Mar-20*,0.0,TITN
+210,Imports to sales,12  Mar-20*,0.0,TITN
+211,Exports (fob),12  Mar-20*,0.0,TITN
+212,Imports (cif),12  Mar-20*,0.0,TITN
+213,Fx inflow,12  Mar-20*,1567.0,TITN
+214,Fx outflow,12  Mar-20*,7480.0,TITN
+215,Net fx,12  Mar-20*,-5913.0,TITN
+216,From Operations,12  Mar-20*,-3474.0,TITN
+217,From Investments,12  Mar-20*,2350.0,TITN
+218,From Financial Activity,12  Mar-20*,-2417.0,TITN
+219,Net Cashflow,12  Mar-20*,-3540.0,TITN

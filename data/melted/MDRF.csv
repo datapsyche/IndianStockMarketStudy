@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,493426.0,MDRF
+1,Other income,12  Mar-14,274.0,MDRF
+2,Total revenues,12  Mar-14,493700.0,MDRF
+3,Gross profit,12  Mar-14,5858.0,MDRF
+4,Depreciation,12  Mar-14,3896.0,MDRF
+5,Interest,12  Mar-14,5680.0,MDRF
+6,Profit before tax,12  Mar-14,-3444.0,MDRF
+7,Minority Interest,12  Mar-14,0.0,MDRF
+8,Prior Period Items,12  Mar-14,135.0,MDRF
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,MDRF
+10,Tax,12  Mar-14,-271.0,MDRF
+11,Profit after tax,12  Mar-14,-3039.0,MDRF
+12,Gross profit margin,12  Mar-14,1.2,MDRF
+13,Effective tax rate,12  Mar-14,7.9,MDRF
+14,Net profit margin,12  Mar-14,-0.6,MDRF
+15,Current assets,12  Mar-14,91881.0,MDRF
+16,Current liabilities,12  Mar-14,94753.0,MDRF
+17,Net working cap to sales,12  Mar-14,-0.6,MDRF
+18,Current ratio,12  Mar-14,1.0,MDRF
+19,Inventory Days,12  Mar-14,50.0,MDRF
+20,Debtors Days,12  Mar-14,16.0,MDRF
+21,Net fixed assets,12  Mar-14,46360.0,MDRF
+22,Share capital,12  Mar-14,1490.0,MDRF
+23,"""Free"" reserves",12  Mar-14,15734.0,MDRF
+24,Net worth,12  Mar-14,17225.0,MDRF
+25,Long term debt,12  Mar-14,20000.0,MDRF
+26,Total assets,12  Mar-14,139423.0,MDRF
+27,Interest coverage,12  Mar-14,0.4,MDRF
+28,Debt to equity ratio,12  Mar-14,1.2,MDRF
+29,Sales to assets ratio,12  Mar-14,3.5,MDRF
+30,Return on assets,12  Mar-14,1.9,MDRF
+31,Return on equity,12  Mar-14,-17.6,MDRF
+32,Return on capital,12  Mar-14,6.4,MDRF
+33,Exports to sales,12  Mar-14,0.0,MDRF
+34,Imports to sales,12  Mar-14,85.2,MDRF
+35,Exports (fob),12  Mar-14,0.0,MDRF
+36,Imports (cif),12  Mar-14,420494.0,MDRF
+37,Fx inflow,12  Mar-14,0.0,MDRF
+38,Fx outflow,12  Mar-14,422289.0,MDRF
+39,Net fx,12  Mar-14,-422289.0,MDRF
+40,From Operations,12  Mar-14,11406.0,MDRF
+41,From Investments,12  Mar-14,-2793.0,MDRF
+42,From Financial Activity,12  Mar-14,-8562.0,MDRF
+43,Net Cashflow,12  Mar-14,51.0,MDRF
+44,Net Sales,12  Mar-15*,421281.0,MDRF
+45,Other income,12  Mar-15*,310.0,MDRF
+46,Total revenues,12  Mar-15*,421591.0,MDRF
+47,Gross profit,12  Mar-15*,-1202.0,MDRF
+48,Depreciation,12  Mar-15*,2295.0,MDRF
+49,Interest,12  Mar-15*,4043.0,MDRF
+50,Profit before tax,12  Mar-15*,-7230.0,MDRF
+51,Minority Interest,12  Mar-15*,0.0,MDRF
+52,Prior Period Items,12  Mar-15*,-45.0,MDRF
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,MDRF
+54,Tax,12  Mar-15*,-6942.0,MDRF
+55,Profit after tax,12  Mar-15*,-333.0,MDRF
+56,Gross profit margin,12  Mar-15*,-0.3,MDRF
+57,Effective tax rate,12  Mar-15*,96.0,MDRF
+58,Net profit margin,12  Mar-15*,-0.1,MDRF
+59,Current assets,12  Mar-15*,60417.0,MDRF
+60,Current liabilities,12  Mar-15*,82677.0,MDRF
+61,Net working cap to sales,12  Mar-15*,-5.3,MDRF
+62,Current ratio,12  Mar-15*,0.7,MDRF
+63,Inventory Days,12  Mar-15*,33.0,MDRF
+64,Debtors Days,12  Mar-15*,16.0,MDRF
+65,Net fixed assets,12  Mar-15*,48863.0,MDRF
+66,Share capital,12  Mar-15*,1490.0,MDRF
+67,"""Free"" reserves",12  Mar-15*,15939.0,MDRF
+68,Net worth,12  Mar-15*,17429.0,MDRF
+69,Long term debt,12  Mar-15*,10000.0,MDRF
+70,Total assets,12  Mar-15*,110714.0,MDRF
+71,Interest coverage,12  Mar-15*,-0.8,MDRF
+72,Debt to equity ratio,12  Mar-15*,0.6,MDRF
+73,Sales to assets ratio,12  Mar-15*,3.8,MDRF
+74,Return on assets,12  Mar-15*,3.4,MDRF
+75,Return on equity,12  Mar-15*,-1.9,MDRF
+76,Return on capital,12  Mar-15*,-11.8,MDRF
+77,Exports to sales,12  Mar-15*,0.0,MDRF
+78,Imports to sales,12  Mar-15*,95.2,MDRF
+79,Exports (fob),12  Mar-15*,0.0,MDRF
+80,Imports (cif),12  Mar-15*,401021.0,MDRF
+81,Fx inflow,12  Mar-15*,0.0,MDRF
+82,Fx outflow,12  Mar-15*,401825.0,MDRF
+83,Net fx,12  Mar-15*,-401825.0,MDRF
+84,From Operations,12  Mar-15*,10831.0,MDRF
+85,From Investments,12  Mar-15*,-4796.0,MDRF
+86,From Financial Activity,12  Mar-15*,-6092.0,MDRF
+87,Net Cashflow,12  Mar-15*,-57.0,MDRF
+88,Net Sales,12  Mar-16*,258456.0,MDRF
+89,Other income,12  Mar-16*,305.0,MDRF
+90,Total revenues,12  Mar-16*,258761.0,MDRF
+91,Gross profit,12  Mar-16*,13476.0,MDRF
+92,Depreciation,12  Mar-16*,2737.0,MDRF
+93,Interest,12  Mar-16*,3517.0,MDRF
+94,Profit before tax,12  Mar-16*,7527.0,MDRF
+95,Minority Interest,12  Mar-16*,0.0,MDRF
+96,Prior Period Items,12  Mar-16*,0.0,MDRF
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,MDRF
+98,Tax,12  Mar-16*,168.0,MDRF
+99,Profit after tax,12  Mar-16*,7359.0,MDRF
+100,Gross profit margin,12  Mar-16*,5.2,MDRF
+101,Effective tax rate,12  Mar-16*,2.2,MDRF
+102,Net profit margin,12  Mar-16*,2.8,MDRF
+103,Current assets,12  Mar-16*,43464.0,MDRF
+104,Current liabilities,12  Mar-16*,58851.0,MDRF
+105,Net working cap to sales,12  Mar-16*,-6.0,MDRF
+106,Current ratio,12  Mar-16*,0.7,MDRF
+107,Inventory Days,12  Mar-16*,45.0,MDRF
+108,Debtors Days,12  Mar-16*,11.0,MDRF
+109,Net fixed assets,12  Mar-16*,57985.0,MDRF
+110,Share capital,12  Mar-16*,1490.0,MDRF
+111,"""Free"" reserves",12  Mar-16*,23199.0,MDRF
+112,Net worth,12  Mar-16*,34029.0,MDRF
+113,Long term debt,12  Mar-16*,20033.0,MDRF
+114,Total assets,12  Mar-16*,104391.0,MDRF
+115,Interest coverage,12  Mar-16*,3.1,MDRF
+116,Debt to equity ratio,12  Mar-16*,0.6,MDRF
+117,Sales to assets ratio,12  Mar-16*,2.5,MDRF
+118,Return on assets,12  Mar-16*,10.4,MDRF
+119,Return on equity,12  Mar-16*,21.6,MDRF
+120,Return on capital,12  Mar-16*,20.4,MDRF
+121,Exports to sales,12  Mar-16*,0.0,MDRF
+122,Imports to sales,12  Mar-16*,67.2,MDRF
+123,Exports (fob),12  Mar-16*,0.0,MDRF
+124,Imports (cif),12  Mar-16*,173701.0,MDRF
+125,Fx inflow,12  Mar-16*,0.0,MDRF
+126,Fx outflow,12  Mar-16*,174467.0,MDRF
+127,Net fx,12  Mar-16*,-174467.0,MDRF
+128,From Operations,12  Mar-16*,22924.0,MDRF
+129,From Investments,12  Mar-16*,-11416.0,MDRF
+130,From Financial Activity,12  Mar-16*,-11518.0,MDRF
+131,Net Cashflow,12  Mar-16*,-11.0,MDRF
+132,Net Sales,12  Mar-17*,276914.0,MDRF
+133,Other income,12  Mar-17*,341.0,MDRF
+134,Total revenues,12  Mar-17*,277255.0,MDRF
+135,Gross profit,12  Mar-17*,19375.0,MDRF
+136,Depreciation,12  Mar-17*,3404.0,MDRF
+137,Interest,12  Mar-17*,2728.0,MDRF
+138,Profit before tax,12  Mar-17*,13585.0,MDRF
+139,Minority Interest,12  Mar-17*,0.0,MDRF
+140,Prior Period Items,12  Mar-17*,0.0,MDRF
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MDRF
+142,Tax,12  Mar-17*,3353.0,MDRF
+143,Profit after tax,12  Mar-17*,10232.0,MDRF
+144,Gross profit margin,12  Mar-17*,7.0,MDRF
+145,Effective tax rate,12  Mar-17*,24.7,MDRF
+146,Net profit margin,12  Mar-17*,3.7,MDRF
+147,Current assets,12  Mar-17*,46588.0,MDRF
+148,Current liabilities,12  Mar-17*,56597.0,MDRF
+149,Net working cap to sales,12  Mar-17*,-3.6,MDRF
+150,Current ratio,12  Mar-17*,0.8,MDRF
+151,Inventory Days,12  Mar-17*,42.0,MDRF
+152,Debtors Days,12  Mar-17*,14.0,MDRF
+153,Net fixed assets,12  Mar-17*,66454.0,MDRF
+154,Share capital,12  Mar-17*,1490.0,MDRF
+155,"""Free"" reserves",12  Mar-17*,32921.0,MDRF
+156,Net worth,12  Mar-17*,34029.0,MDRF
+157,Long term debt,12  Mar-17*,23243.0,MDRF
+158,Total assets,12  Mar-17*,116229.0,MDRF
+159,Interest coverage,12  Mar-17*,6.0,MDRF
+160,Debt to equity ratio,12  Mar-17*,0.7,MDRF
+161,Sales to assets ratio,12  Mar-17*,2.4,MDRF
+162,Return on assets,12  Mar-17*,11.2,MDRF
+163,Return on equity,12  Mar-17*,30.1,MDRF
+164,Return on capital,12  Mar-17*,28.5,MDRF
+165,Exports to sales,12  Mar-17*,0.0,MDRF
+166,Imports to sales,12  Mar-17*,0.0,MDRF
+167,Exports (fob),12  Mar-17*,0.0,MDRF
+168,Imports (cif),12  Mar-17*,0.0,MDRF
+169,Fx inflow,12  Mar-17*,0.0,MDRF
+170,Fx outflow,12  Mar-17*,402.0,MDRF
+171,Net fx,12  Mar-17*,-402.0,MDRF
+172,From Operations,12  Mar-17*,6087.0,MDRF
+173,From Investments,12  Mar-17*,-11693.0,MDRF
+174,From Financial Activity,12  Mar-17*,5607.0,MDRF
+175,Net Cashflow,12  Mar-17*,2.0,MDRF
+176,Net Sales,12  Mar-18*,325280.0,MDRF
+177,Other income,12  Mar-18*,328.0,MDRF
+178,Total revenues,12  Mar-18*,325608.0,MDRF
+179,Gross profit,12  Mar-18*,20774.0,MDRF
+180,Depreciation,12  Mar-18*,3445.0,MDRF
+181,Interest,12  Mar-18*,3209.0,MDRF
+182,Profit before tax,12  Mar-18*,14449.0,MDRF
+183,Minority Interest,12  Mar-18*,0.0,MDRF
+184,Prior Period Items,12  Mar-18*,0.0,MDRF
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MDRF
+186,Tax,12  Mar-18*,5453.0,MDRF
+187,Profit after tax,12  Mar-18*,8996.0,MDRF
+188,Gross profit margin,12  Mar-18*,6.4,MDRF
+189,Effective tax rate,12  Mar-18*,37.7,MDRF
+190,Net profit margin,12  Mar-18*,2.8,MDRF
+191,Current assets,12  Mar-18*,66879.0,MDRF
+192,Current liabilities,12  Mar-18*,90382.0,MDRF
+193,Net working cap to sales,12  Mar-18*,-7.2,MDRF
+194,Current ratio,12  Mar-18*,0.7,MDRF
+195,Inventory Days,12  Mar-18*,53.0,MDRF
+196,Debtors Days,12  Mar-18*,18.0,MDRF
+197,Net fixed assets,12  Mar-18*,73233.0,MDRF
+198,Share capital,12  Mar-18*,1490.0,MDRF
+199,"""Free"" reserves",12  Mar-18*,38480.0,MDRF
+200,Net worth,12  Mar-18*,39970.0,MDRF
+201,Long term debt,12  Mar-18*,8259.0,MDRF
+202,Total assets,12  Mar-18*,143060.0,MDRF
+203,Interest coverage,12  Mar-18*,5.5,MDRF
+204,Debt to equity ratio,12  Mar-18*,0.2,MDRF
+205,Sales to assets ratio,12  Mar-18*,2.3,MDRF
+206,Return on assets,12  Mar-18*,8.5,MDRF
+207,Return on equity,12  Mar-18*,22.5,MDRF
+208,Return on capital,12  Mar-18*,36.6,MDRF
+209,Exports to sales,12  Mar-18*,0.0,MDRF
+210,Imports to sales,12  Mar-18*,0.0,MDRF
+211,Exports (fob),12  Mar-18*,0.0,MDRF
+212,Imports (cif),12  Mar-18*,0.0,MDRF
+213,Fx inflow,12  Mar-18*,0.0,MDRF
+214,Fx outflow,12  Mar-18*,459.0,MDRF
+215,Net fx,12  Mar-18*,-459.0,MDRF
+216,From Operations,12  Mar-18*,27567.0,MDRF
+217,From Investments,12  Mar-18*,-9692.0,MDRF
+218,From Financial Activity,12  Mar-18*,-17877.0,MDRF
+219,Net Cashflow,12  Mar-18*,-2.0,MDRF

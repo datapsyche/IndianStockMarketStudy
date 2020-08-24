@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-13*,20963.0,ARTI
+1,Other income,12  Mar-13*,38.0,ARTI
+2,Total revenues,12  Mar-13*,21000.0,ARTI
+3,Gross profit,12  Mar-13*,3612.0,ARTI
+4,Depreciation,12  Mar-13*,828.0,ARTI
+5,Interest,12  Mar-13*,954.0,ARTI
+6,Profit before tax,12  Mar-13*,1868.0,ARTI
+7,Minority Interest,12  Mar-13*,-10.0,ARTI
+8,Prior Period Items,12  Mar-13*,24.0,ARTI
+9,Extraordinary Inc (Exp),12  Mar-13*,0.0,ARTI
+10,Tax,12  Mar-13*,538.0,ARTI
+11,Profit after tax,12  Mar-13*,1344.0,ARTI
+12,Gross profit margin,12  Mar-13*,17.2,ARTI
+13,Effective tax rate,12  Mar-13*,28.8,ARTI
+14,Net profit margin,12  Mar-13*,6.4,ARTI
+15,Current assets,12  Mar-13*,10196.0,ARTI
+16,Current liabilities,12  Mar-13*,10066.0,ARTI
+17,Net working cap to sales,12  Mar-13*,0.6,ARTI
+18,Current ratio,12  Mar-13*,1.0,ARTI
+19,Inventory Days,12  Mar-13*,80.0,ARTI
+20,Debtors Days,12  Mar-13*,75.0,ARTI
+21,Net fixed assets,12  Mar-13*,7423.0,ARTI
+22,Share capital,12  Mar-13*,396.0,ARTI
+23,"""Free"" reserves",12  Mar-13*,6380.0,ARTI
+24,Net worth,12  Mar-13*,7605.0,ARTI
+25,Long term debt,12  Mar-13*,1173.0,ARTI
+26,Total assets,12  Mar-13*,21760.0,ARTI
+27,Interest coverage,12  Mar-13*,3.0,ARTI
+28,Debt to equity ratio,12  Mar-13*,0.2,ARTI
+29,Sales to assets ratio,12  Mar-13*,1.0,ARTI
+30,Return on assets,12  Mar-13*,10.6,ARTI
+31,Return on equity,12  Mar-13*,17.7,ARTI
+32,Return on capital,12  Mar-13*,32.3,ARTI
+33,Exports to sales,12  Mar-13*,47.3,ARTI
+34,Imports to sales,12  Mar-13*,14.0,ARTI
+35,Exports (fob),12  Mar-13*,9924.0,ARTI
+36,Imports (cif),12  Mar-13*,2935.0,ARTI
+37,Fx inflow,12  Mar-13*,9924.0,ARTI
+38,Fx outflow,12  Mar-13*,3429.0,ARTI
+39,Net fx,12  Mar-13*,6495.0,ARTI
+40,From Operations,12  Mar-13*,2298.0,ARTI
+41,From Investments,12  Mar-13*,-2294.0,ARTI
+42,From Financial Activity,12  Mar-13*,9.0,ARTI
+43,Net Cashflow,12  Mar-13*,12.0,ARTI
+44,Net Sales,12  Mar-14*,26325.0,ARTI
+45,Other income,12  Mar-14*,110.0,ARTI
+46,Total revenues,12  Mar-14*,26435.0,ARTI
+47,Gross profit,12  Mar-14*,4015.0,ARTI
+48,Depreciation,12  Mar-14*,885.0,ARTI
+49,Interest,12  Mar-14*,1178.0,ARTI
+50,Profit before tax,12  Mar-14*,2061.0,ARTI
+51,Minority Interest,12  Mar-14*,-5.0,ARTI
+52,Prior Period Items,12  Mar-14*,109.0,ARTI
+53,Extraordinary Inc (Exp),12  Mar-14*,0.0,ARTI
+54,Tax,12  Mar-14*,540.0,ARTI
+55,Profit after tax,12  Mar-14*,1624.0,ARTI
+56,Gross profit margin,12  Mar-14*,15.3,ARTI
+57,Effective tax rate,12  Mar-14*,26.2,ARTI
+58,Net profit margin,12  Mar-14*,6.2,ARTI
+59,Current assets,12  Mar-14*,12248.0,ARTI
+60,Current liabilities,12  Mar-14*,11873.0,ARTI
+61,Net working cap to sales,12  Mar-14*,1.4,ARTI
+62,Current ratio,12  Mar-14*,1.0,ARTI
+63,Inventory Days,12  Mar-14*,84.0,ARTI
+64,Debtors Days,12  Mar-14*,61.0,ARTI
+65,Net fixed assets,12  Mar-14*,9437.0,ARTI
+66,Share capital,12  Mar-14*,443.0,ARTI
+67,"""Free"" reserves",12  Mar-14*,7520.0,ARTI
+68,Net worth,12  Mar-14*,8708.0,ARTI
+69,Long term debt,12  Mar-14*,2553.0,ARTI
+70,Total assets,12  Mar-14*,26701.0,ARTI
+71,Interest coverage,12  Mar-14*,2.7,ARTI
+72,Debt to equity ratio,12  Mar-14*,0.3,ARTI
+73,Sales to assets ratio,12  Mar-14*,1.0,ARTI
+74,Return on assets,12  Mar-14*,10.5,ARTI
+75,Return on equity,12  Mar-14*,18.7,ARTI
+76,Return on capital,12  Mar-14*,29.7,ARTI
+77,Exports to sales,12  Mar-14*,46.1,ARTI
+78,Imports to sales,12  Mar-14*,15.5,ARTI
+79,Exports (fob),12  Mar-14*,12144.0,ARTI
+80,Imports (cif),12  Mar-14*,4084.0,ARTI
+81,Fx inflow,12  Mar-14*,12144.0,ARTI
+82,Fx outflow,12  Mar-14*,4415.0,ARTI
+83,Net fx,12  Mar-14*,7729.0,ARTI
+84,From Operations,12  Mar-14*,3150.0,ARTI
+85,From Investments,12  Mar-14*,-2908.0,ARTI
+86,From Financial Activity,12  Mar-14*,-217.0,ARTI
+87,Net Cashflow,12  Mar-14*,24.0,ARTI
+88,Net Sales,12  Mar-15*,29080.0,ARTI
+89,Other income,12  Mar-15*,55.0,ARTI
+90,Total revenues,12  Mar-15*,29135.0,ARTI
+91,Gross profit,12  Mar-15*,4657.0,ARTI
+92,Depreciation,12  Mar-15*,820.0,ARTI
+93,Interest,12  Mar-15*,1380.0,ARTI
+94,Profit before tax,12  Mar-15*,2513.0,ARTI
+95,Minority Interest,12  Mar-15*,-17.0,ARTI
+96,Prior Period Items,12  Mar-15*,139.0,ARTI
+97,Extraordinary Inc (Exp),12  Mar-15*,35.0,ARTI
+98,Tax,12  Mar-15*,610.0,ARTI
+99,Profit after tax,12  Mar-15*,2059.0,ARTI
+100,Gross profit margin,12  Mar-15*,16.0,ARTI
+101,Effective tax rate,12  Mar-15*,24.3,ARTI
+102,Net profit margin,12  Mar-15*,7.1,ARTI
+103,Current assets,12  Mar-15*,12297.0,ARTI
+104,Current liabilities,12  Mar-15*,10684.0,ARTI
+105,Net working cap to sales,12  Mar-15*,5.5,ARTI
+106,Current ratio,12  Mar-15*,1.2,ARTI
+107,Inventory Days,12  Mar-15*,69.0,ARTI
+108,Debtors Days,12  Mar-15*,55.0,ARTI
+109,Net fixed assets,12  Mar-15*,11599.0,ARTI
+110,Share capital,12  Mar-15*,443.0,ARTI
+111,"""Free"" reserves",12  Mar-15*,10253.0,ARTI
+112,Net worth,12  Mar-15*,10696.0,ARTI
+113,Long term debt,12  Mar-15*,4191.0,ARTI
+114,Total assets,12  Mar-15*,26657.0,ARTI
+115,Interest coverage,12  Mar-15*,2.8,ARTI
+116,Debt to equity ratio,12  Mar-15*,0.4,ARTI
+117,Sales to assets ratio,12  Mar-15*,1.1,ARTI
+118,Return on assets,12  Mar-15*,12.9,ARTI
+119,Return on equity,12  Mar-15*,19.2,ARTI
+120,Return on capital,12  Mar-15*,27.2,ARTI
+121,Exports to sales,12  Mar-15*,45.9,ARTI
+122,Imports to sales,12  Mar-15*,13.4,ARTI
+123,Exports (fob),12  Mar-15*,13359.0,ARTI
+124,Imports (cif),12  Mar-15*,3884.0,ARTI
+125,Fx inflow,12  Mar-15*,13359.0,ARTI
+126,Fx outflow,12  Mar-15*,4354.0,ARTI
+127,Net fx,12  Mar-15*,9005.0,ARTI
+128,From Operations,12  Mar-15*,3570.0,ARTI
+129,From Investments,12  Mar-15*,-3227.0,ARTI
+130,From Financial Activity,12  Mar-15*,-203.0,ARTI
+131,Net Cashflow,12  Mar-15*,140.0,ARTI
+132,Net Sales,12  Mar-16*,30066.0,ARTI
+133,Other income,12  Mar-16*,59.0,ARTI
+134,Total revenues,12  Mar-16*,30125.0,ARTI
+135,Gross profit,12  Mar-16*,5723.0,ARTI
+136,Depreciation,12  Mar-16*,985.0,ARTI
+137,Interest,12  Mar-16*,1170.0,ARTI
+138,Profit before tax,12  Mar-16*,3627.0,ARTI
+139,Minority Interest,12  Mar-16*,-112.0,ARTI
+140,Prior Period Items,12  Mar-16*,0.0,ARTI
+141,Extraordinary Inc (Exp),12  Mar-16*,0.0,ARTI
+142,Tax,12  Mar-16*,946.0,ARTI
+143,Profit after tax,12  Mar-16*,2569.0,ARTI
+144,Gross profit margin,12  Mar-16*,19.0,ARTI
+145,Effective tax rate,12  Mar-16*,26.1,ARTI
+146,Net profit margin,12  Mar-16*,8.5,ARTI
+147,Current assets,12  Mar-16*,12340.0,ARTI
+148,Current liabilities,12  Mar-16*,11231.0,ARTI
+149,Net working cap to sales,12  Mar-16*,3.7,ARTI
+150,Current ratio,12  Mar-16*,1.1,ARTI
+151,Inventory Days,12  Mar-16*,60.0,ARTI
+152,Debtors Days,12  Mar-16*,64.0,ARTI
+153,Net fixed assets,12  Mar-16*,15590.0,ARTI
+154,Share capital,12  Mar-16*,417.0,ARTI
+155,"""Free"" reserves",12  Mar-16*,10956.0,ARTI
+156,Net worth,12  Mar-16*,11373.0,ARTI
+157,Long term debt,12  Mar-16*,5268.0,ARTI
+158,Total assets,12  Mar-16*,29665.0,ARTI
+159,Interest coverage,12  Mar-16*,4.1,ARTI
+160,Debt to equity ratio,12  Mar-16*,0.5,ARTI
+161,Sales to assets ratio,12  Mar-16*,1.0,ARTI
+162,Return on assets,12  Mar-16*,12.6,ARTI
+163,Return on equity,12  Mar-16*,22.6,ARTI
+164,Return on capital,12  Mar-16*,28.2,ARTI
+165,Exports to sales,12  Mar-16*,41.7,ARTI
+166,Imports to sales,12  Mar-16*,10.9,ARTI
+167,Exports (fob),12  Mar-16*,12546.0,ARTI
+168,Imports (cif),12  Mar-16*,3291.0,ARTI
+169,Fx inflow,12  Mar-16*,12546.0,ARTI
+170,Fx outflow,12  Mar-16*,3796.0,ARTI
+171,Net fx,12  Mar-16*,8751.0,ARTI
+172,From Operations,12  Mar-16*,5498.0,ARTI
+173,From Investments,12  Mar-16*,-4291.0,ARTI
+174,From Financial Activity,12  Mar-16*,-1278.0,ARTI
+175,Net Cashflow,12  Mar-16*,-22.0,ARTI
+176,Net Sales,12  Mar-17*,31635.0,ARTI
+177,Other income,12  Mar-17*,20.0,ARTI
+178,Total revenues,12  Mar-17*,31654.0,ARTI
+179,Gross profit,12  Mar-17*,6535.0,ARTI
+180,Depreciation,12  Mar-17*,1225.0,ARTI
+181,Interest,12  Mar-17*,1173.0,ARTI
+182,Profit before tax,12  Mar-17*,4156.0,ARTI
+183,Minority Interest,12  Mar-17*,-118.0,ARTI
+184,Prior Period Items,12  Mar-17*,0.0,ARTI
+185,Extraordinary Inc (Exp),12  Mar-17*,0.0,ARTI
+186,Tax,12  Mar-17*,881.0,ARTI
+187,Profit after tax,12  Mar-17*,3158.0,ARTI
+188,Gross profit margin,12  Mar-17*,20.7,ARTI
+189,Effective tax rate,12  Mar-17*,21.2,ARTI
+190,Net profit margin,12  Mar-17*,10.0,ARTI
+191,Current assets,12  Mar-17*,13172.0,ARTI
+192,Current liabilities,12  Mar-17*,13204.0,ARTI
+193,Net working cap to sales,12  Mar-17*,-0.1,ARTI
+194,Current ratio,12  Mar-17*,1.0,ARTI
+195,Inventory Days,12  Mar-17*,66.0,ARTI
+196,Debtors Days,12  Mar-17*,61.0,ARTI
+197,Net fixed assets,12  Mar-17*,19665.0,ARTI
+198,Share capital,12  Mar-17*,411.0,ARTI
+199,"""Free"" reserves",12  Mar-17*,13214.0,ARTI
+200,Net worth,12  Mar-17*,13625.0,ARTI
+201,Long term debt,12  Mar-17*,5964.0,ARTI
+202,Total assets,12  Mar-17*,34991.0,ARTI
+203,Interest coverage,12  Mar-17*,4.5,ARTI
+204,Debt to equity ratio,12  Mar-17*,0.4,ARTI
+205,Sales to assets ratio,12  Mar-17*,0.9,ARTI
+206,Return on assets,12  Mar-17*,12.4,ARTI
+207,Return on equity,12  Mar-17*,23.2,ARTI
+208,Return on capital,12  Mar-17*,26.6,ARTI
+209,Exports to sales,12  Mar-17*,41.5,ARTI
+210,Imports to sales,12  Mar-17*,15.9,ARTI
+211,Exports (fob),12  Mar-17*,13126.0,ARTI
+212,Imports (cif),12  Mar-17*,5026.0,ARTI
+213,Fx inflow,12  Mar-17*,13126.0,ARTI
+214,Fx outflow,12  Mar-17*,5558.0,ARTI
+215,Net fx,12  Mar-17*,7568.0,ARTI
+216,From Operations,12  Mar-17*,4108.0,ARTI
+217,From Investments,12  Mar-17*,-4700.0,ARTI
+218,From Financial Activity,12  Mar-17*,567.0,ARTI
+219,Net Cashflow,12  Mar-17*,-25.0,ARTI

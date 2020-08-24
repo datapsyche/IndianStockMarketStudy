@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,675.0,GAIL
+1,Other income,12  Mar-15*,237.0,GAIL
+2,Total revenues,12  Mar-15*,911.0,GAIL
+3,Gross profit,12  Mar-15*,-66.0,GAIL
+4,Depreciation,12  Mar-15*,40.0,GAIL
+5,Interest,12  Mar-15*,112.0,GAIL
+6,Profit before tax,12  Mar-15*,19.0,GAIL
+7,Minority Interest,12  Mar-15*,0.0,GAIL
+8,Prior Period Items,12  Mar-15*,0.0,GAIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,GAIL
+10,Tax,12  Mar-15*,29.0,GAIL
+11,Profit after tax,12  Mar-15*,-10.0,GAIL
+12,Gross profit margin,12  Mar-15*,-9.8,GAIL
+13,Effective tax rate,12  Mar-15*,151.2,GAIL
+14,Net profit margin,12  Mar-15*,-1.5,GAIL
+15,Current assets,12  Mar-15*,3451.0,GAIL
+16,Current liabilities,12  Mar-15*,1274.0,GAIL
+17,Net working cap to sales,12  Mar-15*,322.7,GAIL
+18,Current ratio,12  Mar-15*,2.7,GAIL
+19,Inventory Days,12  Mar-15*,161.0,GAIL
+20,Debtors Days,12  Mar-15*,50.0,GAIL
+21,Net fixed assets,12  Mar-15*,559.0,GAIL
+22,Share capital,12  Mar-15*,152.0,GAIL
+23,"""Free"" reserves",12  Mar-15*,3363.0,GAIL
+24,Net worth,12  Mar-15*,3529.0,GAIL
+25,Long term debt,12  Mar-15*,53.0,GAIL
+26,Total assets,12  Mar-15*,4899.0,GAIL
+27,Interest coverage,12  Mar-15*,1.2,GAIL
+28,Debt to equity ratio,12  Mar-15*,0.0,GAIL
+29,Sales to assets ratio,12  Mar-15*,0.1,GAIL
+30,Return on assets,12  Mar-15*,2.1,GAIL
+31,Return on equity,12  Mar-15*,-0.3,GAIL
+32,Return on capital,12  Mar-15*,3.7,GAIL
+33,Exports to sales,12  Mar-15*,1.5,GAIL
+34,Imports to sales,12  Mar-15*,1.0,GAIL
+35,Exports (fob),12  Mar-15*,10.0,GAIL
+36,Imports (cif),12  Mar-15*,7.0,GAIL
+37,Fx inflow,12  Mar-15*,10.0,GAIL
+38,Fx outflow,12  Mar-15*,21.0,GAIL
+39,Net fx,12  Mar-15*,-11.0,GAIL
+40,From Operations,12  Mar-15*,-364.0,GAIL
+41,From Investments,12  Mar-15*,346.0,GAIL
+42,From Financial Activity,12  Mar-15*,-87.0,GAIL
+43,Net Cashflow,12  Mar-15*,-105.0,GAIL
+44,Net Sales,12  Mar-16*,520525.0,GAIL
+45,Other income,12  Mar-16*,7519.0,GAIL
+46,Total revenues,12  Mar-16*,528044.0,GAIL
+47,Gross profit,12  Mar-16*,45144.0,GAIL
+48,Depreciation,12  Mar-16*,14956.0,GAIL
+49,Interest,12  Mar-16*,8218.0,GAIL
+50,Profit before tax,12  Mar-16*,29489.0,GAIL
+51,Minority Interest,12  Mar-16*,169.0,GAIL
+52,Prior Period Items,12  Mar-16*,0.0,GAIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,GAIL
+54,Tax,12  Mar-16*,10913.0,GAIL
+55,Profit after tax,12  Mar-16*,18744.0,GAIL
+56,Gross profit margin,12  Mar-16*,8.7,GAIL
+57,Effective tax rate,12  Mar-16*,37.0,GAIL
+58,Net profit margin,12  Mar-16*,3.6,GAIL
+59,Current assets,12  Mar-16*,96124.0,GAIL
+60,Current liabilities,12  Mar-16*,101671.0,GAIL
+61,Net working cap to sales,12  Mar-16*,-1.1,GAIL
+62,Current ratio,12  Mar-16*,0.9,GAIL
+63,Inventory Days,12  Mar-16*,11.0,GAIL
+64,Debtors Days,12  Mar-16*,19.0,GAIL
+65,Net fixed assets,12  Mar-16*,336345.0,GAIL
+66,Share capital,12  Mar-16*,12685.0,GAIL
+67,"""Free"" reserves",12  Mar-16*,351349.0,GAIL
+68,Net worth,12  Mar-16*,364034.0,GAIL
+69,Long term debt,12  Mar-16*,58649.0,GAIL
+70,Total assets,12  Mar-16*,590376.0,GAIL
+71,Interest coverage,12  Mar-16*,4.6,GAIL
+72,Debt to equity ratio,12  Mar-16*,0.2,GAIL
+73,Sales to assets ratio,12  Mar-16*,0.9,GAIL
+74,Return on assets,12  Mar-16*,4.6,GAIL
+75,Return on equity,12  Mar-16*,5.1,GAIL
+76,Return on capital,12  Mar-16*,9.0,GAIL
+77,Exports to sales,12  Mar-16*,0.0,GAIL
+78,Imports to sales,12  Mar-16*,1.5,GAIL
+79,Exports (fob),12  Mar-16*,0.0,GAIL
+80,Imports (cif),12  Mar-16*,7667.0,GAIL
+81,Fx inflow,12  Mar-16*,8665.0,GAIL
+82,Fx outflow,12  Mar-16*,25587.0,GAIL
+83,Net fx,12  Mar-16*,-16922.0,GAIL
+84,From Operations,12  Mar-16*,39604.0,GAIL
+85,From Investments,12  Mar-16*,-9037.0,GAIL
+86,From Financial Activity,12  Mar-16*,-30276.0,GAIL
+87,Net Cashflow,12  Mar-16*,290.0,GAIL
+88,Net Sales,12  Mar-17*,485517.0,GAIL
+89,Other income,12  Mar-17*,10065.0,GAIL
+90,Total revenues,12  Mar-17*,495582.0,GAIL
+91,Gross profit,12  Mar-17*,65910.0,GAIL
+92,Depreciation,12  Mar-17*,15411.0,GAIL
+93,Interest,12  Mar-17*,5089.0,GAIL
+94,Profit before tax,12  Mar-17*,55474.0,GAIL
+95,Minority Interest,12  Mar-17*,-5740.0,GAIL
+96,Prior Period Items,12  Mar-17*,0.0,GAIL
+97,Extraordinary Inc (Exp),12  Mar-17*,2107.0,GAIL
+98,Tax,12  Mar-17*,18094.0,GAIL
+99,Profit after tax,12  Mar-17*,33747.0,GAIL
+100,Gross profit margin,12  Mar-17*,13.6,GAIL
+101,Effective tax rate,12  Mar-17*,32.6,GAIL
+102,Net profit margin,12  Mar-17*,7.0,GAIL
+103,Current assets,12  Mar-17*,93841.0,GAIL
+104,Current liabilities,12  Mar-17*,92991.0,GAIL
+105,Net working cap to sales,12  Mar-17*,0.2,GAIL
+106,Current ratio,12  Mar-17*,1.0,GAIL
+107,Inventory Days,12  Mar-17*,13.0,GAIL
+108,Debtors Days,12  Mar-17*,21.0,GAIL
+109,Net fixed assets,12  Mar-17*,342179.0,GAIL
+110,Share capital,12  Mar-17*,16913.0,GAIL
+111,"""Free"" reserves",12  Mar-17*,376136.0,GAIL
+112,Net worth,12  Mar-17*,393049.0,GAIL
+113,Long term debt,12  Mar-17*,31798.0,GAIL
+114,Total assets,12  Mar-17*,582711.0,GAIL
+115,Interest coverage,12  Mar-17*,11.9,GAIL
+116,Debt to equity ratio,12  Mar-17*,0.1,GAIL
+117,Sales to assets ratio,12  Mar-17*,0.8,GAIL
+118,Return on assets,12  Mar-17*,6.7,GAIL
+119,Return on equity,12  Mar-17*,8.6,GAIL
+120,Return on capital,12  Mar-17*,13.4,GAIL
+121,Exports to sales,12  Mar-17*,0.0,GAIL
+122,Imports to sales,12  Mar-17*,0.0,GAIL
+123,Exports (fob),12  Mar-17*,0.0,GAIL
+124,Imports (cif),12  Mar-17*,0.0,GAIL
+125,Fx inflow,12  Mar-17*,7851.0,GAIL
+126,Fx outflow,12  Mar-17*,87117.0,GAIL
+127,Net fx,12  Mar-17*,-79266.0,GAIL
+128,From Operations,12  Mar-17*,60243.0,GAIL
+129,From Investments,12  Mar-17*,-3829.0,GAIL
+130,From Financial Activity,12  Mar-17*,-52754.0,GAIL
+131,Net Cashflow,12  Mar-17*,4148.0,GAIL
+132,Net Sales,12  Mar-18*,544964.0,GAIL
+133,Other income,12  Mar-18*,8127.0,GAIL
+134,Total revenues,12  Mar-18*,553091.0,GAIL
+135,Gross profit,12  Mar-18*,77790.0,GAIL
+136,Depreciation,12  Mar-18*,15269.0,GAIL
+137,Interest,12  Mar-18*,2949.0,GAIL
+138,Profit before tax,12  Mar-18*,67699.0,GAIL
+139,Minority Interest,12  Mar-18*,1533.0,GAIL
+140,Prior Period Items,12  Mar-18*,0.0,GAIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GAIL
+142,Tax,12  Mar-18*,21229.0,GAIL
+143,Profit after tax,12  Mar-18*,48003.0,GAIL
+144,Gross profit margin,12  Mar-18*,14.3,GAIL
+145,Effective tax rate,12  Mar-18*,31.4,GAIL
+146,Net profit margin,12  Mar-18*,8.8,GAIL
+147,Current assets,12  Mar-18*,108884.0,GAIL
+148,Current liabilities,12  Mar-18*,111863.0,GAIL
+149,Net working cap to sales,12  Mar-18*,-0.5,GAIL
+150,Current ratio,12  Mar-18*,1.0,GAIL
+151,Inventory Days,12  Mar-18*,13.0,GAIL
+152,Debtors Days,12  Mar-18*,23.0,GAIL
+153,Net fixed assets,12  Mar-18*,364187.0,GAIL
+154,Share capital,12  Mar-18*,22551.0,GAIL
+155,"""Free"" reserves",12  Mar-18*,394235.0,GAIL
+156,Net worth,12  Mar-18*,416786.0,GAIL
+157,Long term debt,12  Mar-18*,11186.0,GAIL
+158,Total assets,12  Mar-18*,613341.0,GAIL
+159,Interest coverage,12  Mar-18*,24.0,GAIL
+160,Debt to equity ratio,12  Mar-18*,0.0,GAIL
+161,Sales to assets ratio,12  Mar-18*,0.9,GAIL
+162,Return on assets,12  Mar-18*,8.3,GAIL
+163,Return on equity,12  Mar-18*,11.5,GAIL
+164,Return on capital,12  Mar-18*,16.9,GAIL
+165,Exports to sales,12  Mar-18*,0.0,GAIL
+166,Imports to sales,12  Mar-18*,0.0,GAIL
+167,Exports (fob),12  Mar-18*,0.0,GAIL
+168,Imports (cif),12  Mar-18*,0.0,GAIL
+169,Fx inflow,12  Mar-18*,17979.0,GAIL
+170,Fx outflow,12  Mar-18*,111161.0,GAIL
+171,Net fx,12  Mar-18*,-93181.0,GAIL
+172,From Operations,12  Mar-18*,87687.0,GAIL
+173,From Investments,12  Mar-18*,-26316.0,GAIL
+174,From Financial Activity,12  Mar-18*,-52516.0,GAIL
+175,Net Cashflow,12  Mar-18*,8576.0,GAIL
+176,Net Sales,12  Mar-19*,761899.0,GAIL
+177,Other income,12  Mar-19*,12143.0,GAIL
+178,Total revenues,12  Mar-19*,774042.0,GAIL
+179,Gross profit,12  Mar-19*,96676.0,GAIL
+180,Depreciation,12  Mar-19*,16666.0,GAIL
+181,Interest,12  Mar-19*,1592.0,GAIL
+182,Profit before tax,12  Mar-19*,90560.0,GAIL
+183,Minority Interest,12  Mar-19*,7752.0,GAIL
+184,Prior Period Items,12  Mar-19*,0.0,GAIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GAIL
+186,Tax,12  Mar-19*,32784.0,GAIL
+187,Profit after tax,12  Mar-19*,65528.0,GAIL
+188,Gross profit margin,12  Mar-19*,12.7,GAIL
+189,Effective tax rate,12  Mar-19*,36.2,GAIL
+190,Net profit margin,12  Mar-19*,8.6,GAIL
+191,Current assets,12  Mar-19*,110486.0,GAIL
+192,Current liabilities,12  Mar-19*,106600.0,GAIL
+193,Net working cap to sales,12  Mar-19*,0.5,GAIL
+194,Current ratio,12  Mar-19*,1.0,GAIL
+195,Inventory Days,12  Mar-19*,12.0,GAIL
+196,Debtors Days,12  Mar-19*,21.0,GAIL
+197,Net fixed assets,12  Mar-19*,424378.0,GAIL
+198,Share capital,12  Mar-19*,22551.0,GAIL
+199,"""Free"" reserves",12  Mar-19*,437490.0,GAIL
+200,Net worth,12  Mar-19*,460041.0,GAIL
+201,Long term debt,12  Mar-19*,10278.0,GAIL
+202,Total assets,12  Mar-19*,684074.0,GAIL
+203,Interest coverage,12  Mar-19*,57.9,GAIL
+204,Debt to equity ratio,12  Mar-19*,0.0,GAIL
+205,Sales to assets ratio,12  Mar-19*,1.1,GAIL
+206,Return on assets,12  Mar-19*,9.8,GAIL
+207,Return on equity,12  Mar-19*,14.2,GAIL
+208,Return on capital,12  Mar-19*,21.2,GAIL
+209,Exports to sales,12  Mar-19*,0.0,GAIL
+210,Imports to sales,12  Mar-19*,0.0,GAIL
+211,Exports (fob),12  Mar-19*,0.0,GAIL
+212,Imports (cif),12  Mar-19*,0.0,GAIL
+213,Fx inflow,12  Mar-19*,14805.0,GAIL
+214,Fx outflow,12  Mar-19*,29869.0,GAIL
+215,Net fx,12  Mar-19*,-15064.0,GAIL
+216,From Operations,12  Mar-19*,79842.0,GAIL
+217,From Investments,12  Mar-19*,-57066.0,GAIL
+218,From Financial Activity,12  Mar-19*,-33643.0,GAIL
+219,Net Cashflow,12  Mar-19*,-10806.0,GAIL

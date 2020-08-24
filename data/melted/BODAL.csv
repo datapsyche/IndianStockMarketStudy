@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10453.0,BODAL
+1,Other income,12  Mar-15*,47.0,BODAL
+2,Total revenues,12  Mar-15*,10500.0,BODAL
+3,Gross profit,12  Mar-15*,1841.0,BODAL
+4,Depreciation,12  Mar-15*,223.0,BODAL
+5,Interest,12  Mar-15*,273.0,BODAL
+6,Profit before tax,12  Mar-15*,1392.0,BODAL
+7,Minority Interest,12  Mar-15*,0.0,BODAL
+8,Prior Period Items,12  Mar-15*,0.0,BODAL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BODAL
+10,Tax,12  Mar-15*,474.0,BODAL
+11,Profit after tax,12  Mar-15*,918.0,BODAL
+12,Gross profit margin,12  Mar-15*,17.6,BODAL
+13,Effective tax rate,12  Mar-15*,34.1,BODAL
+14,Net profit margin,12  Mar-15*,8.8,BODAL
+15,Current assets,12  Mar-15*,3228.0,BODAL
+16,Current liabilities,12  Mar-15*,2542.0,BODAL
+17,Net working cap to sales,12  Mar-15*,6.6,BODAL
+18,Current ratio,12  Mar-15*,1.3,BODAL
+19,Inventory Days,12  Mar-15*,27.0,BODAL
+20,Debtors Days,12  Mar-15*,69.0,BODAL
+21,Net fixed assets,12  Mar-15*,1931.0,BODAL
+22,Share capital,12  Mar-15*,468.0,BODAL
+23,"""Free"" reserves",12  Mar-15*,1347.0,BODAL
+24,Net worth,12  Mar-15*,1815.0,BODAL
+25,Long term debt,12  Mar-15*,862.0,BODAL
+26,Total assets,12  Mar-15*,5342.0,BODAL
+27,Interest coverage,12  Mar-15*,6.1,BODAL
+28,Debt to equity ratio,12  Mar-15*,0.5,BODAL
+29,Sales to assets ratio,12  Mar-15*,2.0,BODAL
+30,Return on assets,12  Mar-15*,22.3,BODAL
+31,Return on equity,12  Mar-15*,50.6,BODAL
+32,Return on capital,12  Mar-15*,62.2,BODAL
+33,Exports to sales,12  Mar-15*,38.6,BODAL
+34,Imports to sales,12  Mar-15*,4.7,BODAL
+35,Exports (fob),12  Mar-15*,4039.0,BODAL
+36,Imports (cif),12  Mar-15*,493.0,BODAL
+37,Fx inflow,12  Mar-15*,4039.0,BODAL
+38,Fx outflow,12  Mar-15*,589.0,BODAL
+39,Net fx,12  Mar-15*,3451.0,BODAL
+40,From Operations,12  Mar-15*,1977.0,BODAL
+41,From Investments,12  Mar-15*,-353.0,BODAL
+42,From Financial Activity,12  Mar-15*,-1621.0,BODAL
+43,Net Cashflow,12  Mar-15*,2.0,BODAL
+44,Net Sales,12  Mar-16*,9100.0,BODAL
+45,Other income,12  Mar-16*,120.0,BODAL
+46,Total revenues,12  Mar-16*,9219.0,BODAL
+47,Gross profit,12  Mar-16*,1498.0,BODAL
+48,Depreciation,12  Mar-16*,258.0,BODAL
+49,Interest,12  Mar-16*,122.0,BODAL
+50,Profit before tax,12  Mar-16*,1238.0,BODAL
+51,Minority Interest,12  Mar-16*,0.0,BODAL
+52,Prior Period Items,12  Mar-16*,0.0,BODAL
+53,Extraordinary Inc (Exp),12  Mar-16*,68.0,BODAL
+54,Tax,12  Mar-16*,445.0,BODAL
+55,Profit after tax,12  Mar-16*,860.0,BODAL
+56,Gross profit margin,12  Mar-16*,16.5,BODAL
+57,Effective tax rate,12  Mar-16*,36.0,BODAL
+58,Net profit margin,12  Mar-16*,9.4,BODAL
+59,Current assets,12  Mar-16*,3067.0,BODAL
+60,Current liabilities,12  Mar-16*,2673.0,BODAL
+61,Net working cap to sales,12  Mar-16*,4.3,BODAL
+62,Current ratio,12  Mar-16*,1.1,BODAL
+63,Inventory Days,12  Mar-16*,36.0,BODAL
+64,Debtors Days,12  Mar-16*,51.0,BODAL
+65,Net fixed assets,12  Mar-16*,1922.0,BODAL
+66,Share capital,12  Mar-16*,218.0,BODAL
+67,"""Free"" reserves",12  Mar-16*,2121.0,BODAL
+68,Net worth,12  Mar-16*,2339.0,BODAL
+69,Long term debt,12  Mar-16*,7.0,BODAL
+70,Total assets,12  Mar-16*,5169.0,BODAL
+71,Interest coverage,12  Mar-16*,11.1,BODAL
+72,Debt to equity ratio,12  Mar-16*,0.0,BODAL
+73,Sales to assets ratio,12  Mar-16*,1.8,BODAL
+74,Return on assets,12  Mar-16*,19.0,BODAL
+75,Return on equity,12  Mar-16*,36.8,BODAL
+76,Return on capital,12  Mar-16*,60.8,BODAL
+77,Exports to sales,12  Mar-16*,32.3,BODAL
+78,Imports to sales,12  Mar-16*,4.7,BODAL
+79,Exports (fob),12  Mar-16*,2935.0,BODAL
+80,Imports (cif),12  Mar-16*,427.0,BODAL
+81,Fx inflow,12  Mar-16*,2935.0,BODAL
+82,Fx outflow,12  Mar-16*,487.0,BODAL
+83,Net fx,12  Mar-16*,2448.0,BODAL
+84,From Operations,12  Mar-16*,1312.0,BODAL
+85,From Investments,12  Mar-16*,-226.0,BODAL
+86,From Financial Activity,12  Mar-16*,-1094.0,BODAL
+87,Net Cashflow,12  Mar-16*,-7.0,BODAL
+88,Net Sales,12  Mar-17*,12344.0,BODAL
+89,Other income,12  Mar-17*,105.0,BODAL
+90,Total revenues,12  Mar-17*,12449.0,BODAL
+91,Gross profit,12  Mar-17*,2260.0,BODAL
+92,Depreciation,12  Mar-17*,289.0,BODAL
+93,Interest,12  Mar-17*,87.0,BODAL
+94,Profit before tax,12  Mar-17*,1990.0,BODAL
+95,Minority Interest,12  Mar-17*,0.0,BODAL
+96,Prior Period Items,12  Mar-17*,0.0,BODAL
+97,Extraordinary Inc (Exp),12  Mar-17*,49.0,BODAL
+98,Tax,12  Mar-17*,709.0,BODAL
+99,Profit after tax,12  Mar-17*,1329.0,BODAL
+100,Gross profit margin,12  Mar-17*,18.3,BODAL
+101,Effective tax rate,12  Mar-17*,35.6,BODAL
+102,Net profit margin,12  Mar-17*,10.8,BODAL
+103,Current assets,12  Mar-17*,4052.0,BODAL
+104,Current liabilities,12  Mar-17*,3162.0,BODAL
+105,Net working cap to sales,12  Mar-17*,7.2,BODAL
+106,Current ratio,12  Mar-17*,1.3,BODAL
+107,Inventory Days,12  Mar-17*,39.0,BODAL
+108,Debtors Days,12  Mar-17*,56.0,BODAL
+109,Net fixed assets,12  Mar-17*,2306.0,BODAL
+110,Share capital,12  Mar-17*,218.0,BODAL
+111,"""Free"" reserves",12  Mar-17*,3409.0,BODAL
+112,Net worth,12  Mar-17*,3627.0,BODAL
+113,Long term debt,12  Mar-17*,79.0,BODAL
+114,Total assets,12  Mar-17*,7067.0,BODAL
+115,Interest coverage,12  Mar-17*,23.9,BODAL
+116,Debt to equity ratio,12  Mar-17*,0.0,BODAL
+117,Sales to assets ratio,12  Mar-17*,1.7,BODAL
+118,Return on assets,12  Mar-17*,20.0,BODAL
+119,Return on equity,12  Mar-17*,36.7,BODAL
+120,Return on capital,12  Mar-17*,57.3,BODAL
+121,Exports to sales,12  Mar-17*,27.6,BODAL
+122,Imports to sales,12  Mar-17*,6.1,BODAL
+123,Exports (fob),12  Mar-17*,3410.0,BODAL
+124,Imports (cif),12  Mar-17*,750.0,BODAL
+125,Fx inflow,12  Mar-17*,3410.0,BODAL
+126,Fx outflow,12  Mar-17*,815.0,BODAL
+127,Net fx,12  Mar-17*,2596.0,BODAL
+128,From Operations,12  Mar-17*,1036.0,BODAL
+129,From Investments,12  Mar-17*,-679.0,BODAL
+130,From Financial Activity,12  Mar-17*,-227.0,BODAL
+131,Net Cashflow,12  Mar-17*,137.0,BODAL
+132,Net Sales,12  Mar-18*,11422.0,BODAL
+133,Other income,12  Mar-18*,95.0,BODAL
+134,Total revenues,12  Mar-18*,11517.0,BODAL
+135,Gross profit,12  Mar-18*,1944.0,BODAL
+136,Depreciation,12  Mar-18*,121.0,BODAL
+137,Interest,12  Mar-18*,53.0,BODAL
+138,Profit before tax,12  Mar-18*,1865.0,BODAL
+139,Minority Interest,12  Mar-18*,0.0,BODAL
+140,Prior Period Items,12  Mar-18*,0.0,BODAL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BODAL
+142,Tax,12  Mar-18*,619.0,BODAL
+143,Profit after tax,12  Mar-18*,1246.0,BODAL
+144,Gross profit margin,12  Mar-18*,17.0,BODAL
+145,Effective tax rate,12  Mar-18*,33.2,BODAL
+146,Net profit margin,12  Mar-18*,10.9,BODAL
+147,Current assets,12  Mar-18*,5374.0,BODAL
+148,Current liabilities,12  Mar-18*,3481.0,BODAL
+149,Net working cap to sales,12  Mar-18*,16.6,BODAL
+150,Current ratio,12  Mar-18*,1.5,BODAL
+151,Inventory Days,12  Mar-18*,36.0,BODAL
+152,Debtors Days,12  Mar-18*,91.0,BODAL
+153,Net fixed assets,12  Mar-18*,4553.0,BODAL
+154,Share capital,12  Mar-18*,244.0,BODAL
+155,"""Free"" reserves",12  Mar-18*,6725.0,BODAL
+156,Net worth,12  Mar-18*,6970.0,BODAL
+157,Long term debt,12  Mar-18*,10.0,BODAL
+158,Total assets,12  Mar-18*,10750.0,BODAL
+159,Interest coverage,12  Mar-18*,36.1,BODAL
+160,Debt to equity ratio,12  Mar-18*,0.0,BODAL
+161,Sales to assets ratio,12  Mar-18*,1.1,BODAL
+162,Return on assets,12  Mar-18*,12.1,BODAL
+163,Return on equity,12  Mar-18*,17.9,BODAL
+164,Return on capital,12  Mar-18*,27.5,BODAL
+165,Exports to sales,12  Mar-18*,29.0,BODAL
+166,Imports to sales,12  Mar-18*,6.8,BODAL
+167,Exports (fob),12  Mar-18*,3309.0,BODAL
+168,Imports (cif),12  Mar-18*,773.0,BODAL
+169,Fx inflow,12  Mar-18*,3309.0,BODAL
+170,Fx outflow,12  Mar-18*,876.0,BODAL
+171,Net fx,12  Mar-18*,2433.0,BODAL
+172,From Operations,12  Mar-18*,71.0,BODAL
+173,From Investments,12  Mar-18*,-2563.0,BODAL
+174,From Financial Activity,12  Mar-18*,2362.0,BODAL
+175,Net Cashflow,12  Mar-18*,-130.0,BODAL
+176,Net Sales,12  Mar-19*,14235.0,BODAL
+177,Other income,12  Mar-19*,134.0,BODAL
+178,Total revenues,12  Mar-19*,14369.0,BODAL
+179,Gross profit,12  Mar-19*,2362.0,BODAL
+180,Depreciation,12  Mar-19*,213.0,BODAL
+181,Interest,12  Mar-19*,91.0,BODAL
+182,Profit before tax,12  Mar-19*,2192.0,BODAL
+183,Minority Interest,12  Mar-19*,0.0,BODAL
+184,Prior Period Items,12  Mar-19*,0.0,BODAL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BODAL
+186,Tax,12  Mar-19*,770.0,BODAL
+187,Profit after tax,12  Mar-19*,1422.0,BODAL
+188,Gross profit margin,12  Mar-19*,16.6,BODAL
+189,Effective tax rate,12  Mar-19*,35.1,BODAL
+190,Net profit margin,12  Mar-19*,10.0,BODAL
+191,Current assets,12  Mar-19*,6158.0,BODAL
+192,Current liabilities,12  Mar-19*,4100.0,BODAL
+193,Net working cap to sales,12  Mar-19*,14.5,BODAL
+194,Current ratio,12  Mar-19*,1.5,BODAL
+195,Inventory Days,12  Mar-19*,53.0,BODAL
+196,Debtors Days,12  Mar-19*,67.0,BODAL
+197,Net fixed assets,12  Mar-19*,6341.0,BODAL
+198,Share capital,12  Mar-19*,244.0,BODAL
+199,"""Free"" reserves",12  Mar-19*,8049.0,BODAL
+200,Net worth,12  Mar-19*,8294.0,BODAL
+201,Long term debt,12  Mar-19*,138.0,BODAL
+202,Total assets,12  Mar-19*,12987.0,BODAL
+203,Interest coverage,12  Mar-19*,25.1,BODAL
+204,Debt to equity ratio,12  Mar-19*,0.0,BODAL
+205,Sales to assets ratio,12  Mar-19*,1.1,BODAL
+206,Return on assets,12  Mar-19*,11.6,BODAL
+207,Return on equity,12  Mar-19*,17.1,BODAL
+208,Return on capital,12  Mar-19*,27.1,BODAL
+209,Exports to sales,12  Mar-19*,40.7,BODAL
+210,Imports to sales,12  Mar-19*,7.7,BODAL
+211,Exports (fob),12  Mar-19*,5791.0,BODAL
+212,Imports (cif),12  Mar-19*,1094.0,BODAL
+213,Fx inflow,12  Mar-19*,5791.0,BODAL
+214,Fx outflow,12  Mar-19*,1199.0,BODAL
+215,Net fx,12  Mar-19*,4592.0,BODAL
+216,From Operations,12  Mar-19*,1860.0,BODAL
+217,From Investments,12  Mar-19*,-1282.0,BODAL
+218,From Financial Activity,12  Mar-19*,-512.0,BODAL
+219,Net Cashflow,12  Mar-19*,66.0,BODAL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,7326.0,INDOCO
+1,Other income,12  Mar-14*,18.0,INDOCO
+2,Total revenues,12  Mar-14*,7344.0,INDOCO
+3,Gross profit,12  Mar-14*,1204.0,INDOCO
+4,Depreciation,12  Mar-14*,309.0,INDOCO
+5,Interest,12  Mar-14*,189.0,INDOCO
+6,Profit before tax,12  Mar-14*,723.0,INDOCO
+7,Minority Interest,12  Mar-14*,-1.0,INDOCO
+8,Prior Period Items,12  Mar-14*,0.0,INDOCO
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,INDOCO
+10,Tax,12  Mar-14*,143.0,INDOCO
+11,Profit after tax,12  Mar-14*,580.0,INDOCO
+12,Gross profit margin,12  Mar-14*,16.4,INDOCO
+13,Effective tax rate,12  Mar-14*,19.8,INDOCO
+14,Net profit margin,12  Mar-14*,7.9,INDOCO
+15,Current assets,12  Mar-14*,3046.0,INDOCO
+16,Current liabilities,12  Mar-14*,2022.0,INDOCO
+17,Net working cap to sales,12  Mar-14*,14.0,INDOCO
+18,Current ratio,12  Mar-14*,1.5,INDOCO
+19,Inventory Days,12  Mar-14*,55.0,INDOCO
+20,Debtors Days,12  Mar-14*,69.0,INDOCO
+21,Net fixed assets,12  Mar-14*,3694.0,INDOCO
+22,Share capital,12  Mar-14*,184.0,INDOCO
+23,"""Free"" reserves",12  Mar-14*,4380.0,INDOCO
+24,Net worth,12  Mar-14*,4572.0,INDOCO
+25,Long term debt,12  Mar-14*,138.0,INDOCO
+26,Total assets,12  Mar-14*,7294.0,INDOCO
+27,Interest coverage,12  Mar-14*,4.8,INDOCO
+28,Debt to equity ratio,12  Mar-14*,0.0,INDOCO
+29,Sales to assets ratio,12  Mar-14*,1.0,INDOCO
+30,Return on assets,12  Mar-14*,10.5,INDOCO
+31,Return on equity,12  Mar-14*,12.7,INDOCO
+32,Return on capital,12  Mar-14*,19.4,INDOCO
+33,Exports to sales,12  Mar-14*,33.9,INDOCO
+34,Imports to sales,12  Mar-14*,5.4,INDOCO
+35,Exports (fob),12  Mar-14*,2480.0,INDOCO
+36,Imports (cif),12  Mar-14*,396.0,INDOCO
+37,Fx inflow,12  Mar-14*,2480.0,INDOCO
+38,Fx outflow,12  Mar-14*,549.0,INDOCO
+39,Net fx,12  Mar-14*,1931.0,INDOCO
+40,From Operations,12  Mar-14*,988.0,INDOCO
+41,From Investments,12  Mar-14*,-410.0,INDOCO
+42,From Financial Activity,12  Mar-14*,-590.0,INDOCO
+43,Net Cashflow,12  Mar-14*,-12.0,INDOCO
+44,Net Sales,12  Mar-15*,8570.0,INDOCO
+45,Other income,12  Mar-15*,17.0,INDOCO
+46,Total revenues,12  Mar-15*,8587.0,INDOCO
+47,Gross profit,12  Mar-15*,1655.0,INDOCO
+48,Depreciation,12  Mar-15*,471.0,INDOCO
+49,Interest,12  Mar-15*,106.0,INDOCO
+50,Profit before tax,12  Mar-15*,1096.0,INDOCO
+51,Minority Interest,12  Mar-15*,0.0,INDOCO
+52,Prior Period Items,12  Mar-15*,0.0,INDOCO
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,INDOCO
+54,Tax,12  Mar-15*,267.0,INDOCO
+55,Profit after tax,12  Mar-15*,828.0,INDOCO
+56,Gross profit margin,12  Mar-15*,19.3,INDOCO
+57,Effective tax rate,12  Mar-15*,24.4,INDOCO
+58,Net profit margin,12  Mar-15*,9.7,INDOCO
+59,Current assets,12  Mar-15*,3890.0,INDOCO
+60,Current liabilities,12  Mar-15*,2926.0,INDOCO
+61,Net working cap to sales,12  Mar-15*,11.3,INDOCO
+62,Current ratio,12  Mar-15*,1.3,INDOCO
+63,Inventory Days,12  Mar-15*,64.0,INDOCO
+64,Debtors Days,12  Mar-15*,66.0,INDOCO
+65,Net fixed assets,12  Mar-15*,4022.0,INDOCO
+66,Share capital,12  Mar-15*,184.0,INDOCO
+67,"""Free"" reserves",12  Mar-15*,5093.0,INDOCO
+68,Net worth,12  Mar-15*,5277.0,INDOCO
+69,Long term debt,12  Mar-15*,129.0,INDOCO
+70,Total assets,12  Mar-15*,8203.0,INDOCO
+71,Interest coverage,12  Mar-15*,11.4,INDOCO
+72,Debt to equity ratio,12  Mar-15*,0.0,INDOCO
+73,Sales to assets ratio,12  Mar-15*,1.0,INDOCO
+74,Return on assets,12  Mar-15*,11.4,INDOCO
+75,Return on equity,12  Mar-15*,15.7,INDOCO
+76,Return on capital,12  Mar-15*,22.2,INDOCO
+77,Exports to sales,12  Mar-15*,36.2,INDOCO
+78,Imports to sales,12  Mar-15*,7.5,INDOCO
+79,Exports (fob),12  Mar-15*,3101.0,INDOCO
+80,Imports (cif),12  Mar-15*,643.0,INDOCO
+81,Fx inflow,12  Mar-15*,3101.0,INDOCO
+82,Fx outflow,12  Mar-15*,819.0,INDOCO
+83,Net fx,12  Mar-15*,2282.0,INDOCO
+84,From Operations,12  Mar-15*,1090.0,INDOCO
+85,From Investments,12  Mar-15*,-884.0,INDOCO
+86,From Financial Activity,12  Mar-15*,-199.0,INDOCO
+87,Net Cashflow,12  Mar-15*,7.0,INDOCO
+88,Net Sales,12  Mar-16*,10081.0,INDOCO
+89,Other income,12  Mar-16*,16.0,INDOCO
+90,Total revenues,12  Mar-16*,10097.0,INDOCO
+91,Gross profit,12  Mar-16*,1704.0,INDOCO
+92,Depreciation,12  Mar-16*,607.0,INDOCO
+93,Interest,12  Mar-16*,124.0,INDOCO
+94,Profit before tax,12  Mar-16*,989.0,INDOCO
+95,Minority Interest,12  Mar-16*,0.0,INDOCO
+96,Prior Period Items,12  Mar-16*,0.0,INDOCO
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,INDOCO
+98,Tax,12  Mar-16*,170.0,INDOCO
+99,Profit after tax,12  Mar-16*,819.0,INDOCO
+100,Gross profit margin,12  Mar-16*,16.9,INDOCO
+101,Effective tax rate,12  Mar-16*,17.2,INDOCO
+102,Net profit margin,12  Mar-16*,8.1,INDOCO
+103,Current assets,12  Mar-16*,4646.0,INDOCO
+104,Current liabilities,12  Mar-16*,3641.0,INDOCO
+105,Net working cap to sales,12  Mar-16*,10.0,INDOCO
+106,Current ratio,12  Mar-16*,1.3,INDOCO
+107,Inventory Days,12  Mar-16*,60.0,INDOCO
+108,Debtors Days,12  Mar-16*,68.0,INDOCO
+109,Net fixed assets,12  Mar-16*,4296.0,INDOCO
+110,Share capital,12  Mar-16*,184.0,INDOCO
+111,"""Free"" reserves",12  Mar-16*,5581.0,INDOCO
+112,Net worth,12  Mar-16*,5765.0,INDOCO
+113,Long term debt,12  Mar-16*,379.0,INDOCO
+114,Total assets,12  Mar-16*,9406.0,INDOCO
+115,Interest coverage,12  Mar-16*,9.0,INDOCO
+116,Debt to equity ratio,12  Mar-16*,0.1,INDOCO
+117,Sales to assets ratio,12  Mar-16*,1.1,INDOCO
+118,Return on assets,12  Mar-16*,10.0,INDOCO
+119,Return on equity,12  Mar-16*,14.2,INDOCO
+120,Return on capital,12  Mar-16*,18.1,INDOCO
+121,Exports to sales,12  Mar-16*,40.1,INDOCO
+122,Imports to sales,12  Mar-16*,7.7,INDOCO
+123,Exports (fob),12  Mar-16*,4044.0,INDOCO
+124,Imports (cif),12  Mar-16*,773.0,INDOCO
+125,Fx inflow,12  Mar-16*,4044.0,INDOCO
+126,Fx outflow,12  Mar-16*,1017.0,INDOCO
+127,Net fx,12  Mar-16*,3027.0,INDOCO
+128,From Operations,12  Mar-16*,1122.0,INDOCO
+129,From Investments,12  Mar-16*,-1107.0,INDOCO
+130,From Financial Activity,12  Mar-16*,-16.0,INDOCO
+131,Net Cashflow,12  Mar-16*,-1.0,INDOCO
+132,Net Sales,12  Mar-17*,10748.0,INDOCO
+133,Other income,12  Mar-17*,40.0,INDOCO
+134,Total revenues,12  Mar-17*,10787.0,INDOCO
+135,Gross profit,12  Mar-17*,1565.0,INDOCO
+136,Depreciation,12  Mar-17*,633.0,INDOCO
+137,Interest,12  Mar-17*,62.0,INDOCO
+138,Profit before tax,12  Mar-17*,909.0,INDOCO
+139,Minority Interest,12  Mar-17*,0.0,INDOCO
+140,Prior Period Items,12  Mar-17*,0.0,INDOCO
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,INDOCO
+142,Tax,12  Mar-17*,139.0,INDOCO
+143,Profit after tax,12  Mar-17*,771.0,INDOCO
+144,Gross profit margin,12  Mar-17*,14.6,INDOCO
+145,Effective tax rate,12  Mar-17*,15.3,INDOCO
+146,Net profit margin,12  Mar-17*,7.2,INDOCO
+147,Current assets,12  Mar-17*,5721.0,INDOCO
+148,Current liabilities,12  Mar-17*,3904.0,INDOCO
+149,Net working cap to sales,12  Mar-17*,16.9,INDOCO
+150,Current ratio,12  Mar-17*,1.5,INDOCO
+151,Inventory Days,12  Mar-17*,63.0,INDOCO
+152,Debtors Days,12  Mar-17*,73.0,INDOCO
+153,Net fixed assets,12  Mar-17*,5307.0,INDOCO
+154,Share capital,12  Mar-17*,184.0,INDOCO
+155,"""Free"" reserves",12  Mar-17*,6329.0,INDOCO
+156,Net worth,12  Mar-17*,6513.0,INDOCO
+157,Long term debt,12  Mar-17*,1323.0,INDOCO
+158,Total assets,12  Mar-17*,11968.0,INDOCO
+159,Interest coverage,12  Mar-17*,15.6,INDOCO
+160,Debt to equity ratio,12  Mar-17*,0.2,INDOCO
+161,Sales to assets ratio,12  Mar-17*,0.9,INDOCO
+162,Return on assets,12  Mar-17*,7.0,INDOCO
+163,Return on equity,12  Mar-17*,11.8,INDOCO
+164,Return on capital,12  Mar-17*,12.4,INDOCO
+165,Exports to sales,12  Mar-17*,0.0,INDOCO
+166,Imports to sales,12  Mar-17*,0.0,INDOCO
+167,Exports (fob),12  Mar-17*,0.0,INDOCO
+168,Imports (cif),12  Mar-17*,0.0,INDOCO
+169,Fx inflow,12  Mar-17*,4507.0,INDOCO
+170,Fx outflow,12  Mar-17*,1141.0,INDOCO
+171,Net fx,12  Mar-17*,3366.0,INDOCO
+172,From Operations,12  Mar-17*,886.0,INDOCO
+173,From Investments,12  Mar-17*,-1706.0,INDOCO
+174,From Financial Activity,12  Mar-17*,1316.0,INDOCO
+175,Net Cashflow,12  Mar-17*,497.0,INDOCO
+176,Net Sales,12  Mar-18*,10419.0,INDOCO
+177,Other income,12  Mar-18*,47.0,INDOCO
+178,Total revenues,12  Mar-18*,10466.0,INDOCO
+179,Gross profit,12  Mar-18*,1349.0,INDOCO
+180,Depreciation,12  Mar-18*,677.0,INDOCO
+181,Interest,12  Mar-18*,235.0,INDOCO
+182,Profit before tax,12  Mar-18*,484.0,INDOCO
+183,Minority Interest,12  Mar-18*,0.0,INDOCO
+184,Prior Period Items,12  Mar-18*,0.0,INDOCO
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,INDOCO
+186,Tax,12  Mar-18*,72.0,INDOCO
+187,Profit after tax,12  Mar-18*,412.0,INDOCO
+188,Gross profit margin,12  Mar-18*,12.9,INDOCO
+189,Effective tax rate,12  Mar-18*,15.0,INDOCO
+190,Net profit margin,12  Mar-18*,4.0,INDOCO
+191,Current assets,12  Mar-18*,5373.0,INDOCO
+192,Current liabilities,12  Mar-18*,4157.0,INDOCO
+193,Net working cap to sales,12  Mar-18*,11.7,INDOCO
+194,Current ratio,12  Mar-18*,1.3,INDOCO
+195,Inventory Days,12  Mar-18*,68.0,INDOCO
+196,Debtors Days,12  Mar-18*,73.0,INDOCO
+197,Net fixed assets,12  Mar-18*,6244.0,INDOCO
+198,Share capital,12  Mar-18*,184.0,INDOCO
+199,"""Free"" reserves",12  Mar-18*,6566.0,INDOCO
+200,Net worth,12  Mar-18*,6750.0,INDOCO
+201,Long term debt,12  Mar-18*,1233.0,INDOCO
+202,Total assets,12  Mar-18*,12363.0,INDOCO
+203,Interest coverage,12  Mar-18*,3.1,INDOCO
+204,Debt to equity ratio,12  Mar-18*,0.2,INDOCO
+205,Sales to assets ratio,12  Mar-18*,0.8,INDOCO
+206,Return on assets,12  Mar-18*,5.2,INDOCO
+207,Return on equity,12  Mar-18*,6.1,INDOCO
+208,Return on capital,12  Mar-18*,9.0,INDOCO
+209,Exports to sales,12  Mar-18*,0.0,INDOCO
+210,Imports to sales,12  Mar-18*,0.0,INDOCO
+211,Exports (fob),12  Mar-18*,0.0,INDOCO
+212,Imports (cif),12  Mar-18*,0.0,INDOCO
+213,Fx inflow,12  Mar-18*,3762.0,INDOCO
+214,Fx outflow,12  Mar-18*,1143.0,INDOCO
+215,Net fx,12  Mar-18*,2619.0,INDOCO
+216,From Operations,12  Mar-18*,1227.0,INDOCO
+217,From Investments,12  Mar-18*,-1360.0,INDOCO
+218,From Financial Activity,12  Mar-18*,-388.0,INDOCO
+219,Net Cashflow,12  Mar-18*,-521.0,INDOCO

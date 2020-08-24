@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-12*,24183.0,UNTE
+1,Other income,12  Mar-12*,2116.0,UNTE
+2,Total revenues,12  Mar-12*,26299.0,UNTE
+3,Gross profit,12  Mar-12*,3245.0,UNTE
+4,Depreciation,12  Mar-12*,434.0,UNTE
+5,Interest,12  Mar-12*,563.0,UNTE
+6,Profit before tax,12  Mar-12*,4365.0,UNTE
+7,Minority Interest,12  Mar-12*,-81.0,UNTE
+8,Prior Period Items,12  Mar-12*,-14.0,UNTE
+9,Extraordinary Inc (Exp),12  Mar-12*,0.0,UNTE
+10,Tax,12  Mar-12*,1896.0,UNTE
+11,Profit after tax,12  Mar-12*,2374.0,UNTE
+12,Gross profit margin,12  Mar-12*,13.4,UNTE
+13,Effective tax rate,12  Mar-12*,43.4,UNTE
+14,Net profit margin,12  Mar-12*,9.8,UNTE
+15,Current assets,12  Mar-12*,169526.0,UNTE
+16,Current liabilities,12  Mar-12*,68215.0,UNTE
+17,Net working cap to sales,12  Mar-12*,418.9,UNTE
+18,Current ratio,12  Mar-12*,2.5,UNTE
+19,Inventory Days,12  Mar-12*,759.0,UNTE
+20,Debtors Days,12  Mar-12*,277.0,UNTE
+21,Net fixed assets,12  Mar-12*,23156.0,UNTE
+22,Share capital,12  Mar-12*,5233.0,UNTE
+23,"""Free"" reserves",12  Mar-12*,108000.0,UNTE
+24,Net worth,12  Mar-12*,120238.0,UNTE
+25,Long term debt,12  Mar-12*,21203.0,UNTE
+26,Total assets,12  Mar-12*,231780.0,UNTE
+27,Interest coverage,12  Mar-12*,8.8,UNTE
+28,Debt to equity ratio,12  Mar-12*,0.2,UNTE
+29,Sales to assets ratio,12  Mar-12*,0.1,UNTE
+30,Return on assets,12  Mar-12*,1.3,UNTE
+31,Return on equity,12  Mar-12*,2.0,UNTE
+32,Return on capital,12  Mar-12*,3.4,UNTE
+33,Exports to sales,12  Mar-12*,0.0,UNTE
+34,Imports to sales,12  Mar-12*,0.0,UNTE
+35,Exports (fob),12  Mar-12*,0.0,UNTE
+36,Imports (cif),12  Mar-12*,6.0,UNTE
+37,Fx inflow,12  Mar-12*,46.0,UNTE
+38,Fx outflow,12  Mar-12*,169.0,UNTE
+39,Net fx,12  Mar-12*,-123.0,UNTE
+40,From Operations,12  Mar-12*,18933.0,UNTE
+41,From Investments,12  Mar-12*,-5572.0,UNTE
+42,From Financial Activity,12  Mar-12*,-14429.0,UNTE
+43,Net Cashflow,12  Mar-12*,-1069.0,UNTE
+44,Net Sales,12  Mar-13*,24405.0,UNTE
+45,Other income,12  Mar-13*,1888.0,UNTE
+46,Total revenues,12  Mar-13*,26293.0,UNTE
+47,Gross profit,12  Mar-13*,3270.0,UNTE
+48,Depreciation,12  Mar-13*,398.0,UNTE
+49,Interest,12  Mar-13*,305.0,UNTE
+50,Profit before tax,12  Mar-13*,4454.0,UNTE
+51,Minority Interest,12  Mar-13*,48.0,UNTE
+52,Prior Period Items,12  Mar-13*,7.0,UNTE
+53,Extraordinary Inc (Exp),12  Mar-13*,-1035.0,UNTE
+54,Tax,12  Mar-13*,1378.0,UNTE
+55,Profit after tax,12  Mar-13*,2096.0,UNTE
+56,Gross profit margin,12  Mar-13*,13.4,UNTE
+57,Effective tax rate,12  Mar-13*,30.9,UNTE
+58,Net profit margin,12  Mar-13*,8.6,UNTE
+59,Current assets,12  Mar-13*,180479.0,UNTE
+60,Current liabilities,12  Mar-13*,85141.0,UNTE
+61,Net working cap to sales,12  Mar-13*,390.6,UNTE
+62,Current ratio,12  Mar-13*,2.1,UNTE
+63,Inventory Days,12  Mar-13*,658.0,UNTE
+64,Debtors Days,12  Mar-13*,232.0,UNTE
+65,Net fixed assets,12  Mar-13*,27405.0,UNTE
+66,Share capital,12  Mar-13*,5233.0,UNTE
+67,"""Free"" reserves",12  Mar-13*,101644.0,UNTE
+68,Net worth,12  Mar-13*,113906.0,UNTE
+69,Long term debt,12  Mar-13*,28786.0,UNTE
+70,Total assets,12  Mar-13*,245012.0,UNTE
+71,Interest coverage,12  Mar-13*,15.6,UNTE
+72,Debt to equity ratio,12  Mar-13*,0.3,UNTE
+73,Sales to assets ratio,12  Mar-13*,0.1,UNTE
+74,Return on assets,12  Mar-13*,1.0,UNTE
+75,Return on equity,12  Mar-13*,1.8,UNTE
+76,Return on capital,12  Mar-13*,2.6,UNTE
+77,Exports to sales,12  Mar-13*,0.0,UNTE
+78,Imports to sales,12  Mar-13*,0.1,UNTE
+79,Exports (fob),12  Mar-13*,0.0,UNTE
+80,Imports (cif),12  Mar-13*,21.0,UNTE
+81,Fx inflow,12  Mar-13*,207.0,UNTE
+82,Fx outflow,12  Mar-13*,176.0,UNTE
+83,Net fx,12  Mar-13*,32.0,UNTE
+84,From Operations,12  Mar-13*,4072.0,UNTE
+85,From Investments,12  Mar-13*,-958.0,UNTE
+86,From Financial Activity,12  Mar-13*,-2434.0,UNTE
+87,Net Cashflow,12  Mar-13*,680.0,UNTE
+88,Net Sales,12  Mar-14*,29576.0,UNTE
+89,Other income,12  Mar-14*,1465.0,UNTE
+90,Total revenues,12  Mar-14*,31040.0,UNTE
+91,Gross profit,12  Mar-14*,1863.0,UNTE
+92,Depreciation,12  Mar-14*,504.0,UNTE
+93,Interest,12  Mar-14*,765.0,UNTE
+94,Profit before tax,12  Mar-14*,2059.0,UNTE
+95,Minority Interest,12  Mar-14*,235.0,UNTE
+96,Prior Period Items,12  Mar-14*,5.0,UNTE
+97,Extraordinary Inc (Exp),12  Mar-14*,-1030.0,UNTE
+98,Tax,12  Mar-14*,571.0,UNTE
+99,Profit after tax,12  Mar-14*,697.0,UNTE
+100,Gross profit margin,12  Mar-14*,6.3,UNTE
+101,Effective tax rate,12  Mar-14*,27.7,UNTE
+102,Net profit margin,12  Mar-14*,2.4,UNTE
+103,Current assets,12  Mar-14*,200711.0,UNTE
+104,Current liabilities,12  Mar-14*,120562.0,UNTE
+105,Net working cap to sales,12  Mar-14*,271.0,UNTE
+106,Current ratio,12  Mar-14*,1.7,UNTE
+107,Inventory Days,12  Mar-14*,488.0,UNTE
+108,Debtors Days,12  Mar-14*,158.0,UNTE
+109,Net fixed assets,12  Mar-14*,29952.0,UNTE
+110,Share capital,12  Mar-14*,5233.0,UNTE
+111,"""Free"" reserves",12  Mar-14*,107951.0,UNTE
+112,Net worth,12  Mar-14*,115602.0,UNTE
+113,Long term debt,12  Mar-14*,25901.0,UNTE
+114,Total assets,12  Mar-14*,273764.0,UNTE
+115,Interest coverage,12  Mar-14*,3.7,UNTE
+116,Debt to equity ratio,12  Mar-14*,0.2,UNTE
+117,Sales to assets ratio,12  Mar-14*,0.1,UNTE
+118,Return on assets,12  Mar-14*,0.5,UNTE
+119,Return on equity,12  Mar-14*,0.6,UNTE
+120,Return on capital,12  Mar-14*,1.4,UNTE
+121,Exports to sales,12  Mar-14*,0.0,UNTE
+122,Imports to sales,12  Mar-14*,0.0,UNTE
+123,Exports (fob),12  Mar-14*,0.0,UNTE
+124,Imports (cif),12  Mar-14*,0.0,UNTE
+125,Fx inflow,12  Mar-14*,0.0,UNTE
+126,Fx outflow,12  Mar-14*,53.0,UNTE
+127,Net fx,12  Mar-14*,-53.0,UNTE
+128,From Operations,12  Mar-14*,9131.0,UNTE
+129,From Investments,12  Mar-14*,-5466.0,UNTE
+130,From Financial Activity,12  Mar-14*,-4168.0,UNTE
+131,Net Cashflow,12  Mar-14*,-503.0,UNTE
+132,Net Sales,12  Mar-15*,34335.0,UNTE
+133,Other income,12  Mar-15*,2884.0,UNTE
+134,Total revenues,12  Mar-15*,37219.0,UNTE
+135,Gross profit,12  Mar-15*,7737.0,UNTE
+136,Depreciation,12  Mar-15*,458.0,UNTE
+137,Interest,12  Mar-15*,729.0,UNTE
+138,Profit before tax,12  Mar-15*,9434.0,UNTE
+139,Minority Interest,12  Mar-15*,340.0,UNTE
+140,Prior Period Items,12  Mar-15*,-32.0,UNTE
+141,Extraordinary Inc (Exp),12  Mar-15*,-9907.0,UNTE
+142,Tax,12  Mar-15*,1118.0,UNTE
+143,Profit after tax,12  Mar-15*,-1283.0,UNTE
+144,Gross profit margin,12  Mar-15*,22.5,UNTE
+145,Effective tax rate,12  Mar-15*,11.9,UNTE
+146,Net profit margin,12  Mar-15*,-3.7,UNTE
+147,Current assets,12  Mar-15*,216197.0,UNTE
+148,Current liabilities,12  Mar-15*,141592.0,UNTE
+149,Net working cap to sales,12  Mar-15*,217.3,UNTE
+150,Current ratio,12  Mar-15*,1.5,UNTE
+151,Inventory Days,12  Mar-15*,404.0,UNTE
+152,Debtors Days,12  Mar-15*,164.0,UNTE
+153,Net fixed assets,12  Mar-15*,19629.0,UNTE
+154,Share capital,12  Mar-15*,5233.0,UNTE
+155,"""Free"" reserves",12  Mar-15*,101766.0,UNTE
+156,Net worth,12  Mar-15*,109416.0,UNTE
+157,Long term debt,12  Mar-15*,21656.0,UNTE
+158,Total assets,12  Mar-15*,278558.0,UNTE
+159,Interest coverage,12  Mar-15*,13.9,UNTE
+160,Debt to equity ratio,12  Mar-15*,0.2,UNTE
+161,Sales to assets ratio,12  Mar-15*,0.1,UNTE
+162,Return on assets,12  Mar-15*,-0.2,UNTE
+163,Return on equity,12  Mar-15*,-1.2,UNTE
+164,Return on capital,12  Mar-15*,0.4,UNTE
+165,Exports to sales,12  Mar-15*,0.0,UNTE
+166,Imports to sales,12  Mar-15*,0.0,UNTE
+167,Exports (fob),12  Mar-15*,0.0,UNTE
+168,Imports (cif),12  Mar-15*,0.0,UNTE
+169,Fx inflow,12  Mar-15*,0.0,UNTE
+170,Fx outflow,12  Mar-15*,160.0,UNTE
+171,Net fx,12  Mar-15*,-160.0,UNTE
+172,From Operations,12  Mar-15*,917.0,UNTE
+173,From Investments,12  Mar-15*,718.0,UNTE
+174,From Financial Activity,12  Mar-15*,-1967.0,UNTE
+175,Net Cashflow,12  Mar-15*,-331.0,UNTE
+176,Net Sales,12  Mar-16*,20115.0,UNTE
+177,Other income,12  Mar-16*,647.0,UNTE
+178,Total revenues,12  Mar-16*,20762.0,UNTE
+179,Gross profit,12  Mar-16*,-6710.0,UNTE
+180,Depreciation,12  Mar-16*,354.0,UNTE
+181,Interest,12  Mar-16*,3274.0,UNTE
+182,Profit before tax,12  Mar-16*,-9691.0,UNTE
+183,Minority Interest,12  Mar-16*,12.0,UNTE
+184,Prior Period Items,12  Mar-16*,-1.0,UNTE
+185,Extraordinary Inc (Exp),12  Mar-16*,0.0,UNTE
+186,Tax,12  Mar-16*,-653.0,UNTE
+187,Profit after tax,12  Mar-16*,-9027.0,UNTE
+188,Gross profit margin,12  Mar-16*,-33.4,UNTE
+189,Effective tax rate,12  Mar-16*,6.7,UNTE
+190,Net profit margin,12  Mar-16*,-44.9,UNTE
+191,Current assets,12  Mar-16*,228433.0,UNTE
+192,Current liabilities,12  Mar-16*,162291.0,UNTE
+193,Net working cap to sales,12  Mar-16*,328.8,UNTE
+194,Current ratio,12  Mar-16*,1.4,UNTE
+195,Inventory Days,12  Mar-16*,694.0,UNTE
+196,Debtors Days,12  Mar-16*,282.0,UNTE
+197,Net fixed assets,12  Mar-16*,19057.0,UNTE
+198,Share capital,12  Mar-16*,5233.0,UNTE
+199,"""Free"" reserves",12  Mar-16*,92974.0,UNTE
+200,Net worth,12  Mar-16*,100624.0,UNTE
+201,Long term debt,12  Mar-16*,24647.0,UNTE
+202,Total assets,12  Mar-16*,291430.0,UNTE
+203,Interest coverage,12  Mar-16*,-2.0,UNTE
+204,Debt to equity ratio,12  Mar-16*,0.2,UNTE
+205,Sales to assets ratio,12  Mar-16*,0.1,UNTE
+206,Return on assets,12  Mar-16*,-2.0,UNTE
+207,Return on equity,12  Mar-16*,-9.0,UNTE
+208,Return on capital,12  Mar-16*,-5.1,UNTE
+209,Exports to sales,12  Mar-16*,0.0,UNTE
+210,Imports to sales,12  Mar-16*,0.0,UNTE
+211,Exports (fob),12  Mar-16*,0.0,UNTE
+212,Imports (cif),12  Mar-16*,0.0,UNTE
+213,Fx inflow,12  Mar-16*,0.0,UNTE
+214,Fx outflow,12  Mar-16*,27.0,UNTE
+215,Net fx,12  Mar-16*,-27.0,UNTE
+216,From Operations,12  Mar-16*,484.0,UNTE
+217,From Investments,12  Mar-16*,1682.0,UNTE
+218,From Financial Activity,12  Mar-16*,-2451.0,UNTE
+219,Net Cashflow,12  Mar-16*,-266.0,UNTE

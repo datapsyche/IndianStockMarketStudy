@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,10128.0,GATE
+1,Other income,12  Mar-14*,171.0,GATE
+2,Total revenues,12  Mar-14*,10299.0,GATE
+3,Gross profit,12  Mar-14*,2572.0,GATE
+4,Depreciation,12  Mar-14*,801.0,GATE
+5,Interest,12  Mar-14*,279.0,GATE
+6,Profit before tax,12  Mar-14*,1662.0,GATE
+7,Minority Interest,12  Mar-14*,-114.0,GATE
+8,Prior Period Items,12  Mar-14*,5.0,GATE
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,GATE
+10,Tax,12  Mar-14*,194.0,GATE
+11,Profit after tax,12  Mar-14*,1358.0,GATE
+12,Gross profit margin,12  Mar-14*,25.4,GATE
+13,Effective tax rate,12  Mar-14*,11.7,GATE
+14,Net profit margin,12  Mar-14*,13.4,GATE
+15,Current assets,12  Mar-14*,2859.0,GATE
+16,Current liabilities,12  Mar-14*,2255.0,GATE
+17,Net working cap to sales,12  Mar-14*,6.0,GATE
+18,Current ratio,12  Mar-14*,1.3,GATE
+19,Inventory Days,12  Mar-14*,0.0,GATE
+20,Debtors Days,12  Mar-14*,41.0,GATE
+21,Net fixed assets,12  Mar-14*,12788.0,GATE
+22,Share capital,12  Mar-14*,1086.0,GATE
+23,"""Free"" reserves",12  Mar-14*,7277.0,GATE
+24,Net worth,12  Mar-14*,8366.0,GATE
+25,Long term debt,12  Mar-14*,2222.0,GATE
+26,Total assets,12  Mar-14*,17162.0,GATE
+27,Interest coverage,12  Mar-14*,7.0,GATE
+28,Debt to equity ratio,12  Mar-14*,0.3,GATE
+29,Sales to assets ratio,12  Mar-14*,0.6,GATE
+30,Return on assets,12  Mar-14*,9.5,GATE
+31,Return on equity,12  Mar-14*,16.2,GATE
+32,Return on capital,12  Mar-14*,17.3,GATE
+33,Exports to sales,12  Mar-14*,0.0,GATE
+34,Imports to sales,12  Mar-14*,0.0,GATE
+35,Exports (fob),12  Mar-14*,0.0,GATE
+36,Imports (cif),12  Mar-14*,0.0,GATE
+37,Fx inflow,12  Mar-14*,0.0,GATE
+38,Fx outflow,12  Mar-14*,88.0,GATE
+39,Net fx,12  Mar-14*,-88.0,GATE
+40,From Operations,12  Mar-14*,2098.0,GATE
+41,From Investments,12  Mar-14*,-2005.0,GATE
+42,From Financial Activity,12  Mar-14*,-92.0,GATE
+43,Net Cashflow,12  Mar-14*,2.0,GATE
+44,Net Sales,12  Mar-16*,3879.0,GATE
+45,Other income,12  Mar-16*,169.0,GATE
+46,Total revenues,12  Mar-16*,4048.0,GATE
+47,Gross profit,12  Mar-16*,1019.0,GATE
+48,Depreciation,12  Mar-16*,275.0,GATE
+49,Interest,12  Mar-16*,49.0,GATE
+50,Profit before tax,12  Mar-16*,864.0,GATE
+51,Minority Interest,12  Mar-16*,0.0,GATE
+52,Prior Period Items,12  Mar-16*,338.0,GATE
+53,Extraordinary Inc (Exp),12  Mar-16*,320.0,GATE
+54,Tax,12  Mar-16*,297.0,GATE
+55,Profit after tax,12  Mar-16*,1225.0,GATE
+56,Gross profit margin,12  Mar-16*,26.3,GATE
+57,Effective tax rate,12  Mar-16*,34.3,GATE
+58,Net profit margin,12  Mar-16*,31.6,GATE
+59,Current assets,12  Mar-16*,924.0,GATE
+60,Current liabilities,12  Mar-16*,412.0,GATE
+61,Net working cap to sales,12  Mar-16*,13.2,GATE
+62,Current ratio,12  Mar-16*,2.2,GATE
+63,Inventory Days,12  Mar-16*,0.0,GATE
+64,Debtors Days,12  Mar-16*,40.0,GATE
+65,Net fixed assets,12  Mar-16*,2592.0,GATE
+66,Share capital,12  Mar-16*,1087.0,GATE
+67,"""Free"" reserves",12  Mar-16*,9102.0,GATE
+68,Net worth,12  Mar-16*,10189.0,GATE
+69,Long term debt,12  Mar-16*,441.0,GATE
+70,Total assets,12  Mar-16*,11175.0,GATE
+71,Interest coverage,12  Mar-16*,18.7,GATE
+72,Debt to equity ratio,12  Mar-16*,0.0,GATE
+73,Sales to assets ratio,12  Mar-16*,0.3,GATE
+74,Return on assets,12  Mar-16*,11.4,GATE
+75,Return on equity,12  Mar-16*,12.0,GATE
+76,Return on capital,12  Mar-16*,14.8,GATE
+77,Exports to sales,12  Mar-16*,0.0,GATE
+78,Imports to sales,12  Mar-16*,0.0,GATE
+79,Exports (fob),12  Mar-16*,0.0,GATE
+80,Imports (cif),12  Mar-16*,0.0,GATE
+81,Fx inflow,12  Mar-16*,0.0,GATE
+82,Fx outflow,12  Mar-16*,2.0,GATE
+83,Net fx,12  Mar-16*,-2.0,GATE
+84,From Operations,12  Mar-16*,539.0,GATE
+85,From Investments,12  Mar-16*,365.0,GATE
+86,From Financial Activity,12  Mar-16*,-1143.0,GATE
+87,Net Cashflow,12  Mar-16*,-240.0,GATE
+88,Net Sales,12  Mar-17*,3934.0,GATE
+89,Other income,12  Mar-17*,123.0,GATE
+90,Total revenues,12  Mar-17*,4057.0,GATE
+91,Gross profit,12  Mar-17*,911.0,GATE
+92,Depreciation,12  Mar-17*,265.0,GATE
+93,Interest,12  Mar-17*,53.0,GATE
+94,Profit before tax,12  Mar-17*,715.0,GATE
+95,Minority Interest,12  Mar-17*,0.0,GATE
+96,Prior Period Items,12  Mar-17*,176.0,GATE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GATE
+98,Tax,12  Mar-17*,150.0,GATE
+99,Profit after tax,12  Mar-17*,741.0,GATE
+100,Gross profit margin,12  Mar-17*,23.2,GATE
+101,Effective tax rate,12  Mar-17*,21.0,GATE
+102,Net profit margin,12  Mar-17*,18.8,GATE
+103,Current assets,12  Mar-17*,927.0,GATE
+104,Current liabilities,12  Mar-17*,555.0,GATE
+105,Net working cap to sales,12  Mar-17*,9.5,GATE
+106,Current ratio,12  Mar-17*,1.7,GATE
+107,Inventory Days,12  Mar-17*,0.0,GATE
+108,Debtors Days,12  Mar-17*,42.0,GATE
+109,Net fixed assets,12  Mar-17*,3117.0,GATE
+110,Share capital,12  Mar-17*,1087.0,GATE
+111,"""Free"" reserves",12  Mar-17*,9091.0,GATE
+112,Net worth,12  Mar-17*,10179.0,GATE
+113,Long term debt,12  Mar-17*,1043.0,GATE
+114,Total assets,12  Mar-17*,11934.0,GATE
+115,Interest coverage,12  Mar-17*,14.5,GATE
+116,Debt to equity ratio,12  Mar-17*,0.1,GATE
+117,Sales to assets ratio,12  Mar-17*,0.3,GATE
+118,Return on assets,12  Mar-17*,6.7,GATE
+119,Return on equity,12  Mar-17*,7.3,GATE
+120,Return on capital,12  Mar-17*,8.4,GATE
+121,Exports to sales,12  Mar-17*,0.0,GATE
+122,Imports to sales,12  Mar-17*,0.0,GATE
+123,Exports (fob),12  Mar-17*,0.0,GATE
+124,Imports (cif),12  Mar-17*,0.0,GATE
+125,Fx inflow,12  Mar-17*,0.0,GATE
+126,Fx outflow,12  Mar-17*,46.0,GATE
+127,Net fx,12  Mar-17*,-46.0,GATE
+128,From Operations,12  Mar-17*,613.0,GATE
+129,From Investments,12  Mar-17*,-560.0,GATE
+130,From Financial Activity,12  Mar-17*,-121.0,GATE
+131,Net Cashflow,12  Mar-17*,-67.0,GATE
+132,Net Sales,12  Mar-18*,3955.0,GATE
+133,Other income,12  Mar-18*,138.0,GATE
+134,Total revenues,12  Mar-18*,4093.0,GATE
+135,Gross profit,12  Mar-18*,844.0,GATE
+136,Depreciation,12  Mar-18*,304.0,GATE
+137,Interest,12  Mar-18*,108.0,GATE
+138,Profit before tax,12  Mar-18*,569.0,GATE
+139,Minority Interest,12  Mar-18*,0.0,GATE
+140,Prior Period Items,12  Mar-18*,402.0,GATE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GATE
+142,Tax,12  Mar-18*,139.0,GATE
+143,Profit after tax,12  Mar-18*,832.0,GATE
+144,Gross profit margin,12  Mar-18*,21.3,GATE
+145,Effective tax rate,12  Mar-18*,24.5,GATE
+146,Net profit margin,12  Mar-18*,21.0,GATE
+147,Current assets,12  Mar-18*,2380.0,GATE
+148,Current liabilities,12  Mar-18*,885.0,GATE
+149,Net working cap to sales,12  Mar-18*,37.8,GATE
+150,Current ratio,12  Mar-18*,2.7,GATE
+151,Inventory Days,12  Mar-18*,0.0,GATE
+152,Debtors Days,12  Mar-18*,50.0,GATE
+153,Net fixed assets,12  Mar-18*,3233.0,GATE
+154,Share capital,12  Mar-18*,1087.0,GATE
+155,"""Free"" reserves",12  Mar-18*,9005.0,GATE
+156,Net worth,12  Mar-18*,10092.0,GATE
+157,Long term debt,12  Mar-18*,1039.0,GATE
+158,Total assets,12  Mar-18*,12222.0,GATE
+159,Interest coverage,12  Mar-18*,6.3,GATE
+160,Debt to equity ratio,12  Mar-18*,0.1,GATE
+161,Sales to assets ratio,12  Mar-18*,0.3,GATE
+162,Return on assets,12  Mar-18*,7.7,GATE
+163,Return on equity,12  Mar-18*,8.2,GATE
+164,Return on capital,12  Mar-18*,9.7,GATE
+165,Exports to sales,12  Mar-18*,0.0,GATE
+166,Imports to sales,12  Mar-18*,0.0,GATE
+167,Exports (fob),12  Mar-18*,0.0,GATE
+168,Imports (cif),12  Mar-18*,0.0,GATE
+169,Fx inflow,12  Mar-18*,0.0,GATE
+170,Fx outflow,12  Mar-18*,0.0,GATE
+171,Net fx,12  Mar-18*,0.0,GATE
+172,From Operations,12  Mar-18*,847.0,GATE
+173,From Investments,12  Mar-18*,7.0,GATE
+174,From Financial Activity,12  Mar-18*,-892.0,GATE
+175,Net Cashflow,12  Mar-18*,-38.0,GATE
+176,Net Sales,12  Mar-19*,4306.0,GATE
+177,Other income,12  Mar-19*,128.0,GATE
+178,Total revenues,12  Mar-19*,4434.0,GATE
+179,Gross profit,12  Mar-19*,824.0,GATE
+180,Depreciation,12  Mar-19*,326.0,GATE
+181,Interest,12  Mar-19*,128.0,GATE
+182,Profit before tax,12  Mar-19*,498.0,GATE
+183,Minority Interest,12  Mar-19*,0.0,GATE
+184,Prior Period Items,12  Mar-19*,649.0,GATE
+185,Extraordinary Inc (Exp),12  Mar-19*,2805.0,GATE
+186,Tax,12  Mar-19*,300.0,GATE
+187,Profit after tax,12  Mar-19*,3652.0,GATE
+188,Gross profit margin,12  Mar-19*,19.1,GATE
+189,Effective tax rate,12  Mar-19*,60.1,GATE
+190,Net profit margin,12  Mar-19*,84.8,GATE
+191,Current assets,12  Mar-19*,2331.0,GATE
+192,Current liabilities,12  Mar-19*,2176.0,GATE
+193,Net working cap to sales,12  Mar-19*,3.6,GATE
+194,Current ratio,12  Mar-19*,1.1,GATE
+195,Inventory Days,12  Mar-19*,0.0,GATE
+196,Debtors Days,12  Mar-19*,108.0,GATE
+197,Net fixed assets,12  Mar-19*,18432.0,GATE
+198,Share capital,12  Mar-19*,1087.0,GATE
+199,"""Free"" reserves",12  Mar-19*,12131.0,GATE
+200,Net worth,12  Mar-19*,13218.0,GATE
+201,Long term debt,12  Mar-19*,7416.0,GATE
+202,Total assets,12  Mar-19*,23265.0,GATE
+203,Interest coverage,12  Mar-19*,4.9,GATE
+204,Debt to equity ratio,12  Mar-19*,0.6,GATE
+205,Sales to assets ratio,12  Mar-19*,0.2,GATE
+206,Return on assets,12  Mar-19*,16.2,GATE
+207,Return on equity,12  Mar-19*,27.6,GATE
+208,Return on capital,12  Mar-19*,19.8,GATE
+209,Exports to sales,12  Mar-19*,0.0,GATE
+210,Imports to sales,12  Mar-19*,0.0,GATE
+211,Exports (fob),12  Mar-19*,0.0,GATE
+212,Imports (cif),12  Mar-19*,0.0,GATE
+213,Fx inflow,12  Mar-19*,0.0,GATE
+214,Fx outflow,12  Mar-19*,9.0,GATE
+215,Net fx,12  Mar-19*,-9.0,GATE
+216,From Operations,12  Mar-19*,1212.0,GATE
+217,From Investments,12  Mar-19*,-5628.0,GATE
+218,From Financial Activity,12  Mar-19*,4503.0,GATE
+219,Net Cashflow,12  Mar-19*,88.0,GATE

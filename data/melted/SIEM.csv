@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Sep-15,105631.0,SIEM
+1,Other income,12  Sep-15,1600.0,SIEM
+2,Total revenues,12  Sep-15,107231.0,SIEM
+3,Gross profit,12  Sep-15,9752.0,SIEM
+4,Depreciation,12  Sep-15,2235.0,SIEM
+5,Interest,12  Sep-15,70.0,SIEM
+6,Profit before tax,12  Sep-15,9047.0,SIEM
+7,Minority Interest,12  Sep-15,0.0,SIEM
+8,Prior Period Items,12  Sep-15,0.0,SIEM
+9,Extraordinary Inc (Exp),12  Sep-15,7828.0,SIEM
+10,Tax,12  Sep-15,5131.0,SIEM
+11,Profit after tax,12  Sep-15,11744.0,SIEM
+12,Gross profit margin,12  Sep-15,9.2,SIEM
+13,Effective tax rate,12  Sep-15,56.7,SIEM
+14,Net profit margin,12  Sep-15,11.1,SIEM
+15,Current assets,12  Sep-15,79896.0,SIEM
+16,Current liabilities,12  Sep-15,49367.0,SIEM
+17,Net working cap to sales,12  Sep-15,28.9,SIEM
+18,Current ratio,12  Sep-15,1.6,SIEM
+19,Inventory Days,12  Sep-15,33.0,SIEM
+20,Debtors Days,12  Sep-15,104.0,SIEM
+21,Net fixed assets,12  Sep-15,13975.0,SIEM
+22,Share capital,12  Sep-15,712.0,SIEM
+23,"""Free"" reserves",12  Sep-15,54620.0,SIEM
+24,Net worth,12  Sep-15,55332.0,SIEM
+25,Long term debt,12  Sep-15,0.0,SIEM
+26,Total assets,12  Sep-15,107712.0,SIEM
+27,Interest coverage,12  Sep-15,130.2,SIEM
+28,Debt to equity ratio,12  Sep-15,0.0,SIEM
+29,Sales to assets ratio,12  Sep-15,1.0,SIEM
+30,Return on assets,12  Sep-15,11.0,SIEM
+31,Return on equity,12  Sep-15,21.2,SIEM
+32,Return on capital,12  Sep-15,30.6,SIEM
+33,Exports to sales,12  Sep-15,7.7,SIEM
+34,Imports to sales,12  Sep-15,31.6,SIEM
+35,Exports (fob),12  Sep-15,8186.0,SIEM
+36,Imports (cif),12  Sep-15,33404.0,SIEM
+37,Fx inflow,12  Sep-15,17560.0,SIEM
+38,Fx outflow,12  Sep-15,40211.0,SIEM
+39,Net fx,12  Sep-15,-22651.0,SIEM
+40,From Operations,12  Sep-15,5744.0,SIEM
+41,From Investments,12  Sep-15,6448.0,SIEM
+42,From Financial Activity,12  Sep-15,-2448.0,SIEM
+43,Net Cashflow,12  Sep-15,9744.0,SIEM
+44,Net Sales,12  Sep-16,108095.0,SIEM
+45,Other income,12  Sep-16,1644.0,SIEM
+46,Total revenues,12  Sep-16,109739.0,SIEM
+47,Gross profit,12  Sep-16,10204.0,SIEM
+48,Depreciation,12  Sep-16,2264.0,SIEM
+49,Interest,12  Sep-16,91.0,SIEM
+50,Profit before tax,12  Sep-16,9493.0,SIEM
+51,Minority Interest,12  Sep-16,0.0,SIEM
+52,Prior Period Items,12  Sep-16,0.0,SIEM
+53,Extraordinary Inc (Exp),12  Sep-16,29923.0,SIEM
+54,Tax,12  Sep-16,10245.0,SIEM
+55,Profit after tax,12  Sep-16,29171.0,SIEM
+56,Gross profit margin,12  Sep-16,9.4,SIEM
+57,Effective tax rate,12  Sep-16,107.9,SIEM
+58,Net profit margin,12  Sep-16,27.0,SIEM
+59,Current assets,12  Sep-16,93163.0,SIEM
+60,Current liabilities,12  Sep-16,48806.0,SIEM
+61,Net working cap to sales,12  Sep-16,41.0,SIEM
+62,Current ratio,12  Sep-16,1.9,SIEM
+63,Inventory Days,12  Sep-16,34.0,SIEM
+64,Debtors Days,12  Sep-16,101.0,SIEM
+65,Net fixed assets,12  Sep-16,12778.0,SIEM
+66,Share capital,12  Sep-16,712.0,SIEM
+67,"""Free"" reserves",12  Sep-16,67496.0,SIEM
+68,Net worth,12  Sep-16,68208.0,SIEM
+69,Long term debt,12  Sep-16,0.0,SIEM
+70,Total assets,12  Sep-16,119539.0,SIEM
+71,Interest coverage,12  Sep-16,105.3,SIEM
+72,Debt to equity ratio,12  Sep-16,0.0,SIEM
+73,Sales to assets ratio,12  Sep-16,0.9,SIEM
+74,Return on assets,12  Sep-16,24.5,SIEM
+75,Return on equity,12  Sep-16,42.8,SIEM
+76,Return on capital,12  Sep-16,57.9,SIEM
+77,Exports to sales,12  Sep-16,9.6,SIEM
+78,Imports to sales,12  Sep-16,34.5,SIEM
+79,Exports (fob),12  Sep-16,10384.0,SIEM
+80,Imports (cif),12  Sep-16,37330.0,SIEM
+81,Fx inflow,12  Sep-16,17092.0,SIEM
+82,Fx outflow,12  Sep-16,50245.0,SIEM
+83,Net fx,12  Sep-16,-33153.0,SIEM
+84,From Operations,12  Sep-16,5084.0,SIEM
+85,From Investments,12  Sep-16,2396.0,SIEM
+86,From Financial Activity,12  Sep-16,-16123.0,SIEM
+87,Net Cashflow,12  Sep-16,-8642.0,SIEM
+88,Net Sales,12  Sep-17,110647.0,SIEM
+89,Other income,12  Sep-17,2532.0,SIEM
+90,Total revenues,12  Sep-17,113179.0,SIEM
+91,Gross profit,12  Sep-17,10540.0,SIEM
+92,Depreciation,12  Sep-17,1978.0,SIEM
+93,Interest,12  Sep-17,79.0,SIEM
+94,Profit before tax,12  Sep-17,11015.0,SIEM
+95,Minority Interest,12  Sep-17,0.0,SIEM
+96,Prior Period Items,12  Sep-17,0.0,SIEM
+97,Extraordinary Inc (Exp),12  Sep-17,5675.0,SIEM
+98,Tax,12  Sep-17,5323.0,SIEM
+99,Profit after tax,12  Sep-17,11367.0,SIEM
+100,Gross profit margin,12  Sep-17,9.5,SIEM
+101,Effective tax rate,12  Sep-17,48.3,SIEM
+102,Net profit margin,12  Sep-17,10.3,SIEM
+103,Current assets,12  Sep-17,102837.0,SIEM
+104,Current liabilities,12  Sep-17,51853.0,SIEM
+105,Net working cap to sales,12  Sep-17,46.1,SIEM
+106,Current ratio,12  Sep-17,2.0,SIEM
+107,Inventory Days,12  Sep-17,34.0,SIEM
+108,Debtors Days,12  Sep-17,113.0,SIEM
+109,Net fixed assets,12  Sep-17,13664.0,SIEM
+110,Share capital,12  Sep-17,712.0,SIEM
+111,"""Free"" reserves",12  Sep-17,76194.0,SIEM
+112,Net worth,12  Sep-17,76906.0,SIEM
+113,Long term debt,12  Sep-17,0.0,SIEM
+114,Total assets,12  Sep-17,131382.0,SIEM
+115,Interest coverage,12  Sep-17,140.4,SIEM
+116,Debt to equity ratio,12  Sep-17,0.0,SIEM
+117,Sales to assets ratio,12  Sep-17,0.8,SIEM
+118,Return on assets,12  Sep-17,8.7,SIEM
+119,Return on equity,12  Sep-17,14.8,SIEM
+120,Return on capital,12  Sep-17,21.8,SIEM
+121,Exports to sales,12  Sep-17,0.0,SIEM
+122,Imports to sales,12  Sep-17,0.0,SIEM
+123,Exports (fob),12  Sep-17,0.0,SIEM
+124,Imports (cif),12  Sep-17,0.0,SIEM
+125,Fx inflow,12  Sep-17,21237.0,SIEM
+126,Fx outflow,12  Sep-17,35833.0,SIEM
+127,Net fx,12  Sep-17,-14596.0,SIEM
+128,From Operations,12  Sep-17,5734.0,SIEM
+129,From Investments,12  Sep-17,13224.0,SIEM
+130,From Financial Activity,12  Sep-17,-2852.0,SIEM
+131,Net Cashflow,12  Sep-17,16096.0,SIEM
+132,Net Sales,12  Sep-18,127953.0,SIEM
+133,Other income,12  Sep-18,2801.0,SIEM
+134,Total revenues,12  Sep-18,130754.0,SIEM
+135,Gross profit,12  Sep-18,13273.0,SIEM
+136,Depreciation,12  Sep-18,1977.0,SIEM
+137,Interest,12  Sep-18,82.0,SIEM
+138,Profit before tax,12  Sep-18,14015.0,SIEM
+139,Minority Interest,12  Sep-18,0.0,SIEM
+140,Prior Period Items,12  Sep-18,0.0,SIEM
+141,Extraordinary Inc (Exp),12  Sep-18,0.0,SIEM
+142,Tax,12  Sep-18,5003.0,SIEM
+143,Profit after tax,12  Sep-18,9012.0,SIEM
+144,Gross profit margin,12  Sep-18,10.4,SIEM
+145,Effective tax rate,12  Sep-18,35.7,SIEM
+146,Net profit margin,12  Sep-18,7.0,SIEM
+147,Current assets,12  Sep-18,111719.0,SIEM
+148,Current liabilities,12  Sep-18,57615.0,SIEM
+149,Net working cap to sales,12  Sep-18,42.3,SIEM
+150,Current ratio,12  Sep-18,1.9,SIEM
+151,Inventory Days,12  Sep-18,33.0,SIEM
+152,Debtors Days,12  Sep-18,105.0,SIEM
+153,Net fixed assets,12  Sep-18,13079.0,SIEM
+154,Share capital,12  Sep-18,712.0,SIEM
+155,"""Free"" reserves",12  Sep-18,82277.0,SIEM
+156,Net worth,12  Sep-18,82989.0,SIEM
+157,Long term debt,12  Sep-18,0.0,SIEM
+158,Total assets,12  Sep-18,143363.0,SIEM
+159,Interest coverage,12  Sep-18,171.9,SIEM
+160,Debt to equity ratio,12  Sep-18,0.0,SIEM
+161,Sales to assets ratio,12  Sep-18,0.9,SIEM
+162,Return on assets,12  Sep-18,6.3,SIEM
+163,Return on equity,12  Sep-18,10.9,SIEM
+164,Return on capital,12  Sep-18,17.0,SIEM
+165,Exports to sales,12  Sep-18,0.0,SIEM
+166,Imports to sales,12  Sep-18,0.0,SIEM
+167,Exports (fob),12  Sep-18,0.0,SIEM
+168,Imports (cif),12  Sep-18,0.0,SIEM
+169,Fx inflow,12  Sep-18,20159.0,SIEM
+170,Fx outflow,12  Sep-18,46177.0,SIEM
+171,Net fx,12  Sep-18,-26018.0,SIEM
+172,From Operations,12  Sep-18,998.0,SIEM
+173,From Investments,12  Sep-18,-1746.0,SIEM
+174,From Financial Activity,12  Sep-18,-3053.0,SIEM
+175,Net Cashflow,12  Sep-18,-3793.0,SIEM
+176,Net Sales,12  Sep-19,137672.0,SIEM
+177,Other income,12  Sep-19,3990.0,SIEM
+178,Total revenues,12  Sep-19,141662.0,SIEM
+179,Gross profit,12  Sep-19,14903.0,SIEM
+180,Depreciation,12  Sep-19,2182.0,SIEM
+181,Interest,12  Sep-19,117.0,SIEM
+182,Profit before tax,12  Sep-19,16594.0,SIEM
+183,Minority Interest,12  Sep-19,0.0,SIEM
+184,Prior Period Items,12  Sep-19,0.0,SIEM
+185,Extraordinary Inc (Exp),12  Sep-19,0.0,SIEM
+186,Tax,12  Sep-19,5600.0,SIEM
+187,Profit after tax,12  Sep-19,10994.0,SIEM
+188,Gross profit margin,12  Sep-19,10.8,SIEM
+189,Effective tax rate,12  Sep-19,33.7,SIEM
+190,Net profit margin,12  Sep-19,8.0,SIEM
+191,Current assets,12  Sep-19,125676.0,SIEM
+192,Current liabilities,12  Sep-19,59971.0,SIEM
+193,Net working cap to sales,12  Sep-19,47.7,SIEM
+194,Current ratio,12  Sep-19,2.1,SIEM
+195,Inventory Days,12  Sep-19,30.0,SIEM
+196,Debtors Days,12  Sep-19,101.0,SIEM
+197,Net fixed assets,12  Sep-19,12477.0,SIEM
+198,Share capital,12  Sep-19,712.0,SIEM
+199,"""Free"" reserves",12  Sep-19,89782.0,SIEM
+200,Net worth,12  Sep-19,90494.0,SIEM
+201,Long term debt,12  Sep-19,0.0,SIEM
+202,Total assets,12  Sep-19,153583.0,SIEM
+203,Interest coverage,12  Sep-19,142.8,SIEM
+204,Debt to equity ratio,12  Sep-19,0.0,SIEM
+205,Sales to assets ratio,12  Sep-19,0.9,SIEM
+206,Return on assets,12  Sep-19,7.2,SIEM
+207,Return on equity,12  Sep-19,12.1,SIEM
+208,Return on capital,12  Sep-19,18.5,SIEM
+209,Exports to sales,12  Sep-19,0.0,SIEM
+210,Imports to sales,12  Sep-19,0.0,SIEM
+211,Exports (fob),12  Sep-19,0.0,SIEM
+212,Imports (cif),12  Sep-19,0.0,SIEM
+213,Fx inflow,12  Sep-19,27904.0,SIEM
+214,Fx outflow,12  Sep-19,45658.0,SIEM
+215,Net fx,12  Sep-19,-17754.0,SIEM
+216,From Operations,12  Sep-19,12917.0,SIEM
+217,From Investments,12  Sep-19,-11528.0,SIEM
+218,From Financial Activity,12  Sep-19,-3116.0,SIEM
+219,Net Cashflow,12  Sep-19,-1738.0,SIEM

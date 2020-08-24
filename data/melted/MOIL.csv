@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8153.0,MOIL
+1,Other income,12  Mar-15*,3166.0,MOIL
+2,Total revenues,12  Mar-15*,11320.0,MOIL
+3,Gross profit,12  Mar-15*,3790.0,MOIL
+4,Depreciation,12  Mar-15*,453.0,MOIL
+5,Interest,12  Mar-15*,0.0,MOIL
+6,Profit before tax,12  Mar-15*,6504.0,MOIL
+7,Minority Interest,12  Mar-15*,0.0,MOIL
+8,Prior Period Items,12  Mar-15*,0.0,MOIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MOIL
+10,Tax,12  Mar-15*,2226.0,MOIL
+11,Profit after tax,12  Mar-15*,4278.0,MOIL
+12,Gross profit margin,12  Mar-15*,46.5,MOIL
+13,Effective tax rate,12  Mar-15*,34.2,MOIL
+14,Net profit margin,12  Mar-15*,52.5,MOIL
+15,Current assets,12  Mar-15*,32181,MOIL
+16,Current liabilities,12  Mar-15*,2510,MOIL
+17,Net working cap to sales,12  Mar-15*,363.9,MOIL
+18,Current ratio,12  Mar-15*,12.8,MOIL
+19,Inventory Days,12  Mar-15*,65,MOIL
+20,Debtors Days,12  Mar-15*,48,MOIL
+21,Net fixed assets,12  Mar-15*,3468,MOIL
+22,Share capital,12  Mar-15*,1680,MOIL
+23,"""Free"" reserves",12  Mar-15*,32135,MOIL
+24,Net worth,12  Mar-15*,33803,MOIL
+25,Long term debt,12  Mar-15*,0,MOIL
+26,Total assets,12  Mar-15*,36533,MOIL
+27,Interest coverage,12  Mar-15*,NM,MOIL
+28,Debt to equity ratio,12  Mar-15*,0,MOIL
+29,Sales to assets ratio,12  Mar-15*,0.2,MOIL
+30,Return on assets,12  Mar-15*,11.7,MOIL
+31,Return on equity,12  Mar-15*,12.7,MOIL
+32,Return on capital,12  Mar-15*,19.2,MOIL
+33,Exports to sales,12  Mar-15*,0,MOIL
+34,Imports to sales,12  Mar-15*,0,MOIL
+35,Exports (fob),12  Mar-15*,0,MOIL
+36,Imports (cif),12  Mar-15*,0,MOIL
+37,Fx inflow,12  Mar-15*,0,MOIL
+38,Fx outflow,12  Mar-15*,0,MOIL
+39,Net fx,12  Mar-15*,0,MOIL
+40,From Operations,12  Mar-15*,275,MOIL
+41,From Investments,12  Mar-15*,1808,MOIL
+42,From Financial Activity,12  Mar-15*,-1714,MOIL
+43,Net Cashflow,12  Mar-15*,370,MOIL
+44,Net Sales,12  Mar-16*,6287.0,MOIL
+45,Other income,12  Mar-16*,2522.0,MOIL
+46,Total revenues,12  Mar-16*,8810.0,MOIL
+47,Gross profit,12  Mar-16*,705.0,MOIL
+48,Depreciation,12  Mar-16*,527.0,MOIL
+49,Interest,12  Mar-16*,0.0,MOIL
+50,Profit before tax,12  Mar-16*,2701.0,MOIL
+51,Minority Interest,12  Mar-16*,0.0,MOIL
+52,Prior Period Items,12  Mar-16*,0.0,MOIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MOIL
+54,Tax,12  Mar-16*,973.0,MOIL
+55,Profit after tax,12  Mar-16*,1728.0,MOIL
+56,Gross profit margin,12  Mar-16*,11.2,MOIL
+57,Effective tax rate,12  Mar-16*,36.0,MOIL
+58,Net profit margin,12  Mar-16*,27.5,MOIL
+59,Current assets,12  Mar-16*,32708,MOIL
+60,Current liabilities,12  Mar-16*,2606,MOIL
+61,Net working cap to sales,12  Mar-16*,478.8,MOIL
+62,Current ratio,12  Mar-16*,12.6,MOIL
+63,Inventory Days,12  Mar-16*,95,MOIL
+64,Debtors Days,12  Mar-16*,82,MOIL
+65,Net fixed assets,12  Mar-16*,3977,MOIL
+66,Share capital,12  Mar-16*,1680,MOIL
+67,"""Free"" reserves",12  Mar-16*,32838,MOIL
+68,Net worth,12  Mar-16*,34518,MOIL
+69,Long term debt,12  Mar-16*,0,MOIL
+70,Total assets,12  Mar-16*,37332,MOIL
+71,Interest coverage,12  Mar-16*,NM,MOIL
+72,Debt to equity ratio,12  Mar-16*,0,MOIL
+73,Sales to assets ratio,12  Mar-16*,0.2,MOIL
+74,Return on assets,12  Mar-16*,4.6,MOIL
+75,Return on equity,12  Mar-16*,5.0,MOIL
+76,Return on capital,12  Mar-16*,7.8,MOIL
+77,Exports to sales,12  Mar-16*,0,MOIL
+78,Imports to sales,12  Mar-16*,0,MOIL
+79,Exports (fob),12  Mar-16*,0,MOIL
+80,Imports (cif),12  Mar-16*,0,MOIL
+81,Fx inflow,12  Mar-16*,0,MOIL
+82,Fx outflow,12  Mar-16*,0,MOIL
+83,Net fx,12  Mar-16*,0,MOIL
+84,From Operations,12  Mar-16*,-240,MOIL
+85,From Investments,12  Mar-16*,1455,MOIL
+86,From Financial Activity,12  Mar-16*,-1013,MOIL
+87,Net Cashflow,12  Mar-16*,202,MOIL
+88,Net Sales,12  Mar-17*,9819.0,MOIL
+89,Other income,12  Mar-17*,2212.0,MOIL
+90,Total revenues,12  Mar-17*,12031.0,MOIL
+91,Gross profit,12  Mar-17*,2972.0,MOIL
+92,Depreciation,12  Mar-17*,547.0,MOIL
+93,Interest,12  Mar-17*,0.0,MOIL
+94,Profit before tax,12  Mar-17*,4637.0,MOIL
+95,Minority Interest,12  Mar-17*,0.0,MOIL
+96,Prior Period Items,12  Mar-17*,-2.0,MOIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MOIL
+98,Tax,12  Mar-17*,1561.0,MOIL
+99,Profit after tax,12  Mar-17*,3074.0,MOIL
+100,Gross profit margin,12  Mar-17*,30.3,MOIL
+101,Effective tax rate,12  Mar-17*,33.7,MOIL
+102,Net profit margin,12  Mar-17*,31.3,MOIL
+103,Current assets,12  Mar-17*,25848,MOIL
+104,Current liabilities,12  Mar-17*,2537,MOIL
+105,Net working cap to sales,12  Mar-17*,237.4,MOIL
+106,Current ratio,12  Mar-17*,10.2,MOIL
+107,Inventory Days,12  Mar-17*,45,MOIL
+108,Debtors Days,12  Mar-17*,90,MOIL
+109,Net fixed assets,12  Mar-17*,4290,MOIL
+110,Share capital,12  Mar-17*,1332,MOIL
+111,"""Free"" reserves",12  Mar-17*,26722,MOIL
+112,Net worth,12  Mar-17*,28053,MOIL
+113,Long term debt,12  Mar-17*,0,MOIL
+114,Total assets,12  Mar-17*,30904,MOIL
+115,Interest coverage,12  Mar-17*,NM,MOIL
+116,Debt to equity ratio,12  Mar-17*,0,MOIL
+117,Sales to assets ratio,12  Mar-17*,0.3,MOIL
+118,Return on assets,12  Mar-17*,9.9,MOIL
+119,Return on equity,12  Mar-17*,11.0,MOIL
+120,Return on capital,12  Mar-17*,16.5,MOIL
+121,Exports to sales,12  Mar-17*,0,MOIL
+122,Imports to sales,12  Mar-17*,0,MOIL
+123,Exports (fob),12  Mar-17*,0,MOIL
+124,Imports (cif),12  Mar-17*,0,MOIL
+125,Fx inflow,12  Mar-17*,0,MOIL
+126,Fx outflow,12  Mar-17*,1,MOIL
+127,Net fx,12  Mar-17*,-1,MOIL
+128,From Operations,12  Mar-17*,1178,MOIL
+129,From Investments,12  Mar-17*,-5877,MOIL
+130,From Financial Activity,12  Mar-17*,-805,MOIL
+131,Net Cashflow,12  Mar-17*,-5504,MOIL
+132,Net Sales,12  Mar-18*,13235.0,MOIL
+133,Other income,12  Mar-18*,1777.0,MOIL
+134,Total revenues,12  Mar-18*,15012.0,MOIL
+135,Gross profit,12  Mar-18*,5281.0,MOIL
+136,Depreciation,12  Mar-18*,625.0,MOIL
+137,Interest,12  Mar-18*,0.0,MOIL
+138,Profit before tax,12  Mar-18*,6434.0,MOIL
+139,Minority Interest,12  Mar-18*,0.0,MOIL
+140,Prior Period Items,12  Mar-18*,0.0,MOIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MOIL
+142,Tax,12  Mar-18*,2259.0,MOIL
+143,Profit after tax,12  Mar-18*,4174.0,MOIL
+144,Gross profit margin,12  Mar-18*,39.9,MOIL
+145,Effective tax rate,12  Mar-18*,35.1,MOIL
+146,Net profit margin,12  Mar-18*,31.5,MOIL
+147,Current assets,12  Mar-18*,26050,MOIL
+148,Current liabilities,12  Mar-18*,4693,MOIL
+149,Net working cap to sales,12  Mar-18*,161.4,MOIL
+150,Current ratio,12  Mar-18*,5.6,MOIL
+151,Inventory Days,12  Mar-18*,27,MOIL
+152,Debtors Days,12  Mar-18*,52,MOIL
+153,Net fixed assets,12  Mar-18*,5863,MOIL
+154,Share capital,12  Mar-18*,2576,MOIL
+155,"""Free"" reserves",12  Mar-18*,25370,MOIL
+156,Net worth,12  Mar-18*,27946,MOIL
+157,Long term debt,12  Mar-18*,0,MOIL
+158,Total assets,12  Mar-18*,32364,MOIL
+159,Interest coverage,12  Mar-18*,NM,MOIL
+160,Debt to equity ratio,12  Mar-18*,0,MOIL
+161,Sales to assets ratio,12  Mar-18*,0.4,MOIL
+162,Return on assets,12  Mar-18*,12.9,MOIL
+163,Return on equity,12  Mar-18*,14.9,MOIL
+164,Return on capital,12  Mar-18*,23.0,MOIL
+165,Exports to sales,12  Mar-18*,0,MOIL
+166,Imports to sales,12  Mar-18*,0,MOIL
+167,Exports (fob),12  Mar-18*,0,MOIL
+168,Imports (cif),12  Mar-18*,0,MOIL
+169,Fx inflow,12  Mar-18*,0,MOIL
+170,Fx outflow,12  Mar-18*,1,MOIL
+171,Net fx,12  Mar-18*,-1,MOIL
+172,From Operations,12  Mar-18*,5287,MOIL
+173,From Investments,12  Mar-18*,-3973,MOIL
+174,From Financial Activity,12  Mar-18*,-2134,MOIL
+175,Net Cashflow,12  Mar-18*,-820,MOIL
+176,Net Sales,12  Mar-19*,14407.0,MOIL
+177,Other income,12  Mar-19*,1908.0,MOIL
+178,Total revenues,12  Mar-19*,16315.0,MOIL
+179,Gross profit,12  Mar-19*,6003.0,MOIL
+180,Depreciation,12  Mar-19*,668.0,MOIL
+181,Interest,12  Mar-19*,0.0,MOIL
+182,Profit before tax,12  Mar-19*,7243.0,MOIL
+183,Minority Interest,12  Mar-19*,0.0,MOIL
+184,Prior Period Items,12  Mar-19*,0.0,MOIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MOIL
+186,Tax,12  Mar-19*,2459.0,MOIL
+187,Profit after tax,12  Mar-19*,4785.0,MOIL
+188,Gross profit margin,12  Mar-19*,41.7,MOIL
+189,Effective tax rate,12  Mar-19*,33.9,MOIL
+190,Net profit margin,12  Mar-19*,33.2,MOIL
+191,Current assets,12  Mar-19*,27972,MOIL
+192,Current liabilities,12  Mar-19*,5059,MOIL
+193,Net working cap to sales,12  Mar-19*,159.0,MOIL
+194,Current ratio,12  Mar-19*,5.5,MOIL
+195,Inventory Days,12  Mar-19*,26,MOIL
+196,Debtors Days,12  Mar-19*,33,MOIL
+197,Net fixed assets,12  Mar-19*,7273,MOIL
+198,Share capital,12  Mar-19*,2576,MOIL
+199,"""Free"" reserves",12  Mar-19*,28251,MOIL
+200,Net worth,12  Mar-19*,30827,MOIL
+201,Long term debt,12  Mar-19*,0,MOIL
+202,Total assets,12  Mar-19*,36049,MOIL
+203,Interest coverage,12  Mar-19*,NM,MOIL
+204,Debt to equity ratio,12  Mar-19*,0,MOIL
+205,Sales to assets ratio,12  Mar-19*,0.4,MOIL
+206,Return on assets,12  Mar-19*,13.3,MOIL
+207,Return on equity,12  Mar-19*,15.5,MOIL
+208,Return on capital,12  Mar-19*,23.5,MOIL
+209,Exports to sales,12  Mar-19*,0,MOIL
+210,Imports to sales,12  Mar-19*,0,MOIL
+211,Exports (fob),12  Mar-19*,0,MOIL
+212,Imports (cif),12  Mar-19*,0,MOIL
+213,Fx inflow,12  Mar-19*,0,MOIL
+214,Fx outflow,12  Mar-19*,7,MOIL
+215,Net fx,12  Mar-19*,-7,MOIL
+216,From Operations,12  Mar-19*,4238,MOIL
+217,From Investments,12  Mar-19*,-2539,MOIL
+218,From Financial Activity,12  Mar-19*,-1728,MOIL
+219,Net Cashflow,12  Mar-19*,-29,MOIL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3029.0,INET
+1,Other income,12  Mar-15*,140.0,INET
+2,Total revenues,12  Mar-15*,3169.0,INET
+3,Gross profit,12  Mar-15*,1339.0,INET
+4,Depreciation,12  Mar-15*,20.0,INET
+5,Interest,12  Mar-15*,176.0,INET
+6,Profit before tax,12  Mar-15*,1284.0,INET
+7,Minority Interest,12  Mar-15*,-132.0,INET
+8,Prior Period Items,12  Mar-15*,0.0,INET
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,INET
+10,Tax,12  Mar-15*,470.0,INET
+11,Profit after tax,12  Mar-15*,682.0,INET
+12,Gross profit margin,12  Mar-15*,44.2,INET
+13,Effective tax rate,12  Mar-15*,36.6,INET
+14,Net profit margin,12  Mar-15*,22.5,INET
+15,Current assets,12  Mar-15*,12399.0,INET
+16,Current liabilities,12  Mar-15*,26697.0,INET
+17,Net working cap to sales,12  Mar-15*,-472.1,INET
+18,Current ratio,12  Mar-15*,0.5,INET
+19,Inventory Days,12  Mar-15*,3497.0,INET
+20,Debtors Days,12  Mar-15*,251.0,INET
+21,Net fixed assets,12  Mar-15*,760.0,INET
+22,Share capital,12  Mar-15*,120.0,INET
+23,"""Free"" reserves",12  Mar-15*,15544.0,INET
+24,Net worth,12  Mar-15*,15664.0,INET
+25,Long term debt,12  Mar-15*,1.0,INET
+26,Total assets,12  Mar-15*,43748.0,INET
+27,Interest coverage,12  Mar-15*,8.3,INET
+28,Debt to equity ratio,12  Mar-15*,0.0,INET
+29,Sales to assets ratio,12  Mar-15*,0.1,INET
+30,Return on assets,12  Mar-15*,2.0,INET
+31,Return on equity,12  Mar-15*,4.4,INET
+32,Return on capital,12  Mar-15*,8.5,INET
+33,Exports to sales,12  Mar-15*,0.0,INET
+34,Imports to sales,12  Mar-15*,0.7,INET
+35,Exports (fob),12  Mar-15*,0.0,INET
+36,Imports (cif),12  Mar-15*,21.0,INET
+37,Fx inflow,12  Mar-15*,91.0,INET
+38,Fx outflow,12  Mar-15*,23.0,INET
+39,Net fx,12  Mar-15*,67.0,INET
+40,From Operations,12  Mar-15*,-853.0,INET
+41,From Investments,12  Mar-15*,-1579.0,INET
+42,From Financial Activity,12  Mar-15*,3346.0,INET
+43,Net Cashflow,12  Mar-15*,913.0,INET
+44,Net Sales,12  Mar-16*,2434.0,INET
+45,Other income,12  Mar-16*,179.0,INET
+46,Total revenues,12  Mar-16*,2613.0,INET
+47,Gross profit,12  Mar-16*,239.0,INET
+48,Depreciation,12  Mar-16*,22.0,INET
+49,Interest,12  Mar-16*,169.0,INET
+50,Profit before tax,12  Mar-16*,227.0,INET
+51,Minority Interest,12  Mar-16*,-17.0,INET
+52,Prior Period Items,12  Mar-16*,0.0,INET
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,INET
+54,Tax,12  Mar-16*,-63.0,INET
+55,Profit after tax,12  Mar-16*,273.0,INET
+56,Gross profit margin,12  Mar-16*,9.8,INET
+57,Effective tax rate,12  Mar-16*,-27.8,INET
+58,Net profit margin,12  Mar-16*,11.2,INET
+59,Current assets,12  Mar-16*,6683.0,INET
+60,Current liabilities,12  Mar-16*,24775.0,INET
+61,Net working cap to sales,12  Mar-16*,-743.4,INET
+62,Current ratio,12  Mar-16*,0.3,INET
+63,Inventory Days,12  Mar-16*,4694.0,INET
+64,Debtors Days,12  Mar-16*,238.0,INET
+65,Net fixed assets,12  Mar-16*,740.0,INET
+66,Share capital,12  Mar-16*,120.0,INET
+67,"""Free"" reserves",12  Mar-16*,15865.0,INET
+68,Net worth,12  Mar-16*,15985.0,INET
+69,Long term debt,12  Mar-16*,346.0,INET
+70,Total assets,12  Mar-16*,41734.0,INET
+71,Interest coverage,12  Mar-16*,2.3,INET
+72,Debt to equity ratio,12  Mar-16*,0.0,INET
+73,Sales to assets ratio,12  Mar-16*,0.1,INET
+74,Return on assets,12  Mar-16*,1.1,INET
+75,Return on equity,12  Mar-16*,1.7,INET
+76,Return on capital,12  Mar-16*,2.3,INET
+77,Exports to sales,12  Mar-16*,0.0,INET
+78,Imports to sales,12  Mar-16*,0.0,INET
+79,Exports (fob),12  Mar-16*,0.0,INET
+80,Imports (cif),12  Mar-16*,0.0,INET
+81,Fx inflow,12  Mar-16*,96.0,INET
+82,Fx outflow,12  Mar-16*,8.0,INET
+83,Net fx,12  Mar-16*,88.0,INET
+84,From Operations,12  Mar-16*,-1280.0,INET
+85,From Investments,12  Mar-16*,-765.0,INET
+86,From Financial Activity,12  Mar-16*,1678.0,INET
+87,Net Cashflow,12  Mar-16*,-367.0,INET
+88,Net Sales,12  Mar-17*,9522.0,INET
+89,Other income,12  Mar-17*,82.0,INET
+90,Total revenues,12  Mar-17*,9604.0,INET
+91,Gross profit,12  Mar-17*,3481.0,INET
+92,Depreciation,12  Mar-17*,23.0,INET
+93,Interest,12  Mar-17*,455.0,INET
+94,Profit before tax,12  Mar-17*,3084.0,INET
+95,Minority Interest,12  Mar-17*,-51.0,INET
+96,Prior Period Items,12  Mar-17*,0.0,INET
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,INET
+98,Tax,12  Mar-17*,872.0,INET
+99,Profit after tax,12  Mar-17*,2161.0,INET
+100,Gross profit margin,12  Mar-17*,36.6,INET
+101,Effective tax rate,12  Mar-17*,28.3,INET
+102,Net profit margin,12  Mar-17*,22.7,INET
+103,Current assets,12  Mar-17*,32695.0,INET
+104,Current liabilities,12  Mar-17*,17791.0,INET
+105,Net working cap to sales,12  Mar-17*,156.5,INET
+106,Current ratio,12  Mar-17*,1.8,INET
+107,Inventory Days,12  Mar-17*,1074.0,INET
+108,Debtors Days,12  Mar-17*,62.0,INET
+109,Net fixed assets,12  Mar-17*,721.0,INET
+110,Share capital,12  Mar-17*,120.0,INET
+111,"""Free"" reserves",12  Mar-17*,17833.0,INET
+112,Net worth,12  Mar-17*,17953.0,INET
+113,Long term debt,12  Mar-17*,296.0,INET
+114,Total assets,12  Mar-17*,36786.0,INET
+115,Interest coverage,12  Mar-17*,7.8,INET
+116,Debt to equity ratio,12  Mar-17*,0.0,INET
+117,Sales to assets ratio,12  Mar-17*,0.3,INET
+118,Return on assets,12  Mar-17*,7.1,INET
+119,Return on equity,12  Mar-17*,12.0,INET
+120,Return on capital,12  Mar-17*,19.1,INET
+121,Exports to sales,12  Mar-17*,0.0,INET
+122,Imports to sales,12  Mar-17*,0.0,INET
+123,Exports (fob),12  Mar-17*,0.0,INET
+124,Imports (cif),12  Mar-17*,0.0,INET
+125,Fx inflow,12  Mar-17*,58.0,INET
+126,Fx outflow,12  Mar-17*,1.0,INET
+127,Net fx,12  Mar-17*,57.0,INET
+128,From Operations,12  Mar-17*,2427.0,INET
+129,From Investments,12  Mar-17*,882.0,INET
+130,From Financial Activity,12  Mar-17*,-3371.0,INET
+131,Net Cashflow,12  Mar-17*,-61.0,INET
+132,Net Sales,12  Mar-18*,8883.0,INET
+133,Other income,12  Mar-18*,91.0,INET
+134,Total revenues,12  Mar-18*,8974.0,INET
+135,Gross profit,12  Mar-18*,3722.0,INET
+136,Depreciation,12  Mar-18*,17.0,INET
+137,Interest,12  Mar-18*,421.0,INET
+138,Profit before tax,12  Mar-18*,3375.0,INET
+139,Minority Interest,12  Mar-18*,-57.0,INET
+140,Prior Period Items,12  Mar-18*,0.0,INET
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,INET
+142,Tax,12  Mar-18*,1078.0,INET
+143,Profit after tax,12  Mar-18*,2240.0,INET
+144,Gross profit margin,12  Mar-18*,41.9,INET
+145,Effective tax rate,12  Mar-18*,32.0,INET
+146,Net profit margin,12  Mar-18*,25.2,INET
+147,Current assets,12  Mar-18*,33414.0,INET
+148,Current liabilities,12  Mar-18*,8943.0,INET
+149,Net working cap to sales,12  Mar-18*,275.5,INET
+150,Current ratio,12  Mar-18*,3.7,INET
+151,Inventory Days,12  Mar-18*,1086.0,INET
+152,Debtors Days,12  Mar-18*,119.0,INET
+153,Net fixed assets,12  Mar-18*,2869.0,INET
+154,Share capital,12  Mar-18*,140.0,INET
+155,"""Free"" reserves",12  Mar-18*,26163.0,INET
+156,Net worth,12  Mar-18*,26304.0,INET
+157,Long term debt,12  Mar-18*,513.0,INET
+158,Total assets,12  Mar-18*,36563.0,INET
+159,Interest coverage,12  Mar-18*,9.0,INET
+160,Debt to equity ratio,12  Mar-18*,0.0,INET
+161,Sales to assets ratio,12  Mar-18*,0.2,INET
+162,Return on assets,12  Mar-18*,7.3,INET
+163,Return on equity,12  Mar-18*,8.5,INET
+164,Return on capital,12  Mar-18*,13.9,INET
+165,Exports to sales,12  Mar-18*,0.0,INET
+166,Imports to sales,12  Mar-18*,0.0,INET
+167,Exports (fob),12  Mar-18*,0.0,INET
+168,Imports (cif),12  Mar-18*,0.0,INET
+169,Fx inflow,12  Mar-18*,11.0,INET
+170,Fx outflow,12  Mar-18*,12.0,INET
+171,Net fx,12  Mar-18*,-1.0,INET
+172,From Operations,12  Mar-18*,-1685.0,INET
+173,From Investments,12  Mar-18*,180.0,INET
+174,From Financial Activity,12  Mar-18*,1401.0,INET
+175,Net Cashflow,12  Mar-18*,-105.0,INET
+176,Net Sales,12  Mar-19*,8568.0,INET
+177,Other income,12  Mar-19*,343.0,INET
+178,Total revenues,12  Mar-19*,8911.0,INET
+179,Gross profit,12  Mar-19*,3780.0,INET
+180,Depreciation,12  Mar-19*,22.0,INET
+181,Interest,12  Mar-19*,408.0,INET
+182,Profit before tax,12  Mar-19*,3693.0,INET
+183,Minority Interest,12  Mar-19*,3.0,INET
+184,Prior Period Items,12  Mar-19*,0.0,INET
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,INET
+186,Tax,12  Mar-19*,1284.0,INET
+187,Profit after tax,12  Mar-19*,2411.0,INET
+188,Gross profit margin,12  Mar-19*,44.1,INET
+189,Effective tax rate,12  Mar-19*,34.8,INET
+190,Net profit margin,12  Mar-19*,28.1,INET
+191,Current assets,12  Mar-19*,35487.0,INET
+192,Current liabilities,12  Mar-19*,5195.0,INET
+193,Net working cap to sales,12  Mar-19*,353.5,INET
+194,Current ratio,12  Mar-19*,6.8,INET
+195,Inventory Days,12  Mar-19*,1121.0,INET
+196,Debtors Days,12  Mar-19*,134.0,INET
+197,Net fixed assets,12  Mar-19*,3015.0,INET
+198,Share capital,12  Mar-19*,140.0,INET
+199,"""Free"" reserves",12  Mar-19*,28197.0,INET
+200,Net worth,12  Mar-19*,28337.0,INET
+201,Long term debt,12  Mar-19*,1254.0,INET
+202,Total assets,12  Mar-19*,39228.0,INET
+203,Interest coverage,12  Mar-19*,10.0,INET
+204,Debt to equity ratio,12  Mar-19*,0.0,INET
+205,Sales to assets ratio,12  Mar-19*,0.2,INET
+206,Return on assets,12  Mar-19*,7.2,INET
+207,Return on equity,12  Mar-19*,8.5,INET
+208,Return on capital,12  Mar-19*,13.9,INET
+209,Exports to sales,12  Mar-19*,0.0,INET
+210,Imports to sales,12  Mar-19*,0.0,INET
+211,Exports (fob),12  Mar-19*,0.0,INET
+212,Imports (cif),12  Mar-19*,0.0,INET
+213,Fx inflow,12  Mar-19*,1.0,INET
+214,Fx outflow,12  Mar-19*,154.0,INET
+215,Net fx,12  Mar-19*,-153.0,INET
+216,From Operations,12  Mar-19*,-79.0,INET
+217,From Investments,12  Mar-19*,723.0,INET
+218,From Financial Activity,12  Mar-19*,-224.0,INET
+219,Net Cashflow,12  Mar-19*,421.0,INET

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-14,20509.0,PROC
+1,Other income,12  Jun-14,802.0,PROC
+2,Total revenues,12  Jun-14,21311.0,PROC
+3,Gross profit,12  Jun-14,4207.0,PROC
+4,Depreciation,12  Jun-14,352.0,PROC
+5,Interest,12  Jun-14,54.0,PROC
+6,Profit before tax,12  Jun-14,4603.0,PROC
+7,Minority Interest,12  Jun-14,0.0,PROC
+8,Prior Period Items,12  Jun-14,0.0,PROC
+9,Extraordinary Inc (Exp),12  Jun-14,0.0,PROC
+10,Tax,12  Jun-14,1583.0,PROC
+11,Profit after tax,12  Jun-14,3020.0,PROC
+12,Gross profit margin,12  Jun-14,20.5,PROC
+13,Effective tax rate,12  Jun-14,34.4,PROC
+14,Net profit margin,12  Jun-14,14.7,PROC
+15,Current assets,12  Jun-14,10124.0,PROC
+16,Current liabilities,12  Jun-14,5021.0,PROC
+17,Net working cap to sales,12  Jun-14,24.9,PROC
+18,Current ratio,12  Jun-14,2.0,PROC
+19,Inventory Days,12  Jun-14,21.0,PROC
+20,Debtors Days,12  Jun-14,15.0,PROC
+21,Net fixed assets,12  Jun-14,3377.0,PROC
+22,Share capital,12  Jun-14,325.0,PROC
+23,"""Free"" reserves",12  Jun-14,9704.0,PROC
+24,Net worth,12  Jun-14,10029.0,PROC
+25,Long term debt,12  Jun-14,0.0,PROC
+26,Total assets,12  Jun-14,15079.0,PROC
+27,Interest coverage,12  Jun-14,86.4,PROC
+28,Debt to equity ratio,12  Jun-14,0.0,PROC
+29,Sales to assets ratio,12  Jun-14,1.4,PROC
+30,Return on assets,12  Jun-14,20.4,PROC
+31,Return on equity,12  Jun-14,30.1,PROC
+32,Return on capital,12  Jun-14,46.4,PROC
+33,Exports to sales,12  Jun-14,1.2,PROC
+34,Imports to sales,12  Jun-14,11.7,PROC
+35,Exports (fob),12  Jun-14,238.0,PROC
+36,Imports (cif),12  Jun-14,2403.0,PROC
+37,Fx inflow,12  Jun-14,264.0,PROC
+38,Fx outflow,12  Jun-14,4385.0,PROC
+39,Net fx,12  Jun-14,-4122.0,PROC
+40,From Operations,12  Jun-14,3332.0,PROC
+41,From Investments,12  Jun-14,-1330.0,PROC
+42,From Financial Activity,12  Jun-14,-950.0,PROC
+43,Net Cashflow,12  Jun-14,1052.0,PROC
+44,Net Sales,12  Jun-15,23338.0,PROC
+45,Other income,12  Jun-15,746.0,PROC
+46,Total revenues,12  Jun-15,24084.0,PROC
+47,Gross profit,12  Jun-15,4844.0,PROC
+48,Depreciation,12  Jun-15,525.0,PROC
+49,Interest,12  Jun-15,57.0,PROC
+50,Profit before tax,12  Jun-15,5008.0,PROC
+51,Minority Interest,12  Jun-15,0.0,PROC
+52,Prior Period Items,12  Jun-15,0.0,PROC
+53,Extraordinary Inc (Exp),12  Jun-15,0.0,PROC
+54,Tax,12  Jun-15,1547.0,PROC
+55,Profit after tax,12  Jun-15,3461.0,PROC
+56,Gross profit margin,12  Jun-15,20.8,PROC
+57,Effective tax rate,12  Jun-15,30.9,PROC
+58,Net profit margin,12  Jun-15,14.8,PROC
+59,Current assets,12  Jun-15,13563.0,PROC
+60,Current liabilities,12  Jun-15,5994.0,PROC
+61,Net working cap to sales,12  Jun-15,32.4,PROC
+62,Current ratio,12  Jun-15,2.3,PROC
+63,Inventory Days,12  Jun-15,19.0,PROC
+64,Debtors Days,12  Jun-15,18.0,PROC
+65,Net fixed assets,12  Jun-15,3483.0,PROC
+66,Share capital,12  Jun-15,325.0,PROC
+67,"""Free"" reserves",12  Jun-15,13133.0,PROC
+68,Net worth,12  Jun-15,13457.0,PROC
+69,Long term debt,12  Jun-15,0.0,PROC
+70,Total assets,12  Jun-15,19484.0,PROC
+71,Interest coverage,12  Jun-15,88.6,PROC
+72,Debt to equity ratio,12  Jun-15,0.0,PROC
+73,Sales to assets ratio,12  Jun-15,1.2,PROC
+74,Return on assets,12  Jun-15,18.1,PROC
+75,Return on equity,12  Jun-15,25.7,PROC
+76,Return on capital,12  Jun-15,37.6,PROC
+77,Exports to sales,12  Jun-15,0.4,PROC
+78,Imports to sales,12  Jun-15,9.6,PROC
+79,Exports (fob),12  Jun-15,87.0,PROC
+80,Imports (cif),12  Jun-15,2234.0,PROC
+81,Fx inflow,12  Jun-15,92.0,PROC
+82,Fx outflow,12  Jun-15,4509.0,PROC
+83,Net fx,12  Jun-15,-4416.0,PROC
+84,From Operations,12  Jun-15,4256.0,PROC
+85,From Investments,12  Jun-15,284.0,PROC
+86,From Financial Activity,12  Jun-15,-1053.0,PROC
+87,Net Cashflow,12  Jun-15,3487.0,PROC
+88,Net Sales,12  Jun-16,22754.0,PROC
+89,Other income,12  Jun-16,876.0,PROC
+90,Total revenues,12  Jun-16,23630.0,PROC
+91,Gross profit,12  Jun-16,6058.0,PROC
+92,Depreciation,12  Jun-16,517.0,PROC
+93,Interest,12  Jun-16,63.0,PROC
+94,Profit before tax,12  Jun-16,6355.0,PROC
+95,Minority Interest,12  Jun-16,0.0,PROC
+96,Prior Period Items,12  Jun-16,0.0,PROC
+97,Extraordinary Inc (Exp),12  Jun-16,0.0,PROC
+98,Tax,12  Jun-16,2130.0,PROC
+99,Profit after tax,12  Jun-16,4225.0,PROC
+100,Gross profit margin,12  Jun-16,26.6,PROC
+101,Effective tax rate,12  Jun-16,33.5,PROC
+102,Net profit margin,12  Jun-16,18.6,PROC
+103,Current assets,12  Jun-16,16319.0,PROC
+104,Current liabilities,12  Jun-16,5111.0,PROC
+105,Net working cap to sales,12  Jun-16,49.3,PROC
+106,Current ratio,12  Jun-16,3.2,PROC
+107,Inventory Days,12  Jun-16,20.0,PROC
+108,Debtors Days,12  Jun-16,24.0,PROC
+109,Net fixed assets,12  Jun-16,3522.0,PROC
+110,Share capital,12  Jun-16,325.0,PROC
+111,"""Free"" reserves",12  Jun-16,16193.0,PROC
+112,Net worth,12  Jun-16,16518.0,PROC
+113,Long term debt,12  Jun-16,0.0,PROC
+114,Total assets,12  Jun-16,21664.0,PROC
+115,Interest coverage,12  Jun-16,102.4,PROC
+116,Debt to equity ratio,12  Jun-16,0.0,PROC
+117,Sales to assets ratio,12  Jun-16,1.1,PROC
+118,Return on assets,12  Jun-16,19.8,PROC
+119,Return on equity,12  Jun-16,25.6,PROC
+120,Return on capital,12  Jun-16,38.9,PROC
+121,Exports to sales,12  Jun-16,0.4,PROC
+122,Imports to sales,12  Jun-16,10.5,PROC
+123,Exports (fob),12  Jun-16,88.0,PROC
+124,Imports (cif),12  Jun-16,2394.0,PROC
+125,Fx inflow,12  Jun-16,89.0,PROC
+126,Fx outflow,12  Jun-16,4911.0,PROC
+127,Net fx,12  Jun-16,-4822.0,PROC
+128,From Operations,12  Jun-16,3525.0,PROC
+129,From Investments,12  Jun-16,2211.0,PROC
+130,From Financial Activity,12  Jun-16,-1217.0,PROC
+131,Net Cashflow,12  Jun-16,4518.0,PROC
+132,Net Sales,12  Jun-17,23204.0,PROC
+133,Other income,12  Jun-17,773.0,PROC
+134,Total revenues,12  Jun-17,23977.0,PROC
+135,Gross profit,12  Jun-17,6646.0,PROC
+136,Depreciation,12  Jun-17,597.0,PROC
+137,Interest,12  Jun-17,104.0,PROC
+138,Profit before tax,12  Jun-17,6718.0,PROC
+139,Minority Interest,12  Jun-17,0.0,PROC
+140,Prior Period Items,12  Jun-17,0.0,PROC
+141,Extraordinary Inc (Exp),12  Jun-17,0.0,PROC
+142,Tax,12  Jun-17,2390.0,PROC
+143,Profit after tax,12  Jun-17,4327.0,PROC
+144,Gross profit margin,12  Jun-17,28.6,PROC
+145,Effective tax rate,12  Jun-17,35.6,PROC
+146,Net profit margin,12  Jun-17,18.6,PROC
+147,Current assets,12  Jun-17,6031.0,PROC
+148,Current liabilities,12  Jun-17,5823.0,PROC
+149,Net working cap to sales,12  Jun-17,0.9,PROC
+150,Current ratio,12  Jun-17,1.0,PROC
+151,Inventory Days,12  Jun-17,28.0,PROC
+152,Debtors Days,12  Jun-17,21.0,PROC
+153,Net fixed assets,12  Jun-17,3266.0,PROC
+154,Share capital,12  Jun-17,325.0,PROC
+155,"""Free"" reserves",12  Jun-17,4937.0,PROC
+156,Net worth,12  Jun-17,5261.0,PROC
+157,Long term debt,12  Jun-17,0.0,PROC
+158,Total assets,12  Jun-17,11601.0,PROC
+159,Interest coverage,12  Jun-17,65.5,PROC
+160,Debt to equity ratio,12  Jun-17,0.0,PROC
+161,Sales to assets ratio,12  Jun-17,2.0,PROC
+162,Return on assets,12  Jun-17,38.2,PROC
+163,Return on equity,12  Jun-17,82.2,PROC
+164,Return on capital,12  Jun-17,129.7,PROC
+165,Exports to sales,12  Jun-17,0.0,PROC
+166,Imports to sales,12  Jun-17,0.0,PROC
+167,Exports (fob),12  Jun-17,0.0,PROC
+168,Imports (cif),12  Jun-17,0.0,PROC
+169,Fx inflow,12  Jun-17,554.0,PROC
+170,Fx outflow,12  Jun-17,4678.0,PROC
+171,Net fx,12  Jun-17,-4124.0,PROC
+172,From Operations,12  Jun-17,4453.0,PROC
+173,From Investments,12  Jun-17,1493.0,PROC
+174,From Financial Activity,12  Jun-17,-15587.0,PROC
+175,Net Cashflow,12  Jun-17,-9642.0,PROC
+176,Net Sales,12  Jun-18,24553.0,PROC
+177,Other income,12  Jun-18,241.0,PROC
+178,Total revenues,12  Jun-18,24794.0,PROC
+179,Gross profit,12  Jun-18,6154.0,PROC
+180,Depreciation,12  Jun-18,524.0,PROC
+181,Interest,12  Jun-18,53.0,PROC
+182,Profit before tax,12  Jun-18,5818.0,PROC
+183,Minority Interest,12  Jun-18,0.0,PROC
+184,Prior Period Items,12  Jun-18,0.0,PROC
+185,Extraordinary Inc (Exp),12  Jun-18,0.0,PROC
+186,Tax,12  Jun-18,2072.0,PROC
+187,Profit after tax,12  Jun-18,3746.0,PROC
+188,Gross profit margin,12  Jun-18,25.1,PROC
+189,Effective tax rate,12  Jun-18,35.6,PROC
+190,Net profit margin,12  Jun-18,15.3,PROC
+191,Current assets,12  Jun-18,8600.0,PROC
+192,Current liabilities,12  Jun-18,5711.0,PROC
+193,Net working cap to sales,12  Jun-18,11.8,PROC
+194,Current ratio,12  Jun-18,1.5,PROC
+195,Inventory Days,12  Jun-18,18.0,PROC
+196,Debtors Days,12  Jun-18,22.0,PROC
+197,Net fixed assets,12  Jun-18,2716.0,PROC
+198,Share capital,12  Jun-18,325.0,PROC
+199,"""Free"" reserves",12  Jun-18,7730.0,PROC
+200,Net worth,12  Jun-18,8055.0,PROC
+201,Long term debt,12  Jun-18,0.0,PROC
+202,Total assets,12  Jun-18,14254.0,PROC
+203,Interest coverage,12  Jun-18,110.4,PROC
+204,Debt to equity ratio,12  Jun-18,0.0,PROC
+205,Sales to assets ratio,12  Jun-18,1.7,PROC
+206,Return on assets,12  Jun-18,26.7,PROC
+207,Return on equity,12  Jun-18,46.5,PROC
+208,Return on capital,12  Jun-18,72.9,PROC
+209,Exports to sales,12  Jun-18,0.0,PROC
+210,Imports to sales,12  Jun-18,0.0,PROC
+211,Exports (fob),12  Jun-18,0.0,PROC
+212,Imports (cif),12  Jun-18,0.0,PROC
+213,Fx inflow,12  Jun-18,264.0,PROC
+214,Fx outflow,12  Jun-18,5600.0,PROC
+215,Net fx,12  Jun-18,-5336.0,PROC
+216,From Operations,12  Jun-18,4155.0,PROC
+217,From Investments,12  Jun-18,-195.0,PROC
+218,From Financial Activity,12  Jun-18,-1061.0,PROC
+219,Net Cashflow,12  Jun-18,2899.0,PROC

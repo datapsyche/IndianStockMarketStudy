@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,4931.0,KARUT
+1,Other income,12  Mar-14*,244.0,KARUT
+2,Total revenues,12  Mar-14*,5175.0,KARUT
+3,Gross profit,12  Mar-14*,1259.0,KARUT
+4,Depreciation,12  Mar-14*,389.0,KARUT
+5,Interest,12  Mar-14*,726.0,KARUT
+6,Profit before tax,12  Mar-14*,388.0,KARUT
+7,Minority Interest,12  Mar-14*,0.0,KARUT
+8,Prior Period Items,12  Mar-14*,-136.0,KARUT
+9,Extraordinary Inc (Exp),12  Mar-14*,204.0,KARUT
+10,Tax,12  Mar-14*,-235.0,KARUT
+11,Profit after tax,12  Mar-14*,691.0,KARUT
+12,Gross profit margin,12  Mar-14*,25.5,KARUT
+13,Effective tax rate,12  Mar-14*,-60.6,KARUT
+14,Net profit margin,12  Mar-14*,14.0,KARUT
+15,Current assets,12  Mar-14*,3811.0,KARUT
+16,Current liabilities,12  Mar-14*,6763.0,KARUT
+17,Net working cap to sales,12  Mar-14*,-59.9,KARUT
+18,Current ratio,12  Mar-14*,0.6,KARUT
+19,Inventory Days,12  Mar-14*,16.0,KARUT
+20,Debtors Days,12  Mar-14*,124.0,KARUT
+21,Net fixed assets,12  Mar-14*,26264.0,KARUT
+22,Share capital,12  Mar-14*,810.0,KARUT
+23,"""Free"" reserves",12  Mar-14*,15785.0,KARUT
+24,Net worth,12  Mar-14*,18613.0,KARUT
+25,Long term debt,12  Mar-14*,4976.0,KARUT
+26,Total assets,12  Mar-14*,30598.0,KARUT
+27,Interest coverage,12  Mar-14*,1.5,KARUT
+28,Debt to equity ratio,12  Mar-14*,0.3,KARUT
+29,Sales to assets ratio,12  Mar-14*,0.2,KARUT
+30,Return on assets,12  Mar-14*,4.6,KARUT
+31,Return on equity,12  Mar-14*,3.7,KARUT
+32,Return on capital,12  Mar-14*,5.0,KARUT
+33,Exports to sales,12  Mar-14*,0.9,KARUT
+34,Imports to sales,12  Mar-14*,0.0,KARUT
+35,Exports (fob),12  Mar-14*,44.0,KARUT
+36,Imports (cif),12  Mar-14*,0.0,KARUT
+37,Fx inflow,12  Mar-14*,44.0,KARUT
+38,Fx outflow,12  Mar-14*,0.0,KARUT
+39,Net fx,12  Mar-14*,43.0,KARUT
+40,From Operations,12  Mar-14*,4367.0,KARUT
+41,From Investments,12  Mar-14*,-3984.0,KARUT
+42,From Financial Activity,12  Mar-14*,-255.0,KARUT
+43,Net Cashflow,12  Mar-14*,129.0,KARUT
+44,Net Sales,12  Mar-15*,2662.0,KARUT
+45,Other income,12  Mar-15*,394.0,KARUT
+46,Total revenues,12  Mar-15*,3056.0,KARUT
+47,Gross profit,12  Mar-15*,440.0,KARUT
+48,Depreciation,12  Mar-15*,265.0,KARUT
+49,Interest,12  Mar-15*,400.0,KARUT
+50,Profit before tax,12  Mar-15*,169.0,KARUT
+51,Minority Interest,12  Mar-15*,0.0,KARUT
+52,Prior Period Items,12  Mar-15*,-10.0,KARUT
+53,Extraordinary Inc (Exp),12  Mar-15*,154.0,KARUT
+54,Tax,12  Mar-15*,-11.0,KARUT
+55,Profit after tax,12  Mar-15*,325.0,KARUT
+56,Gross profit margin,12  Mar-15*,16.5,KARUT
+57,Effective tax rate,12  Mar-15*,-6.5,KARUT
+58,Net profit margin,12  Mar-15*,12.2,KARUT
+59,Current assets,12  Mar-15*,3747.0,KARUT
+60,Current liabilities,12  Mar-15*,8104.0,KARUT
+61,Net working cap to sales,12  Mar-15*,-163.7,KARUT
+62,Current ratio,12  Mar-15*,0.5,KARUT
+63,Inventory Days,12  Mar-15*,32.0,KARUT
+64,Debtors Days,12  Mar-15*,224.0,KARUT
+65,Net fixed assets,12  Mar-15*,27094.0,KARUT
+66,Share capital,12  Mar-15*,810.0,KARUT
+67,"""Free"" reserves",12  Mar-15*,17142.0,KARUT
+68,Net worth,12  Mar-15*,17952.0,KARUT
+69,Long term debt,12  Mar-15*,5063.0,KARUT
+70,Total assets,12  Mar-15*,31360.0,KARUT
+71,Interest coverage,12  Mar-15*,1.4,KARUT
+72,Debt to equity ratio,12  Mar-15*,0.3,KARUT
+73,Sales to assets ratio,12  Mar-15*,0.1,KARUT
+74,Return on assets,12  Mar-15*,2.3,KARUT
+75,Return on equity,12  Mar-15*,1.8,KARUT
+76,Return on capital,12  Mar-15*,3.1,KARUT
+77,Exports to sales,12  Mar-15*,0.1,KARUT
+78,Imports to sales,12  Mar-15*,0.0,KARUT
+79,Exports (fob),12  Mar-15*,2.0,KARUT
+80,Imports (cif),12  Mar-15*,0.0,KARUT
+81,Fx inflow,12  Mar-15*,2.0,KARUT
+82,Fx outflow,12  Mar-15*,0.0,KARUT
+83,Net fx,12  Mar-15*,2.0,KARUT
+84,From Operations,12  Mar-15*,1158.0,KARUT
+85,From Investments,12  Mar-15*,-1201.0,KARUT
+86,From Financial Activity,12  Mar-15*,-22.0,KARUT
+87,Net Cashflow,12  Mar-15*,-65.0,KARUT
+88,Net Sales,12  Mar-16*,3315.0,KARUT
+89,Other income,12  Mar-16*,149.0,KARUT
+90,Total revenues,12  Mar-16*,3464.0,KARUT
+91,Gross profit,12  Mar-16*,1053.0,KARUT
+92,Depreciation,12  Mar-16*,432.0,KARUT
+93,Interest,12  Mar-16*,555.0,KARUT
+94,Profit before tax,12  Mar-16*,216.0,KARUT
+95,Minority Interest,12  Mar-16*,0.0,KARUT
+96,Prior Period Items,12  Mar-16*,-1.0,KARUT
+97,Extraordinary Inc (Exp),12  Mar-16*,149.0,KARUT
+98,Tax,12  Mar-16*,11.0,KARUT
+99,Profit after tax,12  Mar-16*,352.0,KARUT
+100,Gross profit margin,12  Mar-16*,31.8,KARUT
+101,Effective tax rate,12  Mar-16*,5.2,KARUT
+102,Net profit margin,12  Mar-16*,10.6,KARUT
+103,Current assets,12  Mar-16*,3697.0,KARUT
+104,Current liabilities,12  Mar-16*,8117.0,KARUT
+105,Net working cap to sales,12  Mar-16*,-133.3,KARUT
+106,Current ratio,12  Mar-16*,0.5,KARUT
+107,Inventory Days,12  Mar-16*,42.0,KARUT
+108,Debtors Days,12  Mar-16*,159.0,KARUT
+109,Net fixed assets,12  Mar-16*,27941.0,KARUT
+110,Share capital,12  Mar-16*,1020.0,KARUT
+111,"""Free"" reserves",12  Mar-16*,18662.0,KARUT
+112,Net worth,12  Mar-16*,19682.0,KARUT
+113,Long term debt,12  Mar-16*,3890.0,KARUT
+114,Total assets,12  Mar-16*,31931.0,KARUT
+115,Interest coverage,12  Mar-16*,1.4,KARUT
+116,Debt to equity ratio,12  Mar-16*,0.2,KARUT
+117,Sales to assets ratio,12  Mar-16*,0.1,KARUT
+118,Return on assets,12  Mar-16*,2.8,KARUT
+119,Return on equity,12  Mar-16*,1.8,KARUT
+120,Return on capital,12  Mar-16*,3.9,KARUT
+121,Exports to sales,12  Mar-16*,0.0,KARUT
+122,Imports to sales,12  Mar-16*,0.0,KARUT
+123,Exports (fob),12  Mar-16*,0.0,KARUT
+124,Imports (cif),12  Mar-16*,0.0,KARUT
+125,Fx inflow,12  Mar-16*,3152.0,KARUT
+126,Fx outflow,12  Mar-16*,2651.0,KARUT
+127,Net fx,12  Mar-16*,500.0,KARUT
+128,From Operations,12  Mar-16*,1910.0,KARUT
+129,From Investments,12  Mar-16*,-1325.0,KARUT
+130,From Financial Activity,12  Mar-16*,-584.0,KARUT
+131,Net Cashflow,12  Mar-16*,1.0,KARUT
+132,Net Sales,12  Mar-17*,2261.0,KARUT
+133,Other income,12  Mar-17*,894.0,KARUT
+134,Total revenues,12  Mar-17*,3156.0,KARUT
+135,Gross profit,12  Mar-17*,517.0,KARUT
+136,Depreciation,12  Mar-17*,436.0,KARUT
+137,Interest,12  Mar-17*,94.0,KARUT
+138,Profit before tax,12  Mar-17*,882.0,KARUT
+139,Minority Interest,12  Mar-17*,0.0,KARUT
+140,Prior Period Items,12  Mar-17*,0.0,KARUT
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,KARUT
+142,Tax,12  Mar-17*,-31.0,KARUT
+143,Profit after tax,12  Mar-17*,913.0,KARUT
+144,Gross profit margin,12  Mar-17*,22.9,KARUT
+145,Effective tax rate,12  Mar-17*,-3.5,KARUT
+146,Net profit margin,12  Mar-17*,40.4,KARUT
+147,Current assets,12  Mar-17*,2795.0,KARUT
+148,Current liabilities,12  Mar-17*,6166.0,KARUT
+149,Net working cap to sales,12  Mar-17*,-149.1,KARUT
+150,Current ratio,12  Mar-17*,0.5,KARUT
+151,Inventory Days,12  Mar-17*,12.0,KARUT
+152,Debtors Days,12  Mar-17*,173.0,KARUT
+153,Net fixed assets,12  Mar-17*,24985.0,KARUT
+154,Share capital,12  Mar-17*,1498.0,KARUT
+155,"""Free"" reserves",12  Mar-17*,19869.0,KARUT
+156,Net worth,12  Mar-17*,21367.0,KARUT
+157,Long term debt,12  Mar-17*,569.0,KARUT
+158,Total assets,12  Mar-17*,28325.0,KARUT
+159,Interest coverage,12  Mar-17*,10.4,KARUT
+160,Debt to equity ratio,12  Mar-17*,0.0,KARUT
+161,Sales to assets ratio,12  Mar-17*,0.1,KARUT
+162,Return on assets,12  Mar-17*,3.6,KARUT
+163,Return on equity,12  Mar-17*,4.3,KARUT
+164,Return on capital,12  Mar-17*,4.4,KARUT
+165,Exports to sales,12  Mar-17*,0.0,KARUT
+166,Imports to sales,12  Mar-17*,0.0,KARUT
+167,Exports (fob),12  Mar-17*,0.0,KARUT
+168,Imports (cif),12  Mar-17*,0.0,KARUT
+169,Fx inflow,12  Mar-17*,2919.0,KARUT
+170,Fx outflow,12  Mar-17*,1975.0,KARUT
+171,Net fx,12  Mar-17*,943.0,KARUT
+172,From Operations,12  Mar-17*,-442.0,KARUT
+173,From Investments,12  Mar-17*,2343.0,KARUT
+174,From Financial Activity,12  Mar-17*,-1841.0,KARUT
+175,Net Cashflow,12  Mar-17*,60.0,KARUT
+176,Net Sales,12  Mar-18*,2296.0,KARUT
+177,Other income,12  Mar-18*,239.0,KARUT
+178,Total revenues,12  Mar-18*,2535.0,KARUT
+179,Gross profit,12  Mar-18*,638.0,KARUT
+180,Depreciation,12  Mar-18*,328.0,KARUT
+181,Interest,12  Mar-18*,49.0,KARUT
+182,Profit before tax,12  Mar-18*,500.0,KARUT
+183,Minority Interest,12  Mar-18*,0.0,KARUT
+184,Prior Period Items,12  Mar-18*,0.0,KARUT
+185,Extraordinary Inc (Exp),12  Mar-18*,18.0,KARUT
+186,Tax,12  Mar-18*,-2.0,KARUT
+187,Profit after tax,12  Mar-18*,519.0,KARUT
+188,Gross profit margin,12  Mar-18*,27.8,KARUT
+189,Effective tax rate,12  Mar-18*,-0.3,KARUT
+190,Net profit margin,12  Mar-18*,22.6,KARUT
+191,Current assets,12  Mar-18*,4248.0,KARUT
+192,Current liabilities,12  Mar-18*,6460.0,KARUT
+193,Net working cap to sales,12  Mar-18*,-96.3,KARUT
+194,Current ratio,12  Mar-18*,0.7,KARUT
+195,Inventory Days,12  Mar-18*,10.0,KARUT
+196,Debtors Days,12  Mar-18*,370.0,KARUT
+197,Net fixed assets,12  Mar-18*,24166.0,KARUT
+198,Share capital,12  Mar-18*,1498.0,KARUT
+199,"""Free"" reserves",12  Mar-18*,21109.0,KARUT
+200,Net worth,12  Mar-18*,22607.0,KARUT
+201,Long term debt,12  Mar-18*,124.0,KARUT
+202,Total assets,12  Mar-18*,29377.0,KARUT
+203,Interest coverage,12  Mar-18*,11.3,KARUT
+204,Debt to equity ratio,12  Mar-18*,0.0,KARUT
+205,Sales to assets ratio,12  Mar-18*,0.1,KARUT
+206,Return on assets,12  Mar-18*,1.9,KARUT
+207,Return on equity,12  Mar-18*,2.3,KARUT
+208,Return on capital,12  Mar-18*,2.5,KARUT
+209,Exports to sales,12  Mar-18*,0.0,KARUT
+210,Imports to sales,12  Mar-18*,0.0,KARUT
+211,Exports (fob),12  Mar-18*,0.0,KARUT
+212,Imports (cif),12  Mar-18*,0.0,KARUT
+213,Fx inflow,12  Mar-18*,2448.0,KARUT
+214,Fx outflow,12  Mar-18*,1928.0,KARUT
+215,Net fx,12  Mar-18*,520.0,KARUT
+216,From Operations,12  Mar-18*,925.0,KARUT
+217,From Investments,12  Mar-18*,492.0,KARUT
+218,From Financial Activity,12  Mar-18*,-1411.0,KARUT
+219,Net Cashflow,12  Mar-18*,7.0,KARUT

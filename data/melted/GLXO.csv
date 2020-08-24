@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,15  Mar-15,33585.0,GLXO
+1,Other income,15  Mar-15,1999.0,GLXO
+2,Total revenues,15  Mar-15,35584.0,GLXO
+3,Gross profit,15  Mar-15,6283.0,GLXO
+4,Depreciation,15  Mar-15,254.0,GLXO
+5,Interest,15  Mar-15,0.0,GLXO
+6,Profit before tax,15  Mar-15,8028.0,GLXO
+7,Minority Interest,15  Mar-15,0.0,GLXO
+8,Prior Period Items,15  Mar-15,0.0,GLXO
+9,Extraordinary Inc (Exp),15  Mar-15,-519.0,GLXO
+10,Tax,15  Mar-15,2793.0,GLXO
+11,Profit after tax,15  Mar-15,4716.0,GLXO
+12,Gross profit margin,15  Mar-15,18.7,GLXO
+13,Effective tax rate,15  Mar-15,34.8,GLXO
+14,Net profit margin,15  Mar-15,14.0,GLXO
+15,Current assets,15  Mar-15,25870,GLXO
+16,Current liabilities,15  Mar-15,5002,GLXO
+17,Net working cap to sales,15  Mar-15,62.1,GLXO
+18,Current ratio,15  Mar-15,5.2,GLXO
+19,Inventory Days,15  Mar-15,41,GLXO
+20,Debtors Days,15  Mar-15,11,GLXO
+21,Net fixed assets,15  Mar-15,2444,GLXO
+22,Share capital,15  Mar-15,847,GLXO
+23,"""Free"" reserves",15  Mar-15,23594,GLXO
+24,Net worth,15  Mar-15,24441,GLXO
+25,Long term debt,15  Mar-15,26,GLXO
+26,Total assets,15  Mar-15,32244,GLXO
+27,Interest coverage,15  Mar-15,NM,GLXO
+28,Debt to equity ratio,15  Mar-15,0,GLXO
+29,Sales to assets ratio,15  Mar-15,1.0,GLXO
+30,Return on assets,15  Mar-15,14.6,GLXO
+31,Return on equity,15  Mar-15,19.3,GLXO
+32,Return on capital,15  Mar-15,30.7,GLXO
+33,Exports to sales,15  Mar-15,0.2,GLXO
+34,Imports to sales,15  Mar-15,12.9,GLXO
+35,Exports (fob),15  Mar-15,63,GLXO
+36,Imports (cif),15  Mar-15,4334,GLXO
+37,Fx inflow,15  Mar-15,699,GLXO
+38,Fx outflow,15  Mar-15,7680,GLXO
+39,Net fx,15  Mar-15,-6981,GLXO
+40,From Operations,15  Mar-15,3409,GLXO
+41,From Investments,15  Mar-15,1776,GLXO
+42,From Financial Activity,15  Mar-15,-4970,GLXO
+43,Net Cashflow,15  Mar-15,215,GLXO
+44,Net Sales,12  Mar-16,28379.0,GLXO
+45,Other income,12  Mar-16,1228.0,GLXO
+46,Total revenues,12  Mar-16,29607.0,GLXO
+47,Gross profit,12  Mar-16,4783.0,GLXO
+48,Depreciation,12  Mar-16,250.0,GLXO
+49,Interest,12  Mar-16,0.0,GLXO
+50,Profit before tax,12  Mar-16,5761.0,GLXO
+51,Minority Interest,12  Mar-16,0.0,GLXO
+52,Prior Period Items,12  Mar-16,0.0,GLXO
+53,Extraordinary Inc (Exp),12  Mar-16,23.0,GLXO
+54,Tax,12  Mar-16,2023.0,GLXO
+55,Profit after tax,12  Mar-16,3761.0,GLXO
+56,Gross profit margin,12  Mar-16,16.9,GLXO
+57,Effective tax rate,12  Mar-16,35.1,GLXO
+58,Net profit margin,12  Mar-16,13.3,GLXO
+59,Current assets,12  Mar-16,21737,GLXO
+60,Current liabilities,12  Mar-16,5792,GLXO
+61,Net working cap to sales,12  Mar-16,56.2,GLXO
+62,Current ratio,12  Mar-16,3.8,GLXO
+63,Inventory Days,12  Mar-16,68,GLXO
+64,Debtors Days,12  Mar-16,16,GLXO
+65,Net fixed assets,12  Mar-16,4777,GLXO
+66,Share capital,12  Mar-16,847,GLXO
+67,"""Free"" reserves",12  Mar-16,20985,GLXO
+68,Net worth,12  Mar-16,21832,GLXO
+69,Long term debt,12  Mar-16,16,GLXO
+70,Total assets,12  Mar-16,30549,GLXO
+71,Interest coverage,12  Mar-16,NM,GLXO
+72,Debt to equity ratio,12  Mar-16,0,GLXO
+73,Sales to assets ratio,12  Mar-16,0.9,GLXO
+74,Return on assets,12  Mar-16,12.3,GLXO
+75,Return on equity,12  Mar-16,17.2,GLXO
+76,Return on capital,12  Mar-16,26.5,GLXO
+77,Exports to sales,12  Mar-16,0,GLXO
+78,Imports to sales,12  Mar-16,14.9,GLXO
+79,Exports (fob),12  Mar-16,4,GLXO
+80,Imports (cif),12  Mar-16,4237,GLXO
+81,Fx inflow,12  Mar-16,519,GLXO
+82,Fx outflow,12  Mar-16,8320,GLXO
+83,Net fx,12  Mar-16,-7801,GLXO
+84,From Operations,12  Mar-16,1389,GLXO
+85,From Investments,12  Mar-16,4990,GLXO
+86,From Financial Activity,12  Mar-16,-6383,GLXO
+87,Net Cashflow,12  Mar-16,-4,GLXO
+88,Net Sales,12  Mar-17,29085.0,GLXO
+89,Other income,12  Mar-17,731.0,GLXO
+90,Total revenues,12  Mar-17,29816.0,GLXO
+91,Gross profit,12  Mar-17,4190.0,GLXO
+92,Depreciation,12  Mar-17,263.0,GLXO
+93,Interest,12  Mar-17,3.0,GLXO
+94,Profit before tax,12  Mar-17,4655.0,GLXO
+95,Minority Interest,12  Mar-17,0.0,GLXO
+96,Prior Period Items,12  Mar-17,0.0,GLXO
+97,Extraordinary Inc (Exp),12  Mar-17,457.0,GLXO
+98,Tax,12  Mar-17,1744.0,GLXO
+99,Profit after tax,12  Mar-17,3368.0,GLXO
+100,Gross profit margin,12  Mar-17,14.4,GLXO
+101,Effective tax rate,12  Mar-17,37.5,GLXO
+102,Net profit margin,12  Mar-17,11.6,GLXO
+103,Current assets,12  Mar-17,16742.0,GLXO
+104,Current liabilities,12  Mar-17,7202.0,GLXO
+105,Net working cap to sales,12  Mar-17,32.8,GLXO
+106,Current ratio,12  Mar-17,2.3,GLXO
+107,Inventory Days,12  Mar-17,53.0,GLXO
+108,Debtors Days,12  Mar-17,21.0,GLXO
+109,Net fixed assets,12  Mar-17,8635.0,GLXO
+110,Share capital,12  Mar-17,847.0,GLXO
+111,"""Free"" reserves",12  Mar-17,19222.0,GLXO
+112,Net worth,12  Mar-17,20069.0,GLXO
+113,Long term debt,12  Mar-17,10.0,GLXO
+114,Total assets,12  Mar-17,30038.0,GLXO
+115,Interest coverage,12  Mar-17,1552.7,GLXO
+116,Debt to equity ratio,12  Mar-17,0.0,GLXO
+117,Sales to assets ratio,12  Mar-17,1.0,GLXO
+118,Return on assets,12  Mar-17,11.2,GLXO
+119,Return on equity,12  Mar-17,16.8,GLXO
+120,Return on capital,12  Mar-17,25.5,GLXO
+121,Exports to sales,12  Mar-17,0.0,GLXO
+122,Imports to sales,12  Mar-17,0.0,GLXO
+123,Exports (fob),12  Mar-17,0.0,GLXO
+124,Imports (cif),12  Mar-17,0.0,GLXO
+125,Fx inflow,12  Mar-17,528.0,GLXO
+126,Fx outflow,12  Mar-17,7193.0,GLXO
+127,Net fx,12  Mar-17,-6665.0,GLXO
+128,From Operations,12  Mar-17,2344.0,GLXO
+129,From Investments,12  Mar-17,3006.0,GLXO
+130,From Financial Activity,12  Mar-17,-5108.0,GLXO
+131,Net Cashflow,12  Mar-17,242.0,GLXO
+132,Net Sales,12  Mar-18,28715.0,GLXO
+133,Other income,12  Mar-18,545.0,GLXO
+134,Total revenues,12  Mar-18,29260.0,GLXO
+135,Gross profit,12  Mar-18,5059.0,GLXO
+136,Depreciation,12  Mar-18,380.0,GLXO
+137,Interest,12  Mar-18,2.0,GLXO
+138,Profit before tax,12  Mar-18,5222.0,GLXO
+139,Minority Interest,12  Mar-18,0.0,GLXO
+140,Prior Period Items,12  Mar-18,0.0,GLXO
+141,Extraordinary Inc (Exp),12  Mar-18,178.0,GLXO
+142,Tax,12  Mar-18,1892.0,GLXO
+143,Profit after tax,12  Mar-18,3508.0,GLXO
+144,Gross profit margin,12  Mar-18,17.6,GLXO
+145,Effective tax rate,12  Mar-18,36.2,GLXO
+146,Net profit margin,12  Mar-18,12.2,GLXO
+147,Current assets,12  Mar-18,21815.0,GLXO
+148,Current liabilities,12  Mar-18,15999.0,GLXO
+149,Net working cap to sales,12  Mar-18,20.3,GLXO
+150,Current ratio,12  Mar-18,1.4,GLXO
+151,Inventory Days,12  Mar-18,64.0,GLXO
+152,Debtors Days,12  Mar-18,19.0,GLXO
+153,Net fixed assets,12  Mar-18,12475.0,GLXO
+154,Share capital,12  Mar-18,847.0,GLXO
+155,"""Free"" reserves",12  Mar-18,19726.0,GLXO
+156,Net worth,12  Mar-18,20573.0,GLXO
+157,Long term debt,12  Mar-18,6.0,GLXO
+158,Total assets,12  Mar-18,39475.0,GLXO
+159,Interest coverage,12  Mar-18,2612.0,GLXO
+160,Debt to equity ratio,12  Mar-18,0.0,GLXO
+161,Sales to assets ratio,12  Mar-18,0.7,GLXO
+162,Return on assets,12  Mar-18,8.9,GLXO
+163,Return on equity,12  Mar-18,17.1,GLXO
+164,Return on capital,12  Mar-18,26.2,GLXO
+165,Exports to sales,12  Mar-18,0.0,GLXO
+166,Imports to sales,12  Mar-18,0.0,GLXO
+167,Exports (fob),12  Mar-18,0.0,GLXO
+168,Imports (cif),12  Mar-18,0.0,GLXO
+169,Fx inflow,12  Mar-18,564.0,GLXO
+170,Fx outflow,12  Mar-18,7429.0,GLXO
+171,Net fx,12  Mar-18,-6865.0,GLXO
+172,From Operations,12  Mar-18,4728.0,GLXO
+173,From Investments,12  Mar-18,-1042.0,GLXO
+174,From Financial Activity,12  Mar-18,-3066.0,GLXO
+175,Net Cashflow,12  Mar-18,620.0,GLXO
+176,Net Sales,12  Mar-19,31281.0,GLXO
+177,Other income,12  Mar-19,1023.0,GLXO
+178,Total revenues,12  Mar-19,32304.0,GLXO
+179,Gross profit,12  Mar-19,6009.0,GLXO
+180,Depreciation,12  Mar-19,486.0,GLXO
+181,Interest,12  Mar-19,6.0,GLXO
+182,Profit before tax,12  Mar-19,6540.0,GLXO
+183,Minority Interest,12  Mar-19,0.0,GLXO
+184,Prior Period Items,12  Mar-19,0.0,GLXO
+185,Extraordinary Inc (Exp),12  Mar-19,287.0,GLXO
+186,Tax,12  Mar-19,2373.0,GLXO
+187,Profit after tax,12  Mar-19,4454.0,GLXO
+188,Gross profit margin,12  Mar-19,19.2,GLXO
+189,Effective tax rate,12  Mar-19,36.3,GLXO
+190,Net profit margin,12  Mar-19,14.2,GLXO
+191,Current assets,12  Mar-19,20061.0,GLXO
+192,Current liabilities,12  Mar-19,14543.0,GLXO
+193,Net working cap to sales,12  Mar-19,17.6,GLXO
+194,Current ratio,12  Mar-19,1.4,GLXO
+195,Inventory Days,12  Mar-19,57.0,GLXO
+196,Debtors Days,12  Mar-19,14.0,GLXO
+197,Net fixed assets,12  Mar-19,14343.0,GLXO
+198,Share capital,12  Mar-19,1694.0,GLXO
+199,"""Free"" reserves",12  Mar-19,19704.0,GLXO
+200,Net worth,12  Mar-19,21398.0,GLXO
+201,Long term debt,12  Mar-19,2.0,GLXO
+202,Total assets,12  Mar-19,39113.0,GLXO
+203,Interest coverage,12  Mar-19,1091.0,GLXO
+204,Debt to equity ratio,12  Mar-19,0.0,GLXO
+205,Sales to assets ratio,12  Mar-19,0.8,GLXO
+206,Return on assets,12  Mar-19,11.4,GLXO
+207,Return on equity,12  Mar-19,20.8,GLXO
+208,Return on capital,12  Mar-19,31.9,GLXO
+209,Exports to sales,12  Mar-19,0.0,GLXO
+210,Imports to sales,12  Mar-19,0.0,GLXO
+211,Exports (fob),12  Mar-19,0.0,GLXO
+212,Imports (cif),12  Mar-19,0.0,GLXO
+213,Fx inflow,12  Mar-19,534.0,GLXO
+214,Fx outflow,12  Mar-19,7091.0,GLXO
+215,Net fx,12  Mar-19,-6557.0,GLXO
+216,From Operations,12  Mar-19,3994.0,GLXO
+217,From Investments,12  Mar-19,-1433.0,GLXO
+218,From Financial Activity,12  Mar-19,-3584.0,GLXO
+219,Net Cashflow,12  Mar-19,-1023.0,GLXO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,19403.0,PIIN
+1,Other income,12  Mar-15*,420.0,PIIN
+2,Total revenues,12  Mar-15*,19823.0,PIIN
+3,Gross profit,12  Mar-15*,3727.0,PIIN
+4,Depreciation,12  Mar-15*,498.0,PIIN
+5,Interest,12  Mar-15*,97.0,PIIN
+6,Profit before tax,12  Mar-15*,3552.0,PIIN
+7,Minority Interest,12  Mar-15*,0.0,PIIN
+8,Prior Period Items,12  Mar-15*,0.0,PIIN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PIIN
+10,Tax,12  Mar-15*,1093.0,PIIN
+11,Profit after tax,12  Mar-15*,2459.0,PIIN
+12,Gross profit margin,12  Mar-15*,19.2,PIIN
+13,Effective tax rate,12  Mar-15*,30.8,PIIN
+14,Net profit margin,12  Mar-15*,12.7,PIIN
+15,Current assets,12  Mar-15*,8991.0,PIIN
+16,Current liabilities,12  Mar-15*,6370.0,PIIN
+17,Net working cap to sales,12  Mar-15*,13.5,PIIN
+18,Current ratio,12  Mar-15*,1.4,PIIN
+19,Inventory Days,12  Mar-15*,71.0,PIIN
+20,Debtors Days,12  Mar-15*,72.0,PIIN
+21,Net fixed assets,12  Mar-15*,6511.0,PIIN
+22,Share capital,12  Mar-15*,137.0,PIIN
+23,"""Free"" reserves",12  Mar-15*,9028.0,PIIN
+24,Net worth,12  Mar-15*,9165.0,PIIN
+25,Long term debt,12  Mar-15*,167.0,PIIN
+26,Total assets,12  Mar-15*,16270.0,PIIN
+27,Interest coverage,12  Mar-15*,37.5,PIIN
+28,Debt to equity ratio,12  Mar-15*,0.0,PIIN
+29,Sales to assets ratio,12  Mar-15*,1.2,PIIN
+30,Return on assets,12  Mar-15*,15.7,PIIN
+31,Return on equity,12  Mar-15*,26.8,PIIN
+32,Return on capital,12  Mar-15*,39.1,PIIN
+33,Exports to sales,12  Mar-15*,59.2,PIIN
+34,Imports to sales,12  Mar-15*,32.7,PIIN
+35,Exports (fob),12  Mar-15*,11480.0,PIIN
+36,Imports (cif),12  Mar-15*,6349.0,PIIN
+37,Fx inflow,12  Mar-15*,11480.0,PIIN
+38,Fx outflow,12  Mar-15*,6471.0,PIIN
+39,Net fx,12  Mar-15*,5009.0,PIIN
+40,From Operations,12  Mar-15*,1842.0,PIIN
+41,From Investments,12  Mar-15*,-1463.0,PIIN
+42,From Financial Activity,12  Mar-15*,-526.0,PIIN
+43,Net Cashflow,12  Mar-15*,-147.0,PIIN
+44,Net Sales,12  Mar-16*,20963.0,PIIN
+45,Other income,12  Mar-16*,355.0,PIIN
+46,Total revenues,12  Mar-16*,21318.0,PIIN
+47,Gross profit,12  Mar-16*,4313.0,PIIN
+48,Depreciation,12  Mar-16*,543.0,PIIN
+49,Interest,12  Mar-16*,96.0,PIIN
+50,Profit before tax,12  Mar-16*,4028.0,PIIN
+51,Minority Interest,12  Mar-16*,0.0,PIIN
+52,Prior Period Items,12  Mar-16*,0.0,PIIN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PIIN
+54,Tax,12  Mar-16*,913.0,PIIN
+55,Profit after tax,12  Mar-16*,3116.0,PIIN
+56,Gross profit margin,12  Mar-16*,20.6,PIIN
+57,Effective tax rate,12  Mar-16*,22.7,PIIN
+58,Net profit margin,12  Mar-16*,14.9,PIIN
+59,Current assets,12  Mar-16*,9560.0,PIIN
+60,Current liabilities,12  Mar-16*,5913.0,PIIN
+61,Net working cap to sales,12  Mar-16*,17.4,PIIN
+62,Current ratio,12  Mar-16*,1.6,PIIN
+63,Inventory Days,12  Mar-16*,69.0,PIIN
+64,Debtors Days,12  Mar-16*,69.0,PIIN
+65,Net fixed assets,12  Mar-16*,9281.0,PIIN
+66,Share capital,12  Mar-16*,137.0,PIIN
+67,"""Free"" reserves",12  Mar-16*,11572.0,PIIN
+68,Net worth,12  Mar-16*,11709.0,PIIN
+69,Long term debt,12  Mar-16*,1224.0,PIIN
+70,Total assets,12  Mar-16*,19486.0,PIIN
+71,Interest coverage,12  Mar-16*,43.0,PIIN
+72,Debt to equity ratio,12  Mar-16*,0.1,PIIN
+73,Sales to assets ratio,12  Mar-16*,1.1,PIIN
+74,Return on assets,12  Mar-16*,16.5,PIIN
+75,Return on equity,12  Mar-16*,26.6,PIIN
+76,Return on capital,12  Mar-16*,31.9,PIIN
+77,Exports to sales,12  Mar-16*,59.2,PIIN
+78,Imports to sales,12  Mar-16*,28.1,PIIN
+79,Exports (fob),12  Mar-16*,12415.0,PIIN
+80,Imports (cif),12  Mar-16*,5889.0,PIIN
+81,Fx inflow,12  Mar-16*,12415.0,PIIN
+82,Fx outflow,12  Mar-16*,6040.0,PIIN
+83,Net fx,12  Mar-16*,6376.0,PIIN
+84,From Operations,12  Mar-16*,3668.0,PIIN
+85,From Investments,12  Mar-16*,-3034.0,PIIN
+86,From Financial Activity,12  Mar-16*,-476.0,PIIN
+87,Net Cashflow,12  Mar-16*,159.0,PIIN
+88,Net Sales,12  Mar-17*,22768.0,PIIN
+89,Other income,12  Mar-17*,366.0,PIIN
+90,Total revenues,12  Mar-17*,23134.0,PIIN
+91,Gross profit,12  Mar-17*,5531.0,PIIN
+92,Depreciation,12  Mar-17*,730.0,PIIN
+93,Interest,12  Mar-17*,72.0,PIIN
+94,Profit before tax,12  Mar-17*,5094.0,PIIN
+95,Minority Interest,12  Mar-17*,1.0,PIIN
+96,Prior Period Items,12  Mar-17*,0.0,PIIN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PIIN
+98,Tax,12  Mar-17*,501.0,PIIN
+99,Profit after tax,12  Mar-17*,4594.0,PIIN
+100,Gross profit margin,12  Mar-17*,24.3,PIIN
+101,Effective tax rate,12  Mar-17*,9.8,PIIN
+102,Net profit margin,12  Mar-17*,20.2,PIIN
+103,Current assets,12  Mar-17*,12179.0,PIIN
+104,Current liabilities,12  Mar-17*,5513.0,PIIN
+105,Net working cap to sales,12  Mar-17*,29.3,PIIN
+106,Current ratio,12  Mar-17*,2.2,PIIN
+107,Inventory Days,12  Mar-17*,69.0,PIIN
+108,Debtors Days,12  Mar-17*,68.0,PIIN
+109,Net fixed assets,12  Mar-17*,9959.0,PIIN
+110,Share capital,12  Mar-17*,138.0,PIIN
+111,"""Free"" reserves",12  Mar-17*,16134.0,PIIN
+112,Net worth,12  Mar-17*,16272.0,PIIN
+113,Long term debt,12  Mar-17*,830.0,PIIN
+114,Total assets,12  Mar-17*,23014.0,PIIN
+115,Interest coverage,12  Mar-17*,71.7,PIIN
+116,Debt to equity ratio,12  Mar-17*,0.1,PIIN
+117,Sales to assets ratio,12  Mar-17*,1.0,PIIN
+118,Return on assets,12  Mar-17*,20.3,PIIN
+119,Return on equity,12  Mar-17*,28.2,PIIN
+120,Return on capital,12  Mar-17*,30.2,PIIN
+121,Exports to sales,12  Mar-17*,0.0,PIIN
+122,Imports to sales,12  Mar-17*,0.0,PIIN
+123,Exports (fob),12  Mar-17*,0.0,PIIN
+124,Imports (cif),12  Mar-17*,0.0,PIIN
+125,Fx inflow,12  Mar-17*,13840.0,PIIN
+126,Fx outflow,12  Mar-17*,5937.0,PIIN
+127,Net fx,12  Mar-17*,7903.0,PIIN
+128,From Operations,12  Mar-17*,3389.0,PIIN
+129,From Investments,12  Mar-17*,-2351.0,PIIN
+130,From Financial Activity,12  Mar-17*,-534.0,PIIN
+131,Net Cashflow,12  Mar-17*,503.0,PIIN
+132,Net Sales,12  Mar-18*,22771.0,PIIN
+133,Other income,12  Mar-18*,603.0,PIIN
+134,Total revenues,12  Mar-18*,23373.0,PIIN
+135,Gross profit,12  Mar-18*,4934.0,PIIN
+136,Depreciation,12  Mar-18*,830.0,PIIN
+137,Interest,12  Mar-18*,53.0,PIIN
+138,Profit before tax,12  Mar-18*,4653.0,PIIN
+139,Minority Interest,12  Mar-18*,2.0,PIIN
+140,Prior Period Items,12  Mar-18*,0.0,PIIN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PIIN
+142,Tax,12  Mar-18*,979.0,PIIN
+143,Profit after tax,12  Mar-18*,3676.0,PIIN
+144,Gross profit margin,12  Mar-18*,21.7,PIIN
+145,Effective tax rate,12  Mar-18*,21.0,PIIN
+146,Net profit margin,12  Mar-18*,16.1,PIIN
+147,Current assets,12  Mar-18*,14618.0,PIIN
+148,Current liabilities,12  Mar-18*,6136.0,PIIN
+149,Net working cap to sales,12  Mar-18*,37.2,PIIN
+150,Current ratio,12  Mar-18*,2.4,PIIN
+151,Inventory Days,12  Mar-18*,72.0,PIIN
+152,Debtors Days,12  Mar-18*,84.0,PIIN
+153,Net fixed assets,12  Mar-18*,10882.0,PIIN
+154,Share capital,12  Mar-18*,138.0,PIIN
+155,"""Free"" reserves",12  Mar-18*,19110.0,PIIN
+156,Net worth,12  Mar-18*,19248.0,PIIN
+157,Long term debt,12  Mar-18*,463.0,PIIN
+158,Total assets,12  Mar-18*,26264.0,PIIN
+159,Interest coverage,12  Mar-18*,88.5,PIIN
+160,Debt to equity ratio,12  Mar-18*,0.0,PIIN
+161,Sales to assets ratio,12  Mar-18*,0.9,PIIN
+162,Return on assets,12  Mar-18*,14.2,PIIN
+163,Return on equity,12  Mar-18*,19.1,PIIN
+164,Return on capital,12  Mar-18*,23.9,PIIN
+165,Exports to sales,12  Mar-18*,0.0,PIIN
+166,Imports to sales,12  Mar-18*,0.0,PIIN
+167,Exports (fob),12  Mar-18*,0.0,PIIN
+168,Imports (cif),12  Mar-18*,0.0,PIIN
+169,Fx inflow,12  Mar-18*,13825.0,PIIN
+170,Fx outflow,12  Mar-18*,5064.0,PIIN
+171,Net fx,12  Mar-18*,8761.0,PIIN
+172,From Operations,12  Mar-18*,3194.0,PIIN
+173,From Investments,12  Mar-18*,-1805.0,PIIN
+174,From Financial Activity,12  Mar-18*,-1060.0,PIIN
+175,Net Cashflow,12  Mar-18*,329.0,PIIN
+176,Net Sales,12  Mar-19*,28409.0,PIIN
+177,Other income,12  Mar-19*,595.0,PIIN
+178,Total revenues,12  Mar-19*,29004.0,PIIN
+179,Gross profit,12  Mar-19*,5764.0,PIIN
+180,Depreciation,12  Mar-19*,930.0,PIIN
+181,Interest,12  Mar-19*,50.0,PIIN
+182,Profit before tax,12  Mar-19*,5379.0,PIIN
+183,Minority Interest,12  Mar-19*,0.0,PIIN
+184,Prior Period Items,12  Mar-19*,0.0,PIIN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PIIN
+186,Tax,12  Mar-19*,1277.0,PIIN
+187,Profit after tax,12  Mar-19*,4102.0,PIIN
+188,Gross profit margin,12  Mar-19*,20.3,PIIN
+189,Effective tax rate,12  Mar-19*,23.7,PIIN
+190,Net profit margin,12  Mar-19*,14.4,PIIN
+191,Current assets,12  Mar-19*,16909.0,PIIN
+192,Current liabilities,12  Mar-19*,8115.0,PIIN
+193,Net working cap to sales,12  Mar-19*,31.0,PIIN
+194,Current ratio,12  Mar-19*,2.1,PIIN
+195,Inventory Days,12  Mar-19*,69.0,PIIN
+196,Debtors Days,12  Mar-19*,85.0,PIIN
+197,Net fixed assets,12  Mar-19*,13787.0,PIIN
+198,Share capital,12  Mar-19*,138.0,PIIN
+199,"""Free"" reserves",12  Mar-19*,22716.0,PIIN
+200,Net worth,12  Mar-19*,22854.0,PIIN
+201,Long term debt,12  Mar-19*,99.0,PIIN
+202,Total assets,12  Mar-19*,31548.0,PIIN
+203,Interest coverage,12  Mar-19*,108.6,PIIN
+204,Debt to equity ratio,12  Mar-19*,0.0,PIIN
+205,Sales to assets ratio,12  Mar-19*,0.9,PIIN
+206,Return on assets,12  Mar-19*,13.2,PIIN
+207,Return on equity,12  Mar-19*,17.9,PIIN
+208,Return on capital,12  Mar-19*,23.7,PIIN
+209,Exports to sales,12  Mar-19*,0.0,PIIN
+210,Imports to sales,12  Mar-19*,0.0,PIIN
+211,Exports (fob),12  Mar-19*,0.0,PIIN
+212,Imports (cif),12  Mar-19*,0.0,PIIN
+213,Fx inflow,12  Mar-19*,19261.0,PIIN
+214,Fx outflow,12  Mar-19*,8926.0,PIIN
+215,Net fx,12  Mar-19*,10335.0,PIIN
+216,From Operations,12  Mar-19*,3908.0,PIIN
+217,From Investments,12  Mar-19*,-3216.0,PIIN
+218,From Financial Activity,12  Mar-19*,-1251.0,PIIN
+219,Net Cashflow,12  Mar-19*,-559.0,PIIN

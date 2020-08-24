@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,15  Mar-15,133774.0,MICO
+1,Other income,15  Mar-15,5653.0,MICO
+2,Total revenues,15  Mar-15,139427.0,MICO
+3,Gross profit,15  Mar-15,19533.0,MICO
+4,Depreciation,15  Mar-15,5484.0,MICO
+5,Interest,15  Mar-15,143.0,MICO
+6,Profit before tax,15  Mar-15,19559.0,MICO
+7,Minority Interest,15  Mar-15,0.0,MICO
+8,Prior Period Items,15  Mar-15,0.0,MICO
+9,Extraordinary Inc (Exp),15  Mar-15,0.0,MICO
+10,Tax,15  Mar-15,6182.0,MICO
+11,Profit after tax,15  Mar-15,13377.0,MICO
+12,Gross profit margin,15  Mar-15,14.6,MICO
+13,Effective tax rate,15  Mar-15,31.6,MICO
+14,Net profit margin,15  Mar-15,10.0,MICO
+15,Current assets,15  Mar-15,59517.0,MICO
+16,Current liabilities,15  Mar-15,22771.0,MICO
+17,Net working cap to sales,15  Mar-15,27.5,MICO
+18,Current ratio,15  Mar-15,2.6,MICO
+19,Inventory Days,15  Mar-15,35.0,MICO
+20,Debtors Days,15  Mar-15,33.0,MICO
+21,Net fixed assets,15  Mar-15,13958.0,MICO
+22,Share capital,15  Mar-15,314.0,MICO
+23,"""Free"" reserves",15  Mar-15,83655.0,MICO
+24,Net worth,15  Mar-15,83969.0,MICO
+25,Long term debt,15  Mar-15,542.0,MICO
+26,Total assets,15  Mar-15,111648.0,MICO
+27,Interest coverage,15  Mar-15,137.8,MICO
+28,Debt to equity ratio,15  Mar-15,0.0,MICO
+29,Sales to assets ratio,15  Mar-15,1.2,MICO
+30,Return on assets,15  Mar-15,12.1,MICO
+31,Return on equity,15  Mar-15,15.9,MICO
+32,Return on capital,15  Mar-15,23.3,MICO
+33,Exports to sales,15  Mar-15,10.2,MICO
+34,Imports to sales,15  Mar-15,22.5,MICO
+35,Exports (fob),15  Mar-15,13681.0,MICO
+36,Imports (cif),15  Mar-15,30147.0,MICO
+37,Fx inflow,15  Mar-15,14898.0,MICO
+38,Fx outflow,15  Mar-15,35554.0,MICO
+39,Net fx,15  Mar-15,-20656.0,MICO
+40,From Operations,15  Mar-15,13942.0,MICO
+41,From Investments,15  Mar-15,-11795.0,MICO
+42,From Financial Activity,15  Mar-15,-2382.0,MICO
+43,Net Cashflow,15  Mar-15,-235.0,MICO
+44,Net Sales,12  Mar-16,97014.0,MICO
+45,Other income,12  Mar-16,6036.0,MICO
+46,Total revenues,12  Mar-16,103050.0,MICO
+47,Gross profit,12  Mar-16,18781.0,MICO
+48,Depreciation,12  Mar-16,3864.0,MICO
+49,Interest,12  Mar-16,129.0,MICO
+50,Profit before tax,12  Mar-16,20824.0,MICO
+51,Minority Interest,12  Mar-16,0.0,MICO
+52,Prior Period Items,12  Mar-16,0.0,MICO
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,MICO
+54,Tax,12  Mar-16,5701.0,MICO
+55,Profit after tax,12  Mar-16,15123.0,MICO
+56,Gross profit margin,12  Mar-16,19.4,MICO
+57,Effective tax rate,12  Mar-16,27.4,MICO
+58,Net profit margin,12  Mar-16,15.6,MICO
+59,Current assets,12  Mar-16,58383.0,MICO
+60,Current liabilities,12  Mar-16,25005.0,MICO
+61,Net working cap to sales,12  Mar-16,34.4,MICO
+62,Current ratio,12  Mar-16,2.3,MICO
+63,Inventory Days,12  Mar-16,45.0,MICO
+64,Debtors Days,12  Mar-16,50.0,MICO
+65,Net fixed assets,12  Mar-16,14780.0,MICO
+66,Share capital,12  Mar-16,314.0,MICO
+67,"""Free"" reserves",12  Mar-16,94954.0,MICO
+68,Net worth,12  Mar-16,95268.0,MICO
+69,Long term debt,12  Mar-16,149.0,MICO
+70,Total assets,12  Mar-16,124247.0,MICO
+71,Interest coverage,12  Mar-16,162.4,MICO
+72,Debt to equity ratio,12  Mar-16,0.0,MICO
+73,Sales to assets ratio,12  Mar-16,0.8,MICO
+74,Return on assets,12  Mar-16,12.3,MICO
+75,Return on equity,12  Mar-16,15.9,MICO
+76,Return on capital,12  Mar-16,22.0,MICO
+77,Exports to sales,12  Mar-16,11.0,MICO
+78,Imports to sales,12  Mar-16,28.1,MICO
+79,Exports (fob),12  Mar-16,10711.0,MICO
+80,Imports (cif),12  Mar-16,27303.0,MICO
+81,Fx inflow,12  Mar-16,12256.0,MICO
+82,Fx outflow,12  Mar-16,32983.0,MICO
+83,Net fx,12  Mar-16,-20727.0,MICO
+84,From Operations,12  Mar-16,13177.0,MICO
+85,From Investments,12  Mar-16,-9949.0,MICO
+86,From Financial Activity,12  Mar-16,-3560.0,MICO
+87,Net Cashflow,12  Mar-16,-332.0,MICO
+88,Net Sales,12  Mar-17,104352.0,MICO
+89,Other income,12  Mar-17,6174.0,MICO
+90,Total revenues,12  Mar-17,110526.0,MICO
+91,Gross profit,12  Mar-17,19604.0,MICO
+92,Depreciation,12  Mar-17,4562.0,MICO
+93,Interest,12  Mar-17,272.0,MICO
+94,Profit before tax,12  Mar-17,20944.0,MICO
+95,Minority Interest,12  Mar-17,0.0,MICO
+96,Prior Period Items,12  Mar-17,0.0,MICO
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,MICO
+98,Tax,12  Mar-17,6503.0,MICO
+99,Profit after tax,12  Mar-17,14441.0,MICO
+100,Gross profit margin,12  Mar-17,18.8,MICO
+101,Effective tax rate,12  Mar-17,31.0,MICO
+102,Net profit margin,12  Mar-17,13.8,MICO
+103,Current assets,12  Mar-17,58995.0,MICO
+104,Current liabilities,12  Mar-17,26300.0,MICO
+105,Net working cap to sales,12  Mar-17,31.3,MICO
+106,Current ratio,12  Mar-17,2.2,MICO
+107,Inventory Days,12  Mar-17,41.0,MICO
+108,Debtors Days,12  Mar-17,41.0,MICO
+109,Net fixed assets,12  Mar-17,16426.0,MICO
+110,Share capital,12  Mar-17,305.0,MICO
+111,"""Free"" reserves",12  Mar-17,87601.0,MICO
+112,Net worth,12  Mar-17,87906.0,MICO
+113,Long term debt,12  Mar-17,0.0,MICO
+114,Total assets,12  Mar-17,117908.0,MICO
+115,Interest coverage,12  Mar-17,78.0,MICO
+116,Debt to equity ratio,12  Mar-17,0.0,MICO
+117,Sales to assets ratio,12  Mar-17,0.9,MICO
+118,Return on assets,12  Mar-17,12.5,MICO
+119,Return on equity,12  Mar-17,16.4,MICO
+120,Return on capital,12  Mar-17,24.1,MICO
+121,Exports to sales,12  Mar-17,7.9,MICO
+122,Imports to sales,12  Mar-17,0.0,MICO
+123,Exports (fob),12  Mar-17,8240.0,MICO
+124,Imports (cif),12  Mar-17,0.0,MICO
+125,Fx inflow,12  Mar-17,17546.0,MICO
+126,Fx outflow,12  Mar-17,32967.0,MICO
+127,Net fx,12  Mar-17,-15421.0,MICO
+128,From Operations,12  Mar-17,14567.0,MICO
+129,From Investments,12  Mar-17,12460.0,MICO
+130,From Financial Activity,12  Mar-17,-26697.0,MICO
+131,Net Cashflow,12  Mar-17,330.0,MICO
+132,Net Sales,12  Mar-18,116901.0,MICO
+133,Other income,12  Mar-18,5118.0,MICO
+134,Total revenues,12  Mar-18,122019.0,MICO
+135,Gross profit,12  Mar-18,20932.0,MICO
+136,Depreciation,12  Mar-18,4672.0,MICO
+137,Interest,12  Mar-18,33.0,MICO
+138,Profit before tax,12  Mar-18,21345.0,MICO
+139,Minority Interest,12  Mar-18,0.0,MICO
+140,Prior Period Items,12  Mar-18,0.0,MICO
+141,Extraordinary Inc (Exp),12  Mar-18,-939.0,MICO
+142,Tax,12  Mar-18,6698.0,MICO
+143,Profit after tax,12  Mar-18,13708.0,MICO
+144,Gross profit margin,12  Mar-18,17.9,MICO
+145,Effective tax rate,12  Mar-18,31.4,MICO
+146,Net profit margin,12  Mar-18,11.7,MICO
+147,Current assets,12  Mar-18,73347.0,MICO
+148,Current liabilities,12  Mar-18,35191.0,MICO
+149,Net working cap to sales,12  Mar-18,32.6,MICO
+150,Current ratio,12  Mar-18,2.1,MICO
+151,Inventory Days,12  Mar-18,38.0,MICO
+152,Debtors Days,12  Mar-18,50.0,MICO
+153,Net fixed assets,12  Mar-18,16307.0,MICO
+154,Share capital,12  Mar-18,305.0,MICO
+155,"""Free"" reserves",12  Mar-18,99421.0,MICO
+156,Net worth,12  Mar-18,99726.0,MICO
+157,Long term debt,12  Mar-18,0.0,MICO
+158,Total assets,12  Mar-18,139187.0,MICO
+159,Interest coverage,12  Mar-18,647.8,MICO
+160,Debt to equity ratio,12  Mar-18,0.0,MICO
+161,Sales to assets ratio,12  Mar-18,0.8,MICO
+162,Return on assets,12  Mar-18,9.9,MICO
+163,Return on equity,12  Mar-18,13.7,MICO
+164,Return on capital,12  Mar-18,20.5,MICO
+165,Exports to sales,12  Mar-18,8.9,MICO
+166,Imports to sales,12  Mar-18,0.0,MICO
+167,Exports (fob),12  Mar-18,10346.0,MICO
+168,Imports (cif),12  Mar-18,0.0,MICO
+169,Fx inflow,12  Mar-18,21432.0,MICO
+170,Fx outflow,12  Mar-18,41421.0,MICO
+171,Net fx,12  Mar-18,-19989.0,MICO
+172,From Operations,12  Mar-18,17287.0,MICO
+173,From Investments,12  Mar-18,-11703.0,MICO
+174,From Financial Activity,12  Mar-18,-3246.0,MICO
+175,Net Cashflow,12  Mar-18,2338.0,MICO
+176,Net Sales,12  Mar-19,122579.0,MICO
+177,Other income,12  Mar-19,5953.0,MICO
+178,Total revenues,12  Mar-19,128532.0,MICO
+179,Gross profit,12  Mar-19,21635.0,MICO
+180,Depreciation,12  Mar-19,4045.0,MICO
+181,Interest,12  Mar-19,133.0,MICO
+182,Profit before tax,12  Mar-19,23410.0,MICO
+183,Minority Interest,12  Mar-19,0.0,MICO
+184,Prior Period Items,12  Mar-19,0.0,MICO
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,MICO
+186,Tax,12  Mar-19,7430.0,MICO
+187,Profit after tax,12  Mar-19,15980.0,MICO
+188,Gross profit margin,12  Mar-19,17.6,MICO
+189,Effective tax rate,12  Mar-19,31.7,MICO
+190,Net profit margin,12  Mar-19,13.0,MICO
+191,Current assets,12  Mar-19,64632.0,MICO
+192,Current liabilities,12  Mar-19,32311.0,MICO
+193,Net working cap to sales,12  Mar-19,26.4,MICO
+194,Current ratio,12  Mar-19,2.0,MICO
+195,Inventory Days,12  Mar-19,43.0,MICO
+196,Debtors Days,12  Mar-19,47.0,MICO
+197,Net fixed assets,12  Mar-19,18199.0,MICO
+198,Share capital,12  Mar-19,295.0,MICO
+199,"""Free"" reserves",12  Mar-19,90883.0,MICO
+200,Net worth,12  Mar-19,91178.0,MICO
+201,Long term debt,12  Mar-19,0.0,MICO
+202,Total assets,12  Mar-19,127012.0,MICO
+203,Interest coverage,12  Mar-19,177.0,MICO
+204,Debt to equity ratio,12  Mar-19,0.0,MICO
+205,Sales to assets ratio,12  Mar-19,1.0,MICO
+206,Return on assets,12  Mar-19,12.7,MICO
+207,Return on equity,12  Mar-19,17.5,MICO
+208,Return on capital,12  Mar-19,25.8,MICO
+209,Exports to sales,12  Mar-19,7.3,MICO
+210,Imports to sales,12  Mar-19,0.0,MICO
+211,Exports (fob),12  Mar-19,8999.0,MICO
+212,Imports (cif),12  Mar-19,0.0,MICO
+213,Fx inflow,12  Mar-19,10693.0,MICO
+214,Fx outflow,12  Mar-19,44192.0,MICO
+215,Net fx,12  Mar-19,-33499.0,MICO
+216,From Operations,12  Mar-19,6054.0,MICO
+217,From Investments,12  Mar-19,17659.0,MICO
+218,From Financial Activity,12  Mar-19,-25308.0,MICO
+219,Net Cashflow,12  Mar-19,-1595.0,MICO

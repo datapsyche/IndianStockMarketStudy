@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,796.0,ESILK
+1,Other income,12  Mar-14,255.0,ESILK
+2,Total revenues,12  Mar-14,1051.0,ESILK
+3,Gross profit,12  Mar-14,-950.0,ESILK
+4,Depreciation,12  Mar-14,157.0,ESILK
+5,Interest,12  Mar-14,483.0,ESILK
+6,Profit before tax,12  Mar-14,-1334.0,ESILK
+7,Minority Interest,12  Mar-14,0.0,ESILK
+8,Prior Period Items,12  Mar-14,0.0,ESILK
+9,Extraordinary Inc (Exp),12  Mar-14,-31.0,ESILK
+10,Tax,12  Mar-14,0.0,ESILK
+11,Profit after tax,12  Mar-14,-1365.0,ESILK
+12,Gross profit margin,12  Mar-14,-119.2,ESILK
+13,Effective tax rate,12  Mar-14,0.0,ESILK
+14,Net profit margin,12  Mar-14,-171.4,ESILK
+15,Current assets,12  Mar-14,3385.0,ESILK
+16,Current liabilities,12  Mar-14,970.0,ESILK
+17,Net working cap to sales,12  Mar-14,303.2,ESILK
+18,Current ratio,12  Mar-14,3.5,ESILK
+19,Inventory Days,12  Mar-14,388.0,ESILK
+20,Debtors Days,12  Mar-14,1007.0,ESILK
+21,Net fixed assets,12  Mar-14,1206.0,ESILK
+22,Share capital,12  Mar-14,158.0,ESILK
+23,"""Free"" reserves",12  Mar-14,-551.0,ESILK
+24,Net worth,12  Mar-14,-222.0,ESILK
+25,Long term debt,12  Mar-14,4166.0,ESILK
+26,Total assets,12  Mar-14,5056.0,ESILK
+27,Interest coverage,12  Mar-14,-1.8,ESILK
+28,Debt to equity ratio,12  Mar-14,-18.8,ESILK
+29,Sales to assets ratio,12  Mar-14,0.2,ESILK
+30,Return on assets,12  Mar-14,-17.4,ESILK
+31,Return on equity,12  Mar-14,614.4,ESILK
+32,Return on capital,12  Mar-14,-22.4,ESILK
+33,Exports to sales,12  Mar-14,56.8,ESILK
+34,Imports to sales,12  Mar-14,0.1,ESILK
+35,Exports (fob),12  Mar-14,452.0,ESILK
+36,Imports (cif),12  Mar-14,1.0,ESILK
+37,Fx inflow,12  Mar-14,452.0,ESILK
+38,Fx outflow,12  Mar-14,27.0,ESILK
+39,Net fx,12  Mar-14,426.0,ESILK
+40,From Operations,12  Mar-14,447.0,ESILK
+41,From Investments,12  Mar-14,35.0,ESILK
+42,From Financial Activity,12  Mar-14,-344.0,ESILK
+43,Net Cashflow,12  Mar-14,139.0,ESILK
+44,Net Sales,12  Mar-15,610.0,ESILK
+45,Other income,12  Mar-15,103.0,ESILK
+46,Total revenues,12  Mar-15,713.0,ESILK
+47,Gross profit,12  Mar-15,-421.0,ESILK
+48,Depreciation,12  Mar-15,202.0,ESILK
+49,Interest,12  Mar-15,24.0,ESILK
+50,Profit before tax,12  Mar-15,-544.0,ESILK
+51,Minority Interest,12  Mar-15,0.0,ESILK
+52,Prior Period Items,12  Mar-15,0.0,ESILK
+53,Extraordinary Inc (Exp),12  Mar-15,175.0,ESILK
+54,Tax,12  Mar-15,0.0,ESILK
+55,Profit after tax,12  Mar-15,-369.0,ESILK
+56,Gross profit margin,12  Mar-15,-69.0,ESILK
+57,Effective tax rate,12  Mar-15,0.0,ESILK
+58,Net profit margin,12  Mar-15,-60.4,ESILK
+59,Current assets,12  Mar-15,3001.0,ESILK
+60,Current liabilities,12  Mar-15,918.0,ESILK
+61,Net working cap to sales,12  Mar-15,341.4,ESILK
+62,Current ratio,12  Mar-15,3.3,ESILK
+63,Inventory Days,12  Mar-15,458.0,ESILK
+64,Debtors Days,12  Mar-15,1097.0,ESILK
+65,Net fixed assets,12  Mar-15,911.0,ESILK
+66,Share capital,12  Mar-15,158.0,ESILK
+67,"""Free"" reserves",12  Mar-15,-994.0,ESILK
+68,Net worth,12  Mar-15,-693.0,ESILK
+69,Long term debt,12  Mar-15,4011.0,ESILK
+70,Total assets,12  Mar-15,4378.0,ESILK
+71,Interest coverage,12  Mar-15,-22.1,ESILK
+72,Debt to equity ratio,12  Mar-15,-5.8,ESILK
+73,Sales to assets ratio,12  Mar-15,0.1,ESILK
+74,Return on assets,12  Mar-15,-7.9,ESILK
+75,Return on equity,12  Mar-15,53.2,ESILK
+76,Return on capital,12  Mar-15,-10.4,ESILK
+77,Exports to sales,12  Mar-15,67.7,ESILK
+78,Imports to sales,12  Mar-15,0.8,ESILK
+79,Exports (fob),12  Mar-15,413.0,ESILK
+80,Imports (cif),12  Mar-15,5.0,ESILK
+81,Fx inflow,12  Mar-15,413.0,ESILK
+82,Fx outflow,12  Mar-15,31.0,ESILK
+83,Net fx,12  Mar-15,383.0,ESILK
+84,From Operations,12  Mar-15,254.0,ESILK
+85,From Investments,12  Mar-15,5.0,ESILK
+86,From Financial Activity,12  Mar-15,-191.0,ESILK
+87,Net Cashflow,12  Mar-15,69.0,ESILK
+88,Net Sales,12  Mar-16,705.0,ESILK
+89,Other income,12  Mar-16,154.0,ESILK
+90,Total revenues,12  Mar-16,859.0,ESILK
+91,Gross profit,12  Mar-16,-737.0,ESILK
+92,Depreciation,12  Mar-16,138.0,ESILK
+93,Interest,12  Mar-16,1.0,ESILK
+94,Profit before tax,12  Mar-16,-722.0,ESILK
+95,Minority Interest,12  Mar-16,0.0,ESILK
+96,Prior Period Items,12  Mar-16,0.0,ESILK
+97,Extraordinary Inc (Exp),12  Mar-16,504.0,ESILK
+98,Tax,12  Mar-16,0.0,ESILK
+99,Profit after tax,12  Mar-16,-218.0,ESILK
+100,Gross profit margin,12  Mar-16,-104.6,ESILK
+101,Effective tax rate,12  Mar-16,0.0,ESILK
+102,Net profit margin,12  Mar-16,-31.0,ESILK
+103,Current assets,12  Mar-16,2207.0,ESILK
+104,Current liabilities,12  Mar-16,864.0,ESILK
+105,Net working cap to sales,12  Mar-16,190.6,ESILK
+106,Current ratio,12  Mar-16,2.6,ESILK
+107,Inventory Days,12  Mar-16,327.0,ESILK
+108,Debtors Days,12  Mar-16,589.0,ESILK
+109,Net fixed assets,12  Mar-16,782.0,ESILK
+110,Share capital,12  Mar-16,158.0,ESILK
+111,"""Free"" reserves",12  Mar-16,-1070.0,ESILK
+112,Net worth,12  Mar-16,-912.0,ESILK
+113,Long term debt,12  Mar-16,140.0,ESILK
+114,Total assets,12  Mar-16,3454.0,ESILK
+115,Interest coverage,12  Mar-16,-600.9,ESILK
+116,Debt to equity ratio,12  Mar-16,-0.2,ESILK
+117,Sales to assets ratio,12  Mar-16,0.2,ESILK
+118,Return on assets,12  Mar-16,-6.3,ESILK
+119,Return on equity,12  Mar-16,23.9,ESILK
+120,Return on capital,12  Mar-16,28.1,ESILK
+121,Exports to sales,12  Mar-16,62.5,ESILK
+122,Imports to sales,12  Mar-16,2.1,ESILK
+123,Exports (fob),12  Mar-16,440.0,ESILK
+124,Imports (cif),12  Mar-16,15.0,ESILK
+125,Fx inflow,12  Mar-16,440.0,ESILK
+126,Fx outflow,12  Mar-16,15.0,ESILK
+127,Net fx,12  Mar-16,426.0,ESILK
+128,From Operations,12  Mar-16,886.0,ESILK
+129,From Investments,12  Mar-16,-24.0,ESILK
+130,From Financial Activity,12  Mar-16,-827.0,ESILK
+131,Net Cashflow,12  Mar-16,36.0,ESILK
+132,Net Sales,12  Mar-17,634.0,ESILK
+133,Other income,12  Mar-17,4.0,ESILK
+134,Total revenues,12  Mar-17,638.0,ESILK
+135,Gross profit,12  Mar-17,-644.0,ESILK
+136,Depreciation,12  Mar-17,107.0,ESILK
+137,Interest,12  Mar-17,12.0,ESILK
+138,Profit before tax,12  Mar-17,-758.0,ESILK
+139,Minority Interest,12  Mar-17,0.0,ESILK
+140,Prior Period Items,12  Mar-17,0.0,ESILK
+141,Extraordinary Inc (Exp),12  Mar-17,1200.0,ESILK
+142,Tax,12  Mar-17,1.0,ESILK
+143,Profit after tax,12  Mar-17,441.0,ESILK
+144,Gross profit margin,12  Mar-17,-101.5,ESILK
+145,Effective tax rate,12  Mar-17,-0.1,ESILK
+146,Net profit margin,12  Mar-17,69.5,ESILK
+147,Current assets,12  Mar-17,1307.0,ESILK
+148,Current liabilities,12  Mar-17,2671.0,ESILK
+149,Net working cap to sales,12  Mar-17,-215.1,ESILK
+150,Current ratio,12  Mar-17,0.5,ESILK
+151,Inventory Days,12  Mar-17,359.0,ESILK
+152,Debtors Days,12  Mar-17,265.0,ESILK
+153,Net fixed assets,12  Mar-17,689.0,ESILK
+154,Share capital,12  Mar-17,158.0,ESILK
+155,"""Free"" reserves",12  Mar-17,-511.0,ESILK
+156,Net worth,12  Mar-17,-354.0,ESILK
+157,Long term debt,12  Mar-17,140.0,ESILK
+158,Total assets,12  Mar-17,2462.0,ESILK
+159,Interest coverage,12  Mar-17,-62.2,ESILK
+160,Debt to equity ratio,12  Mar-17,-0.4,ESILK
+161,Sales to assets ratio,12  Mar-17,0.3,ESILK
+162,Return on assets,12  Mar-17,18.4,ESILK
+163,Return on equity,12  Mar-17,-124.6,ESILK
+164,Return on capital,12  Mar-17,-212.2,ESILK
+165,Exports to sales,12  Mar-17,32.2,ESILK
+166,Imports to sales,12  Mar-17,3.1,ESILK
+167,Exports (fob),12  Mar-17,204.0,ESILK
+168,Imports (cif),12  Mar-17,19.0,ESILK
+169,Fx inflow,12  Mar-17,204.0,ESILK
+170,Fx outflow,12  Mar-17,19.0,ESILK
+171,Net fx,12  Mar-17,185.0,ESILK
+172,From Operations,12  Mar-17,1451.0,ESILK
+173,From Investments,12  Mar-17,-12.0,ESILK
+174,From Financial Activity,12  Mar-17,-1556.0,ESILK
+175,Net Cashflow,12  Mar-17,-116.0,ESILK
+176,Net Sales,12  Mar-18,515.0,ESILK
+177,Other income,12  Mar-18,5.0,ESILK
+178,Total revenues,12  Mar-18,520.0,ESILK
+179,Gross profit,12  Mar-18,-287.0,ESILK
+180,Depreciation,12  Mar-18,88.0,ESILK
+181,Interest,12  Mar-18,11.0,ESILK
+182,Profit before tax,12  Mar-18,-381.0,ESILK
+183,Minority Interest,12  Mar-18,0.0,ESILK
+184,Prior Period Items,12  Mar-18,0.0,ESILK
+185,Extraordinary Inc (Exp),12  Mar-18,591.0,ESILK
+186,Tax,12  Mar-18,0.0,ESILK
+187,Profit after tax,12  Mar-18,210.0,ESILK
+188,Gross profit margin,12  Mar-18,-55.8,ESILK
+189,Effective tax rate,12  Mar-18,0.0,ESILK
+190,Net profit margin,12  Mar-18,40.8,ESILK
+191,Current assets,12  Mar-18,1037.0,ESILK
+192,Current liabilities,12  Mar-18,2110.0,ESILK
+193,Net working cap to sales,12  Mar-18,-208.5,ESILK
+194,Current ratio,12  Mar-18,0.5,ESILK
+195,Inventory Days,12  Mar-18,445.0,ESILK
+196,Debtors Days,12  Mar-18,179.0,ESILK
+197,Net fixed assets,12  Mar-18,606.0,ESILK
+198,Share capital,12  Mar-18,158.0,ESILK
+199,"""Free"" reserves",12  Mar-18,-299.0,ESILK
+200,Net worth,12  Mar-18,-141.0,ESILK
+201,Long term debt,12  Mar-18,140.0,ESILK
+202,Total assets,12  Mar-18,2112.0,ESILK
+203,Interest coverage,12  Mar-18,-33.0,ESILK
+204,Debt to equity ratio,12  Mar-18,-1.0,ESILK
+205,Sales to assets ratio,12  Mar-18,0.2,ESILK
+206,Return on assets,12  Mar-18,10.5,ESILK
+207,Return on equity,12  Mar-18,-148.8,ESILK
+208,Return on capital,12  Mar-18,-17038.5,ESILK
+209,Exports to sales,12  Mar-18,13.5,ESILK
+210,Imports to sales,12  Mar-18,5.5,ESILK
+211,Exports (fob),12  Mar-18,70.0,ESILK
+212,Imports (cif),12  Mar-18,29.0,ESILK
+213,Fx inflow,12  Mar-18,70.0,ESILK
+214,Fx outflow,12  Mar-18,29.0,ESILK
+215,Net fx,12  Mar-18,41.0,ESILK
+216,From Operations,12  Mar-18,695.0,ESILK
+217,From Investments,12  Mar-18,-2.0,ESILK
+218,From Financial Activity,12  Mar-18,-722.0,ESILK
+219,Net Cashflow,12  Mar-18,-28.0,ESILK

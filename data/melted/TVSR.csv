@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,21764.0,TVSR
+1,Other income,12  Mar-15*,41.0,TVSR
+2,Total revenues,12  Mar-15*,21805.0,TVSR
+3,Gross profit,12  Mar-15*,2171.0,TVSR
+4,Depreciation,12  Mar-15*,418.0,TVSR
+5,Interest,12  Mar-15*,311.0,TVSR
+6,Profit before tax,12  Mar-15*,1483.0,TVSR
+7,Minority Interest,12  Mar-15*,18.0,TVSR
+8,Prior Period Items,12  Mar-15*,0.0,TVSR
+9,Extraordinary Inc (Exp),12  Mar-15*,-113.0,TVSR
+10,Tax,12  Mar-15*,392.0,TVSR
+11,Profit after tax,12  Mar-15*,996.0,TVSR
+12,Gross profit margin,12  Mar-15*,10.0,TVSR
+13,Effective tax rate,12  Mar-15*,26.4,TVSR
+14,Net profit margin,12  Mar-15*,4.6,TVSR
+15,Current assets,12  Mar-15*,2729.0,TVSR
+16,Current liabilities,12  Mar-15*,4513.0,TVSR
+17,Net working cap to sales,12  Mar-15*,-8.2,TVSR
+18,Current ratio,12  Mar-15*,0.6,TVSR
+19,Inventory Days,12  Mar-15*,44.0,TVSR
+20,Debtors Days,12  Mar-15*,39.0,TVSR
+21,Net fixed assets,12  Mar-15*,3888.0,TVSR
+22,Share capital,12  Mar-15*,77.0,TVSR
+23,"""Free"" reserves",12  Mar-15*,3058.0,TVSR
+24,Net worth,12  Mar-15*,3134.0,TVSR
+25,Long term debt,12  Mar-15*,1425.0,TVSR
+26,Total assets,12  Mar-15*,9813.0,TVSR
+27,Interest coverage,12  Mar-15*,5.8,TVSR
+28,Debt to equity ratio,12  Mar-15*,0.5,TVSR
+29,Sales to assets ratio,12  Mar-15*,2.2,TVSR
+30,Return on assets,12  Mar-15*,13.3,TVSR
+31,Return on equity,12  Mar-15*,31.8,TVSR
+32,Return on capital,12  Mar-15*,37.3,TVSR
+33,Exports to sales,12  Mar-15*,9.5,TVSR
+34,Imports to sales,12  Mar-15*,14.3,TVSR
+35,Exports (fob),12  Mar-15*,2066.0,TVSR
+36,Imports (cif),12  Mar-15*,3122.0,TVSR
+37,Fx inflow,12  Mar-15*,2066.0,TVSR
+38,Fx outflow,12  Mar-15*,3264.0,TVSR
+39,Net fx,12  Mar-15*,-1199.0,TVSR
+40,From Operations,12  Mar-15*,2444.0,TVSR
+41,From Investments,12  Mar-15*,-840.0,TVSR
+42,From Financial Activity,12  Mar-15*,-1584.0,TVSR
+43,Net Cashflow,12  Mar-15*,20.0,TVSR
+44,Net Sales,12  Mar-16*,21847.0,TVSR
+45,Other income,12  Mar-16*,233.0,TVSR
+46,Total revenues,12  Mar-16*,22080.0,TVSR
+47,Gross profit,12  Mar-16*,3248.0,TVSR
+48,Depreciation,12  Mar-16*,435.0,TVSR
+49,Interest,12  Mar-16*,209.0,TVSR
+50,Profit before tax,12  Mar-16*,2838.0,TVSR
+51,Minority Interest,12  Mar-16*,0.0,TVSR
+52,Prior Period Items,12  Mar-16*,0.0,TVSR
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TVSR
+54,Tax,12  Mar-16*,926.0,TVSR
+55,Profit after tax,12  Mar-16*,1912.0,TVSR
+56,Gross profit margin,12  Mar-16*,14.9,TVSR
+57,Effective tax rate,12  Mar-16*,32.6,TVSR
+58,Net profit margin,12  Mar-16*,8.8,TVSR
+59,Current assets,12  Mar-16*,2324.0,TVSR
+60,Current liabilities,12  Mar-16*,3930.0,TVSR
+61,Net working cap to sales,12  Mar-16*,-7.4,TVSR
+62,Current ratio,12  Mar-16*,0.6,TVSR
+63,Inventory Days,12  Mar-16*,35.0,TVSR
+64,Debtors Days,12  Mar-16*,29.0,TVSR
+65,Net fixed assets,12  Mar-16*,4277.0,TVSR
+66,Share capital,12  Mar-16*,77.0,TVSR
+67,"""Free"" reserves",12  Mar-16*,4045.0,TVSR
+68,Net worth,12  Mar-16*,4121.0,TVSR
+69,Long term debt,12  Mar-16*,440.0,TVSR
+70,Total assets,12  Mar-16*,9690.0,TVSR
+71,Interest coverage,12  Mar-16*,14.6,TVSR
+72,Debt to equity ratio,12  Mar-16*,0.1,TVSR
+73,Sales to assets ratio,12  Mar-16*,2.3,TVSR
+74,Return on assets,12  Mar-16*,21.9,TVSR
+75,Return on equity,12  Mar-16*,46.4,TVSR
+76,Return on capital,12  Mar-16*,66.8,TVSR
+77,Exports to sales,12  Mar-16*,0.0,TVSR
+78,Imports to sales,12  Mar-16*,0.0,TVSR
+79,Exports (fob),12  Mar-16*,0.0,TVSR
+80,Imports (cif),12  Mar-16*,0.0,TVSR
+81,Fx inflow,12  Mar-16*,2045.0,TVSR
+82,Fx outflow,12  Mar-16*,2518.0,TVSR
+83,Net fx,12  Mar-16*,-473.0,TVSR
+84,From Operations,12  Mar-16*,4003.0,TVSR
+85,From Investments,12  Mar-16*,-1199.0,TVSR
+86,From Financial Activity,12  Mar-16*,-2715.0,TVSR
+87,Net Cashflow,12  Mar-16*,90.0,TVSR
+88,Net Sales,12  Mar-17*,19605.0,TVSR
+89,Other income,12  Mar-17*,46.0,TVSR
+90,Total revenues,12  Mar-17*,19651.0,TVSR
+91,Gross profit,12  Mar-17*,2826.0,TVSR
+92,Depreciation,12  Mar-17*,560.0,TVSR
+93,Interest,12  Mar-17*,201.0,TVSR
+94,Profit before tax,12  Mar-17*,2111.0,TVSR
+95,Minority Interest,12  Mar-17*,0.0,TVSR
+96,Prior Period Items,12  Mar-17*,0.0,TVSR
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TVSR
+98,Tax,12  Mar-17*,614.0,TVSR
+99,Profit after tax,12  Mar-17*,1497.0,TVSR
+100,Gross profit margin,12  Mar-17*,14.4,TVSR
+101,Effective tax rate,12  Mar-17*,29.1,TVSR
+102,Net profit margin,12  Mar-17*,7.6,TVSR
+103,Current assets,12  Mar-17*,6316.0,TVSR
+104,Current liabilities,12  Mar-17*,6738.0,TVSR
+105,Net working cap to sales,12  Mar-17*,-2.2,TVSR
+106,Current ratio,12  Mar-17*,0.9,TVSR
+107,Inventory Days,12  Mar-17*,77.0,TVSR
+108,Debtors Days,12  Mar-17*,38.0,TVSR
+109,Net fixed assets,12  Mar-17*,5856.0,TVSR
+110,Share capital,12  Mar-17*,77.0,TVSR
+111,"""Free"" reserves",12  Mar-17*,5534.0,TVSR
+112,Net worth,12  Mar-17*,5611.0,TVSR
+113,Long term debt,12  Mar-17*,238.0,TVSR
+114,Total assets,12  Mar-17*,13910.0,TVSR
+115,Interest coverage,12  Mar-17*,11.5,TVSR
+116,Debt to equity ratio,12  Mar-17*,0.0,TVSR
+117,Sales to assets ratio,12  Mar-17*,1.4,TVSR
+118,Return on assets,12  Mar-17*,12.2,TVSR
+119,Return on equity,12  Mar-17*,26.7,TVSR
+120,Return on capital,12  Mar-17*,39.5,TVSR
+121,Exports to sales,12  Mar-17*,0.0,TVSR
+122,Imports to sales,12  Mar-17*,0.0,TVSR
+123,Exports (fob),12  Mar-17*,0.0,TVSR
+124,Imports (cif),12  Mar-17*,0.0,TVSR
+125,Fx inflow,12  Mar-17*,2005.0,TVSR
+126,Fx outflow,12  Mar-17*,4136.0,TVSR
+127,Net fx,12  Mar-17*,-2131.0,TVSR
+128,From Operations,12  Mar-17*,637.0,TVSR
+129,From Investments,12  Mar-17*,-2151.0,TVSR
+130,From Financial Activity,12  Mar-17*,1487.0,TVSR
+131,Net Cashflow,12  Mar-17*,-27.0,TVSR
+132,Net Sales,12  Mar-18*,21524.0,TVSR
+133,Other income,12  Mar-18*,154.0,TVSR
+134,Total revenues,12  Mar-18*,21677.0,TVSR
+135,Gross profit,12  Mar-18*,2519.0,TVSR
+136,Depreciation,12  Mar-18*,686.0,TVSR
+137,Interest,12  Mar-18*,297.0,TVSR
+138,Profit before tax,12  Mar-18*,1690.0,TVSR
+139,Minority Interest,12  Mar-18*,0.0,TVSR
+140,Prior Period Items,12  Mar-18*,0.0,TVSR
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TVSR
+142,Tax,12  Mar-18*,516.0,TVSR
+143,Profit after tax,12  Mar-18*,1173.0,TVSR
+144,Gross profit margin,12  Mar-18*,11.7,TVSR
+145,Effective tax rate,12  Mar-18*,30.6,TVSR
+146,Net profit margin,12  Mar-18*,5.5,TVSR
+147,Current assets,12  Mar-18*,6220.0,TVSR
+148,Current liabilities,12  Mar-18*,6378.0,TVSR
+149,Net working cap to sales,12  Mar-18*,-0.7,TVSR
+150,Current ratio,12  Mar-18*,1.0,TVSR
+151,Inventory Days,12  Mar-18*,56.0,TVSR
+152,Debtors Days,12  Mar-18*,41.0,TVSR
+153,Net fixed assets,12  Mar-18*,6384.0,TVSR
+154,Share capital,12  Mar-18*,77.0,TVSR
+155,"""Free"" reserves",12  Mar-18*,6312.0,TVSR
+156,Net worth,12  Mar-18*,6389.0,TVSR
+157,Long term debt,12  Mar-18*,77.0,TVSR
+158,Total assets,12  Mar-18*,14251.0,TVSR
+159,Interest coverage,12  Mar-18*,6.7,TVSR
+160,Debt to equity ratio,12  Mar-18*,0.0,TVSR
+161,Sales to assets ratio,12  Mar-18*,1.5,TVSR
+162,Return on assets,12  Mar-18*,10.3,TVSR
+163,Return on equity,12  Mar-18*,18.4,TVSR
+164,Return on capital,12  Mar-18*,30.7,TVSR
+165,Exports to sales,12  Mar-18*,0.0,TVSR
+166,Imports to sales,12  Mar-18*,0.0,TVSR
+167,Exports (fob),12  Mar-18*,0.0,TVSR
+168,Imports (cif),12  Mar-18*,0.0,TVSR
+169,Fx inflow,12  Mar-18*,2102.0,TVSR
+170,Fx outflow,12  Mar-18*,2816.0,TVSR
+171,Net fx,12  Mar-18*,-714.0,TVSR
+172,From Operations,12  Mar-18*,1855.0,TVSR
+173,From Investments,12  Mar-18*,-1023.0,TVSR
+174,From Financial Activity,12  Mar-18*,-786.0,TVSR
+175,Net Cashflow,12  Mar-18*,46.0,TVSR
+176,Net Sales,12  Mar-19*,24310.0,TVSR
+177,Other income,12  Mar-19*,120.0,TVSR
+178,Total revenues,12  Mar-19*,24430.0,TVSR
+179,Gross profit,12  Mar-19*,2618.0,TVSR
+180,Depreciation,12  Mar-19*,848.0,TVSR
+181,Interest,12  Mar-19*,357.0,TVSR
+182,Profit before tax,12  Mar-19*,1533.0,TVSR
+183,Minority Interest,12  Mar-19*,0.0,TVSR
+184,Prior Period Items,12  Mar-19*,0.0,TVSR
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TVSR
+186,Tax,12  Mar-19*,500.0,TVSR
+187,Profit after tax,12  Mar-19*,1033.0,TVSR
+188,Gross profit margin,12  Mar-19*,10.8,TVSR
+189,Effective tax rate,12  Mar-19*,32.6,TVSR
+190,Net profit margin,12  Mar-19*,4.2,TVSR
+191,Current assets,12  Mar-19*,9258.0,TVSR
+192,Current liabilities,12  Mar-19*,8815.0,TVSR
+193,Net working cap to sales,12  Mar-19*,1.8,TVSR
+194,Current ratio,12  Mar-19*,1.1,TVSR
+195,Inventory Days,12  Mar-19*,75.0,TVSR
+196,Debtors Days,12  Mar-19*,51.0,TVSR
+197,Net fixed assets,12  Mar-19*,6902.0,TVSR
+198,Share capital,12  Mar-19*,77.0,TVSR
+199,"""Free"" reserves",12  Mar-19*,7206.0,TVSR
+200,Net worth,12  Mar-19*,7283.0,TVSR
+201,Long term debt,12  Mar-19*,469.0,TVSR
+202,Total assets,12  Mar-19*,18093.0,TVSR
+203,Interest coverage,12  Mar-19*,5.3,TVSR
+204,Debt to equity ratio,12  Mar-19*,0.1,TVSR
+205,Sales to assets ratio,12  Mar-19*,1.3,TVSR
+206,Return on assets,12  Mar-19*,7.7,TVSR
+207,Return on equity,12  Mar-19*,14.2,TVSR
+208,Return on capital,12  Mar-19*,24.4,TVSR
+209,Exports to sales,12  Mar-19*,0.0,TVSR
+210,Imports to sales,12  Mar-19*,0.0,TVSR
+211,Exports (fob),12  Mar-19*,0.0,TVSR
+212,Imports (cif),12  Mar-19*,0.0,TVSR
+213,Fx inflow,12  Mar-19*,2424.0,TVSR
+214,Fx outflow,12  Mar-19*,3550.0,TVSR
+215,Net fx,12  Mar-19*,-1127.0,TVSR
+216,From Operations,12  Mar-19*,640.0,TVSR
+217,From Investments,12  Mar-19*,-1204.0,TVSR
+218,From Financial Activity,12  Mar-19*,524.0,TVSR
+219,Net Cashflow,12  Mar-19*,-40.0,TVSR

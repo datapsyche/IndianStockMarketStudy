@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,4901.0,ATAO
+1,Other income,12  Mar-15,59.0,ATAO
+2,Total revenues,12  Mar-15,4959.0,ATAO
+3,Gross profit,12  Mar-15,579.0,ATAO
+4,Depreciation,12  Mar-15,56.0,ATAO
+5,Interest,12  Mar-15,6.0,ATAO
+6,Profit before tax,12  Mar-15,576.0,ATAO
+7,Minority Interest,12  Mar-15,0.0,ATAO
+8,Prior Period Items,12  Mar-15,0.0,ATAO
+9,Extraordinary Inc (Exp),12  Mar-15,17.0,ATAO
+10,Tax,12  Mar-15,187.0,ATAO
+11,Profit after tax,12  Mar-15,406.0,ATAO
+12,Gross profit margin,12  Mar-15,11.8,ATAO
+13,Effective tax rate,12  Mar-15,32.4,ATAO
+14,Net profit margin,12  Mar-15,8.3,ATAO
+15,Current assets,12  Mar-15,875.0,ATAO
+16,Current liabilities,12  Mar-15,507.0,ATAO
+17,Net working cap to sales,12  Mar-15,7.5,ATAO
+18,Current ratio,12  Mar-15,1.7,ATAO
+19,Inventory Days,12  Mar-15,19.0,ATAO
+20,Debtors Days,12  Mar-15,24.0,ATAO
+21,Net fixed assets,12  Mar-15,799.0,ATAO
+22,Share capital,12  Mar-15,112.0,ATAO
+23,"""Free"" reserves",12  Mar-15,1096.0,ATAO
+24,Net worth,12  Mar-15,1211.0,ATAO
+25,Long term debt,12  Mar-15,0.0,ATAO
+26,Total assets,12  Mar-15,1774.0,ATAO
+27,Interest coverage,12  Mar-15,98.6,ATAO
+28,Debt to equity ratio,12  Mar-15,0.0,ATAO
+29,Sales to assets ratio,12  Mar-15,2.8,ATAO
+30,Return on assets,12  Mar-15,23.2,ATAO
+31,Return on equity,12  Mar-15,33.5,ATAO
+32,Return on capital,12  Mar-15,49.4,ATAO
+33,Exports to sales,12  Mar-15,3.4,ATAO
+34,Imports to sales,12  Mar-15,0.7,ATAO
+35,Exports (fob),12  Mar-15,168.0,ATAO
+36,Imports (cif),12  Mar-15,32.0,ATAO
+37,Fx inflow,12  Mar-15,183.0,ATAO
+38,Fx outflow,12  Mar-15,35.0,ATAO
+39,Net fx,12  Mar-15,148.0,ATAO
+40,From Operations,12  Mar-15,281.0,ATAO
+41,From Investments,12  Mar-15,-363.0,ATAO
+42,From Financial Activity,12  Mar-15,-111.0,ATAO
+43,Net Cashflow,12  Mar-15,-193.0,ATAO
+44,Net Sales,12  Mar-16,5280.0,ATAO
+45,Other income,12  Mar-16,13.0,ATAO
+46,Total revenues,12  Mar-16,5293.0,ATAO
+47,Gross profit,12  Mar-16,763.0,ATAO
+48,Depreciation,12  Mar-16,53.0,ATAO
+49,Interest,12  Mar-16,8.0,ATAO
+50,Profit before tax,12  Mar-16,715.0,ATAO
+51,Minority Interest,12  Mar-16,0.0,ATAO
+52,Prior Period Items,12  Mar-16,0.0,ATAO
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,ATAO
+54,Tax,12  Mar-16,241.0,ATAO
+55,Profit after tax,12  Mar-16,474.0,ATAO
+56,Gross profit margin,12  Mar-16,14.4,ATAO
+57,Effective tax rate,12  Mar-16,33.7,ATAO
+58,Net profit margin,12  Mar-16,9.0,ATAO
+59,Current assets,12  Mar-16,1284.0,ATAO
+60,Current liabilities,12  Mar-16,614.0,ATAO
+61,Net working cap to sales,12  Mar-16,12.7,ATAO
+62,Current ratio,12  Mar-16,2.1,ATAO
+63,Inventory Days,12  Mar-16,24.0,ATAO
+64,Debtors Days,12  Mar-16,53.0,ATAO
+65,Net fixed assets,12  Mar-16,875.0,ATAO
+66,Share capital,12  Mar-16,110.0,ATAO
+67,"""Free"" reserves",12  Mar-16,1500.0,ATAO
+68,Net worth,12  Mar-16,1610.0,ATAO
+69,Long term debt,12  Mar-16,0.0,ATAO
+70,Total assets,12  Mar-16,2211.0,ATAO
+71,Interest coverage,12  Mar-16,92.7,ATAO
+72,Debt to equity ratio,12  Mar-16,0.0,ATAO
+73,Sales to assets ratio,12  Mar-16,2.4,ATAO
+74,Return on assets,12  Mar-16,21.8,ATAO
+75,Return on equity,12  Mar-16,29.5,ATAO
+76,Return on capital,12  Mar-16,44.9,ATAO
+77,Exports to sales,12  Mar-16,3.5,ATAO
+78,Imports to sales,12  Mar-16,1.3,ATAO
+79,Exports (fob),12  Mar-16,183.0,ATAO
+80,Imports (cif),12  Mar-16,67.0,ATAO
+81,Fx inflow,12  Mar-16,190.0,ATAO
+82,Fx outflow,12  Mar-16,69.0,ATAO
+83,Net fx,12  Mar-16,121.0,ATAO
+84,From Operations,12  Mar-16,109.0,ATAO
+85,From Investments,12  Mar-16,-100.0,ATAO
+86,From Financial Activity,12  Mar-16,-139.0,ATAO
+87,Net Cashflow,12  Mar-16,-130.0,ATAO
+88,Net Sales,12  Mar-17,4722.0,ATAO
+89,Other income,12  Mar-17,25.0,ATAO
+90,Total revenues,12  Mar-17,4747.0,ATAO
+91,Gross profit,12  Mar-17,595.0,ATAO
+92,Depreciation,12  Mar-17,53.0,ATAO
+93,Interest,12  Mar-17,6.0,ATAO
+94,Profit before tax,12  Mar-17,561.0,ATAO
+95,Minority Interest,12  Mar-17,1.0,ATAO
+96,Prior Period Items,12  Mar-17,0.0,ATAO
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,ATAO
+98,Tax,12  Mar-17,191.0,ATAO
+99,Profit after tax,12  Mar-17,372.0,ATAO
+100,Gross profit margin,12  Mar-17,12.6,ATAO
+101,Effective tax rate,12  Mar-17,34.0,ATAO
+102,Net profit margin,12  Mar-17,7.9,ATAO
+103,Current assets,12  Mar-17,1434.0,ATAO
+104,Current liabilities,12  Mar-17,582.0,ATAO
+105,Net working cap to sales,12  Mar-17,18.0,ATAO
+106,Current ratio,12  Mar-17,2.5,ATAO
+107,Inventory Days,12  Mar-17,28.0,ATAO
+108,Debtors Days,12  Mar-17,36.0,ATAO
+109,Net fixed assets,12  Mar-17,903.0,ATAO
+110,Share capital,12  Mar-17,110.0,ATAO
+111,"""Free"" reserves",12  Mar-17,1733.0,ATAO
+112,Net worth,12  Mar-17,1843.0,ATAO
+113,Long term debt,12  Mar-17,0.0,ATAO
+114,Total assets,12  Mar-17,2453.0,ATAO
+115,Interest coverage,12  Mar-17,97.7,ATAO
+116,Debt to equity ratio,12  Mar-17,0.0,ATAO
+117,Sales to assets ratio,12  Mar-17,1.9,ATAO
+118,Return on assets,12  Mar-17,15.4,ATAO
+119,Return on equity,12  Mar-17,20.2,ATAO
+120,Return on capital,12  Mar-17,30.8,ATAO
+121,Exports to sales,12  Mar-17,5.4,ATAO
+122,Imports to sales,12  Mar-17,1.6,ATAO
+123,Exports (fob),12  Mar-17,256.0,ATAO
+124,Imports (cif),12  Mar-17,73.0,ATAO
+125,Fx inflow,12  Mar-17,263.0,ATAO
+126,Fx outflow,12  Mar-17,78.0,ATAO
+127,Net fx,12  Mar-17,185.0,ATAO
+128,From Operations,12  Mar-17,711.0,ATAO
+129,From Investments,12  Mar-17,-290.0,ATAO
+130,From Financial Activity,12  Mar-17,-139.0,ATAO
+131,Net Cashflow,12  Mar-17,283.0,ATAO
+132,Net Sales,12  Mar-18,5512.0,ATAO
+133,Other income,12  Mar-18,26.0,ATAO
+134,Total revenues,12  Mar-18,5538.0,ATAO
+135,Gross profit,12  Mar-18,725.0,ATAO
+136,Depreciation,12  Mar-18,53.0,ATAO
+137,Interest,12  Mar-18,4.0,ATAO
+138,Profit before tax,12  Mar-18,694.0,ATAO
+139,Minority Interest,12  Mar-18,17.0,ATAO
+140,Prior Period Items,12  Mar-18,0.0,ATAO
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ATAO
+142,Tax,12  Mar-18,232.0,ATAO
+143,Profit after tax,12  Mar-18,479.0,ATAO
+144,Gross profit margin,12  Mar-18,13.2,ATAO
+145,Effective tax rate,12  Mar-18,33.5,ATAO
+146,Net profit margin,12  Mar-18,8.7,ATAO
+147,Current assets,12  Mar-18,1445.0,ATAO
+148,Current liabilities,12  Mar-18,744.0,ATAO
+149,Net working cap to sales,12  Mar-18,12.7,ATAO
+150,Current ratio,12  Mar-18,1.9,ATAO
+151,Inventory Days,12  Mar-18,30.0,ATAO
+152,Debtors Days,12  Mar-18,52.0,ATAO
+153,Net fixed assets,12  Mar-18,918.0,ATAO
+154,Share capital,12  Mar-18,110.0,ATAO
+155,"""Free"" reserves",12  Mar-18,2098.0,ATAO
+156,Net worth,12  Mar-18,2208.0,ATAO
+157,Long term debt,12  Mar-18,0.0,ATAO
+158,Total assets,12  Mar-18,3007.0,ATAO
+159,Interest coverage,12  Mar-18,166.3,ATAO
+160,Debt to equity ratio,12  Mar-18,0.0,ATAO
+161,Sales to assets ratio,12  Mar-18,1.8,ATAO
+162,Return on assets,12  Mar-18,16.1,ATAO
+163,Return on equity,12  Mar-18,21.7,ATAO
+164,Return on capital,12  Mar-18,32.4,ATAO
+165,Exports to sales,12  Mar-18,0.0,ATAO
+166,Imports to sales,12  Mar-18,0.0,ATAO
+167,Exports (fob),12  Mar-18,0.0,ATAO
+168,Imports (cif),12  Mar-18,0.0,ATAO
+169,Fx inflow,12  Mar-18,385.0,ATAO
+170,Fx outflow,12  Mar-18,104.0,ATAO
+171,Net fx,12  Mar-18,281.0,ATAO
+172,From Operations,12  Mar-18,261.0,ATAO
+173,From Investments,12  Mar-18,-392.0,ATAO
+174,From Financial Activity,12  Mar-18,-112.0,ATAO
+175,Net Cashflow,12  Mar-18,-243.0,ATAO
+176,Net Sales,12  Mar-19,6613.0,ATAO
+177,Other income,12  Mar-19,69.0,ATAO
+178,Total revenues,12  Mar-19,6682.0,ATAO
+179,Gross profit,12  Mar-19,815.0,ATAO
+180,Depreciation,12  Mar-19,55.0,ATAO
+181,Interest,12  Mar-19,9.0,ATAO
+182,Profit before tax,12  Mar-19,820.0,ATAO
+183,Minority Interest,12  Mar-19,19.0,ATAO
+184,Prior Period Items,12  Mar-19,0.0,ATAO
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ATAO
+186,Tax,12  Mar-19,288.0,ATAO
+187,Profit after tax,12  Mar-19,551.0,ATAO
+188,Gross profit margin,12  Mar-19,12.3,ATAO
+189,Effective tax rate,12  Mar-19,35.2,ATAO
+190,Net profit margin,12  Mar-19,8.3,ATAO
+191,Current assets,12  Mar-19,1890.0,ATAO
+192,Current liabilities,12  Mar-19,895.0,ATAO
+193,Net working cap to sales,12  Mar-19,15.1,ATAO
+194,Current ratio,12  Mar-19,2.1,ATAO
+195,Inventory Days,12  Mar-19,32.0,ATAO
+196,Debtors Days,12  Mar-19,55.0,ATAO
+197,Net fixed assets,12  Mar-19,1303.0,ATAO
+198,Share capital,12  Mar-19,110.0,ATAO
+199,"""Free"" reserves",12  Mar-19,2510.0,ATAO
+200,Net worth,12  Mar-19,2620.0,ATAO
+201,Long term debt,12  Mar-19,0.0,ATAO
+202,Total assets,12  Mar-19,3568.0,ATAO
+203,Interest coverage,12  Mar-19,96.3,ATAO
+204,Debt to equity ratio,12  Mar-19,0.0,ATAO
+205,Sales to assets ratio,12  Mar-19,1.9,ATAO
+206,Return on assets,12  Mar-19,15.7,ATAO
+207,Return on equity,12  Mar-19,21.0,ATAO
+208,Return on capital,12  Mar-19,32.3,ATAO
+209,Exports to sales,12  Mar-19,0.0,ATAO
+210,Imports to sales,12  Mar-19,0.0,ATAO
+211,Exports (fob),12  Mar-19,0.0,ATAO
+212,Imports (cif),12  Mar-19,0.0,ATAO
+213,Fx inflow,12  Mar-19,488.0,ATAO
+214,Fx outflow,12  Mar-19,214.0,ATAO
+215,Net fx,12  Mar-19,274.0,ATAO
+216,From Operations,12  Mar-19,346.0,ATAO
+217,From Investments,12  Mar-19,-277.0,ATAO
+218,From Financial Activity,12  Mar-19,-139.0,ATAO
+219,Net Cashflow,12  Mar-19,-70.0,ATAO

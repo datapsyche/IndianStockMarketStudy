@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-13,2269.0,FSCI
+1,Other income,12  Dec-13,26.0,FSCI
+2,Total revenues,12  Dec-13,2295.0,FSCI
+3,Gross profit,12  Dec-13,300.0,FSCI
+4,Depreciation,12  Dec-13,51.0,FSCI
+5,Interest,12  Dec-13,3.0,FSCI
+6,Profit before tax,12  Dec-13,271.0,FSCI
+7,Minority Interest,12  Dec-13,0.0,FSCI
+8,Prior Period Items,12  Dec-13,0.0,FSCI
+9,Extraordinary Inc (Exp),12  Dec-13,0.0,FSCI
+10,Tax,12  Dec-13,93.0,FSCI
+11,Profit after tax,12  Dec-13,178.0,FSCI
+12,Gross profit margin,12  Dec-13,13.2,FSCI
+13,Effective tax rate,12  Dec-13,34.3,FSCI
+14,Net profit margin,12  Dec-13,7.9,FSCI
+15,Current assets,12  Dec-13,1057.0,FSCI
+16,Current liabilities,12  Dec-13,495.0,FSCI
+17,Net working cap to sales,12  Dec-13,24.8,FSCI
+18,Current ratio,12  Dec-13,2.1,FSCI
+19,Inventory Days,12  Dec-13,19.0,FSCI
+20,Debtors Days,12  Dec-13,103.0,FSCI
+21,Net fixed assets,12  Dec-13,278.0,FSCI
+22,Share capital,12  Dec-13,64.0,FSCI
+23,"""Free"" reserves",12  Dec-13,826.0,FSCI
+24,Net worth,12  Dec-13,890.0,FSCI
+25,Long term debt,12  Dec-13,58.0,FSCI
+26,Total assets,12  Dec-13,1467.0,FSCI
+27,Interest coverage,12  Dec-13,105.3,FSCI
+28,Debt to equity ratio,12  Dec-13,0.1,FSCI
+29,Sales to assets ratio,12  Dec-13,1.5,FSCI
+30,Return on assets,12  Dec-13,12.3,FSCI
+31,Return on equity,12  Dec-13,20.0,FSCI
+32,Return on capital,12  Dec-13,28.9,FSCI
+33,Exports to sales,12  Dec-13,4.6,FSCI
+34,Imports to sales,12  Dec-13,8.0,FSCI
+35,Exports (fob),12  Dec-13,105.0,FSCI
+36,Imports (cif),12  Dec-13,182.0,FSCI
+37,Fx inflow,12  Dec-13,157.0,FSCI
+38,Fx outflow,12  Dec-13,331.0,FSCI
+39,Net fx,12  Dec-13,-174.0,FSCI
+40,From Operations,12  Dec-13,217.0,FSCI
+41,From Investments,12  Dec-13,-11.0,FSCI
+42,From Financial Activity,12  Dec-13,-138.0,FSCI
+43,Net Cashflow,12  Dec-13,67.0,FSCI
+44,Net Sales,12  Dec-14,2634.0,FSCI
+45,Other income,12  Dec-14,34.0,FSCI
+46,Total revenues,12  Dec-14,2667.0,FSCI
+47,Gross profit,12  Dec-14,392.0,FSCI
+48,Depreciation,12  Dec-14,47.0,FSCI
+49,Interest,12  Dec-14,2.0,FSCI
+50,Profit before tax,12  Dec-14,377.0,FSCI
+51,Minority Interest,12  Dec-14,0.0,FSCI
+52,Prior Period Items,12  Dec-14,0.0,FSCI
+53,Extraordinary Inc (Exp),12  Dec-14,0.0,FSCI
+54,Tax,12  Dec-14,132.0,FSCI
+55,Profit after tax,12  Dec-14,246.0,FSCI
+56,Gross profit margin,12  Dec-14,14.9,FSCI
+57,Effective tax rate,12  Dec-14,34.8,FSCI
+58,Net profit margin,12  Dec-14,9.3,FSCI
+59,Current assets,12  Dec-14,1168.0,FSCI
+60,Current liabilities,12  Dec-14,481.0,FSCI
+61,Net working cap to sales,12  Dec-14,26.1,FSCI
+62,Current ratio,12  Dec-14,2.4,FSCI
+63,Inventory Days,12  Dec-14,19.0,FSCI
+64,Debtors Days,12  Dec-14,101.0,FSCI
+65,Net fixed assets,12  Dec-14,267.0,FSCI
+66,Share capital,12  Dec-14,64.0,FSCI
+67,"""Free"" reserves",12  Dec-14,915.0,FSCI
+68,Net worth,12  Dec-14,979.0,FSCI
+69,Long term debt,12  Dec-14,36.0,FSCI
+70,Total assets,12  Dec-14,1519.0,FSCI
+71,Interest coverage,12  Dec-14,223.0,FSCI
+72,Debt to equity ratio,12  Dec-14,0.0,FSCI
+73,Sales to assets ratio,12  Dec-14,1.7,FSCI
+74,Return on assets,12  Dec-14,16.3,FSCI
+75,Return on equity,12  Dec-14,25.1,FSCI
+76,Return on capital,12  Dec-14,37.4,FSCI
+77,Exports to sales,12  Dec-14,4.1,FSCI
+78,Imports to sales,12  Dec-14,9.3,FSCI
+79,Exports (fob),12  Dec-14,107.0,FSCI
+80,Imports (cif),12  Dec-14,246.0,FSCI
+81,Fx inflow,12  Dec-14,162.0,FSCI
+82,Fx outflow,12  Dec-14,445.0,FSCI
+83,Net fx,12  Dec-14,-282.0,FSCI
+84,From Operations,12  Dec-14,253.0,FSCI
+85,From Investments,12  Dec-14,-11.0,FSCI
+86,From Financial Activity,12  Dec-14,-221.0,FSCI
+87,Net Cashflow,12  Dec-14,21.0,FSCI
+88,Net Sales,12  Dec-15,2894.0,FSCI
+89,Other income,12  Dec-15,19.0,FSCI
+90,Total revenues,12  Dec-15,2913.0,FSCI
+91,Gross profit,12  Dec-15,507.0,FSCI
+92,Depreciation,12  Dec-15,45.0,FSCI
+93,Interest,12  Dec-15,1.0,FSCI
+94,Profit before tax,12  Dec-15,479.0,FSCI
+95,Minority Interest,12  Dec-15,0.0,FSCI
+96,Prior Period Items,12  Dec-15,0.0,FSCI
+97,Extraordinary Inc (Exp),12  Dec-15,0.0,FSCI
+98,Tax,12  Dec-15,162.0,FSCI
+99,Profit after tax,12  Dec-15,317.0,FSCI
+100,Gross profit margin,12  Dec-15,17.5,FSCI
+101,Effective tax rate,12  Dec-15,33.8,FSCI
+102,Net profit margin,12  Dec-15,11.0,FSCI
+103,Current assets,12  Dec-15,1244.0,FSCI
+104,Current liabilities,12  Dec-15,509.0,FSCI
+105,Net working cap to sales,12  Dec-15,25.4,FSCI
+106,Current ratio,12  Dec-15,2.4,FSCI
+107,Inventory Days,12  Dec-15,20.0,FSCI
+108,Debtors Days,12  Dec-15,114.0,FSCI
+109,Net fixed assets,12  Dec-15,272.0,FSCI
+110,Share capital,12  Dec-15,64.0,FSCI
+111,"""Free"" reserves",12  Dec-15,1025.0,FSCI
+112,Net worth,12  Dec-15,1089.0,FSCI
+113,Long term debt,12  Dec-15,19.0,FSCI
+114,Total assets,12  Dec-15,1628.0,FSCI
+115,Interest coverage,12  Dec-15,400.3,FSCI
+116,Debt to equity ratio,12  Dec-15,0.0,FSCI
+117,Sales to assets ratio,12  Dec-15,1.8,FSCI
+118,Return on assets,12  Dec-15,19.6,FSCI
+119,Return on equity,12  Dec-15,29.1,FSCI
+120,Return on capital,12  Dec-15,43.4,FSCI
+121,Exports to sales,12  Dec-15,3.7,FSCI
+122,Imports to sales,12  Dec-15,10.5,FSCI
+123,Exports (fob),12  Dec-15,106.0,FSCI
+124,Imports (cif),12  Dec-15,303.0,FSCI
+125,Fx inflow,12  Dec-15,142.0,FSCI
+126,Fx outflow,12  Dec-15,486.0,FSCI
+127,Net fx,12  Dec-15,-344.0,FSCI
+128,From Operations,12  Dec-15,173.0,FSCI
+129,From Investments,12  Dec-15,-42.0,FSCI
+130,From Financial Activity,12  Dec-15,-251.0,FSCI
+131,Net Cashflow,12  Dec-15,-119.0,FSCI
+132,Net Sales,12  Dec-16,3388.0,FSCI
+133,Other income,12  Dec-16,21.0,FSCI
+134,Total revenues,12  Dec-16,3409.0,FSCI
+135,Gross profit,12  Dec-16,547.0,FSCI
+136,Depreciation,12  Dec-16,51.0,FSCI
+137,Interest,12  Dec-16,4.0,FSCI
+138,Profit before tax,12  Dec-16,513.0,FSCI
+139,Minority Interest,12  Dec-16,0.0,FSCI
+140,Prior Period Items,12  Dec-16,0.0,FSCI
+141,Extraordinary Inc (Exp),12  Dec-16,0.0,FSCI
+142,Tax,12  Dec-16,182.0,FSCI
+143,Profit after tax,12  Dec-16,331.0,FSCI
+144,Gross profit margin,12  Dec-16,16.1,FSCI
+145,Effective tax rate,12  Dec-16,35.5,FSCI
+146,Net profit margin,12  Dec-16,9.8,FSCI
+147,Current assets,12  Dec-16,1477.0,FSCI
+148,Current liabilities,12  Dec-16,571.0,FSCI
+149,Net working cap to sales,12  Dec-16,26.7,FSCI
+150,Current ratio,12  Dec-16,2.6,FSCI
+151,Inventory Days,12  Dec-16,21.0,FSCI
+152,Debtors Days,12  Dec-16,107.0,FSCI
+153,Net fixed assets,12  Dec-16,259.0,FSCI
+154,Share capital,12  Dec-16,64.0,FSCI
+155,"""Free"" reserves",12  Dec-16,1179.0,FSCI
+156,Net worth,12  Dec-16,1243.0,FSCI
+157,Long term debt,12  Dec-16,7.0,FSCI
+158,Total assets,12  Dec-16,1830.0,FSCI
+159,Interest coverage,12  Dec-16,123.2,FSCI
+160,Debt to equity ratio,12  Dec-16,0.0,FSCI
+161,Sales to assets ratio,12  Dec-16,1.9,FSCI
+162,Return on assets,12  Dec-16,18.3,FSCI
+163,Return on equity,12  Dec-16,26.6,FSCI
+164,Return on capital,12  Dec-16,41.4,FSCI
+165,Exports to sales,12  Dec-16,3.9,FSCI
+166,Imports to sales,12  Dec-16,12.0,FSCI
+167,Exports (fob),12  Dec-16,132.0,FSCI
+168,Imports (cif),12  Dec-16,407.0,FSCI
+169,Fx inflow,12  Dec-16,161.0,FSCI
+170,Fx outflow,12  Dec-16,606.0,FSCI
+171,Net fx,12  Dec-16,-444.0,FSCI
+172,From Operations,12  Dec-16,320.0,FSCI
+173,From Investments,12  Dec-16,-65.0,FSCI
+174,From Financial Activity,12  Dec-16,-198.0,FSCI
+175,Net Cashflow,12  Dec-16,58.0,FSCI
+176,Net Sales,12  Dec-17,3539.0,FSCI
+177,Other income,12  Dec-17,25.0,FSCI
+178,Total revenues,12  Dec-17,3564.0,FSCI
+179,Gross profit,12  Dec-17,509.0,FSCI
+180,Depreciation,12  Dec-17,53.0,FSCI
+181,Interest,12  Dec-17,4.0,FSCI
+182,Profit before tax,12  Dec-17,478.0,FSCI
+183,Minority Interest,12  Dec-17,0.0,FSCI
+184,Prior Period Items,12  Dec-17,0.0,FSCI
+185,Extraordinary Inc (Exp),12  Dec-17,0.0,FSCI
+186,Tax,12  Dec-17,165.0,FSCI
+187,Profit after tax,12  Dec-17,313.0,FSCI
+188,Gross profit margin,12  Dec-17,14.4,FSCI
+189,Effective tax rate,12  Dec-17,34.4,FSCI
+190,Net profit margin,12  Dec-17,8.9,FSCI
+191,Current assets,12  Dec-17,1909.0,FSCI
+192,Current liabilities,12  Dec-17,740.0,FSCI
+193,Net working cap to sales,12  Dec-17,33.0,FSCI
+194,Current ratio,12  Dec-17,2.6,FSCI
+195,Inventory Days,12  Dec-17,17.0,FSCI
+196,Debtors Days,12  Dec-17,104.0,FSCI
+197,Net fixed assets,12  Dec-17,239.0,FSCI
+198,Share capital,12  Dec-17,64.0,FSCI
+199,"""Free"" reserves",12  Dec-17,1393.0,FSCI
+200,Net worth,12  Dec-17,1457.0,FSCI
+201,Long term debt,12  Dec-17,0.0,FSCI
+202,Total assets,12  Dec-17,2209.0,FSCI
+203,Interest coverage,12  Dec-17,137.5,FSCI
+204,Debt to equity ratio,12  Dec-17,0.0,FSCI
+205,Sales to assets ratio,12  Dec-17,1.6,FSCI
+206,Return on assets,12  Dec-17,14.3,FSCI
+207,Return on equity,12  Dec-17,21.5,FSCI
+208,Return on capital,12  Dec-17,33.0,FSCI
+209,Exports to sales,12  Dec-17,5.2,FSCI
+210,Imports to sales,12  Dec-17,13.0,FSCI
+211,Exports (fob),12  Dec-17,183.0,FSCI
+212,Imports (cif),12  Dec-17,462.0,FSCI
+213,Fx inflow,12  Dec-17,214.0,FSCI
+214,Fx outflow,12  Dec-17,681.0,FSCI
+215,Net fx,12  Dec-17,-467.0,FSCI
+216,From Operations,12  Dec-17,657.0,FSCI
+217,From Investments,12  Dec-17,18.0,FSCI
+218,From Financial Activity,12  Dec-17,-169.0,FSCI
+219,Net Cashflow,12  Dec-17,506.0,FSCI

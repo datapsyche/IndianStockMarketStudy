@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,652.0,CPIL
+1,Other income,12  Mar-14*,128.0,CPIL
+2,Total revenues,12  Mar-14*,780.0,CPIL
+3,Gross profit,12  Mar-14*,97.0,CPIL
+4,Depreciation,12  Mar-14*,52.0,CPIL
+5,Interest,12  Mar-14*,51.0,CPIL
+6,Profit before tax,12  Mar-14*,122.0,CPIL
+7,Minority Interest,12  Mar-14*,3.0,CPIL
+8,Prior Period Items,12  Mar-14*,0.0,CPIL
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,CPIL
+10,Tax,12  Mar-14*,28.0,CPIL
+11,Profit after tax,12  Mar-14*,98.0,CPIL
+12,Gross profit margin,12  Mar-14*,14.8,CPIL
+13,Effective tax rate,12  Mar-14*,23.0,CPIL
+14,Net profit margin,12  Mar-14*,15.0,CPIL
+15,Current assets,12  Mar-14*,952.0,CPIL
+16,Current liabilities,12  Mar-14*,576.0,CPIL
+17,Net working cap to sales,12  Mar-14*,57.7,CPIL
+18,Current ratio,12  Mar-14*,1.7,CPIL
+19,Inventory Days,12  Mar-14*,17.0,CPIL
+20,Debtors Days,12  Mar-14*,84.0,CPIL
+21,Net fixed assets,12  Mar-14*,2299.0,CPIL
+22,Share capital,12  Mar-14*,181.0,CPIL
+23,"""Free"" reserves",12  Mar-14*,3717.0,CPIL
+24,Net worth,12  Mar-14*,3353.0,CPIL
+25,Long term debt,12  Mar-14*,0.0,CPIL
+26,Total assets,12  Mar-14*,3969.0,CPIL
+27,Interest coverage,12  Mar-14*,3.4,CPIL
+28,Debt to equity ratio,12  Mar-14*,0.0,CPIL
+29,Sales to assets ratio,12  Mar-14*,0.2,CPIL
+30,Return on assets,12  Mar-14*,3.7,CPIL
+31,Return on equity,12  Mar-14*,2.9,CPIL
+32,Return on capital,12  Mar-14*,5.3,CPIL
+33,Exports to sales,12  Mar-14*,0.0,CPIL
+34,Imports to sales,12  Mar-14*,0.0,CPIL
+35,Exports (fob),12  Mar-14*,0.0,CPIL
+36,Imports (cif),12  Mar-14*,0.0,CPIL
+37,Fx inflow,12  Mar-14*,0.0,CPIL
+38,Fx outflow,12  Mar-14*,0.0,CPIL
+39,Net fx,12  Mar-14*,0.0,CPIL
+40,From Operations,12  Mar-14*,-146.0,CPIL
+41,From Investments,12  Mar-14*,287.0,CPIL
+42,From Financial Activity,12  Mar-14*,-147.0,CPIL
+43,Net Cashflow,12  Mar-14*,-6.0,CPIL
+44,Net Sales,12  Mar-15*,779.0,CPIL
+45,Other income,12  Mar-15*,112.0,CPIL
+46,Total revenues,12  Mar-15*,890.0,CPIL
+47,Gross profit,12  Mar-15*,98.0,CPIL
+48,Depreciation,12  Mar-15*,54.0,CPIL
+49,Interest,12  Mar-15*,50.0,CPIL
+50,Profit before tax,12  Mar-15*,107.0,CPIL
+51,Minority Interest,12  Mar-15*,6.0,CPIL
+52,Prior Period Items,12  Mar-15*,0.0,CPIL
+53,Extraordinary Inc (Exp),12  Mar-15*,-62.0,CPIL
+54,Tax,12  Mar-15*,-8.0,CPIL
+55,Profit after tax,12  Mar-15*,58.0,CPIL
+56,Gross profit margin,12  Mar-15*,12.6,CPIL
+57,Effective tax rate,12  Mar-15*,-7.7,CPIL
+58,Net profit margin,12  Mar-15*,7.5,CPIL
+59,Current assets,12  Mar-15*,1204.0,CPIL
+60,Current liabilities,12  Mar-15*,589.0,CPIL
+61,Net working cap to sales,12  Mar-15*,78.9,CPIL
+62,Current ratio,12  Mar-15*,2.0,CPIL
+63,Inventory Days,12  Mar-15*,11.0,CPIL
+64,Debtors Days,12  Mar-15*,381.0,CPIL
+65,Net fixed assets,12  Mar-15*,1648.0,CPIL
+66,Share capital,12  Mar-15*,181.0,CPIL
+67,"""Free"" reserves",12  Mar-15*,3207.0,CPIL
+68,Net worth,12  Mar-15*,3388.0,CPIL
+69,Long term debt,12  Mar-15*,0.0,CPIL
+70,Total assets,12  Mar-15*,3992.0,CPIL
+71,Interest coverage,12  Mar-15*,3.1,CPIL
+72,Debt to equity ratio,12  Mar-15*,0.0,CPIL
+73,Sales to assets ratio,12  Mar-15*,0.2,CPIL
+74,Return on assets,12  Mar-15*,2.7,CPIL
+75,Return on equity,12  Mar-15*,1.7,CPIL
+76,Return on capital,12  Mar-15*,2.9,CPIL
+77,Exports to sales,12  Mar-15*,0.0,CPIL
+78,Imports to sales,12  Mar-15*,0.0,CPIL
+79,Exports (fob),12  Mar-15*,0.0,CPIL
+80,Imports (cif),12  Mar-15*,0.0,CPIL
+81,Fx inflow,12  Mar-15*,0.0,CPIL
+82,Fx outflow,12  Mar-15*,0.0,CPIL
+83,Net fx,12  Mar-15*,0.0,CPIL
+84,From Operations,12  Mar-15*,-787.0,CPIL
+85,From Investments,12  Mar-15*,820.0,CPIL
+86,From Financial Activity,12  Mar-15*,-75.0,CPIL
+87,Net Cashflow,12  Mar-15*,-42.0,CPIL
+88,Net Sales,12  Mar-16*,759.0,CPIL
+89,Other income,12  Mar-16*,108.0,CPIL
+90,Total revenues,12  Mar-16*,867.0,CPIL
+91,Gross profit,12  Mar-16*,205.0,CPIL
+92,Depreciation,12  Mar-16*,53.0,CPIL
+93,Interest,12  Mar-16*,44.0,CPIL
+94,Profit before tax,12  Mar-16*,215.0,CPIL
+95,Minority Interest,12  Mar-16*,0.0,CPIL
+96,Prior Period Items,12  Mar-16*,3.0,CPIL
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,CPIL
+98,Tax,12  Mar-16*,74.0,CPIL
+99,Profit after tax,12  Mar-16*,145.0,CPIL
+100,Gross profit margin,12  Mar-16*,27.0,CPIL
+101,Effective tax rate,12  Mar-16*,34.2,CPIL
+102,Net profit margin,12  Mar-16*,19.1,CPIL
+103,Current assets,12  Mar-16*,1711.0,CPIL
+104,Current liabilities,12  Mar-16*,617.0,CPIL
+105,Net working cap to sales,12  Mar-16*,144.2,CPIL
+106,Current ratio,12  Mar-16*,2.8,CPIL
+107,Inventory Days,12  Mar-16*,10.0,CPIL
+108,Debtors Days,12  Mar-16*,389.0,CPIL
+109,Net fixed assets,12  Mar-16*,1661.0,CPIL
+110,Share capital,12  Mar-16*,181.0,CPIL
+111,"""Free"" reserves",12  Mar-16*,3418.0,CPIL
+112,Net worth,12  Mar-16*,3600.0,CPIL
+113,Long term debt,12  Mar-16*,46.0,CPIL
+114,Total assets,12  Mar-16*,4296.0,CPIL
+115,Interest coverage,12  Mar-16*,5.8,CPIL
+116,Debt to equity ratio,12  Mar-16*,0.0,CPIL
+117,Sales to assets ratio,12  Mar-16*,0.2,CPIL
+118,Return on assets,12  Mar-16*,4.4,CPIL
+119,Return on equity,12  Mar-16*,4.0,CPIL
+120,Return on capital,12  Mar-16*,7.2,CPIL
+121,Exports to sales,12  Mar-16*,0.0,CPIL
+122,Imports to sales,12  Mar-16*,0.0,CPIL
+123,Exports (fob),12  Mar-16*,0.0,CPIL
+124,Imports (cif),12  Mar-16*,0.0,CPIL
+125,Fx inflow,12  Mar-16*,0.0,CPIL
+126,Fx outflow,12  Mar-16*,0.0,CPIL
+127,Net fx,12  Mar-16*,0.0,CPIL
+128,From Operations,12  Mar-16*,-19.0,CPIL
+129,From Investments,12  Mar-16*,21.0,CPIL
+130,From Financial Activity,12  Mar-16*,-2.0,CPIL
+131,Net Cashflow,12  Mar-16*,0.0,CPIL
+132,Net Sales,12  Mar-17*,830.0,CPIL
+133,Other income,12  Mar-17*,124.0,CPIL
+134,Total revenues,12  Mar-17*,953.0,CPIL
+135,Gross profit,12  Mar-17*,286.0,CPIL
+136,Depreciation,12  Mar-17*,53.0,CPIL
+137,Interest,12  Mar-17*,59.0,CPIL
+138,Profit before tax,12  Mar-17*,298.0,CPIL
+139,Minority Interest,12  Mar-17*,-1.0,CPIL
+140,Prior Period Items,12  Mar-17*,0.0,CPIL
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,CPIL
+142,Tax,12  Mar-17*,88.0,CPIL
+143,Profit after tax,12  Mar-17*,210.0,CPIL
+144,Gross profit margin,12  Mar-17*,34.5,CPIL
+145,Effective tax rate,12  Mar-17*,29.5,CPIL
+146,Net profit margin,12  Mar-17*,25.3,CPIL
+147,Current assets,12  Mar-17*,3088.0,CPIL
+148,Current liabilities,12  Mar-17*,1377.0,CPIL
+149,Net working cap to sales,12  Mar-17*,206.3,CPIL
+150,Current ratio,12  Mar-17*,2.2,CPIL
+151,Inventory Days,12  Mar-17*,336.0,CPIL
+152,Debtors Days,12  Mar-17*,176.0,CPIL
+153,Net fixed assets,12  Mar-17*,1841.0,CPIL
+154,Share capital,12  Mar-17*,181.0,CPIL
+155,"""Free"" reserves",12  Mar-17*,3620.0,CPIL
+156,Net worth,12  Mar-17*,3802.0,CPIL
+157,Long term debt,12  Mar-17*,100.0,CPIL
+158,Total assets,12  Mar-17*,5353.0,CPIL
+159,Interest coverage,12  Mar-17*,6.1,CPIL
+160,Debt to equity ratio,12  Mar-17*,0.0,CPIL
+161,Sales to assets ratio,12  Mar-17*,0.2,CPIL
+162,Return on assets,12  Mar-17*,5.0,CPIL
+163,Return on equity,12  Mar-17*,5.5,CPIL
+164,Return on capital,12  Mar-17*,9.1,CPIL
+165,Exports to sales,12  Mar-17*,0.0,CPIL
+166,Imports to sales,12  Mar-17*,0.0,CPIL
+167,Exports (fob),12  Mar-17*,0.0,CPIL
+168,Imports (cif),12  Mar-17*,0.0,CPIL
+169,Fx inflow,12  Mar-17*,0.0,CPIL
+170,Fx outflow,12  Mar-17*,0.0,CPIL
+171,Net fx,12  Mar-17*,0.0,CPIL
+172,From Operations,12  Mar-17*,-42.0,CPIL
+173,From Investments,12  Mar-17*,-645.0,CPIL
+174,From Financial Activity,12  Mar-17*,746.0,CPIL
+175,Net Cashflow,12  Mar-17*,59.0,CPIL
+176,Net Sales,12  Mar-18*,896.0,CPIL
+177,Other income,12  Mar-18*,107.0,CPIL
+178,Total revenues,12  Mar-18*,1003.0,CPIL
+179,Gross profit,12  Mar-18*,306.0,CPIL
+180,Depreciation,12  Mar-18*,46.0,CPIL
+181,Interest,12  Mar-18*,66.0,CPIL
+182,Profit before tax,12  Mar-18*,301.0,CPIL
+183,Minority Interest,12  Mar-18*,-1.0,CPIL
+184,Prior Period Items,12  Mar-18*,0.0,CPIL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,CPIL
+186,Tax,12  Mar-18*,78.0,CPIL
+187,Profit after tax,12  Mar-18*,222.0,CPIL
+188,Gross profit margin,12  Mar-18*,34.1,CPIL
+189,Effective tax rate,12  Mar-18*,26.0,CPIL
+190,Net profit margin,12  Mar-18*,24.8,CPIL
+191,Current assets,12  Mar-18*,2378.0,CPIL
+192,Current liabilities,12  Mar-18*,777.0,CPIL
+193,Net working cap to sales,12  Mar-18*,178.7,CPIL
+194,Current ratio,12  Mar-18*,3.1,CPIL
+195,Inventory Days,12  Mar-18*,14.0,CPIL
+196,Debtors Days,12  Mar-18*,184.0,CPIL
+197,Net fixed assets,12  Mar-18*,1848.0,CPIL
+198,Share capital,12  Mar-18*,182.0,CPIL
+199,"""Free"" reserves",12  Mar-18*,3858.0,CPIL
+200,Net worth,12  Mar-18*,4039.0,CPIL
+201,Long term debt,12  Mar-18*,296.0,CPIL
+202,Total assets,12  Mar-18*,5209.0,CPIL
+203,Interest coverage,12  Mar-18*,5.6,CPIL
+204,Debt to equity ratio,12  Mar-18*,0.1,CPIL
+205,Sales to assets ratio,12  Mar-18*,0.2,CPIL
+206,Return on assets,12  Mar-18*,5.5,CPIL
+207,Return on equity,12  Mar-18*,5.5,CPIL
+208,Return on capital,12  Mar-18*,8.4,CPIL
+209,Exports to sales,12  Mar-18*,0.0,CPIL
+210,Imports to sales,12  Mar-18*,0.0,CPIL
+211,Exports (fob),12  Mar-18*,0.0,CPIL
+212,Imports (cif),12  Mar-18*,0.0,CPIL
+213,Fx inflow,12  Mar-18*,0.0,CPIL
+214,Fx outflow,12  Mar-18*,0.0,CPIL
+215,Net fx,12  Mar-18*,0.0,CPIL
+216,From Operations,12  Mar-18*,975.0,CPIL
+217,From Investments,12  Mar-18*,-458.0,CPIL
+218,From Financial Activity,12  Mar-18*,-496.0,CPIL
+219,Net Cashflow,12  Mar-18*,21.0,CPIL

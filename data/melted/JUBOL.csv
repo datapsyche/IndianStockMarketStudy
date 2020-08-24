@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,58262.0,JUBOL
+1,Other income,12  Mar-15*,425.0,JUBOL
+2,Total revenues,12  Mar-15*,58687.0,JUBOL
+3,Gross profit,12  Mar-15*,6893.0,JUBOL
+4,Depreciation,12  Mar-15*,2880.0,JUBOL
+5,Interest,12  Mar-15*,3553.0,JUBOL
+6,Profit before tax,12  Mar-15*,884.0,JUBOL
+7,Minority Interest,12  Mar-15*,-176.0,JUBOL
+8,Prior Period Items,12  Mar-15*,0.0,JUBOL
+9,Extraordinary Inc (Exp),12  Mar-15*,-481.0,JUBOL
+10,Tax,12  Mar-15*,805.0,JUBOL
+11,Profit after tax,12  Mar-15*,-578.0,JUBOL
+12,Gross profit margin,12  Mar-15*,11.8,JUBOL
+13,Effective tax rate,12  Mar-15*,91.0,JUBOL
+14,Net profit margin,12  Mar-15*,-1.0,JUBOL
+15,Current assets,12  Mar-15*,27145.0,JUBOL
+16,Current liabilities,12  Mar-15*,21292.0,JUBOL
+17,Net working cap to sales,12  Mar-15*,10.0,JUBOL
+18,Current ratio,12  Mar-15*,1.3,JUBOL
+19,Inventory Days,12  Mar-15*,77.0,JUBOL
+20,Debtors Days,12  Mar-15*,51.0,JUBOL
+21,Net fixed assets,12  Mar-15*,55079.0,JUBOL
+22,Share capital,12  Mar-15*,159.0,JUBOL
+23,"""Free"" reserves",12  Mar-15*,24376.0,JUBOL
+24,Net worth,12  Mar-15*,24535.0,JUBOL
+25,Long term debt,12  Mar-15*,36913.0,JUBOL
+26,Total assets,12  Mar-15*,86188.0,JUBOL
+27,Interest coverage,12  Mar-15*,1.2,JUBOL
+28,Debt to equity ratio,12  Mar-15*,1.5,JUBOL
+29,Sales to assets ratio,12  Mar-15*,0.7,JUBOL
+30,Return on assets,12  Mar-15*,3.5,JUBOL
+31,Return on equity,12  Mar-15*,-2.4,JUBOL
+32,Return on capital,12  Mar-15*,6.2,JUBOL
+33,Exports to sales,12  Mar-15*,26.9,JUBOL
+34,Imports to sales,12  Mar-15*,17.7,JUBOL
+35,Exports (fob),12  Mar-15*,15648.0,JUBOL
+36,Imports (cif),12  Mar-15*,10289.0,JUBOL
+37,Fx inflow,12  Mar-15*,15785.0,JUBOL
+38,Fx outflow,12  Mar-15*,11968.0,JUBOL
+39,Net fx,12  Mar-15*,3817.0,JUBOL
+40,From Operations,12  Mar-15*,7833.0,JUBOL
+41,From Investments,12  Mar-15*,-3433.0,JUBOL
+42,From Financial Activity,12  Mar-15*,-5027.0,JUBOL
+43,Net Cashflow,12  Mar-15*,-819.0,JUBOL
+44,Net Sales,12  Mar-16*,58023.0,JUBOL
+45,Other income,12  Mar-16*,136.0,JUBOL
+46,Total revenues,12  Mar-16*,58160.0,JUBOL
+47,Gross profit,12  Mar-16*,12778.0,JUBOL
+48,Depreciation,12  Mar-16*,3460.0,JUBOL
+49,Interest,12  Mar-16*,3786.0,JUBOL
+50,Profit before tax,12  Mar-16*,5669.0,JUBOL
+51,Minority Interest,12  Mar-16*,0.0,JUBOL
+52,Prior Period Items,12  Mar-16*,0.0,JUBOL
+53,Extraordinary Inc (Exp),12  Mar-16*,175.0,JUBOL
+54,Tax,12  Mar-16*,1529.0,JUBOL
+55,Profit after tax,12  Mar-16*,4315.0,JUBOL
+56,Gross profit margin,12  Mar-16*,22.0,JUBOL
+57,Effective tax rate,12  Mar-16*,27.0,JUBOL
+58,Net profit margin,12  Mar-16*,7.4,JUBOL
+59,Current assets,12  Mar-16*,29013.0,JUBOL
+60,Current liabilities,12  Mar-16*,25145.0,JUBOL
+61,Net working cap to sales,12  Mar-16*,6.7,JUBOL
+62,Current ratio,12  Mar-16*,1.2,JUBOL
+63,Inventory Days,12  Mar-16*,76.0,JUBOL
+64,Debtors Days,12  Mar-16*,58.0,JUBOL
+65,Net fixed assets,12  Mar-16*,56850.0,JUBOL
+66,Share capital,12  Mar-16*,159.0,JUBOL
+67,"""Free"" reserves",12  Mar-16*,28936.0,JUBOL
+68,Net worth,12  Mar-16*,29096.0,JUBOL
+69,Long term debt,12  Mar-16*,30440.0,JUBOL
+70,Total assets,12  Mar-16*,89470.0,JUBOL
+71,Interest coverage,12  Mar-16*,2.5,JUBOL
+72,Debt to equity ratio,12  Mar-16*,1.0,JUBOL
+73,Sales to assets ratio,12  Mar-16*,0.6,JUBOL
+74,Return on assets,12  Mar-16*,9.1,JUBOL
+75,Return on equity,12  Mar-16*,14.8,JUBOL
+76,Return on capital,12  Mar-16*,16.2,JUBOL
+77,Exports to sales,12  Mar-16*,21.3,JUBOL
+78,Imports to sales,12  Mar-16*,14.6,JUBOL
+79,Exports (fob),12  Mar-16*,12339.0,JUBOL
+80,Imports (cif),12  Mar-16*,8475.0,JUBOL
+81,Fx inflow,12  Mar-16*,12344.0,JUBOL
+82,Fx outflow,12  Mar-16*,9430.0,JUBOL
+83,Net fx,12  Mar-16*,2914.0,JUBOL
+84,From Operations,12  Mar-16*,10923.0,JUBOL
+85,From Investments,12  Mar-16*,-3265.0,JUBOL
+86,From Financial Activity,12  Mar-16*,-8223.0,JUBOL
+87,Net Cashflow,12  Mar-16*,-525.0,JUBOL
+88,Net Sales,12  Mar-17*,58614.0,JUBOL
+89,Other income,12  Mar-17*,249.0,JUBOL
+90,Total revenues,12  Mar-17*,58863.0,JUBOL
+91,Gross profit,12  Mar-17*,13453.0,JUBOL
+92,Depreciation,12  Mar-17*,2914.0,JUBOL
+93,Interest,12  Mar-17*,3411.0,JUBOL
+94,Profit before tax,12  Mar-17*,7376.0,JUBOL
+95,Minority Interest,12  Mar-17*,0.0,JUBOL
+96,Prior Period Items,12  Mar-17*,0.0,JUBOL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,JUBOL
+98,Tax,12  Mar-17*,1630.0,JUBOL
+99,Profit after tax,12  Mar-17*,5746.0,JUBOL
+100,Gross profit margin,12  Mar-17*,23.0,JUBOL
+101,Effective tax rate,12  Mar-17*,22.1,JUBOL
+102,Net profit margin,12  Mar-17*,9.8,JUBOL
+103,Current assets,12  Mar-17*,29481.0,JUBOL
+104,Current liabilities,12  Mar-17*,16840.0,JUBOL
+105,Net working cap to sales,12  Mar-17*,21.6,JUBOL
+106,Current ratio,12  Mar-17*,1.8,JUBOL
+107,Inventory Days,12  Mar-17*,76.0,JUBOL
+108,Debtors Days,12  Mar-17*,63.0,JUBOL
+109,Net fixed assets,12  Mar-17*,58905.0,JUBOL
+110,Share capital,12  Mar-17*,156.0,JUBOL
+111,"""Free"" reserves",12  Mar-17*,34205.0,JUBOL
+112,Net worth,12  Mar-17*,34360.0,JUBOL
+113,Long term debt,12  Mar-17*,35050.0,JUBOL
+114,Total assets,12  Mar-17*,90407.0,JUBOL
+115,Interest coverage,12  Mar-17*,3.2,JUBOL
+116,Debt to equity ratio,12  Mar-17*,1.0,JUBOL
+117,Sales to assets ratio,12  Mar-17*,0.6,JUBOL
+118,Return on assets,12  Mar-17*,10.1,JUBOL
+119,Return on equity,12  Mar-17*,16.7,JUBOL
+120,Return on capital,12  Mar-17*,15.5,JUBOL
+121,Exports to sales,12  Mar-17*,0.0,JUBOL
+122,Imports to sales,12  Mar-17*,0.0,JUBOL
+123,Exports (fob),12  Mar-17*,0.0,JUBOL
+124,Imports (cif),12  Mar-17*,0.0,JUBOL
+125,Fx inflow,12  Mar-17*,10881.0,JUBOL
+126,Fx outflow,12  Mar-17*,7762.0,JUBOL
+127,Net fx,12  Mar-17*,3119.0,JUBOL
+128,From Operations,12  Mar-17*,12685.0,JUBOL
+129,From Investments,12  Mar-17*,-4504.0,JUBOL
+130,From Financial Activity,12  Mar-17*,-6859.0,JUBOL
+131,Net Cashflow,12  Mar-17*,1172.0,JUBOL
+132,Net Sales,12  Mar-18*,75178.0,JUBOL
+133,Other income,12  Mar-18*,400.0,JUBOL
+134,Total revenues,12  Mar-18*,75579.0,JUBOL
+135,Gross profit,12  Mar-18*,15184.0,JUBOL
+136,Depreciation,12  Mar-18*,4151.0,JUBOL
+137,Interest,12  Mar-18*,2843.0,JUBOL
+138,Profit before tax,12  Mar-18*,8591.0,JUBOL
+139,Minority Interest,12  Mar-18*,0.0,JUBOL
+140,Prior Period Items,12  Mar-18*,0.0,JUBOL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,JUBOL
+142,Tax,12  Mar-18*,2247.0,JUBOL
+143,Profit after tax,12  Mar-18*,6344.0,JUBOL
+144,Gross profit margin,12  Mar-18*,20.2,JUBOL
+145,Effective tax rate,12  Mar-18*,26.2,JUBOL
+146,Net profit margin,12  Mar-18*,8.4,JUBOL
+147,Current assets,12  Mar-18*,31898.0,JUBOL
+148,Current liabilities,12  Mar-18*,20047.0,JUBOL
+149,Net working cap to sales,12  Mar-18*,15.8,JUBOL
+150,Current ratio,12  Mar-18*,1.6,JUBOL
+151,Inventory Days,12  Mar-18*,68.0,JUBOL
+152,Debtors Days,12  Mar-18*,55.0,JUBOL
+153,Net fixed assets,12  Mar-18*,60715.0,JUBOL
+154,Share capital,12  Mar-18*,156.0,JUBOL
+155,"""Free"" reserves",12  Mar-18*,40710.0,JUBOL
+156,Net worth,12  Mar-18*,40865.0,JUBOL
+157,Long term debt,12  Mar-18*,30478.0,JUBOL
+158,Total assets,12  Mar-18*,96176.0,JUBOL
+159,Interest coverage,12  Mar-18*,4.0,JUBOL
+160,Debt to equity ratio,12  Mar-18*,0.7,JUBOL
+161,Sales to assets ratio,12  Mar-18*,0.8,JUBOL
+162,Return on assets,12  Mar-18*,9.6,JUBOL
+163,Return on equity,12  Mar-18*,15.5,JUBOL
+164,Return on capital,12  Mar-18*,16.0,JUBOL
+165,Exports to sales,12  Mar-18*,0.0,JUBOL
+166,Imports to sales,12  Mar-18*,0.0,JUBOL
+167,Exports (fob),12  Mar-18*,0.0,JUBOL
+168,Imports (cif),12  Mar-18*,0.0,JUBOL
+169,Fx inflow,12  Mar-18*,14402.0,JUBOL
+170,Fx outflow,12  Mar-18*,12044.0,JUBOL
+171,Net fx,12  Mar-18*,2358.0,JUBOL
+172,From Operations,12  Mar-18*,13032.0,JUBOL
+173,From Investments,12  Mar-18*,-6177.0,JUBOL
+174,From Financial Activity,12  Mar-18*,-9011.0,JUBOL
+175,Net Cashflow,12  Mar-18*,-2123.0,JUBOL
+176,Net Sales,12  Mar-19*,91108.0,JUBOL
+177,Other income,12  Mar-19*,357.0,JUBOL
+178,Total revenues,12  Mar-19*,91466.0,JUBOL
+179,Gross profit,12  Mar-19*,17390.0,JUBOL
+180,Depreciation,12  Mar-19*,3709.0,JUBOL
+181,Interest,12  Mar-19*,2198.0,JUBOL
+182,Profit before tax,12  Mar-19*,11840.0,JUBOL
+183,Minority Interest,12  Mar-19*,0.0,JUBOL
+184,Prior Period Items,12  Mar-19*,0.0,JUBOL
+185,Extraordinary Inc (Exp),12  Mar-19*,-2802.0,JUBOL
+186,Tax,12  Mar-19*,3268.0,JUBOL
+187,Profit after tax,12  Mar-19*,5770.0,JUBOL
+188,Gross profit margin,12  Mar-19*,19.1,JUBOL
+189,Effective tax rate,12  Mar-19*,27.6,JUBOL
+190,Net profit margin,12  Mar-19*,6.3,JUBOL
+191,Current assets,12  Mar-19*,45848.0,JUBOL
+192,Current liabilities,12  Mar-19*,20897.0,JUBOL
+193,Net working cap to sales,12  Mar-19*,27.4,JUBOL
+194,Current ratio,12  Mar-19*,2.2,JUBOL
+195,Inventory Days,12  Mar-19*,57.0,JUBOL
+196,Debtors Days,12  Mar-19*,51.0,JUBOL
+197,Net fixed assets,12  Mar-19*,65498.0,JUBOL
+198,Share capital,12  Mar-19*,159.0,JUBOL
+199,"""Free"" reserves",12  Mar-19*,47930.0,JUBOL
+200,Net worth,12  Mar-19*,48089.0,JUBOL
+201,Long term debt,12  Mar-19*,42429.0,JUBOL
+202,Total assets,12  Mar-19*,114685.0,JUBOL
+203,Interest coverage,12  Mar-19*,6.4,JUBOL
+204,Debt to equity ratio,12  Mar-19*,0.9,JUBOL
+205,Sales to assets ratio,12  Mar-19*,0.8,JUBOL
+206,Return on assets,12  Mar-19*,6.9,JUBOL
+207,Return on equity,12  Mar-19*,12.0,JUBOL
+208,Return on capital,12  Mar-19*,12.4,JUBOL
+209,Exports to sales,12  Mar-19*,0.0,JUBOL
+210,Imports to sales,12  Mar-19*,0.0,JUBOL
+211,Exports (fob),12  Mar-19*,0.0,JUBOL
+212,Imports (cif),12  Mar-19*,0.0,JUBOL
+213,Fx inflow,12  Mar-19*,12422.0,JUBOL
+214,Fx outflow,12  Mar-19*,17227.0,JUBOL
+215,Net fx,12  Mar-19*,-4805.0,JUBOL
+216,From Operations,12  Mar-19*,11215.0,JUBOL
+217,From Investments,12  Mar-19*,-10118.0,JUBOL
+218,From Financial Activity,12  Mar-19*,6574.0,JUBOL
+219,Net Cashflow,12  Mar-19*,7612.0,JUBOL

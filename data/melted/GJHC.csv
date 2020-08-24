@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23736.0,GJHC
+1,Other income,12  Mar-15*,113.0,GJHC
+2,Total revenues,12  Mar-15*,23849.0,GJHC
+3,Gross profit,12  Mar-15*,5283.0,GJHC
+4,Depreciation,12  Mar-15*,849.0,GJHC
+5,Interest,12  Mar-15*,1704.0,GJHC
+6,Profit before tax,12  Mar-15*,2842.0,GJHC
+7,Minority Interest,12  Mar-15*,0.0,GJHC
+8,Prior Period Items,12  Mar-15*,0.0,GJHC
+9,Extraordinary Inc (Exp),12  Mar-15*,-274.0,GJHC
+10,Tax,12  Mar-15*,749.0,GJHC
+11,Profit after tax,12  Mar-15*,1819.0,GJHC
+12,Gross profit margin,12  Mar-15*,22.3,GJHC
+13,Effective tax rate,12  Mar-15*,26.4,GJHC
+14,Net profit margin,12  Mar-15*,7.7,GJHC
+15,Current assets,12  Mar-15*,7673.0,GJHC
+16,Current liabilities,12  Mar-15*,10923.0,GJHC
+17,Net working cap to sales,12  Mar-15*,-13.7,GJHC
+18,Current ratio,12  Mar-15*,0.7,GJHC
+19,Inventory Days,12  Mar-15*,75.0,GJHC
+20,Debtors Days,12  Mar-15*,38.0,GJHC
+21,Net fixed assets,12  Mar-15*,19495.0,GJHC
+22,Share capital,12  Mar-15*,1000.0,GJHC
+23,"""Free"" reserves",12  Mar-15*,7049.0,GJHC
+24,Net worth,12  Mar-15*,8049.0,GJHC
+25,Long term debt,12  Mar-15*,7813.0,GJHC
+26,Total assets,12  Mar-15*,28560.0,GJHC
+27,Interest coverage,12  Mar-15*,2.7,GJHC
+28,Debt to equity ratio,12  Mar-15*,1.0,GJHC
+29,Sales to assets ratio,12  Mar-15*,0.8,GJHC
+30,Return on assets,12  Mar-15*,12.3,GJHC
+31,Return on equity,12  Mar-15*,22.6,GJHC
+32,Return on capital,12  Mar-15*,26.9,GJHC
+33,Exports to sales,12  Mar-15*,22.7,GJHC
+34,Imports to sales,12  Mar-15*,11.5,GJHC
+35,Exports (fob),12  Mar-15*,5380.0,GJHC
+36,Imports (cif),12  Mar-15*,2741.0,GJHC
+37,Fx inflow,12  Mar-15*,5389.0,GJHC
+38,Fx outflow,12  Mar-15*,3021.0,GJHC
+39,Net fx,12  Mar-15*,2368.0,GJHC
+40,From Operations,12  Mar-15*,4160.0,GJHC
+41,From Investments,12  Mar-15*,-1274.0,GJHC
+42,From Financial Activity,12  Mar-15*,-2964.0,GJHC
+43,Net Cashflow,12  Mar-15*,-78.0,GJHC
+44,Net Sales,12  Mar-16*,25307.0,GJHC
+45,Other income,12  Mar-16*,104.0,GJHC
+46,Total revenues,12  Mar-16*,25411.0,GJHC
+47,Gross profit,12  Mar-16*,6294.0,GJHC
+48,Depreciation,12  Mar-16*,817.0,GJHC
+49,Interest,12  Mar-16*,1649.0,GJHC
+50,Profit before tax,12  Mar-16*,3932.0,GJHC
+51,Minority Interest,12  Mar-16*,0.0,GJHC
+52,Prior Period Items,12  Mar-16*,0.0,GJHC
+53,Extraordinary Inc (Exp),12  Mar-16*,-135.0,GJHC
+54,Tax,12  Mar-16*,1219.0,GJHC
+55,Profit after tax,12  Mar-16*,2578.0,GJHC
+56,Gross profit margin,12  Mar-16*,24.9,GJHC
+57,Effective tax rate,12  Mar-16*,31.0,GJHC
+58,Net profit margin,12  Mar-16*,10.2,GJHC
+59,Current assets,12  Mar-16*,7287.0,GJHC
+60,Current liabilities,12  Mar-16*,10393.0,GJHC
+61,Net working cap to sales,12  Mar-16*,-12.3,GJHC
+62,Current ratio,12  Mar-16*,0.7,GJHC
+63,Inventory Days,12  Mar-16*,73.0,GJHC
+64,Debtors Days,12  Mar-16*,26.0,GJHC
+65,Net fixed assets,12  Mar-16*,20946.0,GJHC
+66,Share capital,12  Mar-16*,1000.0,GJHC
+67,"""Free"" reserves",12  Mar-16*,9359.0,GJHC
+68,Net worth,12  Mar-16*,10359.0,GJHC
+69,Long term debt,12  Mar-16*,6750.0,GJHC
+70,Total assets,12  Mar-16*,29487.0,GJHC
+71,Interest coverage,12  Mar-16*,3.4,GJHC
+72,Debt to equity ratio,12  Mar-16*,0.7,GJHC
+73,Sales to assets ratio,12  Mar-16*,0.9,GJHC
+74,Return on assets,12  Mar-16*,14.3,GJHC
+75,Return on equity,12  Mar-16*,24.9,GJHC
+76,Return on capital,12  Mar-16*,31.8,GJHC
+77,Exports to sales,12  Mar-16*,26.7,GJHC
+78,Imports to sales,12  Mar-16*,10.1,GJHC
+79,Exports (fob),12  Mar-16*,6749.0,GJHC
+80,Imports (cif),12  Mar-16*,2550.0,GJHC
+81,Fx inflow,12  Mar-16*,6755.0,GJHC
+82,Fx outflow,12  Mar-16*,2883.0,GJHC
+83,Net fx,12  Mar-16*,3872.0,GJHC
+84,From Operations,12  Mar-16*,5088.0,GJHC
+85,From Investments,12  Mar-16*,-2491.0,GJHC
+86,From Financial Activity,12  Mar-16*,-2518.0,GJHC
+87,Net Cashflow,12  Mar-16*,79.0,GJHC
+88,Net Sales,12  Mar-17*,27838.0,GJHC
+89,Other income,12  Mar-17*,400.0,GJHC
+90,Total revenues,12  Mar-17*,28238.0,GJHC
+91,Gross profit,12  Mar-17*,6808.0,GJHC
+92,Depreciation,12  Mar-17*,857.0,GJHC
+93,Interest,12  Mar-17*,1368.0,GJHC
+94,Profit before tax,12  Mar-17*,4983.0,GJHC
+95,Minority Interest,12  Mar-17*,0.0,GJHC
+96,Prior Period Items,12  Mar-17*,0.0,GJHC
+97,Extraordinary Inc (Exp),12  Mar-17*,-30.0,GJHC
+98,Tax,12  Mar-17*,1152.0,GJHC
+99,Profit after tax,12  Mar-17*,3801.0,GJHC
+100,Gross profit margin,12  Mar-17*,24.5,GJHC
+101,Effective tax rate,12  Mar-17*,23.1,GJHC
+102,Net profit margin,12  Mar-17*,13.7,GJHC
+103,Current assets,12  Mar-17*,8966.0,GJHC
+104,Current liabilities,12  Mar-17*,12170.0,GJHC
+105,Net working cap to sales,12  Mar-17*,-11.5,GJHC
+106,Current ratio,12  Mar-17*,0.7,GJHC
+107,Inventory Days,12  Mar-17*,77.0,GJHC
+108,Debtors Days,12  Mar-17*,36.0,GJHC
+109,Net fixed assets,12  Mar-17*,24356.0,GJHC
+110,Share capital,12  Mar-17*,995.0,GJHC
+111,"""Free"" reserves",12  Mar-17*,12471.0,GJHC
+112,Net worth,12  Mar-17*,13465.0,GJHC
+113,Long term debt,12  Mar-17*,6980.0,GJHC
+114,Total assets,12  Mar-17*,35036.0,GJHC
+115,Interest coverage,12  Mar-17*,4.6,GJHC
+116,Debt to equity ratio,12  Mar-17*,0.5,GJHC
+117,Sales to assets ratio,12  Mar-17*,0.8,GJHC
+118,Return on assets,12  Mar-17*,14.8,GJHC
+119,Return on equity,12  Mar-17*,28.2,GJHC
+120,Return on capital,12  Mar-17*,30.9,GJHC
+121,Exports to sales,12  Mar-17*,0.0,GJHC
+122,Imports to sales,12  Mar-17*,0.0,GJHC
+123,Exports (fob),12  Mar-17*,0.0,GJHC
+124,Imports (cif),12  Mar-17*,0.0,GJHC
+125,Fx inflow,12  Mar-17*,7017.0,GJHC
+126,Fx outflow,12  Mar-17*,4818.0,GJHC
+127,Net fx,12  Mar-17*,2199.0,GJHC
+128,From Operations,12  Mar-17*,4581.0,GJHC
+129,From Investments,12  Mar-17*,-3748.0,GJHC
+130,From Financial Activity,12  Mar-17*,-1130.0,GJHC
+131,Net Cashflow,12  Mar-17*,-296.0,GJHC
+132,Net Sales,12  Mar-18*,29192.0,GJHC
+133,Other income,12  Mar-18*,379.0,GJHC
+134,Total revenues,12  Mar-18*,29572.0,GJHC
+135,Gross profit,12  Mar-18*,6061.0,GJHC
+136,Depreciation,12  Mar-18*,1101.0,GJHC
+137,Interest,12  Mar-18*,1266.0,GJHC
+138,Profit before tax,12  Mar-18*,4074.0,GJHC
+139,Minority Interest,12  Mar-18*,0.0,GJHC
+140,Prior Period Items,12  Mar-18*,0.0,GJHC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GJHC
+142,Tax,12  Mar-18*,511.0,GJHC
+143,Profit after tax,12  Mar-18*,3564.0,GJHC
+144,Gross profit margin,12  Mar-18*,20.8,GJHC
+145,Effective tax rate,12  Mar-18*,12.5,GJHC
+146,Net profit margin,12  Mar-18*,12.2,GJHC
+147,Current assets,12  Mar-18*,10003.0,GJHC
+148,Current liabilities,12  Mar-18*,10717.0,GJHC
+149,Net working cap to sales,12  Mar-18*,-2.4,GJHC
+150,Current ratio,12  Mar-18*,0.9,GJHC
+151,Inventory Days,12  Mar-18*,80.0,GJHC
+152,Debtors Days,12  Mar-18*,29.0,GJHC
+153,Net fixed assets,12  Mar-18*,25752.0,GJHC
+154,Share capital,12  Mar-18*,974.0,GJHC
+155,"""Free"" reserves",12  Mar-18*,15134.0,GJHC
+156,Net worth,12  Mar-18*,16108.0,GJHC
+157,Long term debt,12  Mar-18*,7443.0,GJHC
+158,Total assets,12  Mar-18*,36281.0,GJHC
+159,Interest coverage,12  Mar-18*,4.2,GJHC
+160,Debt to equity ratio,12  Mar-18*,0.5,GJHC
+161,Sales to assets ratio,12  Mar-18*,0.8,GJHC
+162,Return on assets,12  Mar-18*,13.3,GJHC
+163,Return on equity,12  Mar-18*,22.1,GJHC
+164,Return on capital,12  Mar-18*,22.7,GJHC
+165,Exports to sales,12  Mar-18*,0.0,GJHC
+166,Imports to sales,12  Mar-18*,0.0,GJHC
+167,Exports (fob),12  Mar-18*,0.0,GJHC
+168,Imports (cif),12  Mar-18*,0.0,GJHC
+169,Fx inflow,12  Mar-18*,5871.0,GJHC
+170,Fx outflow,12  Mar-18*,5633.0,GJHC
+171,Net fx,12  Mar-18*,238.0,GJHC
+172,From Operations,12  Mar-18*,5895.0,GJHC
+173,From Investments,12  Mar-18*,-2794.0,GJHC
+174,From Financial Activity,12  Mar-18*,-3078.0,GJHC
+175,Net Cashflow,12  Mar-18*,23.0,GJHC
+176,Net Sales,12  Mar-19*,33413.0,GJHC
+177,Other income,12  Mar-19*,155.0,GJHC
+178,Total revenues,12  Mar-19*,33568.0,GJHC
+179,Gross profit,12  Mar-19*,7594.0,GJHC
+180,Depreciation,12  Mar-19*,1169.0,GJHC
+181,Interest,12  Mar-19*,1273.0,GJHC
+182,Profit before tax,12  Mar-19*,5306.0,GJHC
+183,Minority Interest,12  Mar-19*,0.0,GJHC
+184,Prior Period Items,12  Mar-19*,0.0,GJHC
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GJHC
+186,Tax,12  Mar-19*,1801.0,GJHC
+187,Profit after tax,12  Mar-19*,3506.0,GJHC
+188,Gross profit margin,12  Mar-19*,22.7,GJHC
+189,Effective tax rate,12  Mar-19*,33.9,GJHC
+190,Net profit margin,12  Mar-19*,10.5,GJHC
+191,Current assets,12  Mar-19*,11995.0,GJHC
+192,Current liabilities,12  Mar-19*,11082.0,GJHC
+193,Net working cap to sales,12  Mar-19*,2.7,GJHC
+194,Current ratio,12  Mar-19*,1.1,GJHC
+195,Inventory Days,12  Mar-19*,84.0,GJHC
+196,Debtors Days,12  Mar-19*,32.0,GJHC
+197,Net fixed assets,12  Mar-19*,27085.0,GJHC
+198,Share capital,12  Mar-19*,980.0,GJHC
+199,"""Free"" reserves",12  Mar-19*,18275.0,GJHC
+200,Net worth,12  Mar-19*,19255.0,GJHC
+201,Long term debt,12  Mar-19*,7020.0,GJHC
+202,Total assets,12  Mar-19*,39949.0,GJHC
+203,Interest coverage,12  Mar-19*,5.2,GJHC
+204,Debt to equity ratio,12  Mar-19*,0.4,GJHC
+205,Sales to assets ratio,12  Mar-19*,0.8,GJHC
+206,Return on assets,12  Mar-19*,12.0,GJHC
+207,Return on equity,12  Mar-19*,18.2,GJHC
+208,Return on capital,12  Mar-19*,25.0,GJHC
+209,Exports to sales,12  Mar-19*,0.0,GJHC
+210,Imports to sales,12  Mar-19*,0.0,GJHC
+211,Exports (fob),12  Mar-19*,0.0,GJHC
+212,Imports (cif),12  Mar-19*,0.0,GJHC
+213,Fx inflow,12  Mar-19*,5697.0,GJHC
+214,Fx outflow,12  Mar-19*,6976.0,GJHC
+215,Net fx,12  Mar-19*,-1279.0,GJHC
+216,From Operations,12  Mar-19*,5302.0,GJHC
+217,From Investments,12  Mar-19*,-2712.0,GJHC
+218,From Financial Activity,12  Mar-19*,-2584.0,GJHC
+219,Net Cashflow,12  Mar-19*,6.0,GJHC

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10723.0,TUMI
+1,Other income,12  Mar-15*,77.0,TUMI
+2,Total revenues,12  Mar-15*,10799.0,TUMI
+3,Gross profit,12  Mar-15*,381.0,TUMI
+4,Depreciation,12  Mar-15*,178.0,TUMI
+5,Interest,12  Mar-15*,347.0,TUMI
+6,Profit before tax,12  Mar-15*,-68.0,TUMI
+7,Minority Interest,12  Mar-15*,0.0,TUMI
+8,Prior Period Items,12  Mar-15*,-18.0,TUMI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TUMI
+10,Tax,12  Mar-15*,51.0,TUMI
+11,Profit after tax,12  Mar-15*,-137.0,TUMI
+12,Gross profit margin,12  Mar-15*,3.5,TUMI
+13,Effective tax rate,12  Mar-15*,-75.6,TUMI
+14,Net profit margin,12  Mar-15*,-1.3,TUMI
+15,Current assets,12  Mar-15*,2755.0,TUMI
+16,Current liabilities,12  Mar-15*,2874.0,TUMI
+17,Net working cap to sales,12  Mar-15*,-1.1,TUMI
+18,Current ratio,12  Mar-15*,1.0,TUMI
+19,Inventory Days,12  Mar-15*,33.0,TUMI
+20,Debtors Days,12  Mar-15*,52.0,TUMI
+21,Net fixed assets,12  Mar-15*,2499.0,TUMI
+22,Share capital,12  Mar-15*,102.0,TUMI
+23,"""Free"" reserves",12  Mar-15*,1262.0,TUMI
+24,Net worth,12  Mar-15*,1931.0,TUMI
+25,Long term debt,12  Mar-15*,388.0,TUMI
+26,Total assets,12  Mar-15*,5468.0,TUMI
+27,Interest coverage,12  Mar-15*,0.8,TUMI
+28,Debt to equity ratio,12  Mar-15*,0.2,TUMI
+29,Sales to assets ratio,12  Mar-15*,2.0,TUMI
+30,Return on assets,12  Mar-15*,3.8,TUMI
+31,Return on equity,12  Mar-15*,-7.1,TUMI
+32,Return on capital,12  Mar-15*,11.3,TUMI
+33,Exports to sales,12  Mar-15*,9.8,TUMI
+34,Imports to sales,12  Mar-15*,3.1,TUMI
+35,Exports (fob),12  Mar-15*,1055.0,TUMI
+36,Imports (cif),12  Mar-15*,335.0,TUMI
+37,Fx inflow,12  Mar-15*,1100.0,TUMI
+38,Fx outflow,12  Mar-15*,371.0,TUMI
+39,Net fx,12  Mar-15*,730.0,TUMI
+40,From Operations,12  Mar-15*,1536.0,TUMI
+41,From Investments,12  Mar-15*,-192.0,TUMI
+42,From Financial Activity,12  Mar-15*,-1422.0,TUMI
+43,Net Cashflow,12  Mar-15*,-79.0,TUMI
+44,Net Sales,12  Mar-16*,9442.0,TUMI
+45,Other income,12  Mar-16*,52.0,TUMI
+46,Total revenues,12  Mar-16*,9494.0,TUMI
+47,Gross profit,12  Mar-16*,978.0,TUMI
+48,Depreciation,12  Mar-16*,251.0,TUMI
+49,Interest,12  Mar-16*,231.0,TUMI
+50,Profit before tax,12  Mar-16*,548.0,TUMI
+51,Minority Interest,12  Mar-16*,0.0,TUMI
+52,Prior Period Items,12  Mar-16*,0.0,TUMI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TUMI
+54,Tax,12  Mar-16*,227.0,TUMI
+55,Profit after tax,12  Mar-16*,322.0,TUMI
+56,Gross profit margin,12  Mar-16*,10.4,TUMI
+57,Effective tax rate,12  Mar-16*,41.4,TUMI
+58,Net profit margin,12  Mar-16*,3.4,TUMI
+59,Current assets,12  Mar-16*,2268.0,TUMI
+60,Current liabilities,12  Mar-16*,2513.0,TUMI
+61,Net working cap to sales,12  Mar-16*,-2.6,TUMI
+62,Current ratio,12  Mar-16*,0.9,TUMI
+63,Inventory Days,12  Mar-16*,27.0,TUMI
+64,Debtors Days,12  Mar-16*,50.0,TUMI
+65,Net fixed assets,12  Mar-16*,2734.0,TUMI
+66,Share capital,12  Mar-16*,102.0,TUMI
+67,"""Free"" reserves",12  Mar-16*,2085.0,TUMI
+68,Net worth,12  Mar-16*,2187.0,TUMI
+69,Long term debt,12  Mar-16*,236.0,TUMI
+70,Total assets,12  Mar-16*,5204.0,TUMI
+71,Interest coverage,12  Mar-16*,3.4,TUMI
+72,Debt to equity ratio,12  Mar-16*,0.1,TUMI
+73,Sales to assets ratio,12  Mar-16*,1.8,TUMI
+74,Return on assets,12  Mar-16*,10.6,TUMI
+75,Return on equity,12  Mar-16*,14.7,TUMI
+76,Return on capital,12  Mar-16*,32.1,TUMI
+77,Exports to sales,12  Mar-16*,10.8,TUMI
+78,Imports to sales,12  Mar-16*,3.4,TUMI
+79,Exports (fob),12  Mar-16*,1024.0,TUMI
+80,Imports (cif),12  Mar-16*,322.0,TUMI
+81,Fx inflow,12  Mar-16*,1024.0,TUMI
+82,Fx outflow,12  Mar-16*,352.0,TUMI
+83,Net fx,12  Mar-16*,672.0,TUMI
+84,From Operations,12  Mar-16*,1257.0,TUMI
+85,From Investments,12  Mar-16*,-323.0,TUMI
+86,From Financial Activity,12  Mar-16*,-933.0,TUMI
+87,Net Cashflow,12  Mar-16*,1.0,TUMI
+88,Net Sales,12  Mar-17*,10285.0,TUMI
+89,Other income,12  Mar-17*,41.0,TUMI
+90,Total revenues,12  Mar-17*,10326.0,TUMI
+91,Gross profit,12  Mar-17*,1577.0,TUMI
+92,Depreciation,12  Mar-17*,359.0,TUMI
+93,Interest,12  Mar-17*,167.0,TUMI
+94,Profit before tax,12  Mar-17*,1093.0,TUMI
+95,Minority Interest,12  Mar-17*,0.0,TUMI
+96,Prior Period Items,12  Mar-17*,0.0,TUMI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TUMI
+98,Tax,12  Mar-17*,386.0,TUMI
+99,Profit after tax,12  Mar-17*,707.0,TUMI
+100,Gross profit margin,12  Mar-17*,15.3,TUMI
+101,Effective tax rate,12  Mar-17*,35.3,TUMI
+102,Net profit margin,12  Mar-17*,6.9,TUMI
+103,Current assets,12  Mar-17*,3696.0,TUMI
+104,Current liabilities,12  Mar-17*,3275.0,TUMI
+105,Net working cap to sales,12  Mar-17*,4.1,TUMI
+106,Current ratio,12  Mar-17*,1.1,TUMI
+107,Inventory Days,12  Mar-17*,54.0,TUMI
+108,Debtors Days,12  Mar-17*,49.0,TUMI
+109,Net fixed assets,12  Mar-17*,3260.0,TUMI
+110,Share capital,12  Mar-17*,102.0,TUMI
+111,"""Free"" reserves",12  Mar-17*,3880.0,TUMI
+112,Net worth,12  Mar-17*,3982.0,TUMI
+113,Long term debt,12  Mar-17*,117.0,TUMI
+114,Total assets,12  Mar-17*,7865.0,TUMI
+115,Interest coverage,12  Mar-17*,7.5,TUMI
+116,Debt to equity ratio,12  Mar-17*,0.0,TUMI
+117,Sales to assets ratio,12  Mar-17*,1.3,TUMI
+118,Return on assets,12  Mar-17*,11.1,TUMI
+119,Return on equity,12  Mar-17*,17.7,TUMI
+120,Return on capital,12  Mar-17*,30.7,TUMI
+121,Exports to sales,12  Mar-17*,10.6,TUMI
+122,Imports to sales,12  Mar-17*,7.4,TUMI
+123,Exports (fob),12  Mar-17*,1089.0,TUMI
+124,Imports (cif),12  Mar-17*,764.0,TUMI
+125,Fx inflow,12  Mar-17*,1089.0,TUMI
+126,Fx outflow,12  Mar-17*,796.0,TUMI
+127,Net fx,12  Mar-17*,293.0,TUMI
+128,From Operations,12  Mar-17*,1081.0,TUMI
+129,From Investments,12  Mar-17*,-442.0,TUMI
+130,From Financial Activity,12  Mar-17*,-519.0,TUMI
+131,Net Cashflow,12  Mar-17*,121.0,TUMI
+132,Net Sales,12  Mar-18*,13120.0,TUMI
+133,Other income,12  Mar-18*,68.0,TUMI
+134,Total revenues,12  Mar-18*,13187.0,TUMI
+135,Gross profit,12  Mar-18*,2896.0,TUMI
+136,Depreciation,12  Mar-18*,306.0,TUMI
+137,Interest,12  Mar-18*,128.0,TUMI
+138,Profit before tax,12  Mar-18*,2530.0,TUMI
+139,Minority Interest,12  Mar-18*,0.0,TUMI
+140,Prior Period Items,12  Mar-18*,0.0,TUMI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TUMI
+142,Tax,12  Mar-18*,826.0,TUMI
+143,Profit after tax,12  Mar-18*,1704.0,TUMI
+144,Gross profit margin,12  Mar-18*,22.1,TUMI
+145,Effective tax rate,12  Mar-18*,32.6,TUMI
+146,Net profit margin,12  Mar-18*,13.0,TUMI
+147,Current assets,12  Mar-18*,3378.0,TUMI
+148,Current liabilities,12  Mar-18*,1441.0,TUMI
+149,Net working cap to sales,12  Mar-18*,14.8,TUMI
+150,Current ratio,12  Mar-18*,2.3,TUMI
+151,Inventory Days,12  Mar-18*,35.0,TUMI
+152,Debtors Days,12  Mar-18*,33.0,TUMI
+153,Net fixed assets,12  Mar-18*,3543.0,TUMI
+154,Share capital,12  Mar-18*,102.0,TUMI
+155,"""Free"" reserves",12  Mar-18*,5627.0,TUMI
+156,Net worth,12  Mar-18*,5730.0,TUMI
+157,Long term debt,12  Mar-18*,500.0,TUMI
+158,Total assets,12  Mar-18*,8252.0,TUMI
+159,Interest coverage,12  Mar-18*,20.7,TUMI
+160,Debt to equity ratio,12  Mar-18*,0.1,TUMI
+161,Sales to assets ratio,12  Mar-18*,1.6,TUMI
+162,Return on assets,12  Mar-18*,22.2,TUMI
+163,Return on equity,12  Mar-18*,29.7,TUMI
+164,Return on capital,12  Mar-18*,42.7,TUMI
+165,Exports to sales,12  Mar-18*,10.9,TUMI
+166,Imports to sales,12  Mar-18*,4.2,TUMI
+167,Exports (fob),12  Mar-18*,1430.0,TUMI
+168,Imports (cif),12  Mar-18*,553.0,TUMI
+169,Fx inflow,12  Mar-18*,1430.0,TUMI
+170,Fx outflow,12  Mar-18*,553.0,TUMI
+171,Net fx,12  Mar-18*,877.0,TUMI
+172,From Operations,12  Mar-18*,808.0,TUMI
+173,From Investments,12  Mar-18*,-540.0,TUMI
+174,From Financial Activity,12  Mar-18*,-164.0,TUMI
+175,Net Cashflow,12  Mar-18*,104.0,TUMI
+176,Net Sales,12  Mar-19*,12610.0,TUMI
+177,Other income,12  Mar-19*,115.0,TUMI
+178,Total revenues,12  Mar-19*,12726.0,TUMI
+179,Gross profit,12  Mar-19*,2059.0,TUMI
+180,Depreciation,12  Mar-19*,364.0,TUMI
+181,Interest,12  Mar-19*,122.0,TUMI
+182,Profit before tax,12  Mar-19*,1689.0,TUMI
+183,Minority Interest,12  Mar-19*,0.0,TUMI
+184,Prior Period Items,12  Mar-19*,0.0,TUMI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TUMI
+186,Tax,12  Mar-19*,553.0,TUMI
+187,Profit after tax,12  Mar-19*,1136.0,TUMI
+188,Gross profit margin,12  Mar-19*,16.3,TUMI
+189,Effective tax rate,12  Mar-19*,32.7,TUMI
+190,Net profit margin,12  Mar-19*,9.0,TUMI
+191,Current assets,12  Mar-19*,4595.0,TUMI
+192,Current liabilities,12  Mar-19*,3281.0,TUMI
+193,Net working cap to sales,12  Mar-19*,10.4,TUMI
+194,Current ratio,12  Mar-19*,1.4,TUMI
+195,Inventory Days,12  Mar-19*,55.0,TUMI
+196,Debtors Days,12  Mar-19*,33.0,TUMI
+197,Net fixed assets,12  Mar-19*,5420.0,TUMI
+198,Share capital,12  Mar-19*,102.0,TUMI
+199,"""Free"" reserves",12  Mar-19*,6576.0,TUMI
+200,Net worth,12  Mar-19*,6679.0,TUMI
+201,Long term debt,12  Mar-19*,784.0,TUMI
+202,Total assets,12  Mar-19*,11408.0,TUMI
+203,Interest coverage,12  Mar-19*,14.9,TUMI
+204,Debt to equity ratio,12  Mar-19*,0.1,TUMI
+205,Sales to assets ratio,12  Mar-19*,1.1,TUMI
+206,Return on assets,12  Mar-19*,11.0,TUMI
+207,Return on equity,12  Mar-19*,17.0,TUMI
+208,Return on capital,12  Mar-19*,24.3,TUMI
+209,Exports to sales,12  Mar-19*,7.9,TUMI
+210,Imports to sales,12  Mar-19*,6.7,TUMI
+211,Exports (fob),12  Mar-19*,1000.0,TUMI
+212,Imports (cif),12  Mar-19*,843.0,TUMI
+213,Fx inflow,12  Mar-19*,1000.0,TUMI
+214,Fx outflow,12  Mar-19*,843.0,TUMI
+215,Net fx,12  Mar-19*,157.0,TUMI
+216,From Operations,12  Mar-19*,2339.0,TUMI
+217,From Investments,12  Mar-19*,-2204.0,TUMI
+218,From Financial Activity,12  Mar-19*,158.0,TUMI
+219,Net Cashflow,12  Mar-19*,291.0,TUMI

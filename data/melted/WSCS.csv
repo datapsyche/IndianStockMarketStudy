@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,16484.0,WSCS
+1,Other income,12  Mar-15,27.0,WSCS
+2,Total revenues,12  Mar-15,16510.0,WSCS
+3,Gross profit,12  Mar-15,2455.0,WSCS
+4,Depreciation,12  Mar-15,1220.0,WSCS
+5,Interest,12  Mar-15,699.0,WSCS
+6,Profit before tax,12  Mar-15,563.0,WSCS
+7,Minority Interest,12  Mar-15,0.0,WSCS
+8,Prior Period Items,12  Mar-15,0.0,WSCS
+9,Extraordinary Inc (Exp),12  Mar-15,-516.0,WSCS
+10,Tax,12  Mar-15,36.0,WSCS
+11,Profit after tax,12  Mar-15,11.0,WSCS
+12,Gross profit margin,12  Mar-15,14.9,WSCS
+13,Effective tax rate,12  Mar-15,6.4,WSCS
+14,Net profit margin,12  Mar-15,0.1,WSCS
+15,Current assets,12  Mar-15,6644.0,WSCS
+16,Current liabilities,12  Mar-15,8257.0,WSCS
+17,Net working cap to sales,12  Mar-15,-9.8,WSCS
+18,Current ratio,12  Mar-15,0.8,WSCS
+19,Inventory Days,12  Mar-15,107.0,WSCS
+20,Debtors Days,12  Mar-15,28.0,WSCS
+21,Net fixed assets,12  Mar-15,11490.0,WSCS
+22,Share capital,12  Mar-15,132.0,WSCS
+23,"""Free"" reserves",12  Mar-15,5846.0,WSCS
+24,Net worth,12  Mar-15,5978.0,WSCS
+25,Long term debt,12  Mar-15,3961.0,WSCS
+26,Total assets,12  Mar-15,19253.0,WSCS
+27,Interest coverage,12  Mar-15,1.8,WSCS
+28,Debt to equity ratio,12  Mar-15,0.7,WSCS
+29,Sales to assets ratio,12  Mar-15,0.9,WSCS
+30,Return on assets,12  Mar-15,3.7,WSCS
+31,Return on equity,12  Mar-15,0.2,WSCS
+32,Return on capital,12  Mar-15,7.5,WSCS
+33,Exports to sales,12  Mar-15,1.7,WSCS
+34,Imports to sales,12  Mar-15,20.6,WSCS
+35,Exports (fob),12  Mar-15,281.0,WSCS
+36,Imports (cif),12  Mar-15,3391.0,WSCS
+37,Fx inflow,12  Mar-15,286.0,WSCS
+38,Fx outflow,12  Mar-15,3511.0,WSCS
+39,Net fx,12  Mar-15,-3224.0,WSCS
+40,From Operations,12  Mar-15,2568.0,WSCS
+41,From Investments,12  Mar-15,-223.0,WSCS
+42,From Financial Activity,12  Mar-15,-2305.0,WSCS
+43,Net Cashflow,12  Mar-15,40.0,WSCS
+44,Net Sales,12  Mar-16,17000.0,WSCS
+45,Other income,12  Mar-16,77.0,WSCS
+46,Total revenues,12  Mar-16,17077.0,WSCS
+47,Gross profit,12  Mar-16,2528.0,WSCS
+48,Depreciation,12  Mar-16,1108.0,WSCS
+49,Interest,12  Mar-16,712.0,WSCS
+50,Profit before tax,12  Mar-16,785.0,WSCS
+51,Minority Interest,12  Mar-16,0.0,WSCS
+52,Prior Period Items,12  Mar-16,0.0,WSCS
+53,Extraordinary Inc (Exp),12  Mar-16,-532.0,WSCS
+54,Tax,12  Mar-16,164.0,WSCS
+55,Profit after tax,12  Mar-16,89.0,WSCS
+56,Gross profit margin,12  Mar-16,14.9,WSCS
+57,Effective tax rate,12  Mar-16,20.9,WSCS
+58,Net profit margin,12  Mar-16,0.5,WSCS
+59,Current assets,12  Mar-16,6302.0,WSCS
+60,Current liabilities,12  Mar-16,6191.0,WSCS
+61,Net working cap to sales,12  Mar-16,0.7,WSCS
+62,Current ratio,12  Mar-16,1.0,WSCS
+63,Inventory Days,12  Mar-16,100.0,WSCS
+64,Debtors Days,12  Mar-16,25.0,WSCS
+65,Net fixed assets,12  Mar-16,10633.0,WSCS
+66,Share capital,12  Mar-16,132.0,WSCS
+67,"""Free"" reserves",12  Mar-16,5855.0,WSCS
+68,Net worth,12  Mar-16,5987.0,WSCS
+69,Long term debt,12  Mar-16,4192.0,WSCS
+70,Total assets,12  Mar-16,17577.0,WSCS
+71,Interest coverage,12  Mar-16,2.1,WSCS
+72,Debt to equity ratio,12  Mar-16,0.7,WSCS
+73,Sales to assets ratio,12  Mar-16,1.0,WSCS
+74,Return on assets,12  Mar-16,4.6,WSCS
+75,Return on equity,12  Mar-16,1.5,WSCS
+76,Return on capital,12  Mar-16,9.5,WSCS
+77,Exports to sales,12  Mar-16,1.9,WSCS
+78,Imports to sales,12  Mar-16,30.0,WSCS
+79,Exports (fob),12  Mar-16,324.0,WSCS
+80,Imports (cif),12  Mar-16,5108.0,WSCS
+81,Fx inflow,12  Mar-16,340.0,WSCS
+82,Fx outflow,12  Mar-16,5170.0,WSCS
+83,Net fx,12  Mar-16,-4830.0,WSCS
+84,From Operations,12  Mar-16,2097.0,WSCS
+85,From Investments,12  Mar-16,275.0,WSCS
+86,From Financial Activity,12  Mar-16,-2377.0,WSCS
+87,Net Cashflow,12  Mar-16,-5.0,WSCS
+88,Net Sales,12  Mar-17,17693.0,WSCS
+89,Other income,12  Mar-17,24.0,WSCS
+90,Total revenues,12  Mar-17,17717.0,WSCS
+91,Gross profit,12  Mar-17,3379.0,WSCS
+92,Depreciation,12  Mar-17,1108.0,WSCS
+93,Interest,12  Mar-17,516.0,WSCS
+94,Profit before tax,12  Mar-17,1779.0,WSCS
+95,Minority Interest,12  Mar-17,0.0,WSCS
+96,Prior Period Items,12  Mar-17,0.0,WSCS
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,WSCS
+98,Tax,12  Mar-17,494.0,WSCS
+99,Profit after tax,12  Mar-17,1285.0,WSCS
+100,Gross profit margin,12  Mar-17,19.1,WSCS
+101,Effective tax rate,12  Mar-17,27.8,WSCS
+102,Net profit margin,12  Mar-17,7.3,WSCS
+103,Current assets,12  Mar-17,4810.0,WSCS
+104,Current liabilities,12  Mar-17,4520.0,WSCS
+105,Net working cap to sales,12  Mar-17,1.6,WSCS
+106,Current ratio,12  Mar-17,1.1,WSCS
+107,Inventory Days,12  Mar-17,58.0,WSCS
+108,Debtors Days,12  Mar-17,26.0,WSCS
+109,Net fixed assets,12  Mar-17,10303.0,WSCS
+110,Share capital,12  Mar-17,132.0,WSCS
+111,"""Free"" reserves",12  Mar-17,6259.0,WSCS
+112,Net worth,12  Mar-17,6392.0,WSCS
+113,Long term debt,12  Mar-17,2374.0,WSCS
+114,Total assets,12  Mar-17,15309.0,WSCS
+115,Interest coverage,12  Mar-17,4.4,WSCS
+116,Debt to equity ratio,12  Mar-17,0.4,WSCS
+117,Sales to assets ratio,12  Mar-17,1.2,WSCS
+118,Return on assets,12  Mar-17,11.8,WSCS
+119,Return on equity,12  Mar-17,20.1,WSCS
+120,Return on capital,12  Mar-17,26.2,WSCS
+121,Exports to sales,12  Mar-17,1.4,WSCS
+122,Imports to sales,12  Mar-17,0.0,WSCS
+123,Exports (fob),12  Mar-17,250.0,WSCS
+124,Imports (cif),12  Mar-17,0.0,WSCS
+125,Fx inflow,12  Mar-17,259.0,WSCS
+126,Fx outflow,12  Mar-17,3348.0,WSCS
+127,Net fx,12  Mar-17,-3088.0,WSCS
+128,From Operations,12  Mar-17,4342.0,WSCS
+129,From Investments,12  Mar-17,-389.0,WSCS
+130,From Financial Activity,12  Mar-17,-3941.0,WSCS
+131,Net Cashflow,12  Mar-17,13.0,WSCS
+132,Net Sales,12  Mar-18,17083.0,WSCS
+133,Other income,12  Mar-18,183.0,WSCS
+134,Total revenues,12  Mar-18,17266.0,WSCS
+135,Gross profit,12  Mar-18,3621.0,WSCS
+136,Depreciation,12  Mar-18,1162.0,WSCS
+137,Interest,12  Mar-18,417.0,WSCS
+138,Profit before tax,12  Mar-18,2225.0,WSCS
+139,Minority Interest,12  Mar-18,0.0,WSCS
+140,Prior Period Items,12  Mar-18,0.0,WSCS
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,WSCS
+142,Tax,12  Mar-18,-7.0,WSCS
+143,Profit after tax,12  Mar-18,2232.0,WSCS
+144,Gross profit margin,12  Mar-18,21.2,WSCS
+145,Effective tax rate,12  Mar-18,-0.3,WSCS
+146,Net profit margin,12  Mar-18,13.1,WSCS
+147,Current assets,12  Mar-18,5056.0,WSCS
+148,Current liabilities,12  Mar-18,3838.0,WSCS
+149,Net working cap to sales,12  Mar-18,7.1,WSCS
+150,Current ratio,12  Mar-18,1.3,WSCS
+151,Inventory Days,12  Mar-18,73.0,WSCS
+152,Debtors Days,12  Mar-18,25.0,WSCS
+153,Net fixed assets,12  Mar-18,10553.0,WSCS
+154,Share capital,12  Mar-18,132.0,WSCS
+155,"""Free"" reserves",12  Mar-18,8257.0,WSCS
+156,Net worth,12  Mar-18,8389.0,WSCS
+157,Long term debt,12  Mar-18,2103.0,WSCS
+158,Total assets,12  Mar-18,15905.0,WSCS
+159,Interest coverage,12  Mar-18,6.3,WSCS
+160,Debt to equity ratio,12  Mar-18,0.3,WSCS
+161,Sales to assets ratio,12  Mar-18,1.1,WSCS
+162,Return on assets,12  Mar-18,16.6,WSCS
+163,Return on equity,12  Mar-18,26.6,WSCS
+164,Return on capital,12  Mar-18,25.2,WSCS
+165,Exports to sales,12  Mar-18,1.1,WSCS
+166,Imports to sales,12  Mar-18,0.0,WSCS
+167,Exports (fob),12  Mar-18,180.0,WSCS
+168,Imports (cif),12  Mar-18,0.0,WSCS
+169,Fx inflow,12  Mar-18,201.0,WSCS
+170,Fx outflow,12  Mar-18,3947.0,WSCS
+171,Net fx,12  Mar-18,-3746.0,WSCS
+172,From Operations,12  Mar-18,3262.0,WSCS
+173,From Investments,12  Mar-18,-1387.0,WSCS
+174,From Financial Activity,12  Mar-18,-1939.0,WSCS
+175,Net Cashflow,12  Mar-18,-64.0,WSCS
+176,Net Sales,12  Mar-19,19772.0,WSCS
+177,Other income,12  Mar-19,195.0,WSCS
+178,Total revenues,12  Mar-19,19967.0,WSCS
+179,Gross profit,12  Mar-19,5111.0,WSCS
+180,Depreciation,12  Mar-19,1760.0,WSCS
+181,Interest,12  Mar-19,290.0,WSCS
+182,Profit before tax,12  Mar-19,3257.0,WSCS
+183,Minority Interest,12  Mar-19,0.0,WSCS
+184,Prior Period Items,12  Mar-19,0.0,WSCS
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,WSCS
+186,Tax,12  Mar-19,297.0,WSCS
+187,Profit after tax,12  Mar-19,2960.0,WSCS
+188,Gross profit margin,12  Mar-19,25.9,WSCS
+189,Effective tax rate,12  Mar-19,9.1,WSCS
+190,Net profit margin,12  Mar-19,15.0,WSCS
+191,Current assets,12  Mar-19,8425.0,WSCS
+192,Current liabilities,12  Mar-19,5130.0,WSCS
+193,Net working cap to sales,12  Mar-19,16.7,WSCS
+194,Current ratio,12  Mar-19,1.6,WSCS
+195,Inventory Days,12  Mar-19,79.0,WSCS
+196,Debtors Days,12  Mar-19,30.0,WSCS
+197,Net fixed assets,12  Mar-19,10383.0,WSCS
+198,Share capital,12  Mar-19,132.0,WSCS
+199,"""Free"" reserves",12  Mar-19,10902.0,WSCS
+200,Net worth,12  Mar-19,11034.0,WSCS
+201,Long term debt,12  Mar-19,1543.0,WSCS
+202,Total assets,12  Mar-19,19199.0,WSCS
+203,Interest coverage,12  Mar-19,12.2,WSCS
+204,Debt to equity ratio,12  Mar-19,0.1,WSCS
+205,Sales to assets ratio,12  Mar-19,1.0,WSCS
+206,Return on assets,12  Mar-19,16.9,WSCS
+207,Return on equity,12  Mar-19,26.8,WSCS
+208,Return on capital,12  Mar-19,28.2,WSCS
+209,Exports to sales,12  Mar-19,0.9,WSCS
+210,Imports to sales,12  Mar-19,0.0,WSCS
+211,Exports (fob),12  Mar-19,170.0,WSCS
+212,Imports (cif),12  Mar-19,0.0,WSCS
+213,Fx inflow,12  Mar-19,207.0,WSCS
+214,Fx outflow,12  Mar-19,2282.0,WSCS
+215,Net fx,12  Mar-19,-2075.0,WSCS
+216,From Operations,12  Mar-19,3934.0,WSCS
+217,From Investments,12  Mar-19,-3817.0,WSCS
+218,From Financial Activity,12  Mar-19,-123.0,WSCS
+219,Net Cashflow,12  Mar-19,-6.0,WSCS

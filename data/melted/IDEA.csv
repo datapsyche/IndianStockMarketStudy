@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,315269.0,IDEA
+1,Other income,12  Mar-15*,4875.0,IDEA
+2,Total revenues,12  Mar-15*,320144.0,IDEA
+3,Gross profit,12  Mar-15*,107938.0,IDEA
+4,Depreciation,12  Mar-15*,53036.0,IDEA
+5,Interest,12  Mar-15*,10452.0,IDEA
+6,Profit before tax,12  Mar-15*,49325.0,IDEA
+7,Minority Interest,12  Mar-15*,0.0,IDEA
+8,Prior Period Items,12  Mar-15*,0.0,IDEA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,IDEA
+10,Tax,12  Mar-15*,17396.0,IDEA
+11,Profit after tax,12  Mar-15*,31929.0,IDEA
+12,Gross profit margin,12  Mar-15*,34.2,IDEA
+13,Effective tax rate,12  Mar-15*,35.3,IDEA
+14,Net profit margin,12  Mar-15*,10.1,IDEA
+15,Current assets,12  Mar-15*,156055.0,IDEA
+16,Current liabilities,12  Mar-15*,192288.0,IDEA
+17,Net working cap to sales,12  Mar-15*,-11.5,IDEA
+18,Current ratio,12  Mar-15*,0.8,IDEA
+19,Inventory Days,12  Mar-15*,1.0,IDEA
+20,Debtors Days,12  Mar-15*,11.0,IDEA
+21,Net fixed assets,12  Mar-15*,189021.0,IDEA
+22,Share capital,12  Mar-15*,35978.0,IDEA
+23,"""Free"" reserves",12  Mar-15*,174764.0,IDEA
+24,Net worth,12  Mar-15*,210743.0,IDEA
+25,Long term debt,12  Mar-15*,157991.0,IDEA
+26,Total assets,12  Mar-15*,583148.0,IDEA
+27,Interest coverage,12  Mar-15*,5.7,IDEA
+28,Debt to equity ratio,12  Mar-15*,0.7,IDEA
+29,Sales to assets ratio,12  Mar-15*,0.5,IDEA
+30,Return on assets,12  Mar-15*,7.3,IDEA
+31,Return on equity,12  Mar-15*,15.2,IDEA
+32,Return on capital,12  Mar-15*,16.2,IDEA
+33,Exports to sales,12  Mar-15*,0.0,IDEA
+34,Imports to sales,12  Mar-15*,4.2,IDEA
+35,Exports (fob),12  Mar-15*,0.0,IDEA
+36,Imports (cif),12  Mar-15*,13196.0,IDEA
+37,Fx inflow,12  Mar-15*,4855.0,IDEA
+38,Fx outflow,12  Mar-15*,17647.0,IDEA
+39,Net fx,12  Mar-15*,-12792.0,IDEA
+40,From Operations,12  Mar-15*,104179.0,IDEA
+41,From Investments,12  Mar-15*,-57256.0,IDEA
+42,From Financial Activity,12  Mar-15*,80280.0,IDEA
+43,Net Cashflow,12  Mar-15*,127202.0,IDEA
+44,Net Sales,12  Mar-16*,359494.0,IDEA
+45,Other income,12  Mar-16*,2131.0,IDEA
+46,Total revenues,12  Mar-16*,361625.0,IDEA
+47,Gross profit,12  Mar-16*,116502.0,IDEA
+48,Depreciation,12  Mar-16*,62561.0,IDEA
+49,Interest,12  Mar-16*,17788.0,IDEA
+50,Profit before tax,12  Mar-16*,38285.0,IDEA
+51,Minority Interest,12  Mar-16*,4217.0,IDEA
+52,Prior Period Items,12  Mar-16*,0.0,IDEA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,IDEA
+54,Tax,12  Mar-16*,15220.0,IDEA
+55,Profit after tax,12  Mar-16*,27281.0,IDEA
+56,Gross profit margin,12  Mar-16*,32.4,IDEA
+57,Effective tax rate,12  Mar-16*,39.8,IDEA
+58,Net profit margin,12  Mar-16*,7.6,IDEA
+59,Current assets,12  Mar-16*,44814.0,IDEA
+60,Current liabilities,12  Mar-16*,155887.0,IDEA
+61,Net working cap to sales,12  Mar-16*,-30.9,IDEA
+62,Current ratio,12  Mar-16*,0.3,IDEA
+63,Inventory Days,12  Mar-16*,1.0,IDEA
+64,Debtors Days,12  Mar-16*,12.0,IDEA
+65,Net fixed assets,12  Mar-16*,218384.0,IDEA
+66,Share capital,12  Mar-16*,36005.0,IDEA
+67,"""Free"" reserves",12  Mar-16*,199500.0,IDEA
+68,Net worth,12  Mar-16*,235505.0,IDEA
+69,Long term debt,12  Mar-16*,359040.0,IDEA
+70,Total assets,12  Mar-16*,801255.0,IDEA
+71,Interest coverage,12  Mar-16*,3.2,IDEA
+72,Debt to equity ratio,12  Mar-16*,1.5,IDEA
+73,Sales to assets ratio,12  Mar-16*,0.4,IDEA
+74,Return on assets,12  Mar-16*,5.6,IDEA
+75,Return on equity,12  Mar-16*,11.6,IDEA
+76,Return on capital,12  Mar-16*,10.1,IDEA
+77,Exports to sales,12  Mar-16*,0.0,IDEA
+78,Imports to sales,12  Mar-16*,9.1,IDEA
+79,Exports (fob),12  Mar-16*,0.0,IDEA
+80,Imports (cif),12  Mar-16*,32595.0,IDEA
+81,Fx inflow,12  Mar-16*,7485.0,IDEA
+82,Fx outflow,12  Mar-16*,36916.0,IDEA
+83,Net fx,12  Mar-16*,-29431.0,IDEA
+84,From Operations,12  Mar-16*,109486.0,IDEA
+85,From Investments,12  Mar-16*,-23890.0,IDEA
+86,From Financial Activity,12  Mar-16*,-93301.0,IDEA
+87,Net Cashflow,12  Mar-16*,-7705.0,IDEA
+88,Net Sales,12  Mar-17*,355757.0,IDEA
+89,Other income,12  Mar-17*,3069.0,IDEA
+90,Total revenues,12  Mar-17*,358827.0,IDEA
+91,Gross profit,12  Mar-17*,102146.0,IDEA
+92,Depreciation,12  Mar-17*,78272.0,IDEA
+93,Interest,12  Mar-17*,39794.0,IDEA
+94,Profit before tax,12  Mar-17*,-12851.0,IDEA
+95,Minority Interest,12  Mar-17*,4218.0,IDEA
+96,Prior Period Items,12  Mar-17*,0.0,IDEA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,IDEA
+98,Tax,12  Mar-17*,-4635.0,IDEA
+99,Profit after tax,12  Mar-17*,-3997.0,IDEA
+100,Gross profit margin,12  Mar-17*,28.7,IDEA
+101,Effective tax rate,12  Mar-17*,36.1,IDEA
+102,Net profit margin,12  Mar-17*,-1.1,IDEA
+103,Current assets,12  Mar-17*,76309.0,IDEA
+104,Current liabilities,12  Mar-17*,170615.0,IDEA
+105,Net working cap to sales,12  Mar-17*,-26.5,IDEA
+106,Current ratio,12  Mar-17*,0.4,IDEA
+107,Inventory Days,12  Mar-17*,1.0,IDEA
+108,Debtors Days,12  Mar-17*,13.0,IDEA
+109,Net fixed assets,12  Mar-17*,241746.0,IDEA
+110,Share capital,12  Mar-17*,36053.0,IDEA
+111,"""Free"" reserves",12  Mar-17*,211269.0,IDEA
+112,Net worth,12  Mar-17*,247322.0,IDEA
+113,Long term debt,12  Mar-17*,516378.0,IDEA
+114,Total assets,12  Mar-17*,967047.0,IDEA
+115,Interest coverage,12  Mar-17*,0.7,IDEA
+116,Debt to equity ratio,12  Mar-17*,2.1,IDEA
+117,Sales to assets ratio,12  Mar-17*,0.4,IDEA
+118,Return on assets,12  Mar-17*,3.7,IDEA
+119,Return on equity,12  Mar-17*,-1.6,IDEA
+120,Return on capital,12  Mar-17*,4.1,IDEA
+121,Exports to sales,12  Mar-17*,0.0,IDEA
+122,Imports to sales,12  Mar-17*,0.0,IDEA
+123,Exports (fob),12  Mar-17*,0.0,IDEA
+124,Imports (cif),12  Mar-17*,0.0,IDEA
+125,Fx inflow,12  Mar-17*,6738.0,IDEA
+126,Fx outflow,12  Mar-17*,35338.0,IDEA
+127,Net fx,12  Mar-17*,-28600.0,IDEA
+128,From Operations,12  Mar-17*,104757.0,IDEA
+129,From Investments,12  Mar-17*,-155557.0,IDEA
+130,From Financial Activity,12  Mar-17*,45061.0,IDEA
+131,Net Cashflow,12  Mar-17*,-5739.0,IDEA
+132,Net Sales,12  Mar-18*,282420.0,IDEA
+133,Other income,12  Mar-18*,3530.0,IDEA
+134,Total revenues,12  Mar-18*,285950.0,IDEA
+135,Gross profit,12  Mar-18*,60475.0,IDEA
+136,Depreciation,12  Mar-18*,84091.0,IDEA
+137,Interest,12  Mar-18*,48130.0,IDEA
+138,Profit before tax,12  Mar-18*,-68216.0,IDEA
+139,Minority Interest,12  Mar-18*,3458.0,IDEA
+140,Prior Period Items,12  Mar-18*,-234.0,IDEA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,IDEA
+142,Tax,12  Mar-18*,-23310.0,IDEA
+143,Profit after tax,12  Mar-18*,-41682.0,IDEA
+144,Gross profit margin,12  Mar-18*,21.4,IDEA
+145,Effective tax rate,12  Mar-18*,34.2,IDEA
+146,Net profit margin,12  Mar-18*,-14.8,IDEA
+147,Current assets,12  Mar-18*,91837.0,IDEA
+148,Current liabilities,12  Mar-18*,106337.0,IDEA
+149,Net working cap to sales,12  Mar-18*,-5.1,IDEA
+150,Current ratio,12  Mar-18*,0.9,IDEA
+151,Inventory Days,12  Mar-18*,0.0,IDEA
+152,Debtors Days,12  Mar-18*,11.0,IDEA
+153,Net fixed assets,12  Mar-18*,849373.0,IDEA
+154,Share capital,12  Mar-18*,43593.0,IDEA
+155,"""Free"" reserves",12  Mar-18*,229032.0,IDEA
+156,Net worth,12  Mar-18*,272625.0,IDEA
+157,Long term debt,12  Mar-18*,569408.0,IDEA
+158,Total assets,12  Mar-18*,985772.0,IDEA
+159,Interest coverage,12  Mar-18*,-0.4,IDEA
+160,Debt to equity ratio,12  Mar-18*,2.1,IDEA
+161,Sales to assets ratio,12  Mar-18*,0.3,IDEA
+162,Return on assets,12  Mar-18*,0.7,IDEA
+163,Return on equity,12  Mar-18*,-15.3,IDEA
+164,Return on capital,12  Mar-18*,-2.0,IDEA
+165,Exports to sales,12  Mar-18*,0.0,IDEA
+166,Imports to sales,12  Mar-18*,0.0,IDEA
+167,Exports (fob),12  Mar-18*,0.0,IDEA
+168,Imports (cif),12  Mar-18*,0.0,IDEA
+169,Fx inflow,12  Mar-18*,5101.0,IDEA
+170,Fx outflow,12  Mar-18*,32990.0,IDEA
+171,Net fx,12  Mar-18*,-27889.0,IDEA
+172,From Operations,12  Mar-18*,53324.0,IDEA
+173,From Investments,12  Mar-18*,-92717.0,IDEA
+174,From Financial Activity,12  Mar-18*,39249.0,IDEA
+175,Net Cashflow,12  Mar-18*,-459.0,IDEA
+176,Net Sales,12  Mar-19*,369865.0,IDEA
+177,Other income,12  Mar-19*,7311.0,IDEA
+178,Total revenues,12  Mar-19*,377176.0,IDEA
+179,Gross profit,12  Mar-19*,40430.0,IDEA
+180,Depreciation,12  Mar-19*,145356.0,IDEA
+181,Interest,12  Mar-19*,94628.0,IDEA
+182,Profit before tax,12  Mar-19*,-192243.0,IDEA
+183,Minority Interest,12  Mar-19*,2707.0,IDEA
+184,Prior Period Items,12  Mar-19*,-739.0,IDEA
+185,Extraordinary Inc (Exp),12  Mar-19*,8521.0,IDEA
+186,Tax,12  Mar-19*,-35715.0,IDEA
+187,Profit after tax,12  Mar-19*,-146039.0,IDEA
+188,Gross profit margin,12  Mar-19*,10.9,IDEA
+189,Effective tax rate,12  Mar-19*,18.6,IDEA
+190,Net profit margin,12  Mar-19*,-39.5,IDEA
+191,Current assets,12  Mar-19*,181997.0,IDEA
+192,Current liabilities,12  Mar-19*,541517.0,IDEA
+193,Net working cap to sales,12  Mar-19*,-97.2,IDEA
+194,Current ratio,12  Mar-19*,0.3,IDEA
+195,Inventory Days,12  Mar-19*,0.0,IDEA
+196,Debtors Days,12  Mar-19*,33.0,IDEA
+197,Net fixed assets,12  Mar-19*,1844329.0,IDEA
+198,Share capital,12  Mar-19*,87356.0,IDEA
+199,"""Free"" reserves",12  Mar-19*,508992.0,IDEA
+200,Net worth,12  Mar-19*,596348.0,IDEA
+201,Long term debt,12  Mar-19*,1044029.0,IDEA
+202,Total assets,12  Mar-19*,2296995.0,IDEA
+203,Interest coverage,12  Mar-19*,-1.0,IDEA
+204,Debt to equity ratio,12  Mar-19*,1.8,IDEA
+205,Sales to assets ratio,12  Mar-19*,0.2,IDEA
+206,Return on assets,12  Mar-19*,-2.2,IDEA
+207,Return on equity,12  Mar-19*,-24.5,IDEA
+208,Return on capital,12  Mar-19*,-5.3,IDEA
+209,Exports to sales,12  Mar-19*,0.0,IDEA
+210,Imports to sales,12  Mar-19*,0.0,IDEA
+211,Exports (fob),12  Mar-19*,0.0,IDEA
+212,Imports (cif),12  Mar-19*,0.0,IDEA
+213,Fx inflow,12  Mar-19*,10611.0,IDEA
+214,Fx outflow,12  Mar-19*,47946.0,IDEA
+215,Net fx,12  Mar-19*,-37335.0,IDEA
+216,From Operations,12  Mar-19*,52681.0,IDEA
+217,From Investments,12  Mar-19*,-73788.0,IDEA
+218,From Financial Activity,12  Mar-19*,-28697.0,IDEA
+219,Net Cashflow,12  Mar-19*,7582.0,IDEA

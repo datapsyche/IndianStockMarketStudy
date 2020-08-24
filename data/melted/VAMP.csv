@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5169.0,VAMP
+1,Other income,12  Mar-15,212.0,VAMP
+2,Total revenues,12  Mar-15,5381.0,VAMP
+3,Gross profit,12  Mar-15,198.0,VAMP
+4,Depreciation,12  Mar-15,72.0,VAMP
+5,Interest,12  Mar-15,3.0,VAMP
+6,Profit before tax,12  Mar-15,334.0,VAMP
+7,Minority Interest,12  Mar-15,0.0,VAMP
+8,Prior Period Items,12  Mar-15,0.0,VAMP
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,VAMP
+10,Tax,12  Mar-15,50.0,VAMP
+11,Profit after tax,12  Mar-15,284.0,VAMP
+12,Gross profit margin,12  Mar-15,3.8,VAMP
+13,Effective tax rate,12  Mar-15,14.9,VAMP
+14,Net profit margin,12  Mar-15,5.5,VAMP
+15,Current assets,12  Mar-15,2556.0,VAMP
+16,Current liabilities,12  Mar-15,515.0,VAMP
+17,Net working cap to sales,12  Mar-15,39.5,VAMP
+18,Current ratio,12  Mar-15,5.0,VAMP
+19,Inventory Days,12  Mar-15,58.0,VAMP
+20,Debtors Days,12  Mar-15,102.0,VAMP
+21,Net fixed assets,12  Mar-15,425.0,VAMP
+22,Share capital,12  Mar-15,101.0,VAMP
+23,"""Free"" reserves",12  Mar-15,4307.0,VAMP
+24,Net worth,12  Mar-15,4408.0,VAMP
+25,Long term debt,12  Mar-15,0.0,VAMP
+26,Total assets,12  Mar-15,4953.0,VAMP
+27,Interest coverage,12  Mar-15,112.3,VAMP
+28,Debt to equity ratio,12  Mar-15,0.0,VAMP
+29,Sales to assets ratio,12  Mar-15,1.0,VAMP
+30,Return on assets,12  Mar-15,5.8,VAMP
+31,Return on equity,12  Mar-15,6.4,VAMP
+32,Return on capital,12  Mar-15,7.6,VAMP
+33,Exports to sales,12  Mar-15,0.0,VAMP
+34,Imports to sales,12  Mar-15,0.0,VAMP
+35,Exports (fob),12  Mar-15,0.0,VAMP
+36,Imports (cif),12  Mar-15,0.0,VAMP
+37,Fx inflow,12  Mar-15,44.0,VAMP
+38,Fx outflow,12  Mar-15,9.0,VAMP
+39,Net fx,12  Mar-15,35.0,VAMP
+40,From Operations,12  Mar-15,-102.0,VAMP
+41,From Investments,12  Mar-15,240.0,VAMP
+42,From Financial Activity,12  Mar-15,-118.0,VAMP
+43,Net Cashflow,12  Mar-15,20.0,VAMP
+44,Net Sales,12  Mar-16,5633.0,VAMP
+45,Other income,12  Mar-16,283.0,VAMP
+46,Total revenues,12  Mar-16,5916.0,VAMP
+47,Gross profit,12  Mar-16,374.0,VAMP
+48,Depreciation,12  Mar-16,60.0,VAMP
+49,Interest,12  Mar-16,4.0,VAMP
+50,Profit before tax,12  Mar-16,593.0,VAMP
+51,Minority Interest,12  Mar-16,0.0,VAMP
+52,Prior Period Items,12  Mar-16,0.0,VAMP
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,VAMP
+54,Tax,12  Mar-16,153.0,VAMP
+55,Profit after tax,12  Mar-16,440.0,VAMP
+56,Gross profit margin,12  Mar-16,6.6,VAMP
+57,Effective tax rate,12  Mar-16,25.8,VAMP
+58,Net profit margin,12  Mar-16,7.8,VAMP
+59,Current assets,12  Mar-16,2963.0,VAMP
+60,Current liabilities,12  Mar-16,475.0,VAMP
+61,Net working cap to sales,12  Mar-16,44.2,VAMP
+62,Current ratio,12  Mar-16,6.2,VAMP
+63,Inventory Days,12  Mar-16,61.0,VAMP
+64,Debtors Days,12  Mar-16,97.0,VAMP
+65,Net fixed assets,12  Mar-16,395.0,VAMP
+66,Share capital,12  Mar-16,101.0,VAMP
+67,"""Free"" reserves",12  Mar-16,4594.0,VAMP
+68,Net worth,12  Mar-16,4696.0,VAMP
+69,Long term debt,12  Mar-16,0.0,VAMP
+70,Total assets,12  Mar-16,5469.0,VAMP
+71,Interest coverage,12  Mar-16,135.8,VAMP
+72,Debt to equity ratio,12  Mar-16,0.0,VAMP
+73,Sales to assets ratio,12  Mar-16,1.0,VAMP
+74,Return on assets,12  Mar-16,8.1,VAMP
+75,Return on equity,12  Mar-16,9.4,VAMP
+76,Return on capital,12  Mar-16,12.7,VAMP
+77,Exports to sales,12  Mar-16,0.0,VAMP
+78,Imports to sales,12  Mar-16,0.0,VAMP
+79,Exports (fob),12  Mar-16,0.0,VAMP
+80,Imports (cif),12  Mar-16,0.0,VAMP
+81,Fx inflow,12  Mar-16,17.0,VAMP
+82,Fx outflow,12  Mar-16,10.0,VAMP
+83,Net fx,12  Mar-16,7.0,VAMP
+84,From Operations,12  Mar-16,-12.0,VAMP
+85,From Investments,12  Mar-16,119.0,VAMP
+86,From Financial Activity,12  Mar-16,-122.0,VAMP
+87,Net Cashflow,12  Mar-16,-15.0,VAMP
+88,Net Sales,12  Mar-17,6109.0,VAMP
+89,Other income,12  Mar-17,390.0,VAMP
+90,Total revenues,12  Mar-17,6499.0,VAMP
+91,Gross profit,12  Mar-17,602.0,VAMP
+92,Depreciation,12  Mar-17,58.0,VAMP
+93,Interest,12  Mar-17,5.0,VAMP
+94,Profit before tax,12  Mar-17,928.0,VAMP
+95,Minority Interest,12  Mar-17,0.0,VAMP
+96,Prior Period Items,12  Mar-17,0.0,VAMP
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,VAMP
+98,Tax,12  Mar-17,206.0,VAMP
+99,Profit after tax,12  Mar-17,722.0,VAMP
+100,Gross profit margin,12  Mar-17,9.9,VAMP
+101,Effective tax rate,12  Mar-17,22.2,VAMP
+102,Net profit margin,12  Mar-17,11.8,VAMP
+103,Current assets,12  Mar-17,2600.0,VAMP
+104,Current liabilities,12  Mar-17,430.0,VAMP
+105,Net working cap to sales,12  Mar-17,35.5,VAMP
+106,Current ratio,12  Mar-17,6.0,VAMP
+107,Inventory Days,12  Mar-17,49.0,VAMP
+108,Debtors Days,12  Mar-17,92.0,VAMP
+109,Net fixed assets,12  Mar-17,394.0,VAMP
+110,Share capital,12  Mar-17,101.0,VAMP
+111,"""Free"" reserves",12  Mar-17,5549.0,VAMP
+112,Net worth,12  Mar-17,5375.0,VAMP
+113,Long term debt,12  Mar-17,0.0,VAMP
+114,Total assets,12  Mar-17,6127.0,VAMP
+115,Interest coverage,12  Mar-17,183.0,VAMP
+116,Debt to equity ratio,12  Mar-17,0.0,VAMP
+117,Sales to assets ratio,12  Mar-17,1.0,VAMP
+118,Return on assets,12  Mar-17,11.9,VAMP
+119,Return on equity,12  Mar-17,13.4,VAMP
+120,Return on capital,12  Mar-17,17.4,VAMP
+121,Exports to sales,12  Mar-17,0.0,VAMP
+122,Imports to sales,12  Mar-17,0.0,VAMP
+123,Exports (fob),12  Mar-17,0.0,VAMP
+124,Imports (cif),12  Mar-17,0.0,VAMP
+125,Fx inflow,12  Mar-17,20.0,VAMP
+126,Fx outflow,12  Mar-17,21.0,VAMP
+127,Net fx,12  Mar-17,-1.0,VAMP
+128,From Operations,12  Mar-17,781.0,VAMP
+129,From Investments,12  Mar-17,-600.0,VAMP
+130,From Financial Activity,12  Mar-17,-158.0,VAMP
+131,Net Cashflow,12  Mar-17,24.0,VAMP
+132,Net Sales,12  Mar-18,6390.0,VAMP
+133,Other income,12  Mar-18,394.0,VAMP
+134,Total revenues,12  Mar-18,6784.0,VAMP
+135,Gross profit,12  Mar-18,668.0,VAMP
+136,Depreciation,12  Mar-18,60.0,VAMP
+137,Interest,12  Mar-18,0.0,VAMP
+138,Profit before tax,12  Mar-18,1001.0,VAMP
+139,Minority Interest,12  Mar-18,0.0,VAMP
+140,Prior Period Items,12  Mar-18,0.0,VAMP
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,VAMP
+142,Tax,12  Mar-18,267.0,VAMP
+143,Profit after tax,12  Mar-18,735.0,VAMP
+144,Gross profit margin,12  Mar-18,10.4,VAMP
+145,Effective tax rate,12  Mar-18,26.6,VAMP
+146,Net profit margin,12  Mar-18,11.5,VAMP
+147,Current assets,12  Mar-18,2747,VAMP
+148,Current liabilities,12  Mar-18,437,VAMP
+149,Net working cap to sales,12  Mar-18,36.1,VAMP
+150,Current ratio,12  Mar-18,6.3,VAMP
+151,Inventory Days,12  Mar-18,55,VAMP
+152,Debtors Days,12  Mar-18,83,VAMP
+153,Net fixed assets,12  Mar-18,459,VAMP
+154,Share capital,12  Mar-18,101,VAMP
+155,"""Free"" reserves",12  Mar-18,6100,VAMP
+156,Net worth,12  Mar-18,6201,VAMP
+157,Long term debt,12  Mar-18,0,VAMP
+158,Total assets,12  Mar-18,6700,VAMP
+159,Interest coverage,12  Mar-18,NM,VAMP
+160,Debt to equity ratio,12  Mar-18,0,VAMP
+161,Sales to assets ratio,12  Mar-18,1.0,VAMP
+162,Return on assets,12  Mar-18,11.0,VAMP
+163,Return on equity,12  Mar-18,11.8,VAMP
+164,Return on capital,12  Mar-18,16.1,VAMP
+165,Exports to sales,12  Mar-18,0,VAMP
+166,Imports to sales,12  Mar-18,0,VAMP
+167,Exports (fob),12  Mar-18,0,VAMP
+168,Imports (cif),12  Mar-18,0,VAMP
+169,Fx inflow,12  Mar-18,49,VAMP
+170,Fx outflow,12  Mar-18,14,VAMP
+171,Net fx,12  Mar-18,34,VAMP
+172,From Operations,12  Mar-18,426,VAMP
+173,From Investments,12  Mar-18,-202,VAMP
+174,From Financial Activity,12  Mar-18,-182,VAMP
+175,Net Cashflow,12  Mar-18,41,VAMP
+176,Net Sales,12  Mar-19,8288.0,VAMP
+177,Other income,12  Mar-19,363.0,VAMP
+178,Total revenues,12  Mar-19,8651.0,VAMP
+179,Gross profit,12  Mar-19,936.0,VAMP
+180,Depreciation,12  Mar-19,72.0,VAMP
+181,Interest,12  Mar-19,0.0,VAMP
+182,Profit before tax,12  Mar-19,1227.0,VAMP
+183,Minority Interest,12  Mar-19,0.0,VAMP
+184,Prior Period Items,12  Mar-19,0.0,VAMP
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,VAMP
+186,Tax,12  Mar-19,378.0,VAMP
+187,Profit after tax,12  Mar-19,848.0,VAMP
+188,Gross profit margin,12  Mar-19,11.3,VAMP
+189,Effective tax rate,12  Mar-19,30.8,VAMP
+190,Net profit margin,12  Mar-19,10.2,VAMP
+191,Current assets,12  Mar-19,3250,VAMP
+192,Current liabilities,12  Mar-19,536,VAMP
+193,Net working cap to sales,12  Mar-19,32.7,VAMP
+194,Current ratio,12  Mar-19,6.1,VAMP
+195,Inventory Days,12  Mar-19,47,VAMP
+196,Debtors Days,12  Mar-19,78,VAMP
+197,Net fixed assets,12  Mar-19,484,VAMP
+198,Share capital,12  Mar-19,101,VAMP
+199,"""Free"" reserves",12  Mar-19,6766,VAMP
+200,Net worth,12  Mar-19,6867,VAMP
+201,Long term debt,12  Mar-19,0,VAMP
+202,Total assets,12  Mar-19,7506,VAMP
+203,Interest coverage,12  Mar-19,NM,VAMP
+204,Debt to equity ratio,12  Mar-19,0,VAMP
+205,Sales to assets ratio,12  Mar-19,1.1,VAMP
+206,Return on assets,12  Mar-19,11.3,VAMP
+207,Return on equity,12  Mar-19,12.4,VAMP
+208,Return on capital,12  Mar-19,17.9,VAMP
+209,Exports to sales,12  Mar-19,0,VAMP
+210,Imports to sales,12  Mar-19,0,VAMP
+211,Exports (fob),12  Mar-19,0,VAMP
+212,Imports (cif),12  Mar-19,0,VAMP
+213,Fx inflow,12  Mar-19,68,VAMP
+214,Fx outflow,12  Mar-19,101,VAMP
+215,Net fx,12  Mar-19,-33,VAMP
+216,From Operations,12  Mar-19,325,VAMP
+217,From Investments,12  Mar-19,-109,VAMP
+218,From Financial Activity,12  Mar-19,-183,VAMP
+219,Net Cashflow,12  Mar-19,33,VAMP

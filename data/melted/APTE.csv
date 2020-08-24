@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,25817.0,APTE
+1,Other income,12  Dec-14*,228.0,APTE
+2,Total revenues,12  Dec-14*,26045.0,APTE
+3,Gross profit,12  Dec-14*,4468.0,APTE
+4,Depreciation,12  Dec-14*,440.0,APTE
+5,Interest,12  Dec-14*,9.0,APTE
+6,Profit before tax,12  Dec-14*,4247.0,APTE
+7,Minority Interest,12  Dec-14*,0.0,APTE
+8,Prior Period Items,12  Dec-14*,0.0,APTE
+9,Extraordinary Inc (Exp),12  Dec-14*,-66.0,APTE
+10,Tax,12  Dec-14*,980.0,APTE
+11,Profit after tax,12  Dec-14*,3202.0,APTE
+12,Gross profit margin,12  Dec-14*,17.3,APTE
+13,Effective tax rate,12  Dec-14*,23.1,APTE
+14,Net profit margin,12  Dec-14*,12.4,APTE
+15,Current assets,12  Dec-14*,10140.0,APTE
+16,Current liabilities,12  Dec-14*,4311.0,APTE
+17,Net working cap to sales,12  Dec-14*,22.6,APTE
+18,Current ratio,12  Dec-14*,2.4,APTE
+19,Inventory Days,12  Dec-14*,0.0,APTE
+20,Debtors Days,12  Dec-14*,52.0,APTE
+21,Net fixed assets,12  Dec-14*,5489.0,APTE
+22,Share capital,12  Dec-14*,602.0,APTE
+23,"""Free"" reserves",12  Dec-14*,11008.0,APTE
+24,Net worth,12  Dec-14*,12906.0,APTE
+25,Long term debt,12  Dec-14*,0.0,APTE
+26,Total assets,12  Dec-14*,17655.0,APTE
+27,Interest coverage,12  Dec-14*,472.9,APTE
+28,Debt to equity ratio,12  Dec-14*,0.0,APTE
+29,Sales to assets ratio,12  Dec-14*,1.5,APTE
+30,Return on assets,12  Dec-14*,18.2,APTE
+31,Return on equity,12  Dec-14*,24.8,APTE
+32,Return on capital,12  Dec-14*,32.5,APTE
+33,Exports to sales,12  Dec-14*,0.0,APTE
+34,Imports to sales,12  Dec-14*,0.3,APTE
+35,Exports (fob),12  Dec-14*,0.0,APTE
+36,Imports (cif),12  Dec-14*,73.0,APTE
+37,Fx inflow,12  Dec-14*,1100.0,APTE
+38,Fx outflow,12  Dec-14*,1209.0,APTE
+39,Net fx,12  Dec-14*,-109.0,APTE
+40,From Operations,12  Dec-14*,4129.0,APTE
+41,From Investments,12  Dec-14*,1193.0,APTE
+42,From Financial Activity,12  Dec-14*,-5353.0,APTE
+43,Net Cashflow,12  Dec-14*,-31.0,APTE
+44,Net Sales,12  Dec-15*,31235.0,APTE
+45,Other income,12  Dec-15*,90.0,APTE
+46,Total revenues,12  Dec-15*,31325.0,APTE
+47,Gross profit,12  Dec-15*,5440.0,APTE
+48,Depreciation,12  Dec-15*,483.0,APTE
+49,Interest,12  Dec-15*,1.0,APTE
+50,Profit before tax,12  Dec-15*,5046.0,APTE
+51,Minority Interest,12  Dec-15*,0.0,APTE
+52,Prior Period Items,12  Dec-15*,0.0,APTE
+53,Extraordinary Inc (Exp),12  Dec-15*,0.0,APTE
+54,Tax,12  Dec-15*,1114.0,APTE
+55,Profit after tax,12  Dec-15*,3932.0,APTE
+56,Gross profit margin,12  Dec-15*,17.4,APTE
+57,Effective tax rate,12  Dec-15*,22.1,APTE
+58,Net profit margin,12  Dec-15*,12.6,APTE
+59,Current assets,12  Dec-15*,11447.0,APTE
+60,Current liabilities,12  Dec-15*,5520.0,APTE
+61,Net working cap to sales,12  Dec-15*,19.0,APTE
+62,Current ratio,12  Dec-15*,2.1,APTE
+63,Inventory Days,12  Dec-15*,0.0,APTE
+64,Debtors Days,12  Dec-15*,51.0,APTE
+65,Net fixed assets,12  Dec-15*,6489.0,APTE
+66,Share capital,12  Dec-15*,603.0,APTE
+67,"""Free"" reserves",12  Dec-15*,12054.0,APTE
+68,Net worth,12  Dec-15*,14332.0,APTE
+69,Long term debt,12  Dec-15*,0.0,APTE
+70,Total assets,12  Dec-15*,20298.0,APTE
+71,Interest coverage,12  Dec-15*,4206.1,APTE
+72,Debt to equity ratio,12  Dec-15*,0.0,APTE
+73,Sales to assets ratio,12  Dec-15*,1.5,APTE
+74,Return on assets,12  Dec-15*,19.4,APTE
+75,Return on equity,12  Dec-15*,27.4,APTE
+76,Return on capital,12  Dec-15*,35.2,APTE
+77,Exports to sales,12  Dec-15*,0.0,APTE
+78,Imports to sales,12  Dec-15*,0.2,APTE
+79,Exports (fob),12  Dec-15*,0.0,APTE
+80,Imports (cif),12  Dec-15*,68.0,APTE
+81,Fx inflow,12  Dec-15*,12328.0,APTE
+82,Fx outflow,12  Dec-15*,1025.0,APTE
+83,Net fx,12  Dec-15*,11303.0,APTE
+84,From Operations,12  Dec-15*,3932.0,APTE
+85,From Investments,12  Dec-15*,142.0,APTE
+86,From Financial Activity,12  Dec-15*,-3142.0,APTE
+87,Net Cashflow,12  Dec-15*,931.0,APTE
+88,Net Sales,12  Dec-16*,35349.0,APTE
+89,Other income,12  Dec-16*,38.0,APTE
+90,Total revenues,12  Dec-16*,35387.0,APTE
+91,Gross profit,12  Dec-16*,6120.0,APTE
+92,Depreciation,12  Dec-16*,553.0,APTE
+93,Interest,12  Dec-16*,1.0,APTE
+94,Profit before tax,12  Dec-16*,5604.0,APTE
+95,Minority Interest,12  Dec-16*,0.0,APTE
+96,Prior Period Items,12  Dec-16*,0.0,APTE
+97,Extraordinary Inc (Exp),12  Dec-16*,0.0,APTE
+98,Tax,12  Dec-16*,1412.0,APTE
+99,Profit after tax,12  Dec-16*,4192.0,APTE
+100,Gross profit margin,12  Dec-16*,17.3,APTE
+101,Effective tax rate,12  Dec-16*,25.2,APTE
+102,Net profit margin,12  Dec-16*,11.9,APTE
+103,Current assets,12  Dec-16*,12333.0,APTE
+104,Current liabilities,12  Dec-16*,5401.0,APTE
+105,Net working cap to sales,12  Dec-16*,19.6,APTE
+106,Current ratio,12  Dec-16*,2.3,APTE
+107,Inventory Days,12  Dec-16*,0.0,APTE
+108,Debtors Days,12  Dec-16*,45.0,APTE
+109,Net fixed assets,12  Dec-16*,8557.0,APTE
+110,Share capital,12  Dec-16*,604.0,APTE
+111,"""Free"" reserves",12  Dec-16*,16805.0,APTE
+112,Net worth,12  Dec-16*,17409.0,APTE
+113,Long term debt,12  Dec-16*,0.0,APTE
+114,Total assets,12  Dec-16*,23110.0,APTE
+115,Interest coverage,12  Dec-16*,4003.9,APTE
+116,Debt to equity ratio,12  Dec-16*,0.0,APTE
+117,Sales to assets ratio,12  Dec-16*,1.5,APTE
+118,Return on assets,12  Dec-16*,18.1,APTE
+119,Return on equity,12  Dec-16*,24.1,APTE
+120,Return on capital,12  Dec-16*,32.2,APTE
+121,Exports to sales,12  Dec-16*,0.0,APTE
+122,Imports to sales,12  Dec-16*,0.3,APTE
+123,Exports (fob),12  Dec-16*,0.0,APTE
+124,Imports (cif),12  Dec-16*,120.0,APTE
+125,Fx inflow,12  Dec-16*,13185.0,APTE
+126,Fx outflow,12  Dec-16*,1114.0,APTE
+127,Net fx,12  Dec-16*,12071.0,APTE
+128,From Operations,12  Dec-16*,4730.0,APTE
+129,From Investments,12  Dec-16*,-1999.0,APTE
+130,From Financial Activity,12  Dec-16*,-2494.0,APTE
+131,Net Cashflow,12  Dec-16*,262.0,APTE
+132,Net Sales,12  Dec-17*,39420.0,APTE
+133,Other income,12  Dec-17*,36.0,APTE
+134,Total revenues,12  Dec-17*,39456.0,APTE
+135,Gross profit,12  Dec-17*,7001.0,APTE
+136,Depreciation,12  Dec-17*,633.0,APTE
+137,Interest,12  Dec-17*,1.0,APTE
+138,Profit before tax,12  Dec-17*,6403.0,APTE
+139,Minority Interest,12  Dec-17*,0.0,APTE
+140,Prior Period Items,12  Dec-17*,3.0,APTE
+141,Extraordinary Inc (Exp),12  Dec-17*,0.0,APTE
+142,Tax,12  Dec-17*,1411.0,APTE
+143,Profit after tax,12  Dec-17*,4995.0,APTE
+144,Gross profit margin,12  Dec-17*,17.8,APTE
+145,Effective tax rate,12  Dec-17*,22.0,APTE
+146,Net profit margin,12  Dec-17*,12.7,APTE
+147,Current assets,12  Dec-17*,14535.0,APTE
+148,Current liabilities,12  Dec-17*,5170.0,APTE
+149,Net working cap to sales,12  Dec-17*,23.8,APTE
+150,Current ratio,12  Dec-17*,2.8,APTE
+151,Inventory Days,12  Dec-17*,0.0,APTE
+152,Debtors Days,12  Dec-17*,50.0,APTE
+153,Net fixed assets,12  Dec-17*,7977.0,APTE
+154,Share capital,12  Dec-17*,594.0,APTE
+155,"""Free"" reserves",12  Dec-17*,19479.0,APTE
+156,Net worth,12  Dec-17*,20073.0,APTE
+157,Long term debt,12  Dec-17*,0.0,APTE
+158,Total assets,12  Dec-17*,25453.0,APTE
+159,Interest coverage,12  Dec-17*,5336.9,APTE
+160,Debt to equity ratio,12  Dec-17*,0.0,APTE
+161,Sales to assets ratio,12  Dec-17*,1.5,APTE
+162,Return on assets,12  Dec-17*,19.6,APTE
+163,Return on equity,12  Dec-17*,24.9,APTE
+164,Return on capital,12  Dec-17*,31.9,APTE
+165,Exports to sales,12  Dec-17*,0.0,APTE
+166,Imports to sales,12  Dec-17*,0.0,APTE
+167,Exports (fob),12  Dec-17*,0.0,APTE
+168,Imports (cif),12  Dec-17*,0.0,APTE
+169,Fx inflow,12  Dec-17*,14167.0,APTE
+170,Fx outflow,12  Dec-17*,942.0,APTE
+171,Net fx,12  Dec-17*,13225.0,APTE
+172,From Operations,12  Dec-17*,4762.0,APTE
+173,From Investments,12  Dec-17*,-938.0,APTE
+174,From Financial Activity,12  Dec-17*,-2796.0,APTE
+175,Net Cashflow,12  Dec-17*,1021.0,APTE
+176,Net Sales,12  Dec-18*,46478.0,APTE
+177,Other income,12  Dec-18*,106.0,APTE
+178,Total revenues,12  Dec-18*,46583.0,APTE
+179,Gross profit,12  Dec-18*,7810.0,APTE
+180,Depreciation,12  Dec-18*,651.0,APTE
+181,Interest,12  Dec-18*,0.0,APTE
+182,Profit before tax,12  Dec-18*,7264.0,APTE
+183,Minority Interest,12  Dec-18*,0.0,APTE
+184,Prior Period Items,12  Dec-18*,2.0,APTE
+185,Extraordinary Inc (Exp),12  Dec-18*,0.0,APTE
+186,Tax,12  Dec-18*,1431.0,APTE
+187,Profit after tax,12  Dec-18*,5835.0,APTE
+188,Gross profit margin,12  Dec-18*,16.8,APTE
+189,Effective tax rate,12  Dec-18*,19.7,APTE
+190,Net profit margin,12  Dec-18*,12.6,APTE
+191,Current assets,12  Dec-18*,19869.0,APTE
+192,Current liabilities,12  Dec-18*,7110.0,APTE
+193,Net working cap to sales,12  Dec-18*,27.5,APTE
+194,Current ratio,12  Dec-18*,2.8,APTE
+195,Inventory Days,12  Dec-18*,0.0,APTE
+196,Debtors Days,12  Dec-18*,63.0,APTE
+197,Net fixed assets,12  Dec-18*,7986.0,APTE
+198,Share capital,12  Dec-18*,595.0,APTE
+199,"""Free"" reserves",12  Dec-18*,23324.0,APTE
+200,Net worth,12  Dec-18*,23919.0,APTE
+201,Long term debt,12  Dec-18*,0.0,APTE
+202,Total assets,12  Dec-18*,31335.0,APTE
+203,Interest coverage,12  Dec-18*,18161.5,APTE
+204,Debt to equity ratio,12  Dec-18*,0.0,APTE
+205,Sales to assets ratio,12  Dec-18*,1.5,APTE
+206,Return on assets,12  Dec-18*,18.6,APTE
+207,Return on equity,12  Dec-18*,24.4,APTE
+208,Return on capital,12  Dec-18*,30.4,APTE
+209,Exports to sales,12  Dec-18*,0.0,APTE
+210,Imports to sales,12  Dec-18*,0.0,APTE
+211,Exports (fob),12  Dec-18*,0.0,APTE
+212,Imports (cif),12  Dec-18*,0.0,APTE
+213,Fx inflow,12  Dec-18*,16548.0,APTE
+214,Fx outflow,12  Dec-18*,1314.0,APTE
+215,Net fx,12  Dec-18*,15234.0,APTE
+216,From Operations,12  Dec-18*,5487.0,APTE
+217,From Investments,12  Dec-18*,-455.0,APTE
+218,From Financial Activity,12  Dec-18*,-2502.0,APTE
+219,Net Cashflow,12  Dec-18*,2903.0,APTE

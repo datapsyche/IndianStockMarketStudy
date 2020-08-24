@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,9726.0,RUPA
+1,Other income,12  Mar-15*,50.0,RUPA
+2,Total revenues,12  Mar-15*,9776.0,RUPA
+3,Gross profit,12  Mar-15*,1377.0,RUPA
+4,Depreciation,12  Mar-15*,151.0,RUPA
+5,Interest,12  Mar-15*,235.0,RUPA
+6,Profit before tax,12  Mar-15*,1041.0,RUPA
+7,Minority Interest,12  Mar-15*,0.0,RUPA
+8,Prior Period Items,12  Mar-15*,0.0,RUPA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,RUPA
+10,Tax,12  Mar-15*,359.0,RUPA
+11,Profit after tax,12  Mar-15*,682.0,RUPA
+12,Gross profit margin,12  Mar-15*,14.2,RUPA
+13,Effective tax rate,12  Mar-15*,34.5,RUPA
+14,Net profit margin,12  Mar-15*,7.0,RUPA
+15,Current assets,12  Mar-15*,5708.0,RUPA
+16,Current liabilities,12  Mar-15*,3677.0,RUPA
+17,Net working cap to sales,12  Mar-15*,20.9,RUPA
+18,Current ratio,12  Mar-15*,1.6,RUPA
+19,Inventory Days,12  Mar-15*,136.0,RUPA
+20,Debtors Days,12  Mar-15*,69.0,RUPA
+21,Net fixed assets,12  Mar-15*,1555.0,RUPA
+22,Share capital,12  Mar-15*,80.0,RUPA
+23,"""Free"" reserves",12  Mar-15*,3193.0,RUPA
+24,Net worth,12  Mar-15*,3278.0,RUPA
+25,Long term debt,12  Mar-15*,75.0,RUPA
+26,Total assets,12  Mar-15*,7423.0,RUPA
+27,Interest coverage,12  Mar-15*,5.4,RUPA
+28,Debt to equity ratio,12  Mar-15*,0.0,RUPA
+29,Sales to assets ratio,12  Mar-15*,1.3,RUPA
+30,Return on assets,12  Mar-15*,12.4,RUPA
+31,Return on equity,12  Mar-15*,20.8,RUPA
+32,Return on capital,12  Mar-15*,38.1,RUPA
+33,Exports to sales,12  Mar-15*,2.3,RUPA
+34,Imports to sales,12  Mar-15*,0.3,RUPA
+35,Exports (fob),12  Mar-15*,226.0,RUPA
+36,Imports (cif),12  Mar-15*,30.0,RUPA
+37,Fx inflow,12  Mar-15*,226.0,RUPA
+38,Fx outflow,12  Mar-15*,49.0,RUPA
+39,Net fx,12  Mar-15*,177.0,RUPA
+40,From Operations,12  Mar-15*,545.0,RUPA
+41,From Investments,12  Mar-15*,-203.0,RUPA
+42,From Financial Activity,12  Mar-15*,-331.0,RUPA
+43,Net Cashflow,12  Mar-15*,11.0,RUPA
+44,Net Sales,12  Mar-16*,10148.0,RUPA
+45,Other income,12  Mar-16*,38.0,RUPA
+46,Total revenues,12  Mar-16*,10186.0,RUPA
+47,Gross profit,12  Mar-16*,1321.0,RUPA
+48,Depreciation,12  Mar-16*,152.0,RUPA
+49,Interest,12  Mar-16*,188.0,RUPA
+50,Profit before tax,12  Mar-16*,1019.0,RUPA
+51,Minority Interest,12  Mar-16*,0.0,RUPA
+52,Prior Period Items,12  Mar-16*,0.0,RUPA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,RUPA
+54,Tax,12  Mar-16*,359.0,RUPA
+55,Profit after tax,12  Mar-16*,659.0,RUPA
+56,Gross profit margin,12  Mar-16*,13.0,RUPA
+57,Effective tax rate,12  Mar-16*,35.3,RUPA
+58,Net profit margin,12  Mar-16*,6.5,RUPA
+59,Current assets,12  Mar-16*,5007.0,RUPA
+60,Current liabilities,12  Mar-16*,2970.0,RUPA
+61,Net working cap to sales,12  Mar-16*,20.1,RUPA
+62,Current ratio,12  Mar-16*,1.7,RUPA
+63,Inventory Days,12  Mar-16*,109.0,RUPA
+64,Debtors Days,12  Mar-16*,63.0,RUPA
+65,Net fixed assets,12  Mar-16*,1624.0,RUPA
+66,Share capital,12  Mar-16*,80.0,RUPA
+67,"""Free"" reserves",12  Mar-16*,3592.0,RUPA
+68,Net worth,12  Mar-16*,3671.0,RUPA
+69,Long term debt,12  Mar-16*,43.0,RUPA
+70,Total assets,12  Mar-16*,6836.0,RUPA
+71,Interest coverage,12  Mar-16*,6.4,RUPA
+72,Debt to equity ratio,12  Mar-16*,0.0,RUPA
+73,Sales to assets ratio,12  Mar-16*,1.5,RUPA
+74,Return on assets,12  Mar-16*,12.4,RUPA
+75,Return on equity,12  Mar-16*,18.0,RUPA
+76,Return on capital,12  Mar-16*,32.5,RUPA
+77,Exports to sales,12  Mar-16*,1.7,RUPA
+78,Imports to sales,12  Mar-16*,0.3,RUPA
+79,Exports (fob),12  Mar-16*,177.0,RUPA
+80,Imports (cif),12  Mar-16*,32.0,RUPA
+81,Fx inflow,12  Mar-16*,177.0,RUPA
+82,Fx outflow,12  Mar-16*,35.0,RUPA
+83,Net fx,12  Mar-16*,143.0,RUPA
+84,From Operations,12  Mar-16*,1649.0,RUPA
+85,From Investments,12  Mar-16*,-272.0,RUPA
+86,From Financial Activity,12  Mar-16*,-1355.0,RUPA
+87,Net Cashflow,12  Mar-16*,22.0,RUPA
+88,Net Sales,12  Mar-17*,10928.0,RUPA
+89,Other income,12  Mar-17*,26.0,RUPA
+90,Total revenues,12  Mar-17*,10954.0,RUPA
+91,Gross profit,12  Mar-17*,1389.0,RUPA
+92,Depreciation,12  Mar-17*,162.0,RUPA
+93,Interest,12  Mar-17*,106.0,RUPA
+94,Profit before tax,12  Mar-17*,1147.0,RUPA
+95,Minority Interest,12  Mar-17*,0.0,RUPA
+96,Prior Period Items,12  Mar-17*,0.0,RUPA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,RUPA
+98,Tax,12  Mar-17*,424.0,RUPA
+99,Profit after tax,12  Mar-17*,723.0,RUPA
+100,Gross profit margin,12  Mar-17*,12.7,RUPA
+101,Effective tax rate,12  Mar-17*,37.0,RUPA
+102,Net profit margin,12  Mar-17*,6.6,RUPA
+103,Current assets,12  Mar-17*,5316.0,RUPA
+104,Current liabilities,12  Mar-17*,2604.0,RUPA
+105,Net working cap to sales,12  Mar-17*,24.8,RUPA
+106,Current ratio,12  Mar-17*,2.0,RUPA
+107,Inventory Days,12  Mar-17*,98.0,RUPA
+108,Debtors Days,12  Mar-17*,70.0,RUPA
+109,Net fixed assets,12  Mar-17*,1693.0,RUPA
+110,Share capital,12  Mar-17*,80.0,RUPA
+111,"""Free"" reserves",12  Mar-17*,4315.0,RUPA
+112,Net worth,12  Mar-17*,4394.0,RUPA
+113,Long term debt,12  Mar-17*,8.0,RUPA
+114,Total assets,12  Mar-17*,7158.0,RUPA
+115,Interest coverage,12  Mar-17*,11.8,RUPA
+116,Debt to equity ratio,12  Mar-17*,0.0,RUPA
+117,Sales to assets ratio,12  Mar-17*,1.5,RUPA
+118,Return on assets,12  Mar-17*,11.6,RUPA
+119,Return on equity,12  Mar-17*,16.4,RUPA
+120,Return on capital,12  Mar-17*,28.5,RUPA
+121,Exports to sales,12  Mar-17*,0.0,RUPA
+122,Imports to sales,12  Mar-17*,0.0,RUPA
+123,Exports (fob),12  Mar-17*,0.0,RUPA
+124,Imports (cif),12  Mar-17*,0.0,RUPA
+125,Fx inflow,12  Mar-17*,220.0,RUPA
+126,Fx outflow,12  Mar-17*,6.0,RUPA
+127,Net fx,12  Mar-17*,214.0,RUPA
+128,From Operations,12  Mar-17*,977.0,RUPA
+129,From Investments,12  Mar-17*,-187.0,RUPA
+130,From Financial Activity,12  Mar-17*,-748.0,RUPA
+131,Net Cashflow,12  Mar-17*,43.0,RUPA
+132,Net Sales,12  Mar-18*,11204.0,RUPA
+133,Other income,12  Mar-18*,25.0,RUPA
+134,Total revenues,12  Mar-18*,11228.0,RUPA
+135,Gross profit,12  Mar-18*,1555.0,RUPA
+136,Depreciation,12  Mar-18*,158.0,RUPA
+137,Interest,12  Mar-18*,81.0,RUPA
+138,Profit before tax,12  Mar-18*,1340.0,RUPA
+139,Minority Interest,12  Mar-18*,0.0,RUPA
+140,Prior Period Items,12  Mar-18*,0.0,RUPA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,RUPA
+142,Tax,12  Mar-18*,478.0,RUPA
+143,Profit after tax,12  Mar-18*,862.0,RUPA
+144,Gross profit margin,12  Mar-18*,13.9,RUPA
+145,Effective tax rate,12  Mar-18*,35.7,RUPA
+146,Net profit margin,12  Mar-18*,7.7,RUPA
+147,Current assets,12  Mar-18*,7135.0,RUPA
+148,Current liabilities,12  Mar-18*,3846.0,RUPA
+149,Net working cap to sales,12  Mar-18*,29.4,RUPA
+150,Current ratio,12  Mar-18*,1.9,RUPA
+151,Inventory Days,12  Mar-18*,108.0,RUPA
+152,Debtors Days,12  Mar-18*,114.0,RUPA
+153,Net fixed assets,12  Mar-18*,1755.0,RUPA
+154,Share capital,12  Mar-18*,80.0,RUPA
+155,"""Free"" reserves",12  Mar-18*,4913.0,RUPA
+156,Net worth,12  Mar-18*,4992.0,RUPA
+157,Long term debt,12  Mar-18*,0.0,RUPA
+158,Total assets,12  Mar-18*,8992.0,RUPA
+159,Interest coverage,12  Mar-18*,17.5,RUPA
+160,Debt to equity ratio,12  Mar-18*,0.0,RUPA
+161,Sales to assets ratio,12  Mar-18*,1.2,RUPA
+162,Return on assets,12  Mar-18*,10.5,RUPA
+163,Return on equity,12  Mar-18*,17.3,RUPA
+164,Return on capital,12  Mar-18*,28.5,RUPA
+165,Exports to sales,12  Mar-18*,1.6,RUPA
+166,Imports to sales,12  Mar-18*,0.0,RUPA
+167,Exports (fob),12  Mar-18*,184.0,RUPA
+168,Imports (cif),12  Mar-18*,0.0,RUPA
+169,Fx inflow,12  Mar-18*,184.0,RUPA
+170,Fx outflow,12  Mar-18*,19.0,RUPA
+171,Net fx,12  Mar-18*,165.0,RUPA
+172,From Operations,12  Mar-18*,150.0,RUPA
+173,From Investments,12  Mar-18*,-171.0,RUPA
+174,From Financial Activity,12  Mar-18*,-29.0,RUPA
+175,Net Cashflow,12  Mar-18*,-49.0,RUPA
+176,Net Sales,12  Mar-19*,11547.0,RUPA
+177,Other income,12  Mar-19*,20.0,RUPA
+178,Total revenues,12  Mar-19*,11567.0,RUPA
+179,Gross profit,12  Mar-19*,1511.0,RUPA
+180,Depreciation,12  Mar-19*,150.0,RUPA
+181,Interest,12  Mar-19*,186.0,RUPA
+182,Profit before tax,12  Mar-19*,1195.0,RUPA
+183,Minority Interest,12  Mar-19*,0.0,RUPA
+184,Prior Period Items,12  Mar-19*,0.0,RUPA
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,RUPA
+186,Tax,12  Mar-19*,453.0,RUPA
+187,Profit after tax,12  Mar-19*,742.0,RUPA
+188,Gross profit margin,12  Mar-19*,13.1,RUPA
+189,Effective tax rate,12  Mar-19*,37.9,RUPA
+190,Net profit margin,12  Mar-19*,6.4,RUPA
+191,Current assets,12  Mar-19*,8214.0,RUPA
+192,Current liabilities,12  Mar-19*,4566.0,RUPA
+193,Net working cap to sales,12  Mar-19*,31.6,RUPA
+194,Current ratio,12  Mar-19*,1.8,RUPA
+195,Inventory Days,12  Mar-19*,121.0,RUPA
+196,Debtors Days,12  Mar-19*,125.0,RUPA
+197,Net fixed assets,12  Mar-19*,1846.0,RUPA
+198,Share capital,12  Mar-19*,80.0,RUPA
+199,"""Free"" reserves",12  Mar-19*,5367.0,RUPA
+200,Net worth,12  Mar-19*,5447.0,RUPA
+201,Long term debt,12  Mar-19*,81.0,RUPA
+202,Total assets,12  Mar-19*,10168.0,RUPA
+203,Interest coverage,12  Mar-19*,7.4,RUPA
+204,Debt to equity ratio,12  Mar-19*,0.0,RUPA
+205,Sales to assets ratio,12  Mar-19*,1.1,RUPA
+206,Return on assets,12  Mar-19*,9.1,RUPA
+207,Return on equity,12  Mar-19*,13.6,RUPA
+208,Return on capital,12  Mar-19*,25.0,RUPA
+209,Exports to sales,12  Mar-19*,2.4,RUPA
+210,Imports to sales,12  Mar-19*,0.0,RUPA
+211,Exports (fob),12  Mar-19*,275.0,RUPA
+212,Imports (cif),12  Mar-19*,0.0,RUPA
+213,Fx inflow,12  Mar-19*,2180.0,RUPA
+214,Fx outflow,12  Mar-19*,160.0,RUPA
+215,Net fx,12  Mar-19*,2020.0,RUPA
+216,From Operations,12  Mar-19*,-272.0,RUPA
+217,From Investments,12  Mar-19*,-198.0,RUPA
+218,From Financial Activity,12  Mar-19*,476.0,RUPA
+219,Net Cashflow,12  Mar-19*,7.0,RUPA

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,133103.0,APLO
+1,Other income,12  Mar-14*,1995.0,APLO
+2,Total revenues,12  Mar-14*,135098.0,APLO
+3,Gross profit,12  Mar-14*,17739.0,APLO
+4,Depreciation,12  Mar-14*,4109.0,APLO
+5,Interest,12  Mar-14*,2838.0,APLO
+6,Profit before tax,12  Mar-14*,12787.0,APLO
+7,Minority Interest,12  Mar-14*,0.0,APLO
+8,Prior Period Items,12  Mar-14*,0.0,APLO
+9,Extraordinary Inc (Exp),12  Mar-14*,-468.0,APLO
+10,Tax,12  Mar-14*,2269.0,APLO
+11,Profit after tax,12  Mar-14*,10051.0,APLO
+12,Gross profit margin,12  Mar-14*,13.3,APLO
+13,Effective tax rate,12  Mar-14*,17.7,APLO
+14,Net profit margin,12  Mar-14*,7.6,APLO
+15,Current assets,12  Mar-14*,41718.0,APLO
+16,Current liabilities,12  Mar-14*,30779.0,APLO
+17,Net working cap to sales,12  Mar-14*,8.2,APLO
+18,Current ratio,12  Mar-14*,1.4,APLO
+19,Inventory Days,12  Mar-14*,57.0,APLO
+20,Debtors Days,12  Mar-14*,29.0,APLO
+21,Net fixed assets,12  Mar-14*,45022.0,APLO
+22,Share capital,12  Mar-14*,504.0,APLO
+23,"""Free"" reserves",12  Mar-14*,41623.0,APLO
+24,Net worth,12  Mar-14*,45746.0,APLO
+25,Long term debt,12  Mar-14*,7137.0,APLO
+26,Total assets,12  Mar-14*,90456.0,APLO
+27,Interest coverage,12  Mar-14*,5.5,APLO
+28,Debt to equity ratio,12  Mar-14*,0.2,APLO
+29,Sales to assets ratio,12  Mar-14*,1.5,APLO
+30,Return on assets,12  Mar-14*,14.2,APLO
+31,Return on equity,12  Mar-14*,22.0,APLO
+32,Return on capital,12  Mar-14*,28.7,APLO
+33,Exports to sales,12  Mar-14*,6.1,APLO
+34,Imports to sales,12  Mar-14*,19.6,APLO
+35,Exports (fob),12  Mar-14*,8142.0,APLO
+36,Imports (cif),12  Mar-14*,26061.0,APLO
+37,Fx inflow,12  Mar-14*,8258.0,APLO
+38,Fx outflow,12  Mar-14*,28014.0,APLO
+39,Net fx,12  Mar-14*,-19756.0,APLO
+40,From Operations,12  Mar-14*,16455.0,APLO
+41,From Investments,12  Mar-14*,-1193.0,APLO
+42,From Financial Activity,12  Mar-14*,-12075.0,APLO
+43,Net Cashflow,12  Mar-14*,3187.0,APLO
+44,Net Sales,12  Mar-15*,127257.0,APLO
+45,Other income,12  Mar-15*,1134.0,APLO
+46,Total revenues,12  Mar-15*,128391.0,APLO
+47,Gross profit,12  Mar-15*,18711.0,APLO
+48,Depreciation,12  Mar-15*,3883.0,APLO
+49,Interest,12  Mar-15*,1828.0,APLO
+50,Profit before tax,12  Mar-15*,14133.0,APLO
+51,Minority Interest,12  Mar-15*,0.0,APLO
+52,Prior Period Items,12  Mar-15*,0.0,APLO
+53,Extraordinary Inc (Exp),12  Mar-15*,-825.0,APLO
+54,Tax,12  Mar-15*,3532.0,APLO
+55,Profit after tax,12  Mar-15*,9776.0,APLO
+56,Gross profit margin,12  Mar-15*,14.7,APLO
+57,Effective tax rate,12  Mar-15*,25.0,APLO
+58,Net profit margin,12  Mar-15*,7.7,APLO
+59,Current assets,12  Mar-15*,38033.0,APLO
+60,Current liabilities,12  Mar-15*,25150.0,APLO
+61,Net working cap to sales,12  Mar-15*,10.1,APLO
+62,Current ratio,12  Mar-15*,1.5,APLO
+63,Inventory Days,12  Mar-15*,51.0,APLO
+64,Debtors Days,12  Mar-15*,28.0,APLO
+65,Net fixed assets,12  Mar-15*,45614.0,APLO
+66,Share capital,12  Mar-15*,509.0,APLO
+67,"""Free"" reserves",12  Mar-15*,53681.0,APLO
+68,Net worth,12  Mar-15*,54190.0,APLO
+69,Long term debt,12  Mar-15*,4105.0,APLO
+70,Total assets,12  Mar-15*,91352.0,APLO
+71,Interest coverage,12  Mar-15*,8.7,APLO
+72,Debt to equity ratio,12  Mar-15*,0.1,APLO
+73,Sales to assets ratio,12  Mar-15*,1.4,APLO
+74,Return on assets,12  Mar-15*,12.7,APLO
+75,Return on equity,12  Mar-15*,18.0,APLO
+76,Return on capital,12  Mar-15*,26.0,APLO
+77,Exports to sales,12  Mar-15*,6.9,APLO
+78,Imports to sales,12  Mar-15*,19.3,APLO
+79,Exports (fob),12  Mar-15*,8775.0,APLO
+80,Imports (cif),12  Mar-15*,24611.0,APLO
+81,Fx inflow,12  Mar-15*,9113.0,APLO
+82,Fx outflow,12  Mar-15*,26517.0,APLO
+83,Net fx,12  Mar-15*,-17404.0,APLO
+84,From Operations,12  Mar-15*,14120.0,APLO
+85,From Investments,12  Mar-15*,-7500.0,APLO
+86,From Financial Activity,12  Mar-15*,-6835.0,APLO
+87,Net Cashflow,12  Mar-15*,-216.0,APLO
+88,Net Sales,12  Mar-16*,118486.0,APLO
+89,Other income,12  Mar-16*,680.0,APLO
+90,Total revenues,12  Mar-16*,119165.0,APLO
+91,Gross profit,12  Mar-16*,19975.0,APLO
+92,Depreciation,12  Mar-16*,4268.0,APLO
+93,Interest,12  Mar-16*,926.0,APLO
+94,Profit before tax,12  Mar-16*,15461.0,APLO
+95,Minority Interest,12  Mar-16*,0.0,APLO
+96,Prior Period Items,12  Mar-16*,0.0,APLO
+97,Extraordinary Inc (Exp),12  Mar-16*,446.0,APLO
+98,Tax,12  Mar-16*,4677.0,APLO
+99,Profit after tax,12  Mar-16*,11230.0,APLO
+100,Gross profit margin,12  Mar-16*,16.9,APLO
+101,Effective tax rate,12  Mar-16*,30.3,APLO
+102,Net profit margin,12  Mar-16*,9.5,APLO
+103,Current assets,12  Mar-16*,45545.0,APLO
+104,Current liabilities,12  Mar-16*,34473.0,APLO
+105,Net working cap to sales,12  Mar-16*,9.3,APLO
+106,Current ratio,12  Mar-16*,1.3,APLO
+107,Inventory Days,12  Mar-16*,60.0,APLO
+108,Debtors Days,12  Mar-16*,33.0,APLO
+109,Net fixed assets,12  Mar-16*,45560.0,APLO
+110,Share capital,12  Mar-16*,509.0,APLO
+111,"""Free"" reserves",12  Mar-16*,65537.0,APLO
+112,Net worth,12  Mar-16*,66046.0,APLO
+113,Long term debt,12  Mar-16*,6493.0,APLO
+114,Total assets,12  Mar-16*,116538.0,APLO
+115,Interest coverage,12  Mar-16*,17.7,APLO
+116,Debt to equity ratio,12  Mar-16*,0.1,APLO
+117,Sales to assets ratio,12  Mar-16*,1.0,APLO
+118,Return on assets,12  Mar-16*,10.4,APLO
+119,Return on equity,12  Mar-16*,17.0,APLO
+120,Return on capital,12  Mar-16*,23.2,APLO
+121,Exports to sales,12  Mar-16*,6.2,APLO
+122,Imports to sales,12  Mar-16*,18.1,APLO
+123,Exports (fob),12  Mar-16*,7393.0,APLO
+124,Imports (cif),12  Mar-16*,21448.0,APLO
+125,Fx inflow,12  Mar-16*,7876.0,APLO
+126,Fx outflow,12  Mar-16*,24139.0,APLO
+127,Net fx,12  Mar-16*,-16262.0,APLO
+128,From Operations,12  Mar-16*,21225.0,APLO
+129,From Investments,12  Mar-16*,-22828.0,APLO
+130,From Financial Activity,12  Mar-16*,-2547.0,APLO
+131,Net Cashflow,12  Mar-16*,-4149.0,APLO
+132,Net Sales,12  Mar-17*,130630.0,APLO
+133,Other income,12  Mar-17*,1518.0,APLO
+134,Total revenues,12  Mar-17*,132148.0,APLO
+135,Gross profit,12  Mar-17*,18487.0,APLO
+136,Depreciation,12  Mar-17*,4618.0,APLO
+137,Interest,12  Mar-17*,1029.0,APLO
+138,Profit before tax,12  Mar-17*,14359.0,APLO
+139,Minority Interest,12  Mar-17*,0.0,APLO
+140,Prior Period Items,12  Mar-17*,0.0,APLO
+141,Extraordinary Inc (Exp),12  Mar-17*,-3.0,APLO
+142,Tax,12  Mar-17*,3366.0,APLO
+143,Profit after tax,12  Mar-17*,10990.0,APLO
+144,Gross profit margin,12  Mar-17*,14.2,APLO
+145,Effective tax rate,12  Mar-17*,23.4,APLO
+146,Net profit margin,12  Mar-17*,8.4,APLO
+147,Current assets,12  Mar-17*,50182.0,APLO
+148,Current liabilities,12  Mar-17*,44572.0,APLO
+149,Net working cap to sales,12  Mar-17*,4.3,APLO
+150,Current ratio,12  Mar-17*,1.1,APLO
+151,Inventory Days,12  Mar-17*,74.0,APLO
+152,Debtors Days,12  Mar-17*,32.0,APLO
+153,Net fixed assets,12  Mar-17*,89105.0,APLO
+154,Share capital,12  Mar-17*,509.0,APLO
+155,"""Free"" reserves",12  Mar-17*,72391.0,APLO
+156,Net worth,12  Mar-17*,72900.0,APLO
+157,Long term debt,12  Mar-17*,21559.0,APLO
+158,Total assets,12  Mar-17*,152961.0,APLO
+159,Interest coverage,12  Mar-17*,15.0,APLO
+160,Debt to equity ratio,12  Mar-17*,0.3,APLO
+161,Sales to assets ratio,12  Mar-17*,0.9,APLO
+162,Return on assets,12  Mar-17*,7.9,APLO
+163,Return on equity,12  Mar-17*,15.1,APLO
+164,Return on capital,12  Mar-17*,16.3,APLO
+165,Exports to sales,12  Mar-17*,6.2,APLO
+166,Imports to sales,12  Mar-17*,25.9,APLO
+167,Exports (fob),12  Mar-17*,8070.0,APLO
+168,Imports (cif),12  Mar-17*,33821.0,APLO
+169,Fx inflow,12  Mar-17*,8339.0,APLO
+170,Fx outflow,12  Mar-17*,37000.0,APLO
+171,Net fx,12  Mar-17*,-28661.0,APLO
+172,From Operations,12  Mar-17*,9023.0,APLO
+173,From Investments,12  Mar-17*,-29521.0,APLO
+174,From Financial Activity,12  Mar-17*,18946.0,APLO
+175,Net Cashflow,12  Mar-17*,-2088.0,APLO
+176,Net Sales,12  Mar-18*,146741.0,APLO
+177,Other income,12  Mar-18*,1165.0,APLO
+178,Total revenues,12  Mar-18*,147906.0,APLO
+179,Gross profit,12  Mar-18*,16513.0,APLO
+180,Depreciation,12  Mar-18*,5926.0,APLO
+181,Interest,12  Mar-18*,1629.0,APLO
+182,Profit before tax,12  Mar-18*,10123.0,APLO
+183,Minority Interest,12  Mar-18*,0.0,APLO
+184,Prior Period Items,12  Mar-18*,0.0,APLO
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,APLO
+186,Tax,12  Mar-18*,2885.0,APLO
+187,Profit after tax,12  Mar-18*,7239.0,APLO
+188,Gross profit margin,12  Mar-18*,11.3,APLO
+189,Effective tax rate,12  Mar-18*,28.5,APLO
+190,Net profit margin,12  Mar-18*,4.9,APLO
+191,Current assets,12  Mar-18*,68990.0,APLO
+192,Current liabilities,12  Mar-18*,49620.0,APLO
+193,Net working cap to sales,12  Mar-18*,13.2,APLO
+194,Current ratio,12  Mar-18*,1.4,APLO
+195,Inventory Days,12  Mar-18*,73.0,APLO
+196,Debtors Days,12  Mar-18*,36.0,APLO
+197,Net fixed assets,12  Mar-18*,117969.0,APLO
+198,Share capital,12  Mar-18*,572.0,APLO
+199,"""Free"" reserves",12  Mar-18*,97195.0,APLO
+200,Net worth,12  Mar-18*,97767.0,APLO
+201,Long term debt,12  Mar-18*,37002.0,APLO
+202,Total assets,12  Mar-18*,201533.0,APLO
+203,Interest coverage,12  Mar-18*,7.2,APLO
+204,Debt to equity ratio,12  Mar-18*,0.4,APLO
+205,Sales to assets ratio,12  Mar-18*,0.7,APLO
+206,Return on assets,12  Mar-18*,4.4,APLO
+207,Return on equity,12  Mar-18*,7.4,APLO
+208,Return on capital,12  Mar-18*,8.7,APLO
+209,Exports to sales,12  Mar-18*,6.1,APLO
+210,Imports to sales,12  Mar-18*,23.2,APLO
+211,Exports (fob),12  Mar-18*,8955.0,APLO
+212,Imports (cif),12  Mar-18*,33980.0,APLO
+213,Fx inflow,12  Mar-18*,9733.0,APLO
+214,Fx outflow,12  Mar-18*,37015.0,APLO
+215,Net fx,12  Mar-18*,-27282.0,APLO
+216,From Operations,12  Mar-18*,17197.0,APLO
+217,From Investments,12  Mar-18*,-38628.0,APLO
+218,From Financial Activity,12  Mar-18*,23209.0,APLO
+219,Net Cashflow,12  Mar-18*,4614.0,APLO

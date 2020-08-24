@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,33923.0,CAST
+1,Other income,12  Dec-14,481.0,CAST
+2,Total revenues,12  Dec-14,34404.0,CAST
+3,Gross profit,12  Dec-14,7167.0,CAST
+4,Depreciation,12  Dec-14,361.0,CAST
+5,Interest,12  Dec-14,24.0,CAST
+6,Profit before tax,12  Dec-14,7263.0,CAST
+7,Minority Interest,12  Dec-14,0.0,CAST
+8,Prior Period Items,12  Dec-14,0.0,CAST
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,CAST
+10,Tax,12  Dec-14,2518.0,CAST
+11,Profit after tax,12  Dec-14,4746.0,CAST
+12,Gross profit margin,12  Dec-14,21.1,CAST
+13,Effective tax rate,12  Dec-14,34.7,CAST
+14,Net profit margin,12  Dec-14,14.0,CAST
+15,Current assets,12  Dec-14,11573.0,CAST
+16,Current liabilities,12  Dec-14,9814.0,CAST
+17,Net working cap to sales,12  Dec-14,5.2,CAST
+18,Current ratio,12  Dec-14,1.2,CAST
+19,Inventory Days,12  Dec-14,39.0,CAST
+20,Debtors Days,12  Dec-14,29.0,CAST
+21,Net fixed assets,12  Dec-14,1877.0,CAST
+22,Share capital,12  Dec-14,2473.0,CAST
+23,"""Free"" reserves",12  Dec-14,2359.0,CAST
+24,Net worth,12  Dec-14,4968.0,CAST
+25,Long term debt,12  Dec-14,0.0,CAST
+26,Total assets,12  Dec-14,14922.0,CAST
+27,Interest coverage,12  Dec-14,306.2,CAST
+28,Debt to equity ratio,12  Dec-14,0.0,CAST
+29,Sales to assets ratio,12  Dec-14,2.3,CAST
+30,Return on assets,12  Dec-14,32.0,CAST
+31,Return on equity,12  Dec-14,95.5,CAST
+32,Return on capital,12  Dec-14,146.7,CAST
+33,Exports to sales,12  Dec-14,0.1,CAST
+34,Imports to sales,12  Dec-14,24.8,CAST
+35,Exports (fob),12  Dec-14,28.0,CAST
+36,Imports (cif),12  Dec-14,8417.0,CAST
+37,Fx inflow,12  Dec-14,139.0,CAST
+38,Fx outflow,12  Dec-14,10471.0,CAST
+39,Net fx,12  Dec-14,-10332.0,CAST
+40,From Operations,12  Dec-14,5476.0,CAST
+41,From Investments,12  Dec-14,-137.0,CAST
+42,From Financial Activity,12  Dec-14,-6966.0,CAST
+43,Net Cashflow,12  Dec-14,-1628.0,CAST
+44,Net Sales,12  Dec-15,32980.0,CAST
+45,Other income,12  Dec-15,526.0,CAST
+46,Total revenues,12  Dec-15,33506.0,CAST
+47,Gross profit,12  Dec-15,9382.0,CAST
+48,Depreciation,12  Dec-15,390.0,CAST
+49,Interest,12  Dec-15,8.0,CAST
+50,Profit before tax,12  Dec-15,9510.0,CAST
+51,Minority Interest,12  Dec-15,0.0,CAST
+52,Prior Period Items,12  Dec-15,0.0,CAST
+53,Extraordinary Inc (Exp),12  Dec-15,0.0,CAST
+54,Tax,12  Dec-15,3357.0,CAST
+55,Profit after tax,12  Dec-15,6153.0,CAST
+56,Gross profit margin,12  Dec-15,28.4,CAST
+57,Effective tax rate,12  Dec-15,35.3,CAST
+58,Net profit margin,12  Dec-15,18.7,CAST
+59,Current assets,12  Dec-15,13332.0,CAST
+60,Current liabilities,12  Dec-15,10711.0,CAST
+61,Net working cap to sales,12  Dec-15,7.9,CAST
+62,Current ratio,12  Dec-15,1.2,CAST
+63,Inventory Days,12  Dec-15,34.0,CAST
+64,Debtors Days,12  Dec-15,26.0,CAST
+65,Net fixed assets,12  Dec-15,1853.0,CAST
+66,Share capital,12  Dec-15,2473.0,CAST
+67,"""Free"" reserves",12  Dec-15,3147.0,CAST
+68,Net worth,12  Dec-15,5756.0,CAST
+69,Long term debt,12  Dec-15,0.0,CAST
+70,Total assets,12  Dec-15,16616.0,CAST
+71,Interest coverage,12  Dec-15,1146.7,CAST
+72,Debt to equity ratio,12  Dec-15,0.0,CAST
+73,Sales to assets ratio,12  Dec-15,2.0,CAST
+74,Return on assets,12  Dec-15,37.1,CAST
+75,Return on equity,12  Dec-15,106.9,CAST
+76,Return on capital,12  Dec-15,165.4,CAST
+77,Exports to sales,12  Dec-15,0.1,CAST
+78,Imports to sales,12  Dec-15,20.7,CAST
+79,Exports (fob),12  Dec-15,23.0,CAST
+80,Imports (cif),12  Dec-15,6840.0,CAST
+81,Fx inflow,12  Dec-15,179.0,CAST
+82,Fx outflow,12  Dec-15,8935.0,CAST
+83,Net fx,12  Dec-15,-8756.0,CAST
+84,From Operations,12  Dec-15,7400.0,CAST
+85,From Investments,12  Dec-15,23.0,CAST
+86,From Financial Activity,12  Dec-15,-4778.0,CAST
+87,Net Cashflow,12  Dec-15,2644.0,CAST
+88,Net Sales,12  Dec-16,33703.0,CAST
+89,Other income,12  Dec-16,874.0,CAST
+90,Total revenues,12  Dec-16,34577.0,CAST
+91,Gross profit,12  Dec-16,9994.0,CAST
+92,Depreciation,12  Dec-16,450.0,CAST
+93,Interest,12  Dec-16,15.0,CAST
+94,Profit before tax,12  Dec-16,10403.0,CAST
+95,Minority Interest,12  Dec-16,0.0,CAST
+96,Prior Period Items,12  Dec-16,0.0,CAST
+97,Extraordinary Inc (Exp),12  Dec-16,0.0,CAST
+98,Tax,12  Dec-16,3699.0,CAST
+99,Profit after tax,12  Dec-16,6704.0,CAST
+100,Gross profit margin,12  Dec-16,29.7,CAST
+101,Effective tax rate,12  Dec-16,35.6,CAST
+102,Net profit margin,12  Dec-16,19.9,CAST
+103,Current assets,12  Dec-16,15437.0,CAST
+104,Current liabilities,12  Dec-16,8927.0,CAST
+105,Net working cap to sales,12  Dec-16,19.3,CAST
+106,Current ratio,12  Dec-16,1.7,CAST
+107,Inventory Days,12  Dec-16,37.0,CAST
+108,Debtors Days,12  Dec-16,28.0,CAST
+109,Net fixed assets,12  Dec-16,1842.0,CAST
+110,Share capital,12  Dec-16,2473.0,CAST
+111,"""Free"" reserves",12  Dec-16,7343.0,CAST
+112,Net worth,12  Dec-16,9815.0,CAST
+113,Long term debt,12  Dec-16,0.0,CAST
+114,Total assets,12  Dec-16,18883.0,CAST
+115,Interest coverage,12  Dec-16,703.9,CAST
+116,Debt to equity ratio,12  Dec-16,0.0,CAST
+117,Sales to assets ratio,12  Dec-16,1.8,CAST
+118,Return on assets,12  Dec-16,35.6,CAST
+119,Return on equity,12  Dec-16,68.3,CAST
+120,Return on capital,12  Dec-16,106.1,CAST
+121,Exports to sales,12  Dec-16,0.0,CAST
+122,Imports to sales,12  Dec-16,0.0,CAST
+123,Exports (fob),12  Dec-16,0.0,CAST
+124,Imports (cif),12  Dec-16,0.0,CAST
+125,Fx inflow,12  Dec-16,143.0,CAST
+126,Fx outflow,12  Dec-16,2057.0,CAST
+127,Net fx,12  Dec-16,-1914.0,CAST
+128,From Operations,12  Dec-16,6641.0,CAST
+129,From Investments,12  Dec-16,-330.0,CAST
+130,From Financial Activity,12  Dec-16,-5680.0,CAST
+131,Net Cashflow,12  Dec-16,631.0,CAST
+132,Net Sales,12  Dec-17,35843.0,CAST
+133,Other income,12  Dec-17,837.0,CAST
+134,Total revenues,12  Dec-17,36680.0,CAST
+135,Gross profit,12  Dec-17,10331.0,CAST
+136,Depreciation,12  Dec-17,455.0,CAST
+137,Interest,12  Dec-17,12.0,CAST
+138,Profit before tax,12  Dec-17,10701.0,CAST
+139,Minority Interest,12  Dec-17,0.0,CAST
+140,Prior Period Items,12  Dec-17,0.0,CAST
+141,Extraordinary Inc (Exp),12  Dec-17,0.0,CAST
+142,Tax,12  Dec-17,3783.0,CAST
+143,Profit after tax,12  Dec-17,6918.0,CAST
+144,Gross profit margin,12  Dec-17,28.8,CAST
+145,Effective tax rate,12  Dec-17,35.3,CAST
+146,Net profit margin,12  Dec-17,19.3,CAST
+147,Current assets,12  Dec-17,15717.0,CAST
+148,Current liabilities,12  Dec-17,9409.0,CAST
+149,Net working cap to sales,12  Dec-17,17.6,CAST
+150,Current ratio,12  Dec-17,1.7,CAST
+151,Inventory Days,12  Dec-17,33.0,CAST
+152,Debtors Days,12  Dec-17,29.0,CAST
+153,Net fixed assets,12  Dec-17,1962.0,CAST
+154,Share capital,12  Dec-17,4946.0,CAST
+155,"""Free"" reserves",12  Dec-17,5256.0,CAST
+156,Net worth,12  Dec-17,10202.0,CAST
+157,Long term debt,12  Dec-17,0.0,CAST
+158,Total assets,12  Dec-17,19770.0,CAST
+159,Interest coverage,12  Dec-17,892.7,CAST
+160,Debt to equity ratio,12  Dec-17,0.0,CAST
+161,Sales to assets ratio,12  Dec-17,1.8,CAST
+162,Return on assets,12  Dec-17,35.1,CAST
+163,Return on equity,12  Dec-17,67.8,CAST
+164,Return on capital,12  Dec-17,105.0,CAST
+165,Exports to sales,12  Dec-17,0.0,CAST
+166,Imports to sales,12  Dec-17,0.0,CAST
+167,Exports (fob),12  Dec-17,0.0,CAST
+168,Imports (cif),12  Dec-17,0.0,CAST
+169,Fx inflow,12  Dec-17,257.0,CAST
+170,Fx outflow,12  Dec-17,998.0,CAST
+171,Net fx,12  Dec-17,-741.0,CAST
+172,From Operations,12  Dec-17,6083.0,CAST
+173,From Investments,12  Dec-17,1514.0,CAST
+174,From Financial Activity,12  Dec-17,-6567.0,CAST
+175,Net Cashflow,12  Dec-17,1039.0,CAST
+176,Net Sales,12  Dec-18,39046.0,CAST
+177,Other income,12  Dec-18,843.0,CAST
+178,Total revenues,12  Dec-18,39889.0,CAST
+179,Gross profit,12  Dec-18,10708.0,CAST
+180,Depreciation,12  Dec-18,556.0,CAST
+181,Interest,12  Dec-18,11.0,CAST
+182,Profit before tax,12  Dec-18,10984.0,CAST
+183,Minority Interest,12  Dec-18,0.0,CAST
+184,Prior Period Items,12  Dec-18,0.0,CAST
+185,Extraordinary Inc (Exp),12  Dec-18,0.0,CAST
+186,Tax,12  Dec-18,3901.0,CAST
+187,Profit after tax,12  Dec-18,7084.0,CAST
+188,Gross profit margin,12  Dec-18,27.4,CAST
+189,Effective tax rate,12  Dec-18,35.5,CAST
+190,Net profit margin,12  Dec-18,18.1,CAST
+191,Current assets,12  Dec-18,17266.0,CAST
+192,Current liabilities,12  Dec-18,9252.0,CAST
+193,Net working cap to sales,12  Dec-18,20.5,CAST
+194,Current ratio,12  Dec-18,1.9,CAST
+195,Inventory Days,12  Dec-18,43.0,CAST
+196,Debtors Days,12  Dec-18,37.0,CAST
+197,Net fixed assets,12  Dec-18,2211.0,CAST
+198,Share capital,12  Dec-18,4946.0,CAST
+199,"""Free"" reserves",12  Dec-18,6711.0,CAST
+200,Net worth,12  Dec-18,11657.0,CAST
+201,Long term debt,12  Dec-18,0.0,CAST
+202,Total assets,12  Dec-18,21068.0,CAST
+203,Interest coverage,12  Dec-18,1008.7,CAST
+204,Debt to equity ratio,12  Dec-18,0.0,CAST
+205,Sales to assets ratio,12  Dec-18,1.9,CAST
+206,Return on assets,12  Dec-18,33.7,CAST
+207,Return on equity,12  Dec-18,60.8,CAST
+208,Return on capital,12  Dec-18,94.3,CAST
+209,Exports to sales,12  Dec-18,0.0,CAST
+210,Imports to sales,12  Dec-18,0.0,CAST
+211,Exports (fob),12  Dec-18,0.0,CAST
+212,Imports (cif),12  Dec-18,0.0,CAST
+213,Fx inflow,12  Dec-18,277.0,CAST
+214,Fx outflow,12  Dec-18,2313.0,CAST
+215,Net fx,12  Dec-18,-2036.0,CAST
+216,From Operations,12  Dec-18,5495.0,CAST
+217,From Investments,12  Dec-18,661.0,CAST
+218,From Financial Activity,12  Dec-18,-5674.0,CAST
+219,Net Cashflow,12  Dec-18,482.0,CAST

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,485.0,ADHT
+1,Other income,12  Mar-15,6.0,ADHT
+2,Total revenues,12  Mar-15,490.0,ADHT
+3,Gross profit,12  Mar-15,112.0,ADHT
+4,Depreciation,12  Mar-15,45.0,ADHT
+5,Interest,12  Mar-15,17.0,ADHT
+6,Profit before tax,12  Mar-15,55.0,ADHT
+7,Minority Interest,12  Mar-15,0.0,ADHT
+8,Prior Period Items,12  Mar-15,0.0,ADHT
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,ADHT
+10,Tax,12  Mar-15,19.0,ADHT
+11,Profit after tax,12  Mar-15,36.0,ADHT
+12,Gross profit margin,12  Mar-15,23.0,ADHT
+13,Effective tax rate,12  Mar-15,34.8,ADHT
+14,Net profit margin,12  Mar-15,7.4,ADHT
+15,Current assets,12  Mar-15,61.0,ADHT
+16,Current liabilities,12  Mar-15,108.0,ADHT
+17,Net working cap to sales,12  Mar-15,-9.7,ADHT
+18,Current ratio,12  Mar-15,0.6,ADHT
+19,Inventory Days,12  Mar-15,14.0,ADHT
+20,Debtors Days,12  Mar-15,16.0,ADHT
+21,Net fixed assets,12  Mar-15,567.0,ADHT
+22,Share capital,12  Mar-15,92.0,ADHT
+23,"""Free"" reserves",12  Mar-15,163.0,ADHT
+24,Net worth,12  Mar-15,340.0,ADHT
+25,Long term debt,12  Mar-15,122.0,ADHT
+26,Total assets,12  Mar-15,641.0,ADHT
+27,Interest coverage,12  Mar-15,4.3,ADHT
+28,Debt to equity ratio,12  Mar-15,0.4,ADHT
+29,Sales to assets ratio,12  Mar-15,0.8,ADHT
+30,Return on assets,12  Mar-15,8.3,ADHT
+31,Return on equity,12  Mar-15,10.6,ADHT
+32,Return on capital,12  Mar-15,15.6,ADHT
+33,Exports to sales,12  Mar-15,0.0,ADHT
+34,Imports to sales,12  Mar-15,1.9,ADHT
+35,Exports (fob),12  Mar-15,0.0,ADHT
+36,Imports (cif),12  Mar-15,9.0,ADHT
+37,Fx inflow,12  Mar-15,157.0,ADHT
+38,Fx outflow,12  Mar-15,25.0,ADHT
+39,Net fx,12  Mar-15,132.0,ADHT
+40,From Operations,12  Mar-15,98.0,ADHT
+41,From Investments,12  Mar-15,-23.0,ADHT
+42,From Financial Activity,12  Mar-15,-78.0,ADHT
+43,Net Cashflow,12  Mar-15,-3.0,ADHT
+44,Net Sales,12  Mar-16,531.0,ADHT
+45,Other income,12  Mar-16,9.0,ADHT
+46,Total revenues,12  Mar-16,540.0,ADHT
+47,Gross profit,12  Mar-16,136.0,ADHT
+48,Depreciation,12  Mar-16,41.0,ADHT
+49,Interest,12  Mar-16,10.0,ADHT
+50,Profit before tax,12  Mar-16,94.0,ADHT
+51,Minority Interest,12  Mar-16,0.0,ADHT
+52,Prior Period Items,12  Mar-16,0.0,ADHT
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,ADHT
+54,Tax,12  Mar-16,30.0,ADHT
+55,Profit after tax,12  Mar-16,64.0,ADHT
+56,Gross profit margin,12  Mar-16,25.5,ADHT
+57,Effective tax rate,12  Mar-16,31.7,ADHT
+58,Net profit margin,12  Mar-16,12.1,ADHT
+59,Current assets,12  Mar-16,76.0,ADHT
+60,Current liabilities,12  Mar-16,149.0,ADHT
+61,Net working cap to sales,12  Mar-16,-13.8,ADHT
+62,Current ratio,12  Mar-16,0.5,ADHT
+63,Inventory Days,12  Mar-16,10.0,ADHT
+64,Debtors Days,12  Mar-16,29.0,ADHT
+65,Net fixed assets,12  Mar-16,536.0,ADHT
+66,Share capital,12  Mar-16,92.0,ADHT
+67,"""Free"" reserves",12  Mar-16,268.0,ADHT
+68,Net worth,12  Mar-16,360.0,ADHT
+69,Long term debt,12  Mar-16,35.0,ADHT
+70,Total assets,12  Mar-16,625.0,ADHT
+71,Interest coverage,12  Mar-16,10.0,ADHT
+72,Debt to equity ratio,12  Mar-16,0.1,ADHT
+73,Sales to assets ratio,12  Mar-16,0.8,ADHT
+74,Return on assets,12  Mar-16,11.9,ADHT
+75,Return on equity,12  Mar-16,17.8,ADHT
+76,Return on capital,12  Mar-16,26.4,ADHT
+77,Exports to sales,12  Mar-16,0.0,ADHT
+78,Imports to sales,12  Mar-16,0.0,ADHT
+79,Exports (fob),12  Mar-16,0.0,ADHT
+80,Imports (cif),12  Mar-16,0.0,ADHT
+81,Fx inflow,12  Mar-16,161.0,ADHT
+82,Fx outflow,12  Mar-16,18.0,ADHT
+83,Net fx,12  Mar-16,143.0,ADHT
+84,From Operations,12  Mar-16,124.0,ADHT
+85,From Investments,12  Mar-16,-10.0,ADHT
+86,From Financial Activity,12  Mar-16,-115.0,ADHT
+87,Net Cashflow,12  Mar-16,0.0,ADHT
+88,Net Sales,12  Mar-17,596.0,ADHT
+89,Other income,12  Mar-17,12.0,ADHT
+90,Total revenues,12  Mar-17,609.0,ADHT
+91,Gross profit,12  Mar-17,172.0,ADHT
+92,Depreciation,12  Mar-17,37.0,ADHT
+93,Interest,12  Mar-17,3.0,ADHT
+94,Profit before tax,12  Mar-17,144.0,ADHT
+95,Minority Interest,12  Mar-17,0.0,ADHT
+96,Prior Period Items,12  Mar-17,0.0,ADHT
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,ADHT
+98,Tax,12  Mar-17,54.0,ADHT
+99,Profit after tax,12  Mar-17,89.0,ADHT
+100,Gross profit margin,12  Mar-17,28.8,ADHT
+101,Effective tax rate,12  Mar-17,37.8,ADHT
+102,Net profit margin,12  Mar-17,15.0,ADHT
+103,Current assets,12  Mar-17,88.0,ADHT
+104,Current liabilities,12  Mar-17,106.0,ADHT
+105,Net working cap to sales,12  Mar-17,-2.9,ADHT
+106,Current ratio,12  Mar-17,0.8,ADHT
+107,Inventory Days,12  Mar-17,9.0,ADHT
+108,Debtors Days,12  Mar-17,17.0,ADHT
+109,Net fixed assets,12  Mar-17,509.0,ADHT
+110,Share capital,12  Mar-17,92.0,ADHT
+111,"""Free"" reserves",12  Mar-17,324.0,ADHT
+112,Net worth,12  Mar-17,416.0,ADHT
+113,Long term debt,12  Mar-17,3.0,ADHT
+114,Total assets,12  Mar-17,611.0,ADHT
+115,Interest coverage,12  Mar-17,45.9,ADHT
+116,Debt to equity ratio,12  Mar-17,0.0,ADHT
+117,Sales to assets ratio,12  Mar-17,1.0,ADHT
+118,Return on assets,12  Mar-17,15.1,ADHT
+119,Return on equity,12  Mar-17,21.4,ADHT
+120,Return on capital,12  Mar-17,35.0,ADHT
+121,Exports to sales,12  Mar-17,0.0,ADHT
+122,Imports to sales,12  Mar-17,0.0,ADHT
+123,Exports (fob),12  Mar-17,0.0,ADHT
+124,Imports (cif),12  Mar-17,0.0,ADHT
+125,Fx inflow,12  Mar-17,163.0,ADHT
+126,Fx outflow,12  Mar-17,17.0,ADHT
+127,Net fx,12  Mar-17,146.0,ADHT
+128,From Operations,12  Mar-17,140.0,ADHT
+129,From Investments,12  Mar-17,-8.0,ADHT
+130,From Financial Activity,12  Mar-17,-109.0,ADHT
+131,Net Cashflow,12  Mar-17,24.0,ADHT
+132,Net Sales,12  Mar-18,625.0,ADHT
+133,Other income,12  Mar-18,14.0,ADHT
+134,Total revenues,12  Mar-18,638.0,ADHT
+135,Gross profit,12  Mar-18,151.0,ADHT
+136,Depreciation,12  Mar-18,35.0,ADHT
+137,Interest,12  Mar-18,1.0,ADHT
+138,Profit before tax,12  Mar-18,129.0,ADHT
+139,Minority Interest,12  Mar-18,0.0,ADHT
+140,Prior Period Items,12  Mar-18,0.0,ADHT
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ADHT
+142,Tax,12  Mar-18,43.0,ADHT
+143,Profit after tax,12  Mar-18,86.0,ADHT
+144,Gross profit margin,12  Mar-18,24.2,ADHT
+145,Effective tax rate,12  Mar-18,33.1,ADHT
+146,Net profit margin,12  Mar-18,13.8,ADHT
+147,Current assets,12  Mar-18,197.0,ADHT
+148,Current liabilities,12  Mar-18,145.0,ADHT
+149,Net working cap to sales,12  Mar-18,8.3,ADHT
+150,Current ratio,12  Mar-18,1.4,ADHT
+151,Inventory Days,12  Mar-18,9.0,ADHT
+152,Debtors Days,12  Mar-18,19.0,ADHT
+153,Net fixed assets,12  Mar-18,508.0,ADHT
+154,Share capital,12  Mar-18,92.0,ADHT
+155,"""Free"" reserves",12  Mar-18,383.0,ADHT
+156,Net worth,12  Mar-18,476.0,ADHT
+157,Long term debt,12  Mar-18,4.0,ADHT
+158,Total assets,12  Mar-18,712.0,ADHT
+159,Interest coverage,12  Mar-18,216.2,ADHT
+160,Debt to equity ratio,12  Mar-18,0.0,ADHT
+161,Sales to assets ratio,12  Mar-18,0.9,ADHT
+162,Return on assets,12  Mar-18,12.2,ADHT
+163,Return on equity,12  Mar-18,18.2,ADHT
+164,Return on capital,12  Mar-18,27.0,ADHT
+165,Exports to sales,12  Mar-18,0.0,ADHT
+166,Imports to sales,12  Mar-18,0.0,ADHT
+167,Exports (fob),12  Mar-18,0.0,ADHT
+168,Imports (cif),12  Mar-18,0.0,ADHT
+169,Fx inflow,12  Mar-18,99.0,ADHT
+170,Fx outflow,12  Mar-18,17.0,ADHT
+171,Net fx,12  Mar-18,82.0,ADHT
+172,From Operations,12  Mar-18,154.0,ADHT
+173,From Investments,12  Mar-18,-31.0,ADHT
+174,From Financial Activity,12  Mar-18,-28.0,ADHT
+175,Net Cashflow,12  Mar-18,95.0,ADHT
+176,Net Sales,12  Mar-19,703.0,ADHT
+177,Other income,12  Mar-19,15.0,ADHT
+178,Total revenues,12  Mar-19,717.0,ADHT
+179,Gross profit,12  Mar-19,162.0,ADHT
+180,Depreciation,12  Mar-19,37.0,ADHT
+181,Interest,12  Mar-19,1.0,ADHT
+182,Profit before tax,12  Mar-19,139.0,ADHT
+183,Minority Interest,12  Mar-19,0.0,ADHT
+184,Prior Period Items,12  Mar-19,0.0,ADHT
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ADHT
+186,Tax,12  Mar-19,26.0,ADHT
+187,Profit after tax,12  Mar-19,114.0,ADHT
+188,Gross profit margin,12  Mar-19,23.0,ADHT
+189,Effective tax rate,12  Mar-19,18.3,ADHT
+190,Net profit margin,12  Mar-19,16.2,ADHT
+191,Current assets,12  Mar-19,268.0,ADHT
+192,Current liabilities,12  Mar-19,141.0,ADHT
+193,Net working cap to sales,12  Mar-19,18.1,ADHT
+194,Current ratio,12  Mar-19,1.9,ADHT
+195,Inventory Days,12  Mar-19,7.0,ADHT
+196,Debtors Days,12  Mar-19,18.0,ADHT
+197,Net fixed assets,12  Mar-19,487.0,ADHT
+198,Share capital,12  Mar-19,92.0,ADHT
+199,"""Free"" reserves",12  Mar-19,452.0,ADHT
+200,Net worth,12  Mar-19,545.0,ADHT
+201,Long term debt,12  Mar-19,4.0,ADHT
+202,Total assets,12  Mar-19,761.0,ADHT
+203,Interest coverage,12  Mar-19,233.0,ADHT
+204,Debt to equity ratio,12  Mar-19,0.0,ADHT
+205,Sales to assets ratio,12  Mar-19,0.9,ADHT
+206,Return on assets,12  Mar-19,15.0,ADHT
+207,Return on equity,12  Mar-19,20.9,ADHT
+208,Return on capital,12  Mar-19,25.5,ADHT
+209,Exports to sales,12  Mar-19,0.0,ADHT
+210,Imports to sales,12  Mar-19,0.0,ADHT
+211,Exports (fob),12  Mar-19,0.0,ADHT
+212,Imports (cif),12  Mar-19,0.0,ADHT
+213,Fx inflow,12  Mar-19,118.0,ADHT
+214,Fx outflow,12  Mar-19,18.0,ADHT
+215,Net fx,12  Mar-19,100.0,ADHT
+216,From Operations,12  Mar-19,114.0,ADHT
+217,From Investments,12  Mar-19,-198.0,ADHT
+218,From Financial Activity,12  Mar-19,-36.0,ADHT
+219,Net Cashflow,12  Mar-19,-119.0,ADHT

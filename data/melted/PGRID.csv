@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,176585.0,PGRID
+1,Other income,12  Mar-15*,5745.0,PGRID
+2,Total revenues,12  Mar-15*,182330.0,PGRID
+3,Gross profit,12  Mar-15*,159023.0,PGRID
+4,Depreciation,12  Mar-15*,51733.0,PGRID
+5,Interest,12  Mar-15*,40812.0,PGRID
+6,Profit before tax,12  Mar-15*,72223.0,PGRID
+7,Minority Interest,12  Mar-15*,0.0,PGRID
+8,Prior Period Items,12  Mar-15*,-472.0,PGRID
+9,Extraordinary Inc (Exp),12  Mar-15*,-51.0,PGRID
+10,Tax,12  Mar-15*,21237.0,PGRID
+11,Profit after tax,12  Mar-15*,50463.0,PGRID
+12,Gross profit margin,12  Mar-15*,90.1,PGRID
+13,Effective tax rate,12  Mar-15*,29.4,PGRID
+14,Net profit margin,12  Mar-15*,28.6,PGRID
+15,Current assets,12  Mar-15*,85220.0,PGRID
+16,Current liabilities,12  Mar-15*,218396.0,PGRID
+17,Net working cap to sales,12  Mar-15*,-75.4,PGRID
+18,Current ratio,12  Mar-15*,0.4,PGRID
+19,Inventory Days,12  Mar-15*,13.0,PGRID
+20,Debtors Days,12  Mar-15*,44.0,PGRID
+21,Net fixed assets,12  Mar-15*,1430279.0,PGRID
+22,Share capital,12  Mar-15*,52316.0,PGRID
+23,"""Free"" reserves",12  Mar-15*,342871.0,PGRID
+24,Net worth,12  Mar-15*,395187.0,PGRID
+25,Long term debt,12  Mar-15*,893118.0,PGRID
+26,Total assets,12  Mar-15*,1595545.0,PGRID
+27,Interest coverage,12  Mar-15*,2.8,PGRID
+28,Debt to equity ratio,12  Mar-15*,2.3,PGRID
+29,Sales to assets ratio,12  Mar-15*,0.1,PGRID
+30,Return on assets,12  Mar-15*,5.7,PGRID
+31,Return on equity,12  Mar-15*,12.8,PGRID
+32,Return on capital,12  Mar-15*,8.7,PGRID
+33,Exports to sales,12  Mar-15*,0.0,PGRID
+34,Imports to sales,12  Mar-15*,21.1,PGRID
+35,Exports (fob),12  Mar-15*,0.0,PGRID
+36,Imports (cif),12  Mar-15*,37318.0,PGRID
+37,Fx inflow,12  Mar-15*,380.0,PGRID
+38,Fx outflow,12  Mar-15*,41565.0,PGRID
+39,Net fx,12  Mar-15*,-41184.0,PGRID
+40,From Operations,12  Mar-15*,158001.0,PGRID
+41,From Investments,12  Mar-15*,-241847.0,PGRID
+42,From Financial Activity,12  Mar-15*,63988.0,PGRID
+43,Net Cashflow,12  Mar-15*,-19858.0,PGRID
+44,Net Sales,12  Mar-16*,206521.0,PGRID
+45,Other income,12  Mar-16*,4663.0,PGRID
+46,Total revenues,12  Mar-16*,211184.0,PGRID
+47,Gross profit,12  Mar-16*,183734.0,PGRID
+48,Depreciation,12  Mar-16*,61818.0,PGRID
+49,Interest,12  Mar-16*,50862.0,PGRID
+50,Profit before tax,12  Mar-16*,75716.0,PGRID
+51,Minority Interest,12  Mar-16*,0.0,PGRID
+52,Prior Period Items,12  Mar-16*,0.0,PGRID
+53,Extraordinary Inc (Exp),12  Mar-16*,-1.0,PGRID
+54,Tax,12  Mar-16*,16129.0,PGRID
+55,Profit after tax,12  Mar-16*,59586.0,PGRID
+56,Gross profit margin,12  Mar-16*,89.0,PGRID
+57,Effective tax rate,12  Mar-16*,21.3,PGRID
+58,Net profit margin,12  Mar-16*,28.9,PGRID
+59,Current assets,12  Mar-16*,96026.0,PGRID
+60,Current liabilities,12  Mar-16*,246886.0,PGRID
+61,Net working cap to sales,12  Mar-16*,-73.0,PGRID
+62,Current ratio,12  Mar-16*,0.4,PGRID
+63,Inventory Days,12  Mar-16*,13.0,PGRID
+64,Debtors Days,12  Mar-16*,48.0,PGRID
+65,Net fixed assets,12  Mar-16*,1607052.0,PGRID
+66,Share capital,12  Mar-16*,52316.0,PGRID
+67,"""Free"" reserves",12  Mar-16*,387383.0,PGRID
+68,Net worth,12  Mar-16*,439699.0,PGRID
+69,Long term debt,12  Mar-16*,1004633.0,PGRID
+70,Total assets,12  Mar-16*,1792917.0,PGRID
+71,Interest coverage,12  Mar-16*,2.5,PGRID
+72,Debt to equity ratio,12  Mar-16*,2.3,PGRID
+73,Sales to assets ratio,12  Mar-16*,0.1,PGRID
+74,Return on assets,12  Mar-16*,6.2,PGRID
+75,Return on equity,12  Mar-16*,13.6,PGRID
+76,Return on capital,12  Mar-16*,8.8,PGRID
+77,Exports to sales,12  Mar-16*,0.0,PGRID
+78,Imports to sales,12  Mar-16*,12.1,PGRID
+79,Exports (fob),12  Mar-16*,0.0,PGRID
+80,Imports (cif),12  Mar-16*,24974.0,PGRID
+81,Fx inflow,12  Mar-16*,203.0,PGRID
+82,Fx outflow,12  Mar-16*,29663.0,PGRID
+83,Net fx,12  Mar-16*,-29460.0,PGRID
+84,From Operations,12  Mar-16*,150081.0,PGRID
+85,From Investments,12  Mar-16*,-215765.0,PGRID
+86,From Financial Activity,12  Mar-16*,56208.0,PGRID
+87,Net Cashflow,12  Mar-16*,-9476.0,PGRID
+88,Net Sales,12  Mar-17*,256974.0,PGRID
+89,Other income,12  Mar-17*,5855.0,PGRID
+90,Total revenues,12  Mar-17*,262830.0,PGRID
+91,Gross profit,12  Mar-17*,227274.0,PGRID
+92,Depreciation,12  Mar-17*,77223.0,PGRID
+93,Interest,12  Mar-17*,62036.0,PGRID
+94,Profit before tax,12  Mar-17*,93871.0,PGRID
+95,Minority Interest,12  Mar-17*,0.0,PGRID
+96,Prior Period Items,12  Mar-17*,699.0,PGRID
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PGRID
+98,Tax,12  Mar-17*,20063.0,PGRID
+99,Profit after tax,12  Mar-17*,74507.0,PGRID
+100,Gross profit margin,12  Mar-17*,88.4,PGRID
+101,Effective tax rate,12  Mar-17*,21.4,PGRID
+102,Net profit margin,12  Mar-17*,29.0,PGRID
+103,Current assets,12  Mar-17*,109749.0,PGRID
+104,Current liabilities,12  Mar-17*,252686.0,PGRID
+105,Net working cap to sales,12  Mar-17*,-55.6,PGRID
+106,Current ratio,12  Mar-17*,0.4,PGRID
+107,Inventory Days,12  Mar-17*,13.0,PGRID
+108,Debtors Days,12  Mar-17*,44.0,PGRID
+109,Net fixed assets,12  Mar-17*,1759422.0,PGRID
+110,Share capital,12  Mar-17*,52316.0,PGRID
+111,"""Free"" reserves",12  Mar-17*,446339.0,PGRID
+112,Net worth,12  Mar-17*,498655.0,PGRID
+113,Long term debt,12  Mar-17*,1112532.0,PGRID
+114,Total assets,12  Mar-17*,1956450.0,PGRID
+115,Interest coverage,12  Mar-17*,2.5,PGRID
+116,Debt to equity ratio,12  Mar-17*,2.2,PGRID
+117,Sales to assets ratio,12  Mar-17*,0.1,PGRID
+118,Return on assets,12  Mar-17*,7.0,PGRID
+119,Return on equity,12  Mar-17*,14.9,PGRID
+120,Return on capital,12  Mar-17*,9.7,PGRID
+121,Exports to sales,12  Mar-17*,0.0,PGRID
+122,Imports to sales,12  Mar-17*,0.0,PGRID
+123,Exports (fob),12  Mar-17*,0.0,PGRID
+124,Imports (cif),12  Mar-17*,0.0,PGRID
+125,Fx inflow,12  Mar-17*,233.0,PGRID
+126,Fx outflow,12  Mar-17*,39516.0,PGRID
+127,Net fx,12  Mar-17*,-39282.0,PGRID
+128,From Operations,12  Mar-17*,215753.0,PGRID
+129,From Investments,12  Mar-17*,-238360.0,PGRID
+130,From Financial Activity,12  Mar-17*,39586.0,PGRID
+131,Net Cashflow,12  Mar-17*,16979.0,PGRID
+132,Net Sales,12  Mar-18*,299536.0,PGRID
+133,Other income,12  Mar-18*,4769.0,PGRID
+134,Total revenues,12  Mar-18*,304305.0,PGRID
+135,Gross profit,12  Mar-18*,261168.0,PGRID
+136,Depreciation,12  Mar-18*,92310.0,PGRID
+137,Interest,12  Mar-18*,73241.0,PGRID
+138,Profit before tax,12  Mar-18*,100386.0,PGRID
+139,Minority Interest,12  Mar-18*,1479.0,PGRID
+140,Prior Period Items,12  Mar-18*,0.0,PGRID
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PGRID
+142,Tax,12  Mar-18*,52668.0,PGRID
+143,Profit after tax,12  Mar-18*,49198.0,PGRID
+144,Gross profit margin,12  Mar-18*,87.2,PGRID
+145,Effective tax rate,12  Mar-18*,52.5,PGRID
+146,Net profit margin,12  Mar-18*,16.4,PGRID
+147,Current assets,12  Mar-18*,121670.0,PGRID
+148,Current liabilities,12  Mar-18*,281059.0,PGRID
+149,Net working cap to sales,12  Mar-18*,-53.2,PGRID
+150,Current ratio,12  Mar-18*,0.4,PGRID
+151,Inventory Days,12  Mar-18*,13.0,PGRID
+152,Debtors Days,12  Mar-18*,44.0,PGRID
+153,Net fixed assets,12  Mar-18*,1949620.0,PGRID
+154,Share capital,12  Mar-18*,52316.0,PGRID
+155,"""Free"" reserves",12  Mar-18*,491944.0,PGRID
+156,Net worth,12  Mar-18*,544260.0,PGRID
+157,Long term debt,12  Mar-18*,1227103.0,PGRID
+158,Total assets,12  Mar-18*,2253161.0,PGRID
+159,Interest coverage,12  Mar-18*,2.4,PGRID
+160,Debt to equity ratio,12  Mar-18*,2.3,PGRID
+161,Sales to assets ratio,12  Mar-18*,0.1,PGRID
+162,Return on assets,12  Mar-18*,5.4,PGRID
+163,Return on equity,12  Mar-18*,9.0,PGRID
+164,Return on capital,12  Mar-18*,9.9,PGRID
+165,Exports to sales,12  Mar-18*,0.0,PGRID
+166,Imports to sales,12  Mar-18*,0.0,PGRID
+167,Exports (fob),12  Mar-18*,0.0,PGRID
+168,Imports (cif),12  Mar-18*,0.0,PGRID
+169,Fx inflow,12  Mar-18*,260.0,PGRID
+170,Fx outflow,12  Mar-18*,35817.0,PGRID
+171,Net fx,12  Mar-18*,-35557.0,PGRID
+172,From Operations,12  Mar-18*,227101.0,PGRID
+173,From Investments,12  Mar-18*,-257015.0,PGRID
+174,From Financial Activity,12  Mar-18*,12847.0,PGRID
+175,Net Cashflow,12  Mar-18*,-17067.0,PGRID
+176,Net Sales,12  Mar-19*,350591.0,PGRID
+177,Other income,12  Mar-19*,6022.0,PGRID
+178,Total revenues,12  Mar-19*,356613.0,PGRID
+179,Gross profit,12  Mar-19*,303494.0,PGRID
+180,Depreciation,12  Mar-19*,105410.0,PGRID
+181,Interest,12  Mar-19*,87366.0,PGRID
+182,Profit before tax,12  Mar-19*,116740.0,PGRID
+183,Minority Interest,12  Mar-19*,1288.0,PGRID
+184,Prior Period Items,12  Mar-19*,0.0,PGRID
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PGRID
+186,Tax,12  Mar-19*,-8864.0,PGRID
+187,Profit after tax,12  Mar-19*,126892.0,PGRID
+188,Gross profit margin,12  Mar-19*,86.6,PGRID
+189,Effective tax rate,12  Mar-19*,-7.6,PGRID
+190,Net profit margin,12  Mar-19*,36.2,PGRID
+191,Current assets,12  Mar-19*,176619.0,PGRID
+192,Current liabilities,12  Mar-19*,326149.0,PGRID
+193,Net working cap to sales,12  Mar-19*,-42.7,PGRID
+194,Current ratio,12  Mar-19*,0.5,PGRID
+195,Inventory Days,12  Mar-19*,13.0,PGRID
+196,Debtors Days,12  Mar-19*,49.0,PGRID
+197,Net fixed assets,12  Mar-19*,2115373.0,PGRID
+198,Share capital,12  Mar-19*,52316.0,PGRID
+199,"""Free"" reserves",12  Mar-19*,538568.0,PGRID
+200,Net worth,12  Mar-19*,590884.0,PGRID
+201,Long term debt,12  Mar-19*,1313295.0,PGRID
+202,Total assets,12  Mar-19*,2473576.0,PGRID
+203,Interest coverage,12  Mar-19*,2.3,PGRID
+204,Debt to equity ratio,12  Mar-19*,2.2,PGRID
+205,Sales to assets ratio,12  Mar-19*,0.1,PGRID
+206,Return on assets,12  Mar-19*,8.7,PGRID
+207,Return on equity,12  Mar-19*,21.5,PGRID
+208,Return on capital,12  Mar-19*,10.8,PGRID
+209,Exports to sales,12  Mar-19*,0.0,PGRID
+210,Imports to sales,12  Mar-19*,0.0,PGRID
+211,Exports (fob),12  Mar-19*,0.0,PGRID
+212,Imports (cif),12  Mar-19*,0.0,PGRID
+213,Fx inflow,12  Mar-19*,249.0,PGRID
+214,Fx outflow,12  Mar-19*,58364.0,PGRID
+215,Net fx,12  Mar-19*,-58115.0,PGRID
+216,From Operations,12  Mar-19*,233807.0,PGRID
+217,From Investments,12  Mar-19*,-188370.0,PGRID
+218,From Financial Activity,12  Mar-19*,-24308.0,PGRID
+219,Net Cashflow,12  Mar-19*,21129.0,PGRID

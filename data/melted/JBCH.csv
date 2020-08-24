@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,10219.0,JBCH
+1,Other income,12  Mar-14*,377.0,JBCH
+2,Total revenues,12  Mar-14*,10596.0,JBCH
+3,Gross profit,12  Mar-14*,1485.0,JBCH
+4,Depreciation,12  Mar-14*,280.0,JBCH
+5,Interest,12  Mar-14*,62.0,JBCH
+6,Profit before tax,12  Mar-14*,1520.0,JBCH
+7,Minority Interest,12  Mar-14*,0.0,JBCH
+8,Prior Period Items,12  Mar-14*,21.0,JBCH
+9,Extraordinary Inc (Exp),12  Mar-14*,-645.0,JBCH
+10,Tax,12  Mar-14*,281.0,JBCH
+11,Profit after tax,12  Mar-14*,615.0,JBCH
+12,Gross profit margin,12  Mar-14*,14.5,JBCH
+13,Effective tax rate,12  Mar-14*,18.5,JBCH
+14,Net profit margin,12  Mar-14*,6.0,JBCH
+15,Current assets,12  Mar-14*,9807.0,JBCH
+16,Current liabilities,12  Mar-14*,2763.0,JBCH
+17,Net working cap to sales,12  Mar-14*,68.9,JBCH
+18,Current ratio,12  Mar-14*,3.5,JBCH
+19,Inventory Days,12  Mar-14*,48.0,JBCH
+20,Debtors Days,12  Mar-14*,84.0,JBCH
+21,Net fixed assets,12  Mar-14*,3569.0,JBCH
+22,Share capital,12  Mar-14*,169.0,JBCH
+23,"""Free"" reserves",12  Mar-14*,10037.0,JBCH
+24,Net worth,12  Mar-14*,10428.0,JBCH
+25,Long term debt,12  Mar-14*,5.0,JBCH
+26,Total assets,12  Mar-14*,13510.0,JBCH
+27,Interest coverage,12  Mar-14*,25.4,JBCH
+28,Debt to equity ratio,12  Mar-14*,0.0,JBCH
+29,Sales to assets ratio,12  Mar-14*,0.8,JBCH
+30,Return on assets,12  Mar-14*,5.0,JBCH
+31,Return on equity,12  Mar-14*,5.9,JBCH
+32,Return on capital,12  Mar-14*,9.2,JBCH
+33,Exports to sales,12  Mar-14*,54.3,JBCH
+34,Imports to sales,12  Mar-14*,8.4,JBCH
+35,Exports (fob),12  Mar-14*,5546.0,JBCH
+36,Imports (cif),12  Mar-14*,861.0,JBCH
+37,Fx inflow,12  Mar-14*,5605.0,JBCH
+38,Fx outflow,12  Mar-14*,1569.0,JBCH
+39,Net fx,12  Mar-14*,4037.0,JBCH
+40,From Operations,12  Mar-14*,-140.0,JBCH
+41,From Investments,12  Mar-14*,-1425.0,JBCH
+42,From Financial Activity,12  Mar-14*,120.0,JBCH
+43,Net Cashflow,12  Mar-14*,-1444.0,JBCH
+44,Net Sales,12  Mar-15*,11442.0,JBCH
+45,Other income,12  Mar-15*,109.0,JBCH
+46,Total revenues,12  Mar-15*,11551.0,JBCH
+47,Gross profit,12  Mar-15*,1792.0,JBCH
+48,Depreciation,12  Mar-15*,386.0,JBCH
+49,Interest,12  Mar-15*,59.0,JBCH
+50,Profit before tax,12  Mar-15*,1456.0,JBCH
+51,Minority Interest,12  Mar-15*,0.0,JBCH
+52,Prior Period Items,12  Mar-15*,0.0,JBCH
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,JBCH
+54,Tax,12  Mar-15*,451.0,JBCH
+55,Profit after tax,12  Mar-15*,1004.0,JBCH
+56,Gross profit margin,12  Mar-15*,15.7,JBCH
+57,Effective tax rate,12  Mar-15*,31.0,JBCH
+58,Net profit margin,12  Mar-15*,8.8,JBCH
+59,Current assets,12  Mar-15*,9009.0,JBCH
+60,Current liabilities,12  Mar-15*,4598.0,JBCH
+61,Net working cap to sales,12  Mar-15*,38.6,JBCH
+62,Current ratio,12  Mar-15*,2.0,JBCH
+63,Inventory Days,12  Mar-15*,48.0,JBCH
+64,Debtors Days,12  Mar-15*,84.0,JBCH
+65,Net fixed assets,12  Mar-15*,3838.0,JBCH
+66,Share capital,12  Mar-15*,170.0,JBCH
+67,"""Free"" reserves",12  Mar-15*,9531.0,JBCH
+68,Net worth,12  Mar-15*,9949.0,JBCH
+69,Long term debt,12  Mar-15*,4.0,JBCH
+70,Total assets,12  Mar-15*,14872.0,JBCH
+71,Interest coverage,12  Mar-15*,25.5,JBCH
+72,Debt to equity ratio,12  Mar-15*,0.0,JBCH
+73,Sales to assets ratio,12  Mar-15*,0.8,JBCH
+74,Return on assets,12  Mar-15*,7.2,JBCH
+75,Return on equity,12  Mar-15*,10.1,JBCH
+76,Return on capital,12  Mar-15*,15.2,JBCH
+77,Exports to sales,12  Mar-15*,50.6,JBCH
+78,Imports to sales,12  Mar-15*,8.8,JBCH
+79,Exports (fob),12  Mar-15*,5787.0,JBCH
+80,Imports (cif),12  Mar-15*,1006.0,JBCH
+81,Fx inflow,12  Mar-15*,5833.0,JBCH
+82,Fx outflow,12  Mar-15*,1388.0,JBCH
+83,Net fx,12  Mar-15*,4445.0,JBCH
+84,From Operations,12  Mar-15*,1267.0,JBCH
+85,From Investments,12  Mar-15*,-1119.0,JBCH
+86,From Financial Activity,12  Mar-15*,-14.0,JBCH
+87,Net Cashflow,12  Mar-15*,134.0,JBCH
+88,Net Sales,12  Mar-16*,12551.0,JBCH
+89,Other income,12  Mar-16*,542.0,JBCH
+90,Total revenues,12  Mar-16*,13093.0,JBCH
+91,Gross profit,12  Mar-16*,2055.0,JBCH
+92,Depreciation,12  Mar-16*,412.0,JBCH
+93,Interest,12  Mar-16*,96.0,JBCH
+94,Profit before tax,12  Mar-16*,2088.0,JBCH
+95,Minority Interest,12  Mar-16*,0.0,JBCH
+96,Prior Period Items,12  Mar-16*,0.0,JBCH
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,JBCH
+98,Tax,12  Mar-16*,469.0,JBCH
+99,Profit after tax,12  Mar-16*,1619.0,JBCH
+100,Gross profit margin,12  Mar-16*,16.4,JBCH
+101,Effective tax rate,12  Mar-16*,22.5,JBCH
+102,Net profit margin,12  Mar-16*,12.9,JBCH
+103,Current assets,12  Mar-16*,7778.0,JBCH
+104,Current liabilities,12  Mar-16*,4358.0,JBCH
+105,Net working cap to sales,12  Mar-16*,27.2,JBCH
+106,Current ratio,12  Mar-16*,1.8,JBCH
+107,Inventory Days,12  Mar-16*,55.0,JBCH
+108,Debtors Days,12  Mar-16*,80.0,JBCH
+109,Net fixed assets,12  Mar-16*,5713.0,JBCH
+110,Share capital,12  Mar-16*,170.0,JBCH
+111,"""Free"" reserves",12  Mar-16*,10547.0,JBCH
+112,Net worth,12  Mar-16*,10937.0,JBCH
+113,Long term debt,12  Mar-16*,0.0,JBCH
+114,Total assets,12  Mar-16*,15574.0,JBCH
+115,Interest coverage,12  Mar-16*,22.8,JBCH
+116,Debt to equity ratio,12  Mar-16*,0.0,JBCH
+117,Sales to assets ratio,12  Mar-16*,0.8,JBCH
+118,Return on assets,12  Mar-16*,11.0,JBCH
+119,Return on equity,12  Mar-16*,14.8,JBCH
+120,Return on capital,12  Mar-16*,20.0,JBCH
+121,Exports to sales,12  Mar-16*,48.7,JBCH
+122,Imports to sales,12  Mar-16*,7.1,JBCH
+123,Exports (fob),12  Mar-16*,6115.0,JBCH
+124,Imports (cif),12  Mar-16*,889.0,JBCH
+125,Fx inflow,12  Mar-16*,6169.0,JBCH
+126,Fx outflow,12  Mar-16*,1285.0,JBCH
+127,Net fx,12  Mar-16*,4884.0,JBCH
+128,From Operations,12  Mar-16*,1397.0,JBCH
+129,From Investments,12  Mar-16*,-320.0,JBCH
+130,From Financial Activity,12  Mar-16*,-1196.0,JBCH
+131,Net Cashflow,12  Mar-16*,-102.0,JBCH
+132,Net Sales,12  Mar-17*,13683.0,JBCH
+133,Other income,12  Mar-17*,502.0,JBCH
+134,Total revenues,12  Mar-17*,14185.0,JBCH
+135,Gross profit,12  Mar-17*,2324.0,JBCH
+136,Depreciation,12  Mar-17*,472.0,JBCH
+137,Interest,12  Mar-17*,54.0,JBCH
+138,Profit before tax,12  Mar-17*,2299.0,JBCH
+139,Minority Interest,12  Mar-17*,0.0,JBCH
+140,Prior Period Items,12  Mar-17*,0.0,JBCH
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,JBCH
+142,Tax,12  Mar-17*,455.0,JBCH
+143,Profit after tax,12  Mar-17*,1844.0,JBCH
+144,Gross profit margin,12  Mar-17*,17.0,JBCH
+145,Effective tax rate,12  Mar-17*,19.8,JBCH
+146,Net profit margin,12  Mar-17*,13.5,JBCH
+147,Current assets,12  Mar-17*,7949.0,JBCH
+148,Current liabilities,12  Mar-17*,2812.0,JBCH
+149,Net working cap to sales,12  Mar-17*,37.5,JBCH
+150,Current ratio,12  Mar-17*,2.8,JBCH
+151,Inventory Days,12  Mar-17*,53.0,JBCH
+152,Debtors Days,12  Mar-17*,71.0,JBCH
+153,Net fixed assets,12  Mar-17*,6010.0,JBCH
+154,Share capital,12  Mar-17*,170.0,JBCH
+155,"""Free"" reserves",12  Mar-17*,13467.0,JBCH
+156,Net worth,12  Mar-17*,13637.0,JBCH
+157,Long term debt,12  Mar-17*,0.0,JBCH
+158,Total assets,12  Mar-17*,16740.0,JBCH
+159,Interest coverage,12  Mar-17*,43.8,JBCH
+160,Debt to equity ratio,12  Mar-17*,0.0,JBCH
+161,Sales to assets ratio,12  Mar-17*,0.8,JBCH
+162,Return on assets,12  Mar-17*,11.3,JBCH
+163,Return on equity,12  Mar-17*,13.5,JBCH
+164,Return on capital,12  Mar-17*,17.3,JBCH
+165,Exports to sales,12  Mar-17*,0.0,JBCH
+166,Imports to sales,12  Mar-17*,0.0,JBCH
+167,Exports (fob),12  Mar-17*,0.0,JBCH
+168,Imports (cif),12  Mar-17*,0.0,JBCH
+169,Fx inflow,12  Mar-17*,6369.0,JBCH
+170,Fx outflow,12  Mar-17*,1497.0,JBCH
+171,Net fx,12  Mar-17*,4872.0,JBCH
+172,From Operations,12  Mar-17*,2011.0,JBCH
+173,From Investments,12  Mar-17*,-453.0,JBCH
+174,From Financial Activity,12  Mar-17*,-1838.0,JBCH
+175,Net Cashflow,12  Mar-17*,-280.0,JBCH
+176,Net Sales,12  Mar-18*,14135.0,JBCH
+177,Other income,12  Mar-18*,366.0,JBCH
+178,Total revenues,12  Mar-18*,14501.0,JBCH
+179,Gross profit,12  Mar-18*,2178.0,JBCH
+180,Depreciation,12  Mar-18*,570.0,JBCH
+181,Interest,12  Mar-18*,35.0,JBCH
+182,Profit before tax,12  Mar-18*,1940.0,JBCH
+183,Minority Interest,12  Mar-18*,0.0,JBCH
+184,Prior Period Items,12  Mar-18*,0.0,JBCH
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,JBCH
+186,Tax,12  Mar-18*,552.0,JBCH
+187,Profit after tax,12  Mar-18*,1387.0,JBCH
+188,Gross profit margin,12  Mar-18*,15.4,JBCH
+189,Effective tax rate,12  Mar-18*,28.5,JBCH
+190,Net profit margin,12  Mar-18*,9.8,JBCH
+191,Current assets,12  Mar-18*,10470.0,JBCH
+192,Current liabilities,12  Mar-18*,2749.0,JBCH
+193,Net working cap to sales,12  Mar-18*,54.6,JBCH
+194,Current ratio,12  Mar-18*,3.8,JBCH
+195,Inventory Days,12  Mar-18*,55.0,JBCH
+196,Debtors Days,12  Mar-18*,78.0,JBCH
+197,Net fixed assets,12  Mar-18*,5811.0,JBCH
+198,Share capital,12  Mar-18*,167.0,JBCH
+199,"""Free"" reserves",12  Mar-18*,14248.0,JBCH
+200,Net worth,12  Mar-18*,14416.0,JBCH
+201,Long term debt,12  Mar-18*,0.0,JBCH
+202,Total assets,12  Mar-18*,17649.0,JBCH
+203,Interest coverage,12  Mar-18*,56.6,JBCH
+204,Debt to equity ratio,12  Mar-18*,0.0,JBCH
+205,Sales to assets ratio,12  Mar-18*,0.8,JBCH
+206,Return on assets,12  Mar-18*,8.1,JBCH
+207,Return on equity,12  Mar-18*,9.6,JBCH
+208,Return on capital,12  Mar-18*,13.7,JBCH
+209,Exports to sales,12  Mar-18*,0.0,JBCH
+210,Imports to sales,12  Mar-18*,0.0,JBCH
+211,Exports (fob),12  Mar-18*,0.0,JBCH
+212,Imports (cif),12  Mar-18*,0.0,JBCH
+213,Fx inflow,12  Mar-18*,6164.0,JBCH
+214,Fx outflow,12  Mar-18*,1334.0,JBCH
+215,Net fx,12  Mar-18*,4829.0,JBCH
+216,From Operations,12  Mar-18*,1231.0,JBCH
+217,From Investments,12  Mar-18*,-208.0,JBCH
+218,From Financial Activity,12  Mar-18*,-595.0,JBCH
+219,Net Cashflow,12  Mar-18*,427.0,JBCH

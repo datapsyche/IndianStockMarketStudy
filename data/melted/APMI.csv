@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,3045.0,APMI
+1,Other income,12  Mar-14,30.0,APMI
+2,Total revenues,12  Mar-14,3075.0,APMI
+3,Gross profit,12  Mar-14,376.0,APMI
+4,Depreciation,12  Mar-14,47.0,APMI
+5,Interest,12  Mar-14,26.0,APMI
+6,Profit before tax,12  Mar-14,333.0,APMI
+7,Minority Interest,12  Mar-14,0.0,APMI
+8,Prior Period Items,12  Mar-14,0.0,APMI
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,APMI
+10,Tax,12  Mar-14,119.0,APMI
+11,Profit after tax,12  Mar-14,214.0,APMI
+12,Gross profit margin,12  Mar-14,12.3,APMI
+13,Effective tax rate,12  Mar-14,35.6,APMI
+14,Net profit margin,12  Mar-14,7.0,APMI
+15,Current assets,12  Mar-14,811.0,APMI
+16,Current liabilities,12  Mar-14,329.0,APMI
+17,Net working cap to sales,12  Mar-14,15.8,APMI
+18,Current ratio,12  Mar-14,2.5,APMI
+19,Inventory Days,12  Mar-14,51.0,APMI
+20,Debtors Days,12  Mar-14,31.0,APMI
+21,Net fixed assets,12  Mar-14,1213.0,APMI
+22,Share capital,12  Mar-14,43.0,APMI
+23,"""Free"" reserves",12  Mar-14,978.0,APMI
+24,Net worth,12  Mar-14,1681.0,APMI
+25,Long term debt,12  Mar-14,73.0,APMI
+26,Total assets,12  Mar-14,2165.0,APMI
+27,Interest coverage,12  Mar-14,13.7,APMI
+28,Debt to equity ratio,12  Mar-14,0.0,APMI
+29,Sales to assets ratio,12  Mar-14,1.4,APMI
+30,Return on assets,12  Mar-14,11.1,APMI
+31,Return on equity,12  Mar-14,12.7,APMI
+32,Return on capital,12  Mar-14,20.5,APMI
+33,Exports to sales,12  Mar-14,0.0,APMI
+34,Imports to sales,12  Mar-14,0.1,APMI
+35,Exports (fob),12  Mar-14,0.0,APMI
+36,Imports (cif),12  Mar-14,3.0,APMI
+37,Fx inflow,12  Mar-14,16.0,APMI
+38,Fx outflow,12  Mar-14,3.0,APMI
+39,Net fx,12  Mar-14,12.0,APMI
+40,From Operations,12  Mar-14,322.0,APMI
+41,From Investments,12  Mar-14,-89.0,APMI
+42,From Financial Activity,12  Mar-14,-232.0,APMI
+43,Net Cashflow,12  Mar-14,2.0,APMI
+44,Net Sales,12  Mar-15,3134.0,APMI
+45,Other income,12  Mar-15,26.0,APMI
+46,Total revenues,12  Mar-15,3160.0,APMI
+47,Gross profit,12  Mar-15,309.0,APMI
+48,Depreciation,12  Mar-15,30.0,APMI
+49,Interest,12  Mar-15,19.0,APMI
+50,Profit before tax,12  Mar-15,288.0,APMI
+51,Minority Interest,12  Mar-15,0.0,APMI
+52,Prior Period Items,12  Mar-15,0.0,APMI
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,APMI
+54,Tax,12  Mar-15,99.0,APMI
+55,Profit after tax,12  Mar-15,189.0,APMI
+56,Gross profit margin,12  Mar-15,9.9,APMI
+57,Effective tax rate,12  Mar-15,34.4,APMI
+58,Net profit margin,12  Mar-15,6.0,APMI
+59,Current assets,12  Mar-15,808.0,APMI
+60,Current liabilities,12  Mar-15,406.0,APMI
+61,Net working cap to sales,12  Mar-15,12.8,APMI
+62,Current ratio,12  Mar-15,2.0,APMI
+63,Inventory Days,12  Mar-15,47.0,APMI
+64,Debtors Days,12  Mar-15,27.0,APMI
+65,Net fixed assets,12  Mar-15,1194.0,APMI
+66,Share capital,12  Mar-15,43.0,APMI
+67,"""Free"" reserves",12  Mar-15,1745.0,APMI
+68,Net worth,12  Mar-15,1788.0,APMI
+69,Long term debt,12  Mar-15,36.0,APMI
+70,Total assets,12  Mar-15,2323.0,APMI
+71,Interest coverage,12  Mar-15,16.4,APMI
+72,Debt to equity ratio,12  Mar-15,0.0,APMI
+73,Sales to assets ratio,12  Mar-15,1.3,APMI
+74,Return on assets,12  Mar-15,8.9,APMI
+75,Return on equity,12  Mar-15,10.5,APMI
+76,Return on capital,12  Mar-15,16.8,APMI
+77,Exports to sales,12  Mar-15,0.0,APMI
+78,Imports to sales,12  Mar-15,0.2,APMI
+79,Exports (fob),12  Mar-15,0.0,APMI
+80,Imports (cif),12  Mar-15,6.0,APMI
+81,Fx inflow,12  Mar-15,16.0,APMI
+82,Fx outflow,12  Mar-15,6.0,APMI
+83,Net fx,12  Mar-15,9.0,APMI
+84,From Operations,12  Mar-15,300.0,APMI
+85,From Investments,12  Mar-15,-197.0,APMI
+86,From Financial Activity,12  Mar-15,-88.0,APMI
+87,Net Cashflow,12  Mar-15,15.0,APMI
+88,Net Sales,12  Mar-16,2665.0,APMI
+89,Other income,12  Mar-16,42.0,APMI
+90,Total revenues,12  Mar-16,2707.0,APMI
+91,Gross profit,12  Mar-16,309.0,APMI
+92,Depreciation,12  Mar-16,30.0,APMI
+93,Interest,12  Mar-16,15.0,APMI
+94,Profit before tax,12  Mar-16,306.0,APMI
+95,Minority Interest,12  Mar-16,0.0,APMI
+96,Prior Period Items,12  Mar-16,0.0,APMI
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,APMI
+98,Tax,12  Mar-16,105.0,APMI
+99,Profit after tax,12  Mar-16,201.0,APMI
+100,Gross profit margin,12  Mar-16,11.6,APMI
+101,Effective tax rate,12  Mar-16,34.3,APMI
+102,Net profit margin,12  Mar-16,7.5,APMI
+103,Current assets,12  Mar-16,799.0,APMI
+104,Current liabilities,12  Mar-16,481.0,APMI
+105,Net working cap to sales,12  Mar-16,11.9,APMI
+106,Current ratio,12  Mar-16,1.7,APMI
+107,Inventory Days,12  Mar-16,58.0,APMI
+108,Debtors Days,12  Mar-16,33.0,APMI
+109,Net fixed assets,12  Mar-16,1206.0,APMI
+110,Share capital,12  Mar-16,43.0,APMI
+111,"""Free"" reserves",12  Mar-16,1845.0,APMI
+112,Net worth,12  Mar-16,1888.0,APMI
+113,Long term debt,12  Mar-16,52.0,APMI
+114,Total assets,12  Mar-16,2520.0,APMI
+115,Interest coverage,12  Mar-16,21.1,APMI
+116,Debt to equity ratio,12  Mar-16,0.0,APMI
+117,Sales to assets ratio,12  Mar-16,1.1,APMI
+118,Return on assets,12  Mar-16,8.6,APMI
+119,Return on equity,12  Mar-16,10.6,APMI
+120,Return on capital,12  Mar-16,16.5,APMI
+121,Exports to sales,12  Mar-16,0.0,APMI
+122,Imports to sales,12  Mar-16,0.0,APMI
+123,Exports (fob),12  Mar-16,0.0,APMI
+124,Imports (cif),12  Mar-16,0.0,APMI
+125,Fx inflow,12  Mar-16,3.0,APMI
+126,Fx outflow,12  Mar-16,0.0,APMI
+127,Net fx,12  Mar-16,3.0,APMI
+128,From Operations,12  Mar-16,230.0,APMI
+129,From Investments,12  Mar-16,-233.0,APMI
+130,From Financial Activity,12  Mar-16,1.0,APMI
+131,Net Cashflow,12  Mar-16,-3.0,APMI
+132,Net Sales,12  Mar-17*,2476.0,APMI
+133,Other income,12  Mar-17*,108.0,APMI
+134,Total revenues,12  Mar-17*,2584.0,APMI
+135,Gross profit,12  Mar-17*,190.0,APMI
+136,Depreciation,12  Mar-17*,42.0,APMI
+137,Interest,12  Mar-17*,24.0,APMI
+138,Profit before tax,12  Mar-17*,232.0,APMI
+139,Minority Interest,12  Mar-17*,0.0,APMI
+140,Prior Period Items,12  Mar-17*,0.0,APMI
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,APMI
+142,Tax,12  Mar-17*,72.0,APMI
+143,Profit after tax,12  Mar-17*,160.0,APMI
+144,Gross profit margin,12  Mar-17*,7.7,APMI
+145,Effective tax rate,12  Mar-17*,30.9,APMI
+146,Net profit margin,12  Mar-17*,6.5,APMI
+147,Current assets,12  Mar-17*,885.0,APMI
+148,Current liabilities,12  Mar-17*,527.0,APMI
+149,Net working cap to sales,12  Mar-17*,14.4,APMI
+150,Current ratio,12  Mar-17*,1.7,APMI
+151,Inventory Days,12  Mar-17*,69.0,APMI
+152,Debtors Days,12  Mar-17*,41.0,APMI
+153,Net fixed assets,12  Mar-17*,1331.0,APMI
+154,Share capital,12  Mar-17*,43.0,APMI
+155,"""Free"" reserves",12  Mar-17*,1745.0,APMI
+156,Net worth,12  Mar-17*,1788.0,APMI
+157,Long term debt,12  Mar-17*,114.0,APMI
+158,Total assets,12  Mar-17*,2785.0,APMI
+159,Interest coverage,12  Mar-17*,10.7,APMI
+160,Debt to equity ratio,12  Mar-17*,0.1,APMI
+161,Sales to assets ratio,12  Mar-17*,0.9,APMI
+162,Return on assets,12  Mar-17*,6.6,APMI
+163,Return on equity,12  Mar-17*,9.0,APMI
+164,Return on capital,12  Mar-17*,13.5,APMI
+165,Exports to sales,12  Mar-17*,0.0,APMI
+166,Imports to sales,12  Mar-17*,0.0,APMI
+167,Exports (fob),12  Mar-17*,0.0,APMI
+168,Imports (cif),12  Mar-17*,0.0,APMI
+169,Fx inflow,12  Mar-17*,0.0,APMI
+170,Fx outflow,12  Mar-17*,0.0,APMI
+171,Net fx,12  Mar-17*,0.0,APMI
+172,From Operations,12  Mar-17*,75.0,APMI
+173,From Investments,12  Mar-17*,-136.0,APMI
+174,From Financial Activity,12  Mar-17*,62.0,APMI
+175,Net Cashflow,12  Mar-17*,1.0,APMI
+176,Net Sales,12  Mar-18*,2760.0,APMI
+177,Other income,12  Mar-18*,89.0,APMI
+178,Total revenues,12  Mar-18*,2849.0,APMI
+179,Gross profit,12  Mar-18*,184.0,APMI
+180,Depreciation,12  Mar-18*,49.0,APMI
+181,Interest,12  Mar-18*,41.0,APMI
+182,Profit before tax,12  Mar-18*,183.0,APMI
+183,Minority Interest,12  Mar-18*,0.0,APMI
+184,Prior Period Items,12  Mar-18*,0.0,APMI
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,APMI
+186,Tax,12  Mar-18*,56.0,APMI
+187,Profit after tax,12  Mar-18*,128.0,APMI
+188,Gross profit margin,12  Mar-18*,6.7,APMI
+189,Effective tax rate,12  Mar-18*,30.3,APMI
+190,Net profit margin,12  Mar-18*,4.6,APMI
+191,Current assets,12  Mar-18*,834.0,APMI
+192,Current liabilities,12  Mar-18*,543.0,APMI
+193,Net working cap to sales,12  Mar-18*,10.5,APMI
+194,Current ratio,12  Mar-18*,1.5,APMI
+195,Inventory Days,12  Mar-18*,54.0,APMI
+196,Debtors Days,12  Mar-18*,35.0,APMI
+197,Net fixed assets,12  Mar-18*,1468.0,APMI
+198,Share capital,12  Mar-18*,43.0,APMI
+199,"""Free"" reserves",12  Mar-18*,1859.0,APMI
+200,Net worth,12  Mar-18*,1902.0,APMI
+201,Long term debt,12  Mar-18*,167.0,APMI
+202,Total assets,12  Mar-18*,2980.0,APMI
+203,Interest coverage,12  Mar-18*,5.5,APMI
+204,Debt to equity ratio,12  Mar-18*,0.1,APMI
+205,Sales to assets ratio,12  Mar-18*,0.9,APMI
+206,Return on assets,12  Mar-18*,5.7,APMI
+207,Return on equity,12  Mar-18*,6.7,APMI
+208,Return on capital,12  Mar-18*,10.8,APMI
+209,Exports to sales,12  Mar-18*,0.0,APMI
+210,Imports to sales,12  Mar-18*,0.0,APMI
+211,Exports (fob),12  Mar-18*,0.0,APMI
+212,Imports (cif),12  Mar-18*,0.0,APMI
+213,Fx inflow,12  Mar-18*,0.0,APMI
+214,Fx outflow,12  Mar-18*,0.0,APMI
+215,Net fx,12  Mar-18*,0.0,APMI
+216,From Operations,12  Mar-18*,257.0,APMI
+217,From Investments,12  Mar-18*,-259.0,APMI
+218,From Financial Activity,12  Mar-18*,4.0,APMI
+219,Net Cashflow,12  Mar-18*,1.0,APMI

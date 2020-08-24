@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,718148.0,MRPL
+1,Other income,12  Mar-14,3202.0,MRPL
+2,Total revenues,12  Mar-14,721350.0,MRPL
+3,Gross profit,12  Mar-14,10055.0,MRPL
+4,Depreciation,12  Mar-14,7064.0,MRPL
+5,Interest,12  Mar-14,3214.0,MRPL
+6,Profit before tax,12  Mar-14,2978.0,MRPL
+7,Minority Interest,12  Mar-14,0.0,MRPL
+8,Prior Period Items,12  Mar-14,0.0,MRPL
+9,Extraordinary Inc (Exp),12  Mar-14,1119.0,MRPL
+10,Tax,12  Mar-14,-1915.0,MRPL
+11,Profit after tax,12  Mar-14,6012.0,MRPL
+12,Gross profit margin,12  Mar-14,1.4,MRPL
+13,Effective tax rate,12  Mar-14,-64.3,MRPL
+14,Net profit margin,12  Mar-14,0.8,MRPL
+15,Current assets,12  Mar-14,244166.0,MRPL
+16,Current liabilities,12  Mar-14,230764.0,MRPL
+17,Net working cap to sales,12  Mar-14,1.9,MRPL
+18,Current ratio,12  Mar-14,1.1,MRPL
+19,Inventory Days,12  Mar-14,43.0,MRPL
+20,Debtors Days,12  Mar-14,23.0,MRPL
+21,Net fixed assets,12  Mar-14,145430.0,MRPL
+22,Share capital,12  Mar-14,17527.0,MRPL
+23,"""Free"" reserves",12  Mar-14,53162.0,MRPL
+24,Net worth,12  Mar-14,70689.0,MRPL
+25,Long term debt,12  Mar-14,88536.0,MRPL
+26,Total assets,12  Mar-14,395177.0,MRPL
+27,Interest coverage,12  Mar-14,1.9,MRPL
+28,Debt to equity ratio,12  Mar-14,1.3,MRPL
+29,Sales to assets ratio,12  Mar-14,1.8,MRPL
+30,Return on assets,12  Mar-14,2.3,MRPL
+31,Return on equity,12  Mar-14,8.5,MRPL
+32,Return on capital,12  Mar-14,4.6,MRPL
+33,Exports to sales,12  Mar-14,47.3,MRPL
+34,Imports to sales,12  Mar-14,91.2,MRPL
+35,Exports (fob),12  Mar-14,339524.0,MRPL
+36,Imports (cif),12  Mar-14,654865.0,MRPL
+37,Fx inflow,12  Mar-14,339524.0,MRPL
+38,Fx outflow,12  Mar-14,656775.0,MRPL
+39,Net fx,12  Mar-14,-317252.0,MRPL
+40,From Operations,12  Mar-14,89635.0,MRPL
+41,From Investments,12  Mar-14,-12986.0,MRPL
+42,From Financial Activity,12  Mar-14,14031.0,MRPL
+43,Net Cashflow,12  Mar-14,90679.0,MRPL
+44,Net Sales,12  Mar-15,573985.0,MRPL
+45,Other income,12  Mar-15,8086.0,MRPL
+46,Total revenues,12  Mar-15,582070.0,MRPL
+47,Gross profit,12  Mar-15,-21675.0,MRPL
+48,Depreciation,12  Mar-15,5217.0,MRPL
+49,Interest,12  Mar-15,4482.0,MRPL
+50,Profit before tax,12  Mar-15,-23288.0,MRPL
+51,Minority Interest,12  Mar-15,499.0,MRPL
+52,Prior Period Items,12  Mar-15,0.0,MRPL
+53,Extraordinary Inc (Exp),12  Mar-15,335.0,MRPL
+54,Tax,12  Mar-15,-4422.0,MRPL
+55,Profit after tax,12  Mar-15,-18033.0,MRPL
+56,Gross profit margin,12  Mar-15,-3.8,MRPL
+57,Effective tax rate,12  Mar-15,19.0,MRPL
+58,Net profit margin,12  Mar-15,-3.1,MRPL
+59,Current assets,12  Mar-15,174077.0,MRPL
+60,Current liabilities,12  Mar-15,234447.0,MRPL
+61,Net working cap to sales,12  Mar-15,-10.5,MRPL
+62,Current ratio,12  Mar-15,0.7,MRPL
+63,Inventory Days,12  Mar-15,24.0,MRPL
+64,Debtors Days,12  Mar-15,14.0,MRPL
+65,Net fixed assets,12  Mar-15,224336.0,MRPL
+66,Share capital,12  Mar-15,17527.0,MRPL
+67,"""Free"" reserves",12  Mar-15,34689.0,MRPL
+68,Net worth,12  Mar-15,52308.0,MRPL
+69,Long term debt,12  Mar-15,117492.0,MRPL
+70,Total assets,12  Mar-15,412171.0,MRPL
+71,Interest coverage,12  Mar-15,-4.2,MRPL
+72,Debt to equity ratio,12  Mar-15,2.2,MRPL
+73,Sales to assets ratio,12  Mar-15,1.4,MRPL
+74,Return on assets,12  Mar-15,-3.3,MRPL
+75,Return on equity,12  Mar-15,-34.5,MRPL
+76,Return on capital,12  Mar-15,-10.6,MRPL
+77,Exports to sales,12  Mar-15,34.0,MRPL
+78,Imports to sales,12  Mar-15,85.2,MRPL
+79,Exports (fob),12  Mar-15,195078.0,MRPL
+80,Imports (cif),12  Mar-15,488859.0,MRPL
+81,Fx inflow,12  Mar-15,195078.0,MRPL
+82,Fx outflow,12  Mar-15,491315.0,MRPL
+83,Net fx,12  Mar-15,-296237.0,MRPL
+84,From Operations,12  Mar-15,-7306.0,MRPL
+85,From Investments,12  Mar-15,-4062.0,MRPL
+86,From Financial Activity,12  Mar-15,-26724.0,MRPL
+87,Net Cashflow,12  Mar-15,-34970.0,MRPL
+88,Net Sales,12  Mar-16,397302.0,MRPL
+89,Other income,12  Mar-16,8555.0,MRPL
+90,Total revenues,12  Mar-16,405857.0,MRPL
+91,Gross profit,12  Mar-16,17054.0,MRPL
+92,Depreciation,12  Mar-16,10130.0,MRPL
+93,Interest,12  Mar-16,10803.0,MRPL
+94,Profit before tax,12  Mar-16,4675.0,MRPL
+95,Minority Interest,12  Mar-16,20.0,MRPL
+96,Prior Period Items,12  Mar-16,0.0,MRPL
+97,Extraordinary Inc (Exp),12  Mar-16,-1830.0,MRPL
+98,Tax,12  Mar-16,-2193.0,MRPL
+99,Profit after tax,12  Mar-16,5058.0,MRPL
+100,Gross profit margin,12  Mar-16,4.3,MRPL
+101,Effective tax rate,12  Mar-16,-46.9,MRPL
+102,Net profit margin,12  Mar-16,1.3,MRPL
+103,Current assets,12  Mar-16,201417.0,MRPL
+104,Current liabilities,12  Mar-16,284875.0,MRPL
+105,Net working cap to sales,12  Mar-16,-21.0,MRPL
+106,Current ratio,12  Mar-16,0.7,MRPL
+107,Inventory Days,12  Mar-16,31.0,MRPL
+108,Debtors Days,12  Mar-16,19.0,MRPL
+109,Net fixed assets,12  Mar-16,219452.0,MRPL
+110,Share capital,12  Mar-16,17527.0,MRPL
+111,"""Free"" reserves",12  Mar-16,42813.0,MRPL
+112,Net worth,12  Mar-16,60339.0,MRPL
+113,Long term debt,12  Mar-16,89520.0,MRPL
+114,Total assets,12  Mar-16,440703.0,MRPL
+115,Interest coverage,12  Mar-16,1.4,MRPL
+116,Debt to equity ratio,12  Mar-16,1.5,MRPL
+117,Sales to assets ratio,12  Mar-16,0.9,MRPL
+118,Return on assets,12  Mar-16,3.6,MRPL
+119,Return on equity,12  Mar-16,8.4,MRPL
+120,Return on capital,12  Mar-16,9.1,MRPL
+121,Exports to sales,12  Mar-16,22.0,MRPL
+122,Imports to sales,12  Mar-16,77.9,MRPL
+123,Exports (fob),12  Mar-16,87462.0,MRPL
+124,Imports (cif),12  Mar-16,309374.0,MRPL
+125,Fx inflow,12  Mar-16,87462.0,MRPL
+126,Fx outflow,12  Mar-16,312008.0,MRPL
+127,Net fx,12  Mar-16,-224547.0,MRPL
+128,From Operations,12  Mar-16,14285.0,MRPL
+129,From Investments,12  Mar-16,3033.0,MRPL
+130,From Financial Activity,12  Mar-16,-17436.0,MRPL
+131,Net Cashflow,12  Mar-16,-118.0,MRPL
+132,Net Sales,12  Mar-17,437665.0,MRPL
+133,Other income,12  Mar-17,4189.0,MRPL
+134,Total revenues,12  Mar-17,441854.0,MRPL
+135,Gross profit,12  Mar-17,49831.0,MRPL
+136,Depreciation,12  Mar-17,9841.0,MRPL
+137,Interest,12  Mar-17,9659.0,MRPL
+138,Profit before tax,12  Mar-17,34519.0,MRPL
+139,Minority Interest,12  Mar-17,47.0,MRPL
+140,Prior Period Items,12  Mar-17,0.0,MRPL
+141,Extraordinary Inc (Exp),12  Mar-17,15973.0,MRPL
+142,Tax,12  Mar-17,17606.0,MRPL
+143,Profit after tax,12  Mar-17,32932.0,MRPL
+144,Gross profit margin,12  Mar-17,11.4,MRPL
+145,Effective tax rate,12  Mar-17,51.0,MRPL
+146,Net profit margin,12  Mar-17,7.5,MRPL
+147,Current assets,12  Mar-17,100432.0,MRPL
+148,Current liabilities,12  Mar-17,143075.0,MRPL
+149,Net working cap to sales,12  Mar-17,-9.7,MRPL
+150,Current ratio,12  Mar-17,0.7,MRPL
+151,Inventory Days,12  Mar-17,37.0,MRPL
+152,Debtors Days,12  Mar-17,22.0,MRPL
+153,Net fixed assets,12  Mar-17,208383.0,MRPL
+154,Share capital,12  Mar-17,17527.0,MRPL
+155,"""Free"" reserves",12  Mar-17,77496.0,MRPL
+156,Net worth,12  Mar-17,95022.0,MRPL
+157,Long term debt,12  Mar-17,85910.0,MRPL
+158,Total assets,12  Mar-17,328397.0,MRPL
+159,Interest coverage,12  Mar-17,4.6,MRPL
+160,Debt to equity ratio,12  Mar-17,0.9,MRPL
+161,Sales to assets ratio,12  Mar-17,1.3,MRPL
+162,Return on assets,12  Mar-17,13.0,MRPL
+163,Return on equity,12  Mar-17,34.7,MRPL
+164,Return on capital,12  Mar-17,33.3,MRPL
+165,Exports to sales,12  Mar-17,22.9,MRPL
+166,Imports to sales,12  Mar-17,103.1,MRPL
+167,Exports (fob),12  Mar-17,100310.0,MRPL
+168,Imports (cif),12  Mar-17,451220.0,MRPL
+169,Fx inflow,12  Mar-17,100310.0,MRPL
+170,Fx outflow,12  Mar-17,451220.0,MRPL
+171,Net fx,12  Mar-17,-350910.0,MRPL
+172,From Operations,12  Mar-17,-11083.0,MRPL
+173,From Investments,12  Mar-17,-2654.0,MRPL
+174,From Financial Activity,12  Mar-17,2645.0,MRPL
+175,Net Cashflow,12  Mar-17,-11092.0,MRPL
+176,Net Sales,12  Mar-18,490550.0,MRPL
+177,Other income,12  Mar-18,2739.0,MRPL
+178,Total revenues,12  Mar-18,493289.0,MRPL
+179,Gross profit,12  Mar-18,45020.0,MRPL
+180,Depreciation,12  Mar-18,9661.0,MRPL
+181,Interest,12  Mar-18,9127.0,MRPL
+182,Profit before tax,12  Mar-18,28972.0,MRPL
+183,Minority Interest,12  Mar-18,1.0,MRPL
+184,Prior Period Items,12  Mar-18,0.0,MRPL
+185,Extraordinary Inc (Exp),12  Mar-18,-259.0,MRPL
+186,Tax,12  Mar-18,10978.0,MRPL
+187,Profit after tax,12  Mar-18,17736.0,MRPL
+188,Gross profit margin,12  Mar-18,9.2,MRPL
+189,Effective tax rate,12  Mar-18,37.9,MRPL
+190,Net profit margin,12  Mar-18,3.6,MRPL
+191,Current assets,12  Mar-18,89954.0,MRPL
+192,Current liabilities,12  Mar-18,165854.0,MRPL
+193,Net working cap to sales,12  Mar-18,-15.5,MRPL
+194,Current ratio,12  Mar-18,0.5,MRPL
+195,Inventory Days,12  Mar-18,39.0,MRPL
+196,Debtors Days,12  Mar-18,19.0,MRPL
+197,Net fixed assets,12  Mar-18,208988.0,MRPL
+198,Share capital,12  Mar-18,17527.0,MRPL
+199,"""Free"" reserves",12  Mar-18,84808.0,MRPL
+200,Net worth,12  Mar-18,102334.0,MRPL
+201,Long term debt,12  Mar-18,44787.0,MRPL
+202,Total assets,12  Mar-18,319506.0,MRPL
+203,Interest coverage,12  Mar-18,4.2,MRPL
+204,Debt to equity ratio,12  Mar-18,0.4,MRPL
+205,Sales to assets ratio,12  Mar-18,1.5,MRPL
+206,Return on assets,12  Mar-18,8.4,MRPL
+207,Return on equity,12  Mar-18,17.3,MRPL
+208,Return on capital,12  Mar-18,25.7,MRPL
+209,Exports to sales,12  Mar-18,25.9,MRPL
+210,Imports to sales,12  Mar-18,96.4,MRPL
+211,Exports (fob),12  Mar-18,127160.0,MRPL
+212,Imports (cif),12  Mar-18,473030.0,MRPL
+213,Fx inflow,12  Mar-18,127160.0,MRPL
+214,Fx outflow,12  Mar-18,473030.0,MRPL
+215,Net fx,12  Mar-18,-345870.0,MRPL
+216,From Operations,12  Mar-18,39719.0,MRPL
+217,From Investments,12  Mar-18,-9814.0,MRPL
+218,From Financial Activity,12  Mar-18,-27963.0,MRPL
+219,Net Cashflow,12  Mar-18,1942.0,MRPL

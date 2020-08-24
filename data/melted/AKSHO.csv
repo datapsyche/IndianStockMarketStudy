@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,2387.0,AKSHO
+1,Other income,12  Mar-14*,22.0,AKSHO
+2,Total revenues,12  Mar-14*,2409.0,AKSHO
+3,Gross profit,12  Mar-14*,345.0,AKSHO
+4,Depreciation,12  Mar-14*,150.0,AKSHO
+5,Interest,12  Mar-14*,71.0,AKSHO
+6,Profit before tax,12  Mar-14*,146.0,AKSHO
+7,Minority Interest,12  Mar-14*,0.0,AKSHO
+8,Prior Period Items,12  Mar-14*,0.0,AKSHO
+9,Extraordinary Inc (Exp),12  Mar-14*,71.0,AKSHO
+10,Tax,12  Mar-14*,0.0,AKSHO
+11,Profit after tax,12  Mar-14*,217.0,AKSHO
+12,Gross profit margin,12  Mar-14*,14.5,AKSHO
+13,Effective tax rate,12  Mar-14*,0.0,AKSHO
+14,Net profit margin,12  Mar-14*,9.1,AKSHO
+15,Current assets,12  Mar-14*,2924.0,AKSHO
+16,Current liabilities,12  Mar-14*,1135.0,AKSHO
+17,Net working cap to sales,12  Mar-14*,74.9,AKSHO
+18,Current ratio,12  Mar-14*,2.6,AKSHO
+19,Inventory Days,12  Mar-14*,38.0,AKSHO
+20,Debtors Days,12  Mar-14*,140.0,AKSHO
+21,Net fixed assets,12  Mar-14*,2589.0,AKSHO
+22,Share capital,12  Mar-14*,964.0,AKSHO
+23,"""Free"" reserves",12  Mar-14*,2787.0,AKSHO
+24,Net worth,12  Mar-14*,3753.0,AKSHO
+25,Long term debt,12  Mar-14*,876.0,AKSHO
+26,Total assets,12  Mar-14*,5809.0,AKSHO
+27,Interest coverage,12  Mar-14*,3.1,AKSHO
+28,Debt to equity ratio,12  Mar-14*,0.2,AKSHO
+29,Sales to assets ratio,12  Mar-14*,0.4,AKSHO
+30,Return on assets,12  Mar-14*,5.0,AKSHO
+31,Return on equity,12  Mar-14*,5.8,AKSHO
+32,Return on capital,12  Mar-14*,6.2,AKSHO
+33,Exports to sales,12  Mar-14*,55.7,AKSHO
+34,Imports to sales,12  Mar-14*,32.8,AKSHO
+35,Exports (fob),12  Mar-14*,1329.0,AKSHO
+36,Imports (cif),12  Mar-14*,784.0,AKSHO
+37,Fx inflow,12  Mar-14*,1329.0,AKSHO
+38,Fx outflow,12  Mar-14*,811.0,AKSHO
+39,Net fx,12  Mar-14*,518.0,AKSHO
+40,From Operations,12  Mar-14*,43.0,AKSHO
+41,From Investments,12  Mar-14*,-163.0,AKSHO
+42,From Financial Activity,12  Mar-14*,107.0,AKSHO
+43,Net Cashflow,12  Mar-14*,-13.0,AKSHO
+44,Net Sales,12  Mar-15*,3561.0,AKSHO
+45,Other income,12  Mar-15*,42.0,AKSHO
+46,Total revenues,12  Mar-15*,3603.0,AKSHO
+47,Gross profit,12  Mar-15*,491.0,AKSHO
+48,Depreciation,12  Mar-15*,172.0,AKSHO
+49,Interest,12  Mar-15*,112.0,AKSHO
+50,Profit before tax,12  Mar-15*,249.0,AKSHO
+51,Minority Interest,12  Mar-15*,0.0,AKSHO
+52,Prior Period Items,12  Mar-15*,0.0,AKSHO
+53,Extraordinary Inc (Exp),12  Mar-15*,12.0,AKSHO
+54,Tax,12  Mar-15*,7.0,AKSHO
+55,Profit after tax,12  Mar-15*,253.0,AKSHO
+56,Gross profit margin,12  Mar-15*,13.8,AKSHO
+57,Effective tax rate,12  Mar-15*,2.9,AKSHO
+58,Net profit margin,12  Mar-15*,7.1,AKSHO
+59,Current assets,12  Mar-15*,3629.0,AKSHO
+60,Current liabilities,12  Mar-15*,1550.0,AKSHO
+61,Net working cap to sales,12  Mar-15*,58.4,AKSHO
+62,Current ratio,12  Mar-15*,2.3,AKSHO
+63,Inventory Days,12  Mar-15*,30.0,AKSHO
+64,Debtors Days,12  Mar-15*,153.0,AKSHO
+65,Net fixed assets,12  Mar-15*,2695.0,AKSHO
+66,Share capital,12  Mar-15*,979.0,AKSHO
+67,"""Free"" reserves",12  Mar-15*,3105.0,AKSHO
+68,Net worth,12  Mar-15*,4085.0,AKSHO
+69,Long term debt,12  Mar-15*,737.0,AKSHO
+70,Total assets,12  Mar-15*,6492.0,AKSHO
+71,Interest coverage,12  Mar-15*,3.2,AKSHO
+72,Debt to equity ratio,12  Mar-15*,0.2,AKSHO
+73,Sales to assets ratio,12  Mar-15*,0.5,AKSHO
+74,Return on assets,12  Mar-15*,5.6,AKSHO
+75,Return on equity,12  Mar-15*,6.2,AKSHO
+76,Return on capital,12  Mar-15*,7.7,AKSHO
+77,Exports to sales,12  Mar-15*,33.6,AKSHO
+78,Imports to sales,12  Mar-15*,26.5,AKSHO
+79,Exports (fob),12  Mar-15*,1195.0,AKSHO
+80,Imports (cif),12  Mar-15*,945.0,AKSHO
+81,Fx inflow,12  Mar-15*,1195.0,AKSHO
+82,Fx outflow,12  Mar-15*,973.0,AKSHO
+83,Net fx,12  Mar-15*,223.0,AKSHO
+84,From Operations,12  Mar-15*,292.0,AKSHO
+85,From Investments,12  Mar-15*,-252.0,AKSHO
+86,From Financial Activity,12  Mar-15*,-4.0,AKSHO
+87,Net Cashflow,12  Mar-15*,36.0,AKSHO
+88,Net Sales,12  Mar-16*,4488.0,AKSHO
+89,Other income,12  Mar-16*,29.0,AKSHO
+90,Total revenues,12  Mar-16*,4517.0,AKSHO
+91,Gross profit,12  Mar-16*,659.0,AKSHO
+92,Depreciation,12  Mar-16*,206.0,AKSHO
+93,Interest,12  Mar-16*,116.0,AKSHO
+94,Profit before tax,12  Mar-16*,366.0,AKSHO
+95,Minority Interest,12  Mar-16*,0.0,AKSHO
+96,Prior Period Items,12  Mar-16*,0.0,AKSHO
+97,Extraordinary Inc (Exp),12  Mar-16*,-73.0,AKSHO
+98,Tax,12  Mar-16*,37.0,AKSHO
+99,Profit after tax,12  Mar-16*,256.0,AKSHO
+100,Gross profit margin,12  Mar-16*,14.7,AKSHO
+101,Effective tax rate,12  Mar-16*,10.1,AKSHO
+102,Net profit margin,12  Mar-16*,5.7,AKSHO
+103,Current assets,12  Mar-16*,4191.0,AKSHO
+104,Current liabilities,12  Mar-16*,2064.0,AKSHO
+105,Net working cap to sales,12  Mar-16*,47.4,AKSHO
+106,Current ratio,12  Mar-16*,2.0,AKSHO
+107,Inventory Days,12  Mar-16*,20.0,AKSHO
+108,Debtors Days,12  Mar-16*,170.0,AKSHO
+109,Net fixed assets,12  Mar-16*,2585.0,AKSHO
+110,Share capital,12  Mar-16*,813.0,AKSHO
+111,"""Free"" reserves",12  Mar-16*,3741.0,AKSHO
+112,Net worth,12  Mar-16*,4554.0,AKSHO
+113,Long term debt,12  Mar-16*,358.0,AKSHO
+114,Total assets,12  Mar-16*,7059.0,AKSHO
+115,Interest coverage,12  Mar-16*,4.2,AKSHO
+116,Debt to equity ratio,12  Mar-16*,0.1,AKSHO
+117,Sales to assets ratio,12  Mar-16*,0.6,AKSHO
+118,Return on assets,12  Mar-16*,5.3,AKSHO
+119,Return on equity,12  Mar-16*,5.6,AKSHO
+120,Return on capital,12  Mar-16*,8.3,AKSHO
+121,Exports to sales,12  Mar-16*,39.1,AKSHO
+122,Imports to sales,12  Mar-16*,24.5,AKSHO
+123,Exports (fob),12  Mar-16*,1754.0,AKSHO
+124,Imports (cif),12  Mar-16*,1101.0,AKSHO
+125,Fx inflow,12  Mar-16*,1754.0,AKSHO
+126,Fx outflow,12  Mar-16*,1190.0,AKSHO
+127,Net fx,12  Mar-16*,564.0,AKSHO
+128,From Operations,12  Mar-16*,330.0,AKSHO
+129,From Investments,12  Mar-16*,-74.0,AKSHO
+130,From Financial Activity,12  Mar-16*,-267.0,AKSHO
+131,Net Cashflow,12  Mar-16*,-11.0,AKSHO
+132,Net Sales,12  Mar-17*,4889.0,AKSHO
+133,Other income,12  Mar-17*,44.0,AKSHO
+134,Total revenues,12  Mar-17*,4932.0,AKSHO
+135,Gross profit,12  Mar-17*,499.0,AKSHO
+136,Depreciation,12  Mar-17*,217.0,AKSHO
+137,Interest,12  Mar-17*,146.0,AKSHO
+138,Profit before tax,12  Mar-17*,180.0,AKSHO
+139,Minority Interest,12  Mar-17*,0.0,AKSHO
+140,Prior Period Items,12  Mar-17*,0.0,AKSHO
+141,Extraordinary Inc (Exp),12  Mar-17*,1.0,AKSHO
+142,Tax,12  Mar-17*,85.0,AKSHO
+143,Profit after tax,12  Mar-17*,97.0,AKSHO
+144,Gross profit margin,12  Mar-17*,10.2,AKSHO
+145,Effective tax rate,12  Mar-17*,47.2,AKSHO
+146,Net profit margin,12  Mar-17*,2.0,AKSHO
+147,Current assets,12  Mar-17*,4226.0,AKSHO
+148,Current liabilities,12  Mar-17*,2573.0,AKSHO
+149,Net working cap to sales,12  Mar-17*,33.8,AKSHO
+150,Current ratio,12  Mar-17*,1.6,AKSHO
+151,Inventory Days,12  Mar-17*,37.0,AKSHO
+152,Debtors Days,12  Mar-17*,141.0,AKSHO
+153,Net fixed assets,12  Mar-17*,2891.0,AKSHO
+154,Share capital,12  Mar-17*,813.0,AKSHO
+155,"""Free"" reserves",12  Mar-17*,3810.0,AKSHO
+156,Net worth,12  Mar-17*,4623.0,AKSHO
+157,Long term debt,12  Mar-17*,332.0,AKSHO
+158,Total assets,12  Mar-17*,7584.0,AKSHO
+159,Interest coverage,12  Mar-17*,2.2,AKSHO
+160,Debt to equity ratio,12  Mar-17*,0.1,AKSHO
+161,Sales to assets ratio,12  Mar-17*,0.6,AKSHO
+162,Return on assets,12  Mar-17*,3.2,AKSHO
+163,Return on equity,12  Mar-17*,2.1,AKSHO
+164,Return on capital,12  Mar-17*,6.6,AKSHO
+165,Exports to sales,12  Mar-17*,51.4,AKSHO
+166,Imports to sales,12  Mar-17*,26.8,AKSHO
+167,Exports (fob),12  Mar-17*,2513.0,AKSHO
+168,Imports (cif),12  Mar-17*,1310.0,AKSHO
+169,Fx inflow,12  Mar-17*,2513.0,AKSHO
+170,Fx outflow,12  Mar-17*,1370.0,AKSHO
+171,Net fx,12  Mar-17*,1143.0,AKSHO
+172,From Operations,12  Mar-17*,834.0,AKSHO
+173,From Investments,12  Mar-17*,-641.0,AKSHO
+174,From Financial Activity,12  Mar-17*,-195.0,AKSHO
+175,Net Cashflow,12  Mar-17*,-2.0,AKSHO
+176,Net Sales,12  Mar-18*,6185.0,AKSHO
+177,Other income,12  Mar-18*,22.0,AKSHO
+178,Total revenues,12  Mar-18*,6207.0,AKSHO
+179,Gross profit,12  Mar-18*,742.0,AKSHO
+180,Depreciation,12  Mar-18*,236.0,AKSHO
+181,Interest,12  Mar-18*,194.0,AKSHO
+182,Profit before tax,12  Mar-18*,334.0,AKSHO
+183,Minority Interest,12  Mar-18*,0.0,AKSHO
+184,Prior Period Items,12  Mar-18*,0.0,AKSHO
+185,Extraordinary Inc (Exp),12  Mar-18*,-8.0,AKSHO
+186,Tax,12  Mar-18*,117.0,AKSHO
+187,Profit after tax,12  Mar-18*,208.0,AKSHO
+188,Gross profit margin,12  Mar-18*,12.0,AKSHO
+189,Effective tax rate,12  Mar-18*,35.2,AKSHO
+190,Net profit margin,12  Mar-18*,3.4,AKSHO
+191,Current assets,12  Mar-18*,5001.0,AKSHO
+192,Current liabilities,12  Mar-18*,3533.0,AKSHO
+193,Net working cap to sales,12  Mar-18*,23.7,AKSHO
+194,Current ratio,12  Mar-18*,1.4,AKSHO
+195,Inventory Days,12  Mar-18*,34.0,AKSHO
+196,Debtors Days,12  Mar-18*,145.0,AKSHO
+197,Net fixed assets,12  Mar-18*,4131.0,AKSHO
+198,Share capital,12  Mar-18*,813.0,AKSHO
+199,"""Free"" reserves",12  Mar-18*,4025.0,AKSHO
+200,Net worth,12  Mar-18*,4838.0,AKSHO
+201,Long term debt,12  Mar-18*,990.0,AKSHO
+202,Total assets,12  Mar-18*,9407.0,AKSHO
+203,Interest coverage,12  Mar-18*,2.7,AKSHO
+204,Debt to equity ratio,12  Mar-18*,0.2,AKSHO
+205,Sales to assets ratio,12  Mar-18*,0.7,AKSHO
+206,Return on assets,12  Mar-18*,4.3,AKSHO
+207,Return on equity,12  Mar-18*,4.3,AKSHO
+208,Return on capital,12  Mar-18*,8.9,AKSHO
+209,Exports to sales,12  Mar-18*,0.0,AKSHO
+210,Imports to sales,12  Mar-18*,0.0,AKSHO
+211,Exports (fob),12  Mar-18*,0.0,AKSHO
+212,Imports (cif),12  Mar-18*,0.0,AKSHO
+213,Fx inflow,12  Mar-18*,0.0,AKSHO
+214,Fx outflow,12  Mar-18*,0.0,AKSHO
+215,Net fx,12  Mar-18*,0.0,AKSHO
+216,From Operations,12  Mar-18*,265.0,AKSHO
+217,From Investments,12  Mar-18*,-1243.0,AKSHO
+218,From Financial Activity,12  Mar-18*,1021.0,AKSHO
+219,Net Cashflow,12  Mar-18*,42.0,AKSHO

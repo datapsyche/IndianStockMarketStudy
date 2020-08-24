@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,9574.0,NIIT
+1,Other income,12  Mar-15*,131.0,NIIT
+2,Total revenues,12  Mar-15*,9705.0,NIIT
+3,Gross profit,12  Mar-15*,223.0,NIIT
+4,Depreciation,12  Mar-15*,1073.0,NIIT
+5,Interest,12  Mar-15*,138.0,NIIT
+6,Profit before tax,12  Mar-15*,-857.0,NIIT
+7,Minority Interest,12  Mar-15*,15.0,NIIT
+8,Prior Period Items,12  Mar-15*,271.0,NIIT
+9,Extraordinary Inc (Exp),12  Mar-15*,-803.0,NIIT
+10,Tax,12  Mar-15*,12.0,NIIT
+11,Profit after tax,12  Mar-15*,-1385.0,NIIT
+12,Gross profit margin,12  Mar-15*,2.3,NIIT
+13,Effective tax rate,12  Mar-15*,-1.4,NIIT
+14,Net profit margin,12  Mar-15*,-14.5,NIIT
+15,Current assets,12  Mar-15*,4049.0,NIIT
+16,Current liabilities,12  Mar-15*,3120.0,NIIT
+17,Net working cap to sales,12  Mar-15*,9.7,NIIT
+18,Current ratio,12  Mar-15*,1.3,NIIT
+19,Inventory Days,12  Mar-15*,2.0,NIIT
+20,Debtors Days,12  Mar-15*,71.0,NIIT
+21,Net fixed assets,12  Mar-15*,1141.0,NIIT
+22,Share capital,12  Mar-15*,330.0,NIIT
+23,"""Free"" reserves",12  Mar-15*,1486.0,NIIT
+24,Net worth,12  Mar-15*,7297.0,NIIT
+25,Long term debt,12  Mar-15*,1148.0,NIIT
+26,Total assets,12  Mar-15*,11709.0,NIIT
+27,Interest coverage,12  Mar-15*,-5.2,NIIT
+28,Debt to equity ratio,12  Mar-15*,0.2,NIIT
+29,Sales to assets ratio,12  Mar-15*,0.8,NIIT
+30,Return on assets,12  Mar-15*,-10.7,NIIT
+31,Return on equity,12  Mar-15*,-19.0,NIIT
+32,Return on capital,12  Mar-15*,-14.6,NIIT
+33,Exports to sales,12  Mar-15*,0.0,NIIT
+34,Imports to sales,12  Mar-15*,1.1,NIIT
+35,Exports (fob),12  Mar-15*,0.0,NIIT
+36,Imports (cif),12  Mar-15*,109.0,NIIT
+37,Fx inflow,12  Mar-15*,1416.0,NIIT
+38,Fx outflow,12  Mar-15*,382.0,NIIT
+39,Net fx,12  Mar-15*,1034.0,NIIT
+40,From Operations,12  Mar-15*,308.0,NIIT
+41,From Investments,12  Mar-15*,-207.0,NIIT
+42,From Financial Activity,12  Mar-15*,-64.0,NIIT
+43,Net Cashflow,12  Mar-15*,37.0,NIIT
+44,Net Sales,12  Mar-16*,10069.0,NIIT
+45,Other income,12  Mar-16*,76.0,NIIT
+46,Total revenues,12  Mar-16*,10145.0,NIIT
+47,Gross profit,12  Mar-16*,685.0,NIIT
+48,Depreciation,12  Mar-16*,492.0,NIIT
+49,Interest,12  Mar-16*,211.0,NIIT
+50,Profit before tax,12  Mar-16*,58.0,NIIT
+51,Minority Interest,12  Mar-16*,-28.0,NIIT
+52,Prior Period Items,12  Mar-16*,663.0,NIIT
+53,Extraordinary Inc (Exp),12  Mar-16*,16.0,NIIT
+54,Tax,12  Mar-16*,37.0,NIIT
+55,Profit after tax,12  Mar-16*,672.0,NIIT
+56,Gross profit margin,12  Mar-16*,6.8,NIIT
+57,Effective tax rate,12  Mar-16*,63.0,NIIT
+58,Net profit margin,12  Mar-16*,6.7,NIIT
+59,Current assets,12  Mar-16*,4883.0,NIIT
+60,Current liabilities,12  Mar-16*,4163.0,NIIT
+61,Net working cap to sales,12  Mar-16*,7.2,NIIT
+62,Current ratio,12  Mar-16*,1.2,NIIT
+63,Inventory Days,12  Mar-16*,2.0,NIIT
+64,Debtors Days,12  Mar-16*,80.0,NIIT
+65,Net fixed assets,12  Mar-16*,1092.0,NIIT
+66,Share capital,12  Mar-16*,331.0,NIIT
+67,"""Free"" reserves",12  Mar-16*,5908.0,NIIT
+68,Net worth,12  Mar-16*,6239.0,NIIT
+69,Long term debt,12  Mar-16*,1914.0,NIIT
+70,Total assets,12  Mar-16*,13514.0,NIIT
+71,Interest coverage,12  Mar-16*,1.3,NIIT
+72,Debt to equity ratio,12  Mar-16*,0.3,NIIT
+73,Sales to assets ratio,12  Mar-16*,0.7,NIIT
+74,Return on assets,12  Mar-16*,6.5,NIIT
+75,Return on equity,12  Mar-16*,10.8,NIIT
+76,Return on capital,12  Mar-16*,11.3,NIIT
+77,Exports to sales,12  Mar-16*,0.0,NIIT
+78,Imports to sales,12  Mar-16*,1.1,NIIT
+79,Exports (fob),12  Mar-16*,0.0,NIIT
+80,Imports (cif),12  Mar-16*,113.0,NIIT
+81,Fx inflow,12  Mar-16*,1709.0,NIIT
+82,Fx outflow,12  Mar-16*,373.0,NIIT
+83,Net fx,12  Mar-16*,1336.0,NIIT
+84,From Operations,12  Mar-16*,696.0,NIIT
+85,From Investments,12  Mar-16*,-718.0,NIIT
+86,From Financial Activity,12  Mar-16*,164.0,NIIT
+87,Net Cashflow,12  Mar-16*,142.0,NIIT
+88,Net Sales,12  Mar-17*,8452.0,NIIT
+89,Other income,12  Mar-17*,137.0,NIIT
+90,Total revenues,12  Mar-17*,8589.0,NIIT
+91,Gross profit,12  Mar-17*,575.0,NIIT
+92,Depreciation,12  Mar-17*,457.0,NIIT
+93,Interest,12  Mar-17*,258.0,NIIT
+94,Profit before tax,12  Mar-17*,-2.0,NIIT
+95,Minority Interest,12  Mar-17*,0.0,NIIT
+96,Prior Period Items,12  Mar-17*,591.0,NIIT
+97,Extraordinary Inc (Exp),12  Mar-17*,16.0,NIIT
+98,Tax,12  Mar-17*,184.0,NIIT
+99,Profit after tax,12  Mar-17*,421.0,NIIT
+100,Gross profit margin,12  Mar-17*,6.8,NIIT
+101,Effective tax rate,12  Mar-17*,-9215.0,NIIT
+102,Net profit margin,12  Mar-17*,5.0,NIIT
+103,Current assets,12  Mar-17*,5265.0,NIIT
+104,Current liabilities,12  Mar-17*,4694.0,NIIT
+105,Net working cap to sales,12  Mar-17*,6.8,NIIT
+106,Current ratio,12  Mar-17*,1.1,NIIT
+107,Inventory Days,12  Mar-17*,1.0,NIIT
+108,Debtors Days,12  Mar-17*,73.0,NIIT
+109,Net fixed assets,12  Mar-17*,1595.0,NIIT
+110,Share capital,12  Mar-17*,332.0,NIIT
+111,"""Free"" reserves",12  Mar-17*,6296.0,NIIT
+112,Net worth,12  Mar-17*,6628.0,NIIT
+113,Long term debt,12  Mar-17*,1553.0,NIIT
+114,Total assets,12  Mar-17*,13961.0,NIIT
+115,Interest coverage,12  Mar-17*,1.0,NIIT
+116,Debt to equity ratio,12  Mar-17*,0.2,NIIT
+117,Sales to assets ratio,12  Mar-17*,0.6,NIIT
+118,Return on assets,12  Mar-17*,4.9,NIIT
+119,Return on equity,12  Mar-17*,6.4,NIIT
+120,Return on capital,12  Mar-17*,10.6,NIIT
+121,Exports to sales,12  Mar-17*,0.0,NIIT
+122,Imports to sales,12  Mar-17*,0.0,NIIT
+123,Exports (fob),12  Mar-17*,0.0,NIIT
+124,Imports (cif),12  Mar-17*,0.0,NIIT
+125,Fx inflow,12  Mar-17*,0.0,NIIT
+126,Fx outflow,12  Mar-17*,0.0,NIIT
+127,Net fx,12  Mar-17*,0.0,NIIT
+128,From Operations,12  Mar-17*,1107.0,NIIT
+129,From Investments,12  Mar-17*,-425.0,NIIT
+130,From Financial Activity,12  Mar-17*,-433.0,NIIT
+131,Net Cashflow,12  Mar-17*,197.0,NIIT
+132,Net Sales,12  Mar-18*,8505.0,NIIT
+133,Other income,12  Mar-18*,86.0,NIIT
+134,Total revenues,12  Mar-18*,8591.0,NIIT
+135,Gross profit,12  Mar-18*,679.0,NIIT
+136,Depreciation,12  Mar-18*,401.0,NIIT
+137,Interest,12  Mar-18*,194.0,NIIT
+138,Profit before tax,12  Mar-18*,170.0,NIIT
+139,Minority Interest,12  Mar-18*,0.0,NIIT
+140,Prior Period Items,12  Mar-18*,661.0,NIIT
+141,Extraordinary Inc (Exp),12  Mar-18*,7.0,NIIT
+142,Tax,12  Mar-18*,201.0,NIIT
+143,Profit after tax,12  Mar-18*,637.0,NIIT
+144,Gross profit margin,12  Mar-18*,8.0,NIIT
+145,Effective tax rate,12  Mar-18*,118.2,NIIT
+146,Net profit margin,12  Mar-18*,7.5,NIIT
+147,Current assets,12  Mar-18*,4751.0,NIIT
+148,Current liabilities,12  Mar-18*,4995.0,NIIT
+149,Net working cap to sales,12  Mar-18*,-2.9,NIIT
+150,Current ratio,12  Mar-18*,1.0,NIIT
+151,Inventory Days,12  Mar-18*,1.0,NIIT
+152,Debtors Days,12  Mar-18*,71.0,NIIT
+153,Net fixed assets,12  Mar-18*,1527.0,NIIT
+154,Share capital,12  Mar-18*,333.0,NIIT
+155,"""Free"" reserves",12  Mar-18*,6733.0,NIIT
+156,Net worth,12  Mar-18*,7066.0,NIIT
+157,Long term debt,12  Mar-18*,928.0,NIIT
+158,Total assets,12  Mar-18*,14048.0,NIIT
+159,Interest coverage,12  Mar-18*,1.9,NIIT
+160,Debt to equity ratio,12  Mar-18*,0.1,NIIT
+161,Sales to assets ratio,12  Mar-18*,0.6,NIIT
+162,Return on assets,12  Mar-18*,5.9,NIIT
+163,Return on equity,12  Mar-18*,9.0,NIIT
+164,Return on capital,12  Mar-18*,12.9,NIIT
+165,Exports to sales,12  Mar-18*,0.0,NIIT
+166,Imports to sales,12  Mar-18*,0.0,NIIT
+167,Exports (fob),12  Mar-18*,0.0,NIIT
+168,Imports (cif),12  Mar-18*,0.0,NIIT
+169,Fx inflow,12  Mar-18*,1928.0,NIIT
+170,Fx outflow,12  Mar-18*,331.0,NIIT
+171,Net fx,12  Mar-18*,1597.0,NIIT
+172,From Operations,12  Mar-18*,881.0,NIIT
+173,From Investments,12  Mar-18*,-524.0,NIIT
+174,From Financial Activity,12  Mar-18*,-210.0,NIIT
+175,Net Cashflow,12  Mar-18*,42.0,NIIT
+176,Net Sales,12  Mar-19*,9102.0,NIIT
+177,Other income,12  Mar-19*,72.0,NIIT
+178,Total revenues,12  Mar-19*,9174.0,NIIT
+179,Gross profit,12  Mar-19*,708.0,NIIT
+180,Depreciation,12  Mar-19*,361.0,NIIT
+181,Interest,12  Mar-19*,203.0,NIIT
+182,Profit before tax,12  Mar-19*,218.0,NIIT
+183,Minority Interest,12  Mar-19*,0.0,NIIT
+184,Prior Period Items,12  Mar-19*,946.0,NIIT
+185,Extraordinary Inc (Exp),12  Mar-19*,-20.0,NIIT
+186,Tax,12  Mar-19*,271.0,NIIT
+187,Profit after tax,12  Mar-19*,872.0,NIIT
+188,Gross profit margin,12  Mar-19*,7.8,NIIT
+189,Effective tax rate,12  Mar-19*,124.7,NIIT
+190,Net profit margin,12  Mar-19*,9.6,NIIT
+191,Current assets,12  Mar-19*,4598.0,NIIT
+192,Current liabilities,12  Mar-19*,4175.0,NIIT
+193,Net working cap to sales,12  Mar-19*,4.6,NIIT
+194,Current ratio,12  Mar-19*,1.1,NIIT
+195,Inventory Days,12  Mar-19*,2.0,NIIT
+196,Debtors Days,12  Mar-19*,66.0,NIIT
+197,Net fixed assets,12  Mar-19*,1534.0,NIIT
+198,Share capital,12  Mar-19*,335.0,NIIT
+199,"""Free"" reserves",12  Mar-19*,7673.0,NIIT
+200,Net worth,12  Mar-19*,8008.0,NIIT
+201,Long term debt,12  Mar-19*,1332.0,NIIT
+202,Total assets,12  Mar-19*,14909.0,NIIT
+203,Interest coverage,12  Mar-19*,2.1,NIIT
+204,Debt to equity ratio,12  Mar-19*,0.2,NIIT
+205,Sales to assets ratio,12  Mar-19*,0.6,NIIT
+206,Return on assets,12  Mar-19*,7.2,NIIT
+207,Return on equity,12  Mar-19*,10.9,NIIT
+208,Return on capital,12  Mar-19*,14.4,NIIT
+209,Exports to sales,12  Mar-19*,0.0,NIIT
+210,Imports to sales,12  Mar-19*,0.0,NIIT
+211,Exports (fob),12  Mar-19*,0.0,NIIT
+212,Imports (cif),12  Mar-19*,0.0,NIIT
+213,Fx inflow,12  Mar-19*,2076.0,NIIT
+214,Fx outflow,12  Mar-19*,352.0,NIIT
+215,Net fx,12  Mar-19*,1723.0,NIIT
+216,From Operations,12  Mar-19*,443.0,NIIT
+217,From Investments,12  Mar-19*,-502.0,NIIT
+218,From Financial Activity,12  Mar-19*,-73.0,NIIT
+219,Net Cashflow,12  Mar-19*,-83.0,NIIT

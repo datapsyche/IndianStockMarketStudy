@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,217700.0,RCOM
+1,Other income,12  Mar-15*,3280.0,RCOM
+2,Total revenues,12  Mar-15*,220980.0,RCOM
+3,Gross profit,12  Mar-15*,71900.0,RCOM
+4,Depreciation,12  Mar-15*,38170.0,RCOM
+5,Interest,12  Mar-15*,27550.0,RCOM
+6,Profit before tax,12  Mar-15*,9460.0,RCOM
+7,Minority Interest,12  Mar-15*,910.0,RCOM
+8,Prior Period Items,12  Mar-15*,30.0,RCOM
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,RCOM
+10,Tax,12  Mar-15*,3260.0,RCOM
+11,Profit after tax,12  Mar-15*,7140.0,RCOM
+12,Gross profit margin,12  Mar-15*,33.0,RCOM
+13,Effective tax rate,12  Mar-15*,34.5,RCOM
+14,Net profit margin,12  Mar-15*,3.3,RCOM
+15,Current assets,12  Mar-15*,162290.0,RCOM
+16,Current liabilities,12  Mar-15*,213150.0,RCOM
+17,Net working cap to sales,12  Mar-15*,-23.4,RCOM
+18,Current ratio,12  Mar-15*,0.8,RCOM
+19,Inventory Days,12  Mar-15*,7.0,RCOM
+20,Debtors Days,12  Mar-15*,69.0,RCOM
+21,Net fixed assets,12  Mar-15*,519150.0,RCOM
+22,Share capital,12  Mar-15*,12440.0,RCOM
+23,"""Free"" reserves",12  Mar-15*,317010.0,RCOM
+24,Net worth,12  Mar-15*,329450.0,RCOM
+25,Long term debt,12  Mar-15*,299830.0,RCOM
+26,Total assets,12  Mar-15*,931730.0,RCOM
+27,Interest coverage,12  Mar-15*,1.3,RCOM
+28,Debt to equity ratio,12  Mar-15*,0.9,RCOM
+29,Sales to assets ratio,12  Mar-15*,0.2,RCOM
+30,Return on assets,12  Mar-15*,3.7,RCOM
+31,Return on equity,12  Mar-15*,2.2,RCOM
+32,Return on capital,12  Mar-15*,6.0,RCOM
+33,Exports to sales,12  Mar-15*,0.0,RCOM
+34,Imports to sales,12  Mar-15*,0.8,RCOM
+35,Exports (fob),12  Mar-15*,0.0,RCOM
+36,Imports (cif),12  Mar-15*,1810.0,RCOM
+37,Fx inflow,12  Mar-15*,15630.0,RCOM
+38,Fx outflow,12  Mar-15*,21870.0,RCOM
+39,Net fx,12  Mar-15*,-6240.0,RCOM
+40,From Operations,12  Mar-15*,31580.0,RCOM
+41,From Investments,12  Mar-15*,-31260.0,RCOM
+42,From Financial Activity,12  Mar-15*,8200.0,RCOM
+43,Net Cashflow,12  Mar-15*,8520.0,RCOM
+44,Net Sales,12  Mar-16*,219540.0,RCOM
+45,Other income,12  Mar-16*,4020.0,RCOM
+46,Total revenues,12  Mar-16*,223560.0,RCOM
+47,Gross profit,12  Mar-16*,72360.0,RCOM
+48,Depreciation,12  Mar-16*,44840.0,RCOM
+49,Interest,12  Mar-16*,29240.0,RCOM
+50,Profit before tax,12  Mar-16*,2300.0,RCOM
+51,Minority Interest,12  Mar-16*,20.0,RCOM
+52,Prior Period Items,12  Mar-16*,0.0,RCOM
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,RCOM
+54,Tax,12  Mar-16*,-4280.0,RCOM
+55,Profit after tax,12  Mar-16*,6600.0,RCOM
+56,Gross profit margin,12  Mar-16*,33.0,RCOM
+57,Effective tax rate,12  Mar-16*,-186.1,RCOM
+58,Net profit margin,12  Mar-16*,3.0,RCOM
+59,Current assets,12  Mar-16*,117610.0,RCOM
+60,Current liabilities,12  Mar-16*,276760.0,RCOM
+61,Net working cap to sales,12  Mar-16*,-72.5,RCOM
+62,Current ratio,12  Mar-16*,0.4,RCOM
+63,Inventory Days,12  Mar-16*,3.0,RCOM
+64,Debtors Days,12  Mar-16*,50.0,RCOM
+65,Net fixed assets,12  Mar-16*,525280.0,RCOM
+66,Share capital,12  Mar-16*,12440.0,RCOM
+67,"""Free"" reserves",12  Mar-16*,303390.0,RCOM
+68,Net worth,12  Mar-16*,315830.0,RCOM
+69,Long term debt,12  Mar-16*,291140.0,RCOM
+70,Total assets,12  Mar-16*,1034540.0,RCOM
+71,Interest coverage,12  Mar-16*,1.1,RCOM
+72,Debt to equity ratio,12  Mar-16*,0.9,RCOM
+73,Sales to assets ratio,12  Mar-16*,0.2,RCOM
+74,Return on assets,12  Mar-16*,3.5,RCOM
+75,Return on equity,12  Mar-16*,2.1,RCOM
+76,Return on capital,12  Mar-16*,5.2,RCOM
+77,Exports to sales,12  Mar-16*,0.0,RCOM
+78,Imports to sales,12  Mar-16*,2.0,RCOM
+79,Exports (fob),12  Mar-16*,0.0,RCOM
+80,Imports (cif),12  Mar-16*,4460.0,RCOM
+81,Fx inflow,12  Mar-16*,14940.0,RCOM
+82,Fx outflow,12  Mar-16*,23430.0,RCOM
+83,Net fx,12  Mar-16*,-8490.0,RCOM
+84,From Operations,12  Mar-16*,141060.0,RCOM
+85,From Investments,12  Mar-16*,-149500.0,RCOM
+86,From Financial Activity,12  Mar-16*,4360.0,RCOM
+87,Net Cashflow,12  Mar-16*,-4080.0,RCOM
+88,Net Sales,12  Mar-17*,65540.0,RCOM
+89,Other income,12  Mar-17*,830.0,RCOM
+90,Total revenues,12  Mar-17*,66370.0,RCOM
+91,Gross profit,12  Mar-17*,11450.0,RCOM
+92,Depreciation,12  Mar-17*,8210.0,RCOM
+93,Interest,12  Mar-17*,2550.0,RCOM
+94,Profit before tax,12  Mar-17*,1520.0,RCOM
+95,Minority Interest,12  Mar-17*,30.0,RCOM
+96,Prior Period Items,12  Mar-17*,0.0,RCOM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,RCOM
+98,Tax,12  Mar-17*,-900.0,RCOM
+99,Profit after tax,12  Mar-17*,2450.0,RCOM
+100,Gross profit margin,12  Mar-17*,17.5,RCOM
+101,Effective tax rate,12  Mar-17*,-59.2,RCOM
+102,Net profit margin,12  Mar-17*,3.7,RCOM
+103,Current assets,12  Mar-17*,130070.0,RCOM
+104,Current liabilities,12  Mar-17*,360340.0,RCOM
+105,Net working cap to sales,12  Mar-17*,-351.3,RCOM
+106,Current ratio,12  Mar-17*,0.4,RCOM
+107,Inventory Days,12  Mar-17*,13.0,RCOM
+108,Debtors Days,12  Mar-17*,181.0,RCOM
+109,Net fixed assets,12  Mar-17*,517100.0,RCOM
+110,Share capital,12  Mar-17*,12440.0,RCOM
+111,"""Free"" reserves",12  Mar-17*,273250.0,RCOM
+112,Net worth,12  Mar-17*,285690.0,RCOM
+113,Long term debt,12  Mar-17*,225500.0,RCOM
+114,Total assets,12  Mar-17*,997310.0,RCOM
+115,Interest coverage,12  Mar-17*,1.6,RCOM
+116,Debt to equity ratio,12  Mar-17*,0.8,RCOM
+117,Sales to assets ratio,12  Mar-17*,0.1,RCOM
+118,Return on assets,12  Mar-17*,0.5,RCOM
+119,Return on equity,12  Mar-17*,0.9,RCOM
+120,Return on capital,12  Mar-17*,0.8,RCOM
+121,Exports to sales,12  Mar-17*,0.0,RCOM
+122,Imports to sales,12  Mar-17*,0.0,RCOM
+123,Exports (fob),12  Mar-17*,0.0,RCOM
+124,Imports (cif),12  Mar-17*,0.0,RCOM
+125,Fx inflow,12  Mar-17*,16530.0,RCOM
+126,Fx outflow,12  Mar-17*,22220.0,RCOM
+127,Net fx,12  Mar-17*,-5690.0,RCOM
+128,From Operations,12  Mar-17*,-3880.0,RCOM
+129,From Investments,12  Mar-17*,8120.0,RCOM
+130,From Financial Activity,12  Mar-17*,-1730.0,RCOM
+131,Net Cashflow,12  Mar-17*,2510.0,RCOM
+132,Net Sales,12  Mar-18*,45930.0,RCOM
+133,Other income,12  Mar-18*,910.0,RCOM
+134,Total revenues,12  Mar-18*,46840.0,RCOM
+135,Gross profit,12  Mar-18*,8130.0,RCOM
+136,Depreciation,12  Mar-18*,7210.0,RCOM
+137,Interest,12  Mar-18*,1860.0,RCOM
+138,Profit before tax,12  Mar-18*,-30.0,RCOM
+139,Minority Interest,12  Mar-18*,0.0,RCOM
+140,Prior Period Items,12  Mar-18*,0.0,RCOM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,RCOM
+142,Tax,12  Mar-18*,160.0,RCOM
+143,Profit after tax,12  Mar-18*,-190.0,RCOM
+144,Gross profit margin,12  Mar-18*,17.7,RCOM
+145,Effective tax rate,12  Mar-18*,-533.3,RCOM
+146,Net profit margin,12  Mar-18*,-0.4,RCOM
+147,Current assets,12  Mar-18*,454590.0,RCOM
+148,Current liabilities,12  Mar-18*,524780.0,RCOM
+149,Net working cap to sales,12  Mar-18*,-152.8,RCOM
+150,Current ratio,12  Mar-18*,0.9,RCOM
+151,Inventory Days,12  Mar-18*,6.0,RCOM
+152,Debtors Days,12  Mar-18*,170.0,RCOM
+153,Net fixed assets,12  Mar-18*,211250.0,RCOM
+154,Share capital,12  Mar-18*,13830.0,RCOM
+155,"""Free"" reserves",12  Mar-18*,14000.0,RCOM
+156,Net worth,12  Mar-18*,27830.0,RCOM
+157,Long term debt,12  Mar-18*,130210.0,RCOM
+158,Total assets,12  Mar-18*,745780.0,RCOM
+159,Interest coverage,12  Mar-18*,1.0,RCOM
+160,Debt to equity ratio,12  Mar-18*,4.7,RCOM
+161,Sales to assets ratio,12  Mar-18*,0.1,RCOM
+162,Return on assets,12  Mar-18*,0.2,RCOM
+163,Return on equity,12  Mar-18*,-0.7,RCOM
+164,Return on capital,12  Mar-18*,1.2,RCOM
+165,Exports to sales,12  Mar-18*,0.0,RCOM
+166,Imports to sales,12  Mar-18*,0.0,RCOM
+167,Exports (fob),12  Mar-18*,0.0,RCOM
+168,Imports (cif),12  Mar-18*,0.0,RCOM
+169,Fx inflow,12  Mar-18*,6309.0,RCOM
+170,Fx outflow,12  Mar-18*,6482.0,RCOM
+171,Net fx,12  Mar-18*,-173.0,RCOM
+172,From Operations,12  Mar-18*,9640.0,RCOM
+173,From Investments,12  Mar-18*,-2680.0,RCOM
+174,From Financial Activity,12  Mar-18*,-9040.0,RCOM
+175,Net Cashflow,12  Mar-18*,-2080.0,RCOM
+176,Net Sales,12  Mar-19*,40150.0,RCOM
+177,Other income,12  Mar-19*,1790.0,RCOM
+178,Total revenues,12  Mar-19*,41940.0,RCOM
+179,Gross profit,12  Mar-19*,23910.0,RCOM
+180,Depreciation,12  Mar-19*,8200.0,RCOM
+181,Interest,12  Mar-19*,1920.0,RCOM
+182,Profit before tax,12  Mar-19*,15580.0,RCOM
+183,Minority Interest,12  Mar-19*,0.0,RCOM
+184,Prior Period Items,12  Mar-19*,0.0,RCOM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,RCOM
+186,Tax,12  Mar-19*,24250.0,RCOM
+187,Profit after tax,12  Mar-19*,-8670.0,RCOM
+188,Gross profit margin,12  Mar-19*,59.6,RCOM
+189,Effective tax rate,12  Mar-19*,155.6,RCOM
+190,Net profit margin,12  Mar-19*,-21.6,RCOM
+191,Current assets,12  Mar-19*,439590.0,RCOM
+192,Current liabilities,12  Mar-19*,666580.0,RCOM
+193,Net working cap to sales,12  Mar-19*,-565.4,RCOM
+194,Current ratio,12  Mar-19*,0.7,RCOM
+195,Inventory Days,12  Mar-19*,6.0,RCOM
+196,Debtors Days,12  Mar-19*,122.0,RCOM
+197,Net fixed assets,12  Mar-19*,99300.0,RCOM
+198,Share capital,12  Mar-19*,13830.0,RCOM
+199,"""Free"" reserves",12  Mar-19*,-55630.0,RCOM
+200,Net worth,12  Mar-19*,-41800.0,RCOM
+201,Long term debt,12  Mar-19*,0.0,RCOM
+202,Total assets,12  Mar-19*,675580.0,RCOM
+203,Interest coverage,12  Mar-19*,9.1,RCOM
+204,Debt to equity ratio,12  Mar-19*,0.0,RCOM
+205,Sales to assets ratio,12  Mar-19*,0.1,RCOM
+206,Return on assets,12  Mar-19*,-1.0,RCOM
+207,Return on equity,12  Mar-19*,20.7,RCOM
+208,Return on capital,12  Mar-19*,-41.9,RCOM
+209,Exports to sales,12  Mar-19*,0.0,RCOM
+210,Imports to sales,12  Mar-19*,0.0,RCOM
+211,Exports (fob),12  Mar-19*,0.0,RCOM
+212,Imports (cif),12  Mar-19*,0.0,RCOM
+213,Fx inflow,12  Mar-19*,1855.0,RCOM
+214,Fx outflow,12  Mar-19*,2167.0,RCOM
+215,Net fx,12  Mar-19*,-312.0,RCOM
+216,From Operations,12  Mar-19*,3740.0,RCOM
+217,From Investments,12  Mar-19*,7190.0,RCOM
+218,From Financial Activity,12  Mar-19*,-8680.0,RCOM
+219,Net Cashflow,12  Mar-19*,2250.0,RCOM

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,221517.0,BAJAU
+1,Other income,12  Mar-16*,9846.0,BAJAU
+2,Total revenues,12  Mar-16*,231363.0,BAJAU
+3,Gross profit,12  Mar-16*,50025.0,BAJAU
+4,Depreciation,12  Mar-16*,3072.0,BAJAU
+5,Interest,12  Mar-16*,11.0,BAJAU
+6,Profit before tax,12  Mar-16*,56789.0,BAJAU
+7,Minority Interest,12  Mar-16*,0.0,BAJAU
+8,Prior Period Items,12  Mar-16*,0.0,BAJAU
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,BAJAU
+10,Tax,12  Mar-16*,16177.0,BAJAU
+11,Profit after tax,12  Mar-16*,40612.0,BAJAU
+12,Gross profit margin,12  Mar-16*,22.6,BAJAU
+13,Effective tax rate,12  Mar-16*,28.5,BAJAU
+14,Net profit margin,12  Mar-16*,18.3,BAJAU
+15,Current assets,12  Mar-16*,47329.0,BAJAU
+16,Current liabilities,12  Mar-16*,27811.0,BAJAU
+17,Net working cap to sales,12  Mar-16*,8.8,BAJAU
+18,Current ratio,12  Mar-16*,1.7,BAJAU
+19,Inventory Days,12  Mar-16*,12.0,BAJAU
+20,Debtors Days,12  Mar-16*,12.0,BAJAU
+21,Net fixed assets,12  Mar-16*,20779.0,BAJAU
+22,Share capital,12  Mar-16*,2894.0,BAJAU
+23,"""Free"" reserves",12  Mar-16*,137309.0,BAJAU
+24,Net worth,12  Mar-16*,140203.0,BAJAU
+25,Long term debt,12  Mar-16*,1625.0,BAJAU
+26,Total assets,12  Mar-16*,172404.0,BAJAU
+27,Interest coverage,12  Mar-16*,5409.5,BAJAU
+28,Debt to equity ratio,12  Mar-16*,0.0,BAJAU
+29,Sales to assets ratio,12  Mar-16*,1.3,BAJAU
+30,Return on assets,12  Mar-16*,23.6,BAJAU
+31,Return on equity,12  Mar-16*,29.0,BAJAU
+32,Return on capital,12  Mar-16*,40.0,BAJAU
+33,Exports to sales,12  Mar-16*,44.1,BAJAU
+34,Imports to sales,12  Mar-16*,2.6,BAJAU
+35,Exports (fob),12  Mar-16*,97731.0,BAJAU
+36,Imports (cif),12  Mar-16*,5794.0,BAJAU
+37,Fx inflow,12  Mar-16*,94046.0,BAJAU
+38,Fx outflow,12  Mar-16*,7749.0,BAJAU
+39,Net fx,12  Mar-16*,86297.0,BAJAU
+40,From Operations,12  Mar-16*,36899.0,BAJAU
+41,From Investments,12  Mar-16*,-1131.0,BAJAU
+42,From Financial Activity,12  Mar-16*,-33841.0,BAJAU
+43,Net Cashflow,12  Mar-16*,2383.0,BAJAU
+44,Net Sales,12  Mar-17*,213735.0,BAJAU
+45,Other income,12  Mar-17*,12222.0,BAJAU
+46,Total revenues,12  Mar-17*,225958.0,BAJAU
+47,Gross profit,12  Mar-17*,46740.0,BAJAU
+48,Depreciation,12  Mar-17*,3073.0,BAJAU
+49,Interest,12  Mar-17*,14.0,BAJAU
+50,Profit before tax,12  Mar-17*,55876.0,BAJAU
+51,Minority Interest,12  Mar-17*,0.0,BAJAU
+52,Prior Period Items,12  Mar-17*,0.0,BAJAU
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,BAJAU
+54,Tax,12  Mar-17*,15081.0,BAJAU
+55,Profit after tax,12  Mar-17*,40795.0,BAJAU
+56,Gross profit margin,12  Mar-17*,21.9,BAJAU
+57,Effective tax rate,12  Mar-17*,27.0,BAJAU
+58,Net profit margin,12  Mar-17*,19.1,BAJAU
+59,Current assets,12  Mar-17*,94685.0,BAJAU
+60,Current liabilities,12  Mar-17*,32128.0,BAJAU
+61,Net working cap to sales,12  Mar-17*,29.3,BAJAU
+62,Current ratio,12  Mar-17*,2.9,BAJAU
+63,Inventory Days,12  Mar-17*,12.0,BAJAU
+64,Debtors Days,12  Mar-17*,16.0,BAJAU
+65,Net fixed assets,12  Mar-17*,20440.0,BAJAU
+66,Share capital,12  Mar-17*,2894.0,BAJAU
+67,"""Free"" reserves",12  Mar-17*,175672.0,BAJAU
+68,Net worth,12  Mar-17*,178566.0,BAJAU
+69,Long term debt,12  Mar-17*,0.0,BAJAU
+70,Total assets,12  Mar-17*,216376.0,BAJAU
+71,Interest coverage,12  Mar-17*,3992.1,BAJAU
+72,Debt to equity ratio,12  Mar-17*,0.0,BAJAU
+73,Sales to assets ratio,12  Mar-17*,1.0,BAJAU
+74,Return on assets,12  Mar-17*,18.9,BAJAU
+75,Return on equity,12  Mar-17*,22.8,BAJAU
+76,Return on capital,12  Mar-17*,31.3,BAJAU
+77,Exports to sales,12  Mar-17*,0.0,BAJAU
+78,Imports to sales,12  Mar-17*,0.0,BAJAU
+79,Exports (fob),12  Mar-17*,0.0,BAJAU
+80,Imports (cif),12  Mar-17*,0.0,BAJAU
+81,Fx inflow,12  Mar-17*,73365.0,BAJAU
+82,Fx outflow,12  Mar-17*,6979.0,BAJAU
+83,Net fx,12  Mar-17*,66386.0,BAJAU
+84,From Operations,12  Mar-17*,32674.0,BAJAU
+85,From Investments,12  Mar-17*,-36832.0,BAJAU
+86,From Financial Activity,12  Mar-17*,-1901.0,BAJAU
+87,Net Cashflow,12  Mar-17*,-5324.0,BAJAU
+88,Net Sales,12  Mar-18*,252189.0,BAJAU
+89,Other income,12  Mar-18*,11583.0,BAJAU
+90,Total revenues,12  Mar-18*,263772.0,BAJAU
+91,Gross profit,12  Mar-18*,51233.0,BAJAU
+92,Depreciation,12  Mar-18*,3148.0,BAJAU
+93,Interest,12  Mar-18*,13.0,BAJAU
+94,Profit before tax,12  Mar-18*,59654.0,BAJAU
+95,Minority Interest,12  Mar-18*,0.0,BAJAU
+96,Prior Period Items,12  Mar-18*,0.0,BAJAU
+97,Extraordinary Inc (Exp),12  Mar-18*,-320.0,BAJAU
+98,Tax,12  Mar-18*,17145.0,BAJAU
+99,Profit after tax,12  Mar-18*,42189.0,BAJAU
+100,Gross profit margin,12  Mar-18*,20.3,BAJAU
+101,Effective tax rate,12  Mar-18*,28.7,BAJAU
+102,Net profit margin,12  Mar-18*,16.7,BAJAU
+103,Current assets,12  Mar-18*,92508.0,BAJAU
+104,Current liabilities,12  Mar-18*,41114.0,BAJAU
+105,Net working cap to sales,12  Mar-18*,20.4,BAJAU
+106,Current ratio,12  Mar-18*,2.3,BAJAU
+107,Inventory Days,12  Mar-18*,11.0,BAJAU
+108,Debtors Days,12  Mar-18*,22.0,BAJAU
+109,Net fixed assets,12  Mar-18*,18895.0,BAJAU
+110,Share capital,12  Mar-18*,2894.0,BAJAU
+111,"""Free"" reserves",12  Mar-18*,201359.0,BAJAU
+112,Net worth,12  Mar-18*,204252.0,BAJAU
+113,Long term debt,12  Mar-18*,0.0,BAJAU
+114,Total assets,12  Mar-18*,251410.0,BAJAU
+115,Interest coverage,12  Mar-18*,4554.7,BAJAU
+116,Debt to equity ratio,12  Mar-18*,0.0,BAJAU
+117,Sales to assets ratio,12  Mar-18*,1.0,BAJAU
+118,Return on assets,12  Mar-18*,16.8,BAJAU
+119,Return on equity,12  Mar-18*,20.7,BAJAU
+120,Return on capital,12  Mar-18*,29.1,BAJAU
+121,Exports to sales,12  Mar-18*,0.0,BAJAU
+122,Imports to sales,12  Mar-18*,0.0,BAJAU
+123,Exports (fob),12  Mar-18*,0.0,BAJAU
+124,Imports (cif),12  Mar-18*,0.0,BAJAU
+125,Fx inflow,12  Mar-18*,92815.0,BAJAU
+126,Fx outflow,12  Mar-18*,6734.0,BAJAU
+127,Net fx,12  Mar-18*,86081.0,BAJAU
+128,From Operations,12  Mar-18*,43278.0,BAJAU
+129,From Investments,12  Mar-18*,-20531.0,BAJAU
+130,From Financial Activity,12  Mar-18*,-18853.0,BAJAU
+131,Net Cashflow,12  Mar-18*,4881.0,BAJAU
+132,Net Sales,12  Mar-19*,303576.0,BAJAU
+133,Other income,12  Mar-19*,13445.0,BAJAU
+134,Total revenues,12  Mar-19*,317021.0,BAJAU
+135,Gross profit,12  Mar-19*,55393.0,BAJAU
+136,Depreciation,12  Mar-19*,2657.0,BAJAU
+137,Interest,12  Mar-19*,45.0,BAJAU
+138,Profit before tax,12  Mar-19*,66136.0,BAJAU
+139,Minority Interest,12  Mar-19*,0.0,BAJAU
+140,Prior Period Items,12  Mar-19*,0.0,BAJAU
+141,Extraordinary Inc (Exp),12  Mar-19*,3420.0,BAJAU
+142,Tax,12  Mar-19*,20280.0,BAJAU
+143,Profit after tax,12  Mar-19*,49276.0,BAJAU
+144,Gross profit margin,12  Mar-19*,18.2,BAJAU
+145,Effective tax rate,12  Mar-19*,30.7,BAJAU
+146,Net profit margin,12  Mar-19*,16.2,BAJAU
+147,Current assets,12  Mar-19*,70732.0,BAJAU
+148,Current liabilities,12  Mar-19*,48738.0,BAJAU
+149,Net working cap to sales,12  Mar-19*,7.2,BAJAU
+150,Current ratio,12  Mar-19*,1.5,BAJAU
+151,Inventory Days,12  Mar-19*,12.0,BAJAU
+152,Debtors Days,12  Mar-19*,31.0,BAJAU
+153,Net fixed assets,12  Mar-19*,18120.0,BAJAU
+154,Share capital,12  Mar-19*,2894.0,BAJAU
+155,"""Free"" reserves",12  Mar-19*,229444.0,BAJAU
+156,Net worth,12  Mar-19*,232338.0,BAJAU
+157,Long term debt,12  Mar-19*,0.0,BAJAU
+158,Total assets,12  Mar-19*,288344.0,BAJAU
+159,Interest coverage,12  Mar-19*,1477.2,BAJAU
+160,Debt to equity ratio,12  Mar-19*,0.0,BAJAU
+161,Sales to assets ratio,12  Mar-19*,1.1,BAJAU
+162,Return on assets,12  Mar-19*,17.1,BAJAU
+163,Return on equity,12  Mar-19*,21.2,BAJAU
+164,Return on capital,12  Mar-19*,30.0,BAJAU
+165,Exports to sales,12  Mar-19*,0.0,BAJAU
+166,Imports to sales,12  Mar-19*,0.0,BAJAU
+167,Exports (fob),12  Mar-19*,0.0,BAJAU
+168,Imports (cif),12  Mar-19*,0.0,BAJAU
+169,Fx inflow,12  Mar-19*,114342.0,BAJAU
+170,Fx outflow,12  Mar-19*,9731.0,BAJAU
+171,Net fx,12  Mar-19*,104612.0,BAJAU
+172,From Operations,12  Mar-19*,24869.0,BAJAU
+173,From Investments,12  Mar-19*,-3384.0,BAJAU
+174,From Financial Activity,12  Mar-19*,-20741.0,BAJAU
+175,Net Cashflow,12  Mar-19*,1400.0,BAJAU
+176,Net Sales,12  Mar-20*,299187.0,BAJAU
+177,Other income,12  Mar-20*,15246.0,BAJAU
+178,Total revenues,12  Mar-20*,314432.0,BAJAU
+179,Gross profit,12  Mar-20*,54172.0,BAJAU
+180,Depreciation,12  Mar-20*,2464.0,BAJAU
+181,Interest,12  Mar-20*,32.0,BAJAU
+182,Profit before tax,12  Mar-20*,66921.0,BAJAU
+183,Minority Interest,12  Mar-20*,0.0,BAJAU
+184,Prior Period Items,12  Mar-20*,0.0,BAJAU
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,BAJAU
+186,Tax,12  Mar-20*,14802.0,BAJAU
+187,Profit after tax,12  Mar-20*,52119.0,BAJAU
+188,Gross profit margin,12  Mar-20*,18.1,BAJAU
+189,Effective tax rate,12  Mar-20*,22.1,BAJAU
+190,Net profit margin,12  Mar-20*,17.4,BAJAU
+191,Current assets,12  Mar-20*,66160.0,BAJAU
+192,Current liabilities,12  Mar-20*,42533.0,BAJAU
+193,Net working cap to sales,12  Mar-20*,7.9,BAJAU
+194,Current ratio,12  Mar-20*,1.6,BAJAU
+195,Inventory Days,12  Mar-20*,13.0,BAJAU
+196,Debtors Days,12  Mar-20*,21.0,BAJAU
+197,Net fixed assets,12  Mar-20*,17592.0,BAJAU
+198,Share capital,12  Mar-20*,2894.0,BAJAU
+199,"""Free"" reserves",12  Mar-20*,213727.0,BAJAU
+200,Net worth,12  Mar-20*,216621.0,BAJAU
+201,Long term debt,12  Mar-20*,0.0,BAJAU
+202,Total assets,12  Mar-20*,265100.0,BAJAU
+203,Interest coverage,12  Mar-20*,2118.8,BAJAU
+204,Debt to equity ratio,12  Mar-20*,0.0,BAJAU
+205,Sales to assets ratio,12  Mar-20*,1.1,BAJAU
+206,Return on assets,12  Mar-20*,19.7,BAJAU
+207,Return on equity,12  Mar-20*,24.1,BAJAU
+208,Return on capital,12  Mar-20*,30.9,BAJAU
+209,Exports to sales,12  Mar-20*,0.0,BAJAU
+210,Imports to sales,12  Mar-20*,0.0,BAJAU
+211,Exports (fob),12  Mar-20*,0.0,BAJAU
+212,Imports (cif),12  Mar-20*,0.0,BAJAU
+213,Fx inflow,12  Mar-20*,118724.0,BAJAU
+214,Fx outflow,12  Mar-20*,9085.0,BAJAU
+215,Net fx,12  Mar-20*,109639.0,BAJAU
+216,From Operations,12  Mar-20*,38504.0,BAJAU
+217,From Investments,12  Mar-20*,15561.0,BAJAU
+218,From Financial Activity,12  Mar-20*,-62465.0,BAJAU
+219,Net Cashflow,12  Mar-20*,-6302.0,BAJAU

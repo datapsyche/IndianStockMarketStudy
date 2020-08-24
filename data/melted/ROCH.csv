@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1478.0,ROCH
+1,Other income,12  Mar-15*,33.0,ROCH
+2,Total revenues,12  Mar-15*,1511.0,ROCH
+3,Gross profit,12  Mar-15*,191.0,ROCH
+4,Depreciation,12  Mar-15*,146.0,ROCH
+5,Interest,12  Mar-15*,156.0,ROCH
+6,Profit before tax,12  Mar-15*,-78.0,ROCH
+7,Minority Interest,12  Mar-15*,29.0,ROCH
+8,Prior Period Items,12  Mar-15*,0.0,ROCH
+9,Extraordinary Inc (Exp),12  Mar-15*,20.0,ROCH
+10,Tax,12  Mar-15*,10.0,ROCH
+11,Profit after tax,12  Mar-15*,-39.0,ROCH
+12,Gross profit margin,12  Mar-15*,12.9,ROCH
+13,Effective tax rate,12  Mar-15*,-12.8,ROCH
+14,Net profit margin,12  Mar-15*,-2.6,ROCH
+15,Current assets,12  Mar-15*,390.0,ROCH
+16,Current liabilities,12  Mar-15*,786.0,ROCH
+17,Net working cap to sales,12  Mar-15*,-26.8,ROCH
+18,Current ratio,12  Mar-15*,0.5,ROCH
+19,Inventory Days,12  Mar-15*,5.0,ROCH
+20,Debtors Days,12  Mar-15*,38.0,ROCH
+21,Net fixed assets,12  Mar-15*,2502.0,ROCH
+22,Share capital,12  Mar-15*,272.0,ROCH
+23,"""Free"" reserves",12  Mar-15*,1367.0,ROCH
+24,Net worth,12  Mar-15*,1627.0,ROCH
+25,Long term debt,12  Mar-15*,649.0,ROCH
+26,Total assets,12  Mar-15*,3456.0,ROCH
+27,Interest coverage,12  Mar-15*,0.5,ROCH
+28,Debt to equity ratio,12  Mar-15*,0.4,ROCH
+29,Sales to assets ratio,12  Mar-15*,0.4,ROCH
+30,Return on assets,12  Mar-15*,3.4,ROCH
+31,Return on equity,12  Mar-15*,-2.4,ROCH
+32,Return on capital,12  Mar-15*,5.6,ROCH
+33,Exports to sales,12  Mar-15*,0.0,ROCH
+34,Imports to sales,12  Mar-15*,0.1,ROCH
+35,Exports (fob),12  Mar-15*,0.0,ROCH
+36,Imports (cif),12  Mar-15*,2.0,ROCH
+37,Fx inflow,12  Mar-15*,123.0,ROCH
+38,Fx outflow,12  Mar-15*,7.0,ROCH
+39,Net fx,12  Mar-15*,116.0,ROCH
+40,From Operations,12  Mar-15*,261.0,ROCH
+41,From Investments,12  Mar-15*,-35.0,ROCH
+42,From Financial Activity,12  Mar-15*,-456.0,ROCH
+43,Net Cashflow,12  Mar-15*,-231.0,ROCH
+44,Net Sales,12  Mar-16*,1585.0,ROCH
+45,Other income,12  Mar-16*,44.0,ROCH
+46,Total revenues,12  Mar-16*,1629.0,ROCH
+47,Gross profit,12  Mar-16*,203.0,ROCH
+48,Depreciation,12  Mar-16*,139.0,ROCH
+49,Interest,12  Mar-16*,149.0,ROCH
+50,Profit before tax,12  Mar-16*,-41.0,ROCH
+51,Minority Interest,12  Mar-16*,23.0,ROCH
+52,Prior Period Items,12  Mar-16*,0.0,ROCH
+53,Extraordinary Inc (Exp),12  Mar-16*,13.0,ROCH
+54,Tax,12  Mar-16*,8.0,ROCH
+55,Profit after tax,12  Mar-16*,-13.0,ROCH
+56,Gross profit margin,12  Mar-16*,12.8,ROCH
+57,Effective tax rate,12  Mar-16*,-20.4,ROCH
+58,Net profit margin,12  Mar-16*,-0.8,ROCH
+59,Current assets,12  Mar-16*,402.0,ROCH
+60,Current liabilities,12  Mar-16*,1037.0,ROCH
+61,Net working cap to sales,12  Mar-16*,-40.1,ROCH
+62,Current ratio,12  Mar-16*,0.4,ROCH
+63,Inventory Days,12  Mar-16*,5.0,ROCH
+64,Debtors Days,12  Mar-16*,35.0,ROCH
+65,Net fixed assets,12  Mar-16*,2424.0,ROCH
+66,Share capital,12  Mar-16*,272.0,ROCH
+67,"""Free"" reserves",12  Mar-16*,1326.0,ROCH
+68,Net worth,12  Mar-16*,1598.0,ROCH
+69,Long term debt,12  Mar-16*,687.0,ROCH
+70,Total assets,12  Mar-16*,4006.0,ROCH
+71,Interest coverage,12  Mar-16*,0.7,ROCH
+72,Debt to equity ratio,12  Mar-16*,0.4,ROCH
+73,Sales to assets ratio,12  Mar-16*,0.4,ROCH
+74,Return on assets,12  Mar-16*,3.4,ROCH
+75,Return on equity,12  Mar-16*,-0.8,ROCH
+76,Return on capital,12  Mar-16*,6.3,ROCH
+77,Exports to sales,12  Mar-16*,0.0,ROCH
+78,Imports to sales,12  Mar-16*,0.2,ROCH
+79,Exports (fob),12  Mar-16*,0.0,ROCH
+80,Imports (cif),12  Mar-16*,3.0,ROCH
+81,Fx inflow,12  Mar-16*,93.0,ROCH
+82,Fx outflow,12  Mar-16*,12.0,ROCH
+83,Net fx,12  Mar-16*,82.0,ROCH
+84,From Operations,12  Mar-16*,233.0,ROCH
+85,From Investments,12  Mar-16*,-72.0,ROCH
+86,From Financial Activity,12  Mar-16*,-164.0,ROCH
+87,Net Cashflow,12  Mar-16*,-3.0,ROCH
+88,Net Sales,12  Mar-17*,1749.0,ROCH
+89,Other income,12  Mar-17*,128.0,ROCH
+90,Total revenues,12  Mar-17*,1876.0,ROCH
+91,Gross profit,12  Mar-17*,189.0,ROCH
+92,Depreciation,12  Mar-17*,161.0,ROCH
+93,Interest,12  Mar-17*,155.0,ROCH
+94,Profit before tax,12  Mar-17*,1.0,ROCH
+95,Minority Interest,12  Mar-17*,0.0,ROCH
+96,Prior Period Items,12  Mar-17*,0.0,ROCH
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ROCH
+98,Tax,12  Mar-17*,47.0,ROCH
+99,Profit after tax,12  Mar-17*,-46.0,ROCH
+100,Gross profit margin,12  Mar-17*,10.8,ROCH
+101,Effective tax rate,12  Mar-17*,4245.5,ROCH
+102,Net profit margin,12  Mar-17*,-2.6,ROCH
+103,Current assets,12  Mar-17*,547.0,ROCH
+104,Current liabilities,12  Mar-17*,825.0,ROCH
+105,Net working cap to sales,12  Mar-17*,-15.9,ROCH
+106,Current ratio,12  Mar-17*,0.7,ROCH
+107,Inventory Days,12  Mar-17*,5.0,ROCH
+108,Debtors Days,12  Mar-17*,39.0,ROCH
+109,Net fixed assets,12  Mar-17*,3079.0,ROCH
+110,Share capital,12  Mar-17*,272.0,ROCH
+111,"""Free"" reserves",12  Mar-17*,1391.0,ROCH
+112,Net worth,12  Mar-17*,1664.0,ROCH
+113,Long term debt,12  Mar-17*,1009.0,ROCH
+114,Total assets,12  Mar-17*,4078.0,ROCH
+115,Interest coverage,12  Mar-17*,1.0,ROCH
+116,Debt to equity ratio,12  Mar-17*,0.6,ROCH
+117,Sales to assets ratio,12  Mar-17*,0.4,ROCH
+118,Return on assets,12  Mar-17*,2.7,ROCH
+119,Return on equity,12  Mar-17*,-2.7,ROCH
+120,Return on capital,12  Mar-17*,5.8,ROCH
+121,Exports to sales,12  Mar-17*,0.0,ROCH
+122,Imports to sales,12  Mar-17*,0.0,ROCH
+123,Exports (fob),12  Mar-17*,0.0,ROCH
+124,Imports (cif),12  Mar-17*,0.0,ROCH
+125,Fx inflow,12  Mar-17*,105.0,ROCH
+126,Fx outflow,12  Mar-17*,3.0,ROCH
+127,Net fx,12  Mar-17*,101.0,ROCH
+128,From Operations,12  Mar-17*,267.0,ROCH
+129,From Investments,12  Mar-17*,-90.0,ROCH
+130,From Financial Activity,12  Mar-17*,-112.0,ROCH
+131,Net Cashflow,12  Mar-17*,65.0,ROCH
+132,Net Sales,12  Mar-18*,1895.0,ROCH
+133,Other income,12  Mar-18*,89.0,ROCH
+134,Total revenues,12  Mar-18*,1984.0,ROCH
+135,Gross profit,12  Mar-18*,294.0,ROCH
+136,Depreciation,12  Mar-18*,158.0,ROCH
+137,Interest,12  Mar-18*,147.0,ROCH
+138,Profit before tax,12  Mar-18*,78.0,ROCH
+139,Minority Interest,12  Mar-18*,0.0,ROCH
+140,Prior Period Items,12  Mar-18*,0.0,ROCH
+141,Extraordinary Inc (Exp),12  Mar-18*,15.0,ROCH
+142,Tax,12  Mar-18*,68.0,ROCH
+143,Profit after tax,12  Mar-18*,24.0,ROCH
+144,Gross profit margin,12  Mar-18*,15.5,ROCH
+145,Effective tax rate,12  Mar-18*,87.6,ROCH
+146,Net profit margin,12  Mar-18*,1.3,ROCH
+147,Current assets,12  Mar-18*,623.0,ROCH
+148,Current liabilities,12  Mar-18*,836.0,ROCH
+149,Net working cap to sales,12  Mar-18*,-11.2,ROCH
+150,Current ratio,12  Mar-18*,0.7,ROCH
+151,Inventory Days,12  Mar-18*,4.0,ROCH
+152,Debtors Days,12  Mar-18*,45.0,ROCH
+153,Net fixed assets,12  Mar-18*,2939.0,ROCH
+154,Share capital,12  Mar-18*,273.0,ROCH
+155,"""Free"" reserves",12  Mar-18*,1418.0,ROCH
+156,Net worth,12  Mar-18*,1691.0,ROCH
+157,Long term debt,12  Mar-18*,961.0,ROCH
+158,Total assets,12  Mar-18*,4021.0,ROCH
+159,Interest coverage,12  Mar-18*,1.5,ROCH
+160,Debt to equity ratio,12  Mar-18*,0.6,ROCH
+161,Sales to assets ratio,12  Mar-18*,0.5,ROCH
+162,Return on assets,12  Mar-18*,4.3,ROCH
+163,Return on equity,12  Mar-18*,1.4,ROCH
+164,Return on capital,12  Mar-18*,9.0,ROCH
+165,Exports to sales,12  Mar-18*,0.0,ROCH
+166,Imports to sales,12  Mar-18*,0.0,ROCH
+167,Exports (fob),12  Mar-18*,0.0,ROCH
+168,Imports (cif),12  Mar-18*,0.0,ROCH
+169,Fx inflow,12  Mar-18*,96.0,ROCH
+170,Fx outflow,12  Mar-18*,11.0,ROCH
+171,Net fx,12  Mar-18*,85.0,ROCH
+172,From Operations,12  Mar-18*,249.0,ROCH
+173,From Investments,12  Mar-18*,-7.0,ROCH
+174,From Financial Activity,12  Mar-18*,-185.0,ROCH
+175,Net Cashflow,12  Mar-18*,58.0,ROCH
+176,Net Sales,12  Mar-19*,2038.0,ROCH
+177,Other income,12  Mar-19*,152.0,ROCH
+178,Total revenues,12  Mar-19*,2191.0,ROCH
+179,Gross profit,12  Mar-19*,336.0,ROCH
+180,Depreciation,12  Mar-19*,143.0,ROCH
+181,Interest,12  Mar-19*,132.0,ROCH
+182,Profit before tax,12  Mar-19*,213.0,ROCH
+183,Minority Interest,12  Mar-19*,0.0,ROCH
+184,Prior Period Items,12  Mar-19*,0.0,ROCH
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ROCH
+186,Tax,12  Mar-19*,82.0,ROCH
+187,Profit after tax,12  Mar-19*,131.0,ROCH
+188,Gross profit margin,12  Mar-19*,16.5,ROCH
+189,Effective tax rate,12  Mar-19*,38.4,ROCH
+190,Net profit margin,12  Mar-19*,6.4,ROCH
+191,Current assets,12  Mar-19*,727.0,ROCH
+192,Current liabilities,12  Mar-19*,874.0,ROCH
+193,Net working cap to sales,12  Mar-19*,-7.2,ROCH
+194,Current ratio,12  Mar-19*,0.8,ROCH
+195,Inventory Days,12  Mar-19*,4.0,ROCH
+196,Debtors Days,12  Mar-19*,33.0,ROCH
+197,Net fixed assets,12  Mar-19*,2850.0,ROCH
+198,Share capital,12  Mar-19*,274.0,ROCH
+199,"""Free"" reserves",12  Mar-19*,1501.0,ROCH
+200,Net worth,12  Mar-19*,1775.0,ROCH
+201,Long term debt,12  Mar-19*,887.0,ROCH
+202,Total assets,12  Mar-19*,4035.0,ROCH
+203,Interest coverage,12  Mar-19*,2.6,ROCH
+204,Debt to equity ratio,12  Mar-19*,0.5,ROCH
+205,Sales to assets ratio,12  Mar-19*,0.5,ROCH
+206,Return on assets,12  Mar-19*,6.5,ROCH
+207,Return on equity,12  Mar-19*,7.4,ROCH
+208,Return on capital,12  Mar-19*,13.0,ROCH
+209,Exports to sales,12  Mar-19*,0.0,ROCH
+210,Imports to sales,12  Mar-19*,0.0,ROCH
+211,Exports (fob),12  Mar-19*,0.0,ROCH
+212,Imports (cif),12  Mar-19*,0.0,ROCH
+213,Fx inflow,12  Mar-19*,75.0,ROCH
+214,Fx outflow,12  Mar-19*,4.0,ROCH
+215,Net fx,12  Mar-19*,72.0,ROCH
+216,From Operations,12  Mar-19*,408.0,ROCH
+217,From Investments,12  Mar-19*,-46.0,ROCH
+218,From Financial Activity,12  Mar-19*,-228.0,ROCH
+219,Net Cashflow,12  Mar-19*,134.0,ROCH

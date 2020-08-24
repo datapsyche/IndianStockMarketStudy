@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,8957.0,EMCO
+1,Other income,12  Mar-14*,79.0,EMCO
+2,Total revenues,12  Mar-14*,9036.0,EMCO
+3,Gross profit,12  Mar-14*,818.0,EMCO
+4,Depreciation,12  Mar-14*,228.0,EMCO
+5,Interest,12  Mar-14*,674.0,EMCO
+6,Profit before tax,12  Mar-14*,-5.0,EMCO
+7,Minority Interest,12  Mar-14*,0.0,EMCO
+8,Prior Period Items,12  Mar-14*,0.0,EMCO
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,EMCO
+10,Tax,12  Mar-14*,37.0,EMCO
+11,Profit after tax,12  Mar-14*,-42.0,EMCO
+12,Gross profit margin,12  Mar-14*,9.1,EMCO
+13,Effective tax rate,12  Mar-14*,-725.5,EMCO
+14,Net profit margin,12  Mar-14*,-0.5,EMCO
+15,Current assets,12  Mar-14*,11416.0,EMCO
+16,Current liabilities,12  Mar-14*,10134.0,EMCO
+17,Net working cap to sales,12  Mar-14*,14.3,EMCO
+18,Current ratio,12  Mar-14*,1.1,EMCO
+19,Inventory Days,12  Mar-14*,102.0,EMCO
+20,Debtors Days,12  Mar-14*,239.0,EMCO
+21,Net fixed assets,12  Mar-14*,4423.0,EMCO
+22,Share capital,12  Mar-14*,130.0,EMCO
+23,"""Free"" reserves",12  Mar-14*,4477.0,EMCO
+24,Net worth,12  Mar-14*,4607.0,EMCO
+25,Long term debt,12  Mar-14*,1088.0,EMCO
+26,Total assets,12  Mar-14*,16157.0,EMCO
+27,Interest coverage,12  Mar-14*,1.0,EMCO
+28,Debt to equity ratio,12  Mar-14*,0.2,EMCO
+29,Sales to assets ratio,12  Mar-14*,0.6,EMCO
+30,Return on assets,12  Mar-14*,3.9,EMCO
+31,Return on equity,12  Mar-14*,-0.9,EMCO
+32,Return on capital,12  Mar-14*,11.7,EMCO
+33,Exports to sales,12  Mar-14*,28.3,EMCO
+34,Imports to sales,12  Mar-14*,9.8,EMCO
+35,Exports (fob),12  Mar-14*,2538.0,EMCO
+36,Imports (cif),12  Mar-14*,874.0,EMCO
+37,Fx inflow,12  Mar-14*,2591.0,EMCO
+38,Fx outflow,12  Mar-14*,1006.0,EMCO
+39,Net fx,12  Mar-14*,1585.0,EMCO
+40,From Operations,12  Mar-14*,357.0,EMCO
+41,From Investments,12  Mar-14*,-117.0,EMCO
+42,From Financial Activity,12  Mar-14*,-204.0,EMCO
+43,Net Cashflow,12  Mar-14*,37.0,EMCO
+44,Net Sales,12  Mar-15*,9709.0,EMCO
+45,Other income,12  Mar-15*,6.0,EMCO
+46,Total revenues,12  Mar-15*,9715.0,EMCO
+47,Gross profit,12  Mar-15*,891.0,EMCO
+48,Depreciation,12  Mar-15*,217.0,EMCO
+49,Interest,12  Mar-15*,770.0,EMCO
+50,Profit before tax,12  Mar-15*,-90.0,EMCO
+51,Minority Interest,12  Mar-15*,1.0,EMCO
+52,Prior Period Items,12  Mar-15*,0.0,EMCO
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,EMCO
+54,Tax,12  Mar-15*,26.0,EMCO
+55,Profit after tax,12  Mar-15*,-115.0,EMCO
+56,Gross profit margin,12  Mar-15*,9.2,EMCO
+57,Effective tax rate,12  Mar-15*,-29.3,EMCO
+58,Net profit margin,12  Mar-15*,-1.2,EMCO
+59,Current assets,12  Mar-15*,11274.0,EMCO
+60,Current liabilities,12  Mar-15*,9617.0,EMCO
+61,Net working cap to sales,12  Mar-15*,17.1,EMCO
+62,Current ratio,12  Mar-15*,1.2,EMCO
+63,Inventory Days,12  Mar-15*,77.0,EMCO
+64,Debtors Days,12  Mar-15*,204.0,EMCO
+65,Net fixed assets,12  Mar-15*,4527.0,EMCO
+66,Share capital,12  Mar-15*,136.0,EMCO
+67,"""Free"" reserves",12  Mar-15*,3506.0,EMCO
+68,Net worth,12  Mar-15*,3642.0,EMCO
+69,Long term debt,12  Mar-15*,1793.0,EMCO
+70,Total assets,12  Mar-15*,15294.0,EMCO
+71,Interest coverage,12  Mar-15*,0.9,EMCO
+72,Debt to equity ratio,12  Mar-15*,0.5,EMCO
+73,Sales to assets ratio,12  Mar-15*,0.6,EMCO
+74,Return on assets,12  Mar-15*,4.3,EMCO
+75,Return on equity,12  Mar-15*,-3.2,EMCO
+76,Return on capital,12  Mar-15*,12.5,EMCO
+77,Exports to sales,12  Mar-15*,23.3,EMCO
+78,Imports to sales,12  Mar-15*,6.8,EMCO
+79,Exports (fob),12  Mar-15*,2260.0,EMCO
+80,Imports (cif),12  Mar-15*,657.0,EMCO
+81,Fx inflow,12  Mar-15*,2319.0,EMCO
+82,Fx outflow,12  Mar-15*,892.0,EMCO
+83,Net fx,12  Mar-15*,1427.0,EMCO
+84,From Operations,12  Mar-15*,61.0,EMCO
+85,From Investments,12  Mar-15*,-140.0,EMCO
+86,From Financial Activity,12  Mar-15*,256.0,EMCO
+87,Net Cashflow,12  Mar-15*,178.0,EMCO
+88,Net Sales,12  Mar-16*,8068.0,EMCO
+89,Other income,12  Mar-16*,7.0,EMCO
+90,Total revenues,12  Mar-16*,8075.0,EMCO
+91,Gross profit,12  Mar-16*,589.0,EMCO
+92,Depreciation,12  Mar-16*,196.0,EMCO
+93,Interest,12  Mar-16*,1070.0,EMCO
+94,Profit before tax,12  Mar-16*,-670.0,EMCO
+95,Minority Interest,12  Mar-16*,0.0,EMCO
+96,Prior Period Items,12  Mar-16*,0.0,EMCO
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,EMCO
+98,Tax,12  Mar-16*,-227.0,EMCO
+99,Profit after tax,12  Mar-16*,-443.0,EMCO
+100,Gross profit margin,12  Mar-16*,7.3,EMCO
+101,Effective tax rate,12  Mar-16*,33.8,EMCO
+102,Net profit margin,12  Mar-16*,-5.5,EMCO
+103,Current assets,12  Mar-16*,11870.0,EMCO
+104,Current liabilities,12  Mar-16*,10988.0,EMCO
+105,Net working cap to sales,12  Mar-16*,10.9,EMCO
+106,Current ratio,12  Mar-16*,1.1,EMCO
+107,Inventory Days,12  Mar-16*,93.0,EMCO
+108,Debtors Days,12  Mar-16*,277.0,EMCO
+109,Net fixed assets,12  Mar-16*,4530.0,EMCO
+110,Share capital,12  Mar-16*,136.0,EMCO
+111,"""Free"" reserves",12  Mar-16*,3060.0,EMCO
+112,Net worth,12  Mar-16*,3195.0,EMCO
+113,Long term debt,12  Mar-16*,1660.0,EMCO
+114,Total assets,12  Mar-16*,15856.0,EMCO
+115,Interest coverage,12  Mar-16*,0.4,EMCO
+116,Debt to equity ratio,12  Mar-16*,0.5,EMCO
+117,Sales to assets ratio,12  Mar-16*,0.5,EMCO
+118,Return on assets,12  Mar-16*,4.0,EMCO
+119,Return on equity,12  Mar-16*,-13.9,EMCO
+120,Return on capital,12  Mar-16*,8.2,EMCO
+121,Exports to sales,12  Mar-16*,13.9,EMCO
+122,Imports to sales,12  Mar-16*,6.9,EMCO
+123,Exports (fob),12  Mar-16*,1125.0,EMCO
+124,Imports (cif),12  Mar-16*,559.0,EMCO
+125,Fx inflow,12  Mar-16*,1197.0,EMCO
+126,Fx outflow,12  Mar-16*,726.0,EMCO
+127,Net fx,12  Mar-16*,471.0,EMCO
+128,From Operations,12  Mar-16*,651.0,EMCO
+129,From Investments,12  Mar-16*,-293.0,EMCO
+130,From Financial Activity,12  Mar-16*,-574.0,EMCO
+131,Net Cashflow,12  Mar-16*,-216.0,EMCO
+132,Net Sales,12  Mar-17*,8414.0,EMCO
+133,Other income,12  Mar-17*,88.0,EMCO
+134,Total revenues,12  Mar-17*,8502.0,EMCO
+135,Gross profit,12  Mar-17*,746.0,EMCO
+136,Depreciation,12  Mar-17*,181.0,EMCO
+137,Interest,12  Mar-17*,1330.0,EMCO
+138,Profit before tax,12  Mar-17*,-677.0,EMCO
+139,Minority Interest,12  Mar-17*,124.0,EMCO
+140,Prior Period Items,12  Mar-17*,0.0,EMCO
+141,Extraordinary Inc (Exp),12  Mar-17*,-392.0,EMCO
+142,Tax,12  Mar-17*,-289.0,EMCO
+143,Profit after tax,12  Mar-17*,-656.0,EMCO
+144,Gross profit margin,12  Mar-17*,8.9,EMCO
+145,Effective tax rate,12  Mar-17*,42.6,EMCO
+146,Net profit margin,12  Mar-17*,-7.8,EMCO
+147,Current assets,12  Mar-17*,11951.0,EMCO
+148,Current liabilities,12  Mar-17*,12086.0,EMCO
+149,Net working cap to sales,12  Mar-17*,-1.6,EMCO
+150,Current ratio,12  Mar-17*,1.0,EMCO
+151,Inventory Days,12  Mar-17*,61.0,EMCO
+152,Debtors Days,12  Mar-17*,276.0,EMCO
+153,Net fixed assets,12  Mar-17*,3262.0,EMCO
+154,Share capital,12  Mar-17*,136.0,EMCO
+155,"""Free"" reserves",12  Mar-17*,2569.0,EMCO
+156,Net worth,12  Mar-17*,2704.0,EMCO
+157,Long term debt,12  Mar-17*,1021.0,EMCO
+158,Total assets,12  Mar-17*,15820.0,EMCO
+159,Interest coverage,12  Mar-17*,0.5,EMCO
+160,Debt to equity ratio,12  Mar-17*,0.4,EMCO
+161,Sales to assets ratio,12  Mar-17*,0.5,EMCO
+162,Return on assets,12  Mar-17*,4.3,EMCO
+163,Return on equity,12  Mar-17*,-24.3,EMCO
+164,Return on capital,12  Mar-17*,10.3,EMCO
+165,Exports to sales,12  Mar-17*,0.0,EMCO
+166,Imports to sales,12  Mar-17*,0.0,EMCO
+167,Exports (fob),12  Mar-17*,0.0,EMCO
+168,Imports (cif),12  Mar-17*,0.0,EMCO
+169,Fx inflow,12  Mar-17*,1111.0,EMCO
+170,Fx outflow,12  Mar-17*,1014.0,EMCO
+171,Net fx,12  Mar-17*,98.0,EMCO
+172,From Operations,12  Mar-17*,100.0,EMCO
+173,From Investments,12  Mar-17*,245.0,EMCO
+174,From Financial Activity,12  Mar-17*,-133.0,EMCO
+175,Net Cashflow,12  Mar-17*,211.0,EMCO
+176,Net Sales,12  Mar-18*,3918.0,EMCO
+177,Other income,12  Mar-18*,305.0,EMCO
+178,Total revenues,12  Mar-18*,4223.0,EMCO
+179,Gross profit,12  Mar-18*,-861.0,EMCO
+180,Depreciation,12  Mar-18*,167.0,EMCO
+181,Interest,12  Mar-18*,1477.0,EMCO
+182,Profit before tax,12  Mar-18*,-2200.0,EMCO
+183,Minority Interest,12  Mar-18*,355.0,EMCO
+184,Prior Period Items,12  Mar-18*,0.0,EMCO
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,EMCO
+186,Tax,12  Mar-18*,-727.0,EMCO
+187,Profit after tax,12  Mar-18*,-1118.0,EMCO
+188,Gross profit margin,12  Mar-18*,-22.0,EMCO
+189,Effective tax rate,12  Mar-18*,33.0,EMCO
+190,Net profit margin,12  Mar-18*,-28.5,EMCO
+191,Current assets,12  Mar-18*,10856.0,EMCO
+192,Current liabilities,12  Mar-18*,13727.0,EMCO
+193,Net working cap to sales,12  Mar-18*,-73.3,EMCO
+194,Current ratio,12  Mar-18*,0.8,EMCO
+195,Inventory Days,12  Mar-18*,151.0,EMCO
+196,Debtors Days,12  Mar-18*,534.0,EMCO
+197,Net fixed assets,12  Mar-18*,3053.0,EMCO
+198,Share capital,12  Mar-18*,136.0,EMCO
+199,"""Free"" reserves",12  Mar-18*,1136.0,EMCO
+200,Net worth,12  Mar-18*,1271.0,EMCO
+201,Long term debt,12  Mar-18*,227.0,EMCO
+202,Total assets,12  Mar-18*,15232.0,EMCO
+203,Interest coverage,12  Mar-18*,-0.5,EMCO
+204,Debt to equity ratio,12  Mar-18*,0.2,EMCO
+205,Sales to assets ratio,12  Mar-18*,0.3,EMCO
+206,Return on assets,12  Mar-18*,2.4,EMCO
+207,Return on equity,12  Mar-18*,-87.9,EMCO
+208,Return on capital,12  Mar-18*,-24.6,EMCO
+209,Exports to sales,12  Mar-18*,0.0,EMCO
+210,Imports to sales,12  Mar-18*,0.0,EMCO
+211,Exports (fob),12  Mar-18*,0.0,EMCO
+212,Imports (cif),12  Mar-18*,0.0,EMCO
+213,Fx inflow,12  Mar-18*,958.0,EMCO
+214,Fx outflow,12  Mar-18*,492.0,EMCO
+215,Net fx,12  Mar-18*,466.0,EMCO
+216,From Operations,12  Mar-18*,803.0,EMCO
+217,From Investments,12  Mar-18*,466.0,EMCO
+218,From Financial Activity,12  Mar-18*,-1385.0,EMCO
+219,Net Cashflow,12  Mar-18*,-117.0,EMCO

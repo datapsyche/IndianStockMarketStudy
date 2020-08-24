@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,21357.0,TLNP
+1,Other income,12  Mar-15,166.0,TLNP
+2,Total revenues,12  Mar-15,21524.0,TLNP
+3,Gross profit,12  Mar-15,5057.0,TLNP
+4,Depreciation,12  Mar-15,1373.0,TLNP
+5,Interest,12  Mar-15,1549.0,TLNP
+6,Profit before tax,12  Mar-15,2301.0,TLNP
+7,Minority Interest,12  Mar-15,0.0,TLNP
+8,Prior Period Items,12  Mar-15,0.0,TLNP
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,TLNP
+10,Tax,12  Mar-15,634.0,TLNP
+11,Profit after tax,12  Mar-15,1667.0,TLNP
+12,Gross profit margin,12  Mar-15,23.7,TLNP
+13,Effective tax rate,12  Mar-15,27.6,TLNP
+14,Net profit margin,12  Mar-15,7.8,TLNP
+15,Current assets,12  Mar-15,12335.0,TLNP
+16,Current liabilities,12  Mar-15,16658.0,TLNP
+17,Net working cap to sales,12  Mar-15,-20.2,TLNP
+18,Current ratio,12  Mar-15,0.7,TLNP
+19,Inventory Days,12  Mar-15,74.0,TLNP
+20,Debtors Days,12  Mar-15,86.0,TLNP
+21,Net fixed assets,12  Mar-15,30408.0,TLNP
+22,Share capital,12  Mar-15,694.0,TLNP
+23,"""Free"" reserves",12  Mar-15,11323.0,TLNP
+24,Net worth,12  Mar-15,12016.0,TLNP
+25,Long term debt,12  Mar-15,13692.0,TLNP
+26,Total assets,12  Mar-15,46975.0,TLNP
+27,Interest coverage,12  Mar-15,2.5,TLNP
+28,Debt to equity ratio,12  Mar-15,1.1,TLNP
+29,Sales to assets ratio,12  Mar-15,0.5,TLNP
+30,Return on assets,12  Mar-15,6.8,TLNP
+31,Return on equity,12  Mar-15,13.9,TLNP
+32,Return on capital,12  Mar-15,15.0,TLNP
+33,Exports to sales,12  Mar-15,17.1,TLNP
+34,Imports to sales,12  Mar-15,33.2,TLNP
+35,Exports (fob),12  Mar-15,3657.0,TLNP
+36,Imports (cif),12  Mar-15,7082.0,TLNP
+37,Fx inflow,12  Mar-15,3886.0,TLNP
+38,Fx outflow,12  Mar-15,8942.0,TLNP
+39,Net fx,12  Mar-15,-5056.0,TLNP
+40,From Operations,12  Mar-15,4040.0,TLNP
+41,From Investments,12  Mar-15,-7407.0,TLNP
+42,From Financial Activity,12  Mar-15,3447.0,TLNP
+43,Net Cashflow,12  Mar-15,81.0,TLNP
+44,Net Sales,12  Mar-16,24175.0,TLNP
+45,Other income,12  Mar-16,168.0,TLNP
+46,Total revenues,12  Mar-16,24343.0,TLNP
+47,Gross profit,12  Mar-16,5792.0,TLNP
+48,Depreciation,12  Mar-16,1395.0,TLNP
+49,Interest,12  Mar-16,1393.0,TLNP
+50,Profit before tax,12  Mar-16,3172.0,TLNP
+51,Minority Interest,12  Mar-16,0.0,TLNP
+52,Prior Period Items,12  Mar-16,0.0,TLNP
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,TLNP
+54,Tax,12  Mar-16,633.0,TLNP
+55,Profit after tax,12  Mar-16,2539.0,TLNP
+56,Gross profit margin,12  Mar-16,24.0,TLNP
+57,Effective tax rate,12  Mar-16,20.0,TLNP
+58,Net profit margin,12  Mar-16,10.5,TLNP
+59,Current assets,12  Mar-16,11370.0,TLNP
+60,Current liabilities,12  Mar-16,16286.0,TLNP
+61,Net working cap to sales,12  Mar-16,-20.3,TLNP
+62,Current ratio,12  Mar-16,0.7,TLNP
+63,Inventory Days,12  Mar-16,58.0,TLNP
+64,Debtors Days,12  Mar-16,63.0,TLNP
+65,Net fixed assets,12  Mar-16,42221.0,TLNP
+66,Share capital,12  Mar-16,694.0,TLNP
+67,"""Free"" reserves",12  Mar-16,13762.0,TLNP
+68,Net worth,12  Mar-16,14455.0,TLNP
+69,Long term debt,12  Mar-16,19387.0,TLNP
+70,Total assets,12  Mar-16,54882.0,TLNP
+71,Interest coverage,12  Mar-16,3.3,TLNP
+72,Debt to equity ratio,12  Mar-16,1.3,TLNP
+73,Sales to assets ratio,12  Mar-16,0.4,TLNP
+74,Return on assets,12  Mar-16,7.2,TLNP
+75,Return on equity,12  Mar-16,17.6,TLNP
+76,Return on capital,12  Mar-16,13.5,TLNP
+77,Exports to sales,12  Mar-16,14.9,TLNP
+78,Imports to sales,12  Mar-16,30.8,TLNP
+79,Exports (fob),12  Mar-16,3590.0,TLNP
+80,Imports (cif),12  Mar-16,7449.0,TLNP
+81,Fx inflow,12  Mar-16,3731.0,TLNP
+82,Fx outflow,12  Mar-16,8372.0,TLNP
+83,Net fx,12  Mar-16,-4641.0,TLNP
+84,From Operations,12  Mar-16,6591.0,TLNP
+85,From Investments,12  Mar-16,-8934.0,TLNP
+86,From Financial Activity,12  Mar-16,2301.0,TLNP
+87,Net Cashflow,12  Mar-16,-42.0,TLNP
+88,Net Sales,12  Mar-17,29576.0,TLNP
+89,Other income,12  Mar-17,370.0,TLNP
+90,Total revenues,12  Mar-17,29945.0,TLNP
+91,Gross profit,12  Mar-17,7290.0,TLNP
+92,Depreciation,12  Mar-17,2077.0,TLNP
+93,Interest,12  Mar-17,2520.0,TLNP
+94,Profit before tax,12  Mar-17,3062.0,TLNP
+95,Minority Interest,12  Mar-17,0.0,TLNP
+96,Prior Period Items,12  Mar-17,0.0,TLNP
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,TLNP
+98,Tax,12  Mar-17,416.0,TLNP
+99,Profit after tax,12  Mar-17,2646.0,TLNP
+100,Gross profit margin,12  Mar-17,24.6,TLNP
+101,Effective tax rate,12  Mar-17,13.6,TLNP
+102,Net profit margin,12  Mar-17,8.9,TLNP
+103,Current assets,12  Mar-17,13603.0,TLNP
+104,Current liabilities,12  Mar-17,19666.0,TLNP
+105,Net working cap to sales,12  Mar-17,-20.5,TLNP
+106,Current ratio,12  Mar-17,0.7,TLNP
+107,Inventory Days,12  Mar-17,71.0,TLNP
+108,Debtors Days,12  Mar-17,66.0,TLNP
+109,Net fixed assets,12  Mar-17,40726.0,TLNP
+110,Share capital,12  Mar-17,694.0,TLNP
+111,"""Free"" reserves",12  Mar-17,16353.0,TLNP
+112,Net worth,12  Mar-17,17047.0,TLNP
+113,Long term debt,12  Mar-17,16521.0,TLNP
+114,Total assets,12  Mar-17,56344.0,TLNP
+115,Interest coverage,12  Mar-17,2.2,TLNP
+116,Debt to equity ratio,12  Mar-17,1.0,TLNP
+117,Sales to assets ratio,12  Mar-17,0.5,TLNP
+118,Return on assets,12  Mar-17,9.2,TLNP
+119,Return on equity,12  Mar-17,15.5,TLNP
+120,Return on capital,12  Mar-17,16.6,TLNP
+121,Exports to sales,12  Mar-17,14.0,TLNP
+122,Imports to sales,12  Mar-17,23.4,TLNP
+123,Exports (fob),12  Mar-17,4147.0,TLNP
+124,Imports (cif),12  Mar-17,6926.0,TLNP
+125,Fx inflow,12  Mar-17,4315.0,TLNP
+126,Fx outflow,12  Mar-17,7285.0,TLNP
+127,Net fx,12  Mar-17,-2970.0,TLNP
+128,From Operations,12  Mar-17,2840.0,TLNP
+129,From Investments,12  Mar-17,-901.0,TLNP
+130,From Financial Activity,12  Mar-17,-2526.0,TLNP
+131,Net Cashflow,12  Mar-17,-588.0,TLNP
+132,Net Sales,12  Mar-18,30983.0,TLNP
+133,Other income,12  Mar-18,336.0,TLNP
+134,Total revenues,12  Mar-18,31319.0,TLNP
+135,Gross profit,12  Mar-18,4049.0,TLNP
+136,Depreciation,12  Mar-18,2218.0,TLNP
+137,Interest,12  Mar-18,2446.0,TLNP
+138,Profit before tax,12  Mar-18,-280.0,TLNP
+139,Minority Interest,12  Mar-18,0.0,TLNP
+140,Prior Period Items,12  Mar-18,0.0,TLNP
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,TLNP
+142,Tax,12  Mar-18,142.0,TLNP
+143,Profit after tax,12  Mar-18,-422.0,TLNP
+144,Gross profit margin,12  Mar-18,13.1,TLNP
+145,Effective tax rate,12  Mar-18,-50.6,TLNP
+146,Net profit margin,12  Mar-18,-1.4,TLNP
+147,Current assets,12  Mar-18,13362.0,TLNP
+148,Current liabilities,12  Mar-18,21392.0,TLNP
+149,Net working cap to sales,12  Mar-18,-25.9,TLNP
+150,Current ratio,12  Mar-18,0.6,TLNP
+151,Inventory Days,12  Mar-18,57.0,TLNP
+152,Debtors Days,12  Mar-18,71.0,TLNP
+153,Net fixed assets,12  Mar-18,40961.0,TLNP
+154,Share capital,12  Mar-18,694.0,TLNP
+155,"""Free"" reserves",12  Mar-18,15338.0,TLNP
+156,Net worth,12  Mar-18,16031.0,TLNP
+157,Long term debt,12  Mar-18,14503.0,TLNP
+158,Total assets,12  Mar-18,55247.0,TLNP
+159,Interest coverage,12  Mar-18,0.9,TLNP
+160,Debt to equity ratio,12  Mar-18,0.9,TLNP
+161,Sales to assets ratio,12  Mar-18,0.6,TLNP
+162,Return on assets,12  Mar-18,3.7,TLNP
+163,Return on equity,12  Mar-18,-2.6,TLNP
+164,Return on capital,12  Mar-18,7.1,TLNP
+165,Exports to sales,12  Mar-18,16.7,TLNP
+166,Imports to sales,12  Mar-18,28.6,TLNP
+167,Exports (fob),12  Mar-18,5171.0,TLNP
+168,Imports (cif),12  Mar-18,8855.0,TLNP
+169,Fx inflow,12  Mar-18,5360.0,TLNP
+170,Fx outflow,12  Mar-18,9107.0,TLNP
+171,Net fx,12  Mar-18,-3747.0,TLNP
+172,From Operations,12  Mar-18,8327.0,TLNP
+173,From Investments,12  Mar-18,-1148.0,TLNP
+174,From Financial Activity,12  Mar-18,-5737.0,TLNP
+175,Net Cashflow,12  Mar-18,1442.0,TLNP
+176,Net Sales,12  Mar-19,40827.0,TLNP
+177,Other income,12  Mar-19,392.0,TLNP
+178,Total revenues,12  Mar-19,41220.0,TLNP
+179,Gross profit,12  Mar-19,5760.0,TLNP
+180,Depreciation,12  Mar-19,2267.0,TLNP
+181,Interest,12  Mar-19,2334.0,TLNP
+182,Profit before tax,12  Mar-19,1552.0,TLNP
+183,Minority Interest,12  Mar-19,0.0,TLNP
+184,Prior Period Items,12  Mar-19,0.0,TLNP
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,TLNP
+186,Tax,12  Mar-19,608.0,TLNP
+187,Profit after tax,12  Mar-19,944.0,TLNP
+188,Gross profit margin,12  Mar-19,14.1,TLNP
+189,Effective tax rate,12  Mar-19,39.2,TLNP
+190,Net profit margin,12  Mar-19,2.3,TLNP
+191,Current assets,12  Mar-19,15633.0,TLNP
+192,Current liabilities,12  Mar-19,22957.0,TLNP
+193,Net working cap to sales,12  Mar-19,-17.9,TLNP
+194,Current ratio,12  Mar-19,0.7,TLNP
+195,Inventory Days,12  Mar-19,77.0,TLNP
+196,Debtors Days,12  Mar-19,39.0,TLNP
+197,Net fixed assets,12  Mar-19,39105.0,TLNP
+198,Share capital,12  Mar-19,694.0,TLNP
+199,"""Free"" reserves",12  Mar-19,15823.0,TLNP
+200,Net worth,12  Mar-19,16517.0,TLNP
+201,Long term debt,12  Mar-19,12470.0,TLNP
+202,Total assets,12  Mar-19,55315.0,TLNP
+203,Interest coverage,12  Mar-19,1.7,TLNP
+204,Debt to equity ratio,12  Mar-19,0.8,TLNP
+205,Sales to assets ratio,12  Mar-19,0.7,TLNP
+206,Return on assets,12  Mar-19,5.9,TLNP
+207,Return on equity,12  Mar-19,5.7,TLNP
+208,Return on capital,12  Mar-19,13.4,TLNP
+209,Exports to sales,12  Mar-19,13.0,TLNP
+210,Imports to sales,12  Mar-19,30.6,TLNP
+211,Exports (fob),12  Mar-19,5310.0,TLNP
+212,Imports (cif),12  Mar-19,12495.0,TLNP
+213,Fx inflow,12  Mar-19,5508.0,TLNP
+214,Fx outflow,12  Mar-19,12495.0,TLNP
+215,Net fx,12  Mar-19,-6986.0,TLNP
+216,From Operations,12  Mar-19,8189.0,TLNP
+217,From Investments,12  Mar-19,-469.0,TLNP
+218,From Financial Activity,12  Mar-19,-8489.0,TLNP
+219,Net Cashflow,12  Mar-19,-769.0,TLNP

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,1957.0,EMEL
+1,Other income,12  Mar-15,54.0,EMEL
+2,Total revenues,12  Mar-15,2012.0,EMEL
+3,Gross profit,12  Mar-15,294.0,EMEL
+4,Depreciation,12  Mar-15,43.0,EMEL
+5,Interest,12  Mar-15,5.0,EMEL
+6,Profit before tax,12  Mar-15,301.0,EMEL
+7,Minority Interest,12  Mar-15,0.0,EMEL
+8,Prior Period Items,12  Mar-15,0.0,EMEL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,EMEL
+10,Tax,12  Mar-15,86.0,EMEL
+11,Profit after tax,12  Mar-15,215.0,EMEL
+12,Gross profit margin,12  Mar-15,15.0,EMEL
+13,Effective tax rate,12  Mar-15,28.5,EMEL
+14,Net profit margin,12  Mar-15,11.0,EMEL
+15,Current assets,12  Mar-15,1909.0,EMEL
+16,Current liabilities,12  Mar-15,384.0,EMEL
+17,Net working cap to sales,12  Mar-15,77.9,EMEL
+18,Current ratio,12  Mar-15,5.0,EMEL
+19,Inventory Days,12  Mar-15,58.0,EMEL
+20,Debtors Days,12  Mar-15,165.0,EMEL
+21,Net fixed assets,12  Mar-15,281.0,EMEL
+22,Share capital,12  Mar-15,58.0,EMEL
+23,"""Free"" reserves",12  Mar-15,1991.0,EMEL
+24,Net worth,12  Mar-15,2049.0,EMEL
+25,Long term debt,12  Mar-15,0.0,EMEL
+26,Total assets,12  Mar-15,2439.0,EMEL
+27,Interest coverage,12  Mar-15,67.8,EMEL
+28,Debt to equity ratio,12  Mar-15,0.0,EMEL
+29,Sales to assets ratio,12  Mar-15,0.8,EMEL
+30,Return on assets,12  Mar-15,9.0,EMEL
+31,Return on equity,12  Mar-15,10.5,EMEL
+32,Return on capital,12  Mar-15,14.9,EMEL
+33,Exports to sales,12  Mar-15,0.7,EMEL
+34,Imports to sales,12  Mar-15,14.4,EMEL
+35,Exports (fob),12  Mar-15,13.0,EMEL
+36,Imports (cif),12  Mar-15,281.0,EMEL
+37,Fx inflow,12  Mar-15,13.0,EMEL
+38,Fx outflow,12  Mar-15,282.0,EMEL
+39,Net fx,12  Mar-15,-268.0,EMEL
+40,From Operations,12  Mar-15,191.0,EMEL
+41,From Investments,12  Mar-15,-161.0,EMEL
+42,From Financial Activity,12  Mar-15,-27.0,EMEL
+43,Net Cashflow,12  Mar-15,3.0,EMEL
+44,Net Sales,12  Mar-16,1388.0,EMEL
+45,Other income,12  Mar-16,39.0,EMEL
+46,Total revenues,12  Mar-16,1427.0,EMEL
+47,Gross profit,12  Mar-16,557.0,EMEL
+48,Depreciation,12  Mar-16,368.0,EMEL
+49,Interest,12  Mar-16,3.0,EMEL
+50,Profit before tax,12  Mar-16,225.0,EMEL
+51,Minority Interest,12  Mar-16,0.0,EMEL
+52,Prior Period Items,12  Mar-16,0.0,EMEL
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,EMEL
+54,Tax,12  Mar-16,58.0,EMEL
+55,Profit after tax,12  Mar-16,166.0,EMEL
+56,Gross profit margin,12  Mar-16,40.2,EMEL
+57,Effective tax rate,12  Mar-16,26.0,EMEL
+58,Net profit margin,12  Mar-16,12.0,EMEL
+59,Current assets,12  Mar-16,1976.0,EMEL
+60,Current liabilities,12  Mar-16,317.0,EMEL
+61,Net working cap to sales,12  Mar-16,119.5,EMEL
+62,Current ratio,12  Mar-16,6.2,EMEL
+63,Inventory Days,12  Mar-16,99.0,EMEL
+64,Debtors Days,12  Mar-16,136.0,EMEL
+65,Net fixed assets,12  Mar-16,301.0,EMEL
+66,Share capital,12  Mar-16,58.0,EMEL
+67,"""Free"" reserves",12  Mar-16,2123.0,EMEL
+68,Net worth,12  Mar-16,2181.0,EMEL
+69,Long term debt,12  Mar-16,0.0,EMEL
+70,Total assets,12  Mar-16,2503.0,EMEL
+71,Interest coverage,12  Mar-16,75.9,EMEL
+72,Debt to equity ratio,12  Mar-16,0.0,EMEL
+73,Sales to assets ratio,12  Mar-16,0.6,EMEL
+74,Return on assets,12  Mar-16,6.8,EMEL
+75,Return on equity,12  Mar-16,7.6,EMEL
+76,Return on capital,12  Mar-16,10.4,EMEL
+77,Exports to sales,12  Mar-16,0.9,EMEL
+78,Imports to sales,12  Mar-16,13.9,EMEL
+79,Exports (fob),12  Mar-16,13.0,EMEL
+80,Imports (cif),12  Mar-16,193.0,EMEL
+81,Fx inflow,12  Mar-16,13.0,EMEL
+82,Fx outflow,12  Mar-16,193.0,EMEL
+83,Net fx,12  Mar-16,-180.0,EMEL
+84,From Operations,12  Mar-16,423.0,EMEL
+85,From Investments,12  Mar-16,-416.0,EMEL
+86,From Financial Activity,12  Mar-16,-35.0,EMEL
+87,Net Cashflow,12  Mar-16,-27.0,EMEL
+88,Net Sales,12  Mar-17,1712.0,EMEL
+89,Other income,12  Mar-17,135.0,EMEL
+90,Total revenues,12  Mar-17,1847.0,EMEL
+91,Gross profit,12  Mar-17,219.0,EMEL
+92,Depreciation,12  Mar-17,52.0,EMEL
+93,Interest,12  Mar-17,4.0,EMEL
+94,Profit before tax,12  Mar-17,298.0,EMEL
+95,Minority Interest,12  Mar-17,0.0,EMEL
+96,Prior Period Items,12  Mar-17,-4.0,EMEL
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,EMEL
+98,Tax,12  Mar-17,47.0,EMEL
+99,Profit after tax,12  Mar-17,247.0,EMEL
+100,Gross profit margin,12  Mar-17,12.8,EMEL
+101,Effective tax rate,12  Mar-17,15.8,EMEL
+102,Net profit margin,12  Mar-17,14.4,EMEL
+103,Current assets,12  Mar-17,1650.0,EMEL
+104,Current liabilities,12  Mar-17,223.0,EMEL
+105,Net working cap to sales,12  Mar-17,83.3,EMEL
+106,Current ratio,12  Mar-17,7.4,EMEL
+107,Inventory Days,12  Mar-17,73.0,EMEL
+108,Debtors Days,12  Mar-17,104.0,EMEL
+109,Net fixed assets,12  Mar-17,676.0,EMEL
+110,Share capital,12  Mar-17,58.0,EMEL
+111,"""Free"" reserves",12  Mar-17,2759.0,EMEL
+112,Net worth,12  Mar-17,2816.0,EMEL
+113,Long term debt,12  Mar-17,0.0,EMEL
+114,Total assets,12  Mar-17,3139.0,EMEL
+115,Interest coverage,12  Mar-17,79.4,EMEL
+116,Debt to equity ratio,12  Mar-17,0.0,EMEL
+117,Sales to assets ratio,12  Mar-17,0.5,EMEL
+118,Return on assets,12  Mar-17,8.0,EMEL
+119,Return on equity,12  Mar-17,8.8,EMEL
+120,Return on capital,12  Mar-17,10.6,EMEL
+121,Exports to sales,12  Mar-17,0.3,EMEL
+122,Imports to sales,12  Mar-17,0.0,EMEL
+123,Exports (fob),12  Mar-17,6.0,EMEL
+124,Imports (cif),12  Mar-17,0.0,EMEL
+125,Fx inflow,12  Mar-17,6.0,EMEL
+126,Fx outflow,12  Mar-17,186.0,EMEL
+127,Net fx,12  Mar-17,-180.0,EMEL
+128,From Operations,12  Mar-17,186.0,EMEL
+129,From Investments,12  Mar-17,-143.0,EMEL
+130,From Financial Activity,12  Mar-17,-35.0,EMEL
+131,Net Cashflow,12  Mar-17,9.0,EMEL
+132,Net Sales,12  Mar-18,1401.0,EMEL
+133,Other income,12  Mar-18,96.0,EMEL
+134,Total revenues,12  Mar-18,1497.0,EMEL
+135,Gross profit,12  Mar-18,154.0,EMEL
+136,Depreciation,12  Mar-18,50.0,EMEL
+137,Interest,12  Mar-18,5.0,EMEL
+138,Profit before tax,12  Mar-18,194.0,EMEL
+139,Minority Interest,12  Mar-18,0.0,EMEL
+140,Prior Period Items,12  Mar-18,-2.0,EMEL
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,EMEL
+142,Tax,12  Mar-18,30.0,EMEL
+143,Profit after tax,12  Mar-18,163.0,EMEL
+144,Gross profit margin,12  Mar-18,11.0,EMEL
+145,Effective tax rate,12  Mar-18,15.4,EMEL
+146,Net profit margin,12  Mar-18,11.6,EMEL
+147,Current assets,12  Mar-18,1730.0,EMEL
+148,Current liabilities,12  Mar-18,334.0,EMEL
+149,Net working cap to sales,12  Mar-18,99.7,EMEL
+150,Current ratio,12  Mar-18,5.2,EMEL
+151,Inventory Days,12  Mar-18,102.0,EMEL
+152,Debtors Days,12  Mar-18,157.0,EMEL
+153,Net fixed assets,12  Mar-18,773.0,EMEL
+154,Share capital,12  Mar-18,58.0,EMEL
+155,"""Free"" reserves",12  Mar-18,2888.0,EMEL
+156,Net worth,12  Mar-18,2946.0,EMEL
+157,Long term debt,12  Mar-18,6.0,EMEL
+158,Total assets,12  Mar-18,3380.0,EMEL
+159,Interest coverage,12  Mar-18,37.0,EMEL
+160,Debt to equity ratio,12  Mar-18,0.0,EMEL
+161,Sales to assets ratio,12  Mar-18,0.4,EMEL
+162,Return on assets,12  Mar-18,5.0,EMEL
+163,Return on equity,12  Mar-18,5.5,EMEL
+164,Return on capital,12  Mar-18,6.7,EMEL
+165,Exports to sales,12  Mar-18,1.2,EMEL
+166,Imports to sales,12  Mar-18,0.0,EMEL
+167,Exports (fob),12  Mar-18,17.0,EMEL
+168,Imports (cif),12  Mar-18,0.0,EMEL
+169,Fx inflow,12  Mar-18,17.0,EMEL
+170,Fx outflow,12  Mar-18,186.0,EMEL
+171,Net fx,12  Mar-18,-169.0,EMEL
+172,From Operations,12  Mar-18,98.0,EMEL
+173,From Investments,12  Mar-18,-52.0,EMEL
+174,From Financial Activity,12  Mar-18,-29.0,EMEL
+175,Net Cashflow,12  Mar-18,17.0,EMEL
+176,Net Sales,12  Mar-19,1843.0,EMEL
+177,Other income,12  Mar-19,107.0,EMEL
+178,Total revenues,12  Mar-19,1950.0,EMEL
+179,Gross profit,12  Mar-19,253.0,EMEL
+180,Depreciation,12  Mar-19,50.0,EMEL
+181,Interest,12  Mar-19,6.0,EMEL
+182,Profit before tax,12  Mar-19,304.0,EMEL
+183,Minority Interest,12  Mar-19,0.0,EMEL
+184,Prior Period Items,12  Mar-19,0.0,EMEL
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,EMEL
+186,Tax,12  Mar-19,72.0,EMEL
+187,Profit after tax,12  Mar-19,232.0,EMEL
+188,Gross profit margin,12  Mar-19,13.7,EMEL
+189,Effective tax rate,12  Mar-19,23.7,EMEL
+190,Net profit margin,12  Mar-19,12.6,EMEL
+191,Current assets,12  Mar-19,1184.0,EMEL
+192,Current liabilities,12  Mar-19,273.0,EMEL
+193,Net working cap to sales,12  Mar-19,49.4,EMEL
+194,Current ratio,12  Mar-19,4.3,EMEL
+195,Inventory Days,12  Mar-19,80.0,EMEL
+196,Debtors Days,12  Mar-19,120.0,EMEL
+197,Net fixed assets,12  Mar-19,837.0,EMEL
+198,Share capital,12  Mar-19,58.0,EMEL
+199,"""Free"" reserves",12  Mar-19,3086.0,EMEL
+200,Net worth,12  Mar-19,3143.0,EMEL
+201,Long term debt,12  Mar-19,16.0,EMEL
+202,Total assets,12  Mar-19,3530.0,EMEL
+203,Interest coverage,12  Mar-19,54.4,EMEL
+204,Debt to equity ratio,12  Mar-19,0.0,EMEL
+205,Sales to assets ratio,12  Mar-19,0.5,EMEL
+206,Return on assets,12  Mar-19,6.7,EMEL
+207,Return on equity,12  Mar-19,7.4,EMEL
+208,Return on capital,12  Mar-19,9.8,EMEL
+209,Exports to sales,12  Mar-19,2.8,EMEL
+210,Imports to sales,12  Mar-19,0.0,EMEL
+211,Exports (fob),12  Mar-19,52.0,EMEL
+212,Imports (cif),12  Mar-19,0.0,EMEL
+213,Fx inflow,12  Mar-19,52.0,EMEL
+214,Fx outflow,12  Mar-19,265.0,EMEL
+215,Net fx,12  Mar-19,-212.0,EMEL
+216,From Operations,12  Mar-19,101.0,EMEL
+217,From Investments,12  Mar-19,-80.0,EMEL
+218,From Financial Activity,12  Mar-19,-25.0,EMEL
+219,Net Cashflow,12  Mar-19,-5.0,EMEL

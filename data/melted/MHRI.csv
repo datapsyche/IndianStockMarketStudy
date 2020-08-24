@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8119.0,MHRI
+1,Other income,12  Mar-15*,178.0,MHRI
+2,Total revenues,12  Mar-15*,8296.0,MHRI
+3,Gross profit,12  Mar-15*,1555.0,MHRI
+4,Depreciation,12  Mar-15*,634.0,MHRI
+5,Interest,12  Mar-15*,26.0,MHRI
+6,Profit before tax,12  Mar-15*,1073.0,MHRI
+7,Minority Interest,12  Mar-15*,3.0,MHRI
+8,Prior Period Items,12  Mar-15*,7.0,MHRI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MHRI
+10,Tax,12  Mar-15*,270.0,MHRI
+11,Profit after tax,12  Mar-15*,812.0,MHRI
+12,Gross profit margin,12  Mar-15*,19.2,MHRI
+13,Effective tax rate,12  Mar-15*,25.2,MHRI
+14,Net profit margin,12  Mar-15*,10.0,MHRI
+15,Current assets,12  Mar-15*,7741.0,MHRI
+16,Current liabilities,12  Mar-15*,3425.0,MHRI
+17,Net working cap to sales,12  Mar-15*,53.2,MHRI
+18,Current ratio,12  Mar-15*,2.3,MHRI
+19,Inventory Days,12  Mar-15*,3.0,MHRI
+20,Debtors Days,12  Mar-15*,320.0,MHRI
+21,Net fixed assets,12  Mar-15*,11293.0,MHRI
+22,Share capital,12  Mar-15*,880.0,MHRI
+23,"""Free"" reserves",12  Mar-15*,6369.0,MHRI
+24,Net worth,12  Mar-15*,7251.0,MHRI
+25,Long term debt,12  Mar-15*,1174.0,MHRI
+26,Total assets,12  Mar-15*,25611.0,MHRI
+27,Interest coverage,12  Mar-15*,42.4,MHRI
+28,Debt to equity ratio,12  Mar-15*,0.2,MHRI
+29,Sales to assets ratio,12  Mar-15*,0.3,MHRI
+30,Return on assets,12  Mar-15*,3.3,MHRI
+31,Return on equity,12  Mar-15*,11.2,MHRI
+32,Return on capital,12  Mar-15*,13.2,MHRI
+33,Exports to sales,12  Mar-15*,0.0,MHRI
+34,Imports to sales,12  Mar-15*,0.6,MHRI
+35,Exports (fob),12  Mar-15*,0.0,MHRI
+36,Imports (cif),12  Mar-15*,49.0,MHRI
+37,Fx inflow,12  Mar-15*,88.0,MHRI
+38,Fx outflow,12  Mar-15*,292.0,MHRI
+39,Net fx,12  Mar-15*,-204.0,MHRI
+40,From Operations,12  Mar-15*,2008.0,MHRI
+41,From Investments,12  Mar-15*,-3097.0,MHRI
+42,From Financial Activity,12  Mar-15*,779.0,MHRI
+43,Net Cashflow,12  Mar-15*,-310.0,MHRI
+44,Net Sales,12  Mar-16*,16021.0,MHRI
+45,Other income,12  Mar-16*,109.0,MHRI
+46,Total revenues,12  Mar-16*,16130.0,MHRI
+47,Gross profit,12  Mar-16*,2633.0,MHRI
+48,Depreciation,12  Mar-16*,976.0,MHRI
+49,Interest,12  Mar-16*,152.0,MHRI
+50,Profit before tax,12  Mar-16*,1614.0,MHRI
+51,Minority Interest,12  Mar-16*,0.0,MHRI
+52,Prior Period Items,12  Mar-16*,-149.0,MHRI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MHRI
+54,Tax,12  Mar-16*,564.0,MHRI
+55,Profit after tax,12  Mar-16*,901.0,MHRI
+56,Gross profit margin,12  Mar-16*,16.4,MHRI
+57,Effective tax rate,12  Mar-16*,34.9,MHRI
+58,Net profit margin,12  Mar-16*,5.6,MHRI
+59,Current assets,12  Mar-16*,15486.0,MHRI
+60,Current liabilities,12  Mar-16*,7196.0,MHRI
+61,Net working cap to sales,12  Mar-16*,51.7,MHRI
+62,Current ratio,12  Mar-16*,2.2,MHRI
+63,Inventory Days,12  Mar-16*,86.0,MHRI
+64,Debtors Days,12  Mar-16*,213.0,MHRI
+65,Net fixed assets,12  Mar-16*,14143.0,MHRI
+66,Share capital,12  Mar-16*,881.0,MHRI
+67,"""Free"" reserves",12  Mar-16*,5816.0,MHRI
+68,Net worth,12  Mar-16*,6703.0,MHRI
+69,Long term debt,12  Mar-16*,6321.0,MHRI
+70,Total assets,12  Mar-16*,36288.0,MHRI
+71,Interest coverage,12  Mar-16*,11.7,MHRI
+72,Debt to equity ratio,12  Mar-16*,0.9,MHRI
+73,Sales to assets ratio,12  Mar-16*,0.4,MHRI
+74,Return on assets,12  Mar-16*,2.9,MHRI
+75,Return on equity,12  Mar-16*,13.4,MHRI
+76,Return on capital,12  Mar-16*,12.4,MHRI
+77,Exports to sales,12  Mar-16*,0.0,MHRI
+78,Imports to sales,12  Mar-16*,0.1,MHRI
+79,Exports (fob),12  Mar-16*,0.0,MHRI
+80,Imports (cif),12  Mar-16*,11.0,MHRI
+81,Fx inflow,12  Mar-16*,63.0,MHRI
+82,Fx outflow,12  Mar-16*,341.0,MHRI
+83,Net fx,12  Mar-16*,-278.0,MHRI
+84,From Operations,12  Mar-16*,2419.0,MHRI
+85,From Investments,12  Mar-16*,-3857.0,MHRI
+86,From Financial Activity,12  Mar-16*,2744.0,MHRI
+87,Net Cashflow,12  Mar-16*,1306.0,MHRI
+88,Net Sales,12  Mar-17*,22666.0,MHRI
+89,Other income,12  Mar-17*,278.0,MHRI
+90,Total revenues,12  Mar-17*,22944.0,MHRI
+91,Gross profit,12  Mar-17*,3219.0,MHRI
+92,Depreciation,12  Mar-17*,1059.0,MHRI
+93,Interest,12  Mar-17*,197.0,MHRI
+94,Profit before tax,12  Mar-17*,2241.0,MHRI
+95,Minority Interest,12  Mar-17*,0.0,MHRI
+96,Prior Period Items,12  Mar-17*,1.0,MHRI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MHRI
+98,Tax,12  Mar-17*,786.0,MHRI
+99,Profit after tax,12  Mar-17*,1456.0,MHRI
+100,Gross profit margin,12  Mar-17*,14.2,MHRI
+101,Effective tax rate,12  Mar-17*,35.1,MHRI
+102,Net profit margin,12  Mar-17*,6.4,MHRI
+103,Current assets,12  Mar-17*,17867.0,MHRI
+104,Current liabilities,12  Mar-17*,7137.0,MHRI
+105,Net working cap to sales,12  Mar-17*,47.3,MHRI
+106,Current ratio,12  Mar-17*,2.5,MHRI
+107,Inventory Days,12  Mar-17*,64.0,MHRI
+108,Debtors Days,12  Mar-17*,164.0,MHRI
+109,Net fixed assets,12  Mar-17*,14443.0,MHRI
+110,Share capital,12  Mar-17*,882.0,MHRI
+111,"""Free"" reserves",12  Mar-17*,5092.0,MHRI
+112,Net worth,12  Mar-17*,5974.0,MHRI
+113,Long term debt,12  Mar-17*,6938.0,MHRI
+114,Total assets,12  Mar-17*,39605.0,MHRI
+115,Interest coverage,12  Mar-17*,12.4,MHRI
+116,Debt to equity ratio,12  Mar-17*,1.2,MHRI
+117,Sales to assets ratio,12  Mar-17*,0.6,MHRI
+118,Return on assets,12  Mar-17*,4.2,MHRI
+119,Return on equity,12  Mar-17*,24.4,MHRI
+120,Return on capital,12  Mar-17*,18.9,MHRI
+121,Exports to sales,12  Mar-17*,0.0,MHRI
+122,Imports to sales,12  Mar-17*,0.0,MHRI
+123,Exports (fob),12  Mar-17*,0.0,MHRI
+124,Imports (cif),12  Mar-17*,5.0,MHRI
+125,Fx inflow,12  Mar-17*,50.0,MHRI
+126,Fx outflow,12  Mar-17*,406.0,MHRI
+127,Net fx,12  Mar-17*,-355.0,MHRI
+128,From Operations,12  Mar-17*,2759.0,MHRI
+129,From Investments,12  Mar-17*,-1819.0,MHRI
+130,From Financial Activity,12  Mar-17*,-58.0,MHRI
+131,Net Cashflow,12  Mar-17*,883.0,MHRI
+132,Net Sales,12  Mar-18*,23169.0,MHRI
+133,Other income,12  Mar-18*,337.0,MHRI
+134,Total revenues,12  Mar-18*,23506.0,MHRI
+135,Gross profit,12  Mar-18*,3468.0,MHRI
+136,Depreciation,12  Mar-18*,1000.0,MHRI
+137,Interest,12  Mar-18*,637.0,MHRI
+138,Profit before tax,12  Mar-18*,2168.0,MHRI
+139,Minority Interest,12  Mar-18*,0.0,MHRI
+140,Prior Period Items,12  Mar-18*,-2.0,MHRI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MHRI
+142,Tax,12  Mar-18*,838.0,MHRI
+143,Profit after tax,12  Mar-18*,1328.0,MHRI
+144,Gross profit margin,12  Mar-18*,15.0,MHRI
+145,Effective tax rate,12  Mar-18*,38.7,MHRI
+146,Net profit margin,12  Mar-18*,5.7,MHRI
+147,Current assets,12  Mar-18*,22009.0,MHRI
+148,Current liabilities,12  Mar-18*,9536.0,MHRI
+149,Net working cap to sales,12  Mar-18*,53.8,MHRI
+150,Current ratio,12  Mar-18*,2.3,MHRI
+151,Inventory Days,12  Mar-18*,82.0,MHRI
+152,Debtors Days,12  Mar-18*,169.0,MHRI
+153,Net fixed assets,12  Mar-18*,15742.0,MHRI
+154,Share capital,12  Mar-18*,1328.0,MHRI
+155,"""Free"" reserves",12  Mar-18*,5787.0,MHRI
+156,Net worth,12  Mar-18*,7115.0,MHRI
+157,Long term debt,12  Mar-18*,7134.0,MHRI
+158,Total assets,12  Mar-18*,45050.0,MHRI
+159,Interest coverage,12  Mar-18*,4.4,MHRI
+160,Debt to equity ratio,12  Mar-18*,1.0,MHRI
+161,Sales to assets ratio,12  Mar-18*,0.5,MHRI
+162,Return on assets,12  Mar-18*,4.4,MHRI
+163,Return on equity,12  Mar-18*,18.7,MHRI
+164,Return on capital,12  Mar-18*,19.7,MHRI
+165,Exports to sales,12  Mar-18*,0.0,MHRI
+166,Imports to sales,12  Mar-18*,0.0,MHRI
+167,Exports (fob),12  Mar-18*,0.0,MHRI
+168,Imports (cif),12  Mar-18*,0.0,MHRI
+169,Fx inflow,12  Mar-18*,32.0,MHRI
+170,Fx outflow,12  Mar-18*,416.0,MHRI
+171,Net fx,12  Mar-18*,-384.0,MHRI
+172,From Operations,12  Mar-18*,5510.0,MHRI
+173,From Investments,12  Mar-18*,-5471.0,MHRI
+174,From Financial Activity,12  Mar-18*,-1437.0,MHRI
+175,Net Cashflow,12  Mar-18*,-1398.0,MHRI
+176,Net Sales,12  Mar-19*,22390.0,MHRI
+177,Other income,12  Mar-19*,567.0,MHRI
+178,Total revenues,12  Mar-19*,22957.0,MHRI
+179,Gross profit,12  Mar-19*,1662.0,MHRI
+180,Depreciation,12  Mar-19*,1013.0,MHRI
+181,Interest,12  Mar-19*,236.0,MHRI
+182,Profit before tax,12  Mar-19*,980.0,MHRI
+183,Minority Interest,12  Mar-19*,0.0,MHRI
+184,Prior Period Items,12  Mar-19*,1.0,MHRI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MHRI
+186,Tax,12  Mar-19*,385.0,MHRI
+187,Profit after tax,12  Mar-19*,596.0,MHRI
+188,Gross profit margin,12  Mar-19*,7.4,MHRI
+189,Effective tax rate,12  Mar-19*,39.3,MHRI
+190,Net profit margin,12  Mar-19*,2.7,MHRI
+191,Current assets,12  Mar-19*,24588.0,MHRI
+192,Current liabilities,12  Mar-19*,13182.0,MHRI
+193,Net working cap to sales,12  Mar-19*,50.9,MHRI
+194,Current ratio,12  Mar-19*,1.9,MHRI
+195,Inventory Days,12  Mar-19*,93.0,MHRI
+196,Debtors Days,12  Mar-19*,181.0,MHRI
+197,Net fixed assets,12  Mar-19*,26677.0,MHRI
+198,Share capital,12  Mar-19*,1329.0,MHRI
+199,"""Free"" reserves",12  Mar-19*,1487.0,MHRI
+200,Net worth,12  Mar-19*,2816.0,MHRI
+201,Long term debt,12  Mar-19*,5671.0,MHRI
+202,Total assets,12  Mar-19*,72826.0,MHRI
+203,Interest coverage,12  Mar-19*,5.2,MHRI
+204,Debt to equity ratio,12  Mar-19*,2.0,MHRI
+205,Sales to assets ratio,12  Mar-19*,0.3,MHRI
+206,Return on assets,12  Mar-19*,1.1,MHRI
+207,Return on equity,12  Mar-19*,21.2,MHRI
+208,Return on capital,12  Mar-19*,14.3,MHRI
+209,Exports to sales,12  Mar-19*,0.0,MHRI
+210,Imports to sales,12  Mar-19*,0.0,MHRI
+211,Exports (fob),12  Mar-19*,0.0,MHRI
+212,Imports (cif),12  Mar-19*,0.0,MHRI
+213,Fx inflow,12  Mar-19*,43.0,MHRI
+214,Fx outflow,12  Mar-19*,540.0,MHRI
+215,Net fx,12  Mar-19*,-498.0,MHRI
+216,From Operations,12  Mar-19*,2632.0,MHRI
+217,From Investments,12  Mar-19*,-2376.0,MHRI
+218,From Financial Activity,12  Mar-19*,-207.0,MHRI
+219,Net Cashflow,12  Mar-19*,38.0,MHRI

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,18146.0,RALL
+1,Other income,12  Mar-15*,42.0,RALL
+2,Total revenues,12  Mar-15*,18187.0,RALL
+3,Gross profit,12  Mar-15*,2771.0,RALL
+4,Depreciation,12  Mar-15*,496.0,RALL
+5,Interest,12  Mar-15*,101.0,RALL
+6,Profit before tax,12  Mar-15*,2216.0,RALL
+7,Minority Interest,12  Mar-15*,-26.0,RALL
+8,Prior Period Items,12  Mar-15*,0.0,RALL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,RALL
+10,Tax,12  Mar-15*,618.0,RALL
+11,Profit after tax,12  Mar-15*,1572.0,RALL
+12,Gross profit margin,12  Mar-15*,15.3,RALL
+13,Effective tax rate,12  Mar-15*,27.9,RALL
+14,Net profit margin,12  Mar-15*,8.7,RALL
+15,Current assets,12  Mar-15*,7277.0,RALL
+16,Current liabilities,12  Mar-15*,5454.0,RALL
+17,Net working cap to sales,12  Mar-15*,10.0,RALL
+18,Current ratio,12  Mar-15*,1.3,RALL
+19,Inventory Days,12  Mar-15*,79.0,RALL
+20,Debtors Days,12  Mar-15*,54.0,RALL
+21,Net fixed assets,12  Mar-15*,5744.0,RALL
+22,Share capital,12  Mar-15*,195.0,RALL
+23,"""Free"" reserves",12  Mar-15*,8238.0,RALL
+24,Net worth,12  Mar-15*,8433.0,RALL
+25,Long term debt,12  Mar-15*,268.0,RALL
+26,Total assets,12  Mar-15*,14805.0,RALL
+27,Interest coverage,12  Mar-15*,22.9,RALL
+28,Debt to equity ratio,12  Mar-15*,0.0,RALL
+29,Sales to assets ratio,12  Mar-15*,1.2,RALL
+30,Return on assets,12  Mar-15*,11.3,RALL
+31,Return on equity,12  Mar-15*,18.6,RALL
+32,Return on capital,12  Mar-15*,26.3,RALL
+33,Exports to sales,12  Mar-15*,27.3,RALL
+34,Imports to sales,12  Mar-15*,22.0,RALL
+35,Exports (fob),12  Mar-15*,4955.0,RALL
+36,Imports (cif),12  Mar-15*,3987.0,RALL
+37,Fx inflow,12  Mar-15*,4974.0,RALL
+38,Fx outflow,12  Mar-15*,4011.0,RALL
+39,Net fx,12  Mar-15*,962.0,RALL
+40,From Operations,12  Mar-15*,681.0,RALL
+41,From Investments,12  Mar-15*,-539.0,RALL
+42,From Financial Activity,12  Mar-15*,-166.0,RALL
+43,Net Cashflow,12  Mar-15*,-25.0,RALL
+44,Net Sales,12  Mar-16*,15291.0,RALL
+45,Other income,12  Mar-16*,143.0,RALL
+46,Total revenues,12  Mar-16*,15434.0,RALL
+47,Gross profit,12  Mar-16*,2290.0,RALL
+48,Depreciation,12  Mar-16*,436.0,RALL
+49,Interest,12  Mar-16*,136.0,RALL
+50,Profit before tax,12  Mar-16*,1861.0,RALL
+51,Minority Interest,12  Mar-16*,0.0,RALL
+52,Prior Period Items,12  Mar-16*,0.0,RALL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,RALL
+54,Tax,12  Mar-16*,390.0,RALL
+55,Profit after tax,12  Mar-16*,1471.0,RALL
+56,Gross profit margin,12  Mar-16*,15.0,RALL
+57,Effective tax rate,12  Mar-16*,21.0,RALL
+58,Net profit margin,12  Mar-16*,9.6,RALL
+59,Current assets,12  Mar-16*,7143.0,RALL
+60,Current liabilities,12  Mar-16*,5167.0,RALL
+61,Net working cap to sales,12  Mar-16*,12.9,RALL
+62,Current ratio,12  Mar-16*,1.4,RALL
+63,Inventory Days,12  Mar-16*,96.0,RALL
+64,Debtors Days,12  Mar-16*,54.0,RALL
+65,Net fixed assets,12  Mar-16*,6049.0,RALL
+66,Share capital,12  Mar-16*,195.0,RALL
+67,"""Free"" reserves",12  Mar-16*,8690.0,RALL
+68,Net worth,12  Mar-16*,8884.0,RALL
+69,Long term debt,12  Mar-16*,262.0,RALL
+70,Total assets,12  Mar-16*,14927.0,RALL
+71,Interest coverage,12  Mar-16*,14.7,RALL
+72,Debt to equity ratio,12  Mar-16*,0.0,RALL
+73,Sales to assets ratio,12  Mar-16*,1.0,RALL
+74,Return on assets,12  Mar-16*,10.8,RALL
+75,Return on equity,12  Mar-16*,16.6,RALL
+76,Return on capital,12  Mar-16*,21.8,RALL
+77,Exports to sales,12  Mar-16*,25.5,RALL
+78,Imports to sales,12  Mar-16*,18.8,RALL
+79,Exports (fob),12  Mar-16*,3899.0,RALL
+80,Imports (cif),12  Mar-16*,2868.0,RALL
+81,Fx inflow,12  Mar-16*,3922.0,RALL
+82,Fx outflow,12  Mar-16*,2904.0,RALL
+83,Net fx,12  Mar-16*,1018.0,RALL
+84,From Operations,12  Mar-16*,2321.0,RALL
+85,From Investments,12  Mar-16*,-1469.0,RALL
+86,From Financial Activity,12  Mar-16*,-588.0,RALL
+87,Net Cashflow,12  Mar-16*,264.0,RALL
+88,Net Sales,12  Mar-17*,16635.0,RALL
+89,Other income,12  Mar-17*,128.0,RALL
+90,Total revenues,12  Mar-17*,16763.0,RALL
+91,Gross profit,12  Mar-17*,2636.0,RALL
+92,Depreciation,12  Mar-17*,476.0,RALL
+93,Interest,12  Mar-17*,73.0,RALL
+94,Profit before tax,12  Mar-17*,2216.0,RALL
+95,Minority Interest,12  Mar-17*,0.0,RALL
+96,Prior Period Items,12  Mar-17*,0.0,RALL
+97,Extraordinary Inc (Exp),12  Mar-17*,1584.0,RALL
+98,Tax,12  Mar-17*,829.0,RALL
+99,Profit after tax,12  Mar-17*,2971.0,RALL
+100,Gross profit margin,12  Mar-17*,15.8,RALL
+101,Effective tax rate,12  Mar-17*,37.4,RALL
+102,Net profit margin,12  Mar-17*,17.9,RALL
+103,Current assets,12  Mar-17*,9589.0,RALL
+104,Current liabilities,12  Mar-17*,5245.0,RALL
+105,Net working cap to sales,12  Mar-17*,26.1,RALL
+106,Current ratio,12  Mar-17*,1.8,RALL
+107,Inventory Days,12  Mar-17*,87.0,RALL
+108,Debtors Days,12  Mar-17*,58.0,RALL
+109,Net fixed assets,12  Mar-17*,6102.0,RALL
+110,Share capital,12  Mar-17*,195.0,RALL
+111,"""Free"" reserves",12  Mar-17*,10917.0,RALL
+112,Net worth,12  Mar-17*,11112.0,RALL
+113,Long term debt,12  Mar-17*,244.0,RALL
+114,Total assets,12  Mar-17*,17327.0,RALL
+115,Interest coverage,12  Mar-17*,31.3,RALL
+116,Debt to equity ratio,12  Mar-17*,0.0,RALL
+117,Sales to assets ratio,12  Mar-17*,1.0,RALL
+118,Return on assets,12  Mar-17*,17.6,RALL
+119,Return on equity,12  Mar-17*,26.7,RALL
+120,Return on capital,12  Mar-17*,34.1,RALL
+121,Exports to sales,12  Mar-17*,0.0,RALL
+122,Imports to sales,12  Mar-17*,0.0,RALL
+123,Exports (fob),12  Mar-17*,0.0,RALL
+124,Imports (cif),12  Mar-17*,0.0,RALL
+125,Fx inflow,12  Mar-17*,4268.0,RALL
+126,Fx outflow,12  Mar-17*,2935.0,RALL
+127,Net fx,12  Mar-17*,1333.0,RALL
+128,From Operations,12  Mar-17*,4077.0,RALL
+129,From Investments,12  Mar-17*,-2894.0,RALL
+130,From Financial Activity,12  Mar-17*,-797.0,RALL
+131,Net Cashflow,12  Mar-17*,386.0,RALL
+132,Net Sales,12  Mar-18*,17909.0,RALL
+133,Other income,12  Mar-18*,132.0,RALL
+134,Total revenues,12  Mar-18*,18041.0,RALL
+135,Gross profit,12  Mar-18*,2645.0,RALL
+136,Depreciation,12  Mar-18*,463.0,RALL
+137,Interest,12  Mar-18*,43.0,RALL
+138,Profit before tax,12  Mar-18*,2270.0,RALL
+139,Minority Interest,12  Mar-18*,0.0,RALL
+140,Prior Period Items,12  Mar-18*,0.0,RALL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,RALL
+142,Tax,12  Mar-18*,600.0,RALL
+143,Profit after tax,12  Mar-18*,1670.0,RALL
+144,Gross profit margin,12  Mar-18*,14.8,RALL
+145,Effective tax rate,12  Mar-18*,26.4,RALL
+146,Net profit margin,12  Mar-18*,9.3,RALL
+147,Current assets,12  Mar-18*,12411.0,RALL
+148,Current liabilities,12  Mar-18*,7244.0,RALL
+149,Net working cap to sales,12  Mar-18*,28.8,RALL
+150,Current ratio,12  Mar-18*,1.7,RALL
+151,Inventory Days,12  Mar-18*,117.0,RALL
+152,Debtors Days,12  Mar-18*,81.0,RALL
+153,Net fixed assets,12  Mar-18*,6154.0,RALL
+154,Share capital,12  Mar-18*,195.0,RALL
+155,"""Free"" reserves",12  Mar-18*,11711.0,RALL
+156,Net worth,12  Mar-18*,11906.0,RALL
+157,Long term debt,12  Mar-18*,199.0,RALL
+158,Total assets,12  Mar-18*,19986.0,RALL
+159,Interest coverage,12  Mar-18*,53.7,RALL
+160,Debt to equity ratio,12  Mar-18*,0.0,RALL
+161,Sales to assets ratio,12  Mar-18*,0.9,RALL
+162,Return on assets,12  Mar-18*,8.6,RALL
+163,Return on equity,12  Mar-18*,14.0,RALL
+164,Return on capital,12  Mar-18*,19.1,RALL
+165,Exports to sales,12  Mar-18*,0.0,RALL
+166,Imports to sales,12  Mar-18*,0.0,RALL
+167,Exports (fob),12  Mar-18*,0.0,RALL
+168,Imports (cif),12  Mar-18*,0.0,RALL
+169,Fx inflow,12  Mar-18*,4719.0,RALL
+170,Fx outflow,12  Mar-18*,4226.0,RALL
+171,Net fx,12  Mar-18*,492.0,RALL
+172,From Operations,12  Mar-18*,414.0,RALL
+173,From Investments,12  Mar-18*,888.0,RALL
+174,From Financial Activity,12  Mar-18*,-1041.0,RALL
+175,Net Cashflow,12  Mar-18*,260.0,RALL
+176,Net Sales,12  Mar-19*,19840.0,RALL
+177,Other income,12  Mar-19*,307.0,RALL
+178,Total revenues,12  Mar-19*,20146.0,RALL
+179,Gross profit,12  Mar-19*,2409.0,RALL
+180,Depreciation,12  Mar-19*,461.0,RALL
+181,Interest,12  Mar-19*,53.0,RALL
+182,Profit before tax,12  Mar-19*,2203.0,RALL
+183,Minority Interest,12  Mar-19*,0.0,RALL
+184,Prior Period Items,12  Mar-19*,0.0,RALL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,RALL
+186,Tax,12  Mar-19*,655.0,RALL
+187,Profit after tax,12  Mar-19*,1548.0,RALL
+188,Gross profit margin,12  Mar-19*,12.1,RALL
+189,Effective tax rate,12  Mar-19*,29.7,RALL
+190,Net profit margin,12  Mar-19*,7.8,RALL
+191,Current assets,12  Mar-19*,14132.0,RALL
+192,Current liabilities,12  Mar-19*,8142.0,RALL
+193,Net working cap to sales,12  Mar-19*,30.2,RALL
+194,Current ratio,12  Mar-19*,1.7,RALL
+195,Inventory Days,12  Mar-19*,124.0,RALL
+196,Debtors Days,12  Mar-19*,83.0,RALL
+197,Net fixed assets,12  Mar-19*,6315.0,RALL
+198,Share capital,12  Mar-19*,195.0,RALL
+199,"""Free"" reserves",12  Mar-19*,12665.0,RALL
+200,Net worth,12  Mar-19*,12859.0,RALL
+201,Long term debt,12  Mar-19*,158.0,RALL
+202,Total assets,12  Mar-19*,21843.0,RALL
+203,Interest coverage,12  Mar-19*,43.0,RALL
+204,Debt to equity ratio,12  Mar-19*,0.0,RALL
+205,Sales to assets ratio,12  Mar-19*,0.9,RALL
+206,Return on assets,12  Mar-19*,7.3,RALL
+207,Return on equity,12  Mar-19*,12.0,RALL
+208,Return on capital,12  Mar-19*,17.3,RALL
+209,Exports to sales,12  Mar-19*,0.0,RALL
+210,Imports to sales,12  Mar-19*,0.0,RALL
+211,Exports (fob),12  Mar-19*,0.0,RALL
+212,Imports (cif),12  Mar-19*,0.0,RALL
+213,Fx inflow,12  Mar-19*,6378.0,RALL
+214,Fx outflow,12  Mar-19*,4596.0,RALL
+215,Net fx,12  Mar-19*,1782.0,RALL
+216,From Operations,12  Mar-19*,801.0,RALL
+217,From Investments,12  Mar-19*,-515.0,RALL
+218,From Financial Activity,12  Mar-19*,-515.0,RALL
+219,Net Cashflow,12  Mar-19*,-229.0,RALL

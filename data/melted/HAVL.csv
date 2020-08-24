@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,85694.0,HAVL
+1,Other income,12  Mar-15*,505.0,HAVL
+2,Total revenues,12  Mar-15*,86199.0,HAVL
+3,Gross profit,12  Mar-15*,7211.0,HAVL
+4,Depreciation,12  Mar-15*,1387.0,HAVL
+5,Interest,12  Mar-15*,640.0,HAVL
+6,Profit before tax,12  Mar-15*,5690.0,HAVL
+7,Minority Interest,12  Mar-15*,0.0,HAVL
+8,Prior Period Items,12  Mar-15*,0.0,HAVL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,HAVL
+10,Tax,12  Mar-15*,1836.0,HAVL
+11,Profit after tax,12  Mar-15*,3854.0,HAVL
+12,Gross profit margin,12  Mar-15*,8.4,HAVL
+13,Effective tax rate,12  Mar-15*,32.3,HAVL
+14,Net profit margin,12  Mar-15*,4.5,HAVL
+15,Current assets,12  Mar-15*,29486.0,HAVL
+16,Current liabilities,12  Mar-15*,20887.0,HAVL
+17,Net working cap to sales,12  Mar-15*,10.0,HAVL
+18,Current ratio,12  Mar-15*,1.4,HAVL
+19,Inventory Days,12  Mar-15*,58.0,HAVL
+20,Debtors Days,12  Mar-15*,27.0,HAVL
+21,Net fixed assets,12  Mar-15*,13252.0,HAVL
+22,Share capital,12  Mar-15*,624.0,HAVL
+23,"""Free"" reserves",12  Mar-15*,20982.0,HAVL
+24,Net worth,12  Mar-15*,21606.0,HAVL
+25,Long term debt,12  Mar-15*,2239.0,HAVL
+26,Total assets,12  Mar-15*,29486.0,HAVL
+27,Interest coverage,12  Mar-15*,9.9,HAVL
+28,Debt to equity ratio,12  Mar-15*,0.1,HAVL
+29,Sales to assets ratio,12  Mar-15*,2.9,HAVL
+30,Return on assets,12  Mar-15*,15.2,HAVL
+31,Return on equity,12  Mar-15*,17.8,HAVL
+32,Return on capital,12  Mar-15*,26.5,HAVL
+33,Exports to sales,12  Mar-15*,3.5,HAVL
+34,Imports to sales,12  Mar-15*,6.1,HAVL
+35,Exports (fob),12  Mar-15*,2958.0,HAVL
+36,Imports (cif),12  Mar-15*,5201.0,HAVL
+37,Fx inflow,12  Mar-15*,2963.0,HAVL
+38,Fx outflow,12  Mar-15*,5649.0,HAVL
+39,Net fx,12  Mar-15*,-2686.0,HAVL
+40,From Operations,12  Mar-15*,9626.0,HAVL
+41,From Investments,12  Mar-15*,-4864.0,HAVL
+42,From Financial Activity,12  Mar-15*,-7538.0,HAVL
+43,Net Cashflow,12  Mar-15*,-2776.0,HAVL
+44,Net Sales,12  Mar-16*,76126.0,HAVL
+45,Other income,12  Mar-16*,866.0,HAVL
+46,Total revenues,12  Mar-16*,76992.0,HAVL
+47,Gross profit,12  Mar-16*,7580.0,HAVL
+48,Depreciation,12  Mar-16*,1344.0,HAVL
+49,Interest,12  Mar-16*,544.0,HAVL
+50,Profit before tax,12  Mar-16*,6559.0,HAVL
+51,Minority Interest,12  Mar-16*,18.0,HAVL
+52,Prior Period Items,12  Mar-16*,0.0,HAVL
+53,Extraordinary Inc (Exp),12  Mar-16*,8621.0,HAVL
+54,Tax,12  Mar-16*,2193.0,HAVL
+55,Profit after tax,12  Mar-16*,13005.0,HAVL
+56,Gross profit margin,12  Mar-16*,10.0,HAVL
+57,Effective tax rate,12  Mar-16*,33.4,HAVL
+58,Net profit margin,12  Mar-16*,17.1,HAVL
+59,Current assets,12  Mar-16*,26344.0,HAVL
+60,Current liabilities,12  Mar-16*,12369.0,HAVL
+61,Net working cap to sales,12  Mar-16*,18.4,HAVL
+62,Current ratio,12  Mar-16*,2.1,HAVL
+63,Inventory Days,12  Mar-16*,40.0,HAVL
+64,Debtors Days,12  Mar-16*,11.0,HAVL
+65,Net fixed assets,12  Mar-16*,12065.0,HAVL
+66,Share capital,12  Mar-16*,625.0,HAVL
+67,"""Free"" reserves",12  Mar-16*,29652.0,HAVL
+68,Net worth,12  Mar-16*,30277.0,HAVL
+69,Long term debt,12  Mar-16*,17.0,HAVL
+70,Total assets,12  Mar-16*,26344.0,HAVL
+71,Interest coverage,12  Mar-16*,13.1,HAVL
+72,Debt to equity ratio,12  Mar-16*,0.0,HAVL
+73,Sales to assets ratio,12  Mar-16*,2.9,HAVL
+74,Return on assets,12  Mar-16*,51.4,HAVL
+75,Return on equity,12  Mar-16*,43.0,HAVL
+76,Return on capital,12  Mar-16*,52.0,HAVL
+77,Exports to sales,12  Mar-16*,3.2,HAVL
+78,Imports to sales,12  Mar-16*,6.9,HAVL
+79,Exports (fob),12  Mar-16*,2463.0,HAVL
+80,Imports (cif),12  Mar-16*,5227.0,HAVL
+81,Fx inflow,12  Mar-16*,2465.0,HAVL
+82,Fx outflow,12  Mar-16*,5301.0,HAVL
+83,Net fx,12  Mar-16*,-2835.0,HAVL
+84,From Operations,12  Mar-16*,5134.0,HAVL
+85,From Investments,12  Mar-16*,353.0,HAVL
+86,From Financial Activity,12  Mar-16*,-6213.0,HAVL
+87,Net Cashflow,12  Mar-16*,-2287.0,HAVL
+88,Net Sales,12  Mar-17*,61558.0,HAVL
+89,Other income,12  Mar-17*,1382.0,HAVL
+90,Total revenues,12  Mar-17*,62939.0,HAVL
+91,Gross profit,12  Mar-17*,8182.0,HAVL
+92,Depreciation,12  Mar-17*,1205.0,HAVL
+93,Interest,12  Mar-17*,133.0,HAVL
+94,Profit before tax,12  Mar-17*,8225.0,HAVL
+95,Minority Interest,12  Mar-17*,-48.0,HAVL
+96,Prior Period Items,12  Mar-17*,0.0,HAVL
+97,Extraordinary Inc (Exp),12  Mar-17*,-1068.0,HAVL
+98,Tax,12  Mar-17*,2288.0,HAVL
+99,Profit after tax,12  Mar-17*,4822.0,HAVL
+100,Gross profit margin,12  Mar-17*,13.3,HAVL
+101,Effective tax rate,12  Mar-17*,27.8,HAVL
+102,Net profit margin,12  Mar-17*,7.8,HAVL
+103,Current assets,12  Mar-17*,32344.0,HAVL
+104,Current liabilities,12  Mar-17*,15752.0,HAVL
+105,Net working cap to sales,12  Mar-17*,27.0,HAVL
+106,Current ratio,12  Mar-17*,2.1,HAVL
+107,Inventory Days,12  Mar-17*,56.0,HAVL
+108,Debtors Days,12  Mar-17*,14.0,HAVL
+109,Net fixed assets,12  Mar-17*,12665.0,HAVL
+110,Share capital,12  Mar-17*,625.0,HAVL
+111,"""Free"" reserves",12  Mar-17*,32143.0,HAVL
+112,Net worth,12  Mar-17*,32768.0,HAVL
+113,Long term debt,12  Mar-17*,0.0,HAVL
+114,Total assets,12  Mar-17*,51693.0,HAVL
+115,Interest coverage,12  Mar-17*,62.7,HAVL
+116,Debt to equity ratio,12  Mar-17*,0.0,HAVL
+117,Sales to assets ratio,12  Mar-17*,1.2,HAVL
+118,Return on assets,12  Mar-17*,9.6,HAVL
+119,Return on equity,12  Mar-17*,14.7,HAVL
+120,Return on capital,12  Mar-17*,22.1,HAVL
+121,Exports to sales,12  Mar-17*,0.0,HAVL
+122,Imports to sales,12  Mar-17*,0.0,HAVL
+123,Exports (fob),12  Mar-17*,0.0,HAVL
+124,Imports (cif),12  Mar-17*,0.0,HAVL
+125,Fx inflow,12  Mar-17*,2767.0,HAVL
+126,Fx outflow,12  Mar-17*,8053.0,HAVL
+127,Net fx,12  Mar-17*,-5286.0,HAVL
+128,From Operations,12  Mar-17*,7671.0,HAVL
+129,From Investments,12  Mar-17*,-2160.0,HAVL
+130,From Financial Activity,12  Mar-17*,-975.0,HAVL
+131,Net Cashflow,12  Mar-17*,4499.0,HAVL
+132,Net Sales,12  Mar-18*,81464.0,HAVL
+133,Other income,12  Mar-18*,1179.0,HAVL
+134,Total revenues,12  Mar-18*,82643.0,HAVL
+135,Gross profit,12  Mar-18*,10434.0,HAVL
+136,Depreciation,12  Mar-18*,1405.0,HAVL
+137,Interest,12  Mar-18*,248.0,HAVL
+138,Profit before tax,12  Mar-18*,9960.0,HAVL
+139,Minority Interest,12  Mar-18*,0.0,HAVL
+140,Prior Period Items,12  Mar-18*,0.0,HAVL
+141,Extraordinary Inc (Exp),12  Mar-18*,-187.0,HAVL
+142,Tax,12  Mar-18*,3038.0,HAVL
+143,Profit after tax,12  Mar-18*,6735.0,HAVL
+144,Gross profit margin,12  Mar-18*,12.8,HAVL
+145,Effective tax rate,12  Mar-18*,30.5,HAVL
+146,Net profit margin,12  Mar-18*,8.3,HAVL
+147,Current assets,12  Mar-18*,36896.0,HAVL
+148,Current liabilities,12  Mar-18*,25300.0,HAVL
+149,Net working cap to sales,12  Mar-18*,14.2,HAVL
+150,Current ratio,12  Mar-18*,1.5,HAVL
+151,Inventory Days,12  Mar-18*,73.0,HAVL
+152,Debtors Days,12  Mar-18*,15.0,HAVL
+153,Net fixed assets,12  Mar-18*,13319.0,HAVL
+154,Share capital,12  Mar-18*,625.0,HAVL
+155,"""Free"" reserves",12  Mar-18*,36667.0,HAVL
+156,Net worth,12  Mar-18*,37292.0,HAVL
+157,Long term debt,12  Mar-18*,810.0,HAVL
+158,Total assets,12  Mar-18*,66075.0,HAVL
+159,Interest coverage,12  Mar-18*,41.1,HAVL
+160,Debt to equity ratio,12  Mar-18*,0.0,HAVL
+161,Sales to assets ratio,12  Mar-18*,1.2,HAVL
+162,Return on assets,12  Mar-18*,10.6,HAVL
+163,Return on equity,12  Mar-18*,18.1,HAVL
+164,Return on capital,12  Mar-18*,26.3,HAVL
+165,Exports to sales,12  Mar-18*,0.0,HAVL
+166,Imports to sales,12  Mar-18*,0.0,HAVL
+167,Exports (fob),12  Mar-18*,0.0,HAVL
+168,Imports (cif),12  Mar-18*,0.0,HAVL
+169,Fx inflow,12  Mar-18*,2302.0,HAVL
+170,Fx outflow,12  Mar-18*,18330.0,HAVL
+171,Net fx,12  Mar-18*,-16028.0,HAVL
+172,From Operations,12  Mar-18*,10999.0,HAVL
+173,From Investments,12  Mar-18*,-9441.0,HAVL
+174,From Financial Activity,12  Mar-18*,-4091.0,HAVL
+175,Net Cashflow,12  Mar-18*,-2554.0,HAVL
+176,Net Sales,12  Mar-19*,100734.0,HAVL
+177,Other income,12  Mar-19*,1287.0,HAVL
+178,Total revenues,12  Mar-19*,102021.0,HAVL
+179,Gross profit,12  Mar-19*,11844.0,HAVL
+180,Depreciation,12  Mar-19*,1526.0,HAVL
+181,Interest,12  Mar-19*,163.0,HAVL
+182,Profit before tax,12  Mar-19*,11441.0,HAVL
+183,Minority Interest,12  Mar-19*,0.0,HAVL
+184,Prior Period Items,12  Mar-19*,0.0,HAVL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HAVL
+186,Tax,12  Mar-19*,3583.0,HAVL
+187,Profit after tax,12  Mar-19*,7859.0,HAVL
+188,Gross profit margin,12  Mar-19*,11.8,HAVL
+189,Effective tax rate,12  Mar-19*,31.3,HAVL
+190,Net profit margin,12  Mar-19*,7.8,HAVL
+191,Current assets,12  Mar-19*,38262.0,HAVL
+192,Current liabilities,12  Mar-19*,25396.0,HAVL
+193,Net working cap to sales,12  Mar-19*,12.8,HAVL
+194,Current ratio,12  Mar-19*,1.5,HAVL
+195,Inventory Days,12  Mar-19*,70.0,HAVL
+196,Debtors Days,12  Mar-19*,15.0,HAVL
+197,Net fixed assets,12  Mar-19*,31606.0,HAVL
+198,Share capital,12  Mar-19*,626.0,HAVL
+199,"""Free"" reserves",12  Mar-19*,41554.0,HAVL
+200,Net worth,12  Mar-19*,42180.0,HAVL
+201,Long term debt,12  Mar-19*,405.0,HAVL
+202,Total assets,12  Mar-19*,71723.0,HAVL
+203,Interest coverage,12  Mar-19*,71.4,HAVL
+204,Debt to equity ratio,12  Mar-19*,0.0,HAVL
+205,Sales to assets ratio,12  Mar-19*,1.4,HAVL
+206,Return on assets,12  Mar-19*,11.2,HAVL
+207,Return on equity,12  Mar-19*,18.6,HAVL
+208,Return on capital,12  Mar-19*,27.2,HAVL
+209,Exports to sales,12  Mar-19*,0.0,HAVL
+210,Imports to sales,12  Mar-19*,0.0,HAVL
+211,Exports (fob),12  Mar-19*,0.0,HAVL
+212,Imports (cif),12  Mar-19*,0.0,HAVL
+213,Fx inflow,12  Mar-19*,3288.0,HAVL
+214,Fx outflow,12  Mar-19*,23306.0,HAVL
+215,Net fx,12  Mar-19*,-20018.0,HAVL
+216,From Operations,12  Mar-19*,5013.0,HAVL
+217,From Investments,12  Mar-19*,1883.0,HAVL
+218,From Financial Activity,12  Mar-19*,-3181.0,HAVL
+219,Net Cashflow,12  Mar-19*,3681.0,HAVL

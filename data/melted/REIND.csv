@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,25154.0,REIND
+1,Other income,12  Mar-14*,149.0,REIND
+2,Total revenues,12  Mar-14*,25303.0,REIND
+3,Gross profit,12  Mar-14*,2581.0,REIND
+4,Depreciation,12  Mar-14*,1455.0,REIND
+5,Interest,12  Mar-14*,311.0,REIND
+6,Profit before tax,12  Mar-14*,964.0,REIND
+7,Minority Interest,12  Mar-14*,-95.0,REIND
+8,Prior Period Items,12  Mar-14*,0.0,REIND
+9,Extraordinary Inc (Exp),12  Mar-14*,120.0,REIND
+10,Tax,12  Mar-14*,263.0,REIND
+11,Profit after tax,12  Mar-14*,726.0,REIND
+12,Gross profit margin,12  Mar-14*,10.3,REIND
+13,Effective tax rate,12  Mar-14*,27.3,REIND
+14,Net profit margin,12  Mar-14*,2.9,REIND
+15,Current assets,12  Mar-14*,6518.0,REIND
+16,Current liabilities,12  Mar-14*,5149.0,REIND
+17,Net working cap to sales,12  Mar-14*,5.4,REIND
+18,Current ratio,12  Mar-14*,1.3,REIND
+19,Inventory Days,12  Mar-14*,8.0,REIND
+20,Debtors Days,12  Mar-14*,47.0,REIND
+21,Net fixed assets,12  Mar-14*,11499.0,REIND
+22,Share capital,12  Mar-14*,263.0,REIND
+23,"""Free"" reserves",12  Mar-14*,7329.0,REIND
+24,Net worth,12  Mar-14*,7649.0,REIND
+25,Long term debt,12  Mar-14*,3435.0,REIND
+26,Total assets,12  Mar-14*,18431.0,REIND
+27,Interest coverage,12  Mar-14*,4.1,REIND
+28,Debt to equity ratio,12  Mar-14*,0.4,REIND
+29,Sales to assets ratio,12  Mar-14*,1.4,REIND
+30,Return on assets,12  Mar-14*,5.6,REIND
+31,Return on equity,12  Mar-14*,9.5,REIND
+32,Return on capital,12  Mar-14*,11.7,REIND
+33,Exports to sales,12  Mar-14*,42.3,REIND
+34,Imports to sales,12  Mar-14*,31.4,REIND
+35,Exports (fob),12  Mar-14*,10652.0,REIND
+36,Imports (cif),12  Mar-14*,7908.0,REIND
+37,Fx inflow,12  Mar-14*,10652.0,REIND
+38,Fx outflow,12  Mar-14*,8168.0,REIND
+39,Net fx,12  Mar-14*,2484.0,REIND
+40,From Operations,12  Mar-14*,1044.0,REIND
+41,From Investments,12  Mar-14*,-386.0,REIND
+42,From Financial Activity,12  Mar-14*,897.0,REIND
+43,Net Cashflow,12  Mar-14*,1554.0,REIND
+44,Net Sales,12  Mar-15*,21065.0,REIND
+45,Other income,12  Mar-15*,324.0,REIND
+46,Total revenues,12  Mar-15*,21389.0,REIND
+47,Gross profit,12  Mar-15*,2470.0,REIND
+48,Depreciation,12  Mar-15*,1663.0,REIND
+49,Interest,12  Mar-15*,265.0,REIND
+50,Profit before tax,12  Mar-15*,867.0,REIND
+51,Minority Interest,12  Mar-15*,-125.0,REIND
+52,Prior Period Items,12  Mar-15*,0.0,REIND
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,REIND
+54,Tax,12  Mar-15*,249.0,REIND
+55,Profit after tax,12  Mar-15*,493.0,REIND
+56,Gross profit margin,12  Mar-15*,11.7,REIND
+57,Effective tax rate,12  Mar-15*,28.7,REIND
+58,Net profit margin,12  Mar-15*,2.3,REIND
+59,Current assets,12  Mar-15*,5200.0,REIND
+60,Current liabilities,12  Mar-15*,3005.0,REIND
+61,Net working cap to sales,12  Mar-15*,10.4,REIND
+62,Current ratio,12  Mar-15*,1.7,REIND
+63,Inventory Days,12  Mar-15*,11.0,REIND
+64,Debtors Days,12  Mar-15*,53.0,REIND
+65,Net fixed assets,12  Mar-15*,10630.0,REIND
+66,Share capital,12  Mar-15*,263.0,REIND
+67,"""Free"" reserves",12  Mar-15*,7782.0,REIND
+68,Net worth,12  Mar-15*,8430.0,REIND
+69,Long term debt,12  Mar-15*,2845.0,REIND
+70,Total assets,12  Mar-15*,16260.0,REIND
+71,Interest coverage,12  Mar-15*,4.3,REIND
+72,Debt to equity ratio,12  Mar-15*,0.3,REIND
+73,Sales to assets ratio,12  Mar-15*,1.3,REIND
+74,Return on assets,12  Mar-15*,4.7,REIND
+75,Return on equity,12  Mar-15*,5.8,REIND
+76,Return on capital,12  Mar-15*,8.9,REIND
+77,Exports to sales,12  Mar-15*,41.6,REIND
+78,Imports to sales,12  Mar-15*,31.8,REIND
+79,Exports (fob),12  Mar-15*,8767.0,REIND
+80,Imports (cif),12  Mar-15*,6688.0,REIND
+81,Fx inflow,12  Mar-15*,8767.0,REIND
+82,Fx outflow,12  Mar-15*,6929.0,REIND
+83,Net fx,12  Mar-15*,1838.0,REIND
+84,From Operations,12  Mar-15*,2203.0,REIND
+85,From Investments,12  Mar-15*,-803.0,REIND
+86,From Financial Activity,12  Mar-15*,-2631.0,REIND
+87,Net Cashflow,12  Mar-15*,-1230.0,REIND
+88,Net Sales,12  Mar-16*,22493.0,REIND
+89,Other income,12  Mar-16*,239.0,REIND
+90,Total revenues,12  Mar-16*,22731.0,REIND
+91,Gross profit,12  Mar-16*,2062.0,REIND
+92,Depreciation,12  Mar-16*,1730.0,REIND
+93,Interest,12  Mar-16*,258.0,REIND
+94,Profit before tax,12  Mar-16*,313.0,REIND
+95,Minority Interest,12  Mar-16*,0.0,REIND
+96,Prior Period Items,12  Mar-16*,0.0,REIND
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,REIND
+98,Tax,12  Mar-16*,123.0,REIND
+99,Profit after tax,12  Mar-16*,190.0,REIND
+100,Gross profit margin,12  Mar-16*,9.2,REIND
+101,Effective tax rate,12  Mar-16*,39.1,REIND
+102,Net profit margin,12  Mar-16*,0.8,REIND
+103,Current assets,12  Mar-16*,7517.0,REIND
+104,Current liabilities,12  Mar-16*,4325.0,REIND
+105,Net working cap to sales,12  Mar-16*,14.2,REIND
+106,Current ratio,12  Mar-16*,1.7,REIND
+107,Inventory Days,12  Mar-16*,7.0,REIND
+108,Debtors Days,12  Mar-16*,96.0,REIND
+109,Net fixed assets,12  Mar-16*,9260.0,REIND
+110,Share capital,12  Mar-16*,263.0,REIND
+111,"""Free"" reserves",12  Mar-16*,7932.0,REIND
+112,Net worth,12  Mar-16*,8168.0,REIND
+113,Long term debt,12  Mar-16*,1947.0,REIND
+114,Total assets,12  Mar-16*,17031.0,REIND
+115,Interest coverage,12  Mar-16*,2.2,REIND
+116,Debt to equity ratio,12  Mar-16*,0.2,REIND
+117,Sales to assets ratio,12  Mar-16*,1.3,REIND
+118,Return on assets,12  Mar-16*,2.6,REIND
+119,Return on equity,12  Mar-16*,2.3,REIND
+120,Return on capital,12  Mar-16*,5.6,REIND
+121,Exports to sales,12  Mar-16*,32.1,REIND
+122,Imports to sales,12  Mar-16*,20.0,REIND
+123,Exports (fob),12  Mar-16*,7231.0,REIND
+124,Imports (cif),12  Mar-16*,4503.0,REIND
+125,Fx inflow,12  Mar-16*,7231.0,REIND
+126,Fx outflow,12  Mar-16*,4703.0,REIND
+127,Net fx,12  Mar-16*,2528.0,REIND
+128,From Operations,12  Mar-16*,1645.0,REIND
+129,From Investments,12  Mar-16*,325.0,REIND
+130,From Financial Activity,12  Mar-16*,-1599.0,REIND
+131,Net Cashflow,12  Mar-16*,371.0,REIND
+132,Net Sales,12  Mar-17*,20061.0,REIND
+133,Other income,12  Mar-17*,179.0,REIND
+134,Total revenues,12  Mar-17*,20240.0,REIND
+135,Gross profit,12  Mar-17*,1598.0,REIND
+136,Depreciation,12  Mar-17*,1323.0,REIND
+137,Interest,12  Mar-17*,231.0,REIND
+138,Profit before tax,12  Mar-17*,223.0,REIND
+139,Minority Interest,12  Mar-17*,0.0,REIND
+140,Prior Period Items,12  Mar-17*,0.0,REIND
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,REIND
+142,Tax,12  Mar-17*,146.0,REIND
+143,Profit after tax,12  Mar-17*,76.0,REIND
+144,Gross profit margin,12  Mar-17*,8.0,REIND
+145,Effective tax rate,12  Mar-17*,65.7,REIND
+146,Net profit margin,12  Mar-17*,0.4,REIND
+147,Current assets,12  Mar-17*,7055.0,REIND
+148,Current liabilities,12  Mar-17*,3909.0,REIND
+149,Net working cap to sales,12  Mar-17*,15.7,REIND
+150,Current ratio,12  Mar-17*,1.8,REIND
+151,Inventory Days,12  Mar-17*,23.0,REIND
+152,Debtors Days,12  Mar-17*,74.0,REIND
+153,Net fixed assets,12  Mar-17*,8010.0,REIND
+154,Share capital,12  Mar-17*,263.0,REIND
+155,"""Free"" reserves",12  Mar-17*,8630.0,REIND
+156,Net worth,12  Mar-17*,8892.0,REIND
+157,Long term debt,12  Mar-17*,672.0,REIND
+158,Total assets,12  Mar-17*,15345.0,REIND
+159,Interest coverage,12  Mar-17*,2.0,REIND
+160,Debt to equity ratio,12  Mar-17*,0.1,REIND
+161,Sales to assets ratio,12  Mar-17*,1.3,REIND
+162,Return on assets,12  Mar-17*,2.0,REIND
+163,Return on equity,12  Mar-17*,0.9,REIND
+164,Return on capital,12  Mar-17*,4.7,REIND
+165,Exports to sales,12  Mar-17*,0.0,REIND
+166,Imports to sales,12  Mar-17*,0.0,REIND
+167,Exports (fob),12  Mar-17*,0.0,REIND
+168,Imports (cif),12  Mar-17*,0.0,REIND
+169,Fx inflow,12  Mar-17*,6278.0,REIND
+170,Fx outflow,12  Mar-17*,5873.0,REIND
+171,Net fx,12  Mar-17*,404.0,REIND
+172,From Operations,12  Mar-17*,1074.0,REIND
+173,From Investments,12  Mar-17*,-365.0,REIND
+174,From Financial Activity,12  Mar-17*,-575.0,REIND
+175,Net Cashflow,12  Mar-17*,134.0,REIND
+176,Net Sales,12  Mar-18*,12469.0,REIND
+177,Other income,12  Mar-18*,187.0,REIND
+178,Total revenues,12  Mar-18*,12656.0,REIND
+179,Gross profit,12  Mar-18*,1114.0,REIND
+180,Depreciation,12  Mar-18*,867.0,REIND
+181,Interest,12  Mar-18*,172.0,REIND
+182,Profit before tax,12  Mar-18*,262.0,REIND
+183,Minority Interest,12  Mar-18*,0.0,REIND
+184,Prior Period Items,12  Mar-18*,0.0,REIND
+185,Extraordinary Inc (Exp),12  Mar-18*,-51.0,REIND
+186,Tax,12  Mar-18*,118.0,REIND
+187,Profit after tax,12  Mar-18*,94.0,REIND
+188,Gross profit margin,12  Mar-18*,8.9,REIND
+189,Effective tax rate,12  Mar-18*,45.0,REIND
+190,Net profit margin,12  Mar-18*,0.8,REIND
+191,Current assets,12  Mar-18*,6195.0,REIND
+192,Current liabilities,12  Mar-18*,3027.0,REIND
+193,Net working cap to sales,12  Mar-18*,25.4,REIND
+194,Current ratio,12  Mar-18*,2.0,REIND
+195,Inventory Days,12  Mar-18*,34.0,REIND
+196,Debtors Days,12  Mar-18*,115.0,REIND
+197,Net fixed assets,12  Mar-18*,7652.0,REIND
+198,Share capital,12  Mar-18*,263.0,REIND
+199,"""Free"" reserves",12  Mar-18*,8709.0,REIND
+200,Net worth,12  Mar-18*,8971.0,REIND
+201,Long term debt,12  Mar-18*,3.0,REIND
+202,Total assets,12  Mar-18*,13908.0,REIND
+203,Interest coverage,12  Mar-18*,2.5,REIND
+204,Debt to equity ratio,12  Mar-18*,0.0,REIND
+205,Sales to assets ratio,12  Mar-18*,0.9,REIND
+206,Return on assets,12  Mar-18*,1.9,REIND
+207,Return on equity,12  Mar-18*,1.0,REIND
+208,Return on capital,12  Mar-18*,4.3,REIND
+209,Exports to sales,12  Mar-18*,0.0,REIND
+210,Imports to sales,12  Mar-18*,0.0,REIND
+211,Exports (fob),12  Mar-18*,0.0,REIND
+212,Imports (cif),12  Mar-18*,0.0,REIND
+213,Fx inflow,12  Mar-18*,4265.0,REIND
+214,Fx outflow,12  Mar-18*,3306.0,REIND
+215,Net fx,12  Mar-18*,959.0,REIND
+216,From Operations,12  Mar-18*,1417.0,REIND
+217,From Investments,12  Mar-18*,-288.0,REIND
+218,From Financial Activity,12  Mar-18*,-1766.0,REIND
+219,Net Cashflow,12  Mar-18*,-637.0,REIND

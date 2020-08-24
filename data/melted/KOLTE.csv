@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,6966.0,KOLTE
+1,Other income,12  Mar-15*,117.0,KOLTE
+2,Total revenues,12  Mar-15*,7084.0,KOLTE
+3,Gross profit,12  Mar-15*,2044.0,KOLTE
+4,Depreciation,12  Mar-15*,101.0,KOLTE
+5,Interest,12  Mar-15*,440.0,KOLTE
+6,Profit before tax,12  Mar-15*,1621.0,KOLTE
+7,Minority Interest,12  Mar-15*,-365.0,KOLTE
+8,Prior Period Items,12  Mar-15*,0.0,KOLTE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,KOLTE
+10,Tax,12  Mar-15*,602.0,KOLTE
+11,Profit after tax,12  Mar-15*,653.0,KOLTE
+12,Gross profit margin,12  Mar-15*,29.3,KOLTE
+13,Effective tax rate,12  Mar-15*,37.2,KOLTE
+14,Net profit margin,12  Mar-15*,9.4,KOLTE
+15,Current assets,12  Mar-15*,22120.0,KOLTE
+16,Current liabilities,12  Mar-15*,9300.0,KOLTE
+17,Net working cap to sales,12  Mar-15*,184.0,KOLTE
+18,Current ratio,12  Mar-15*,2.4,KOLTE
+19,Inventory Days,12  Mar-15*,976.0,KOLTE
+20,Debtors Days,12  Mar-15*,50.0,KOLTE
+21,Net fixed assets,12  Mar-15*,1190.0,KOLTE
+22,Share capital,12  Mar-15*,758.0,KOLTE
+23,"""Free"" reserves",12  Mar-15*,7742.0,KOLTE
+24,Net worth,12  Mar-15*,8500.0,KOLTE
+25,Long term debt,12  Mar-15*,3828.0,KOLTE
+26,Total assets,12  Mar-15*,24765.0,KOLTE
+27,Interest coverage,12  Mar-15*,4.7,KOLTE
+28,Debt to equity ratio,12  Mar-15*,0.5,KOLTE
+29,Sales to assets ratio,12  Mar-15*,0.3,KOLTE
+30,Return on assets,12  Mar-15*,4.4,KOLTE
+31,Return on equity,12  Mar-15*,7.7,KOLTE
+32,Return on capital,12  Mar-15*,13.7,KOLTE
+33,Exports to sales,12  Mar-15*,0.0,KOLTE
+34,Imports to sales,12  Mar-15*,0.0,KOLTE
+35,Exports (fob),12  Mar-15*,0.0,KOLTE
+36,Imports (cif),12  Mar-15*,0.0,KOLTE
+37,Fx inflow,12  Mar-15*,0.0,KOLTE
+38,Fx outflow,12  Mar-15*,28.0,KOLTE
+39,Net fx,12  Mar-15*,-28.0,KOLTE
+40,From Operations,12  Mar-15*,344.0,KOLTE
+41,From Investments,12  Mar-15*,5.0,KOLTE
+42,From Financial Activity,12  Mar-15*,-534.0,KOLTE
+43,Net Cashflow,12  Mar-15*,-186.0,KOLTE
+44,Net Sales,12  Mar-16*,7538.0,KOLTE
+45,Other income,12  Mar-16*,165.0,KOLTE
+46,Total revenues,12  Mar-16*,7703.0,KOLTE
+47,Gross profit,12  Mar-16*,1984.0,KOLTE
+48,Depreciation,12  Mar-16*,152.0,KOLTE
+49,Interest,12  Mar-16*,840.0,KOLTE
+50,Profit before tax,12  Mar-16*,1157.0,KOLTE
+51,Minority Interest,12  Mar-16*,0.0,KOLTE
+52,Prior Period Items,12  Mar-16*,0.0,KOLTE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,KOLTE
+54,Tax,12  Mar-16*,535.0,KOLTE
+55,Profit after tax,12  Mar-16*,623.0,KOLTE
+56,Gross profit margin,12  Mar-16*,26.3,KOLTE
+57,Effective tax rate,12  Mar-16*,46.2,KOLTE
+58,Net profit margin,12  Mar-16*,8.3,KOLTE
+59,Current assets,12  Mar-16*,24655.0,KOLTE
+60,Current liabilities,12  Mar-16*,10203.0,KOLTE
+61,Net working cap to sales,12  Mar-16*,191.7,KOLTE
+62,Current ratio,12  Mar-16*,2.4,KOLTE
+63,Inventory Days,12  Mar-16*,987.0,KOLTE
+64,Debtors Days,12  Mar-16*,71.0,KOLTE
+65,Net fixed assets,12  Mar-16*,1366.0,KOLTE
+66,Share capital,12  Mar-16*,758.0,KOLTE
+67,"""Free"" reserves",12  Mar-16*,7066.0,KOLTE
+68,Net worth,12  Mar-16*,7824.0,KOLTE
+69,Long term debt,12  Mar-16*,6443.0,KOLTE
+70,Total assets,12  Mar-16*,27782.0,KOLTE
+71,Interest coverage,12  Mar-16*,2.4,KOLTE
+72,Debt to equity ratio,12  Mar-16*,0.8,KOLTE
+73,Sales to assets ratio,12  Mar-16*,0.3,KOLTE
+74,Return on assets,12  Mar-16*,5.3,KOLTE
+75,Return on equity,12  Mar-16*,8.0,KOLTE
+76,Return on capital,12  Mar-16*,14.0,KOLTE
+77,Exports to sales,12  Mar-16*,0.0,KOLTE
+78,Imports to sales,12  Mar-16*,0.0,KOLTE
+79,Exports (fob),12  Mar-16*,0.0,KOLTE
+80,Imports (cif),12  Mar-16*,0.0,KOLTE
+81,Fx inflow,12  Mar-16*,0.0,KOLTE
+82,Fx outflow,12  Mar-16*,12.0,KOLTE
+83,Net fx,12  Mar-16*,-12.0,KOLTE
+84,From Operations,12  Mar-16*,364.0,KOLTE
+85,From Investments,12  Mar-16*,-1374.0,KOLTE
+86,From Financial Activity,12  Mar-16*,1194.0,KOLTE
+87,Net Cashflow,12  Mar-16*,185.0,KOLTE
+88,Net Sales,12  Mar-17*,9638.0,KOLTE
+89,Other income,12  Mar-17*,101.0,KOLTE
+90,Total revenues,12  Mar-17*,9740.0,KOLTE
+91,Gross profit,12  Mar-17*,2381.0,KOLTE
+92,Depreciation,12  Mar-17*,149.0,KOLTE
+93,Interest,12  Mar-17*,860.0,KOLTE
+94,Profit before tax,12  Mar-17*,1473.0,KOLTE
+95,Minority Interest,12  Mar-17*,0.0,KOLTE
+96,Prior Period Items,12  Mar-17*,0.0,KOLTE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,KOLTE
+98,Tax,12  Mar-17*,624.0,KOLTE
+99,Profit after tax,12  Mar-17*,849.0,KOLTE
+100,Gross profit margin,12  Mar-17*,24.7,KOLTE
+101,Effective tax rate,12  Mar-17*,42.4,KOLTE
+102,Net profit margin,12  Mar-17*,8.8,KOLTE
+103,Current assets,12  Mar-17*,24359.0,KOLTE
+104,Current liabilities,12  Mar-17*,14286.0,KOLTE
+105,Net working cap to sales,12  Mar-17*,104.5,KOLTE
+106,Current ratio,12  Mar-17*,1.7,KOLTE
+107,Inventory Days,12  Mar-17*,780.0,KOLTE
+108,Debtors Days,12  Mar-17*,67.0,KOLTE
+109,Net fixed assets,12  Mar-17*,1295.0,KOLTE
+110,Share capital,12  Mar-17*,758.0,KOLTE
+111,"""Free"" reserves",12  Mar-17*,8005.0,KOLTE
+112,Net worth,12  Mar-17*,8762.0,KOLTE
+113,Long term debt,12  Mar-17*,2902.0,KOLTE
+114,Total assets,12  Mar-17*,28727.0,KOLTE
+115,Interest coverage,12  Mar-17*,2.7,KOLTE
+116,Debt to equity ratio,12  Mar-17*,0.3,KOLTE
+117,Sales to assets ratio,12  Mar-17*,0.3,KOLTE
+118,Return on assets,12  Mar-17*,5.9,KOLTE
+119,Return on equity,12  Mar-17*,9.7,KOLTE
+120,Return on capital,12  Mar-17*,20.0,KOLTE
+121,Exports to sales,12  Mar-17*,0.0,KOLTE
+122,Imports to sales,12  Mar-17*,0.0,KOLTE
+123,Exports (fob),12  Mar-17*,0.0,KOLTE
+124,Imports (cif),12  Mar-17*,0.0,KOLTE
+125,Fx inflow,12  Mar-17*,0.0,KOLTE
+126,Fx outflow,12  Mar-17*,15.0,KOLTE
+127,Net fx,12  Mar-17*,-15.0,KOLTE
+128,From Operations,12  Mar-17*,1426.0,KOLTE
+129,From Investments,12  Mar-17*,380.0,KOLTE
+130,From Financial Activity,12  Mar-17*,-1708.0,KOLTE
+131,Net Cashflow,12  Mar-17*,98.0,KOLTE
+132,Net Sales,12  Mar-18*,14027.0,KOLTE
+133,Other income,12  Mar-18*,145.0,KOLTE
+134,Total revenues,12  Mar-18*,14172.0,KOLTE
+135,Gross profit,12  Mar-18*,3024.0,KOLTE
+136,Depreciation,12  Mar-18*,154.0,KOLTE
+137,Interest,12  Mar-18*,987.0,KOLTE
+138,Profit before tax,12  Mar-18*,2028.0,KOLTE
+139,Minority Interest,12  Mar-18*,0.0,KOLTE
+140,Prior Period Items,12  Mar-18*,0.0,KOLTE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,KOLTE
+142,Tax,12  Mar-18*,493.0,KOLTE
+143,Profit after tax,12  Mar-18*,1536.0,KOLTE
+144,Gross profit margin,12  Mar-18*,21.6,KOLTE
+145,Effective tax rate,12  Mar-18*,24.3,KOLTE
+146,Net profit margin,12  Mar-18*,10.9,KOLTE
+147,Current assets,12  Mar-18*,22583.0,KOLTE
+148,Current liabilities,12  Mar-18*,9955.0,KOLTE
+149,Net working cap to sales,12  Mar-18*,90.0,KOLTE
+150,Current ratio,12  Mar-18*,2.3,KOLTE
+151,Inventory Days,12  Mar-18*,478.0,KOLTE
+152,Debtors Days,12  Mar-18*,48.0,KOLTE
+153,Net fixed assets,12  Mar-18*,1175.0,KOLTE
+154,Share capital,12  Mar-18*,758.0,KOLTE
+155,"""Free"" reserves",12  Mar-18*,9080.0,KOLTE
+156,Net worth,12  Mar-18*,9838.0,KOLTE
+157,Long term debt,12  Mar-18*,4368.0,KOLTE
+158,Total assets,12  Mar-18*,26681.0,KOLTE
+159,Interest coverage,12  Mar-18*,3.1,KOLTE
+160,Debt to equity ratio,12  Mar-18*,0.4,KOLTE
+161,Sales to assets ratio,12  Mar-18*,0.5,KOLTE
+162,Return on assets,12  Mar-18*,9.5,KOLTE
+163,Return on equity,12  Mar-18*,15.6,KOLTE
+164,Return on capital,12  Mar-18*,21.2,KOLTE
+165,Exports to sales,12  Mar-18*,0.0,KOLTE
+166,Imports to sales,12  Mar-18*,0.0,KOLTE
+167,Exports (fob),12  Mar-18*,0.0,KOLTE
+168,Imports (cif),12  Mar-18*,0.0,KOLTE
+169,Fx inflow,12  Mar-18*,0.0,KOLTE
+170,Fx outflow,12  Mar-18*,8.0,KOLTE
+171,Net fx,12  Mar-18*,-8.0,KOLTE
+172,From Operations,12  Mar-18*,2298.0,KOLTE
+173,From Investments,12  Mar-18*,376.0,KOLTE
+174,From Financial Activity,12  Mar-18*,-2545.0,KOLTE
+175,Net Cashflow,12  Mar-18*,128.0,KOLTE
+176,Net Sales,12  Mar-19*,8693.0,KOLTE
+177,Other income,12  Mar-19*,111.0,KOLTE
+178,Total revenues,12  Mar-19*,8804.0,KOLTE
+179,Gross profit,12  Mar-19*,2471.0,KOLTE
+180,Depreciation,12  Mar-19*,149.0,KOLTE
+181,Interest,12  Mar-19*,920.0,KOLTE
+182,Profit before tax,12  Mar-19*,1512.0,KOLTE
+183,Minority Interest,12  Mar-19*,0.0,KOLTE
+184,Prior Period Items,12  Mar-19*,0.0,KOLTE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,KOLTE
+186,Tax,12  Mar-19*,518.0,KOLTE
+187,Profit after tax,12  Mar-19*,994.0,KOLTE
+188,Gross profit margin,12  Mar-19*,28.4,KOLTE
+189,Effective tax rate,12  Mar-19*,34.3,KOLTE
+190,Net profit margin,12  Mar-19*,11.4,KOLTE
+191,Current assets,12  Mar-19*,30848.0,KOLTE
+192,Current liabilities,12  Mar-19*,22602.0,KOLTE
+193,Net working cap to sales,12  Mar-19*,94.9,KOLTE
+194,Current ratio,12  Mar-19*,1.4,KOLTE
+195,Inventory Days,12  Mar-19*,1187.0,KOLTE
+196,Debtors Days,12  Mar-19*,45.0,KOLTE
+197,Net fixed assets,12  Mar-19*,1049.0,KOLTE
+198,Share capital,12  Mar-19*,758.0,KOLTE
+199,"""Free"" reserves",12  Mar-19*,7643.0,KOLTE
+200,Net worth,12  Mar-19*,8401.0,KOLTE
+201,Long term debt,12  Mar-19*,4863.0,KOLTE
+202,Total assets,12  Mar-19*,36300.0,KOLTE
+203,Interest coverage,12  Mar-19*,2.6,KOLTE
+204,Debt to equity ratio,12  Mar-19*,0.6,KOLTE
+205,Sales to assets ratio,12  Mar-19*,0.2,KOLTE
+206,Return on assets,12  Mar-19*,5.3,KOLTE
+207,Return on equity,12  Mar-19*,11.8,KOLTE
+208,Return on capital,12  Mar-19*,18.3,KOLTE
+209,Exports to sales,12  Mar-19*,0.0,KOLTE
+210,Imports to sales,12  Mar-19*,0.0,KOLTE
+211,Exports (fob),12  Mar-19*,0.0,KOLTE
+212,Imports (cif),12  Mar-19*,0.0,KOLTE
+213,Fx inflow,12  Mar-19*,0.0,KOLTE
+214,Fx outflow,12  Mar-19*,12.0,KOLTE
+215,Net fx,12  Mar-19*,-12.0,KOLTE
+216,From Operations,12  Mar-19*,674.0,KOLTE
+217,From Investments,12  Mar-19*,159.0,KOLTE
+218,From Financial Activity,12  Mar-19*,-1193.0,KOLTE
+219,Net Cashflow,12  Mar-19*,-361.0,KOLTE

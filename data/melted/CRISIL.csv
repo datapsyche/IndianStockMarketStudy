@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,12534.0,CRISIL
+1,Other income,12  Dec-14*,237.0,CRISIL
+2,Total revenues,12  Dec-14*,12771.0,CRISIL
+3,Gross profit,12  Dec-14*,3885.0,CRISIL
+4,Depreciation,12  Dec-14*,361.0,CRISIL
+5,Interest,12  Dec-14*,0.0,CRISIL
+6,Profit before tax,12  Dec-14*,3761.0,CRISIL
+7,Minority Interest,12  Dec-14*,0.0,CRISIL
+8,Prior Period Items,12  Dec-14*,0.0,CRISIL
+9,Extraordinary Inc (Exp),12  Dec-14*,0.0,CRISIL
+10,Tax,12  Dec-14*,1076.0,CRISIL
+11,Profit after tax,12  Dec-14*,2684.0,CRISIL
+12,Gross profit margin,12  Dec-14*,31.0,CRISIL
+13,Effective tax rate,12  Dec-14*,28.6,CRISIL
+14,Net profit margin,12  Dec-14*,21.4,CRISIL
+15,Current assets,12  Dec-14*,7466,CRISIL
+16,Current liabilities,12  Dec-14*,3812,CRISIL
+17,Net working cap to sales,12  Dec-14*,29.2,CRISIL
+18,Current ratio,12  Dec-14*,2.0,CRISIL
+19,Inventory Days,12  Dec-14*,0,CRISIL
+20,Debtors Days,12  Dec-14*,41,CRISIL
+21,Net fixed assets,12  Dec-14*,4319,CRISIL
+22,Share capital,12  Dec-14*,71,CRISIL
+23,"""Free"" reserves",12  Dec-14*,8103,CRISIL
+24,Net worth,12  Dec-14*,8484,CRISIL
+25,Long term debt,12  Dec-14*,0,CRISIL
+26,Total assets,12  Dec-14*,12646,CRISIL
+27,Interest coverage,12  Dec-14*,NM,CRISIL
+28,Debt to equity ratio,12  Dec-14*,0,CRISIL
+29,Sales to assets ratio,12  Dec-14*,1.0,CRISIL
+30,Return on assets,12  Dec-14*,21.2,CRISIL
+31,Return on equity,12  Dec-14*,31.6,CRISIL
+32,Return on capital,12  Dec-14*,44.3,CRISIL
+33,Exports to sales,12  Dec-14*,0,CRISIL
+34,Imports to sales,12  Dec-14*,0,CRISIL
+35,Exports (fob),12  Dec-14*,0,CRISIL
+36,Imports (cif),12  Dec-14*,0,CRISIL
+37,Fx inflow,12  Dec-14*,5092,CRISIL
+38,Fx outflow,12  Dec-14*,1745,CRISIL
+39,Net fx,12  Dec-14*,3347,CRISIL
+40,From Operations,12  Dec-14*,2647,CRISIL
+41,From Investments,12  Dec-14*,-1852,CRISIL
+42,From Financial Activity,12  Dec-14*,-1116,CRISIL
+43,Net Cashflow,12  Dec-14*,-321,CRISIL
+44,Net Sales,12  Dec-15*,13799.0,CRISIL
+45,Other income,12  Dec-15*,432.0,CRISIL
+46,Total revenues,12  Dec-15*,14232.0,CRISIL
+47,Gross profit,12  Dec-15*,3996.0,CRISIL
+48,Depreciation,12  Dec-15*,371.0,CRISIL
+49,Interest,12  Dec-15*,0.0,CRISIL
+50,Profit before tax,12  Dec-15*,4057.0,CRISIL
+51,Minority Interest,12  Dec-15*,0.0,CRISIL
+52,Prior Period Items,12  Dec-15*,0.0,CRISIL
+53,Extraordinary Inc (Exp),12  Dec-15*,0.0,CRISIL
+54,Tax,12  Dec-15*,1206.0,CRISIL
+55,Profit after tax,12  Dec-15*,2852.0,CRISIL
+56,Gross profit margin,12  Dec-15*,29.0,CRISIL
+57,Effective tax rate,12  Dec-15*,29.7,CRISIL
+58,Net profit margin,12  Dec-15*,20.7,CRISIL
+59,Current assets,12  Dec-15*,8279,CRISIL
+60,Current liabilities,12  Dec-15*,4427,CRISIL
+61,Net working cap to sales,12  Dec-15*,27.9,CRISIL
+62,Current ratio,12  Dec-15*,1.9,CRISIL
+63,Inventory Days,12  Dec-15*,0,CRISIL
+64,Debtors Days,12  Dec-15*,51,CRISIL
+65,Net fixed assets,12  Dec-15*,1001,CRISIL
+66,Share capital,12  Dec-15*,71,CRISIL
+67,"""Free"" reserves",12  Dec-15*,9586,CRISIL
+68,Net worth,12  Dec-15*,9657,CRISIL
+69,Long term debt,12  Dec-15*,0,CRISIL
+70,Total assets,12  Dec-15*,13367,CRISIL
+71,Interest coverage,12  Dec-15*,NM,CRISIL
+72,Debt to equity ratio,12  Dec-15*,0,CRISIL
+73,Sales to assets ratio,12  Dec-15*,1.0,CRISIL
+74,Return on assets,12  Dec-15*,21.3,CRISIL
+75,Return on equity,12  Dec-15*,29.5,CRISIL
+76,Return on capital,12  Dec-15*,42.0,CRISIL
+77,Exports to sales,12  Dec-15*,0,CRISIL
+78,Imports to sales,12  Dec-15*,0,CRISIL
+79,Exports (fob),12  Dec-15*,0,CRISIL
+80,Imports (cif),12  Dec-15*,0,CRISIL
+81,Fx inflow,12  Dec-15*,5611,CRISIL
+82,Fx outflow,12  Dec-15*,1958,CRISIL
+83,Net fx,12  Dec-15*,3653,CRISIL
+84,From Operations,12  Dec-15*,2704,CRISIL
+85,From Investments,12  Dec-15*,9,CRISIL
+86,From Financial Activity,12  Dec-15*,-2617,CRISIL
+87,Net Cashflow,12  Dec-15*,95,CRISIL
+88,Net Sales,12  Dec-16*,15475.0,CRISIL
+89,Other income,12  Dec-16*,497.0,CRISIL
+90,Total revenues,12  Dec-16*,15972.0,CRISIL
+91,Gross profit,12  Dec-16*,4433.0,CRISIL
+92,Depreciation,12  Dec-16*,545.0,CRISIL
+93,Interest,12  Dec-16*,0.0,CRISIL
+94,Profit before tax,12  Dec-16*,4385.0,CRISIL
+95,Minority Interest,12  Dec-16*,0.0,CRISIL
+96,Prior Period Items,12  Dec-16*,0.0,CRISIL
+97,Extraordinary Inc (Exp),12  Dec-16*,0.0,CRISIL
+98,Tax,12  Dec-16*,1442.0,CRISIL
+99,Profit after tax,12  Dec-16*,2943.0,CRISIL
+100,Gross profit margin,12  Dec-16*,28.6,CRISIL
+101,Effective tax rate,12  Dec-16*,32.9,CRISIL
+102,Net profit margin,12  Dec-16*,19.0,CRISIL
+103,Current assets,12  Dec-16*,9606,CRISIL
+104,Current liabilities,12  Dec-16*,3852,CRISIL
+105,Net working cap to sales,12  Dec-16*,37.2,CRISIL
+106,Current ratio,12  Dec-16*,2.5,CRISIL
+107,Inventory Days,12  Dec-16*,0,CRISIL
+108,Debtors Days,12  Dec-16*,49,CRISIL
+109,Net fixed assets,12  Dec-16*,827,CRISIL
+110,Share capital,12  Dec-16*,71,CRISIL
+111,"""Free"" reserves",12  Dec-16*,9782,CRISIL
+112,Net worth,12  Dec-16*,9854,CRISIL
+113,Long term debt,12  Dec-16*,0,CRISIL
+114,Total assets,12  Dec-16*,13852,CRISIL
+115,Interest coverage,12  Dec-16*,NM,CRISIL
+116,Debt to equity ratio,12  Dec-16*,0,CRISIL
+117,Sales to assets ratio,12  Dec-16*,1.1,CRISIL
+118,Return on assets,12  Dec-16*,21.2,CRISIL
+119,Return on equity,12  Dec-16*,29.9,CRISIL
+120,Return on capital,12  Dec-16*,44.5,CRISIL
+121,Exports to sales,12  Dec-16*,0,CRISIL
+122,Imports to sales,12  Dec-16*,0,CRISIL
+123,Exports (fob),12  Dec-16*,0,CRISIL
+124,Imports (cif),12  Dec-16*,0,CRISIL
+125,Fx inflow,12  Dec-16*,7120,CRISIL
+126,Fx outflow,12  Dec-16*,2341,CRISIL
+127,Net fx,12  Dec-16*,4778,CRISIL
+128,From Operations,12  Dec-16*,2790,CRISIL
+129,From Investments,12  Dec-16*,-247,CRISIL
+130,From Financial Activity,12  Dec-16*,-2269,CRISIL
+131,Net Cashflow,12  Dec-16*,330,CRISIL
+132,Net Sales,12  Dec-17*,16585.0,CRISIL
+133,Other income,12  Dec-17*,254.0,CRISIL
+134,Total revenues,12  Dec-17*,16838.0,CRISIL
+135,Gross profit,12  Dec-17*,4553.0,CRISIL
+136,Depreciation,12  Dec-17*,466.0,CRISIL
+137,Interest,12  Dec-17*,4.0,CRISIL
+138,Profit before tax,12  Dec-17*,4336.0,CRISIL
+139,Minority Interest,12  Dec-17*,0.0,CRISIL
+140,Prior Period Items,12  Dec-17*,0.0,CRISIL
+141,Extraordinary Inc (Exp),12  Dec-17*,0.0,CRISIL
+142,Tax,12  Dec-17*,1292.0,CRISIL
+143,Profit after tax,12  Dec-17*,3044.0,CRISIL
+144,Gross profit margin,12  Dec-17*,27.5,CRISIL
+145,Effective tax rate,12  Dec-17*,29.8,CRISIL
+146,Net profit margin,12  Dec-17*,18.4,CRISIL
+147,Current assets,12  Dec-17*,7068.0,CRISIL
+148,Current liabilities,12  Dec-17*,4287.0,CRISIL
+149,Net working cap to sales,12  Dec-17*,16.8,CRISIL
+150,Current ratio,12  Dec-17*,1.6,CRISIL
+151,Inventory Days,12  Dec-17*,0.0,CRISIL
+152,Debtors Days,12  Dec-17*,57.0,CRISIL
+153,Net fixed assets,12  Dec-17*,746.0,CRISIL
+154,Share capital,12  Dec-17*,72.0,CRISIL
+155,"""Free"" reserves",12  Dec-17*,10414.0,CRISIL
+156,Net worth,12  Dec-17*,10486.0,CRISIL
+157,Long term debt,12  Dec-17*,0.0,CRISIL
+158,Total assets,12  Dec-17*,14947.0,CRISIL
+159,Interest coverage,12  Dec-17*,1058.6,CRISIL
+160,Debt to equity ratio,12  Dec-17*,0.0,CRISIL
+161,Sales to assets ratio,12  Dec-17*,1.1,CRISIL
+162,Return on assets,12  Dec-17*,20.4,CRISIL
+163,Return on equity,12  Dec-17*,29.0,CRISIL
+164,Return on capital,12  Dec-17*,41.4,CRISIL
+165,Exports to sales,12  Dec-17*,0.0,CRISIL
+166,Imports to sales,12  Dec-17*,0.0,CRISIL
+167,Exports (fob),12  Dec-17*,0.0,CRISIL
+168,Imports (cif),12  Dec-17*,0.0,CRISIL
+169,Fx inflow,12  Dec-17*,0.0,CRISIL
+170,Fx outflow,12  Dec-17*,0.0,CRISIL
+171,Net fx,12  Dec-17*,0.0,CRISIL
+172,From Operations,12  Dec-17*,2907.0,CRISIL
+173,From Investments,12  Dec-17*,-1767.0,CRISIL
+174,From Financial Activity,12  Dec-17*,-1866.0,CRISIL
+175,Net Cashflow,12  Dec-17*,-752.0,CRISIL
+176,Net Sales,12  Dec-18*,17485.0,CRISIL
+177,Other income,12  Dec-18*,734.0,CRISIL
+178,Total revenues,12  Dec-18*,18219.0,CRISIL
+179,Gross profit,12  Dec-18*,4712.0,CRISIL
+180,Depreciation,12  Dec-18*,428.0,CRISIL
+181,Interest,12  Dec-18*,22.0,CRISIL
+182,Profit before tax,12  Dec-18*,4996.0,CRISIL
+183,Minority Interest,12  Dec-18*,0.0,CRISIL
+184,Prior Period Items,12  Dec-18*,0.0,CRISIL
+185,Extraordinary Inc (Exp),12  Dec-18*,0.0,CRISIL
+186,Tax,12  Dec-18*,1365.0,CRISIL
+187,Profit after tax,12  Dec-18*,3631.0,CRISIL
+188,Gross profit margin,12  Dec-18*,27.0,CRISIL
+189,Effective tax rate,12  Dec-18*,27.3,CRISIL
+190,Net profit margin,12  Dec-18*,20.8,CRISIL
+191,Current assets,12  Dec-18*,8249.0,CRISIL
+192,Current liabilities,12  Dec-18*,4759.0,CRISIL
+193,Net working cap to sales,12  Dec-18*,20.0,CRISIL
+194,Current ratio,12  Dec-18*,1.7,CRISIL
+195,Inventory Days,12  Dec-18*,0.0,CRISIL
+196,Debtors Days,12  Dec-18*,59.0,CRISIL
+197,Net fixed assets,12  Dec-18*,801.0,CRISIL
+198,Share capital,12  Dec-18*,72.0,CRISIL
+199,"""Free"" reserves",12  Dec-18*,11290.0,CRISIL
+200,Net worth,12  Dec-18*,11363.0,CRISIL
+201,Long term debt,12  Dec-18*,1.0,CRISIL
+202,Total assets,12  Dec-18*,16338.0,CRISIL
+203,Interest coverage,12  Dec-18*,225.0,CRISIL
+204,Debt to equity ratio,12  Dec-18*,0.0,CRISIL
+205,Sales to assets ratio,12  Dec-18*,1.1,CRISIL
+206,Return on assets,12  Dec-18*,22.4,CRISIL
+207,Return on equity,12  Dec-18*,32.0,CRISIL
+208,Return on capital,12  Dec-18*,44.2,CRISIL
+209,Exports to sales,12  Dec-18*,0.0,CRISIL
+210,Imports to sales,12  Dec-18*,0.0,CRISIL
+211,Exports (fob),12  Dec-18*,0.0,CRISIL
+212,Imports (cif),12  Dec-18*,0.0,CRISIL
+213,Fx inflow,12  Dec-18*,0.0,CRISIL
+214,Fx outflow,12  Dec-18*,0.0,CRISIL
+215,Net fx,12  Dec-18*,0.0,CRISIL
+216,From Operations,12  Dec-18*,3785.0,CRISIL
+217,From Investments,12  Dec-18*,-731.0,CRISIL
+218,From Financial Activity,12  Dec-18*,-2020.0,CRISIL
+219,Net Cashflow,12  Dec-18*,1108.0,CRISIL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,18946.0,NILK
+1,Other income,12  Mar-15*,46.0,NILK
+2,Total revenues,12  Mar-15*,18992.0,NILK
+3,Gross profit,12  Mar-15*,1536.0,NILK
+4,Depreciation,12  Mar-15*,574.0,NILK
+5,Interest,12  Mar-15*,299.0,NILK
+6,Profit before tax,12  Mar-15*,708.0,NILK
+7,Minority Interest,12  Mar-15*,-8.0,NILK
+8,Prior Period Items,12  Mar-15*,0.0,NILK
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NILK
+10,Tax,12  Mar-15*,196.0,NILK
+11,Profit after tax,12  Mar-15*,505.0,NILK
+12,Gross profit margin,12  Mar-15*,8.1,NILK
+13,Effective tax rate,12  Mar-15*,27.6,NILK
+14,Net profit margin,12  Mar-15*,2.7,NILK
+15,Current assets,12  Mar-15*,5806.0,NILK
+16,Current liabilities,12  Mar-15*,3173.0,NILK
+17,Net working cap to sales,12  Mar-15*,13.9,NILK
+18,Current ratio,12  Mar-15*,1.8,NILK
+19,Inventory Days,12  Mar-15*,54.0,NILK
+20,Debtors Days,12  Mar-15*,46.0,NILK
+21,Net fixed assets,12  Mar-15*,3072.0,NILK
+22,Share capital,12  Mar-15*,149.0,NILK
+23,"""Free"" reserves",12  Mar-15*,4584.0,NILK
+24,Net worth,12  Mar-15*,5250.0,NILK
+25,Long term debt,12  Mar-15*,439.0,NILK
+26,Total assets,12  Mar-15*,9619.0,NILK
+27,Interest coverage,12  Mar-15*,3.4,NILK
+28,Debt to equity ratio,12  Mar-15*,0.1,NILK
+29,Sales to assets ratio,12  Mar-15*,2.0,NILK
+30,Return on assets,12  Mar-15*,8.4,NILK
+31,Return on equity,12  Mar-15*,9.6,NILK
+32,Return on capital,12  Mar-15*,17.6,NILK
+33,Exports to sales,12  Mar-15*,0.0,NILK
+34,Imports to sales,12  Mar-15*,0.0,NILK
+35,Exports (fob),12  Mar-15*,0.0,NILK
+36,Imports (cif),12  Mar-15*,0.0,NILK
+37,Fx inflow,12  Mar-15*,547.0,NILK
+38,Fx outflow,12  Mar-15*,1902.0,NILK
+39,Net fx,12  Mar-15*,-1355.0,NILK
+40,From Operations,12  Mar-15*,1671.0,NILK
+41,From Investments,12  Mar-15*,-155.0,NILK
+42,From Financial Activity,12  Mar-15*,-1508.0,NILK
+43,Net Cashflow,12  Mar-15*,8.0,NILK
+44,Net Sales,12  Mar-16*,19265.0,NILK
+45,Other income,12  Mar-16*,33.0,NILK
+46,Total revenues,12  Mar-16*,19297.0,NILK
+47,Gross profit,12  Mar-16*,2300.0,NILK
+48,Depreciation,12  Mar-16*,550.0,NILK
+49,Interest,12  Mar-16*,182.0,NILK
+50,Profit before tax,12  Mar-16*,1601.0,NILK
+51,Minority Interest,12  Mar-16*,75.0,NILK
+52,Prior Period Items,12  Mar-16*,0.0,NILK
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NILK
+54,Tax,12  Mar-16*,516.0,NILK
+55,Profit after tax,12  Mar-16*,1160.0,NILK
+56,Gross profit margin,12  Mar-16*,11.9,NILK
+57,Effective tax rate,12  Mar-16*,32.2,NILK
+58,Net profit margin,12  Mar-16*,6.0,NILK
+59,Current assets,12  Mar-16*,6352.0,NILK
+60,Current liabilities,12  Mar-16*,2972.0,NILK
+61,Net working cap to sales,12  Mar-16*,17.5,NILK
+62,Current ratio,12  Mar-16*,2.1,NILK
+63,Inventory Days,12  Mar-16*,58.0,NILK
+64,Debtors Days,12  Mar-16*,51.0,NILK
+65,Net fixed assets,12  Mar-16*,2807.0,NILK
+66,Share capital,12  Mar-16*,149.0,NILK
+67,"""Free"" reserves",12  Mar-16*,4949.0,NILK
+68,Net worth,12  Mar-16*,6262.0,NILK
+69,Long term debt,12  Mar-16*,88.0,NILK
+70,Total assets,12  Mar-16*,9977.0,NILK
+71,Interest coverage,12  Mar-16*,9.8,NILK
+72,Debt to equity ratio,12  Mar-16*,0.0,NILK
+73,Sales to assets ratio,12  Mar-16*,1.9,NILK
+74,Return on assets,12  Mar-16*,13.4,NILK
+75,Return on equity,12  Mar-16*,18.5,NILK
+76,Return on capital,12  Mar-16*,29.2,NILK
+77,Exports to sales,12  Mar-16*,0.0,NILK
+78,Imports to sales,12  Mar-16*,0.0,NILK
+79,Exports (fob),12  Mar-16*,0.0,NILK
+80,Imports (cif),12  Mar-16*,0.0,NILK
+81,Fx inflow,12  Mar-16*,584.0,NILK
+82,Fx outflow,12  Mar-16*,1970.0,NILK
+83,Net fx,12  Mar-16*,-1387.0,NILK
+84,From Operations,12  Mar-16*,1826.0,NILK
+85,From Investments,12  Mar-16*,-414.0,NILK
+86,From Financial Activity,12  Mar-16*,-1420.0,NILK
+87,Net Cashflow,12  Mar-16*,-15.0,NILK
+88,Net Sales,12  Mar-17*,20240.0,NILK
+89,Other income,12  Mar-17*,33.0,NILK
+90,Total revenues,12  Mar-17*,20273.0,NILK
+91,Gross profit,12  Mar-17*,2317.0,NILK
+92,Depreciation,12  Mar-17*,505.0,NILK
+93,Interest,12  Mar-17*,117.0,NILK
+94,Profit before tax,12  Mar-17*,1728.0,NILK
+95,Minority Interest,12  Mar-17*,52.0,NILK
+96,Prior Period Items,12  Mar-17*,0.0,NILK
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NILK
+98,Tax,12  Mar-17*,536.0,NILK
+99,Profit after tax,12  Mar-17*,1243.0,NILK
+100,Gross profit margin,12  Mar-17*,11.4,NILK
+101,Effective tax rate,12  Mar-17*,31.0,NILK
+102,Net profit margin,12  Mar-17*,6.1,NILK
+103,Current assets,12  Mar-17*,7020.0,NILK
+104,Current liabilities,12  Mar-17*,2810.0,NILK
+105,Net working cap to sales,12  Mar-17*,20.8,NILK
+106,Current ratio,12  Mar-17*,2.5,NILK
+107,Inventory Days,12  Mar-17*,61.0,NILK
+108,Debtors Days,12  Mar-17*,54.0,NILK
+109,Net fixed assets,12  Mar-17*,3408.0,NILK
+110,Share capital,12  Mar-17*,149.0,NILK
+111,"""Free"" reserves",12  Mar-17*,7270.0,NILK
+112,Net worth,12  Mar-17*,7419.0,NILK
+113,Long term debt,12  Mar-17*,1.0,NILK
+114,Total assets,12  Mar-17*,10931.0,NILK
+115,Interest coverage,12  Mar-17*,15.8,NILK
+116,Debt to equity ratio,12  Mar-17*,0.0,NILK
+117,Sales to assets ratio,12  Mar-17*,1.9,NILK
+118,Return on assets,12  Mar-17*,12.4,NILK
+119,Return on equity,12  Mar-17*,16.8,NILK
+120,Return on capital,12  Mar-17*,25.6,NILK
+121,Exports to sales,12  Mar-17*,0.0,NILK
+122,Imports to sales,12  Mar-17*,0.0,NILK
+123,Exports (fob),12  Mar-17*,0.0,NILK
+124,Imports (cif),12  Mar-17*,0.0,NILK
+125,Fx inflow,12  Mar-17*,556.0,NILK
+126,Fx outflow,12  Mar-17*,2366.0,NILK
+127,Net fx,12  Mar-17*,-1810.0,NILK
+128,From Operations,12  Mar-17*,1115.0,NILK
+129,From Investments,12  Mar-17*,-702.0,NILK
+130,From Financial Activity,12  Mar-17*,-382.0,NILK
+131,Net Cashflow,12  Mar-17*,3.0,NILK
+132,Net Sales,12  Mar-18*,21241.0,NILK
+133,Other income,12  Mar-18*,37.0,NILK
+134,Total revenues,12  Mar-18*,21277.0,NILK
+135,Gross profit,12  Mar-18*,2394.0,NILK
+136,Depreciation,12  Mar-18*,505.0,NILK
+137,Interest,12  Mar-18*,125.0,NILK
+138,Profit before tax,12  Mar-18*,1801.0,NILK
+139,Minority Interest,12  Mar-18*,67.0,NILK
+140,Prior Period Items,12  Mar-18*,0.0,NILK
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NILK
+142,Tax,12  Mar-18*,630.0,NILK
+143,Profit after tax,12  Mar-18*,1239.0,NILK
+144,Gross profit margin,12  Mar-18*,11.3,NILK
+145,Effective tax rate,12  Mar-18*,35.0,NILK
+146,Net profit margin,12  Mar-18*,5.8,NILK
+147,Current assets,12  Mar-18*,8032.0,NILK
+148,Current liabilities,12  Mar-18*,3188.0,NILK
+149,Net working cap to sales,12  Mar-18*,22.8,NILK
+150,Current ratio,12  Mar-18*,2.5,NILK
+151,Inventory Days,12  Mar-18*,65.0,NILK
+152,Debtors Days,12  Mar-18*,58.0,NILK
+153,Net fixed assets,12  Mar-18*,3972.0,NILK
+154,Share capital,12  Mar-18*,149.0,NILK
+155,"""Free"" reserves",12  Mar-18*,8337.0,NILK
+156,Net worth,12  Mar-18*,8486.0,NILK
+157,Long term debt,12  Mar-18*,0.0,NILK
+158,Total assets,12  Mar-18*,12482.0,NILK
+159,Interest coverage,12  Mar-18*,15.4,NILK
+160,Debt to equity ratio,12  Mar-18*,0.0,NILK
+161,Sales to assets ratio,12  Mar-18*,1.7,NILK
+162,Return on assets,12  Mar-18*,10.9,NILK
+163,Return on equity,12  Mar-18*,14.6,NILK
+164,Return on capital,12  Mar-18*,23.5,NILK
+165,Exports to sales,12  Mar-18*,0.0,NILK
+166,Imports to sales,12  Mar-18*,0.0,NILK
+167,Exports (fob),12  Mar-18*,0.0,NILK
+168,Imports (cif),12  Mar-18*,0.0,NILK
+169,Fx inflow,12  Mar-18*,582.0,NILK
+170,Fx outflow,12  Mar-18*,2838.0,NILK
+171,Net fx,12  Mar-18*,-2256.0,NILK
+172,From Operations,12  Mar-18*,1207.0,NILK
+173,From Investments,12  Mar-18*,-957.0,NILK
+174,From Financial Activity,12  Mar-18*,-203.0,NILK
+175,Net Cashflow,12  Mar-18*,42.0,NILK
+176,Net Sales,12  Mar-19*,23624.0,NILK
+177,Other income,12  Mar-19*,130.0,NILK
+178,Total revenues,12  Mar-19*,23754.0,NILK
+179,Gross profit,12  Mar-19*,1834.0,NILK
+180,Depreciation,12  Mar-19*,217.0,NILK
+181,Interest,12  Mar-19*,158.0,NILK
+182,Profit before tax,12  Mar-19*,1589.0,NILK
+183,Minority Interest,12  Mar-19*,71.0,NILK
+184,Prior Period Items,12  Mar-19*,0.0,NILK
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NILK
+186,Tax,12  Mar-19*,483.0,NILK
+187,Profit after tax,12  Mar-19*,1177.0,NILK
+188,Gross profit margin,12  Mar-19*,7.8,NILK
+189,Effective tax rate,12  Mar-19*,30.4,NILK
+190,Net profit margin,12  Mar-19*,5.0,NILK
+191,Current assets,12  Mar-19*,7795.0,NILK
+192,Current liabilities,12  Mar-19*,2160.0,NILK
+193,Net working cap to sales,12  Mar-19*,23.9,NILK
+194,Current ratio,12  Mar-19*,3.6,NILK
+195,Inventory Days,12  Mar-19*,61.0,NILK
+196,Debtors Days,12  Mar-19*,48.0,NILK
+197,Net fixed assets,12  Mar-19*,4622.0,NILK
+198,Share capital,12  Mar-19*,149.0,NILK
+199,"""Free"" reserves",12  Mar-19*,9263.0,NILK
+200,Net worth,12  Mar-19*,9412.0,NILK
+201,Long term debt,12  Mar-19*,444.0,NILK
+202,Total assets,12  Mar-19*,12937.0,NILK
+203,Interest coverage,12  Mar-19*,11.0,NILK
+204,Debt to equity ratio,12  Mar-19*,0.0,NILK
+205,Sales to assets ratio,12  Mar-19*,1.8,NILK
+206,Return on assets,12  Mar-19*,10.3,NILK
+207,Return on equity,12  Mar-19*,12.5,NILK
+208,Return on capital,12  Mar-19*,18.4,NILK
+209,Exports to sales,12  Mar-19*,0.0,NILK
+210,Imports to sales,12  Mar-19*,0.0,NILK
+211,Exports (fob),12  Mar-19*,0.0,NILK
+212,Imports (cif),12  Mar-19*,0.0,NILK
+213,Fx inflow,12  Mar-19*,517.0,NILK
+214,Fx outflow,12  Mar-19*,3764.0,NILK
+215,Net fx,12  Mar-19*,-3248.0,NILK
+216,From Operations,12  Mar-19*,1748.0,NILK
+217,From Investments,12  Mar-19*,-1065.0,NILK
+218,From Financial Activity,12  Mar-19*,-725.0,NILK
+219,Net Cashflow,12  Mar-19*,-43.0,NILK

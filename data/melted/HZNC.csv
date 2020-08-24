@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,147884.0,HZNC
+1,Other income,12  Mar-15,28211.0,HZNC
+2,Total revenues,12  Mar-15,176094.0,HZNC
+3,Gross profit,12  Mar-15,74466.0,HZNC
+4,Depreciation,12  Mar-15,6442.0,HZNC
+5,Interest,12  Mar-15,235.0,HZNC
+6,Profit before tax,12  Mar-15,96000.0,HZNC
+7,Minority Interest,12  Mar-15,0.0,HZNC
+8,Prior Period Items,12  Mar-15,0.0,HZNC
+9,Extraordinary Inc (Exp),12  Mar-15,-299.0,HZNC
+10,Tax,12  Mar-15,13921.0,HZNC
+11,Profit after tax,12  Mar-15,81780.0,HZNC
+12,Gross profit margin,12  Mar-15,50.4,HZNC
+13,Effective tax rate,12  Mar-15,14.5,HZNC
+14,Net profit margin,12  Mar-15,55.3,HZNC
+15,Current assets,12  Mar-15,330840.0,HZNC
+16,Current liabilities,12  Mar-15,16780.0,HZNC
+17,Net working cap to sales,12  Mar-15,212.4,HZNC
+18,Current ratio,12  Mar-15,19.7,HZNC
+19,Inventory Days,12  Mar-15,30.0,HZNC
+20,Debtors Days,12  Mar-15,14.0,HZNC
+21,Net fixed assets,12  Mar-15,117880.0,HZNC
+22,Share capital,12  Mar-15,8451.0,HZNC
+23,"""Free"" reserves",12  Mar-15,437760.0,HZNC
+24,Net worth,12  Mar-15,446211.0,HZNC
+25,Long term debt,12  Mar-15,0.0,HZNC
+26,Total assets,12  Mar-15,470020.0,HZNC
+27,Interest coverage,12  Mar-15,409.3,HZNC
+28,Debt to equity ratio,12  Mar-15,0.0,HZNC
+29,Sales to assets ratio,12  Mar-15,0.3,HZNC
+30,Return on assets,12  Mar-15,17.4,HZNC
+31,Return on equity,12  Mar-15,18.3,HZNC
+32,Return on capital,12  Mar-15,21.5,HZNC
+33,Exports to sales,12  Mar-15,25.9,HZNC
+34,Imports to sales,12  Mar-15,9.3,HZNC
+35,Exports (fob),12  Mar-15,38256.0,HZNC
+36,Imports (cif),12  Mar-15,13821.0,HZNC
+37,Fx inflow,12  Mar-15,38256.0,HZNC
+38,Fx outflow,12  Mar-15,14897.0,HZNC
+39,Net fx,12  Mar-15,23359.0,HZNC
+40,From Operations,12  Mar-15,55307.0,HZNC
+41,From Investments,12  Mar-15,-38070.0,HZNC
+42,From Financial Activity,12  Mar-15,-19020.0,HZNC
+43,Net Cashflow,12  Mar-15,-1783.0,HZNC
+44,Net Sales,12  Mar-16,154630.0,HZNC
+45,Other income,12  Mar-16,27630.0,HZNC
+46,Total revenues,12  Mar-16,182260.0,HZNC
+47,Gross profit,12  Mar-16,66520.0,HZNC
+48,Depreciation,12  Mar-16,7450.0,HZNC
+49,Interest,12  Mar-16,170.0,HZNC
+50,Profit before tax,12  Mar-16,86530.0,HZNC
+51,Minority Interest,12  Mar-16,0.0,HZNC
+52,Prior Period Items,12  Mar-16,0.0,HZNC
+53,Extraordinary Inc (Exp),12  Mar-16,-300.0,HZNC
+54,Tax,12  Mar-16,4480.0,HZNC
+55,Profit after tax,12  Mar-16,81750.0,HZNC
+56,Gross profit margin,12  Mar-16,43.0,HZNC
+57,Effective tax rate,12  Mar-16,5.2,HZNC
+58,Net profit margin,12  Mar-16,52.9,HZNC
+59,Current assets,12  Mar-16,369130.0,HZNC
+60,Current liabilities,12  Mar-16,151270.0,HZNC
+61,Net working cap to sales,12  Mar-16,140.9,HZNC
+62,Current ratio,12  Mar-16,2.4,HZNC
+63,Inventory Days,12  Mar-16,25.0,HZNC
+64,Debtors Days,12  Mar-16,3.0,HZNC
+65,Net fixed assets,12  Mar-16,126930.0,HZNC
+66,Share capital,12  Mar-16,8451.0,HZNC
+67,"""Free"" reserves",12  Mar-16,365400.0,HZNC
+68,Net worth,12  Mar-16,373851.0,HZNC
+69,Long term debt,12  Mar-16,0.0,HZNC
+70,Total assets,12  Mar-16,531950.0,HZNC
+71,Interest coverage,12  Mar-16,510.0,HZNC
+72,Debt to equity ratio,12  Mar-16,0.0,HZNC
+73,Sales to assets ratio,12  Mar-16,0.3,HZNC
+74,Return on assets,12  Mar-16,15.4,HZNC
+75,Return on equity,12  Mar-16,21.9,HZNC
+76,Return on capital,12  Mar-16,23.1,HZNC
+77,Exports to sales,12  Mar-16,21.8,HZNC
+78,Imports to sales,12  Mar-16,8.2,HZNC
+79,Exports (fob),12  Mar-16,33692.0,HZNC
+80,Imports (cif),12  Mar-16,12673.0,HZNC
+81,Fx inflow,12  Mar-16,33692.0,HZNC
+82,Fx outflow,12  Mar-16,13915.0,HZNC
+83,Net fx,12  Mar-16,19777.0,HZNC
+84,From Operations,12  Mar-16,64510.0,HZNC
+85,From Investments,12  Mar-16,-32360.0,HZNC
+86,From Financial Activity,12  Mar-16,-32140.0,HZNC
+87,Net Cashflow,12  Mar-16,10.0,HZNC
+88,Net Sales,12  Mar-17,172730.0,HZNC
+89,Other income,12  Mar-17,24740.0,HZNC
+90,Total revenues,12  Mar-17,197470.0,HZNC
+91,Gross profit,12  Mar-17,97390.0,HZNC
+92,Depreciation,12  Mar-17,18110.0,HZNC
+93,Interest,12  Mar-17,2020.0,HZNC
+94,Profit before tax,12  Mar-17,102000.0,HZNC
+95,Minority Interest,12  Mar-17,0.0,HZNC
+96,Prior Period Items,12  Mar-17,0.0,HZNC
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,HZNC
+98,Tax,12  Mar-17,18840.0,HZNC
+99,Profit after tax,12  Mar-17,83160.0,HZNC
+100,Gross profit margin,12  Mar-17,56.4,HZNC
+101,Effective tax rate,12  Mar-17,18.5,HZNC
+102,Net profit margin,12  Mar-17,48.1,HZNC
+103,Current assets,12  Mar-17,346490.0,HZNC
+104,Current liabilities,12  Mar-17,202300.0,HZNC
+105,Net working cap to sales,12  Mar-17,83.5,HZNC
+106,Current ratio,12  Mar-17,1.7,HZNC
+107,Inventory Days,12  Mar-17,41.0,HZNC
+108,Debtors Days,12  Mar-17,3.0,HZNC
+109,Net fixed assets,12  Mar-17,129360.0,HZNC
+110,Share capital,12  Mar-17,8451.0,HZNC
+111,"""Free"" reserves",12  Mar-17,299600.0,HZNC
+112,Net worth,12  Mar-17,308051.0,HZNC
+113,Long term debt,12  Mar-17,0.0,HZNC
+114,Total assets,12  Mar-17,517950.0,HZNC
+115,Interest coverage,12  Mar-17,51.5,HZNC
+116,Debt to equity ratio,12  Mar-17,0.0,HZNC
+117,Sales to assets ratio,12  Mar-17,0.3,HZNC
+118,Return on assets,12  Mar-17,16.4,HZNC
+119,Return on equity,12  Mar-17,27.0,HZNC
+120,Return on capital,12  Mar-17,33.8,HZNC
+121,Exports to sales,12  Mar-17,0.0,HZNC
+122,Imports to sales,12  Mar-17,0.0,HZNC
+123,Exports (fob),12  Mar-17,0.0,HZNC
+124,Imports (cif),12  Mar-17,0.0,HZNC
+125,Fx inflow,12  Mar-17,41730.0,HZNC
+126,Fx outflow,12  Mar-17,15860.0,HZNC
+127,Net fx,12  Mar-17,25870.0,HZNC
+128,From Operations,12  Mar-17,75880.0,HZNC
+129,From Investments,12  Mar-17,120070.0,HZNC
+130,From Financial Activity,12  Mar-17,-112660.0,HZNC
+131,Net Cashflow,12  Mar-17,83290.0,HZNC
+132,Net Sales,12  Mar-18,213390.0,HZNC
+133,Other income,12  Mar-18,17160.0,HZNC
+134,Total revenues,12  Mar-18,230550.0,HZNC
+135,Gross profit,12  Mar-18,122700.0,HZNC
+136,Depreciation,12  Mar-18,14830.0,HZNC
+137,Interest,12  Mar-18,2460.0,HZNC
+138,Profit before tax,12  Mar-18,122570.0,HZNC
+139,Minority Interest,12  Mar-18,0.0,HZNC
+140,Prior Period Items,12  Mar-18,0.0,HZNC
+141,Extraordinary Inc (Exp),12  Mar-18,2400.0,HZNC
+142,Tax,12  Mar-18,32210.0,HZNC
+143,Profit after tax,12  Mar-18,92760.0,HZNC
+144,Gross profit margin,12  Mar-18,57.5,HZNC
+145,Effective tax rate,12  Mar-18,26.3,HZNC
+146,Net profit margin,12  Mar-18,43.5,HZNC
+147,Current assets,12  Mar-18,241430.0,HZNC
+148,Current liabilities,12  Mar-18,60050.0,HZNC
+149,Net working cap to sales,12  Mar-18,85.0,HZNC
+150,Current ratio,12  Mar-18,4.0,HZNC
+151,Inventory Days,12  Mar-18,24.0,HZNC
+152,Debtors Days,12  Mar-18,3.0,HZNC
+153,Net fixed assets,12  Mar-18,145220.0,HZNC
+154,Share capital,12  Mar-18,8451.0,HZNC
+155,"""Free"" reserves",12  Mar-18,350870.0,HZNC
+156,Net worth,12  Mar-18,359321.0,HZNC
+157,Long term debt,12  Mar-18,0.0,HZNC
+158,Total assets,12  Mar-18,429320.0,HZNC
+159,Interest coverage,12  Mar-18,50.8,HZNC
+160,Debt to equity ratio,12  Mar-18,0.0,HZNC
+161,Sales to assets ratio,12  Mar-18,0.5,HZNC
+162,Return on assets,12  Mar-18,22.2,HZNC
+163,Return on equity,12  Mar-18,25.8,HZNC
+164,Return on capital,12  Mar-18,35.5,HZNC
+165,Exports to sales,12  Mar-18,0.0,HZNC
+166,Imports to sales,12  Mar-18,0.0,HZNC
+167,Exports (fob),12  Mar-18,0.0,HZNC
+168,Imports (cif),12  Mar-18,0.0,HZNC
+169,Fx inflow,12  Mar-18,61330.0,HZNC
+170,Fx outflow,12  Mar-18,26860.0,HZNC
+171,Net fx,12  Mar-18,34470.0,HZNC
+172,From Operations,12  Mar-18,98000.0,HZNC
+173,From Investments,12  Mar-18,23960.0,HZNC
+174,From Financial Activity,12  Mar-18,-186120.0,HZNC
+175,Net Cashflow,12  Mar-18,-64160.0,HZNC
+176,Net Sales,12  Mar-19,208340.0,HZNC
+177,Other income,12  Mar-19,17820.0,HZNC
+178,Total revenues,12  Mar-19,226160.0,HZNC
+179,Gross profit,12  Mar-19,106700.0,HZNC
+180,Depreciation,12  Mar-19,18830.0,HZNC
+181,Interest,12  Mar-19,1130.0,HZNC
+182,Profit before tax,12  Mar-19,104560.0,HZNC
+183,Minority Interest,12  Mar-19,0.0,HZNC
+184,Prior Period Items,12  Mar-19,0.0,HZNC
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,HZNC
+186,Tax,12  Mar-19,25000.0,HZNC
+187,Profit after tax,12  Mar-19,79560.0,HZNC
+188,Gross profit margin,12  Mar-19,51.2,HZNC
+189,Effective tax rate,12  Mar-19,23.9,HZNC
+190,Net profit margin,12  Mar-19,38.2,HZNC
+191,Current assets,12  Mar-19,215720.0,HZNC
+192,Current liabilities,12  Mar-19,77440.0,HZNC
+193,Net working cap to sales,12  Mar-19,66.4,HZNC
+194,Current ratio,12  Mar-19,2.8,HZNC
+195,Inventory Days,12  Mar-19,27.0,HZNC
+196,Debtors Days,12  Mar-19,3.0,HZNC
+197,Net fixed assets,12  Mar-19,170320.0,HZNC
+198,Share capital,12  Mar-19,8451.0,HZNC
+199,"""Free"" reserves",12  Mar-19,327600.0,HZNC
+200,Net worth,12  Mar-19,336051.0,HZNC
+201,Long term debt,12  Mar-19,0.0,HZNC
+202,Total assets,12  Mar-19,424580.0,HZNC
+203,Interest coverage,12  Mar-19,93.5,HZNC
+204,Debt to equity ratio,12  Mar-19,0.0,HZNC
+205,Sales to assets ratio,12  Mar-19,0.5,HZNC
+206,Return on assets,12  Mar-19,19.0,HZNC
+207,Return on equity,12  Mar-19,23.7,HZNC
+208,Return on capital,12  Mar-19,31.5,HZNC
+209,Exports to sales,12  Mar-19,0.0,HZNC
+210,Imports to sales,12  Mar-19,0.0,HZNC
+211,Exports (fob),12  Mar-19,0.0,HZNC
+212,Imports (cif),12  Mar-19,0.0,HZNC
+213,Fx inflow,12  Mar-19,423700.0,HZNC
+214,Fx outflow,12  Mar-19,17000.0,HZNC
+215,Net fx,12  Mar-19,406700.0,HZNC
+216,From Operations,12  Mar-19,87810.0,HZNC
+217,From Investments,12  Mar-19,-10920.0,HZNC
+218,From Financial Activity,12  Mar-19,-96300.0,HZNC
+219,Net Cashflow,12  Mar-19,-19410.0,HZNC

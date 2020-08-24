@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,139253.0,INDIG
+1,Other income,12  Mar-15*,3946.0,INDIG
+2,Total revenues,12  Mar-15*,143199.0,INDIG
+3,Gross profit,12  Mar-15*,18697.0,INDIG
+4,Depreciation,12  Mar-15*,3022.0,INDIG
+5,Interest,12  Mar-15*,1155.0,INDIG
+6,Profit before tax,12  Mar-15*,18465.0,INDIG
+7,Minority Interest,12  Mar-15*,0.0,INDIG
+8,Prior Period Items,12  Mar-15*,0.0,INDIG
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,INDIG
+10,Tax,12  Mar-15*,5424.0,INDIG
+11,Profit after tax,12  Mar-15*,13042.0,INDIG
+12,Gross profit margin,12  Mar-15*,13.4,INDIG
+13,Effective tax rate,12  Mar-15*,29.4,INDIG
+14,Net profit margin,12  Mar-15*,9.4,INDIG
+15,Current assets,12  Mar-15*,31680.0,INDIG
+16,Current liabilities,12  Mar-15*,29490.0,INDIG
+17,Net working cap to sales,12  Mar-15*,1.6,INDIG
+18,Current ratio,12  Mar-15*,1.1,INDIG
+19,Inventory Days,12  Mar-15*,3.0,INDIG
+20,Debtors Days,12  Mar-15*,3.0,INDIG
+21,Net fixed assets,12  Mar-15*,48765.0,INDIG
+22,Share capital,12  Mar-15*,344.0,INDIG
+23,"""Free"" reserves",12  Mar-15*,3863.0,INDIG
+24,Net worth,12  Mar-15*,4207.0,INDIG
+25,Long term debt,12  Mar-15*,35884.0,INDIG
+26,Total assets,12  Mar-15*,107683.0,INDIG
+27,Interest coverage,12  Mar-15*,17.0,INDIG
+28,Debt to equity ratio,12  Mar-15*,8.5,INDIG
+29,Sales to assets ratio,12  Mar-15*,1.3,INDIG
+30,Return on assets,12  Mar-15*,13.2,INDIG
+31,Return on equity,12  Mar-15*,310.0,INDIG
+32,Return on capital,12  Mar-15*,48.9,INDIG
+33,Exports to sales,12  Mar-15*,0.0,INDIG
+34,Imports to sales,12  Mar-15*,1.0,INDIG
+35,Exports (fob),12  Mar-15*,0.0,INDIG
+36,Imports (cif),12  Mar-15*,1325.0,INDIG
+37,Fx inflow,12  Mar-15*,9486.0,INDIG
+38,Fx outflow,12  Mar-15*,1325.0,INDIG
+39,Net fx,12  Mar-15*,8161.0,INDIG
+40,From Operations,12  Mar-15*,23839.0,INDIG
+41,From Investments,12  Mar-15*,-9405.0,INDIG
+42,From Financial Activity,12  Mar-15*,-13081.0,INDIG
+43,Net Cashflow,12  Mar-15*,1361.0,INDIG
+44,Net Sales,12  Mar-16*,161399.0,INDIG
+45,Other income,12  Mar-16*,4614.0,INDIG
+46,Total revenues,12  Mar-16*,166013.0,INDIG
+47,Gross profit,12  Mar-16*,30055.0,INDIG
+48,Depreciation,12  Mar-16*,5031.0,INDIG
+49,Interest,12  Mar-16*,1349.0,INDIG
+50,Profit before tax,12  Mar-16*,28290.0,INDIG
+51,Minority Interest,12  Mar-16*,0.0,INDIG
+52,Prior Period Items,12  Mar-16*,0.0,INDIG
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,INDIG
+54,Tax,12  Mar-16*,8392.0,INDIG
+55,Profit after tax,12  Mar-16*,19897.0,INDIG
+56,Gross profit margin,12  Mar-16*,18.6,INDIG
+57,Effective tax rate,12  Mar-16*,29.7,INDIG
+58,Net profit margin,12  Mar-16*,12.3,INDIG
+59,Current assets,12  Mar-16*,56008.0,INDIG
+60,Current liabilities,12  Mar-16*,39859.0,INDIG
+61,Net working cap to sales,12  Mar-16*,10.0,INDIG
+62,Current ratio,12  Mar-16*,1.4,INDIG
+63,Inventory Days,12  Mar-16*,3.0,INDIG
+64,Debtors Days,12  Mar-16*,4.0,INDIG
+65,Net fixed assets,12  Mar-16*,47275.0,INDIG
+66,Share capital,12  Mar-16*,3604.0,INDIG
+67,"""Free"" reserves",12  Mar-16*,14739.0,INDIG
+68,Net worth,12  Mar-16*,18343.0,INDIG
+69,Long term debt,12  Mar-16*,29499.0,INDIG
+70,Total assets,12  Mar-16*,130191.0,INDIG
+71,Interest coverage,12  Mar-16*,22.0,INDIG
+72,Debt to equity ratio,12  Mar-16*,1.6,INDIG
+73,Sales to assets ratio,12  Mar-16*,1.2,INDIG
+74,Return on assets,12  Mar-16*,16.3,INDIG
+75,Return on equity,12  Mar-16*,108.5,INDIG
+76,Return on capital,12  Mar-16*,62.0,INDIG
+77,Exports to sales,12  Mar-16*,0.0,INDIG
+78,Imports to sales,12  Mar-16*,1.4,INDIG
+79,Exports (fob),12  Mar-16*,0.0,INDIG
+80,Imports (cif),12  Mar-16*,2265.0,INDIG
+81,Fx inflow,12  Mar-16*,11485.0,INDIG
+82,Fx outflow,12  Mar-16*,2265.0,INDIG
+83,Net fx,12  Mar-16*,9219.0,INDIG
+84,From Operations,12  Mar-16*,30991.0,INDIG
+85,From Investments,12  Mar-16*,-13262.0,INDIG
+86,From Financial Activity,12  Mar-16*,-12200.0,INDIG
+87,Net Cashflow,12  Mar-16*,5586.0,INDIG
+88,Net Sales,12  Mar-17*,185805.0,INDIG
+89,Other income,12  Mar-17*,7891.0,INDIG
+90,Total revenues,12  Mar-17*,193696.0,INDIG
+91,Gross profit,12  Mar-17*,21433.0,INDIG
+92,Depreciation,12  Mar-17*,4573.0,INDIG
+93,Interest,12  Mar-17*,3308.0,INDIG
+94,Profit before tax,12  Mar-17*,21443.0,INDIG
+95,Minority Interest,12  Mar-17*,0.0,INDIG
+96,Prior Period Items,12  Mar-17*,0.0,INDIG
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,INDIG
+98,Tax,12  Mar-17*,4852.0,INDIG
+99,Profit after tax,12  Mar-17*,16592.0,INDIG
+100,Gross profit margin,12  Mar-17*,11.5,INDIG
+101,Effective tax rate,12  Mar-17*,22.6,INDIG
+102,Net profit margin,12  Mar-17*,8.9,INDIG
+103,Current assets,12  Mar-17*,94464.0,INDIG
+104,Current liabilities,12  Mar-17*,47846.0,INDIG
+105,Net working cap to sales,12  Mar-17*,25.1,INDIG
+106,Current ratio,12  Mar-17*,2.0,INDIG
+107,Inventory Days,12  Mar-17*,3.0,INDIG
+108,Debtors Days,12  Mar-17*,3.0,INDIG
+109,Net fixed assets,12  Mar-17*,38190.0,INDIG
+110,Share capital,12  Mar-17*,3615.0,INDIG
+111,"""Free"" reserves",12  Mar-17*,34177.0,INDIG
+112,Net worth,12  Mar-17*,37792.0,INDIG
+113,Long term debt,12  Mar-17*,23957.0,INDIG
+114,Total assets,12  Mar-17*,152097.0,INDIG
+115,Interest coverage,12  Mar-17*,7.5,INDIG
+116,Debt to equity ratio,12  Mar-17*,0.6,INDIG
+117,Sales to assets ratio,12  Mar-17*,1.2,INDIG
+118,Return on assets,12  Mar-17*,13.1,INDIG
+119,Return on equity,12  Mar-17*,43.9,INDIG
+120,Return on capital,12  Mar-17*,40.1,INDIG
+121,Exports to sales,12  Mar-17*,0.0,INDIG
+122,Imports to sales,12  Mar-17*,0.0,INDIG
+123,Exports (fob),12  Mar-17*,0.0,INDIG
+124,Imports (cif),12  Mar-17*,0.0,INDIG
+125,Fx inflow,12  Mar-17*,15695.0,INDIG
+126,Fx outflow,12  Mar-17*,57004.0,INDIG
+127,Net fx,12  Mar-17*,-41310.0,INDIG
+128,From Operations,12  Mar-17*,37821.0,INDIG
+129,From Investments,12  Mar-17*,-30379.0,INDIG
+130,From Financial Activity,12  Mar-17*,-14012.0,INDIG
+131,Net Cashflow,12  Mar-17*,-6523.0,INDIG
+132,Net Sales,12  Mar-18*,230209.0,INDIG
+133,Other income,12  Mar-18*,9469.0,INDIG
+134,Total revenues,12  Mar-18*,239677.0,INDIG
+135,Gross profit,12  Mar-18*,29565.0,INDIG
+136,Depreciation,12  Mar-18*,4369.0,INDIG
+137,Interest,12  Mar-18*,3398.0,INDIG
+138,Profit before tax,12  Mar-18*,31266.0,INDIG
+139,Minority Interest,12  Mar-18*,0.0,INDIG
+140,Prior Period Items,12  Mar-18*,0.0,INDIG
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,INDIG
+142,Tax,12  Mar-18*,8843.0,INDIG
+143,Profit after tax,12  Mar-18*,22423.0,INDIG
+144,Gross profit margin,12  Mar-18*,12.8,INDIG
+145,Effective tax rate,12  Mar-18*,28.3,INDIG
+146,Net profit margin,12  Mar-18*,9.7,INDIG
+147,Current assets,12  Mar-18*,146316.0,INDIG
+148,Current liabilities,12  Mar-18*,61230.0,INDIG
+149,Net working cap to sales,12  Mar-18*,37.0,INDIG
+150,Current ratio,12  Mar-18*,2.4,INDIG
+151,Inventory Days,12  Mar-18*,3.0,INDIG
+152,Debtors Days,12  Mar-18*,4.0,INDIG
+153,Net fixed assets,12  Mar-18*,46113.0,INDIG
+154,Share capital,12  Mar-18*,3844.0,INDIG
+155,"""Free"" reserves",12  Mar-18*,66930.0,INDIG
+156,Net worth,12  Mar-18*,70774.0,INDIG
+157,Long term debt,12  Mar-18*,22414.0,INDIG
+158,Total assets,12  Mar-18*,211293.0,INDIG
+159,Interest coverage,12  Mar-18*,10.2,INDIG
+160,Debt to equity ratio,12  Mar-18*,0.3,INDIG
+161,Sales to assets ratio,12  Mar-18*,1.1,INDIG
+162,Return on assets,12  Mar-18*,12.2,INDIG
+163,Return on equity,12  Mar-18*,31.7,INDIG
+164,Return on capital,12  Mar-18*,37.2,INDIG
+165,Exports to sales,12  Mar-18*,0.0,INDIG
+166,Imports to sales,12  Mar-18*,0.0,INDIG
+167,Exports (fob),12  Mar-18*,0.0,INDIG
+168,Imports (cif),12  Mar-18*,0.0,INDIG
+169,Fx inflow,12  Mar-18*,18529.0,INDIG
+170,Fx outflow,12  Mar-18*,75546.0,INDIG
+171,Net fx,12  Mar-18*,-57017.0,INDIG
+172,From Operations,12  Mar-18*,39031.0,INDIG
+173,From Investments,12  Mar-18*,-41595.0,INDIG
+174,From Financial Activity,12  Mar-18*,7660.0,INDIG
+175,Net Cashflow,12  Mar-18*,5176.0,INDIG
+176,Net Sales,12  Mar-19*,284968.0,INDIG
+177,Other income,12  Mar-19*,13246.0,INDIG
+178,Total revenues,12  Mar-19*,298214.0,INDIG
+179,Gross profit,12  Mar-19*,-2034.0,INDIG
+180,Depreciation,12  Mar-19*,7596.0,INDIG
+181,Interest,12  Mar-19*,5090.0,INDIG
+182,Profit before tax,12  Mar-19*,-1474.0,INDIG
+183,Minority Interest,12  Mar-19*,0.0,INDIG
+184,Prior Period Items,12  Mar-19*,0.0,INDIG
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,INDIG
+186,Tax,12  Mar-19*,-3046.0,INDIG
+187,Profit after tax,12  Mar-19*,1573.0,INDIG
+188,Gross profit margin,12  Mar-19*,-0.7,INDIG
+189,Effective tax rate,12  Mar-19*,206.7,INDIG
+190,Net profit margin,12  Mar-19*,0.6,INDIG
+191,Current assets,12  Mar-19*,18171.0,INDIG
+192,Current liabilities,12  Mar-19*,80104.0,INDIG
+193,Net working cap to sales,12  Mar-19*,-21.7,INDIG
+194,Current ratio,12  Mar-19*,0.2,INDIG
+195,Inventory Days,12  Mar-19*,3.0,INDIG
+196,Debtors Days,12  Mar-19*,4.0,INDIG
+197,Net fixed assets,12  Mar-19*,56857.0,INDIG
+198,Share capital,12  Mar-19*,3844.0,INDIG
+199,"""Free"" reserves",12  Mar-19*,65614.0,INDIG
+200,Net worth,12  Mar-19*,69458.0,INDIG
+201,Long term debt,12  Mar-19*,21937.0,INDIG
+202,Total assets,12  Mar-19*,250268.0,INDIG
+203,Interest coverage,12  Mar-19*,0.7,INDIG
+204,Debt to equity ratio,12  Mar-19*,0.3,INDIG
+205,Sales to assets ratio,12  Mar-19*,1.1,INDIG
+206,Return on assets,12  Mar-19*,2.7,INDIG
+207,Return on equity,12  Mar-19*,2.3,INDIG
+208,Return on capital,12  Mar-19*,4.0,INDIG
+209,Exports to sales,12  Mar-19*,0.0,INDIG
+210,Imports to sales,12  Mar-19*,0.0,INDIG
+211,Exports (fob),12  Mar-19*,0.0,INDIG
+212,Imports (cif),12  Mar-19*,0.0,INDIG
+213,Fx inflow,12  Mar-19*,28585.0,INDIG
+214,Fx outflow,12  Mar-19*,108216.0,INDIG
+215,Net fx,12  Mar-19*,-79631.0,INDIG
+216,From Operations,12  Mar-19*,31755.0,INDIG
+217,From Investments,12  Mar-19*,-25361.0,INDIG
+218,From Financial Activity,12  Mar-19*,-5922.0,INDIG
+219,Net Cashflow,12  Mar-19*,577.0,INDIG

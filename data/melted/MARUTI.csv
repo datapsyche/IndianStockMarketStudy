@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,508014.0,MARUTI
+1,Other income,12  Mar-15*,8650.0,MARUTI
+2,Total revenues,12  Mar-15*,516664.0,MARUTI
+3,Gross profit,12  Mar-15*,68441.0,MARUTI
+4,Depreciation,12  Mar-15*,25153.0,MARUTI
+5,Interest,12  Mar-15*,2178.0,MARUTI
+6,Profit before tax,12  Mar-15*,49760.0,MARUTI
+7,Minority Interest,12  Mar-15*,-12.0,MARUTI
+8,Prior Period Items,12  Mar-15*,180.0,MARUTI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MARUTI
+10,Tax,12  Mar-15*,11854.0,MARUTI
+11,Profit after tax,12  Mar-15*,38074.0,MARUTI
+12,Gross profit margin,12  Mar-15*,13.5,MARUTI
+13,Effective tax rate,12  Mar-15*,23.8,MARUTI
+14,Net profit margin,12  Mar-15*,7.5,MARUTI
+15,Current assets,12  Mar-15*,93127.0,MARUTI
+16,Current liabilities,12  Mar-15*,89708.0,MARUTI
+17,Net working cap to sales,12  Mar-15*,0.7,MARUTI
+18,Current ratio,12  Mar-15*,1.0,MARUTI
+19,Inventory Days,12  Mar-15*,19.0,MARUTI
+20,Debtors Days,12  Mar-15*,8.0,MARUTI
+21,Net fixed assets,12  Mar-15*,143796.0,MARUTI
+22,Share capital,12  Mar-15*,1510.0,MARUTI
+23,"""Free"" reserves",12  Mar-15*,258710.0,MARUTI
+24,Net worth,12  Mar-15*,260220.0,MARUTI
+25,Long term debt,12  Mar-15*,1448.0,MARUTI
+26,Total assets,12  Mar-15*,359126.0,MARUTI
+27,Interest coverage,12  Mar-15*,23.8,MARUTI
+28,Debt to equity ratio,12  Mar-15*,0.0,MARUTI
+29,Sales to assets ratio,12  Mar-15*,1.4,MARUTI
+30,Return on assets,12  Mar-15*,11.2,MARUTI
+31,Return on equity,12  Mar-15*,14.6,MARUTI
+32,Return on capital,12  Mar-15*,19.9,MARUTI
+33,Exports to sales,12  Mar-15*,9.0,MARUTI
+34,Imports to sales,12  Mar-15*,8.4,MARUTI
+35,Exports (fob),12  Mar-15*,45857.0,MARUTI
+36,Imports (cif),12  Mar-15*,42919.0,MARUTI
+37,Fx inflow,12  Mar-15*,46329.0,MARUTI
+38,Fx outflow,12  Mar-15*,77959.0,MARUTI
+39,Net fx,12  Mar-15*,-31630.0,MARUTI
+40,From Operations,12  Mar-15*,64492.0,MARUTI
+41,From Investments,12  Mar-15*,-44911.0,MARUTI
+42,From Financial Activity,12  Mar-15*,-20035.0,MARUTI
+43,Net Cashflow,12  Mar-15*,-454.0,MARUTI
+44,Net Sales,12  Mar-16*,575890.0,MARUTI
+45,Other income,12  Mar-16*,14806.0,MARUTI
+46,Total revenues,12  Mar-16*,590696.0,MARUTI
+47,Gross profit,12  Mar-16*,90076.0,MARUTI
+48,Depreciation,12  Mar-16*,28218.0,MARUTI
+49,Interest,12  Mar-16*,817.0,MARUTI
+50,Profit before tax,12  Mar-16*,75847.0,MARUTI
+51,Minority Interest,12  Mar-16*,0.0,MARUTI
+52,Prior Period Items,12  Mar-16*,0.0,MARUTI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MARUTI
+54,Tax,12  Mar-16*,20875.0,MARUTI
+55,Profit after tax,12  Mar-16*,54972.0,MARUTI
+56,Gross profit margin,12  Mar-16*,15.6,MARUTI
+57,Effective tax rate,12  Mar-16*,27.5,MARUTI
+58,Net profit margin,12  Mar-16*,9.5,MARUTI
+59,Current assets,12  Mar-16*,79511.0,MARUTI
+60,Current liabilities,12  Mar-16*,110441.0,MARUTI
+61,Net working cap to sales,12  Mar-16*,-5.4,MARUTI
+62,Current ratio,12  Mar-16*,0.7,MARUTI
+63,Inventory Days,12  Mar-16*,20.0,MARUTI
+64,Debtors Days,12  Mar-16*,8.0,MARUTI
+65,Net fixed assets,12  Mar-16*,139893.0,MARUTI
+66,Share capital,12  Mar-16*,1510.0,MARUTI
+67,"""Free"" reserves",12  Mar-16*,304650.0,MARUTI
+68,Net worth,12  Mar-16*,306160.0,MARUTI
+69,Long term debt,12  Mar-16*,0.0,MARUTI
+70,Total assets,12  Mar-16*,427255.0,MARUTI
+71,Interest coverage,12  Mar-16*,93.8,MARUTI
+72,Debt to equity ratio,12  Mar-16*,0.0,MARUTI
+73,Sales to assets ratio,12  Mar-16*,1.3,MARUTI
+74,Return on assets,12  Mar-16*,13.1,MARUTI
+75,Return on equity,12  Mar-16*,18.0,MARUTI
+76,Return on capital,12  Mar-16*,25.0,MARUTI
+77,Exports to sales,12  Mar-16*,8.2,MARUTI
+78,Imports to sales,12  Mar-16*,7.4,MARUTI
+79,Exports (fob),12  Mar-16*,47353.0,MARUTI
+80,Imports (cif),12  Mar-16*,42644.0,MARUTI
+81,Fx inflow,12  Mar-16*,47923.0,MARUTI
+82,Fx outflow,12  Mar-16*,84815.0,MARUTI
+83,Net fx,12  Mar-16*,-36892.0,MARUTI
+84,From Operations,12  Mar-16*,84825.0,MARUTI
+85,From Investments,12  Mar-16*,-72304.0,MARUTI
+86,From Financial Activity,12  Mar-16*,-12366.0,MARUTI
+87,Net Cashflow,12  Mar-16*,155.0,MARUTI
+88,Net Sales,12  Mar-17*,680850.0,MARUTI
+89,Other income,12  Mar-17*,22896.0,MARUTI
+90,Total revenues,12  Mar-17*,703746.0,MARUTI
+91,Gross profit,12  Mar-17*,105309.0,MARUTI
+92,Depreciation,12  Mar-17*,26039.0,MARUTI
+93,Interest,12  Mar-17*,894.0,MARUTI
+94,Profit before tax,12  Mar-17*,101272.0,MARUTI
+95,Minority Interest,12  Mar-17*,0.0,MARUTI
+96,Prior Period Items,12  Mar-17*,0.0,MARUTI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MARUTI
+98,Tax,12  Mar-17*,26162.0,MARUTI
+99,Profit after tax,12  Mar-17*,75110.0,MARUTI
+100,Gross profit margin,12  Mar-17*,15.5,MARUTI
+101,Effective tax rate,12  Mar-17*,25.8,MARUTI
+102,Net profit margin,12  Mar-17*,11.0,MARUTI
+103,Current assets,12  Mar-17*,87980.0,MARUTI
+104,Current liabilities,12  Mar-17*,132368.0,MARUTI
+105,Net working cap to sales,12  Mar-17*,-6.5,MARUTI
+106,Current ratio,12  Mar-17*,0.7,MARUTI
+107,Inventory Days,12  Mar-17*,17.0,MARUTI
+108,Debtors Days,12  Mar-17*,6.0,MARUTI
+109,Net fixed assets,12  Mar-17*,145630.0,MARUTI
+110,Share capital,12  Mar-17*,1510.0,MARUTI
+111,"""Free"" reserves",12  Mar-17*,369241.0,MARUTI
+112,Net worth,12  Mar-17*,370751.0,MARUTI
+113,Long term debt,12  Mar-17*,0.0,MARUTI
+114,Total assets,12  Mar-17*,519605.0,MARUTI
+115,Interest coverage,12  Mar-17*,114.3,MARUTI
+116,Debt to equity ratio,12  Mar-17*,0.0,MARUTI
+117,Sales to assets ratio,12  Mar-17*,1.3,MARUTI
+118,Return on assets,12  Mar-17*,14.6,MARUTI
+119,Return on equity,12  Mar-17*,20.3,MARUTI
+120,Return on capital,12  Mar-17*,27.6,MARUTI
+121,Exports to sales,12  Mar-17*,0.0,MARUTI
+122,Imports to sales,12  Mar-17*,7.8,MARUTI
+123,Exports (fob),12  Mar-17*,0.0,MARUTI
+124,Imports (cif),12  Mar-17*,53428.0,MARUTI
+125,Fx inflow,12  Mar-17*,58820.0,MARUTI
+126,Fx outflow,12  Mar-17*,95924.0,MARUTI
+127,Net fx,12  Mar-17*,-37104.0,MARUTI
+128,From Operations,12  Mar-17*,102820.0,MARUTI
+129,From Investments,12  Mar-17*,-91732.0,MARUTI
+130,From Financial Activity,12  Mar-17*,-11293.0,MARUTI
+131,Net Cashflow,12  Mar-17*,-205.0,MARUTI
+132,Net Sales,12  Mar-18*,798094.0,MARUTI
+133,Other income,12  Mar-18*,20458.0,MARUTI
+134,Total revenues,12  Mar-18*,818552.0,MARUTI
+135,Gross profit,12  Mar-18*,122267.0,MARUTI
+136,Depreciation,12  Mar-18*,27598.0,MARUTI
+137,Interest,12  Mar-18*,3458.0,MARUTI
+138,Profit before tax,12  Mar-18*,111669.0,MARUTI
+139,Minority Interest,12  Mar-18*,0.0,MARUTI
+140,Prior Period Items,12  Mar-18*,0.0,MARUTI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MARUTI
+142,Tax,12  Mar-18*,32862.0,MARUTI
+143,Profit after tax,12  Mar-18*,78807.0,MARUTI
+144,Gross profit margin,12  Mar-18*,15.3,MARUTI
+145,Effective tax rate,12  Mar-18*,29.4,MARUTI
+146,Net profit margin,12  Mar-18*,9.9,MARUTI
+147,Current assets,12  Mar-18*,79300.0,MARUTI
+148,Current liabilities,12  Mar-18*,154485.0,MARUTI
+149,Net working cap to sales,12  Mar-18*,-9.4,MARUTI
+150,Current ratio,12  Mar-18*,0.5,MARUTI
+151,Inventory Days,12  Mar-18*,14.0,MARUTI
+152,Debtors Days,12  Mar-18*,7.0,MARUTI
+153,Net fixed assets,12  Mar-18*,155209.0,MARUTI
+154,Share capital,12  Mar-18*,1510.0,MARUTI
+155,"""Free"" reserves",12  Mar-18*,424084.0,MARUTI
+156,Net worth,12  Mar-18*,425594.0,MARUTI
+157,Long term debt,12  Mar-18*,1108.0,MARUTI
+158,Total assets,12  Mar-18*,602484.0,MARUTI
+159,Interest coverage,12  Mar-18*,33.3,MARUTI
+160,Debt to equity ratio,12  Mar-18*,0.0,MARUTI
+161,Sales to assets ratio,12  Mar-18*,1.3,MARUTI
+162,Return on assets,12  Mar-18*,13.7,MARUTI
+163,Return on equity,12  Mar-18*,18.5,MARUTI
+164,Return on capital,12  Mar-18*,27.0,MARUTI
+165,Exports to sales,12  Mar-18*,0.0,MARUTI
+166,Imports to sales,12  Mar-18*,5.9,MARUTI
+167,Exports (fob),12  Mar-18*,0.0,MARUTI
+168,Imports (cif),12  Mar-18*,47105.0,MARUTI
+169,Fx inflow,12  Mar-18*,54559.0,MARUTI
+170,Fx outflow,12  Mar-18*,93284.0,MARUTI
+171,Net fx,12  Mar-18*,-38725.0,MARUTI
+172,From Operations,12  Mar-18*,117879.0,MARUTI
+173,From Investments,12  Mar-18*,-83017.0,MARUTI
+174,From Financial Activity,12  Mar-18*,-34361.0,MARUTI
+175,Net Cashflow,12  Mar-18*,501.0,MARUTI
+176,Net Sales,12  Mar-19*,860685.0,MARUTI
+177,Other income,12  Mar-19*,25616.0,MARUTI
+178,Total revenues,12  Mar-19*,886301.0,MARUTI
+179,Gross profit,12  Mar-19*,111589.0,MARUTI
+180,Depreciation,12  Mar-19*,30208.0,MARUTI
+181,Interest,12  Mar-19*,759.0,MARUTI
+182,Profit before tax,12  Mar-19*,106238.0,MARUTI
+183,Minority Interest,12  Mar-19*,0.0,MARUTI
+184,Prior Period Items,12  Mar-19*,0.0,MARUTI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MARUTI
+186,Tax,12  Mar-19*,29732.0,MARUTI
+187,Profit after tax,12  Mar-19*,76506.0,MARUTI
+188,Gross profit margin,12  Mar-19*,13.0,MARUTI
+189,Effective tax rate,12  Mar-19*,28.0,MARUTI
+190,Net profit margin,12  Mar-19*,8.9,MARUTI
+191,Current assets,12  Mar-19*,123727.0,MARUTI
+192,Current liabilities,12  Mar-19*,141605.0,MARUTI
+193,Net working cap to sales,12  Mar-19*,-2.1,MARUTI
+194,Current ratio,12  Mar-19*,0.9,MARUTI
+195,Inventory Days,12  Mar-19*,14.0,MARUTI
+196,Debtors Days,12  Mar-19*,10.0,MARUTI
+197,Net fixed assets,12  Mar-19*,170442.0,MARUTI
+198,Share capital,12  Mar-19*,1510.0,MARUTI
+199,"""Free"" reserves",12  Mar-19*,469411.0,MARUTI
+200,Net worth,12  Mar-19*,470921.0,MARUTI
+201,Long term debt,12  Mar-19*,1496.0,MARUTI
+202,Total assets,12  Mar-19*,639687.0,MARUTI
+203,Interest coverage,12  Mar-19*,141.0,MARUTI
+204,Debt to equity ratio,12  Mar-19*,0.0,MARUTI
+205,Sales to assets ratio,12  Mar-19*,1.3,MARUTI
+206,Return on assets,12  Mar-19*,12.1,MARUTI
+207,Return on equity,12  Mar-19*,16.2,MARUTI
+208,Return on capital,12  Mar-19*,22.6,MARUTI
+209,Exports to sales,12  Mar-19*,0.0,MARUTI
+210,Imports to sales,12  Mar-19*,6.9,MARUTI
+211,Exports (fob),12  Mar-19*,0.0,MARUTI
+212,Imports (cif),12  Mar-19*,59008.0,MARUTI
+213,Fx inflow,12  Mar-19*,52186.0,MARUTI
+214,Fx outflow,12  Mar-19*,128027.0,MARUTI
+215,Net fx,12  Mar-19*,-75841.0,MARUTI
+216,From Operations,12  Mar-19*,66009.0,MARUTI
+217,From Investments,12  Mar-19*,-35399.0,MARUTI
+218,From Financial Activity,12  Mar-19*,-29479.0,MARUTI
+219,Net Cashflow,12  Mar-19*,1131.0,MARUTI

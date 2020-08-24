@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,1501.0,DLIK
+1,Other income,12  Mar-14*,234.0,DLIK
+2,Total revenues,12  Mar-14*,1735.0,DLIK
+3,Gross profit,12  Mar-14*,-255.0,DLIK
+4,Depreciation,12  Mar-14*,37.0,DLIK
+5,Interest,12  Mar-14*,0.0,DLIK
+6,Profit before tax,12  Mar-14*,-58.0,DLIK
+7,Minority Interest,12  Mar-14*,0.0,DLIK
+8,Prior Period Items,12  Mar-14*,0.0,DLIK
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,DLIK
+10,Tax,12  Mar-14*,-39.0,DLIK
+11,Profit after tax,12  Mar-14*,-20.0,DLIK
+12,Gross profit margin,12  Mar-14*,-17.0,DLIK
+13,Effective tax rate,12  Mar-14*,65.9,DLIK
+14,Net profit margin,12  Mar-14*,-1.3,DLIK
+15,Current assets,12  Mar-14*,3979.0,DLIK
+16,Current liabilities,12  Mar-14*,272.0,DLIK
+17,Net working cap to sales,12  Mar-14*,247.0,DLIK
+18,Current ratio,12  Mar-14*,14.6,DLIK
+19,Inventory Days,12  Mar-14*,67.0,DLIK
+20,Debtors Days,12  Mar-14*,71.0,DLIK
+21,Net fixed assets,12  Mar-14*,268.0,DLIK
+22,Share capital,12  Mar-14*,60.0,DLIK
+23,"""Free"" reserves",12  Mar-14*,3944.0,DLIK
+24,Net worth,12  Mar-14*,4062.0,DLIK
+25,Long term debt,12  Mar-14*,0.0,DLIK
+26,Total assets,12  Mar-14*,4342.0,DLIK
+27,Interest coverage,12  Mar-14*,-583.0,DLIK
+28,Debt to equity ratio,12  Mar-14*,0.0,DLIK
+29,Sales to assets ratio,12  Mar-14*,0.3,DLIK
+30,Return on assets,12  Mar-14*,-0.5,DLIK
+31,Return on equity,12  Mar-14*,-0.5,DLIK
+32,Return on capital,12  Mar-14*,-1.4,DLIK
+33,Exports to sales,12  Mar-14*,1.1,DLIK
+34,Imports to sales,12  Mar-14*,80.3,DLIK
+35,Exports (fob),12  Mar-14*,17.0,DLIK
+36,Imports (cif),12  Mar-14*,1205.0,DLIK
+37,Fx inflow,12  Mar-14*,114.0,DLIK
+38,Fx outflow,12  Mar-14*,1211.0,DLIK
+39,Net fx,12  Mar-14*,-1097.0,DLIK
+40,From Operations,12  Mar-14*,-400.0,DLIK
+41,From Investments,12  Mar-14*,472.0,DLIK
+42,From Financial Activity,12  Mar-14*,-70.0,DLIK
+43,Net Cashflow,12  Mar-14*,2.0,DLIK
+44,Net Sales,12  Mar-15*,909.0,DLIK
+45,Other income,12  Mar-15*,414.0,DLIK
+46,Total revenues,12  Mar-15*,1323.0,DLIK
+47,Gross profit,12  Mar-15*,-246.0,DLIK
+48,Depreciation,12  Mar-15*,33.0,DLIK
+49,Interest,12  Mar-15*,0.0,DLIK
+50,Profit before tax,12  Mar-15*,135.0,DLIK
+51,Minority Interest,12  Mar-15*,0.0,DLIK
+52,Prior Period Items,12  Mar-15*,0.0,DLIK
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,DLIK
+54,Tax,12  Mar-15*,3.0,DLIK
+55,Profit after tax,12  Mar-15*,132.0,DLIK
+56,Gross profit margin,12  Mar-15*,-27.0,DLIK
+57,Effective tax rate,12  Mar-15*,2.0,DLIK
+58,Net profit margin,12  Mar-15*,14.5,DLIK
+59,Current assets,12  Mar-15*,4003.0,DLIK
+60,Current liabilities,12  Mar-15*,183.0,DLIK
+61,Net working cap to sales,12  Mar-15*,420.2,DLIK
+62,Current ratio,12  Mar-15*,21.9,DLIK
+63,Inventory Days,12  Mar-15*,54.0,DLIK
+64,Debtors Days,12  Mar-15*,35.0,DLIK
+65,Net fixed assets,12  Mar-15*,232.0,DLIK
+66,Share capital,12  Mar-15*,60.0,DLIK
+67,"""Free"" reserves",12  Mar-15*,4007.0,DLIK
+68,Net worth,12  Mar-15*,4120.0,DLIK
+69,Long term debt,12  Mar-15*,0.0,DLIK
+70,Total assets,12  Mar-15*,4309.0,DLIK
+71,Interest coverage,12  Mar-15*,338.0,DLIK
+72,Debt to equity ratio,12  Mar-15*,0.0,DLIK
+73,Sales to assets ratio,12  Mar-15*,0.2,DLIK
+74,Return on assets,12  Mar-15*,3.1,DLIK
+75,Return on equity,12  Mar-15*,3.2,DLIK
+76,Return on capital,12  Mar-15*,3.3,DLIK
+77,Exports to sales,12  Mar-15*,2.4,DLIK
+78,Imports to sales,12  Mar-15*,60.1,DLIK
+79,Exports (fob),12  Mar-15*,22.0,DLIK
+80,Imports (cif),12  Mar-15*,546.0,DLIK
+81,Fx inflow,12  Mar-15*,94.0,DLIK
+82,Fx outflow,12  Mar-15*,548.0,DLIK
+83,Net fx,12  Mar-15*,-455.0,DLIK
+84,From Operations,12  Mar-15*,46.0,DLIK
+85,From Investments,12  Mar-15*,6.0,DLIK
+86,From Financial Activity,12  Mar-15*,-70.0,DLIK
+87,Net Cashflow,12  Mar-15*,-18.0,DLIK
+88,Net Sales,12  Mar-16*,705.0,DLIK
+89,Other income,12  Mar-16*,327.0,DLIK
+90,Total revenues,12  Mar-16*,1032.0,DLIK
+91,Gross profit,12  Mar-16*,-240.0,DLIK
+92,Depreciation,12  Mar-16*,19.0,DLIK
+93,Interest,12  Mar-16*,1.0,DLIK
+94,Profit before tax,12  Mar-16*,68.0,DLIK
+95,Minority Interest,12  Mar-16*,0.0,DLIK
+96,Prior Period Items,12  Mar-16*,0.0,DLIK
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,DLIK
+98,Tax,12  Mar-16*,24.0,DLIK
+99,Profit after tax,12  Mar-16*,44.0,DLIK
+100,Gross profit margin,12  Mar-16*,-34.1,DLIK
+101,Effective tax rate,12  Mar-16*,35.2,DLIK
+102,Net profit margin,12  Mar-16*,6.2,DLIK
+103,Current assets,12  Mar-16*,3992.0,DLIK
+104,Current liabilities,12  Mar-16*,103.0,DLIK
+105,Net working cap to sales,12  Mar-16*,551.5,DLIK
+106,Current ratio,12  Mar-16*,38.7,DLIK
+107,Inventory Days,12  Mar-16*,54.0,DLIK
+108,Debtors Days,12  Mar-16*,61.0,DLIK
+109,Net fixed assets,12  Mar-16*,215.0,DLIK
+110,Share capital,12  Mar-16*,60.0,DLIK
+111,"""Free"" reserves",12  Mar-16*,4065.0,DLIK
+112,Net worth,12  Mar-16*,4164.0,DLIK
+113,Long term debt,12  Mar-16*,0.0,DLIK
+114,Total assets,12  Mar-16*,4274.0,DLIK
+115,Interest coverage,12  Mar-16*,113.7,DLIK
+116,Debt to equity ratio,12  Mar-16*,0.0,DLIK
+117,Sales to assets ratio,12  Mar-16*,0.2,DLIK
+118,Return on assets,12  Mar-16*,1.0,DLIK
+119,Return on equity,12  Mar-16*,1.1,DLIK
+120,Return on capital,12  Mar-16*,1.6,DLIK
+121,Exports to sales,12  Mar-16*,0.0,DLIK
+122,Imports to sales,12  Mar-16*,64.6,DLIK
+123,Exports (fob),12  Mar-16*,0.0,DLIK
+124,Imports (cif),12  Mar-16*,456.0,DLIK
+125,Fx inflow,12  Mar-16*,44.0,DLIK
+126,Fx outflow,12  Mar-16*,458.0,DLIK
+127,Net fx,12  Mar-16*,-414.0,DLIK
+128,From Operations,12  Mar-16*,-261.0,DLIK
+129,From Investments,12  Mar-16*,334.0,DLIK
+130,From Financial Activity,12  Mar-16*,-72.0,DLIK
+131,Net Cashflow,12  Mar-16*,1.0,DLIK
+132,Net Sales,12  Mar-17*,1037.0,DLIK
+133,Other income,12  Mar-17*,37.0,DLIK
+134,Total revenues,12  Mar-17*,1074.0,DLIK
+135,Gross profit,12  Mar-17*,-66.0,DLIK
+136,Depreciation,12  Mar-17*,17.0,DLIK
+137,Interest,12  Mar-17*,2.0,DLIK
+138,Profit before tax,12  Mar-17*,-48.0,DLIK
+139,Minority Interest,12  Mar-17*,0.0,DLIK
+140,Prior Period Items,12  Mar-17*,0.0,DLIK
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,DLIK
+142,Tax,12  Mar-17*,49.0,DLIK
+143,Profit after tax,12  Mar-17*,-97.0,DLIK
+144,Gross profit margin,12  Mar-17*,-6.4,DLIK
+145,Effective tax rate,12  Mar-17*,-102.7,DLIK
+146,Net profit margin,12  Mar-17*,-9.4,DLIK
+147,Current assets,12  Mar-17*,3215.0,DLIK
+148,Current liabilities,12  Mar-17*,196.0,DLIK
+149,Net working cap to sales,12  Mar-17*,291.0,DLIK
+150,Current ratio,12  Mar-17*,16.4,DLIK
+151,Inventory Days,12  Mar-17*,101.0,DLIK
+152,Debtors Days,12  Mar-17*,52.0,DLIK
+153,Net fixed assets,12  Mar-17*,224.0,DLIK
+154,Share capital,12  Mar-17*,45.0,DLIK
+155,"""Free"" reserves",12  Mar-17*,3202.0,DLIK
+156,Net worth,12  Mar-17*,3247.0,DLIK
+157,Long term debt,12  Mar-17*,0.0,DLIK
+158,Total assets,12  Mar-17*,3460.0,DLIK
+159,Interest coverage,12  Mar-17*,-27.2,DLIK
+160,Debt to equity ratio,12  Mar-17*,0.0,DLIK
+161,Sales to assets ratio,12  Mar-17*,0.3,DLIK
+162,Return on assets,12  Mar-17*,-2.8,DLIK
+163,Return on equity,12  Mar-17*,-3.0,DLIK
+164,Return on capital,12  Mar-17*,-1.4,DLIK
+165,Exports to sales,12  Mar-17*,0.0,DLIK
+166,Imports to sales,12  Mar-17*,38.3,DLIK
+167,Exports (fob),12  Mar-17*,0.0,DLIK
+168,Imports (cif),12  Mar-17*,398.0,DLIK
+169,Fx inflow,12  Mar-17*,40.0,DLIK
+170,Fx outflow,12  Mar-17*,400.0,DLIK
+171,Net fx,12  Mar-17*,-360.0,DLIK
+172,From Operations,12  Mar-17*,-337.0,DLIK
+173,From Investments,12  Mar-17*,1150.0,DLIK
+174,From Financial Activity,12  Mar-17*,-815.0,DLIK
+175,Net Cashflow,12  Mar-17*,-2.0,DLIK
+176,Net Sales,12  Mar-18*,974.0,DLIK
+177,Other income,12  Mar-18*,7.0,DLIK
+178,Total revenues,12  Mar-18*,981.0,DLIK
+179,Gross profit,12  Mar-18*,16.0,DLIK
+180,Depreciation,12  Mar-18*,19.0,DLIK
+181,Interest,12  Mar-18*,2.0,DLIK
+182,Profit before tax,12  Mar-18*,3.0,DLIK
+183,Minority Interest,12  Mar-18*,0.0,DLIK
+184,Prior Period Items,12  Mar-18*,0.0,DLIK
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,DLIK
+186,Tax,12  Mar-18*,36.0,DLIK
+187,Profit after tax,12  Mar-18*,-33.0,DLIK
+188,Gross profit margin,12  Mar-18*,1.7,DLIK
+189,Effective tax rate,12  Mar-18*,1373.1,DLIK
+190,Net profit margin,12  Mar-18*,-3.4,DLIK
+191,Current assets,12  Mar-18*,3164.0,DLIK
+192,Current liabilities,12  Mar-18*,230.0,DLIK
+193,Net working cap to sales,12  Mar-18*,301.2,DLIK
+194,Current ratio,12  Mar-18*,13.8,DLIK
+195,Inventory Days,12  Mar-18*,57.0,DLIK
+196,Debtors Days,12  Mar-18*,50.0,DLIK
+197,Net fixed assets,12  Mar-18*,213.0,DLIK
+198,Share capital,12  Mar-18*,45.0,DLIK
+199,"""Free"" reserves",12  Mar-18*,3115.0,DLIK
+200,Net worth,12  Mar-18*,3161.0,DLIK
+201,Long term debt,12  Mar-18*,0.0,DLIK
+202,Total assets,12  Mar-18*,3412.0,DLIK
+203,Interest coverage,12  Mar-18*,2.4,DLIK
+204,Debt to equity ratio,12  Mar-18*,0.0,DLIK
+205,Sales to assets ratio,12  Mar-18*,0.3,DLIK
+206,Return on assets,12  Mar-18*,-0.9,DLIK
+207,Return on equity,12  Mar-18*,-1.0,DLIK
+208,Return on capital,12  Mar-18*,0.1,DLIK
+209,Exports to sales,12  Mar-18*,0.0,DLIK
+210,Imports to sales,12  Mar-18*,0.0,DLIK
+211,Exports (fob),12  Mar-18*,0.0,DLIK
+212,Imports (cif),12  Mar-18*,0.0,DLIK
+213,Fx inflow,12  Mar-18*,38.0,DLIK
+214,Fx outflow,12  Mar-18*,0.0,DLIK
+215,Net fx,12  Mar-18*,38.0,DLIK
+216,From Operations,12  Mar-18*,-90.0,DLIK
+217,From Investments,12  Mar-18*,135.0,DLIK
+218,From Financial Activity,12  Mar-18*,-20.0,DLIK
+219,Net Cashflow,12  Mar-18*,25.0,DLIK

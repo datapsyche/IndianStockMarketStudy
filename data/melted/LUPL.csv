@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,125997.0,LUPL
+1,Other income,12  Mar-15*,2398.0,LUPL
+2,Total revenues,12  Mar-15*,128395.0,LUPL
+3,Gross profit,12  Mar-15*,36196.0,LUPL
+4,Depreciation,12  Mar-15*,4347.0,LUPL
+5,Interest,12  Mar-15*,98.0,LUPL
+6,Profit before tax,12  Mar-15*,34148.0,LUPL
+7,Minority Interest,12  Mar-15*,-412.0,LUPL
+8,Prior Period Items,12  Mar-15*,0.0,LUPL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,LUPL
+10,Tax,12  Mar-15*,9704.0,LUPL
+11,Profit after tax,12  Mar-15*,24032.0,LUPL
+12,Gross profit margin,12  Mar-15*,28.7,LUPL
+13,Effective tax rate,12  Mar-15*,28.4,LUPL
+14,Net profit margin,12  Mar-15*,19.1,LUPL
+15,Current assets,12  Mar-15*,78040.0,LUPL
+16,Current liabilities,12  Mar-15*,34633.0,LUPL
+17,Net working cap to sales,12  Mar-15*,34.5,LUPL
+18,Current ratio,12  Mar-15*,2.3,LUPL
+19,Inventory Days,12  Mar-15*,73.0,LUPL
+20,Debtors Days,12  Mar-15*,77.0,LUPL
+21,Net fixed assets,12  Mar-15*,49213.0,LUPL
+22,Share capital,12  Mar-15*,899.0,LUPL
+23,"""Free"" reserves",12  Mar-15*,90833.0,LUPL
+24,Net worth,12  Mar-15*,91732.0,LUPL
+25,Long term debt,12  Mar-15*,1018.0,LUPL
+26,Total assets,12  Mar-15*,132610.0,LUPL
+27,Interest coverage,12  Mar-15*,349.1,LUPL
+28,Debt to equity ratio,12  Mar-15*,0.0,LUPL
+29,Sales to assets ratio,12  Mar-15*,1.0,LUPL
+30,Return on assets,12  Mar-15*,18.2,LUPL
+31,Return on equity,12  Mar-15*,26.2,LUPL
+32,Return on capital,12  Mar-15*,36.5,LUPL
+33,Exports to sales,12  Mar-15*,46.4,LUPL
+34,Imports to sales,12  Mar-15*,8.8,LUPL
+35,Exports (fob),12  Mar-15*,58482.0,LUPL
+36,Imports (cif),12  Mar-15*,11057.0,LUPL
+37,Fx inflow,12  Mar-15*,62593.0,LUPL
+38,Fx outflow,12  Mar-15*,16592.0,LUPL
+39,Net fx,12  Mar-15*,46001.0,LUPL
+40,From Operations,12  Mar-15*,27331.0,LUPL
+41,From Investments,12  Mar-15*,-10545.0,LUPL
+42,From Financial Activity,12  Mar-15*,-1969.0,LUPL
+43,Net Cashflow,12  Mar-15*,14817.0,LUPL
+44,Net Sales,12  Mar-16*,142555.0,LUPL
+45,Other income,12  Mar-16*,1852.0,LUPL
+46,Total revenues,12  Mar-16*,144407.0,LUPL
+47,Gross profit,12  Mar-16*,36854.0,LUPL
+48,Depreciation,12  Mar-16*,4871.0,LUPL
+49,Interest,12  Mar-16*,595.0,LUPL
+50,Profit before tax,12  Mar-16*,33239.0,LUPL
+51,Minority Interest,12  Mar-16*,-88.0,LUPL
+52,Prior Period Items,12  Mar-16*,49.0,LUPL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,LUPL
+54,Tax,12  Mar-16*,10593.0,LUPL
+55,Profit after tax,12  Mar-16*,22607.0,LUPL
+56,Gross profit margin,12  Mar-16*,25.9,LUPL
+57,Effective tax rate,12  Mar-16*,31.9,LUPL
+58,Net profit margin,12  Mar-16*,15.9,LUPL
+59,Current assets,12  Mar-16*,98874.0,LUPL
+60,Current liabilities,12  Mar-16*,50612.0,LUPL
+61,Net working cap to sales,12  Mar-16*,33.9,LUPL
+62,Current ratio,12  Mar-16*,2.0,LUPL
+63,Inventory Days,12  Mar-16*,84.0,LUPL
+64,Debtors Days,12  Mar-16*,116.0,LUPL
+65,Net fixed assets,12  Mar-16*,114194.0,LUPL
+66,Share capital,12  Mar-16*,901.0,LUPL
+67,"""Free"" reserves",12  Mar-16*,110733.0,LUPL
+68,Net worth,12  Mar-16*,111634.0,LUPL
+69,Long term debt,12  Mar-16*,53739.0,LUPL
+70,Total assets,12  Mar-16*,226249.0,LUPL
+71,Interest coverage,12  Mar-16*,56.9,LUPL
+72,Debt to equity ratio,12  Mar-16*,0.5,LUPL
+73,Sales to assets ratio,12  Mar-16*,0.6,LUPL
+74,Return on assets,12  Mar-16*,10.3,LUPL
+75,Return on equity,12  Mar-16*,20.3,LUPL
+76,Return on capital,12  Mar-16*,20.4,LUPL
+77,Exports to sales,12  Mar-16*,47.2,LUPL
+78,Imports to sales,12  Mar-16*,7.2,LUPL
+79,Exports (fob),12  Mar-16*,67244.0,LUPL
+80,Imports (cif),12  Mar-16*,10199.0,LUPL
+81,Fx inflow,12  Mar-16*,71405.0,LUPL
+82,Fx outflow,12  Mar-16*,17807.0,LUPL
+83,Net fx,12  Mar-16*,53598.0,LUPL
+84,From Operations,12  Mar-16*,-3824.0,LUPL
+85,From Investments,12  Mar-16*,-69617.0,LUPL
+86,From Financial Activity,12  Mar-16*,58364.0,LUPL
+87,Net Cashflow,12  Mar-16*,-15077.0,LUPL
+88,Net Sales,12  Mar-17*,174943.0,LUPL
+89,Other income,12  Mar-17*,1065.0,LUPL
+90,Total revenues,12  Mar-17*,176008.0,LUPL
+91,Gross profit,12  Mar-17*,44931.0,LUPL
+92,Depreciation,12  Mar-17*,9122.0,LUPL
+93,Interest,12  Mar-17*,1525.0,LUPL
+94,Profit before tax,12  Mar-17*,35349.0,LUPL
+95,Minority Interest,12  Mar-17*,-72.0,LUPL
+96,Prior Period Items,12  Mar-17*,83.0,LUPL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,LUPL
+98,Tax,12  Mar-17*,9785.0,LUPL
+99,Profit after tax,12  Mar-17*,25575.0,LUPL
+100,Gross profit margin,12  Mar-17*,25.7,LUPL
+101,Effective tax rate,12  Mar-17*,27.7,LUPL
+102,Net profit margin,12  Mar-17*,14.6,LUPL
+103,Current assets,12  Mar-17*,119529.0,LUPL
+104,Current liabilities,12  Mar-17*,61206.0,LUPL
+105,Net working cap to sales,12  Mar-17*,33.3,LUPL
+106,Current ratio,12  Mar-17*,2.0,LUPL
+107,Inventory Days,12  Mar-17*,76.0,LUPL
+108,Debtors Days,12  Mar-17*,90.0,LUPL
+109,Net fixed assets,12  Mar-17*,131660.0,LUPL
+110,Share capital,12  Mar-17*,903.0,LUPL
+111,"""Free"" reserves",12  Mar-17*,134073.0,LUPL
+112,Net worth,12  Mar-17*,134976.0,LUPL
+113,Long term debt,12  Mar-17*,56478.0,LUPL
+114,Total assets,12  Mar-17*,266073.0,LUPL
+115,Interest coverage,12  Mar-17*,24.2,LUPL
+116,Debt to equity ratio,12  Mar-17*,0.4,LUPL
+117,Sales to assets ratio,12  Mar-17*,0.7,LUPL
+118,Return on assets,12  Mar-17*,10.2,LUPL
+119,Return on equity,12  Mar-17*,18.9,LUPL
+120,Return on capital,12  Mar-17*,19.3,LUPL
+121,Exports to sales,12  Mar-17*,0.0,LUPL
+122,Imports to sales,12  Mar-17*,0.0,LUPL
+123,Exports (fob),12  Mar-17*,0.0,LUPL
+124,Imports (cif),12  Mar-17*,0.0,LUPL
+125,Fx inflow,12  Mar-17*,81885.0,LUPL
+126,Fx outflow,12  Mar-17*,21506.0,LUPL
+127,Net fx,12  Mar-17*,60378.0,LUPL
+128,From Operations,12  Mar-17*,41135.0,LUPL
+129,From Investments,12  Mar-17*,-25274.0,LUPL
+130,From Financial Activity,12  Mar-17*,4332.0,LUPL
+131,Net Cashflow,12  Mar-17*,20193.0,LUPL
+132,Net Sales,12  Mar-18*,158042.0,LUPL
+133,Other income,12  Mar-18*,1504.0,LUPL
+134,Total revenues,12  Mar-18*,159545.0,LUPL
+135,Gross profit,12  Mar-18*,31475.0,LUPL
+136,Depreciation,12  Mar-18*,10859.0,LUPL
+137,Interest,12  Mar-18*,2044.0,LUPL
+138,Profit before tax,12  Mar-18*,20076.0,LUPL
+139,Minority Interest,12  Mar-18*,-71.0,LUPL
+140,Prior Period Items,12  Mar-18*,35.0,LUPL
+141,Extraordinary Inc (Exp),12  Mar-18*,-14644.0,LUPL
+142,Tax,12  Mar-18*,2885.0,LUPL
+143,Profit after tax,12  Mar-18*,2513.0,LUPL
+144,Gross profit margin,12  Mar-18*,19.9,LUPL
+145,Effective tax rate,12  Mar-18*,14.4,LUPL
+146,Net profit margin,12  Mar-18*,1.6,LUPL
+147,Current assets,12  Mar-18*,122095.0,LUPL
+148,Current liabilities,12  Mar-18*,50956.0,LUPL
+149,Net working cap to sales,12  Mar-18*,45.0,LUPL
+150,Current ratio,12  Mar-18*,2.4,LUPL
+151,Inventory Days,12  Mar-18*,85.0,LUPL
+152,Debtors Days,12  Mar-18*,120.0,LUPL
+153,Net fixed assets,12  Mar-18*,129876.0,LUPL
+154,Share capital,12  Mar-18*,904.0,LUPL
+155,"""Free"" reserves",12  Mar-18*,134866.0,LUPL
+156,Net worth,12  Mar-18*,135771.0,LUPL
+157,Long term debt,12  Mar-18*,64245.0,LUPL
+158,Total assets,12  Mar-18*,263054.0,LUPL
+159,Interest coverage,12  Mar-18*,10.8,LUPL
+160,Debt to equity ratio,12  Mar-18*,0.5,LUPL
+161,Sales to assets ratio,12  Mar-18*,0.6,LUPL
+162,Return on assets,12  Mar-18*,1.7,LUPL
+163,Return on equity,12  Mar-18*,1.9,LUPL
+164,Return on capital,12  Mar-18*,3.7,LUPL
+165,Exports to sales,12  Mar-18*,0.0,LUPL
+166,Imports to sales,12  Mar-18*,0.0,LUPL
+167,Exports (fob),12  Mar-18*,0.0,LUPL
+168,Imports (cif),12  Mar-18*,0.0,LUPL
+169,Fx inflow,12  Mar-18*,53141.0,LUPL
+170,Fx outflow,12  Mar-18*,19335.0,LUPL
+171,Net fx,12  Mar-18*,33807.0,LUPL
+172,From Operations,12  Mar-18*,17512.0,LUPL
+173,From Investments,12  Mar-18*,4699.0,LUPL
+174,From Financial Activity,12  Mar-18*,-14921.0,LUPL
+175,Net Cashflow,12  Mar-18*,7290.0,LUPL
+176,Net Sales,12  Mar-19*,167182.0,LUPL
+177,Other income,12  Mar-19*,3640.0,LUPL
+178,Total revenues,12  Mar-19*,170822.0,LUPL
+179,Gross profit,12  Mar-19*,28822.0,LUPL
+180,Depreciation,12  Mar-19*,10850.0,LUPL
+181,Interest,12  Mar-19*,3078.0,LUPL
+182,Profit before tax,12  Mar-19*,18534.0,LUPL
+183,Minority Interest,12  Mar-19*,-89.0,LUPL
+184,Prior Period Items,12  Mar-19*,38.0,LUPL
+185,Extraordinary Inc (Exp),12  Mar-19*,-3400.0,LUPL
+186,Tax,12  Mar-19*,9017.0,LUPL
+187,Profit after tax,12  Mar-19*,6066.0,LUPL
+188,Gross profit margin,12  Mar-19*,17.2,LUPL
+189,Effective tax rate,12  Mar-19*,48.7,LUPL
+190,Net profit margin,12  Mar-19*,3.6,LUPL
+191,Current assets,12  Mar-19*,138536.0,LUPL
+192,Current liabilities,12  Mar-19*,61299.0,LUPL
+193,Net working cap to sales,12  Mar-19*,46.2,LUPL
+194,Current ratio,12  Mar-19*,2.3,LUPL
+195,Inventory Days,12  Mar-19*,84.0,LUPL
+196,Debtors Days,12  Mar-19*,112.0,LUPL
+197,Net fixed assets,12  Mar-19*,127516.0,LUPL
+198,Share capital,12  Mar-19*,905.0,LUPL
+199,"""Free"" reserves",12  Mar-19*,136517.0,LUPL
+200,Net worth,12  Mar-19*,137422.0,LUPL
+201,Long term debt,12  Mar-19*,66417.0,LUPL
+202,Total assets,12  Mar-19*,279494.0,LUPL
+203,Interest coverage,12  Mar-19*,7.0,LUPL
+204,Debt to equity ratio,12  Mar-19*,0.5,LUPL
+205,Sales to assets ratio,12  Mar-19*,0.6,LUPL
+206,Return on assets,12  Mar-19*,3.3,LUPL
+207,Return on equity,12  Mar-19*,4.4,LUPL
+208,Return on capital,12  Mar-19*,8.9,LUPL
+209,Exports to sales,12  Mar-19*,0.0,LUPL
+210,Imports to sales,12  Mar-19*,0.0,LUPL
+211,Exports (fob),12  Mar-19*,0.0,LUPL
+212,Imports (cif),12  Mar-19*,0.0,LUPL
+213,Fx inflow,12  Mar-19*,59414.0,LUPL
+214,Fx outflow,12  Mar-19*,22282.0,LUPL
+215,Net fx,12  Mar-19*,37132.0,LUPL
+216,From Operations,12  Mar-19*,16660.0,LUPL
+217,From Investments,12  Mar-19*,-32825.0,LUPL
+218,From Financial Activity,12  Mar-19*,7441.0,LUPL
+219,Net Cashflow,12  Mar-19*,-8724.0,LUPL

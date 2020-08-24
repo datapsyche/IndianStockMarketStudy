@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5145.0,HAWK
+1,Other income,12  Mar-15,38.0,HAWK
+2,Total revenues,12  Mar-15,5183.0,HAWK
+3,Gross profit,12  Mar-15,508.0,HAWK
+4,Depreciation,12  Mar-15,36.0,HAWK
+5,Interest,12  Mar-15,37.0,HAWK
+6,Profit before tax,12  Mar-15,473.0,HAWK
+7,Minority Interest,12  Mar-15,0.0,HAWK
+8,Prior Period Items,12  Mar-15,0.0,HAWK
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,HAWK
+10,Tax,12  Mar-15,152.0,HAWK
+11,Profit after tax,12  Mar-15,321.0,HAWK
+12,Gross profit margin,12  Mar-15,9.9,HAWK
+13,Effective tax rate,12  Mar-15,32.1,HAWK
+14,Net profit margin,12  Mar-15,6.2,HAWK
+15,Current assets,12  Mar-15,1516.0,HAWK
+16,Current liabilities,12  Mar-15,1078.0,HAWK
+17,Net working cap to sales,12  Mar-15,8.5,HAWK
+18,Current ratio,12  Mar-15,1.4,HAWK
+19,Inventory Days,12  Mar-15,48.0,HAWK
+20,Debtors Days,12  Mar-15,31.0,HAWK
+21,Net fixed assets,12  Mar-15,232.0,HAWK
+22,Share capital,12  Mar-15,53.0,HAWK
+23,"""Free"" reserves",12  Mar-15,536.0,HAWK
+24,Net worth,12  Mar-15,589.0,HAWK
+25,Long term debt,12  Mar-15,128.0,HAWK
+26,Total assets,12  Mar-15,1824.0,HAWK
+27,Interest coverage,12  Mar-15,13.8,HAWK
+28,Debt to equity ratio,12  Mar-15,0.2,HAWK
+29,Sales to assets ratio,12  Mar-15,2.8,HAWK
+30,Return on assets,12  Mar-15,19.6,HAWK
+31,Return on equity,12  Mar-15,54.5,HAWK
+32,Return on capital,12  Mar-15,71.2,HAWK
+33,Exports to sales,12  Mar-15,5.7,HAWK
+34,Imports to sales,12  Mar-15,0.0,HAWK
+35,Exports (fob),12  Mar-15,294.0,HAWK
+36,Imports (cif),12  Mar-15,0.0,HAWK
+37,Fx inflow,12  Mar-15,302.0,HAWK
+38,Fx outflow,12  Mar-15,63.0,HAWK
+39,Net fx,12  Mar-15,239.0,HAWK
+40,From Operations,12  Mar-15,283.0,HAWK
+41,From Investments,12  Mar-15,5.0,HAWK
+42,From Financial Activity,12  Mar-15,-476.0,HAWK
+43,Net Cashflow,12  Mar-15,-188.0,HAWK
+44,Net Sales,12  Mar-16,5444.0,HAWK
+45,Other income,12  Mar-16,33.0,HAWK
+46,Total revenues,12  Mar-16,5476.0,HAWK
+47,Gross profit,12  Mar-16,679.0,HAWK
+48,Depreciation,12  Mar-16,35.0,HAWK
+49,Interest,12  Mar-16,35.0,HAWK
+50,Profit before tax,12  Mar-16,643.0,HAWK
+51,Minority Interest,12  Mar-16,0.0,HAWK
+52,Prior Period Items,12  Mar-16,0.0,HAWK
+53,Extraordinary Inc (Exp),12  Mar-16,-40.0,HAWK
+54,Tax,12  Mar-16,199.0,HAWK
+55,Profit after tax,12  Mar-16,403.0,HAWK
+56,Gross profit margin,12  Mar-16,12.5,HAWK
+57,Effective tax rate,12  Mar-16,30.9,HAWK
+58,Net profit margin,12  Mar-16,7.4,HAWK
+59,Current assets,12  Mar-16,1858.0,HAWK
+60,Current liabilities,12  Mar-16,956.0,HAWK
+61,Net working cap to sales,12  Mar-16,16.6,HAWK
+62,Current ratio,12  Mar-16,1.9,HAWK
+63,Inventory Days,12  Mar-16,56.0,HAWK
+64,Debtors Days,12  Mar-16,30.0,HAWK
+65,Net fixed assets,12  Mar-16,231.0,HAWK
+66,Share capital,12  Mar-16,53.0,HAWK
+67,"""Free"" reserves",12  Mar-16,558.0,HAWK
+68,Net worth,12  Mar-16,611.0,HAWK
+69,Long term debt,12  Mar-16,191.0,HAWK
+70,Total assets,12  Mar-16,2168.0,HAWK
+71,Interest coverage,12  Mar-16,19.6,HAWK
+72,Debt to equity ratio,12  Mar-16,0.3,HAWK
+73,Sales to assets ratio,12  Mar-16,2.5,HAWK
+74,Return on assets,12  Mar-16,20.2,HAWK
+75,Return on equity,12  Mar-16,66.1,HAWK
+76,Return on capital,12  Mar-16,79.4,HAWK
+77,Exports to sales,12  Mar-16,4.5,HAWK
+78,Imports to sales,12  Mar-16,0.1,HAWK
+79,Exports (fob),12  Mar-16,245.0,HAWK
+80,Imports (cif),12  Mar-16,5.0,HAWK
+81,Fx inflow,12  Mar-16,248.0,HAWK
+82,Fx outflow,12  Mar-16,9.0,HAWK
+83,Net fx,12  Mar-16,239.0,HAWK
+84,From Operations,12  Mar-16,346.0,HAWK
+85,From Investments,12  Mar-16,-1.0,HAWK
+86,From Financial Activity,12  Mar-16,-172.0,HAWK
+87,Net Cashflow,12  Mar-16,173.0,HAWK
+88,Net Sales,12  Mar-17,5120.0,HAWK
+89,Other income,12  Mar-17,45.0,HAWK
+90,Total revenues,12  Mar-17,5165.0,HAWK
+91,Gross profit,12  Mar-17,742.0,HAWK
+92,Depreciation,12  Mar-17,35.0,HAWK
+93,Interest,12  Mar-17,43.0,HAWK
+94,Profit before tax,12  Mar-17,710.0,HAWK
+95,Minority Interest,12  Mar-17,0.0,HAWK
+96,Prior Period Items,12  Mar-17,0.0,HAWK
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,HAWK
+98,Tax,12  Mar-17,236.0,HAWK
+99,Profit after tax,12  Mar-17,474.0,HAWK
+100,Gross profit margin,12  Mar-17,14.5,HAWK
+101,Effective tax rate,12  Mar-17,33.2,HAWK
+102,Net profit margin,12  Mar-17,9.3,HAWK
+103,Current assets,12  Mar-17,2036.0,HAWK
+104,Current liabilities,12  Mar-17,1158.0,HAWK
+105,Net working cap to sales,12  Mar-17,17.1,HAWK
+106,Current ratio,12  Mar-17,1.8,HAWK
+107,Inventory Days,12  Mar-17,59.0,HAWK
+108,Debtors Days,12  Mar-17,33.0,HAWK
+109,Net fixed assets,12  Mar-17,230.0,HAWK
+110,Share capital,12  Mar-17,53.0,HAWK
+111,"""Free"" reserves",12  Mar-17,1014.0,HAWK
+112,Net worth,12  Mar-17,1067.0,HAWK
+113,Long term debt,12  Mar-17,89.0,HAWK
+114,Total assets,12  Mar-17,2354.0,HAWK
+115,Interest coverage,12  Mar-17,17.6,HAWK
+116,Debt to equity ratio,12  Mar-17,0.1,HAWK
+117,Sales to assets ratio,12  Mar-17,2.2,HAWK
+118,Return on assets,12  Mar-17,22.0,HAWK
+119,Return on equity,12  Mar-17,44.5,HAWK
+120,Return on capital,12  Mar-17,65.1,HAWK
+121,Exports to sales,12  Mar-17,0.0,HAWK
+122,Imports to sales,12  Mar-17,0.0,HAWK
+123,Exports (fob),12  Mar-17,0.0,HAWK
+124,Imports (cif),12  Mar-17,0.0,HAWK
+125,Fx inflow,12  Mar-17,328.0,HAWK
+126,Fx outflow,12  Mar-17,64.0,HAWK
+127,Net fx,12  Mar-17,264.0,HAWK
+128,From Operations,12  Mar-17,606.0,HAWK
+129,From Investments,12  Mar-17,-143.0,HAWK
+130,From Financial Activity,12  Mar-17,-393.0,HAWK
+131,Net Cashflow,12  Mar-17,70.0,HAWK
+132,Net Sales,12  Mar-18,5526.0,HAWK
+133,Other income,12  Mar-18,111.0,HAWK
+134,Total revenues,12  Mar-18,5637.0,HAWK
+135,Gross profit,12  Mar-18,705.0,HAWK
+136,Depreciation,12  Mar-18,37.0,HAWK
+137,Interest,12  Mar-18,41.0,HAWK
+138,Profit before tax,12  Mar-18,738.0,HAWK
+139,Minority Interest,12  Mar-18,0.0,HAWK
+140,Prior Period Items,12  Mar-18,0.0,HAWK
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,HAWK
+142,Tax,12  Mar-18,251.0,HAWK
+143,Profit after tax,12  Mar-18,487.0,HAWK
+144,Gross profit margin,12  Mar-18,12.8,HAWK
+145,Effective tax rate,12  Mar-18,34.0,HAWK
+146,Net profit margin,12  Mar-18,8.8,HAWK
+147,Current assets,12  Mar-18,2154.0,HAWK
+148,Current liabilities,12  Mar-18,1176.0,HAWK
+149,Net working cap to sales,12  Mar-18,17.7,HAWK
+150,Current ratio,12  Mar-18,1.8,HAWK
+151,Inventory Days,12  Mar-18,44.0,HAWK
+152,Debtors Days,12  Mar-18,31.0,HAWK
+153,Net fixed assets,12  Mar-18,242.0,HAWK
+154,Share capital,12  Mar-18,53.0,HAWK
+155,"""Free"" reserves",12  Mar-18,1045.0,HAWK
+156,Net worth,12  Mar-18,1098.0,HAWK
+157,Long term debt,12  Mar-18,138.0,HAWK
+158,Total assets,12  Mar-18,2455.0,HAWK
+159,Interest coverage,12  Mar-18,18.8,HAWK
+160,Debt to equity ratio,12  Mar-18,0.1,HAWK
+161,Sales to assets ratio,12  Mar-18,2.3,HAWK
+162,Return on assets,12  Mar-18,21.5,HAWK
+163,Return on equity,12  Mar-18,44.3,HAWK
+164,Return on capital,12  Mar-18,63.0,HAWK
+165,Exports to sales,12  Mar-18,0.0,HAWK
+166,Imports to sales,12  Mar-18,0.0,HAWK
+167,Exports (fob),12  Mar-18,0.0,HAWK
+168,Imports (cif),12  Mar-18,0.0,HAWK
+169,Fx inflow,12  Mar-18,348.0,HAWK
+170,Fx outflow,12  Mar-18,13.0,HAWK
+171,Net fx,12  Mar-18,335.0,HAWK
+172,From Operations,12  Mar-18,692.0,HAWK
+173,From Investments,12  Mar-18,-126.0,HAWK
+174,From Financial Activity,12  Mar-18,-525.0,HAWK
+175,Net Cashflow,12  Mar-18,41.0,HAWK
+176,Net Sales,12  Mar-19,6528.0,HAWK
+177,Other income,12  Mar-19,41.0,HAWK
+178,Total revenues,12  Mar-19,6570.0,HAWK
+179,Gross profit,12  Mar-19,862.0,HAWK
+180,Depreciation,12  Mar-19,40.0,HAWK
+181,Interest,12  Mar-19,40.0,HAWK
+182,Profit before tax,12  Mar-19,823.0,HAWK
+183,Minority Interest,12  Mar-19,0.0,HAWK
+184,Prior Period Items,12  Mar-19,0.0,HAWK
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,HAWK
+186,Tax,12  Mar-19,281.0,HAWK
+187,Profit after tax,12  Mar-19,542.0,HAWK
+188,Gross profit margin,12  Mar-19,13.2,HAWK
+189,Effective tax rate,12  Mar-19,34.2,HAWK
+190,Net profit margin,12  Mar-19,8.3,HAWK
+191,Current assets,12  Mar-19,2328.0,HAWK
+192,Current liabilities,12  Mar-19,1233.0,HAWK
+193,Net working cap to sales,12  Mar-19,16.8,HAWK
+194,Current ratio,12  Mar-19,1.9,HAWK
+195,Inventory Days,12  Mar-19,56.0,HAWK
+196,Debtors Days,12  Mar-19,44.0,HAWK
+197,Net fixed assets,12  Mar-19,283.0,HAWK
+198,Share capital,12  Mar-19,53.0,HAWK
+199,"""Free"" reserves",12  Mar-19,1133.0,HAWK
+200,Net worth,12  Mar-19,1186.0,HAWK
+201,Long term debt,12  Mar-19,213.0,HAWK
+202,Total assets,12  Mar-19,2672.0,HAWK
+203,Interest coverage,12  Mar-19,21.7,HAWK
+204,Debt to equity ratio,12  Mar-19,0.2,HAWK
+205,Sales to assets ratio,12  Mar-19,2.4,HAWK
+206,Return on assets,12  Mar-19,21.8,HAWK
+207,Return on equity,12  Mar-19,45.7,HAWK
+208,Return on capital,12  Mar-19,61.7,HAWK
+209,Exports to sales,12  Mar-19,0.0,HAWK
+210,Imports to sales,12  Mar-19,0.0,HAWK
+211,Exports (fob),12  Mar-19,0.0,HAWK
+212,Imports (cif),12  Mar-19,0.0,HAWK
+213,Fx inflow,12  Mar-19,378.0,HAWK
+214,Fx outflow,12  Mar-19,60.0,HAWK
+215,Net fx,12  Mar-19,318.0,HAWK
+216,From Operations,12  Mar-19,-62.0,HAWK
+217,From Investments,12  Mar-19,416.0,HAWK
+218,From Financial Activity,12  Mar-19,-453.0,HAWK
+219,Net Cashflow,12  Mar-19,-99.0,HAWK

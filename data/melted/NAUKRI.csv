@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,7325.0,NAUKRI
+1,Other income,12  Mar-15*,946.0,NAUKRI
+2,Total revenues,12  Mar-15*,8271.0,NAUKRI
+3,Gross profit,12  Mar-15*,175.0,NAUKRI
+4,Depreciation,12  Mar-15*,469.0,NAUKRI
+5,Interest,12  Mar-15*,1.0,NAUKRI
+6,Profit before tax,12  Mar-15*,651.0,NAUKRI
+7,Minority Interest,12  Mar-15*,385.0,NAUKRI
+8,Prior Period Items,12  Mar-15*,0.0,NAUKRI
+9,Extraordinary Inc (Exp),12  Mar-15*,-55.0,NAUKRI
+10,Tax,12  Mar-15*,740.0,NAUKRI
+11,Profit after tax,12  Mar-15*,241.0,NAUKRI
+12,Gross profit margin,12  Mar-15*,2.4,NAUKRI
+13,Effective tax rate,12  Mar-15*,113.7,NAUKRI
+14,Net profit margin,12  Mar-15*,3.3,NAUKRI
+15,Current assets,12  Mar-15*,12597.0,NAUKRI
+16,Current liabilities,12  Mar-15*,3346.0,NAUKRI
+17,Net working cap to sales,12  Mar-15*,126.3,NAUKRI
+18,Current ratio,12  Mar-15*,3.8,NAUKRI
+19,Inventory Days,12  Mar-15*,0.0,NAUKRI
+20,Debtors Days,12  Mar-15*,6.0,NAUKRI
+21,Net fixed assets,12  Mar-15*,4122.0,NAUKRI
+22,Share capital,12  Mar-15*,1201.0,NAUKRI
+23,"""Free"" reserves",12  Mar-15*,12732.0,NAUKRI
+24,Net worth,12  Mar-15*,13933.0,NAUKRI
+25,Long term debt,12  Mar-15*,3.0,NAUKRI
+26,Total assets,12  Mar-15*,17388.0,NAUKRI
+27,Interest coverage,12  Mar-15*,651.7,NAUKRI
+28,Debt to equity ratio,12  Mar-15*,0.0,NAUKRI
+29,Sales to assets ratio,12  Mar-15*,0.4,NAUKRI
+30,Return on assets,12  Mar-15*,1.4,NAUKRI
+31,Return on equity,12  Mar-15*,1.7,NAUKRI
+32,Return on capital,12  Mar-15*,7.0,NAUKRI
+33,Exports to sales,12  Mar-15*,0.0,NAUKRI
+34,Imports to sales,12  Mar-15*,0.0,NAUKRI
+35,Exports (fob),12  Mar-15*,0.0,NAUKRI
+36,Imports (cif),12  Mar-15*,0.0,NAUKRI
+37,Fx inflow,12  Mar-15*,620.0,NAUKRI
+38,Fx outflow,12  Mar-15*,307.0,NAUKRI
+39,Net fx,12  Mar-15*,313.0,NAUKRI
+40,From Operations,12  Mar-15*,510.0,NAUKRI
+41,From Investments,12  Mar-15*,-10385.0,NAUKRI
+42,From Financial Activity,12  Mar-15*,10250.0,NAUKRI
+43,Net Cashflow,12  Mar-15*,375.0,NAUKRI
+44,Net Sales,12  Mar-16*,7475.0,NAUKRI
+45,Other income,12  Mar-16*,4407.0,NAUKRI
+46,Total revenues,12  Mar-16*,11882.0,NAUKRI
+47,Gross profit,12  Mar-16*,922.0,NAUKRI
+48,Depreciation,12  Mar-16*,238.0,NAUKRI
+49,Interest,12  Mar-16*,1.0,NAUKRI
+50,Profit before tax,12  Mar-16*,5089.0,NAUKRI
+51,Minority Interest,12  Mar-16*,-3015.0,NAUKRI
+52,Prior Period Items,12  Mar-16*,0.0,NAUKRI
+53,Extraordinary Inc (Exp),12  Mar-16*,-322.0,NAUKRI
+54,Tax,12  Mar-16*,573.0,NAUKRI
+55,Profit after tax,12  Mar-16*,1178.0,NAUKRI
+56,Gross profit margin,12  Mar-16*,12.3,NAUKRI
+57,Effective tax rate,12  Mar-16*,11.3,NAUKRI
+58,Net profit margin,12  Mar-16*,15.8,NAUKRI
+59,Current assets,12  Mar-16*,10762.0,NAUKRI
+60,Current liabilities,12  Mar-16*,3894.0,NAUKRI
+61,Net working cap to sales,12  Mar-16*,91.9,NAUKRI
+62,Current ratio,12  Mar-16*,2.8,NAUKRI
+63,Inventory Days,12  Mar-16*,0.0,NAUKRI
+64,Debtors Days,12  Mar-16*,6.0,NAUKRI
+65,Net fixed assets,12  Mar-16*,6125.0,NAUKRI
+66,Share capital,12  Mar-16*,1207.0,NAUKRI
+67,"""Free"" reserves",12  Mar-16*,14219.0,NAUKRI
+68,Net worth,12  Mar-16*,15426.0,NAUKRI
+69,Long term debt,12  Mar-16*,4.0,NAUKRI
+70,Total assets,12  Mar-16*,19255.0,NAUKRI
+71,Interest coverage,12  Mar-16*,5655.8,NAUKRI
+72,Debt to equity ratio,12  Mar-16*,0.0,NAUKRI
+73,Sales to assets ratio,12  Mar-16*,0.4,NAUKRI
+74,Return on assets,12  Mar-16*,6.1,NAUKRI
+75,Return on equity,12  Mar-16*,7.6,NAUKRI
+76,Return on capital,12  Mar-16*,11.4,NAUKRI
+77,Exports to sales,12  Mar-16*,0.0,NAUKRI
+78,Imports to sales,12  Mar-16*,0.0,NAUKRI
+79,Exports (fob),12  Mar-16*,0.0,NAUKRI
+80,Imports (cif),12  Mar-16*,0.0,NAUKRI
+81,Fx inflow,12  Mar-16*,653.0,NAUKRI
+82,Fx outflow,12  Mar-16*,360.0,NAUKRI
+83,Net fx,12  Mar-16*,293.0,NAUKRI
+84,From Operations,12  Mar-16*,7817.0,NAUKRI
+85,From Investments,12  Mar-16*,-15.0,NAUKRI
+86,From Financial Activity,12  Mar-16*,-661.0,NAUKRI
+87,Net Cashflow,12  Mar-16*,7141.0,NAUKRI
+88,Net Sales,12  Mar-17*,8876.0,NAUKRI
+89,Other income,12  Mar-17*,829.0,NAUKRI
+90,Total revenues,12  Mar-17*,9705.0,NAUKRI
+91,Gross profit,12  Mar-17*,1772.0,NAUKRI
+92,Depreciation,12  Mar-17*,328.0,NAUKRI
+93,Interest,12  Mar-17*,2.0,NAUKRI
+94,Profit before tax,12  Mar-17*,2271.0,NAUKRI
+95,Minority Interest,12  Mar-17*,-1896.0,NAUKRI
+96,Prior Period Items,12  Mar-17*,0.0,NAUKRI
+97,Extraordinary Inc (Exp),12  Mar-17*,-324.0,NAUKRI
+98,Tax,12  Mar-17*,478.0,NAUKRI
+99,Profit after tax,12  Mar-17*,-427.0,NAUKRI
+100,Gross profit margin,12  Mar-17*,20.0,NAUKRI
+101,Effective tax rate,12  Mar-17*,21.1,NAUKRI
+102,Net profit margin,12  Mar-17*,-4.8,NAUKRI
+103,Current assets,12  Mar-17*,14348.0,NAUKRI
+104,Current liabilities,12  Mar-17*,4650.0,NAUKRI
+105,Net working cap to sales,12  Mar-17*,109.3,NAUKRI
+106,Current ratio,12  Mar-17*,3.1,NAUKRI
+107,Inventory Days,12  Mar-17*,0.0,NAUKRI
+108,Debtors Days,12  Mar-17*,4.0,NAUKRI
+109,Net fixed assets,12  Mar-17*,4930.0,NAUKRI
+110,Share capital,12  Mar-17*,1211.0,NAUKRI
+111,"""Free"" reserves",12  Mar-17*,14714.0,NAUKRI
+112,Net worth,12  Mar-17*,15925.0,NAUKRI
+113,Long term debt,12  Mar-17*,4.0,NAUKRI
+114,Total assets,12  Mar-17*,20601.0,NAUKRI
+115,Interest coverage,12  Mar-17*,988.2,NAUKRI
+116,Debt to equity ratio,12  Mar-17*,0.0,NAUKRI
+117,Sales to assets ratio,12  Mar-17*,0.4,NAUKRI
+118,Return on assets,12  Mar-17*,-2.1,NAUKRI
+119,Return on equity,12  Mar-17*,-2.7,NAUKRI
+120,Return on capital,12  Mar-17*,0.3,NAUKRI
+121,Exports to sales,12  Mar-17*,0.0,NAUKRI
+122,Imports to sales,12  Mar-17*,0.0,NAUKRI
+123,Exports (fob),12  Mar-17*,0.0,NAUKRI
+124,Imports (cif),12  Mar-17*,0.0,NAUKRI
+125,Fx inflow,12  Mar-17*,673.0,NAUKRI
+126,Fx outflow,12  Mar-17*,273.0,NAUKRI
+127,Net fx,12  Mar-17*,400.0,NAUKRI
+128,From Operations,12  Mar-17*,2135.0,NAUKRI
+129,From Investments,12  Mar-17*,-1650.0,NAUKRI
+130,From Financial Activity,12  Mar-17*,-420.0,NAUKRI
+131,Net Cashflow,12  Mar-17*,65.0,NAUKRI
+132,Net Sales,12  Mar-18*,9882.0,NAUKRI
+133,Other income,12  Mar-18*,888.0,NAUKRI
+134,Total revenues,12  Mar-18*,10770.0,NAUKRI
+135,Gross profit,12  Mar-18*,2582.0,NAUKRI
+136,Depreciation,12  Mar-18*,296.0,NAUKRI
+137,Interest,12  Mar-18*,3.0,NAUKRI
+138,Profit before tax,12  Mar-18*,3170.0,NAUKRI
+139,Minority Interest,12  Mar-18*,-442.0,NAUKRI
+140,Prior Period Items,12  Mar-18*,0.0,NAUKRI
+141,Extraordinary Inc (Exp),12  Mar-18*,3126.0,NAUKRI
+142,Tax,12  Mar-18*,845.0,NAUKRI
+143,Profit after tax,12  Mar-18*,5010.0,NAUKRI
+144,Gross profit margin,12  Mar-18*,26.1,NAUKRI
+145,Effective tax rate,12  Mar-18*,26.7,NAUKRI
+146,Net profit margin,12  Mar-18*,50.7,NAUKRI
+147,Current assets,12  Mar-18*,17887.0,NAUKRI
+148,Current liabilities,12  Mar-18*,5554.0,NAUKRI
+149,Net working cap to sales,12  Mar-18*,124.8,NAUKRI
+150,Current ratio,12  Mar-18*,3.2,NAUKRI
+151,Inventory Days,12  Mar-18*,0.0,NAUKRI
+152,Debtors Days,12  Mar-18*,2.0,NAUKRI
+153,Net fixed assets,12  Mar-18*,4566.0,NAUKRI
+154,Share capital,12  Mar-18*,1216.0,NAUKRI
+155,"""Free"" reserves",12  Mar-18*,19234.0,NAUKRI
+156,Net worth,12  Mar-18*,20450.0,NAUKRI
+157,Long term debt,12  Mar-18*,3.0,NAUKRI
+158,Total assets,12  Mar-18*,25963.0,NAUKRI
+159,Interest coverage,12  Mar-18*,933.4,NAUKRI
+160,Debt to equity ratio,12  Mar-18*,0.0,NAUKRI
+161,Sales to assets ratio,12  Mar-18*,0.4,NAUKRI
+162,Return on assets,12  Mar-18*,19.3,NAUKRI
+163,Return on equity,12  Mar-18*,24.5,NAUKRI
+164,Return on capital,12  Mar-18*,28.6,NAUKRI
+165,Exports to sales,12  Mar-18*,0.0,NAUKRI
+166,Imports to sales,12  Mar-18*,0.0,NAUKRI
+167,Exports (fob),12  Mar-18*,0.0,NAUKRI
+168,Imports (cif),12  Mar-18*,0.0,NAUKRI
+169,Fx inflow,12  Mar-18*,717.0,NAUKRI
+170,Fx outflow,12  Mar-18*,359.0,NAUKRI
+171,Net fx,12  Mar-18*,358.0,NAUKRI
+172,From Operations,12  Mar-18*,2535.0,NAUKRI
+173,From Investments,12  Mar-18*,-1494.0,NAUKRI
+174,From Financial Activity,12  Mar-18*,-748.0,NAUKRI
+175,Net Cashflow,12  Mar-18*,293.0,NAUKRI
+176,Net Sales,12  Mar-19*,11509.0,NAUKRI
+177,Other income,12  Mar-19*,1203.0,NAUKRI
+178,Total revenues,12  Mar-19*,12712.0,NAUKRI
+179,Gross profit,12  Mar-19*,3128.0,NAUKRI
+180,Depreciation,12  Mar-19*,221.0,NAUKRI
+181,Interest,12  Mar-19*,11.0,NAUKRI
+182,Profit before tax,12  Mar-19*,4098.0,NAUKRI
+183,Minority Interest,12  Mar-19*,-3099.0,NAUKRI
+184,Prior Period Items,12  Mar-19*,0.0,NAUKRI
+185,Extraordinary Inc (Exp),12  Mar-19*,6166.0,NAUKRI
+186,Tax,12  Mar-19*,1243.0,NAUKRI
+187,Profit after tax,12  Mar-19*,5922.0,NAUKRI
+188,Gross profit margin,12  Mar-19*,27.2,NAUKRI
+189,Effective tax rate,12  Mar-19*,30.3,NAUKRI
+190,Net profit margin,12  Mar-19*,51.5,NAUKRI
+191,Current assets,12  Mar-19*,19331.0,NAUKRI
+192,Current liabilities,12  Mar-19*,6451.0,NAUKRI
+193,Net working cap to sales,12  Mar-19*,111.9,NAUKRI
+194,Current ratio,12  Mar-19*,3.0,NAUKRI
+195,Inventory Days,12  Mar-19*,0.0,NAUKRI
+196,Debtors Days,12  Mar-19*,2.0,NAUKRI
+197,Net fixed assets,12  Mar-19*,9507.0,NAUKRI
+198,Share capital,12  Mar-19*,1220.0,NAUKRI
+199,"""Free"" reserves",12  Mar-19*,24206.0,NAUKRI
+200,Net worth,12  Mar-19*,25426.0,NAUKRI
+201,Long term debt,12  Mar-19*,4.0,NAUKRI
+202,Total assets,12  Mar-19*,31890.0,NAUKRI
+203,Interest coverage,12  Mar-19*,370.2,NAUKRI
+204,Debt to equity ratio,12  Mar-19*,0.0,NAUKRI
+205,Sales to assets ratio,12  Mar-19*,0.4,NAUKRI
+206,Return on assets,12  Mar-19*,18.6,NAUKRI
+207,Return on equity,12  Mar-19*,23.3,NAUKRI
+208,Return on capital,12  Mar-19*,28.2,NAUKRI
+209,Exports to sales,12  Mar-19*,0.0,NAUKRI
+210,Imports to sales,12  Mar-19*,0.0,NAUKRI
+211,Exports (fob),12  Mar-19*,0.0,NAUKRI
+212,Imports (cif),12  Mar-19*,0.0,NAUKRI
+213,Fx inflow,12  Mar-19*,845.0,NAUKRI
+214,Fx outflow,12  Mar-19*,299.0,NAUKRI
+215,Net fx,12  Mar-19*,546.0,NAUKRI
+216,From Operations,12  Mar-19*,2757.0,NAUKRI
+217,From Investments,12  Mar-19*,-591.0,NAUKRI
+218,From Financial Activity,12  Mar-19*,-781.0,NAUKRI
+219,Net Cashflow,12  Mar-19*,1385.0,NAUKRI

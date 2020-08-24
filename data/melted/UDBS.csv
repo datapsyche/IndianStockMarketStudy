@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,46881.0,UDBS
+1,Other income,12  Mar-15*,377.0,UDBS
+2,Total revenues,12  Mar-15*,47258.0,UDBS
+3,Gross profit,12  Mar-15*,6217.0,UDBS
+4,Depreciation,12  Mar-15*,2075.0,UDBS
+5,Interest,12  Mar-15*,728.0,UDBS
+6,Profit before tax,12  Mar-15*,3790.0,UDBS
+7,Minority Interest,12  Mar-15*,-4.0,UDBS
+8,Prior Period Items,12  Mar-15*,0.0,UDBS
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,UDBS
+10,Tax,12  Mar-15*,1188.0,UDBS
+11,Profit after tax,12  Mar-15*,2598.0,UDBS
+12,Gross profit margin,12  Mar-15*,13.3,UDBS
+13,Effective tax rate,12  Mar-15*,31.3,UDBS
+14,Net profit margin,12  Mar-15*,5.5,UDBS
+15,Current assets,12  Mar-15*,18685.0,UDBS
+16,Current liabilities,12  Mar-15*,15246.0,UDBS
+17,Net working cap to sales,12  Mar-15*,7.3,UDBS
+18,Current ratio,12  Mar-15*,1.2,UDBS
+19,Inventory Days,12  Mar-15*,48.0,UDBS
+20,Debtors Days,12  Mar-15*,73.0,UDBS
+21,Net fixed assets,12  Mar-15*,19018.0,UDBS
+22,Share capital,12  Mar-15*,264.0,UDBS
+23,"""Free"" reserves",12  Mar-15*,18587.0,UDBS
+24,Net worth,12  Mar-15*,18851.0,UDBS
+25,Long term debt,12  Mar-15*,5981.0,UDBS
+26,Total assets,12  Mar-15*,40829.0,UDBS
+27,Interest coverage,12  Mar-15*,6.2,UDBS
+28,Debt to equity ratio,12  Mar-15*,0.3,UDBS
+29,Sales to assets ratio,12  Mar-15*,1.1,UDBS
+30,Return on assets,12  Mar-15*,8.1,UDBS
+31,Return on equity,12  Mar-15*,13.8,UDBS
+32,Return on capital,12  Mar-15*,18.2,UDBS
+33,Exports to sales,12  Mar-15*,0.0,UDBS
+34,Imports to sales,12  Mar-15*,2.0,UDBS
+35,Exports (fob),12  Mar-15*,0.0,UDBS
+36,Imports (cif),12  Mar-15*,960.0,UDBS
+37,Fx inflow,12  Mar-15*,47.0,UDBS
+38,Fx outflow,12  Mar-15*,1681.0,UDBS
+39,Net fx,12  Mar-15*,-1634.0,UDBS
+40,From Operations,12  Mar-15*,8408.0,UDBS
+41,From Investments,12  Mar-15*,-3295.0,UDBS
+42,From Financial Activity,12  Mar-15*,-5717.0,UDBS
+43,Net Cashflow,12  Mar-15*,-604.0,UDBS
+44,Net Sales,12  Mar-16*,48331.0,UDBS
+45,Other income,12  Mar-16*,864.0,UDBS
+46,Total revenues,12  Mar-16*,49195.0,UDBS
+47,Gross profit,12  Mar-16*,6930.0,UDBS
+48,Depreciation,12  Mar-16*,2436.0,UDBS
+49,Interest,12  Mar-16*,811.0,UDBS
+50,Profit before tax,12  Mar-16*,4547.0,UDBS
+51,Minority Interest,12  Mar-16*,0.0,UDBS
+52,Prior Period Items,12  Mar-16*,0.0,UDBS
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,UDBS
+54,Tax,12  Mar-16*,1560.0,UDBS
+55,Profit after tax,12  Mar-16*,2987.0,UDBS
+56,Gross profit margin,12  Mar-16*,14.3,UDBS
+57,Effective tax rate,12  Mar-16*,34.3,UDBS
+58,Net profit margin,12  Mar-16*,6.2,UDBS
+59,Current assets,12  Mar-16*,21807.0,UDBS
+60,Current liabilities,12  Mar-16*,18864.0,UDBS
+61,Net working cap to sales,12  Mar-16*,6.1,UDBS
+62,Current ratio,12  Mar-16*,1.2,UDBS
+63,Inventory Days,12  Mar-16*,52.0,UDBS
+64,Debtors Days,12  Mar-16*,84.0,UDBS
+65,Net fixed assets,12  Mar-16*,18589.0,UDBS
+66,Share capital,12  Mar-16*,264.0,UDBS
+67,"""Free"" reserves",12  Mar-16*,21207.0,UDBS
+68,Net worth,12  Mar-16*,21471.0,UDBS
+69,Long term debt,12  Mar-16*,2580.0,UDBS
+70,Total assets,12  Mar-16*,43659.0,UDBS
+71,Interest coverage,12  Mar-16*,6.6,UDBS
+72,Debt to equity ratio,12  Mar-16*,0.1,UDBS
+73,Sales to assets ratio,12  Mar-16*,1.1,UDBS
+74,Return on assets,12  Mar-16*,8.7,UDBS
+75,Return on equity,12  Mar-16*,13.9,UDBS
+76,Return on capital,12  Mar-16*,22.3,UDBS
+77,Exports to sales,12  Mar-16*,0.0,UDBS
+78,Imports to sales,12  Mar-16*,2.4,UDBS
+79,Exports (fob),12  Mar-16*,0.0,UDBS
+80,Imports (cif),12  Mar-16*,1143.0,UDBS
+81,Fx inflow,12  Mar-16*,44.0,UDBS
+82,Fx outflow,12  Mar-16*,1882.0,UDBS
+83,Net fx,12  Mar-16*,-1838.0,UDBS
+84,From Operations,12  Mar-16*,5392.0,UDBS
+85,From Investments,12  Mar-16*,-2452.0,UDBS
+86,From Financial Activity,12  Mar-16*,-2968.0,UDBS
+87,Net Cashflow,12  Mar-16*,-29.0,UDBS
+88,Net Sales,12  Mar-17*,47292.0,UDBS
+89,Other income,12  Mar-17*,517.0,UDBS
+90,Total revenues,12  Mar-17*,47809.0,UDBS
+91,Gross profit,12  Mar-17*,6421.0,UDBS
+92,Depreciation,12  Mar-17*,2871.0,UDBS
+93,Interest,12  Mar-17*,587.0,UDBS
+94,Profit before tax,12  Mar-17*,3481.0,UDBS
+95,Minority Interest,12  Mar-17*,0.0,UDBS
+96,Prior Period Items,12  Mar-17*,0.0,UDBS
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,UDBS
+98,Tax,12  Mar-17*,1182.0,UDBS
+99,Profit after tax,12  Mar-17*,2299.0,UDBS
+100,Gross profit margin,12  Mar-17*,13.6,UDBS
+101,Effective tax rate,12  Mar-17*,34.0,UDBS
+102,Net profit margin,12  Mar-17*,4.9,UDBS
+103,Current assets,12  Mar-17*,23653.0,UDBS
+104,Current liabilities,12  Mar-17*,19030.0,UDBS
+105,Net working cap to sales,12  Mar-17*,9.8,UDBS
+106,Current ratio,12  Mar-17*,1.2,UDBS
+107,Inventory Days,12  Mar-17*,58.0,UDBS
+108,Debtors Days,12  Mar-17*,100.0,UDBS
+109,Net fixed assets,12  Mar-17*,18633.0,UDBS
+110,Share capital,12  Mar-17*,264.0,UDBS
+111,"""Free"" reserves",12  Mar-17*,23078.0,UDBS
+112,Net worth,12  Mar-17*,23342.0,UDBS
+113,Long term debt,12  Mar-17*,1840.0,UDBS
+114,Total assets,12  Mar-17*,44787.0,UDBS
+115,Interest coverage,12  Mar-17*,6.9,UDBS
+116,Debt to equity ratio,12  Mar-17*,0.1,UDBS
+117,Sales to assets ratio,12  Mar-17*,1.1,UDBS
+118,Return on assets,12  Mar-17*,6.4,UDBS
+119,Return on equity,12  Mar-17*,9.9,UDBS
+120,Return on capital,12  Mar-17*,16.2,UDBS
+121,Exports to sales,12  Mar-17*,0.0,UDBS
+122,Imports to sales,12  Mar-17*,0.0,UDBS
+123,Exports (fob),12  Mar-17*,0.0,UDBS
+124,Imports (cif),12  Mar-17*,0.0,UDBS
+125,Fx inflow,12  Mar-17*,48.0,UDBS
+126,Fx outflow,12  Mar-17*,1488.0,UDBS
+127,Net fx,12  Mar-17*,-1440.0,UDBS
+128,From Operations,12  Mar-17*,5441.0,UDBS
+129,From Investments,12  Mar-17*,-2336.0,UDBS
+130,From Financial Activity,12  Mar-17*,-3012.0,UDBS
+131,Net Cashflow,12  Mar-17*,93.0,UDBS
+132,Net Sales,12  Mar-18*,56287.0,UDBS
+133,Other income,12  Mar-18*,130.0,UDBS
+134,Total revenues,12  Mar-18*,56417.0,UDBS
+135,Gross profit,12  Mar-18*,9012.0,UDBS
+136,Depreciation,12  Mar-18*,2597.0,UDBS
+137,Interest,12  Mar-18*,477.0,UDBS
+138,Profit before tax,12  Mar-18*,6068.0,UDBS
+139,Minority Interest,12  Mar-18*,0.0,UDBS
+140,Prior Period Items,12  Mar-18*,0.0,UDBS
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,UDBS
+142,Tax,12  Mar-18*,2128.0,UDBS
+143,Profit after tax,12  Mar-18*,3940.0,UDBS
+144,Gross profit margin,12  Mar-18*,16.0,UDBS
+145,Effective tax rate,12  Mar-18*,35.1,UDBS
+146,Net profit margin,12  Mar-18*,7.0,UDBS
+147,Current assets,12  Mar-18*,26361.0,UDBS
+148,Current liabilities,12  Mar-18*,17973.0,UDBS
+149,Net working cap to sales,12  Mar-18*,14.9,UDBS
+150,Current ratio,12  Mar-18*,1.5,UDBS
+151,Inventory Days,12  Mar-18*,52.0,UDBS
+152,Debtors Days,12  Mar-18*,972.0,UDBS
+153,Net fixed assets,12  Mar-18*,17773.0,UDBS
+154,Share capital,12  Mar-18*,264.0,UDBS
+155,"""Free"" reserves",12  Mar-18*,26620.0,UDBS
+156,Net worth,12  Mar-18*,26885.0,UDBS
+157,Long term debt,12  Mar-18*,2050.0,UDBS
+158,Total assets,12  Mar-18*,47191.0,UDBS
+159,Interest coverage,12  Mar-18*,13.7,UDBS
+160,Debt to equity ratio,12  Mar-18*,0.1,UDBS
+161,Sales to assets ratio,12  Mar-18*,1.2,UDBS
+162,Return on assets,12  Mar-18*,9.4,UDBS
+163,Return on equity,12  Mar-18*,14.7,UDBS
+164,Return on capital,12  Mar-18*,22.6,UDBS
+165,Exports to sales,12  Mar-18*,0.0,UDBS
+166,Imports to sales,12  Mar-18*,0.0,UDBS
+167,Exports (fob),12  Mar-18*,0.0,UDBS
+168,Imports (cif),12  Mar-18*,0.0,UDBS
+169,Fx inflow,12  Mar-18*,2233.0,UDBS
+170,Fx outflow,12  Mar-18*,2694.0,UDBS
+171,Net fx,12  Mar-18*,-461.0,UDBS
+172,From Operations,12  Mar-18*,5620.0,UDBS
+173,From Investments,12  Mar-18*,-1959.0,UDBS
+174,From Financial Activity,12  Mar-18*,-3634.0,UDBS
+175,Net Cashflow,12  Mar-18*,27.0,UDBS
+176,Net Sales,12  Mar-19*,64724.0,UDBS
+177,Other income,12  Mar-19*,317.0,UDBS
+178,Total revenues,12  Mar-19*,65041.0,UDBS
+179,Gross profit,12  Mar-19*,11378.0,UDBS
+180,Depreciation,12  Mar-19*,2598.0,UDBS
+181,Interest,12  Mar-19*,312.0,UDBS
+182,Profit before tax,12  Mar-19*,8785.0,UDBS
+183,Minority Interest,12  Mar-19*,0.0,UDBS
+184,Prior Period Items,12  Mar-19*,0.0,UDBS
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,UDBS
+186,Tax,12  Mar-19*,3157.0,UDBS
+187,Profit after tax,12  Mar-19*,5628.0,UDBS
+188,Gross profit margin,12  Mar-19*,17.6,UDBS
+189,Effective tax rate,12  Mar-19*,35.9,UDBS
+190,Net profit margin,12  Mar-19*,8.7,UDBS
+191,Current assets,12  Mar-19*,29997.0,UDBS
+192,Current liabilities,12  Mar-19*,20986.0,UDBS
+193,Net working cap to sales,12  Mar-19*,13.9,UDBS
+194,Current ratio,12  Mar-19*,1.4,UDBS
+195,Inventory Days,12  Mar-19*,58.0,UDBS
+196,Debtors Days,12  Mar-19*,85.0,UDBS
+197,Net fixed assets,12  Mar-19*,19421.0,UDBS
+198,Share capital,12  Mar-19*,264.0,UDBS
+199,"""Free"" reserves",12  Mar-19*,31555.0,UDBS
+200,Net worth,12  Mar-19*,31819.0,UDBS
+201,Long term debt,12  Mar-19*,754.0,UDBS
+202,Total assets,12  Mar-19*,53786.0,UDBS
+203,Interest coverage,12  Mar-19*,29.2,UDBS
+204,Debt to equity ratio,12  Mar-19*,0.0,UDBS
+205,Sales to assets ratio,12  Mar-19*,1.2,UDBS
+206,Return on assets,12  Mar-19*,11.0,UDBS
+207,Return on equity,12  Mar-19*,17.7,UDBS
+208,Return on capital,12  Mar-19*,27.9,UDBS
+209,Exports to sales,12  Mar-19*,0.0,UDBS
+210,Imports to sales,12  Mar-19*,0.0,UDBS
+211,Exports (fob),12  Mar-19*,0.0,UDBS
+212,Imports (cif),12  Mar-19*,0.0,UDBS
+213,Fx inflow,12  Mar-19*,2467.0,UDBS
+214,Fx outflow,12  Mar-19*,2882.0,UDBS
+215,Net fx,12  Mar-19*,-415.0,UDBS
+216,From Operations,12  Mar-19*,6444.0,UDBS
+217,From Investments,12  Mar-19*,-4297.0,UDBS
+218,From Financial Activity,12  Mar-19*,-1900.0,UDBS
+219,Net Cashflow,12  Mar-19*,247.0,UDBS

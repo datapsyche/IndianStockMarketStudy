@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,48837.0,ZEE
+1,Other income,12  Mar-15*,2278.0,ZEE
+2,Total revenues,12  Mar-15*,51115.0,ZEE
+3,Gross profit,12  Mar-15*,12538.0,ZEE
+4,Depreciation,12  Mar-15*,673.0,ZEE
+5,Interest,12  Mar-15*,103.0,ZEE
+6,Profit before tax,12  Mar-15*,14040.0,ZEE
+7,Minority Interest,12  Mar-15*,57.0,ZEE
+8,Prior Period Items,12  Mar-15*,-37.0,ZEE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ZEE
+10,Tax,12  Mar-15*,4285.0,ZEE
+11,Profit after tax,12  Mar-15*,9775.0,ZEE
+12,Gross profit margin,12  Mar-15*,25.7,ZEE
+13,Effective tax rate,12  Mar-15*,30.5,ZEE
+14,Net profit margin,12  Mar-15*,20.0,ZEE
+15,Current assets,12  Mar-15*,49889.0,ZEE
+16,Current liabilities,12  Mar-15*,11108.0,ZEE
+17,Net working cap to sales,12  Mar-15*,79.4,ZEE
+18,Current ratio,12  Mar-15*,4.5,ZEE
+19,Inventory Days,12  Mar-15*,89.0,ZEE
+20,Debtors Days,12  Mar-15*,83.0,ZEE
+21,Net fixed assets,12  Mar-15*,12662.0,ZEE
+22,Share capital,12  Mar-15*,960.0,ZEE
+23,"""Free"" reserves",12  Mar-15*,40760.0,ZEE
+24,Net worth,12  Mar-15*,41720.0,ZEE
+25,Long term debt,12  Mar-15*,16569.0,ZEE
+26,Total assets,12  Mar-15*,70170.0,ZEE
+27,Interest coverage,12  Mar-15*,137.3,ZEE
+28,Debt to equity ratio,12  Mar-15*,0.4,ZEE
+29,Sales to assets ratio,12  Mar-15*,0.7,ZEE
+30,Return on assets,12  Mar-15*,14.1,ZEE
+31,Return on equity,12  Mar-15*,23.4,ZEE
+32,Return on capital,12  Mar-15*,24.3,ZEE
+33,Exports to sales,12  Mar-15*,3.5,ZEE
+34,Imports to sales,12  Mar-15*,0.4,ZEE
+35,Exports (fob),12  Mar-15*,1731.0,ZEE
+36,Imports (cif),12  Mar-15*,192.0,ZEE
+37,Fx inflow,12  Mar-15*,2839.0,ZEE
+38,Fx outflow,12  Mar-15*,2392.0,ZEE
+39,Net fx,12  Mar-15*,447.0,ZEE
+40,From Operations,12  Mar-15*,6809.0,ZEE
+41,From Investments,12  Mar-15*,-3661.0,ZEE
+42,From Financial Activity,12  Mar-15*,-3427.0,ZEE
+43,Net Cashflow,12  Mar-15*,-279.0,ZEE
+44,Net Sales,12  Mar-16*,58125.0,ZEE
+45,Other income,12  Mar-16*,1951.0,ZEE
+46,Total revenues,12  Mar-16*,60076.0,ZEE
+47,Gross profit,12  Mar-16*,14464.0,ZEE
+48,Depreciation,12  Mar-16*,777.0,ZEE
+49,Interest,12  Mar-16*,1598.0,ZEE
+50,Profit before tax,12  Mar-16*,14040.0,ZEE
+51,Minority Interest,12  Mar-16*,19.0,ZEE
+52,Prior Period Items,12  Mar-16*,0.0,ZEE
+53,Extraordinary Inc (Exp),12  Mar-16*,-331.0,ZEE
+54,Tax,12  Mar-16*,5491.0,ZEE
+55,Profit after tax,12  Mar-16*,8237.0,ZEE
+56,Gross profit margin,12  Mar-16*,24.9,ZEE
+57,Effective tax rate,12  Mar-16*,39.1,ZEE
+58,Net profit margin,12  Mar-16*,14.2,ZEE
+59,Current assets,12  Mar-16*,54233.0,ZEE
+60,Current liabilities,12  Mar-16*,13611.0,ZEE
+61,Net working cap to sales,12  Mar-16*,69.9,ZEE
+62,Current ratio,12  Mar-16*,4.0,ZEE
+63,Inventory Days,12  Mar-16*,83.0,ZEE
+64,Debtors Days,12  Mar-16*,85.0,ZEE
+65,Net fixed assets,12  Mar-16*,15409.0,ZEE
+66,Share capital,12  Mar-16*,960.0,ZEE
+67,"""Free"" reserves",12  Mar-16*,47079.0,ZEE
+68,Net worth,12  Mar-16*,48039.0,ZEE
+69,Long term debt,12  Mar-16*,17149.0,ZEE
+70,Total assets,12  Mar-16*,79659.0,ZEE
+71,Interest coverage,12  Mar-16*,9.8,ZEE
+72,Debt to equity ratio,12  Mar-16*,0.4,ZEE
+73,Sales to assets ratio,12  Mar-16*,0.7,ZEE
+74,Return on assets,12  Mar-16*,12.3,ZEE
+75,Return on equity,12  Mar-16*,17.1,ZEE
+76,Return on capital,12  Mar-16*,23.5,ZEE
+77,Exports to sales,12  Mar-16*,2.5,ZEE
+78,Imports to sales,12  Mar-16*,0.2,ZEE
+79,Exports (fob),12  Mar-16*,1473.0,ZEE
+80,Imports (cif),12  Mar-16*,89.0,ZEE
+81,Fx inflow,12  Mar-16*,2802.0,ZEE
+82,Fx outflow,12  Mar-16*,2109.0,ZEE
+83,Net fx,12  Mar-16*,693.0,ZEE
+84,From Operations,12  Mar-16*,7309.0,ZEE
+85,From Investments,12  Mar-16*,169.0,ZEE
+86,From Financial Activity,12  Mar-16*,-4046.0,ZEE
+87,Net Cashflow,12  Mar-16*,3432.0,ZEE
+88,Net Sales,12  Mar-17*,64342.0,ZEE
+89,Other income,12  Mar-17*,2240.0,ZEE
+90,Total revenues,12  Mar-17*,66582.0,ZEE
+91,Gross profit,12  Mar-17*,17064.0,ZEE
+92,Depreciation,12  Mar-17*,1152.0,ZEE
+93,Interest,12  Mar-17*,1372.0,ZEE
+94,Profit before tax,12  Mar-17*,16780.0,ZEE
+95,Minority Interest,12  Mar-17*,-5.0,ZEE
+96,Prior Period Items,12  Mar-17*,0.0,ZEE
+97,Extraordinary Inc (Exp),12  Mar-17*,12234.0,ZEE
+98,Tax,12  Mar-17*,6804.0,ZEE
+99,Profit after tax,12  Mar-17*,22205.0,ZEE
+100,Gross profit margin,12  Mar-17*,26.5,ZEE
+101,Effective tax rate,12  Mar-17*,40.5,ZEE
+102,Net profit margin,12  Mar-17*,34.5,ZEE
+103,Current assets,12  Mar-17*,81273.0,ZEE
+104,Current liabilities,12  Mar-17*,16685.0,ZEE
+105,Net working cap to sales,12  Mar-17*,100.4,ZEE
+106,Current ratio,12  Mar-17*,4.9,ZEE
+107,Inventory Days,12  Mar-17*,96.0,ZEE
+108,Debtors Days,12  Mar-17*,70.0,ZEE
+109,Net fixed assets,12  Mar-17*,10712.0,ZEE
+110,Share capital,12  Mar-17*,960.0,ZEE
+111,"""Free"" reserves",12  Mar-17*,65944.0,ZEE
+112,Net worth,12  Mar-17*,66904.0,ZEE
+113,Long term debt,12  Mar-17*,18208.0,ZEE
+114,Total assets,12  Mar-17*,102575.0,ZEE
+115,Interest coverage,12  Mar-17*,13.2,ZEE
+116,Debt to equity ratio,12  Mar-17*,0.3,ZEE
+117,Sales to assets ratio,12  Mar-17*,0.6,ZEE
+118,Return on assets,12  Mar-17*,23.0,ZEE
+119,Return on equity,12  Mar-17*,33.2,ZEE
+120,Return on capital,12  Mar-17*,35.7,ZEE
+121,Exports to sales,12  Mar-17*,0.0,ZEE
+122,Imports to sales,12  Mar-17*,0.0,ZEE
+123,Exports (fob),12  Mar-17*,0.0,ZEE
+124,Imports (cif),12  Mar-17*,0.0,ZEE
+125,Fx inflow,12  Mar-17*,3093.0,ZEE
+126,Fx outflow,12  Mar-17*,2968.0,ZEE
+127,Net fx,12  Mar-17*,125.0,ZEE
+128,From Operations,12  Mar-17*,7406.0,ZEE
+129,From Investments,12  Mar-17*,13969.0,ZEE
+130,From Financial Activity,12  Mar-17*,-4138.0,ZEE
+131,Net Cashflow,12  Mar-17*,16520.0,ZEE
+132,Net Sales,12  Mar-18*,66857.0,ZEE
+133,Other income,12  Mar-18*,4403.0,ZEE
+134,Total revenues,12  Mar-18*,71260.0,ZEE
+135,Gross profit,12  Mar-18*,20695.0,ZEE
+136,Depreciation,12  Mar-18*,1821.0,ZEE
+137,Interest,12  Mar-18*,1448.0,ZEE
+138,Profit before tax,12  Mar-18*,21829.0,ZEE
+139,Minority Interest,12  Mar-18*,12.0,ZEE
+140,Prior Period Items,12  Mar-18*,0.0,ZEE
+141,Extraordinary Inc (Exp),12  Mar-18*,1346.0,ZEE
+142,Tax,12  Mar-18*,8409.0,ZEE
+143,Profit after tax,12  Mar-18*,14778.0,ZEE
+144,Gross profit margin,12  Mar-18*,31.0,ZEE
+145,Effective tax rate,12  Mar-18*,38.5,ZEE
+146,Net profit margin,12  Mar-18*,22.1,ZEE
+147,Current assets,12  Mar-18*,85900.0,ZEE
+148,Current liabilities,12  Mar-18*,23194.0,ZEE
+149,Net working cap to sales,12  Mar-18*,93.8,ZEE
+150,Current ratio,12  Mar-18*,3.7,ZEE
+151,Inventory Days,12  Mar-18*,143.0,ZEE
+152,Debtors Days,12  Mar-18*,84.0,ZEE
+153,Net fixed assets,12  Mar-18*,15680.0,ZEE
+154,Share capital,12  Mar-18*,960.0,ZEE
+155,"""Free"" reserves",12  Mar-18*,74657.0,ZEE
+156,Net worth,12  Mar-18*,75617.0,ZEE
+157,Long term debt,12  Mar-18*,11443.0,ZEE
+158,Total assets,12  Mar-18*,111297.0,ZEE
+159,Interest coverage,12  Mar-18*,16.1,ZEE
+160,Debt to equity ratio,12  Mar-18*,0.2,ZEE
+161,Sales to assets ratio,12  Mar-18*,0.6,ZEE
+162,Return on assets,12  Mar-18*,14.6,ZEE
+163,Return on equity,12  Mar-18*,19.5,ZEE
+164,Return on capital,12  Mar-18*,28.3,ZEE
+165,Exports to sales,12  Mar-18*,0.0,ZEE
+166,Imports to sales,12  Mar-18*,0.0,ZEE
+167,Exports (fob),12  Mar-18*,0.0,ZEE
+168,Imports (cif),12  Mar-18*,0.0,ZEE
+169,Fx inflow,12  Mar-18*,9789.0,ZEE
+170,Fx outflow,12  Mar-18*,566.0,ZEE
+171,Net fx,12  Mar-18*,9223.0,ZEE
+172,From Operations,12  Mar-18*,5544.0,ZEE
+173,From Investments,12  Mar-18*,-10497.0,ZEE
+174,From Financial Activity,12  Mar-18*,-10902.0,ZEE
+175,Net Cashflow,12  Mar-18*,-15771.0,ZEE
+176,Net Sales,12  Mar-19*,79339.0,ZEE
+177,Other income,12  Mar-19*,2515.0,ZEE
+178,Total revenues,12  Mar-19*,81854.0,ZEE
+179,Gross profit,12  Mar-19*,25675.0,ZEE
+180,Depreciation,12  Mar-19*,2347.0,ZEE
+181,Interest,12  Mar-19*,1304.0,ZEE
+182,Profit before tax,12  Mar-19*,24539.0,ZEE
+183,Minority Interest,12  Mar-19*,24.0,ZEE
+184,Prior Period Items,12  Mar-19*,0.0,ZEE
+185,Extraordinary Inc (Exp),12  Mar-19*,-218.0,ZEE
+186,Tax,12  Mar-19*,8673.0,ZEE
+187,Profit after tax,12  Mar-19*,15672.0,ZEE
+188,Gross profit margin,12  Mar-19*,32.4,ZEE
+189,Effective tax rate,12  Mar-19*,35.3,ZEE
+190,Net profit margin,12  Mar-19*,19.8,ZEE
+191,Current assets,12  Mar-19*,103339.0,ZEE
+192,Current liabilities,12  Mar-19*,31169.0,ZEE
+193,Net working cap to sales,12  Mar-19*,91.0,ZEE
+194,Current ratio,12  Mar-19*,3.3,ZEE
+195,Inventory Days,12  Mar-19*,177.0,ZEE
+196,Debtors Days,12  Mar-19*,84.0,ZEE
+197,Net fixed assets,12  Mar-19*,15706.0,ZEE
+198,Share capital,12  Mar-19*,960.0,ZEE
+199,"""Free"" reserves",12  Mar-19*,88279.0,ZEE
+200,Net worth,12  Mar-19*,89239.0,ZEE
+201,Long term debt,12  Mar-19*,7409.0,ZEE
+202,Total assets,12  Mar-19*,129330.0,ZEE
+203,Interest coverage,12  Mar-19*,19.8,ZEE
+204,Debt to equity ratio,12  Mar-19*,0.1,ZEE
+205,Sales to assets ratio,12  Mar-19*,0.6,ZEE
+206,Return on assets,12  Mar-19*,13.1,ZEE
+207,Return on equity,12  Mar-19*,17.6,ZEE
+208,Return on capital,12  Mar-19*,26.5,ZEE
+209,Exports to sales,12  Mar-19*,0.0,ZEE
+210,Imports to sales,12  Mar-19*,0.0,ZEE
+211,Exports (fob),12  Mar-19*,0.0,ZEE
+212,Imports (cif),12  Mar-19*,0.0,ZEE
+213,Fx inflow,12  Mar-19*,3350.0,ZEE
+214,Fx outflow,12  Mar-19*,1346.0,ZEE
+215,Net fx,12  Mar-19*,2004.0,ZEE
+216,From Operations,12  Mar-19*,1352.0,ZEE
+217,From Investments,12  Mar-19*,8663.0,ZEE
+218,From Financial Activity,12  Mar-19*,-9664.0,ZEE
+219,Net Cashflow,12  Mar-19*,332.0,ZEE

@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15,96920.0,INDIN
+1,Other income,12  Mar-15,25480.0,INDIN
+2,Interest expense,12  Mar-15,62717.0,INDIN
+3,Net interest income,12  Mar-15,34203.0,INDIN
+4,Operating expense,12  Mar-15,28701.0,INDIN
+5,Provisions/contingencies,12  Mar-15,3891.0,INDIN
+6,Profit before tax,12  Mar-15,27092.0,INDIN
+7,Extraordinary Inc (Exp),12  Mar-15,0.0,INDIN
+8,Minority Interest,12  Mar-15,0.0,INDIN
+9,Prior Period Items,12  Mar-15,0.0,INDIN
+10,Tax,12  Mar-15,9155.0,INDIN
+11,Profit after tax,12  Mar-15,17937.0,INDIN
+12,Net profit margin,12  Mar-15,18.5,INDIN
+13,Advances,12  Mar-15,687882.0,INDIN
+14,Deposits,12  Mar-15,741344.0,INDIN
+15,Credit/Deposit ratio,12  Mar-15,92.8,INDIN
+16,Yield on advances,12  Mar-15,11.2,INDIN
+17,Cost of deposits,12  Mar-15,7.0,INDIN
+18,Net Interest Margin,12  Mar-15,3.3,INDIN
+19,Net fixed assets,12  Mar-15,11576.0,INDIN
+20,Share capital,12  Mar-15,5295.0,INDIN
+21,Free reserves,12  Mar-15,78773.0,INDIN
+22,Net worth,12  Mar-15,106445.0,INDIN
+23,Borrowings,12  Mar-15,206181.0,INDIN
+24,Investments,12  Mar-15,228783.0,INDIN
+25,Total assets,12  Mar-15,1117874.0,INDIN
+26,Debt/equity ratio,12  Mar-15,8.9,INDIN
+27,Return on assets,12  Mar-15,1.6,INDIN
+28,Return on equity,12  Mar-15,16.9,INDIN
+29,Capital adequacy ratio,12  Mar-15,12.1,INDIN
+30,Net NPAs,12  Mar-15,0.3,INDIN
+31,From Operations,12  Mar-15,-14211.0,INDIN
+32,From Investments,12  Mar-15,-2762.0,INDIN
+33,From Financial Activity,12  Mar-15,57069.0,INDIN
+34,Net Cashflow,12  Mar-15,40097.0,INDIN
+35,Interest income,12  Mar-16,118717.0,INDIN
+36,Other income,12  Mar-16,32970.0,INDIN
+37,Interest expense,12  Mar-16,73552.0,INDIN
+38,Net interest income,12  Mar-16,45166.0,INDIN
+39,Operating expense,12  Mar-16,36721.0,INDIN
+40,Provisions/contingencies,12  Mar-16,6722.0,INDIN
+41,Profit before tax,12  Mar-16,34693.0,INDIN
+42,Extraordinary Inc (Exp),12  Mar-16,0.0,INDIN
+43,Minority Interest,12  Mar-16,0.0,INDIN
+44,Prior Period Items,12  Mar-16,0.0,INDIN
+45,Tax,12  Mar-16,11828.0,INDIN
+46,Profit after tax,12  Mar-16,22865.0,INDIN
+47,Net profit margin,12  Mar-16,19.3,INDIN
+48,Advances,12  Mar-16,884193.0,INDIN
+49,Deposits,12  Mar-16,930004.0,INDIN
+50,Credit/Deposit ratio,12  Mar-16,95.1,INDIN
+51,Yield on advances,12  Mar-16,10.5,INDIN
+52,Cost of deposits,12  Mar-16,6.1,INDIN
+53,Net Interest Margin,12  Mar-16,3.4,INDIN
+54,Net fixed assets,12  Mar-16,12553.0,INDIN
+55,Share capital,12  Mar-16,5950.0,INDIN
+56,Free reserves,12  Mar-16,170872.0,INDIN
+57,Net worth,12  Mar-16,176822.0,INDIN
+58,Borrowings,12  Mar-16,249959.0,INDIN
+59,Investments,12  Mar-16,340543.0,INDIN
+60,Total assets,12  Mar-16,1428970.0,INDIN
+61,Debt/equity ratio,12  Mar-16,6.7,INDIN
+62,Return on assets,12  Mar-16,1.6,INDIN
+63,Return on equity,12  Mar-16,12.9,INDIN
+64,Capital adequacy ratio,12  Mar-16,15.5,INDIN
+65,Net NPAs,12  Mar-16,0.4,INDIN
+66,From Operations,12  Mar-16,-29269.0,INDIN
+67,From Investments,12  Mar-16,-2575.0,INDIN
+68,From Financial Activity,12  Mar-16,25172.0,INDIN
+69,Net Cashflow,12  Mar-16,-6673.0,INDIN
+70,Interest income,12  Mar-17,144057.0,INDIN
+71,Other income,12  Mar-17,41715.0,INDIN
+72,Interest expense,12  Mar-17,83431.0,INDIN
+73,Net interest income,12  Mar-17,60626.0,INDIN
+74,Operating expense,12  Mar-17,47831.0,INDIN
+75,Provisions/contingencies,12  Mar-17,10913.0,INDIN
+76,Profit before tax,12  Mar-17,43597.0,INDIN
+77,Extraordinary Inc (Exp),12  Mar-17,0.0,INDIN
+78,Minority Interest,12  Mar-17,0.0,INDIN
+79,Prior Period Items,12  Mar-17,0.0,INDIN
+80,Tax,12  Mar-17,14918.0,INDIN
+81,Profit after tax,12  Mar-17,28679.0,INDIN
+82,Net profit margin,12  Mar-17,19.9,INDIN
+83,Advances,12  Mar-17,1130805.0,INDIN
+84,Deposits,12  Mar-17,1265722.0,INDIN
+85,Credit/Deposit ratio,12  Mar-17,89.3,INDIN
+86,Yield on advances,12  Mar-17,10.2,INDIN
+87,Cost of deposits,12  Mar-17,5.5,INDIN
+88,Net Interest Margin,12  Mar-17,3.6,INDIN
+89,Net fixed assets,12  Mar-17,13352.0,INDIN
+90,Share capital,12  Mar-17,5982.0,INDIN
+91,Free reserves,12  Mar-17,200328.0,INDIN
+92,Net worth,12  Mar-17,206309.0,INDIN
+93,Borrowings,12  Mar-17,224537.0,INDIN
+94,Investments,12  Mar-17,367036.0,INDIN
+95,Total assets,12  Mar-17,1786499.0,INDIN
+96,Debt/equity ratio,12  Mar-17,7.2,INDIN
+97,Return on assets,12  Mar-17,1.6,INDIN
+98,Return on equity,12  Mar-17,13.9,INDIN
+99,Capital adequacy ratio,12  Mar-17,15.3,INDIN
+100,Net NPAs,12  Mar-17,0.4,INDIN
+101,From Operations,12  Mar-17,115693.0,INDIN
+102,From Investments,12  Mar-17,-2736.0,INDIN
+103,From Financial Activity,12  Mar-17,-27683.0,INDIN
+104,Net Cashflow,12  Mar-17,85164.0,INDIN
+105,Interest income,12  Mar-18,172808.0,INDIN
+106,Other income,12  Mar-18,47501.0,INDIN
+107,Interest expense,12  Mar-18,97833.0,INDIN
+108,Net interest income,12  Mar-18,74975.0,INDIN
+109,Operating expense,12  Mar-18,55914.0,INDIN
+110,Provisions/contingencies,12  Mar-18,11754.0,INDIN
+111,Profit before tax,12  Mar-18,54807.0,INDIN
+112,Extraordinary Inc (Exp),12  Mar-18,0.0,INDIN
+113,Minority Interest,12  Mar-18,0.0,INDIN
+114,Prior Period Items,12  Mar-18,0.0,INDIN
+115,Tax,12  Mar-18,18747.0,INDIN
+116,Profit after tax,12  Mar-18,36060.0,INDIN
+117,Net profit margin,12  Mar-18,20.9,INDIN
+118,Advances,12  Mar-18,1449537.0,INDIN
+119,Deposits,12  Mar-18,1516392.0,INDIN
+120,Credit/Deposit ratio,12  Mar-18,95.6,INDIN
+121,Yield on advances,12  Mar-18,9.5,INDIN
+122,Cost of deposits,12  Mar-18,5.3,INDIN
+123,Net Interest Margin,12  Mar-18,3.6,INDIN
+124,Net fixed assets,12  Mar-18,13388.0,INDIN
+125,Share capital,12  Mar-18,6002.0,INDIN
+126,Free reserves,12  Mar-18,232285.0,INDIN
+127,Net worth,12  Mar-18,238287.0,INDIN
+128,Borrowings,12  Mar-18,382891.0,INDIN
+129,Investments,12  Mar-18,500783.0,INDIN
+130,Total assets,12  Mar-18,2216278.0,INDIN
+131,Debt/equity ratio,12  Mar-18,8.0,INDIN
+132,Return on assets,12  Mar-18,1.6,INDIN
+133,Return on equity,12  Mar-18,15.1,INDIN
+134,Capital adequacy ratio,12  Mar-18,15.0,INDIN
+135,Net NPAs,12  Mar-18,0.5,INDIN
+136,From Operations,12  Mar-18,-207004.0,INDIN
+137,From Investments,12  Mar-18,-2196.0,INDIN
+138,From Financial Activity,12  Mar-18,155051.0,INDIN
+139,Net Cashflow,12  Mar-18,-54124.0,INDIN
+140,Interest income,12  Mar-19,222612.0,INDIN
+141,Other income,12  Mar-19,56467.0,INDIN
+142,Interest expense,12  Mar-19,134150.0,INDIN
+143,Net interest income,12  Mar-19,88462.0,INDIN
+144,Operating expense,12  Mar-19,64053.0,INDIN
+145,Provisions/contingencies,12  Mar-19,31077.0,INDIN
+146,Profit before tax,12  Mar-19,49806.0,INDIN
+147,Extraordinary Inc (Exp),12  Mar-19,0.0,INDIN
+148,Minority Interest,12  Mar-19,0.0,INDIN
+149,Prior Period Items,12  Mar-19,0.0,INDIN
+150,Tax,12  Mar-19,16795.0,INDIN
+151,Profit after tax,12  Mar-19,33011.0,INDIN
+152,Net profit margin,12  Mar-19,14.8,INDIN
+153,Advances,12  Mar-19,1863935.0,INDIN
+154,Deposits,12  Mar-19,1948679.0,INDIN
+155,Credit/Deposit ratio,12  Mar-19,95.7,INDIN
+156,Yield on advances,12  Mar-19,9.8,INDIN
+157,Cost of deposits,12  Mar-19,5.4,INDIN
+158,Net Interest Margin,12  Mar-19,3.4,INDIN
+159,Net fixed assets,12  Mar-19,17100.0,INDIN
+160,Share capital,12  Mar-19,6027.0,INDIN
+161,Free reserves,12  Mar-19,260734.0,INDIN
+162,Net worth,12  Mar-19,266761.0,INDIN
+163,Borrowings,12  Mar-19,473211.0,INDIN
+164,Investments,12  Mar-19,592680.0,INDIN
+165,Total assets,12  Mar-19,2778207.0,INDIN
+166,Debt/equity ratio,12  Mar-19,9.1,INDIN
+167,Return on assets,12  Mar-19,1.2,INDIN
+168,Return on equity,12  Mar-19,12.4,INDIN
+169,Capital adequacy ratio,12  Mar-19,14.2,INDIN
+170,Net NPAs,12  Mar-19,1.2,INDIN
+171,From Operations,12  Mar-19,-63890.0,INDIN
+172,From Investments,12  Mar-19,-6379.0,INDIN
+173,From Financial Activity,12  Mar-19,85897.0,INDIN
+174,Net Cashflow,12  Mar-19,15675.0,INDIN

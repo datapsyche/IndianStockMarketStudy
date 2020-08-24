@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,18  Sep-13*,31886.0,PSLH
+1,Other income,18  Sep-13*,196.0,PSLH
+2,Total revenues,18  Sep-13*,32082.0,PSLH
+3,Gross profit,18  Sep-13*,-116.0,PSLH
+4,Depreciation,18  Sep-13*,2533.0,PSLH
+5,Interest,18  Sep-13*,3958.0,PSLH
+6,Profit before tax,18  Sep-13*,-6410.0,PSLH
+7,Minority Interest,18  Sep-13*,0.0,PSLH
+8,Prior Period Items,18  Sep-13*,0.0,PSLH
+9,Extraordinary Inc (Exp),18  Sep-13*,0.0,PSLH
+10,Tax,18  Sep-13*,189.0,PSLH
+11,Profit after tax,18  Sep-13*,-6599.0,PSLH
+12,Gross profit margin,18  Sep-13*,-0.4,PSLH
+13,Effective tax rate,18  Sep-13*,-2.9,PSLH
+14,Net profit margin,18  Sep-13*,-20.7,PSLH
+15,Current assets,18  Sep-13*,27334.0,PSLH
+16,Current liabilities,18  Sep-13*,17304.0,PSLH
+17,Net working cap to sales,18  Sep-13*,31.5,PSLH
+18,Current ratio,18  Sep-13*,1.6,PSLH
+19,Inventory Days,18  Sep-13*,212.0,PSLH
+20,Debtors Days,18  Sep-13*,63.0,PSLH
+21,Net fixed assets,18  Sep-13*,29792.0,PSLH
+22,Share capital,18  Sep-13*,533.0,PSLH
+23,"""Free"" reserves",18  Sep-13*,-2609.0,PSLH
+24,Net worth,18  Sep-13*,4042.0,PSLH
+25,Long term debt,18  Sep-13*,41591.0,PSLH
+26,Total assets,18  Sep-13*,63229.0,PSLH
+27,Interest coverage,18  Sep-13*,-0.6,PSLH
+28,Debt to equity ratio,18  Sep-13*,10.3,PSLH
+29,Sales to assets ratio,18  Sep-13*,0.5,PSLH
+30,Return on assets,18  Sep-13*,-4.2,PSLH
+31,Return on equity,18  Sep-13*,-163.3,PSLH
+32,Return on capital,18  Sep-13*,-5.4,PSLH
+33,Exports to sales,18  Sep-13*,10.3,PSLH
+34,Imports to sales,18  Sep-13*,9.0,PSLH
+35,Exports (fob),18  Sep-13*,3295.0,PSLH
+36,Imports (cif),18  Sep-13*,2862.0,PSLH
+37,Fx inflow,18  Sep-13*,3295.0,PSLH
+38,Fx outflow,18  Sep-13*,2878.0,PSLH
+39,Net fx,18  Sep-13*,417.0,PSLH
+40,From Operations,18  Sep-13*,-9058.0,PSLH
+41,From Investments,18  Sep-13*,-6568.0,PSLH
+42,From Financial Activity,18  Sep-13*,13566.0,PSLH
+43,Net Cashflow,18  Sep-13*,-2059.0,PSLH
+44,Net Sales,6  Mar-14*,7717.0,PSLH
+45,Other income,6  Mar-14*,450.0,PSLH
+46,Total revenues,6  Mar-14*,8166.0,PSLH
+47,Gross profit,6  Mar-14*,-2248.0,PSLH
+48,Depreciation,6  Mar-14*,1347.0,PSLH
+49,Interest,6  Mar-14*,506.0,PSLH
+50,Profit before tax,6  Mar-14*,-3652.0,PSLH
+51,Minority Interest,6  Mar-14*,0.0,PSLH
+52,Prior Period Items,6  Mar-14*,0.0,PSLH
+53,Extraordinary Inc (Exp),6  Mar-14*,0.0,PSLH
+54,Tax,6  Mar-14*,-282.0,PSLH
+55,Profit after tax,6  Mar-14*,-3370.0,PSLH
+56,Gross profit margin,6  Mar-14*,-29.1,PSLH
+57,Effective tax rate,6  Mar-14*,7.7,PSLH
+58,Net profit margin,6  Mar-14*,-43.7,PSLH
+59,Current assets,6  Mar-14*,24004.0,PSLH
+60,Current liabilities,6  Mar-14*,10811.0,PSLH
+61,Net working cap to sales,6  Mar-14*,171.0,PSLH
+62,Current ratio,6  Mar-14*,2.2,PSLH
+63,Inventory Days,6  Mar-14*,750.0,PSLH
+64,Debtors Days,6  Mar-14*,213.0,PSLH
+65,Net fixed assets,6  Mar-14*,28594.0,PSLH
+66,Share capital,6  Mar-14*,533.0,PSLH
+67,"""Free"" reserves",6  Mar-14*,-5980.0,PSLH
+68,Net worth,6  Mar-14*,466.0,PSLH
+69,Long term debt,6  Mar-14*,42747.0,PSLH
+70,Total assets,6  Mar-14*,57036.0,PSLH
+71,Interest coverage,6  Mar-14*,-6.2,PSLH
+72,Debt to equity ratio,6  Mar-14*,91.7,PSLH
+73,Sales to assets ratio,6  Mar-14*,0.1,PSLH
+74,Return on assets,6  Mar-14*,-5.0,PSLH
+75,Return on equity,6  Mar-14*,-723.1,PSLH
+76,Return on capital,6  Mar-14*,-7.3,PSLH
+77,Exports to sales,6  Mar-14*,0.2,PSLH
+78,Imports to sales,6  Mar-14*,0.9,PSLH
+79,Exports (fob),6  Mar-14*,13.0,PSLH
+80,Imports (cif),6  Mar-14*,68.0,PSLH
+81,Fx inflow,6  Mar-14*,13.0,PSLH
+82,Fx outflow,6  Mar-14*,70.0,PSLH
+83,Net fx,6  Mar-14*,-57.0,PSLH
+84,From Operations,6  Mar-14*,1706.0,PSLH
+85,From Investments,6  Mar-14*,-197.0,PSLH
+86,From Financial Activity,6  Mar-14*,-1813.0,PSLH
+87,Net Cashflow,6  Mar-14*,-305.0,PSLH
+88,Net Sales,12  Mar-15*,2995.0,PSLH
+89,Other income,12  Mar-15*,68.0,PSLH
+90,Total revenues,12  Mar-15*,3063.0,PSLH
+91,Gross profit,12  Mar-15*,-2956.0,PSLH
+92,Depreciation,12  Mar-15*,2079.0,PSLH
+93,Interest,12  Mar-15*,823.0,PSLH
+94,Profit before tax,12  Mar-15*,-5790.0,PSLH
+95,Minority Interest,12  Mar-15*,0.0,PSLH
+96,Prior Period Items,12  Mar-15*,0.0,PSLH
+97,Extraordinary Inc (Exp),12  Mar-15*,0.0,PSLH
+98,Tax,12  Mar-15*,0.0,PSLH
+99,Profit after tax,12  Mar-15*,-5790.0,PSLH
+100,Gross profit margin,12  Mar-15*,-98.7,PSLH
+101,Effective tax rate,12  Mar-15*,0.0,PSLH
+102,Net profit margin,12  Mar-15*,-193.3,PSLH
+103,Current assets,12  Mar-15*,22260.0,PSLH
+104,Current liabilities,12  Mar-15*,12447.0,PSLH
+105,Net working cap to sales,12  Mar-15*,327.6,PSLH
+106,Current ratio,12  Mar-15*,1.8,PSLH
+107,Inventory Days,12  Mar-15*,1915.0,PSLH
+108,Debtors Days,12  Mar-15*,487.0,PSLH
+109,Net fixed assets,12  Mar-15*,27302.0,PSLH
+110,Share capital,12  Mar-15*,989.0,PSLH
+111,"""Free"" reserves",12  Mar-15*,-11832.0,PSLH
+112,Net worth,12  Mar-15*,-2383.0,PSLH
+113,Long term debt,12  Mar-15*,40066.0,PSLH
+114,Total assets,12  Mar-15*,53847.0,PSLH
+115,Interest coverage,12  Mar-15*,-6.0,PSLH
+116,Debt to equity ratio,12  Mar-15*,-16.8,PSLH
+117,Sales to assets ratio,12  Mar-15*,0.1,PSLH
+118,Return on assets,12  Mar-15*,-9.2,PSLH
+119,Return on equity,12  Mar-15*,243.0,PSLH
+120,Return on capital,12  Mar-15*,-13.2,PSLH
+121,Exports to sales,12  Mar-15*,0.0,PSLH
+122,Imports to sales,12  Mar-15*,6.2,PSLH
+123,Exports (fob),12  Mar-15*,0.0,PSLH
+124,Imports (cif),12  Mar-15*,185.0,PSLH
+125,Fx inflow,12  Mar-15*,0.0,PSLH
+126,Fx outflow,12  Mar-15*,188.0,PSLH
+127,Net fx,12  Mar-15*,-188.0,PSLH
+128,From Operations,12  Mar-15*,936.0,PSLH
+129,From Investments,12  Mar-15*,-889.0,PSLH
+130,From Financial Activity,12  Mar-15*,-884.0,PSLH
+131,Net Cashflow,12  Mar-15*,-836.0,PSLH
+132,Net Sales,12  Mar-16*,2757.0,PSLH
+133,Other income,12  Mar-16*,57.0,PSLH
+134,Total revenues,12  Mar-16*,2815.0,PSLH
+135,Gross profit,12  Mar-16*,-11876.0,PSLH
+136,Depreciation,12  Mar-16*,1866.0,PSLH
+137,Interest,12  Mar-16*,544.0,PSLH
+138,Profit before tax,12  Mar-16*,-14229.0,PSLH
+139,Minority Interest,12  Mar-16*,0.0,PSLH
+140,Prior Period Items,12  Mar-16*,0.0,PSLH
+141,Extraordinary Inc (Exp),12  Mar-16*,0.0,PSLH
+142,Tax,12  Mar-16*,3.0,PSLH
+143,Profit after tax,12  Mar-16*,-14231.0,PSLH
+144,Gross profit margin,12  Mar-16*,-430.7,PSLH
+145,Effective tax rate,12  Mar-16*,0.0,PSLH
+146,Net profit margin,12  Mar-16*,-516.2,PSLH
+147,Current assets,12  Mar-16*,6484.0,PSLH
+148,Current liabilities,12  Mar-16*,10379.0,PSLH
+149,Net working cap to sales,12  Mar-16*,-141.3,PSLH
+150,Current ratio,12  Mar-16*,0.6,PSLH
+151,Inventory Days,12  Mar-16*,241.0,PSLH
+152,Debtors Days,12  Mar-16*,424.0,PSLH
+153,Net fixed assets,12  Mar-16*,18910.0,PSLH
+154,Share capital,12  Mar-16*,989.0,PSLH
+155,"""Free"" reserves",12  Mar-16*,-17927.0,PSLH
+156,Net worth,12  Mar-16*,-16938.0,PSLH
+157,Long term debt,12  Mar-16*,34345.0,PSLH
+158,Total assets,12  Mar-16*,31209.0,PSLH
+159,Interest coverage,12  Mar-16*,-25.1,PSLH
+160,Debt to equity ratio,12  Mar-16*,-2.0,PSLH
+161,Sales to assets ratio,12  Mar-16*,0.1,PSLH
+162,Return on assets,12  Mar-16*,-43.9,PSLH
+163,Return on equity,12  Mar-16*,84.0,PSLH
+164,Return on capital,12  Mar-16*,-78.6,PSLH
+165,Exports to sales,12  Mar-16*,0.0,PSLH
+166,Imports to sales,12  Mar-16*,0.0,PSLH
+167,Exports (fob),12  Mar-16*,0.0,PSLH
+168,Imports (cif),12  Mar-16*,0.0,PSLH
+169,Fx inflow,12  Mar-16*,0.0,PSLH
+170,Fx outflow,12  Mar-16*,1.0,PSLH
+171,Net fx,12  Mar-16*,-1.0,PSLH
+172,From Operations,12  Mar-16*,1268.0,PSLH
+173,From Investments,12  Mar-16*,-59.0,PSLH
+174,From Financial Activity,12  Mar-16*,-1434.0,PSLH
+175,Net Cashflow,12  Mar-16*,-225.0,PSLH
+176,Net Sales,12  Mar-17*,1092.0,PSLH
+177,Other income,12  Mar-17*,58.0,PSLH
+178,Total revenues,12  Mar-17*,1150.0,PSLH
+179,Gross profit,12  Mar-17*,8071.0,PSLH
+180,Depreciation,12  Mar-17*,1717.0,PSLH
+181,Interest,12  Mar-17*,191.0,PSLH
+182,Profit before tax,12  Mar-17*,6220.0,PSLH
+183,Minority Interest,12  Mar-17*,0.0,PSLH
+184,Prior Period Items,12  Mar-17*,0.0,PSLH
+185,Extraordinary Inc (Exp),12  Mar-17*,1303.0,PSLH
+186,Tax,12  Mar-17*,-2.0,PSLH
+187,Profit after tax,12  Mar-17*,7526.0,PSLH
+188,Gross profit margin,12  Mar-17*,739.2,PSLH
+189,Effective tax rate,12  Mar-17*,0.0,PSLH
+190,Net profit margin,12  Mar-17*,689.3,PSLH
+191,Current assets,12  Mar-17*,2314.0,PSLH
+192,Current liabilities,12  Mar-17*,10016.0,PSLH
+193,Net working cap to sales,12  Mar-17*,-705.5,PSLH
+194,Current ratio,12  Mar-17*,0.2,PSLH
+195,Inventory Days,12  Mar-17*,180.0,PSLH
+196,Debtors Days,12  Mar-17*,199.0,PSLH
+197,Net fixed assets,12  Mar-17*,17243.0,PSLH
+198,Share capital,12  Mar-17*,1249.0,PSLH
+199,"""Free"" reserves",12  Mar-17*,-24528.0,PSLH
+200,Net worth,12  Mar-17*,-23279.0,PSLH
+201,Long term debt,12  Mar-17*,34227.0,PSLH
+202,Total assets,12  Mar-17*,24020.0,PSLH
+203,Interest coverage,12  Mar-17*,33.6,PSLH
+204,Debt to equity ratio,12  Mar-17*,-1.5,PSLH
+205,Sales to assets ratio,12  Mar-17*,0.0,PSLH
+206,Return on assets,12  Mar-17*,32.1,PSLH
+207,Return on equity,12  Mar-17*,-32.3,PSLH
+208,Return on capital,12  Mar-17*,70.5,PSLH
+209,Exports to sales,12  Mar-17*,0.0,PSLH
+210,Imports to sales,12  Mar-17*,0.0,PSLH
+211,Exports (fob),12  Mar-17*,0.0,PSLH
+212,Imports (cif),12  Mar-17*,0.0,PSLH
+213,Fx inflow,12  Mar-17*,0.0,PSLH
+214,Fx outflow,12  Mar-17*,0.0,PSLH
+215,Net fx,12  Mar-17*,0.0,PSLH
+216,From Operations,12  Mar-17*,-67.0,PSLH
+217,From Investments,12  Mar-17*,-23.0,PSLH
+218,From Financial Activity,12  Mar-17*,22.0,PSLH
+219,Net Cashflow,12  Mar-17*,-69.0,PSLH

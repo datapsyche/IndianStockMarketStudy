@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,13432.0,JKIL
+1,Other income,12  Mar-15,131.0,JKIL
+2,Total revenues,12  Mar-15,13562.0,JKIL
+3,Gross profit,12  Mar-15,2506.0,JKIL
+4,Depreciation,12  Mar-15,474.0,JKIL
+5,Interest,12  Mar-15,768.0,JKIL
+6,Profit before tax,12  Mar-15,1395.0,JKIL
+7,Minority Interest,12  Mar-15,0.0,JKIL
+8,Prior Period Items,12  Mar-15,0.0,JKIL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,JKIL
+10,Tax,12  Mar-15,451.0,JKIL
+11,Profit after tax,12  Mar-15,944.0,JKIL
+12,Gross profit margin,12  Mar-15,18.7,JKIL
+13,Effective tax rate,12  Mar-15,32.3,JKIL
+14,Net profit margin,12  Mar-15,7.0,JKIL
+15,Current assets,12  Mar-15,9502.0,JKIL
+16,Current liabilities,12  Mar-15,8353.0,JKIL
+17,Net working cap to sales,12  Mar-15,8.6,JKIL
+18,Current ratio,12  Mar-15,1.1,JKIL
+19,Inventory Days,12  Mar-15,148.0,JKIL
+20,Debtors Days,12  Mar-15,55.0,JKIL
+21,Net fixed assets,12  Mar-15,4933.0,JKIL
+22,Share capital,12  Mar-15,322.0,JKIL
+23,"""Free"" reserves",12  Mar-15,7569.0,JKIL
+24,Net worth,12  Mar-15,7891.0,JKIL
+25,Long term debt,12  Mar-15,533.0,JKIL
+26,Total assets,12  Mar-15,16922.0,JKIL
+27,Interest coverage,12  Mar-15,2.8,JKIL
+28,Debt to equity ratio,12  Mar-15,0.1,JKIL
+29,Sales to assets ratio,12  Mar-15,0.8,JKIL
+30,Return on assets,12  Mar-15,10.1,JKIL
+31,Return on equity,12  Mar-15,12.0,JKIL
+32,Return on capital,12  Mar-15,25.7,JKIL
+33,Exports to sales,12  Mar-15,0.0,JKIL
+34,Imports to sales,12  Mar-15,0.0,JKIL
+35,Exports (fob),12  Mar-15,0.0,JKIL
+36,Imports (cif),12  Mar-15,0.0,JKIL
+37,Fx inflow,12  Mar-15,0.0,JKIL
+38,Fx outflow,12  Mar-15,240.0,JKIL
+39,Net fx,12  Mar-15,-240.0,JKIL
+40,From Operations,12  Mar-15,586.0,JKIL
+41,From Investments,12  Mar-15,-535.0,JKIL
+42,From Financial Activity,12  Mar-15,30.0,JKIL
+43,Net Cashflow,12  Mar-15,81.0,JKIL
+44,Net Sales,12  Mar-16,14079.0,JKIL
+45,Other income,12  Mar-16,175.0,JKIL
+46,Total revenues,12  Mar-16,14253.0,JKIL
+47,Gross profit,12  Mar-16,2483.0,JKIL
+48,Depreciation,12  Mar-16,512.0,JKIL
+49,Interest,12  Mar-16,617.0,JKIL
+50,Profit before tax,12  Mar-16,1529.0,JKIL
+51,Minority Interest,12  Mar-16,0.0,JKIL
+52,Prior Period Items,12  Mar-16,0.0,JKIL
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,JKIL
+54,Tax,12  Mar-16,544.0,JKIL
+55,Profit after tax,12  Mar-16,985.0,JKIL
+56,Gross profit margin,12  Mar-16,17.6,JKIL
+57,Effective tax rate,12  Mar-16,35.6,JKIL
+58,Net profit margin,12  Mar-16,7.0,JKIL
+59,Current assets,12  Mar-16,11030.0,JKIL
+60,Current liabilities,12  Mar-16,6164.0,JKIL
+61,Net working cap to sales,12  Mar-16,34.6,JKIL
+62,Current ratio,12  Mar-16,1.8,JKIL
+63,Inventory Days,12  Mar-16,126.0,JKIL
+64,Debtors Days,12  Mar-16,77.0,JKIL
+65,Net fixed assets,12  Mar-16,4974.0,JKIL
+66,Share capital,12  Mar-16,378.0,JKIL
+67,"""Free"" reserves",12  Mar-16,12539.0,JKIL
+68,Net worth,12  Mar-16,12918.0,JKIL
+69,Long term debt,12  Mar-16,287.0,JKIL
+70,Total assets,12  Mar-16,19636.0,JKIL
+71,Interest coverage,12  Mar-16,3.5,JKIL
+72,Debt to equity ratio,12  Mar-16,0.0,JKIL
+73,Sales to assets ratio,12  Mar-16,0.7,JKIL
+74,Return on assets,12  Mar-16,8.2,JKIL
+75,Return on equity,12  Mar-16,7.6,JKIL
+76,Return on capital,12  Mar-16,16.2,JKIL
+77,Exports to sales,12  Mar-16,0.0,JKIL
+78,Imports to sales,12  Mar-16,0.1,JKIL
+79,Exports (fob),12  Mar-16,0.0,JKIL
+80,Imports (cif),12  Mar-16,13.0,JKIL
+81,Fx inflow,12  Mar-16,0.0,JKIL
+82,Fx outflow,12  Mar-16,87.0,JKIL
+83,Net fx,12  Mar-16,-87.0,JKIL
+84,From Operations,12  Mar-16,641.0,JKIL
+85,From Investments,12  Mar-16,-2264.0,JKIL
+86,From Financial Activity,12  Mar-16,1711.0,JKIL
+87,Net Cashflow,12  Mar-16,88.0,JKIL
+88,Net Sales,12  Mar-17,16043.0,JKIL
+89,Other income,12  Mar-17,311.0,JKIL
+90,Total revenues,12  Mar-17,16354.0,JKIL
+91,Gross profit,12  Mar-17,2506.0,JKIL
+92,Depreciation,12  Mar-17,556.0,JKIL
+93,Interest,12  Mar-17,662.0,JKIL
+94,Profit before tax,12  Mar-17,1599.0,JKIL
+95,Minority Interest,12  Mar-17,0.0,JKIL
+96,Prior Period Items,12  Mar-17,0.0,JKIL
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,JKIL
+98,Tax,12  Mar-17,525.0,JKIL
+99,Profit after tax,12  Mar-17,1073.0,JKIL
+100,Gross profit margin,12  Mar-17,15.6,JKIL
+101,Effective tax rate,12  Mar-17,32.9,JKIL
+102,Net profit margin,12  Mar-17,6.7,JKIL
+103,Current assets,12  Mar-17,19322.0,JKIL
+104,Current liabilities,12  Mar-17,13203.0,JKIL
+105,Net working cap to sales,12  Mar-17,38.1,JKIL
+106,Current ratio,12  Mar-17,1.5,JKIL
+107,Inventory Days,12  Mar-17,146.0,JKIL
+108,Debtors Days,12  Mar-17,111.0,JKIL
+109,Net fixed assets,12  Mar-17,5826.0,JKIL
+110,Share capital,12  Mar-17,378.0,JKIL
+111,"""Free"" reserves",12  Mar-17,13530.0,JKIL
+112,Net worth,12  Mar-17,13908.0,JKIL
+113,Long term debt,12  Mar-17,334.0,JKIL
+114,Total assets,12  Mar-17,27633.0,JKIL
+115,Interest coverage,12  Mar-17,3.4,JKIL
+116,Debt to equity ratio,12  Mar-17,0.0,JKIL
+117,Sales to assets ratio,12  Mar-17,0.6,JKIL
+118,Return on assets,12  Mar-17,6.3,JKIL
+119,Return on equity,12  Mar-17,7.7,JKIL
+120,Return on capital,12  Mar-17,15.9,JKIL
+121,Exports to sales,12  Mar-17,0.0,JKIL
+122,Imports to sales,12  Mar-17,2.1,JKIL
+123,Exports (fob),12  Mar-17,0.0,JKIL
+124,Imports (cif),12  Mar-17,339.0,JKIL
+125,Fx inflow,12  Mar-17,0.0,JKIL
+126,Fx outflow,12  Mar-17,407.0,JKIL
+127,Net fx,12  Mar-17,-407.0,JKIL
+128,From Operations,12  Mar-17,-222.0,JKIL
+129,From Investments,12  Mar-17,648.0,JKIL
+130,From Financial Activity,12  Mar-17,103.0,JKIL
+131,Net Cashflow,12  Mar-17,529.0,JKIL
+132,Net Sales,12  Mar-18,20507.0,JKIL
+133,Other income,12  Mar-18,285.0,JKIL
+134,Total revenues,12  Mar-18,20793.0,JKIL
+135,Gross profit,12  Mar-18,3212.0,JKIL
+136,Depreciation,12  Mar-18,727.0,JKIL
+137,Interest,12  Mar-18,703.0,JKIL
+138,Profit before tax,12  Mar-18,2067.0,JKIL
+139,Minority Interest,12  Mar-18,0.0,JKIL
+140,Prior Period Items,12  Mar-18,0.0,JKIL
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,JKIL
+142,Tax,12  Mar-18,701.0,JKIL
+143,Profit after tax,12  Mar-18,1365.0,JKIL
+144,Gross profit margin,12  Mar-18,15.7,JKIL
+145,Effective tax rate,12  Mar-18,33.9,JKIL
+146,Net profit margin,12  Mar-18,6.7,JKIL
+147,Current assets,12  Mar-18,22325.0,JKIL
+148,Current liabilities,12  Mar-18,17105.0,JKIL
+149,Net working cap to sales,12  Mar-18,25.5,JKIL
+150,Current ratio,12  Mar-18,1.3,JKIL
+151,Inventory Days,12  Mar-18,145.0,JKIL
+152,Debtors Days,12  Mar-18,94.0,JKIL
+153,Net fixed assets,12  Mar-18,8423.0,JKIL
+154,Share capital,12  Mar-18,378.0,JKIL
+155,"""Free"" reserves",12  Mar-18,14709.0,JKIL
+156,Net worth,12  Mar-18,15088.0,JKIL
+157,Long term debt,12  Mar-18,1134.0,JKIL
+158,Total assets,12  Mar-18,33616.0,JKIL
+159,Interest coverage,12  Mar-18,3.9,JKIL
+160,Debt to equity ratio,12  Mar-18,0.1,JKIL
+161,Sales to assets ratio,12  Mar-18,0.6,JKIL
+162,Return on assets,12  Mar-18,6.2,JKIL
+163,Return on equity,12  Mar-18,9.1,JKIL
+164,Return on capital,12  Mar-18,17.1,JKIL
+165,Exports to sales,12  Mar-18,0.0,JKIL
+166,Imports to sales,12  Mar-18,0.0,JKIL
+167,Exports (fob),12  Mar-18,0.0,JKIL
+168,Imports (cif),12  Mar-18,0.0,JKIL
+169,Fx inflow,12  Mar-18,1581.0,JKIL
+170,Fx outflow,12  Mar-18,2044.0,JKIL
+171,Net fx,12  Mar-18,-463.0,JKIL
+172,From Operations,12  Mar-18,2648.0,JKIL
+173,From Investments,12  Mar-18,-3229.0,JKIL
+174,From Financial Activity,12  Mar-18,550.0,JKIL
+175,Net Cashflow,12  Mar-18,-31.0,JKIL
+176,Net Sales,12  Mar-19,27871.0,JKIL
+177,Other income,12  Mar-19,281.0,JKIL
+178,Total revenues,12  Mar-19,28152.0,JKIL
+179,Gross profit,12  Mar-19,4363.0,JKIL
+180,Depreciation,12  Mar-19,1022.0,JKIL
+181,Interest,12  Mar-19,939.0,JKIL
+182,Profit before tax,12  Mar-19,2683.0,JKIL
+183,Minority Interest,12  Mar-19,0.0,JKIL
+184,Prior Period Items,12  Mar-19,0.0,JKIL
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,JKIL
+186,Tax,12  Mar-19,912.0,JKIL
+187,Profit after tax,12  Mar-19,1771.0,JKIL
+188,Gross profit margin,12  Mar-19,15.7,JKIL
+189,Effective tax rate,12  Mar-19,34.0,JKIL
+190,Net profit margin,12  Mar-19,6.4,JKIL
+191,Current assets,12  Mar-19,22715.0,JKIL
+192,Current liabilities,12  Mar-19,16522.0,JKIL
+193,Net working cap to sales,12  Mar-19,22.2,JKIL
+194,Current ratio,12  Mar-19,1.4,JKIL
+195,Inventory Days,12  Mar-19,120.0,JKIL
+196,Debtors Days,12  Mar-19,65.0,JKIL
+197,Net fixed assets,12  Mar-19,8586.0,JKIL
+198,Share capital,12  Mar-19,378.0,JKIL
+199,"""Free"" reserves",12  Mar-19,16297.0,JKIL
+200,Net worth,12  Mar-19,16675.0,JKIL
+201,Long term debt,12  Mar-19,1407.0,JKIL
+202,Total assets,12  Mar-19,34974.0,JKIL
+203,Interest coverage,12  Mar-19,3.9,JKIL
+204,Debt to equity ratio,12  Mar-19,0.1,JKIL
+205,Sales to assets ratio,12  Mar-19,0.8,JKIL
+206,Return on assets,12  Mar-19,7.7,JKIL
+207,Return on equity,12  Mar-19,10.6,JKIL
+208,Return on capital,12  Mar-19,20.0,JKIL
+209,Exports to sales,12  Mar-19,0.0,JKIL
+210,Imports to sales,12  Mar-19,0.0,JKIL
+211,Exports (fob),12  Mar-19,0.0,JKIL
+212,Imports (cif),12  Mar-19,0.0,JKIL
+213,Fx inflow,12  Mar-19,2208.0,JKIL
+214,Fx outflow,12  Mar-19,884.0,JKIL
+215,Net fx,12  Mar-19,1324.0,JKIL
+216,From Operations,12  Mar-19,826.0,JKIL
+217,From Investments,12  Mar-19,-1082.0,JKIL
+218,From Financial Activity,12  Mar-19,-15.0,JKIL
+219,Net Cashflow,12  Mar-19,-271.0,JKIL

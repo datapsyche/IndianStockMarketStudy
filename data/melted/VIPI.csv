@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10477.0,VIPI
+1,Other income,12  Mar-15*,25.0,VIPI
+2,Total revenues,12  Mar-15*,10502.0,VIPI
+3,Gross profit,12  Mar-15*,775.0,VIPI
+4,Depreciation,12  Mar-15*,175.0,VIPI
+5,Interest,12  Mar-15*,13.0,VIPI
+6,Profit before tax,12  Mar-15*,612.0,VIPI
+7,Minority Interest,12  Mar-15*,0.0,VIPI
+8,Prior Period Items,12  Mar-15*,0.0,VIPI
+9,Extraordinary Inc (Exp),12  Mar-15*,43.0,VIPI
+10,Tax,12  Mar-15*,189.0,VIPI
+11,Profit after tax,12  Mar-15*,466.0,VIPI
+12,Gross profit margin,12  Mar-15*,7.4,VIPI
+13,Effective tax rate,12  Mar-15*,30.9,VIPI
+14,Net profit margin,12  Mar-15*,4.4,VIPI
+15,Current assets,12  Mar-15*,3953.0,VIPI
+16,Current liabilities,12  Mar-15*,1891.0,VIPI
+17,Net working cap to sales,12  Mar-15*,19.7,VIPI
+18,Current ratio,12  Mar-15*,2.1,VIPI
+19,Inventory Days,12  Mar-15*,79.0,VIPI
+20,Debtors Days,12  Mar-15*,39.0,VIPI
+21,Net fixed assets,12  Mar-15*,724.0,VIPI
+22,Share capital,12  Mar-15*,283.0,VIPI
+23,"""Free"" reserves",12  Mar-15*,2756.0,VIPI
+24,Net worth,12  Mar-15*,3058.0,VIPI
+25,Long term debt,12  Mar-15*,0.0,VIPI
+26,Total assets,12  Mar-15*,4994.0,VIPI
+27,Interest coverage,12  Mar-15*,48.8,VIPI
+28,Debt to equity ratio,12  Mar-15*,0.0,VIPI
+29,Sales to assets ratio,12  Mar-15*,2.1,VIPI
+30,Return on assets,12  Mar-15*,9.6,VIPI
+31,Return on equity,12  Mar-15*,15.2,VIPI
+32,Return on capital,12  Mar-15*,21.8,VIPI
+33,Exports to sales,12  Mar-15*,8.9,VIPI
+34,Imports to sales,12  Mar-15*,1.0,VIPI
+35,Exports (fob),12  Mar-15*,932.0,VIPI
+36,Imports (cif),12  Mar-15*,107.0,VIPI
+37,Fx inflow,12  Mar-15*,947.0,VIPI
+38,Fx outflow,12  Mar-15*,3514.0,VIPI
+39,Net fx,12  Mar-15*,-2567.0,VIPI
+40,From Operations,12  Mar-15*,136.0,VIPI
+41,From Investments,12  Mar-15*,-29.0,VIPI
+42,From Financial Activity,12  Mar-15*,-139.0,VIPI
+43,Net Cashflow,12  Mar-15*,-32.0,VIPI
+44,Net Sales,12  Mar-16*,12165.0,VIPI
+45,Other income,12  Mar-16*,23.0,VIPI
+46,Total revenues,12  Mar-16*,12188.0,VIPI
+47,Gross profit,12  Mar-16*,1082.0,VIPI
+48,Depreciation,12  Mar-16*,142.0,VIPI
+49,Interest,12  Mar-16*,12.0,VIPI
+50,Profit before tax,12  Mar-16*,951.0,VIPI
+51,Minority Interest,12  Mar-16*,0.0,VIPI
+52,Prior Period Items,12  Mar-16*,0.0,VIPI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,VIPI
+54,Tax,12  Mar-16*,287.0,VIPI
+55,Profit after tax,12  Mar-16*,665.0,VIPI
+56,Gross profit margin,12  Mar-16*,8.9,VIPI
+57,Effective tax rate,12  Mar-16*,30.1,VIPI
+58,Net profit margin,12  Mar-16*,5.5,VIPI
+59,Current assets,12  Mar-16*,4887.0,VIPI
+60,Current liabilities,12  Mar-16*,2149.0,VIPI
+61,Net working cap to sales,12  Mar-16*,22.5,VIPI
+62,Current ratio,12  Mar-16*,2.3,VIPI
+63,Inventory Days,12  Mar-16*,86.0,VIPI
+64,Debtors Days,12  Mar-16*,45.0,VIPI
+65,Net fixed assets,12  Mar-16*,677.0,VIPI
+66,Share capital,12  Mar-16*,283.0,VIPI
+67,"""Free"" reserves",12  Mar-16*,3090.0,VIPI
+68,Net worth,12  Mar-16*,3393.0,VIPI
+69,Long term debt,12  Mar-16*,0.0,VIPI
+70,Total assets,12  Mar-16*,5837.0,VIPI
+71,Interest coverage,12  Mar-16*,81.6,VIPI
+72,Debt to equity ratio,12  Mar-16*,0.0,VIPI
+73,Sales to assets ratio,12  Mar-16*,2.1,VIPI
+74,Return on assets,12  Mar-16*,11.6,VIPI
+75,Return on equity,12  Mar-16*,19.6,VIPI
+76,Return on capital,12  Mar-16*,28.4,VIPI
+77,Exports to sales,12  Mar-16*,7.1,VIPI
+78,Imports to sales,12  Mar-16*,1.2,VIPI
+79,Exports (fob),12  Mar-16*,863.0,VIPI
+80,Imports (cif),12  Mar-16*,143.0,VIPI
+81,Fx inflow,12  Mar-16*,872.0,VIPI
+82,Fx outflow,12  Mar-16*,4287.0,VIPI
+83,Net fx,12  Mar-16*,-3415.0,VIPI
+84,From Operations,12  Mar-16*,534.0,VIPI
+85,From Investments,12  Mar-16*,-84.0,VIPI
+86,From Financial Activity,12  Mar-16*,-447.0,VIPI
+87,Net Cashflow,12  Mar-16*,3.0,VIPI
+88,Net Sales,12  Mar-17*,12515.0,VIPI
+89,Other income,12  Mar-17*,76.0,VIPI
+90,Total revenues,12  Mar-17*,12591.0,VIPI
+91,Gross profit,12  Mar-17*,1323.0,VIPI
+92,Depreciation,12  Mar-17*,136.0,VIPI
+93,Interest,12  Mar-17*,7.0,VIPI
+94,Profit before tax,12  Mar-17*,1256.0,VIPI
+95,Minority Interest,12  Mar-17*,0.0,VIPI
+96,Prior Period Items,12  Mar-17*,0.0,VIPI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,VIPI
+98,Tax,12  Mar-17*,404.0,VIPI
+99,Profit after tax,12  Mar-17*,852.0,VIPI
+100,Gross profit margin,12  Mar-17*,10.6,VIPI
+101,Effective tax rate,12  Mar-17*,32.2,VIPI
+102,Net profit margin,12  Mar-17*,6.8,VIPI
+103,Current assets,12  Mar-17*,5200.0,VIPI
+104,Current liabilities,12  Mar-17*,1918.0,VIPI
+105,Net working cap to sales,12  Mar-17*,26.2,VIPI
+106,Current ratio,12  Mar-17*,2.7,VIPI
+107,Inventory Days,12  Mar-17*,82.0,VIPI
+108,Debtors Days,12  Mar-17*,35.0,VIPI
+109,Net fixed assets,12  Mar-17*,616.0,VIPI
+110,Share capital,12  Mar-17*,283.0,VIPI
+111,"""Free"" reserves",12  Mar-17*,3796.0,VIPI
+112,Net worth,12  Mar-17*,4079.0,VIPI
+113,Long term debt,12  Mar-17*,0.0,VIPI
+114,Total assets,12  Mar-17*,6087.0,VIPI
+115,Interest coverage,12  Mar-17*,185.7,VIPI
+116,Debt to equity ratio,12  Mar-17*,0.0,VIPI
+117,Sales to assets ratio,12  Mar-17*,2.1,VIPI
+118,Return on assets,12  Mar-17*,14.1,VIPI
+119,Return on equity,12  Mar-17*,20.9,VIPI
+120,Return on capital,12  Mar-17*,31.0,VIPI
+121,Exports to sales,12  Mar-17*,0.0,VIPI
+122,Imports to sales,12  Mar-17*,0.0,VIPI
+123,Exports (fob),12  Mar-17*,0.0,VIPI
+124,Imports (cif),12  Mar-17*,0.0,VIPI
+125,Fx inflow,12  Mar-17*,707.0,VIPI
+126,Fx outflow,12  Mar-17*,3934.0,VIPI
+127,Net fx,12  Mar-17*,-3227.0,VIPI
+128,From Operations,12  Mar-17*,1265.0,VIPI
+129,From Investments,12  Mar-17*,-729.0,VIPI
+130,From Financial Activity,12  Mar-17*,-515.0,VIPI
+131,Net Cashflow,12  Mar-17*,22.0,VIPI
+132,Net Sales,12  Mar-18*,14096.0,VIPI
+133,Other income,12  Mar-18*,93.0,VIPI
+134,Total revenues,12  Mar-18*,14189.0,VIPI
+135,Gross profit,12  Mar-18*,1934.0,VIPI
+136,Depreciation,12  Mar-18*,129.0,VIPI
+137,Interest,12  Mar-18*,3.0,VIPI
+138,Profit before tax,12  Mar-18*,1895.0,VIPI
+139,Minority Interest,12  Mar-18*,0.0,VIPI
+140,Prior Period Items,12  Mar-18*,0.0,VIPI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,VIPI
+142,Tax,12  Mar-18*,628.0,VIPI
+143,Profit after tax,12  Mar-18*,1268.0,VIPI
+144,Gross profit margin,12  Mar-18*,13.7,VIPI
+145,Effective tax rate,12  Mar-18*,33.1,VIPI
+146,Net profit margin,12  Mar-18*,9.0,VIPI
+147,Current assets,12  Mar-18*,6593.0,VIPI
+148,Current liabilities,12  Mar-18*,2720.0,VIPI
+149,Net working cap to sales,12  Mar-18*,27.5,VIPI
+150,Current ratio,12  Mar-18*,2.4,VIPI
+151,Inventory Days,12  Mar-18*,82.0,VIPI
+152,Debtors Days,12  Mar-18*,46.0,VIPI
+153,Net fixed assets,12  Mar-18*,802.0,VIPI
+154,Share capital,12  Mar-18*,283.0,VIPI
+155,"""Free"" reserves",12  Mar-18*,4608.0,VIPI
+156,Net worth,12  Mar-18*,4891.0,VIPI
+157,Long term debt,12  Mar-18*,0.0,VIPI
+158,Total assets,12  Mar-18*,7727.0,VIPI
+159,Interest coverage,12  Mar-18*,632.8,VIPI
+160,Debt to equity ratio,12  Mar-18*,0.0,VIPI
+161,Sales to assets ratio,12  Mar-18*,1.8,VIPI
+162,Return on assets,12  Mar-18*,16.4,VIPI
+163,Return on equity,12  Mar-18*,25.9,VIPI
+164,Return on capital,12  Mar-18*,38.8,VIPI
+165,Exports to sales,12  Mar-18*,0.0,VIPI
+166,Imports to sales,12  Mar-18*,0.0,VIPI
+167,Exports (fob),12  Mar-18*,0.0,VIPI
+168,Imports (cif),12  Mar-18*,0.0,VIPI
+169,Fx inflow,12  Mar-18*,621.0,VIPI
+170,Fx outflow,12  Mar-18*,4597.0,VIPI
+171,Net fx,12  Mar-18*,-3976.0,VIPI
+172,From Operations,12  Mar-18*,852.0,VIPI
+173,From Investments,12  Mar-18*,-287.0,VIPI
+174,From Financial Activity,12  Mar-18*,-440.0,VIPI
+175,Net Cashflow,12  Mar-18*,126.0,VIPI
+176,Net Sales,12  Mar-19*,17847.0,VIPI
+177,Other income,12  Mar-19*,83.0,VIPI
+178,Total revenues,12  Mar-19*,17930.0,VIPI
+179,Gross profit,12  Mar-19*,2247.0,VIPI
+180,Depreciation,12  Mar-19*,166.0,VIPI
+181,Interest,12  Mar-19*,15.0,VIPI
+182,Profit before tax,12  Mar-19*,2149.0,VIPI
+183,Minority Interest,12  Mar-19*,0.0,VIPI
+184,Prior Period Items,12  Mar-19*,0.0,VIPI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,VIPI
+186,Tax,12  Mar-19*,697.0,VIPI
+187,Profit after tax,12  Mar-19*,1453.0,VIPI
+188,Gross profit margin,12  Mar-19*,12.6,VIPI
+189,Effective tax rate,12  Mar-19*,32.4,VIPI
+190,Net profit margin,12  Mar-19*,8.1,VIPI
+191,Current assets,12  Mar-19*,9073.0,VIPI
+192,Current liabilities,12  Mar-19*,4753.0,VIPI
+193,Net working cap to sales,12  Mar-19*,24.2,VIPI
+194,Current ratio,12  Mar-19*,1.9,VIPI
+195,Inventory Days,12  Mar-19*,108.0,VIPI
+196,Debtors Days,12  Mar-19*,61.0,VIPI
+197,Net fixed assets,12  Mar-19*,1225.0,VIPI
+198,Share capital,12  Mar-19*,283.0,VIPI
+199,"""Free"" reserves",12  Mar-19*,5531.0,VIPI
+200,Net worth,12  Mar-19*,5814.0,VIPI
+201,Long term debt,12  Mar-19*,0.0,VIPI
+202,Total assets,12  Mar-19*,10711.0,VIPI
+203,Interest coverage,12  Mar-19*,145.3,VIPI
+204,Debt to equity ratio,12  Mar-19*,0.0,VIPI
+205,Sales to assets ratio,12  Mar-19*,1.7,VIPI
+206,Return on assets,12  Mar-19*,13.7,VIPI
+207,Return on equity,12  Mar-19*,25.0,VIPI
+208,Return on capital,12  Mar-19*,37.2,VIPI
+209,Exports to sales,12  Mar-19*,0.0,VIPI
+210,Imports to sales,12  Mar-19*,0.0,VIPI
+211,Exports (fob),12  Mar-19*,0.0,VIPI
+212,Imports (cif),12  Mar-19*,0.0,VIPI
+213,Fx inflow,12  Mar-19*,680.0,VIPI
+214,Fx outflow,12  Mar-19*,7529.0,VIPI
+215,Net fx,12  Mar-19*,-6849.0,VIPI
+216,From Operations,12  Mar-19*,-559.0,VIPI
+217,From Investments,12  Mar-19*,159.0,VIPI
+218,From Financial Activity,12  Mar-19*,306.0,VIPI
+219,Net Cashflow,12  Mar-19*,-94.0,VIPI

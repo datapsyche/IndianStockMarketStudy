@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,144940.0,STCI
+1,Other income,12  Mar-15,2425.0,STCI
+2,Total revenues,12  Mar-15,147365.0,STCI
+3,Gross profit,12  Mar-15,-323.0,STCI
+4,Depreciation,12  Mar-15,206.0,STCI
+5,Interest,12  Mar-15,5669.0,STCI
+6,Profit before tax,12  Mar-15,-3773.0,STCI
+7,Minority Interest,12  Mar-15,0.0,STCI
+8,Prior Period Items,12  Mar-15,11.0,STCI
+9,Extraordinary Inc (Exp),12  Mar-15,-50.0,STCI
+10,Tax,12  Mar-15,52.0,STCI
+11,Profit after tax,12  Mar-15,-3864.0,STCI
+12,Gross profit margin,12  Mar-15,-0.2,STCI
+13,Effective tax rate,12  Mar-15,-1.4,STCI
+14,Net profit margin,12  Mar-15,-2.7,STCI
+15,Current assets,12  Mar-15,25022.0,STCI
+16,Current liabilities,12  Mar-15,50534.0,STCI
+17,Net working cap to sales,12  Mar-15,-17.6,STCI
+18,Current ratio,12  Mar-15,0.5,STCI
+19,Inventory Days,12  Mar-15,0.0,STCI
+20,Debtors Days,12  Mar-15,61.0,STCI
+21,Net fixed assets,12  Mar-15,9599.0,STCI
+22,Share capital,12  Mar-15,600.0,STCI
+23,"""Free"" reserves",12  Mar-15,-18827.0,STCI
+24,Net worth,12  Mar-15,-18227.0,STCI
+25,Long term debt,12  Mar-15,1763.0,STCI
+26,Total assets,12  Mar-15,46755.0,STCI
+27,Interest coverage,12  Mar-15,0.3,STCI
+28,Debt to equity ratio,12  Mar-15,-0.1,STCI
+29,Sales to assets ratio,12  Mar-15,3.1,STCI
+30,Return on assets,12  Mar-15,3.9,STCI
+31,Return on equity,12  Mar-15,21.2,STCI
+32,Return on capital,12  Mar-15,-11.3,STCI
+33,Exports to sales,12  Mar-15,0.9,STCI
+34,Imports to sales,12  Mar-15,77.2,STCI
+35,Exports (fob),12  Mar-15,1264.0,STCI
+36,Imports (cif),12  Mar-15,111860.0,STCI
+37,Fx inflow,12  Mar-15,1264.0,STCI
+38,Fx outflow,12  Mar-15,111912.0,STCI
+39,Net fx,12  Mar-15,-110648.0,STCI
+40,From Operations,12  Mar-15,238.0,STCI
+41,From Investments,12  Mar-15,259.0,STCI
+42,From Financial Activity,12  Mar-15,-926.0,STCI
+43,Net Cashflow,12  Mar-15,-429.0,STCI
+44,Net Sales,12  Mar-16,106011.0,STCI
+45,Other income,12  Mar-16,2569.0,STCI
+46,Total revenues,12  Mar-16,108579.0,STCI
+47,Gross profit,12  Mar-16,-1035.0,STCI
+48,Depreciation,12  Mar-16,163.0,STCI
+49,Interest,12  Mar-16,6318.0,STCI
+50,Profit before tax,12  Mar-16,-4947.0,STCI
+51,Minority Interest,12  Mar-16,0.0,STCI
+52,Prior Period Items,12  Mar-16,137.0,STCI
+53,Extraordinary Inc (Exp),12  Mar-16,235.0,STCI
+54,Tax,12  Mar-16,48.0,STCI
+55,Profit after tax,12  Mar-16,-4622.0,STCI
+56,Gross profit margin,12  Mar-16,-1.0,STCI
+57,Effective tax rate,12  Mar-16,-1.0,STCI
+58,Net profit margin,12  Mar-16,-4.4,STCI
+59,Current assets,12  Mar-16,27092.0,STCI
+60,Current liabilities,12  Mar-16,59757.0,STCI
+61,Net working cap to sales,12  Mar-16,-30.8,STCI
+62,Current ratio,12  Mar-16,0.5,STCI
+63,Inventory Days,12  Mar-16,0.0,STCI
+64,Debtors Days,12  Mar-16,91.0,STCI
+65,Net fixed assets,12  Mar-16,9504.0,STCI
+66,Share capital,12  Mar-16,600.0,STCI
+67,"""Free"" reserves",12  Mar-16,-23449.0,STCI
+68,Net worth,12  Mar-16,-22849.0,STCI
+69,Long term debt,12  Mar-16,0.0,STCI
+70,Total assets,12  Mar-16,48579.0,STCI
+71,Interest coverage,12  Mar-16,0.2,STCI
+72,Debt to equity ratio,12  Mar-16,0.0,STCI
+73,Sales to assets ratio,12  Mar-16,2.2,STCI
+74,Return on assets,12  Mar-16,3.5,STCI
+75,Return on equity,12  Mar-16,20.2,STCI
+76,Return on capital,12  Mar-16,-7.6,STCI
+77,Exports to sales,12  Mar-16,0.5,STCI
+78,Imports to sales,12  Mar-16,77.9,STCI
+79,Exports (fob),12  Mar-16,502.0,STCI
+80,Imports (cif),12  Mar-16,82545.0,STCI
+81,Fx inflow,12  Mar-16,511.0,STCI
+82,Fx outflow,12  Mar-16,82545.0,STCI
+83,Net fx,12  Mar-16,-82033.0,STCI
+84,From Operations,12  Mar-16,-1531.0,STCI
+85,From Investments,12  Mar-16,293.0,STCI
+86,From Financial Activity,12  Mar-16,1309.0,STCI
+87,Net Cashflow,12  Mar-16,71.0,STCI
+88,Net Sales,12  Mar-17,78145.0,STCI
+89,Other income,12  Mar-17,2733.0,STCI
+90,Total revenues,12  Mar-17,80878.0,STCI
+91,Gross profit,12  Mar-17,-1053.0,STCI
+92,Depreciation,12  Mar-17,167.0,STCI
+93,Interest,12  Mar-17,7189.0,STCI
+94,Profit before tax,12  Mar-17,-5676.0,STCI
+95,Minority Interest,12  Mar-17,0.0,STCI
+96,Prior Period Items,12  Mar-17,0.0,STCI
+97,Extraordinary Inc (Exp),12  Mar-17,-1441.0,STCI
+98,Tax,12  Mar-17,169.0,STCI
+99,Profit after tax,12  Mar-17,-7285.0,STCI
+100,Gross profit margin,12  Mar-17,-1.3,STCI
+101,Effective tax rate,12  Mar-17,-3.0,STCI
+102,Net profit margin,12  Mar-17,-9.3,STCI
+103,Current assets,12  Mar-17,22509.0,STCI
+104,Current liabilities,12  Mar-17,60049.0,STCI
+105,Net working cap to sales,12  Mar-17,-48.0,STCI
+106,Current ratio,12  Mar-17,0.4,STCI
+107,Inventory Days,12  Mar-17,2.0,STCI
+108,Debtors Days,12  Mar-17,99.0,STCI
+109,Net fixed assets,12  Mar-17,9350.0,STCI
+110,Share capital,12  Mar-17,600.0,STCI
+111,"""Free"" reserves",12  Mar-17,-30757.0,STCI
+112,Net worth,12  Mar-17,-30157.0,STCI
+113,Long term debt,12  Mar-17,1463.0,STCI
+114,Total assets,12  Mar-17,42896.0,STCI
+115,Interest coverage,12  Mar-17,0.2,STCI
+116,Debt to equity ratio,12  Mar-17,0.0,STCI
+117,Sales to assets ratio,12  Mar-17,1.8,STCI
+118,Return on assets,12  Mar-17,-0.2,STCI
+119,Return on equity,12  Mar-17,24.2,STCI
+120,Return on capital,12  Mar-17,-0.3,STCI
+121,Exports to sales,12  Mar-17,0.0,STCI
+122,Imports to sales,12  Mar-17,0.0,STCI
+123,Exports (fob),12  Mar-17,0.0,STCI
+124,Imports (cif),12  Mar-17,0.0,STCI
+125,Fx inflow,12  Mar-17,0.0,STCI
+126,Fx outflow,12  Mar-17,0.0,STCI
+127,Net fx,12  Mar-17,0.0,STCI
+128,From Operations,12  Mar-17,713.0,STCI
+129,From Investments,12  Mar-17,330.0,STCI
+130,From Financial Activity,12  Mar-17,-1060.0,STCI
+131,Net Cashflow,12  Mar-17,-17.0,STCI
+132,Net Sales,12  Mar-18,108657.0,STCI
+133,Other income,12  Mar-18,3035.0,STCI
+134,Total revenues,12  Mar-18,111692.0,STCI
+135,Gross profit,12  Mar-18,-760.0,STCI
+136,Depreciation,12  Mar-18,167.0,STCI
+137,Interest,12  Mar-18,8340.0,STCI
+138,Profit before tax,12  Mar-18,-6233.0,STCI
+139,Minority Interest,12  Mar-18,0.0,STCI
+140,Prior Period Items,12  Mar-18,0.0,STCI
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,STCI
+142,Tax,12  Mar-18,-53.0,STCI
+143,Profit after tax,12  Mar-18,-6180.0,STCI
+144,Gross profit margin,12  Mar-18,-0.7,STCI
+145,Effective tax rate,12  Mar-18,0.8,STCI
+146,Net profit margin,12  Mar-18,-5.7,STCI
+147,Current assets,12  Mar-18,24128.0,STCI
+148,Current liabilities,12  Mar-18,69245.0,STCI
+149,Net working cap to sales,12  Mar-18,-41.5,STCI
+150,Current ratio,12  Mar-18,0.3,STCI
+151,Inventory Days,12  Mar-18,0.0,STCI
+152,Debtors Days,12  Mar-18,75.0,STCI
+153,Net fixed assets,12  Mar-18,9197.0,STCI
+154,Share capital,12  Mar-18,600.0,STCI
+155,"""Free"" reserves",12  Mar-18,-36919.0,STCI
+156,Net worth,12  Mar-18,-36319.0,STCI
+157,Long term debt,12  Mar-18,0.0,STCI
+158,Total assets,12  Mar-18,44428.0,STCI
+159,Interest coverage,12  Mar-18,0.3,STCI
+160,Debt to equity ratio,12  Mar-18,0.0,STCI
+161,Sales to assets ratio,12  Mar-18,2.4,STCI
+162,Return on assets,12  Mar-18,4.9,STCI
+163,Return on equity,12  Mar-18,17.0,STCI
+164,Return on capital,12  Mar-18,-5.8,STCI
+165,Exports to sales,12  Mar-18,0.0,STCI
+166,Imports to sales,12  Mar-18,0.0,STCI
+167,Exports (fob),12  Mar-18,0.0,STCI
+168,Imports (cif),12  Mar-18,0.0,STCI
+169,Fx inflow,12  Mar-18,0.0,STCI
+170,Fx outflow,12  Mar-18,0.0,STCI
+171,Net fx,12  Mar-18,0.0,STCI
+172,From Operations,12  Mar-18,2071.0,STCI
+173,From Investments,12  Mar-18,357.0,STCI
+174,From Financial Activity,12  Mar-18,-2291.0,STCI
+175,Net Cashflow,12  Mar-18,138.0,STCI
+176,Net Sales,12  Mar-19,89034.0,STCI
+177,Other income,12  Mar-19,1099.0,STCI
+178,Total revenues,12  Mar-19,90133.0,STCI
+179,Gross profit,12  Mar-19,-8379.0,STCI
+180,Depreciation,12  Mar-19,155.0,STCI
+181,Interest,12  Mar-19,1556.0,STCI
+182,Profit before tax,12  Mar-19,-8991.0,STCI
+183,Minority Interest,12  Mar-19,0.0,STCI
+184,Prior Period Items,12  Mar-19,0.0,STCI
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,STCI
+186,Tax,12  Mar-19,-160.0,STCI
+187,Profit after tax,12  Mar-19,-8830.0,STCI
+188,Gross profit margin,12  Mar-19,-9.4,STCI
+189,Effective tax rate,12  Mar-19,1.8,STCI
+190,Net profit margin,12  Mar-19,-9.9,STCI
+191,Current assets,12  Mar-19,8156.0,STCI
+192,Current liabilities,12  Mar-19,61751.0,STCI
+193,Net working cap to sales,12  Mar-19,-60.2,STCI
+194,Current ratio,12  Mar-19,0.1,STCI
+195,Inventory Days,12  Mar-19,0.0,STCI
+196,Debtors Days,12  Mar-19,5.0,STCI
+197,Net fixed assets,12  Mar-19,9042.0,STCI
+198,Share capital,12  Mar-19,600.0,STCI
+199,"""Free"" reserves",12  Mar-19,-45733.0,STCI
+200,Net worth,12  Mar-19,-45133.0,STCI
+201,Long term debt,12  Mar-19,0.0,STCI
+202,Total assets,12  Mar-19,28077.0,STCI
+203,Interest coverage,12  Mar-19,-4.8,STCI
+204,Debt to equity ratio,12  Mar-19,0.0,STCI
+205,Sales to assets ratio,12  Mar-19,3.2,STCI
+206,Return on assets,12  Mar-19,-25.9,STCI
+207,Return on equity,12  Mar-19,19.6,STCI
+208,Return on capital,12  Mar-19,16.5,STCI
+209,Exports to sales,12  Mar-19,0.0,STCI
+210,Imports to sales,12  Mar-19,0.0,STCI
+211,Exports (fob),12  Mar-19,0.0,STCI
+212,Imports (cif),12  Mar-19,0.0,STCI
+213,Fx inflow,12  Mar-19,0.0,STCI
+214,Fx outflow,12  Mar-19,0.0,STCI
+215,Net fx,12  Mar-19,0.0,STCI
+216,From Operations,12  Mar-19,13708.0,STCI
+217,From Investments,12  Mar-19,266.0,STCI
+218,From Financial Activity,12  Mar-19,-9008.0,STCI
+219,Net Cashflow,12  Mar-19,4966.0,STCI

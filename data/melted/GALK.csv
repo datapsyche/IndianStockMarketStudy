@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,19481.0,GALK
+1,Other income,12  Mar-15,490.0,GALK
+2,Total revenues,12  Mar-15,19971.0,GALK
+3,Gross profit,12  Mar-15,2739.0,GALK
+4,Depreciation,12  Mar-15,981.0,GALK
+5,Interest,12  Mar-15,93.0,GALK
+6,Profit before tax,12  Mar-15,2155.0,GALK
+7,Minority Interest,12  Mar-15,0.0,GALK
+8,Prior Period Items,12  Mar-15,0.0,GALK
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,GALK
+10,Tax,12  Mar-15,-124.0,GALK
+11,Profit after tax,12  Mar-15,2279.0,GALK
+12,Gross profit margin,12  Mar-15,14.1,GALK
+13,Effective tax rate,12  Mar-15,-5.7,GALK
+14,Net profit margin,12  Mar-15,11.7,GALK
+15,Current assets,12  Mar-15,8210.0,GALK
+16,Current liabilities,12  Mar-15,3593.0,GALK
+17,Net working cap to sales,12  Mar-15,23.7,GALK
+18,Current ratio,12  Mar-15,2.3,GALK
+19,Inventory Days,12  Mar-15,34.0,GALK
+20,Debtors Days,12  Mar-15,56.0,GALK
+21,Net fixed assets,12  Mar-15,17278.0,GALK
+22,Share capital,12  Mar-15,734.0,GALK
+23,"""Free"" reserves",12  Mar-15,26753.0,GALK
+24,Net worth,12  Mar-15,27488.0,GALK
+25,Long term debt,12  Mar-15,892.0,GALK
+26,Total assets,12  Mar-15,35953.0,GALK
+27,Interest coverage,12  Mar-15,24.1,GALK
+28,Debt to equity ratio,12  Mar-15,0.0,GALK
+29,Sales to assets ratio,12  Mar-15,0.5,GALK
+30,Return on assets,12  Mar-15,6.6,GALK
+31,Return on equity,12  Mar-15,8.3,GALK
+32,Return on capital,12  Mar-15,7.9,GALK
+33,Exports to sales,12  Mar-15,8.8,GALK
+34,Imports to sales,12  Mar-15,7.2,GALK
+35,Exports (fob),12  Mar-15,1707.0,GALK
+36,Imports (cif),12  Mar-15,1404.0,GALK
+37,Fx inflow,12  Mar-15,1707.0,GALK
+38,Fx outflow,12  Mar-15,1489.0,GALK
+39,Net fx,12  Mar-15,219.0,GALK
+40,From Operations,12  Mar-15,2951.0,GALK
+41,From Investments,12  Mar-15,-2122.0,GALK
+42,From Financial Activity,12  Mar-15,-876.0,GALK
+43,Net Cashflow,12  Mar-15,-47.0,GALK
+44,Net Sales,12  Mar-16,19955.0,GALK
+45,Other income,12  Mar-16,462.0,GALK
+46,Total revenues,12  Mar-16,20417.0,GALK
+47,Gross profit,12  Mar-16,3338.0,GALK
+48,Depreciation,12  Mar-16,1074.0,GALK
+49,Interest,12  Mar-16,99.0,GALK
+50,Profit before tax,12  Mar-16,2627.0,GALK
+51,Minority Interest,12  Mar-16,-3.0,GALK
+52,Prior Period Items,12  Mar-16,0.0,GALK
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,GALK
+54,Tax,12  Mar-16,428.0,GALK
+55,Profit after tax,12  Mar-16,2196.0,GALK
+56,Gross profit margin,12  Mar-16,16.7,GALK
+57,Effective tax rate,12  Mar-16,16.3,GALK
+58,Net profit margin,12  Mar-16,11.0,GALK
+59,Current assets,12  Mar-16,8959.0,GALK
+60,Current liabilities,12  Mar-16,3483.0,GALK
+61,Net working cap to sales,12  Mar-16,27.4,GALK
+62,Current ratio,12  Mar-16,2.6,GALK
+63,Inventory Days,12  Mar-16,34.0,GALK
+64,Debtors Days,12  Mar-16,60.0,GALK
+65,Net fixed assets,12  Mar-16,19039.0,GALK
+66,Share capital,12  Mar-16,734.0,GALK
+67,"""Free"" reserves",12  Mar-16,28544.0,GALK
+68,Net worth,12  Mar-16,29278.0,GALK
+69,Long term debt,12  Mar-16,2225.0,GALK
+70,Total assets,12  Mar-16,38942.0,GALK
+71,Interest coverage,12  Mar-16,27.5,GALK
+72,Debt to equity ratio,12  Mar-16,0.1,GALK
+73,Sales to assets ratio,12  Mar-16,0.5,GALK
+74,Return on assets,12  Mar-16,5.9,GALK
+75,Return on equity,12  Mar-16,7.5,GALK
+76,Return on capital,12  Mar-16,8.6,GALK
+77,Exports to sales,12  Mar-16,11.0,GALK
+78,Imports to sales,12  Mar-16,9.8,GALK
+79,Exports (fob),12  Mar-16,2200.0,GALK
+80,Imports (cif),12  Mar-16,1952.0,GALK
+81,Fx inflow,12  Mar-16,2200.0,GALK
+82,Fx outflow,12  Mar-16,2060.0,GALK
+83,Net fx,12  Mar-16,139.0,GALK
+84,From Operations,12  Mar-16,2007.0,GALK
+85,From Investments,12  Mar-16,-3519.0,GALK
+86,From Financial Activity,12  Mar-16,842.0,GALK
+87,Net Cashflow,12  Mar-16,-669.0,GALK
+88,Net Sales,12  Mar-17,20702.0,GALK
+89,Other income,12  Mar-17,559.0,GALK
+90,Total revenues,12  Mar-17,21261.0,GALK
+91,Gross profit,12  Mar-17,4496.0,GALK
+92,Depreciation,12  Mar-17,1109.0,GALK
+93,Interest,12  Mar-17,128.0,GALK
+94,Profit before tax,12  Mar-17,3818.0,GALK
+95,Minority Interest,12  Mar-17,-12.0,GALK
+96,Prior Period Items,12  Mar-17,0.0,GALK
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,GALK
+98,Tax,12  Mar-17,733.0,GALK
+99,Profit after tax,12  Mar-17,3073.0,GALK
+100,Gross profit margin,12  Mar-17,21.7,GALK
+101,Effective tax rate,12  Mar-17,19.2,GALK
+102,Net profit margin,12  Mar-17,14.8,GALK
+103,Current assets,12  Mar-17,10128.0,GALK
+104,Current liabilities,12  Mar-17,4086.0,GALK
+105,Net working cap to sales,12  Mar-17,29.2,GALK
+106,Current ratio,12  Mar-17,2.5,GALK
+107,Inventory Days,12  Mar-17,30.0,GALK
+108,Debtors Days,12  Mar-17,58.0,GALK
+109,Net fixed assets,12  Mar-17,22242.0,GALK
+110,Share capital,12  Mar-17,734.0,GALK
+111,"""Free"" reserves",12  Mar-17,32823.0,GALK
+112,Net worth,12  Mar-17,33557.0,GALK
+113,Long term debt,12  Mar-17,2844.0,GALK
+114,Total assets,12  Mar-17,44354.0,GALK
+115,Interest coverage,12  Mar-17,30.8,GALK
+116,Debt to equity ratio,12  Mar-17,0.1,GALK
+117,Sales to assets ratio,12  Mar-17,0.5,GALK
+118,Return on assets,12  Mar-17,7.2,GALK
+119,Return on equity,12  Mar-17,9.2,GALK
+120,Return on capital,12  Mar-17,10.8,GALK
+121,Exports to sales,12  Mar-17,11.7,GALK
+122,Imports to sales,12  Mar-17,14.8,GALK
+123,Exports (fob),12  Mar-17,2414.0,GALK
+124,Imports (cif),12  Mar-17,3055.0,GALK
+125,Fx inflow,12  Mar-17,2414.0,GALK
+126,Fx outflow,12  Mar-17,3192.0,GALK
+127,Net fx,12  Mar-17,-778.0,GALK
+128,From Operations,12  Mar-17,5021.0,GALK
+129,From Investments,12  Mar-17,-4667.0,GALK
+130,From Financial Activity,12  Mar-17,135.0,GALK
+131,Net Cashflow,12  Mar-17,488.0,GALK
+132,Net Sales,12  Mar-18,24545.0,GALK
+133,Other income,12  Mar-18,1057.0,GALK
+134,Total revenues,12  Mar-18,25603.0,GALK
+135,Gross profit,12  Mar-18,7859.0,GALK
+136,Depreciation,12  Mar-18,1273.0,GALK
+137,Interest,12  Mar-18,149.0,GALK
+138,Profit before tax,12  Mar-18,7494.0,GALK
+139,Minority Interest,12  Mar-18,0.0,GALK
+140,Prior Period Items,12  Mar-18,0.0,GALK
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,GALK
+142,Tax,12  Mar-18,2149.0,GALK
+143,Profit after tax,12  Mar-18,5345.0,GALK
+144,Gross profit margin,12  Mar-18,32.0,GALK
+145,Effective tax rate,12  Mar-18,28.7,GALK
+146,Net profit margin,12  Mar-18,21.8,GALK
+147,Current assets,12  Mar-18,12750.0,GALK
+148,Current liabilities,12  Mar-18,4780.0,GALK
+149,Net working cap to sales,12  Mar-18,32.5,GALK
+150,Current ratio,12  Mar-18,2.7,GALK
+151,Inventory Days,12  Mar-18,39.0,GALK
+152,Debtors Days,12  Mar-18,60.0,GALK
+153,Net fixed assets,12  Mar-18,23561.0,GALK
+154,Share capital,12  Mar-18,734.0,GALK
+155,"""Free"" reserves",12  Mar-18,37476.0,GALK
+156,Net worth,12  Mar-18,38210.0,GALK
+157,Long term debt,12  Mar-18,2298.0,GALK
+158,Total assets,12  Mar-18,49703.0,GALK
+159,Interest coverage,12  Mar-18,51.3,GALK
+160,Debt to equity ratio,12  Mar-18,0.1,GALK
+161,Sales to assets ratio,12  Mar-18,0.5,GALK
+162,Return on assets,12  Mar-18,11.1,GALK
+163,Return on equity,12  Mar-18,14.0,GALK
+164,Return on capital,12  Mar-18,18.9,GALK
+165,Exports to sales,12  Mar-18,12.8,GALK
+166,Imports to sales,12  Mar-18,7.2,GALK
+167,Exports (fob),12  Mar-18,3153.0,GALK
+168,Imports (cif),12  Mar-18,1758.0,GALK
+169,Fx inflow,12  Mar-18,3153.0,GALK
+170,Fx outflow,12  Mar-18,1875.0,GALK
+171,Net fx,12  Mar-18,1278.0,GALK
+172,From Operations,12  Mar-18,5139.0,GALK
+173,From Investments,12  Mar-18,-3947.0,GALK
+174,From Financial Activity,12  Mar-18,-1163.0,GALK
+175,Net Cashflow,12  Mar-18,28.0,GALK
+176,Net Sales,12  Mar-19,31614.0,GALK
+177,Other income,12  Mar-19,608.0,GALK
+178,Total revenues,12  Mar-19,32222.0,GALK
+179,Gross profit,12  Mar-19,11164.0,GALK
+180,Depreciation,12  Mar-19,1400.0,GALK
+181,Interest,12  Mar-19,209.0,GALK
+182,Profit before tax,12  Mar-19,10163.0,GALK
+183,Minority Interest,12  Mar-19,0.0,GALK
+184,Prior Period Items,12  Mar-19,0.0,GALK
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,GALK
+186,Tax,12  Mar-19,3261.0,GALK
+187,Profit after tax,12  Mar-19,6902.0,GALK
+188,Gross profit margin,12  Mar-19,35.3,GALK
+189,Effective tax rate,12  Mar-19,32.1,GALK
+190,Net profit margin,12  Mar-19,21.8,GALK
+191,Current assets,12  Mar-19,16101.0,GALK
+192,Current liabilities,12  Mar-19,5080.0,GALK
+193,Net working cap to sales,12  Mar-19,34.9,GALK
+194,Current ratio,12  Mar-19,3.2,GALK
+195,Inventory Days,12  Mar-19,27.0,GALK
+196,Debtors Days,12  Mar-19,56.0,GALK
+197,Net fixed assets,12  Mar-19,26077.0,GALK
+198,Share capital,12  Mar-19,734.0,GALK
+199,"""Free"" reserves",12  Mar-19,42221.0,GALK
+200,Net worth,12  Mar-19,42956.0,GALK
+201,Long term debt,12  Mar-19,1846.0,GALK
+202,Total assets,12  Mar-19,55310.0,GALK
+203,Interest coverage,12  Mar-19,49.5,GALK
+204,Debt to equity ratio,12  Mar-19,0.0,GALK
+205,Sales to assets ratio,12  Mar-19,0.6,GALK
+206,Return on assets,12  Mar-19,12.9,GALK
+207,Return on equity,12  Mar-19,16.1,GALK
+208,Return on capital,12  Mar-19,23.2,GALK
+209,Exports to sales,12  Mar-19,10.8,GALK
+210,Imports to sales,12  Mar-19,8.7,GALK
+211,Exports (fob),12  Mar-19,3409.0,GALK
+212,Imports (cif),12  Mar-19,2745.0,GALK
+213,Fx inflow,12  Mar-19,3408.0,GALK
+214,Fx outflow,12  Mar-19,3119.0,GALK
+215,Net fx,12  Mar-19,290.0,GALK
+216,From Operations,12  Mar-19,8378.0,GALK
+217,From Investments,12  Mar-19,-5828.0,GALK
+218,From Financial Activity,12  Mar-19,-1358.0,GALK
+219,Net Cashflow,12  Mar-19,1215.0,GALK

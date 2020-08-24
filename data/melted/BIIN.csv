@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-10*,10478.0,BIIN
+1,Other income,12  Mar-10*,180.0,BIIN
+2,Total revenues,12  Mar-10*,10658.0,BIIN
+3,Gross profit,12  Mar-10*,2419.0,BIIN
+4,Depreciation,12  Mar-10*,535.0,BIIN
+5,Interest,12  Mar-10*,439.0,BIIN
+6,Profit before tax,12  Mar-10*,1625.0,BIIN
+7,Minority Interest,12  Mar-10*,0.0,BIIN
+8,Prior Period Items,12  Mar-10*,0.0,BIIN
+9,Extraordinary Inc (Exp),12  Mar-10*,0.0,BIIN
+10,Tax,12  Mar-10*,455.0,BIIN
+11,Profit after tax,12  Mar-10*,1170.0,BIIN
+12,Gross profit margin,12  Mar-10*,23.1,BIIN
+13,Effective tax rate,12  Mar-10*,28.0,BIIN
+14,Net profit margin,12  Mar-10*,11.2,BIIN
+15,Current assets,12  Mar-10*,8220.0,BIIN
+16,Current liabilities,12  Mar-10*,1481.0,BIIN
+17,Net working cap to sales,12  Mar-10*,64.3,BIIN
+18,Current ratio,12  Mar-10*,5.6,BIIN
+19,Inventory Days,12  Mar-10*,59.0,BIIN
+20,Debtors Days,12  Mar-10*,123.0,BIIN
+21,Net fixed assets,12  Mar-10*,8879.0,BIIN
+22,Share capital,12  Mar-10*,227.0,BIIN
+23,"""Free"" reserves",12  Mar-10*,8287.0,BIIN
+24,Net worth,12  Mar-10*,8455.0,BIIN
+25,Long term debt,12  Mar-10*,5207.0,BIIN
+26,Total assets,12  Mar-10*,17100.0,BIIN
+27,Interest coverage,12  Mar-10*,4.7,BIIN
+28,Debt to equity ratio,12  Mar-10*,0.6,BIIN
+29,Sales to assets ratio,12  Mar-10*,0.6,BIIN
+30,Return on assets,12  Mar-10*,9.4,BIIN
+31,Return on equity,12  Mar-10*,13.8,BIIN
+32,Return on capital,12  Mar-10*,15.1,BIIN
+33,Exports to sales,12  Mar-10*,0.0,BIIN
+34,Imports to sales,12  Mar-10*,14.5,BIIN
+35,Exports (fob),12  Mar-10*,0.0,BIIN
+36,Imports (cif),12  Mar-10*,1517.0,BIIN
+37,Fx inflow,12  Mar-10*,563.0,BIIN
+38,Fx outflow,12  Mar-10*,1581.0,BIIN
+39,Net fx,12  Mar-10*,-1018.0,BIIN
+40,From Operations,12  Mar-10*,729.0,BIIN
+41,From Investments,12  Mar-10*,562.0,BIIN
+42,From Financial Activity,12  Mar-10*,-828.0,BIIN
+43,Net Cashflow,12  Mar-10*,463.0,BIIN
+44,Net Sales,12  Mar-11*,22866.0,BIIN
+45,Other income,12  Mar-11*,390.0,BIIN
+46,Total revenues,12  Mar-11*,23256.0,BIIN
+47,Gross profit,12  Mar-11*,3453.0,BIIN
+48,Depreciation,12  Mar-11*,859.0,BIIN
+49,Interest,12  Mar-11*,991.0,BIIN
+50,Profit before tax,12  Mar-11*,1993.0,BIIN
+51,Minority Interest,12  Mar-11*,-20.0,BIIN
+52,Prior Period Items,12  Mar-11*,0.0,BIIN
+53,Extraordinary Inc (Exp),12  Mar-11*,0.0,BIIN
+54,Tax,12  Mar-11*,498.0,BIIN
+55,Profit after tax,12  Mar-11*,1475.0,BIIN
+56,Gross profit margin,12  Mar-11*,15.1,BIIN
+57,Effective tax rate,12  Mar-11*,25.0,BIIN
+58,Net profit margin,12  Mar-11*,6.5,BIIN
+59,Current assets,12  Mar-11*,15929.0,BIIN
+60,Current liabilities,12  Mar-11*,6392.0,BIIN
+61,Net working cap to sales,12  Mar-11*,41.7,BIIN
+62,Current ratio,12  Mar-11*,2.5,BIIN
+63,Inventory Days,12  Mar-11*,69.0,BIIN
+64,Debtors Days,12  Mar-11*,131.0,BIIN
+65,Net fixed assets,12  Mar-11*,14439.0,BIIN
+66,Share capital,12  Mar-11*,236.0,BIIN
+67,"""Free"" reserves",12  Mar-11*,9485.0,BIIN
+68,Net worth,12  Mar-11*,10659.0,BIIN
+69,Long term debt,12  Mar-11*,11032.0,BIIN
+70,Total assets,12  Mar-11*,31194.0,BIIN
+71,Interest coverage,12  Mar-11*,3.0,BIIN
+72,Debt to equity ratio,12  Mar-11*,1.0,BIIN
+73,Sales to assets ratio,12  Mar-11*,0.7,BIIN
+74,Return on assets,12  Mar-11*,7.9,BIIN
+75,Return on equity,12  Mar-11*,13.8,BIIN
+76,Return on capital,12  Mar-11*,13.7,BIIN
+77,Exports to sales,12  Mar-11*,0.0,BIIN
+78,Imports to sales,12  Mar-11*,7.0,BIIN
+79,Exports (fob),12  Mar-11*,0.0,BIIN
+80,Imports (cif),12  Mar-11*,1591.0,BIIN
+81,Fx inflow,12  Mar-11*,504.0,BIIN
+82,Fx outflow,12  Mar-11*,1666.0,BIIN
+83,Net fx,12  Mar-11*,-1162.0,BIIN
+84,From Operations,12  Mar-11*,7880.0,BIIN
+85,From Investments,12  Mar-11*,-14601.0,BIIN
+86,From Financial Activity,12  Mar-11*,6983.0,BIIN
+87,Net Cashflow,12  Mar-11*,262.0,BIIN
+88,Net Sales,12  Mar-12*,36418.0,BIIN
+89,Other income,12  Mar-12*,76.0,BIIN
+90,Total revenues,12  Mar-12*,36494.0,BIIN
+91,Gross profit,12  Mar-12*,4764.0,BIIN
+92,Depreciation,12  Mar-12*,1311.0,BIIN
+93,Interest,12  Mar-12*,1645.0,BIIN
+94,Profit before tax,12  Mar-12*,1885.0,BIIN
+95,Minority Interest,12  Mar-12*,-35.0,BIIN
+96,Prior Period Items,12  Mar-12*,0.0,BIIN
+97,Extraordinary Inc (Exp),12  Mar-12*,0.0,BIIN
+98,Tax,12  Mar-12*,484.0,BIIN
+99,Profit after tax,12  Mar-12*,1366.0,BIIN
+100,Gross profit margin,12  Mar-12*,13.1,BIIN
+101,Effective tax rate,12  Mar-12*,25.7,BIIN
+102,Net profit margin,12  Mar-12*,3.7,BIIN
+103,Current assets,12  Mar-12*,20413.0,BIIN
+104,Current liabilities,12  Mar-12*,7064.0,BIIN
+105,Net working cap to sales,12  Mar-12*,36.7,BIIN
+106,Current ratio,12  Mar-12*,2.9,BIIN
+107,Inventory Days,12  Mar-12*,52.0,BIIN
+108,Debtors Days,12  Mar-12*,115.0,BIIN
+109,Net fixed assets,12  Mar-12*,16372.0,BIIN
+110,Share capital,12  Mar-12*,236.0,BIIN
+111,"""Free"" reserves",12  Mar-12*,11247.0,BIIN
+112,Net worth,12  Mar-12*,13062.0,BIIN
+113,Long term debt,12  Mar-12*,13032.0,BIIN
+114,Total assets,12  Mar-12*,37787.0,BIIN
+115,Interest coverage,12  Mar-12*,2.1,BIIN
+116,Debt to equity ratio,12  Mar-12*,1.0,BIIN
+117,Sales to assets ratio,12  Mar-12*,1.0,BIIN
+118,Return on assets,12  Mar-12*,8.0,BIIN
+119,Return on equity,12  Mar-12*,10.5,BIIN
+120,Return on capital,12  Mar-12*,13.4,BIIN
+121,Exports to sales,12  Mar-12*,0.0,BIIN
+122,Imports to sales,12  Mar-12*,4.1,BIIN
+123,Exports (fob),12  Mar-12*,0.0,BIIN
+124,Imports (cif),12  Mar-12*,1492.0,BIIN
+125,Fx inflow,12  Mar-12*,796.0,BIIN
+126,Fx outflow,12  Mar-12*,1653.0,BIIN
+127,Net fx,12  Mar-12*,-857.0,BIIN
+128,From Operations,12  Mar-12*,924.0,BIIN
+129,From Investments,12  Mar-12*,-3825.0,BIIN
+130,From Financial Activity,12  Mar-12*,2848.0,BIIN
+131,Net Cashflow,12  Mar-12*,-52.0,BIIN
+132,Net Sales,12  Mar-13*,3547.0,BIIN
+133,Other income,12  Mar-13*,49.0,BIIN
+134,Total revenues,12  Mar-13*,3595.0,BIIN
+135,Gross profit,12  Mar-13*,3870.0,BIIN
+136,Depreciation,12  Mar-13*,1484.0,BIIN
+137,Interest,12  Mar-13*,1674.0,BIIN
+138,Profit before tax,12  Mar-13*,761.0,BIIN
+139,Minority Interest,12  Mar-13*,-49.0,BIIN
+140,Prior Period Items,12  Mar-13*,-31.0,BIIN
+141,Extraordinary Inc (Exp),12  Mar-13*,-97.0,BIIN
+142,Tax,12  Mar-13*,188.0,BIIN
+143,Profit after tax,12  Mar-13*,396.0,BIIN
+144,Gross profit margin,12  Mar-13*,109.1,BIIN
+145,Effective tax rate,12  Mar-13*,24.7,BIIN
+146,Net profit margin,12  Mar-13*,11.2,BIIN
+147,Current assets,12  Mar-13*,19932.0,BIIN
+148,Current liabilities,12  Mar-13*,9709.0,BIIN
+149,Net working cap to sales,12  Mar-13*,288.2,BIIN
+150,Current ratio,12  Mar-13*,2.1,BIIN
+151,Inventory Days,12  Mar-13*,465.0,BIIN
+152,Debtors Days,12  Mar-13*,1060.0,BIIN
+153,Net fixed assets,12  Mar-13*,23388.0,BIIN
+154,Share capital,12  Mar-13*,236.0,BIIN
+155,"""Free"" reserves",12  Mar-13*,10782.0,BIIN
+156,Net worth,12  Mar-13*,13255.0,BIIN
+157,Long term debt,12  Mar-13*,17695.0,BIIN
+158,Total assets,12  Mar-13*,44000.0,BIIN
+159,Interest coverage,12  Mar-13*,1.5,BIIN
+160,Debt to equity ratio,12  Mar-13*,1.3,BIIN
+161,Sales to assets ratio,12  Mar-13*,0.1,BIIN
+162,Return on assets,12  Mar-13*,4.7,BIIN
+163,Return on equity,12  Mar-13*,3.0,BIIN
+164,Return on capital,12  Mar-13*,7.3,BIIN
+165,Exports to sales,12  Mar-13*,0.0,BIIN
+166,Imports to sales,12  Mar-13*,51.9,BIIN
+167,Exports (fob),12  Mar-13*,0.0,BIIN
+168,Imports (cif),12  Mar-13*,1840.0,BIIN
+169,Fx inflow,12  Mar-13*,875.0,BIIN
+170,Fx outflow,12  Mar-13*,1983.0,BIIN
+171,Net fx,12  Mar-13*,-1108.0,BIIN
+172,From Operations,12  Mar-13*,2274.0,BIIN
+173,From Investments,12  Mar-13*,-9662.0,BIIN
+174,From Financial Activity,12  Mar-13*,6606.0,BIIN
+175,Net Cashflow,12  Mar-13*,-782.0,BIIN
+176,Net Sales,12  Mar-14*,30620.0,BIIN
+177,Other income,12  Mar-14*,137.0,BIIN
+178,Total revenues,12  Mar-14*,30757.0,BIIN
+179,Gross profit,12  Mar-14*,2433.0,BIIN
+180,Depreciation,12  Mar-14*,1410.0,BIIN
+181,Interest,12  Mar-14*,2172.0,BIIN
+182,Profit before tax,12  Mar-14*,-1013.0,BIIN
+183,Minority Interest,12  Mar-14*,7.0,BIIN
+184,Prior Period Items,12  Mar-14*,-3.0,BIIN
+185,Extraordinary Inc (Exp),12  Mar-14*,104.0,BIIN
+186,Tax,12  Mar-14*,230.0,BIIN
+187,Profit after tax,12  Mar-14*,-1134.0,BIIN
+188,Gross profit margin,12  Mar-14*,7.9,BIIN
+189,Effective tax rate,12  Mar-14*,-22.7,BIIN
+190,Net profit margin,12  Mar-14*,-3.7,BIIN
+191,Current assets,12  Mar-14*,19241.0,BIIN
+192,Current liabilities,12  Mar-14*,8659.0,BIIN
+193,Net working cap to sales,12  Mar-14*,34.6,BIIN
+194,Current ratio,12  Mar-14*,2.2,BIIN
+195,Inventory Days,12  Mar-14*,56.0,BIIN
+196,Debtors Days,12  Mar-14*,105.0,BIIN
+197,Net fixed assets,12  Mar-14*,23888.0,BIIN
+198,Share capital,12  Mar-14*,236.0,BIIN
+199,"""Free"" reserves",12  Mar-14*,9758.0,BIIN
+200,Net worth,12  Mar-14*,13238.0,BIIN
+201,Long term debt,12  Mar-14*,18817.0,BIIN
+202,Total assets,12  Mar-14*,43684.0,BIIN
+203,Interest coverage,12  Mar-14*,0.5,BIIN
+204,Debt to equity ratio,12  Mar-14*,1.4,BIIN
+205,Sales to assets ratio,12  Mar-14*,0.7,BIIN
+206,Return on assets,12  Mar-14*,2.4,BIIN
+207,Return on equity,12  Mar-14*,-8.6,BIIN
+208,Return on capital,12  Mar-14*,4.0,BIIN
+209,Exports to sales,12  Mar-14*,0.0,BIIN
+210,Imports to sales,12  Mar-14*,3.9,BIIN
+211,Exports (fob),12  Mar-14*,0.0,BIIN
+212,Imports (cif),12  Mar-14*,1187.0,BIIN
+213,Fx inflow,12  Mar-14*,876.0,BIIN
+214,Fx outflow,12  Mar-14*,1317.0,BIIN
+215,Net fx,12  Mar-14*,-441.0,BIIN
+216,From Operations,12  Mar-14*,3245.0,BIIN
+217,From Investments,12  Mar-14*,-3610.0,BIIN
+218,From Financial Activity,12  Mar-14*,481.0,BIIN
+219,Net Cashflow,12  Mar-14*,116.0,BIIN

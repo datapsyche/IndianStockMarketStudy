@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,136315.0,CRGR
+1,Other income,12  Mar-14*,1890.0,CRGR
+2,Total revenues,12  Mar-14*,138205.0,CRGR
+3,Gross profit,12  Mar-14*,7045.0,CRGR
+4,Depreciation,12  Mar-14*,2621.0,CRGR
+5,Interest,12  Mar-14*,1366.0,CRGR
+6,Profit before tax,12  Mar-14*,4947.0,CRGR
+7,Minority Interest,12  Mar-14*,7.0,CRGR
+8,Prior Period Items,12  Mar-14*,-150.0,CRGR
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,CRGR
+10,Tax,12  Mar-14*,2361.0,CRGR
+11,Profit after tax,12  Mar-14*,2443.0,CRGR
+12,Gross profit margin,12  Mar-14*,5.2,CRGR
+13,Effective tax rate,12  Mar-14*,47.7,CRGR
+14,Net profit margin,12  Mar-14*,1.8,CRGR
+15,Current assets,12  Mar-14*,68881.0,CRGR
+16,Current liabilities,12  Mar-14*,53989.0,CRGR
+17,Net working cap to sales,12  Mar-14*,10.9,CRGR
+18,Current ratio,12  Mar-14*,1.3,CRGR
+19,Inventory Days,12  Mar-14*,45.0,CRGR
+20,Debtors Days,12  Mar-14*,96.0,CRGR
+21,Net fixed assets,12  Mar-14*,23003.0,CRGR
+22,Share capital,12  Mar-14*,1254.0,CRGR
+23,"""Free"" reserves",12  Mar-14*,30469.0,CRGR
+24,Net worth,12  Mar-14*,36446.0,CRGR
+25,Long term debt,12  Mar-14*,16323.0,CRGR
+26,Total assets,12  Mar-14*,110162.0,CRGR
+27,Interest coverage,12  Mar-14*,4.6,CRGR
+28,Debt to equity ratio,12  Mar-14*,0.4,CRGR
+29,Sales to assets ratio,12  Mar-14*,1.2,CRGR
+30,Return on assets,12  Mar-14*,3.5,CRGR
+31,Return on equity,12  Mar-14*,6.7,CRGR
+32,Return on capital,12  Mar-14*,11.7,CRGR
+33,Exports to sales,12  Mar-14*,6.6,CRGR
+34,Imports to sales,12  Mar-14*,6.2,CRGR
+35,Exports (fob),12  Mar-14*,9022.0,CRGR
+36,Imports (cif),12  Mar-14*,8487.0,CRGR
+37,Fx inflow,12  Mar-14*,9908.0,CRGR
+38,Fx outflow,12  Mar-14*,9129.0,CRGR
+39,Net fx,12  Mar-14*,779.0,CRGR
+40,From Operations,12  Mar-14*,3196.0,CRGR
+41,From Investments,12  Mar-14*,-978.0,CRGR
+42,From Financial Activity,12  Mar-14*,99.0,CRGR
+43,Net Cashflow,12  Mar-14*,2316.0,CRGR
+44,Net Sales,12  Mar-15*,140131.0,CRGR
+45,Other income,12  Mar-15*,1670.0,CRGR
+46,Total revenues,12  Mar-15*,141802.0,CRGR
+47,Gross profit,12  Mar-15*,6677.0,CRGR
+48,Depreciation,12  Mar-15*,2620.0,CRGR
+49,Interest,12  Mar-15*,1443.0,CRGR
+50,Profit before tax,12  Mar-15*,4284.0,CRGR
+51,Minority Interest,12  Mar-15*,14.0,CRGR
+52,Prior Period Items,12  Mar-15*,16.0,CRGR
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,CRGR
+54,Tax,12  Mar-15*,2220.0,CRGR
+55,Profit after tax,12  Mar-15*,2094.0,CRGR
+56,Gross profit margin,12  Mar-15*,4.8,CRGR
+57,Effective tax rate,12  Mar-15*,51.8,CRGR
+58,Net profit margin,12  Mar-15*,1.5,CRGR
+59,Current assets,12  Mar-15*,73856.0,CRGR
+60,Current liabilities,12  Mar-15*,49332.0,CRGR
+61,Net working cap to sales,12  Mar-15*,17.5,CRGR
+62,Current ratio,12  Mar-15*,1.5,CRGR
+63,Inventory Days,12  Mar-15*,38.0,CRGR
+64,Debtors Days,12  Mar-15*,97.0,CRGR
+65,Net fixed assets,12  Mar-15*,20433.0,CRGR
+66,Share capital,12  Mar-15*,1254.0,CRGR
+67,"""Free"" reserves",12  Mar-15*,31957.0,CRGR
+68,Net worth,12  Mar-15*,38159.0,CRGR
+69,Long term debt,12  Mar-15*,19039.0,CRGR
+70,Total assets,12  Mar-15*,109916.0,CRGR
+71,Interest coverage,12  Mar-15*,4.0,CRGR
+72,Debt to equity ratio,12  Mar-15*,0.5,CRGR
+73,Sales to assets ratio,12  Mar-15*,1.3,CRGR
+74,Return on assets,12  Mar-15*,3.2,CRGR
+75,Return on equity,12  Mar-15*,5.5,CRGR
+76,Return on capital,12  Mar-15*,10.1,CRGR
+77,Exports to sales,12  Mar-15*,6.3,CRGR
+78,Imports to sales,12  Mar-15*,5.7,CRGR
+79,Exports (fob),12  Mar-15*,8891.0,CRGR
+80,Imports (cif),12  Mar-15*,7950.0,CRGR
+81,Fx inflow,12  Mar-15*,9752.0,CRGR
+82,Fx outflow,12  Mar-15*,8552.0,CRGR
+83,Net fx,12  Mar-15*,1200.0,CRGR
+84,From Operations,12  Mar-15*,-6723.0,CRGR
+85,From Investments,12  Mar-15*,4285.0,CRGR
+86,From Financial Activity,12  Mar-15*,1572.0,CRGR
+87,Net Cashflow,12  Mar-15*,-866.0,CRGR
+88,Net Sales,12  Mar-16*,55950.0,CRGR
+89,Other income,12  Mar-16*,1115.0,CRGR
+90,Total revenues,12  Mar-16*,57064.0,CRGR
+91,Gross profit,12  Mar-16*,4302.0,CRGR
+92,Depreciation,12  Mar-16*,1717.0,CRGR
+93,Interest,12  Mar-16*,800.0,CRGR
+94,Profit before tax,12  Mar-16*,2901.0,CRGR
+95,Minority Interest,12  Mar-16*,12.0,CRGR
+96,Prior Period Items,12  Mar-16*,0.0,CRGR
+97,Extraordinary Inc (Exp),12  Mar-16*,-1113.0,CRGR
+98,Tax,12  Mar-16*,667.0,CRGR
+99,Profit after tax,12  Mar-16*,1133.0,CRGR
+100,Gross profit margin,12  Mar-16*,7.7,CRGR
+101,Effective tax rate,12  Mar-16*,23.0,CRGR
+102,Net profit margin,12  Mar-16*,2.0,CRGR
+103,Current assets,12  Mar-16*,43396.0,CRGR
+104,Current liabilities,12  Mar-16*,23608.0,CRGR
+105,Net working cap to sales,12  Mar-16*,35.4,CRGR
+106,Current ratio,12  Mar-16*,1.8,CRGR
+107,Inventory Days,12  Mar-16*,38.0,CRGR
+108,Debtors Days,12  Mar-16*,135.0,CRGR
+109,Net fixed assets,12  Mar-16*,15150.0,CRGR
+110,Share capital,12  Mar-16*,1254.0,CRGR
+111,"""Free"" reserves",12  Mar-16*,45972.0,CRGR
+112,Net worth,12  Mar-16*,47225.0,CRGR
+113,Long term debt,12  Mar-16*,5990.0,CRGR
+114,Total assets,12  Mar-16*,110384.0,CRGR
+115,Interest coverage,12  Mar-16*,4.6,CRGR
+116,Debt to equity ratio,12  Mar-16*,0.1,CRGR
+117,Sales to assets ratio,12  Mar-16*,0.5,CRGR
+118,Return on assets,12  Mar-16*,1.8,CRGR
+119,Return on equity,12  Mar-16*,2.4,CRGR
+120,Return on capital,12  Mar-16*,4.9,CRGR
+121,Exports to sales,12  Mar-16*,14.9,CRGR
+122,Imports to sales,12  Mar-16*,8.7,CRGR
+123,Exports (fob),12  Mar-16*,8348.0,CRGR
+124,Imports (cif),12  Mar-16*,4871.0,CRGR
+125,Fx inflow,12  Mar-16*,9844.0,CRGR
+126,Fx outflow,12  Mar-16*,5370.0,CRGR
+127,Net fx,12  Mar-16*,4474.0,CRGR
+128,From Operations,12  Mar-16*,-608.0,CRGR
+129,From Investments,12  Mar-16*,4320.0,CRGR
+130,From Financial Activity,12  Mar-16*,-2224.0,CRGR
+131,Net Cashflow,12  Mar-16*,1488.0,CRGR
+132,Net Sales,12  Mar-17*,55165.0,CRGR
+133,Other income,12  Mar-17*,676.0,CRGR
+134,Total revenues,12  Mar-17*,55841.0,CRGR
+135,Gross profit,12  Mar-17*,4424.0,CRGR
+136,Depreciation,12  Mar-17*,1429.0,CRGR
+137,Interest,12  Mar-17*,1861.0,CRGR
+138,Profit before tax,12  Mar-17*,1809.0,CRGR
+139,Minority Interest,12  Mar-17*,-16.0,CRGR
+140,Prior Period Items,12  Mar-17*,0.0,CRGR
+141,Extraordinary Inc (Exp),12  Mar-17*,-727.0,CRGR
+142,Tax,12  Mar-17*,281.0,CRGR
+143,Profit after tax,12  Mar-17*,785.0,CRGR
+144,Gross profit margin,12  Mar-17*,8.0,CRGR
+145,Effective tax rate,12  Mar-17*,15.5,CRGR
+146,Net profit margin,12  Mar-17*,1.4,CRGR
+147,Current assets,12  Mar-17*,50578.0,CRGR
+148,Current liabilities,12  Mar-17*,20992.0,CRGR
+149,Net working cap to sales,12  Mar-17*,53.6,CRGR
+150,Current ratio,12  Mar-17*,2.4,CRGR
+151,Inventory Days,12  Mar-17*,58.0,CRGR
+152,Debtors Days,12  Mar-17*,124.0,CRGR
+153,Net fixed assets,12  Mar-17*,14045.0,CRGR
+154,Share capital,12  Mar-17*,1254.0,CRGR
+155,"""Free"" reserves",12  Mar-17*,39857.0,CRGR
+156,Net worth,12  Mar-17*,41111.0,CRGR
+157,Long term debt,12  Mar-17*,5038.0,CRGR
+158,Total assets,12  Mar-17*,101881.0,CRGR
+159,Interest coverage,12  Mar-17*,2.0,CRGR
+160,Debt to equity ratio,12  Mar-17*,0.1,CRGR
+161,Sales to assets ratio,12  Mar-17*,0.5,CRGR
+162,Return on assets,12  Mar-17*,2.6,CRGR
+163,Return on equity,12  Mar-17*,1.9,CRGR
+164,Return on capital,12  Mar-17*,6.3,CRGR
+165,Exports to sales,12  Mar-17*,12.1,CRGR
+166,Imports to sales,12  Mar-17*,8.9,CRGR
+167,Exports (fob),12  Mar-17*,6695.0,CRGR
+168,Imports (cif),12  Mar-17*,4887.0,CRGR
+169,Fx inflow,12  Mar-17*,8064.0,CRGR
+170,Fx outflow,12  Mar-17*,5279.0,CRGR
+171,Net fx,12  Mar-17*,2785.0,CRGR
+172,From Operations,12  Mar-17*,-5400.0,CRGR
+173,From Investments,12  Mar-17*,4968.0,CRGR
+174,From Financial Activity,12  Mar-17*,502.0,CRGR
+175,Net Cashflow,12  Mar-17*,71.0,CRGR
+176,Net Sales,12  Mar-18*,61886.0,CRGR
+177,Other income,12  Mar-18*,395.0,CRGR
+178,Total revenues,12  Mar-18*,62282.0,CRGR
+179,Gross profit,12  Mar-18*,4550.0,CRGR
+180,Depreciation,12  Mar-18*,1492.0,CRGR
+181,Interest,12  Mar-18*,2193.0,CRGR
+182,Profit before tax,12  Mar-18*,1260.0,CRGR
+183,Minority Interest,12  Mar-18*,-17.0,CRGR
+184,Prior Period Items,12  Mar-18*,0.0,CRGR
+185,Extraordinary Inc (Exp),12  Mar-18*,-4428.0,CRGR
+186,Tax,12  Mar-18*,749.0,CRGR
+187,Profit after tax,12  Mar-18*,-3934.0,CRGR
+188,Gross profit margin,12  Mar-18*,7.4,CRGR
+189,Effective tax rate,12  Mar-18*,59.4,CRGR
+190,Net profit margin,12  Mar-18*,-6.4,CRGR
+191,Current assets,12  Mar-18*,41983.0,CRGR
+192,Current liabilities,12  Mar-18*,22062.0,CRGR
+193,Net working cap to sales,12  Mar-18*,32.2,CRGR
+194,Current ratio,12  Mar-18*,1.9,CRGR
+195,Inventory Days,12  Mar-18*,35.0,CRGR
+196,Debtors Days,12  Mar-18*,119.0,CRGR
+197,Net fixed assets,12  Mar-18*,14179.0,CRGR
+198,Share capital,12  Mar-18*,1254.0,CRGR
+199,"""Free"" reserves",12  Mar-18*,25888.0,CRGR
+200,Net worth,12  Mar-18*,27141.0,CRGR
+201,Long term debt,12  Mar-18*,8372.0,CRGR
+202,Total assets,12  Mar-18*,91194.0,CRGR
+203,Interest coverage,12  Mar-18*,1.6,CRGR
+204,Debt to equity ratio,12  Mar-18*,0.3,CRGR
+205,Sales to assets ratio,12  Mar-18*,0.7,CRGR
+206,Return on assets,12  Mar-18*,-1.9,CRGR
+207,Return on equity,12  Mar-18*,-14.5,CRGR
+208,Return on capital,12  Mar-18*,-2.8,CRGR
+209,Exports to sales,12  Mar-18*,12.2,CRGR
+210,Imports to sales,12  Mar-18*,6.7,CRGR
+211,Exports (fob),12  Mar-18*,7557.0,CRGR
+212,Imports (cif),12  Mar-18*,4156.0,CRGR
+213,Fx inflow,12  Mar-18*,9023.0,CRGR
+214,Fx outflow,12  Mar-18*,4835.0,CRGR
+215,Net fx,12  Mar-18*,4188.0,CRGR
+216,From Operations,12  Mar-18*,-3601.0,CRGR
+217,From Investments,12  Mar-18*,3473.0,CRGR
+218,From Financial Activity,12  Mar-18*,-412.0,CRGR
+219,Net Cashflow,12  Mar-18*,-541.0,CRGR

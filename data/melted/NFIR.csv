@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,10161.0,NFIR
+1,Other income,12  Mar-14*,19.0,NFIR
+2,Total revenues,12  Mar-14*,10180.0,NFIR
+3,Gross profit,12  Mar-14*,1126.0,NFIR
+4,Depreciation,12  Mar-14*,95.0,NFIR
+5,Interest,12  Mar-14*,305.0,NFIR
+6,Profit before tax,12  Mar-14*,744.0,NFIR
+7,Minority Interest,12  Mar-14*,0.0,NFIR
+8,Prior Period Items,12  Mar-14*,0.0,NFIR
+9,Extraordinary Inc (Exp),12  Mar-14*,-49.0,NFIR
+10,Tax,12  Mar-14*,30.0,NFIR
+11,Profit after tax,12  Mar-14*,665.0,NFIR
+12,Gross profit margin,12  Mar-14*,11.1,NFIR
+13,Effective tax rate,12  Mar-14*,4.1,NFIR
+14,Net profit margin,12  Mar-14*,6.5,NFIR
+15,Current assets,12  Mar-14*,6556.0,NFIR
+16,Current liabilities,12  Mar-14*,5033.0,NFIR
+17,Net working cap to sales,12  Mar-14*,15.0,NFIR
+18,Current ratio,12  Mar-14*,1.3,NFIR
+19,Inventory Days,12  Mar-14*,64.0,NFIR
+20,Debtors Days,12  Mar-14*,108.0,NFIR
+21,Net fixed assets,12  Mar-14*,1994.0,NFIR
+22,Share capital,12  Mar-14*,438.0,NFIR
+23,"""Free"" reserves",12  Mar-14*,3228.0,NFIR
+24,Net worth,12  Mar-14*,3711.0,NFIR
+25,Long term debt,12  Mar-14*,0.0,NFIR
+26,Total assets,12  Mar-14*,8761.0,NFIR
+27,Interest coverage,12  Mar-14*,3.4,NFIR
+28,Debt to equity ratio,12  Mar-14*,0.0,NFIR
+29,Sales to assets ratio,12  Mar-14*,1.2,NFIR
+30,Return on assets,12  Mar-14*,11.1,NFIR
+31,Return on equity,12  Mar-14*,17.9,NFIR
+32,Return on capital,12  Mar-14*,27.0,NFIR
+33,Exports to sales,12  Mar-14*,32.4,NFIR
+34,Imports to sales,12  Mar-14*,32.6,NFIR
+35,Exports (fob),12  Mar-14*,3293.0,NFIR
+36,Imports (cif),12  Mar-14*,3316.0,NFIR
+37,Fx inflow,12  Mar-14*,3293.0,NFIR
+38,Fx outflow,12  Mar-14*,3347.0,NFIR
+39,Net fx,12  Mar-14*,-54.0,NFIR
+40,From Operations,12  Mar-14*,10.0,NFIR
+41,From Investments,12  Mar-14*,-257.0,NFIR
+42,From Financial Activity,12  Mar-14*,21.0,NFIR
+43,Net Cashflow,12  Mar-14*,-226.0,NFIR
+44,Net Sales,12  Mar-15*,11466.0,NFIR
+45,Other income,12  Mar-15*,113.0,NFIR
+46,Total revenues,12  Mar-15*,11579.0,NFIR
+47,Gross profit,12  Mar-15*,1133.0,NFIR
+48,Depreciation,12  Mar-15*,122.0,NFIR
+49,Interest,12  Mar-15*,414.0,NFIR
+50,Profit before tax,12  Mar-15*,710.0,NFIR
+51,Minority Interest,12  Mar-15*,0.0,NFIR
+52,Prior Period Items,12  Mar-15*,0.0,NFIR
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,NFIR
+54,Tax,12  Mar-15*,39.0,NFIR
+55,Profit after tax,12  Mar-15*,671.0,NFIR
+56,Gross profit margin,12  Mar-15*,9.9,NFIR
+57,Effective tax rate,12  Mar-15*,5.5,NFIR
+58,Net profit margin,12  Mar-15*,5.9,NFIR
+59,Current assets,12  Mar-15*,8512.0,NFIR
+60,Current liabilities,12  Mar-15*,6573.0,NFIR
+61,Net working cap to sales,12  Mar-15*,16.9,NFIR
+62,Current ratio,12  Mar-15*,1.3,NFIR
+63,Inventory Days,12  Mar-15*,77.0,NFIR
+64,Debtors Days,12  Mar-15*,148.0,NFIR
+65,Net fixed assets,12  Mar-15*,2144.0,NFIR
+66,Share capital,12  Mar-15*,585.0,NFIR
+67,"""Free"" reserves",12  Mar-15*,3745.0,NFIR
+68,Net worth,12  Mar-15*,4374.0,NFIR
+69,Long term debt,12  Mar-15*,288.0,NFIR
+70,Total assets,12  Mar-15*,11260.0,NFIR
+71,Interest coverage,12  Mar-15*,2.7,NFIR
+72,Debt to equity ratio,12  Mar-15*,0.1,NFIR
+73,Sales to assets ratio,12  Mar-15*,1.0,NFIR
+74,Return on assets,12  Mar-15*,9.6,NFIR
+75,Return on equity,12  Mar-15*,15.3,NFIR
+76,Return on capital,12  Mar-15*,24.1,NFIR
+77,Exports to sales,12  Mar-15*,30.6,NFIR
+78,Imports to sales,12  Mar-15*,30.7,NFIR
+79,Exports (fob),12  Mar-15*,3504.0,NFIR
+80,Imports (cif),12  Mar-15*,3518.0,NFIR
+81,Fx inflow,12  Mar-15*,3504.0,NFIR
+82,Fx outflow,12  Mar-15*,3536.0,NFIR
+83,Net fx,12  Mar-15*,-32.0,NFIR
+84,From Operations,12  Mar-15*,-154.0,NFIR
+85,From Investments,12  Mar-15*,-284.0,NFIR
+86,From Financial Activity,12  Mar-15*,688.0,NFIR
+87,Net Cashflow,12  Mar-15*,251.0,NFIR
+88,Net Sales,12  Mar-16*,14797.0,NFIR
+89,Other income,12  Mar-16*,146.0,NFIR
+90,Total revenues,12  Mar-16*,14943.0,NFIR
+91,Gross profit,12  Mar-16*,1635.0,NFIR
+92,Depreciation,12  Mar-16*,245.0,NFIR
+93,Interest,12  Mar-16*,525.0,NFIR
+94,Profit before tax,12  Mar-16*,1011.0,NFIR
+95,Minority Interest,12  Mar-16*,0.0,NFIR
+96,Prior Period Items,12  Mar-16*,0.0,NFIR
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,NFIR
+98,Tax,12  Mar-16*,25.0,NFIR
+99,Profit after tax,12  Mar-16*,985.0,NFIR
+100,Gross profit margin,12  Mar-16*,11.0,NFIR
+101,Effective tax rate,12  Mar-16*,2.5,NFIR
+102,Net profit margin,12  Mar-16*,6.7,NFIR
+103,Current assets,12  Mar-16*,8146.0,NFIR
+104,Current liabilities,12  Mar-16*,6302.0,NFIR
+105,Net working cap to sales,12  Mar-16*,12.5,NFIR
+106,Current ratio,12  Mar-16*,1.3,NFIR
+107,Inventory Days,12  Mar-16*,55.0,NFIR
+108,Debtors Days,12  Mar-16*,128.0,NFIR
+109,Net fixed assets,12  Mar-16*,1884.0,NFIR
+110,Share capital,12  Mar-16*,585.0,NFIR
+111,"""Free"" reserves",12  Mar-16*,4730.0,NFIR
+112,Net worth,12  Mar-16*,5902.0,NFIR
+113,Long term debt,12  Mar-16*,598.0,NFIR
+114,Total assets,12  Mar-16*,12705.0,NFIR
+115,Interest coverage,12  Mar-16*,2.9,NFIR
+116,Debt to equity ratio,12  Mar-16*,0.1,NFIR
+117,Sales to assets ratio,12  Mar-16*,1.2,NFIR
+118,Return on assets,12  Mar-16*,11.9,NFIR
+119,Return on equity,12  Mar-16*,16.7,NFIR
+120,Return on capital,12  Mar-16*,23.6,NFIR
+121,Exports to sales,12  Mar-16*,17.7,NFIR
+122,Imports to sales,12  Mar-16*,17.6,NFIR
+123,Exports (fob),12  Mar-16*,2618.0,NFIR
+124,Imports (cif),12  Mar-16*,2610.0,NFIR
+125,Fx inflow,12  Mar-16*,2618.0,NFIR
+126,Fx outflow,12  Mar-16*,2627.0,NFIR
+127,Net fx,12  Mar-16*,-10.0,NFIR
+128,From Operations,12  Mar-16*,1131.0,NFIR
+129,From Investments,12  Mar-16*,-1559.0,NFIR
+130,From Financial Activity,12  Mar-16*,-49.0,NFIR
+131,Net Cashflow,12  Mar-16*,-478.0,NFIR
+132,Net Sales,12  Mar-17*,13268.0,NFIR
+133,Other income,12  Mar-17*,43.0,NFIR
+134,Total revenues,12  Mar-17*,13310.0,NFIR
+135,Gross profit,12  Mar-17*,696.0,NFIR
+136,Depreciation,12  Mar-17*,247.0,NFIR
+137,Interest,12  Mar-17*,603.0,NFIR
+138,Profit before tax,12  Mar-17*,-112.0,NFIR
+139,Minority Interest,12  Mar-17*,-264.0,NFIR
+140,Prior Period Items,12  Mar-17*,0.0,NFIR
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,NFIR
+142,Tax,12  Mar-17*,-4.0,NFIR
+143,Profit after tax,12  Mar-17*,-372.0,NFIR
+144,Gross profit margin,12  Mar-17*,5.2,NFIR
+145,Effective tax rate,12  Mar-17*,3.3,NFIR
+146,Net profit margin,12  Mar-17*,-2.8,NFIR
+147,Current assets,12  Mar-17*,9343.0,NFIR
+148,Current liabilities,12  Mar-17*,7528.0,NFIR
+149,Net working cap to sales,12  Mar-17*,13.7,NFIR
+150,Current ratio,12  Mar-17*,1.2,NFIR
+151,Inventory Days,12  Mar-17*,71.0,NFIR
+152,Debtors Days,12  Mar-17*,116.0,NFIR
+153,Net fixed assets,12  Mar-17*,2052.0,NFIR
+154,Share capital,12  Mar-17*,585.0,NFIR
+155,"""Free"" reserves",12  Mar-17*,4475.0,NFIR
+156,Net worth,12  Mar-17*,5060.0,NFIR
+157,Long term debt,12  Mar-17*,391.0,NFIR
+158,Total assets,12  Mar-17*,13017.0,NFIR
+159,Interest coverage,12  Mar-17*,0.8,NFIR
+160,Debt to equity ratio,12  Mar-17*,0.1,NFIR
+161,Sales to assets ratio,12  Mar-17*,1.0,NFIR
+162,Return on assets,12  Mar-17*,1.8,NFIR
+163,Return on equity,12  Mar-17*,-7.4,NFIR
+164,Return on capital,12  Mar-17*,4.2,NFIR
+165,Exports to sales,12  Mar-17*,4.0,NFIR
+166,Imports to sales,12  Mar-17*,0.0,NFIR
+167,Exports (fob),12  Mar-17*,532.0,NFIR
+168,Imports (cif),12  Mar-17*,0.0,NFIR
+169,Fx inflow,12  Mar-17*,532.0,NFIR
+170,Fx outflow,12  Mar-17*,207.0,NFIR
+171,Net fx,12  Mar-17*,325.0,NFIR
+172,From Operations,12  Mar-17*,2439.0,NFIR
+173,From Investments,12  Mar-17*,-481.0,NFIR
+174,From Financial Activity,12  Mar-17*,-2037.0,NFIR
+175,Net Cashflow,12  Mar-17*,-79.0,NFIR
+176,Net Sales,12  Mar-18*,8877.0,NFIR
+177,Other income,12  Mar-18*,55.0,NFIR
+178,Total revenues,12  Mar-18*,8932.0,NFIR
+179,Gross profit,12  Mar-18*,-686.0,NFIR
+180,Depreciation,12  Mar-18*,381.0,NFIR
+181,Interest,12  Mar-18*,735.0,NFIR
+182,Profit before tax,12  Mar-18*,-1746.0,NFIR
+183,Minority Interest,12  Mar-18*,39.0,NFIR
+184,Prior Period Items,12  Mar-18*,0.0,NFIR
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,NFIR
+186,Tax,12  Mar-18*,5.0,NFIR
+187,Profit after tax,12  Mar-18*,-1711.0,NFIR
+188,Gross profit margin,12  Mar-18*,-7.7,NFIR
+189,Effective tax rate,12  Mar-18*,-0.3,NFIR
+190,Net profit margin,12  Mar-18*,-19.3,NFIR
+191,Current assets,12  Mar-18*,8769.0,NFIR
+192,Current liabilities,12  Mar-18*,10223.0,NFIR
+193,Net working cap to sales,12  Mar-18*,-16.4,NFIR
+194,Current ratio,12  Mar-18*,0.9,NFIR
+195,Inventory Days,12  Mar-18*,93.0,NFIR
+196,Debtors Days,12  Mar-18*,218.0,NFIR
+197,Net fixed assets,12  Mar-18*,2413.0,NFIR
+198,Share capital,12  Mar-18*,585.0,NFIR
+199,"""Free"" reserves",12  Mar-18*,2858.0,NFIR
+200,Net worth,12  Mar-18*,3442.0,NFIR
+201,Long term debt,12  Mar-18*,247.0,NFIR
+202,Total assets,12  Mar-18*,13996.0,NFIR
+203,Interest coverage,12  Mar-18*,-1.4,NFIR
+204,Debt to equity ratio,12  Mar-18*,0.1,NFIR
+205,Sales to assets ratio,12  Mar-18*,0.6,NFIR
+206,Return on assets,12  Mar-18*,-7.0,NFIR
+207,Return on equity,12  Mar-18*,-49.7,NFIR
+208,Return on capital,12  Mar-18*,-26.3,NFIR
+209,Exports to sales,12  Mar-18*,0.2,NFIR
+210,Imports to sales,12  Mar-18*,0.0,NFIR
+211,Exports (fob),12  Mar-18*,15.0,NFIR
+212,Imports (cif),12  Mar-18*,0.0,NFIR
+213,Fx inflow,12  Mar-18*,15.0,NFIR
+214,Fx outflow,12  Mar-18*,24.0,NFIR
+215,Net fx,12  Mar-18*,-9.0,NFIR
+216,From Operations,12  Mar-18*,-1590.0,NFIR
+217,From Investments,12  Mar-18*,-2002.0,NFIR
+218,From Financial Activity,12  Mar-18*,3665.0,NFIR
+219,Net Cashflow,12  Mar-18*,73.0,NFIR

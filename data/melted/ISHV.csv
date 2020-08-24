@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-14,16646.0,ISHV
+1,Other income,12  Jun-14,316.0,ISHV
+2,Total revenues,12  Jun-14,16963.0,ISHV
+3,Gross profit,12  Jun-14,731.0,ISHV
+4,Depreciation,12  Jun-14,330.0,ISHV
+5,Interest,12  Jun-14,4.0,ISHV
+6,Profit before tax,12  Jun-14,714.0,ISHV
+7,Minority Interest,12  Jun-14,0.0,ISHV
+8,Prior Period Items,12  Jun-14,0.0,ISHV
+9,Extraordinary Inc (Exp),12  Jun-14,0.0,ISHV
+10,Tax,12  Jun-14,261.0,ISHV
+11,Profit after tax,12  Jun-14,453.0,ISHV
+12,Gross profit margin,12  Jun-14,4.4,ISHV
+13,Effective tax rate,12  Jun-14,36.6,ISHV
+14,Net profit margin,12  Jun-14,2.7,ISHV
+15,Current assets,12  Jun-14,6968.0,ISHV
+16,Current liabilities,12  Jun-14,4061.0,ISHV
+17,Net working cap to sales,12  Jun-14,17.5,ISHV
+18,Current ratio,12  Jun-14,1.7,ISHV
+19,Inventory Days,12  Jun-14,51.0,ISHV
+20,Debtors Days,12  Jun-14,20.0,ISHV
+21,Net fixed assets,12  Jun-14,2335.0,ISHV
+22,Share capital,12  Jun-14,326.0,ISHV
+23,"""Free"" reserves",12  Jun-14,4175.0,ISHV
+24,Net worth,12  Jun-14,6435.0,ISHV
+25,Long term debt,12  Jun-14,0.0,ISHV
+26,Total assets,12  Jun-14,10541.0,ISHV
+27,Interest coverage,12  Jun-14,199.3,ISHV
+28,Debt to equity ratio,12  Jun-14,0.0,ISHV
+29,Sales to assets ratio,12  Jun-14,1.6,ISHV
+30,Return on assets,12  Jun-14,4.3,ISHV
+31,Return on equity,12  Jun-14,7.0,ISHV
+32,Return on capital,12  Jun-14,11.1,ISHV
+33,Exports to sales,12  Jun-14,0.9,ISHV
+34,Imports to sales,12  Jun-14,10.8,ISHV
+35,Exports (fob),12  Jun-14,152.0,ISHV
+36,Imports (cif),12  Jun-14,1805.0,ISHV
+37,Fx inflow,12  Jun-14,156.0,ISHV
+38,Fx outflow,12  Jun-14,2384.0,ISHV
+39,Net fx,12  Jun-14,-2228.0,ISHV
+40,From Operations,12  Jun-14,963.0,ISHV
+41,From Investments,12  Jun-14,-361.0,ISHV
+42,From Financial Activity,12  Jun-14,-572.0,ISHV
+43,Net Cashflow,12  Jun-14,30.0,ISHV
+44,Net Sales,12  Jun-15,18747.0,ISHV
+45,Other income,12  Jun-15,351.0,ISHV
+46,Total revenues,12  Jun-15,19098.0,ISHV
+47,Gross profit,12  Jun-15,1649.0,ISHV
+48,Depreciation,12  Jun-15,389.0,ISHV
+49,Interest,12  Jun-15,47.0,ISHV
+50,Profit before tax,12  Jun-15,1565.0,ISHV
+51,Minority Interest,12  Jun-15,0.0,ISHV
+52,Prior Period Items,12  Jun-15,0.0,ISHV
+53,Extraordinary Inc (Exp),12  Jun-15,0.0,ISHV
+54,Tax,12  Jun-15,569.0,ISHV
+55,Profit after tax,12  Jun-15,996.0,ISHV
+56,Gross profit margin,12  Jun-15,8.8,ISHV
+57,Effective tax rate,12  Jun-15,36.4,ISHV
+58,Net profit margin,12  Jun-15,5.3,ISHV
+59,Current assets,12  Jun-15,8375.0,ISHV
+60,Current liabilities,12  Jun-15,4646.0,ISHV
+61,Net working cap to sales,12  Jun-15,19.9,ISHV
+62,Current ratio,12  Jun-15,1.8,ISHV
+63,Inventory Days,12  Jun-15,39.0,ISHV
+64,Debtors Days,12  Jun-15,23.0,ISHV
+65,Net fixed assets,12  Jun-15,2193.0,ISHV
+66,Share capital,12  Jun-15,326.0,ISHV
+67,"""Free"" reserves",12  Jun-15,4954.0,ISHV
+68,Net worth,12  Jun-15,7423.0,ISHV
+69,Long term debt,12  Jun-15,0.0,ISHV
+70,Total assets,12  Jun-15,12099.0,ISHV
+71,Interest coverage,12  Jun-15,34.6,ISHV
+72,Debt to equity ratio,12  Jun-15,0.0,ISHV
+73,Sales to assets ratio,12  Jun-15,1.5,ISHV
+74,Return on assets,12  Jun-15,8.6,ISHV
+75,Return on equity,12  Jun-15,13.4,ISHV
+76,Return on capital,12  Jun-15,21.7,ISHV
+77,Exports to sales,12  Jun-15,2.1,ISHV
+78,Imports to sales,12  Jun-15,12.3,ISHV
+79,Exports (fob),12  Jun-15,390.0,ISHV
+80,Imports (cif),12  Jun-15,2308.0,ISHV
+81,Fx inflow,12  Jun-15,1037.0,ISHV
+82,Fx outflow,12  Jun-15,2661.0,ISHV
+83,Net fx,12  Jun-15,-1624.0,ISHV
+84,From Operations,12  Jun-15,1719.0,ISHV
+85,From Investments,12  Jun-15,-1026.0,ISHV
+86,From Financial Activity,12  Jun-15,-577.0,ISHV
+87,Net Cashflow,12  Jun-15,116.0,ISHV
+88,Net Sales,12  Jun-16,19597.0,ISHV
+89,Other income,12  Jun-16,358.0,ISHV
+90,Total revenues,12  Jun-16,19954.0,ISHV
+91,Gross profit,12  Jun-16,3030.0,ISHV
+92,Depreciation,12  Jun-16,304.0,ISHV
+93,Interest,12  Jun-16,46.0,ISHV
+94,Profit before tax,12  Jun-16,3038.0,ISHV
+95,Minority Interest,12  Jun-16,0.0,ISHV
+96,Prior Period Items,12  Jun-16,0.0,ISHV
+97,Extraordinary Inc (Exp),12  Jun-16,0.0,ISHV
+98,Tax,12  Jun-16,1057.0,ISHV
+99,Profit after tax,12  Jun-16,1981.0,ISHV
+100,Gross profit margin,12  Jun-16,15.5,ISHV
+101,Effective tax rate,12  Jun-16,34.8,ISHV
+102,Net profit margin,12  Jun-16,10.1,ISHV
+103,Current assets,12  Jun-16,9732.0,ISHV
+104,Current liabilities,12  Jun-16,5627.0,ISHV
+105,Net working cap to sales,12  Jun-16,20.9,ISHV
+106,Current ratio,12  Jun-16,1.7,ISHV
+107,Inventory Days,12  Jun-16,46.0,ISHV
+108,Debtors Days,12  Jun-16,20.0,ISHV
+109,Net fixed assets,12  Jun-16,2740.0,ISHV
+110,Share capital,12  Jun-16,326.0,ISHV
+111,"""Free"" reserves",12  Jun-16,5973.0,ISHV
+112,Net worth,12  Jun-16,8578.0,ISHV
+113,Long term debt,12  Jun-16,0.0,ISHV
+114,Total assets,12  Jun-16,14241.0,ISHV
+115,Interest coverage,12  Jun-16,66.9,ISHV
+116,Debt to equity ratio,12  Jun-16,0.0,ISHV
+117,Sales to assets ratio,12  Jun-16,1.4,ISHV
+118,Return on assets,12  Jun-16,14.2,ISHV
+119,Return on equity,12  Jun-16,23.1,ISHV
+120,Return on capital,12  Jun-16,36.0,ISHV
+121,Exports to sales,12  Jun-16,2.8,ISHV
+122,Imports to sales,12  Jun-16,15.6,ISHV
+123,Exports (fob),12  Jun-16,548.0,ISHV
+124,Imports (cif),12  Jun-16,3050.0,ISHV
+125,Fx inflow,12  Jun-16,585.0,ISHV
+126,Fx outflow,12  Jun-16,3479.0,ISHV
+127,Net fx,12  Jun-16,-2894.0,ISHV
+128,From Operations,12  Jun-16,2794.0,ISHV
+129,From Investments,12  Jun-16,1550.0,ISHV
+130,From Financial Activity,12  Jun-16,-786.0,ISHV
+131,Net Cashflow,12  Jun-16,3559.0,ISHV
+132,Net Sales,12  Jun-17,17336.0,ISHV
+133,Other income,12  Jun-17,378.0,ISHV
+134,Total revenues,12  Jun-17,17714.0,ISHV
+135,Gross profit,12  Jun-17,3816.0,ISHV
+136,Depreciation,12  Jun-17,384.0,ISHV
+137,Interest,12  Jun-17,67.0,ISHV
+138,Profit before tax,12  Jun-17,3743.0,ISHV
+139,Minority Interest,12  Jun-17,0.0,ISHV
+140,Prior Period Items,12  Jun-17,0.0,ISHV
+141,Extraordinary Inc (Exp),12  Jun-17,0.0,ISHV
+142,Tax,12  Jun-17,1212.0,ISHV
+143,Profit after tax,12  Jun-17,2531.0,ISHV
+144,Gross profit margin,12  Jun-17,22.0,ISHV
+145,Effective tax rate,12  Jun-17,32.4,ISHV
+146,Net profit margin,12  Jun-17,14.6,ISHV
+147,Current assets,12  Jun-17,4985.0,ISHV
+148,Current liabilities,12  Jun-17,4640.0,ISHV
+149,Net working cap to sales,12  Jun-17,2.0,ISHV
+150,Current ratio,12  Jun-17,1.1,ISHV
+151,Inventory Days,12  Jun-17,47.0,ISHV
+152,Debtors Days,12  Jun-17,27.0,ISHV
+153,Net fixed assets,12  Jun-17,2774.0,ISHV
+154,Share capital,12  Jun-17,326.0,ISHV
+155,"""Free"" reserves",12  Jun-17,4680.0,ISHV
+156,Net worth,12  Jun-17,5006.0,ISHV
+157,Long term debt,12  Jun-17,0.0,ISHV
+158,Total assets,12  Jun-17,9985.0,ISHV
+159,Interest coverage,12  Jun-17,56.5,ISHV
+160,Debt to equity ratio,12  Jun-17,0.0,ISHV
+161,Sales to assets ratio,12  Jun-17,1.7,ISHV
+162,Return on assets,12  Jun-17,26.0,ISHV
+163,Return on equity,12  Jun-17,50.6,ISHV
+164,Return on capital,12  Jun-17,76.1,ISHV
+165,Exports to sales,12  Jun-17,0.0,ISHV
+166,Imports to sales,12  Jun-17,0.0,ISHV
+167,Exports (fob),12  Jun-17,0.0,ISHV
+168,Imports (cif),12  Jun-17,0.0,ISHV
+169,Fx inflow,12  Jun-17,1526.0,ISHV
+170,Fx outflow,12  Jun-17,4062.0,ISHV
+171,Net fx,12  Jun-17,-2535.0,ISHV
+172,From Operations,12  Jun-17,2480.0,ISHV
+173,From Investments,12  Jun-17,137.0,ISHV
+174,From Financial Activity,12  Jun-17,-6841.0,ISHV
+175,Net Cashflow,12  Jun-17,-4224.0,ISHV
+176,Net Sales,12  Jun-18,16769.0,ISHV
+177,Other income,12  Jun-18,128.0,ISHV
+178,Total revenues,12  Jun-18,16896.0,ISHV
+179,Gross profit,12  Jun-18,3816.0,ISHV
+180,Depreciation,12  Jun-18,423.0,ISHV
+181,Interest,12  Jun-18,75.0,ISHV
+182,Profit before tax,12  Jun-18,3446.0,ISHV
+183,Minority Interest,12  Jun-18,0.0,ISHV
+184,Prior Period Items,12  Jun-18,0.0,ISHV
+185,Extraordinary Inc (Exp),12  Jun-18,0.0,ISHV
+186,Tax,12  Jun-18,1156.0,ISHV
+187,Profit after tax,12  Jun-18,2291.0,ISHV
+188,Gross profit margin,12  Jun-18,22.8,ISHV
+189,Effective tax rate,12  Jun-18,33.5,ISHV
+190,Net profit margin,12  Jun-18,13.7,ISHV
+191,Current assets,12  Jun-18,6742.0,ISHV
+192,Current liabilities,12  Jun-18,4794.0,ISHV
+193,Net working cap to sales,12  Jun-18,11.6,ISHV
+194,Current ratio,12  Jun-18,1.4,ISHV
+195,Inventory Days,12  Jun-18,44.0,ISHV
+196,Debtors Days,12  Jun-18,38.0,ISHV
+197,Net fixed assets,12  Jun-18,3048.0,ISHV
+198,Share capital,12  Jun-18,326.0,ISHV
+199,"""Free"" reserves",12  Jun-18,6616.0,ISHV
+200,Net worth,12  Jun-18,6942.0,ISHV
+201,Long term debt,12  Jun-18,0.0,ISHV
+202,Total assets,12  Jun-18,12090.0,ISHV
+203,Interest coverage,12  Jun-18,47.2,ISHV
+204,Debt to equity ratio,12  Jun-18,0.0,ISHV
+205,Sales to assets ratio,12  Jun-18,1.4,ISHV
+206,Return on assets,12  Jun-18,19.6,ISHV
+207,Return on equity,12  Jun-18,33.0,ISHV
+208,Return on capital,12  Jun-18,50.7,ISHV
+209,Exports to sales,12  Jun-18,0.0,ISHV
+210,Imports to sales,12  Jun-18,0.0,ISHV
+211,Exports (fob),12  Jun-18,0.0,ISHV
+212,Imports (cif),12  Jun-18,0.0,ISHV
+213,Fx inflow,12  Jun-18,2782.0,ISHV
+214,Fx outflow,12  Jun-18,5079.0,ISHV
+215,Net fx,12  Jun-18,-2296.0,ISHV
+216,From Operations,12  Jun-18,2371.0,ISHV
+217,From Investments,12  Jun-18,-768.0,ISHV
+218,From Financial Activity,12  Jun-18,-392.0,ISHV
+219,Net Cashflow,12  Jun-18,1211.0,ISHV

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,8037.0,KSBP
+1,Other income,12  Dec-14*,229.0,KSBP
+2,Total revenues,12  Dec-14*,8265.0,KSBP
+3,Gross profit,12  Dec-14*,1011.0,KSBP
+4,Depreciation,12  Dec-14*,276.0,KSBP
+5,Interest,12  Dec-14*,22.0,KSBP
+6,Profit before tax,12  Dec-14*,943.0,KSBP
+7,Minority Interest,12  Dec-14*,0.0,KSBP
+8,Prior Period Items,12  Dec-14*,66.0,KSBP
+9,Extraordinary Inc (Exp),12  Dec-14*,0.0,KSBP
+10,Tax,12  Dec-14*,325.0,KSBP
+11,Profit after tax,12  Dec-14*,684.0,KSBP
+12,Gross profit margin,12  Dec-14*,12.6,KSBP
+13,Effective tax rate,12  Dec-14*,34.5,KSBP
+14,Net profit margin,12  Dec-14*,8.5,KSBP
+15,Current assets,12  Dec-14*,5981.0,KSBP
+16,Current liabilities,12  Dec-14*,3202.0,KSBP
+17,Net working cap to sales,12  Dec-14*,34.6,KSBP
+18,Current ratio,12  Dec-14*,1.9,KSBP
+19,Inventory Days,12  Dec-14*,92.0,KSBP
+20,Debtors Days,12  Dec-14*,81.0,KSBP
+21,Net fixed assets,12  Dec-14*,2008.0,KSBP
+22,Share capital,12  Dec-14*,348.0,KSBP
+23,"""Free"" reserves",12  Dec-14*,5224.0,KSBP
+24,Net worth,12  Dec-14*,5572.0,KSBP
+25,Long term debt,12  Dec-14*,0.0,KSBP
+26,Total assets,12  Dec-14*,9137.0,KSBP
+27,Interest coverage,12  Dec-14*,44.9,KSBP
+28,Debt to equity ratio,12  Dec-14*,0.0,KSBP
+29,Sales to assets ratio,12  Dec-14*,0.9,KSBP
+30,Return on assets,12  Dec-14*,7.7,KSBP
+31,Return on equity,12  Dec-14*,12.3,KSBP
+32,Return on capital,12  Dec-14*,18.5,KSBP
+33,Exports to sales,12  Dec-14*,15.1,KSBP
+34,Imports to sales,12  Dec-14*,5.9,KSBP
+35,Exports (fob),12  Dec-14*,1210.0,KSBP
+36,Imports (cif),12  Dec-14*,471.0,KSBP
+37,Fx inflow,12  Dec-14*,1275.0,KSBP
+38,Fx outflow,12  Dec-14*,767.0,KSBP
+39,Net fx,12  Dec-14*,509.0,KSBP
+40,From Operations,12  Dec-14*,352.0,KSBP
+41,From Investments,12  Dec-14*,-171.0,KSBP
+42,From Financial Activity,12  Dec-14*,7.0,KSBP
+43,Net Cashflow,12  Dec-14*,188.0,KSBP
+44,Net Sales,12  Dec-15*,8207.0,KSBP
+45,Other income,12  Dec-15*,241.0,KSBP
+46,Total revenues,12  Dec-15*,8448.0,KSBP
+47,Gross profit,12  Dec-15*,1059.0,KSBP
+48,Depreciation,12  Dec-15*,278.0,KSBP
+49,Interest,12  Dec-15*,17.0,KSBP
+50,Profit before tax,12  Dec-15*,1005.0,KSBP
+51,Minority Interest,12  Dec-15*,0.0,KSBP
+52,Prior Period Items,12  Dec-15*,46.0,KSBP
+53,Extraordinary Inc (Exp),12  Dec-15*,0.0,KSBP
+54,Tax,12  Dec-15*,364.0,KSBP
+55,Profit after tax,12  Dec-15*,687.0,KSBP
+56,Gross profit margin,12  Dec-15*,12.9,KSBP
+57,Effective tax rate,12  Dec-15*,36.2,KSBP
+58,Net profit margin,12  Dec-15*,8.4,KSBP
+59,Current assets,12  Dec-15*,6289.0,KSBP
+60,Current liabilities,12  Dec-15*,3114.0,KSBP
+61,Net working cap to sales,12  Dec-15*,38.7,KSBP
+62,Current ratio,12  Dec-15*,2.0,KSBP
+63,Inventory Days,12  Dec-15*,81.0,KSBP
+64,Debtors Days,12  Dec-15*,79.0,KSBP
+65,Net fixed assets,12  Dec-15*,2083.0,KSBP
+66,Share capital,12  Dec-15*,348.0,KSBP
+67,"""Free"" reserves",12  Dec-15*,5680.0,KSBP
+68,Net worth,12  Dec-15*,6029.0,KSBP
+69,Long term debt,12  Dec-15*,0.0,KSBP
+70,Total assets,12  Dec-15*,9507.0,KSBP
+71,Interest coverage,12  Dec-15*,58.8,KSBP
+72,Debt to equity ratio,12  Dec-15*,0.0,KSBP
+73,Sales to assets ratio,12  Dec-15*,0.9,KSBP
+74,Return on assets,12  Dec-15*,7.4,KSBP
+75,Return on equity,12  Dec-15*,11.4,KSBP
+76,Return on capital,12  Dec-15*,17.7,KSBP
+77,Exports to sales,12  Dec-15*,19.3,KSBP
+78,Imports to sales,12  Dec-15*,6.6,KSBP
+79,Exports (fob),12  Dec-15*,1588.0,KSBP
+80,Imports (cif),12  Dec-15*,545.0,KSBP
+81,Fx inflow,12  Dec-15*,1651.0,KSBP
+82,Fx outflow,12  Dec-15*,877.0,KSBP
+83,Net fx,12  Dec-15*,774.0,KSBP
+84,From Operations,12  Dec-15*,1121.0,KSBP
+85,From Investments,12  Dec-15*,-330.0,KSBP
+86,From Financial Activity,12  Dec-15*,-479.0,KSBP
+87,Net Cashflow,12  Dec-15*,314.0,KSBP
+88,Net Sales,12  Dec-16*,8279.0,KSBP
+89,Other income,12  Dec-16*,240.0,KSBP
+90,Total revenues,12  Dec-16*,8519.0,KSBP
+91,Gross profit,12  Dec-16*,991.0,KSBP
+92,Depreciation,12  Dec-16*,294.0,KSBP
+93,Interest,12  Dec-16*,17.0,KSBP
+94,Profit before tax,12  Dec-16*,920.0,KSBP
+95,Minority Interest,12  Dec-16*,0.0,KSBP
+96,Prior Period Items,12  Dec-16*,49.0,KSBP
+97,Extraordinary Inc (Exp),12  Dec-16*,0.0,KSBP
+98,Tax,12  Dec-16*,316.0,KSBP
+99,Profit after tax,12  Dec-16*,653.0,KSBP
+100,Gross profit margin,12  Dec-16*,12.0,KSBP
+101,Effective tax rate,12  Dec-16*,34.4,KSBP
+102,Net profit margin,12  Dec-16*,7.9,KSBP
+103,Current assets,12  Dec-16*,6377.0,KSBP
+104,Current liabilities,12  Dec-16*,3248.0,KSBP
+105,Net working cap to sales,12  Dec-16*,37.8,KSBP
+106,Current ratio,12  Dec-16*,2.0,KSBP
+107,Inventory Days,12  Dec-16*,93.0,KSBP
+108,Debtors Days,12  Dec-16*,79.0,KSBP
+109,Net fixed assets,12  Dec-16*,2351.0,KSBP
+110,Share capital,12  Dec-16*,348.0,KSBP
+111,"""Free"" reserves",12  Dec-16*,6103.0,KSBP
+112,Net worth,12  Dec-16*,6451.0,KSBP
+113,Long term debt,12  Dec-16*,0.0,KSBP
+114,Total assets,12  Dec-16*,10131.0,KSBP
+115,Interest coverage,12  Dec-16*,54.5,KSBP
+116,Debt to equity ratio,12  Dec-16*,0.0,KSBP
+117,Sales to assets ratio,12  Dec-16*,0.8,KSBP
+118,Return on assets,12  Dec-16*,6.6,KSBP
+119,Return on equity,12  Dec-16*,10.1,KSBP
+120,Return on capital,12  Dec-16*,15.3,KSBP
+121,Exports to sales,12  Dec-16*,0.0,KSBP
+122,Imports to sales,12  Dec-16*,0.0,KSBP
+123,Exports (fob),12  Dec-16*,0.0,KSBP
+124,Imports (cif),12  Dec-16*,0.0,KSBP
+125,Fx inflow,12  Dec-16*,1194.0,KSBP
+126,Fx outflow,12  Dec-16*,961.0,KSBP
+127,Net fx,12  Dec-16*,233.0,KSBP
+128,From Operations,12  Dec-16*,562.0,KSBP
+129,From Investments,12  Dec-16*,-612.0,KSBP
+130,From Financial Activity,12  Dec-16*,-209.0,KSBP
+131,Net Cashflow,12  Dec-16*,-260.0,KSBP
+132,Net Sales,12  Dec-17*,9443.0,KSBP
+133,Other income,12  Dec-17*,297.0,KSBP
+134,Total revenues,12  Dec-17*,9740.0,KSBP
+135,Gross profit,12  Dec-17*,1075.0,KSBP
+136,Depreciation,12  Dec-17*,309.0,KSBP
+137,Interest,12  Dec-17*,36.0,KSBP
+138,Profit before tax,12  Dec-17*,1028.0,KSBP
+139,Minority Interest,12  Dec-17*,0.0,KSBP
+140,Prior Period Items,12  Dec-17*,52.0,KSBP
+141,Extraordinary Inc (Exp),12  Dec-17*,0.0,KSBP
+142,Tax,12  Dec-17*,371.0,KSBP
+143,Profit after tax,12  Dec-17*,709.0,KSBP
+144,Gross profit margin,12  Dec-17*,11.4,KSBP
+145,Effective tax rate,12  Dec-17*,36.1,KSBP
+146,Net profit margin,12  Dec-17*,7.5,KSBP
+147,Current assets,12  Dec-17*,6356.0,KSBP
+148,Current liabilities,12  Dec-17*,3294.0,KSBP
+149,Net working cap to sales,12  Dec-17*,32.4,KSBP
+150,Current ratio,12  Dec-17*,1.9,KSBP
+151,Inventory Days,12  Dec-17*,96.0,KSBP
+152,Debtors Days,12  Dec-17*,99.0,KSBP
+153,Net fixed assets,12  Dec-17*,3123.0,KSBP
+154,Share capital,12  Dec-17*,348.0,KSBP
+155,"""Free"" reserves",12  Dec-17*,6756.0,KSBP
+156,Net worth,12  Dec-17*,7104.0,KSBP
+157,Long term debt,12  Dec-17*,0.0,KSBP
+158,Total assets,12  Dec-17*,10772.0,KSBP
+159,Interest coverage,12  Dec-17*,29.9,KSBP
+160,Debt to equity ratio,12  Dec-17*,0.0,KSBP
+161,Sales to assets ratio,12  Dec-17*,0.9,KSBP
+162,Return on assets,12  Dec-17*,6.9,KSBP
+163,Return on equity,12  Dec-17*,10.0,KSBP
+164,Return on capital,12  Dec-17*,15.7,KSBP
+165,Exports to sales,12  Dec-17*,0.0,KSBP
+166,Imports to sales,12  Dec-17*,0.0,KSBP
+167,Exports (fob),12  Dec-17*,0.0,KSBP
+168,Imports (cif),12  Dec-17*,0.0,KSBP
+169,Fx inflow,12  Dec-17*,1405.0,KSBP
+170,Fx outflow,12  Dec-17*,881.0,KSBP
+171,Net fx,12  Dec-17*,524.0,KSBP
+172,From Operations,12  Dec-17*,-254.0,KSBP
+173,From Investments,12  Dec-17*,388.0,KSBP
+174,From Financial Activity,12  Dec-17*,-208.0,KSBP
+175,Net Cashflow,12  Dec-17*,-74.0,KSBP
+176,Net Sales,12  Dec-18*,10931.0,KSBP
+177,Other income,12  Dec-18*,200.0,KSBP
+178,Total revenues,12  Dec-18*,11131.0,KSBP
+179,Gross profit,12  Dec-18*,1283.0,KSBP
+180,Depreciation,12  Dec-18*,397.0,KSBP
+181,Interest,12  Dec-18*,38.0,KSBP
+182,Profit before tax,12  Dec-18*,1050.0,KSBP
+183,Minority Interest,12  Dec-18*,0.0,KSBP
+184,Prior Period Items,12  Dec-18*,43.0,KSBP
+185,Extraordinary Inc (Exp),12  Dec-18*,0.0,KSBP
+186,Tax,12  Dec-18*,377.0,KSBP
+187,Profit after tax,12  Dec-18*,716.0,KSBP
+188,Gross profit margin,12  Dec-18*,11.7,KSBP
+189,Effective tax rate,12  Dec-18*,35.9,KSBP
+190,Net profit margin,12  Dec-18*,6.6,KSBP
+191,Current assets,12  Dec-18*,8063.0,KSBP
+192,Current liabilities,12  Dec-18*,4556.0,KSBP
+193,Net working cap to sales,12  Dec-18*,32.1,KSBP
+194,Current ratio,12  Dec-18*,1.8,KSBP
+195,Inventory Days,12  Dec-18*,101.0,KSBP
+196,Debtors Days,12  Dec-18*,97.0,KSBP
+197,Net fixed assets,12  Dec-18*,3252.0,KSBP
+198,Share capital,12  Dec-18*,348.0,KSBP
+199,"""Free"" reserves",12  Dec-18*,7230.0,KSBP
+200,Net worth,12  Dec-18*,7578.0,KSBP
+201,Long term debt,12  Dec-18*,0.0,KSBP
+202,Total assets,12  Dec-18*,12500.0,KSBP
+203,Interest coverage,12  Dec-18*,29.0,KSBP
+204,Debt to equity ratio,12  Dec-18*,0.0,KSBP
+205,Sales to assets ratio,12  Dec-18*,0.9,KSBP
+206,Return on assets,12  Dec-18*,6.0,KSBP
+207,Return on equity,12  Dec-18*,9.5,KSBP
+208,Return on capital,12  Dec-18*,14.9,KSBP
+209,Exports to sales,12  Dec-18*,0.0,KSBP
+210,Imports to sales,12  Dec-18*,0.0,KSBP
+211,Exports (fob),12  Dec-18*,0.0,KSBP
+212,Imports (cif),12  Dec-18*,0.0,KSBP
+213,Fx inflow,12  Dec-18*,1480.0,KSBP
+214,Fx outflow,12  Dec-18*,914.0,KSBP
+215,Net fx,12  Dec-18*,566.0,KSBP
+216,From Operations,12  Dec-18*,775.0,KSBP
+217,From Investments,12  Dec-18*,-855.0,KSBP
+218,From Financial Activity,12  Dec-18*,17.0,KSBP
+219,Net Cashflow,12  Dec-18*,-63.0,KSBP

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,251532.0,CEMCO
+1,Other income,12  Mar-16*,4638.0,CEMCO
+2,Total revenues,12  Mar-16*,256170.0,CEMCO
+3,Gross profit,12  Mar-16*,49010.0,CEMCO
+4,Depreciation,12  Mar-16*,13772.0,CEMCO
+5,Interest,12  Mar-16*,5663.0,CEMCO
+6,Profit before tax,12  Mar-16*,34213.0,CEMCO
+7,Minority Interest,12  Mar-16*,0.0,CEMCO
+8,Prior Period Items,12  Mar-16*,0.0,CEMCO
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,CEMCO
+10,Tax,12  Mar-16*,9417.0,CEMCO
+11,Profit after tax,12  Mar-16*,24796.0,CEMCO
+12,Gross profit margin,12  Mar-16*,19.5,CEMCO
+13,Effective tax rate,12  Mar-16*,27.5,CEMCO
+14,Net profit margin,12  Mar-16*,9.9,CEMCO
+15,Current assets,12  Mar-16*,105339.0,CEMCO
+16,Current liabilities,12  Mar-16*,116182.0,CEMCO
+17,Net working cap to sales,12  Mar-16*,-4.3,CEMCO
+18,Current ratio,12  Mar-16*,0.9,CEMCO
+19,Inventory Days,12  Mar-16*,36.0,CEMCO
+20,Debtors Days,12  Mar-16*,28.0,CEMCO
+21,Net fixed assets,12  Mar-16*,267785.0,CEMCO
+22,Share capital,12  Mar-16*,2744.0,CEMCO
+23,"""Free"" reserves",12  Mar-16*,216712.0,CEMCO
+24,Net worth,12  Mar-16*,219456.0,CEMCO
+25,Long term debt,12  Mar-16*,48966.0,CEMCO
+26,Total assets,12  Mar-16*,412033.0,CEMCO
+27,Interest coverage,12  Mar-16*,7.0,CEMCO
+28,Debt to equity ratio,12  Mar-16*,0.2,CEMCO
+29,Sales to assets ratio,12  Mar-16*,0.6,CEMCO
+30,Return on assets,12  Mar-16*,7.4,CEMCO
+31,Return on equity,12  Mar-16*,11.3,CEMCO
+32,Return on capital,12  Mar-16*,14.9,CEMCO
+33,Exports to sales,12  Mar-16*,1.2,CEMCO
+34,Imports to sales,12  Mar-16*,5.3,CEMCO
+35,Exports (fob),12  Mar-16*,3028.0,CEMCO
+36,Imports (cif),12  Mar-16*,13374.0,CEMCO
+37,Fx inflow,12  Mar-16*,3647.0,CEMCO
+38,Fx outflow,12  Mar-16*,15339.0,CEMCO
+39,Net fx,12  Mar-16*,-11692.0,CEMCO
+40,From Operations,12  Mar-16*,45255.0,CEMCO
+41,From Investments,12  Mar-16*,-37267.0,CEMCO
+42,From Financial Activity,12  Mar-16*,-8440.0,CEMCO
+43,Net Cashflow,12  Mar-16*,81.0,CEMCO
+44,Net Sales,12  Mar-17*,253749.0,CEMCO
+45,Other income,12  Mar-17*,6481.0,CEMCO
+46,Total revenues,12  Mar-17*,260231.0,CEMCO
+47,Gross profit,12  Mar-17*,52125.0,CEMCO
+48,Depreciation,12  Mar-17*,13484.0,CEMCO
+49,Interest,12  Mar-17*,6401.0,CEMCO
+50,Profit before tax,12  Mar-17*,38721.0,CEMCO
+51,Minority Interest,12  Mar-17*,0.0,CEMCO
+52,Prior Period Items,12  Mar-17*,0.0,CEMCO
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,CEMCO
+54,Tax,12  Mar-17*,11586.0,CEMCO
+55,Profit after tax,12  Mar-17*,27135.0,CEMCO
+56,Gross profit margin,12  Mar-17*,20.5,CEMCO
+57,Effective tax rate,12  Mar-17*,29.9,CEMCO
+58,Net profit margin,12  Mar-17*,10.7,CEMCO
+59,Current assets,12  Mar-17*,133257.0,CEMCO
+60,Current liabilities,12  Mar-17*,83286.0,CEMCO
+61,Net working cap to sales,12  Mar-17*,19.7,CEMCO
+62,Current ratio,12  Mar-17*,1.6,CEMCO
+63,Inventory Days,12  Mar-17*,35.0,CEMCO
+64,Debtors Days,12  Mar-17*,25.0,CEMCO
+65,Net fixed assets,12  Mar-17*,268258.0,CEMCO
+66,Share capital,12  Mar-17*,2745.0,CEMCO
+67,"""Free"" reserves",12  Mar-17*,241174.0,CEMCO
+68,Net worth,12  Mar-17*,243919.0,CEMCO
+69,Long term debt,12  Mar-17*,63708.0,CEMCO
+70,Total assets,12  Mar-17*,422189.0,CEMCO
+71,Interest coverage,12  Mar-17*,7.0,CEMCO
+72,Debt to equity ratio,12  Mar-17*,0.3,CEMCO
+73,Sales to assets ratio,12  Mar-17*,0.6,CEMCO
+74,Return on assets,12  Mar-17*,7.9,CEMCO
+75,Return on equity,12  Mar-17*,11.1,CEMCO
+76,Return on capital,12  Mar-17*,14.7,CEMCO
+77,Exports to sales,12  Mar-17*,0.0,CEMCO
+78,Imports to sales,12  Mar-17*,0.0,CEMCO
+79,Exports (fob),12  Mar-17*,0.0,CEMCO
+80,Imports (cif),12  Mar-17*,0.0,CEMCO
+81,Fx inflow,12  Mar-17*,4912.0,CEMCO
+82,Fx outflow,12  Mar-17*,1698.0,CEMCO
+83,Net fx,12  Mar-17*,3214.0,CEMCO
+84,From Operations,12  Mar-17*,50050.0,CEMCO
+85,From Investments,12  Mar-17*,-24803.0,CEMCO
+86,From Financial Activity,12  Mar-17*,-25350.0,CEMCO
+87,Net Cashflow,12  Mar-17*,-314.0,CEMCO
+88,Net Sales,12  Mar-18*,309786.0,CEMCO
+89,Other income,12  Mar-18*,5886.0,CEMCO
+90,Total revenues,12  Mar-18*,315672.0,CEMCO
+91,Gross profit,12  Mar-18*,57984.0,CEMCO
+92,Depreciation,12  Mar-18*,18479.0,CEMCO
+93,Interest,12  Mar-18*,12376.0,CEMCO
+94,Profit before tax,12  Mar-18*,33015.0,CEMCO
+95,Minority Interest,12  Mar-18*,0.0,CEMCO
+96,Prior Period Items,12  Mar-18*,0.0,CEMCO
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,CEMCO
+98,Tax,12  Mar-18*,10770.0,CEMCO
+99,Profit after tax,12  Mar-18*,22245.0,CEMCO
+100,Gross profit margin,12  Mar-18*,18.7,CEMCO
+101,Effective tax rate,12  Mar-18*,32.6,CEMCO
+102,Net profit margin,12  Mar-18*,7.2,CEMCO
+103,Current assets,12  Mar-18*,114613.0,CEMCO
+104,Current liabilities,12  Mar-18*,115154.0,CEMCO
+105,Net working cap to sales,12  Mar-18*,-0.2,CEMCO
+106,Current ratio,12  Mar-18*,1.0,CEMCO
+107,Inventory Days,12  Mar-18*,38.0,CEMCO
+108,Debtors Days,12  Mar-18*,26.0,CEMCO
+109,Net fixed assets,12  Mar-18*,412265.0,CEMCO
+110,Share capital,12  Mar-18*,2746.0,CEMCO
+111,"""Free"" reserves",12  Mar-18*,261066.0,CEMCO
+112,Net worth,12  Mar-18*,263812.0,CEMCO
+113,Long term debt,12  Mar-18*,158635.0,CEMCO
+114,Total assets,12  Mar-18*,571505.0,CEMCO
+115,Interest coverage,12  Mar-18*,3.7,CEMCO
+116,Debt to equity ratio,12  Mar-18*,0.6,CEMCO
+117,Sales to assets ratio,12  Mar-18*,0.5,CEMCO
+118,Return on assets,12  Mar-18*,6.1,CEMCO
+119,Return on equity,12  Mar-18*,8.4,CEMCO
+120,Return on capital,12  Mar-18*,10.7,CEMCO
+121,Exports to sales,12  Mar-18*,0.0,CEMCO
+122,Imports to sales,12  Mar-18*,0.0,CEMCO
+123,Exports (fob),12  Mar-18*,0.0,CEMCO
+124,Imports (cif),12  Mar-18*,0.0,CEMCO
+125,Fx inflow,12  Mar-18*,5273.0,CEMCO
+126,Fx outflow,12  Mar-18*,2565.0,CEMCO
+127,Net fx,12  Mar-18*,2708.0,CEMCO
+128,From Operations,12  Mar-18*,38877.0,CEMCO
+129,From Investments,12  Mar-18*,18616.0,CEMCO
+130,From Financial Activity,12  Mar-18*,-57351.0,CEMCO
+131,Net Cashflow,12  Mar-18*,184.0,CEMCO
+132,Net Sales,12  Mar-19*,416088.0,CEMCO
+133,Other income,12  Mar-19*,4634.0,CEMCO
+134,Total revenues,12  Mar-19*,420723.0,CEMCO
+135,Gross profit,12  Mar-19*,72336.0,CEMCO
+136,Depreciation,12  Mar-19*,24507.0,CEMCO
+137,Interest,12  Mar-19*,17779.0,CEMCO
+138,Profit before tax,12  Mar-19*,34685.0,CEMCO
+139,Minority Interest,12  Mar-19*,0.0,CEMCO
+140,Prior Period Items,12  Mar-19*,0.0,CEMCO
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,CEMCO
+142,Tax,12  Mar-19*,10681.0,CEMCO
+143,Profit after tax,12  Mar-19*,24004.0,CEMCO
+144,Gross profit margin,12  Mar-19*,17.4,CEMCO
+145,Effective tax rate,12  Mar-19*,30.8,CEMCO
+146,Net profit margin,12  Mar-19*,5.8,CEMCO
+147,Current assets,12  Mar-19*,118607.0,CEMCO
+148,Current liabilities,12  Mar-19*,150443.0,CEMCO
+149,Net working cap to sales,12  Mar-19*,-7.7,CEMCO
+150,Current ratio,12  Mar-19*,0.8,CEMCO
+151,Inventory Days,12  Mar-19*,36.0,CEMCO
+152,Debtors Days,12  Mar-19*,24.0,CEMCO
+153,Net fixed assets,12  Mar-19*,577979.0,CEMCO
+154,Share capital,12  Mar-19*,2746.0,CEMCO
+155,"""Free"" reserves",12  Mar-19*,280877.0,CEMCO
+156,Net worth,12  Mar-19*,283623.0,CEMCO
+157,Long term debt,12  Mar-19*,206504.0,CEMCO
+158,Total assets,12  Mar-19*,765374.0,CEMCO
+159,Interest coverage,12  Mar-19*,3.0,CEMCO
+160,Debt to equity ratio,12  Mar-19*,0.7,CEMCO
+161,Sales to assets ratio,12  Mar-19*,0.5,CEMCO
+162,Return on assets,12  Mar-19*,5.5,CEMCO
+163,Return on equity,12  Mar-19*,8.5,CEMCO
+164,Return on capital,12  Mar-19*,10.7,CEMCO
+165,Exports to sales,12  Mar-19*,0.0,CEMCO
+166,Imports to sales,12  Mar-19*,0.0,CEMCO
+167,Exports (fob),12  Mar-19*,0.0,CEMCO
+168,Imports (cif),12  Mar-19*,0.0,CEMCO
+169,Fx inflow,12  Mar-19*,5677.0,CEMCO
+170,Fx outflow,12  Mar-19*,3146.0,CEMCO
+171,Net fx,12  Mar-19*,2531.0,CEMCO
+172,From Operations,12  Mar-19*,59561.0,CEMCO
+173,From Investments,12  Mar-19*,11138.0,CEMCO
+174,From Financial Activity,12  Mar-19*,-67572.0,CEMCO
+175,Net Cashflow,12  Mar-19*,3641.0,CEMCO
+176,Net Sales,12  Mar-20*,421248.0,CEMCO
+177,Other income,12  Mar-20*,6478.0,CEMCO
+178,Total revenues,12  Mar-20*,427726.0,CEMCO
+179,Gross profit,12  Mar-20*,92823.0,CEMCO
+180,Depreciation,12  Mar-20*,27022.0,CEMCO
+181,Interest,12  Mar-20*,19857.0,CEMCO
+182,Profit before tax,12  Mar-20*,52423.0,CEMCO
+183,Minority Interest,12  Mar-20*,0.0,CEMCO
+184,Prior Period Items,12  Mar-20*,0.0,CEMCO
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,CEMCO
+186,Tax,12  Mar-20*,-5682.0,CEMCO
+187,Profit after tax,12  Mar-20*,58105.0,CEMCO
+188,Gross profit margin,12  Mar-20*,22.0,CEMCO
+189,Effective tax rate,12  Mar-20*,-10.8,CEMCO
+190,Net profit margin,12  Mar-20*,13.8,CEMCO
+191,Current assets,12  Mar-20*,139316.0,CEMCO
+192,Current liabilities,12  Mar-20*,161418.0,CEMCO
+193,Net working cap to sales,12  Mar-20*,-5.2,CEMCO
+194,Current ratio,12  Mar-20*,0.9,CEMCO
+195,Inventory Days,12  Mar-20*,36.0,CEMCO
+196,Debtors Days,12  Mar-20*,19.0,CEMCO
+197,Net fixed assets,12  Mar-20*,579020.0,CEMCO
+198,Share capital,12  Mar-20*,2886.0,CEMCO
+199,"""Free"" reserves",12  Mar-20*,388269.0,CEMCO
+200,Net worth,12  Mar-20*,391155.0,CEMCO
+201,Long term debt,12  Mar-20*,173675.0,CEMCO
+202,Total assets,12  Mar-20*,793371.0,CEMCO
+203,Interest coverage,12  Mar-20*,3.6,CEMCO
+204,Debt to equity ratio,12  Mar-20*,0.4,CEMCO
+205,Sales to assets ratio,12  Mar-20*,0.5,CEMCO
+206,Return on assets,12  Mar-20*,9.8,CEMCO
+207,Return on equity,12  Mar-20*,14.9,CEMCO
+208,Return on capital,12  Mar-20*,12.8,CEMCO
+209,Exports to sales,12  Mar-20*,0.0,CEMCO
+210,Imports to sales,12  Mar-20*,0.0,CEMCO
+211,Exports (fob),12  Mar-20*,0.0,CEMCO
+212,Imports (cif),12  Mar-20*,0.0,CEMCO
+213,Fx inflow,12  Mar-20*,3915.0,CEMCO
+214,Fx outflow,12  Mar-20*,2768.0,CEMCO
+215,Net fx,12  Mar-20*,1147.0,CEMCO
+216,From Operations,12  Mar-20*,89020.0,CEMCO
+217,From Investments,12  Mar-20*,-42094.0,CEMCO
+218,From Financial Activity,12  Mar-20*,-49911.0,CEMCO
+219,Net Cashflow,12  Mar-20*,-2947.0,CEMCO

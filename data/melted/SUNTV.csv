@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23954.0,SUNTV
+1,Other income,12  Mar-15*,989.0,SUNTV
+2,Total revenues,12  Mar-15*,24943.0,SUNTV
+3,Gross profit,12  Mar-15*,16772.0,SUNTV
+4,Depreciation,12  Mar-15*,6153.0,SUNTV
+5,Interest,12  Mar-15*,23.0,SUNTV
+6,Profit before tax,12  Mar-15*,11586.0,SUNTV
+7,Minority Interest,12  Mar-15*,-141.0,SUNTV
+8,Prior Period Items,12  Mar-15*,135.0,SUNTV
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SUNTV
+10,Tax,12  Mar-15*,3760.0,SUNTV
+11,Profit after tax,12  Mar-15*,7820.0,SUNTV
+12,Gross profit margin,12  Mar-15*,70.0,SUNTV
+13,Effective tax rate,12  Mar-15*,32.5,SUNTV
+14,Net profit margin,12  Mar-15*,32.6,SUNTV
+15,Current assets,12  Mar-15*,18932.0,SUNTV
+16,Current liabilities,12  Mar-15*,2219.0,SUNTV
+17,Net working cap to sales,12  Mar-15*,69.8,SUNTV
+18,Current ratio,12  Mar-15*,8.5,SUNTV
+19,Inventory Days,12  Mar-15*,0.0,SUNTV
+20,Debtors Days,12  Mar-15*,109.0,SUNTV
+21,Net fixed assets,12  Mar-15*,11206.0,SUNTV
+22,Share capital,12  Mar-15*,1970.0,SUNTV
+23,"""Free"" reserves",12  Mar-15*,30904.0,SUNTV
+24,Net worth,12  Mar-15*,32874.0,SUNTV
+25,Long term debt,12  Mar-15*,0.0,SUNTV
+26,Total assets,12  Mar-15*,35335.0,SUNTV
+27,Interest coverage,12  Mar-15*,506.9,SUNTV
+28,Debt to equity ratio,12  Mar-15*,0.0,SUNTV
+29,Sales to assets ratio,12  Mar-15*,0.7,SUNTV
+30,Return on assets,12  Mar-15*,22.2,SUNTV
+31,Return on equity,12  Mar-15*,23.8,SUNTV
+32,Return on capital,12  Mar-15*,35.3,SUNTV
+33,Exports to sales,12  Mar-15*,0.0,SUNTV
+34,Imports to sales,12  Mar-15*,0.9,SUNTV
+35,Exports (fob),12  Mar-15*,0.0,SUNTV
+36,Imports (cif),12  Mar-15*,217.0,SUNTV
+37,Fx inflow,12  Mar-15*,1489.0,SUNTV
+38,Fx outflow,12  Mar-15*,826.0,SUNTV
+39,Net fx,12  Mar-15*,663.0,SUNTV
+40,From Operations,12  Mar-15*,11623.0,SUNTV
+41,From Investments,12  Mar-15*,-5183.0,SUNTV
+42,From Financial Activity,12  Mar-15*,-6348.0,SUNTV
+43,Net Cashflow,12  Mar-15*,91.0,SUNTV
+44,Net Sales,12  Mar-16*,24736.0,SUNTV
+45,Other income,12  Mar-16*,1163.0,SUNTV
+46,Total revenues,12  Mar-16*,25900.0,SUNTV
+47,Gross profit,12  Mar-16*,17327.0,SUNTV
+48,Depreciation,12  Mar-16*,4967.0,SUNTV
+49,Interest,12  Mar-16*,22.0,SUNTV
+50,Profit before tax,12  Mar-16*,13502.0,SUNTV
+51,Minority Interest,12  Mar-16*,0.0,SUNTV
+52,Prior Period Items,12  Mar-16*,310.0,SUNTV
+53,Extraordinary Inc (Exp),12  Mar-16*,180.0,SUNTV
+54,Tax,12  Mar-16*,4768.0,SUNTV
+55,Profit after tax,12  Mar-16*,9223.0,SUNTV
+56,Gross profit margin,12  Mar-16*,70.0,SUNTV
+57,Effective tax rate,12  Mar-16*,35.3,SUNTV
+58,Net profit margin,12  Mar-16*,37.3,SUNTV
+59,Current assets,12  Mar-16*,23220.0,SUNTV
+60,Current liabilities,12  Mar-16*,2474.0,SUNTV
+61,Net working cap to sales,12  Mar-16*,83.9,SUNTV
+62,Current ratio,12  Mar-16*,9.4,SUNTV
+63,Inventory Days,12  Mar-16*,0.0,SUNTV
+64,Debtors Days,12  Mar-16*,115.0,SUNTV
+65,Net fixed assets,12  Mar-16*,8589.0,SUNTV
+66,Share capital,12  Mar-16*,1970.0,SUNTV
+67,"""Free"" reserves",12  Mar-16*,32770.0,SUNTV
+68,Net worth,12  Mar-16*,34740.0,SUNTV
+69,Long term debt,12  Mar-16*,0.0,SUNTV
+70,Total assets,12  Mar-16*,37607.0,SUNTV
+71,Interest coverage,12  Mar-16*,617.5,SUNTV
+72,Debt to equity ratio,12  Mar-16*,0.0,SUNTV
+73,Sales to assets ratio,12  Mar-16*,0.7,SUNTV
+74,Return on assets,12  Mar-16*,24.6,SUNTV
+75,Return on equity,12  Mar-16*,26.5,SUNTV
+76,Return on capital,12  Mar-16*,40.3,SUNTV
+77,Exports to sales,12  Mar-16*,0.0,SUNTV
+78,Imports to sales,12  Mar-16*,1.1,SUNTV
+79,Exports (fob),12  Mar-16*,0.0,SUNTV
+80,Imports (cif),12  Mar-16*,270.0,SUNTV
+81,Fx inflow,12  Mar-16*,1442.0,SUNTV
+82,Fx outflow,12  Mar-16*,499.0,SUNTV
+83,Net fx,12  Mar-16*,942.0,SUNTV
+84,From Operations,12  Mar-16*,12990.0,SUNTV
+85,From Investments,12  Mar-16*,-4013.0,SUNTV
+86,From Financial Activity,12  Mar-16*,-7374.0,SUNTV
+87,Net Cashflow,12  Mar-16*,1603.0,SUNTV
+88,Net Sales,12  Mar-17*,26457.0,SUNTV
+89,Other income,12  Mar-17*,1538.0,SUNTV
+90,Total revenues,12  Mar-17*,27995.0,SUNTV
+91,Gross profit,12  Mar-17*,17698.0,SUNTV
+92,Depreciation,12  Mar-17*,4005.0,SUNTV
+93,Interest,12  Mar-17*,10.0,SUNTV
+94,Profit before tax,12  Mar-17*,15222.0,SUNTV
+95,Minority Interest,12  Mar-17*,0.0,SUNTV
+96,Prior Period Items,12  Mar-17*,288.0,SUNTV
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SUNTV
+98,Tax,12  Mar-17*,5203.0,SUNTV
+99,Profit after tax,12  Mar-17*,10307.0,SUNTV
+100,Gross profit margin,12  Mar-17*,66.9,SUNTV
+101,Effective tax rate,12  Mar-17*,34.2,SUNTV
+102,Net profit margin,12  Mar-17*,39.0,SUNTV
+103,Current assets,12  Mar-17*,22629.0,SUNTV
+104,Current liabilities,12  Mar-17*,2806.0,SUNTV
+105,Net working cap to sales,12  Mar-17*,74.9,SUNTV
+106,Current ratio,12  Mar-17*,8.1,SUNTV
+107,Inventory Days,12  Mar-17*,0.0,SUNTV
+108,Debtors Days,12  Mar-17*,107.0,SUNTV
+109,Net fixed assets,12  Mar-17*,12262.0,SUNTV
+110,Share capital,12  Mar-17*,1970.0,SUNTV
+111,"""Free"" reserves",12  Mar-17*,38314.0,SUNTV
+112,Net worth,12  Mar-17*,40285.0,SUNTV
+113,Long term debt,12  Mar-17*,0.0,SUNTV
+114,Total assets,12  Mar-17*,43817.0,SUNTV
+115,Interest coverage,12  Mar-17*,1478.8,SUNTV
+116,Debt to equity ratio,12  Mar-17*,0.0,SUNTV
+117,Sales to assets ratio,12  Mar-17*,0.6,SUNTV
+118,Return on assets,12  Mar-17*,23.5,SUNTV
+119,Return on equity,12  Mar-17*,25.6,SUNTV
+120,Return on capital,12  Mar-17*,38.5,SUNTV
+121,Exports to sales,12  Mar-17*,0.0,SUNTV
+122,Imports to sales,12  Mar-17*,0.0,SUNTV
+123,Exports (fob),12  Mar-17*,0.0,SUNTV
+124,Imports (cif),12  Mar-17*,0.0,SUNTV
+125,Fx inflow,12  Mar-17*,1583.0,SUNTV
+126,Fx outflow,12  Mar-17*,3703.0,SUNTV
+127,Net fx,12  Mar-17*,-2121.0,SUNTV
+128,From Operations,12  Mar-17*,12955.0,SUNTV
+129,From Investments,12  Mar-17*,-7165.0,SUNTV
+130,From Financial Activity,12  Mar-17*,-4753.0,SUNTV
+131,Net Cashflow,12  Mar-17*,1038.0,SUNTV
+132,Net Sales,12  Mar-18*,29630.0,SUNTV
+133,Other income,12  Mar-18*,1423.0,SUNTV
+134,Total revenues,12  Mar-18*,31053.0,SUNTV
+135,Gross profit,12  Mar-18*,20038.0,SUNTV
+136,Depreciation,12  Mar-18*,4500.0,SUNTV
+137,Interest,12  Mar-18*,11.0,SUNTV
+138,Profit before tax,12  Mar-18*,16950.0,SUNTV
+139,Minority Interest,12  Mar-18*,0.0,SUNTV
+140,Prior Period Items,12  Mar-18*,230.0,SUNTV
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SUNTV
+142,Tax,12  Mar-18*,5824.0,SUNTV
+143,Profit after tax,12  Mar-18*,11355.0,SUNTV
+144,Gross profit margin,12  Mar-18*,67.6,SUNTV
+145,Effective tax rate,12  Mar-18*,34.4,SUNTV
+146,Net profit margin,12  Mar-18*,38.3,SUNTV
+147,Current assets,12  Mar-18*,30996.0,SUNTV
+148,Current liabilities,12  Mar-18*,4917.0,SUNTV
+149,Net working cap to sales,12  Mar-18*,88.0,SUNTV
+150,Current ratio,12  Mar-18*,6.3,SUNTV
+151,Inventory Days,12  Mar-18*,0.0,SUNTV
+152,Debtors Days,12  Mar-18*,131.0,SUNTV
+153,Net fixed assets,12  Mar-18*,12026.0,SUNTV
+154,Share capital,12  Mar-18*,1970.0,SUNTV
+155,"""Free"" reserves",12  Mar-18*,44914.0,SUNTV
+156,Net worth,12  Mar-18*,46884.0,SUNTV
+157,Long term debt,12  Mar-18*,0.0,SUNTV
+158,Total assets,12  Mar-18*,52740.0,SUNTV
+159,Interest coverage,12  Mar-18*,1570.4,SUNTV
+160,Debt to equity ratio,12  Mar-18*,0.0,SUNTV
+161,Sales to assets ratio,12  Mar-18*,0.6,SUNTV
+162,Return on assets,12  Mar-18*,21.6,SUNTV
+163,Return on equity,12  Mar-18*,24.2,SUNTV
+164,Return on capital,12  Mar-18*,36.7,SUNTV
+165,Exports to sales,12  Mar-18*,0.0,SUNTV
+166,Imports to sales,12  Mar-18*,0.0,SUNTV
+167,Exports (fob),12  Mar-18*,0.0,SUNTV
+168,Imports (cif),12  Mar-18*,0.0,SUNTV
+169,Fx inflow,12  Mar-18*,1712.0,SUNTV
+170,Fx outflow,12  Mar-18*,705.0,SUNTV
+171,Net fx,12  Mar-18*,1007.0,SUNTV
+172,From Operations,12  Mar-18*,13712.0,SUNTV
+173,From Investments,12  Mar-18*,-12946.0,SUNTV
+174,From Financial Activity,12  Mar-18*,-4754.0,SUNTV
+175,Net Cashflow,12  Mar-18*,-3982.0,SUNTV
+176,Net Sales,12  Mar-19*,37825.0,SUNTV
+177,Other income,12  Mar-19*,2271.0,SUNTV
+178,Total revenues,12  Mar-19*,40097.0,SUNTV
+179,Gross profit,12  Mar-19*,26067.0,SUNTV
+180,Depreciation,12  Mar-19*,6628.0,SUNTV
+181,Interest,12  Mar-19*,17.0,SUNTV
+182,Profit before tax,12  Mar-19*,21693.0,SUNTV
+183,Minority Interest,12  Mar-19*,0.0,SUNTV
+184,Prior Period Items,12  Mar-19*,154.0,SUNTV
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SUNTV
+186,Tax,12  Mar-19*,7511.0,SUNTV
+187,Profit after tax,12  Mar-19*,14337.0,SUNTV
+188,Gross profit margin,12  Mar-19*,68.9,SUNTV
+189,Effective tax rate,12  Mar-19*,34.6,SUNTV
+190,Net profit margin,12  Mar-19*,37.9,SUNTV
+191,Current assets,12  Mar-19*,40447.0,SUNTV
+192,Current liabilities,12  Mar-19*,5492.0,SUNTV
+193,Net working cap to sales,12  Mar-19*,92.4,SUNTV
+194,Current ratio,12  Mar-19*,7.4,SUNTV
+195,Inventory Days,12  Mar-19*,0.0,SUNTV
+196,Debtors Days,12  Mar-19*,109.0,SUNTV
+197,Net fixed assets,12  Mar-19*,11254.0,SUNTV
+198,Share capital,12  Mar-19*,1970.0,SUNTV
+199,"""Free"" reserves",12  Mar-19*,53295.0,SUNTV
+200,Net worth,12  Mar-19*,55265.0,SUNTV
+201,Long term debt,12  Mar-19*,0.0,SUNTV
+202,Total assets,12  Mar-19*,61977.0,SUNTV
+203,Interest coverage,12  Mar-19*,1315.7,SUNTV
+204,Debt to equity ratio,12  Mar-19*,0.0,SUNTV
+205,Sales to assets ratio,12  Mar-19*,0.6,SUNTV
+206,Return on assets,12  Mar-19*,23.2,SUNTV
+207,Return on equity,12  Mar-19*,25.9,SUNTV
+208,Return on capital,12  Mar-19*,39.6,SUNTV
+209,Exports to sales,12  Mar-19*,0.0,SUNTV
+210,Imports to sales,12  Mar-19*,0.0,SUNTV
+211,Exports (fob),12  Mar-19*,0.0,SUNTV
+212,Imports (cif),12  Mar-19*,0.0,SUNTV
+213,Fx inflow,12  Mar-19*,2170.0,SUNTV
+214,Fx outflow,12  Mar-19*,742.0,SUNTV
+215,Net fx,12  Mar-19*,1428.0,SUNTV
+216,From Operations,12  Mar-19*,18241.0,SUNTV
+217,From Investments,12  Mar-19*,-11131.0,SUNTV
+218,From Financial Activity,12  Mar-19*,-5955.0,SUNTV
+219,Net Cashflow,12  Mar-19*,1153.0,SUNTV

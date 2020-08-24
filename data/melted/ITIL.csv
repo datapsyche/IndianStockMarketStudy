@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,7087.0,ITIL
+1,Other income,12  Mar-14,371.0,ITIL
+2,Total revenues,12  Mar-14,7458.0,ITIL
+3,Gross profit,12  Mar-14,-2418.0,ITIL
+4,Depreciation,12  Mar-14,172.0,ITIL
+5,Interest,12  Mar-14,1223.0,ITIL
+6,Profit before tax,12  Mar-14,-3443.0,ITIL
+7,Minority Interest,12  Mar-14,0.0,ITIL
+8,Prior Period Items,12  Mar-14,0.0,ITIL
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,ITIL
+10,Tax,12  Mar-14,0.0,ITIL
+11,Profit after tax,12  Mar-14,-3443.0,ITIL
+12,Gross profit margin,12  Mar-14,-34.1,ITIL
+13,Effective tax rate,12  Mar-14,0.0,ITIL
+14,Net profit margin,12  Mar-14,-48.6,ITIL
+15,Current assets,12  Mar-14,24031.0,ITIL
+16,Current liabilities,12  Mar-14,39034.0,ITIL
+17,Net working cap to sales,12  Mar-14,-211.7,ITIL
+18,Current ratio,12  Mar-14,0.6,ITIL
+19,Inventory Days,12  Mar-14,50.0,ITIL
+20,Debtors Days,12  Mar-14,1001.0,ITIL
+21,Net fixed assets,12  Mar-14,24740.0,ITIL
+22,Share capital,12  Mar-14,2880.0,ITIL
+23,"""Free"" reserves",12  Mar-14,2308.0,ITIL
+24,Net worth,12  Mar-14,5188.0,ITIL
+25,Long term debt,12  Mar-14,0.0,ITIL
+26,Total assets,12  Mar-14,50876.0,ITIL
+27,Interest coverage,12  Mar-14,-1.8,ITIL
+28,Debt to equity ratio,12  Mar-14,0.0,ITIL
+29,Sales to assets ratio,12  Mar-14,0.1,ITIL
+30,Return on assets,12  Mar-14,-4.4,ITIL
+31,Return on equity,12  Mar-14,-66.4,ITIL
+32,Return on capital,12  Mar-14,-42.8,ITIL
+33,Exports to sales,12  Mar-14,0.0,ITIL
+34,Imports to sales,12  Mar-14,0.0,ITIL
+35,Exports (fob),12  Mar-14,0.0,ITIL
+36,Imports (cif),12  Mar-14,0.0,ITIL
+37,Fx inflow,12  Mar-14,0.0,ITIL
+38,Fx outflow,12  Mar-14,448.0,ITIL
+39,Net fx,12  Mar-14,-448.0,ITIL
+40,From Operations,12  Mar-14,-1271.0,ITIL
+41,From Investments,12  Mar-14,-189.0,ITIL
+42,From Financial Activity,12  Mar-14,1615.0,ITIL
+43,Net Cashflow,12  Mar-14,155.0,ITIL
+44,Net Sales,12  Mar-15,5743.0,ITIL
+45,Other income,12  Mar-15,849.0,ITIL
+46,Total revenues,12  Mar-15,6593.0,ITIL
+47,Gross profit,12  Mar-15,-2095.0,ITIL
+48,Depreciation,12  Mar-15,153.0,ITIL
+49,Interest,12  Mar-15,1573.0,ITIL
+50,Profit before tax,12  Mar-15,-2971.0,ITIL
+51,Minority Interest,12  Mar-15,0.0,ITIL
+52,Prior Period Items,12  Mar-15,0.0,ITIL
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,ITIL
+54,Tax,12  Mar-15,0.0,ITIL
+55,Profit after tax,12  Mar-15,-2971.0,ITIL
+56,Gross profit margin,12  Mar-15,-36.5,ITIL
+57,Effective tax rate,12  Mar-15,0.0,ITIL
+58,Net profit margin,12  Mar-15,-51.7,ITIL
+59,Current assets,12  Mar-15,25034.0,ITIL
+60,Current liabilities,12  Mar-15,38147.0,ITIL
+61,Net working cap to sales,12  Mar-15,-228.3,ITIL
+62,Current ratio,12  Mar-15,0.7,ITIL
+63,Inventory Days,12  Mar-15,59.0,ITIL
+64,Debtors Days,12  Mar-15,1170.0,ITIL
+65,Net fixed assets,12  Mar-15,24565.0,ITIL
+66,Share capital,12  Mar-15,2880.0,ITIL
+67,"""Free"" reserves",12  Mar-15,-675.0,ITIL
+68,Net worth,12  Mar-15,2206.0,ITIL
+69,Long term debt,12  Mar-15,3000.0,ITIL
+70,Total assets,12  Mar-15,53406.0,ITIL
+71,Interest coverage,12  Mar-15,-0.9,ITIL
+72,Debt to equity ratio,12  Mar-15,1.4,ITIL
+73,Sales to assets ratio,12  Mar-15,0.1,ITIL
+74,Return on assets,12  Mar-15,-2.6,ITIL
+75,Return on equity,12  Mar-15,-134.7,ITIL
+76,Return on capital,12  Mar-15,-26.9,ITIL
+77,Exports to sales,12  Mar-15,0.0,ITIL
+78,Imports to sales,12  Mar-15,0.0,ITIL
+79,Exports (fob),12  Mar-15,0.0,ITIL
+80,Imports (cif),12  Mar-15,0.0,ITIL
+81,Fx inflow,12  Mar-15,0.0,ITIL
+82,Fx outflow,12  Mar-15,0.0,ITIL
+83,Net fx,12  Mar-15,0.0,ITIL
+84,From Operations,12  Mar-15,-1486.0,ITIL
+85,From Investments,12  Mar-15,-101.0,ITIL
+86,From Financial Activity,12  Mar-15,3975.0,ITIL
+87,Net Cashflow,12  Mar-15,2389.0,ITIL
+88,Net Sales,12  Mar-16,11905.0,ITIL
+89,Other income,12  Mar-16,4845.0,ITIL
+90,Total revenues,12  Mar-16,16749.0,ITIL
+91,Gross profit,12  Mar-16,-1757.0,ITIL
+92,Depreciation,12  Mar-16,129.0,ITIL
+93,Interest,12  Mar-16,1572.0,ITIL
+94,Profit before tax,12  Mar-16,1387.0,ITIL
+95,Minority Interest,12  Mar-16,0.0,ITIL
+96,Prior Period Items,12  Mar-16,0.0,ITIL
+97,Extraordinary Inc (Exp),12  Mar-16,1125.0,ITIL
+98,Tax,12  Mar-16,0.0,ITIL
+99,Profit after tax,12  Mar-16,2512.0,ITIL
+100,Gross profit margin,12  Mar-16,-14.8,ITIL
+101,Effective tax rate,12  Mar-16,0.0,ITIL
+102,Net profit margin,12  Mar-16,21.1,ITIL
+103,Current assets,12  Mar-16,22332.0,ITIL
+104,Current liabilities,12  Mar-16,42314.0,ITIL
+105,Net working cap to sales,12  Mar-16,-167.9,ITIL
+106,Current ratio,12  Mar-16,0.5,ITIL
+107,Inventory Days,12  Mar-16,32.0,ITIL
+108,Debtors Days,12  Mar-16,525.0,ITIL
+109,Net fixed assets,12  Mar-16,25501.0,ITIL
+110,Share capital,12  Mar-16,2880.0,ITIL
+111,"""Free"" reserves",12  Mar-16,1972.0,ITIL
+112,Net worth,12  Mar-16,4852.0,ITIL
+113,Long term debt,12  Mar-16,3000.0,ITIL
+114,Total assets,12  Mar-16,58348.0,ITIL
+115,Interest coverage,12  Mar-16,1.9,ITIL
+116,Debt to equity ratio,12  Mar-16,0.6,ITIL
+117,Sales to assets ratio,12  Mar-16,0.2,ITIL
+118,Return on assets,12  Mar-16,7.0,ITIL
+119,Return on equity,12  Mar-16,51.8,ITIL
+120,Return on capital,12  Mar-16,52.0,ITIL
+121,Exports to sales,12  Mar-16,0.0,ITIL
+122,Imports to sales,12  Mar-16,0.0,ITIL
+123,Exports (fob),12  Mar-16,0.0,ITIL
+124,Imports (cif),12  Mar-16,0.0,ITIL
+125,Fx inflow,12  Mar-16,0.0,ITIL
+126,Fx outflow,12  Mar-16,266.0,ITIL
+127,Net fx,12  Mar-16,-266.0,ITIL
+128,From Operations,12  Mar-16,-3189.0,ITIL
+129,From Investments,12  Mar-16,-1043.0,ITIL
+130,From Financial Activity,12  Mar-16,2731.0,ITIL
+131,Net Cashflow,12  Mar-16,-1500.0,ITIL
+132,Net Sales,12  Mar-17*,15481.0,ITIL
+133,Other income,12  Mar-17*,5406.0,ITIL
+134,Total revenues,12  Mar-17*,20887.0,ITIL
+135,Gross profit,12  Mar-17*,-1046.0,ITIL
+136,Depreciation,12  Mar-17*,169.0,ITIL
+137,Interest,12  Mar-17*,1526.0,ITIL
+138,Profit before tax,12  Mar-17*,2664.0,ITIL
+139,Minority Interest,12  Mar-17*,0.0,ITIL
+140,Prior Period Items,12  Mar-17*,0.0,ITIL
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ITIL
+142,Tax,12  Mar-17*,0.0,ITIL
+143,Profit after tax,12  Mar-17*,2664.0,ITIL
+144,Gross profit margin,12  Mar-17*,-6.8,ITIL
+145,Effective tax rate,12  Mar-17*,0.0,ITIL
+146,Net profit margin,12  Mar-17*,17.2,ITIL
+147,Current assets,12  Mar-17*,29042.0,ITIL
+148,Current liabilities,12  Mar-17*,39578.0,ITIL
+149,Net working cap to sales,12  Mar-17*,-68.1,ITIL
+150,Current ratio,12  Mar-17*,0.7,ITIL
+151,Inventory Days,12  Mar-17*,34.0,ITIL
+152,Debtors Days,12  Mar-17*,518.0,ITIL
+153,Net fixed assets,12  Mar-17*,26080.0,ITIL
+154,Share capital,12  Mar-17*,5600.0,ITIL
+155,"""Free"" reserves",12  Mar-17*,5397.0,ITIL
+156,Net worth,12  Mar-17*,10997.0,ITIL
+157,Long term debt,12  Mar-17*,3000.0,ITIL
+158,Total assets,12  Mar-17*,55532.0,ITIL
+159,Interest coverage,12  Mar-17*,2.7,ITIL
+160,Debt to equity ratio,12  Mar-17*,0.3,ITIL
+161,Sales to assets ratio,12  Mar-17*,0.3,ITIL
+162,Return on assets,12  Mar-17*,7.5,ITIL
+163,Return on equity,12  Mar-17*,24.2,ITIL
+164,Return on capital,12  Mar-17*,29.9,ITIL
+165,Exports to sales,12  Mar-17*,0.0,ITIL
+166,Imports to sales,12  Mar-17*,0.0,ITIL
+167,Exports (fob),12  Mar-17*,0.0,ITIL
+168,Imports (cif),12  Mar-17*,0.0,ITIL
+169,Fx inflow,12  Mar-17*,0.0,ITIL
+170,Fx outflow,12  Mar-17*,375.0,ITIL
+171,Net fx,12  Mar-17*,-375.0,ITIL
+172,From Operations,12  Mar-17*,-3475.0,ITIL
+173,From Investments,12  Mar-17*,-751.0,ITIL
+174,From Financial Activity,12  Mar-17*,4676.0,ITIL
+175,Net Cashflow,12  Mar-17*,451.0,ITIL
+176,Net Sales,12  Mar-18*,14842.0,ITIL
+177,Other income,12  Mar-18*,3275.0,ITIL
+178,Total revenues,12  Mar-18*,18116.0,ITIL
+179,Gross profit,12  Mar-18*,814.0,ITIL
+180,Depreciation,12  Mar-18*,249.0,ITIL
+181,Interest,12  Mar-18*,1534.0,ITIL
+182,Profit before tax,12  Mar-18*,2306.0,ITIL
+183,Minority Interest,12  Mar-18*,0.0,ITIL
+184,Prior Period Items,12  Mar-18*,0.0,ITIL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ITIL
+186,Tax,12  Mar-18*,0.0,ITIL
+187,Profit after tax,12  Mar-18*,2306.0,ITIL
+188,Gross profit margin,12  Mar-18*,5.5,ITIL
+189,Effective tax rate,12  Mar-18*,0.0,ITIL
+190,Net profit margin,12  Mar-18*,15.5,ITIL
+191,Current assets,12  Mar-18*,42321.0,ITIL
+192,Current liabilities,12  Mar-18*,48745.0,ITIL
+193,Net working cap to sales,12  Mar-18*,-43.3,ITIL
+194,Current ratio,12  Mar-18*,0.9,ITIL
+195,Inventory Days,12  Mar-18*,38.0,ITIL
+196,Debtors Days,12  Mar-18*,757.0,ITIL
+197,Net fixed assets,12  Mar-18*,27690.0,ITIL
+198,Share capital,12  Mar-18*,7600.0,ITIL
+199,"""Free"" reserves",12  Mar-18*,9051.0,ITIL
+200,Net worth,12  Mar-18*,16651.0,ITIL
+201,Long term debt,12  Mar-18*,3000.0,ITIL
+202,Total assets,12  Mar-18*,70448.0,ITIL
+203,Interest coverage,12  Mar-18*,2.5,ITIL
+204,Debt to equity ratio,12  Mar-18*,0.2,ITIL
+205,Sales to assets ratio,12  Mar-18*,0.2,ITIL
+206,Return on assets,12  Mar-18*,5.5,ITIL
+207,Return on equity,12  Mar-18*,13.8,ITIL
+208,Return on capital,12  Mar-18*,19.5,ITIL
+209,Exports to sales,12  Mar-18*,0.0,ITIL
+210,Imports to sales,12  Mar-18*,0.0,ITIL
+211,Exports (fob),12  Mar-18*,0.0,ITIL
+212,Imports (cif),12  Mar-18*,0.0,ITIL
+213,Fx inflow,12  Mar-18*,0.0,ITIL
+214,Fx outflow,12  Mar-18*,1303.0,ITIL
+215,Net fx,12  Mar-18*,-1303.0,ITIL
+216,From Operations,12  Mar-18*,-1094.0,ITIL
+217,From Investments,12  Mar-18*,-958.0,ITIL
+218,From Financial Activity,12  Mar-18*,3637.0,ITIL
+219,Net Cashflow,12  Mar-18*,1584.0,ITIL

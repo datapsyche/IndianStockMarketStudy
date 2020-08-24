@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,73828.0,NALCO
+1,Other income,12  Mar-15,6726.0,NALCO
+2,Total revenues,12  Mar-15,80555.0,NALCO
+3,Gross profit,12  Mar-15,17060.0,NALCO
+4,Depreciation,12  Mar-15,4137.0,NALCO
+5,Interest,12  Mar-15,0.0,NALCO
+6,Profit before tax,12  Mar-15,19650.0,NALCO
+7,Minority Interest,12  Mar-15,0.0,NALCO
+8,Prior Period Items,12  Mar-15,-213.0,NALCO
+9,Extraordinary Inc (Exp),12  Mar-15,1484.0,NALCO
+10,Tax,12  Mar-15,7703.0,NALCO
+11,Profit after tax,12  Mar-15,13219.0,NALCO
+12,Gross profit margin,12  Mar-15,23.1,NALCO
+13,Effective tax rate,12  Mar-15,39.2,NALCO
+14,Net profit margin,12  Mar-15,17.9,NALCO
+15,Current assets,12  Mar-15,79776,NALCO
+16,Current liabilities,12  Mar-15,18219,NALCO
+17,Net working cap to sales,12  Mar-15,83.4,NALCO
+18,Current ratio,12  Mar-15,4.4,NALCO
+19,Inventory Days,12  Mar-15,55,NALCO
+20,Debtors Days,12  Mar-15,6,NALCO
+21,Net fixed assets,12  Mar-15,71348,NALCO
+22,Share capital,12  Mar-15,12886,NALCO
+23,"""Free"" reserves",12  Mar-15,116351,NALCO
+24,Net worth,12  Mar-15,129237,NALCO
+25,Long term debt,12  Mar-15,0,NALCO
+26,Total assets,12  Mar-15,162517,NALCO
+27,Interest coverage,12  Mar-15,NM,NALCO
+28,Debt to equity ratio,12  Mar-15,0,NALCO
+29,Sales to assets ratio,12  Mar-15,0.5,NALCO
+30,Return on assets,12  Mar-15,8.1,NALCO
+31,Return on equity,12  Mar-15,10.2,NALCO
+32,Return on capital,12  Mar-15,16.2,NALCO
+33,Exports to sales,12  Mar-15,42.8,NALCO
+34,Imports to sales,12  Mar-15,4.1,NALCO
+35,Exports (fob),12  Mar-15,31595,NALCO
+36,Imports (cif),12  Mar-15,3038,NALCO
+37,Fx inflow,12  Mar-15,31607,NALCO
+38,Fx outflow,12  Mar-15,3102,NALCO
+39,Net fx,12  Mar-15,28506,NALCO
+40,From Operations,12  Mar-15,5205,NALCO
+41,From Investments,12  Mar-15,5657,NALCO
+42,From Financial Activity,12  Mar-15,-5065,NALCO
+43,Net Cashflow,12  Mar-15,5797,NALCO
+44,Net Sales,12  Mar-16*,68160.0,NALCO
+45,Other income,12  Mar-16*,6051.0,NALCO
+46,Total revenues,12  Mar-16*,74211.0,NALCO
+47,Gross profit,12  Mar-16*,9595.0,NALCO
+48,Depreciation,12  Mar-16*,4261.0,NALCO
+49,Interest,12  Mar-16*,33.0,NALCO
+50,Profit before tax,12  Mar-16*,11352.0,NALCO
+51,Minority Interest,12  Mar-16*,1.0,NALCO
+52,Prior Period Items,12  Mar-16*,0.0,NALCO
+53,Extraordinary Inc (Exp),12  Mar-16*,535.0,NALCO
+54,Tax,12  Mar-16*,4015.0,NALCO
+55,Profit after tax,12  Mar-16*,7872.0,NALCO
+56,Gross profit margin,12  Mar-16*,14.1,NALCO
+57,Effective tax rate,12  Mar-16*,35.4,NALCO
+58,Net profit margin,12  Mar-16*,11.5,NALCO
+59,Current assets,12  Mar-16*,73437.0,NALCO
+60,Current liabilities,12  Mar-16*,19820.0,NALCO
+61,Net working cap to sales,12  Mar-16*,78.7,NALCO
+62,Current ratio,12  Mar-16*,3.7,NALCO
+63,Inventory Days,12  Mar-16*,56.0,NALCO
+64,Debtors Days,12  Mar-16*,13.0,NALCO
+65,Net fixed assets,12  Mar-16*,71134.0,NALCO
+66,Share capital,12  Mar-16*,12886.0,NALCO
+67,"""Free"" reserves",12  Mar-16*,119063.0,NALCO
+68,Net worth,12  Mar-16*,131949.0,NALCO
+69,Long term debt,12  Mar-16*,0.0,NALCO
+70,Total assets,12  Mar-16*,167104.0,NALCO
+71,Interest coverage,12  Mar-16*,348.2,NALCO
+72,Debt to equity ratio,12  Mar-16*,0.0,NALCO
+73,Sales to assets ratio,12  Mar-16*,0.4,NALCO
+74,Return on assets,12  Mar-16*,4.7,NALCO
+75,Return on equity,12  Mar-16*,6.0,NALCO
+76,Return on capital,12  Mar-16*,9.0,NALCO
+77,Exports to sales,12  Mar-16*,43.3,NALCO
+78,Imports to sales,12  Mar-16*,3.4,NALCO
+79,Exports (fob),12  Mar-16*,29532.0,NALCO
+80,Imports (cif),12  Mar-16*,2346.0,NALCO
+81,Fx inflow,12  Mar-16*,30082.0,NALCO
+82,Fx outflow,12  Mar-16*,2054.0,NALCO
+83,Net fx,12  Mar-16*,28028.0,NALCO
+84,From Operations,12  Mar-16*,8808.0,NALCO
+85,From Investments,12  Mar-16*,3140.0,NALCO
+86,From Financial Activity,12  Mar-16*,-5440.0,NALCO
+87,Net Cashflow,12  Mar-16*,6507.0,NALCO
+88,Net Sales,12  Mar-17*,75430.0,NALCO
+89,Other income,12  Mar-17*,4083.0,NALCO
+90,Total revenues,12  Mar-17*,79513.0,NALCO
+91,Gross profit,12  Mar-17*,10797.0,NALCO
+92,Depreciation,12  Mar-17*,4804.0,NALCO
+93,Interest,12  Mar-17*,27.0,NALCO
+94,Profit before tax,12  Mar-17*,10049.0,NALCO
+95,Minority Interest,12  Mar-17*,-8.0,NALCO
+96,Prior Period Items,12  Mar-17*,0.0,NALCO
+97,Extraordinary Inc (Exp),12  Mar-17*,-402.0,NALCO
+98,Tax,12  Mar-17*,2962.0,NALCO
+99,Profit after tax,12  Mar-17*,6677.0,NALCO
+100,Gross profit margin,12  Mar-17*,14.3,NALCO
+101,Effective tax rate,12  Mar-17*,29.5,NALCO
+102,Net profit margin,12  Mar-17*,8.9,NALCO
+103,Current assets,12  Mar-17*,56558.0,NALCO
+104,Current liabilities,12  Mar-17*,26519.0,NALCO
+105,Net working cap to sales,12  Mar-17*,39.8,NALCO
+106,Current ratio,12  Mar-17*,2.1,NALCO
+107,Inventory Days,12  Mar-17*,56.0,NALCO
+108,Debtors Days,12  Mar-17*,9.0,NALCO
+109,Net fixed assets,12  Mar-17*,75333.0,NALCO
+110,Share capital,12  Mar-17*,9665.0,NALCO
+111,"""Free"" reserves",12  Mar-17*,92387.0,NALCO
+112,Net worth,12  Mar-17*,102052.0,NALCO
+113,Long term debt,12  Mar-17*,0.0,NALCO
+114,Total assets,12  Mar-17*,145010.0,NALCO
+115,Interest coverage,12  Mar-17*,374.6,NALCO
+116,Debt to equity ratio,12  Mar-17*,0.0,NALCO
+117,Sales to assets ratio,12  Mar-17*,0.5,NALCO
+118,Return on assets,12  Mar-17*,4.6,NALCO
+119,Return on equity,12  Mar-17*,6.5,NALCO
+120,Return on capital,12  Mar-17*,9.5,NALCO
+121,Exports to sales,12  Mar-17*,0.0,NALCO
+122,Imports to sales,12  Mar-17*,0.0,NALCO
+123,Exports (fob),12  Mar-17*,0.0,NALCO
+124,Imports (cif),12  Mar-17*,0.0,NALCO
+125,Fx inflow,12  Mar-17*,32773.0,NALCO
+126,Fx outflow,12  Mar-17*,2888.0,NALCO
+127,Net fx,12  Mar-17*,29885.0,NALCO
+128,From Operations,12  Mar-17*,14359.0,NALCO
+129,From Investments,12  Mar-17*,15503.0,NALCO
+130,From Financial Activity,12  Mar-17*,-36159.0,NALCO
+131,Net Cashflow,12  Mar-17*,-6296.0,NALCO
+132,Net Sales,12  Mar-18*,95095.0,NALCO
+133,Other income,12  Mar-18*,2997.0,NALCO
+134,Total revenues,12  Mar-18*,98091.0,NALCO
+135,Gross profit,12  Mar-18*,13975.0,NALCO
+136,Depreciation,12  Mar-18*,4804.0,NALCO
+137,Interest,12  Mar-18*,20.0,NALCO
+138,Profit before tax,12  Mar-18*,12148.0,NALCO
+139,Minority Interest,12  Mar-18*,-2.0,NALCO
+140,Prior Period Items,12  Mar-18*,0.0,NALCO
+141,Extraordinary Inc (Exp),12  Mar-18*,8241.0,NALCO
+142,Tax,12  Mar-18*,6964.0,NALCO
+143,Profit after tax,12  Mar-18*,13422.0,NALCO
+144,Gross profit margin,12  Mar-18*,14.7,NALCO
+145,Effective tax rate,12  Mar-18*,57.3,NALCO
+146,Net profit margin,12  Mar-18*,14.1,NALCO
+147,Current assets,12  Mar-18*,55095.0,NALCO
+148,Current liabilities,12  Mar-18*,24409.0,NALCO
+149,Net working cap to sales,12  Mar-18*,32.3,NALCO
+150,Current ratio,12  Mar-18*,2.3,NALCO
+151,Inventory Days,12  Mar-18*,46.0,NALCO
+152,Debtors Days,12  Mar-18*,10.0,NALCO
+153,Net fixed assets,12  Mar-18*,80547.0,NALCO
+154,Share capital,12  Mar-18*,9665.0,NALCO
+155,"""Free"" reserves",12  Mar-18*,95375.0,NALCO
+156,Net worth,12  Mar-18*,105040.0,NALCO
+157,Long term debt,12  Mar-18*,0.0,NALCO
+158,Total assets,12  Mar-18*,146129.0,NALCO
+159,Interest coverage,12  Mar-18*,623.9,NALCO
+160,Debt to equity ratio,12  Mar-18*,0.0,NALCO
+161,Sales to assets ratio,12  Mar-18*,0.7,NALCO
+162,Return on assets,12  Mar-18*,9.2,NALCO
+163,Return on equity,12  Mar-18*,12.8,NALCO
+164,Return on capital,12  Mar-18*,19.4,NALCO
+165,Exports to sales,12  Mar-18*,0.0,NALCO
+166,Imports to sales,12  Mar-18*,0.0,NALCO
+167,Exports (fob),12  Mar-18*,0.0,NALCO
+168,Imports (cif),12  Mar-18*,0.0,NALCO
+169,Fx inflow,12  Mar-18*,35738.0,NALCO
+170,Fx outflow,12  Mar-18*,5477.0,NALCO
+171,Net fx,12  Mar-18*,30261.0,NALCO
+172,From Operations,12  Mar-18*,15903.0,NALCO
+173,From Investments,12  Mar-18*,-4902.0,NALCO
+174,From Financial Activity,12  Mar-18*,-10997.0,NALCO
+175,Net Cashflow,12  Mar-18*,5.0,NALCO
+176,Net Sales,12  Mar-19*,114993.0,NALCO
+177,Other income,12  Mar-19*,3259.0,NALCO
+178,Total revenues,12  Mar-19*,118252.0,NALCO
+179,Gross profit,12  Mar-19*,28925.0,NALCO
+180,Depreciation,12  Mar-19*,4761.0,NALCO
+181,Interest,12  Mar-19*,24.0,NALCO
+182,Profit before tax,12  Mar-19*,27399.0,NALCO
+183,Minority Interest,12  Mar-19*,13.0,NALCO
+184,Prior Period Items,12  Mar-19*,0.0,NALCO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NALCO
+186,Tax,12  Mar-19*,10075.0,NALCO
+187,Profit after tax,12  Mar-19*,17337.0,NALCO
+188,Gross profit margin,12  Mar-19*,25.2,NALCO
+189,Effective tax rate,12  Mar-19*,36.8,NALCO
+190,Net profit margin,12  Mar-19*,15.1,NALCO
+191,Current assets,12  Mar-19*,56007.0,NALCO
+192,Current liabilities,12  Mar-19*,29051.0,NALCO
+193,Net working cap to sales,12  Mar-19*,23.4,NALCO
+194,Current ratio,12  Mar-19*,1.9,NALCO
+195,Inventory Days,12  Mar-19*,38.0,NALCO
+196,Debtors Days,12  Mar-19*,8.0,NALCO
+197,Net fixed assets,12  Mar-19*,81685.0,NALCO
+198,Share capital,12  Mar-19*,9328.0,NALCO
+199,"""Free"" reserves",12  Mar-19*,95521.0,NALCO
+200,Net worth,12  Mar-19*,104849.0,NALCO
+201,Long term debt,12  Mar-19*,0.0,NALCO
+202,Total assets,12  Mar-19*,151474.0,NALCO
+203,Interest coverage,12  Mar-19*,1152.2,NALCO
+204,Debt to equity ratio,12  Mar-19*,0.0,NALCO
+205,Sales to assets ratio,12  Mar-19*,0.8,NALCO
+206,Return on assets,12  Mar-19*,11.5,NALCO
+207,Return on equity,12  Mar-19*,16.5,NALCO
+208,Return on capital,12  Mar-19*,26.2,NALCO
+209,Exports to sales,12  Mar-19*,0.0,NALCO
+210,Imports to sales,12  Mar-19*,0.0,NALCO
+211,Exports (fob),12  Mar-19*,0.0,NALCO
+212,Imports (cif),12  Mar-19*,0.0,NALCO
+213,Fx inflow,12  Mar-19*,46474.0,NALCO
+214,Fx outflow,12  Mar-19*,3130.0,NALCO
+215,Net fx,12  Mar-19*,43344.0,NALCO
+216,From Operations,12  Mar-19*,24089.0,NALCO
+217,From Investments,12  Mar-19*,-5319.0,NALCO
+218,From Financial Activity,12  Mar-19*,-17308.0,NALCO
+219,Net Cashflow,12  Mar-19*,1463.0,NALCO

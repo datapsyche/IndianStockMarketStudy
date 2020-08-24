@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,10796.0,ASTRAL
+1,Other income,12  Mar-14*,24.0,ASTRAL
+2,Total revenues,12  Mar-14*,10821.0,ASTRAL
+3,Gross profit,12  Mar-14*,1551.0,ASTRAL
+4,Depreciation,12  Mar-14*,219.0,ASTRAL
+5,Interest,12  Mar-14*,311.0,ASTRAL
+6,Profit before tax,12  Mar-14*,1045.0,ASTRAL
+7,Minority Interest,12  Mar-14*,-4.0,ASTRAL
+8,Prior Period Items,12  Mar-14*,0.0,ASTRAL
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,ASTRAL
+10,Tax,12  Mar-14*,252.0,ASTRAL
+11,Profit after tax,12  Mar-14*,789.0,ASTRAL
+12,Gross profit margin,12  Mar-14*,14.4,ASTRAL
+13,Effective tax rate,12  Mar-14*,24.1,ASTRAL
+14,Net profit margin,12  Mar-14*,7.3,ASTRAL
+15,Current assets,12  Mar-14*,3866.0,ASTRAL
+16,Current liabilities,12  Mar-14*,2858.0,ASTRAL
+17,Net working cap to sales,12  Mar-14*,9.3,ASTRAL
+18,Current ratio,12  Mar-14*,1.4,ASTRAL
+19,Inventory Days,12  Mar-14*,66.0,ASTRAL
+20,Debtors Days,12  Mar-14*,49.0,ASTRAL
+21,Net fixed assets,12  Mar-14*,2970.0,ASTRAL
+22,Share capital,12  Mar-14*,112.0,ASTRAL
+23,"""Free"" reserves",12  Mar-14*,3025.0,ASTRAL
+24,Net worth,12  Mar-14*,3153.0,ASTRAL
+25,Long term debt,12  Mar-14*,806.0,ASTRAL
+26,Total assets,12  Mar-14*,6944.0,ASTRAL
+27,Interest coverage,12  Mar-14*,4.4,ASTRAL
+28,Debt to equity ratio,12  Mar-14*,0.3,ASTRAL
+29,Sales to assets ratio,12  Mar-14*,1.6,ASTRAL
+30,Return on assets,12  Mar-14*,15.8,ASTRAL
+31,Return on equity,12  Mar-14*,25.0,ASTRAL
+32,Return on capital,12  Mar-14*,34.2,ASTRAL
+33,Exports to sales,12  Mar-14*,0.0,ASTRAL
+34,Imports to sales,12  Mar-14*,33.8,ASTRAL
+35,Exports (fob),12  Mar-14*,0.0,ASTRAL
+36,Imports (cif),12  Mar-14*,3644.0,ASTRAL
+37,Fx inflow,12  Mar-14*,191.0,ASTRAL
+38,Fx outflow,12  Mar-14*,3709.0,ASTRAL
+39,Net fx,12  Mar-14*,-3518.0,ASTRAL
+40,From Operations,12  Mar-14*,672.0,ASTRAL
+41,From Investments,12  Mar-14*,-909.0,ASTRAL
+42,From Financial Activity,12  Mar-14*,131.0,ASTRAL
+43,Net Cashflow,12  Mar-14*,-106.0,ASTRAL
+44,Net Sales,12  Mar-15*,14294.0,ASTRAL
+45,Other income,12  Mar-15*,36.0,ASTRAL
+46,Total revenues,12  Mar-15*,14330.0,ASTRAL
+47,Gross profit,12  Mar-15*,1678.0,ASTRAL
+48,Depreciation,12  Mar-15*,364.0,ASTRAL
+49,Interest,12  Mar-15*,255.0,ASTRAL
+50,Profit before tax,12  Mar-15*,1095.0,ASTRAL
+51,Minority Interest,12  Mar-15*,-23.0,ASTRAL
+52,Prior Period Items,12  Mar-15*,0.0,ASTRAL
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ASTRAL
+54,Tax,12  Mar-15*,313.0,ASTRAL
+55,Profit after tax,12  Mar-15*,759.0,ASTRAL
+56,Gross profit margin,12  Mar-15*,11.7,ASTRAL
+57,Effective tax rate,12  Mar-15*,28.6,ASTRAL
+58,Net profit margin,12  Mar-15*,5.3,ASTRAL
+59,Current assets,12  Mar-15*,5681.0,ASTRAL
+60,Current liabilities,12  Mar-15*,3896.0,ASTRAL
+61,Net working cap to sales,12  Mar-15*,12.5,ASTRAL
+62,Current ratio,12  Mar-15*,1.5,ASTRAL
+63,Inventory Days,12  Mar-15*,68.0,ASTRAL
+64,Debtors Days,12  Mar-15*,59.0,ASTRAL
+65,Net fixed assets,12  Mar-15*,3693.0,ASTRAL
+66,Share capital,12  Mar-15*,118.0,ASTRAL
+67,"""Free"" reserves",12  Mar-15*,6053.0,ASTRAL
+68,Net worth,12  Mar-15*,6188.0,ASTRAL
+69,Long term debt,12  Mar-15*,1213.0,ASTRAL
+70,Total assets,12  Mar-15*,11653.0,ASTRAL
+71,Interest coverage,12  Mar-15*,5.3,ASTRAL
+72,Debt to equity ratio,12  Mar-15*,0.2,ASTRAL
+73,Sales to assets ratio,12  Mar-15*,1.2,ASTRAL
+74,Return on assets,12  Mar-15*,8.7,ASTRAL
+75,Return on equity,12  Mar-15*,12.3,ASTRAL
+76,Return on capital,12  Mar-15*,17.9,ASTRAL
+77,Exports to sales,12  Mar-15*,1.2,ASTRAL
+78,Imports to sales,12  Mar-15*,28.3,ASTRAL
+79,Exports (fob),12  Mar-15*,174.0,ASTRAL
+80,Imports (cif),12  Mar-15*,4038.0,ASTRAL
+81,Fx inflow,12  Mar-15*,175.0,ASTRAL
+82,Fx outflow,12  Mar-15*,4109.0,ASTRAL
+83,Net fx,12  Mar-15*,-3933.0,ASTRAL
+84,From Operations,12  Mar-15*,1170.0,ASTRAL
+85,From Investments,12  Mar-15*,-3435.0,ASTRAL
+86,From Financial Activity,12  Mar-15*,2371.0,ASTRAL
+87,Net Cashflow,12  Mar-15*,106.0,ASTRAL
+88,Net Sales,12  Mar-16*,17190.0,ASTRAL
+89,Other income,12  Mar-16*,21.0,ASTRAL
+90,Total revenues,12  Mar-16*,17211.0,ASTRAL
+91,Gross profit,12  Mar-16*,2043.0,ASTRAL
+92,Depreciation,12  Mar-16*,424.0,ASTRAL
+93,Interest,12  Mar-16*,305.0,ASTRAL
+94,Profit before tax,12  Mar-16*,1335.0,ASTRAL
+95,Minority Interest,12  Mar-16*,-10.0,ASTRAL
+96,Prior Period Items,12  Mar-16*,0.0,ASTRAL
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,ASTRAL
+98,Tax,12  Mar-16*,319.0,ASTRAL
+99,Profit after tax,12  Mar-16*,1006.0,ASTRAL
+100,Gross profit margin,12  Mar-16*,11.9,ASTRAL
+101,Effective tax rate,12  Mar-16*,23.9,ASTRAL
+102,Net profit margin,12  Mar-16*,5.9,ASTRAL
+103,Current assets,12  Mar-16*,6248.0,ASTRAL
+104,Current liabilities,12  Mar-16*,4378.0,ASTRAL
+105,Net working cap to sales,12  Mar-16*,10.9,ASTRAL
+106,Current ratio,12  Mar-16*,1.4,ASTRAL
+107,Inventory Days,12  Mar-16*,60.0,ASTRAL
+108,Debtors Days,12  Mar-16*,49.0,ASTRAL
+109,Net fixed assets,12  Mar-16*,4529.0,ASTRAL
+110,Share capital,12  Mar-16*,120.0,ASTRAL
+111,"""Free"" reserves",12  Mar-16*,7696.0,ASTRAL
+112,Net worth,12  Mar-16*,7816.0,ASTRAL
+113,Long term debt,12  Mar-16*,1288.0,ASTRAL
+114,Total assets,12  Mar-16*,13862.0,ASTRAL
+115,Interest coverage,12  Mar-16*,5.4,ASTRAL
+116,Debt to equity ratio,12  Mar-16*,0.2,ASTRAL
+117,Sales to assets ratio,12  Mar-16*,1.2,ASTRAL
+118,Return on assets,12  Mar-16*,9.5,ASTRAL
+119,Return on equity,12  Mar-16*,12.9,ASTRAL
+120,Return on capital,12  Mar-16*,17.9,ASTRAL
+121,Exports to sales,12  Mar-16*,0.0,ASTRAL
+122,Imports to sales,12  Mar-16*,25.5,ASTRAL
+123,Exports (fob),12  Mar-16*,0.0,ASTRAL
+124,Imports (cif),12  Mar-16*,4383.0,ASTRAL
+125,Fx inflow,12  Mar-16*,121.0,ASTRAL
+126,Fx outflow,12  Mar-16*,4345.0,ASTRAL
+127,Net fx,12  Mar-16*,-4225.0,ASTRAL
+128,From Operations,12  Mar-16*,2303.0,ASTRAL
+129,From Investments,12  Mar-16*,-2043.0,ASTRAL
+130,From Financial Activity,12  Mar-16*,166.0,ASTRAL
+131,Net Cashflow,12  Mar-16*,426.0,ASTRAL
+132,Net Sales,12  Mar-17*,18947.0,ASTRAL
+133,Other income,12  Mar-17*,91.0,ASTRAL
+134,Total revenues,12  Mar-17*,19038.0,ASTRAL
+135,Gross profit,12  Mar-17*,2638.0,ASTRAL
+136,Depreciation,12  Mar-17*,502.0,ASTRAL
+137,Interest,12  Mar-17*,184.0,ASTRAL
+138,Profit before tax,12  Mar-17*,2043.0,ASTRAL
+139,Minority Interest,12  Mar-17*,-26.0,ASTRAL
+140,Prior Period Items,12  Mar-17*,0.0,ASTRAL
+141,Extraordinary Inc (Exp),12  Mar-17*,-10.0,ASTRAL
+142,Tax,12  Mar-17*,562.0,ASTRAL
+143,Profit after tax,12  Mar-17*,1446.0,ASTRAL
+144,Gross profit margin,12  Mar-17*,13.9,ASTRAL
+145,Effective tax rate,12  Mar-17*,27.5,ASTRAL
+146,Net profit margin,12  Mar-17*,7.6,ASTRAL
+147,Current assets,12  Mar-17*,6718.0,ASTRAL
+148,Current liabilities,12  Mar-17*,4532.0,ASTRAL
+149,Net working cap to sales,12  Mar-17*,11.5,ASTRAL
+150,Current ratio,12  Mar-17*,1.5,ASTRAL
+151,Inventory Days,12  Mar-17*,52.0,ASTRAL
+152,Debtors Days,12  Mar-17*,65.0,ASTRAL
+153,Net fixed assets,12  Mar-17*,5320.0,ASTRAL
+154,Share capital,12  Mar-17*,120.0,ASTRAL
+155,"""Free"" reserves",12  Mar-17*,8349.0,ASTRAL
+156,Net worth,12  Mar-17*,8468.0,ASTRAL
+157,Long term debt,12  Mar-17*,1219.0,ASTRAL
+158,Total assets,12  Mar-17*,14618.0,ASTRAL
+159,Interest coverage,12  Mar-17*,12.1,ASTRAL
+160,Debt to equity ratio,12  Mar-17*,0.1,ASTRAL
+161,Sales to assets ratio,12  Mar-17*,1.3,ASTRAL
+162,Return on assets,12  Mar-17*,11.1,ASTRAL
+163,Return on equity,12  Mar-17*,17.1,ASTRAL
+164,Return on capital,12  Mar-17*,22.6,ASTRAL
+165,Exports to sales,12  Mar-17*,0.0,ASTRAL
+166,Imports to sales,12  Mar-17*,0.0,ASTRAL
+167,Exports (fob),12  Mar-17*,0.0,ASTRAL
+168,Imports (cif),12  Mar-17*,0.0,ASTRAL
+169,Fx inflow,12  Mar-17*,106.0,ASTRAL
+170,Fx outflow,12  Mar-17*,3583.0,ASTRAL
+171,Net fx,12  Mar-17*,-3478.0,ASTRAL
+172,From Operations,12  Mar-17*,1142.0,ASTRAL
+173,From Investments,12  Mar-17*,-1580.0,ASTRAL
+174,From Financial Activity,12  Mar-17*,121.0,ASTRAL
+175,Net Cashflow,12  Mar-17*,-317.0,ASTRAL
+176,Net Sales,12  Mar-18*,21060.0,ASTRAL
+177,Other income,12  Mar-18*,127.0,ASTRAL
+178,Total revenues,12  Mar-18*,21187.0,ASTRAL
+179,Gross profit,12  Mar-18*,3168.0,ASTRAL
+180,Depreciation,12  Mar-18*,571.0,ASTRAL
+181,Interest,12  Mar-18*,216.0,ASTRAL
+182,Profit before tax,12  Mar-18*,2508.0,ASTRAL
+183,Minority Interest,12  Mar-18*,-27.0,ASTRAL
+184,Prior Period Items,12  Mar-18*,0.0,ASTRAL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ASTRAL
+186,Tax,12  Mar-18*,725.0,ASTRAL
+187,Profit after tax,12  Mar-18*,1757.0,ASTRAL
+188,Gross profit margin,12  Mar-18*,15.0,ASTRAL
+189,Effective tax rate,12  Mar-18*,28.9,ASTRAL
+190,Net profit margin,12  Mar-18*,8.3,ASTRAL
+191,Current assets,12  Mar-18*,7430.0,ASTRAL
+192,Current liabilities,12  Mar-18*,4912.0,ASTRAL
+193,Net working cap to sales,12  Mar-18*,12.0,ASTRAL
+194,Current ratio,12  Mar-18*,1.5,ASTRAL
+195,Inventory Days,12  Mar-18*,62.0,ASTRAL
+196,Debtors Days,12  Mar-18*,53.0,ASTRAL
+197,Net fixed assets,12  Mar-18*,6786.0,ASTRAL
+198,Share capital,12  Mar-18*,120.0,ASTRAL
+199,"""Free"" reserves",12  Mar-18*,10063.0,ASTRAL
+200,Net worth,12  Mar-18*,10182.0,ASTRAL
+201,Long term debt,12  Mar-18*,1174.0,ASTRAL
+202,Total assets,12  Mar-18*,16751.0,ASTRAL
+203,Interest coverage,12  Mar-18*,12.6,ASTRAL
+204,Debt to equity ratio,12  Mar-18*,0.1,ASTRAL
+205,Sales to assets ratio,12  Mar-18*,1.3,ASTRAL
+206,Return on assets,12  Mar-18*,11.8,ASTRAL
+207,Return on equity,12  Mar-18*,17.3,ASTRAL
+208,Return on capital,12  Mar-18*,23.7,ASTRAL
+209,Exports to sales,12  Mar-18*,0.0,ASTRAL
+210,Imports to sales,12  Mar-18*,0.0,ASTRAL
+211,Exports (fob),12  Mar-18*,0.0,ASTRAL
+212,Imports (cif),12  Mar-18*,0.0,ASTRAL
+213,Fx inflow,12  Mar-18*,67.0,ASTRAL
+214,Fx outflow,12  Mar-18*,5028.0,ASTRAL
+215,Net fx,12  Mar-18*,-4962.0,ASTRAL
+216,From Operations,12  Mar-18*,2819.0,ASTRAL
+217,From Investments,12  Mar-18*,-1853.0,ASTRAL
+218,From Financial Activity,12  Mar-18*,-711.0,ASTRAL
+219,Net Cashflow,12  Mar-18*,255.0,ASTRAL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,1520.0,SGEAR
+1,Other income,12  Mar-15,117.0,SGEAR
+2,Total revenues,12  Mar-15,1637.0,SGEAR
+3,Gross profit,12  Mar-15,182.0,SGEAR
+4,Depreciation,12  Mar-15,168.0,SGEAR
+5,Interest,12  Mar-15,0.0,SGEAR
+6,Profit before tax,12  Mar-15,131.0,SGEAR
+7,Minority Interest,12  Mar-15,0.0,SGEAR
+8,Prior Period Items,12  Mar-15,0.0,SGEAR
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,SGEAR
+10,Tax,12  Mar-15,38.0,SGEAR
+11,Profit after tax,12  Mar-15,93.0,SGEAR
+12,Gross profit margin,12  Mar-15,12.0,SGEAR
+13,Effective tax rate,12  Mar-15,28.9,SGEAR
+14,Net profit margin,12  Mar-15,6.1,SGEAR
+15,Current assets,12  Mar-15,2152.0,SGEAR
+16,Current liabilities,12  Mar-15,345.0,SGEAR
+17,Net working cap to sales,12  Mar-15,118.9,SGEAR
+18,Current ratio,12  Mar-15,6.2,SGEAR
+19,Inventory Days,12  Mar-15,157.0,SGEAR
+20,Debtors Days,12  Mar-15,89.0,SGEAR
+21,Net fixed assets,12  Mar-15,853.0,SGEAR
+22,Share capital,12  Mar-15,82.0,SGEAR
+23,"""Free"" reserves",12  Mar-15,2626.0,SGEAR
+24,Net worth,12  Mar-15,2707.0,SGEAR
+25,Long term debt,12  Mar-15,0.0,SGEAR
+26,Total assets,12  Mar-15,3063.0,SGEAR
+27,Interest coverage,12  Mar-15,438.0,SGEAR
+28,Debt to equity ratio,12  Mar-15,0.0,SGEAR
+29,Sales to assets ratio,12  Mar-15,0.5,SGEAR
+30,Return on assets,12  Mar-15,3.1,SGEAR
+31,Return on equity,12  Mar-15,3.4,SGEAR
+32,Return on capital,12  Mar-15,4.9,SGEAR
+33,Exports to sales,12  Mar-15,9.2,SGEAR
+34,Imports to sales,12  Mar-15,0.8,SGEAR
+35,Exports (fob),12  Mar-15,140.0,SGEAR
+36,Imports (cif),12  Mar-15,12.0,SGEAR
+37,Fx inflow,12  Mar-15,140.0,SGEAR
+38,Fx outflow,12  Mar-15,16.0,SGEAR
+39,Net fx,12  Mar-15,125.0,SGEAR
+40,From Operations,12  Mar-15,-61.0,SGEAR
+41,From Investments,12  Mar-15,100.0,SGEAR
+42,From Financial Activity,12  Mar-15,-50.0,SGEAR
+43,Net Cashflow,12  Mar-15,-11.0,SGEAR
+44,Net Sales,12  Mar-16,1624.0,SGEAR
+45,Other income,12  Mar-16,86.0,SGEAR
+46,Total revenues,12  Mar-16,1711.0,SGEAR
+47,Gross profit,12  Mar-16,315.0,SGEAR
+48,Depreciation,12  Mar-16,167.0,SGEAR
+49,Interest,12  Mar-16,0.0,SGEAR
+50,Profit before tax,12  Mar-16,235.0,SGEAR
+51,Minority Interest,12  Mar-16,0.0,SGEAR
+52,Prior Period Items,12  Mar-16,0.0,SGEAR
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,SGEAR
+54,Tax,12  Mar-16,52.0,SGEAR
+55,Profit after tax,12  Mar-16,182.0,SGEAR
+56,Gross profit margin,12  Mar-16,19.4,SGEAR
+57,Effective tax rate,12  Mar-16,22.3,SGEAR
+58,Net profit margin,12  Mar-16,11.2,SGEAR
+59,Current assets,12  Mar-16,2232,SGEAR
+60,Current liabilities,12  Mar-16,338,SGEAR
+61,Net working cap to sales,12  Mar-16,116.7,SGEAR
+62,Current ratio,12  Mar-16,6.6,SGEAR
+63,Inventory Days,12  Mar-16,150,SGEAR
+64,Debtors Days,12  Mar-16,88,SGEAR
+65,Net fixed assets,12  Mar-16,736,SGEAR
+66,Share capital,12  Mar-16,82,SGEAR
+67,"""Free"" reserves",12  Mar-16,2759,SGEAR
+68,Net worth,12  Mar-16,2841,SGEAR
+69,Long term debt,12  Mar-16,0,SGEAR
+70,Total assets,12  Mar-16,3180,SGEAR
+71,Interest coverage,12  Mar-16,NM,SGEAR
+72,Debt to equity ratio,12  Mar-16,0,SGEAR
+73,Sales to assets ratio,12  Mar-16,0.5,SGEAR
+74,Return on assets,12  Mar-16,5.7,SGEAR
+75,Return on equity,12  Mar-16,6.4,SGEAR
+76,Return on capital,12  Mar-16,8.3,SGEAR
+77,Exports to sales,12  Mar-16,7.2,SGEAR
+78,Imports to sales,12  Mar-16,0.3,SGEAR
+79,Exports (fob),12  Mar-16,117,SGEAR
+80,Imports (cif),12  Mar-16,5,SGEAR
+81,Fx inflow,12  Mar-16,117,SGEAR
+82,Fx outflow,12  Mar-16,11,SGEAR
+83,Net fx,12  Mar-16,106,SGEAR
+84,From Operations,12  Mar-16,161,SGEAR
+85,From Investments,12  Mar-16,-130,SGEAR
+86,From Financial Activity,12  Mar-16,-49,SGEAR
+87,Net Cashflow,12  Mar-16,-18,SGEAR
+88,Net Sales,12  Mar-17,1840.0,SGEAR
+89,Other income,12  Mar-17,107.0,SGEAR
+90,Total revenues,12  Mar-17,1947.0,SGEAR
+91,Gross profit,12  Mar-17,356.0,SGEAR
+92,Depreciation,12  Mar-17,178.0,SGEAR
+93,Interest,12  Mar-17,0.0,SGEAR
+94,Profit before tax,12  Mar-17,285.0,SGEAR
+95,Minority Interest,12  Mar-17,0.0,SGEAR
+96,Prior Period Items,12  Mar-17,0.0,SGEAR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,SGEAR
+98,Tax,12  Mar-17,60.0,SGEAR
+99,Profit after tax,12  Mar-17,225.0,SGEAR
+100,Gross profit margin,12  Mar-17,19.4,SGEAR
+101,Effective tax rate,12  Mar-17,21.0,SGEAR
+102,Net profit margin,12  Mar-17,12.2,SGEAR
+103,Current assets,12  Mar-17,2594,SGEAR
+104,Current liabilities,12  Mar-17,405,SGEAR
+105,Net working cap to sales,12  Mar-17,119.0,SGEAR
+106,Current ratio,12  Mar-17,6.4,SGEAR
+107,Inventory Days,12  Mar-17,149,SGEAR
+108,Debtors Days,12  Mar-17,91,SGEAR
+109,Net fixed assets,12  Mar-17,661,SGEAR
+110,Share capital,12  Mar-17,82,SGEAR
+111,"""Free"" reserves",12  Mar-17,2982,SGEAR
+112,Net worth,12  Mar-17,3063,SGEAR
+113,Long term debt,12  Mar-17,0,SGEAR
+114,Total assets,12  Mar-17,3476,SGEAR
+115,Interest coverage,12  Mar-17,NM,SGEAR
+116,Debt to equity ratio,12  Mar-17,0,SGEAR
+117,Sales to assets ratio,12  Mar-17,0.5,SGEAR
+118,Return on assets,12  Mar-17,6.5,SGEAR
+119,Return on equity,12  Mar-17,7.3,SGEAR
+120,Return on capital,12  Mar-17,9.3,SGEAR
+121,Exports to sales,12  Mar-17,6.4,SGEAR
+122,Imports to sales,12  Mar-17,4.0,SGEAR
+123,Exports (fob),12  Mar-17,117,SGEAR
+124,Imports (cif),12  Mar-17,73,SGEAR
+125,Fx inflow,12  Mar-17,122,SGEAR
+126,Fx outflow,12  Mar-17,103,SGEAR
+127,Net fx,12  Mar-17,19,SGEAR
+128,From Operations,12  Mar-17,138,SGEAR
+129,From Investments,12  Mar-17,-129,SGEAR
+130,From Financial Activity,12  Mar-17,0,SGEAR
+131,Net Cashflow,12  Mar-17,9,SGEAR
+132,Net Sales,12  Mar-18,2141.0,SGEAR
+133,Other income,12  Mar-18,119.0,SGEAR
+134,Total revenues,12  Mar-18,2260.0,SGEAR
+135,Gross profit,12  Mar-18,368.0,SGEAR
+136,Depreciation,12  Mar-18,156.0,SGEAR
+137,Interest,12  Mar-18,0.0,SGEAR
+138,Profit before tax,12  Mar-18,332.0,SGEAR
+139,Minority Interest,12  Mar-18,0.0,SGEAR
+140,Prior Period Items,12  Mar-18,0.0,SGEAR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,SGEAR
+142,Tax,12  Mar-18,46.0,SGEAR
+143,Profit after tax,12  Mar-18,286.0,SGEAR
+144,Gross profit margin,12  Mar-18,17.2,SGEAR
+145,Effective tax rate,12  Mar-18,13.8,SGEAR
+146,Net profit margin,12  Mar-18,13.3,SGEAR
+147,Current assets,12  Mar-18,2788,SGEAR
+148,Current liabilities,12  Mar-18,413,SGEAR
+149,Net working cap to sales,12  Mar-18,110.9,SGEAR
+150,Current ratio,12  Mar-18,6.8,SGEAR
+151,Inventory Days,12  Mar-18,100,SGEAR
+152,Debtors Days,12  Mar-18,95,SGEAR
+153,Net fixed assets,12  Mar-18,573,SGEAR
+154,Share capital,12  Mar-18,82,SGEAR
+155,"""Free"" reserves",12  Mar-18,3096,SGEAR
+156,Net worth,12  Mar-18,3178,SGEAR
+157,Long term debt,12  Mar-18,0,SGEAR
+158,Total assets,12  Mar-18,3601,SGEAR
+159,Interest coverage,12  Mar-18,NM,SGEAR
+160,Debt to equity ratio,12  Mar-18,0,SGEAR
+161,Sales to assets ratio,12  Mar-18,0.6,SGEAR
+162,Return on assets,12  Mar-18,7.9,SGEAR
+163,Return on equity,12  Mar-18,9.0,SGEAR
+164,Return on capital,12  Mar-18,10.4,SGEAR
+165,Exports to sales,12  Mar-18,5.1,SGEAR
+166,Imports to sales,12  Mar-18,2.0,SGEAR
+167,Exports (fob),12  Mar-18,109,SGEAR
+168,Imports (cif),12  Mar-18,42,SGEAR
+169,Fx inflow,12  Mar-18,109,SGEAR
+170,Fx outflow,12  Mar-18,80,SGEAR
+171,Net fx,12  Mar-18,30,SGEAR
+172,From Operations,12  Mar-18,423,SGEAR
+173,From Investments,12  Mar-18,-262,SGEAR
+174,From Financial Activity,12  Mar-18,-167,SGEAR
+175,Net Cashflow,12  Mar-18,-6,SGEAR
+176,Net Sales,12  Mar-19,2430.0,SGEAR
+177,Other income,12  Mar-19,118.0,SGEAR
+178,Total revenues,12  Mar-19,2548.0,SGEAR
+179,Gross profit,12  Mar-19,413.0,SGEAR
+180,Depreciation,12  Mar-19,106.0,SGEAR
+181,Interest,12  Mar-19,0.0,SGEAR
+182,Profit before tax,12  Mar-19,425.0,SGEAR
+183,Minority Interest,12  Mar-19,0.0,SGEAR
+184,Prior Period Items,12  Mar-19,0.0,SGEAR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,SGEAR
+186,Tax,12  Mar-19,91.0,SGEAR
+187,Profit after tax,12  Mar-19,334.0,SGEAR
+188,Gross profit margin,12  Mar-19,17.0,SGEAR
+189,Effective tax rate,12  Mar-19,21.5,SGEAR
+190,Net profit margin,12  Mar-19,13.7,SGEAR
+191,Current assets,12  Mar-19,2690,SGEAR
+192,Current liabilities,12  Mar-19,493,SGEAR
+193,Net working cap to sales,12  Mar-19,90.4,SGEAR
+194,Current ratio,12  Mar-19,5.5,SGEAR
+195,Inventory Days,12  Mar-19,105,SGEAR
+196,Debtors Days,12  Mar-19,85,SGEAR
+197,Net fixed assets,12  Mar-19,588,SGEAR
+198,Share capital,12  Mar-19,82,SGEAR
+199,"""Free"" reserves",12  Mar-19,2939,SGEAR
+200,Net worth,12  Mar-19,3021,SGEAR
+201,Long term debt,12  Mar-19,0,SGEAR
+202,Total assets,12  Mar-19,3526,SGEAR
+203,Interest coverage,12  Mar-19,NM,SGEAR
+204,Debt to equity ratio,12  Mar-19,0,SGEAR
+205,Sales to assets ratio,12  Mar-19,0.7,SGEAR
+206,Return on assets,12  Mar-19,9.5,SGEAR
+207,Return on equity,12  Mar-19,11.0,SGEAR
+208,Return on capital,12  Mar-19,14.1,SGEAR
+209,Exports to sales,12  Mar-19,4.9,SGEAR
+210,Imports to sales,12  Mar-19,0,SGEAR
+211,Exports (fob),12  Mar-19,118,SGEAR
+212,Imports (cif),12  Mar-19,0,SGEAR
+213,Fx inflow,12  Mar-19,118,SGEAR
+214,Fx outflow,12  Mar-19,62,SGEAR
+215,Net fx,12  Mar-19,56,SGEAR
+216,From Operations,12  Mar-19,272,SGEAR
+217,From Investments,12  Mar-19,404,SGEAR
+218,From Financial Activity,12  Mar-19,-493,SGEAR
+219,Net Cashflow,12  Mar-19,183,SGEAR

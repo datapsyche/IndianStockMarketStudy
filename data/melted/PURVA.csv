@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,16777.0,PURVA
+1,Other income,12  Mar-15*,129.0,PURVA
+2,Total revenues,12  Mar-15*,16906.0,PURVA
+3,Gross profit,12  Mar-15*,3810.0,PURVA
+4,Depreciation,12  Mar-15*,149.0,PURVA
+5,Interest,12  Mar-15*,2240.0,PURVA
+6,Profit before tax,12  Mar-15*,1550.0,PURVA
+7,Minority Interest,12  Mar-15*,0.0,PURVA
+8,Prior Period Items,12  Mar-15*,9.0,PURVA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PURVA
+10,Tax,12  Mar-15*,231.0,PURVA
+11,Profit after tax,12  Mar-15*,1327.0,PURVA
+12,Gross profit margin,12  Mar-15*,22.7,PURVA
+13,Effective tax rate,12  Mar-15*,14.9,PURVA
+14,Net profit margin,12  Mar-15*,7.9,PURVA
+15,Current assets,12  Mar-15*,42873.0,PURVA
+16,Current liabilities,12  Mar-15*,19664.0,PURVA
+17,Net working cap to sales,12  Mar-15*,138.3,PURVA
+18,Current ratio,12  Mar-15*,2.2,PURVA
+19,Inventory Days,12  Mar-15*,707.0,PURVA
+20,Debtors Days,12  Mar-15*,95.0,PURVA
+21,Net fixed assets,12  Mar-15*,1239.0,PURVA
+22,Share capital,12  Mar-15*,1186.0,PURVA
+23,"""Free"" reserves",12  Mar-15*,21257.0,PURVA
+24,Net worth,12  Mar-15*,22443.0,PURVA
+25,Long term debt,12  Mar-15*,9436.0,PURVA
+26,Total assets,12  Mar-15*,51658.0,PURVA
+27,Interest coverage,12  Mar-15*,1.7,PURVA
+28,Debt to equity ratio,12  Mar-15*,0.4,PURVA
+29,Sales to assets ratio,12  Mar-15*,0.3,PURVA
+30,Return on assets,12  Mar-15*,6.9,PURVA
+31,Return on equity,12  Mar-15*,5.9,PURVA
+32,Return on capital,12  Mar-15*,11.9,PURVA
+33,Exports to sales,12  Mar-15*,0.0,PURVA
+34,Imports to sales,12  Mar-15*,0.6,PURVA
+35,Exports (fob),12  Mar-15*,0.0,PURVA
+36,Imports (cif),12  Mar-15*,101.0,PURVA
+37,Fx inflow,12  Mar-15*,31.0,PURVA
+38,Fx outflow,12  Mar-15*,175.0,PURVA
+39,Net fx,12  Mar-15*,-144.0,PURVA
+40,From Operations,12  Mar-15*,3298.0,PURVA
+41,From Investments,12  Mar-15*,-791.0,PURVA
+42,From Financial Activity,12  Mar-15*,-2044.0,PURVA
+43,Net Cashflow,12  Mar-15*,463.0,PURVA
+44,Net Sales,12  Mar-16*,15840.0,PURVA
+45,Other income,12  Mar-16*,211.0,PURVA
+46,Total revenues,12  Mar-16*,16051.0,PURVA
+47,Gross profit,12  Mar-16*,3388.0,PURVA
+48,Depreciation,12  Mar-16*,160.0,PURVA
+49,Interest,12  Mar-16*,2173.0,PURVA
+50,Profit before tax,12  Mar-16*,1266.0,PURVA
+51,Minority Interest,12  Mar-16*,0.0,PURVA
+52,Prior Period Items,12  Mar-16*,-1.0,PURVA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PURVA
+54,Tax,12  Mar-16*,436.0,PURVA
+55,Profit after tax,12  Mar-16*,829.0,PURVA
+56,Gross profit margin,12  Mar-16*,21.4,PURVA
+57,Effective tax rate,12  Mar-16*,34.5,PURVA
+58,Net profit margin,12  Mar-16*,5.2,PURVA
+59,Current assets,12  Mar-16*,46064.0,PURVA
+60,Current liabilities,12  Mar-16*,19877.0,PURVA
+61,Net working cap to sales,12  Mar-16*,165.3,PURVA
+62,Current ratio,12  Mar-16*,2.3,PURVA
+63,Inventory Days,12  Mar-16*,799.0,PURVA
+64,Debtors Days,12  Mar-16*,77.0,PURVA
+65,Net fixed assets,12  Mar-16*,1179.0,PURVA
+66,Share capital,12  Mar-16*,1186.0,PURVA
+67,"""Free"" reserves",12  Mar-16*,21648.0,PURVA
+68,Net worth,12  Mar-16*,22833.0,PURVA
+69,Long term debt,12  Mar-16*,12598.0,PURVA
+70,Total assets,12  Mar-16*,55458.0,PURVA
+71,Interest coverage,12  Mar-16*,1.6,PURVA
+72,Debt to equity ratio,12  Mar-16*,0.6,PURVA
+73,Sales to assets ratio,12  Mar-16*,0.3,PURVA
+74,Return on assets,12  Mar-16*,5.4,PURVA
+75,Return on equity,12  Mar-16*,3.6,PURVA
+76,Return on capital,12  Mar-16*,9.7,PURVA
+77,Exports to sales,12  Mar-16*,0.0,PURVA
+78,Imports to sales,12  Mar-16*,0.5,PURVA
+79,Exports (fob),12  Mar-16*,0.0,PURVA
+80,Imports (cif),12  Mar-16*,87.0,PURVA
+81,Fx inflow,12  Mar-16*,38.0,PURVA
+82,Fx outflow,12  Mar-16*,167.0,PURVA
+83,Net fx,12  Mar-16*,-129.0,PURVA
+84,From Operations,12  Mar-16*,140.0,PURVA
+85,From Investments,12  Mar-16*,-159.0,PURVA
+86,From Financial Activity,12  Mar-16*,730.0,PURVA
+87,Net Cashflow,12  Mar-16*,712.0,PURVA
+88,Net Sales,12  Mar-17*,14071.0,PURVA
+89,Other income,12  Mar-17*,605.0,PURVA
+90,Total revenues,12  Mar-17*,14676.0,PURVA
+91,Gross profit,12  Mar-17*,4092.0,PURVA
+92,Depreciation,12  Mar-17*,165.0,PURVA
+93,Interest,12  Mar-17*,2895.0,PURVA
+94,Profit before tax,12  Mar-17*,1637.0,PURVA
+95,Minority Interest,12  Mar-17*,0.0,PURVA
+96,Prior Period Items,12  Mar-17*,71.0,PURVA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PURVA
+98,Tax,12  Mar-17*,419.0,PURVA
+99,Profit after tax,12  Mar-17*,1289.0,PURVA
+100,Gross profit margin,12  Mar-17*,29.1,PURVA
+101,Effective tax rate,12  Mar-17*,25.6,PURVA
+102,Net profit margin,12  Mar-17*,9.2,PURVA
+103,Current assets,12  Mar-17*,55902.0,PURVA
+104,Current liabilities,12  Mar-17*,35597.0,PURVA
+105,Net working cap to sales,12  Mar-17*,144.3,PURVA
+106,Current ratio,12  Mar-17*,1.6,PURVA
+107,Inventory Days,12  Mar-17*,1181.0,PURVA
+108,Debtors Days,12  Mar-17*,100.0,PURVA
+109,Net fixed assets,12  Mar-17*,1141.0,PURVA
+110,Share capital,12  Mar-17*,1186.0,PURVA
+111,"""Free"" reserves",12  Mar-17*,22477.0,PURVA
+112,Net worth,12  Mar-17*,23662.0,PURVA
+113,Long term debt,12  Mar-17*,3032.0,PURVA
+114,Total assets,12  Mar-17*,62589.0,PURVA
+115,Interest coverage,12  Mar-17*,1.6,PURVA
+116,Debt to equity ratio,12  Mar-17*,0.1,PURVA
+117,Sales to assets ratio,12  Mar-17*,0.2,PURVA
+118,Return on assets,12  Mar-17*,6.7,PURVA
+119,Return on equity,12  Mar-17*,5.4,PURVA
+120,Return on capital,12  Mar-17*,17.2,PURVA
+121,Exports to sales,12  Mar-17*,0.0,PURVA
+122,Imports to sales,12  Mar-17*,0.0,PURVA
+123,Exports (fob),12  Mar-17*,0.0,PURVA
+124,Imports (cif),12  Mar-17*,0.0,PURVA
+125,Fx inflow,12  Mar-17*,25.0,PURVA
+126,Fx outflow,12  Mar-17*,67.0,PURVA
+127,Net fx,12  Mar-17*,-43.0,PURVA
+128,From Operations,12  Mar-17*,-2773.0,PURVA
+129,From Investments,12  Mar-17*,5208.0,PURVA
+130,From Financial Activity,12  Mar-17*,-4318.0,PURVA
+131,Net Cashflow,12  Mar-17*,-1883.0,PURVA
+132,Net Sales,12  Mar-18*,14149.0,PURVA
+133,Other income,12  Mar-18*,900.0,PURVA
+134,Total revenues,12  Mar-18*,15049.0,PURVA
+135,Gross profit,12  Mar-18*,3051.0,PURVA
+136,Depreciation,12  Mar-18*,150.0,PURVA
+137,Interest,12  Mar-18*,2513.0,PURVA
+138,Profit before tax,12  Mar-18*,1288.0,PURVA
+139,Minority Interest,12  Mar-18*,0.0,PURVA
+140,Prior Period Items,12  Mar-18*,0.0,PURVA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PURVA
+142,Tax,12  Mar-18*,374.0,PURVA
+143,Profit after tax,12  Mar-18*,914.0,PURVA
+144,Gross profit margin,12  Mar-18*,21.6,PURVA
+145,Effective tax rate,12  Mar-18*,29.0,PURVA
+146,Net profit margin,12  Mar-18*,6.5,PURVA
+147,Current assets,12  Mar-18*,59527.0,PURVA
+148,Current liabilities,12  Mar-18*,42312.0,PURVA
+149,Net working cap to sales,12  Mar-18*,121.7,PURVA
+150,Current ratio,12  Mar-18*,1.4,PURVA
+151,Inventory Days,12  Mar-18*,1209.0,PURVA
+152,Debtors Days,12  Mar-18*,71.0,PURVA
+153,Net fixed assets,12  Mar-18*,1607.0,PURVA
+154,Share capital,12  Mar-18*,1186.0,PURVA
+155,"""Free"" reserves",12  Mar-18*,22746.0,PURVA
+156,Net worth,12  Mar-18*,23932.0,PURVA
+157,Long term debt,12  Mar-18*,1380.0,PURVA
+158,Total assets,12  Mar-18*,67913.0,PURVA
+159,Interest coverage,12  Mar-18*,1.5,PURVA
+160,Debt to equity ratio,12  Mar-18*,0.1,PURVA
+161,Sales to assets ratio,12  Mar-18*,0.2,PURVA
+162,Return on assets,12  Mar-18*,5.0,PURVA
+163,Return on equity,12  Mar-18*,3.8,PURVA
+164,Return on capital,12  Mar-18*,15.0,PURVA
+165,Exports to sales,12  Mar-18*,0.0,PURVA
+166,Imports to sales,12  Mar-18*,0.0,PURVA
+167,Exports (fob),12  Mar-18*,0.0,PURVA
+168,Imports (cif),12  Mar-18*,0.0,PURVA
+169,Fx inflow,12  Mar-18*,19.0,PURVA
+170,Fx outflow,12  Mar-18*,62.0,PURVA
+171,Net fx,12  Mar-18*,-42.0,PURVA
+172,From Operations,12  Mar-18*,-289.0,PURVA
+173,From Investments,12  Mar-18*,558.0,PURVA
+174,From Financial Activity,12  Mar-18*,120.0,PURVA
+175,Net Cashflow,12  Mar-18*,389.0,PURVA
+176,Net Sales,12  Mar-19*,20505.0,PURVA
+177,Other income,12  Mar-19*,762.0,PURVA
+178,Total revenues,12  Mar-19*,21267.0,PURVA
+179,Gross profit,12  Mar-19*,4386.0,PURVA
+180,Depreciation,12  Mar-19*,151.0,PURVA
+181,Interest,12  Mar-19*,3280.0,PURVA
+182,Profit before tax,12  Mar-19*,1718.0,PURVA
+183,Minority Interest,12  Mar-19*,0.0,PURVA
+184,Prior Period Items,12  Mar-19*,0.0,PURVA
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PURVA
+186,Tax,12  Mar-19*,574.0,PURVA
+187,Profit after tax,12  Mar-19*,1144.0,PURVA
+188,Gross profit margin,12  Mar-19*,21.4,PURVA
+189,Effective tax rate,12  Mar-19*,33.4,PURVA
+190,Net profit margin,12  Mar-19*,5.6,PURVA
+191,Current assets,12  Mar-19*,75712.0,PURVA
+192,Current liabilities,12  Mar-19*,64095.0,PURVA
+193,Net working cap to sales,12  Mar-19*,56.7,PURVA
+194,Current ratio,12  Mar-19*,1.2,PURVA
+195,Inventory Days,12  Mar-19*,1204.0,PURVA
+196,Debtors Days,12  Mar-19*,45.0,PURVA
+197,Net fixed assets,12  Mar-19*,1708.0,PURVA
+198,Share capital,12  Mar-19*,1186.0,PURVA
+199,"""Free"" reserves",12  Mar-19*,17382.0,PURVA
+200,Net worth,12  Mar-19*,18568.0,PURVA
+201,Long term debt,12  Mar-19*,4354.0,PURVA
+202,Total assets,12  Mar-19*,87336.0,PURVA
+203,Interest coverage,12  Mar-19*,1.5,PURVA
+204,Debt to equity ratio,12  Mar-19*,0.2,PURVA
+205,Sales to assets ratio,12  Mar-19*,0.2,PURVA
+206,Return on assets,12  Mar-19*,5.1,PURVA
+207,Return on equity,12  Mar-19*,6.2,PURVA
+208,Return on capital,12  Mar-19*,21.8,PURVA
+209,Exports to sales,12  Mar-19*,0.0,PURVA
+210,Imports to sales,12  Mar-19*,0.0,PURVA
+211,Exports (fob),12  Mar-19*,0.0,PURVA
+212,Imports (cif),12  Mar-19*,0.0,PURVA
+213,Fx inflow,12  Mar-19*,70.0,PURVA
+214,Fx outflow,12  Mar-19*,9.0,PURVA
+215,Net fx,12  Mar-19*,61.0,PURVA
+216,From Operations,12  Mar-19*,-1309.0,PURVA
+217,From Investments,12  Mar-19*,47.0,PURVA
+218,From Financial Activity,12  Mar-19*,1603.0,PURVA
+219,Net Cashflow,12  Mar-19*,341.0,PURVA

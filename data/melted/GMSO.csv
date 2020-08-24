@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-10*,5116.0,GMSO
+1,Other income,12  Mar-10*,28.0,GMSO
+2,Total revenues,12  Mar-10*,5144.0,GMSO
+3,Gross profit,12  Mar-10*,840.0,GMSO
+4,Depreciation,12  Mar-10*,232.0,GMSO
+5,Interest,12  Mar-10*,37.0,GMSO
+6,Profit before tax,12  Mar-10*,600.0,GMSO
+7,Minority Interest,12  Mar-10*,-127.0,GMSO
+8,Prior Period Items,12  Mar-10*,-2.0,GMSO
+9,Extraordinary Inc (Exp),12  Mar-10*,0.0,GMSO
+10,Tax,12  Mar-10*,4.0,GMSO
+11,Profit after tax,12  Mar-10*,467.0,GMSO
+12,Gross profit margin,12  Mar-10*,16.4,GMSO
+13,Effective tax rate,12  Mar-10*,0.7,GMSO
+14,Net profit margin,12  Mar-10*,9.1,GMSO
+15,Current assets,12  Mar-10*,2124.0,GMSO
+16,Current liabilities,12  Mar-10*,1001.0,GMSO
+17,Net working cap to sales,12  Mar-10*,22.0,GMSO
+18,Current ratio,12  Mar-10*,2.1,GMSO
+19,Inventory Days,12  Mar-10*,0.0,GMSO
+20,Debtors Days,12  Mar-10*,66.0,GMSO
+21,Net fixed assets,12  Mar-10*,857.0,GMSO
+22,Share capital,12  Mar-10*,124.0,GMSO
+23,"""Free"" reserves",12  Mar-10*,1399.0,GMSO
+24,Net worth,12  Mar-10*,1779.0,GMSO
+25,Long term debt,12  Mar-10*,0.0,GMSO
+26,Total assets,12  Mar-10*,3148.0,GMSO
+27,Interest coverage,12  Mar-10*,17.4,GMSO
+28,Debt to equity ratio,12  Mar-10*,0.0,GMSO
+29,Sales to assets ratio,12  Mar-10*,1.6,GMSO
+30,Return on assets,12  Mar-10*,16.0,GMSO
+31,Return on equity,12  Mar-10*,26.2,GMSO
+32,Return on capital,12  Mar-10*,28.5,GMSO
+33,Exports to sales,12  Mar-10*,0.0,GMSO
+34,Imports to sales,12  Mar-10*,0.7,GMSO
+35,Exports (fob),12  Mar-10*,0.0,GMSO
+36,Imports (cif),12  Mar-10*,38.0,GMSO
+37,Fx inflow,12  Mar-10*,2020.0,GMSO
+38,Fx outflow,12  Mar-10*,471.0,GMSO
+39,Net fx,12  Mar-10*,1549.0,GMSO
+40,From Operations,12  Mar-10*,818.0,GMSO
+41,From Investments,12  Mar-10*,-149.0,GMSO
+42,From Financial Activity,12  Mar-10*,-1082.0,GMSO
+43,Net Cashflow,12  Mar-10*,-413.0,GMSO
+44,Net Sales,12  Mar-11*,6206.0,GMSO
+45,Other income,12  Mar-11*,236.0,GMSO
+46,Total revenues,12  Mar-11*,6442.0,GMSO
+47,Gross profit,12  Mar-11*,711.0,GMSO
+48,Depreciation,12  Mar-11*,236.0,GMSO
+49,Interest,12  Mar-11*,10.0,GMSO
+50,Profit before tax,12  Mar-11*,701.0,GMSO
+51,Minority Interest,12  Mar-11*,-108.0,GMSO
+52,Prior Period Items,12  Mar-11*,-1.0,GMSO
+53,Extraordinary Inc (Exp),12  Mar-11*,0.0,GMSO
+54,Tax,12  Mar-11*,17.0,GMSO
+55,Profit after tax,12  Mar-11*,575.0,GMSO
+56,Gross profit margin,12  Mar-11*,11.5,GMSO
+57,Effective tax rate,12  Mar-11*,2.4,GMSO
+58,Net profit margin,12  Mar-11*,9.3,GMSO
+59,Current assets,12  Mar-11*,2471.0,GMSO
+60,Current liabilities,12  Mar-11*,840.0,GMSO
+61,Net working cap to sales,12  Mar-11*,26.3,GMSO
+62,Current ratio,12  Mar-11*,2.9,GMSO
+63,Inventory Days,12  Mar-11*,0.0,GMSO
+64,Debtors Days,12  Mar-11*,70.0,GMSO
+65,Net fixed assets,12  Mar-11*,847.0,GMSO
+66,Share capital,12  Mar-11*,125.0,GMSO
+67,"""Free"" reserves",12  Mar-11*,1871.0,GMSO
+68,Net worth,12  Mar-11*,2178.0,GMSO
+69,Long term debt,12  Mar-11*,0.0,GMSO
+70,Total assets,12  Mar-11*,3481.0,GMSO
+71,Interest coverage,12  Mar-11*,71.8,GMSO
+72,Debt to equity ratio,12  Mar-11*,0.0,GMSO
+73,Sales to assets ratio,12  Mar-11*,1.8,GMSO
+74,Return on assets,12  Mar-11*,16.8,GMSO
+75,Return on equity,12  Mar-11*,26.4,GMSO
+76,Return on capital,12  Mar-11*,27.7,GMSO
+77,Exports to sales,12  Mar-11*,0.0,GMSO
+78,Imports to sales,12  Mar-11*,0.9,GMSO
+79,Exports (fob),12  Mar-11*,0.0,GMSO
+80,Imports (cif),12  Mar-11*,58.0,GMSO
+81,Fx inflow,12  Mar-11*,2099.0,GMSO
+82,Fx outflow,12  Mar-11*,534.0,GMSO
+83,Net fx,12  Mar-11*,1565.0,GMSO
+84,From Operations,12  Mar-11*,420.0,GMSO
+85,From Investments,12  Mar-11*,-190.0,GMSO
+86,From Financial Activity,12  Mar-11*,-299.0,GMSO
+87,Net Cashflow,12  Mar-11*,-69.0,GMSO
+88,Net Sales,12  Mar-12*,8079.0,GMSO
+89,Other income,12  Mar-12*,163.0,GMSO
+90,Total revenues,12  Mar-12*,8242.0,GMSO
+91,Gross profit,12  Mar-12*,1147.0,GMSO
+92,Depreciation,12  Mar-12*,270.0,GMSO
+93,Interest,12  Mar-12*,25.0,GMSO
+94,Profit before tax,12  Mar-12*,1015.0,GMSO
+95,Minority Interest,12  Mar-12*,-142.0,GMSO
+96,Prior Period Items,12  Mar-12*,-4.0,GMSO
+97,Extraordinary Inc (Exp),12  Mar-12*,0.0,GMSO
+98,Tax,12  Mar-12*,278.0,GMSO
+99,Profit after tax,12  Mar-12*,592.0,GMSO
+100,Gross profit margin,12  Mar-12*,14.2,GMSO
+101,Effective tax rate,12  Mar-12*,27.4,GMSO
+102,Net profit margin,12  Mar-12*,7.3,GMSO
+103,Current assets,12  Mar-12*,3550.0,GMSO
+104,Current liabilities,12  Mar-12*,2467.0,GMSO
+105,Net working cap to sales,12  Mar-12*,13.4,GMSO
+106,Current ratio,12  Mar-12*,1.4,GMSO
+107,Inventory Days,12  Mar-12*,0.0,GMSO
+108,Debtors Days,12  Mar-12*,65.0,GMSO
+109,Net fixed assets,12  Mar-12*,891.0,GMSO
+110,Share capital,12  Mar-12*,125.0,GMSO
+111,"""Free"" reserves",12  Mar-12*,1690.0,GMSO
+112,Net worth,12  Mar-12*,1866.0,GMSO
+113,Long term debt,12  Mar-12*,0.0,GMSO
+114,Total assets,12  Mar-12*,4925.0,GMSO
+115,Interest coverage,12  Mar-12*,41.9,GMSO
+116,Debt to equity ratio,12  Mar-12*,0.0,GMSO
+117,Sales to assets ratio,12  Mar-12*,1.6,GMSO
+118,Return on assets,12  Mar-12*,12.5,GMSO
+119,Return on equity,12  Mar-12*,31.7,GMSO
+120,Return on capital,12  Mar-12*,47.9,GMSO
+121,Exports to sales,12  Mar-12*,0.0,GMSO
+122,Imports to sales,12  Mar-12*,0.8,GMSO
+123,Exports (fob),12  Mar-12*,0.0,GMSO
+124,Imports (cif),12  Mar-12*,61.0,GMSO
+125,Fx inflow,12  Mar-12*,2331.0,GMSO
+126,Fx outflow,12  Mar-12*,563.0,GMSO
+127,Net fx,12  Mar-12*,1768.0,GMSO
+128,From Operations,12  Mar-12*,726.0,GMSO
+129,From Investments,12  Mar-12*,-801.0,GMSO
+130,From Financial Activity,12  Mar-12*,479.0,GMSO
+131,Net Cashflow,12  Mar-12*,404.0,GMSO
+132,Net Sales,12  Mar-13*,10204.0,GMSO
+133,Other income,12  Mar-13*,165.0,GMSO
+134,Total revenues,12  Mar-13*,10369.0,GMSO
+135,Gross profit,12  Mar-13*,1448.0,GMSO
+136,Depreciation,12  Mar-13*,329.0,GMSO
+137,Interest,12  Mar-13*,36.0,GMSO
+138,Profit before tax,12  Mar-13*,1248.0,GMSO
+139,Minority Interest,12  Mar-13*,-180.0,GMSO
+140,Prior Period Items,12  Mar-13*,0.0,GMSO
+141,Extraordinary Inc (Exp),12  Mar-13*,6.0,GMSO
+142,Tax,12  Mar-13*,386.0,GMSO
+143,Profit after tax,12  Mar-13*,688.0,GMSO
+144,Gross profit margin,12  Mar-13*,14.2,GMSO
+145,Effective tax rate,12  Mar-13*,31.0,GMSO
+146,Net profit margin,12  Mar-13*,6.7,GMSO
+147,Current assets,12  Mar-13*,3538.0,GMSO
+148,Current liabilities,12  Mar-13*,2247.0,GMSO
+149,Net working cap to sales,12  Mar-13*,12.6,GMSO
+150,Current ratio,12  Mar-13*,1.6,GMSO
+151,Inventory Days,12  Mar-13*,0.0,GMSO
+152,Debtors Days,12  Mar-13*,53.0,GMSO
+153,Net fixed assets,12  Mar-13*,998.0,GMSO
+154,Share capital,12  Mar-13*,126.0,GMSO
+155,"""Free"" reserves",12  Mar-13*,2450.0,GMSO
+156,Net worth,12  Mar-13*,2627.0,GMSO
+157,Long term debt,12  Mar-13*,0.0,GMSO
+158,Total assets,12  Mar-13*,5663.0,GMSO
+159,Interest coverage,12  Mar-13*,36.0,GMSO
+160,Debt to equity ratio,12  Mar-13*,0.0,GMSO
+161,Sales to assets ratio,12  Mar-13*,1.8,GMSO
+162,Return on assets,12  Mar-13*,12.8,GMSO
+163,Return on equity,12  Mar-13*,26.2,GMSO
+164,Return on capital,12  Mar-13*,42.2,GMSO
+165,Exports to sales,12  Mar-13*,0.0,GMSO
+166,Imports to sales,12  Mar-13*,0.4,GMSO
+167,Exports (fob),12  Mar-13*,0.0,GMSO
+168,Imports (cif),12  Mar-13*,43.0,GMSO
+169,Fx inflow,12  Mar-13*,3044.0,GMSO
+170,Fx outflow,12  Mar-13*,583.0,GMSO
+171,Net fx,12  Mar-13*,2461.0,GMSO
+172,From Operations,12  Mar-13*,1339.0,GMSO
+173,From Investments,12  Mar-13*,-1000.0,GMSO
+174,From Financial Activity,12  Mar-13*,-593.0,GMSO
+175,Net Cashflow,12  Mar-13*,-253.0,GMSO
+176,Net Sales,12  Mar-14*,10955.0,GMSO
+177,Other income,12  Mar-14*,137.0,GMSO
+178,Total revenues,12  Mar-14*,11092.0,GMSO
+179,Gross profit,12  Mar-14*,1262.0,GMSO
+180,Depreciation,12  Mar-14*,346.0,GMSO
+181,Interest,12  Mar-14*,35.0,GMSO
+182,Profit before tax,12  Mar-14*,1019.0,GMSO
+183,Minority Interest,12  Mar-14*,-169.0,GMSO
+184,Prior Period Items,12  Mar-14*,0.0,GMSO
+185,Extraordinary Inc (Exp),12  Mar-14*,0.0,GMSO
+186,Tax,12  Mar-14*,388.0,GMSO
+187,Profit after tax,12  Mar-14*,462.0,GMSO
+188,Gross profit margin,12  Mar-14*,11.5,GMSO
+189,Effective tax rate,12  Mar-14*,38.1,GMSO
+190,Net profit margin,12  Mar-14*,4.2,GMSO
+191,Current assets,12  Mar-14*,4265.0,GMSO
+192,Current liabilities,12  Mar-14*,2394.0,GMSO
+193,Net working cap to sales,12  Mar-14*,17.1,GMSO
+194,Current ratio,12  Mar-14*,1.8,GMSO
+195,Inventory Days,12  Mar-14*,0.0,GMSO
+196,Debtors Days,12  Mar-14*,44.0,GMSO
+197,Net fixed assets,12  Mar-14*,1092.0,GMSO
+198,Share capital,12  Mar-14*,127.0,GMSO
+199,"""Free"" reserves",12  Mar-14*,3075.0,GMSO
+200,Net worth,12  Mar-14*,3353.0,GMSO
+201,Long term debt,12  Mar-14*,0.0,GMSO
+202,Total assets,12  Mar-14*,6596.0,GMSO
+203,Interest coverage,12  Mar-14*,30.3,GMSO
+204,Debt to equity ratio,12  Mar-14*,0.0,GMSO
+205,Sales to assets ratio,12  Mar-14*,1.7,GMSO
+206,Return on assets,12  Mar-14*,7.5,GMSO
+207,Return on equity,12  Mar-14*,13.8,GMSO
+208,Return on capital,12  Mar-14*,26.4,GMSO
+209,Exports to sales,12  Mar-14*,0.0,GMSO
+210,Imports to sales,12  Mar-14*,0.4,GMSO
+211,Exports (fob),12  Mar-14*,0.0,GMSO
+212,Imports (cif),12  Mar-14*,45.0,GMSO
+213,Fx inflow,12  Mar-14*,3347.0,GMSO
+214,Fx outflow,12  Mar-14*,771.0,GMSO
+215,Net fx,12  Mar-14*,2575.0,GMSO
+216,From Operations,12  Mar-14*,1311.0,GMSO
+217,From Investments,12  Mar-14*,-549.0,GMSO
+218,From Financial Activity,12  Mar-14*,-289.0,GMSO
+219,Net Cashflow,12  Mar-14*,474.0,GMSO

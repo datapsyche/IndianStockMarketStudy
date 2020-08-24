@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,113397.0,SCLAY
+1,Other income,12  Mar-15*,375.0,SCLAY
+2,Total revenues,12  Mar-15*,113772.0,SCLAY
+3,Gross profit,12  Mar-15*,7167.0,SCLAY
+4,Depreciation,12  Mar-15*,2384.0,SCLAY
+5,Interest,12  Mar-15*,990.0,SCLAY
+6,Profit before tax,12  Mar-15*,4168.0,SCLAY
+7,Minority Interest,12  Mar-15*,-1331.0,SCLAY
+8,Prior Period Items,12  Mar-15*,43.0,SCLAY
+9,Extraordinary Inc (Exp),12  Mar-15*,613.0,SCLAY
+10,Tax,12  Mar-15*,1372.0,SCLAY
+11,Profit after tax,12  Mar-15*,2121.0,SCLAY
+12,Gross profit margin,12  Mar-15*,6.3,SCLAY
+13,Effective tax rate,12  Mar-15*,32.9,SCLAY
+14,Net profit margin,12  Mar-15*,1.9,SCLAY
+15,Current assets,12  Mar-15*,25732.0,SCLAY
+16,Current liabilities,12  Mar-15*,28584.0,SCLAY
+17,Net working cap to sales,12  Mar-15*,-2.5,SCLAY
+18,Current ratio,12  Mar-15*,0.9,SCLAY
+19,Inventory Days,12  Mar-15*,37.0,SCLAY
+20,Debtors Days,12  Mar-15*,18.0,SCLAY
+21,Net fixed assets,12  Mar-15*,22302.0,SCLAY
+22,Share capital,12  Mar-15*,101.0,SCLAY
+23,"""Free"" reserves",12  Mar-15*,13446.0,SCLAY
+24,Net worth,12  Mar-15*,13547.0,SCLAY
+25,Long term debt,12  Mar-15*,6676.0,SCLAY
+26,Total assets,12  Mar-15*,57869.0,SCLAY
+27,Interest coverage,12  Mar-15*,5.2,SCLAY
+28,Debt to equity ratio,12  Mar-15*,0.5,SCLAY
+29,Sales to assets ratio,12  Mar-15*,2.0,SCLAY
+30,Return on assets,12  Mar-15*,5.4,SCLAY
+31,Return on equity,12  Mar-15*,15.7,SCLAY
+32,Return on capital,12  Mar-15*,22.2,SCLAY
+33,Exports to sales,12  Mar-15*,4.6,SCLAY
+34,Imports to sales,12  Mar-15*,5.1,SCLAY
+35,Exports (fob),12  Mar-15*,5244.0,SCLAY
+36,Imports (cif),12  Mar-15*,5816.0,SCLAY
+37,Fx inflow,12  Mar-15*,5631.0,SCLAY
+38,Fx outflow,12  Mar-15*,6051.0,SCLAY
+39,Net fx,12  Mar-15*,-420.0,SCLAY
+40,From Operations,12  Mar-15*,1382.0,SCLAY
+41,From Investments,12  Mar-15*,-4613.0,SCLAY
+42,From Financial Activity,12  Mar-15*,1789.0,SCLAY
+43,Net Cashflow,12  Mar-15*,-1442.0,SCLAY
+44,Net Sales,12  Mar-16*,124642.0,SCLAY
+45,Other income,12  Mar-16*,970.0,SCLAY
+46,Total revenues,12  Mar-16*,125612.0,SCLAY
+47,Gross profit,12  Mar-16*,9511.0,SCLAY
+48,Depreciation,12  Mar-16*,3171.0,SCLAY
+49,Interest,12  Mar-16*,1023.0,SCLAY
+50,Profit before tax,12  Mar-16*,6287.0,SCLAY
+51,Minority Interest,12  Mar-16*,0.0,SCLAY
+52,Prior Period Items,12  Mar-16*,0.0,SCLAY
+53,Extraordinary Inc (Exp),12  Mar-16*,61.0,SCLAY
+54,Tax,12  Mar-16*,1624.0,SCLAY
+55,Profit after tax,12  Mar-16*,4724.0,SCLAY
+56,Gross profit margin,12  Mar-16*,7.6,SCLAY
+57,Effective tax rate,12  Mar-16*,25.8,SCLAY
+58,Net profit margin,12  Mar-16*,3.8,SCLAY
+59,Current assets,12  Mar-16*,25245.0,SCLAY
+60,Current liabilities,12  Mar-16*,30776.0,SCLAY
+61,Net working cap to sales,12  Mar-16*,-4.4,SCLAY
+62,Current ratio,12  Mar-16*,0.8,SCLAY
+63,Inventory Days,12  Mar-16*,33.0,SCLAY
+64,Debtors Days,12  Mar-16*,19.0,SCLAY
+65,Net fixed assets,12  Mar-16*,25653.0,SCLAY
+66,Share capital,12  Mar-16*,101.0,SCLAY
+67,"""Free"" reserves",12  Mar-16*,15127.0,SCLAY
+68,Net worth,12  Mar-16*,15228.0,SCLAY
+69,Long term debt,12  Mar-16*,6076.0,SCLAY
+70,Total assets,12  Mar-16*,62164.0,SCLAY
+71,Interest coverage,12  Mar-16*,7.1,SCLAY
+72,Debt to equity ratio,12  Mar-16*,0.4,SCLAY
+73,Sales to assets ratio,12  Mar-16*,2.0,SCLAY
+74,Return on assets,12  Mar-16*,9.2,SCLAY
+75,Return on equity,12  Mar-16*,31.0,SCLAY
+76,Return on capital,12  Mar-16*,34.6,SCLAY
+77,Exports to sales,12  Mar-16*,4.4,SCLAY
+78,Imports to sales,12  Mar-16*,4.7,SCLAY
+79,Exports (fob),12  Mar-16*,5469.0,SCLAY
+80,Imports (cif),12  Mar-16*,5820.0,SCLAY
+81,Fx inflow,12  Mar-16*,5941.0,SCLAY
+82,Fx outflow,12  Mar-16*,6133.0,SCLAY
+83,Net fx,12  Mar-16*,-192.0,SCLAY
+84,From Operations,12  Mar-16*,10749.0,SCLAY
+85,From Investments,12  Mar-16*,-7151.0,SCLAY
+86,From Financial Activity,12  Mar-16*,-3731.0,SCLAY
+87,Net Cashflow,12  Mar-16*,-133.0,SCLAY
+88,Net Sales,12  Mar-17*,134982.0,SCLAY
+89,Other income,12  Mar-17*,1713.0,SCLAY
+90,Total revenues,12  Mar-17*,136695.0,SCLAY
+91,Gross profit,12  Mar-17*,10019.0,SCLAY
+92,Depreciation,12  Mar-17*,3775.0,SCLAY
+93,Interest,12  Mar-17*,882.0,SCLAY
+94,Profit before tax,12  Mar-17*,7075.0,SCLAY
+95,Minority Interest,12  Mar-17*,0.0,SCLAY
+96,Prior Period Items,12  Mar-17*,0.0,SCLAY
+97,Extraordinary Inc (Exp),12  Mar-17*,23.0,SCLAY
+98,Tax,12  Mar-17*,1627.0,SCLAY
+99,Profit after tax,12  Mar-17*,5471.0,SCLAY
+100,Gross profit margin,12  Mar-17*,7.4,SCLAY
+101,Effective tax rate,12  Mar-17*,23.0,SCLAY
+102,Net profit margin,12  Mar-17*,4.1,SCLAY
+103,Current assets,12  Mar-17*,28957.0,SCLAY
+104,Current liabilities,12  Mar-17*,36453.0,SCLAY
+105,Net working cap to sales,12  Mar-17*,-5.6,SCLAY
+106,Current ratio,12  Mar-17*,0.8,SCLAY
+107,Inventory Days,12  Mar-17*,38.0,SCLAY
+108,Debtors Days,12  Mar-17*,23.0,SCLAY
+109,Net fixed assets,12  Mar-17*,29419.0,SCLAY
+110,Share capital,12  Mar-17*,101.0,SCLAY
+111,"""Free"" reserves",12  Mar-17*,18569.0,SCLAY
+112,Net worth,12  Mar-17*,18670.0,SCLAY
+113,Long term debt,12  Mar-17*,6228.0,SCLAY
+114,Total assets,12  Mar-17*,73171.0,SCLAY
+115,Interest coverage,12  Mar-17*,9.0,SCLAY
+116,Debt to equity ratio,12  Mar-17*,0.3,SCLAY
+117,Sales to assets ratio,12  Mar-17*,1.8,SCLAY
+118,Return on assets,12  Mar-17*,8.7,SCLAY
+119,Return on equity,12  Mar-17*,29.3,SCLAY
+120,Return on capital,12  Mar-17*,32.0,SCLAY
+121,Exports to sales,12  Mar-17*,3.7,SCLAY
+122,Imports to sales,12  Mar-17*,3.9,SCLAY
+123,Exports (fob),12  Mar-17*,5022.0,SCLAY
+124,Imports (cif),12  Mar-17*,5249.0,SCLAY
+125,Fx inflow,12  Mar-17*,5472.0,SCLAY
+126,Fx outflow,12  Mar-17*,5249.0,SCLAY
+127,Net fx,12  Mar-17*,223.0,SCLAY
+128,From Operations,12  Mar-17*,8384.0,SCLAY
+129,From Investments,12  Mar-17*,-8176.0,SCLAY
+130,From Financial Activity,12  Mar-17*,-610.0,SCLAY
+131,Net Cashflow,12  Mar-17*,-401.0,SCLAY
+132,Net Sales,12  Mar-18*,175117.0,SCLAY
+133,Other income,12  Mar-18*,1484.0,SCLAY
+134,Total revenues,12  Mar-18*,176601.0,SCLAY
+135,Gross profit,12  Mar-18*,15096.0,SCLAY
+136,Depreciation,12  Mar-18*,4467.0,SCLAY
+137,Interest,12  Mar-18*,3719.0,SCLAY
+138,Profit before tax,12  Mar-18*,8394.0,SCLAY
+139,Minority Interest,12  Mar-18*,13.0,SCLAY
+140,Prior Period Items,12  Mar-18*,0.0,SCLAY
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SCLAY
+142,Tax,12  Mar-18*,2120.0,SCLAY
+143,Profit after tax,12  Mar-18*,6288.0,SCLAY
+144,Gross profit margin,12  Mar-18*,8.6,SCLAY
+145,Effective tax rate,12  Mar-18*,25.3,SCLAY
+146,Net profit margin,12  Mar-18*,3.6,SCLAY
+147,Current assets,12  Mar-18*,70827.0,SCLAY
+148,Current liabilities,12  Mar-18*,86352.0,SCLAY
+149,Net working cap to sales,12  Mar-18*,-8.9,SCLAY
+150,Current ratio,12  Mar-18*,0.8,SCLAY
+151,Inventory Days,12  Mar-18*,30.0,SCLAY
+152,Debtors Days,12  Mar-18*,27.0,SCLAY
+153,Net fixed assets,12  Mar-18*,40229.0,SCLAY
+154,Share capital,12  Mar-18*,101.0,SCLAY
+155,"""Free"" reserves",12  Mar-18*,21413.0,SCLAY
+156,Net worth,12  Mar-18*,21514.0,SCLAY
+157,Long term debt,12  Mar-18*,26390.0,SCLAY
+158,Total assets,12  Mar-18*,147610.0,SCLAY
+159,Interest coverage,12  Mar-18*,3.3,SCLAY
+160,Debt to equity ratio,12  Mar-18*,1.2,SCLAY
+161,Sales to assets ratio,12  Mar-18*,1.2,SCLAY
+162,Return on assets,12  Mar-18*,6.8,SCLAY
+163,Return on equity,12  Mar-18*,29.2,SCLAY
+164,Return on capital,12  Mar-18*,25.3,SCLAY
+165,Exports to sales,12  Mar-18*,0.0,SCLAY
+166,Imports to sales,12  Mar-18*,0.0,SCLAY
+167,Exports (fob),12  Mar-18*,0.0,SCLAY
+168,Imports (cif),12  Mar-18*,0.0,SCLAY
+169,Fx inflow,12  Mar-18*,5249.0,SCLAY
+170,Fx outflow,12  Mar-18*,5997.0,SCLAY
+171,Net fx,12  Mar-18*,-749.0,SCLAY
+172,From Operations,12  Mar-18*,3245.0,SCLAY
+173,From Investments,12  Mar-18*,-13794.0,SCLAY
+174,From Financial Activity,12  Mar-18*,11978.0,SCLAY
+175,Net Cashflow,12  Mar-18*,1429.0,SCLAY
+176,Net Sales,12  Mar-19*,215479.0,SCLAY
+177,Other income,12  Mar-19*,278.0,SCLAY
+178,Total revenues,12  Mar-19*,215756.0,SCLAY
+179,Gross profit,12  Mar-19*,23388.0,SCLAY
+180,Depreciation,12  Mar-19*,5339.0,SCLAY
+181,Interest,12  Mar-19*,7186.0,SCLAY
+182,Profit before tax,12  Mar-19*,11141.0,SCLAY
+183,Minority Interest,12  Mar-19*,36.0,SCLAY
+184,Prior Period Items,12  Mar-19*,0.0,SCLAY
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SCLAY
+186,Tax,12  Mar-19*,3680.0,SCLAY
+187,Profit after tax,12  Mar-19*,7498.0,SCLAY
+188,Gross profit margin,12  Mar-19*,10.9,SCLAY
+189,Effective tax rate,12  Mar-19*,33.0,SCLAY
+190,Net profit margin,12  Mar-19*,3.5,SCLAY
+191,Current assets,12  Mar-19*,89104.0,SCLAY
+192,Current liabilities,12  Mar-19*,87792.0,SCLAY
+193,Net working cap to sales,12  Mar-19*,0.6,SCLAY
+194,Current ratio,12  Mar-19*,1.0,SCLAY
+195,Inventory Days,12  Mar-19*,27.0,SCLAY
+196,Debtors Days,12  Mar-19*,29.0,SCLAY
+197,Net fixed assets,12  Mar-19*,47857.0,SCLAY
+198,Share capital,12  Mar-19*,101.0,SCLAY
+199,"""Free"" reserves",12  Mar-19*,24637.0,SCLAY
+200,Net worth,12  Mar-19*,24738.0,SCLAY
+201,Long term debt,12  Mar-19*,52928.0,SCLAY
+202,Total assets,12  Mar-19*,181698.0,SCLAY
+203,Interest coverage,12  Mar-19*,2.6,SCLAY
+204,Debt to equity ratio,12  Mar-19*,2.1,SCLAY
+205,Sales to assets ratio,12  Mar-19*,1.2,SCLAY
+206,Return on assets,12  Mar-19*,8.1,SCLAY
+207,Return on equity,12  Mar-19*,30.3,SCLAY
+208,Return on capital,12  Mar-19*,23.6,SCLAY
+209,Exports to sales,12  Mar-19*,0.0,SCLAY
+210,Imports to sales,12  Mar-19*,0.0,SCLAY
+211,Exports (fob),12  Mar-19*,0.0,SCLAY
+212,Imports (cif),12  Mar-19*,0.0,SCLAY
+213,Fx inflow,12  Mar-19*,8504.0,SCLAY
+214,Fx outflow,12  Mar-19*,7703.0,SCLAY
+215,Net fx,12  Mar-19*,801.0,SCLAY
+216,From Operations,12  Mar-19*,-7100.0,SCLAY
+217,From Investments,12  Mar-19*,-13240.0,SCLAY
+218,From Financial Activity,12  Mar-19*,20846.0,SCLAY
+219,Net Cashflow,12  Mar-19*,507.0,SCLAY

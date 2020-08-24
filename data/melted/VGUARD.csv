@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,17459.0,VGUARD
+1,Other income,12  Mar-15,45.0,VGUARD
+2,Total revenues,12  Mar-15,17504.0,VGUARD
+3,Gross profit,12  Mar-15,1330.0,VGUARD
+4,Depreciation,12  Mar-15,154.0,VGUARD
+5,Interest,12  Mar-15,206.0,VGUARD
+6,Profit before tax,12  Mar-15,1015.0,VGUARD
+7,Minority Interest,12  Mar-15,0.0,VGUARD
+8,Prior Period Items,12  Mar-15,0.0,VGUARD
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,VGUARD
+10,Tax,12  Mar-15,307.0,VGUARD
+11,Profit after tax,12  Mar-15,707.0,VGUARD
+12,Gross profit margin,12  Mar-15,7.6,VGUARD
+13,Effective tax rate,12  Mar-15,30.3,VGUARD
+14,Net profit margin,12  Mar-15,4.1,VGUARD
+15,Current assets,12  Mar-15,5425.0,VGUARD
+16,Current liabilities,12  Mar-15,2987.0,VGUARD
+17,Net working cap to sales,12  Mar-15,14.0,VGUARD
+18,Current ratio,12  Mar-15,1.8,VGUARD
+19,Inventory Days,12  Mar-15,55.0,VGUARD
+20,Debtors Days,12  Mar-15,51.0,VGUARD
+21,Net fixed assets,12  Mar-15,1636.0,VGUARD
+22,Share capital,12  Mar-15,300.0,VGUARD
+23,"""Free"" reserves",12  Mar-15,3453.0,VGUARD
+24,Net worth,12  Mar-15,3777.0,VGUARD
+25,Long term debt,12  Mar-15,212.0,VGUARD
+26,Total assets,12  Mar-15,7249.0,VGUARD
+27,Interest coverage,12  Mar-15,5.9,VGUARD
+28,Debt to equity ratio,12  Mar-15,0.1,VGUARD
+29,Sales to assets ratio,12  Mar-15,2.4,VGUARD
+30,Return on assets,12  Mar-15,12.6,VGUARD
+31,Return on equity,12  Mar-15,18.7,VGUARD
+32,Return on capital,12  Mar-15,30.6,VGUARD
+33,Exports to sales,12  Mar-15,0.1,VGUARD
+34,Imports to sales,12  Mar-15,6.9,VGUARD
+35,Exports (fob),12  Mar-15,16.0,VGUARD
+36,Imports (cif),12  Mar-15,1205.0,VGUARD
+37,Fx inflow,12  Mar-15,16.0,VGUARD
+38,Fx outflow,12  Mar-15,1208.0,VGUARD
+39,Net fx,12  Mar-15,-1192.0,VGUARD
+40,From Operations,12  Mar-15,887.0,VGUARD
+41,From Investments,12  Mar-15,-169.0,VGUARD
+42,From Financial Activity,12  Mar-15,-724.0,VGUARD
+43,Net Cashflow,12  Mar-15,-6.0,VGUARD
+44,Net Sales,12  Mar-16,18623.0,VGUARD
+45,Other income,12  Mar-16,72.0,VGUARD
+46,Total revenues,12  Mar-16,18695.0,VGUARD
+47,Gross profit,12  Mar-16,1780.0,VGUARD
+48,Depreciation,12  Mar-16,154.0,VGUARD
+49,Interest,12  Mar-16,89.0,VGUARD
+50,Profit before tax,12  Mar-16,1610.0,VGUARD
+51,Minority Interest,12  Mar-16,0.0,VGUARD
+52,Prior Period Items,12  Mar-16,0.0,VGUARD
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,VGUARD
+54,Tax,12  Mar-16,493.0,VGUARD
+55,Profit after tax,12  Mar-16,1117.0,VGUARD
+56,Gross profit margin,12  Mar-16,9.6,VGUARD
+57,Effective tax rate,12  Mar-16,30.6,VGUARD
+58,Net profit margin,12  Mar-16,6.0,VGUARD
+59,Current assets,12  Mar-16,5409.0,VGUARD
+60,Current liabilities,12  Mar-16,2284.0,VGUARD
+61,Net working cap to sales,12  Mar-16,16.8,VGUARD
+62,Current ratio,12  Mar-16,2.4,VGUARD
+63,Inventory Days,12  Mar-16,41.0,VGUARD
+64,Debtors Days,12  Mar-16,55.0,VGUARD
+65,Net fixed assets,12  Mar-16,1611.0,VGUARD
+66,Share capital,12  Mar-16,301.0,VGUARD
+67,"""Free"" reserves",12  Mar-16,4470.0,VGUARD
+68,Net worth,12  Mar-16,4771.0,VGUARD
+69,Long term debt,12  Mar-16,56.0,VGUARD
+70,Total assets,12  Mar-16,7225.0,VGUARD
+71,Interest coverage,12  Mar-16,19.0,VGUARD
+72,Debt to equity ratio,12  Mar-16,0.0,VGUARD
+73,Sales to assets ratio,12  Mar-16,2.6,VGUARD
+74,Return on assets,12  Mar-16,16.7,VGUARD
+75,Return on equity,12  Mar-16,23.4,VGUARD
+76,Return on capital,12  Mar-16,35.2,VGUARD
+77,Exports to sales,12  Mar-16,0.0,VGUARD
+78,Imports to sales,12  Mar-16,6.5,VGUARD
+79,Exports (fob),12  Mar-16,2.0,VGUARD
+80,Imports (cif),12  Mar-16,1216.0,VGUARD
+81,Fx inflow,12  Mar-16,2.0,VGUARD
+82,Fx outflow,12  Mar-16,1219.0,VGUARD
+83,Net fx,12  Mar-16,-1217.0,VGUARD
+84,From Operations,12  Mar-16,1311.0,VGUARD
+85,From Investments,12  Mar-16,-316.0,VGUARD
+86,From Financial Activity,12  Mar-16,-941.0,VGUARD
+87,Net Cashflow,12  Mar-16,53.0,VGUARD
+88,Net Sales,12  Mar-17,20856.0,VGUARD
+89,Other income,12  Mar-17,135.0,VGUARD
+90,Total revenues,12  Mar-17,20991.0,VGUARD
+91,Gross profit,12  Mar-17,2086.0,VGUARD
+92,Depreciation,12  Mar-17,162.0,VGUARD
+93,Interest,12  Mar-17,21.0,VGUARD
+94,Profit before tax,12  Mar-17,2037.0,VGUARD
+95,Minority Interest,12  Mar-17,0.0,VGUARD
+96,Prior Period Items,12  Mar-17,0.0,VGUARD
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,VGUARD
+98,Tax,12  Mar-17,591.0,VGUARD
+99,Profit after tax,12  Mar-17,1446.0,VGUARD
+100,Gross profit margin,12  Mar-17,10.0,VGUARD
+101,Effective tax rate,12  Mar-17,29.0,VGUARD
+102,Net profit margin,12  Mar-17,6.9,VGUARD
+103,Current assets,12  Mar-17,7218.0,VGUARD
+104,Current liabilities,12  Mar-17,2868.0,VGUARD
+105,Net working cap to sales,12  Mar-17,20.9,VGUARD
+106,Current ratio,12  Mar-17,2.5,VGUARD
+107,Inventory Days,12  Mar-17,48.0,VGUARD
+108,Debtors Days,12  Mar-17,55.0,VGUARD
+109,Net fixed assets,12  Mar-17,1788.0,VGUARD
+110,Share capital,12  Mar-17,425.0,VGUARD
+111,"""Free"" reserves",12  Mar-17,5919.0,VGUARD
+112,Net worth,12  Mar-17,6344.0,VGUARD
+113,Long term debt,12  Mar-17,24.0,VGUARD
+114,Total assets,12  Mar-17,9343.0,VGUARD
+115,Interest coverage,12  Mar-17,98.0,VGUARD
+116,Debt to equity ratio,12  Mar-17,0.0,VGUARD
+117,Sales to assets ratio,12  Mar-17,2.2,VGUARD
+118,Return on assets,12  Mar-17,15.7,VGUARD
+119,Return on equity,12  Mar-17,22.8,VGUARD
+120,Return on capital,12  Mar-17,32.3,VGUARD
+121,Exports to sales,12  Mar-17,0.0,VGUARD
+122,Imports to sales,12  Mar-17,0.0,VGUARD
+123,Exports (fob),12  Mar-17,0.0,VGUARD
+124,Imports (cif),12  Mar-17,0.0,VGUARD
+125,Fx inflow,12  Mar-17,17.0,VGUARD
+126,Fx outflow,12  Mar-17,13.0,VGUARD
+127,Net fx,12  Mar-17,4.0,VGUARD
+128,From Operations,12  Mar-17,1299.0,VGUARD
+129,From Investments,12  Mar-17,-1055.0,VGUARD
+130,From Financial Activity,12  Mar-17,-161.0,VGUARD
+131,Net Cashflow,12  Mar-17,82.0,VGUARD
+132,Net Sales,12  Mar-18,23257.0,VGUARD
+133,Other income,12  Mar-18,110.0,VGUARD
+134,Total revenues,12  Mar-18,23368.0,VGUARD
+135,Gross profit,12  Mar-18,1904.0,VGUARD
+136,Depreciation,12  Mar-18,197.0,VGUARD
+137,Interest,12  Mar-18,20.0,VGUARD
+138,Profit before tax,12  Mar-18,1797.0,VGUARD
+139,Minority Interest,12  Mar-18,0.0,VGUARD
+140,Prior Period Items,12  Mar-18,0.0,VGUARD
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,VGUARD
+142,Tax,12  Mar-18,446.0,VGUARD
+143,Profit after tax,12  Mar-18,1351.0,VGUARD
+144,Gross profit margin,12  Mar-18,8.2,VGUARD
+145,Effective tax rate,12  Mar-18,24.8,VGUARD
+146,Net profit margin,12  Mar-18,5.8,VGUARD
+147,Current assets,12  Mar-18,9163.0,VGUARD
+148,Current liabilities,12  Mar-18,4050.0,VGUARD
+149,Net working cap to sales,12  Mar-18,22.0,VGUARD
+150,Current ratio,12  Mar-18,2.3,VGUARD
+151,Inventory Days,12  Mar-18,50.0,VGUARD
+152,Debtors Days,12  Mar-18,71.0,VGUARD
+153,Net fixed assets,12  Mar-18,2252.0,VGUARD
+154,Share capital,12  Mar-18,426.0,VGUARD
+155,"""Free"" reserves",12  Mar-18,7071.0,VGUARD
+156,Net worth,12  Mar-18,7496.0,VGUARD
+157,Long term debt,12  Mar-18,0.0,VGUARD
+158,Total assets,12  Mar-18,11708.0,VGUARD
+159,Interest coverage,12  Mar-18,89.1,VGUARD
+160,Debt to equity ratio,12  Mar-18,0.0,VGUARD
+161,Sales to assets ratio,12  Mar-18,2.0,VGUARD
+162,Return on assets,12  Mar-18,11.7,VGUARD
+163,Return on equity,12  Mar-18,18.0,VGUARD
+164,Return on capital,12  Mar-18,24.2,VGUARD
+165,Exports to sales,12  Mar-18,0.0,VGUARD
+166,Imports to sales,12  Mar-18,0.0,VGUARD
+167,Exports (fob),12  Mar-18,0.0,VGUARD
+168,Imports (cif),12  Mar-18,0.0,VGUARD
+169,Fx inflow,12  Mar-18,13.0,VGUARD
+170,Fx outflow,12  Mar-18,21.0,VGUARD
+171,Net fx,12  Mar-18,-8.0,VGUARD
+172,From Operations,12  Mar-18,523.0,VGUARD
+173,From Investments,12  Mar-18,-246.0,VGUARD
+174,From Financial Activity,12  Mar-18,-373.0,VGUARD
+175,Net Cashflow,12  Mar-18,-96.0,VGUARD
+176,Net Sales,12  Mar-19,25940.0,VGUARD
+177,Other income,12  Mar-19,201.0,VGUARD
+178,Total revenues,12  Mar-19,26141.0,VGUARD
+179,Gross profit,12  Mar-19,2243.0,VGUARD
+180,Depreciation,12  Mar-19,230.0,VGUARD
+181,Interest,12  Mar-19,18.0,VGUARD
+182,Profit before tax,12  Mar-19,2196.0,VGUARD
+183,Minority Interest,12  Mar-19,0.0,VGUARD
+184,Prior Period Items,12  Mar-19,0.0,VGUARD
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,VGUARD
+186,Tax,12  Mar-19,516.0,VGUARD
+187,Profit after tax,12  Mar-19,1680.0,VGUARD
+188,Gross profit margin,12  Mar-19,8.6,VGUARD
+189,Effective tax rate,12  Mar-19,23.5,VGUARD
+190,Net profit margin,12  Mar-19,6.5,VGUARD
+191,Current assets,12  Mar-19,10892.0,VGUARD
+192,Current liabilities,12  Mar-19,4550.0,VGUARD
+193,Net working cap to sales,12  Mar-19,24.4,VGUARD
+194,Current ratio,12  Mar-19,2.4,VGUARD
+195,Inventory Days,12  Mar-19,53.0,VGUARD
+196,Debtors Days,12  Mar-19,66.0,VGUARD
+197,Net fixed assets,12  Mar-19,2385.0,VGUARD
+198,Share capital,12  Mar-19,427.0,VGUARD
+199,"""Free"" reserves",12  Mar-19,8567.0,VGUARD
+200,Net worth,12  Mar-19,8994.0,VGUARD
+201,Long term debt,12  Mar-19,0.0,VGUARD
+202,Total assets,12  Mar-19,13747.0,VGUARD
+203,Interest coverage,12  Mar-19,125.8,VGUARD
+204,Debt to equity ratio,12  Mar-19,0.0,VGUARD
+205,Sales to assets ratio,12  Mar-19,1.9,VGUARD
+206,Return on assets,12  Mar-19,12.4,VGUARD
+207,Return on equity,12  Mar-19,18.7,VGUARD
+208,Return on capital,12  Mar-19,24.6,VGUARD
+209,Exports to sales,12  Mar-19,0.0,VGUARD
+210,Imports to sales,12  Mar-19,0.0,VGUARD
+211,Exports (fob),12  Mar-19,0.0,VGUARD
+212,Imports (cif),12  Mar-19,0.0,VGUARD
+213,Fx inflow,12  Mar-19,29.0,VGUARD
+214,Fx outflow,12  Mar-19,2612.0,VGUARD
+215,Net fx,12  Mar-19,-2584.0,VGUARD
+216,From Operations,12  Mar-19,1563.0,VGUARD
+217,From Investments,12  Mar-19,-508.0,VGUARD
+218,From Financial Activity,12  Mar-19,-252.0,VGUARD
+219,Net Cashflow,12  Mar-19,803.0,VGUARD

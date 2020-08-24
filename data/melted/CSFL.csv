@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-13*,12656.0,CSFL
+1,Other income,12  Mar-13*,80.0,CSFL
+2,Total revenues,12  Mar-13*,12736.0,CSFL
+3,Gross profit,12  Mar-13*,987.0,CSFL
+4,Depreciation,12  Mar-13*,388.0,CSFL
+5,Interest,12  Mar-13*,290.0,CSFL
+6,Profit before tax,12  Mar-13*,389.0,CSFL
+7,Minority Interest,12  Mar-13*,0.0,CSFL
+8,Prior Period Items,12  Mar-13*,0.0,CSFL
+9,Extraordinary Inc (Exp),12  Mar-13*,-172.0,CSFL
+10,Tax,12  Mar-13*,103.0,CSFL
+11,Profit after tax,12  Mar-13*,113.0,CSFL
+12,Gross profit margin,12  Mar-13*,7.8,CSFL
+13,Effective tax rate,12  Mar-13*,26.6,CSFL
+14,Net profit margin,12  Mar-13*,0.9,CSFL
+15,Current assets,12  Mar-13*,3965.0,CSFL
+16,Current liabilities,12  Mar-13*,3829.0,CSFL
+17,Net working cap to sales,12  Mar-13*,1.1,CSFL
+18,Current ratio,12  Mar-13*,1.0,CSFL
+19,Inventory Days,12  Mar-13*,44.0,CSFL
+20,Debtors Days,12  Mar-13*,37.0,CSFL
+21,Net fixed assets,12  Mar-13*,5971.0,CSFL
+22,Share capital,12  Mar-13*,194.0,CSFL
+23,"""Free"" reserves",12  Mar-13*,3238.0,CSFL
+24,Net worth,12  Mar-13*,3465.0,CSFL
+25,Long term debt,12  Mar-13*,2487.0,CSFL
+26,Total assets,12  Mar-13*,10319.0,CSFL
+27,Interest coverage,12  Mar-13*,2.3,CSFL
+28,Debt to equity ratio,12  Mar-13*,0.7,CSFL
+29,Sales to assets ratio,12  Mar-13*,1.2,CSFL
+30,Return on assets,12  Mar-13*,3.9,CSFL
+31,Return on equity,12  Mar-13*,3.3,CSFL
+32,Return on capital,12  Mar-13*,8.5,CSFL
+33,Exports to sales,12  Mar-13*,40.1,CSFL
+34,Imports to sales,12  Mar-13*,23.9,CSFL
+35,Exports (fob),12  Mar-13*,5077.0,CSFL
+36,Imports (cif),12  Mar-13*,3025.0,CSFL
+37,Fx inflow,12  Mar-13*,5077.0,CSFL
+38,Fx outflow,12  Mar-13*,3142.0,CSFL
+39,Net fx,12  Mar-13*,1936.0,CSFL
+40,From Operations,12  Mar-13*,939.0,CSFL
+41,From Investments,12  Mar-13*,-1427.0,CSFL
+42,From Financial Activity,12  Mar-13*,359.0,CSFL
+43,Net Cashflow,12  Mar-13*,-91.0,CSFL
+44,Net Sales,12  Mar-14*,14684.0,CSFL
+45,Other income,12  Mar-14*,68.0,CSFL
+46,Total revenues,12  Mar-14*,14751.0,CSFL
+47,Gross profit,12  Mar-14*,1087.0,CSFL
+48,Depreciation,12  Mar-14*,453.0,CSFL
+49,Interest,12  Mar-14*,432.0,CSFL
+50,Profit before tax,12  Mar-14*,269.0,CSFL
+51,Minority Interest,12  Mar-14*,0.0,CSFL
+52,Prior Period Items,12  Mar-14*,0.0,CSFL
+53,Extraordinary Inc (Exp),12  Mar-14*,-287.0,CSFL
+54,Tax,12  Mar-14*,37.0,CSFL
+55,Profit after tax,12  Mar-14*,-55.0,CSFL
+56,Gross profit margin,12  Mar-14*,7.4,CSFL
+57,Effective tax rate,12  Mar-14*,13.8,CSFL
+58,Net profit margin,12  Mar-14*,-0.4,CSFL
+59,Current assets,12  Mar-14*,4762.0,CSFL
+60,Current liabilities,12  Mar-14*,4216.0,CSFL
+61,Net working cap to sales,12  Mar-14*,3.7,CSFL
+62,Current ratio,12  Mar-14*,1.1,CSFL
+63,Inventory Days,12  Mar-14*,50.0,CSFL
+64,Debtors Days,12  Mar-14*,34.0,CSFL
+65,Net fixed assets,12  Mar-14*,6386.0,CSFL
+66,Share capital,12  Mar-14*,194.0,CSFL
+67,"""Free"" reserves",12  Mar-14*,3372.0,CSFL
+68,Net worth,12  Mar-14*,3600.0,CSFL
+69,Long term debt,12  Mar-14*,3176.0,CSFL
+70,Total assets,12  Mar-14*,11508.0,CSFL
+71,Interest coverage,12  Mar-14*,1.6,CSFL
+72,Debt to equity ratio,12  Mar-14*,0.9,CSFL
+73,Sales to assets ratio,12  Mar-14*,1.3,CSFL
+74,Return on assets,12  Mar-14*,3.3,CSFL
+75,Return on equity,12  Mar-14*,-1.5,CSFL
+76,Return on capital,12  Mar-14*,6.1,CSFL
+77,Exports to sales,12  Mar-14*,36.7,CSFL
+78,Imports to sales,12  Mar-14*,15.6,CSFL
+79,Exports (fob),12  Mar-14*,5389.0,CSFL
+80,Imports (cif),12  Mar-14*,2297.0,CSFL
+81,Fx inflow,12  Mar-14*,5389.0,CSFL
+82,Fx outflow,12  Mar-14*,2452.0,CSFL
+83,Net fx,12  Mar-14*,2937.0,CSFL
+84,From Operations,12  Mar-14*,593.0,CSFL
+85,From Investments,12  Mar-14*,-718.0,CSFL
+86,From Financial Activity,12  Mar-14*,194.0,CSFL
+87,Net Cashflow,12  Mar-14*,276.0,CSFL
+88,Net Sales,12  Mar-15*,16468.0,CSFL
+89,Other income,12  Mar-15*,50.0,CSFL
+90,Total revenues,12  Mar-15*,16517.0,CSFL
+91,Gross profit,12  Mar-15*,1044.0,CSFL
+92,Depreciation,12  Mar-15*,345.0,CSFL
+93,Interest,12  Mar-15*,399.0,CSFL
+94,Profit before tax,12  Mar-15*,349.0,CSFL
+95,Minority Interest,12  Mar-15*,0.0,CSFL
+96,Prior Period Items,12  Mar-15*,0.0,CSFL
+97,Extraordinary Inc (Exp),12  Mar-15*,33.0,CSFL
+98,Tax,12  Mar-15*,106.0,CSFL
+99,Profit after tax,12  Mar-15*,277.0,CSFL
+100,Gross profit margin,12  Mar-15*,6.3,CSFL
+101,Effective tax rate,12  Mar-15*,30.3,CSFL
+102,Net profit margin,12  Mar-15*,1.7,CSFL
+103,Current assets,12  Mar-15*,4094.0,CSFL
+104,Current liabilities,12  Mar-15*,3995.0,CSFL
+105,Net working cap to sales,12  Mar-15*,0.6,CSFL
+106,Current ratio,12  Mar-15*,1.0,CSFL
+107,Inventory Days,12  Mar-15*,40.0,CSFL
+108,Debtors Days,12  Mar-15*,27.0,CSFL
+109,Net fixed assets,12  Mar-15*,6095.0,CSFL
+110,Share capital,12  Mar-15*,194.0,CSFL
+111,"""Free"" reserves",12  Mar-15*,3579.0,CSFL
+112,Net worth,12  Mar-15*,3806.0,CSFL
+113,Long term debt,12  Mar-15*,2386.0,CSFL
+114,Total assets,12  Mar-15*,10759.0,CSFL
+115,Interest coverage,12  Mar-15*,1.9,CSFL
+116,Debt to equity ratio,12  Mar-15*,0.6,CSFL
+117,Sales to assets ratio,12  Mar-15*,1.5,CSFL
+118,Return on assets,12  Mar-15*,6.3,CSFL
+119,Return on equity,12  Mar-15*,7.3,CSFL
+120,Return on capital,12  Mar-15*,12.6,CSFL
+121,Exports to sales,12  Mar-15*,42.1,CSFL
+122,Imports to sales,12  Mar-15*,15.0,CSFL
+123,Exports (fob),12  Mar-15*,6927.0,CSFL
+124,Imports (cif),12  Mar-15*,2469.0,CSFL
+125,Fx inflow,12  Mar-15*,6927.0,CSFL
+126,Fx outflow,12  Mar-15*,2669.0,CSFL
+127,Net fx,12  Mar-15*,4258.0,CSFL
+128,From Operations,12  Mar-15*,1341.0,CSFL
+129,From Investments,12  Mar-15*,-426.0,CSFL
+130,From Financial Activity,12  Mar-15*,-1213.0,CSFL
+131,Net Cashflow,12  Mar-15*,-358.0,CSFL
+132,Net Sales,12  Mar-16*,16206.0,CSFL
+133,Other income,12  Mar-16*,55.0,CSFL
+134,Total revenues,12  Mar-16*,16262.0,CSFL
+135,Gross profit,12  Mar-16*,1913.0,CSFL
+136,Depreciation,12  Mar-16*,357.0,CSFL
+137,Interest,12  Mar-16*,302.0,CSFL
+138,Profit before tax,12  Mar-16*,1310.0,CSFL
+139,Minority Interest,12  Mar-16*,0.0,CSFL
+140,Prior Period Items,12  Mar-16*,0.0,CSFL
+141,Extraordinary Inc (Exp),12  Mar-16*,-69.0,CSFL
+142,Tax,12  Mar-16*,278.0,CSFL
+143,Profit after tax,12  Mar-16*,962.0,CSFL
+144,Gross profit margin,12  Mar-16*,11.8,CSFL
+145,Effective tax rate,12  Mar-16*,21.2,CSFL
+146,Net profit margin,12  Mar-16*,5.9,CSFL
+147,Current assets,12  Mar-16*,3685.0,CSFL
+148,Current liabilities,12  Mar-16*,3838.0,CSFL
+149,Net working cap to sales,12  Mar-16*,-0.9,CSFL
+150,Current ratio,12  Mar-16*,1.0,CSFL
+151,Inventory Days,12  Mar-16*,39.0,CSFL
+152,Debtors Days,12  Mar-16*,26.0,CSFL
+153,Net fixed assets,12  Mar-16*,6593.0,CSFL
+154,Share capital,12  Mar-16*,194.0,CSFL
+155,"""Free"" reserves",12  Mar-16*,4327.0,CSFL
+156,Net worth,12  Mar-16*,4563.0,CSFL
+157,Long term debt,12  Mar-16*,2230.0,CSFL
+158,Total assets,12  Mar-16*,11419.0,CSFL
+159,Interest coverage,12  Mar-16*,5.3,CSFL
+160,Debt to equity ratio,12  Mar-16*,0.5,CSFL
+161,Sales to assets ratio,12  Mar-16*,1.4,CSFL
+162,Return on assets,12  Mar-16*,11.1,CSFL
+163,Return on equity,12  Mar-16*,21.1,CSFL
+164,Return on capital,12  Mar-16*,22.7,CSFL
+165,Exports to sales,12  Mar-16*,37.8,CSFL
+166,Imports to sales,12  Mar-16*,13.9,CSFL
+167,Exports (fob),12  Mar-16*,6118.0,CSFL
+168,Imports (cif),12  Mar-16*,2251.0,CSFL
+169,Fx inflow,12  Mar-16*,6118.0,CSFL
+170,Fx outflow,12  Mar-16*,2492.0,CSFL
+171,Net fx,12  Mar-16*,3626.0,CSFL
+172,From Operations,12  Mar-16*,2230.0,CSFL
+173,From Investments,12  Mar-16*,-799.0,CSFL
+174,From Financial Activity,12  Mar-16*,-1376.0,CSFL
+175,Net Cashflow,12  Mar-16*,65.0,CSFL
+176,Net Sales,12  Mar-17*,15865.0,CSFL
+177,Other income,12  Mar-17*,92.0,CSFL
+178,Total revenues,12  Mar-17*,15957.0,CSFL
+179,Gross profit,12  Mar-17*,1581.0,CSFL
+180,Depreciation,12  Mar-17*,397.0,CSFL
+181,Interest,12  Mar-17*,303.0,CSFL
+182,Profit before tax,12  Mar-17*,973.0,CSFL
+183,Minority Interest,12  Mar-17*,0.0,CSFL
+184,Prior Period Items,12  Mar-17*,0.0,CSFL
+185,Extraordinary Inc (Exp),12  Mar-17*,-25.0,CSFL
+186,Tax,12  Mar-17*,60.0,CSFL
+187,Profit after tax,12  Mar-17*,889.0,CSFL
+188,Gross profit margin,12  Mar-17*,10.0,CSFL
+189,Effective tax rate,12  Mar-17*,6.1,CSFL
+190,Net profit margin,12  Mar-17*,5.6,CSFL
+191,Current assets,12  Mar-17*,4965.0,CSFL
+192,Current liabilities,12  Mar-17*,4839.0,CSFL
+193,Net working cap to sales,12  Mar-17*,0.8,CSFL
+194,Current ratio,12  Mar-17*,1.0,CSFL
+195,Inventory Days,12  Mar-17*,55.0,CSFL
+196,Debtors Days,12  Mar-17*,34.0,CSFL
+197,Net fixed assets,12  Mar-17*,8411.0,CSFL
+198,Share capital,12  Mar-17*,194.0,CSFL
+199,"""Free"" reserves",12  Mar-17*,5232.0,CSFL
+200,Net worth,12  Mar-17*,5468.0,CSFL
+201,Long term debt,12  Mar-17*,3493.0,CSFL
+202,Total assets,12  Mar-17*,14909.0,CSFL
+203,Interest coverage,12  Mar-17*,4.2,CSFL
+204,Debt to equity ratio,12  Mar-17*,0.6,CSFL
+205,Sales to assets ratio,12  Mar-17*,1.1,CSFL
+206,Return on assets,12  Mar-17*,8.0,CSFL
+207,Return on equity,12  Mar-17*,16.2,CSFL
+208,Return on capital,12  Mar-17*,14.0,CSFL
+209,Exports to sales,12  Mar-17*,40.2,CSFL
+210,Imports to sales,12  Mar-17*,23.4,CSFL
+211,Exports (fob),12  Mar-17*,6384.0,CSFL
+212,Imports (cif),12  Mar-17*,3708.0,CSFL
+213,Fx inflow,12  Mar-17*,6384.0,CSFL
+214,Fx outflow,12  Mar-17*,3930.0,CSFL
+215,Net fx,12  Mar-17*,2455.0,CSFL
+216,From Operations,12  Mar-17*,276.0,CSFL
+217,From Investments,12  Mar-17*,-2057.0,CSFL
+218,From Financial Activity,12  Mar-17*,1712.0,CSFL
+219,Net Cashflow,12  Mar-17*,-66.0,CSFL

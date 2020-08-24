@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10225.0,HDIL
+1,Other income,12  Mar-15*,607.0,HDIL
+2,Total revenues,12  Mar-15*,10831.0,HDIL
+3,Gross profit,12  Mar-15*,8059.0,HDIL
+4,Depreciation,12  Mar-15*,153.0,HDIL
+5,Interest,12  Mar-15*,5535.0,HDIL
+6,Profit before tax,12  Mar-15*,2978.0,HDIL
+7,Minority Interest,12  Mar-15*,0.0,HDIL
+8,Prior Period Items,12  Mar-15*,0.0,HDIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,HDIL
+10,Tax,12  Mar-15*,792.0,HDIL
+11,Profit after tax,12  Mar-15*,2187.0,HDIL
+12,Gross profit margin,12  Mar-15*,78.8,HDIL
+13,Effective tax rate,12  Mar-15*,26.6,HDIL
+14,Net profit margin,12  Mar-15*,21.4,HDIL
+15,Current assets,12  Mar-15*,172658.0,HDIL
+16,Current liabilities,12  Mar-15*,57240.0,HDIL
+17,Net working cap to sales,12  Mar-15*,1128.8,HDIL
+18,Current ratio,12  Mar-15*,3.0,HDIL
+19,Inventory Days,12  Mar-15*,4669.0,HDIL
+20,Debtors Days,12  Mar-15*,109.0,HDIL
+21,Net fixed assets,12  Mar-15*,1200.0,HDIL
+22,Share capital,12  Mar-15*,4190.0,HDIL
+23,"""Free"" reserves",12  Mar-15*,96833.0,HDIL
+24,Net worth,12  Mar-15*,108047.0,HDIL
+25,Long term debt,12  Mar-15*,10617.0,HDIL
+26,Total assets,12  Mar-15*,176183.0,HDIL
+27,Interest coverage,12  Mar-15*,1.5,HDIL
+28,Debt to equity ratio,12  Mar-15*,0.1,HDIL
+29,Sales to assets ratio,12  Mar-15*,0.1,HDIL
+30,Return on assets,12  Mar-15*,4.4,HDIL
+31,Return on equity,12  Mar-15*,2.0,HDIL
+32,Return on capital,12  Mar-15*,7.2,HDIL
+33,Exports to sales,12  Mar-15*,0.0,HDIL
+34,Imports to sales,12  Mar-15*,0.0,HDIL
+35,Exports (fob),12  Mar-15*,0.0,HDIL
+36,Imports (cif),12  Mar-15*,0.0,HDIL
+37,Fx inflow,12  Mar-15*,0.0,HDIL
+38,Fx outflow,12  Mar-15*,12.0,HDIL
+39,Net fx,12  Mar-15*,-12.0,HDIL
+40,From Operations,12  Mar-15*,7083.0,HDIL
+41,From Investments,12  Mar-15*,867.0,HDIL
+42,From Financial Activity,12  Mar-15*,-8295.0,HDIL
+43,Net Cashflow,12  Mar-15*,-345.0,HDIL
+44,Net Sales,12  Mar-16*,11695.0,HDIL
+45,Other income,12  Mar-16*,230.0,HDIL
+46,Total revenues,12  Mar-16*,11925.0,HDIL
+47,Gross profit,12  Mar-16*,7850.0,HDIL
+48,Depreciation,12  Mar-16*,58.0,HDIL
+49,Interest,12  Mar-16*,5123.0,HDIL
+50,Profit before tax,12  Mar-16*,2900.0,HDIL
+51,Minority Interest,12  Mar-16*,1.0,HDIL
+52,Prior Period Items,12  Mar-16*,0.0,HDIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,HDIL
+54,Tax,12  Mar-16*,241.0,HDIL
+55,Profit after tax,12  Mar-16*,2660.0,HDIL
+56,Gross profit margin,12  Mar-16*,67.1,HDIL
+57,Effective tax rate,12  Mar-16*,8.3,HDIL
+58,Net profit margin,12  Mar-16*,22.7,HDIL
+59,Current assets,12  Mar-16*,172997.0,HDIL
+60,Current liabilities,12  Mar-16*,55711.0,HDIL
+61,Net working cap to sales,12  Mar-16*,1002.9,HDIL
+62,Current ratio,12  Mar-16*,3.1,HDIL
+63,Inventory Days,12  Mar-16*,4257.0,HDIL
+64,Debtors Days,12  Mar-16*,82.0,HDIL
+65,Net fixed assets,12  Mar-16*,1373.0,HDIL
+66,Share capital,12  Mar-16*,4190.0,HDIL
+67,"""Free"" reserves",12  Mar-16*,104087.0,HDIL
+68,Net worth,12  Mar-16*,111478.0,HDIL
+69,Long term debt,12  Mar-16*,9021.0,HDIL
+70,Total assets,12  Mar-16*,176489.0,HDIL
+71,Interest coverage,12  Mar-16*,1.6,HDIL
+72,Debt to equity ratio,12  Mar-16*,0.1,HDIL
+73,Sales to assets ratio,12  Mar-16*,0.1,HDIL
+74,Return on assets,12  Mar-16*,4.4,HDIL
+75,Return on equity,12  Mar-16*,2.4,HDIL
+76,Return on capital,12  Mar-16*,6.7,HDIL
+77,Exports to sales,12  Mar-16*,0.0,HDIL
+78,Imports to sales,12  Mar-16*,0.0,HDIL
+79,Exports (fob),12  Mar-16*,0.0,HDIL
+80,Imports (cif),12  Mar-16*,0.0,HDIL
+81,Fx inflow,12  Mar-16*,0.0,HDIL
+82,Fx outflow,12  Mar-16*,23.0,HDIL
+83,Net fx,12  Mar-16*,-23.0,HDIL
+84,From Operations,12  Mar-16*,6966.0,HDIL
+85,From Investments,12  Mar-16*,179.0,HDIL
+86,From Financial Activity,12  Mar-16*,-7612.0,HDIL
+87,Net Cashflow,12  Mar-16*,-467.0,HDIL
+88,Net Sales,12  Mar-17*,7238.0,HDIL
+89,Other income,12  Mar-17*,345.0,HDIL
+90,Total revenues,12  Mar-17*,7583.0,HDIL
+91,Gross profit,12  Mar-17*,6129.0,HDIL
+92,Depreciation,12  Mar-17*,75.0,HDIL
+93,Interest,12  Mar-17*,4282.0,HDIL
+94,Profit before tax,12  Mar-17*,2117.0,HDIL
+95,Minority Interest,12  Mar-17*,1.0,HDIL
+96,Prior Period Items,12  Mar-17*,0.0,HDIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,HDIL
+98,Tax,12  Mar-17*,328.0,HDIL
+99,Profit after tax,12  Mar-17*,1790.0,HDIL
+100,Gross profit margin,12  Mar-17*,84.7,HDIL
+101,Effective tax rate,12  Mar-17*,15.5,HDIL
+102,Net profit margin,12  Mar-17*,24.7,HDIL
+103,Current assets,12  Mar-17*,179394.0,HDIL
+104,Current liabilities,12  Mar-17*,51371.0,HDIL
+105,Net working cap to sales,12  Mar-17*,1768.8,HDIL
+106,Current ratio,12  Mar-17*,3.5,HDIL
+107,Inventory Days,12  Mar-17*,7484.0,HDIL
+108,Debtors Days,12  Mar-17*,155.0,HDIL
+109,Net fixed assets,12  Mar-17*,2250.0,HDIL
+110,Share capital,12  Mar-17*,4340.0,HDIL
+111,"""Free"" reserves",12  Mar-17*,110420.0,HDIL
+112,Net worth,12  Mar-17*,114760.0,HDIL
+113,Long term debt,12  Mar-17*,16251.0,HDIL
+114,Total assets,12  Mar-17*,182827.0,HDIL
+115,Interest coverage,12  Mar-17*,1.5,HDIL
+116,Debt to equity ratio,12  Mar-17*,0.1,HDIL
+117,Sales to assets ratio,12  Mar-17*,0.0,HDIL
+118,Return on assets,12  Mar-17*,3.3,HDIL
+119,Return on equity,12  Mar-17*,1.6,HDIL
+120,Return on capital,12  Mar-17*,4.9,HDIL
+121,Exports to sales,12  Mar-17*,0.0,HDIL
+122,Imports to sales,12  Mar-17*,0.0,HDIL
+123,Exports (fob),12  Mar-17*,0.0,HDIL
+124,Imports (cif),12  Mar-17*,0.0,HDIL
+125,Fx inflow,12  Mar-17*,0.0,HDIL
+126,Fx outflow,12  Mar-17*,21.0,HDIL
+127,Net fx,12  Mar-17*,-21.0,HDIL
+128,From Operations,12  Mar-17*,6158.0,HDIL
+129,From Investments,12  Mar-17*,367.0,HDIL
+130,From Financial Activity,12  Mar-17*,-6878.0,HDIL
+131,Net Cashflow,12  Mar-17*,-353.0,HDIL
+132,Net Sales,12  Mar-18*,3878.0,HDIL
+133,Other income,12  Mar-18*,139.0,HDIL
+134,Total revenues,12  Mar-18*,4016.0,HDIL
+135,Gross profit,12  Mar-18*,4026.0,HDIL
+136,Depreciation,12  Mar-18*,68.0,HDIL
+137,Interest,12  Mar-18*,3492.0,HDIL
+138,Profit before tax,12  Mar-18*,604.0,HDIL
+139,Minority Interest,12  Mar-18*,0.0,HDIL
+140,Prior Period Items,12  Mar-18*,0.0,HDIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,HDIL
+142,Tax,12  Mar-18*,-352.0,HDIL
+143,Profit after tax,12  Mar-18*,957.0,HDIL
+144,Gross profit margin,12  Mar-18*,103.8,HDIL
+145,Effective tax rate,12  Mar-18*,-58.3,HDIL
+146,Net profit margin,12  Mar-18*,24.7,HDIL
+147,Current assets,12  Mar-18*,181449.0,HDIL
+148,Current liabilities,12  Mar-18*,61252.0,HDIL
+149,Net working cap to sales,12  Mar-18*,3099.9,HDIL
+150,Current ratio,12  Mar-18*,3.0,HDIL
+151,Inventory Days,12  Mar-18*,14418.0,HDIL
+152,Debtors Days,12  Mar-18*,403.0,HDIL
+153,Net fixed assets,12  Mar-18*,2180.0,HDIL
+154,Share capital,12  Mar-18*,4340.0,HDIL
+155,"""Free"" reserves",12  Mar-18*,111806.0,HDIL
+156,Net worth,12  Mar-18*,116146.0,HDIL
+157,Long term debt,12  Mar-18*,7395.0,HDIL
+158,Total assets,12  Mar-18*,185190.0,HDIL
+159,Interest coverage,12  Mar-18*,1.2,HDIL
+160,Debt to equity ratio,12  Mar-18*,0.1,HDIL
+161,Sales to assets ratio,12  Mar-18*,0.0,HDIL
+162,Return on assets,12  Mar-18*,2.4,HDIL
+163,Return on equity,12  Mar-18*,0.8,HDIL
+164,Return on capital,12  Mar-18*,3.3,HDIL
+165,Exports to sales,12  Mar-18*,0.0,HDIL
+166,Imports to sales,12  Mar-18*,0.0,HDIL
+167,Exports (fob),12  Mar-18*,0.0,HDIL
+168,Imports (cif),12  Mar-18*,0.0,HDIL
+169,Fx inflow,12  Mar-18*,0.0,HDIL
+170,Fx outflow,12  Mar-18*,16.0,HDIL
+171,Net fx,12  Mar-18*,-16.0,HDIL
+172,From Operations,12  Mar-18*,4254.0,HDIL
+173,From Investments,12  Mar-18*,176.0,HDIL
+174,From Financial Activity,12  Mar-18*,-4549.0,HDIL
+175,Net Cashflow,12  Mar-18*,-119.0,HDIL
+176,Net Sales,12  Mar-19*,7183.0,HDIL
+177,Other income,12  Mar-19*,175.0,HDIL
+178,Total revenues,12  Mar-19*,7358.0,HDIL
+179,Gross profit,12  Mar-19*,3990.0,HDIL
+180,Depreciation,12  Mar-19*,54.0,HDIL
+181,Interest,12  Mar-19*,2806.0,HDIL
+182,Profit before tax,12  Mar-19*,1305.0,HDIL
+183,Minority Interest,12  Mar-19*,0.0,HDIL
+184,Prior Period Items,12  Mar-19*,0.0,HDIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,HDIL
+186,Tax,12  Mar-19*,242.0,HDIL
+187,Profit after tax,12  Mar-19*,1063.0,HDIL
+188,Gross profit margin,12  Mar-19*,55.6,HDIL
+189,Effective tax rate,12  Mar-19*,18.5,HDIL
+190,Net profit margin,12  Mar-19*,14.8,HDIL
+191,Current assets,12  Mar-19*,177967.0,HDIL
+192,Current liabilities,12  Mar-19*,57090.0,HDIL
+193,Net working cap to sales,12  Mar-19*,1682.7,HDIL
+194,Current ratio,12  Mar-19*,3.1,HDIL
+195,Inventory Days,12  Mar-19*,7407.0,HDIL
+196,Debtors Days,12  Mar-19*,216.0,HDIL
+197,Net fixed assets,12  Mar-19*,2125.0,HDIL
+198,Share capital,12  Mar-19*,4540.0,HDIL
+199,"""Free"" reserves",12  Mar-19*,114369.0,HDIL
+200,Net worth,12  Mar-19*,118909.0,HDIL
+201,Long term debt,12  Mar-19*,4955.0,HDIL
+202,Total assets,12  Mar-19*,181346.0,HDIL
+203,Interest coverage,12  Mar-19*,1.5,HDIL
+204,Debt to equity ratio,12  Mar-19*,0.0,HDIL
+205,Sales to assets ratio,12  Mar-19*,0.0,HDIL
+206,Return on assets,12  Mar-19*,2.1,HDIL
+207,Return on equity,12  Mar-19*,0.9,HDIL
+208,Return on capital,12  Mar-19*,3.3,HDIL
+209,Exports to sales,12  Mar-19*,0.0,HDIL
+210,Imports to sales,12  Mar-19*,0.0,HDIL
+211,Exports (fob),12  Mar-19*,0.0,HDIL
+212,Imports (cif),12  Mar-19*,0.0,HDIL
+213,Fx inflow,12  Mar-19*,0.0,HDIL
+214,Fx outflow,12  Mar-19*,0.0,HDIL
+215,Net fx,12  Mar-19*,0.0,HDIL
+216,From Operations,12  Mar-19*,3854.0,HDIL
+217,From Investments,12  Mar-19*,115.0,HDIL
+218,From Financial Activity,12  Mar-19*,-4023.0,HDIL
+219,Net Cashflow,12  Mar-19*,-55.0,HDIL

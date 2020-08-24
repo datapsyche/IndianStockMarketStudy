@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,1086460.0,TCS
+1,Other income,12  Mar-16*,30840.0,TCS
+2,Total revenues,12  Mar-16*,1117300.0,TCS
+3,Gross profit,12  Mar-16*,306770.0,TCS
+4,Depreciation,12  Mar-16*,18880.0,TCS
+5,Interest,12  Mar-16*,330.0,TCS
+6,Profit before tax,12  Mar-16*,318400.0,TCS
+7,Minority Interest,12  Mar-16*,0.0,TCS
+8,Prior Period Items,12  Mar-16*,0.0,TCS
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,TCS
+10,Tax,12  Mar-16*,75020.0,TCS
+11,Profit after tax,12  Mar-16*,243380.0,TCS
+12,Gross profit margin,12  Mar-16*,28.2,TCS
+13,Effective tax rate,12  Mar-16*,23.6,TCS
+14,Net profit margin,12  Mar-16*,22.4,TCS
+15,Current assets,12  Mar-16*,632130.0,TCS
+16,Current liabilities,12  Mar-16*,155690.0,TCS
+17,Net working cap to sales,12  Mar-16*,43.9,TCS
+18,Current ratio,12  Mar-16*,4.1,TCS
+19,Inventory Days,12  Mar-16*,0.0,TCS
+20,Debtors Days,12  Mar-16*,81.0,TCS
+21,Net fixed assets,12  Mar-16*,134440.0,TCS
+22,Share capital,12  Mar-16*,1970.0,TCS
+23,"""Free"" reserves",12  Mar-16*,708750.0,TCS
+24,Net worth,12  Mar-16*,710720.0,TCS
+25,Long term debt,12  Mar-16*,830.0,TCS
+26,Total assets,12  Mar-16*,890960.0,TCS
+27,Interest coverage,12  Mar-16*,965.8,TCS
+28,Debt to equity ratio,12  Mar-16*,0.0,TCS
+29,Sales to assets ratio,12  Mar-16*,1.2,TCS
+30,Return on assets,12  Mar-16*,27.4,TCS
+31,Return on equity,12  Mar-16*,34.2,TCS
+32,Return on capital,12  Mar-16*,44.8,TCS
+33,Exports to sales,12  Mar-16*,0.0,TCS
+34,Imports to sales,12  Mar-16*,0.5,TCS
+35,Exports (fob),12  Mar-16*,0.0,TCS
+36,Imports (cif),12  Mar-16*,5021.0,TCS
+37,Fx inflow,12  Mar-16*,818847.0,TCS
+38,Fx outflow,12  Mar-16*,300566.0,TCS
+39,Net fx,12  Mar-16*,518281.0,TCS
+40,From Operations,12  Mar-16*,191090.0,TCS
+41,From Investments,12  Mar-16*,-51500.0,TCS
+42,From Financial Activity,12  Mar-16*,-96660.0,TCS
+43,Net Cashflow,12  Mar-16*,44330.0,TCS
+44,Net Sales,12  Mar-17*,1179660.0,TCS
+45,Other income,12  Mar-17*,42210.0,TCS
+46,Total revenues,12  Mar-17*,1221870.0,TCS
+47,Gross profit,12  Mar-17*,323110.0,TCS
+48,Depreciation,12  Mar-17*,19870.0,TCS
+49,Interest,12  Mar-17*,320.0,TCS
+50,Profit before tax,12  Mar-17*,345130.0,TCS
+51,Minority Interest,12  Mar-17*,0.0,TCS
+52,Prior Period Items,12  Mar-17*,0.0,TCS
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,TCS
+54,Tax,12  Mar-17*,81560.0,TCS
+55,Profit after tax,12  Mar-17*,263570.0,TCS
+56,Gross profit margin,12  Mar-17*,27.4,TCS
+57,Effective tax rate,12  Mar-17*,23.6,TCS
+58,Net profit margin,12  Mar-17*,22.3,TCS
+59,Current assets,12  Mar-17*,803160.0,TCS
+60,Current liabilities,12  Mar-17*,145120.0,TCS
+61,Net working cap to sales,12  Mar-17*,55.8,TCS
+62,Current ratio,12  Mar-17*,5.5,TCS
+63,Inventory Days,12  Mar-17*,0.0,TCS
+64,Debtors Days,12  Mar-17*,70.0,TCS
+65,Net fixed assets,12  Mar-17*,132420.0,TCS
+66,Share capital,12  Mar-17*,1970.0,TCS
+67,"""Free"" reserves",12  Mar-17*,860170.0,TCS
+68,Net worth,12  Mar-17*,862140.0,TCS
+69,Long term debt,12  Mar-17*,710.0,TCS
+70,Total assets,12  Mar-17*,1032520.0,TCS
+71,Interest coverage,12  Mar-17*,1079.5,TCS
+72,Debt to equity ratio,12  Mar-17*,0.0,TCS
+73,Sales to assets ratio,12  Mar-17*,1.1,TCS
+74,Return on assets,12  Mar-17*,25.6,TCS
+75,Return on equity,12  Mar-17*,30.6,TCS
+76,Return on capital,12  Mar-17*,40.0,TCS
+77,Exports to sales,12  Mar-17*,0.0,TCS
+78,Imports to sales,12  Mar-17*,0.5,TCS
+79,Exports (fob),12  Mar-17*,0.0,TCS
+80,Imports (cif),12  Mar-17*,5610.0,TCS
+81,Fx inflow,12  Mar-17*,863700.0,TCS
+82,Fx outflow,12  Mar-17*,321140.0,TCS
+83,Net fx,12  Mar-17*,542560.0,TCS
+84,From Operations,12  Mar-17*,252230.0,TCS
+85,From Investments,12  Mar-17*,-167320.0,TCS
+86,From Financial Activity,12  Mar-17*,-110260.0,TCS
+87,Net Cashflow,12  Mar-17*,-26980.0,TCS
+88,Net Sales,12  Mar-18*,1231040.0,TCS
+89,Other income,12  Mar-18*,36420.0,TCS
+90,Total revenues,12  Mar-18*,1267460.0,TCS
+91,Gross profit,12  Mar-18*,325160.0,TCS
+92,Depreciation,12  Mar-18*,20140.0,TCS
+93,Interest,12  Mar-18*,520.0,TCS
+94,Profit before tax,12  Mar-18*,340920.0,TCS
+95,Minority Interest,12  Mar-18*,0.0,TCS
+96,Prior Period Items,12  Mar-18*,0.0,TCS
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,TCS
+98,Tax,12  Mar-18*,82120.0,TCS
+99,Profit after tax,12  Mar-18*,258800.0,TCS
+100,Gross profit margin,12  Mar-18*,26.4,TCS
+101,Effective tax rate,12  Mar-18*,24.1,TCS
+102,Net profit margin,12  Mar-18*,21.0,TCS
+103,Current assets,12  Mar-18*,812240.0,TCS
+104,Current liabilities,12  Mar-18*,178280.0,TCS
+105,Net working cap to sales,12  Mar-18*,51.5,TCS
+106,Current ratio,12  Mar-18*,4.6,TCS
+107,Inventory Days,12  Mar-18*,0.0,TCS
+108,Debtors Days,12  Mar-18*,74.0,TCS
+109,Net fixed assets,12  Mar-18*,132510.0,TCS
+110,Share capital,12  Mar-18*,1910.0,TCS
+111,"""Free"" reserves",12  Mar-18*,849370.0,TCS
+112,Net worth,12  Mar-18*,851280.0,TCS
+113,Long term debt,12  Mar-18*,540.0,TCS
+114,Total assets,12  Mar-18*,1062960.0,TCS
+115,Interest coverage,12  Mar-18*,656.6,TCS
+116,Debt to equity ratio,12  Mar-18*,0.0,TCS
+117,Sales to assets ratio,12  Mar-18*,1.2,TCS
+118,Return on assets,12  Mar-18*,24.4,TCS
+119,Return on equity,12  Mar-18*,30.4,TCS
+120,Return on capital,12  Mar-18*,40.1,TCS
+121,Exports to sales,12  Mar-18*,0.0,TCS
+122,Imports to sales,12  Mar-18*,0.6,TCS
+123,Exports (fob),12  Mar-18*,0.0,TCS
+124,Imports (cif),12  Mar-18*,7680.0,TCS
+125,Fx inflow,12  Mar-18*,922580.0,TCS
+126,Fx outflow,12  Mar-18*,337820.0,TCS
+127,Net fx,12  Mar-18*,584760.0,TCS
+128,From Operations,12  Mar-18*,250670.0,TCS
+129,From Investments,12  Mar-18*,28860.0,TCS
+130,From Financial Activity,12  Mar-18*,-268850.0,TCS
+131,Net Cashflow,12  Mar-18*,12860.0,TCS
+132,Net Sales,12  Mar-19*,1464630.0,TCS
+133,Other income,12  Mar-19*,43110.0,TCS
+134,Total revenues,12  Mar-19*,1507740.0,TCS
+135,Gross profit,12  Mar-19*,395060.0,TCS
+136,Depreciation,12  Mar-19*,20560.0,TCS
+137,Interest,12  Mar-19*,1980.0,TCS
+138,Profit before tax,12  Mar-19*,415630.0,TCS
+139,Minority Interest,12  Mar-19*,0.0,TCS
+140,Prior Period Items,12  Mar-19*,0.0,TCS
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,TCS
+142,Tax,12  Mar-19*,100010.0,TCS
+143,Profit after tax,12  Mar-19*,315620.0,TCS
+144,Gross profit margin,12  Mar-19*,27.0,TCS
+145,Effective tax rate,12  Mar-19*,24.1,TCS
+146,Net profit margin,12  Mar-19*,21.5,TCS
+147,Current assets,12  Mar-19*,921310.0,TCS
+148,Current liabilities,12  Mar-19*,220840.0,TCS
+149,Net working cap to sales,12  Mar-19*,47.8,TCS
+150,Current ratio,12  Mar-19*,4.2,TCS
+151,Inventory Days,12  Mar-19*,0.0,TCS
+152,Debtors Days,12  Mar-19*,68.0,TCS
+153,Net fixed assets,12  Mar-19*,132530.0,TCS
+154,Share capital,12  Mar-19*,3750.0,TCS
+155,"""Free"" reserves",12  Mar-19*,890710.0,TCS
+156,Net worth,12  Mar-19*,894460.0,TCS
+157,Long term debt,12  Mar-19*,440.0,TCS
+158,Total assets,12  Mar-19*,1149430.0,TCS
+159,Interest coverage,12  Mar-19*,210.9,TCS
+160,Debt to equity ratio,12  Mar-19*,0.0,TCS
+161,Sales to assets ratio,12  Mar-19*,1.3,TCS
+162,Return on assets,12  Mar-19*,27.6,TCS
+163,Return on equity,12  Mar-19*,35.3,TCS
+164,Return on capital,12  Mar-19*,46.7,TCS
+165,Exports to sales,12  Mar-19*,0.0,TCS
+166,Imports to sales,12  Mar-19*,0.3,TCS
+167,Exports (fob),12  Mar-19*,0.0,TCS
+168,Imports (cif),12  Mar-19*,4470.0,TCS
+169,Fx inflow,12  Mar-19*,1194990.0,TCS
+170,Fx outflow,12  Mar-19*,497830.0,TCS
+171,Net fx,12  Mar-19*,697160.0,TCS
+172,From Operations,12  Mar-19*,285930.0,TCS
+173,From Investments,12  Mar-19*,15960.0,TCS
+174,From Financial Activity,12  Mar-19*,-278970.0,TCS
+175,Net Cashflow,12  Mar-19*,23410.0,TCS
+176,Net Sales,12  Mar-20*,1569490.0,TCS
+177,Other income,12  Mar-20*,45920.0,TCS
+178,Total revenues,12  Mar-20*,1615410.0,TCS
+179,Gross profit,12  Mar-20*,421090.0,TCS
+180,Depreciation,12  Mar-20*,35290.0,TCS
+181,Interest,12  Mar-20*,9240.0,TCS
+182,Profit before tax,12  Mar-20*,422480.0,TCS
+183,Minority Interest,12  Mar-20*,0.0,TCS
+184,Prior Period Items,12  Mar-20*,0.0,TCS
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,TCS
+186,Tax,12  Mar-20*,98010.0,TCS
+187,Profit after tax,12  Mar-20*,324470.0,TCS
+188,Gross profit margin,12  Mar-20*,26.8,TCS
+189,Effective tax rate,12  Mar-20*,23.2,TCS
+190,Net profit margin,12  Mar-20*,20.7,TCS
+191,Current assets,12  Mar-20*,902370.0,TCS
+192,Current liabilities,12  Mar-20*,270600.0,TCS
+193,Net working cap to sales,12  Mar-20*,40.3,TCS
+194,Current ratio,12  Mar-20*,3.3,TCS
+195,Inventory Days,12  Mar-20*,0.0,TCS
+196,Debtors Days,12  Mar-20*,71.0,TCS
+197,Net fixed assets,12  Mar-20*,215510.0,TCS
+198,Share capital,12  Mar-20*,3750.0,TCS
+199,"""Free"" reserves",12  Mar-20*,837510.0,TCS
+200,Net worth,12  Mar-20*,841260.0,TCS
+201,Long term debt,12  Mar-20*,0.0,TCS
+202,Total assets,12  Mar-20*,1208990.0,TCS
+203,Interest coverage,12  Mar-20*,46.7,TCS
+204,Debt to equity ratio,12  Mar-20*,0.0,TCS
+205,Sales to assets ratio,12  Mar-20*,1.3,TCS
+206,Return on assets,12  Mar-20*,27.6,TCS
+207,Return on equity,12  Mar-20*,38.6,TCS
+208,Return on capital,12  Mar-20*,51.3,TCS
+209,Exports to sales,12  Mar-20*,0.0,TCS
+210,Imports to sales,12  Mar-20*,0.4,TCS
+211,Exports (fob),12  Mar-20*,0.0,TCS
+212,Imports (cif),12  Mar-20*,5690.0,TCS
+213,Fx inflow,12  Mar-20*,1285010.0,TCS
+214,Fx outflow,12  Mar-20*,523170.0,TCS
+215,Net fx,12  Mar-20*,761840.0,TCS
+216,From Operations,12  Mar-20*,323690.0,TCS
+217,From Investments,12  Mar-20*,85650.0,TCS
+218,From Financial Activity,12  Mar-20*,-399150.0,TCS
+219,Net Cashflow,12  Mar-20*,14220.0,TCS

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,24882.0,LAMH
+1,Other income,12  Mar-15*,1003.0,LAMH
+2,Total revenues,12  Mar-15*,25885.0,LAMH
+3,Gross profit,12  Mar-15*,3107.0,LAMH
+4,Depreciation,12  Mar-15*,997.0,LAMH
+5,Interest,12  Mar-15*,6.0,LAMH
+6,Profit before tax,12  Mar-15*,3106.0,LAMH
+7,Minority Interest,12  Mar-15*,0.0,LAMH
+8,Prior Period Items,12  Mar-15*,0.0,LAMH
+9,Extraordinary Inc (Exp),12  Mar-15*,-95.0,LAMH
+10,Tax,12  Mar-15*,815.0,LAMH
+11,Profit after tax,12  Mar-15*,2197.0,LAMH
+12,Gross profit margin,12  Mar-15*,12.5,LAMH
+13,Effective tax rate,12  Mar-15*,26.2,LAMH
+14,Net profit margin,12  Mar-15*,8.8,LAMH
+15,Current assets,12  Mar-15*,16939.0,LAMH
+16,Current liabilities,12  Mar-15*,7703.0,LAMH
+17,Net working cap to sales,12  Mar-15*,37.1,LAMH
+18,Current ratio,12  Mar-15*,2.2,LAMH
+19,Inventory Days,12  Mar-15*,47.0,LAMH
+20,Debtors Days,12  Mar-15*,30.0,LAMH
+21,Net fixed assets,12  Mar-15*,4450.0,LAMH
+22,Share capital,12  Mar-15*,113.0,LAMH
+23,"""Free"" reserves",12  Mar-15*,13225.0,LAMH
+24,Net worth,12  Mar-15*,13338.0,LAMH
+25,Long term debt,12  Mar-15*,0.0,LAMH
+26,Total assets,12  Mar-15*,22386.0,LAMH
+27,Interest coverage,12  Mar-15*,494.0,LAMH
+28,Debt to equity ratio,12  Mar-15*,0.0,LAMH
+29,Sales to assets ratio,12  Mar-15*,1.1,LAMH
+30,Return on assets,12  Mar-15*,9.8,LAMH
+31,Return on equity,12  Mar-15*,16.5,LAMH
+32,Return on capital,12  Mar-15*,22.6,LAMH
+33,Exports to sales,12  Mar-15*,19.9,LAMH
+34,Imports to sales,12  Mar-15*,10.4,LAMH
+35,Exports (fob),12  Mar-15*,4941.0,LAMH
+36,Imports (cif),12  Mar-15*,2579.0,LAMH
+37,Fx inflow,12  Mar-15*,4972.0,LAMH
+38,Fx outflow,12  Mar-15*,2719.0,LAMH
+39,Net fx,12  Mar-15*,2254.0,LAMH
+40,From Operations,12  Mar-15*,1306.0,LAMH
+41,From Investments,12  Mar-15*,-538.0,LAMH
+42,From Financial Activity,12  Mar-15*,-404.0,LAMH
+43,Net Cashflow,12  Mar-15*,364.0,LAMH
+44,Net Sales,12  Mar-16*,28631.0,LAMH
+45,Other income,12  Mar-16*,933.0,LAMH
+46,Total revenues,12  Mar-16*,29563.0,LAMH
+47,Gross profit,12  Mar-16*,3377.0,LAMH
+48,Depreciation,12  Mar-16*,881.0,LAMH
+49,Interest,12  Mar-16*,10.0,LAMH
+50,Profit before tax,12  Mar-16*,3418.0,LAMH
+51,Minority Interest,12  Mar-16*,0.0,LAMH
+52,Prior Period Items,12  Mar-16*,0.0,LAMH
+53,Extraordinary Inc (Exp),12  Mar-16*,-50.0,LAMH
+54,Tax,12  Mar-16*,1095.0,LAMH
+55,Profit after tax,12  Mar-16*,2273.0,LAMH
+56,Gross profit margin,12  Mar-16*,11.8,LAMH
+57,Effective tax rate,12  Mar-16*,32.0,LAMH
+58,Net profit margin,12  Mar-16*,7.9,LAMH
+59,Current assets,12  Mar-16*,17279.0,LAMH
+60,Current liabilities,12  Mar-16*,7615.0,LAMH
+61,Net working cap to sales,12  Mar-16*,33.8,LAMH
+62,Current ratio,12  Mar-16*,2.3,LAMH
+63,Inventory Days,12  Mar-16*,43.0,LAMH
+64,Debtors Days,12  Mar-16*,30.0,LAMH
+65,Net fixed assets,12  Mar-16*,4714.0,LAMH
+66,Share capital,12  Mar-16*,113.0,LAMH
+67,"""Free"" reserves",12  Mar-16*,15232.0,LAMH
+68,Net worth,12  Mar-16*,15345.0,LAMH
+69,Long term debt,12  Mar-16*,0.0,LAMH
+70,Total assets,12  Mar-16*,23973.0,LAMH
+71,Interest coverage,12  Mar-16*,336.1,LAMH
+72,Debt to equity ratio,12  Mar-16*,0.0,LAMH
+73,Sales to assets ratio,12  Mar-16*,1.2,LAMH
+74,Return on assets,12  Mar-16*,9.5,LAMH
+75,Return on equity,12  Mar-16*,14.8,LAMH
+76,Return on capital,12  Mar-16*,22.0,LAMH
+77,Exports to sales,12  Mar-16*,19.3,LAMH
+78,Imports to sales,12  Mar-16*,8.9,LAMH
+79,Exports (fob),12  Mar-16*,5515.0,LAMH
+80,Imports (cif),12  Mar-16*,2549.0,LAMH
+81,Fx inflow,12  Mar-16*,5558.0,LAMH
+82,Fx outflow,12  Mar-16*,2857.0,LAMH
+83,Net fx,12  Mar-16*,2701.0,LAMH
+84,From Operations,12  Mar-16*,811.0,LAMH
+85,From Investments,12  Mar-16*,-640.0,LAMH
+86,From Financial Activity,12  Mar-16*,-520.0,LAMH
+87,Net Cashflow,12  Mar-16*,-349.0,LAMH
+88,Net Sales,12  Mar-17*,22802.0,LAMH
+89,Other income,12  Mar-17*,885.0,LAMH
+90,Total revenues,12  Mar-17*,23686.0,LAMH
+91,Gross profit,12  Mar-17*,2590.0,LAMH
+92,Depreciation,12  Mar-17*,799.0,LAMH
+93,Interest,12  Mar-17*,4.0,LAMH
+94,Profit before tax,12  Mar-17*,2672.0,LAMH
+95,Minority Interest,12  Mar-17*,0.0,LAMH
+96,Prior Period Items,12  Mar-17*,0.0,LAMH
+97,Extraordinary Inc (Exp),12  Mar-17*,-47.0,LAMH
+98,Tax,12  Mar-17*,760.0,LAMH
+99,Profit after tax,12  Mar-17*,1864.0,LAMH
+100,Gross profit margin,12  Mar-17*,11.4,LAMH
+101,Effective tax rate,12  Mar-17*,28.5,LAMH
+102,Net profit margin,12  Mar-17*,8.2,LAMH
+103,Current assets,12  Mar-17*,16087.0,LAMH
+104,Current liabilities,12  Mar-17*,7082.0,LAMH
+105,Net working cap to sales,12  Mar-17*,39.5,LAMH
+106,Current ratio,12  Mar-17*,2.3,LAMH
+107,Inventory Days,12  Mar-17*,58.0,LAMH
+108,Debtors Days,12  Mar-17*,30.0,LAMH
+109,Net fixed assets,12  Mar-17*,5256.0,LAMH
+110,Share capital,12  Mar-17*,110.0,LAMH
+111,"""Free"" reserves",12  Mar-17*,15475.0,LAMH
+112,Net worth,12  Mar-17*,15584.0,LAMH
+113,Long term debt,12  Mar-17*,0.0,LAMH
+114,Total assets,12  Mar-17*,23668.0,LAMH
+115,Interest coverage,12  Mar-17*,637.1,LAMH
+116,Debt to equity ratio,12  Mar-17*,0.0,LAMH
+117,Sales to assets ratio,12  Mar-17*,1.0,LAMH
+118,Return on assets,12  Mar-17*,7.9,LAMH
+119,Return on equity,12  Mar-17*,12.0,LAMH
+120,Return on capital,12  Mar-17*,16.9,LAMH
+121,Exports to sales,12  Mar-17*,15.2,LAMH
+122,Imports to sales,12  Mar-17*,11.2,LAMH
+123,Exports (fob),12  Mar-17*,3465.0,LAMH
+124,Imports (cif),12  Mar-17*,2563.0,LAMH
+125,Fx inflow,12  Mar-17*,3465.0,LAMH
+126,Fx outflow,12  Mar-17*,2563.0,LAMH
+127,Net fx,12  Mar-17*,903.0,LAMH
+128,From Operations,12  Mar-17*,1369.0,LAMH
+129,From Investments,12  Mar-17*,676.0,LAMH
+130,From Financial Activity,12  Mar-17*,-1951.0,LAMH
+131,Net Cashflow,12  Mar-17*,94.0,LAMH
+132,Net Sales,12  Mar-18*,25810.0,LAMH
+133,Other income,12  Mar-18*,1075.0,LAMH
+134,Total revenues,12  Mar-18*,26885.0,LAMH
+135,Gross profit,12  Mar-18*,2755.0,LAMH
+136,Depreciation,12  Mar-18*,759.0,LAMH
+137,Interest,12  Mar-18*,8.0,LAMH
+138,Profit before tax,12  Mar-18*,3064.0,LAMH
+139,Minority Interest,12  Mar-18*,0.0,LAMH
+140,Prior Period Items,12  Mar-18*,0.0,LAMH
+141,Extraordinary Inc (Exp),12  Mar-18*,-40.0,LAMH
+142,Tax,12  Mar-18*,877.0,LAMH
+143,Profit after tax,12  Mar-18*,2146.0,LAMH
+144,Gross profit margin,12  Mar-18*,10.7,LAMH
+145,Effective tax rate,12  Mar-18*,28.6,LAMH
+146,Net profit margin,12  Mar-18*,8.3,LAMH
+147,Current assets,12  Mar-18*,17465.0,LAMH
+148,Current liabilities,12  Mar-18*,7903.0,LAMH
+149,Net working cap to sales,12  Mar-18*,37.0,LAMH
+150,Current ratio,12  Mar-18*,2.2,LAMH
+151,Inventory Days,12  Mar-18*,49.0,LAMH
+152,Debtors Days,12  Mar-18*,35.0,LAMH
+153,Net fixed assets,12  Mar-18*,5916.0,LAMH
+154,Share capital,12  Mar-18*,110.0,LAMH
+155,"""Free"" reserves",12  Mar-18*,17357.0,LAMH
+156,Net worth,12  Mar-18*,17467.0,LAMH
+157,Long term debt,12  Mar-18*,30.0,LAMH
+158,Total assets,12  Mar-18*,26351.0,LAMH
+159,Interest coverage,12  Mar-18*,398.9,LAMH
+160,Debt to equity ratio,12  Mar-18*,0.0,LAMH
+161,Sales to assets ratio,12  Mar-18*,1.0,LAMH
+162,Return on assets,12  Mar-18*,8.2,LAMH
+163,Return on equity,12  Mar-18*,12.3,LAMH
+164,Return on capital,12  Mar-18*,17.3,LAMH
+165,Exports to sales,12  Mar-18*,20.0,LAMH
+166,Imports to sales,12  Mar-18*,10.9,LAMH
+167,Exports (fob),12  Mar-18*,5160.0,LAMH
+168,Imports (cif),12  Mar-18*,2825.0,LAMH
+169,Fx inflow,12  Mar-18*,5196.0,LAMH
+170,Fx outflow,12  Mar-18*,2825.0,LAMH
+171,Net fx,12  Mar-18*,2371.0,LAMH
+172,From Operations,12  Mar-18*,2105.0,LAMH
+173,From Investments,12  Mar-18*,-228.0,LAMH
+174,From Financial Activity,12  Mar-18*,-440.0,LAMH
+175,Net Cashflow,12  Mar-18*,1437.0,LAMH
+176,Net Sales,12  Mar-19*,27118.0,LAMH
+177,Other income,12  Mar-19*,1024.0,LAMH
+178,Total revenues,12  Mar-19*,28142.0,LAMH
+179,Gross profit,12  Mar-19*,2739.0,LAMH
+180,Depreciation,12  Mar-19*,554.0,LAMH
+181,Interest,12  Mar-19*,12.0,LAMH
+182,Profit before tax,12  Mar-19*,3198.0,LAMH
+183,Minority Interest,12  Mar-19*,0.0,LAMH
+184,Prior Period Items,12  Mar-19*,0.0,LAMH
+185,Extraordinary Inc (Exp),12  Mar-19*,-372.0,LAMH
+186,Tax,12  Mar-19*,972.0,LAMH
+187,Profit after tax,12  Mar-19*,1854.0,LAMH
+188,Gross profit margin,12  Mar-19*,10.1,LAMH
+189,Effective tax rate,12  Mar-19*,30.4,LAMH
+190,Net profit margin,12  Mar-19*,6.8,LAMH
+191,Current assets,12  Mar-19*,12630.0,LAMH
+192,Current liabilities,12  Mar-19*,6930.0,LAMH
+193,Net working cap to sales,12  Mar-19*,21.0,LAMH
+194,Current ratio,12  Mar-19*,1.8,LAMH
+195,Inventory Days,12  Mar-19*,44.0,LAMH
+196,Debtors Days,12  Mar-19*,26.0,LAMH
+197,Net fixed assets,12  Mar-19*,7111.0,LAMH
+198,Share capital,12  Mar-19*,107.0,LAMH
+199,"""Free"" reserves",12  Mar-19*,16996.0,LAMH
+200,Net worth,12  Mar-19*,17103.0,LAMH
+201,Long term debt,12  Mar-19*,29.0,LAMH
+202,Total assets,12  Mar-19*,24567.0,LAMH
+203,Interest coverage,12  Mar-19*,274.3,LAMH
+204,Debt to equity ratio,12  Mar-19*,0.0,LAMH
+205,Sales to assets ratio,12  Mar-19*,1.1,LAMH
+206,Return on assets,12  Mar-19*,7.6,LAMH
+207,Return on equity,12  Mar-19*,10.8,LAMH
+208,Return on capital,12  Mar-19*,16.6,LAMH
+209,Exports to sales,12  Mar-19*,0.0,LAMH
+210,Imports to sales,12  Mar-19*,0.0,LAMH
+211,Exports (fob),12  Mar-19*,0.0,LAMH
+212,Imports (cif),12  Mar-19*,0.0,LAMH
+213,Fx inflow,12  Mar-19*,7699.0,LAMH
+214,Fx outflow,12  Mar-19*,3146.0,LAMH
+215,Net fx,12  Mar-19*,4552.0,LAMH
+216,From Operations,12  Mar-19*,988.0,LAMH
+217,From Investments,12  Mar-19*,287.0,LAMH
+218,From Financial Activity,12  Mar-19*,-2153.0,LAMH
+219,Net Cashflow,12  Mar-19*,-878.0,LAMH

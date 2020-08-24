@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,21836.0,AIAE
+1,Other income,12  Mar-15*,832.0,AIAE
+2,Total revenues,12  Mar-15*,22669.0,AIAE
+3,Gross profit,12  Mar-15*,5848.0,AIAE
+4,Depreciation,12  Mar-15*,698.0,AIAE
+5,Interest,12  Mar-15*,39.0,AIAE
+6,Profit before tax,12  Mar-15*,5943.0,AIAE
+7,Minority Interest,12  Mar-15*,0.0,AIAE
+8,Prior Period Items,12  Mar-15*,0.0,AIAE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,AIAE
+10,Tax,12  Mar-15*,1634.0,AIAE
+11,Profit after tax,12  Mar-15*,4309.0,AIAE
+12,Gross profit margin,12  Mar-15*,26.8,AIAE
+13,Effective tax rate,12  Mar-15*,27.5,AIAE
+14,Net profit margin,12  Mar-15*,19.7,AIAE
+15,Current assets,12  Mar-15*,19063.0,AIAE
+16,Current liabilities,12  Mar-15*,3688.0,AIAE
+17,Net working cap to sales,12  Mar-15*,70.4,AIAE
+18,Current ratio,12  Mar-15*,5.2,AIAE
+19,Inventory Days,12  Mar-15*,77.0,AIAE
+20,Debtors Days,12  Mar-15*,66.0,AIAE
+21,Net fixed assets,12  Mar-15*,5979.0,AIAE
+22,Share capital,12  Mar-15*,189.0,AIAE
+23,"""Free"" reserves",12  Mar-15*,21583.0,AIAE
+24,Net worth,12  Mar-15*,21772.0,AIAE
+25,Long term debt,12  Mar-15*,551.0,AIAE
+26,Total assets,12  Mar-15*,25560.0,AIAE
+27,Interest coverage,12  Mar-15*,151.8,AIAE
+28,Debt to equity ratio,12  Mar-15*,0.0,AIAE
+29,Sales to assets ratio,12  Mar-15*,0.9,AIAE
+30,Return on assets,12  Mar-15*,17.0,AIAE
+31,Return on equity,12  Mar-15*,19.8,AIAE
+32,Return on capital,12  Mar-15*,26.8,AIAE
+33,Exports to sales,12  Mar-15*,66.6,AIAE
+34,Imports to sales,12  Mar-15*,11.5,AIAE
+35,Exports (fob),12  Mar-15*,14553.0,AIAE
+36,Imports (cif),12  Mar-15*,2514.0,AIAE
+37,Fx inflow,12  Mar-15*,15108.0,AIAE
+38,Fx outflow,12  Mar-15*,2546.0,AIAE
+39,Net fx,12  Mar-15*,12562.0,AIAE
+40,From Operations,12  Mar-15*,3070.0,AIAE
+41,From Investments,12  Mar-15*,-2568.0,AIAE
+42,From Financial Activity,12  Mar-15*,-833.0,AIAE
+43,Net Cashflow,12  Mar-15*,-330.0,AIAE
+44,Net Sales,12  Mar-16*,20984.0,AIAE
+45,Other income,12  Mar-16*,1019.0,AIAE
+46,Total revenues,12  Mar-16*,22003.0,AIAE
+47,Gross profit,12  Mar-16*,6093.0,AIAE
+48,Depreciation,12  Mar-16*,655.0,AIAE
+49,Interest,12  Mar-16*,49.0,AIAE
+50,Profit before tax,12  Mar-16*,6409.0,AIAE
+51,Minority Interest,12  Mar-16*,0.0,AIAE
+52,Prior Period Items,12  Mar-16*,0.0,AIAE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,AIAE
+54,Tax,12  Mar-16*,1841.0,AIAE
+55,Profit after tax,12  Mar-16*,4568.0,AIAE
+56,Gross profit margin,12  Mar-16*,29.0,AIAE
+57,Effective tax rate,12  Mar-16*,28.7,AIAE
+58,Net profit margin,12  Mar-16*,21.8,AIAE
+59,Current assets,12  Mar-16*,19986.0,AIAE
+60,Current liabilities,12  Mar-16*,3770.0,AIAE
+61,Net working cap to sales,12  Mar-16*,77.3,AIAE
+62,Current ratio,12  Mar-16*,5.3,AIAE
+63,Inventory Days,12  Mar-16*,68.0,AIAE
+64,Debtors Days,12  Mar-16*,75.0,AIAE
+65,Net fixed assets,12  Mar-16*,7085.0,AIAE
+66,Share capital,12  Mar-16*,189.0,AIAE
+67,"""Free"" reserves",12  Mar-16*,23038.0,AIAE
+68,Net worth,12  Mar-16*,23227.0,AIAE
+69,Long term debt,12  Mar-16*,253.0,AIAE
+70,Total assets,12  Mar-16*,27847.0,AIAE
+71,Interest coverage,12  Mar-16*,132.6,AIAE
+72,Debt to equity ratio,12  Mar-16*,0.0,AIAE
+73,Sales to assets ratio,12  Mar-16*,0.8,AIAE
+74,Return on assets,12  Mar-16*,16.6,AIAE
+75,Return on equity,12  Mar-16*,19.7,AIAE
+76,Return on capital,12  Mar-16*,27.5,AIAE
+77,Exports to sales,12  Mar-16*,59.3,AIAE
+78,Imports to sales,12  Mar-16*,8.5,AIAE
+79,Exports (fob),12  Mar-16*,12438.0,AIAE
+80,Imports (cif),12  Mar-16*,1791.0,AIAE
+81,Fx inflow,12  Mar-16*,12141.0,AIAE
+82,Fx outflow,12  Mar-16*,1842.0,AIAE
+83,Net fx,12  Mar-16*,10299.0,AIAE
+84,From Operations,12  Mar-16*,5950.0,AIAE
+85,From Investments,12  Mar-16*,-4493.0,AIAE
+86,From Financial Activity,12  Mar-16*,-2084.0,AIAE
+87,Net Cashflow,12  Mar-16*,-627.0,AIAE
+88,Net Sales,12  Mar-17*,22460.0,AIAE
+89,Other income,12  Mar-17*,1044.0,AIAE
+90,Total revenues,12  Mar-17*,23505.0,AIAE
+91,Gross profit,12  Mar-17*,6346.0,AIAE
+92,Depreciation,12  Mar-17*,725.0,AIAE
+93,Interest,12  Mar-17*,45.0,AIAE
+94,Profit before tax,12  Mar-17*,6620.0,AIAE
+95,Minority Interest,12  Mar-17*,0.0,AIAE
+96,Prior Period Items,12  Mar-17*,0.0,AIAE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,AIAE
+98,Tax,12  Mar-17*,2048.0,AIAE
+99,Profit after tax,12  Mar-17*,4572.0,AIAE
+100,Gross profit margin,12  Mar-17*,28.3,AIAE
+101,Effective tax rate,12  Mar-17*,30.9,AIAE
+102,Net profit margin,12  Mar-17*,20.4,AIAE
+103,Current assets,12  Mar-17*,24092.0,AIAE
+104,Current liabilities,12  Mar-17*,3854.0,AIAE
+105,Net working cap to sales,12  Mar-17*,90.1,AIAE
+106,Current ratio,12  Mar-17*,6.3,AIAE
+107,Inventory Days,12  Mar-17*,87.0,AIAE
+108,Debtors Days,12  Mar-17*,80.0,AIAE
+109,Net fixed assets,12  Mar-17*,7126.0,AIAE
+110,Share capital,12  Mar-17*,189.0,AIAE
+111,"""Free"" reserves",12  Mar-17*,26984.0,AIAE
+112,Net worth,12  Mar-17*,27173.0,AIAE
+113,Long term debt,12  Mar-17*,3.0,AIAE
+114,Total assets,12  Mar-17*,31901.0,AIAE
+115,Interest coverage,12  Mar-17*,148.4,AIAE
+116,Debt to equity ratio,12  Mar-17*,0.0,AIAE
+117,Sales to assets ratio,12  Mar-17*,0.7,AIAE
+118,Return on assets,12  Mar-17*,14.5,AIAE
+119,Return on equity,12  Mar-17*,16.8,AIAE
+120,Return on capital,12  Mar-17*,24.5,AIAE
+121,Exports to sales,12  Mar-17*,0.0,AIAE
+122,Imports to sales,12  Mar-17*,0.0,AIAE
+123,Exports (fob),12  Mar-17*,0.0,AIAE
+124,Imports (cif),12  Mar-17*,0.0,AIAE
+125,Fx inflow,12  Mar-17*,14738.0,AIAE
+126,Fx outflow,12  Mar-17*,2325.0,AIAE
+127,Net fx,12  Mar-17*,12412.0,AIAE
+128,From Operations,12  Mar-17*,2351.0,AIAE
+129,From Investments,12  Mar-17*,-161.0,AIAE
+130,From Financial Activity,12  Mar-17*,-909.0,AIAE
+131,Net Cashflow,12  Mar-17*,1280.0,AIAE
+132,Net Sales,12  Mar-18*,24451.0,AIAE
+133,Other income,12  Mar-18*,1218.0,AIAE
+134,Total revenues,12  Mar-18*,25670.0,AIAE
+135,Gross profit,12  Mar-18*,5357.0,AIAE
+136,Depreciation,12  Mar-18*,656.0,AIAE
+137,Interest,12  Mar-18*,69.0,AIAE
+138,Profit before tax,12  Mar-18*,5850.0,AIAE
+139,Minority Interest,12  Mar-18*,0.0,AIAE
+140,Prior Period Items,12  Mar-18*,0.0,AIAE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,AIAE
+142,Tax,12  Mar-18*,1414.0,AIAE
+143,Profit after tax,12  Mar-18*,4436.0,AIAE
+144,Gross profit margin,12  Mar-18*,21.9,AIAE
+145,Effective tax rate,12  Mar-18*,24.2,AIAE
+146,Net profit margin,12  Mar-18*,18.1,AIAE
+147,Current assets,12  Mar-18*,26971.0,AIAE
+148,Current liabilities,12  Mar-18*,4581.0,AIAE
+149,Net working cap to sales,12  Mar-18*,91.6,AIAE
+150,Current ratio,12  Mar-18*,5.9,AIAE
+151,Inventory Days,12  Mar-18*,83.0,AIAE
+152,Debtors Days,12  Mar-18*,90.0,AIAE
+153,Net fixed assets,12  Mar-18*,7679.0,AIAE
+154,Share capital,12  Mar-18*,189.0,AIAE
+155,"""Free"" reserves",12  Mar-18*,29904.0,AIAE
+156,Net worth,12  Mar-18*,30093.0,AIAE
+157,Long term debt,12  Mar-18*,2.0,AIAE
+158,Total assets,12  Mar-18*,35585.0,AIAE
+159,Interest coverage,12  Mar-18*,85.4,AIAE
+160,Debt to equity ratio,12  Mar-18*,0.0,AIAE
+161,Sales to assets ratio,12  Mar-18*,0.7,AIAE
+162,Return on assets,12  Mar-18*,12.7,AIAE
+163,Return on equity,12  Mar-18*,14.7,AIAE
+164,Return on capital,12  Mar-18*,19.7,AIAE
+165,Exports to sales,12  Mar-18*,0.0,AIAE
+166,Imports to sales,12  Mar-18*,0.0,AIAE
+167,Exports (fob),12  Mar-18*,0.0,AIAE
+168,Imports (cif),12  Mar-18*,0.0,AIAE
+169,Fx inflow,12  Mar-18*,16203.0,AIAE
+170,Fx outflow,12  Mar-18*,2887.0,AIAE
+171,Net fx,12  Mar-18*,13315.0,AIAE
+172,From Operations,12  Mar-18*,2942.0,AIAE
+173,From Investments,12  Mar-18*,-2050.0,AIAE
+174,From Financial Activity,12  Mar-18*,-1583.0,AIAE
+175,Net Cashflow,12  Mar-18*,-604.0,AIAE
+176,Net Sales,12  Mar-19*,30695.0,AIAE
+177,Other income,12  Mar-19*,1209.0,AIAE
+178,Total revenues,12  Mar-19*,31904.0,AIAE
+179,Gross profit,12  Mar-19*,6599.0,AIAE
+180,Depreciation,12  Mar-19*,789.0,AIAE
+181,Interest,12  Mar-19*,76.0,AIAE
+182,Profit before tax,12  Mar-19*,6944.0,AIAE
+183,Minority Interest,12  Mar-19*,0.0,AIAE
+184,Prior Period Items,12  Mar-19*,0.0,AIAE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,AIAE
+186,Tax,12  Mar-19*,1830.0,AIAE
+187,Profit after tax,12  Mar-19*,5114.0,AIAE
+188,Gross profit margin,12  Mar-19*,21.5,AIAE
+189,Effective tax rate,12  Mar-19*,26.3,AIAE
+190,Net profit margin,12  Mar-19*,16.7,AIAE
+191,Current assets,12  Mar-19*,30569.0,AIAE
+192,Current liabilities,12  Mar-19*,3986.0,AIAE
+193,Net working cap to sales,12  Mar-19*,86.6,AIAE
+194,Current ratio,12  Mar-19*,7.7,AIAE
+195,Inventory Days,12  Mar-19*,93.0,AIAE
+196,Debtors Days,12  Mar-19*,84.0,AIAE
+197,Net fixed assets,12  Mar-19*,9045.0,AIAE
+198,Share capital,12  Mar-19*,189.0,AIAE
+199,"""Free"" reserves",12  Mar-19*,34948.0,AIAE
+200,Net worth,12  Mar-19*,35137.0,AIAE
+201,Long term debt,12  Mar-19*,150.0,AIAE
+202,Total assets,12  Mar-19*,40328.0,AIAE
+203,Interest coverage,12  Mar-19*,93.0,AIAE
+204,Debt to equity ratio,12  Mar-19*,0.0,AIAE
+205,Sales to assets ratio,12  Mar-19*,0.8,AIAE
+206,Return on assets,12  Mar-19*,12.9,AIAE
+207,Return on equity,12  Mar-19*,14.6,AIAE
+208,Return on capital,12  Mar-19*,19.9,AIAE
+209,Exports to sales,12  Mar-19*,0.0,AIAE
+210,Imports to sales,12  Mar-19*,0.0,AIAE
+211,Exports (fob),12  Mar-19*,0.0,AIAE
+212,Imports (cif),12  Mar-19*,0.0,AIAE
+213,Fx inflow,12  Mar-19*,20760.0,AIAE
+214,Fx outflow,12  Mar-19*,3302.0,AIAE
+215,Net fx,12  Mar-19*,17458.0,AIAE
+216,From Operations,12  Mar-19*,1996.0,AIAE
+217,From Investments,12  Mar-19*,-1714.0,AIAE
+218,From Financial Activity,12  Mar-19*,-15.0,AIAE
+219,Net Cashflow,12  Mar-19*,272.0,AIAE

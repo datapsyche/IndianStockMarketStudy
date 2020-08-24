@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,22172.0,HMNI
+1,Other income,12  Mar-15*,964.0,HMNI
+2,Total revenues,12  Mar-15*,23137.0,HMNI
+3,Gross profit,12  Mar-15*,5355.0,HMNI
+4,Depreciation,12  Mar-15*,343.0,HMNI
+5,Interest,12  Mar-15*,51.0,HMNI
+6,Profit before tax,12  Mar-15*,5924.0,HMNI
+7,Minority Interest,12  Mar-15*,2.0,HMNI
+8,Prior Period Items,12  Mar-15*,0.0,HMNI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,HMNI
+10,Tax,12  Mar-15*,1070.0,HMNI
+11,Profit after tax,12  Mar-15*,4856.0,HMNI
+12,Gross profit margin,12  Mar-15*,24.2,HMNI
+13,Effective tax rate,12  Mar-15*,18.1,HMNI
+14,Net profit margin,12  Mar-15*,21.9,HMNI
+15,Current assets,12  Mar-15*,11454.0,HMNI
+16,Current liabilities,12  Mar-15*,3212.0,HMNI
+17,Net working cap to sales,12  Mar-15*,37.2,HMNI
+18,Current ratio,12  Mar-15*,3.6,HMNI
+19,Inventory Days,12  Mar-15*,21.0,HMNI
+20,Debtors Days,12  Mar-15*,17.0,HMNI
+21,Net fixed assets,12  Mar-15*,4425.0,HMNI
+22,Share capital,12  Mar-15*,227.0,HMNI
+23,"""Free"" reserves",12  Mar-15*,13098.0,HMNI
+24,Net worth,12  Mar-15*,13324.0,HMNI
+25,Long term debt,12  Mar-15*,17.0,HMNI
+26,Total assets,12  Mar-15*,17087.0,HMNI
+27,Interest coverage,12  Mar-15*,116.3,HMNI
+28,Debt to equity ratio,12  Mar-15*,0.0,HMNI
+29,Sales to assets ratio,12  Mar-15*,1.3,HMNI
+30,Return on assets,12  Mar-15*,28.7,HMNI
+31,Return on equity,12  Mar-15*,36.4,HMNI
+32,Return on capital,12  Mar-15*,44.8,HMNI
+33,Exports to sales,12  Mar-15*,4.5,HMNI
+34,Imports to sales,12  Mar-15*,1.0,HMNI
+35,Exports (fob),12  Mar-15*,1005.0,HMNI
+36,Imports (cif),12  Mar-15*,212.0,HMNI
+37,Fx inflow,12  Mar-15*,1010.0,HMNI
+38,Fx outflow,12  Mar-15*,271.0,HMNI
+39,Net fx,12  Mar-15*,739.0,HMNI
+40,From Operations,12  Mar-15*,5341.0,HMNI
+41,From Investments,12  Mar-15*,-2337.0,HMNI
+42,From Financial Activity,12  Mar-15*,-2154.0,HMNI
+43,Net Cashflow,12  Mar-15*,850.0,HMNI
+44,Net Sales,12  Mar-16*,23584.0,HMNI
+45,Other income,12  Mar-16*,445.0,HMNI
+46,Total revenues,12  Mar-16*,24028.0,HMNI
+47,Gross profit,12  Mar-16*,6873.0,HMNI
+48,Depreciation,12  Mar-16*,2549.0,HMNI
+49,Interest,12  Mar-16*,540.0,HMNI
+50,Profit before tax,12  Mar-16*,4228.0,HMNI
+51,Minority Interest,12  Mar-16*,0.0,HMNI
+52,Prior Period Items,12  Mar-16*,0.0,HMNI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,HMNI
+54,Tax,12  Mar-16*,597.0,HMNI
+55,Profit after tax,12  Mar-16*,3631.0,HMNI
+56,Gross profit margin,12  Mar-16*,29.1,HMNI
+57,Effective tax rate,12  Mar-16*,14.1,HMNI
+58,Net profit margin,12  Mar-16*,15.4,HMNI
+59,Current assets,12  Mar-16*,5053.0,HMNI
+60,Current liabilities,12  Mar-16*,7347.0,HMNI
+61,Net working cap to sales,12  Mar-16*,-9.7,HMNI
+62,Current ratio,12  Mar-16*,0.7,HMNI
+63,Inventory Days,12  Mar-16*,23.0,HMNI
+64,Debtors Days,12  Mar-16*,20.0,HMNI
+65,Net fixed assets,12  Mar-16*,5323.0,HMNI
+66,Share capital,12  Mar-16*,227.0,HMNI
+67,"""Free"" reserves",12  Mar-16*,15889.0,HMNI
+68,Net worth,12  Mar-16*,16116.0,HMNI
+69,Long term debt,12  Mar-16*,3000.0,HMNI
+70,Total assets,12  Mar-16*,26922.0,HMNI
+71,Interest coverage,12  Mar-16*,8.8,HMNI
+72,Debt to equity ratio,12  Mar-16*,0.2,HMNI
+73,Sales to assets ratio,12  Mar-16*,0.9,HMNI
+74,Return on assets,12  Mar-16*,15.5,HMNI
+75,Return on equity,12  Mar-16*,22.5,HMNI
+76,Return on capital,12  Mar-16*,24.9,HMNI
+77,Exports to sales,12  Mar-16*,4.3,HMNI
+78,Imports to sales,12  Mar-16*,3.5,HMNI
+79,Exports (fob),12  Mar-16*,1006.0,HMNI
+80,Imports (cif),12  Mar-16*,822.0,HMNI
+81,Fx inflow,12  Mar-16*,1020.0,HMNI
+82,Fx outflow,12  Mar-16*,884.0,HMNI
+83,Net fx,12  Mar-16*,136.0,HMNI
+84,From Operations,12  Mar-16*,5616.0,HMNI
+85,From Investments,12  Mar-16*,-13064.0,HMNI
+86,From Financial Activity,12  Mar-16*,5018.0,HMNI
+87,Net Cashflow,12  Mar-16*,-2492.0,HMNI
+88,Net Sales,12  Mar-17*,24882.0,HMNI
+89,Other income,12  Mar-17*,311.0,HMNI
+90,Total revenues,12  Mar-17*,25192.0,HMNI
+91,Gross profit,12  Mar-17*,7591.0,HMNI
+92,Depreciation,12  Mar-17*,3086.0,HMNI
+93,Interest,12  Mar-17*,580.0,HMNI
+94,Profit before tax,12  Mar-17*,4236.0,HMNI
+95,Minority Interest,12  Mar-17*,0.0,HMNI
+96,Prior Period Items,12  Mar-17*,0.0,HMNI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,HMNI
+98,Tax,12  Mar-17*,836.0,HMNI
+99,Profit after tax,12  Mar-17*,3400.0,HMNI
+100,Gross profit margin,12  Mar-17*,30.5,HMNI
+101,Effective tax rate,12  Mar-17*,19.7,HMNI
+102,Net profit margin,12  Mar-17*,13.7,HMNI
+103,Current assets,12  Mar-17*,4409.0,HMNI
+104,Current liabilities,12  Mar-17*,7822.0,HMNI
+105,Net working cap to sales,12  Mar-17*,-13.7,HMNI
+106,Current ratio,12  Mar-17*,0.6,HMNI
+107,Inventory Days,12  Mar-17*,26.0,HMNI
+108,Debtors Days,12  Mar-17*,14.0,HMNI
+109,Net fixed assets,12  Mar-17*,7633.0,HMNI
+110,Share capital,12  Mar-17*,227.0,HMNI
+111,"""Free"" reserves",12  Mar-17*,17320.0,HMNI
+112,Net worth,12  Mar-17*,17547.0,HMNI
+113,Long term debt,12  Mar-17*,0.0,HMNI
+114,Total assets,12  Mar-17*,26032.0,HMNI
+115,Interest coverage,12  Mar-17*,8.3,HMNI
+116,Debt to equity ratio,12  Mar-17*,0.0,HMNI
+117,Sales to assets ratio,12  Mar-17*,1.0,HMNI
+118,Return on assets,12  Mar-17*,15.3,HMNI
+119,Return on equity,12  Mar-17*,19.4,HMNI
+120,Return on capital,12  Mar-17*,27.4,HMNI
+121,Exports to sales,12  Mar-17*,2.9,HMNI
+122,Imports to sales,12  Mar-17*,0.0,HMNI
+123,Exports (fob),12  Mar-17*,731.0,HMNI
+124,Imports (cif),12  Mar-17*,0.0,HMNI
+125,Fx inflow,12  Mar-17*,911.0,HMNI
+126,Fx outflow,12  Mar-17*,468.0,HMNI
+127,Net fx,12  Mar-17*,443.0,HMNI
+128,From Operations,12  Mar-17*,7296.0,HMNI
+129,From Investments,12  Mar-17*,-2975.0,HMNI
+130,From Financial Activity,12  Mar-17*,-4958.0,HMNI
+131,Net Cashflow,12  Mar-17*,-721.0,HMNI
+132,Net Sales,12  Mar-18*,25305.0,HMNI
+133,Other income,12  Mar-18*,195.0,HMNI
+134,Total revenues,12  Mar-18*,25500.0,HMNI
+135,Gross profit,12  Mar-18*,7182.0,HMNI
+136,Depreciation,12  Mar-18*,3109.0,HMNI
+137,Interest,12  Mar-18*,343.0,HMNI
+138,Profit before tax,12  Mar-18*,3926.0,HMNI
+139,Minority Interest,12  Mar-18*,0.0,HMNI
+140,Prior Period Items,12  Mar-18*,0.0,HMNI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,HMNI
+142,Tax,12  Mar-18*,863.0,HMNI
+143,Profit after tax,12  Mar-18*,3063.0,HMNI
+144,Gross profit margin,12  Mar-18*,28.4,HMNI
+145,Effective tax rate,12  Mar-18*,22.0,HMNI
+146,Net profit margin,12  Mar-18*,12.1,HMNI
+147,Current assets,12  Mar-18*,7008.0,HMNI
+148,Current liabilities,12  Mar-18*,7139.0,HMNI
+149,Net working cap to sales,12  Mar-18*,-0.5,HMNI
+150,Current ratio,12  Mar-18*,1.0,HMNI
+151,Inventory Days,12  Mar-18*,28.0,HMNI
+152,Debtors Days,12  Mar-18*,22.0,HMNI
+153,Net fixed assets,12  Mar-18*,18325.0,HMNI
+154,Share capital,12  Mar-18*,227.0,HMNI
+155,"""Free"" reserves",12  Mar-18*,19909.0,HMNI
+156,Net worth,12  Mar-18*,20136.0,HMNI
+157,Long term debt,12  Mar-18*,0.0,HMNI
+158,Total assets,12  Mar-18*,28007.0,HMNI
+159,Interest coverage,12  Mar-18*,12.4,HMNI
+160,Debt to equity ratio,12  Mar-18*,0.0,HMNI
+161,Sales to assets ratio,12  Mar-18*,0.9,HMNI
+162,Return on assets,12  Mar-18*,12.2,HMNI
+163,Return on equity,12  Mar-18*,15.2,HMNI
+164,Return on capital,12  Mar-18*,21.2,HMNI
+165,Exports to sales,12  Mar-18*,3.9,HMNI
+166,Imports to sales,12  Mar-18*,0.0,HMNI
+167,Exports (fob),12  Mar-18*,985.0,HMNI
+168,Imports (cif),12  Mar-18*,0.0,HMNI
+169,Fx inflow,12  Mar-18*,1063.0,HMNI
+170,Fx outflow,12  Mar-18*,400.0,HMNI
+171,Net fx,12  Mar-18*,663.0,HMNI
+172,From Operations,12  Mar-18*,5878.0,HMNI
+173,From Investments,12  Mar-18*,-2791.0,HMNI
+174,From Financial Activity,12  Mar-18*,-3237.0,HMNI
+175,Net Cashflow,12  Mar-18*,-122.0,HMNI
+176,Net Sales,12  Mar-19*,26929.0,HMNI
+177,Other income,12  Mar-19*,366.0,HMNI
+178,Total revenues,12  Mar-19*,27295.0,HMNI
+179,Gross profit,12  Mar-19*,7233.0,HMNI
+180,Depreciation,12  Mar-19*,3253.0,HMNI
+181,Interest,12  Mar-19*,214.0,HMNI
+182,Profit before tax,12  Mar-19*,4132.0,HMNI
+183,Minority Interest,12  Mar-19*,0.0,HMNI
+184,Prior Period Items,12  Mar-19*,0.0,HMNI
+185,Extraordinary Inc (Exp),12  Mar-19*,-98.0,HMNI
+186,Tax,12  Mar-19*,1009.0,HMNI
+187,Profit after tax,12  Mar-19*,3025.0,HMNI
+188,Gross profit margin,12  Mar-19*,26.9,HMNI
+189,Effective tax rate,12  Mar-19*,24.4,HMNI
+190,Net profit margin,12  Mar-19*,11.2,HMNI
+191,Current assets,12  Mar-19*,8493.0,HMNI
+192,Current liabilities,12  Mar-19*,6799.0,HMNI
+193,Net working cap to sales,12  Mar-19*,6.3,HMNI
+194,Current ratio,12  Mar-19*,1.2,HMNI
+195,Inventory Days,12  Mar-19*,30.0,HMNI
+196,Debtors Days,12  Mar-19*,29.0,HMNI
+197,Net fixed assets,12  Mar-19*,17164.0,HMNI
+198,Share capital,12  Mar-19*,454.0,HMNI
+199,"""Free"" reserves",12  Mar-19*,20307.0,HMNI
+200,Net worth,12  Mar-19*,20761.0,HMNI
+201,Long term debt,12  Mar-19*,0.0,HMNI
+202,Total assets,12  Mar-19*,28224.0,HMNI
+203,Interest coverage,12  Mar-19*,20.3,HMNI
+204,Debt to equity ratio,12  Mar-19*,0.0,HMNI
+205,Sales to assets ratio,12  Mar-19*,1.0,HMNI
+206,Return on assets,12  Mar-19*,11.5,HMNI
+207,Return on equity,12  Mar-19*,14.6,HMNI
+208,Return on capital,12  Mar-19*,20.5,HMNI
+209,Exports to sales,12  Mar-19*,3.7,HMNI
+210,Imports to sales,12  Mar-19*,0.0,HMNI
+211,Exports (fob),12  Mar-19*,998.0,HMNI
+212,Imports (cif),12  Mar-19*,0.0,HMNI
+213,Fx inflow,12  Mar-19*,1074.0,HMNI
+214,Fx outflow,12  Mar-19*,609.0,HMNI
+215,Net fx,12  Mar-19*,465.0,HMNI
+216,From Operations,12  Mar-19*,5537.0,HMNI
+217,From Investments,12  Mar-19*,-234.0,HMNI
+218,From Financial Activity,12  Mar-19*,-4277.0,HMNI
+219,Net Cashflow,12  Mar-19*,1003.0,HMNI

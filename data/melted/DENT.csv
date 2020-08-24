@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,13272.0,DENT
+1,Other income,12  Mar-15,21.0,DENT
+2,Total revenues,12  Mar-15,13292.0,DENT
+3,Gross profit,12  Mar-15,1397.0,DENT
+4,Depreciation,12  Mar-15,360.0,DENT
+5,Interest,12  Mar-15,380.0,DENT
+6,Profit before tax,12  Mar-15,677.0,DENT
+7,Minority Interest,12  Mar-15,0.0,DENT
+8,Prior Period Items,12  Mar-15,0.0,DENT
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,DENT
+10,Tax,12  Mar-15,143.0,DENT
+11,Profit after tax,12  Mar-15,534.0,DENT
+12,Gross profit margin,12  Mar-15,10.5,DENT
+13,Effective tax rate,12  Mar-15,21.1,DENT
+14,Net profit margin,12  Mar-15,4.0,DENT
+15,Current assets,12  Mar-15,4784.0,DENT
+16,Current liabilities,12  Mar-15,4839.0,DENT
+17,Net working cap to sales,12  Mar-15,-0.4,DENT
+18,Current ratio,12  Mar-15,1.0,DENT
+19,Inventory Days,12  Mar-15,29.0,DENT
+20,Debtors Days,12  Mar-15,86.0,DENT
+21,Net fixed assets,12  Mar-15,5867.0,DENT
+22,Share capital,12  Mar-15,209.0,DENT
+23,"""Free"" reserves",12  Mar-15,3259.0,DENT
+24,Net worth,12  Mar-15,3468.0,DENT
+25,Long term debt,12  Mar-15,2386.0,DENT
+26,Total assets,12  Mar-15,11236.0,DENT
+27,Interest coverage,12  Mar-15,2.8,DENT
+28,Debt to equity ratio,12  Mar-15,0.7,DENT
+29,Sales to assets ratio,12  Mar-15,1.2,DENT
+30,Return on assets,12  Mar-15,8.1,DENT
+31,Return on equity,12  Mar-15,15.4,DENT
+32,Return on capital,12  Mar-15,18.1,DENT
+33,Exports to sales,12  Mar-15,38.7,DENT
+34,Imports to sales,12  Mar-15,19.8,DENT
+35,Exports (fob),12  Mar-15,5138.0,DENT
+36,Imports (cif),12  Mar-15,2621.0,DENT
+37,Fx inflow,12  Mar-15,5138.0,DENT
+38,Fx outflow,12  Mar-15,2845.0,DENT
+39,Net fx,12  Mar-15,2292.0,DENT
+40,From Operations,12  Mar-15,1052.0,DENT
+41,From Investments,12  Mar-15,-866.0,DENT
+42,From Financial Activity,12  Mar-15,-223.0,DENT
+43,Net Cashflow,12  Mar-15,-37.0,DENT
+44,Net Sales,12  Mar-16*,13357.0,DENT
+45,Other income,12  Mar-16*,15.0,DENT
+46,Total revenues,12  Mar-16*,13373.0,DENT
+47,Gross profit,12  Mar-16*,1683.0,DENT
+48,Depreciation,12  Mar-16*,395.0,DENT
+49,Interest,12  Mar-16*,391.0,DENT
+50,Profit before tax,12  Mar-16*,913.0,DENT
+51,Minority Interest,12  Mar-16*,0.0,DENT
+52,Prior Period Items,12  Mar-16*,0.0,DENT
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,DENT
+54,Tax,12  Mar-16*,262.0,DENT
+55,Profit after tax,12  Mar-16*,652.0,DENT
+56,Gross profit margin,12  Mar-16*,12.6,DENT
+57,Effective tax rate,12  Mar-16*,28.7,DENT
+58,Net profit margin,12  Mar-16*,4.9,DENT
+59,Current assets,12  Mar-16*,5948.0,DENT
+60,Current liabilities,12  Mar-16*,5971.0,DENT
+61,Net working cap to sales,12  Mar-16*,-0.2,DENT
+62,Current ratio,12  Mar-16*,1.0,DENT
+63,Inventory Days,12  Mar-16*,37.0,DENT
+64,Debtors Days,12  Mar-16*,85.0,DENT
+65,Net fixed assets,12  Mar-16*,6074.0,DENT
+66,Share capital,12  Mar-16*,233.0,DENT
+67,"""Free"" reserves",12  Mar-16*,4681.0,DENT
+68,Net worth,12  Mar-16*,4913.0,DENT
+69,Long term debt,12  Mar-16*,1586.0,DENT
+70,Total assets,12  Mar-16*,12856.0,DENT
+71,Interest coverage,12  Mar-16*,3.3,DENT
+72,Debt to equity ratio,12  Mar-16*,0.3,DENT
+73,Sales to assets ratio,12  Mar-16*,1.0,DENT
+74,Return on assets,12  Mar-16*,8.1,DENT
+75,Return on equity,12  Mar-16*,13.3,DENT
+76,Return on capital,12  Mar-16*,20.1,DENT
+77,Exports to sales,12  Mar-16*,38.0,DENT
+78,Imports to sales,12  Mar-16*,16.8,DENT
+79,Exports (fob),12  Mar-16*,5073.0,DENT
+80,Imports (cif),12  Mar-16*,2248.0,DENT
+81,Fx inflow,12  Mar-16*,5073.0,DENT
+82,Fx outflow,12  Mar-16*,2496.0,DENT
+83,Net fx,12  Mar-16*,2578.0,DENT
+84,From Operations,12  Mar-16*,1912.0,DENT
+85,From Investments,12  Mar-16*,-1622.0,DENT
+86,From Financial Activity,12  Mar-16*,-279.0,DENT
+87,Net Cashflow,12  Mar-16*,11.0,DENT
+88,Net Sales,12  Mar-17*,13707.0,DENT
+89,Other income,12  Mar-17*,109.0,DENT
+90,Total revenues,12  Mar-17*,13816.0,DENT
+91,Gross profit,12  Mar-17*,1353.0,DENT
+92,Depreciation,12  Mar-17*,480.0,DENT
+93,Interest,12  Mar-17*,341.0,DENT
+94,Profit before tax,12  Mar-17*,641.0,DENT
+95,Minority Interest,12  Mar-17*,0.0,DENT
+96,Prior Period Items,12  Mar-17*,0.0,DENT
+97,Extraordinary Inc (Exp),12  Mar-17*,705.0,DENT
+98,Tax,12  Mar-17*,382.0,DENT
+99,Profit after tax,12  Mar-17*,963.0,DENT
+100,Gross profit margin,12  Mar-17*,9.9,DENT
+101,Effective tax rate,12  Mar-17*,59.7,DENT
+102,Net profit margin,12  Mar-17*,7.0,DENT
+103,Current assets,12  Mar-17*,7506.0,DENT
+104,Current liabilities,12  Mar-17*,8073.0,DENT
+105,Net working cap to sales,12  Mar-17*,-4.1,DENT
+106,Current ratio,12  Mar-17*,0.9,DENT
+107,Inventory Days,12  Mar-17*,45.0,DENT
+108,Debtors Days,12  Mar-17*,96.0,DENT
+109,Net fixed assets,12  Mar-17*,9351.0,DENT
+110,Share capital,12  Mar-17*,261.0,DENT
+111,"""Free"" reserves",12  Mar-17*,6887.0,DENT
+112,Net worth,12  Mar-17*,7149.0,DENT
+113,Long term debt,12  Mar-17*,2184.0,DENT
+114,Total assets,12  Mar-17*,17875.0,DENT
+115,Interest coverage,12  Mar-17*,2.9,DENT
+116,Debt to equity ratio,12  Mar-17*,0.3,DENT
+117,Sales to assets ratio,12  Mar-17*,0.8,DENT
+118,Return on assets,12  Mar-17*,7.3,DENT
+119,Return on equity,12  Mar-17*,13.5,DENT
+120,Return on capital,12  Mar-17*,18.1,DENT
+121,Exports to sales,12  Mar-17*,33.0,DENT
+122,Imports to sales,12  Mar-17*,12.7,DENT
+123,Exports (fob),12  Mar-17*,4519.0,DENT
+124,Imports (cif),12  Mar-17*,1739.0,DENT
+125,Fx inflow,12  Mar-17*,4637.0,DENT
+126,Fx outflow,12  Mar-17*,1957.0,DENT
+127,Net fx,12  Mar-17*,2680.0,DENT
+128,From Operations,12  Mar-17*,490.0,DENT
+129,From Investments,12  Mar-17*,-3526.0,DENT
+130,From Financial Activity,12  Mar-17*,3046.0,DENT
+131,Net Cashflow,12  Mar-17*,11.0,DENT
+132,Net Sales,12  Mar-18*,16515.0,DENT
+133,Other income,12  Mar-18*,123.0,DENT
+134,Total revenues,12  Mar-18*,16638.0,DENT
+135,Gross profit,12  Mar-18*,1963.0,DENT
+136,Depreciation,12  Mar-18*,526.0,DENT
+137,Interest,12  Mar-18*,452.0,DENT
+138,Profit before tax,12  Mar-18*,1109.0,DENT
+139,Minority Interest,12  Mar-18*,0.0,DENT
+140,Prior Period Items,12  Mar-18*,0.0,DENT
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,DENT
+142,Tax,12  Mar-18*,318.0,DENT
+143,Profit after tax,12  Mar-18*,790.0,DENT
+144,Gross profit margin,12  Mar-18*,11.9,DENT
+145,Effective tax rate,12  Mar-18*,28.7,DENT
+146,Net profit margin,12  Mar-18*,4.8,DENT
+147,Current assets,12  Mar-18*,9929.0,DENT
+148,Current liabilities,12  Mar-18*,10476.0,DENT
+149,Net working cap to sales,12  Mar-18*,-3.3,DENT
+150,Current ratio,12  Mar-18*,0.9,DENT
+151,Inventory Days,12  Mar-18*,72.0,DENT
+152,Debtors Days,12  Mar-18*,91.0,DENT
+153,Net fixed assets,12  Mar-18*,15421.0,DENT
+154,Share capital,12  Mar-18*,273.0,DENT
+155,"""Free"" reserves",12  Mar-18*,8949.0,DENT
+156,Net worth,12  Mar-18*,9221.0,DENT
+157,Long term debt,12  Mar-18*,5505.0,DENT
+158,Total assets,12  Mar-18*,25906.0,DENT
+159,Interest coverage,12  Mar-18*,3.5,DENT
+160,Debt to equity ratio,12  Mar-18*,0.6,DENT
+161,Sales to assets ratio,12  Mar-18*,0.6,DENT
+162,Return on assets,12  Mar-18*,4.8,DENT
+163,Return on equity,12  Mar-18*,8.6,DENT
+164,Return on capital,12  Mar-18*,10.6,DENT
+165,Exports to sales,12  Mar-18*,0.0,DENT
+166,Imports to sales,12  Mar-18*,0.0,DENT
+167,Exports (fob),12  Mar-18*,0.0,DENT
+168,Imports (cif),12  Mar-18*,0.0,DENT
+169,Fx inflow,12  Mar-18*,5090.0,DENT
+170,Fx outflow,12  Mar-18*,2237.0,DENT
+171,Net fx,12  Mar-18*,2853.0,DENT
+172,From Operations,12  Mar-18*,1830.0,DENT
+173,From Investments,12  Mar-18*,-5247.0,DENT
+174,From Financial Activity,12  Mar-18*,3453.0,DENT
+175,Net Cashflow,12  Mar-18*,36.0,DENT
+176,Net Sales,12  Mar-19*,26999.0,DENT
+177,Other income,12  Mar-19*,151.0,DENT
+178,Total revenues,12  Mar-19*,27150.0,DENT
+179,Gross profit,12  Mar-19*,4139.0,DENT
+180,Depreciation,12  Mar-19*,778.0,DENT
+181,Interest,12  Mar-19*,833.0,DENT
+182,Profit before tax,12  Mar-19*,2680.0,DENT
+183,Minority Interest,12  Mar-19*,0.0,DENT
+184,Prior Period Items,12  Mar-19*,0.0,DENT
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,DENT
+186,Tax,12  Mar-19*,943.0,DENT
+187,Profit after tax,12  Mar-19*,1737.0,DENT
+188,Gross profit margin,12  Mar-19*,15.3,DENT
+189,Effective tax rate,12  Mar-19*,35.2,DENT
+190,Net profit margin,12  Mar-19*,6.4,DENT
+191,Current assets,12  Mar-19*,11617.0,DENT
+192,Current liabilities,12  Mar-19*,8836.0,DENT
+193,Net working cap to sales,12  Mar-19*,10.3,DENT
+194,Current ratio,12  Mar-19*,1.3,DENT
+195,Inventory Days,12  Mar-19*,56.0,DENT
+196,Debtors Days,12  Mar-19*,78.0,DENT
+197,Net fixed assets,12  Mar-19*,17497.0,DENT
+198,Share capital,12  Mar-19*,273.0,DENT
+199,"""Free"" reserves",12  Mar-19*,10443.0,DENT
+200,Net worth,12  Mar-19*,10716.0,DENT
+201,Long term debt,12  Mar-19*,8699.0,DENT
+202,Total assets,12  Mar-19*,29278.0,DENT
+203,Interest coverage,12  Mar-19*,4.2,DENT
+204,Debt to equity ratio,12  Mar-19*,0.8,DENT
+205,Sales to assets ratio,12  Mar-19*,0.9,DENT
+206,Return on assets,12  Mar-19*,8.8,DENT
+207,Return on equity,12  Mar-19*,16.2,DENT
+208,Return on capital,12  Mar-19*,18.1,DENT
+209,Exports to sales,12  Mar-19*,0.0,DENT
+210,Imports to sales,12  Mar-19*,0.0,DENT
+211,Exports (fob),12  Mar-19*,0.0,DENT
+212,Imports (cif),12  Mar-19*,0.0,DENT
+213,Fx inflow,12  Mar-19*,5791.0,DENT
+214,Fx outflow,12  Mar-19*,3181.0,DENT
+215,Net fx,12  Mar-19*,2610.0,DENT
+216,From Operations,12  Mar-19*,637.0,DENT
+217,From Investments,12  Mar-19*,-1626.0,DENT
+218,From Financial Activity,12  Mar-19*,924.0,DENT
+219,Net Cashflow,12  Mar-19*,-65.0,DENT

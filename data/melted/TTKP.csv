@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,4829.0,TTKP
+1,Other income,12  Mar-15,66.0,TTKP
+2,Total revenues,12  Mar-15,4895.0,TTKP
+3,Gross profit,12  Mar-15,295.0,TTKP
+4,Depreciation,12  Mar-15,61.0,TTKP
+5,Interest,12  Mar-15,36.0,TTKP
+6,Profit before tax,12  Mar-15,263.0,TTKP
+7,Minority Interest,12  Mar-15,0.0,TTKP
+8,Prior Period Items,12  Mar-15,0.0,TTKP
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,TTKP
+10,Tax,12  Mar-15,102.0,TTKP
+11,Profit after tax,12  Mar-15,162.0,TTKP
+12,Gross profit margin,12  Mar-15,6.1,TTKP
+13,Effective tax rate,12  Mar-15,38.7,TTKP
+14,Net profit margin,12  Mar-15,3.3,TTKP
+15,Current assets,12  Mar-15,1661.0,TTKP
+16,Current liabilities,12  Mar-15,1291.0,TTKP
+17,Net working cap to sales,12  Mar-15,7.7,TTKP
+18,Current ratio,12  Mar-15,1.3,TTKP
+19,Inventory Days,12  Mar-15,28.0,TTKP
+20,Debtors Days,12  Mar-15,34.0,TTKP
+21,Net fixed assets,12  Mar-15,976.0,TTKP
+22,Share capital,12  Mar-15,78.0,TTKP
+23,"""Free"" reserves",12  Mar-15,1105.0,TTKP
+24,Net worth,12  Mar-15,1183.0,TTKP
+25,Long term debt,12  Mar-15,160.0,TTKP
+26,Total assets,12  Mar-15,2752.0,TTKP
+27,Interest coverage,12  Mar-15,8.2,TTKP
+28,Debt to equity ratio,12  Mar-15,0.1,TTKP
+29,Sales to assets ratio,12  Mar-15,1.8,TTKP
+30,Return on assets,12  Mar-15,7.2,TTKP
+31,Return on equity,12  Mar-15,13.7,TTKP
+32,Return on capital,12  Mar-15,22.3,TTKP
+33,Exports to sales,12  Mar-15,0.7,TTKP
+34,Imports to sales,12  Mar-15,2.3,TTKP
+35,Exports (fob),12  Mar-15,33.0,TTKP
+36,Imports (cif),12  Mar-15,112.0,TTKP
+37,Fx inflow,12  Mar-15,33.0,TTKP
+38,Fx outflow,12  Mar-15,131.0,TTKP
+39,Net fx,12  Mar-15,-97.0,TTKP
+40,From Operations,12  Mar-15,394.0,TTKP
+41,From Investments,12  Mar-15,-491.0,TTKP
+42,From Financial Activity,12  Mar-15,29.0,TTKP
+43,Net Cashflow,12  Mar-15,-68.0,TTKP
+44,Net Sales,12  Mar-16,5189.0,TTKP
+45,Other income,12  Mar-16,56.0,TTKP
+46,Total revenues,12  Mar-16,5245.0,TTKP
+47,Gross profit,12  Mar-16,405.0,TTKP
+48,Depreciation,12  Mar-16,72.0,TTKP
+49,Interest,12  Mar-16,33.0,TTKP
+50,Profit before tax,12  Mar-16,355.0,TTKP
+51,Minority Interest,12  Mar-16,0.0,TTKP
+52,Prior Period Items,12  Mar-16,0.0,TTKP
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,TTKP
+54,Tax,12  Mar-16,129.0,TTKP
+55,Profit after tax,12  Mar-16,227.0,TTKP
+56,Gross profit margin,12  Mar-16,7.8,TTKP
+57,Effective tax rate,12  Mar-16,36.2,TTKP
+58,Net profit margin,12  Mar-16,4.4,TTKP
+59,Current assets,12  Mar-16,1743.0,TTKP
+60,Current liabilities,12  Mar-16,1520.0,TTKP
+61,Net working cap to sales,12  Mar-16,4.3,TTKP
+62,Current ratio,12  Mar-16,1.1,TTKP
+63,Inventory Days,12  Mar-16,29.0,TTKP
+64,Debtors Days,12  Mar-16,26.0,TTKP
+65,Net fixed assets,12  Mar-16,1071.0,TTKP
+66,Share capital,12  Mar-16,78.0,TTKP
+67,"""Free"" reserves",12  Mar-16,1284.0,TTKP
+68,Net worth,12  Mar-16,1362.0,TTKP
+69,Long term debt,12  Mar-16,11.0,TTKP
+70,Total assets,12  Mar-16,2998.0,TTKP
+71,Interest coverage,12  Mar-16,11.7,TTKP
+72,Debt to equity ratio,12  Mar-16,0.0,TTKP
+73,Sales to assets ratio,12  Mar-16,1.7,TTKP
+74,Return on assets,12  Mar-16,8.7,TTKP
+75,Return on equity,12  Mar-16,16.6,TTKP
+76,Return on capital,12  Mar-16,28.3,TTKP
+77,Exports to sales,12  Mar-16,0.8,TTKP
+78,Imports to sales,12  Mar-16,1.2,TTKP
+79,Exports (fob),12  Mar-16,44.0,TTKP
+80,Imports (cif),12  Mar-16,63.0,TTKP
+81,Fx inflow,12  Mar-16,44.0,TTKP
+82,Fx outflow,12  Mar-16,73.0,TTKP
+83,Net fx,12  Mar-16,-30.0,TTKP
+84,From Operations,12  Mar-16,374.0,TTKP
+85,From Investments,12  Mar-16,-267.0,TTKP
+86,From Financial Activity,12  Mar-16,-108.0,TTKP
+87,Net Cashflow,12  Mar-16,-2.0,TTKP
+88,Net Sales,12  Mar-17,5278.0,TTKP
+89,Other income,12  Mar-17,57.0,TTKP
+90,Total revenues,12  Mar-17,5335.0,TTKP
+91,Gross profit,12  Mar-17,385.0,TTKP
+92,Depreciation,12  Mar-17,119.0,TTKP
+93,Interest,12  Mar-17,31.0,TTKP
+94,Profit before tax,12  Mar-17,292.0,TTKP
+95,Minority Interest,12  Mar-17,0.0,TTKP
+96,Prior Period Items,12  Mar-17,0.0,TTKP
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,TTKP
+98,Tax,12  Mar-17,104.0,TTKP
+99,Profit after tax,12  Mar-17,187.0,TTKP
+100,Gross profit margin,12  Mar-17,7.3,TTKP
+101,Effective tax rate,12  Mar-17,35.8,TTKP
+102,Net profit margin,12  Mar-17,3.6,TTKP
+103,Current assets,12  Mar-17,1666.0,TTKP
+104,Current liabilities,12  Mar-17,1197.0,TTKP
+105,Net working cap to sales,12  Mar-17,8.9,TTKP
+106,Current ratio,12  Mar-17,1.4,TTKP
+107,Inventory Days,12  Mar-17,30.0,TTKP
+108,Debtors Days,12  Mar-17,24.0,TTKP
+109,Net fixed assets,12  Mar-17,995.0,TTKP
+110,Share capital,12  Mar-17,78.0,TTKP
+111,"""Free"" reserves",12  Mar-17,1497.0,TTKP
+112,Net worth,12  Mar-17,1575.0,TTKP
+113,Long term debt,12  Mar-17,9.0,TTKP
+114,Total assets,12  Mar-17,2849.0,TTKP
+115,Interest coverage,12  Mar-17,10.4,TTKP
+116,Debt to equity ratio,12  Mar-17,0.0,TTKP
+117,Sales to assets ratio,12  Mar-17,1.9,TTKP
+118,Return on assets,12  Mar-17,7.7,TTKP
+119,Return on equity,12  Mar-17,11.9,TTKP
+120,Return on capital,12  Mar-17,20.4,TTKP
+121,Exports to sales,12  Mar-17,1.0,TTKP
+122,Imports to sales,12  Mar-17,1.0,TTKP
+123,Exports (fob),12  Mar-17,53.0,TTKP
+124,Imports (cif),12  Mar-17,54.0,TTKP
+125,Fx inflow,12  Mar-17,53.0,TTKP
+126,Fx outflow,12  Mar-17,69.0,TTKP
+127,Net fx,12  Mar-17,-16.0,TTKP
+128,From Operations,12  Mar-17,178.0,TTKP
+129,From Investments,12  Mar-17,53.0,TTKP
+130,From Financial Activity,12  Mar-17,-229.0,TTKP
+131,Net Cashflow,12  Mar-17,1.0,TTKP
+132,Net Sales,12  Mar-18,5776.0,TTKP
+133,Other income,12  Mar-18,76.0,TTKP
+134,Total revenues,12  Mar-18,5851.0,TTKP
+135,Gross profit,12  Mar-18,426.0,TTKP
+136,Depreciation,12  Mar-18,152.0,TTKP
+137,Interest,12  Mar-18,47.0,TTKP
+138,Profit before tax,12  Mar-18,302.0,TTKP
+139,Minority Interest,12  Mar-18,0.0,TTKP
+140,Prior Period Items,12  Mar-18,0.0,TTKP
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,TTKP
+142,Tax,12  Mar-18,120.0,TTKP
+143,Profit after tax,12  Mar-18,182.0,TTKP
+144,Gross profit margin,12  Mar-18,7.4,TTKP
+145,Effective tax rate,12  Mar-18,39.7,TTKP
+146,Net profit margin,12  Mar-18,3.1,TTKP
+147,Current assets,12  Mar-18,2556.0,TTKP
+148,Current liabilities,12  Mar-18,1675.0,TTKP
+149,Net working cap to sales,12  Mar-18,15.3,TTKP
+150,Current ratio,12  Mar-18,1.5,TTKP
+151,Inventory Days,12  Mar-18,33.0,TTKP
+152,Debtors Days,12  Mar-18,35.0,TTKP
+153,Net fixed assets,12  Mar-18,1103.0,TTKP
+154,Share capital,12  Mar-18,141.0,TTKP
+155,"""Free"" reserves",12  Mar-18,2188.0,TTKP
+156,Net worth,12  Mar-18,2330.0,TTKP
+157,Long term debt,12  Mar-18,7.0,TTKP
+158,Total assets,12  Mar-18,4073.0,TTKP
+159,Interest coverage,12  Mar-18,7.4,TTKP
+160,Debt to equity ratio,12  Mar-18,0.0,TTKP
+161,Sales to assets ratio,12  Mar-18,1.4,TTKP
+162,Return on assets,12  Mar-18,5.6,TTKP
+163,Return on equity,12  Mar-18,7.8,TTKP
+164,Return on capital,12  Mar-18,14.9,TTKP
+165,Exports to sales,12  Mar-18,3.0,TTKP
+166,Imports to sales,12  Mar-18,0.6,TTKP
+167,Exports (fob),12  Mar-18,172.0,TTKP
+168,Imports (cif),12  Mar-18,35.0,TTKP
+169,Fx inflow,12  Mar-18,172.0,TTKP
+170,Fx outflow,12  Mar-18,55.0,TTKP
+171,Net fx,12  Mar-18,117.0,TTKP
+172,From Operations,12  Mar-18,253.0,TTKP
+173,From Investments,12  Mar-18,-226.0,TTKP
+174,From Financial Activity,12  Mar-18,-72.0,TTKP
+175,Net Cashflow,12  Mar-18,-41.0,TTKP
+176,Net Sales,12  Mar-19,6279.0,TTKP
+177,Other income,12  Mar-19,78.0,TTKP
+178,Total revenues,12  Mar-19,6356.0,TTKP
+179,Gross profit,12  Mar-19,496.0,TTKP
+180,Depreciation,12  Mar-19,147.0,TTKP
+181,Interest,12  Mar-19,34.0,TTKP
+182,Profit before tax,12  Mar-19,393.0,TTKP
+183,Minority Interest,12  Mar-19,0.0,TTKP
+184,Prior Period Items,12  Mar-19,0.0,TTKP
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,TTKP
+186,Tax,12  Mar-19,149.0,TTKP
+187,Profit after tax,12  Mar-19,244.0,TTKP
+188,Gross profit margin,12  Mar-19,7.9,TTKP
+189,Effective tax rate,12  Mar-19,37.9,TTKP
+190,Net profit margin,12  Mar-19,3.9,TTKP
+191,Current assets,12  Mar-19,2717.0,TTKP
+192,Current liabilities,12  Mar-19,1571.0,TTKP
+193,Net working cap to sales,12  Mar-19,18.3,TTKP
+194,Current ratio,12  Mar-19,1.7,TTKP
+195,Inventory Days,12  Mar-19,32.0,TTKP
+196,Debtors Days,12  Mar-19,47.0,TTKP
+197,Net fixed assets,12  Mar-19,991.0,TTKP
+198,Share capital,12  Mar-19,141.0,TTKP
+199,"""Free"" reserves",12  Mar-19,2373.0,TTKP
+200,Net worth,12  Mar-19,2514.0,TTKP
+201,Long term debt,12  Mar-19,3.0,TTKP
+202,Total assets,12  Mar-19,4158.0,TTKP
+203,Interest coverage,12  Mar-19,12.6,TTKP
+204,Debt to equity ratio,12  Mar-19,0.0,TTKP
+205,Sales to assets ratio,12  Mar-19,1.5,TTKP
+206,Return on assets,12  Mar-19,6.7,TTKP
+207,Return on equity,12  Mar-19,9.7,TTKP
+208,Return on capital,12  Mar-19,16.9,TTKP
+209,Exports to sales,12  Mar-19,3.6,TTKP
+210,Imports to sales,12  Mar-19,0.5,TTKP
+211,Exports (fob),12  Mar-19,225.0,TTKP
+212,Imports (cif),12  Mar-19,31.0,TTKP
+213,Fx inflow,12  Mar-19,225.0,TTKP
+214,Fx outflow,12  Mar-19,71.0,TTKP
+215,Net fx,12  Mar-19,154.0,TTKP
+216,From Operations,12  Mar-19,173.0,TTKP
+217,From Investments,12  Mar-19,97.0,TTKP
+218,From Financial Activity,12  Mar-19,-307.0,TTKP
+219,Net Cashflow,12  Mar-19,-38.0,TTKP

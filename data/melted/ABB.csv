@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,76307.0,ABB
+1,Other income,12  Dec-14,1199.0,ABB
+2,Total revenues,12  Dec-14,77506.0,ABB
+3,Gross profit,12  Dec-14,4531.0,ABB
+4,Depreciation,12  Dec-14,1128.0,ABB
+5,Interest,12  Dec-14,1050.0,ABB
+6,Profit before tax,12  Dec-14,3552.0,ABB
+7,Minority Interest,12  Dec-14,0.0,ABB
+8,Prior Period Items,12  Dec-14,0.0,ABB
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,ABB
+10,Tax,12  Dec-14,1267.0,ABB
+11,Profit after tax,12  Dec-14,2285.0,ABB
+12,Gross profit margin,12  Dec-14,5.9,ABB
+13,Effective tax rate,12  Dec-14,35.7,ABB
+14,Net profit margin,12  Dec-14,3.0,ABB
+15,Current assets,12  Dec-14,49496.0,ABB
+16,Current liabilities,12  Dec-14,39677.0,ABB
+17,Net working cap to sales,12  Dec-14,12.9,ABB
+18,Current ratio,12  Dec-14,1.2,ABB
+19,Inventory Days,12  Dec-14,43.0,ABB
+20,Debtors Days,12  Dec-14,151.0,ABB
+21,Net fixed assets,12  Dec-14,14315.0,ABB
+22,Share capital,12  Dec-14,424.0,ABB
+23,"""Free"" reserves",12  Dec-14,27695.0,ABB
+24,Net worth,12  Dec-14,28120.0,ABB
+25,Long term debt,12  Dec-14,0.0,ABB
+26,Total assets,12  Dec-14,68217.0,ABB
+27,Interest coverage,12  Dec-14,4.4,ABB
+28,Debt to equity ratio,12  Dec-14,0.0,ABB
+29,Sales to assets ratio,12  Dec-14,1.1,ABB
+30,Return on assets,12  Dec-14,4.9,ABB
+31,Return on equity,12  Dec-14,8.1,ABB
+32,Return on capital,12  Dec-14,16.4,ABB
+33,Exports to sales,12  Dec-14,14.7,ABB
+34,Imports to sales,12  Dec-14,26.9,ABB
+35,Exports (fob),12  Dec-14,11182.0,ABB
+36,Imports (cif),12  Dec-14,20540.0,ABB
+37,Fx inflow,12  Dec-14,13197.0,ABB
+38,Fx outflow,12  Dec-14,25637.0,ABB
+39,Net fx,12  Dec-14,-12440.0,ABB
+40,From Operations,12  Dec-14,4790.0,ABB
+41,From Investments,12  Dec-14,-1477.0,ABB
+42,From Financial Activity,12  Dec-14,-4221.0,ABB
+43,Net Cashflow,12  Dec-14,-908.0,ABB
+44,Net Sales,12  Dec-15,81403.0,ABB
+45,Other income,12  Dec-15,130.0,ABB
+46,Total revenues,12  Dec-15,81533.0,ABB
+47,Gross profit,12  Dec-15,7125.0,ABB
+48,Depreciation,12  Dec-15,1598.0,ABB
+49,Interest,12  Dec-15,912.0,ABB
+50,Profit before tax,12  Dec-15,4746.0,ABB
+51,Minority Interest,12  Dec-15,0.0,ABB
+52,Prior Period Items,12  Dec-15,0.0,ABB
+53,Extraordinary Inc (Exp),12  Dec-15,0.0,ABB
+54,Tax,12  Dec-15,1747.0,ABB
+55,Profit after tax,12  Dec-15,2999.0,ABB
+56,Gross profit margin,12  Dec-15,8.8,ABB
+57,Effective tax rate,12  Dec-15,36.8,ABB
+58,Net profit margin,12  Dec-15,3.7,ABB
+59,Current assets,12  Dec-15,55720.0,ABB
+60,Current liabilities,12  Dec-15,37481.0,ABB
+61,Net working cap to sales,12  Dec-15,22.4,ABB
+62,Current ratio,12  Dec-15,1.5,ABB
+63,Inventory Days,12  Dec-15,42.0,ABB
+64,Debtors Days,12  Dec-15,152.0,ABB
+65,Net fixed assets,12  Dec-15,13427.0,ABB
+66,Share capital,12  Dec-15,424.0,ABB
+67,"""Free"" reserves",12  Dec-15,29651.0,ABB
+68,Net worth,12  Dec-15,30086.0,ABB
+69,Long term debt,12  Dec-15,6000.0,ABB
+70,Total assets,12  Dec-15,74088.0,ABB
+71,Interest coverage,12  Dec-15,6.2,ABB
+72,Debt to equity ratio,12  Dec-15,0.2,ABB
+73,Sales to assets ratio,12  Dec-15,1.1,ABB
+74,Return on assets,12  Dec-15,5.3,ABB
+75,Return on equity,12  Dec-15,10.0,ABB
+76,Return on capital,12  Dec-15,15.7,ABB
+77,Exports to sales,12  Dec-15,10.7,ABB
+78,Imports to sales,12  Dec-15,25.8,ABB
+79,Exports (fob),12  Dec-15,8747.0,ABB
+80,Imports (cif),12  Dec-15,21016.0,ABB
+81,Fx inflow,12  Dec-15,10662.0,ABB
+82,Fx outflow,12  Dec-15,26758.0,ABB
+83,Net fx,12  Dec-15,-16096.0,ABB
+84,From Operations,12  Dec-15,3817.0,ABB
+85,From Investments,12  Dec-15,-764.0,ABB
+86,From Financial Activity,12  Dec-15,422.0,ABB
+87,Net Cashflow,12  Dec-15,3474.0,ABB
+88,Net Sales,12  Dec-16,86422.0,ABB
+89,Other income,12  Dec-16,1216.0,ABB
+90,Total revenues,12  Dec-16,87638.0,ABB
+91,Gross profit,12  Dec-16,6945.0,ABB
+92,Depreciation,12  Dec-16,1510.0,ABB
+93,Interest,12  Dec-16,919.0,ABB
+94,Profit before tax,12  Dec-16,5733.0,ABB
+95,Minority Interest,12  Dec-16,0.0,ABB
+96,Prior Period Items,12  Dec-16,0.0,ABB
+97,Extraordinary Inc (Exp),12  Dec-16,0.0,ABB
+98,Tax,12  Dec-16,1988.0,ABB
+99,Profit after tax,12  Dec-16,3745.0,ABB
+100,Gross profit margin,12  Dec-16,8.0,ABB
+101,Effective tax rate,12  Dec-16,34.7,ABB
+102,Net profit margin,12  Dec-16,4.3,ABB
+103,Current assets,12  Dec-16,59238.0,ABB
+104,Current liabilities,12  Dec-16,37901.0,ABB
+105,Net working cap to sales,12  Dec-16,24.7,ABB
+106,Current ratio,12  Dec-16,1.6,ABB
+107,Inventory Days,12  Dec-16,40.0,ABB
+108,Debtors Days,12  Dec-16,129.0,ABB
+109,Net fixed assets,12  Dec-16,13227.0,ABB
+110,Share capital,12  Dec-16,424.0,ABB
+111,"""Free"" reserves",12  Dec-16,32393.0,ABB
+112,Net worth,12  Dec-16,32828.0,ABB
+113,Long term debt,12  Dec-16,6000.0,ABB
+114,Total assets,12  Dec-16,77289.0,ABB
+115,Interest coverage,12  Dec-16,7.2,ABB
+116,Debt to equity ratio,12  Dec-16,0.2,ABB
+117,Sales to assets ratio,12  Dec-16,1.1,ABB
+118,Return on assets,12  Dec-16,6.0,ABB
+119,Return on equity,12  Dec-16,11.4,ABB
+120,Return on capital,12  Dec-16,17.1,ABB
+121,Exports to sales,12  Dec-16,12.4,ABB
+122,Imports to sales,12  Dec-16,26.2,ABB
+123,Exports (fob),12  Dec-16,10679.0,ABB
+124,Imports (cif),12  Dec-16,22651.0,ABB
+125,Fx inflow,12  Dec-16,12975.0,ABB
+126,Fx outflow,12  Dec-16,29753.0,ABB
+127,Net fx,12  Dec-16,-16778.0,ABB
+128,From Operations,12  Dec-16,8626.0,ABB
+129,From Investments,12  Dec-16,-681.0,ABB
+130,From Financial Activity,12  Dec-16,-1788.0,ABB
+131,Net Cashflow,12  Dec-16,6156.0,ABB
+132,Net Sales,12  Dec-17,60937.0,ABB
+133,Other income,12  Dec-17,777.0,ABB
+134,Total revenues,12  Dec-17,61715.0,ABB
+135,Gross profit,12  Dec-17,4146.0,ABB
+136,Depreciation,12  Dec-17,1012.0,ABB
+137,Interest,12  Dec-17,572.0,ABB
+138,Profit before tax,12  Dec-17,3338.0,ABB
+139,Minority Interest,12  Dec-17,0.0,ABB
+140,Prior Period Items,12  Dec-17,0.0,ABB
+141,Extraordinary Inc (Exp),12  Dec-17,0.0,ABB
+142,Tax,12  Dec-17,1084.0,ABB
+143,Profit after tax,12  Dec-17,2255.0,ABB
+144,Gross profit margin,12  Dec-17,6.8,ABB
+145,Effective tax rate,12  Dec-17,32.5,ABB
+146,Net profit margin,12  Dec-17,3.7,ABB
+147,Current assets,12  Dec-17,69564.0,ABB
+148,Current liabilities,12  Dec-17,52305.0,ABB
+149,Net working cap to sales,12  Dec-17,28.3,ABB
+150,Current ratio,12  Dec-17,1.3,ABB
+151,Inventory Days,12  Dec-17,69.0,ABB
+152,Debtors Days,12  Dec-17,166.0,ABB
+153,Net fixed assets,12  Dec-17,13351.0,ABB
+154,Share capital,12  Dec-17,424.0,ABB
+155,"""Free"" reserves",12  Dec-17,35645.0,ABB
+156,Net worth,12  Dec-17,36069.0,ABB
+157,Long term debt,12  Dec-17,41.0,ABB
+158,Total assets,12  Dec-17,88881.0,ABB
+159,Interest coverage,12  Dec-17,6.8,ABB
+160,Debt to equity ratio,12  Dec-17,0.0,ABB
+161,Sales to assets ratio,12  Dec-17,0.7,ABB
+162,Return on assets,12  Dec-17,3.2,ABB
+163,Return on equity,12  Dec-17,6.3,ABB
+164,Return on capital,12  Dec-17,10.8,ABB
+165,Exports to sales,12  Dec-17,0.0,ABB
+166,Imports to sales,12  Dec-17,0.0,ABB
+167,Exports (fob),12  Dec-17,0.0,ABB
+168,Imports (cif),12  Dec-17,0.0,ABB
+169,Fx inflow,12  Dec-17,12292.0,ABB
+170,Fx outflow,12  Dec-17,32935.0,ABB
+171,Net fx,12  Dec-17,-20643.0,ABB
+172,From Operations,12  Dec-17,7917.0,ABB
+173,From Investments,12  Dec-17,-3205.0,ABB
+174,From Financial Activity,12  Dec-17,-1710.0,ABB
+175,Net Cashflow,12  Dec-17,3023.0,ABB
+176,Net Sales,12  Dec-18,66901.0,ABB
+177,Other income,12  Dec-18,840.0,ABB
+178,Total revenues,12  Dec-18,67741.0,ABB
+179,Gross profit,12  Dec-18,4578.0,ABB
+180,Depreciation,12  Dec-18,928.0,ABB
+181,Interest,12  Dec-18,539.0,ABB
+182,Profit before tax,12  Dec-18,3951.0,ABB
+183,Minority Interest,12  Dec-18,0.0,ABB
+184,Prior Period Items,12  Dec-18,0.0,ABB
+185,Extraordinary Inc (Exp),12  Dec-18,0.0,ABB
+186,Tax,12  Dec-18,1410.0,ABB
+187,Profit after tax,12  Dec-18,2542.0,ABB
+188,Gross profit margin,12  Dec-18,6.8,ABB
+189,Effective tax rate,12  Dec-18,35.7,ABB
+190,Net profit margin,12  Dec-18,3.8,ABB
+191,Current assets,12  Dec-18,47229.0,ABB
+192,Current liabilities,12  Dec-18,29090.0,ABB
+193,Net working cap to sales,12  Dec-18,27.1,ABB
+194,Current ratio,12  Dec-18,1.6,ABB
+195,Inventory Days,12  Dec-18,51.0,ABB
+196,Debtors Days,12  Dec-18,92.0,ABB
+197,Net fixed assets,12  Dec-18,9762.0,ABB
+198,Share capital,12  Dec-18,424.0,ABB
+199,"""Free"" reserves",12  Dec-18,39649.0,ABB
+200,Net worth,12  Dec-18,40073.0,ABB
+201,Long term debt,12  Dec-18,20.0,ABB
+202,Total assets,12  Dec-18,90769.0,ABB
+203,Interest coverage,12  Dec-18,8.3,ABB
+204,Debt to equity ratio,12  Dec-18,0.0,ABB
+205,Sales to assets ratio,12  Dec-18,0.7,ABB
+206,Return on assets,12  Dec-18,3.4,ABB
+207,Return on equity,12  Dec-18,6.3,ABB
+208,Return on capital,12  Dec-18,11.2,ABB
+209,Exports to sales,12  Dec-18,0.0,ABB
+210,Imports to sales,12  Dec-18,0.0,ABB
+211,Exports (fob),12  Dec-18,0.0,ABB
+212,Imports (cif),12  Dec-18,0.0,ABB
+213,Fx inflow,12  Dec-18,16340.0,ABB
+214,Fx outflow,12  Dec-18,45590.0,ABB
+215,Net fx,12  Dec-18,-29250.0,ABB
+216,From Operations,12  Dec-18,6255.0,ABB
+217,From Investments,12  Dec-18,1437.0,ABB
+218,From Financial Activity,12  Dec-18,-7937.0,ABB
+219,Net Cashflow,12  Dec-18,-168.0,ABB

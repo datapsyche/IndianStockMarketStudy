@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,590.0,MIDDY
+1,Other income,12  Mar-14*,0.0,MIDDY
+2,Total revenues,12  Mar-14*,590.0,MIDDY
+3,Gross profit,12  Mar-14*,182.0,MIDDY
+4,Depreciation,12  Mar-14*,123.0,MIDDY
+5,Interest,12  Mar-14*,46.0,MIDDY
+6,Profit before tax,12  Mar-14*,13.0,MIDDY
+7,Minority Interest,12  Mar-14*,-7.0,MIDDY
+8,Prior Period Items,12  Mar-14*,0.0,MIDDY
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,MIDDY
+10,Tax,12  Mar-14*,23.0,MIDDY
+11,Profit after tax,12  Mar-14*,-17.0,MIDDY
+12,Gross profit margin,12  Mar-14*,30.8,MIDDY
+13,Effective tax rate,12  Mar-14*,174.4,MIDDY
+14,Net profit margin,12  Mar-14*,-2.9,MIDDY
+15,Current assets,12  Mar-14*,259.0,MIDDY
+16,Current liabilities,12  Mar-14*,228.0,MIDDY
+17,Net working cap to sales,12  Mar-14*,5.3,MIDDY
+18,Current ratio,12  Mar-14*,1.1,MIDDY
+19,Inventory Days,12  Mar-14*,0.0,MIDDY
+20,Debtors Days,12  Mar-14*,104.0,MIDDY
+21,Net fixed assets,12  Mar-14*,907.0,MIDDY
+22,Share capital,12  Mar-14*,583.0,MIDDY
+23,"""Free"" reserves",12  Mar-14*,578.0,MIDDY
+24,Net worth,12  Mar-14*,1161.0,MIDDY
+25,Long term debt,12  Mar-14*,147.0,MIDDY
+26,Total assets,12  Mar-14*,1652.0,MIDDY
+27,Interest coverage,12  Mar-14*,1.3,MIDDY
+28,Debt to equity ratio,12  Mar-14*,0.1,MIDDY
+29,Sales to assets ratio,12  Mar-14*,0.4,MIDDY
+30,Return on assets,12  Mar-14*,1.7,MIDDY
+31,Return on equity,12  Mar-14*,-1.5,MIDDY
+32,Return on capital,12  Mar-14*,4.0,MIDDY
+33,Exports to sales,12  Mar-14*,0.0,MIDDY
+34,Imports to sales,12  Mar-14*,0.0,MIDDY
+35,Exports (fob),12  Mar-14*,0.0,MIDDY
+36,Imports (cif),12  Mar-14*,0.0,MIDDY
+37,Fx inflow,12  Mar-14*,0.0,MIDDY
+38,Fx outflow,12  Mar-14*,2.0,MIDDY
+39,Net fx,12  Mar-14*,-2.0,MIDDY
+40,From Operations,12  Mar-14*,151.0,MIDDY
+41,From Investments,12  Mar-14*,-3.0,MIDDY
+42,From Financial Activity,12  Mar-14*,-130.0,MIDDY
+43,Net Cashflow,12  Mar-14*,18.0,MIDDY
+44,Net Sales,12  Mar-15*,654.0,MIDDY
+45,Other income,12  Mar-15*,18.0,MIDDY
+46,Total revenues,12  Mar-15*,672.0,MIDDY
+47,Gross profit,12  Mar-15*,205.0,MIDDY
+48,Depreciation,12  Mar-15*,136.0,MIDDY
+49,Interest,12  Mar-15*,29.0,MIDDY
+50,Profit before tax,12  Mar-15*,58.0,MIDDY
+51,Minority Interest,12  Mar-15*,-19.0,MIDDY
+52,Prior Period Items,12  Mar-15*,0.0,MIDDY
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,MIDDY
+54,Tax,12  Mar-15*,38.0,MIDDY
+55,Profit after tax,12  Mar-15*,2.0,MIDDY
+56,Gross profit margin,12  Mar-15*,31.4,MIDDY
+57,Effective tax rate,12  Mar-15*,65.1,MIDDY
+58,Net profit margin,12  Mar-15*,0.2,MIDDY
+59,Current assets,12  Mar-15*,410.0,MIDDY
+60,Current liabilities,12  Mar-15*,229.0,MIDDY
+61,Net working cap to sales,12  Mar-15*,27.6,MIDDY
+62,Current ratio,12  Mar-15*,1.8,MIDDY
+63,Inventory Days,12  Mar-15*,0.0,MIDDY
+64,Debtors Days,12  Mar-15*,86.0,MIDDY
+65,Net fixed assets,12  Mar-15*,765.0,MIDDY
+66,Share capital,12  Mar-15*,650.0,MIDDY
+67,"""Free"" reserves",12  Mar-15*,569.0,MIDDY
+68,Net worth,12  Mar-15*,1219.0,MIDDY
+69,Long term debt,12  Mar-15*,33.0,MIDDY
+70,Total assets,12  Mar-15*,1615.0,MIDDY
+71,Interest coverage,12  Mar-15*,3.0,MIDDY
+72,Debt to equity ratio,12  Mar-15*,0.0,MIDDY
+73,Sales to assets ratio,12  Mar-15*,0.4,MIDDY
+74,Return on assets,12  Mar-15*,1.9,MIDDY
+75,Return on equity,12  Mar-15*,0.1,MIDDY
+76,Return on capital,12  Mar-15*,5.5,MIDDY
+77,Exports to sales,12  Mar-15*,0.0,MIDDY
+78,Imports to sales,12  Mar-15*,0.0,MIDDY
+79,Exports (fob),12  Mar-15*,0.0,MIDDY
+80,Imports (cif),12  Mar-15*,0.0,MIDDY
+81,Fx inflow,12  Mar-15*,0.0,MIDDY
+82,Fx outflow,12  Mar-15*,2.0,MIDDY
+83,Net fx,12  Mar-15*,-2.0,MIDDY
+84,From Operations,12  Mar-15*,418.0,MIDDY
+85,From Investments,12  Mar-15*,11.0,MIDDY
+86,From Financial Activity,12  Mar-15*,-267.0,MIDDY
+87,Net Cashflow,12  Mar-15*,162.0,MIDDY
+88,Net Sales,12  Mar-16*,762.0,MIDDY
+89,Other income,12  Mar-16*,15.0,MIDDY
+90,Total revenues,12  Mar-16*,777.0,MIDDY
+91,Gross profit,12  Mar-16*,143.0,MIDDY
+92,Depreciation,12  Mar-16*,135.0,MIDDY
+93,Interest,12  Mar-16*,55.0,MIDDY
+94,Profit before tax,12  Mar-16*,-33.0,MIDDY
+95,Minority Interest,12  Mar-16*,105.0,MIDDY
+96,Prior Period Items,12  Mar-16*,0.0,MIDDY
+97,Extraordinary Inc (Exp),12  Mar-16*,-549.0,MIDDY
+98,Tax,12  Mar-16*,375.0,MIDDY
+99,Profit after tax,12  Mar-16*,-851.0,MIDDY
+100,Gross profit margin,12  Mar-16*,18.7,MIDDY
+101,Effective tax rate,12  Mar-16*,-1152.4,MIDDY
+102,Net profit margin,12  Mar-16*,-111.7,MIDDY
+103,Current assets,12  Mar-16*,263.0,MIDDY
+104,Current liabilities,12  Mar-16*,270.0,MIDDY
+105,Net working cap to sales,12  Mar-16*,-1.0,MIDDY
+106,Current ratio,12  Mar-16*,1.0,MIDDY
+107,Inventory Days,12  Mar-16*,0.0,MIDDY
+108,Debtors Days,12  Mar-16*,92.0,MIDDY
+109,Net fixed assets,12  Mar-16*,1347.0,MIDDY
+110,Share capital,12  Mar-16*,652.0,MIDDY
+111,"""Free"" reserves",12  Mar-16*,-282.0,MIDDY
+112,Net worth,12  Mar-16*,370.0,MIDDY
+113,Long term debt,12  Mar-16*,631.0,MIDDY
+114,Total assets,12  Mar-16*,1720.0,MIDDY
+115,Interest coverage,12  Mar-16*,0.4,MIDDY
+116,Debt to equity ratio,12  Mar-16*,1.7,MIDDY
+117,Sales to assets ratio,12  Mar-16*,0.4,MIDDY
+118,Return on assets,12  Mar-16*,-46.3,MIDDY
+119,Return on equity,12  Mar-16*,-230.0,MIDDY
+120,Return on capital,12  Mar-16*,-42.1,MIDDY
+121,Exports to sales,12  Mar-16*,0.0,MIDDY
+122,Imports to sales,12  Mar-16*,0.0,MIDDY
+123,Exports (fob),12  Mar-16*,0.0,MIDDY
+124,Imports (cif),12  Mar-16*,0.0,MIDDY
+125,Fx inflow,12  Mar-16*,0.0,MIDDY
+126,Fx outflow,12  Mar-16*,0.0,MIDDY
+127,Net fx,12  Mar-16*,0.0,MIDDY
+128,From Operations,12  Mar-16*,128.0,MIDDY
+129,From Investments,12  Mar-16*,-1260.0,MIDDY
+130,From Financial Activity,12  Mar-16*,972.0,MIDDY
+131,Net Cashflow,12  Mar-16*,-159.0,MIDDY
+132,Net Sales,12  Mar-17*,780.0,MIDDY
+133,Other income,12  Mar-17*,26.0,MIDDY
+134,Total revenues,12  Mar-17*,806.0,MIDDY
+135,Gross profit,12  Mar-17*,120.0,MIDDY
+136,Depreciation,12  Mar-17*,115.0,MIDDY
+137,Interest,12  Mar-17*,113.0,MIDDY
+138,Profit before tax,12  Mar-17*,-82.0,MIDDY
+139,Minority Interest,12  Mar-17*,0.0,MIDDY
+140,Prior Period Items,12  Mar-17*,0.0,MIDDY
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MIDDY
+142,Tax,12  Mar-17*,0.0,MIDDY
+143,Profit after tax,12  Mar-17*,-82.0,MIDDY
+144,Gross profit margin,12  Mar-17*,15.4,MIDDY
+145,Effective tax rate,12  Mar-17*,0.0,MIDDY
+146,Net profit margin,12  Mar-17*,-10.4,MIDDY
+147,Current assets,12  Mar-17*,269.0,MIDDY
+148,Current liabilities,12  Mar-17*,332.0,MIDDY
+149,Net working cap to sales,12  Mar-17*,-8.1,MIDDY
+150,Current ratio,12  Mar-17*,0.8,MIDDY
+151,Inventory Days,12  Mar-17*,0.0,MIDDY
+152,Debtors Days,12  Mar-17*,95.0,MIDDY
+153,Net fixed assets,12  Mar-17*,1257.0,MIDDY
+154,Share capital,12  Mar-17*,668.0,MIDDY
+155,"""Free"" reserves",12  Mar-17*,-387.0,MIDDY
+156,Net worth,12  Mar-17*,281.0,MIDDY
+157,Long term debt,12  Mar-17*,492.0,MIDDY
+158,Total assets,12  Mar-17*,1616.0,MIDDY
+159,Interest coverage,12  Mar-17*,0.3,MIDDY
+160,Debt to equity ratio,12  Mar-17*,1.8,MIDDY
+161,Sales to assets ratio,12  Mar-17*,0.5,MIDDY
+162,Return on assets,12  Mar-17*,1.9,MIDDY
+163,Return on equity,12  Mar-17*,-29.1,MIDDY
+164,Return on capital,12  Mar-17*,4.0,MIDDY
+165,Exports to sales,12  Mar-17*,0.0,MIDDY
+166,Imports to sales,12  Mar-17*,0.0,MIDDY
+167,Exports (fob),12  Mar-17*,0.0,MIDDY
+168,Imports (cif),12  Mar-17*,0.0,MIDDY
+169,Fx inflow,12  Mar-17*,0.0,MIDDY
+170,Fx outflow,12  Mar-17*,0.0,MIDDY
+171,Net fx,12  Mar-17*,0.0,MIDDY
+172,From Operations,12  Mar-17*,248.0,MIDDY
+173,From Investments,12  Mar-17*,-11.0,MIDDY
+174,From Financial Activity,12  Mar-17*,-243.0,MIDDY
+175,Net Cashflow,12  Mar-17*,-6.0,MIDDY
+176,Net Sales,12  Mar-18*,764.0,MIDDY
+177,Other income,12  Mar-18*,28.0,MIDDY
+178,Total revenues,12  Mar-18*,792.0,MIDDY
+179,Gross profit,12  Mar-18*,108.0,MIDDY
+180,Depreciation,12  Mar-18*,110.0,MIDDY
+181,Interest,12  Mar-18*,102.0,MIDDY
+182,Profit before tax,12  Mar-18*,-77.0,MIDDY
+183,Minority Interest,12  Mar-18*,0.0,MIDDY
+184,Prior Period Items,12  Mar-18*,0.0,MIDDY
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MIDDY
+186,Tax,12  Mar-18*,0.0,MIDDY
+187,Profit after tax,12  Mar-18*,-77.0,MIDDY
+188,Gross profit margin,12  Mar-18*,14.1,MIDDY
+189,Effective tax rate,12  Mar-18*,0.3,MIDDY
+190,Net profit margin,12  Mar-18*,-10.0,MIDDY
+191,Current assets,12  Mar-18*,358.0,MIDDY
+192,Current liabilities,12  Mar-18*,499.0,MIDDY
+193,Net working cap to sales,12  Mar-18*,-18.5,MIDDY
+194,Current ratio,12  Mar-18*,0.7,MIDDY
+195,Inventory Days,12  Mar-18*,0.0,MIDDY
+196,Debtors Days,12  Mar-18*,117.0,MIDDY
+197,Net fixed assets,12  Mar-18*,1150.0,MIDDY
+198,Share capital,12  Mar-18*,669.0,MIDDY
+199,"""Free"" reserves",12  Mar-18*,-436.0,MIDDY
+200,Net worth,12  Mar-18*,232.0,MIDDY
+201,Long term debt,12  Mar-18*,353.0,MIDDY
+202,Total assets,12  Mar-18*,1589.0,MIDDY
+203,Interest coverage,12  Mar-18*,0.2,MIDDY
+204,Debt to equity ratio,12  Mar-18*,1.5,MIDDY
+205,Sales to assets ratio,12  Mar-18*,0.5,MIDDY
+206,Return on assets,12  Mar-18*,1.6,MIDDY
+207,Return on equity,12  Mar-18*,-33.0,MIDDY
+208,Return on capital,12  Mar-18*,4.3,MIDDY
+209,Exports to sales,12  Mar-18*,0.0,MIDDY
+210,Imports to sales,12  Mar-18*,0.0,MIDDY
+211,Exports (fob),12  Mar-18*,0.0,MIDDY
+212,Imports (cif),12  Mar-18*,0.0,MIDDY
+213,Fx inflow,12  Mar-18*,0.0,MIDDY
+214,Fx outflow,12  Mar-18*,0.0,MIDDY
+215,Net fx,12  Mar-18*,0.0,MIDDY
+216,From Operations,12  Mar-18*,236.0,MIDDY
+217,From Investments,12  Mar-18*,-22.0,MIDDY
+218,From Financial Activity,12  Mar-18*,-167.0,MIDDY
+219,Net Cashflow,12  Mar-18*,47.0,MIDDY

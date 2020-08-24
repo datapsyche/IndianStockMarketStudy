@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,6438.0,UCLF
+1,Other income,12  Mar-14*,68.0,UCLF
+2,Total revenues,12  Mar-14*,6506.0,UCLF
+3,Gross profit,12  Mar-14*,668.0,UCLF
+4,Depreciation,12  Mar-14*,280.0,UCLF
+5,Interest,12  Mar-14*,356.0,UCLF
+6,Profit before tax,12  Mar-14*,100.0,UCLF
+7,Minority Interest,12  Mar-14*,0.0,UCLF
+8,Prior Period Items,12  Mar-14*,0.0,UCLF
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,UCLF
+10,Tax,12  Mar-14*,31.0,UCLF
+11,Profit after tax,12  Mar-14*,68.0,UCLF
+12,Gross profit margin,12  Mar-14*,10.4,UCLF
+13,Effective tax rate,12  Mar-14*,31.3,UCLF
+14,Net profit margin,12  Mar-14*,1.1,UCLF
+15,Current assets,12  Mar-14*,2339.0,UCLF
+16,Current liabilities,12  Mar-14*,3200.0,UCLF
+17,Net working cap to sales,12  Mar-14*,-13.4,UCLF
+18,Current ratio,12  Mar-14*,0.7,UCLF
+19,Inventory Days,12  Mar-14*,40.0,UCLF
+20,Debtors Days,12  Mar-14*,66.0,UCLF
+21,Net fixed assets,12  Mar-14*,3018.0,UCLF
+22,Share capital,12  Mar-14*,221.0,UCLF
+23,"""Free"" reserves",12  Mar-14*,239.0,UCLF
+24,Net worth,12  Mar-14*,556.0,UCLF
+25,Long term debt,12  Mar-14*,1695.0,UCLF
+26,Total assets,12  Mar-14*,5451.0,UCLF
+27,Interest coverage,12  Mar-14*,1.3,UCLF
+28,Debt to equity ratio,12  Mar-14*,3.0,UCLF
+29,Sales to assets ratio,12  Mar-14*,1.2,UCLF
+30,Return on assets,12  Mar-14*,7.8,UCLF
+31,Return on equity,12  Mar-14*,12.3,UCLF
+32,Return on capital,12  Mar-14*,20.2,UCLF
+33,Exports to sales,12  Mar-14*,3.2,UCLF
+34,Imports to sales,12  Mar-14*,4.4,UCLF
+35,Exports (fob),12  Mar-14*,207.0,UCLF
+36,Imports (cif),12  Mar-14*,282.0,UCLF
+37,Fx inflow,12  Mar-14*,207.0,UCLF
+38,Fx outflow,12  Mar-14*,365.0,UCLF
+39,Net fx,12  Mar-14*,-158.0,UCLF
+40,From Operations,12  Mar-14*,757.0,UCLF
+41,From Investments,12  Mar-14*,-49.0,UCLF
+42,From Financial Activity,12  Mar-14*,-743.0,UCLF
+43,Net Cashflow,12  Mar-14*,-36.0,UCLF
+44,Net Sales,12  Mar-15*,6679.0,UCLF
+45,Other income,12  Mar-15*,92.0,UCLF
+46,Total revenues,12  Mar-15*,6771.0,UCLF
+47,Gross profit,12  Mar-15*,890.0,UCLF
+48,Depreciation,12  Mar-15*,335.0,UCLF
+49,Interest,12  Mar-15*,315.0,UCLF
+50,Profit before tax,12  Mar-15*,333.0,UCLF
+51,Minority Interest,12  Mar-15*,0.0,UCLF
+52,Prior Period Items,12  Mar-15*,0.0,UCLF
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,UCLF
+54,Tax,12  Mar-15*,88.0,UCLF
+55,Profit after tax,12  Mar-15*,246.0,UCLF
+56,Gross profit margin,12  Mar-15*,13.3,UCLF
+57,Effective tax rate,12  Mar-15*,26.3,UCLF
+58,Net profit margin,12  Mar-15*,3.7,UCLF
+59,Current assets,12  Mar-15*,2355.0,UCLF
+60,Current liabilities,12  Mar-15*,3516.0,UCLF
+61,Net working cap to sales,12  Mar-15*,-17.4,UCLF
+62,Current ratio,12  Mar-15*,0.7,UCLF
+63,Inventory Days,12  Mar-15*,42.0,UCLF
+64,Debtors Days,12  Mar-15*,61.0,UCLF
+65,Net fixed assets,12  Mar-15*,2746.0,UCLF
+66,Share capital,12  Mar-15*,221.0,UCLF
+67,"""Free"" reserves",12  Mar-15*,440.0,UCLF
+68,Net worth,12  Mar-15*,661.0,UCLF
+69,Long term debt,12  Mar-15*,1102.0,UCLF
+70,Total assets,12  Mar-15*,5213.0,UCLF
+71,Interest coverage,12  Mar-15*,2.1,UCLF
+72,Debt to equity ratio,12  Mar-15*,1.7,UCLF
+73,Sales to assets ratio,12  Mar-15*,1.3,UCLF
+74,Return on assets,12  Mar-15*,10.7,UCLF
+75,Return on equity,12  Mar-15*,37.2,UCLF
+76,Return on capital,12  Mar-15*,36.8,UCLF
+77,Exports to sales,12  Mar-15*,2.2,UCLF
+78,Imports to sales,12  Mar-15*,4.5,UCLF
+79,Exports (fob),12  Mar-15*,145.0,UCLF
+80,Imports (cif),12  Mar-15*,298.0,UCLF
+81,Fx inflow,12  Mar-15*,145.0,UCLF
+82,Fx outflow,12  Mar-15*,383.0,UCLF
+83,Net fx,12  Mar-15*,-238.0,UCLF
+84,From Operations,12  Mar-15*,919.0,UCLF
+85,From Investments,12  Mar-15*,-120.0,UCLF
+86,From Financial Activity,12  Mar-15*,-799.0,UCLF
+87,Net Cashflow,12  Mar-15*,0.0,UCLF
+88,Net Sales,12  Mar-16*,7237.0,UCLF
+89,Other income,12  Mar-16*,78.0,UCLF
+90,Total revenues,12  Mar-16*,7315.0,UCLF
+91,Gross profit,12  Mar-16*,762.0,UCLF
+92,Depreciation,12  Mar-16*,335.0,UCLF
+93,Interest,12  Mar-16*,272.0,UCLF
+94,Profit before tax,12  Mar-16*,233.0,UCLF
+95,Minority Interest,12  Mar-16*,0.0,UCLF
+96,Prior Period Items,12  Mar-16*,0.0,UCLF
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,UCLF
+98,Tax,12  Mar-16*,78.0,UCLF
+99,Profit after tax,12  Mar-16*,156.0,UCLF
+100,Gross profit margin,12  Mar-16*,10.5,UCLF
+101,Effective tax rate,12  Mar-16*,33.2,UCLF
+102,Net profit margin,12  Mar-16*,2.2,UCLF
+103,Current assets,12  Mar-16*,2012.0,UCLF
+104,Current liabilities,12  Mar-16*,3560.0,UCLF
+105,Net working cap to sales,12  Mar-16*,-21.4,UCLF
+106,Current ratio,12  Mar-16*,0.6,UCLF
+107,Inventory Days,12  Mar-16*,39.0,UCLF
+108,Debtors Days,12  Mar-16*,51.0,UCLF
+109,Net fixed assets,12  Mar-16*,3935.0,UCLF
+110,Share capital,12  Mar-16*,221.0,UCLF
+111,"""Free"" reserves",12  Mar-16*,1638.0,UCLF
+112,Net worth,12  Mar-16*,1860.0,UCLF
+113,Long term debt,12  Mar-16*,749.0,UCLF
+114,Total assets,12  Mar-16*,6428.0,UCLF
+115,Interest coverage,12  Mar-16*,1.9,UCLF
+116,Debt to equity ratio,12  Mar-16*,0.4,UCLF
+117,Sales to assets ratio,12  Mar-16*,1.1,UCLF
+118,Return on assets,12  Mar-16*,6.7,UCLF
+119,Return on equity,12  Mar-16*,8.4,UCLF
+120,Return on capital,12  Mar-16*,19.4,UCLF
+121,Exports to sales,12  Mar-16*,2.1,UCLF
+122,Imports to sales,12  Mar-16*,3.5,UCLF
+123,Exports (fob),12  Mar-16*,152.0,UCLF
+124,Imports (cif),12  Mar-16*,255.0,UCLF
+125,Fx inflow,12  Mar-16*,152.0,UCLF
+126,Fx outflow,12  Mar-16*,295.0,UCLF
+127,Net fx,12  Mar-16*,-144.0,UCLF
+128,From Operations,12  Mar-16*,806.0,UCLF
+129,From Investments,12  Mar-16*,-140.0,UCLF
+130,From Financial Activity,12  Mar-16*,-668.0,UCLF
+131,Net Cashflow,12  Mar-16*,-3.0,UCLF
+132,Net Sales,12  Mar-17*,7911.0,UCLF
+133,Other income,12  Mar-17*,111.0,UCLF
+134,Total revenues,12  Mar-17*,8022.0,UCLF
+135,Gross profit,12  Mar-17*,1021.0,UCLF
+136,Depreciation,12  Mar-17*,337.0,UCLF
+137,Interest,12  Mar-17*,282.0,UCLF
+138,Profit before tax,12  Mar-17*,513.0,UCLF
+139,Minority Interest,12  Mar-17*,0.0,UCLF
+140,Prior Period Items,12  Mar-17*,0.0,UCLF
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,UCLF
+142,Tax,12  Mar-17*,154.0,UCLF
+143,Profit after tax,12  Mar-17*,359.0,UCLF
+144,Gross profit margin,12  Mar-17*,12.9,UCLF
+145,Effective tax rate,12  Mar-17*,30.1,UCLF
+146,Net profit margin,12  Mar-17*,4.5,UCLF
+147,Current assets,12  Mar-17*,2152.0,UCLF
+148,Current liabilities,12  Mar-17*,3155.0,UCLF
+149,Net working cap to sales,12  Mar-17*,-12.7,UCLF
+150,Current ratio,12  Mar-17*,0.7,UCLF
+151,Inventory Days,12  Mar-17*,35.0,UCLF
+152,Debtors Days,12  Mar-17*,53.0,UCLF
+153,Net fixed assets,12  Mar-17*,3731.0,UCLF
+154,Share capital,12  Mar-17*,221.0,UCLF
+155,"""Free"" reserves",12  Mar-17*,1885.0,UCLF
+156,Net worth,12  Mar-17*,2106.0,UCLF
+157,Long term debt,12  Mar-17*,949.0,UCLF
+158,Total assets,12  Mar-17*,6429.0,UCLF
+159,Interest coverage,12  Mar-17*,2.8,UCLF
+160,Debt to equity ratio,12  Mar-17*,0.5,UCLF
+161,Sales to assets ratio,12  Mar-17*,1.2,UCLF
+162,Return on assets,12  Mar-17*,10.0,UCLF
+163,Return on equity,12  Mar-17*,17.0,UCLF
+164,Return on capital,12  Mar-17*,26.0,UCLF
+165,Exports to sales,12  Mar-17*,1.3,UCLF
+166,Imports to sales,12  Mar-17*,2.1,UCLF
+167,Exports (fob),12  Mar-17*,102.0,UCLF
+168,Imports (cif),12  Mar-17*,165.0,UCLF
+169,Fx inflow,12  Mar-17*,102.0,UCLF
+170,Fx outflow,12  Mar-17*,216.0,UCLF
+171,Net fx,12  Mar-17*,-114.0,UCLF
+172,From Operations,12  Mar-17*,980.0,UCLF
+173,From Investments,12  Mar-17*,-188.0,UCLF
+174,From Financial Activity,12  Mar-17*,-714.0,UCLF
+175,Net Cashflow,12  Mar-17*,24.0,UCLF
+176,Net Sales,12  Mar-18*,8204.0,UCLF
+177,Other income,12  Mar-18*,67.0,UCLF
+178,Total revenues,12  Mar-18*,8271.0,UCLF
+179,Gross profit,12  Mar-18*,1230.0,UCLF
+180,Depreciation,12  Mar-18*,297.0,UCLF
+181,Interest,12  Mar-18*,261.0,UCLF
+182,Profit before tax,12  Mar-18*,740.0,UCLF
+183,Minority Interest,12  Mar-18*,0.0,UCLF
+184,Prior Period Items,12  Mar-18*,0.0,UCLF
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,UCLF
+186,Tax,12  Mar-18*,-273.0,UCLF
+187,Profit after tax,12  Mar-18*,1012.0,UCLF
+188,Gross profit margin,12  Mar-18*,15.0,UCLF
+189,Effective tax rate,12  Mar-18*,-36.9,UCLF
+190,Net profit margin,12  Mar-18*,12.3,UCLF
+191,Current assets,12  Mar-18*,2348.0,UCLF
+192,Current liabilities,12  Mar-18*,3287.0,UCLF
+193,Net working cap to sales,12  Mar-18*,-11.4,UCLF
+194,Current ratio,12  Mar-18*,0.7,UCLF
+195,Inventory Days,12  Mar-18*,38.0,UCLF
+196,Debtors Days,12  Mar-18*,54.0,UCLF
+197,Net fixed assets,12  Mar-18*,3851.0,UCLF
+198,Share capital,12  Mar-18*,221.0,UCLF
+199,"""Free"" reserves",12  Mar-18*,2763.0,UCLF
+200,Net worth,12  Mar-18*,2984.0,UCLF
+201,Long term debt,12  Mar-18*,736.0,UCLF
+202,Total assets,12  Mar-18*,7162.0,UCLF
+203,Interest coverage,12  Mar-18*,3.8,UCLF
+204,Debt to equity ratio,12  Mar-18*,0.2,UCLF
+205,Sales to assets ratio,12  Mar-18*,1.1,UCLF
+206,Return on assets,12  Mar-18*,17.8,UCLF
+207,Return on equity,12  Mar-18*,33.9,UCLF
+208,Return on capital,12  Mar-18*,26.9,UCLF
+209,Exports to sales,12  Mar-18*,0.0,UCLF
+210,Imports to sales,12  Mar-18*,0.0,UCLF
+211,Exports (fob),12  Mar-18*,0.0,UCLF
+212,Imports (cif),12  Mar-18*,0.0,UCLF
+213,Fx inflow,12  Mar-18*,126.0,UCLF
+214,Fx outflow,12  Mar-18*,220.0,UCLF
+215,Net fx,12  Mar-18*,-94.0,UCLF
+216,From Operations,12  Mar-18*,783.0,UCLF
+217,From Investments,12  Mar-18*,-449.0,UCLF
+218,From Financial Activity,12  Mar-18*,-487.0,UCLF
+219,Net Cashflow,12  Mar-18*,-159.0,UCLF

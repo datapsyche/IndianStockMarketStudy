@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,14080.0,OPCT
+1,Other income,12  Mar-14*,633.0,OPCT
+2,Total revenues,12  Mar-14*,14713.0,OPCT
+3,Gross profit,12  Mar-14*,2639.0,OPCT
+4,Depreciation,12  Mar-14*,757.0,OPCT
+5,Interest,12  Mar-14*,1371.0,OPCT
+6,Profit before tax,12  Mar-14*,1143.0,OPCT
+7,Minority Interest,12  Mar-14*,9.0,OPCT
+8,Prior Period Items,12  Mar-14*,0.0,OPCT
+9,Extraordinary Inc (Exp),12  Mar-14*,-23.0,OPCT
+10,Tax,12  Mar-14*,220.0,OPCT
+11,Profit after tax,12  Mar-14*,910.0,OPCT
+12,Gross profit margin,12  Mar-14*,18.7,OPCT
+13,Effective tax rate,12  Mar-14*,19.2,OPCT
+14,Net profit margin,12  Mar-14*,6.5,OPCT
+15,Current assets,12  Mar-14*,30662.0,OPCT
+16,Current liabilities,12  Mar-14*,19211.0,OPCT
+17,Net working cap to sales,12  Mar-14*,81.3,OPCT
+18,Current ratio,12  Mar-14*,1.6,OPCT
+19,Inventory Days,12  Mar-14*,205.0,OPCT
+20,Debtors Days,12  Mar-14*,448.0,OPCT
+21,Net fixed assets,12  Mar-14*,7344.0,OPCT
+22,Share capital,12  Mar-14*,2423.0,OPCT
+23,"""Free"" reserves",12  Mar-14*,18091.0,OPCT
+24,Net worth,12  Mar-14*,22288.0,OPCT
+25,Long term debt,12  Mar-14*,1924.0,OPCT
+26,Total assets,12  Mar-14*,43640.0,OPCT
+27,Interest coverage,12  Mar-14*,1.8,OPCT
+28,Debt to equity ratio,12  Mar-14*,0.1,OPCT
+29,Sales to assets ratio,12  Mar-14*,0.3,OPCT
+30,Return on assets,12  Mar-14*,5.2,OPCT
+31,Return on equity,12  Mar-14*,4.1,OPCT
+32,Return on capital,12  Mar-14*,10.3,OPCT
+33,Exports to sales,12  Mar-14*,16.2,OPCT
+34,Imports to sales,12  Mar-14*,13.9,OPCT
+35,Exports (fob),12  Mar-14*,2287.0,OPCT
+36,Imports (cif),12  Mar-14*,1960.0,OPCT
+37,Fx inflow,12  Mar-14*,2287.0,OPCT
+38,Fx outflow,12  Mar-14*,1965.0,OPCT
+39,Net fx,12  Mar-14*,322.0,OPCT
+40,From Operations,12  Mar-14*,-1.0,OPCT
+41,From Investments,12  Mar-14*,-108.0,OPCT
+42,From Financial Activity,12  Mar-14*,-121.0,OPCT
+43,Net Cashflow,12  Mar-14*,-230.0,OPCT
+44,Net Sales,12  Mar-15*,11871.0,OPCT
+45,Other income,12  Mar-15*,248.0,OPCT
+46,Total revenues,12  Mar-15*,12119.0,OPCT
+47,Gross profit,12  Mar-15*,2393.0,OPCT
+48,Depreciation,12  Mar-15*,946.0,OPCT
+49,Interest,12  Mar-15*,1435.0,OPCT
+50,Profit before tax,12  Mar-15*,261.0,OPCT
+51,Minority Interest,12  Mar-15*,7.0,OPCT
+52,Prior Period Items,12  Mar-15*,0.0,OPCT
+53,Extraordinary Inc (Exp),12  Mar-15*,-1814.0,OPCT
+54,Tax,12  Mar-15*,17.0,OPCT
+55,Profit after tax,12  Mar-15*,-1564.0,OPCT
+56,Gross profit margin,12  Mar-15*,20.2,OPCT
+57,Effective tax rate,12  Mar-15*,6.6,OPCT
+58,Net profit margin,12  Mar-15*,-13.2,OPCT
+59,Current assets,12  Mar-15*,18598.0,OPCT
+60,Current liabilities,12  Mar-15*,21622.0,OPCT
+61,Net working cap to sales,12  Mar-15*,-25.5,OPCT
+62,Current ratio,12  Mar-15*,0.9,OPCT
+63,Inventory Days,12  Mar-15*,231.0,OPCT
+64,Debtors Days,12  Mar-15*,177.0,OPCT
+65,Net fixed assets,12  Mar-15*,9867.0,OPCT
+66,Share capital,12  Mar-15*,2423.0,OPCT
+67,"""Free"" reserves",12  Mar-15*,17101.0,OPCT
+68,Net worth,12  Mar-15*,19524.0,OPCT
+69,Long term debt,12  Mar-15*,185.0,OPCT
+70,Total assets,12  Mar-15*,42541.0,OPCT
+71,Interest coverage,12  Mar-15*,1.2,OPCT
+72,Debt to equity ratio,12  Mar-15*,0.0,OPCT
+73,Sales to assets ratio,12  Mar-15*,0.3,OPCT
+74,Return on assets,12  Mar-15*,-0.3,OPCT
+75,Return on equity,12  Mar-15*,-8.0,OPCT
+76,Return on capital,12  Mar-15*,-0.6,OPCT
+77,Exports to sales,12  Mar-15*,9.7,OPCT
+78,Imports to sales,12  Mar-15*,8.9,OPCT
+79,Exports (fob),12  Mar-15*,1157.0,OPCT
+80,Imports (cif),12  Mar-15*,1060.0,OPCT
+81,Fx inflow,12  Mar-15*,1157.0,OPCT
+82,Fx outflow,12  Mar-15*,1066.0,OPCT
+83,Net fx,12  Mar-15*,92.0,OPCT
+84,From Operations,12  Mar-15*,-1454.0,OPCT
+85,From Investments,12  Mar-15*,833.0,OPCT
+86,From Financial Activity,12  Mar-15*,680.0,OPCT
+87,Net Cashflow,12  Mar-15*,59.0,OPCT
+88,Net Sales,12  Mar-16*,3130.0,OPCT
+89,Other income,12  Mar-16*,338.0,OPCT
+90,Total revenues,12  Mar-16*,3468.0,OPCT
+91,Gross profit,12  Mar-16*,68.0,OPCT
+92,Depreciation,12  Mar-16*,414.0,OPCT
+93,Interest,12  Mar-16*,437.0,OPCT
+94,Profit before tax,12  Mar-16*,-444.0,OPCT
+95,Minority Interest,12  Mar-16*,0.0,OPCT
+96,Prior Period Items,12  Mar-16*,0.0,OPCT
+97,Extraordinary Inc (Exp),12  Mar-16*,87.0,OPCT
+98,Tax,12  Mar-16*,11.0,OPCT
+99,Profit after tax,12  Mar-16*,-369.0,OPCT
+100,Gross profit margin,12  Mar-16*,2.2,OPCT
+101,Effective tax rate,12  Mar-16*,-2.6,OPCT
+102,Net profit margin,12  Mar-16*,-11.8,OPCT
+103,Current assets,12  Mar-16*,11712.0,OPCT
+104,Current liabilities,12  Mar-16*,13071.0,OPCT
+105,Net working cap to sales,12  Mar-16*,-43.4,OPCT
+106,Current ratio,12  Mar-16*,0.9,OPCT
+107,Inventory Days,12  Mar-16*,560.0,OPCT
+108,Debtors Days,12  Mar-16*,417.0,OPCT
+109,Net fixed assets,12  Mar-16*,6569.0,OPCT
+110,Share capital,12  Mar-16*,2423.0,OPCT
+111,"""Free"" reserves",12  Mar-16*,14460.0,OPCT
+112,Net worth,12  Mar-16*,16883.0,OPCT
+113,Long term debt,12  Mar-16*,694.0,OPCT
+114,Total assets,12  Mar-16*,32125.0,OPCT
+115,Interest coverage,12  Mar-16*,0.0,OPCT
+116,Debt to equity ratio,12  Mar-16*,0.0,OPCT
+117,Sales to assets ratio,12  Mar-16*,0.1,OPCT
+118,Return on assets,12  Mar-16*,0.2,OPCT
+119,Return on equity,12  Mar-16*,-2.2,OPCT
+120,Return on capital,12  Mar-16*,0.5,OPCT
+121,Exports to sales,12  Mar-16*,39.4,OPCT
+122,Imports to sales,12  Mar-16*,22.1,OPCT
+123,Exports (fob),12  Mar-16*,1233.0,OPCT
+124,Imports (cif),12  Mar-16*,691.0,OPCT
+125,Fx inflow,12  Mar-16*,1233.0,OPCT
+126,Fx outflow,12  Mar-16*,692.0,OPCT
+127,Net fx,12  Mar-16*,542.0,OPCT
+128,From Operations,12  Mar-16*,7242.0,OPCT
+129,From Investments,12  Mar-16*,-87.0,OPCT
+130,From Financial Activity,12  Mar-16*,-7319.0,OPCT
+131,Net Cashflow,12  Mar-16*,-164.0,OPCT
+132,Net Sales,12  Mar-17*,2153.0,OPCT
+133,Other income,12  Mar-17*,7.0,OPCT
+134,Total revenues,12  Mar-17*,2160.0,OPCT
+135,Gross profit,12  Mar-17*,236.0,OPCT
+136,Depreciation,12  Mar-17*,160.0,OPCT
+137,Interest,12  Mar-17*,171.0,OPCT
+138,Profit before tax,12  Mar-17*,-88.0,OPCT
+139,Minority Interest,12  Mar-17*,0.0,OPCT
+140,Prior Period Items,12  Mar-17*,0.0,OPCT
+141,Extraordinary Inc (Exp),12  Mar-17*,-4987.0,OPCT
+142,Tax,12  Mar-17*,8.0,OPCT
+143,Profit after tax,12  Mar-17*,-5083.0,OPCT
+144,Gross profit margin,12  Mar-17*,11.0,OPCT
+145,Effective tax rate,12  Mar-17*,-9.2,OPCT
+146,Net profit margin,12  Mar-17*,-236.1,OPCT
+147,Current assets,12  Mar-17*,5342.0,OPCT
+148,Current liabilities,12  Mar-17*,12088.0,OPCT
+149,Net working cap to sales,12  Mar-17*,-313.3,OPCT
+150,Current ratio,12  Mar-17*,0.4,OPCT
+151,Inventory Days,12  Mar-17*,378.0,OPCT
+152,Debtors Days,12  Mar-17*,411.0,OPCT
+153,Net fixed assets,12  Mar-17*,6223.0,OPCT
+154,Share capital,12  Mar-17*,2423.0,OPCT
+155,"""Free"" reserves",12  Mar-17*,6117.0,OPCT
+156,Net worth,12  Mar-17*,8540.0,OPCT
+157,Long term debt,12  Mar-17*,438.0,OPCT
+158,Total assets,12  Mar-17*,21864.0,OPCT
+159,Interest coverage,12  Mar-17*,0.5,OPCT
+160,Debt to equity ratio,12  Mar-17*,0.1,OPCT
+161,Sales to assets ratio,12  Mar-17*,0.1,OPCT
+162,Return on assets,12  Mar-17*,-22.5,OPCT
+163,Return on equity,12  Mar-17*,-59.5,OPCT
+164,Return on capital,12  Mar-17*,-54.6,OPCT
+165,Exports to sales,12  Mar-17*,0.0,OPCT
+166,Imports to sales,12  Mar-17*,9.4,OPCT
+167,Exports (fob),12  Mar-17*,0.0,OPCT
+168,Imports (cif),12  Mar-17*,202.0,OPCT
+169,Fx inflow,12  Mar-17*,459.0,OPCT
+170,Fx outflow,12  Mar-17*,209.0,OPCT
+171,Net fx,12  Mar-17*,250.0,OPCT
+172,From Operations,12  Mar-17*,3085.0,OPCT
+173,From Investments,12  Mar-17*,-1184.0,OPCT
+174,From Financial Activity,12  Mar-17*,-1911.0,OPCT
+175,Net Cashflow,12  Mar-17*,-10.0,OPCT
+176,Net Sales,12  Mar-18*,2284.0,OPCT
+177,Other income,12  Mar-18*,12.0,OPCT
+178,Total revenues,12  Mar-18*,2296.0,OPCT
+179,Gross profit,12  Mar-18*,520.0,OPCT
+180,Depreciation,12  Mar-18*,126.0,OPCT
+181,Interest,12  Mar-18*,58.0,OPCT
+182,Profit before tax,12  Mar-18*,349.0,OPCT
+183,Minority Interest,12  Mar-18*,0.0,OPCT
+184,Prior Period Items,12  Mar-18*,0.0,OPCT
+185,Extraordinary Inc (Exp),12  Mar-18*,16.0,OPCT
+186,Tax,12  Mar-18*,9.0,OPCT
+187,Profit after tax,12  Mar-18*,356.0,OPCT
+188,Gross profit margin,12  Mar-18*,22.8,OPCT
+189,Effective tax rate,12  Mar-18*,2.6,OPCT
+190,Net profit margin,12  Mar-18*,15.6,OPCT
+191,Current assets,12  Mar-18*,5741.0,OPCT
+192,Current liabilities,12  Mar-18*,9791.0,OPCT
+193,Net working cap to sales,12  Mar-18*,-177.3,OPCT
+194,Current ratio,12  Mar-18*,0.6,OPCT
+195,Inventory Days,12  Mar-18*,157.0,OPCT
+196,Debtors Days,12  Mar-18*,60.0,OPCT
+197,Net fixed assets,12  Mar-18*,6988.0,OPCT
+198,Share capital,12  Mar-18*,2875.0,OPCT
+199,"""Free"" reserves",12  Mar-18*,6551.0,OPCT
+200,Net worth,12  Mar-18*,9426.0,OPCT
+201,Long term debt,12  Mar-18*,117.0,OPCT
+202,Total assets,12  Mar-18*,20131.0,OPCT
+203,Interest coverage,12  Mar-18*,7.1,OPCT
+204,Debt to equity ratio,12  Mar-18*,0.0,OPCT
+205,Sales to assets ratio,12  Mar-18*,0.1,OPCT
+206,Return on assets,12  Mar-18*,2.1,OPCT
+207,Return on equity,12  Mar-18*,3.8,OPCT
+208,Return on capital,12  Mar-18*,4.4,OPCT
+209,Exports to sales,12  Mar-18*,0.0,OPCT
+210,Imports to sales,12  Mar-18*,12.8,OPCT
+211,Exports (fob),12  Mar-18*,0.0,OPCT
+212,Imports (cif),12  Mar-18*,292.0,OPCT
+213,Fx inflow,12  Mar-18*,560.0,OPCT
+214,Fx outflow,12  Mar-18*,306.0,OPCT
+215,Net fx,12  Mar-18*,254.0,OPCT
+216,From Operations,12  Mar-18*,688.0,OPCT
+217,From Investments,12  Mar-18*,25.0,OPCT
+218,From Financial Activity,12  Mar-18*,-707.0,OPCT
+219,Net Cashflow,12  Mar-18*,6.0,OPCT

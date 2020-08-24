@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,22722.0,BLDE
+1,Other income,12  Mar-15*,246.0,BLDE
+2,Total revenues,12  Mar-15*,22968.0,BLDE
+3,Gross profit,12  Mar-15*,2242.0,BLDE
+4,Depreciation,12  Mar-15*,436.0,BLDE
+5,Interest,12  Mar-15*,112.0,BLDE
+6,Profit before tax,12  Mar-15*,1941.0,BLDE
+7,Minority Interest,12  Mar-15*,0.0,BLDE
+8,Prior Period Items,12  Mar-15*,22.0,BLDE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,BLDE
+10,Tax,12  Mar-15*,669.0,BLDE
+11,Profit after tax,12  Mar-15*,1293.0,BLDE
+12,Gross profit margin,12  Mar-15*,9.9,BLDE
+13,Effective tax rate,12  Mar-15*,34.5,BLDE
+14,Net profit margin,12  Mar-15*,5.7,BLDE
+15,Current assets,12  Mar-15*,5148.0,BLDE
+16,Current liabilities,12  Mar-15*,2891.0,BLDE
+17,Net working cap to sales,12  Mar-15*,9.9,BLDE
+18,Current ratio,12  Mar-15*,1.8,BLDE
+19,Inventory Days,12  Mar-15*,3.0,BLDE
+20,Debtors Days,12  Mar-15*,43.0,BLDE
+21,Net fixed assets,12  Mar-15*,4663.0,BLDE
+22,Share capital,12  Mar-15*,238.0,BLDE
+23,"""Free"" reserves",12  Mar-15*,2754.0,BLDE
+24,Net worth,12  Mar-15*,2991.0,BLDE
+25,Long term debt,12  Mar-15*,3922.0,BLDE
+26,Total assets,12  Mar-15*,10782.0,BLDE
+27,Interest coverage,12  Mar-15*,18.3,BLDE
+28,Debt to equity ratio,12  Mar-15*,1.3,BLDE
+29,Sales to assets ratio,12  Mar-15*,2.1,BLDE
+30,Return on assets,12  Mar-15*,13.0,BLDE
+31,Return on equity,12  Mar-15*,43.2,BLDE
+32,Return on capital,12  Mar-15*,30.0,BLDE
+33,Exports to sales,12  Mar-15*,0.0,BLDE
+34,Imports to sales,12  Mar-15*,0.2,BLDE
+35,Exports (fob),12  Mar-15*,0.0,BLDE
+36,Imports (cif),12  Mar-15*,44.0,BLDE
+37,Fx inflow,12  Mar-15*,282.0,BLDE
+38,Fx outflow,12  Mar-15*,53.0,BLDE
+39,Net fx,12  Mar-15*,229.0,BLDE
+40,From Operations,12  Mar-15*,1535.0,BLDE
+41,From Investments,12  Mar-15*,319.0,BLDE
+42,From Financial Activity,12  Mar-15*,-1255.0,BLDE
+43,Net Cashflow,12  Mar-15*,598.0,BLDE
+44,Net Sales,12  Mar-16*,25629.0,BLDE
+45,Other income,12  Mar-16*,348.0,BLDE
+46,Total revenues,12  Mar-16*,25977.0,BLDE
+47,Gross profit,12  Mar-16*,4062.0,BLDE
+48,Depreciation,12  Mar-16*,1021.0,BLDE
+49,Interest,12  Mar-16*,431.0,BLDE
+50,Profit before tax,12  Mar-16*,2959.0,BLDE
+51,Minority Interest,12  Mar-16*,0.0,BLDE
+52,Prior Period Items,12  Mar-16*,0.0,BLDE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,BLDE
+54,Tax,12  Mar-16*,990.0,BLDE
+55,Profit after tax,12  Mar-16*,1968.0,BLDE
+56,Gross profit margin,12  Mar-16*,15.9,BLDE
+57,Effective tax rate,12  Mar-16*,33.5,BLDE
+58,Net profit margin,12  Mar-16*,7.7,BLDE
+59,Current assets,12  Mar-16*,6801.0,BLDE
+60,Current liabilities,12  Mar-16*,3899.0,BLDE
+61,Net working cap to sales,12  Mar-16*,11.3,BLDE
+62,Current ratio,12  Mar-16*,1.7,BLDE
+63,Inventory Days,12  Mar-16*,3.0,BLDE
+64,Debtors Days,12  Mar-16*,41.0,BLDE
+65,Net fixed assets,12  Mar-16*,4744.0,BLDE
+66,Share capital,12  Mar-16*,238.0,BLDE
+67,"""Free"" reserves",12  Mar-16*,3581.0,BLDE
+68,Net worth,12  Mar-16*,3819.0,BLDE
+69,Long term debt,12  Mar-16*,3922.0,BLDE
+70,Total assets,12  Mar-16*,12687.0,BLDE
+71,Interest coverage,12  Mar-16*,7.9,BLDE
+72,Debt to equity ratio,12  Mar-16*,1.0,BLDE
+73,Sales to assets ratio,12  Mar-16*,2.0,BLDE
+74,Return on assets,12  Mar-16*,18.9,BLDE
+75,Return on equity,12  Mar-16*,51.5,BLDE
+76,Return on capital,12  Mar-16*,43.8,BLDE
+77,Exports to sales,12  Mar-16*,0.0,BLDE
+78,Imports to sales,12  Mar-16*,0.1,BLDE
+79,Exports (fob),12  Mar-16*,0.0,BLDE
+80,Imports (cif),12  Mar-16*,38.0,BLDE
+81,Fx inflow,12  Mar-16*,326.0,BLDE
+82,Fx outflow,12  Mar-16*,54.0,BLDE
+83,Net fx,12  Mar-16*,272.0,BLDE
+84,From Operations,12  Mar-16*,3610.0,BLDE
+85,From Investments,12  Mar-16*,-1488.0,BLDE
+86,From Financial Activity,12  Mar-16*,-946.0,BLDE
+87,Net Cashflow,12  Mar-16*,1176.0,BLDE
+88,Net Sales,12  Mar-17*,26895.0,BLDE
+89,Other income,12  Mar-17*,262.0,BLDE
+90,Total revenues,12  Mar-17*,27157.0,BLDE
+91,Gross profit,12  Mar-17*,3417.0,BLDE
+92,Depreciation,12  Mar-17*,1038.0,BLDE
+93,Interest,12  Mar-17*,450.0,BLDE
+94,Profit before tax,12  Mar-17*,2191.0,BLDE
+95,Minority Interest,12  Mar-17*,0.0,BLDE
+96,Prior Period Items,12  Mar-17*,0.0,BLDE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BLDE
+98,Tax,12  Mar-17*,793.0,BLDE
+99,Profit after tax,12  Mar-17*,1398.0,BLDE
+100,Gross profit margin,12  Mar-17*,12.7,BLDE
+101,Effective tax rate,12  Mar-17*,36.2,BLDE
+102,Net profit margin,12  Mar-17*,5.2,BLDE
+103,Current assets,12  Mar-17*,7374.0,BLDE
+104,Current liabilities,12  Mar-17*,6166.0,BLDE
+105,Net working cap to sales,12  Mar-17*,4.5,BLDE
+106,Current ratio,12  Mar-17*,1.2,BLDE
+107,Inventory Days,12  Mar-17*,3.0,BLDE
+108,Debtors Days,12  Mar-17*,49.0,BLDE
+109,Net fixed assets,12  Mar-17*,5374.0,BLDE
+110,Share capital,12  Mar-17*,238.0,BLDE
+111,"""Free"" reserves",12  Mar-17*,4057.0,BLDE
+112,Net worth,12  Mar-17*,4295.0,BLDE
+113,Long term debt,12  Mar-17*,3099.0,BLDE
+114,Total assets,12  Mar-17*,13986.0,BLDE
+115,Interest coverage,12  Mar-17*,5.9,BLDE
+116,Debt to equity ratio,12  Mar-17*,0.7,BLDE
+117,Sales to assets ratio,12  Mar-17*,1.9,BLDE
+118,Return on assets,12  Mar-17*,13.2,BLDE
+119,Return on equity,12  Mar-17*,32.6,BLDE
+120,Return on capital,12  Mar-17*,35.7,BLDE
+121,Exports to sales,12  Mar-17*,0.0,BLDE
+122,Imports to sales,12  Mar-17*,0.0,BLDE
+123,Exports (fob),12  Mar-17*,0.0,BLDE
+124,Imports (cif),12  Mar-17*,0.0,BLDE
+125,Fx inflow,12  Mar-17*,95.0,BLDE
+126,Fx outflow,12  Mar-17*,36.0,BLDE
+127,Net fx,12  Mar-17*,60.0,BLDE
+128,From Operations,12  Mar-17*,2250.0,BLDE
+129,From Investments,12  Mar-17*,-2278.0,BLDE
+130,From Financial Activity,12  Mar-17*,-328.0,BLDE
+131,Net Cashflow,12  Mar-17*,-356.0,BLDE
+132,Net Sales,12  Mar-18*,27992.0,BLDE
+133,Other income,12  Mar-18*,207.0,BLDE
+134,Total revenues,12  Mar-18*,28199.0,BLDE
+135,Gross profit,12  Mar-18*,3513.0,BLDE
+136,Depreciation,12  Mar-18*,1145.0,BLDE
+137,Interest,12  Mar-18*,405.0,BLDE
+138,Profit before tax,12  Mar-18*,2170.0,BLDE
+139,Minority Interest,12  Mar-18*,0.0,BLDE
+140,Prior Period Items,12  Mar-18*,0.0,BLDE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BLDE
+142,Tax,12  Mar-18*,723.0,BLDE
+143,Profit after tax,12  Mar-18*,1447.0,BLDE
+144,Gross profit margin,12  Mar-18*,12.5,BLDE
+145,Effective tax rate,12  Mar-18*,33.3,BLDE
+146,Net profit margin,12  Mar-18*,5.2,BLDE
+147,Current assets,12  Mar-18*,7398.0,BLDE
+148,Current liabilities,12  Mar-18*,6414.0,BLDE
+149,Net working cap to sales,12  Mar-18*,3.5,BLDE
+150,Current ratio,12  Mar-18*,1.2,BLDE
+151,Inventory Days,12  Mar-18*,3.0,BLDE
+152,Debtors Days,12  Mar-18*,55.0,BLDE
+153,Net fixed assets,12  Mar-18*,6175.0,BLDE
+154,Share capital,12  Mar-18*,238.0,BLDE
+155,"""Free"" reserves",12  Mar-18*,5081.0,BLDE
+156,Net worth,12  Mar-18*,5318.0,BLDE
+157,Long term debt,12  Mar-18*,3087.0,BLDE
+158,Total assets,12  Mar-18*,15026.0,BLDE
+159,Interest coverage,12  Mar-18*,6.4,BLDE
+160,Debt to equity ratio,12  Mar-18*,0.6,BLDE
+161,Sales to assets ratio,12  Mar-18*,1.9,BLDE
+162,Return on assets,12  Mar-18*,12.3,BLDE
+163,Return on equity,12  Mar-18*,27.2,BLDE
+164,Return on capital,12  Mar-18*,30.6,BLDE
+165,Exports to sales,12  Mar-18*,0.0,BLDE
+166,Imports to sales,12  Mar-18*,0.0,BLDE
+167,Exports (fob),12  Mar-18*,0.0,BLDE
+168,Imports (cif),12  Mar-18*,0.0,BLDE
+169,Fx inflow,12  Mar-18*,26.0,BLDE
+170,Fx outflow,12  Mar-18*,57.0,BLDE
+171,Net fx,12  Mar-18*,-30.0,BLDE
+172,From Operations,12  Mar-18*,3167.0,BLDE
+173,From Investments,12  Mar-18*,-1898.0,BLDE
+174,From Financial Activity,12  Mar-18*,-1519.0,BLDE
+175,Net Cashflow,12  Mar-18*,-250.0,BLDE
+176,Net Sales,12  Mar-19*,31744.0,BLDE
+177,Other income,12  Mar-19*,192.0,BLDE
+178,Total revenues,12  Mar-19*,31936.0,BLDE
+179,Gross profit,12  Mar-19*,2855.0,BLDE
+180,Depreciation,12  Mar-19*,1279.0,BLDE
+181,Interest,12  Mar-19*,427.0,BLDE
+182,Profit before tax,12  Mar-19*,1341.0,BLDE
+183,Minority Interest,12  Mar-19*,0.0,BLDE
+184,Prior Period Items,12  Mar-19*,0.0,BLDE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BLDE
+186,Tax,12  Mar-19*,444.0,BLDE
+187,Profit after tax,12  Mar-19*,898.0,BLDE
+188,Gross profit margin,12  Mar-19*,9.0,BLDE
+189,Effective tax rate,12  Mar-19*,33.1,BLDE
+190,Net profit margin,12  Mar-19*,2.8,BLDE
+191,Current assets,12  Mar-19*,8632.0,BLDE
+192,Current liabilities,12  Mar-19*,7867.0,BLDE
+193,Net working cap to sales,12  Mar-19*,2.4,BLDE
+194,Current ratio,12  Mar-19*,1.1,BLDE
+195,Inventory Days,12  Mar-19*,3.0,BLDE
+196,Debtors Days,12  Mar-19*,56.0,BLDE
+197,Net fixed assets,12  Mar-19*,7450.0,BLDE
+198,Share capital,12  Mar-19*,238.0,BLDE
+199,"""Free"" reserves",12  Mar-19*,5540.0,BLDE
+200,Net worth,12  Mar-19*,5777.0,BLDE
+201,Long term debt,12  Mar-19*,4250.0,BLDE
+202,Total assets,12  Mar-19*,18113.0,BLDE
+203,Interest coverage,12  Mar-19*,4.1,BLDE
+204,Debt to equity ratio,12  Mar-19*,0.7,BLDE
+205,Sales to assets ratio,12  Mar-19*,1.8,BLDE
+206,Return on assets,12  Mar-19*,7.3,BLDE
+207,Return on equity,12  Mar-19*,15.5,BLDE
+208,Return on capital,12  Mar-19*,17.6,BLDE
+209,Exports to sales,12  Mar-19*,0.0,BLDE
+210,Imports to sales,12  Mar-19*,0.0,BLDE
+211,Exports (fob),12  Mar-19*,0.0,BLDE
+212,Imports (cif),12  Mar-19*,0.0,BLDE
+213,Fx inflow,12  Mar-19*,12.0,BLDE
+214,Fx outflow,12  Mar-19*,100.0,BLDE
+215,Net fx,12  Mar-19*,-88.0,BLDE
+216,From Operations,12  Mar-19*,2433.0,BLDE
+217,From Investments,12  Mar-19*,-2800.0,BLDE
+218,From Financial Activity,12  Mar-19*,792.0,BLDE
+219,Net Cashflow,12  Mar-19*,425.0,BLDE

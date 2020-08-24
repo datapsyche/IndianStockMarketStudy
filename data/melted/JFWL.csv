@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,20928.0,JFWL
+1,Other income,12  Mar-15*,75.0,JFWL
+2,Total revenues,12  Mar-15*,21003.0,JFWL
+3,Gross profit,12  Mar-15*,2551.0,JFWL
+4,Depreciation,12  Mar-15*,1011.0,JFWL
+5,Interest,12  Mar-15*,0.0,JFWL
+6,Profit before tax,12  Mar-15*,1615.0,JFWL
+7,Minority Interest,12  Mar-15*,0.0,JFWL
+8,Prior Period Items,12  Mar-15*,0.0,JFWL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,JFWL
+10,Tax,12  Mar-15*,504.0,JFWL
+11,Profit after tax,12  Mar-15*,1111.0,JFWL
+12,Gross profit margin,12  Mar-15*,12.2,JFWL
+13,Effective tax rate,12  Mar-15*,31.2,JFWL
+14,Net profit margin,12  Mar-15*,5.3,JFWL
+15,Current assets,12  Mar-15*,1943,JFWL
+16,Current liabilities,12  Mar-15*,3407,JFWL
+17,Net working cap to sales,12  Mar-15*,-7.0,JFWL
+18,Current ratio,12  Mar-15*,0.6,JFWL
+19,Inventory Days,12  Mar-15*,8,JFWL
+20,Debtors Days,12  Mar-15*,2,JFWL
+21,Net fixed assets,12  Mar-15*,7340,JFWL
+22,Share capital,12  Mar-15*,656,JFWL
+23,"""Free"" reserves",12  Mar-15*,6714,JFWL
+24,Net worth,12  Mar-15*,7369,JFWL
+25,Long term debt,12  Mar-15*,0,JFWL
+26,Total assets,12  Mar-15*,10747,JFWL
+27,Interest coverage,12  Mar-15*,NM,JFWL
+28,Debt to equity ratio,12  Mar-15*,0,JFWL
+29,Sales to assets ratio,12  Mar-15*,1.9,JFWL
+30,Return on assets,12  Mar-15*,10.3,JFWL
+31,Return on equity,12  Mar-15*,15.1,JFWL
+32,Return on capital,12  Mar-15*,21.9,JFWL
+33,Exports to sales,12  Mar-15*,0,JFWL
+34,Imports to sales,12  Mar-15*,0.3,JFWL
+35,Exports (fob),12  Mar-15*,0,JFWL
+36,Imports (cif),12  Mar-15*,53,JFWL
+37,Fx inflow,12  Mar-15*,0,JFWL
+38,Fx outflow,12  Mar-15*,737,JFWL
+39,Net fx,12  Mar-15*,-737,JFWL
+40,From Operations,12  Mar-15*,2761,JFWL
+41,From Investments,12  Mar-15*,-2623,JFWL
+42,From Financial Activity,12  Mar-15*,9,JFWL
+43,Net Cashflow,12  Mar-15*,147,JFWL
+44,Net Sales,12  Mar-16*,24380.0,JFWL
+45,Other income,12  Mar-16*,116.0,JFWL
+46,Total revenues,12  Mar-16*,24496.0,JFWL
+47,Gross profit,12  Mar-16*,2637.0,JFWL
+48,Depreciation,12  Mar-16*,1283.0,JFWL
+49,Interest,12  Mar-16*,0.0,JFWL
+50,Profit before tax,12  Mar-16*,1470.0,JFWL
+51,Minority Interest,12  Mar-16*,0.0,JFWL
+52,Prior Period Items,12  Mar-16*,0.0,JFWL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,JFWL
+54,Tax,12  Mar-16*,501.0,JFWL
+55,Profit after tax,12  Mar-16*,969.0,JFWL
+56,Gross profit margin,12  Mar-16*,10.8,JFWL
+57,Effective tax rate,12  Mar-16*,34.1,JFWL
+58,Net profit margin,12  Mar-16*,4.0,JFWL
+59,Current assets,12  Mar-16*,2253,JFWL
+60,Current liabilities,12  Mar-16*,3869,JFWL
+61,Net working cap to sales,12  Mar-16*,-6.6,JFWL
+62,Current ratio,12  Mar-16*,0.6,JFWL
+63,Inventory Days,12  Mar-16*,8,JFWL
+64,Debtors Days,12  Mar-16*,2,JFWL
+65,Net fixed assets,12  Mar-16*,8196,JFWL
+66,Share capital,12  Mar-16*,658,JFWL
+67,"""Free"" reserves",12  Mar-16*,7620,JFWL
+68,Net worth,12  Mar-16*,8278,JFWL
+69,Long term debt,12  Mar-16*,0,JFWL
+70,Total assets,12  Mar-16*,12220,JFWL
+71,Interest coverage,12  Mar-16*,NM,JFWL
+72,Debt to equity ratio,12  Mar-16*,0,JFWL
+73,Sales to assets ratio,12  Mar-16*,2.0,JFWL
+74,Return on assets,12  Mar-16*,7.9,JFWL
+75,Return on equity,12  Mar-16*,11.7,JFWL
+76,Return on capital,12  Mar-16*,17.8,JFWL
+77,Exports to sales,12  Mar-16*,0,JFWL
+78,Imports to sales,12  Mar-16*,0.1,JFWL
+79,Exports (fob),12  Mar-16*,0,JFWL
+80,Imports (cif),12  Mar-16*,31,JFWL
+81,Fx inflow,12  Mar-16*,0,JFWL
+82,Fx outflow,12  Mar-16*,817,JFWL
+83,Net fx,12  Mar-16*,-817,JFWL
+84,From Operations,12  Mar-16*,2117,JFWL
+85,From Investments,12  Mar-16*,-1998,JFWL
+86,From Financial Activity,12  Mar-16*,-177,JFWL
+87,Net Cashflow,12  Mar-16*,-57,JFWL
+88,Net Sales,12  Mar-17*,25834.0,JFWL
+89,Other income,12  Mar-17*,147.0,JFWL
+90,Total revenues,12  Mar-17*,25981.0,JFWL
+91,Gross profit,12  Mar-17*,2411.0,JFWL
+92,Depreciation,12  Mar-17*,1554.0,JFWL
+93,Interest,12  Mar-17*,0.0,JFWL
+94,Profit before tax,12  Mar-17*,1004.0,JFWL
+95,Minority Interest,12  Mar-17*,0.0,JFWL
+96,Prior Period Items,12  Mar-17*,0.0,JFWL
+97,Extraordinary Inc (Exp),12  Mar-17*,-122.0,JFWL
+98,Tax,12  Mar-17*,305.0,JFWL
+99,Profit after tax,12  Mar-17*,578.0,JFWL
+100,Gross profit margin,12  Mar-17*,9.3,JFWL
+101,Effective tax rate,12  Mar-17*,30.4,JFWL
+102,Net profit margin,12  Mar-17*,2.2,JFWL
+103,Current assets,12  Mar-17*,2394,JFWL
+104,Current liabilities,12  Mar-17*,4157,JFWL
+105,Net working cap to sales,12  Mar-17*,-6.8,JFWL
+106,Current ratio,12  Mar-17*,0.6,JFWL
+107,Inventory Days,12  Mar-17*,9,JFWL
+108,Debtors Days,12  Mar-17*,2,JFWL
+109,Net fixed assets,12  Mar-17*,8488,JFWL
+110,Share capital,12  Mar-17*,660,JFWL
+111,"""Free"" reserves",12  Mar-17*,7394,JFWL
+112,Net worth,12  Mar-17*,8053,JFWL
+113,Long term debt,12  Mar-17*,0,JFWL
+114,Total assets,12  Mar-17*,12906,JFWL
+115,Interest coverage,12  Mar-17*,NM,JFWL
+116,Debt to equity ratio,12  Mar-17*,0,JFWL
+117,Sales to assets ratio,12  Mar-17*,2.0,JFWL
+118,Return on assets,12  Mar-17*,4.5,JFWL
+119,Return on equity,12  Mar-17*,7.2,JFWL
+120,Return on capital,12  Mar-17*,11.0,JFWL
+121,Exports to sales,12  Mar-17*,0,JFWL
+122,Imports to sales,12  Mar-17*,0.1,JFWL
+123,Exports (fob),12  Mar-17*,0,JFWL
+124,Imports (cif),12  Mar-17*,26,JFWL
+125,Fx inflow,12  Mar-17*,0,JFWL
+126,Fx outflow,12  Mar-17*,751,JFWL
+127,Net fx,12  Mar-17*,-751,JFWL
+128,From Operations,12  Mar-17*,2036,JFWL
+129,From Investments,12  Mar-17*,-1883,JFWL
+130,From Financial Activity,12  Mar-17*,-148,JFWL
+131,Net Cashflow,12  Mar-17*,5,JFWL
+132,Net Sales,12  Mar-18*,30184.0,JFWL
+133,Other income,12  Mar-18*,231.0,JFWL
+134,Total revenues,12  Mar-18*,30415.0,JFWL
+135,Gross profit,12  Mar-18*,4401.0,JFWL
+136,Depreciation,12  Mar-18*,1601.0,JFWL
+137,Interest,12  Mar-18*,0.0,JFWL
+138,Profit before tax,12  Mar-18*,3031.0,JFWL
+139,Minority Interest,12  Mar-18*,0.0,JFWL
+140,Prior Period Items,12  Mar-18*,0.0,JFWL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,JFWL
+142,Tax,12  Mar-18*,1068.0,JFWL
+143,Profit after tax,12  Mar-18*,1962.0,JFWL
+144,Gross profit margin,12  Mar-18*,14.6,JFWL
+145,Effective tax rate,12  Mar-18*,35.3,JFWL
+146,Net profit margin,12  Mar-18*,6.5,JFWL
+147,Current assets,12  Mar-18*,5053,JFWL
+148,Current liabilities,12  Mar-18*,4735,JFWL
+149,Net working cap to sales,12  Mar-18*,1.1,JFWL
+150,Current ratio,12  Mar-18*,1.1,JFWL
+151,Inventory Days,12  Mar-18*,8,JFWL
+152,Debtors Days,12  Mar-18*,2,JFWL
+153,Net fixed assets,12  Mar-18*,8034,JFWL
+154,Share capital,12  Mar-18*,660,JFWL
+155,"""Free"" reserves",12  Mar-18*,9018,JFWL
+156,Net worth,12  Mar-18*,9677,JFWL
+157,Long term debt,12  Mar-18*,0,JFWL
+158,Total assets,12  Mar-18*,14967,JFWL
+159,Interest coverage,12  Mar-18*,NM,JFWL
+160,Debt to equity ratio,12  Mar-18*,0,JFWL
+161,Sales to assets ratio,12  Mar-18*,2.0,JFWL
+162,Return on assets,12  Mar-18*,13.1,JFWL
+163,Return on equity,12  Mar-18*,20.3,JFWL
+164,Return on capital,12  Mar-18*,31.3,JFWL
+165,Exports to sales,12  Mar-18*,0,JFWL
+166,Imports to sales,12  Mar-18*,0.2,JFWL
+167,Exports (fob),12  Mar-18*,0,JFWL
+168,Imports (cif),12  Mar-18*,61,JFWL
+169,Fx inflow,12  Mar-18*,0,JFWL
+170,Fx outflow,12  Mar-18*,847,JFWL
+171,Net fx,12  Mar-18*,-847,JFWL
+172,From Operations,12  Mar-18*,4090,JFWL
+173,From Investments,12  Mar-18*,-3319,JFWL
+174,From Financial Activity,12  Mar-18*,-347,JFWL
+175,Net Cashflow,12  Mar-18*,424,JFWL
+176,Net Sales,12  Mar-19*,35631.0,JFWL
+177,Other income,12  Mar-19*,474.0,JFWL
+178,Total revenues,12  Mar-19*,36105.0,JFWL
+179,Gross profit,12  Mar-19*,5998.0,JFWL
+180,Depreciation,12  Mar-19*,1575.0,JFWL
+181,Interest,12  Mar-19*,0.0,JFWL
+182,Profit before tax,12  Mar-19*,4897.0,JFWL
+183,Minority Interest,12  Mar-19*,0.0,JFWL
+184,Prior Period Items,12  Mar-19*,0.0,JFWL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,JFWL
+186,Tax,12  Mar-19*,1717.0,JFWL
+187,Profit after tax,12  Mar-19*,3180.0,JFWL
+188,Gross profit margin,12  Mar-19*,16.8,JFWL
+189,Effective tax rate,12  Mar-19*,35.1,JFWL
+190,Net profit margin,12  Mar-19*,8.9,JFWL
+191,Current assets,12  Mar-19*,8117,JFWL
+192,Current liabilities,12  Mar-19*,5430,JFWL
+193,Net working cap to sales,12  Mar-19*,7.5,JFWL
+194,Current ratio,12  Mar-19*,1.5,JFWL
+195,Inventory Days,12  Mar-19*,8,JFWL
+196,Debtors Days,12  Mar-19*,3,JFWL
+197,Net fixed assets,12  Mar-19*,8252,JFWL
+198,Share capital,12  Mar-19*,1320,JFWL
+199,"""Free"" reserves",12  Mar-19*,11277,JFWL
+200,Net worth,12  Mar-19*,12596,JFWL
+201,Long term debt,12  Mar-19*,0,JFWL
+202,Total assets,12  Mar-19*,18557,JFWL
+203,Interest coverage,12  Mar-19*,NM,JFWL
+204,Debt to equity ratio,12  Mar-19*,0,JFWL
+205,Sales to assets ratio,12  Mar-19*,1.9,JFWL
+206,Return on assets,12  Mar-19*,17.1,JFWL
+207,Return on equity,12  Mar-19*,25.2,JFWL
+208,Return on capital,12  Mar-19*,38.9,JFWL
+209,Exports to sales,12  Mar-19*,0,JFWL
+210,Imports to sales,12  Mar-19*,0,JFWL
+211,Exports (fob),12  Mar-19*,0,JFWL
+212,Imports (cif),12  Mar-19*,0,JFWL
+213,Fx inflow,12  Mar-19*,7,JFWL
+214,Fx outflow,12  Mar-19*,1069,JFWL
+215,Net fx,12  Mar-19*,-1062,JFWL
+216,From Operations,12  Mar-19*,4257,JFWL
+217,From Investments,12  Mar-19*,-4575,JFWL
+218,From Financial Activity,12  Mar-19*,-167,JFWL
+219,Net Cashflow,12  Mar-19*,-486,JFWL

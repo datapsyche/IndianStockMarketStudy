@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,51226.0,NCHP
+1,Other income,12  Mar-15*,2542.0,NCHP
+2,Total revenues,12  Mar-15*,53768.0,NCHP
+3,Gross profit,12  Mar-15*,8855.0,NCHP
+4,Depreciation,12  Mar-15*,2899.0,NCHP
+5,Interest,12  Mar-15*,5106.0,NCHP
+6,Profit before tax,12  Mar-15*,3392.0,NCHP
+7,Minority Interest,12  Mar-15*,3.0,NCHP
+8,Prior Period Items,12  Mar-15*,1593.0,NCHP
+9,Extraordinary Inc (Exp),12  Mar-15*,26962.0,NCHP
+10,Tax,12  Mar-15*,3450.0,NCHP
+11,Profit after tax,12  Mar-15*,28500.0,NCHP
+12,Gross profit margin,12  Mar-15*,17.3,NCHP
+13,Effective tax rate,12  Mar-15*,101.7,NCHP
+14,Net profit margin,12  Mar-15*,55.6,NCHP
+15,Current assets,12  Mar-15*,47701.0,NCHP
+16,Current liabilities,12  Mar-15*,47999.0,NCHP
+17,Net working cap to sales,12  Mar-15*,-0.6,NCHP
+18,Current ratio,12  Mar-15*,1.0,NCHP
+19,Inventory Days,12  Mar-15*,47.0,NCHP
+20,Debtors Days,12  Mar-15*,58.0,NCHP
+21,Net fixed assets,12  Mar-15*,67735.0,NCHP
+22,Share capital,12  Mar-15*,345.0,NCHP
+23,"""Free"" reserves",12  Mar-15*,133910.0,NCHP
+24,Net worth,12  Mar-15*,134255.0,NCHP
+25,Long term debt,12  Mar-15*,36873.0,NCHP
+26,Total assets,12  Mar-15*,220026.0,NCHP
+27,Interest coverage,12  Mar-15*,1.7,NCHP
+28,Debt to equity ratio,12  Mar-15*,0.3,NCHP
+29,Sales to assets ratio,12  Mar-15*,0.2,NCHP
+30,Return on assets,12  Mar-15*,15.3,NCHP
+31,Return on equity,12  Mar-15*,21.2,NCHP
+32,Return on capital,12  Mar-15*,21.7,NCHP
+33,Exports to sales,12  Mar-15*,19.5,NCHP
+34,Imports to sales,12  Mar-15*,8.5,NCHP
+35,Exports (fob),12  Mar-15*,10009.0,NCHP
+36,Imports (cif),12  Mar-15*,4374.0,NCHP
+37,Fx inflow,12  Mar-15*,12010.0,NCHP
+38,Fx outflow,12  Mar-15*,5740.0,NCHP
+39,Net fx,12  Mar-15*,6270.0,NCHP
+40,From Operations,12  Mar-15*,-22069.0,NCHP
+41,From Investments,12  Mar-15*,61771.0,NCHP
+42,From Financial Activity,12  Mar-15*,-38646.0,NCHP
+43,Net Cashflow,12  Mar-15*,1056.0,NCHP
+44,Net Sales,12  Mar-16*,63415.0,NCHP
+45,Other income,12  Mar-16*,2517.0,NCHP
+46,Total revenues,12  Mar-16*,65932.0,NCHP
+47,Gross profit,12  Mar-16*,16772.0,NCHP
+48,Depreciation,12  Mar-16*,2555.0,NCHP
+49,Interest,12  Mar-16*,9591.0,NCHP
+50,Profit before tax,12  Mar-16*,7144.0,NCHP
+51,Minority Interest,12  Mar-16*,1942.0,NCHP
+52,Prior Period Items,12  Mar-16*,0.0,NCHP
+53,Extraordinary Inc (Exp),12  Mar-16*,457.0,NCHP
+54,Tax,12  Mar-16*,495.0,NCHP
+55,Profit after tax,12  Mar-16*,9047.0,NCHP
+56,Gross profit margin,12  Mar-16*,26.4,NCHP
+57,Effective tax rate,12  Mar-16*,6.9,NCHP
+58,Net profit margin,12  Mar-16*,14.3,NCHP
+59,Current assets,12  Mar-16*,44928.0,NCHP
+60,Current liabilities,12  Mar-16*,103802.0,NCHP
+61,Net working cap to sales,12  Mar-16*,-92.8,NCHP
+62,Current ratio,12  Mar-16*,0.4,NCHP
+63,Inventory Days,12  Mar-16*,42.0,NCHP
+64,Debtors Days,12  Mar-16*,56.0,NCHP
+65,Net fixed assets,12  Mar-16*,78803.0,NCHP
+66,Share capital,12  Mar-16*,345.0,NCHP
+67,"""Free"" reserves",12  Mar-16*,129138.0,NCHP
+68,Net worth,12  Mar-16*,129484.0,NCHP
+69,Long term debt,12  Mar-16*,74740.0,NCHP
+70,Total assets,12  Mar-16*,309797.0,NCHP
+71,Interest coverage,12  Mar-16*,1.7,NCHP
+72,Debt to equity ratio,12  Mar-16*,0.6,NCHP
+73,Sales to assets ratio,12  Mar-16*,0.2,NCHP
+74,Return on assets,12  Mar-16*,6.0,NCHP
+75,Return on equity,12  Mar-16*,7.0,NCHP
+76,Return on capital,12  Mar-16*,9.4,NCHP
+77,Exports to sales,12  Mar-16*,17.9,NCHP
+78,Imports to sales,12  Mar-16*,6.9,NCHP
+79,Exports (fob),12  Mar-16*,11362.0,NCHP
+80,Imports (cif),12  Mar-16*,4364.0,NCHP
+81,Fx inflow,12  Mar-16*,14435.0,NCHP
+82,Fx outflow,12  Mar-16*,5183.0,NCHP
+83,Net fx,12  Mar-16*,9253.0,NCHP
+84,From Operations,12  Mar-16*,-69562.0,NCHP
+85,From Investments,12  Mar-16*,-6040.0,NCHP
+86,From Financial Activity,12  Mar-16*,75439.0,NCHP
+87,Net Cashflow,12  Mar-16*,-163.0,NCHP
+88,Net Sales,12  Mar-17*,85037.0,NCHP
+89,Other income,12  Mar-17*,2338.0,NCHP
+90,Total revenues,12  Mar-17*,87374.0,NCHP
+91,Gross profit,12  Mar-17*,34991.0,NCHP
+92,Depreciation,12  Mar-17*,3817.0,NCHP
+93,Interest,12  Mar-17*,20310.0,NCHP
+94,Profit before tax,12  Mar-17*,13202.0,NCHP
+95,Minority Interest,12  Mar-17*,1699.0,NCHP
+96,Prior Period Items,12  Mar-17*,0.0,NCHP
+97,Extraordinary Inc (Exp),12  Mar-17*,-100.0,NCHP
+98,Tax,12  Mar-17*,2281.0,NCHP
+99,Profit after tax,12  Mar-17*,12520.0,NCHP
+100,Gross profit margin,12  Mar-17*,41.1,NCHP
+101,Effective tax rate,12  Mar-17*,17.3,NCHP
+102,Net profit margin,12  Mar-17*,14.7,NCHP
+103,Current assets,12  Mar-17*,87590.0,NCHP
+104,Current liabilities,12  Mar-17*,333436.0,NCHP
+105,Net working cap to sales,12  Mar-17*,-289.1,NCHP
+106,Current ratio,12  Mar-17*,0.3,NCHP
+107,Inventory Days,12  Mar-17*,31.0,NCHP
+108,Debtors Days,12  Mar-17*,48.0,NCHP
+109,Net fixed assets,12  Mar-17*,108523.0,NCHP
+110,Share capital,12  Mar-17*,345.0,NCHP
+111,"""Free"" reserves",12  Mar-17*,148481.0,NCHP
+112,Net worth,12  Mar-17*,148826.0,NCHP
+113,Long term debt,12  Mar-17*,144957.0,NCHP
+114,Total assets,12  Mar-17*,482394.0,NCHP
+115,Interest coverage,12  Mar-17*,1.7,NCHP
+116,Debt to equity ratio,12  Mar-17*,1.0,NCHP
+117,Sales to assets ratio,12  Mar-17*,0.2,NCHP
+118,Return on assets,12  Mar-17*,6.8,NCHP
+119,Return on equity,12  Mar-17*,8.4,NCHP
+120,Return on capital,12  Mar-17*,12.0,NCHP
+121,Exports to sales,12  Mar-17*,0.0,NCHP
+122,Imports to sales,12  Mar-17*,0.0,NCHP
+123,Exports (fob),12  Mar-17*,0.0,NCHP
+124,Imports (cif),12  Mar-17*,0.0,NCHP
+125,Fx inflow,12  Mar-17*,15001.0,NCHP
+126,Fx outflow,12  Mar-17*,5150.0,NCHP
+127,Net fx,12  Mar-17*,9851.0,NCHP
+128,From Operations,12  Mar-17*,-100567.0,NCHP
+129,From Investments,12  Mar-17*,-24028.0,NCHP
+130,From Financial Activity,12  Mar-17*,135705.0,NCHP
+131,Net Cashflow,12  Mar-17*,11376.0,NCHP
+132,Net Sales,12  Mar-18*,106310.0,NCHP
+133,Other income,12  Mar-18*,2595.0,NCHP
+134,Total revenues,12  Mar-18*,108906.0,NCHP
+135,Gross profit,12  Mar-18*,51599.0,NCHP
+136,Depreciation,12  Mar-18*,4773.0,NCHP
+137,Interest,12  Mar-18*,29783.0,NCHP
+138,Profit before tax,12  Mar-18*,19638.0,NCHP
+139,Minority Interest,12  Mar-18*,2801.0,NCHP
+140,Prior Period Items,12  Mar-18*,0.0,NCHP
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NCHP
+142,Tax,12  Mar-18*,-28764.0,NCHP
+143,Profit after tax,12  Mar-18*,51203.0,NCHP
+144,Gross profit margin,12  Mar-18*,48.5,NCHP
+145,Effective tax rate,12  Mar-18*,-146.5,NCHP
+146,Net profit margin,12  Mar-18*,48.2,NCHP
+147,Current assets,12  Mar-18*,118154.0,NCHP
+148,Current liabilities,12  Mar-18*,217285.0,NCHP
+149,Net working cap to sales,12  Mar-18*,-93.2,NCHP
+150,Current ratio,12  Mar-18*,0.5,NCHP
+151,Inventory Days,12  Mar-18*,27.0,NCHP
+152,Debtors Days,12  Mar-18*,47.0,NCHP
+153,Net fixed assets,12  Mar-18*,113727.0,NCHP
+154,Share capital,12  Mar-18*,361.0,NCHP
+155,"""Free"" reserves",12  Mar-18*,265263.0,NCHP
+156,Net worth,12  Mar-18*,265624.0,NCHP
+157,Long term debt,12  Mar-18*,242206.0,NCHP
+158,Total assets,12  Mar-18*,728004.0,NCHP
+159,Interest coverage,12  Mar-18*,1.7,NCHP
+160,Debt to equity ratio,12  Mar-18*,0.9,NCHP
+161,Sales to assets ratio,12  Mar-18*,0.1,NCHP
+162,Return on assets,12  Mar-18*,11.1,NCHP
+163,Return on equity,12  Mar-18*,19.3,NCHP
+164,Return on capital,12  Mar-18*,10.3,NCHP
+165,Exports to sales,12  Mar-18*,0.0,NCHP
+166,Imports to sales,12  Mar-18*,0.0,NCHP
+167,Exports (fob),12  Mar-18*,0.0,NCHP
+168,Imports (cif),12  Mar-18*,0.0,NCHP
+169,Fx inflow,12  Mar-18*,15110.0,NCHP
+170,Fx outflow,12  Mar-18*,4298.0,NCHP
+171,Net fx,12  Mar-18*,10813.0,NCHP
+172,From Operations,12  Mar-18*,-159666.0,NCHP
+173,From Investments,12  Mar-18*,-17677.0,NCHP
+174,From Financial Activity,12  Mar-18*,186503.0,NCHP
+175,Net Cashflow,12  Mar-18*,9364.0,NCHP
+176,Net Sales,12  Mar-19*,132153.0,NCHP
+177,Other income,12  Mar-19*,3128.0,NCHP
+178,Total revenues,12  Mar-19*,135281.0,NCHP
+179,Gross profit,12  Mar-19*,66290.0,NCHP
+180,Depreciation,12  Mar-19*,5202.0,NCHP
+181,Interest,12  Mar-19*,44097.0,NCHP
+182,Profit before tax,12  Mar-19*,20119.0,NCHP
+183,Minority Interest,12  Mar-19*,3194.0,NCHP
+184,Prior Period Items,12  Mar-19*,0.0,NCHP
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NCHP
+186,Tax,12  Mar-19*,8611.0,NCHP
+187,Profit after tax,12  Mar-19*,14701.0,NCHP
+188,Gross profit margin,12  Mar-19*,50.2,NCHP
+189,Effective tax rate,12  Mar-19*,42.8,NCHP
+190,Net profit margin,12  Mar-19*,11.1,NCHP
+191,Current assets,12  Mar-19*,122742.0,NCHP
+192,Current liabilities,12  Mar-19*,310810.0,NCHP
+193,Net working cap to sales,12  Mar-19*,-142.3,NCHP
+194,Current ratio,12  Mar-19*,0.4,NCHP
+195,Inventory Days,12  Mar-19*,23.0,NCHP
+196,Debtors Days,12  Mar-19*,39.0,NCHP
+197,Net fixed assets,12  Mar-19*,116904.0,NCHP
+198,Share capital,12  Mar-19*,369.0,NCHP
+199,"""Free"" reserves",12  Mar-19*,272161.0,NCHP
+200,Net worth,12  Mar-19*,272530.0,NCHP
+201,Long term debt,12  Mar-19*,270196.0,NCHP
+202,Total assets,12  Mar-19*,856261.0,NCHP
+203,Interest coverage,12  Mar-19*,1.5,NCHP
+204,Debt to equity ratio,12  Mar-19*,1.0,NCHP
+205,Sales to assets ratio,12  Mar-19*,0.2,NCHP
+206,Return on assets,12  Mar-19*,6.9,NCHP
+207,Return on equity,12  Mar-19*,5.4,NCHP
+208,Return on capital,12  Mar-19*,12.4,NCHP
+209,Exports to sales,12  Mar-19*,0.0,NCHP
+210,Imports to sales,12  Mar-19*,0.0,NCHP
+211,Exports (fob),12  Mar-19*,0.0,NCHP
+212,Imports (cif),12  Mar-19*,0.0,NCHP
+213,Fx inflow,12  Mar-19*,15200.0,NCHP
+214,Fx outflow,12  Mar-19*,4889.0,NCHP
+215,Net fx,12  Mar-19*,10312.0,NCHP
+216,From Operations,12  Mar-19*,-115975.0,NCHP
+217,From Investments,12  Mar-19*,-8265.0,NCHP
+218,From Financial Activity,12  Mar-19*,107525.0,NCHP
+219,Net Cashflow,12  Mar-19*,-16650.0,NCHP

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,11092.0,ANSAL
+1,Other income,12  Mar-15*,8.0,ANSAL
+2,Total revenues,12  Mar-15*,11100.0,ANSAL
+3,Gross profit,12  Mar-15*,901.0,ANSAL
+4,Depreciation,12  Mar-15*,129.0,ANSAL
+5,Interest,12  Mar-15*,425.0,ANSAL
+6,Profit before tax,12  Mar-15*,356.0,ANSAL
+7,Minority Interest,12  Mar-15*,1.0,ANSAL
+8,Prior Period Items,12  Mar-15*,0.0,ANSAL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ANSAL
+10,Tax,12  Mar-15*,152.0,ANSAL
+11,Profit after tax,12  Mar-15*,205.0,ANSAL
+12,Gross profit margin,12  Mar-15*,8.1,ANSAL
+13,Effective tax rate,12  Mar-15*,42.8,ANSAL
+14,Net profit margin,12  Mar-15*,1.8,ANSAL
+15,Current assets,12  Mar-15*,61709.0,ANSAL
+16,Current liabilities,12  Mar-15*,43455.0,ANSAL
+17,Net working cap to sales,12  Mar-15*,164.6,ANSAL
+18,Current ratio,12  Mar-15*,1.4,ANSAL
+19,Inventory Days,12  Mar-15*,1364.0,ANSAL
+20,Debtors Days,12  Mar-15*,237.0,ANSAL
+21,Net fixed assets,12  Mar-15*,5195.0,ANSAL
+22,Share capital,12  Mar-15*,787.0,ANSAL
+23,"""Free"" reserves",12  Mar-15*,15310.0,ANSAL
+24,Net worth,12  Mar-15*,16224.0,ANSAL
+25,Long term debt,12  Mar-15*,11585.0,ANSAL
+26,Total assets,12  Mar-15*,74188.0,ANSAL
+27,Interest coverage,12  Mar-15*,1.8,ANSAL
+28,Debt to equity ratio,12  Mar-15*,0.7,ANSAL
+29,Sales to assets ratio,12  Mar-15*,0.1,ANSAL
+30,Return on assets,12  Mar-15*,0.8,ANSAL
+31,Return on equity,12  Mar-15*,1.3,ANSAL
+32,Return on capital,12  Mar-15*,2.8,ANSAL
+33,Exports to sales,12  Mar-15*,0.0,ANSAL
+34,Imports to sales,12  Mar-15*,0.0,ANSAL
+35,Exports (fob),12  Mar-15*,0.0,ANSAL
+36,Imports (cif),12  Mar-15*,0.0,ANSAL
+37,Fx inflow,12  Mar-15*,3.0,ANSAL
+38,Fx outflow,12  Mar-15*,11.0,ANSAL
+39,Net fx,12  Mar-15*,-8.0,ANSAL
+40,From Operations,12  Mar-15*,21.0,ANSAL
+41,From Investments,12  Mar-15*,-859.0,ANSAL
+42,From Financial Activity,12  Mar-15*,910.0,ANSAL
+43,Net Cashflow,12  Mar-15*,73.0,ANSAL
+44,Net Sales,12  Mar-16*,7942.0,ANSAL
+45,Other income,12  Mar-16*,218.0,ANSAL
+46,Total revenues,12  Mar-16*,8160.0,ANSAL
+47,Gross profit,12  Mar-16*,784.0,ANSAL
+48,Depreciation,12  Mar-16*,157.0,ANSAL
+49,Interest,12  Mar-16*,626.0,ANSAL
+50,Profit before tax,12  Mar-16*,219.0,ANSAL
+51,Minority Interest,12  Mar-16*,-40.0,ANSAL
+52,Prior Period Items,12  Mar-16*,0.0,ANSAL
+53,Extraordinary Inc (Exp),12  Mar-16*,-153.0,ANSAL
+54,Tax,12  Mar-16*,63.0,ANSAL
+55,Profit after tax,12  Mar-16*,-38.0,ANSAL
+56,Gross profit margin,12  Mar-16*,9.9,ANSAL
+57,Effective tax rate,12  Mar-16*,28.8,ANSAL
+58,Net profit margin,12  Mar-16*,-0.5,ANSAL
+59,Current assets,12  Mar-16*,56602.0,ANSAL
+60,Current liabilities,12  Mar-16*,42252.0,ANSAL
+61,Net working cap to sales,12  Mar-16*,180.7,ANSAL
+62,Current ratio,12  Mar-16*,1.3,ANSAL
+63,Inventory Days,12  Mar-16*,1696.0,ANSAL
+64,Debtors Days,12  Mar-16*,309.0,ANSAL
+65,Net fixed assets,12  Mar-16*,7434.0,ANSAL
+66,Share capital,12  Mar-16*,787.0,ANSAL
+67,"""Free"" reserves",12  Mar-16*,15264.0,ANSAL
+68,Net worth,12  Mar-16*,16051.0,ANSAL
+69,Long term debt,12  Mar-16*,8576.0,ANSAL
+70,Total assets,12  Mar-16*,69989.0,ANSAL
+71,Interest coverage,12  Mar-16*,1.4,ANSAL
+72,Debt to equity ratio,12  Mar-16*,0.5,ANSAL
+73,Sales to assets ratio,12  Mar-16*,0.1,ANSAL
+74,Return on assets,12  Mar-16*,0.8,ANSAL
+75,Return on equity,12  Mar-16*,-0.2,ANSAL
+76,Return on capital,12  Mar-16*,2.6,ANSAL
+77,Exports to sales,12  Mar-16*,0.0,ANSAL
+78,Imports to sales,12  Mar-16*,0.0,ANSAL
+79,Exports (fob),12  Mar-16*,0.0,ANSAL
+80,Imports (cif),12  Mar-16*,0.0,ANSAL
+81,Fx inflow,12  Mar-16*,2.0,ANSAL
+82,Fx outflow,12  Mar-16*,16.0,ANSAL
+83,Net fx,12  Mar-16*,-14.0,ANSAL
+84,From Operations,12  Mar-16*,2397.0,ANSAL
+85,From Investments,12  Mar-16*,-1573.0,ANSAL
+86,From Financial Activity,12  Mar-16*,-1147.0,ANSAL
+87,Net Cashflow,12  Mar-16*,-324.0,ANSAL
+88,Net Sales,12  Mar-17*,8357.0,ANSAL
+89,Other income,12  Mar-17*,163.0,ANSAL
+90,Total revenues,12  Mar-17*,8520.0,ANSAL
+91,Gross profit,12  Mar-17*,808.0,ANSAL
+92,Depreciation,12  Mar-17*,164.0,ANSAL
+93,Interest,12  Mar-17*,1093.0,ANSAL
+94,Profit before tax,12  Mar-17*,-285.0,ANSAL
+95,Minority Interest,12  Mar-17*,-28.0,ANSAL
+96,Prior Period Items,12  Mar-17*,0.0,ANSAL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ANSAL
+98,Tax,12  Mar-17*,81.0,ANSAL
+99,Profit after tax,12  Mar-17*,-394.0,ANSAL
+100,Gross profit margin,12  Mar-17*,9.7,ANSAL
+101,Effective tax rate,12  Mar-17*,-28.3,ANSAL
+102,Net profit margin,12  Mar-17*,-4.7,ANSAL
+103,Current assets,12  Mar-17*,68448.0,ANSAL
+104,Current liabilities,12  Mar-17*,50073.0,ANSAL
+105,Net working cap to sales,12  Mar-17*,219.9,ANSAL
+106,Current ratio,12  Mar-17*,1.4,ANSAL
+107,Inventory Days,12  Mar-17*,2055.0,ANSAL
+108,Debtors Days,12  Mar-17*,322.0,ANSAL
+109,Net fixed assets,12  Mar-17*,8299.0,ANSAL
+110,Share capital,12  Mar-17*,787.0,ANSAL
+111,"""Free"" reserves",12  Mar-17*,15301.0,ANSAL
+112,Net worth,12  Mar-17*,16088.0,ANSAL
+113,Long term debt,12  Mar-17*,10589.0,ANSAL
+114,Total assets,12  Mar-17*,81186.0,ANSAL
+115,Interest coverage,12  Mar-17*,0.7,ANSAL
+116,Debt to equity ratio,12  Mar-17*,0.7,ANSAL
+117,Sales to assets ratio,12  Mar-17*,0.1,ANSAL
+118,Return on assets,12  Mar-17*,0.9,ANSAL
+119,Return on equity,12  Mar-17*,-2.4,ANSAL
+120,Return on capital,12  Mar-17*,2.9,ANSAL
+121,Exports to sales,12  Mar-17*,0.0,ANSAL
+122,Imports to sales,12  Mar-17*,0.0,ANSAL
+123,Exports (fob),12  Mar-17*,0.0,ANSAL
+124,Imports (cif),12  Mar-17*,0.0,ANSAL
+125,Fx inflow,12  Mar-17*,0.0,ANSAL
+126,Fx outflow,12  Mar-17*,3.0,ANSAL
+127,Net fx,12  Mar-17*,-3.0,ANSAL
+128,From Operations,12  Mar-17*,-4202.0,ANSAL
+129,From Investments,12  Mar-17*,328.0,ANSAL
+130,From Financial Activity,12  Mar-17*,3939.0,ANSAL
+131,Net Cashflow,12  Mar-17*,65.0,ANSAL
+132,Net Sales,12  Mar-18*,6701.0,ANSAL
+133,Other income,12  Mar-18*,288.0,ANSAL
+134,Total revenues,12  Mar-18*,6989.0,ANSAL
+135,Gross profit,12  Mar-18*,-38.0,ANSAL
+136,Depreciation,12  Mar-18*,237.0,ANSAL
+137,Interest,12  Mar-18*,1704.0,ANSAL
+138,Profit before tax,12  Mar-18*,-1691.0,ANSAL
+139,Minority Interest,12  Mar-18*,30.0,ANSAL
+140,Prior Period Items,12  Mar-18*,0.0,ANSAL
+141,Extraordinary Inc (Exp),12  Mar-18*,-332.0,ANSAL
+142,Tax,12  Mar-18*,-277.0,ANSAL
+143,Profit after tax,12  Mar-18*,-1717.0,ANSAL
+144,Gross profit margin,12  Mar-18*,-0.6,ANSAL
+145,Effective tax rate,12  Mar-18*,16.4,ANSAL
+146,Net profit margin,12  Mar-18*,-25.6,ANSAL
+147,Current assets,12  Mar-18*,61190.0,ANSAL
+148,Current liabilities,12  Mar-18*,46397.0,ANSAL
+149,Net working cap to sales,12  Mar-18*,220.8,ANSAL
+150,Current ratio,12  Mar-18*,1.3,ANSAL
+151,Inventory Days,12  Mar-18*,2294.0,ANSAL
+152,Debtors Days,12  Mar-18*,316.0,ANSAL
+153,Net fixed assets,12  Mar-18*,7648.0,ANSAL
+154,Share capital,12  Mar-18*,787.0,ANSAL
+155,"""Free"" reserves",12  Mar-18*,14665.0,ANSAL
+156,Net worth,12  Mar-18*,15452.0,ANSAL
+157,Long term debt,12  Mar-18*,9034.0,ANSAL
+158,Total assets,12  Mar-18*,74409.0,ANSAL
+159,Interest coverage,12  Mar-18*,0.0,ANSAL
+160,Debt to equity ratio,12  Mar-18*,0.6,ANSAL
+161,Sales to assets ratio,12  Mar-18*,0.1,ANSAL
+162,Return on assets,12  Mar-18*,0.0,ANSAL
+163,Return on equity,12  Mar-18*,-11.1,ANSAL
+164,Return on capital,12  Mar-18*,-1.2,ANSAL
+165,Exports to sales,12  Mar-18*,0.0,ANSAL
+166,Imports to sales,12  Mar-18*,0.0,ANSAL
+167,Exports (fob),12  Mar-18*,0.0,ANSAL
+168,Imports (cif),12  Mar-18*,0.0,ANSAL
+169,Fx inflow,12  Mar-18*,0.0,ANSAL
+170,Fx outflow,12  Mar-18*,0.0,ANSAL
+171,Net fx,12  Mar-18*,0.0,ANSAL
+172,From Operations,12  Mar-18*,4857.0,ANSAL
+173,From Investments,12  Mar-18*,688.0,ANSAL
+174,From Financial Activity,12  Mar-18*,-5712.0,ANSAL
+175,Net Cashflow,12  Mar-18*,-167.0,ANSAL
+176,Net Sales,12  Mar-19*,8117.0,ANSAL
+177,Other income,12  Mar-19*,427.0,ANSAL
+178,Total revenues,12  Mar-19*,8544.0,ANSAL
+179,Gross profit,12  Mar-19*,520.0,ANSAL
+180,Depreciation,12  Mar-19*,228.0,ANSAL
+181,Interest,12  Mar-19*,1785.0,ANSAL
+182,Profit before tax,12  Mar-19*,-1066.0,ANSAL
+183,Minority Interest,12  Mar-19*,-33.0,ANSAL
+184,Prior Period Items,12  Mar-19*,0.0,ANSAL
+185,Extraordinary Inc (Exp),12  Mar-19*,-218.0,ANSAL
+186,Tax,12  Mar-19*,85.0,ANSAL
+187,Profit after tax,12  Mar-19*,-1402.0,ANSAL
+188,Gross profit margin,12  Mar-19*,6.4,ANSAL
+189,Effective tax rate,12  Mar-19*,-8.0,ANSAL
+190,Net profit margin,12  Mar-19*,-17.3,ANSAL
+191,Current assets,12  Mar-19*,71440.0,ANSAL
+192,Current liabilities,12  Mar-19*,71967.0,ANSAL
+193,Net working cap to sales,12  Mar-19*,-6.5,ANSAL
+194,Current ratio,12  Mar-19*,1.0,ANSAL
+195,Inventory Days,12  Mar-19*,2798.0,ANSAL
+196,Debtors Days,12  Mar-19*,109.0,ANSAL
+197,Net fixed assets,12  Mar-19*,7527.0,ANSAL
+198,Share capital,12  Mar-19*,787.0,ANSAL
+199,"""Free"" reserves",12  Mar-19*,1174.0,ANSAL
+200,Net worth,12  Mar-19*,1960.0,ANSAL
+201,Long term debt,12  Mar-19*,7476.0,ANSAL
+202,Total assets,12  Mar-19*,84134.0,ANSAL
+203,Interest coverage,12  Mar-19*,0.4,ANSAL
+204,Debt to equity ratio,12  Mar-19*,3.8,ANSAL
+205,Sales to assets ratio,12  Mar-19*,0.1,ANSAL
+206,Return on assets,12  Mar-19*,0.5,ANSAL
+207,Return on equity,12  Mar-19*,-71.5,ANSAL
+208,Return on capital,12  Mar-19*,5.0,ANSAL
+209,Exports to sales,12  Mar-19*,0.0,ANSAL
+210,Imports to sales,12  Mar-19*,0.0,ANSAL
+211,Exports (fob),12  Mar-19*,0.0,ANSAL
+212,Imports (cif),12  Mar-19*,0.0,ANSAL
+213,Fx inflow,12  Mar-19*,0.0,ANSAL
+214,Fx outflow,12  Mar-19*,0.0,ANSAL
+215,Net fx,12  Mar-19*,0.0,ANSAL
+216,From Operations,12  Mar-19*,2257.0,ANSAL
+217,From Investments,12  Mar-19*,419.0,ANSAL
+218,From Financial Activity,12  Mar-19*,-2637.0,ANSAL
+219,Net Cashflow,12  Mar-19*,40.0,ANSAL

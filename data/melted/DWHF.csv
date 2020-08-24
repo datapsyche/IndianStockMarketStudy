@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-14,49656.0,DWHF
+1,Other income,12  Mar-14,21.0,DWHF
+2,Interest expense,12  Mar-14,37826.0,DWHF
+3,Net interest income,12  Mar-14,11830.0,DWHF
+4,Operating expense,12  Mar-14,3688.0,DWHF
+5,Gross profit,12  Mar-14,8143.0,DWHF
+6,Gross profit margin,12  Mar-14,16.4,DWHF
+7,Provisions/contingencies,12  Mar-14,809.0,DWHF
+8,Profit before tax,12  Mar-14,7351.0,DWHF
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,DWHF
+10,Minority Interest,12  Mar-14,0.0,DWHF
+11,Prior Period Items,12  Mar-14,0.0,DWHF
+12,Tax,12  Mar-14,2061.0,DWHF
+13,Profit after tax,12  Mar-14,5290.0,DWHF
+14,Net profit margin,12  Mar-14,10.7,DWHF
+15,Advances,12  Mar-14,405009,DWHF
+16,Deposits,12  Mar-14,0,DWHF
+17,Credit/Deposit ratio,12  Mar-14,NM,DWHF
+18,Yield on advances,12  Mar-14,11.5,DWHF
+19,Cost of deposits,12  Mar-14,N.A.,DWHF
+20,Net Interest Margin,12  Mar-14,2.9,DWHF
+21,Net fixed assets,12  Mar-14,9877,DWHF
+22,Share capital,12  Mar-14,1284,DWHF
+23,Free reserves,12  Mar-14,26185,DWHF
+24,Net worth,12  Mar-14,35750,DWHF
+25,Borrowings,12  Mar-14,322955,DWHF
+26,Investments,12  Mar-14,7153,DWHF
+27,Total assets,12  Mar-14,438625,DWHF
+28,Debt/equity ratio,12  Mar-14,9.0,DWHF
+29,Return on assets,12  Mar-14,1.2,DWHF
+30,Return on equity,12  Mar-14,14.8,DWHF
+31,Capital adequacy ratio,12  Mar-14,17.2,DWHF
+32,Net NPAs,12  Mar-14,0.5,DWHF
+33,From Operations,12  Mar-14,-88792,DWHF
+34,From Investments,12  Mar-14,-7149,DWHF
+35,From Financial Activity,12  Mar-14,100647,DWHF
+36,Net Cashflow,12  Mar-14,4706,DWHF
+37,Interest income,12  Mar-15,59790.0,DWHF
+38,Other income,12  Mar-15,27.0,DWHF
+39,Interest expense,12  Mar-15,44596.0,DWHF
+40,Net interest income,12  Mar-15,15194.0,DWHF
+41,Operating expense,12  Mar-15,4485.0,DWHF
+42,Gross profit,12  Mar-15,10709.0,DWHF
+43,Gross profit margin,12  Mar-15,17.9,DWHF
+44,Provisions/contingencies,12  Mar-15,1305.0,DWHF
+45,Profit before tax,12  Mar-15,9430.0,DWHF
+46,Extraordinary Inc (Exp),12  Mar-15,0.0,DWHF
+47,Minority Interest,12  Mar-15,0.0,DWHF
+48,Prior Period Items,12  Mar-15,0.0,DWHF
+49,Tax,12  Mar-15,3218.0,DWHF
+50,Profit after tax,12  Mar-15,6213.0,DWHF
+51,Net profit margin,12  Mar-15,10.4,DWHF
+52,Advances,12  Mar-15,511343,DWHF
+53,Deposits,12  Mar-15,0,DWHF
+54,Credit/Deposit ratio,12  Mar-15,NM,DWHF
+55,Yield on advances,12  Mar-15,11.2,DWHF
+56,Cost of deposits,12  Mar-15,N.A.,DWHF
+57,Net Interest Margin,12  Mar-15,2.9,DWHF
+58,Net fixed assets,12  Mar-15,9846,DWHF
+59,Share capital,12  Mar-15,1457,DWHF
+60,Free reserves,12  Mar-15,35457,DWHF
+61,Net worth,12  Mar-15,46358,DWHF
+62,Borrowings,12  Mar-15,368887,DWHF
+63,Investments,12  Mar-15,8797,DWHF
+64,Total assets,12  Mar-15,546379,DWHF
+65,Debt/equity ratio,12  Mar-15,8.0,DWHF
+66,Return on assets,12  Mar-15,1.1,DWHF
+67,Return on equity,12  Mar-15,13.4,DWHF
+68,Capital adequacy ratio,12  Mar-15,16.6,DWHF
+69,Net NPAs,12  Mar-15,0.7,DWHF
+70,From Operations,12  Mar-15,-124569,DWHF
+71,From Investments,12  Mar-15,-3175,DWHF
+72,From Financial Activity,12  Mar-15,124677,DWHF
+73,Net Cashflow,12  Mar-15,-3068,DWHF
+74,Interest income,12  Mar-16*,78349.0,DWHF
+75,Other income,12  Mar-16*,51.0,DWHF
+76,Interest expense,12  Mar-16*,54920.0,DWHF
+77,Net interest income,12  Mar-16*,23429.0,DWHF
+78,Operating expense,12  Mar-16*,10414.0,DWHF
+79,Gross profit,12  Mar-16*,13016.0,DWHF
+80,Gross profit margin,12  Mar-16*,16.6,DWHF
+81,Provisions/contingencies,12  Mar-16*,2048.0,DWHF
+82,Profit before tax,12  Mar-16*,11209.0,DWHF
+83,Extraordinary Inc (Exp),12  Mar-16*,0.0,DWHF
+84,Minority Interest,12  Mar-16*,0.0,DWHF
+85,Prior Period Items,12  Mar-16*,52.0,DWHF
+86,Tax,12  Mar-16*,3768.0,DWHF
+87,Profit after tax,12  Mar-16*,7493.0,DWHF
+88,Net profit margin,12  Mar-16*,9.6,DWHF
+89,Advances,12  Mar-16*,623221,DWHF
+90,Deposits,12  Mar-16*,0,DWHF
+91,Credit/Deposit ratio,12  Mar-16*,NM,DWHF
+92,Yield on advances,12  Mar-16*,11.2,DWHF
+93,Cost of deposits,12  Mar-16*,N.A.,DWHF
+94,Net Interest Margin,12  Mar-16*,3.7,DWHF
+95,Net fixed assets,12  Mar-16*,10983,DWHF
+96,Share capital,12  Mar-16*,2918,DWHF
+97,Free reserves,12  Mar-16*,36175,DWHF
+98,Net worth,12  Mar-16*,53898,DWHF
+99,Borrowings,12  Mar-16*,451195,DWHF
+100,Investments,12  Mar-16*,15570,DWHF
+101,Total assets,12  Mar-16*,692446,DWHF
+102,Debt/equity ratio,12  Mar-16*,8.4,DWHF
+103,Return on assets,12  Mar-16*,1.1,DWHF
+104,Return on equity,12  Mar-16*,13.9,DWHF
+105,Capital adequacy ratio,12  Mar-16*,16.7,DWHF
+106,Net NPAs,12  Mar-16*,0.6,DWHF
+107,From Operations,12  Mar-16*,-125817,DWHF
+108,From Investments,12  Mar-16*,243,DWHF
+109,From Financial Activity,12  Mar-16*,154155,DWHF
+110,Net Cashflow,12  Mar-16*,28582,DWHF
+111,Interest income,12  Mar-17*,96099.0,DWHF
+112,Other income,12  Mar-17*,57.0,DWHF
+113,Interest expense,12  Mar-17*,66744.0,DWHF
+114,Net interest income,12  Mar-17*,29355.0,DWHF
+115,Operating expense,12  Mar-17*,12590.0,DWHF
+116,Gross profit,12  Mar-17*,16765.0,DWHF
+117,Gross profit margin,12  Mar-17*,17.4,DWHF
+118,Provisions/contingencies,12  Mar-17*,2615.0,DWHF
+119,Profit before tax,12  Mar-17*,14208.0,DWHF
+120,Extraordinary Inc (Exp),12  Mar-17*,18555.0,DWHF
+121,Minority Interest,12  Mar-17*,0.0,DWHF
+122,Prior Period Items,12  Mar-17*,100.0,DWHF
+123,Tax,12  Mar-17*,4799.0,DWHF
+124,Profit after tax,12  Mar-17*,28063.0,DWHF
+125,Net profit margin,12  Mar-17*,29.2,DWHF
+126,Advances,12  Mar-17*,742221,DWHF
+127,Deposits,12  Mar-17*,0,DWHF
+128,Credit/Deposit ratio,12  Mar-17*,NM,DWHF
+129,Yield on advances,12  Mar-17*,10.8,DWHF
+130,Cost of deposits,12  Mar-17*,N.A.,DWHF
+131,Net Interest Margin,12  Mar-17*,3.9,DWHF
+132,Net fixed assets,12  Mar-17*,8445,DWHF
+133,Share capital,12  Mar-17*,3132,DWHF
+134,Free reserves,12  Mar-17*,74175,DWHF
+135,Net worth,12  Mar-17*,77306,DWHF
+136,Borrowings,12  Mar-17*,669992,DWHF
+137,Investments,12  Mar-17*,8784,DWHF
+138,Total assets,12  Mar-17*,922901,DWHF
+139,Debt/equity ratio,12  Mar-17*,8.7,DWHF
+140,Return on assets,12  Mar-17*,3.0,DWHF
+141,Return on equity,12  Mar-17*,36.3,DWHF
+142,Capital adequacy ratio,12  Mar-17*,19.1,DWHF
+143,Net NPAs,12  Mar-17*,0.6,DWHF
+144,From Operations,12  Mar-17*,-155932,DWHF
+145,From Investments,12  Mar-17*,-109302,DWHF
+146,From Financial Activity,12  Mar-17*,262892,DWHF
+147,Net Cashflow,12  Mar-17*,-2343,DWHF
+148,Interest income,12  Mar-18*,105147.0,DWHF
+149,Other income,12  Mar-18*,143.0,DWHF
+150,Interest expense,12  Mar-18*,75870.0,DWHF
+151,Net interest income,12  Mar-18*,29277.0,DWHF
+152,Operating expense,12  Mar-18*,7551.0,DWHF
+153,Gross profit,12  Mar-18*,21726.0,DWHF
+154,Gross profit margin,12  Mar-18*,20.7,DWHF
+155,Provisions/contingencies,12  Mar-18*,4482.0,DWHF
+156,Profit before tax,12  Mar-18*,17387.0,DWHF
+157,Extraordinary Inc (Exp),12  Mar-18*,0.0,DWHF
+158,Minority Interest,12  Mar-18*,0.0,DWHF
+159,Prior Period Items,12  Mar-18*,125.0,DWHF
+160,Tax,12  Mar-18*,5855.0,DWHF
+161,Profit after tax,12  Mar-18*,11657.0,DWHF
+162,Net profit margin,12  Mar-18*,11.1,DWHF
+163,Advances,12  Mar-18*,954546,DWHF
+164,Deposits,12  Mar-18*,0,DWHF
+165,Credit/Deposit ratio,12  Mar-18*,NM,DWHF
+166,Yield on advances,12  Mar-18*,9.6,DWHF
+167,Cost of deposits,12  Mar-18*,N.A.,DWHF
+168,Net Interest Margin,12  Mar-18*,3.0,DWHF
+169,Net fixed assets,12  Mar-18*,9801,DWHF
+170,Share capital,12  Mar-18*,3137,DWHF
+171,Free reserves,12  Mar-18*,82462,DWHF
+172,Net worth,12  Mar-18*,85598,DWHF
+173,Borrowings,12  Mar-18*,704816,DWHF
+174,Investments,12  Mar-18*,20702,DWHF
+175,Total assets,12  Mar-18*,1076273,DWHF
+176,Debt/equity ratio,12  Mar-18*,8.2,DWHF
+177,Return on assets,12  Mar-18*,1.1,DWHF
+178,Return on equity,12  Mar-18*,13.6,DWHF
+179,Capital adequacy ratio,12  Mar-18*,15.3,DWHF
+180,Net NPAs,12  Mar-18*,0.6,DWHF
+181,From Operations,12  Mar-18*,-291540,DWHF
+182,From Investments,12  Mar-18*,50659,DWHF
+183,From Financial Activity,12  Mar-18*,226449,DWHF
+184,Net Cashflow,12  Mar-18*,-14431,DWHF

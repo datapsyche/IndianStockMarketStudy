@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,3894.0,TVTD
+1,Other income,12  Mar-14*,117.0,TVTD
+2,Total revenues,12  Mar-14*,4012.0,TVTD
+3,Gross profit,12  Mar-14*,1093.0,TVTD
+4,Depreciation,12  Mar-14*,242.0,TVTD
+5,Interest,12  Mar-14*,36.0,TVTD
+6,Profit before tax,12  Mar-14*,932.0,TVTD
+7,Minority Interest,12  Mar-14*,0.0,TVTD
+8,Prior Period Items,12  Mar-14*,0.0,TVTD
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,TVTD
+10,Tax,12  Mar-14*,319.0,TVTD
+11,Profit after tax,12  Mar-14*,613.0,TVTD
+12,Gross profit margin,12  Mar-14*,28.1,TVTD
+13,Effective tax rate,12  Mar-14*,34.2,TVTD
+14,Net profit margin,12  Mar-14*,15.7,TVTD
+15,Current assets,12  Mar-14*,2148.0,TVTD
+16,Current liabilities,12  Mar-14*,1072.0,TVTD
+17,Net working cap to sales,12  Mar-14*,27.7,TVTD
+18,Current ratio,12  Mar-14*,2.0,TVTD
+19,Inventory Days,12  Mar-14*,0.0,TVTD
+20,Debtors Days,12  Mar-14*,103.0,TVTD
+21,Net fixed assets,12  Mar-14*,2170.0,TVTD
+22,Share capital,12  Mar-14*,297.0,TVTD
+23,"""Free"" reserves",12  Mar-14*,3491.0,TVTD
+24,Net worth,12  Mar-14*,3791.0,TVTD
+25,Long term debt,12  Mar-14*,0.0,TVTD
+26,Total assets,12  Mar-14*,4987.0,TVTD
+27,Interest coverage,12  Mar-14*,27.0,TVTD
+28,Debt to equity ratio,12  Mar-14*,0.0,TVTD
+29,Sales to assets ratio,12  Mar-14*,0.8,TVTD
+30,Return on assets,12  Mar-14*,13.0,TVTD
+31,Return on equity,12  Mar-14*,16.2,TVTD
+32,Return on capital,12  Mar-14*,25.5,TVTD
+33,Exports to sales,12  Mar-14*,0.0,TVTD
+34,Imports to sales,12  Mar-14*,0.3,TVTD
+35,Exports (fob),12  Mar-14*,0.0,TVTD
+36,Imports (cif),12  Mar-14*,13.0,TVTD
+37,Fx inflow,12  Mar-14*,106.0,TVTD
+38,Fx outflow,12  Mar-14*,147.0,TVTD
+39,Net fx,12  Mar-14*,-41.0,TVTD
+40,From Operations,12  Mar-14*,805.0,TVTD
+41,From Investments,12  Mar-14*,-30.0,TVTD
+42,From Financial Activity,12  Mar-14*,-515.0,TVTD
+43,Net Cashflow,12  Mar-14*,259.0,TVTD
+44,Net Sales,12  Mar-15*,4766.0,TVTD
+45,Other income,12  Mar-15*,227.0,TVTD
+46,Total revenues,12  Mar-15*,4993.0,TVTD
+47,Gross profit,12  Mar-15*,1317.0,TVTD
+48,Depreciation,12  Mar-15*,300.0,TVTD
+49,Interest,12  Mar-15*,15.0,TVTD
+50,Profit before tax,12  Mar-15*,1229.0,TVTD
+51,Minority Interest,12  Mar-15*,0.0,TVTD
+52,Prior Period Items,12  Mar-15*,0.0,TVTD
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,TVTD
+54,Tax,12  Mar-15*,419.0,TVTD
+55,Profit after tax,12  Mar-15*,810.0,TVTD
+56,Gross profit margin,12  Mar-15*,27.6,TVTD
+57,Effective tax rate,12  Mar-15*,34.1,TVTD
+58,Net profit margin,12  Mar-15*,17.0,TVTD
+59,Current assets,12  Mar-15*,2751.0,TVTD
+60,Current liabilities,12  Mar-15*,1319.0,TVTD
+61,Net working cap to sales,12  Mar-15*,30.0,TVTD
+62,Current ratio,12  Mar-15*,2.1,TVTD
+63,Inventory Days,12  Mar-15*,2.0,TVTD
+64,Debtors Days,12  Mar-15*,95.0,TVTD
+65,Net fixed assets,12  Mar-15*,2383.0,TVTD
+66,Share capital,12  Mar-15*,298.0,TVTD
+67,"""Free"" reserves",12  Mar-15*,3900.0,TVTD
+68,Net worth,12  Mar-15*,4500.0,TVTD
+69,Long term debt,12  Mar-15*,148.0,TVTD
+70,Total assets,12  Mar-15*,5754.0,TVTD
+71,Interest coverage,12  Mar-15*,84.0,TVTD
+72,Debt to equity ratio,12  Mar-15*,0.0,TVTD
+73,Sales to assets ratio,12  Mar-15*,0.8,TVTD
+74,Return on assets,12  Mar-15*,14.3,TVTD
+75,Return on equity,12  Mar-15*,18.0,TVTD
+76,Return on capital,12  Mar-15*,26.8,TVTD
+77,Exports to sales,12  Mar-15*,0.0,TVTD
+78,Imports to sales,12  Mar-15*,1.0,TVTD
+79,Exports (fob),12  Mar-15*,0.0,TVTD
+80,Imports (cif),12  Mar-15*,46.0,TVTD
+81,Fx inflow,12  Mar-15*,126.0,TVTD
+82,Fx outflow,12  Mar-15*,227.0,TVTD
+83,Net fx,12  Mar-15*,-101.0,TVTD
+84,From Operations,12  Mar-15*,779.0,TVTD
+85,From Investments,12  Mar-15*,-493.0,TVTD
+86,From Financial Activity,12  Mar-15*,-179.0,TVTD
+87,Net Cashflow,12  Mar-15*,107.0,TVTD
+88,Net Sales,12  Mar-16*,5816.0,TVTD
+89,Other income,12  Mar-16*,179.0,TVTD
+90,Total revenues,12  Mar-16*,5995.0,TVTD
+91,Gross profit,12  Mar-16*,1644.0,TVTD
+92,Depreciation,12  Mar-16*,309.0,TVTD
+93,Interest,12  Mar-16*,64.0,TVTD
+94,Profit before tax,12  Mar-16*,1450.0,TVTD
+95,Minority Interest,12  Mar-16*,0.0,TVTD
+96,Prior Period Items,12  Mar-16*,0.0,TVTD
+97,Extraordinary Inc (Exp),12  Mar-16*,-303.0,TVTD
+98,Tax,12  Mar-16*,529.0,TVTD
+99,Profit after tax,12  Mar-16*,618.0,TVTD
+100,Gross profit margin,12  Mar-16*,28.3,TVTD
+101,Effective tax rate,12  Mar-16*,36.5,TVTD
+102,Net profit margin,12  Mar-16*,10.6,TVTD
+103,Current assets,12  Mar-16*,3796.0,TVTD
+104,Current liabilities,12  Mar-16*,1546.0,TVTD
+105,Net working cap to sales,12  Mar-16*,38.7,TVTD
+106,Current ratio,12  Mar-16*,2.5,TVTD
+107,Inventory Days,12  Mar-16*,1.0,TVTD
+108,Debtors Days,12  Mar-16*,95.0,TVTD
+109,Net fixed assets,12  Mar-16*,2182.0,TVTD
+110,Share capital,12  Mar-16*,298.0,TVTD
+111,"""Free"" reserves",12  Mar-16*,4423.0,TVTD
+112,Net worth,12  Mar-16*,4722.0,TVTD
+113,Long term debt,12  Mar-16*,111.0,TVTD
+114,Total assets,12  Mar-16*,6473.0,TVTD
+115,Interest coverage,12  Mar-16*,23.7,TVTD
+116,Debt to equity ratio,12  Mar-16*,0.0,TVTD
+117,Sales to assets ratio,12  Mar-16*,0.9,TVTD
+118,Return on assets,12  Mar-16*,10.5,TVTD
+119,Return on equity,12  Mar-16*,13.1,TVTD
+120,Return on capital,12  Mar-16*,25.1,TVTD
+121,Exports to sales,12  Mar-16*,0.0,TVTD
+122,Imports to sales,12  Mar-16*,0.7,TVTD
+123,Exports (fob),12  Mar-16*,0.0,TVTD
+124,Imports (cif),12  Mar-16*,40.0,TVTD
+125,Fx inflow,12  Mar-16*,157.0,TVTD
+126,Fx outflow,12  Mar-16*,224.0,TVTD
+127,Net fx,12  Mar-16*,-67.0,TVTD
+128,From Operations,12  Mar-16*,-357.0,TVTD
+129,From Investments,12  Mar-16*,0.0,TVTD
+130,From Financial Activity,12  Mar-16*,-129.0,TVTD
+131,Net Cashflow,12  Mar-16*,-484.0,TVTD
+132,Net Sales,12  Mar-17*,6523.0,TVTD
+133,Other income,12  Mar-17*,214.0,TVTD
+134,Total revenues,12  Mar-17*,6737.0,TVTD
+135,Gross profit,12  Mar-17*,1624.0,TVTD
+136,Depreciation,12  Mar-17*,294.0,TVTD
+137,Interest,12  Mar-17*,84.0,TVTD
+138,Profit before tax,12  Mar-17*,1461.0,TVTD
+139,Minority Interest,12  Mar-17*,0.0,TVTD
+140,Prior Period Items,12  Mar-17*,0.0,TVTD
+141,Extraordinary Inc (Exp),12  Mar-17*,86.0,TVTD
+142,Tax,12  Mar-17*,541.0,TVTD
+143,Profit after tax,12  Mar-17*,1005.0,TVTD
+144,Gross profit margin,12  Mar-17*,24.9,TVTD
+145,Effective tax rate,12  Mar-17*,37.1,TVTD
+146,Net profit margin,12  Mar-17*,15.4,TVTD
+147,Current assets,12  Mar-17*,5077.0,TVTD
+148,Current liabilities,12  Mar-17*,1704.0,TVTD
+149,Net working cap to sales,12  Mar-17*,51.7,TVTD
+150,Current ratio,12  Mar-17*,3.0,TVTD
+151,Inventory Days,12  Mar-17*,1.0,TVTD
+152,Debtors Days,12  Mar-17*,100.0,TVTD
+153,Net fixed assets,12  Mar-17*,2084.0,TVTD
+154,Share capital,12  Mar-17*,298.0,TVTD
+155,"""Free"" reserves",12  Mar-17*,5512.0,TVTD
+156,Net worth,12  Mar-17*,5810.0,TVTD
+157,Long term debt,12  Mar-17*,52.0,TVTD
+158,Total assets,12  Mar-17*,7680.0,TVTD
+159,Interest coverage,12  Mar-17*,18.4,TVTD
+160,Debt to equity ratio,12  Mar-17*,0.0,TVTD
+161,Sales to assets ratio,12  Mar-17*,0.8,TVTD
+162,Return on assets,12  Mar-17*,14.2,TVTD
+163,Return on equity,12  Mar-17*,17.3,TVTD
+164,Return on capital,12  Mar-17*,27.8,TVTD
+165,Exports to sales,12  Mar-17*,0.0,TVTD
+166,Imports to sales,12  Mar-17*,0.8,TVTD
+167,Exports (fob),12  Mar-17*,0.0,TVTD
+168,Imports (cif),12  Mar-17*,49.0,TVTD
+169,Fx inflow,12  Mar-17*,138.0,TVTD
+170,Fx outflow,12  Mar-17*,189.0,TVTD
+171,Net fx,12  Mar-17*,-51.0,TVTD
+172,From Operations,12  Mar-17*,1201.0,TVTD
+173,From Investments,12  Mar-17*,-1031.0,TVTD
+174,From Financial Activity,12  Mar-17*,-161.0,TVTD
+175,Net Cashflow,12  Mar-17*,10.0,TVTD
+176,Net Sales,12  Mar-18*,7209.0,TVTD
+177,Other income,12  Mar-18*,245.0,TVTD
+178,Total revenues,12  Mar-18*,7454.0,TVTD
+179,Gross profit,12  Mar-18*,2079.0,TVTD
+180,Depreciation,12  Mar-18*,314.0,TVTD
+181,Interest,12  Mar-18*,37.0,TVTD
+182,Profit before tax,12  Mar-18*,1972.0,TVTD
+183,Minority Interest,12  Mar-18*,0.0,TVTD
+184,Prior Period Items,12  Mar-18*,0.0,TVTD
+185,Extraordinary Inc (Exp),12  Mar-18*,-138.0,TVTD
+186,Tax,12  Mar-18*,645.0,TVTD
+187,Profit after tax,12  Mar-18*,1189.0,TVTD
+188,Gross profit margin,12  Mar-18*,28.8,TVTD
+189,Effective tax rate,12  Mar-18*,32.7,TVTD
+190,Net profit margin,12  Mar-18*,16.5,TVTD
+191,Current assets,12  Mar-18*,4564.0,TVTD
+192,Current liabilities,12  Mar-18*,1599.0,TVTD
+193,Net working cap to sales,12  Mar-18*,41.1,TVTD
+194,Current ratio,12  Mar-18*,2.9,TVTD
+195,Inventory Days,12  Mar-18*,1.0,TVTD
+196,Debtors Days,12  Mar-18*,94.0,TVTD
+197,Net fixed assets,12  Mar-18*,2605.0,TVTD
+198,Share capital,12  Mar-18*,298.0,TVTD
+199,"""Free"" reserves",12  Mar-18*,6319.0,TVTD
+200,Net worth,12  Mar-18*,6617.0,TVTD
+201,Long term debt,12  Mar-18*,0.0,TVTD
+202,Total assets,12  Mar-18*,8342.0,TVTD
+203,Interest coverage,12  Mar-18*,53.7,TVTD
+204,Debt to equity ratio,12  Mar-18*,0.0,TVTD
+205,Sales to assets ratio,12  Mar-18*,0.9,TVTD
+206,Return on assets,12  Mar-18*,14.7,TVTD
+207,Return on equity,12  Mar-18*,18.0,TVTD
+208,Return on capital,12  Mar-18*,28.3,TVTD
+209,Exports to sales,12  Mar-18*,0.0,TVTD
+210,Imports to sales,12  Mar-18*,0.5,TVTD
+211,Exports (fob),12  Mar-18*,0.0,TVTD
+212,Imports (cif),12  Mar-18*,34.0,TVTD
+213,Fx inflow,12  Mar-18*,183.0,TVTD
+214,Fx outflow,12  Mar-18*,194.0,TVTD
+215,Net fx,12  Mar-18*,-11.0,TVTD
+216,From Operations,12  Mar-18*,1576.0,TVTD
+217,From Investments,12  Mar-18*,-993.0,TVTD
+218,From Financial Activity,12  Mar-18*,-587.0,TVTD
+219,Net Cashflow,12  Mar-18*,-4.0,TVTD

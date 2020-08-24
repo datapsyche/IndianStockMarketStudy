@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,27359.0,INTE
+1,Other income,12  Mar-15*,1218.0,INTE
+2,Total revenues,12  Mar-15*,28577.0,INTE
+3,Gross profit,12  Mar-15*,4008.0,INTE
+4,Depreciation,12  Mar-15*,713.0,INTE
+5,Interest,12  Mar-15*,58.0,INTE
+6,Profit before tax,12  Mar-15*,4456.0,INTE
+7,Minority Interest,12  Mar-15*,22.0,INTE
+8,Prior Period Items,12  Mar-15*,150.0,INTE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,INTE
+10,Tax,12  Mar-15*,1096.0,INTE
+11,Profit after tax,12  Mar-15*,3532.0,INTE
+12,Gross profit margin,12  Mar-15*,14.7,INTE
+13,Effective tax rate,12  Mar-15*,24.6,INTE
+14,Net profit margin,12  Mar-15*,12.9,INTE
+15,Current assets,12  Mar-15*,15696.0,INTE
+16,Current liabilities,12  Mar-15*,5923.0,INTE
+17,Net working cap to sales,12  Mar-15*,35.7,INTE
+18,Current ratio,12  Mar-15*,2.7,INTE
+19,Inventory Days,12  Mar-15*,8.0,INTE
+20,Debtors Days,12  Mar-15*,71.0,INTE
+21,Net fixed assets,12  Mar-15*,3718.0,INTE
+22,Share capital,12  Mar-15*,562.0,INTE
+23,"""Free"" reserves",12  Mar-15*,17149.0,INTE
+24,Net worth,12  Mar-15*,18441.0,INTE
+25,Long term debt,12  Mar-15*,467.0,INTE
+26,Total assets,12  Mar-15*,25786.0,INTE
+27,Interest coverage,12  Mar-15*,78.4,INTE
+28,Debt to equity ratio,12  Mar-15*,0.0,INTE
+29,Sales to assets ratio,12  Mar-15*,1.1,INTE
+30,Return on assets,12  Mar-15*,13.9,INTE
+31,Return on equity,12  Mar-15*,19.2,INTE
+32,Return on capital,12  Mar-15*,24.8,INTE
+33,Exports to sales,12  Mar-15*,0.0,INTE
+34,Imports to sales,12  Mar-15*,0.0,INTE
+35,Exports (fob),12  Mar-15*,0.0,INTE
+36,Imports (cif),12  Mar-15*,0.0,INTE
+37,Fx inflow,12  Mar-15*,0.0,INTE
+38,Fx outflow,12  Mar-15*,0.0,INTE
+39,Net fx,12  Mar-15*,0.0,INTE
+40,From Operations,12  Mar-15*,3617.0,INTE
+41,From Investments,12  Mar-15*,-5282.0,INTE
+42,From Financial Activity,12  Mar-15*,-319.0,INTE
+43,Net Cashflow,12  Mar-15*,-1984.0,INTE
+44,Net Sales,12  Mar-16*,30956.0,INTE
+45,Other income,12  Mar-16*,1085.0,INTE
+46,Total revenues,12  Mar-16*,32041.0,INTE
+47,Gross profit,12  Mar-16*,4120.0,INTE
+48,Depreciation,12  Mar-16*,893.0,INTE
+49,Interest,12  Mar-16*,179.0,INTE
+50,Profit before tax,12  Mar-16*,4134.0,INTE
+51,Minority Interest,12  Mar-16*,-6.0,INTE
+52,Prior Period Items,12  Mar-16*,120.0,INTE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,INTE
+54,Tax,12  Mar-16*,986.0,INTE
+55,Profit after tax,12  Mar-16*,3263.0,INTE
+56,Gross profit margin,12  Mar-16*,13.3,INTE
+57,Effective tax rate,12  Mar-16*,23.9,INTE
+58,Net profit margin,12  Mar-16*,10.5,INTE
+59,Current assets,12  Mar-16*,17947.0,INTE
+60,Current liabilities,12  Mar-16*,6676.0,INTE
+61,Net working cap to sales,12  Mar-16*,36.4,INTE
+62,Current ratio,12  Mar-16*,2.7,INTE
+63,Inventory Days,12  Mar-16*,12.0,INTE
+64,Debtors Days,12  Mar-16*,72.0,INTE
+65,Net fixed assets,12  Mar-16*,4084.0,INTE
+66,Share capital,12  Mar-16*,562.0,INTE
+67,"""Free"" reserves",12  Mar-16*,17900.0,INTE
+68,Net worth,12  Mar-16*,19098.0,INTE
+69,Long term debt,12  Mar-16*,681.0,INTE
+70,Total assets,12  Mar-16*,27370.0,INTE
+71,Interest coverage,12  Mar-16*,24.1,INTE
+72,Debt to equity ratio,12  Mar-16*,0.0,INTE
+73,Sales to assets ratio,12  Mar-16*,1.1,INTE
+74,Return on assets,12  Mar-16*,12.6,INTE
+75,Return on equity,12  Mar-16*,17.1,INTE
+76,Return on capital,12  Mar-16*,22.4,INTE
+77,Exports to sales,12  Mar-16*,0.0,INTE
+78,Imports to sales,12  Mar-16*,0.0,INTE
+79,Exports (fob),12  Mar-16*,0.0,INTE
+80,Imports (cif),12  Mar-16*,0.0,INTE
+81,Fx inflow,12  Mar-16*,0.0,INTE
+82,Fx outflow,12  Mar-16*,0.0,INTE
+83,Net fx,12  Mar-16*,0.0,INTE
+84,From Operations,12  Mar-16*,2785.0,INTE
+85,From Investments,12  Mar-16*,-848.0,INTE
+86,From Financial Activity,12  Mar-16*,-1107.0,INTE
+87,Net Cashflow,12  Mar-16*,829.0,INTE
+88,Net Sales,12  Mar-17*,35858.0,INTE
+89,Other income,12  Mar-17*,932.0,INTE
+90,Total revenues,12  Mar-17*,36790.0,INTE
+91,Gross profit,12  Mar-17*,4772.0,INTE
+92,Depreciation,12  Mar-17*,953.0,INTE
+93,Interest,12  Mar-17*,172.0,INTE
+94,Profit before tax,12  Mar-17*,4579.0,INTE
+95,Minority Interest,12  Mar-17*,5.0,INTE
+96,Prior Period Items,12  Mar-17*,118.0,INTE
+97,Extraordinary Inc (Exp),12  Mar-17*,-261.0,INTE
+98,Tax,12  Mar-17*,1045.0,INTE
+99,Profit after tax,12  Mar-17*,3396.0,INTE
+100,Gross profit margin,12  Mar-17*,13.3,INTE
+101,Effective tax rate,12  Mar-17*,22.8,INTE
+102,Net profit margin,12  Mar-17*,9.5,INTE
+103,Current assets,12  Mar-17*,20690.0,INTE
+104,Current liabilities,12  Mar-17*,8291.0,INTE
+105,Net working cap to sales,12  Mar-17*,34.6,INTE
+106,Current ratio,12  Mar-17*,2.5,INTE
+107,Inventory Days,12  Mar-17*,10.0,INTE
+108,Debtors Days,12  Mar-17*,66.0,INTE
+109,Net fixed assets,12  Mar-17*,7775.0,INTE
+110,Share capital,12  Mar-17*,563.0,INTE
+111,"""Free"" reserves",12  Mar-17*,20610.0,INTE
+112,Net worth,12  Mar-17*,21173.0,INTE
+113,Long term debt,12  Mar-17*,492.0,INTE
+114,Total assets,12  Mar-17*,31364.0,INTE
+115,Interest coverage,12  Mar-17*,27.6,INTE
+116,Debt to equity ratio,12  Mar-17*,0.0,INTE
+117,Sales to assets ratio,12  Mar-17*,1.1,INTE
+118,Return on assets,12  Mar-17*,11.4,INTE
+119,Return on equity,12  Mar-17*,16.0,INTE
+120,Return on capital,12  Mar-17*,21.3,INTE
+121,Exports to sales,12  Mar-17*,0.0,INTE
+122,Imports to sales,12  Mar-17*,0.0,INTE
+123,Exports (fob),12  Mar-17*,0.0,INTE
+124,Imports (cif),12  Mar-17*,0.0,INTE
+125,Fx inflow,12  Mar-17*,12071.0,INTE
+126,Fx outflow,12  Mar-17*,2293.0,INTE
+127,Net fx,12  Mar-17*,9778.0,INTE
+128,From Operations,12  Mar-17*,4199.0,INTE
+129,From Investments,12  Mar-17*,-1803.0,INTE
+130,From Financial Activity,12  Mar-17*,-934.0,INTE
+131,Net Cashflow,12  Mar-17*,1739.0,INTE
+132,Net Sales,12  Mar-18*,39139.0,INTE
+133,Other income,12  Mar-18*,1519.0,INTE
+134,Total revenues,12  Mar-18*,40658.0,INTE
+135,Gross profit,12  Mar-18*,5354.0,INTE
+136,Depreciation,12  Mar-18*,1052.0,INTE
+137,Interest,12  Mar-18*,204.0,INTE
+138,Profit before tax,12  Mar-18*,5617.0,INTE
+139,Minority Interest,12  Mar-18*,4.0,INTE
+140,Prior Period Items,12  Mar-18*,-160.0,INTE
+141,Extraordinary Inc (Exp),12  Mar-18*,-50.0,INTE
+142,Tax,12  Mar-18*,1380.0,INTE
+143,Profit after tax,12  Mar-18*,4031.0,INTE
+144,Gross profit margin,12  Mar-18*,13.7,INTE
+145,Effective tax rate,12  Mar-18*,24.6,INTE
+146,Net profit margin,12  Mar-18*,10.3,INTE
+147,Current assets,12  Mar-18*,23456.0,INTE
+148,Current liabilities,12  Mar-18*,8621.0,INTE
+149,Net working cap to sales,12  Mar-18*,37.9,INTE
+150,Current ratio,12  Mar-18*,2.7,INTE
+151,Inventory Days,12  Mar-18*,12.0,INTE
+152,Debtors Days,12  Mar-18*,64.0,INTE
+153,Net fixed assets,12  Mar-18*,8490.0,INTE
+154,Share capital,12  Mar-18*,563.0,INTE
+155,"""Free"" reserves",12  Mar-18*,22876.0,INTE
+156,Net worth,12  Mar-18*,23439.0,INTE
+157,Long term debt,12  Mar-18*,630.0,INTE
+158,Total assets,12  Mar-18*,34326.0,INTE
+159,Interest coverage,12  Mar-18*,28.5,INTE
+160,Debt to equity ratio,12  Mar-18*,0.0,INTE
+161,Sales to assets ratio,12  Mar-18*,1.1,INTE
+162,Return on assets,12  Mar-18*,12.3,INTE
+163,Return on equity,12  Mar-18*,17.2,INTE
+164,Return on capital,12  Mar-18*,23.3,INTE
+165,Exports to sales,12  Mar-18*,0.0,INTE
+166,Imports to sales,12  Mar-18*,0.0,INTE
+167,Exports (fob),12  Mar-18*,0.0,INTE
+168,Imports (cif),12  Mar-18*,0.0,INTE
+169,Fx inflow,12  Mar-18*,13266.0,INTE
+170,Fx outflow,12  Mar-18*,1765.0,INTE
+171,Net fx,12  Mar-18*,11501.0,INTE
+172,From Operations,12  Mar-18*,2963.0,INTE
+173,From Investments,12  Mar-18*,-869.0,INTE
+174,From Financial Activity,12  Mar-18*,-1359.0,INTE
+175,Net Cashflow,12  Mar-18*,1033.0,INTE
+176,Net Sales,12  Mar-19*,46175.0,INTE
+177,Other income,12  Mar-19*,1340.0,INTE
+178,Total revenues,12  Mar-19*,47515.0,INTE
+179,Gross profit,12  Mar-19*,6328.0,INTE
+180,Depreciation,12  Mar-19*,1114.0,INTE
+181,Interest,12  Mar-19*,326.0,INTE
+182,Profit before tax,12  Mar-19*,6228.0,INTE
+183,Minority Interest,12  Mar-19*,5.0,INTE
+184,Prior Period Items,12  Mar-19*,0.0,INTE
+185,Extraordinary Inc (Exp),12  Mar-19*,-35.0,INTE
+186,Tax,12  Mar-19*,1427.0,INTE
+187,Profit after tax,12  Mar-19*,4771.0,INTE
+188,Gross profit margin,12  Mar-19*,13.7,INTE
+189,Effective tax rate,12  Mar-19*,22.9,INTE
+190,Net profit margin,12  Mar-19*,10.3,INTE
+191,Current assets,12  Mar-19*,25853.0,INTE
+192,Current liabilities,12  Mar-19*,9895.0,INTE
+193,Net working cap to sales,12  Mar-19*,34.6,INTE
+194,Current ratio,12  Mar-19*,2.6,INTE
+195,Inventory Days,12  Mar-19*,14.0,INTE
+196,Debtors Days,12  Mar-19*,64.0,INTE
+197,Net fixed assets,12  Mar-19*,10820.0,INTE
+198,Share capital,12  Mar-19*,552.0,INTE
+199,"""Free"" reserves",12  Mar-19*,25089.0,INTE
+200,Net worth,12  Mar-19*,25641.0,INTE
+201,Long term debt,12  Mar-19*,1116.0,INTE
+202,Total assets,12  Mar-19*,38892.0,INTE
+203,Interest coverage,12  Mar-19*,20.1,INTE
+204,Debt to equity ratio,12  Mar-19*,0.0,INTE
+205,Sales to assets ratio,12  Mar-19*,1.2,INTE
+206,Return on assets,12  Mar-19*,13.1,INTE
+207,Return on equity,12  Mar-19*,18.6,INTE
+208,Return on capital,12  Mar-19*,24.4,INTE
+209,Exports to sales,12  Mar-19*,0.0,INTE
+210,Imports to sales,12  Mar-19*,0.0,INTE
+211,Exports (fob),12  Mar-19*,0.0,INTE
+212,Imports (cif),12  Mar-19*,0.0,INTE
+213,Fx inflow,12  Mar-19*,14577.0,INTE
+214,Fx outflow,12  Mar-19*,1816.0,INTE
+215,Net fx,12  Mar-19*,12761.0,INTE
+216,From Operations,12  Mar-19*,3701.0,INTE
+217,From Investments,12  Mar-19*,-2207.0,INTE
+218,From Financial Activity,12  Mar-19*,-2321.0,INTE
+219,Net Cashflow,12  Mar-19*,-531.0,INTE

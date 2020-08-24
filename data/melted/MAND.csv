@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,13640.0,MAND
+1,Other income,12  Mar-15*,346.0,MAND
+2,Total revenues,12  Mar-15*,13986.0,MAND
+3,Gross profit,12  Mar-15*,1143.0,MAND
+4,Depreciation,12  Mar-15*,426.0,MAND
+5,Interest,12  Mar-15*,459.0,MAND
+6,Profit before tax,12  Mar-15*,604.0,MAND
+7,Minority Interest,12  Mar-15*,0.0,MAND
+8,Prior Period Items,12  Mar-15*,0.0,MAND
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MAND
+10,Tax,12  Mar-15*,100.0,MAND
+11,Profit after tax,12  Mar-15*,504.0,MAND
+12,Gross profit margin,12  Mar-15*,8.4,MAND
+13,Effective tax rate,12  Mar-15*,16.6,MAND
+14,Net profit margin,12  Mar-15*,3.7,MAND
+15,Current assets,12  Mar-15*,9420.0,MAND
+16,Current liabilities,12  Mar-15*,6332.0,MAND
+17,Net working cap to sales,12  Mar-15*,22.6,MAND
+18,Current ratio,12  Mar-15*,1.5,MAND
+19,Inventory Days,12  Mar-15*,36.0,MAND
+20,Debtors Days,12  Mar-15*,130.0,MAND
+21,Net fixed assets,12  Mar-15*,3566.0,MAND
+22,Share capital,12  Mar-15*,286.0,MAND
+23,"""Free"" reserves",12  Mar-15*,4618.0,MAND
+24,Net worth,12  Mar-15*,4904.0,MAND
+25,Long term debt,12  Mar-15*,2606.0,MAND
+26,Total assets,12  Mar-15*,14457.0,MAND
+27,Interest coverage,12  Mar-15*,2.3,MAND
+28,Debt to equity ratio,12  Mar-15*,0.5,MAND
+29,Sales to assets ratio,12  Mar-15*,0.9,MAND
+30,Return on assets,12  Mar-15*,6.7,MAND
+31,Return on equity,12  Mar-15*,10.3,MAND
+32,Return on capital,12  Mar-15*,14.2,MAND
+33,Exports to sales,12  Mar-15*,17.7,MAND
+34,Imports to sales,12  Mar-15*,24.1,MAND
+35,Exports (fob),12  Mar-15*,2414.0,MAND
+36,Imports (cif),12  Mar-15*,3287.0,MAND
+37,Fx inflow,12  Mar-15*,2414.0,MAND
+38,Fx outflow,12  Mar-15*,3758.0,MAND
+39,Net fx,12  Mar-15*,-1344.0,MAND
+40,From Operations,12  Mar-15*,644.0,MAND
+41,From Investments,12  Mar-15*,-606.0,MAND
+42,From Financial Activity,12  Mar-15*,-346.0,MAND
+43,Net Cashflow,12  Mar-15*,-308.0,MAND
+44,Net Sales,12  Mar-16*,13907.0,MAND
+45,Other income,12  Mar-16*,674.0,MAND
+46,Total revenues,12  Mar-16*,14581.0,MAND
+47,Gross profit,12  Mar-16*,1196.0,MAND
+48,Depreciation,12  Mar-16*,371.0,MAND
+49,Interest,12  Mar-16*,565.0,MAND
+50,Profit before tax,12  Mar-16*,934.0,MAND
+51,Minority Interest,12  Mar-16*,0.0,MAND
+52,Prior Period Items,12  Mar-16*,0.0,MAND
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MAND
+54,Tax,12  Mar-16*,69.0,MAND
+55,Profit after tax,12  Mar-16*,865.0,MAND
+56,Gross profit margin,12  Mar-16*,8.6,MAND
+57,Effective tax rate,12  Mar-16*,7.4,MAND
+58,Net profit margin,12  Mar-16*,6.2,MAND
+59,Current assets,12  Mar-16*,7372.0,MAND
+60,Current liabilities,12  Mar-16*,4393.0,MAND
+61,Net working cap to sales,12  Mar-16*,21.4,MAND
+62,Current ratio,12  Mar-16*,1.7,MAND
+63,Inventory Days,12  Mar-16*,33.0,MAND
+64,Debtors Days,12  Mar-16*,70.0,MAND
+65,Net fixed assets,12  Mar-16*,3686.0,MAND
+66,Share capital,12  Mar-16*,286.0,MAND
+67,"""Free"" reserves",12  Mar-16*,5378.0,MAND
+68,Net worth,12  Mar-16*,5663.0,MAND
+69,Long term debt,12  Mar-16*,1905.0,MAND
+70,Total assets,12  Mar-16*,12426.0,MAND
+71,Interest coverage,12  Mar-16*,2.7,MAND
+72,Debt to equity ratio,12  Mar-16*,0.3,MAND
+73,Sales to assets ratio,12  Mar-16*,1.1,MAND
+74,Return on assets,12  Mar-16*,11.5,MAND
+75,Return on equity,12  Mar-16*,15.3,MAND
+76,Return on capital,12  Mar-16*,19.8,MAND
+77,Exports to sales,12  Mar-16*,34.9,MAND
+78,Imports to sales,12  Mar-16*,20.7,MAND
+79,Exports (fob),12  Mar-16*,4855.0,MAND
+80,Imports (cif),12  Mar-16*,2878.0,MAND
+81,Fx inflow,12  Mar-16*,4855.0,MAND
+82,Fx outflow,12  Mar-16*,3814.0,MAND
+83,Net fx,12  Mar-16*,1040.0,MAND
+84,From Operations,12  Mar-16*,2048.0,MAND
+85,From Investments,12  Mar-16*,24.0,MAND
+86,From Financial Activity,12  Mar-16*,-1879.0,MAND
+87,Net Cashflow,12  Mar-16*,193.0,MAND
+88,Net Sales,12  Mar-17*,10579.0,MAND
+89,Other income,12  Mar-17*,724.0,MAND
+90,Total revenues,12  Mar-17*,11303.0,MAND
+91,Gross profit,12  Mar-17*,483.0,MAND
+92,Depreciation,12  Mar-17*,401.0,MAND
+93,Interest,12  Mar-17*,363.0,MAND
+94,Profit before tax,12  Mar-17*,443.0,MAND
+95,Minority Interest,12  Mar-17*,0.0,MAND
+96,Prior Period Items,12  Mar-17*,0.0,MAND
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,MAND
+98,Tax,12  Mar-17*,107.0,MAND
+99,Profit after tax,12  Mar-17*,336.0,MAND
+100,Gross profit margin,12  Mar-17*,4.6,MAND
+101,Effective tax rate,12  Mar-17*,24.2,MAND
+102,Net profit margin,12  Mar-17*,3.2,MAND
+103,Current assets,12  Mar-17*,8703.0,MAND
+104,Current liabilities,12  Mar-17*,5812.0,MAND
+105,Net working cap to sales,12  Mar-17*,27.3,MAND
+106,Current ratio,12  Mar-17*,1.5,MAND
+107,Inventory Days,12  Mar-17*,38.0,MAND
+108,Debtors Days,12  Mar-17*,118.0,MAND
+109,Net fixed assets,12  Mar-17*,3508.0,MAND
+110,Share capital,12  Mar-17*,286.0,MAND
+111,"""Free"" reserves",12  Mar-17*,5697.0,MAND
+112,Net worth,12  Mar-17*,5983.0,MAND
+113,Long term debt,12  Mar-17*,1313.0,MAND
+114,Total assets,12  Mar-17*,13564.0,MAND
+115,Interest coverage,12  Mar-17*,2.2,MAND
+116,Debt to equity ratio,12  Mar-17*,0.2,MAND
+117,Sales to assets ratio,12  Mar-17*,0.8,MAND
+118,Return on assets,12  Mar-17*,5.2,MAND
+119,Return on equity,12  Mar-17*,5.6,MAND
+120,Return on capital,12  Mar-17*,11.1,MAND
+121,Exports to sales,12  Mar-17*,43.9,MAND
+122,Imports to sales,12  Mar-17*,0.0,MAND
+123,Exports (fob),12  Mar-17*,4645.0,MAND
+124,Imports (cif),12  Mar-17*,0.0,MAND
+125,Fx inflow,12  Mar-17*,4645.0,MAND
+126,Fx outflow,12  Mar-17*,4555.0,MAND
+127,Net fx,12  Mar-17*,90.0,MAND
+128,From Operations,12  Mar-17*,-748.0,MAND
+129,From Investments,12  Mar-17*,206.0,MAND
+130,From Financial Activity,12  Mar-17*,412.0,MAND
+131,Net Cashflow,12  Mar-17*,-130.0,MAND
+132,Net Sales,12  Mar-18*,16075.0,MAND
+133,Other income,12  Mar-18*,568.0,MAND
+134,Total revenues,12  Mar-18*,16643.0,MAND
+135,Gross profit,12  Mar-18*,1244.0,MAND
+136,Depreciation,12  Mar-18*,392.0,MAND
+137,Interest,12  Mar-18*,430.0,MAND
+138,Profit before tax,12  Mar-18*,989.0,MAND
+139,Minority Interest,12  Mar-18*,0.0,MAND
+140,Prior Period Items,12  Mar-18*,0.0,MAND
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MAND
+142,Tax,12  Mar-18*,352.0,MAND
+143,Profit after tax,12  Mar-18*,637.0,MAND
+144,Gross profit margin,12  Mar-18*,7.7,MAND
+145,Effective tax rate,12  Mar-18*,35.6,MAND
+146,Net profit margin,12  Mar-18*,4.0,MAND
+147,Current assets,12  Mar-18*,10920.0,MAND
+148,Current liabilities,12  Mar-18*,9154.0,MAND
+149,Net working cap to sales,12  Mar-18*,11.0,MAND
+150,Current ratio,12  Mar-18*,1.2,MAND
+151,Inventory Days,12  Mar-18*,95.0,MAND
+152,Debtors Days,12  Mar-18*,87.0,MAND
+153,Net fixed assets,12  Mar-18*,4184.0,MAND
+154,Share capital,12  Mar-18*,286.0,MAND
+155,"""Free"" reserves",12  Mar-18*,6236.0,MAND
+156,Net worth,12  Mar-18*,6522.0,MAND
+157,Long term debt,12  Mar-18*,896.0,MAND
+158,Total assets,12  Mar-18*,16976.0,MAND
+159,Interest coverage,12  Mar-18*,3.3,MAND
+160,Debt to equity ratio,12  Mar-18*,0.1,MAND
+161,Sales to assets ratio,12  Mar-18*,0.9,MAND
+162,Return on assets,12  Mar-18*,6.3,MAND
+163,Return on equity,12  Mar-18*,9.8,MAND
+164,Return on capital,12  Mar-18*,19.1,MAND
+165,Exports to sales,12  Mar-18*,32.0,MAND
+166,Imports to sales,12  Mar-18*,0.0,MAND
+167,Exports (fob),12  Mar-18*,5150.0,MAND
+168,Imports (cif),12  Mar-18*,0.0,MAND
+169,Fx inflow,12  Mar-18*,5150.0,MAND
+170,Fx outflow,12  Mar-18*,8155.0,MAND
+171,Net fx,12  Mar-18*,-3005.0,MAND
+172,From Operations,12  Mar-18*,1320.0,MAND
+173,From Investments,12  Mar-18*,-1049.0,MAND
+174,From Financial Activity,12  Mar-18*,-1152.0,MAND
+175,Net Cashflow,12  Mar-18*,-881.0,MAND
+176,Net Sales,12  Mar-19*,22217.0,MAND
+177,Other income,12  Mar-19*,207.0,MAND
+178,Total revenues,12  Mar-19*,22424.0,MAND
+179,Gross profit,12  Mar-19*,1790.0,MAND
+180,Depreciation,12  Mar-19*,459.0,MAND
+181,Interest,12  Mar-19*,653.0,MAND
+182,Profit before tax,12  Mar-19*,884.0,MAND
+183,Minority Interest,12  Mar-19*,0.0,MAND
+184,Prior Period Items,12  Mar-19*,0.0,MAND
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MAND
+186,Tax,12  Mar-19*,296.0,MAND
+187,Profit after tax,12  Mar-19*,588.0,MAND
+188,Gross profit margin,12  Mar-19*,8.1,MAND
+189,Effective tax rate,12  Mar-19*,33.5,MAND
+190,Net profit margin,12  Mar-19*,2.6,MAND
+191,Current assets,12  Mar-19*,9491.0,MAND
+192,Current liabilities,12  Mar-19*,7979.0,MAND
+193,Net working cap to sales,12  Mar-19*,6.8,MAND
+194,Current ratio,12  Mar-19*,1.2,MAND
+195,Inventory Days,12  Mar-19*,36.0,MAND
+196,Debtors Days,12  Mar-19*,91.0,MAND
+197,Net fixed assets,12  Mar-19*,3992.0,MAND
+198,Share capital,12  Mar-19*,286.0,MAND
+199,"""Free"" reserves",12  Mar-19*,6735.0,MAND
+200,Net worth,12  Mar-19*,7020.0,MAND
+201,Long term debt,12  Mar-19*,492.0,MAND
+202,Total assets,12  Mar-19*,15942.0,MAND
+203,Interest coverage,12  Mar-19*,2.4,MAND
+204,Debt to equity ratio,12  Mar-19*,0.1,MAND
+205,Sales to assets ratio,12  Mar-19*,1.4,MAND
+206,Return on assets,12  Mar-19*,7.8,MAND
+207,Return on equity,12  Mar-19*,8.4,MAND
+208,Return on capital,12  Mar-19*,20.5,MAND
+209,Exports to sales,12  Mar-19*,73.7,MAND
+210,Imports to sales,12  Mar-19*,0.0,MAND
+211,Exports (fob),12  Mar-19*,16380.0,MAND
+212,Imports (cif),12  Mar-19*,0.0,MAND
+213,Fx inflow,12  Mar-19*,16380.0,MAND
+214,Fx outflow,12  Mar-19*,11672.0,MAND
+215,Net fx,12  Mar-19*,4708.0,MAND
+216,From Operations,12  Mar-19*,1362.0,MAND
+217,From Investments,12  Mar-19*,-171.0,MAND
+218,From Financial Activity,12  Mar-19*,-1385.0,MAND
+219,Net Cashflow,12  Mar-19*,-194.0,MAND

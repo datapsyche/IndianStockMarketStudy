@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,5544.0,MNPT
+1,Other income,12  Mar-14,63.0,MNPT
+2,Total revenues,12  Mar-14,5607.0,MNPT
+3,Gross profit,12  Mar-14,469.0,MNPT
+4,Depreciation,12  Mar-14,66.0,MNPT
+5,Interest,12  Mar-14,19.0,MNPT
+6,Profit before tax,12  Mar-14,448.0,MNPT
+7,Minority Interest,12  Mar-14,0.0,MNPT
+8,Prior Period Items,12  Mar-14,0.0,MNPT
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,MNPT
+10,Tax,12  Mar-14,157.0,MNPT
+11,Profit after tax,12  Mar-14,291.0,MNPT
+12,Gross profit margin,12  Mar-14,8.5,MNPT
+13,Effective tax rate,12  Mar-14,35.1,MNPT
+14,Net profit margin,12  Mar-14,5.2,MNPT
+15,Current assets,12  Mar-14,1868.0,MNPT
+16,Current liabilities,12  Mar-14,822.0,MNPT
+17,Net working cap to sales,12  Mar-14,18.9,MNPT
+18,Current ratio,12  Mar-14,2.3,MNPT
+19,Inventory Days,12  Mar-14,41.0,MNPT
+20,Debtors Days,12  Mar-14,35.0,MNPT
+21,Net fixed assets,12  Mar-14,1062.0,MNPT
+22,Share capital,12  Mar-14,860.0,MNPT
+23,"""Free"" reserves",12  Mar-14,1246.0,MNPT
+24,Net worth,12  Mar-14,2115.0,MNPT
+25,Long term debt,12  Mar-14,0.0,MNPT
+26,Total assets,12  Mar-14,3119.0,MNPT
+27,Interest coverage,12  Mar-14,24.6,MNPT
+28,Debt to equity ratio,12  Mar-14,0.0,MNPT
+29,Sales to assets ratio,12  Mar-14,1.8,MNPT
+30,Return on assets,12  Mar-14,9.9,MNPT
+31,Return on equity,12  Mar-14,13.7,MNPT
+32,Return on capital,12  Mar-14,22.1,MNPT
+33,Exports to sales,12  Mar-14,3.2,MNPT
+34,Imports to sales,12  Mar-14,15.3,MNPT
+35,Exports (fob),12  Mar-14,176.0,MNPT
+36,Imports (cif),12  Mar-14,846.0,MNPT
+37,Fx inflow,12  Mar-14,180.0,MNPT
+38,Fx outflow,12  Mar-14,850.0,MNPT
+39,Net fx,12  Mar-14,-670.0,MNPT
+40,From Operations,12  Mar-14,454.0,MNPT
+41,From Investments,12  Mar-14,-22.0,MNPT
+42,From Financial Activity,12  Mar-14,-117.0,MNPT
+43,Net Cashflow,12  Mar-14,315.0,MNPT
+44,Net Sales,12  Mar-15,7331.0,MNPT
+45,Other income,12  Mar-15,7.0,MNPT
+46,Total revenues,12  Mar-15,7339.0,MNPT
+47,Gross profit,12  Mar-15,768.0,MNPT
+48,Depreciation,12  Mar-15,56.0,MNPT
+49,Interest,12  Mar-15,25.0,MNPT
+50,Profit before tax,12  Mar-15,695.0,MNPT
+51,Minority Interest,12  Mar-15,0.0,MNPT
+52,Prior Period Items,12  Mar-15,0.0,MNPT
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,MNPT
+54,Tax,12  Mar-15,255.0,MNPT
+55,Profit after tax,12  Mar-15,440.0,MNPT
+56,Gross profit margin,12  Mar-15,10.5,MNPT
+57,Effective tax rate,12  Mar-15,36.7,MNPT
+58,Net profit margin,12  Mar-15,6.0,MNPT
+59,Current assets,12  Mar-15,2753.0,MNPT
+60,Current liabilities,12  Mar-15,1571.0,MNPT
+61,Net working cap to sales,12  Mar-15,16.1,MNPT
+62,Current ratio,12  Mar-15,1.8,MNPT
+63,Inventory Days,12  Mar-15,38.0,MNPT
+64,Debtors Days,12  Mar-15,40.0,MNPT
+65,Net fixed assets,12  Mar-15,1110.0,MNPT
+66,Share capital,12  Mar-15,860.0,MNPT
+67,"""Free"" reserves",12  Mar-15,1580.0,MNPT
+68,Net worth,12  Mar-15,2448.0,MNPT
+69,Long term debt,12  Mar-15,0.0,MNPT
+70,Total assets,12  Mar-15,4079.0,MNPT
+71,Interest coverage,12  Mar-15,29.0,MNPT
+72,Debt to equity ratio,12  Mar-15,0.0,MNPT
+73,Sales to assets ratio,12  Mar-15,1.8,MNPT
+74,Return on assets,12  Mar-15,11.4,MNPT
+75,Return on equity,12  Mar-15,18.0,MNPT
+76,Return on capital,12  Mar-15,29.4,MNPT
+77,Exports to sales,12  Mar-15,4.6,MNPT
+78,Imports to sales,12  Mar-15,24.2,MNPT
+79,Exports (fob),12  Mar-15,337.0,MNPT
+80,Imports (cif),12  Mar-15,1771.0,MNPT
+81,Fx inflow,12  Mar-15,346.0,MNPT
+82,Fx outflow,12  Mar-15,1786.0,MNPT
+83,Net fx,12  Mar-15,-1440.0,MNPT
+84,From Operations,12  Mar-15,784.0,MNPT
+85,From Investments,12  Mar-15,-60.0,MNPT
+86,From Financial Activity,12  Mar-15,-142.0,MNPT
+87,Net Cashflow,12  Mar-15,583.0,MNPT
+88,Net Sales,12  Mar-16*,5790.0,MNPT
+89,Other income,12  Mar-16*,107.0,MNPT
+90,Total revenues,12  Mar-16*,5898.0,MNPT
+91,Gross profit,12  Mar-16*,667.0,MNPT
+92,Depreciation,12  Mar-16*,59.0,MNPT
+93,Interest,12  Mar-16*,25.0,MNPT
+94,Profit before tax,12  Mar-16*,690.0,MNPT
+95,Minority Interest,12  Mar-16*,0.0,MNPT
+96,Prior Period Items,12  Mar-16*,0.0,MNPT
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,MNPT
+98,Tax,12  Mar-16*,211.0,MNPT
+99,Profit after tax,12  Mar-16*,480.0,MNPT
+100,Gross profit margin,12  Mar-16*,11.5,MNPT
+101,Effective tax rate,12  Mar-16*,30.5,MNPT
+102,Net profit margin,12  Mar-16*,8.3,MNPT
+103,Current assets,12  Mar-16*,3459.0,MNPT
+104,Current liabilities,12  Mar-16*,2092.0,MNPT
+105,Net working cap to sales,12  Mar-16*,23.6,MNPT
+106,Current ratio,12  Mar-16*,1.7,MNPT
+107,Inventory Days,12  Mar-16*,66.0,MNPT
+108,Debtors Days,12  Mar-16*,60.0,MNPT
+109,Net fixed assets,12  Mar-16*,1501.0,MNPT
+110,Share capital,12  Mar-16*,860.0,MNPT
+111,"""Free"" reserves",12  Mar-16*,2236.0,MNPT
+112,Net worth,12  Mar-16*,3096.0,MNPT
+113,Long term debt,12  Mar-16*,0.0,MNPT
+114,Total assets,12  Mar-16*,5239.0,MNPT
+115,Interest coverage,12  Mar-16*,28.4,MNPT
+116,Debt to equity ratio,12  Mar-16*,0.0,MNPT
+117,Sales to assets ratio,12  Mar-16*,1.1,MNPT
+118,Return on assets,12  Mar-16*,9.6,MNPT
+119,Return on equity,12  Mar-16*,15.5,MNPT
+120,Return on capital,12  Mar-16*,23.1,MNPT
+121,Exports to sales,12  Mar-16*,3.6,MNPT
+122,Imports to sales,12  Mar-16*,30.0,MNPT
+123,Exports (fob),12  Mar-16*,208.0,MNPT
+124,Imports (cif),12  Mar-16*,1738.0,MNPT
+125,Fx inflow,12  Mar-16*,216.0,MNPT
+126,Fx outflow,12  Mar-16*,1757.0,MNPT
+127,Net fx,12  Mar-16*,-1542.0,MNPT
+128,From Operations,12  Mar-16*,-303.0,MNPT
+129,From Investments,12  Mar-16*,-69.0,MNPT
+130,From Financial Activity,12  Mar-16*,-113.0,MNPT
+131,Net Cashflow,12  Mar-16*,-485.0,MNPT
+132,Net Sales,12  Mar-17*,6321.0,MNPT
+133,Other income,12  Mar-17*,132.0,MNPT
+134,Total revenues,12  Mar-17*,6453.0,MNPT
+135,Gross profit,12  Mar-17*,600.0,MNPT
+136,Depreciation,12  Mar-17*,97.0,MNPT
+137,Interest,12  Mar-17*,23.0,MNPT
+138,Profit before tax,12  Mar-17*,612.0,MNPT
+139,Minority Interest,12  Mar-17*,0.0,MNPT
+140,Prior Period Items,12  Mar-17*,0.0,MNPT
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MNPT
+142,Tax,12  Mar-17*,217.0,MNPT
+143,Profit after tax,12  Mar-17*,396.0,MNPT
+144,Gross profit margin,12  Mar-17*,9.5,MNPT
+145,Effective tax rate,12  Mar-17*,35.4,MNPT
+146,Net profit margin,12  Mar-17*,6.3,MNPT
+147,Current assets,12  Mar-17*,2732.0,MNPT
+148,Current liabilities,12  Mar-17*,2102.0,MNPT
+149,Net working cap to sales,12  Mar-17*,10.0,MNPT
+150,Current ratio,12  Mar-17*,1.3,MNPT
+151,Inventory Days,12  Mar-17*,72.0,MNPT
+152,Debtors Days,12  Mar-17*,51.0,MNPT
+153,Net fixed assets,12  Mar-17*,1836.0,MNPT
+154,Share capital,12  Mar-17*,860.0,MNPT
+155,"""Free"" reserves",12  Mar-17*,2443.0,MNPT
+156,Net worth,12  Mar-17*,3303.0,MNPT
+157,Long term debt,12  Mar-17*,0.0,MNPT
+158,Total assets,12  Mar-17*,5560.0,MNPT
+159,Interest coverage,12  Mar-17*,27.5,MNPT
+160,Debt to equity ratio,12  Mar-17*,0.0,MNPT
+161,Sales to assets ratio,12  Mar-17*,1.1,MNPT
+162,Return on assets,12  Mar-17*,7.5,MNPT
+163,Return on equity,12  Mar-17*,12.0,MNPT
+164,Return on capital,12  Mar-17*,19.2,MNPT
+165,Exports to sales,12  Mar-17*,0.0,MNPT
+166,Imports to sales,12  Mar-17*,0.0,MNPT
+167,Exports (fob),12  Mar-17*,0.0,MNPT
+168,Imports (cif),12  Mar-17*,0.0,MNPT
+169,Fx inflow,12  Mar-17*,299.0,MNPT
+170,Fx outflow,12  Mar-17*,4005.0,MNPT
+171,Net fx,12  Mar-17*,-3706.0,MNPT
+172,From Operations,12  Mar-17*,874.0,MNPT
+173,From Investments,12  Mar-17*,-1241.0,MNPT
+174,From Financial Activity,12  Mar-17*,58.0,MNPT
+175,Net Cashflow,12  Mar-17*,-395.0,MNPT
+176,Net Sales,12  Mar-18*,7478.0,MNPT
+177,Other income,12  Mar-18*,30.0,MNPT
+178,Total revenues,12  Mar-18*,7508.0,MNPT
+179,Gross profit,12  Mar-18*,970.0,MNPT
+180,Depreciation,12  Mar-18*,89.0,MNPT
+181,Interest,12  Mar-18*,33.0,MNPT
+182,Profit before tax,12  Mar-18*,878.0,MNPT
+183,Minority Interest,12  Mar-18*,0.0,MNPT
+184,Prior Period Items,12  Mar-18*,0.0,MNPT
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MNPT
+186,Tax,12  Mar-18*,299.0,MNPT
+187,Profit after tax,12  Mar-18*,579.0,MNPT
+188,Gross profit margin,12  Mar-18*,13.0,MNPT
+189,Effective tax rate,12  Mar-18*,34.1,MNPT
+190,Net profit margin,12  Mar-18*,7.7,MNPT
+191,Current assets,12  Mar-18*,2503.0,MNPT
+192,Current liabilities,12  Mar-18*,1393.0,MNPT
+193,Net working cap to sales,12  Mar-18*,14.8,MNPT
+194,Current ratio,12  Mar-18*,1.8,MNPT
+195,Inventory Days,12  Mar-18*,35.0,MNPT
+196,Debtors Days,12  Mar-18*,49.0,MNPT
+197,Net fixed assets,12  Mar-18*,1981.0,MNPT
+198,Share capital,12  Mar-18*,860.0,MNPT
+199,"""Free"" reserves",12  Mar-18*,3057.0,MNPT
+200,Net worth,12  Mar-18*,3917.0,MNPT
+201,Long term debt,12  Mar-18*,0.0,MNPT
+202,Total assets,12  Mar-18*,5560.0,MNPT
+203,Interest coverage,12  Mar-18*,27.9,MNPT
+204,Debt to equity ratio,12  Mar-18*,0.0,MNPT
+205,Sales to assets ratio,12  Mar-18*,1.3,MNPT
+206,Return on assets,12  Mar-18*,11.0,MNPT
+207,Return on equity,12  Mar-18*,14.8,MNPT
+208,Return on capital,12  Mar-18*,23.2,MNPT
+209,Exports to sales,12  Mar-18*,0.0,MNPT
+210,Imports to sales,12  Mar-18*,0.0,MNPT
+211,Exports (fob),12  Mar-18*,0.0,MNPT
+212,Imports (cif),12  Mar-18*,0.0,MNPT
+213,Fx inflow,12  Mar-18*,109.0,MNPT
+214,Fx outflow,12  Mar-18*,1521.0,MNPT
+215,Net fx,12  Mar-18*,-1413.0,MNPT
+216,From Operations,12  Mar-18*,581.0,MNPT
+217,From Investments,12  Mar-18*,-225.0,MNPT
+218,From Financial Activity,12  Mar-18*,-167.0,MNPT
+219,Net Cashflow,12  Mar-18*,332.0,MNPT

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,20282.0,HMTS
+1,Other income,12  Mar-14*,47.0,HMTS
+2,Total revenues,12  Mar-14*,20329.0,HMTS
+3,Gross profit,12  Mar-14*,2001.0,HMTS
+4,Depreciation,12  Mar-14*,544.0,HMTS
+5,Interest,12  Mar-14*,828.0,HMTS
+6,Profit before tax,12  Mar-14*,676.0,HMTS
+7,Minority Interest,12  Mar-14*,88.0,HMTS
+8,Prior Period Items,12  Mar-14*,0.0,HMTS
+9,Extraordinary Inc (Exp),12  Mar-14*,-41.0,HMTS
+10,Tax,12  Mar-14*,89.0,HMTS
+11,Profit after tax,12  Mar-14*,634.0,HMTS
+12,Gross profit margin,12  Mar-14*,9.9,HMTS
+13,Effective tax rate,12  Mar-14*,13.2,HMTS
+14,Net profit margin,12  Mar-14*,3.1,HMTS
+15,Current assets,12  Mar-14*,8007.0,HMTS
+16,Current liabilities,12  Mar-14*,8175.0,HMTS
+17,Net working cap to sales,12  Mar-14*,-0.8,HMTS
+18,Current ratio,12  Mar-14*,1.0,HMTS
+19,Inventory Days,12  Mar-14*,115.0,HMTS
+20,Debtors Days,12  Mar-14*,4.0,HMTS
+21,Net fixed assets,12  Mar-14*,4536.0,HMTS
+22,Share capital,12  Mar-14*,492.0,HMTS
+23,"""Free"" reserves",12  Mar-14*,5427.0,HMTS
+24,Net worth,12  Mar-14*,7450.0,HMTS
+25,Long term debt,12  Mar-14*,3607.0,HMTS
+26,Total assets,12  Mar-14*,19153.0,HMTS
+27,Interest coverage,12  Mar-14*,1.8,HMTS
+28,Debt to equity ratio,12  Mar-14*,0.5,HMTS
+29,Sales to assets ratio,12  Mar-14*,1.1,HMTS
+30,Return on assets,12  Mar-14*,7.6,HMTS
+31,Return on equity,12  Mar-14*,8.5,HMTS
+32,Return on capital,12  Mar-14*,14.0,HMTS
+33,Exports to sales,12  Mar-14*,45.9,HMTS
+34,Imports to sales,12  Mar-14*,12.1,HMTS
+35,Exports (fob),12  Mar-14*,9310.0,HMTS
+36,Imports (cif),12  Mar-14*,2464.0,HMTS
+37,Fx inflow,12  Mar-14*,9400.0,HMTS
+38,Fx outflow,12  Mar-14*,2555.0,HMTS
+39,Net fx,12  Mar-14*,6846.0,HMTS
+40,From Operations,12  Mar-14*,487.0,HMTS
+41,From Investments,12  Mar-14*,-427.0,HMTS
+42,From Financial Activity,12  Mar-14*,-113.0,HMTS
+43,Net Cashflow,12  Mar-14*,-53.0,HMTS
+44,Net Sales,12  Mar-15*,19432.0,HMTS
+45,Other income,12  Mar-15*,209.0,HMTS
+46,Total revenues,12  Mar-15*,19640.0,HMTS
+47,Gross profit,12  Mar-15*,2007.0,HMTS
+48,Depreciation,12  Mar-15*,446.0,HMTS
+49,Interest,12  Mar-15*,854.0,HMTS
+50,Profit before tax,12  Mar-15*,915.0,HMTS
+51,Minority Interest,12  Mar-15*,9.0,HMTS
+52,Prior Period Items,12  Mar-15*,0.0,HMTS
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,HMTS
+54,Tax,12  Mar-15*,-31.0,HMTS
+55,Profit after tax,12  Mar-15*,954.0,HMTS
+56,Gross profit margin,12  Mar-15*,10.3,HMTS
+57,Effective tax rate,12  Mar-15*,-3.3,HMTS
+58,Net profit margin,12  Mar-15*,4.9,HMTS
+59,Current assets,12  Mar-15*,7336.0,HMTS
+60,Current liabilities,12  Mar-15*,7338.0,HMTS
+61,Net working cap to sales,12  Mar-15*,0.0,HMTS
+62,Current ratio,12  Mar-15*,1.0,HMTS
+63,Inventory Days,12  Mar-15*,104.0,HMTS
+64,Debtors Days,12  Mar-15*,8.0,HMTS
+65,Net fixed assets,12  Mar-15*,10509.0,HMTS
+66,Share capital,12  Mar-15*,492.0,HMTS
+67,"""Free"" reserves",12  Mar-15*,7346.0,HMTS
+68,Net worth,12  Mar-15*,7838.0,HMTS
+69,Long term debt,12  Mar-15*,3527.0,HMTS
+70,Total assets,12  Mar-15*,18893.0,HMTS
+71,Interest coverage,12  Mar-15*,2.1,HMTS
+72,Debt to equity ratio,12  Mar-15*,0.4,HMTS
+73,Sales to assets ratio,12  Mar-15*,1.0,HMTS
+74,Return on assets,12  Mar-15*,9.6,HMTS
+75,Return on equity,12  Mar-15*,12.2,HMTS
+76,Return on capital,12  Mar-15*,15.6,HMTS
+77,Exports to sales,12  Mar-15*,45.6,HMTS
+78,Imports to sales,12  Mar-15*,15.0,HMTS
+79,Exports (fob),12  Mar-15*,8863.0,HMTS
+80,Imports (cif),12  Mar-15*,2915.0,HMTS
+81,Fx inflow,12  Mar-15*,8982.0,HMTS
+82,Fx outflow,12  Mar-15*,6131.0,HMTS
+83,Net fx,12  Mar-15*,2851.0,HMTS
+84,From Operations,12  Mar-15*,2283.0,HMTS
+85,From Investments,12  Mar-15*,-657.0,HMTS
+86,From Financial Activity,12  Mar-15*,-1579.0,HMTS
+87,Net Cashflow,12  Mar-15*,-2.0,HMTS
+88,Net Sales,12  Mar-16*,18896.0,HMTS
+89,Other income,12  Mar-16*,187.0,HMTS
+90,Total revenues,12  Mar-16*,19083.0,HMTS
+91,Gross profit,12  Mar-16*,2954.0,HMTS
+92,Depreciation,12  Mar-16*,665.0,HMTS
+93,Interest,12  Mar-16*,934.0,HMTS
+94,Profit before tax,12  Mar-16*,1541.0,HMTS
+95,Minority Interest,12  Mar-16*,0.0,HMTS
+96,Prior Period Items,12  Mar-16*,0.0,HMTS
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,HMTS
+98,Tax,12  Mar-16*,289.0,HMTS
+99,Profit after tax,12  Mar-16*,1253.0,HMTS
+100,Gross profit margin,12  Mar-16*,15.6,HMTS
+101,Effective tax rate,12  Mar-16*,18.7,HMTS
+102,Net profit margin,12  Mar-16*,6.6,HMTS
+103,Current assets,12  Mar-16*,8929.0,HMTS
+104,Current liabilities,12  Mar-16*,7472.0,HMTS
+105,Net working cap to sales,12  Mar-16*,7.7,HMTS
+106,Current ratio,12  Mar-16*,1.2,HMTS
+107,Inventory Days,12  Mar-16*,113.0,HMTS
+108,Debtors Days,12  Mar-16*,12.0,HMTS
+109,Net fixed assets,12  Mar-16*,11027.0,HMTS
+110,Share capital,12  Mar-16*,492.0,HMTS
+111,"""Free"" reserves",12  Mar-16*,8405.0,HMTS
+112,Net worth,12  Mar-16*,8897.0,HMTS
+113,Long term debt,12  Mar-16*,5290.0,HMTS
+114,Total assets,12  Mar-16*,21990.0,HMTS
+115,Interest coverage,12  Mar-16*,2.6,HMTS
+116,Debt to equity ratio,12  Mar-16*,0.6,HMTS
+117,Sales to assets ratio,12  Mar-16*,0.9,HMTS
+118,Return on assets,12  Mar-16*,9.9,HMTS
+119,Return on equity,12  Mar-16*,14.1,HMTS
+120,Return on capital,12  Mar-16*,17.4,HMTS
+121,Exports to sales,12  Mar-16*,49.6,HMTS
+122,Imports to sales,12  Mar-16*,15.8,HMTS
+123,Exports (fob),12  Mar-16*,9381.0,HMTS
+124,Imports (cif),12  Mar-16*,2979.0,HMTS
+125,Fx inflow,12  Mar-16*,9604.0,HMTS
+126,Fx outflow,12  Mar-16*,6536.0,HMTS
+127,Net fx,12  Mar-16*,3068.0,HMTS
+128,From Operations,12  Mar-16*,1810.0,HMTS
+129,From Investments,12  Mar-16*,-1230.0,HMTS
+130,From Financial Activity,12  Mar-16*,258.0,HMTS
+131,Net Cashflow,12  Mar-16*,855.0,HMTS
+132,Net Sales,12  Mar-17*,21384.0,HMTS
+133,Other income,12  Mar-17*,132.0,HMTS
+134,Total revenues,12  Mar-17*,21516.0,HMTS
+135,Gross profit,12  Mar-17*,3777.0,HMTS
+136,Depreciation,12  Mar-17*,580.0,HMTS
+137,Interest,12  Mar-17*,935.0,HMTS
+138,Profit before tax,12  Mar-17*,2394.0,HMTS
+139,Minority Interest,12  Mar-17*,0.0,HMTS
+140,Prior Period Items,12  Mar-17*,0.0,HMTS
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,HMTS
+142,Tax,12  Mar-17*,573.0,HMTS
+143,Profit after tax,12  Mar-17*,1821.0,HMTS
+144,Gross profit margin,12  Mar-17*,17.7,HMTS
+145,Effective tax rate,12  Mar-17*,23.9,HMTS
+146,Net profit margin,12  Mar-17*,8.5,HMTS
+147,Current assets,12  Mar-17*,12251.0,HMTS
+148,Current liabilities,12  Mar-17*,10156.0,HMTS
+149,Net working cap to sales,12  Mar-17*,9.8,HMTS
+150,Current ratio,12  Mar-17*,1.2,HMTS
+151,Inventory Days,12  Mar-17*,129.0,HMTS
+152,Debtors Days,12  Mar-17*,12.0,HMTS
+153,Net fixed assets,12  Mar-17*,13798.0,HMTS
+154,Share capital,12  Mar-17*,492.0,HMTS
+155,"""Free"" reserves",12  Mar-17*,10180.0,HMTS
+156,Net worth,12  Mar-17*,10673.0,HMTS
+157,Long term debt,12  Mar-17*,7398.0,HMTS
+158,Total assets,12  Mar-17*,28934.0,HMTS
+159,Interest coverage,12  Mar-17*,3.6,HMTS
+160,Debt to equity ratio,12  Mar-17*,0.7,HMTS
+161,Sales to assets ratio,12  Mar-17*,0.7,HMTS
+162,Return on assets,12  Mar-17*,9.5,HMTS
+163,Return on equity,12  Mar-17*,17.1,HMTS
+164,Return on capital,12  Mar-17*,18.4,HMTS
+165,Exports to sales,12  Mar-17*,58.4,HMTS
+166,Imports to sales,12  Mar-17*,15.4,HMTS
+167,Exports (fob),12  Mar-17*,12490.0,HMTS
+168,Imports (cif),12  Mar-17*,3297.0,HMTS
+169,Fx inflow,12  Mar-17*,12708.0,HMTS
+170,Fx outflow,12  Mar-17*,9412.0,HMTS
+171,Net fx,12  Mar-17*,3297.0,HMTS
+172,From Operations,12  Mar-17*,1857.0,HMTS
+173,From Investments,12  Mar-17*,-5436.0,HMTS
+174,From Financial Activity,12  Mar-17*,2955.0,HMTS
+175,Net Cashflow,12  Mar-17*,-625.0,HMTS
+176,Net Sales,12  Mar-18*,22491.0,HMTS
+177,Other income,12  Mar-18*,176.0,HMTS
+178,Total revenues,12  Mar-18*,22667.0,HMTS
+179,Gross profit,12  Mar-18*,4486.0,HMTS
+180,Depreciation,12  Mar-18*,720.0,HMTS
+181,Interest,12  Mar-18*,1038.0,HMTS
+182,Profit before tax,12  Mar-18*,2905.0,HMTS
+183,Minority Interest,12  Mar-18*,0.0,HMTS
+184,Prior Period Items,12  Mar-18*,0.0,HMTS
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,HMTS
+186,Tax,12  Mar-18*,888.0,HMTS
+187,Profit after tax,12  Mar-18*,2016.0,HMTS
+188,Gross profit margin,12  Mar-18*,19.9,HMTS
+189,Effective tax rate,12  Mar-18*,30.6,HMTS
+190,Net profit margin,12  Mar-18*,9.0,HMTS
+191,Current assets,12  Mar-18*,17624.0,HMTS
+192,Current liabilities,12  Mar-18*,15251.0,HMTS
+193,Net working cap to sales,12  Mar-18*,10.6,HMTS
+194,Current ratio,12  Mar-18*,1.2,HMTS
+195,Inventory Days,12  Mar-18*,161.0,HMTS
+196,Debtors Days,12  Mar-18*,16.0,HMTS
+197,Net fixed assets,12  Mar-18*,22676.0,HMTS
+198,Share capital,12  Mar-18*,492.0,HMTS
+199,"""Free"" reserves",12  Mar-18*,11783.0,HMTS
+200,Net worth,12  Mar-18*,12275.0,HMTS
+201,Long term debt,12  Mar-18*,12165.0,HMTS
+202,Total assets,12  Mar-18*,42190.0,HMTS
+203,Interest coverage,12  Mar-18*,3.8,HMTS
+204,Debt to equity ratio,12  Mar-18*,1.0,HMTS
+205,Sales to assets ratio,12  Mar-18*,0.5,HMTS
+206,Return on assets,12  Mar-18*,7.2,HMTS
+207,Return on equity,12  Mar-18*,16.4,HMTS
+208,Return on capital,12  Mar-18*,16.1,HMTS
+209,Exports to sales,12  Mar-18*,60.3,HMTS
+210,Imports to sales,12  Mar-18*,15.6,HMTS
+211,Exports (fob),12  Mar-18*,13568.0,HMTS
+212,Imports (cif),12  Mar-18*,3510.0,HMTS
+213,Fx inflow,12  Mar-18*,13756.0,HMTS
+214,Fx outflow,12  Mar-18*,15327.0,HMTS
+215,Net fx,12  Mar-18*,-1571.0,HMTS
+216,From Operations,12  Mar-18*,195.0,HMTS
+217,From Investments,12  Mar-18*,-6426.0,HMTS
+218,From Financial Activity,12  Mar-18*,6733.0,HMTS
+219,Net Cashflow,12  Mar-18*,504.0,HMTS

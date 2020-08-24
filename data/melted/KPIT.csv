@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,26940.0,KPIT
+1,Other income,12  Mar-14*,329.0,KPIT
+2,Total revenues,12  Mar-14*,27269.0,KPIT
+3,Gross profit,12  Mar-14*,3776.0,KPIT
+4,Depreciation,12  Mar-14*,540.0,KPIT
+5,Interest,12  Mar-14*,258.0,KPIT
+6,Profit before tax,12  Mar-14*,3308.0,KPIT
+7,Minority Interest,12  Mar-14*,0.0,KPIT
+8,Prior Period Items,12  Mar-14*,0.0,KPIT
+9,Extraordinary Inc (Exp),12  Mar-14*,122.0,KPIT
+10,Tax,12  Mar-14*,941.0,KPIT
+11,Profit after tax,12  Mar-14*,2490.0,KPIT
+12,Gross profit margin,12  Mar-14*,14.0,KPIT
+13,Effective tax rate,12  Mar-14*,28.4,KPIT
+14,Net profit margin,12  Mar-14*,9.2,KPIT
+15,Current assets,12  Mar-14*,11897.0,KPIT
+16,Current liabilities,12  Mar-14*,7164.0,KPIT
+17,Net working cap to sales,12  Mar-14*,17.6,KPIT
+18,Current ratio,12  Mar-14*,1.7,KPIT
+19,Inventory Days,12  Mar-14*,0.0,KPIT
+20,Debtors Days,12  Mar-14*,91.0,KPIT
+21,Net fixed assets,12  Mar-14*,2161.0,KPIT
+22,Share capital,12  Mar-14*,371.0,KPIT
+23,"""Free"" reserves",12  Mar-14*,12346.0,KPIT
+24,Net worth,12  Mar-14*,12751.0,KPIT
+25,Long term debt,12  Mar-14*,1301.0,KPIT
+26,Total assets,12  Mar-14*,21449.0,KPIT
+27,Interest coverage,12  Mar-14*,13.8,KPIT
+28,Debt to equity ratio,12  Mar-14*,0.1,KPIT
+29,Sales to assets ratio,12  Mar-14*,1.3,KPIT
+30,Return on assets,12  Mar-14*,12.8,KPIT
+31,Return on equity,12  Mar-14*,19.5,KPIT
+32,Return on capital,12  Mar-14*,26.2,KPIT
+33,Exports to sales,12  Mar-14*,0.0,KPIT
+34,Imports to sales,12  Mar-14*,0.4,KPIT
+35,Exports (fob),12  Mar-14*,0.0,KPIT
+36,Imports (cif),12  Mar-14*,112.0,KPIT
+37,Fx inflow,12  Mar-14*,5956.0,KPIT
+38,Fx outflow,12  Mar-14*,502.0,KPIT
+39,Net fx,12  Mar-14*,5454.0,KPIT
+40,From Operations,12  Mar-14*,1030.0,KPIT
+41,From Investments,12  Mar-14*,-1908.0,KPIT
+42,From Financial Activity,12  Mar-14*,790.0,KPIT
+43,Net Cashflow,12  Mar-14*,-88.0,KPIT
+44,Net Sales,12  Mar-15*,28643.0,KPIT
+45,Other income,12  Mar-15*,352.0,KPIT
+46,Total revenues,12  Mar-15*,28995.0,KPIT
+47,Gross profit,12  Mar-15*,3244.0,KPIT
+48,Depreciation,12  Mar-15*,851.0,KPIT
+49,Interest,12  Mar-15*,260.0,KPIT
+50,Profit before tax,12  Mar-15*,2485.0,KPIT
+51,Minority Interest,12  Mar-15*,0.0,KPIT
+52,Prior Period Items,12  Mar-15*,0.0,KPIT
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,KPIT
+54,Tax,12  Mar-15*,115.0,KPIT
+55,Profit after tax,12  Mar-15*,2370.0,KPIT
+56,Gross profit margin,12  Mar-15*,11.3,KPIT
+57,Effective tax rate,12  Mar-15*,4.6,KPIT
+58,Net profit margin,12  Mar-15*,8.3,KPIT
+59,Current assets,12  Mar-15*,13149.0,KPIT
+60,Current liabilities,12  Mar-15*,8573.0,KPIT
+61,Net working cap to sales,12  Mar-15*,16.0,KPIT
+62,Current ratio,12  Mar-15*,1.5,KPIT
+63,Inventory Days,12  Mar-15*,0.0,KPIT
+64,Debtors Days,12  Mar-15*,89.0,KPIT
+65,Net fixed assets,12  Mar-15*,2328.0,KPIT
+66,Share capital,12  Mar-15*,376.0,KPIT
+67,"""Free"" reserves",12  Mar-15*,12550.0,KPIT
+68,Net worth,12  Mar-15*,12961.0,KPIT
+69,Long term debt,12  Mar-15*,780.0,KPIT
+70,Total assets,12  Mar-15*,22738.0,KPIT
+71,Interest coverage,12  Mar-15*,10.6,KPIT
+72,Debt to equity ratio,12  Mar-15*,0.1,KPIT
+73,Sales to assets ratio,12  Mar-15*,1.3,KPIT
+74,Return on assets,12  Mar-15*,11.6,KPIT
+75,Return on equity,12  Mar-15*,18.3,KPIT
+76,Return on capital,12  Mar-15*,20.0,KPIT
+77,Exports to sales,12  Mar-15*,0.0,KPIT
+78,Imports to sales,12  Mar-15*,0.4,KPIT
+79,Exports (fob),12  Mar-15*,0.0,KPIT
+80,Imports (cif),12  Mar-15*,120.0,KPIT
+81,Fx inflow,12  Mar-15*,8784.0,KPIT
+82,Fx outflow,12  Mar-15*,595.0,KPIT
+83,Net fx,12  Mar-15*,8188.0,KPIT
+84,From Operations,12  Mar-15*,2894.0,KPIT
+85,From Investments,12  Mar-15*,-1120.0,KPIT
+86,From Financial Activity,12  Mar-15*,-403.0,KPIT
+87,Net Cashflow,12  Mar-15*,1371.0,KPIT
+88,Net Sales,12  Mar-16*,32015.0,KPIT
+89,Other income,12  Mar-16*,248.0,KPIT
+90,Total revenues,12  Mar-16*,32262.0,KPIT
+91,Gross profit,12  Mar-16*,4353.0,KPIT
+92,Depreciation,12  Mar-16*,691.0,KPIT
+93,Interest,12  Mar-16*,152.0,KPIT
+94,Profit before tax,12  Mar-16*,3758.0,KPIT
+95,Minority Interest,12  Mar-16*,0.0,KPIT
+96,Prior Period Items,12  Mar-16*,0.0,KPIT
+97,Extraordinary Inc (Exp),12  Mar-16*,-113.0,KPIT
+98,Tax,12  Mar-16*,830.0,KPIT
+99,Profit after tax,12  Mar-16*,2815.0,KPIT
+100,Gross profit margin,12  Mar-16*,13.6,KPIT
+101,Effective tax rate,12  Mar-16*,22.1,KPIT
+102,Net profit margin,12  Mar-16*,8.8,KPIT
+103,Current assets,12  Mar-16*,12778.0,KPIT
+104,Current liabilities,12  Mar-16*,5956.0,KPIT
+105,Net working cap to sales,12  Mar-16*,21.3,KPIT
+106,Current ratio,12  Mar-16*,2.1,KPIT
+107,Inventory Days,12  Mar-16*,4.0,KPIT
+108,Debtors Days,12  Mar-16*,78.0,KPIT
+109,Net fixed assets,12  Mar-16*,2850.0,KPIT
+110,Share capital,12  Mar-16*,376.0,KPIT
+111,"""Free"" reserves",12  Mar-16*,13404.0,KPIT
+112,Net worth,12  Mar-16*,13808.0,KPIT
+113,Long term debt,12  Mar-16*,1673.0,KPIT
+114,Total assets,12  Mar-16*,21952.0,KPIT
+115,Interest coverage,12  Mar-16*,25.7,KPIT
+116,Debt to equity ratio,12  Mar-16*,0.1,KPIT
+117,Sales to assets ratio,12  Mar-16*,1.5,KPIT
+118,Return on assets,12  Mar-16*,13.5,KPIT
+119,Return on equity,12  Mar-16*,20.4,KPIT
+120,Return on capital,12  Mar-16*,24.5,KPIT
+121,Exports to sales,12  Mar-16*,0.0,KPIT
+122,Imports to sales,12  Mar-16*,1.0,KPIT
+123,Exports (fob),12  Mar-16*,0.0,KPIT
+124,Imports (cif),12  Mar-16*,315.0,KPIT
+125,Fx inflow,12  Mar-16*,9900.0,KPIT
+126,Fx outflow,12  Mar-16*,694.0,KPIT
+127,Net fx,12  Mar-16*,9206.0,KPIT
+128,From Operations,12  Mar-16*,4117.0,KPIT
+129,From Investments,12  Mar-16*,-1485.0,KPIT
+130,From Financial Activity,12  Mar-16*,-3054.0,KPIT
+131,Net Cashflow,12  Mar-16*,-423.0,KPIT
+132,Net Sales,12  Mar-17*,33200.0,KPIT
+133,Other income,12  Mar-17*,207.0,KPIT
+134,Total revenues,12  Mar-17*,33407.0,KPIT
+135,Gross profit,12  Mar-17*,3486.0,KPIT
+136,Depreciation,12  Mar-17*,827.0,KPIT
+137,Interest,12  Mar-17*,136.0,KPIT
+138,Profit before tax,12  Mar-17*,2730.0,KPIT
+139,Minority Interest,12  Mar-17*,0.0,KPIT
+140,Prior Period Items,12  Mar-17*,0.0,KPIT
+141,Extraordinary Inc (Exp),12  Mar-17*,261.0,KPIT
+142,Tax,12  Mar-17*,606.0,KPIT
+143,Profit after tax,12  Mar-17*,2385.0,KPIT
+144,Gross profit margin,12  Mar-17*,10.5,KPIT
+145,Effective tax rate,12  Mar-17*,22.2,KPIT
+146,Net profit margin,12  Mar-17*,7.2,KPIT
+147,Current assets,12  Mar-17*,14704.0,KPIT
+148,Current liabilities,12  Mar-17*,7746.0,KPIT
+149,Net working cap to sales,12  Mar-17*,21.0,KPIT
+150,Current ratio,12  Mar-17*,1.9,KPIT
+151,Inventory Days,12  Mar-17*,5.0,KPIT
+152,Debtors Days,12  Mar-17*,86.0,KPIT
+153,Net fixed assets,12  Mar-17*,2812.0,KPIT
+154,Share capital,12  Mar-17*,376.0,KPIT
+155,"""Free"" reserves",12  Mar-17*,15448.0,KPIT
+156,Net worth,12  Mar-17*,15825.0,KPIT
+157,Long term debt,12  Mar-17*,985.0,KPIT
+158,Total assets,12  Mar-17*,25284.0,KPIT
+159,Interest coverage,12  Mar-17*,21.1,KPIT
+160,Debt to equity ratio,12  Mar-17*,0.1,KPIT
+161,Sales to assets ratio,12  Mar-17*,1.3,KPIT
+162,Return on assets,12  Mar-17*,10.0,KPIT
+163,Return on equity,12  Mar-17*,15.1,KPIT
+164,Return on capital,12  Mar-17*,18.6,KPIT
+165,Exports to sales,12  Mar-17*,0.0,KPIT
+166,Imports to sales,12  Mar-17*,0.0,KPIT
+167,Exports (fob),12  Mar-17*,0.0,KPIT
+168,Imports (cif),12  Mar-17*,0.0,KPIT
+169,Fx inflow,12  Mar-17*,9586.0,KPIT
+170,Fx outflow,12  Mar-17*,706.0,KPIT
+171,Net fx,12  Mar-17*,8881.0,KPIT
+172,From Operations,12  Mar-17*,1630.0,KPIT
+173,From Investments,12  Mar-17*,-1502.0,KPIT
+174,From Financial Activity,12  Mar-17*,801.0,KPIT
+175,Net Cashflow,12  Mar-17*,930.0,KPIT
+176,Net Sales,12  Mar-18*,36637.0,KPIT
+177,Other income,12  Mar-18*,450.0,KPIT
+178,Total revenues,12  Mar-18*,37087.0,KPIT
+179,Gross profit,12  Mar-18*,3785.0,KPIT
+180,Depreciation,12  Mar-18*,843.0,KPIT
+181,Interest,12  Mar-18*,104.0,KPIT
+182,Profit before tax,12  Mar-18*,3288.0,KPIT
+183,Minority Interest,12  Mar-18*,-73.0,KPIT
+184,Prior Period Items,12  Mar-18*,0.0,KPIT
+185,Extraordinary Inc (Exp),12  Mar-18*,26.0,KPIT
+186,Tax,12  Mar-18*,698.0,KPIT
+187,Profit after tax,12  Mar-18*,2544.0,KPIT
+188,Gross profit margin,12  Mar-18*,10.3,KPIT
+189,Effective tax rate,12  Mar-18*,21.2,KPIT
+190,Net profit margin,12  Mar-18*,6.9,KPIT
+191,Current assets,12  Mar-18*,16572.0,KPIT
+192,Current liabilities,12  Mar-18*,7618.0,KPIT
+193,Net working cap to sales,12  Mar-18*,24.4,KPIT
+194,Current ratio,12  Mar-18*,2.2,KPIT
+195,Inventory Days,12  Mar-18*,2.0,KPIT
+196,Debtors Days,12  Mar-18*,80.0,KPIT
+197,Net fixed assets,12  Mar-18*,3164.0,KPIT
+198,Share capital,12  Mar-18*,379.0,KPIT
+199,"""Free"" reserves",12  Mar-18*,17790.0,KPIT
+200,Net worth,12  Mar-18*,18169.0,KPIT
+201,Long term debt,12  Mar-18*,662.0,KPIT
+202,Total assets,12  Mar-18*,27329.0,KPIT
+203,Interest coverage,12  Mar-18*,32.5,KPIT
+204,Debt to equity ratio,12  Mar-18*,0.0,KPIT
+205,Sales to assets ratio,12  Mar-18*,1.3,KPIT
+206,Return on assets,12  Mar-18*,9.7,KPIT
+207,Return on equity,12  Mar-18*,14.0,KPIT
+208,Return on capital,12  Mar-18*,17.8,KPIT
+209,Exports to sales,12  Mar-18*,0.0,KPIT
+210,Imports to sales,12  Mar-18*,0.0,KPIT
+211,Exports (fob),12  Mar-18*,0.0,KPIT
+212,Imports (cif),12  Mar-18*,0.0,KPIT
+213,Fx inflow,12  Mar-18*,9970.0,KPIT
+214,Fx outflow,12  Mar-18*,495.0,KPIT
+215,Net fx,12  Mar-18*,9475.0,KPIT
+216,From Operations,12  Mar-18*,4074.0,KPIT
+217,From Investments,12  Mar-18*,-1927.0,KPIT
+218,From Financial Activity,12  Mar-18*,-1284.0,KPIT
+219,Net Cashflow,12  Mar-18*,862.0,KPIT

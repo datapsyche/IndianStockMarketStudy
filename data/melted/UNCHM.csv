@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,12018.0,UNCHM
+1,Other income,12  Mar-15*,204.0,UNCHM
+2,Total revenues,12  Mar-15*,12222.0,UNCHM
+3,Gross profit,12  Mar-15*,1013.0,UNCHM
+4,Depreciation,12  Mar-15*,413.0,UNCHM
+5,Interest,12  Mar-15*,30.0,UNCHM
+6,Profit before tax,12  Mar-15*,774.0,UNCHM
+7,Minority Interest,12  Mar-15*,0.0,UNCHM
+8,Prior Period Items,12  Mar-15*,1.0,UNCHM
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,UNCHM
+10,Tax,12  Mar-15*,21.0,UNCHM
+11,Profit after tax,12  Mar-15*,754.0,UNCHM
+12,Gross profit margin,12  Mar-15*,8.4,UNCHM
+13,Effective tax rate,12  Mar-15*,2.8,UNCHM
+14,Net profit margin,12  Mar-15*,6.3,UNCHM
+15,Current assets,12  Mar-15*,4770.0,UNCHM
+16,Current liabilities,12  Mar-15*,1900.0,UNCHM
+17,Net working cap to sales,12  Mar-15*,23.9,UNCHM
+18,Current ratio,12  Mar-15*,2.5,UNCHM
+19,Inventory Days,12  Mar-15*,63.0,UNCHM
+20,Debtors Days,12  Mar-15*,58.0,UNCHM
+21,Net fixed assets,12  Mar-15*,5386.0,UNCHM
+22,Share capital,12  Mar-15*,182.0,UNCHM
+23,"""Free"" reserves",12  Mar-15*,8712.0,UNCHM
+24,Net worth,12  Mar-15*,8675.0,UNCHM
+25,Long term debt,12  Mar-15*,203.0,UNCHM
+26,Total assets,12  Mar-15*,11687.0,UNCHM
+27,Interest coverage,12  Mar-15*,26.5,UNCHM
+28,Debt to equity ratio,12  Mar-15*,0.0,UNCHM
+29,Sales to assets ratio,12  Mar-15*,1.0,UNCHM
+30,Return on assets,12  Mar-15*,6.7,UNCHM
+31,Return on equity,12  Mar-15*,8.7,UNCHM
+32,Return on capital,12  Mar-15*,9.1,UNCHM
+33,Exports to sales,12  Mar-15*,30.5,UNCHM
+34,Imports to sales,12  Mar-15*,4.1,UNCHM
+35,Exports (fob),12  Mar-15*,3666.0,UNCHM
+36,Imports (cif),12  Mar-15*,499.0,UNCHM
+37,Fx inflow,12  Mar-15*,4053.0,UNCHM
+38,Fx outflow,12  Mar-15*,872.0,UNCHM
+39,Net fx,12  Mar-15*,3180.0,UNCHM
+40,From Operations,12  Mar-15*,781.0,UNCHM
+41,From Investments,12  Mar-15*,-523.0,UNCHM
+42,From Financial Activity,12  Mar-15*,-510.0,UNCHM
+43,Net Cashflow,12  Mar-15*,-252.0,UNCHM
+44,Net Sales,12  Mar-16*,13327.0,UNCHM
+45,Other income,12  Mar-16*,191.0,UNCHM
+46,Total revenues,12  Mar-16*,13518.0,UNCHM
+47,Gross profit,12  Mar-16*,1568.0,UNCHM
+48,Depreciation,12  Mar-16*,388.0,UNCHM
+49,Interest,12  Mar-16*,29.0,UNCHM
+50,Profit before tax,12  Mar-16*,1343.0,UNCHM
+51,Minority Interest,12  Mar-16*,0.0,UNCHM
+52,Prior Period Items,12  Mar-16*,-4.0,UNCHM
+53,Extraordinary Inc (Exp),12  Mar-16*,35.0,UNCHM
+54,Tax,12  Mar-16*,293.0,UNCHM
+55,Profit after tax,12  Mar-16*,1081.0,UNCHM
+56,Gross profit margin,12  Mar-16*,11.8,UNCHM
+57,Effective tax rate,12  Mar-16*,21.8,UNCHM
+58,Net profit margin,12  Mar-16*,8.1,UNCHM
+59,Current assets,12  Mar-16*,4996.0,UNCHM
+60,Current liabilities,12  Mar-16*,2431.0,UNCHM
+61,Net working cap to sales,12  Mar-16*,19.2,UNCHM
+62,Current ratio,12  Mar-16*,2.1,UNCHM
+63,Inventory Days,12  Mar-16*,63.0,UNCHM
+64,Debtors Days,12  Mar-16*,60.0,UNCHM
+65,Net fixed assets,12  Mar-16*,6403.0,UNCHM
+66,Share capital,12  Mar-16*,182.0,UNCHM
+67,"""Free"" reserves",12  Mar-16*,9362.0,UNCHM
+68,Net worth,12  Mar-16*,9548.0,UNCHM
+69,Long term debt,12  Mar-16*,230.0,UNCHM
+70,Total assets,12  Mar-16*,12837.0,UNCHM
+71,Interest coverage,12  Mar-16*,47.3,UNCHM
+72,Debt to equity ratio,12  Mar-16*,0.0,UNCHM
+73,Sales to assets ratio,12  Mar-16*,1.0,UNCHM
+74,Return on assets,12  Mar-16*,8.6,UNCHM
+75,Return on equity,12  Mar-16*,11.3,UNCHM
+76,Return on capital,12  Mar-16*,14.3,UNCHM
+77,Exports to sales,12  Mar-16*,29.3,UNCHM
+78,Imports to sales,12  Mar-16*,6.4,UNCHM
+79,Exports (fob),12  Mar-16*,3900.0,UNCHM
+80,Imports (cif),12  Mar-16*,847.0,UNCHM
+81,Fx inflow,12  Mar-16*,4356.0,UNCHM
+82,Fx outflow,12  Mar-16*,1162.0,UNCHM
+83,Net fx,12  Mar-16*,3194.0,UNCHM
+84,From Operations,12  Mar-16*,1117.0,UNCHM
+85,From Investments,12  Mar-16*,-851.0,UNCHM
+86,From Financial Activity,12  Mar-16*,-334.0,UNCHM
+87,Net Cashflow,12  Mar-16*,-68.0,UNCHM
+88,Net Sales,12  Mar-17*,6977.0,UNCHM
+89,Other income,12  Mar-17*,55.0,UNCHM
+90,Total revenues,12  Mar-17*,7032.0,UNCHM
+91,Gross profit,12  Mar-17*,-414.0,UNCHM
+92,Depreciation,12  Mar-17*,435.0,UNCHM
+93,Interest,12  Mar-17*,34.0,UNCHM
+94,Profit before tax,12  Mar-17*,-828.0,UNCHM
+95,Minority Interest,12  Mar-17*,0.0,UNCHM
+96,Prior Period Items,12  Mar-17*,2.0,UNCHM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,UNCHM
+98,Tax,12  Mar-17*,-119.0,UNCHM
+99,Profit after tax,12  Mar-17*,-707.0,UNCHM
+100,Gross profit margin,12  Mar-17*,-5.9,UNCHM
+101,Effective tax rate,12  Mar-17*,14.3,UNCHM
+102,Net profit margin,12  Mar-17*,-10.1,UNCHM
+103,Current assets,12  Mar-17*,7485.0,UNCHM
+104,Current liabilities,12  Mar-17*,3926.0,UNCHM
+105,Net working cap to sales,12  Mar-17*,51.0,UNCHM
+106,Current ratio,12  Mar-17*,1.9,UNCHM
+107,Inventory Days,12  Mar-17*,147.0,UNCHM
+108,Debtors Days,12  Mar-17*,165.0,UNCHM
+109,Net fixed assets,12  Mar-17*,7410.0,UNCHM
+110,Share capital,12  Mar-17*,182.0,UNCHM
+111,"""Free"" reserves",12  Mar-17*,10454.0,UNCHM
+112,Net worth,12  Mar-17*,10636.0,UNCHM
+113,Long term debt,12  Mar-17*,4.0,UNCHM
+114,Total assets,12  Mar-17*,15267.0,UNCHM
+115,Interest coverage,12  Mar-17*,-23.6,UNCHM
+116,Debt to equity ratio,12  Mar-17*,0.0,UNCHM
+117,Sales to assets ratio,12  Mar-17*,0.5,UNCHM
+118,Return on assets,12  Mar-17*,-4.4,UNCHM
+119,Return on equity,12  Mar-17*,-6.6,UNCHM
+120,Return on capital,12  Mar-17*,-7.4,UNCHM
+121,Exports to sales,12  Mar-17*,52.5,UNCHM
+122,Imports to sales,12  Mar-17*,10.8,UNCHM
+123,Exports (fob),12  Mar-17*,3666.0,UNCHM
+124,Imports (cif),12  Mar-17*,752.0,UNCHM
+125,Fx inflow,12  Mar-17*,5298.0,UNCHM
+126,Fx outflow,12  Mar-17*,0.0,UNCHM
+127,Net fx,12  Mar-17*,5298.0,UNCHM
+128,From Operations,12  Mar-17*,682.0,UNCHM
+129,From Investments,12  Mar-17*,-1279.0,UNCHM
+130,From Financial Activity,12  Mar-17*,592.0,UNCHM
+131,Net Cashflow,12  Mar-17*,-5.0,UNCHM
+132,Net Sales,12  Mar-18*,8146.0,UNCHM
+133,Other income,12  Mar-18*,609.0,UNCHM
+134,Total revenues,12  Mar-18*,8755.0,UNCHM
+135,Gross profit,12  Mar-18*,-1319.0,UNCHM
+136,Depreciation,12  Mar-18*,505.0,UNCHM
+137,Interest,12  Mar-18*,80.0,UNCHM
+138,Profit before tax,12  Mar-18*,-1295.0,UNCHM
+139,Minority Interest,12  Mar-18*,0.0,UNCHM
+140,Prior Period Items,12  Mar-18*,-2.0,UNCHM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,UNCHM
+142,Tax,12  Mar-18*,33.0,UNCHM
+143,Profit after tax,12  Mar-18*,-1331.0,UNCHM
+144,Gross profit margin,12  Mar-18*,-16.2,UNCHM
+145,Effective tax rate,12  Mar-18*,-2.6,UNCHM
+146,Net profit margin,12  Mar-18*,-16.3,UNCHM
+147,Current assets,12  Mar-18*,23365.0,UNCHM
+148,Current liabilities,12  Mar-18*,4635.0,UNCHM
+149,Net working cap to sales,12  Mar-18*,229.9,UNCHM
+150,Current ratio,12  Mar-18*,5.0,UNCHM
+151,Inventory Days,12  Mar-18*,122.0,UNCHM
+152,Debtors Days,12  Mar-18*,124.0,UNCHM
+153,Net fixed assets,12  Mar-18*,8163.0,UNCHM
+154,Share capital,12  Mar-18*,141.0,UNCHM
+155,"""Free"" reserves",12  Mar-18*,26660.0,UNCHM
+156,Net worth,12  Mar-18*,26801.0,UNCHM
+157,Long term debt,12  Mar-18*,3.0,UNCHM
+158,Total assets,12  Mar-18*,31937.0,UNCHM
+159,Interest coverage,12  Mar-18*,-15.2,UNCHM
+160,Debt to equity ratio,12  Mar-18*,0.0,UNCHM
+161,Sales to assets ratio,12  Mar-18*,0.3,UNCHM
+162,Return on assets,12  Mar-18*,-3.9,UNCHM
+163,Return on equity,12  Mar-18*,-5.0,UNCHM
+164,Return on capital,12  Mar-18*,-4.5,UNCHM
+165,Exports to sales,12  Mar-18*,0.0,UNCHM
+166,Imports to sales,12  Mar-18*,0.0,UNCHM
+167,Exports (fob),12  Mar-18*,0.0,UNCHM
+168,Imports (cif),12  Mar-18*,0.0,UNCHM
+169,Fx inflow,12  Mar-18*,4356.0,UNCHM
+170,Fx outflow,12  Mar-18*,0.0,UNCHM
+171,Net fx,12  Mar-18*,4356.0,UNCHM
+172,From Operations,12  Mar-18*,-1123.0,UNCHM
+173,From Investments,12  Mar-18*,16483.0,UNCHM
+174,From Financial Activity,12  Mar-18*,-8811.0,UNCHM
+175,Net Cashflow,12  Mar-18*,6549.0,UNCHM
+176,Net Sales,12  Mar-19*,11801.0,UNCHM
+177,Other income,12  Mar-19*,984.0,UNCHM
+178,Total revenues,12  Mar-19*,12785.0,UNCHM
+179,Gross profit,12  Mar-19*,-835.0,UNCHM
+180,Depreciation,12  Mar-19*,674.0,UNCHM
+181,Interest,12  Mar-19*,75.0,UNCHM
+182,Profit before tax,12  Mar-19*,-600.0,UNCHM
+183,Minority Interest,12  Mar-19*,0.0,UNCHM
+184,Prior Period Items,12  Mar-19*,1.0,UNCHM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,UNCHM
+186,Tax,12  Mar-19*,-343.0,UNCHM
+187,Profit after tax,12  Mar-19*,-256.0,UNCHM
+188,Gross profit margin,12  Mar-19*,-7.1,UNCHM
+189,Effective tax rate,12  Mar-19*,57.3,UNCHM
+190,Net profit margin,12  Mar-19*,-2.2,UNCHM
+191,Current assets,12  Mar-19*,20384.0,UNCHM
+192,Current liabilities,12  Mar-19*,5029.0,UNCHM
+193,Net working cap to sales,12  Mar-19*,130.1,UNCHM
+194,Current ratio,12  Mar-19*,4.1,UNCHM
+195,Inventory Days,12  Mar-19*,105.0,UNCHM
+196,Debtors Days,12  Mar-19*,135.0,UNCHM
+197,Net fixed assets,12  Mar-19*,9023.0,UNCHM
+198,Share capital,12  Mar-19*,141.0,UNCHM
+199,"""Free"" reserves",12  Mar-19*,26058.0,UNCHM
+200,Net worth,12  Mar-19*,26199.0,UNCHM
+201,Long term debt,12  Mar-19*,0.0,UNCHM
+202,Total assets,12  Mar-19*,31496.0,UNCHM
+203,Interest coverage,12  Mar-19*,-7.0,UNCHM
+204,Debt to equity ratio,12  Mar-19*,0.0,UNCHM
+205,Sales to assets ratio,12  Mar-19*,0.4,UNCHM
+206,Return on assets,12  Mar-19*,-0.6,UNCHM
+207,Return on equity,12  Mar-19*,-1.0,UNCHM
+208,Return on capital,12  Mar-19*,-2.0,UNCHM
+209,Exports to sales,12  Mar-19*,69.4,UNCHM
+210,Imports to sales,12  Mar-19*,0.0,UNCHM
+211,Exports (fob),12  Mar-19*,8188.0,UNCHM
+212,Imports (cif),12  Mar-19*,0.0,UNCHM
+213,Fx inflow,12  Mar-19*,8188.0,UNCHM
+214,Fx outflow,12  Mar-19*,596.0,UNCHM
+215,Net fx,12  Mar-19*,7592.0,UNCHM
+216,From Operations,12  Mar-19*,-3278.0,UNCHM
+217,From Investments,12  Mar-19*,-2860.0,UNCHM
+218,From Financial Activity,12  Mar-19*,-24.0,UNCHM
+219,Net Cashflow,12  Mar-19*,-4690.0,UNCHM

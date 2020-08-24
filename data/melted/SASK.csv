@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,4580.0,SASK
+1,Other income,12  Mar-14*,315.0,SASK
+2,Total revenues,12  Mar-14*,4896.0,SASK
+3,Gross profit,12  Mar-14*,534.0,SASK
+4,Depreciation,12  Mar-14*,125.0,SASK
+5,Interest,12  Mar-14*,2.0,SASK
+6,Profit before tax,12  Mar-14*,722.0,SASK
+7,Minority Interest,12  Mar-14*,0.0,SASK
+8,Prior Period Items,12  Mar-14*,0.0,SASK
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,SASK
+10,Tax,12  Mar-14*,207.0,SASK
+11,Profit after tax,12  Mar-14*,515.0,SASK
+12,Gross profit margin,12  Mar-14*,11.7,SASK
+13,Effective tax rate,12  Mar-14*,28.7,SASK
+14,Net profit margin,12  Mar-14*,11.2,SASK
+15,Current assets,12  Mar-14*,2718.0,SASK
+16,Current liabilities,12  Mar-14*,825.0,SASK
+17,Net working cap to sales,12  Mar-14*,41.3,SASK
+18,Current ratio,12  Mar-14*,3.3,SASK
+19,Inventory Days,12  Mar-14*,2.0,SASK
+20,Debtors Days,12  Mar-14*,74.0,SASK
+21,Net fixed assets,12  Mar-14*,1269.0,SASK
+22,Share capital,12  Mar-14*,213.0,SASK
+23,"""Free"" reserves",12  Mar-14*,3604.0,SASK
+24,Net worth,12  Mar-14*,4076.0,SASK
+25,Long term debt,12  Mar-14*,0.0,SASK
+26,Total assets,12  Mar-14*,4978.0,SASK
+27,Interest coverage,12  Mar-14*,361.9,SASK
+28,Debt to equity ratio,12  Mar-14*,0.0,SASK
+29,Sales to assets ratio,12  Mar-14*,0.9,SASK
+30,Return on assets,12  Mar-14*,10.4,SASK
+31,Return on equity,12  Mar-14*,12.6,SASK
+32,Return on capital,12  Mar-14*,17.8,SASK
+33,Exports to sales,12  Mar-14*,0.0,SASK
+34,Imports to sales,12  Mar-14*,0.0,SASK
+35,Exports (fob),12  Mar-14*,0.0,SASK
+36,Imports (cif),12  Mar-14*,0.0,SASK
+37,Fx inflow,12  Mar-14*,3220.0,SASK
+38,Fx outflow,12  Mar-14*,1284.0,SASK
+39,Net fx,12  Mar-14*,1937.0,SASK
+40,From Operations,12  Mar-14*,641.0,SASK
+41,From Investments,12  Mar-14*,150.0,SASK
+42,From Financial Activity,12  Mar-14*,-723.0,SASK
+43,Net Cashflow,12  Mar-14*,68.0,SASK
+44,Net Sales,12  Mar-15*,4280.0,SASK
+45,Other income,12  Mar-15*,219.0,SASK
+46,Total revenues,12  Mar-15*,4500.0,SASK
+47,Gross profit,12  Mar-15*,2056.0,SASK
+48,Depreciation,12  Mar-15*,112.0,SASK
+49,Interest,12  Mar-15*,1.0,SASK
+50,Profit before tax,12  Mar-15*,2162.0,SASK
+51,Minority Interest,12  Mar-15*,0.0,SASK
+52,Prior Period Items,12  Mar-15*,0.0,SASK
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,SASK
+54,Tax,12  Mar-15*,966.0,SASK
+55,Profit after tax,12  Mar-15*,1196.0,SASK
+56,Gross profit margin,12  Mar-15*,48.0,SASK
+57,Effective tax rate,12  Mar-15*,44.7,SASK
+58,Net profit margin,12  Mar-15*,27.9,SASK
+59,Current assets,12  Mar-15*,3611.0,SASK
+60,Current liabilities,12  Mar-15*,1051.0,SASK
+61,Net working cap to sales,12  Mar-15*,59.8,SASK
+62,Current ratio,12  Mar-15*,3.4,SASK
+63,Inventory Days,12  Mar-15*,0.0,SASK
+64,Debtors Days,12  Mar-15*,60.0,SASK
+65,Net fixed assets,12  Mar-15*,425.0,SASK
+66,Share capital,12  Mar-15*,213.0,SASK
+67,"""Free"" reserves",12  Mar-15*,4142.0,SASK
+68,Net worth,12  Mar-15*,4469.0,SASK
+69,Long term debt,12  Mar-15*,0.0,SASK
+70,Total assets,12  Mar-15*,5590.0,SASK
+71,Interest coverage,12  Mar-15*,1545.1,SASK
+72,Debt to equity ratio,12  Mar-15*,0.0,SASK
+73,Sales to assets ratio,12  Mar-15*,0.8,SASK
+74,Return on assets,12  Mar-15*,21.4,SASK
+75,Return on equity,12  Mar-15*,26.8,SASK
+76,Return on capital,12  Mar-15*,48.4,SASK
+77,Exports to sales,12  Mar-15*,0.0,SASK
+78,Imports to sales,12  Mar-15*,0.0,SASK
+79,Exports (fob),12  Mar-15*,0.0,SASK
+80,Imports (cif),12  Mar-15*,0.0,SASK
+81,Fx inflow,12  Mar-15*,5532.0,SASK
+82,Fx outflow,12  Mar-15*,1296.0,SASK
+83,Net fx,12  Mar-15*,4236.0,SASK
+84,From Operations,12  Mar-15*,1913.0,SASK
+85,From Investments,12  Mar-15*,-1302.0,SASK
+86,From Financial Activity,12  Mar-15*,-650.0,SASK
+87,Net Cashflow,12  Mar-15*,-39.0,SASK
+88,Net Sales,12  Mar-16*,4832.0,SASK
+89,Other income,12  Mar-16*,162.0,SASK
+90,Total revenues,12  Mar-16*,4994.0,SASK
+91,Gross profit,12  Mar-16*,2801.0,SASK
+92,Depreciation,12  Mar-16*,66.0,SASK
+93,Interest,12  Mar-16*,2.0,SASK
+94,Profit before tax,12  Mar-16*,2895.0,SASK
+95,Minority Interest,12  Mar-16*,0.0,SASK
+96,Prior Period Items,12  Mar-16*,0.0,SASK
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,SASK
+98,Tax,12  Mar-16*,832.0,SASK
+99,Profit after tax,12  Mar-16*,2063.0,SASK
+100,Gross profit margin,12  Mar-16*,58.0,SASK
+101,Effective tax rate,12  Mar-16*,28.7,SASK
+102,Net profit margin,12  Mar-16*,42.7,SASK
+103,Current assets,12  Mar-16*,3333.0,SASK
+104,Current liabilities,12  Mar-16*,1330.0,SASK
+105,Net working cap to sales,12  Mar-16*,41.5,SASK
+106,Current ratio,12  Mar-16*,2.5,SASK
+107,Inventory Days,12  Mar-16*,2.0,SASK
+108,Debtors Days,12  Mar-16*,73.0,SASK
+109,Net fixed assets,12  Mar-16*,403.0,SASK
+110,Share capital,12  Mar-16*,177.0,SASK
+111,"""Free"" reserves",12  Mar-16*,4654.0,SASK
+112,Net worth,12  Mar-16*,4990.0,SASK
+113,Long term debt,12  Mar-16*,0.0,SASK
+114,Total assets,12  Mar-16*,6377.0,SASK
+115,Interest coverage,12  Mar-16*,1524.8,SASK
+116,Debt to equity ratio,12  Mar-16*,0.0,SASK
+117,Sales to assets ratio,12  Mar-16*,0.8,SASK
+118,Return on assets,12  Mar-16*,32.4,SASK
+119,Return on equity,12  Mar-16*,41.3,SASK
+120,Return on capital,12  Mar-16*,58.1,SASK
+121,Exports to sales,12  Mar-16*,0.0,SASK
+122,Imports to sales,12  Mar-16*,0.0,SASK
+123,Exports (fob),12  Mar-16*,0.0,SASK
+124,Imports (cif),12  Mar-16*,0.0,SASK
+125,Fx inflow,12  Mar-16*,6061.0,SASK
+126,Fx outflow,12  Mar-16*,1372.0,SASK
+127,Net fx,12  Mar-16*,4688.0,SASK
+128,From Operations,12  Mar-16*,2490.0,SASK
+129,From Investments,12  Mar-16*,-808.0,SASK
+130,From Financial Activity,12  Mar-16*,-1735.0,SASK
+131,Net Cashflow,12  Mar-16*,-53.0,SASK
+132,Net Sales,12  Mar-17*,4673.0,SASK
+133,Other income,12  Mar-17*,328.0,SASK
+134,Total revenues,12  Mar-17*,5001.0,SASK
+135,Gross profit,12  Mar-17*,500.0,SASK
+136,Depreciation,12  Mar-17*,66.0,SASK
+137,Interest,12  Mar-17*,0.0,SASK
+138,Profit before tax,12  Mar-17*,761.0,SASK
+139,Minority Interest,12  Mar-17*,0.0,SASK
+140,Prior Period Items,12  Mar-17*,0.0,SASK
+141,Extraordinary Inc (Exp),12  Mar-17*,203.0,SASK
+142,Tax,12  Mar-17*,117.0,SASK
+143,Profit after tax,12  Mar-17*,847.0,SASK
+144,Gross profit margin,12  Mar-17*,10.7,SASK
+145,Effective tax rate,12  Mar-17*,15.4,SASK
+146,Net profit margin,12  Mar-17*,18.1,SASK
+147,Current assets,12  Mar-17*,1763,SASK
+148,Current liabilities,12  Mar-17*,937,SASK
+149,Net working cap to sales,12  Mar-17*,17.7,SASK
+150,Current ratio,12  Mar-17*,1.9,SASK
+151,Inventory Days,12  Mar-17*,0,SASK
+152,Debtors Days,12  Mar-17*,61,SASK
+153,Net fixed assets,12  Mar-17*,379,SASK
+154,Share capital,12  Mar-17*,171,SASK
+155,"""Free"" reserves",12  Mar-17*,5444,SASK
+156,Net worth,12  Mar-17*,5615,SASK
+157,Long term debt,12  Mar-17*,0,SASK
+158,Total assets,12  Mar-17*,6624,SASK
+159,Interest coverage,12  Mar-17*,NM,SASK
+160,Debt to equity ratio,12  Mar-17*,0,SASK
+161,Sales to assets ratio,12  Mar-17*,0.7,SASK
+162,Return on assets,12  Mar-17*,12.8,SASK
+163,Return on equity,12  Mar-17*,15.1,SASK
+164,Return on capital,12  Mar-17*,17.2,SASK
+165,Exports to sales,12  Mar-17*,0,SASK
+166,Imports to sales,12  Mar-17*,0.5,SASK
+167,Exports (fob),12  Mar-17*,0,SASK
+168,Imports (cif),12  Mar-17*,23,SASK
+169,Fx inflow,12  Mar-17*,3019,SASK
+170,Fx outflow,12  Mar-17*,1186,SASK
+171,Net fx,12  Mar-17*,1834,SASK
+172,From Operations,12  Mar-17*,278,SASK
+173,From Investments,12  Mar-17*,191,SASK
+174,From Financial Activity,12  Mar-17*,-309,SASK
+175,Net Cashflow,12  Mar-17*,152,SASK
+176,Net Sales,12  Mar-18*,5030.0,SASK
+177,Other income,12  Mar-18*,364.0,SASK
+178,Total revenues,12  Mar-18*,5395.0,SASK
+179,Gross profit,12  Mar-18*,695.0,SASK
+180,Depreciation,12  Mar-18*,62.0,SASK
+181,Interest,12  Mar-18*,0.0,SASK
+182,Profit before tax,12  Mar-18*,997.0,SASK
+183,Minority Interest,12  Mar-18*,0.0,SASK
+184,Prior Period Items,12  Mar-18*,0.0,SASK
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,SASK
+186,Tax,12  Mar-18*,172.0,SASK
+187,Profit after tax,12  Mar-18*,824.0,SASK
+188,Gross profit margin,12  Mar-18*,13.8,SASK
+189,Effective tax rate,12  Mar-18*,17.3,SASK
+190,Net profit margin,12  Mar-18*,16.4,SASK
+191,Current assets,12  Mar-18*,1775,SASK
+192,Current liabilities,12  Mar-18*,1047,SASK
+193,Net working cap to sales,12  Mar-18*,14.5,SASK
+194,Current ratio,12  Mar-18*,1.7,SASK
+195,Inventory Days,12  Mar-18*,0,SASK
+196,Debtors Days,12  Mar-18*,57,SASK
+197,Net fixed assets,12  Mar-18*,373,SASK
+198,Share capital,12  Mar-18*,171,SASK
+199,"""Free"" reserves",12  Mar-18*,6039,SASK
+200,Net worth,12  Mar-18*,6210,SASK
+201,Long term debt,12  Mar-18*,0,SASK
+202,Total assets,12  Mar-18*,7338,SASK
+203,Interest coverage,12  Mar-18*,NM,SASK
+204,Debt to equity ratio,12  Mar-18*,0,SASK
+205,Sales to assets ratio,12  Mar-18*,0.7,SASK
+206,Return on assets,12  Mar-18*,11.2,SASK
+207,Return on equity,12  Mar-18*,13.3,SASK
+208,Return on capital,12  Mar-18*,16.0,SASK
+209,Exports to sales,12  Mar-18*,0,SASK
+210,Imports to sales,12  Mar-18*,0,SASK
+211,Exports (fob),12  Mar-18*,0,SASK
+212,Imports (cif),12  Mar-18*,0,SASK
+213,Fx inflow,12  Mar-18*,3312,SASK
+214,Fx outflow,12  Mar-18*,1148,SASK
+215,Net fx,12  Mar-18*,2165,SASK
+216,From Operations,12  Mar-18*,790,SASK
+217,From Investments,12  Mar-18*,-563,SASK
+218,From Financial Activity,12  Mar-18*,-182,SASK
+219,Net Cashflow,12  Mar-18*,63,SASK

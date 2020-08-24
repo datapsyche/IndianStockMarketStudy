@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,469510.0,WPRO
+1,Other income,12  Mar-15*,24497.0,WPRO
+2,Total revenues,12  Mar-15*,494007.0,WPRO
+3,Gross profit,12  Mar-15*,102992.0,WPRO
+4,Depreciation,12  Mar-15*,11749.0,WPRO
+5,Interest,12  Mar-15*,3499.0,WPRO
+6,Profit before tax,12  Mar-15*,112241.0,WPRO
+7,Minority Interest,12  Mar-15*,-531.0,WPRO
+8,Prior Period Items,12  Mar-15*,0.0,WPRO
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,WPRO
+10,Tax,12  Mar-15*,25101.0,WPRO
+11,Profit after tax,12  Mar-15*,86609.0,WPRO
+12,Gross profit margin,12  Mar-15*,21.9,WPRO
+13,Effective tax rate,12  Mar-15*,22.4,WPRO
+14,Net profit margin,12  Mar-15*,18.4,WPRO
+15,Current assets,12  Mar-15*,432776.0,WPRO
+16,Current liabilities,12  Mar-15*,163972.0,WPRO
+17,Net working cap to sales,12  Mar-15*,57.3,WPRO
+18,Current ratio,12  Mar-15*,2.6,WPRO
+19,Inventory Days,12  Mar-15*,4.0,WPRO
+20,Debtors Days,12  Mar-15*,68.0,WPRO
+21,Net fixed assets,12  Mar-15*,124966.0,WPRO
+22,Share capital,12  Mar-15*,4937.0,WPRO
+23,"""Free"" reserves",12  Mar-15*,398713.0,WPRO
+24,Net worth,12  Mar-15*,403650.0,WPRO
+25,Long term debt,12  Mar-15*,12707.0,WPRO
+26,Total assets,12  Mar-15*,595593.0,WPRO
+27,Interest coverage,12  Mar-15*,33.1,WPRO
+28,Debt to equity ratio,12  Mar-15*,0.0,WPRO
+29,Sales to assets ratio,12  Mar-15*,0.8,WPRO
+30,Return on assets,12  Mar-15*,15.1,WPRO
+31,Return on equity,12  Mar-15*,21.5,WPRO
+32,Return on capital,12  Mar-15*,27.7,WPRO
+33,Exports to sales,12  Mar-15*,0.0,WPRO
+34,Imports to sales,12  Mar-15*,1.9,WPRO
+35,Exports (fob),12  Mar-15*,0.0,WPRO
+36,Imports (cif),12  Mar-15*,8873.0,WPRO
+37,Fx inflow,12  Mar-15*,367665.0,WPRO
+38,Fx outflow,12  Mar-15*,203181.0,WPRO
+39,Net fx,12  Mar-15*,164484.0,WPRO
+40,From Operations,12  Mar-15*,78404.0,WPRO
+41,From Investments,12  Mar-15*,-25957.0,WPRO
+42,From Financial Activity,12  Mar-15*,-8297.0,WPRO
+43,Net Cashflow,12  Mar-15*,44150.0,WPRO
+44,Net Sales,12  Mar-16*,512440.0,WPRO
+45,Other income,12  Mar-16*,27522.0,WPRO
+46,Total revenues,12  Mar-16*,539962.0,WPRO
+47,Gross profit,12  Mar-16*,107958.0,WPRO
+48,Depreciation,12  Mar-16*,14961.0,WPRO
+49,Interest,12  Mar-16*,5582.0,WPRO
+50,Profit before tax,12  Mar-16*,114937.0,WPRO
+51,Minority Interest,12  Mar-16*,0.0,WPRO
+52,Prior Period Items,12  Mar-16*,0.0,WPRO
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,WPRO
+54,Tax,12  Mar-16*,25366.0,WPRO
+55,Profit after tax,12  Mar-16*,89571.0,WPRO
+56,Gross profit margin,12  Mar-16*,21.1,WPRO
+57,Effective tax rate,12  Mar-16*,22.1,WPRO
+58,Net profit margin,12  Mar-16*,17.5,WPRO
+59,Current assets,12  Mar-16*,502825.0,WPRO
+60,Current liabilities,12  Mar-16*,218511.0,WPRO
+61,Net working cap to sales,12  Mar-16*,55.5,WPRO
+62,Current ratio,12  Mar-16*,2.3,WPRO
+63,Inventory Days,12  Mar-16*,4.0,WPRO
+64,Debtors Days,12  Mar-16*,71.0,WPRO
+65,Net fixed assets,12  Mar-16*,176597.0,WPRO
+66,Share capital,12  Mar-16*,4941.0,WPRO
+67,"""Free"" reserves",12  Mar-16*,456507.0,WPRO
+68,Net worth,12  Mar-16*,461448.0,WPRO
+69,Long term debt,12  Mar-16*,17361.0,WPRO
+70,Total assets,12  Mar-16*,720192.0,WPRO
+71,Interest coverage,12  Mar-16*,21.6,WPRO
+72,Debt to equity ratio,12  Mar-16*,0.0,WPRO
+73,Sales to assets ratio,12  Mar-16*,0.7,WPRO
+74,Return on assets,12  Mar-16*,13.2,WPRO
+75,Return on equity,12  Mar-16*,19.4,WPRO
+76,Return on capital,12  Mar-16*,25.2,WPRO
+77,Exports to sales,12  Mar-16*,0.0,WPRO
+78,Imports to sales,12  Mar-16*,1.3,WPRO
+79,Exports (fob),12  Mar-16*,0.0,WPRO
+80,Imports (cif),12  Mar-16*,6474.0,WPRO
+81,Fx inflow,12  Mar-16*,404862.0,WPRO
+82,Fx outflow,12  Mar-16*,214655.0,WPRO
+83,Net fx,12  Mar-16*,190207.0,WPRO
+84,From Operations,12  Mar-16*,78873.0,WPRO
+85,From Investments,12  Mar-16*,-138156.0,WPRO
+86,From Financial Activity,12  Mar-16*,-1587.0,WPRO
+87,Net Cashflow,12  Mar-16*,-60321.0,WPRO
+88,Net Sales,12  Mar-17*,554484.0,WPRO
+89,Other income,12  Mar-17*,26226.0,WPRO
+90,Total revenues,12  Mar-17*,580710.0,WPRO
+91,Gross profit,12  Mar-17*,113209.0,WPRO
+92,Depreciation,12  Mar-17*,23100.0,WPRO
+93,Interest,12  Mar-17*,5942.0,WPRO
+94,Profit before tax,12  Mar-17*,110393.0,WPRO
+95,Minority Interest,12  Mar-17*,0.0,WPRO
+96,Prior Period Items,12  Mar-17*,0.0,WPRO
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,WPRO
+98,Tax,12  Mar-17*,25214.0,WPRO
+99,Profit after tax,12  Mar-17*,85179.0,WPRO
+100,Gross profit margin,12  Mar-17*,20.4,WPRO
+101,Effective tax rate,12  Mar-17*,22.8,WPRO
+102,Net profit margin,12  Mar-17*,15.4,WPRO
+103,Current assets,12  Mar-17*,538898.0,WPRO
+104,Current liabilities,12  Mar-17*,229485.0,WPRO
+105,Net working cap to sales,12  Mar-17*,55.8,WPRO
+106,Current ratio,12  Mar-17*,2.3,WPRO
+107,Inventory Days,12  Mar-17*,3.0,WPRO
+108,Debtors Days,12  Mar-17*,62.0,WPRO
+109,Net fixed assets,12  Mar-17*,206242.0,WPRO
+110,Share capital,12  Mar-17*,4861.0,WPRO
+111,"""Free"" reserves",12  Mar-17*,511841.0,WPRO
+112,Net worth,12  Mar-17*,516702.0,WPRO
+113,Long term debt,12  Mar-17*,19611.0,WPRO
+114,Total assets,12  Mar-17*,789820.0,WPRO
+115,Interest coverage,12  Mar-17*,19.6,WPRO
+116,Debt to equity ratio,12  Mar-17*,0.0,WPRO
+117,Sales to assets ratio,12  Mar-17*,0.7,WPRO
+118,Return on assets,12  Mar-17*,11.5,WPRO
+119,Return on equity,12  Mar-17*,16.5,WPRO
+120,Return on capital,12  Mar-17*,21.7,WPRO
+121,Exports to sales,12  Mar-17*,0.0,WPRO
+122,Imports to sales,12  Mar-17*,0.0,WPRO
+123,Exports (fob),12  Mar-17*,0.0,WPRO
+124,Imports (cif),12  Mar-17*,0.0,WPRO
+125,Fx inflow,12  Mar-17*,404000.0,WPRO
+126,Fx outflow,12  Mar-17*,212910.0,WPRO
+127,Net fx,12  Mar-17*,191090.0,WPRO
+128,From Operations,12  Mar-17*,92773.0,WPRO
+129,From Investments,12  Mar-17*,-116283.0,WPRO
+130,From Financial Activity,12  Mar-17*,-22752.0,WPRO
+131,Net Cashflow,12  Mar-17*,-47674.0,WPRO
+132,Net Sales,12  Mar-18*,544871.0,WPRO
+133,Other income,12  Mar-18*,25487.0,WPRO
+134,Total revenues,12  Mar-18*,570358.0,WPRO
+135,Gross profit,12  Mar-18*,103882.0,WPRO
+136,Depreciation,12  Mar-18*,21117.0,WPRO
+137,Interest,12  Mar-18*,5830.0,WPRO
+138,Profit before tax,12  Mar-18*,102422.0,WPRO
+139,Minority Interest,12  Mar-18*,0.0,WPRO
+140,Prior Period Items,12  Mar-18*,0.0,WPRO
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,WPRO
+142,Tax,12  Mar-18*,22391.0,WPRO
+143,Profit after tax,12  Mar-18*,80031.0,WPRO
+144,Gross profit margin,12  Mar-18*,19.1,WPRO
+145,Effective tax rate,12  Mar-18*,21.9,WPRO
+146,Net profit margin,12  Mar-18*,14.7,WPRO
+147,Current assets,12  Mar-18*,506156.0,WPRO
+148,Current liabilities,12  Mar-18*,213507.0,WPRO
+149,Net working cap to sales,12  Mar-18*,53.7,WPRO
+150,Current ratio,12  Mar-18*,2.4,WPRO
+151,Inventory Days,12  Mar-18*,2.0,WPRO
+152,Debtors Days,12  Mar-18*,68.0,WPRO
+153,Net fixed assets,12  Mar-18*,196250.0,WPRO
+154,Share capital,12  Mar-18*,9048.0,WPRO
+155,"""Free"" reserves",12  Mar-18*,470215.0,WPRO
+156,Net worth,12  Mar-18*,479263.0,WPRO
+157,Long term debt,12  Mar-18*,45268.0,WPRO
+158,Total assets,12  Mar-18*,756933.0,WPRO
+159,Interest coverage,12  Mar-18*,18.6,WPRO
+160,Debt to equity ratio,12  Mar-18*,0.1,WPRO
+161,Sales to assets ratio,12  Mar-18*,0.7,WPRO
+162,Return on assets,12  Mar-18*,11.3,WPRO
+163,Return on equity,12  Mar-18*,16.7,WPRO
+164,Return on capital,12  Mar-18*,20.6,WPRO
+165,Exports to sales,12  Mar-18*,0.0,WPRO
+166,Imports to sales,12  Mar-18*,0.0,WPRO
+167,Exports (fob),12  Mar-18*,0.0,WPRO
+168,Imports (cif),12  Mar-18*,0.0,WPRO
+169,Fx inflow,12  Mar-18*,391807.0,WPRO
+170,Fx outflow,12  Mar-18*,207831.0,WPRO
+171,Net fx,12  Mar-18*,183976.0,WPRO
+172,From Operations,12  Mar-18*,84233.0,WPRO
+173,From Investments,12  Mar-18*,35578.0,WPRO
+174,From Financial Activity,12  Mar-18*,-129978.0,WPRO
+175,Net Cashflow,12  Mar-18*,-9792.0,WPRO
+176,Net Sales,12  Mar-19*,585845.0,WPRO
+177,Other income,12  Mar-19*,26138.0,WPRO
+178,Total revenues,12  Mar-19*,611983.0,WPRO
+179,Gross profit,12  Mar-19*,116126.0,WPRO
+180,Depreciation,12  Mar-19*,19467.0,WPRO
+181,Interest,12  Mar-19*,7375.0,WPRO
+182,Profit before tax,12  Mar-19*,115422.0,WPRO
+183,Minority Interest,12  Mar-19*,0.0,WPRO
+184,Prior Period Items,12  Mar-19*,0.0,WPRO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,WPRO
+186,Tax,12  Mar-19*,25243.0,WPRO
+187,Profit after tax,12  Mar-19*,90179.0,WPRO
+188,Gross profit margin,12  Mar-19*,19.8,WPRO
+189,Effective tax rate,12  Mar-19*,21.9,WPRO
+190,Net profit margin,12  Mar-19*,15.4,WPRO
+191,Current assets,12  Mar-19*,571906.0,WPRO
+192,Current liabilities,12  Mar-19*,214350.0,WPRO
+193,Net working cap to sales,12  Mar-19*,61.0,WPRO
+194,Current ratio,12  Mar-19*,2.7,WPRO
+195,Inventory Days,12  Mar-19*,2.0,WPRO
+196,Debtors Days,12  Mar-19*,63.0,WPRO
+197,Net fixed assets,12  Mar-19*,197300.0,WPRO
+198,Share capital,12  Mar-19*,12068.0,WPRO
+199,"""Free"" reserves",12  Mar-19*,552158.0,WPRO
+200,Net worth,12  Mar-19*,564226.0,WPRO
+201,Long term debt,12  Mar-19*,28368.0,WPRO
+202,Total assets,12  Mar-19*,829248.0,WPRO
+203,Interest coverage,12  Mar-19*,16.7,WPRO
+204,Debt to equity ratio,12  Mar-19*,0.1,WPRO
+205,Sales to assets ratio,12  Mar-19*,0.7,WPRO
+206,Return on assets,12  Mar-19*,11.8,WPRO
+207,Return on equity,12  Mar-19*,16.0,WPRO
+208,Return on capital,12  Mar-19*,20.7,WPRO
+209,Exports to sales,12  Mar-19*,0.0,WPRO
+210,Imports to sales,12  Mar-19*,0.0,WPRO
+211,Exports (fob),12  Mar-19*,0.0,WPRO
+212,Imports (cif),12  Mar-19*,0.0,WPRO
+213,Fx inflow,12  Mar-19*,444584.0,WPRO
+214,Fx outflow,12  Mar-19*,230362.0,WPRO
+215,Net fx,12  Mar-19*,214222.0,WPRO
+216,From Operations,12  Mar-19*,116316.0,WPRO
+217,From Investments,12  Mar-19*,50126.0,WPRO
+218,From Financial Activity,12  Mar-19*,-49369.0,WPRO
+219,Net Cashflow,12  Mar-19*,117599.0,WPRO

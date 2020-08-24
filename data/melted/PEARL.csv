@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,46990.0,PEARL
+1,Other income,12  Mar-14*,653.0,PEARL
+2,Total revenues,12  Mar-14*,47642.0,PEARL
+3,Gross profit,12  Mar-14*,599.0,PEARL
+4,Depreciation,12  Mar-14*,289.0,PEARL
+5,Interest,12  Mar-14*,407.0,PEARL
+6,Profit before tax,12  Mar-14*,556.0,PEARL
+7,Minority Interest,12  Mar-14*,-54.0,PEARL
+8,Prior Period Items,12  Mar-14*,0.0,PEARL
+9,Extraordinary Inc (Exp),12  Mar-14*,-48.0,PEARL
+10,Tax,12  Mar-14*,67.0,PEARL
+11,Profit after tax,12  Mar-14*,386.0,PEARL
+12,Gross profit margin,12  Mar-14*,1.3,PEARL
+13,Effective tax rate,12  Mar-14*,12.1,PEARL
+14,Net profit margin,12  Mar-14*,0.8,PEARL
+15,Current assets,12  Mar-14*,14507.0,PEARL
+16,Current liabilities,12  Mar-14*,10765.0,PEARL
+17,Net working cap to sales,12  Mar-14*,8.0,PEARL
+18,Current ratio,12  Mar-14*,1.3,PEARL
+19,Inventory Days,12  Mar-14*,23.0,PEARL
+20,Debtors Days,12  Mar-14*,52.0,PEARL
+21,Net fixed assets,12  Mar-14*,3875.0,PEARL
+22,Share capital,12  Mar-14*,217.0,PEARL
+23,"""Free"" reserves",12  Mar-14*,2933.0,PEARL
+24,Net worth,12  Mar-14*,6693.0,PEARL
+25,Long term debt,12  Mar-14*,657.0,PEARL
+26,Total assets,12  Mar-14*,19096.0,PEARL
+27,Interest coverage,12  Mar-14*,2.4,PEARL
+28,Debt to equity ratio,12  Mar-14*,0.1,PEARL
+29,Sales to assets ratio,12  Mar-14*,2.5,PEARL
+30,Return on assets,12  Mar-14*,4.2,PEARL
+31,Return on equity,12  Mar-14*,5.8,PEARL
+32,Return on capital,12  Mar-14*,11.7,PEARL
+33,Exports to sales,12  Mar-14*,13.1,PEARL
+34,Imports to sales,12  Mar-14*,4.3,PEARL
+35,Exports (fob),12  Mar-14*,6178.0,PEARL
+36,Imports (cif),12  Mar-14*,2041.0,PEARL
+37,Fx inflow,12  Mar-14*,6220.0,PEARL
+38,Fx outflow,12  Mar-14*,2041.0,PEARL
+39,Net fx,12  Mar-14*,4179.0,PEARL
+40,From Operations,12  Mar-14*,839.0,PEARL
+41,From Investments,12  Mar-14*,-922.0,PEARL
+42,From Financial Activity,12  Mar-14*,690.0,PEARL
+43,Net Cashflow,12  Mar-14*,607.0,PEARL
+44,Net Sales,12  Mar-15*,10237.0,PEARL
+45,Other income,12  Mar-15*,241.0,PEARL
+46,Total revenues,12  Mar-15*,10478.0,PEARL
+47,Gross profit,12  Mar-15*,497.0,PEARL
+48,Depreciation,12  Mar-15*,159.0,PEARL
+49,Interest,12  Mar-15*,235.0,PEARL
+50,Profit before tax,12  Mar-15*,344.0,PEARL
+51,Minority Interest,12  Mar-15*,8.0,PEARL
+52,Prior Period Items,12  Mar-15*,0.0,PEARL
+53,Extraordinary Inc (Exp),12  Mar-15*,-1.0,PEARL
+54,Tax,12  Mar-15*,99.0,PEARL
+55,Profit after tax,12  Mar-15*,251.0,PEARL
+56,Gross profit margin,12  Mar-15*,4.8,PEARL
+57,Effective tax rate,12  Mar-15*,28.8,PEARL
+58,Net profit margin,12  Mar-15*,2.4,PEARL
+59,Current assets,12  Mar-15*,4672.0,PEARL
+60,Current liabilities,12  Mar-15*,3471.0,PEARL
+61,Net working cap to sales,12  Mar-15*,11.7,PEARL
+62,Current ratio,12  Mar-15*,1.3,PEARL
+63,Inventory Days,12  Mar-15*,62.0,PEARL
+64,Debtors Days,12  Mar-15*,43.0,PEARL
+65,Net fixed assets,12  Mar-15*,2159.0,PEARL
+66,Share capital,12  Mar-15*,217.0,PEARL
+67,"""Free"" reserves",12  Mar-15*,2140.0,PEARL
+68,Net worth,12  Mar-15*,3174.0,PEARL
+69,Long term debt,12  Mar-15*,139.0,PEARL
+70,Total assets,12  Mar-15*,7343.0,PEARL
+71,Interest coverage,12  Mar-15*,2.5,PEARL
+72,Debt to equity ratio,12  Mar-15*,0.0,PEARL
+73,Sales to assets ratio,12  Mar-15*,1.4,PEARL
+74,Return on assets,12  Mar-15*,6.6,PEARL
+75,Return on equity,12  Mar-15*,7.9,PEARL
+76,Return on capital,12  Mar-15*,17.6,PEARL
+77,Exports to sales,12  Mar-15*,56.2,PEARL
+78,Imports to sales,12  Mar-15*,18.5,PEARL
+79,Exports (fob),12  Mar-15*,5751.0,PEARL
+80,Imports (cif),12  Mar-15*,1896.0,PEARL
+81,Fx inflow,12  Mar-15*,5789.0,PEARL
+82,Fx outflow,12  Mar-15*,1913.0,PEARL
+83,Net fx,12  Mar-15*,3876.0,PEARL
+84,From Operations,12  Mar-15*,322.0,PEARL
+85,From Investments,12  Mar-15*,-546.0,PEARL
+86,From Financial Activity,12  Mar-15*,21.0,PEARL
+87,Net Cashflow,12  Mar-15*,-202.0,PEARL
+88,Net Sales,12  Mar-16*,13934.0,PEARL
+89,Other income,12  Mar-16*,252.0,PEARL
+90,Total revenues,12  Mar-16*,14186.0,PEARL
+91,Gross profit,12  Mar-16*,606.0,PEARL
+92,Depreciation,12  Mar-16*,169.0,PEARL
+93,Interest,12  Mar-16*,206.0,PEARL
+94,Profit before tax,12  Mar-16*,484.0,PEARL
+95,Minority Interest,12  Mar-16*,1.0,PEARL
+96,Prior Period Items,12  Mar-16*,0.0,PEARL
+97,Extraordinary Inc (Exp),12  Mar-16*,-11.0,PEARL
+98,Tax,12  Mar-16*,107.0,PEARL
+99,Profit after tax,12  Mar-16*,367.0,PEARL
+100,Gross profit margin,12  Mar-16*,4.3,PEARL
+101,Effective tax rate,12  Mar-16*,22.2,PEARL
+102,Net profit margin,12  Mar-16*,2.6,PEARL
+103,Current assets,12  Mar-16*,5770.0,PEARL
+104,Current liabilities,12  Mar-16*,4190.0,PEARL
+105,Net working cap to sales,12  Mar-16*,11.3,PEARL
+106,Current ratio,12  Mar-16*,1.4,PEARL
+107,Inventory Days,12  Mar-16*,46.0,PEARL
+108,Debtors Days,12  Mar-16*,50.0,PEARL
+109,Net fixed assets,12  Mar-16*,2206.0,PEARL
+110,Share capital,12  Mar-16*,217.0,PEARL
+111,"""Free"" reserves",12  Mar-16*,3236.0,PEARL
+112,Net worth,12  Mar-16*,3453.0,PEARL
+113,Long term debt,12  Mar-16*,190.0,PEARL
+114,Total assets,12  Mar-16*,8430.0,PEARL
+115,Interest coverage,12  Mar-16*,3.4,PEARL
+116,Debt to equity ratio,12  Mar-16*,0.1,PEARL
+117,Sales to assets ratio,12  Mar-16*,1.7,PEARL
+118,Return on assets,12  Mar-16*,6.8,PEARL
+119,Return on equity,12  Mar-16*,10.6,PEARL
+120,Return on capital,12  Mar-16*,18.7,PEARL
+121,Exports to sales,12  Mar-16*,50.0,PEARL
+122,Imports to sales,12  Mar-16*,18.6,PEARL
+123,Exports (fob),12  Mar-16*,6971.0,PEARL
+124,Imports (cif),12  Mar-16*,2597.0,PEARL
+125,Fx inflow,12  Mar-16*,7003.0,PEARL
+126,Fx outflow,12  Mar-16*,2624.0,PEARL
+127,Net fx,12  Mar-16*,4379.0,PEARL
+128,From Operations,12  Mar-16*,253.0,PEARL
+129,From Investments,12  Mar-16*,-222.0,PEARL
+130,From Financial Activity,12  Mar-16*,235.0,PEARL
+131,Net Cashflow,12  Mar-16*,266.0,PEARL
+132,Net Sales,12  Mar-17*,15381.0,PEARL
+133,Other income,12  Mar-17*,301.0,PEARL
+134,Total revenues,12  Mar-17*,15681.0,PEARL
+135,Gross profit,12  Mar-17*,626.0,PEARL
+136,Depreciation,12  Mar-17*,192.0,PEARL
+137,Interest,12  Mar-17*,242.0,PEARL
+138,Profit before tax,12  Mar-17*,492.0,PEARL
+139,Minority Interest,12  Mar-17*,0.0,PEARL
+140,Prior Period Items,12  Mar-17*,0.0,PEARL
+141,Extraordinary Inc (Exp),12  Mar-17*,1.0,PEARL
+142,Tax,12  Mar-17*,72.0,PEARL
+143,Profit after tax,12  Mar-17*,420.0,PEARL
+144,Gross profit margin,12  Mar-17*,4.1,PEARL
+145,Effective tax rate,12  Mar-17*,14.7,PEARL
+146,Net profit margin,12  Mar-17*,2.7,PEARL
+147,Current assets,12  Mar-17*,5765.0,PEARL
+148,Current liabilities,12  Mar-17*,4355.0,PEARL
+149,Net working cap to sales,12  Mar-17*,9.2,PEARL
+150,Current ratio,12  Mar-17*,1.3,PEARL
+151,Inventory Days,12  Mar-17*,51.0,PEARL
+152,Debtors Days,12  Mar-17*,38.0,PEARL
+153,Net fixed assets,12  Mar-17*,2691.0,PEARL
+154,Share capital,12  Mar-17*,217.0,PEARL
+155,"""Free"" reserves",12  Mar-17*,3588.0,PEARL
+156,Net worth,12  Mar-17*,3805.0,PEARL
+157,Long term debt,12  Mar-17*,369.0,PEARL
+158,Total assets,12  Mar-17*,9157.0,PEARL
+159,Interest coverage,12  Mar-17*,3.0,PEARL
+160,Debt to equity ratio,12  Mar-17*,0.1,PEARL
+161,Sales to assets ratio,12  Mar-17*,1.7,PEARL
+162,Return on assets,12  Mar-17*,7.2,PEARL
+163,Return on equity,12  Mar-17*,11.0,PEARL
+164,Return on capital,12  Mar-17*,17.6,PEARL
+165,Exports to sales,12  Mar-17*,49.3,PEARL
+166,Imports to sales,12  Mar-17*,16.8,PEARL
+167,Exports (fob),12  Mar-17*,7586.0,PEARL
+168,Imports (cif),12  Mar-17*,2591.0,PEARL
+169,Fx inflow,12  Mar-17*,7600.0,PEARL
+170,Fx outflow,12  Mar-17*,2606.0,PEARL
+171,Net fx,12  Mar-17*,4994.0,PEARL
+172,From Operations,12  Mar-17*,151.0,PEARL
+173,From Investments,12  Mar-17*,-489.0,PEARL
+174,From Financial Activity,12  Mar-17*,113.0,PEARL
+175,Net Cashflow,12  Mar-17*,-225.0,PEARL
+176,Net Sales,12  Mar-18*,14960.0,PEARL
+177,Other income,12  Mar-18*,476.0,PEARL
+178,Total revenues,12  Mar-18*,15436.0,PEARL
+179,Gross profit,12  Mar-18*,248.0,PEARL
+180,Depreciation,12  Mar-18*,226.0,PEARL
+181,Interest,12  Mar-18*,255.0,PEARL
+182,Profit before tax,12  Mar-18*,242.0,PEARL
+183,Minority Interest,12  Mar-18*,0.0,PEARL
+184,Prior Period Items,12  Mar-18*,0.0,PEARL
+185,Extraordinary Inc (Exp),12  Mar-18*,82.0,PEARL
+186,Tax,12  Mar-18*,93.0,PEARL
+187,Profit after tax,12  Mar-18*,231.0,PEARL
+188,Gross profit margin,12  Mar-18*,1.7,PEARL
+189,Effective tax rate,12  Mar-18*,38.6,PEARL
+190,Net profit margin,12  Mar-18*,1.5,PEARL
+191,Current assets,12  Mar-18*,5495.0,PEARL
+192,Current liabilities,12  Mar-18*,4263.0,PEARL
+193,Net working cap to sales,12  Mar-18*,8.2,PEARL
+194,Current ratio,12  Mar-18*,1.3,PEARL
+195,Inventory Days,12  Mar-18*,51.0,PEARL
+196,Debtors Days,12  Mar-18*,35.0,PEARL
+197,Net fixed assets,12  Mar-18*,2626.0,PEARL
+198,Share capital,12  Mar-18*,217.0,PEARL
+199,"""Free"" reserves",12  Mar-18*,3735.0,PEARL
+200,Net worth,12  Mar-18*,3951.0,PEARL
+201,Long term debt,12  Mar-18*,490.0,PEARL
+202,Total assets,12  Mar-18*,9367.0,PEARL
+203,Interest coverage,12  Mar-18*,1.9,PEARL
+204,Debt to equity ratio,12  Mar-18*,0.1,PEARL
+205,Sales to assets ratio,12  Mar-18*,1.6,PEARL
+206,Return on assets,12  Mar-18*,5.2,PEARL
+207,Return on equity,12  Mar-18*,5.8,PEARL
+208,Return on capital,12  Mar-18*,13.0,PEARL
+209,Exports to sales,12  Mar-18*,43.0,PEARL
+210,Imports to sales,12  Mar-18*,0.0,PEARL
+211,Exports (fob),12  Mar-18*,6430.0,PEARL
+212,Imports (cif),12  Mar-18*,0.0,PEARL
+213,Fx inflow,12  Mar-18*,6441.0,PEARL
+214,Fx outflow,12  Mar-18*,17.0,PEARL
+215,Net fx,12  Mar-18*,6424.0,PEARL
+216,From Operations,12  Mar-18*,337.0,PEARL
+217,From Investments,12  Mar-18*,-585.0,PEARL
+218,From Financial Activity,12  Mar-18*,307.0,PEARL
+219,Net Cashflow,12  Mar-18*,59.0,PEARL

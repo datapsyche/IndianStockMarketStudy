@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,14311.0,OMAXE
+1,Other income,12  Mar-15*,342.0,OMAXE
+2,Total revenues,12  Mar-15*,14652.0,OMAXE
+3,Gross profit,12  Mar-15*,2340.0,OMAXE
+4,Depreciation,12  Mar-15*,144.0,OMAXE
+5,Interest,12  Mar-15*,1435.0,OMAXE
+6,Profit before tax,12  Mar-15*,1102.0,OMAXE
+7,Minority Interest,12  Mar-15*,2.0,OMAXE
+8,Prior Period Items,12  Mar-15*,0.0,OMAXE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,OMAXE
+10,Tax,12  Mar-15*,504.0,OMAXE
+11,Profit after tax,12  Mar-15*,601.0,OMAXE
+12,Gross profit margin,12  Mar-15*,16.3,OMAXE
+13,Effective tax rate,12  Mar-15*,45.7,OMAXE
+14,Net profit margin,12  Mar-15*,4.2,OMAXE
+15,Current assets,12  Mar-15*,61898.0,OMAXE
+16,Current liabilities,12  Mar-15*,40119.0,OMAXE
+17,Net working cap to sales,12  Mar-15*,152.2,OMAXE
+18,Current ratio,12  Mar-15*,1.5,OMAXE
+19,Inventory Days,12  Mar-15*,1081.0,OMAXE
+20,Debtors Days,12  Mar-15*,194.0,OMAXE
+21,Net fixed assets,12  Mar-15*,5274.0,OMAXE
+22,Share capital,12  Mar-15*,1829.0,OMAXE
+23,"""Free"" reserves",12  Mar-15*,17822.0,OMAXE
+24,Net worth,12  Mar-15*,19651.0,OMAXE
+25,Long term debt,12  Mar-15*,4782.0,OMAXE
+26,Total assets,12  Mar-15*,72558.0,OMAXE
+27,Interest coverage,12  Mar-15*,1.8,OMAXE
+28,Debt to equity ratio,12  Mar-15*,0.2,OMAXE
+29,Sales to assets ratio,12  Mar-15*,0.2,OMAXE
+30,Return on assets,12  Mar-15*,2.8,OMAXE
+31,Return on equity,12  Mar-15*,3.1,OMAXE
+32,Return on capital,12  Mar-15*,10.4,OMAXE
+33,Exports to sales,12  Mar-15*,0.0,OMAXE
+34,Imports to sales,12  Mar-15*,0.1,OMAXE
+35,Exports (fob),12  Mar-15*,0.0,OMAXE
+36,Imports (cif),12  Mar-15*,16.0,OMAXE
+37,Fx inflow,12  Mar-15*,6.0,OMAXE
+38,Fx outflow,12  Mar-15*,20.0,OMAXE
+39,Net fx,12  Mar-15*,-15.0,OMAXE
+40,From Operations,12  Mar-15*,3620.0,OMAXE
+41,From Investments,12  Mar-15*,-56.0,OMAXE
+42,From Financial Activity,12  Mar-15*,-3908.0,OMAXE
+43,Net Cashflow,12  Mar-15*,-345.0,OMAXE
+44,Net Sales,12  Mar-16*,13857.0,OMAXE
+45,Other income,12  Mar-16*,541.0,OMAXE
+46,Total revenues,12  Mar-16*,14399.0,OMAXE
+47,Gross profit,12  Mar-16*,2421.0,OMAXE
+48,Depreciation,12  Mar-16*,104.0,OMAXE
+49,Interest,12  Mar-16*,1468.0,OMAXE
+50,Profit before tax,12  Mar-16*,1390.0,OMAXE
+51,Minority Interest,12  Mar-16*,0.0,OMAXE
+52,Prior Period Items,12  Mar-16*,0.0,OMAXE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,OMAXE
+54,Tax,12  Mar-16*,624.0,OMAXE
+55,Profit after tax,12  Mar-16*,766.0,OMAXE
+56,Gross profit margin,12  Mar-16*,17.5,OMAXE
+57,Effective tax rate,12  Mar-16*,44.9,OMAXE
+58,Net profit margin,12  Mar-16*,5.5,OMAXE
+59,Current assets,12  Mar-16*,66521.0,OMAXE
+60,Current liabilities,12  Mar-16*,42278.0,OMAXE
+61,Net working cap to sales,12  Mar-16*,174.9,OMAXE
+62,Current ratio,12  Mar-16*,1.6,OMAXE
+63,Inventory Days,12  Mar-16*,1189.0,OMAXE
+64,Debtors Days,12  Mar-16*,208.0,OMAXE
+65,Net fixed assets,12  Mar-16*,5266.0,OMAXE
+66,Share capital,12  Mar-16*,1829.0,OMAXE
+67,"""Free"" reserves",12  Mar-16*,18475.0,OMAXE
+68,Net worth,12  Mar-16*,20304.0,OMAXE
+69,Long term debt,12  Mar-16*,6633.0,OMAXE
+70,Total assets,12  Mar-16*,77123.0,OMAXE
+71,Interest coverage,12  Mar-16*,1.9,OMAXE
+72,Debt to equity ratio,12  Mar-16*,0.3,OMAXE
+73,Sales to assets ratio,12  Mar-16*,0.2,OMAXE
+74,Return on assets,12  Mar-16*,2.9,OMAXE
+75,Return on equity,12  Mar-16*,3.8,OMAXE
+76,Return on capital,12  Mar-16*,10.6,OMAXE
+77,Exports to sales,12  Mar-16*,0.0,OMAXE
+78,Imports to sales,12  Mar-16*,0.5,OMAXE
+79,Exports (fob),12  Mar-16*,0.0,OMAXE
+80,Imports (cif),12  Mar-16*,72.0,OMAXE
+81,Fx inflow,12  Mar-16*,1.0,OMAXE
+82,Fx outflow,12  Mar-16*,73.0,OMAXE
+83,Net fx,12  Mar-16*,-72.0,OMAXE
+84,From Operations,12  Mar-16*,908.0,OMAXE
+85,From Investments,12  Mar-16*,65.0,OMAXE
+86,From Financial Activity,12  Mar-16*,-1047.0,OMAXE
+87,Net Cashflow,12  Mar-16*,-74.0,OMAXE
+88,Net Sales,12  Mar-17*,16268.0,OMAXE
+89,Other income,12  Mar-17*,589.0,OMAXE
+90,Total revenues,12  Mar-17*,16857.0,OMAXE
+91,Gross profit,12  Mar-17*,2836.0,OMAXE
+92,Depreciation,12  Mar-17*,89.0,OMAXE
+93,Interest,12  Mar-17*,1545.0,OMAXE
+94,Profit before tax,12  Mar-17*,1791.0,OMAXE
+95,Minority Interest,12  Mar-17*,0.0,OMAXE
+96,Prior Period Items,12  Mar-17*,0.0,OMAXE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,OMAXE
+98,Tax,12  Mar-17*,739.0,OMAXE
+99,Profit after tax,12  Mar-17*,1053.0,OMAXE
+100,Gross profit margin,12  Mar-17*,17.4,OMAXE
+101,Effective tax rate,12  Mar-17*,41.2,OMAXE
+102,Net profit margin,12  Mar-17*,6.5,OMAXE
+103,Current assets,12  Mar-17*,72834.0,OMAXE
+104,Current liabilities,12  Mar-17*,46206.0,OMAXE
+105,Net working cap to sales,12  Mar-17*,163.7,OMAXE
+106,Current ratio,12  Mar-17*,1.6,OMAXE
+107,Inventory Days,12  Mar-17*,1093.0,OMAXE
+108,Debtors Days,12  Mar-17*,235.0,OMAXE
+109,Net fixed assets,12  Mar-17*,5309.0,OMAXE
+110,Share capital,12  Mar-17*,1829.0,OMAXE
+111,"""Free"" reserves",12  Mar-17*,19357.0,OMAXE
+112,Net worth,12  Mar-17*,21186.0,OMAXE
+113,Long term debt,12  Mar-17*,7534.0,OMAXE
+114,Total assets,12  Mar-17*,83259.0,OMAXE
+115,Interest coverage,12  Mar-17*,2.2,OMAXE
+116,Debt to equity ratio,12  Mar-17*,0.4,OMAXE
+117,Sales to assets ratio,12  Mar-17*,0.2,OMAXE
+118,Return on assets,12  Mar-17*,3.1,OMAXE
+119,Return on equity,12  Mar-17*,5.0,OMAXE
+120,Return on capital,12  Mar-17*,11.6,OMAXE
+121,Exports to sales,12  Mar-17*,0.0,OMAXE
+122,Imports to sales,12  Mar-17*,0.0,OMAXE
+123,Exports (fob),12  Mar-17*,0.0,OMAXE
+124,Imports (cif),12  Mar-17*,0.0,OMAXE
+125,Fx inflow,12  Mar-17*,3.0,OMAXE
+126,Fx outflow,12  Mar-17*,7.0,OMAXE
+127,Net fx,12  Mar-17*,-4.0,OMAXE
+128,From Operations,12  Mar-17*,1209.0,OMAXE
+129,From Investments,12  Mar-17*,199.0,OMAXE
+130,From Financial Activity,12  Mar-17*,-1731.0,OMAXE
+131,Net Cashflow,12  Mar-17*,-324.0,OMAXE
+132,Net Sales,12  Mar-18*,18391.0,OMAXE
+133,Other income,12  Mar-18*,587.0,OMAXE
+134,Total revenues,12  Mar-18*,18978.0,OMAXE
+135,Gross profit,12  Mar-18*,2600.0,OMAXE
+136,Depreciation,12  Mar-18*,88.0,OMAXE
+137,Interest,12  Mar-18*,1693.0,OMAXE
+138,Profit before tax,12  Mar-18*,1407.0,OMAXE
+139,Minority Interest,12  Mar-18*,0.0,OMAXE
+140,Prior Period Items,12  Mar-18*,0.0,OMAXE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,OMAXE
+142,Tax,12  Mar-18*,555.0,OMAXE
+143,Profit after tax,12  Mar-18*,852.0,OMAXE
+144,Gross profit margin,12  Mar-18*,14.1,OMAXE
+145,Effective tax rate,12  Mar-18*,39.5,OMAXE
+146,Net profit margin,12  Mar-18*,4.6,OMAXE
+147,Current assets,12  Mar-18*,72501.0,OMAXE
+148,Current liabilities,12  Mar-18*,46637.0,OMAXE
+149,Net working cap to sales,12  Mar-18*,140.6,OMAXE
+150,Current ratio,12  Mar-18*,1.6,OMAXE
+151,Inventory Days,12  Mar-18*,1016.0,OMAXE
+152,Debtors Days,12  Mar-18*,157.0,OMAXE
+153,Net fixed assets,12  Mar-18*,6037.0,OMAXE
+154,Share capital,12  Mar-18*,1829.0,OMAXE
+155,"""Free"" reserves",12  Mar-18*,20140.0,OMAXE
+156,Net worth,12  Mar-18*,21969.0,OMAXE
+157,Long term debt,12  Mar-18*,10560.0,OMAXE
+158,Total assets,12  Mar-18*,81280.0,OMAXE
+159,Interest coverage,12  Mar-18*,1.8,OMAXE
+160,Debt to equity ratio,12  Mar-18*,0.5,OMAXE
+161,Sales to assets ratio,12  Mar-18*,0.2,OMAXE
+162,Return on assets,12  Mar-18*,3.1,OMAXE
+163,Return on equity,12  Mar-18*,3.9,OMAXE
+164,Return on capital,12  Mar-18*,9.5,OMAXE
+165,Exports to sales,12  Mar-18*,0.0,OMAXE
+166,Imports to sales,12  Mar-18*,0.0,OMAXE
+167,Exports (fob),12  Mar-18*,0.0,OMAXE
+168,Imports (cif),12  Mar-18*,0.0,OMAXE
+169,Fx inflow,12  Mar-18*,0.0,OMAXE
+170,Fx outflow,12  Mar-18*,0.0,OMAXE
+171,Net fx,12  Mar-18*,0.0,OMAXE
+172,From Operations,12  Mar-18*,191.0,OMAXE
+173,From Investments,12  Mar-18*,207.0,OMAXE
+174,From Financial Activity,12  Mar-18*,-355.0,OMAXE
+175,Net Cashflow,12  Mar-18*,43.0,OMAXE
+176,Net Sales,12  Mar-19*,11665.0,OMAXE
+177,Other income,12  Mar-19*,337.0,OMAXE
+178,Total revenues,12  Mar-19*,12002.0,OMAXE
+179,Gross profit,12  Mar-19*,1281.0,OMAXE
+180,Depreciation,12  Mar-19*,90.0,OMAXE
+181,Interest,12  Mar-19*,743.0,OMAXE
+182,Profit before tax,12  Mar-19*,786.0,OMAXE
+183,Minority Interest,12  Mar-19*,0.0,OMAXE
+184,Prior Period Items,12  Mar-19*,0.0,OMAXE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,OMAXE
+186,Tax,12  Mar-19*,299.0,OMAXE
+187,Profit after tax,12  Mar-19*,487.0,OMAXE
+188,Gross profit margin,12  Mar-19*,11.0,OMAXE
+189,Effective tax rate,12  Mar-19*,38.1,OMAXE
+190,Net profit margin,12  Mar-19*,4.2,OMAXE
+191,Current assets,12  Mar-19*,96201.0,OMAXE
+192,Current liabilities,12  Mar-19*,76770.0,OMAXE
+193,Net working cap to sales,12  Mar-19*,166.6,OMAXE
+194,Current ratio,12  Mar-19*,1.3,OMAXE
+195,Inventory Days,12  Mar-19*,2632.0,OMAXE
+196,Debtors Days,12  Mar-19*,110.0,OMAXE
+197,Net fixed assets,12  Mar-19*,5986.0,OMAXE
+198,Share capital,12  Mar-19*,1829.0,OMAXE
+199,"""Free"" reserves",12  Mar-19*,15575.0,OMAXE
+200,Net worth,12  Mar-19*,17404.0,OMAXE
+201,Long term debt,12  Mar-19*,11536.0,OMAXE
+202,Total assets,12  Mar-19*,107601.0,OMAXE
+203,Interest coverage,12  Mar-19*,2.1,OMAXE
+204,Debt to equity ratio,12  Mar-19*,0.7,OMAXE
+205,Sales to assets ratio,12  Mar-19*,0.1,OMAXE
+206,Return on assets,12  Mar-19*,1.1,OMAXE
+207,Return on equity,12  Mar-19*,2.8,OMAXE
+208,Return on capital,12  Mar-19*,5.3,OMAXE
+209,Exports to sales,12  Mar-19*,0.0,OMAXE
+210,Imports to sales,12  Mar-19*,0.0,OMAXE
+211,Exports (fob),12  Mar-19*,0.0,OMAXE
+212,Imports (cif),12  Mar-19*,0.0,OMAXE
+213,Fx inflow,12  Mar-19*,0.0,OMAXE
+214,Fx outflow,12  Mar-19*,0.0,OMAXE
+215,Net fx,12  Mar-19*,0.0,OMAXE
+216,From Operations,12  Mar-19*,4005.0,OMAXE
+217,From Investments,12  Mar-19*,164.0,OMAXE
+218,From Financial Activity,12  Mar-19*,-4350.0,OMAXE
+219,Net Cashflow,12  Mar-19*,-181.0,OMAXE

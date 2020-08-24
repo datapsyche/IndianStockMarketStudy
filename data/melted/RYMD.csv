@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,53326.0,RYMD
+1,Other income,12  Mar-15*,952.0,RYMD
+2,Total revenues,12  Mar-15*,54278.0,RYMD
+3,Gross profit,12  Mar-15*,4268.0,RYMD
+4,Depreciation,12  Mar-15*,1619.0,RYMD
+5,Interest,12  Mar-15*,2004.0,RYMD
+6,Profit before tax,12  Mar-15*,1597.0,RYMD
+7,Minority Interest,12  Mar-15*,-68.0,RYMD
+8,Prior Period Items,12  Mar-15*,37.0,RYMD
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,RYMD
+10,Tax,12  Mar-15*,439.0,RYMD
+11,Profit after tax,12  Mar-15*,1128.0,RYMD
+12,Gross profit margin,12  Mar-15*,8.0,RYMD
+13,Effective tax rate,12  Mar-15*,27.5,RYMD
+14,Net profit margin,12  Mar-15*,2.1,RYMD
+15,Current assets,12  Mar-15*,26135.0,RYMD
+16,Current liabilities,12  Mar-15*,19678.0,RYMD
+17,Net working cap to sales,12  Mar-15*,12.1,RYMD
+18,Current ratio,12  Mar-15*,1.3,RYMD
+19,Inventory Days,12  Mar-15*,74.0,RYMD
+20,Debtors Days,12  Mar-15*,65.0,RYMD
+21,Net fixed assets,12  Mar-15*,13772.0,RYMD
+22,Share capital,12  Mar-15*,614.0,RYMD
+23,"""Free"" reserves",12  Mar-15*,11041.0,RYMD
+24,Net worth,12  Mar-15*,16671.0,RYMD
+25,Long term debt,12  Mar-15*,9132.0,RYMD
+26,Total assets,12  Mar-15*,46201.0,RYMD
+27,Interest coverage,12  Mar-15*,1.8,RYMD
+28,Debt to equity ratio,12  Mar-15*,0.5,RYMD
+29,Sales to assets ratio,12  Mar-15*,1.2,RYMD
+30,Return on assets,12  Mar-15*,6.8,RYMD
+31,Return on equity,12  Mar-15*,6.8,RYMD
+32,Return on capital,12  Mar-15*,13.8,RYMD
+33,Exports to sales,12  Mar-15*,3.5,RYMD
+34,Imports to sales,12  Mar-15*,5.5,RYMD
+35,Exports (fob),12  Mar-15*,1841.0,RYMD
+36,Imports (cif),12  Mar-15*,2933.0,RYMD
+37,Fx inflow,12  Mar-15*,1845.0,RYMD
+38,Fx outflow,12  Mar-15*,3358.0,RYMD
+39,Net fx,12  Mar-15*,-1512.0,RYMD
+40,From Operations,12  Mar-15*,3801.0,RYMD
+41,From Investments,12  Mar-15*,-1399.0,RYMD
+42,From Financial Activity,12  Mar-15*,-2500.0,RYMD
+43,Net Cashflow,12  Mar-15*,-98.0,RYMD
+44,Net Sales,12  Mar-16*,51390.0,RYMD
+45,Other income,12  Mar-16*,1190.0,RYMD
+46,Total revenues,12  Mar-16*,52581.0,RYMD
+47,Gross profit,12  Mar-16*,3872.0,RYMD
+48,Depreciation,12  Mar-16*,1589.0,RYMD
+49,Interest,12  Mar-16*,1897.0,RYMD
+50,Profit before tax,12  Mar-16*,1576.0,RYMD
+51,Minority Interest,12  Mar-16*,0.0,RYMD
+52,Prior Period Items,12  Mar-16*,96.0,RYMD
+53,Extraordinary Inc (Exp),12  Mar-16*,-352.0,RYMD
+54,Tax,12  Mar-16*,465.0,RYMD
+55,Profit after tax,12  Mar-16*,855.0,RYMD
+56,Gross profit margin,12  Mar-16*,7.5,RYMD
+57,Effective tax rate,12  Mar-16*,29.5,RYMD
+58,Net profit margin,12  Mar-16*,1.7,RYMD
+59,Current assets,12  Mar-16*,28598.0,RYMD
+60,Current liabilities,12  Mar-16*,21612.0,RYMD
+61,Net working cap to sales,12  Mar-16*,13.6,RYMD
+62,Current ratio,12  Mar-16*,1.3,RYMD
+63,Inventory Days,12  Mar-16*,83.0,RYMD
+64,Debtors Days,12  Mar-16*,74.0,RYMD
+65,Net fixed assets,12  Mar-16*,14148.0,RYMD
+66,Share capital,12  Mar-16*,614.0,RYMD
+67,"""Free"" reserves",12  Mar-16*,11582.0,RYMD
+68,Net worth,12  Mar-16*,17372.0,RYMD
+69,Long term debt,12  Mar-16*,9552.0,RYMD
+70,Total assets,12  Mar-16*,49217.0,RYMD
+71,Interest coverage,12  Mar-16*,1.8,RYMD
+72,Debt to equity ratio,12  Mar-16*,0.5,RYMD
+73,Sales to assets ratio,12  Mar-16*,1.0,RYMD
+74,Return on assets,12  Mar-16*,5.6,RYMD
+75,Return on equity,12  Mar-16*,4.9,RYMD
+76,Return on capital,12  Mar-16*,11.9,RYMD
+77,Exports to sales,12  Mar-16*,3.3,RYMD
+78,Imports to sales,12  Mar-16*,5.7,RYMD
+79,Exports (fob),12  Mar-16*,1719.0,RYMD
+80,Imports (cif),12  Mar-16*,2920.0,RYMD
+81,Fx inflow,12  Mar-16*,1739.0,RYMD
+82,Fx outflow,12  Mar-16*,3456.0,RYMD
+83,Net fx,12  Mar-16*,-1717.0,RYMD
+84,From Operations,12  Mar-16*,3172.0,RYMD
+85,From Investments,12  Mar-16*,-2108.0,RYMD
+86,From Financial Activity,12  Mar-16*,-1179.0,RYMD
+87,Net Cashflow,12  Mar-16*,-115.0,RYMD
+88,Net Sales,12  Mar-17*,53533.0,RYMD
+89,Other income,12  Mar-17*,1179.0,RYMD
+90,Total revenues,12  Mar-17*,54712.0,RYMD
+91,Gross profit,12  Mar-17*,2789.0,RYMD
+92,Depreciation,12  Mar-17*,1569.0,RYMD
+93,Interest,12  Mar-17*,1780.0,RYMD
+94,Profit before tax,12  Mar-17*,619.0,RYMD
+95,Minority Interest,12  Mar-17*,0.0,RYMD
+96,Prior Period Items,12  Mar-17*,0.0,RYMD
+97,Extraordinary Inc (Exp),12  Mar-17*,-101.0,RYMD
+98,Tax,12  Mar-17*,218.0,RYMD
+99,Profit after tax,12  Mar-17*,300.0,RYMD
+100,Gross profit margin,12  Mar-17*,5.2,RYMD
+101,Effective tax rate,12  Mar-17*,35.3,RYMD
+102,Net profit margin,12  Mar-17*,0.6,RYMD
+103,Current assets,12  Mar-17*,29616.0,RYMD
+104,Current liabilities,12  Mar-17*,28057.0,RYMD
+105,Net working cap to sales,12  Mar-17*,2.9,RYMD
+106,Current ratio,12  Mar-17*,1.1,RYMD
+107,Inventory Days,12  Mar-17*,88.0,RYMD
+108,Debtors Days,12  Mar-17*,72.0,RYMD
+109,Net fixed assets,12  Mar-17*,15808.0,RYMD
+110,Share capital,12  Mar-17*,614.0,RYMD
+111,"""Free"" reserves",12  Mar-17*,16117.0,RYMD
+112,Net worth,12  Mar-17*,16731.0,RYMD
+113,Long term debt,12  Mar-17*,6349.0,RYMD
+114,Total assets,12  Mar-17*,52523.0,RYMD
+115,Interest coverage,12  Mar-17*,1.3,RYMD
+116,Debt to equity ratio,12  Mar-17*,0.4,RYMD
+117,Sales to assets ratio,12  Mar-17*,1.0,RYMD
+118,Return on assets,12  Mar-17*,4.0,RYMD
+119,Return on equity,12  Mar-17*,1.8,RYMD
+120,Return on capital,12  Mar-17*,10.0,RYMD
+121,Exports to sales,12  Mar-17*,0.0,RYMD
+122,Imports to sales,12  Mar-17*,0.0,RYMD
+123,Exports (fob),12  Mar-17*,0.0,RYMD
+124,Imports (cif),12  Mar-17*,0.0,RYMD
+125,Fx inflow,12  Mar-17*,1739.0,RYMD
+126,Fx outflow,12  Mar-17*,3212.0,RYMD
+127,Net fx,12  Mar-17*,-1473.0,RYMD
+128,From Operations,12  Mar-17*,3481.0,RYMD
+129,From Investments,12  Mar-17*,-2196.0,RYMD
+130,From Financial Activity,12  Mar-17*,-1216.0,RYMD
+131,Net Cashflow,12  Mar-17*,31.0,RYMD
+132,Net Sales,12  Mar-18*,58995.0,RYMD
+133,Other income,12  Mar-18*,1185.0,RYMD
+134,Total revenues,12  Mar-18*,60180.0,RYMD
+135,Gross profit,12  Mar-18*,4279.0,RYMD
+136,Depreciation,12  Mar-18*,1703.0,RYMD
+137,Interest,12  Mar-18*,1838.0,RYMD
+138,Profit before tax,12  Mar-18*,1923.0,RYMD
+139,Minority Interest,12  Mar-18*,-50.0,RYMD
+140,Prior Period Items,12  Mar-18*,0.0,RYMD
+141,Extraordinary Inc (Exp),12  Mar-18*,210.0,RYMD
+142,Tax,12  Mar-18*,666.0,RYMD
+143,Profit after tax,12  Mar-18*,1416.0,RYMD
+144,Gross profit margin,12  Mar-18*,7.3,RYMD
+145,Effective tax rate,12  Mar-18*,34.7,RYMD
+146,Net profit margin,12  Mar-18*,2.4,RYMD
+147,Current assets,12  Mar-18*,34321.0,RYMD
+148,Current liabilities,12  Mar-18*,34444.0,RYMD
+149,Net working cap to sales,12  Mar-18*,-0.2,RYMD
+150,Current ratio,12  Mar-18*,1.0,RYMD
+151,Inventory Days,12  Mar-18*,100.0,RYMD
+152,Debtors Days,12  Mar-18*,67.0,RYMD
+153,Net fixed assets,12  Mar-18*,20120.0,RYMD
+154,Share capital,12  Mar-18*,614.0,RYMD
+155,"""Free"" reserves",12  Mar-18*,17507.0,RYMD
+156,Net worth,12  Mar-18*,18120.0,RYMD
+157,Long term debt,12  Mar-18*,6640.0,RYMD
+158,Total assets,12  Mar-18*,61090.0,RYMD
+159,Interest coverage,12  Mar-18*,2.0,RYMD
+160,Debt to equity ratio,12  Mar-18*,0.4,RYMD
+161,Sales to assets ratio,12  Mar-18*,1.0,RYMD
+162,Return on assets,12  Mar-18*,5.3,RYMD
+163,Return on equity,12  Mar-18*,7.8,RYMD
+164,Return on capital,12  Mar-18*,15.8,RYMD
+165,Exports to sales,12  Mar-18*,0.0,RYMD
+166,Imports to sales,12  Mar-18*,0.0,RYMD
+167,Exports (fob),12  Mar-18*,0.0,RYMD
+168,Imports (cif),12  Mar-18*,0.0,RYMD
+169,Fx inflow,12  Mar-18*,1496.0,RYMD
+170,Fx outflow,12  Mar-18*,3490.0,RYMD
+171,Net fx,12  Mar-18*,-1994.0,RYMD
+172,From Operations,12  Mar-18*,3947.0,RYMD
+173,From Investments,12  Mar-18*,-4085.0,RYMD
+174,From Financial Activity,12  Mar-18*,296.0,RYMD
+175,Net Cashflow,12  Mar-18*,94.0,RYMD
+176,Net Sales,12  Mar-19*,65823.0,RYMD
+177,Other income,12  Mar-19*,1254.0,RYMD
+178,Total revenues,12  Mar-19*,67077.0,RYMD
+179,Gross profit,12  Mar-19*,5768.0,RYMD
+180,Depreciation,12  Mar-19*,1965.0,RYMD
+181,Interest,12  Mar-19*,2326.0,RYMD
+182,Profit before tax,12  Mar-19*,2731.0,RYMD
+183,Minority Interest,12  Mar-19*,-80.0,RYMD
+184,Prior Period Items,12  Mar-19*,0.0,RYMD
+185,Extraordinary Inc (Exp),12  Mar-19*,-47.0,RYMD
+186,Tax,12  Mar-19*,856.0,RYMD
+187,Profit after tax,12  Mar-19*,1748.0,RYMD
+188,Gross profit margin,12  Mar-19*,8.8,RYMD
+189,Effective tax rate,12  Mar-19*,31.4,RYMD
+190,Net profit margin,12  Mar-19*,2.7,RYMD
+191,Current assets,12  Mar-19*,40179.0,RYMD
+192,Current liabilities,12  Mar-19*,41337.0,RYMD
+193,Net working cap to sales,12  Mar-19*,-1.8,RYMD
+194,Current ratio,12  Mar-19*,1.0,RYMD
+195,Inventory Days,12  Mar-19*,105.0,RYMD
+196,Debtors Days,12  Mar-19*,70.0,RYMD
+197,Net fixed assets,12  Mar-19*,21778.0,RYMD
+198,Share capital,12  Mar-19*,614.0,RYMD
+199,"""Free"" reserves",12  Mar-19*,18924.0,RYMD
+200,Net worth,12  Mar-19*,19538.0,RYMD
+201,Long term debt,12  Mar-19*,4113.0,RYMD
+202,Total assets,12  Mar-19*,66645.0,RYMD
+203,Interest coverage,12  Mar-19*,2.2,RYMD
+204,Debt to equity ratio,12  Mar-19*,0.2,RYMD
+205,Sales to assets ratio,12  Mar-19*,1.0,RYMD
+206,Return on assets,12  Mar-19*,6.1,RYMD
+207,Return on equity,12  Mar-19*,8.9,RYMD
+208,Return on capital,12  Mar-19*,20.8,RYMD
+209,Exports to sales,12  Mar-19*,0.0,RYMD
+210,Imports to sales,12  Mar-19*,0.0,RYMD
+211,Exports (fob),12  Mar-19*,0.0,RYMD
+212,Imports (cif),12  Mar-19*,0.0,RYMD
+213,Fx inflow,12  Mar-19*,1471.0,RYMD
+214,Fx outflow,12  Mar-19*,4609.0,RYMD
+215,Net fx,12  Mar-19*,-3138.0,RYMD
+216,From Operations,12  Mar-19*,2507.0,RYMD
+217,From Investments,12  Mar-19*,-1226.0,RYMD
+218,From Financial Activity,12  Mar-19*,-1488.0,RYMD
+219,Net Cashflow,12  Mar-19*,-248.0,RYMD

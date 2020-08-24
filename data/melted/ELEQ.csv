@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,13143.0,ELEQ
+1,Other income,12  Mar-15*,100.0,ELEQ
+2,Total revenues,12  Mar-15*,13243.0,ELEQ
+3,Gross profit,12  Mar-15*,1107.0,ELEQ
+4,Depreciation,12  Mar-15*,366.0,ELEQ
+5,Interest,12  Mar-15*,158.0,ELEQ
+6,Profit before tax,12  Mar-15*,684.0,ELEQ
+7,Minority Interest,12  Mar-15*,0.0,ELEQ
+8,Prior Period Items,12  Mar-15*,0.0,ELEQ
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ELEQ
+10,Tax,12  Mar-15*,203.0,ELEQ
+11,Profit after tax,12  Mar-15*,481.0,ELEQ
+12,Gross profit margin,12  Mar-15*,8.4,ELEQ
+13,Effective tax rate,12  Mar-15*,29.7,ELEQ
+14,Net profit margin,12  Mar-15*,3.7,ELEQ
+15,Current assets,12  Mar-15*,6494.0,ELEQ
+16,Current liabilities,12  Mar-15*,4553.0,ELEQ
+17,Net working cap to sales,12  Mar-15*,14.8,ELEQ
+18,Current ratio,12  Mar-15*,1.4,ELEQ
+19,Inventory Days,12  Mar-15*,74.0,ELEQ
+20,Debtors Days,12  Mar-15*,68.0,ELEQ
+21,Net fixed assets,12  Mar-15*,4830.0,ELEQ
+22,Share capital,12  Mar-15*,159.0,ELEQ
+23,"""Free"" reserves",12  Mar-15*,4921.0,ELEQ
+24,Net worth,12  Mar-15*,5080.0,ELEQ
+25,Long term debt,12  Mar-15*,1688.0,ELEQ
+26,Total assets,12  Mar-15*,11606.0,ELEQ
+27,Interest coverage,12  Mar-15*,5.3,ELEQ
+28,Debt to equity ratio,12  Mar-15*,0.3,ELEQ
+29,Sales to assets ratio,12  Mar-15*,1.1,ELEQ
+30,Return on assets,12  Mar-15*,5.5,ELEQ
+31,Return on equity,12  Mar-15*,9.5,ELEQ
+32,Return on capital,12  Mar-15*,12.4,ELEQ
+33,Exports to sales,12  Mar-15*,12.4,ELEQ
+34,Imports to sales,12  Mar-15*,6.1,ELEQ
+35,Exports (fob),12  Mar-15*,1628.0,ELEQ
+36,Imports (cif),12  Mar-15*,796.0,ELEQ
+37,Fx inflow,12  Mar-15*,1628.0,ELEQ
+38,Fx outflow,12  Mar-15*,870.0,ELEQ
+39,Net fx,12  Mar-15*,758.0,ELEQ
+40,From Operations,12  Mar-15*,780.0,ELEQ
+41,From Investments,12  Mar-15*,-168.0,ELEQ
+42,From Financial Activity,12  Mar-15*,-517.0,ELEQ
+43,Net Cashflow,12  Mar-15*,96.0,ELEQ
+44,Net Sales,12  Mar-16*,14008.0,ELEQ
+45,Other income,12  Mar-16*,91.0,ELEQ
+46,Total revenues,12  Mar-16*,14099.0,ELEQ
+47,Gross profit,12  Mar-16*,1251.0,ELEQ
+48,Depreciation,12  Mar-16*,436.0,ELEQ
+49,Interest,12  Mar-16*,122.0,ELEQ
+50,Profit before tax,12  Mar-16*,784.0,ELEQ
+51,Minority Interest,12  Mar-16*,13.0,ELEQ
+52,Prior Period Items,12  Mar-16*,0.0,ELEQ
+53,Extraordinary Inc (Exp),12  Mar-16*,-44.0,ELEQ
+54,Tax,12  Mar-16*,244.0,ELEQ
+55,Profit after tax,12  Mar-16*,509.0,ELEQ
+56,Gross profit margin,12  Mar-16*,8.9,ELEQ
+57,Effective tax rate,12  Mar-16*,31.1,ELEQ
+58,Net profit margin,12  Mar-16*,3.6,ELEQ
+59,Current assets,12  Mar-16*,6198.0,ELEQ
+60,Current liabilities,12  Mar-16*,4079.0,ELEQ
+61,Net working cap to sales,12  Mar-16*,15.1,ELEQ
+62,Current ratio,12  Mar-16*,1.5,ELEQ
+63,Inventory Days,12  Mar-16*,59.0,ELEQ
+64,Debtors Days,12  Mar-16*,66.0,ELEQ
+65,Net fixed assets,12  Mar-16*,4662.0,ELEQ
+66,Share capital,12  Mar-16*,159.0,ELEQ
+67,"""Free"" reserves",12  Mar-16*,5304.0,ELEQ
+68,Net worth,12  Mar-16*,5462.0,ELEQ
+69,Long term debt,12  Mar-16*,1391.0,ELEQ
+70,Total assets,12  Mar-16*,11208.0,ELEQ
+71,Interest coverage,12  Mar-16*,7.4,ELEQ
+72,Debt to equity ratio,12  Mar-16*,0.3,ELEQ
+73,Sales to assets ratio,12  Mar-16*,1.2,ELEQ
+74,Return on assets,12  Mar-16*,5.6,ELEQ
+75,Return on equity,12  Mar-16*,9.3,ELEQ
+76,Return on capital,12  Mar-16*,12.8,ELEQ
+77,Exports to sales,12  Mar-16*,11.0,ELEQ
+78,Imports to sales,12  Mar-16*,5.0,ELEQ
+79,Exports (fob),12  Mar-16*,1545.0,ELEQ
+80,Imports (cif),12  Mar-16*,706.0,ELEQ
+81,Fx inflow,12  Mar-16*,1545.0,ELEQ
+82,Fx outflow,12  Mar-16*,772.0,ELEQ
+83,Net fx,12  Mar-16*,773.0,ELEQ
+84,From Operations,12  Mar-16*,1257.0,ELEQ
+85,From Investments,12  Mar-16*,-148.0,ELEQ
+86,From Financial Activity,12  Mar-16*,-995.0,ELEQ
+87,Net Cashflow,12  Mar-16*,114.0,ELEQ
+88,Net Sales,12  Mar-17*,13701.0,ELEQ
+89,Other income,12  Mar-17*,121.0,ELEQ
+90,Total revenues,12  Mar-17*,13822.0,ELEQ
+91,Gross profit,12  Mar-17*,1392.0,ELEQ
+92,Depreciation,12  Mar-17*,446.0,ELEQ
+93,Interest,12  Mar-17*,78.0,ELEQ
+94,Profit before tax,12  Mar-17*,989.0,ELEQ
+95,Minority Interest,12  Mar-17*,16.0,ELEQ
+96,Prior Period Items,12  Mar-17*,0.0,ELEQ
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ELEQ
+98,Tax,12  Mar-17*,264.0,ELEQ
+99,Profit after tax,12  Mar-17*,740.0,ELEQ
+100,Gross profit margin,12  Mar-17*,10.2,ELEQ
+101,Effective tax rate,12  Mar-17*,26.7,ELEQ
+102,Net profit margin,12  Mar-17*,5.4,ELEQ
+103,Current assets,12  Mar-17*,6354.0,ELEQ
+104,Current liabilities,12  Mar-17*,3931.0,ELEQ
+105,Net working cap to sales,12  Mar-17*,17.7,ELEQ
+106,Current ratio,12  Mar-17*,1.6,ELEQ
+107,Inventory Days,12  Mar-17*,60.0,ELEQ
+108,Debtors Days,12  Mar-17*,65.0,ELEQ
+109,Net fixed assets,12  Mar-17*,4420.0,ELEQ
+110,Share capital,12  Mar-17*,159.0,ELEQ
+111,"""Free"" reserves",12  Mar-17*,5911.0,ELEQ
+112,Net worth,12  Mar-17*,6069.0,ELEQ
+113,Long term debt,12  Mar-17*,966.0,ELEQ
+114,Total assets,12  Mar-17*,11163.0,ELEQ
+115,Interest coverage,12  Mar-17*,13.8,ELEQ
+116,Debt to equity ratio,12  Mar-17*,0.2,ELEQ
+117,Sales to assets ratio,12  Mar-17*,1.2,ELEQ
+118,Return on assets,12  Mar-17*,7.3,ELEQ
+119,Return on equity,12  Mar-17*,12.2,ELEQ
+120,Return on capital,12  Mar-17*,15.4,ELEQ
+121,Exports to sales,12  Mar-17*,0.0,ELEQ
+122,Imports to sales,12  Mar-17*,0.0,ELEQ
+123,Exports (fob),12  Mar-17*,0.0,ELEQ
+124,Imports (cif),12  Mar-17*,0.0,ELEQ
+125,Fx inflow,12  Mar-17*,0.0,ELEQ
+126,Fx outflow,12  Mar-17*,0.0,ELEQ
+127,Net fx,12  Mar-17*,0.0,ELEQ
+128,From Operations,12  Mar-17*,1256.0,ELEQ
+129,From Investments,12  Mar-17*,-389.0,ELEQ
+130,From Financial Activity,12  Mar-17*,-774.0,ELEQ
+131,Net Cashflow,12  Mar-17*,93.0,ELEQ
+132,Net Sales,12  Mar-18*,16053.0,ELEQ
+133,Other income,12  Mar-18*,114.0,ELEQ
+134,Total revenues,12  Mar-18*,16167.0,ELEQ
+135,Gross profit,12  Mar-18*,1761.0,ELEQ
+136,Depreciation,12  Mar-18*,438.0,ELEQ
+137,Interest,12  Mar-18*,60.0,ELEQ
+138,Profit before tax,12  Mar-18*,1377.0,ELEQ
+139,Minority Interest,12  Mar-18*,16.0,ELEQ
+140,Prior Period Items,12  Mar-18*,0.0,ELEQ
+141,Extraordinary Inc (Exp),12  Mar-18*,-27.0,ELEQ
+142,Tax,12  Mar-18*,413.0,ELEQ
+143,Profit after tax,12  Mar-18*,953.0,ELEQ
+144,Gross profit margin,12  Mar-18*,11.0,ELEQ
+145,Effective tax rate,12  Mar-18*,30.0,ELEQ
+146,Net profit margin,12  Mar-18*,5.9,ELEQ
+147,Current assets,12  Mar-18*,7760.0,ELEQ
+148,Current liabilities,12  Mar-18*,4962.0,ELEQ
+149,Net working cap to sales,12  Mar-18*,17.4,ELEQ
+150,Current ratio,12  Mar-18*,1.6,ELEQ
+151,Inventory Days,12  Mar-18*,62.0,ELEQ
+152,Debtors Days,12  Mar-18*,78.0,ELEQ
+153,Net fixed assets,12  Mar-18*,4537.0,ELEQ
+154,Share capital,12  Mar-18*,159.0,ELEQ
+155,"""Free"" reserves",12  Mar-18*,6731.0,ELEQ
+156,Net worth,12  Mar-18*,6889.0,ELEQ
+157,Long term debt,12  Mar-18*,603.0,ELEQ
+158,Total assets,12  Mar-18*,12589.0,ELEQ
+159,Interest coverage,12  Mar-18*,24.1,ELEQ
+160,Debt to equity ratio,12  Mar-18*,0.1,ELEQ
+161,Sales to assets ratio,12  Mar-18*,1.3,ELEQ
+162,Return on assets,12  Mar-18*,8.0,ELEQ
+163,Return on equity,12  Mar-18*,13.8,ELEQ
+164,Return on capital,12  Mar-18*,19.0,ELEQ
+165,Exports to sales,12  Mar-18*,0.0,ELEQ
+166,Imports to sales,12  Mar-18*,0.0,ELEQ
+167,Exports (fob),12  Mar-18*,0.0,ELEQ
+168,Imports (cif),12  Mar-18*,0.0,ELEQ
+169,Fx inflow,12  Mar-18*,1937.0,ELEQ
+170,Fx outflow,12  Mar-18*,1055.0,ELEQ
+171,Net fx,12  Mar-18*,882.0,ELEQ
+172,From Operations,12  Mar-18*,465.0,ELEQ
+173,From Investments,12  Mar-18*,-532.0,ELEQ
+174,From Financial Activity,12  Mar-18*,-99.0,ELEQ
+175,Net Cashflow,12  Mar-18*,-166.0,ELEQ
+176,Net Sales,12  Mar-19*,18635.0,ELEQ
+177,Other income,12  Mar-19*,97.0,ELEQ
+178,Total revenues,12  Mar-19*,18731.0,ELEQ
+179,Gross profit,12  Mar-19*,1918.0,ELEQ
+180,Depreciation,12  Mar-19*,511.0,ELEQ
+181,Interest,12  Mar-19*,90.0,ELEQ
+182,Profit before tax,12  Mar-19*,1413.0,ELEQ
+183,Minority Interest,12  Mar-19*,22.0,ELEQ
+184,Prior Period Items,12  Mar-19*,0.0,ELEQ
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ELEQ
+186,Tax,12  Mar-19*,404.0,ELEQ
+187,Profit after tax,12  Mar-19*,1031.0,ELEQ
+188,Gross profit margin,12  Mar-19*,10.3,ELEQ
+189,Effective tax rate,12  Mar-19*,28.6,ELEQ
+190,Net profit margin,12  Mar-19*,5.5,ELEQ
+191,Current assets,12  Mar-19*,8244.0,ELEQ
+192,Current liabilities,12  Mar-19*,5209.0,ELEQ
+193,Net working cap to sales,12  Mar-19*,16.3,ELEQ
+194,Current ratio,12  Mar-19*,1.6,ELEQ
+195,Inventory Days,12  Mar-19*,55.0,ELEQ
+196,Debtors Days,12  Mar-19*,72.0,ELEQ
+197,Net fixed assets,12  Mar-19*,5168.0,ELEQ
+198,Share capital,12  Mar-19*,159.0,ELEQ
+199,"""Free"" reserves",12  Mar-19*,7551.0,ELEQ
+200,Net worth,12  Mar-19*,7709.0,ELEQ
+201,Long term debt,12  Mar-19*,764.0,ELEQ
+202,Total assets,12  Mar-19*,13855.0,ELEQ
+203,Interest coverage,12  Mar-19*,16.7,ELEQ
+204,Debt to equity ratio,12  Mar-19*,0.1,ELEQ
+205,Sales to assets ratio,12  Mar-19*,1.3,ELEQ
+206,Return on assets,12  Mar-19*,8.1,ELEQ
+207,Return on equity,12  Mar-19*,13.4,ELEQ
+208,Return on capital,12  Mar-19*,18.0,ELEQ
+209,Exports to sales,12  Mar-19*,0.0,ELEQ
+210,Imports to sales,12  Mar-19*,0.0,ELEQ
+211,Exports (fob),12  Mar-19*,0.0,ELEQ
+212,Imports (cif),12  Mar-19*,0.0,ELEQ
+213,Fx inflow,12  Mar-19*,0.0,ELEQ
+214,Fx outflow,12  Mar-19*,0.0,ELEQ
+215,Net fx,12  Mar-19*,0.0,ELEQ
+216,From Operations,12  Mar-19*,1719.0,ELEQ
+217,From Investments,12  Mar-19*,-1069.0,ELEQ
+218,From Financial Activity,12  Mar-19*,-601.0,ELEQ
+219,Net Cashflow,12  Mar-19*,49.0,ELEQ

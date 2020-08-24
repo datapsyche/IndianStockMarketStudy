@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,12154.0,BASX
+1,Other income,12  Mar-14*,42.0,BASX
+2,Total revenues,12  Mar-14*,12195.0,BASX
+3,Gross profit,12  Mar-14*,1780.0,BASX
+4,Depreciation,12  Mar-14*,536.0,BASX
+5,Interest,12  Mar-14*,815.0,BASX
+6,Profit before tax,12  Mar-14*,470.0,BASX
+7,Minority Interest,12  Mar-14*,1.0,BASX
+8,Prior Period Items,12  Mar-14*,0.0,BASX
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,BASX
+10,Tax,12  Mar-14*,212.0,BASX
+11,Profit after tax,12  Mar-14*,259.0,BASX
+12,Gross profit margin,12  Mar-14*,14.6,BASX
+13,Effective tax rate,12  Mar-14*,45.1,BASX
+14,Net profit margin,12  Mar-14*,2.1,BASX
+15,Current assets,12  Mar-14*,5563.0,BASX
+16,Current liabilities,12  Mar-14*,5469.0,BASX
+17,Net working cap to sales,12  Mar-14*,0.8,BASX
+18,Current ratio,12  Mar-14*,1.0,BASX
+19,Inventory Days,12  Mar-14*,92.0,BASX
+20,Debtors Days,12  Mar-14*,47.0,BASX
+21,Net fixed assets,12  Mar-14*,5390.0,BASX
+22,Share capital,12  Mar-14*,172.0,BASX
+23,"""Free"" reserves",12  Mar-14*,1868.0,BASX
+24,Net worth,12  Mar-14*,2113.0,BASX
+25,Long term debt,12  Mar-14*,2948.0,BASX
+26,Total assets,12  Mar-14*,11123.0,BASX
+27,Interest coverage,12  Mar-14*,1.6,BASX
+28,Debt to equity ratio,12  Mar-14*,1.4,BASX
+29,Sales to assets ratio,12  Mar-14*,1.1,BASX
+30,Return on assets,12  Mar-14*,9.7,BASX
+31,Return on equity,12  Mar-14*,12.2,BASX
+32,Return on capital,12  Mar-14*,25.4,BASX
+33,Exports to sales,12  Mar-14*,43.1,BASX
+34,Imports to sales,12  Mar-14*,5.5,BASX
+35,Exports (fob),12  Mar-14*,5240.0,BASX
+36,Imports (cif),12  Mar-14*,664.0,BASX
+37,Fx inflow,12  Mar-14*,5419.0,BASX
+38,Fx outflow,12  Mar-14*,915.0,BASX
+39,Net fx,12  Mar-14*,4504.0,BASX
+40,From Operations,12  Mar-14*,1344.0,BASX
+41,From Investments,12  Mar-14*,-577.0,BASX
+42,From Financial Activity,12  Mar-14*,-610.0,BASX
+43,Net Cashflow,12  Mar-14*,157.0,BASX
+44,Net Sales,12  Mar-15*,12306.0,BASX
+45,Other income,12  Mar-15*,170.0,BASX
+46,Total revenues,12  Mar-15*,12476.0,BASX
+47,Gross profit,12  Mar-15*,1409.0,BASX
+48,Depreciation,12  Mar-15*,626.0,BASX
+49,Interest,12  Mar-15*,810.0,BASX
+50,Profit before tax,12  Mar-15*,144.0,BASX
+51,Minority Interest,12  Mar-15*,0.0,BASX
+52,Prior Period Items,12  Mar-15*,0.0,BASX
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,BASX
+54,Tax,12  Mar-15*,64.0,BASX
+55,Profit after tax,12  Mar-15*,80.0,BASX
+56,Gross profit margin,12  Mar-15*,11.5,BASX
+57,Effective tax rate,12  Mar-15*,44.3,BASX
+58,Net profit margin,12  Mar-15*,0.7,BASX
+59,Current assets,12  Mar-15*,5429.0,BASX
+60,Current liabilities,12  Mar-15*,5416.0,BASX
+61,Net working cap to sales,12  Mar-15*,0.1,BASX
+62,Current ratio,12  Mar-15*,1.0,BASX
+63,Inventory Days,12  Mar-15*,98.0,BASX
+64,Debtors Days,12  Mar-15*,41.0,BASX
+65,Net fixed assets,12  Mar-15*,5248.0,BASX
+66,Share capital,12  Mar-15*,164.0,BASX
+67,"""Free"" reserves",12  Mar-15*,1918.0,BASX
+68,Net worth,12  Mar-15*,2212.0,BASX
+69,Long term debt,12  Mar-15*,2628.0,BASX
+70,Total assets,12  Mar-15*,10795.0,BASX
+71,Interest coverage,12  Mar-15*,1.2,BASX
+72,Debt to equity ratio,12  Mar-15*,1.2,BASX
+73,Sales to assets ratio,12  Mar-15*,1.1,BASX
+74,Return on assets,12  Mar-15*,8.2,BASX
+75,Return on equity,12  Mar-15*,3.6,BASX
+76,Return on capital,12  Mar-15*,19.7,BASX
+77,Exports to sales,12  Mar-15*,37.1,BASX
+78,Imports to sales,12  Mar-15*,7.5,BASX
+79,Exports (fob),12  Mar-15*,4568.0,BASX
+80,Imports (cif),12  Mar-15*,925.0,BASX
+81,Fx inflow,12  Mar-15*,4679.0,BASX
+82,Fx outflow,12  Mar-15*,1127.0,BASX
+83,Net fx,12  Mar-15*,3553.0,BASX
+84,From Operations,12  Mar-15*,1834.0,BASX
+85,From Investments,12  Mar-15*,-483.0,BASX
+86,From Financial Activity,12  Mar-15*,-1509.0,BASX
+87,Net Cashflow,12  Mar-15*,-158.0,BASX
+88,Net Sales,12  Mar-16*,12702.0,BASX
+89,Other income,12  Mar-16*,112.0,BASX
+90,Total revenues,12  Mar-16*,12815.0,BASX
+91,Gross profit,12  Mar-16*,1634.0,BASX
+92,Depreciation,12  Mar-16*,607.0,BASX
+93,Interest,12  Mar-16*,700.0,BASX
+94,Profit before tax,12  Mar-16*,439.0,BASX
+95,Minority Interest,12  Mar-16*,0.0,BASX
+96,Prior Period Items,12  Mar-16*,0.0,BASX
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,BASX
+98,Tax,12  Mar-16*,166.0,BASX
+99,Profit after tax,12  Mar-16*,272.0,BASX
+100,Gross profit margin,12  Mar-16*,12.9,BASX
+101,Effective tax rate,12  Mar-16*,37.9,BASX
+102,Net profit margin,12  Mar-16*,2.1,BASX
+103,Current assets,12  Mar-16*,5200.0,BASX
+104,Current liabilities,12  Mar-16*,5119.0,BASX
+105,Net working cap to sales,12  Mar-16*,0.6,BASX
+106,Current ratio,12  Mar-16*,1.0,BASX
+107,Inventory Days,12  Mar-16*,84.0,BASX
+108,Debtors Days,12  Mar-16*,47.0,BASX
+109,Net fixed assets,12  Mar-16*,4914.0,BASX
+110,Share capital,12  Mar-16*,169.0,BASX
+111,"""Free"" reserves",12  Mar-16*,2180.0,BASX
+112,Net worth,12  Mar-16*,2483.0,BASX
+113,Long term debt,12  Mar-16*,2166.0,BASX
+114,Total assets,12  Mar-16*,10406.0,BASX
+115,Interest coverage,12  Mar-16*,1.6,BASX
+116,Debt to equity ratio,12  Mar-16*,0.9,BASX
+117,Sales to assets ratio,12  Mar-16*,1.2,BASX
+118,Return on assets,12  Mar-16*,9.3,BASX
+119,Return on equity,12  Mar-16*,11.0,BASX
+120,Return on capital,12  Mar-16*,24.5,BASX
+121,Exports to sales,12  Mar-16*,40.1,BASX
+122,Imports to sales,12  Mar-16*,3.5,BASX
+123,Exports (fob),12  Mar-16*,5093.0,BASX
+124,Imports (cif),12  Mar-16*,449.0,BASX
+125,Fx inflow,12  Mar-16*,5287.0,BASX
+126,Fx outflow,12  Mar-16*,670.0,BASX
+127,Net fx,12  Mar-16*,4618.0,BASX
+128,From Operations,12  Mar-16*,1731.0,BASX
+129,From Investments,12  Mar-16*,-257.0,BASX
+130,From Financial Activity,12  Mar-16*,-1428.0,BASX
+131,Net Cashflow,12  Mar-16*,46.0,BASX
+132,Net Sales,12  Mar-17*,12443.0,BASX
+133,Other income,12  Mar-17*,135.0,BASX
+134,Total revenues,12  Mar-17*,12578.0,BASX
+135,Gross profit,12  Mar-17*,1336.0,BASX
+136,Depreciation,12  Mar-17*,576.0,BASX
+137,Interest,12  Mar-17*,630.0,BASX
+138,Profit before tax,12  Mar-17*,265.0,BASX
+139,Minority Interest,12  Mar-17*,0.0,BASX
+140,Prior Period Items,12  Mar-17*,1.0,BASX
+141,Extraordinary Inc (Exp),12  Mar-17*,-11.0,BASX
+142,Tax,12  Mar-17*,64.0,BASX
+143,Profit after tax,12  Mar-17*,191.0,BASX
+144,Gross profit margin,12  Mar-17*,10.7,BASX
+145,Effective tax rate,12  Mar-17*,24.3,BASX
+146,Net profit margin,12  Mar-17*,1.5,BASX
+147,Current assets,12  Mar-17*,5447.0,BASX
+148,Current liabilities,12  Mar-17*,5366.0,BASX
+149,Net working cap to sales,12  Mar-17*,0.7,BASX
+150,Current ratio,12  Mar-17*,1.0,BASX
+151,Inventory Days,12  Mar-17*,97.0,BASX
+152,Debtors Days,12  Mar-17*,46.0,BASX
+153,Net fixed assets,12  Mar-17*,4914.0,BASX
+154,Share capital,12  Mar-17*,171.0,BASX
+155,"""Free"" reserves",12  Mar-17*,2345.0,BASX
+156,Net worth,12  Mar-17*,2668.0,BASX
+157,Long term debt,12  Mar-17*,1988.0,BASX
+158,Total assets,12  Mar-17*,10610.0,BASX
+159,Interest coverage,12  Mar-17*,1.4,BASX
+160,Debt to equity ratio,12  Mar-17*,0.7,BASX
+161,Sales to assets ratio,12  Mar-17*,1.2,BASX
+162,Return on assets,12  Mar-17*,7.7,BASX
+163,Return on equity,12  Mar-17*,7.2,BASX
+164,Return on capital,12  Mar-17*,19.0,BASX
+165,Exports to sales,12  Mar-17*,39.5,BASX
+166,Imports to sales,12  Mar-17*,5.4,BASX
+167,Exports (fob),12  Mar-17*,4918.0,BASX
+168,Imports (cif),12  Mar-17*,666.0,BASX
+169,Fx inflow,12  Mar-17*,5130.0,BASX
+170,Fx outflow,12  Mar-17*,859.0,BASX
+171,Net fx,12  Mar-17*,4271.0,BASX
+172,From Operations,12  Mar-17*,1403.0,BASX
+173,From Investments,12  Mar-17*,-612.0,BASX
+174,From Financial Activity,12  Mar-17*,-816.0,BASX
+175,Net Cashflow,12  Mar-17*,-25.0,BASX
+176,Net Sales,12  Mar-18*,12930.0,BASX
+177,Other income,12  Mar-18*,160.0,BASX
+178,Total revenues,12  Mar-18*,13090.0,BASX
+179,Gross profit,12  Mar-18*,1102.0,BASX
+180,Depreciation,12  Mar-18*,576.0,BASX
+181,Interest,12  Mar-18*,591.0,BASX
+182,Profit before tax,12  Mar-18*,95.0,BASX
+183,Minority Interest,12  Mar-18*,0.0,BASX
+184,Prior Period Items,12  Mar-18*,5.0,BASX
+185,Extraordinary Inc (Exp),12  Mar-18*,14.0,BASX
+186,Tax,12  Mar-18*,30.0,BASX
+187,Profit after tax,12  Mar-18*,84.0,BASX
+188,Gross profit margin,12  Mar-18*,8.5,BASX
+189,Effective tax rate,12  Mar-18*,31.0,BASX
+190,Net profit margin,12  Mar-18*,0.6,BASX
+191,Current assets,12  Mar-18*,5907.0,BASX
+192,Current liabilities,12  Mar-18*,5626.0,BASX
+193,Net working cap to sales,12  Mar-18*,2.2,BASX
+194,Current ratio,12  Mar-18*,1.0,BASX
+195,Inventory Days,12  Mar-18*,87.0,BASX
+196,Debtors Days,12  Mar-18*,52.0,BASX
+197,Net fixed assets,12  Mar-18*,4652.0,BASX
+198,Share capital,12  Mar-18*,171.0,BASX
+199,"""Free"" reserves",12  Mar-18*,2521.0,BASX
+200,Net worth,12  Mar-18*,2692.0,BASX
+201,Long term debt,12  Mar-18*,1844.0,BASX
+202,Total assets,12  Mar-18*,10733.0,BASX
+203,Interest coverage,12  Mar-18*,1.2,BASX
+204,Debt to equity ratio,12  Mar-18*,0.7,BASX
+205,Sales to assets ratio,12  Mar-18*,1.2,BASX
+206,Return on assets,12  Mar-18*,6.3,BASX
+207,Return on equity,12  Mar-18*,3.1,BASX
+208,Return on capital,12  Mar-18*,15.5,BASX
+209,Exports to sales,12  Mar-18*,0.0,BASX
+210,Imports to sales,12  Mar-18*,0.0,BASX
+211,Exports (fob),12  Mar-18*,0.0,BASX
+212,Imports (cif),12  Mar-18*,0.0,BASX
+213,Fx inflow,12  Mar-18*,5302.0,BASX
+214,Fx outflow,12  Mar-18*,688.0,BASX
+215,Net fx,12  Mar-18*,4613.0,BASX
+216,From Operations,12  Mar-18*,1059.0,BASX
+217,From Investments,12  Mar-18*,-251.0,BASX
+218,From Financial Activity,12  Mar-18*,-850.0,BASX
+219,Net Cashflow,12  Mar-18*,-41.0,BASX

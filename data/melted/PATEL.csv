@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,34154.0,PATEL
+1,Other income,12  Mar-15*,1159.0,PATEL
+2,Total revenues,12  Mar-15*,35313.0,PATEL
+3,Gross profit,12  Mar-15*,4972.0,PATEL
+4,Depreciation,12  Mar-15*,798.0,PATEL
+5,Interest,12  Mar-15*,5170.0,PATEL
+6,Profit before tax,12  Mar-15*,164.0,PATEL
+7,Minority Interest,12  Mar-15*,-12.0,PATEL
+8,Prior Period Items,12  Mar-15*,0.0,PATEL
+9,Extraordinary Inc (Exp),12  Mar-15*,153.0,PATEL
+10,Tax,12  Mar-15*,220.0,PATEL
+11,Profit after tax,12  Mar-15*,85.0,PATEL
+12,Gross profit margin,12  Mar-15*,14.6,PATEL
+13,Effective tax rate,12  Mar-15*,134.6,PATEL
+14,Net profit margin,12  Mar-15*,0.2,PATEL
+15,Current assets,12  Mar-15*,54060.0,PATEL
+16,Current liabilities,12  Mar-15*,43282.0,PATEL
+17,Net working cap to sales,12  Mar-15*,31.6,PATEL
+18,Current ratio,12  Mar-15*,1.2,PATEL
+19,Inventory Days,12  Mar-15*,42.0,PATEL
+20,Debtors Days,12  Mar-15*,61.0,PATEL
+21,Net fixed assets,12  Mar-15*,16402.0,PATEL
+22,Share capital,12  Mar-15*,77.0,PATEL
+23,"""Free"" reserves",12  Mar-15*,17095.0,PATEL
+24,Net worth,12  Mar-15*,18927.0,PATEL
+25,Long term debt,12  Mar-15*,23683.0,PATEL
+26,Total assets,12  Mar-15*,92393.0,PATEL
+27,Interest coverage,12  Mar-15*,1.0,PATEL
+28,Debt to equity ratio,12  Mar-15*,1.3,PATEL
+29,Sales to assets ratio,12  Mar-15*,0.4,PATEL
+30,Return on assets,12  Mar-15*,5.7,PATEL
+31,Return on equity,12  Mar-15*,0.4,PATEL
+32,Return on capital,12  Mar-15*,12.8,PATEL
+33,Exports to sales,12  Mar-15*,0.0,PATEL
+34,Imports to sales,12  Mar-15*,0.1,PATEL
+35,Exports (fob),12  Mar-15*,0.0,PATEL
+36,Imports (cif),12  Mar-15*,32.0,PATEL
+37,Fx inflow,12  Mar-15*,138.0,PATEL
+38,Fx outflow,12  Mar-15*,70.0,PATEL
+39,Net fx,12  Mar-15*,68.0,PATEL
+40,From Operations,12  Mar-15*,-10.0,PATEL
+41,From Investments,12  Mar-15*,-2444.0,PATEL
+42,From Financial Activity,12  Mar-15*,2292.0,PATEL
+43,Net Cashflow,12  Mar-15*,-162.0,PATEL
+44,Net Sales,12  Mar-16*,40463.0,PATEL
+45,Other income,12  Mar-16*,1469.0,PATEL
+46,Total revenues,12  Mar-16*,41933.0,PATEL
+47,Gross profit,12  Mar-16*,4155.0,PATEL
+48,Depreciation,12  Mar-16*,550.0,PATEL
+49,Interest,12  Mar-16*,5931.0,PATEL
+50,Profit before tax,12  Mar-16*,-856.0,PATEL
+51,Minority Interest,12  Mar-16*,85.0,PATEL
+52,Prior Period Items,12  Mar-16*,0.0,PATEL
+53,Extraordinary Inc (Exp),12  Mar-16*,-1292.0,PATEL
+54,Tax,12  Mar-16*,-197.0,PATEL
+55,Profit after tax,12  Mar-16*,-1867.0,PATEL
+56,Gross profit margin,12  Mar-16*,10.3,PATEL
+57,Effective tax rate,12  Mar-16*,23.0,PATEL
+58,Net profit margin,12  Mar-16*,-4.6,PATEL
+59,Current assets,12  Mar-16*,61210.0,PATEL
+60,Current liabilities,12  Mar-16*,48623.0,PATEL
+61,Net working cap to sales,12  Mar-16*,31.1,PATEL
+62,Current ratio,12  Mar-16*,1.3,PATEL
+63,Inventory Days,12  Mar-16*,424.0,PATEL
+64,Debtors Days,12  Mar-16*,46.0,PATEL
+65,Net fixed assets,12  Mar-16*,14684.0,PATEL
+66,Share capital,12  Mar-16*,77.0,PATEL
+67,"""Free"" reserves",12  Mar-16*,15415.0,PATEL
+68,Net worth,12  Mar-16*,17166.0,PATEL
+69,Long term debt,12  Mar-16*,21267.0,PATEL
+70,Total assets,12  Mar-16*,95277.0,PATEL
+71,Interest coverage,12  Mar-16*,0.9,PATEL
+72,Debt to equity ratio,12  Mar-16*,1.2,PATEL
+73,Sales to assets ratio,12  Mar-16*,0.4,PATEL
+74,Return on assets,12  Mar-16*,4.3,PATEL
+75,Return on equity,12  Mar-16*,-10.9,PATEL
+76,Return on capital,12  Mar-16*,10.1,PATEL
+77,Exports to sales,12  Mar-16*,0.0,PATEL
+78,Imports to sales,12  Mar-16*,0.0,PATEL
+79,Exports (fob),12  Mar-16*,0.0,PATEL
+80,Imports (cif),12  Mar-16*,8.0,PATEL
+81,Fx inflow,12  Mar-16*,396.0,PATEL
+82,Fx outflow,12  Mar-16*,77.0,PATEL
+83,Net fx,12  Mar-16*,320.0,PATEL
+84,From Operations,12  Mar-16*,-1219.0,PATEL
+85,From Investments,12  Mar-16*,3749.0,PATEL
+86,From Financial Activity,12  Mar-16*,-3365.0,PATEL
+87,Net Cashflow,12  Mar-16*,-835.0,PATEL
+88,Net Sales,12  Mar-17*,38838.0,PATEL
+89,Other income,12  Mar-17*,2541.0,PATEL
+90,Total revenues,12  Mar-17*,41380.0,PATEL
+91,Gross profit,12  Mar-17*,4210.0,PATEL
+92,Depreciation,12  Mar-17*,780.0,PATEL
+93,Interest,12  Mar-17*,5792.0,PATEL
+94,Profit before tax,12  Mar-17*,179.0,PATEL
+95,Minority Interest,12  Mar-17*,0.0,PATEL
+96,Prior Period Items,12  Mar-17*,0.0,PATEL
+97,Extraordinary Inc (Exp),12  Mar-17*,-890.0,PATEL
+98,Tax,12  Mar-17*,318.0,PATEL
+99,Profit after tax,12  Mar-17*,-1029.0,PATEL
+100,Gross profit margin,12  Mar-17*,10.8,PATEL
+101,Effective tax rate,12  Mar-17*,177.8,PATEL
+102,Net profit margin,12  Mar-17*,-2.6,PATEL
+103,Current assets,12  Mar-17*,60882.0,PATEL
+104,Current liabilities,12  Mar-17*,51624.0,PATEL
+105,Net working cap to sales,12  Mar-17*,23.8,PATEL
+106,Current ratio,12  Mar-17*,1.2,PATEL
+107,Inventory Days,12  Mar-17*,456.0,PATEL
+108,Debtors Days,12  Mar-17*,24.0,PATEL
+109,Net fixed assets,12  Mar-17*,14977.0,PATEL
+110,Share capital,12  Mar-17*,157.0,PATEL
+111,"""Free"" reserves",12  Mar-17*,21231.0,PATEL
+112,Net worth,12  Mar-17*,21389.0,PATEL
+113,Long term debt,12  Mar-17*,15988.0,PATEL
+114,Total assets,12  Mar-17*,96760.0,PATEL
+115,Interest coverage,12  Mar-17*,1.0,PATEL
+116,Debt to equity ratio,12  Mar-17*,0.7,PATEL
+117,Sales to assets ratio,12  Mar-17*,0.4,PATEL
+118,Return on assets,12  Mar-17*,4.9,PATEL
+119,Return on equity,12  Mar-17*,-4.8,PATEL
+120,Return on capital,12  Mar-17*,13.6,PATEL
+121,Exports to sales,12  Mar-17*,0.0,PATEL
+122,Imports to sales,12  Mar-17*,0.0,PATEL
+123,Exports (fob),12  Mar-17*,0.0,PATEL
+124,Imports (cif),12  Mar-17*,0.0,PATEL
+125,Fx inflow,12  Mar-17*,242.0,PATEL
+126,Fx outflow,12  Mar-17*,11.0,PATEL
+127,Net fx,12  Mar-17*,230.0,PATEL
+128,From Operations,12  Mar-17*,5667.0,PATEL
+129,From Investments,12  Mar-17*,-2222.0,PATEL
+130,From Financial Activity,12  Mar-17*,-3426.0,PATEL
+131,Net Cashflow,12  Mar-17*,19.0,PATEL
+132,Net Sales,12  Mar-18*,22746.0,PATEL
+133,Other income,12  Mar-18*,2426.0,PATEL
+134,Total revenues,12  Mar-18*,25172.0,PATEL
+135,Gross profit,12  Mar-18*,5308.0,PATEL
+136,Depreciation,12  Mar-18*,543.0,PATEL
+137,Interest,12  Mar-18*,4894.0,PATEL
+138,Profit before tax,12  Mar-18*,2297.0,PATEL
+139,Minority Interest,12  Mar-18*,0.0,PATEL
+140,Prior Period Items,12  Mar-18*,0.0,PATEL
+141,Extraordinary Inc (Exp),12  Mar-18*,-1362.0,PATEL
+142,Tax,12  Mar-18*,-113.0,PATEL
+143,Profit after tax,12  Mar-18*,1048.0,PATEL
+144,Gross profit margin,12  Mar-18*,23.3,PATEL
+145,Effective tax rate,12  Mar-18*,-4.9,PATEL
+146,Net profit margin,12  Mar-18*,4.6,PATEL
+147,Current assets,12  Mar-18*,43776.0,PATEL
+148,Current liabilities,12  Mar-18*,34238.0,PATEL
+149,Net working cap to sales,12  Mar-18*,41.9,PATEL
+150,Current ratio,12  Mar-18*,1.3,PATEL
+151,Inventory Days,12  Mar-18*,507.0,PATEL
+152,Debtors Days,12  Mar-18*,39.0,PATEL
+153,Net fixed assets,12  Mar-18*,13484.0,PATEL
+154,Share capital,12  Mar-18*,157.0,PATEL
+155,"""Free"" reserves",12  Mar-18*,21441.0,PATEL
+156,Net worth,12  Mar-18*,21598.0,PATEL
+157,Long term debt,12  Mar-18*,13324.0,PATEL
+158,Total assets,12  Mar-18*,74145.0,PATEL
+159,Interest coverage,12  Mar-18*,1.5,PATEL
+160,Debt to equity ratio,12  Mar-18*,0.6,PATEL
+161,Sales to assets ratio,12  Mar-18*,0.3,PATEL
+162,Return on assets,12  Mar-18*,8.0,PATEL
+163,Return on equity,12  Mar-18*,4.9,PATEL
+164,Return on capital,12  Mar-18*,16.7,PATEL
+165,Exports to sales,12  Mar-18*,0.0,PATEL
+166,Imports to sales,12  Mar-18*,0.0,PATEL
+167,Exports (fob),12  Mar-18*,0.0,PATEL
+168,Imports (cif),12  Mar-18*,0.0,PATEL
+169,Fx inflow,12  Mar-18*,2008.0,PATEL
+170,Fx outflow,12  Mar-18*,3438.0,PATEL
+171,Net fx,12  Mar-18*,-1429.0,PATEL
+172,From Operations,12  Mar-18*,4034.0,PATEL
+173,From Investments,12  Mar-18*,2446.0,PATEL
+174,From Financial Activity,12  Mar-18*,-5775.0,PATEL
+175,Net Cashflow,12  Mar-18*,704.0,PATEL
+176,Net Sales,12  Mar-19*,23622.0,PATEL
+177,Other income,12  Mar-19*,1751.0,PATEL
+178,Total revenues,12  Mar-19*,25373.0,PATEL
+179,Gross profit,12  Mar-19*,3549.0,PATEL
+180,Depreciation,12  Mar-19*,502.0,PATEL
+181,Interest,12  Mar-19*,3703.0,PATEL
+182,Profit before tax,12  Mar-19*,1095.0,PATEL
+183,Minority Interest,12  Mar-19*,0.0,PATEL
+184,Prior Period Items,12  Mar-19*,0.0,PATEL
+185,Extraordinary Inc (Exp),12  Mar-19*,892.0,PATEL
+186,Tax,12  Mar-19*,445.0,PATEL
+187,Profit after tax,12  Mar-19*,1541.0,PATEL
+188,Gross profit margin,12  Mar-19*,15.0,PATEL
+189,Effective tax rate,12  Mar-19*,40.6,PATEL
+190,Net profit margin,12  Mar-19*,6.5,PATEL
+191,Current assets,12  Mar-19*,48401.0,PATEL
+192,Current liabilities,12  Mar-19*,37999.0,PATEL
+193,Net working cap to sales,12  Mar-19*,44.0,PATEL
+194,Current ratio,12  Mar-19*,1.3,PATEL
+195,Inventory Days,12  Mar-19*,548.0,PATEL
+196,Debtors Days,12  Mar-19*,3548.0,PATEL
+197,Net fixed assets,12  Mar-19*,16412.0,PATEL
+198,Share capital,12  Mar-19*,164.0,PATEL
+199,"""Free"" reserves",12  Mar-19*,22603.0,PATEL
+200,Net worth,12  Mar-19*,22767.0,PATEL
+201,Long term debt,12  Mar-19*,13048.0,PATEL
+202,Total assets,12  Mar-19*,82006.0,PATEL
+203,Interest coverage,12  Mar-19*,1.3,PATEL
+204,Debt to equity ratio,12  Mar-19*,0.6,PATEL
+205,Sales to assets ratio,12  Mar-19*,0.3,PATEL
+206,Return on assets,12  Mar-19*,6.4,PATEL
+207,Return on equity,12  Mar-19*,6.8,PATEL
+208,Return on capital,12  Mar-19*,15.9,PATEL
+209,Exports to sales,12  Mar-19*,0.0,PATEL
+210,Imports to sales,12  Mar-19*,0.0,PATEL
+211,Exports (fob),12  Mar-19*,0.0,PATEL
+212,Imports (cif),12  Mar-19*,0.0,PATEL
+213,Fx inflow,12  Mar-19*,3429.0,PATEL
+214,Fx outflow,12  Mar-19*,4133.0,PATEL
+215,Net fx,12  Mar-19*,-704.0,PATEL
+216,From Operations,12  Mar-19*,8357.0,PATEL
+217,From Investments,12  Mar-19*,-3274.0,PATEL
+218,From Financial Activity,12  Mar-19*,-5127.0,PATEL
+219,Net Cashflow,12  Mar-19*,-45.0,PATEL

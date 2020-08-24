@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,64098.0,FXIN
+1,Other income,12  Mar-15*,166.0,FXIN
+2,Total revenues,12  Mar-15*,64264.0,FXIN
+3,Gross profit,12  Mar-15*,7361.0,FXIN
+4,Depreciation,12  Mar-15*,2794.0,FXIN
+5,Interest,12  Mar-15*,1869.0,FXIN
+6,Profit before tax,12  Mar-15*,2864.0,FXIN
+7,Minority Interest,12  Mar-15*,-7.0,FXIN
+8,Prior Period Items,12  Mar-15*,0.0,FXIN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,FXIN
+10,Tax,12  Mar-15*,309.0,FXIN
+11,Profit after tax,12  Mar-15*,2548.0,FXIN
+12,Gross profit margin,12  Mar-15*,11.5,FXIN
+13,Effective tax rate,12  Mar-15*,10.8,FXIN
+14,Net profit margin,12  Mar-15*,4.0,FXIN
+15,Current assets,12  Mar-15*,28940.0,FXIN
+16,Current liabilities,12  Mar-15*,23189.0,FXIN
+17,Net working cap to sales,12  Mar-15*,9.0,FXIN
+18,Current ratio,12  Mar-15*,1.2,FXIN
+19,Inventory Days,12  Mar-15*,38.0,FXIN
+20,Debtors Days,12  Mar-15*,86.0,FXIN
+21,Net fixed assets,12  Mar-15*,32723.0,FXIN
+22,Share capital,12  Mar-15*,722.0,FXIN
+23,"""Free"" reserves",12  Mar-15*,29355.0,FXIN
+24,Net worth,12  Mar-15*,30077.0,FXIN
+25,Long term debt,12  Mar-15*,10065.0,FXIN
+26,Total assets,12  Mar-15*,64679.0,FXIN
+27,Interest coverage,12  Mar-15*,2.5,FXIN
+28,Debt to equity ratio,12  Mar-15*,0.3,FXIN
+29,Sales to assets ratio,12  Mar-15*,1.0,FXIN
+30,Return on assets,12  Mar-15*,6.8,FXIN
+31,Return on equity,12  Mar-15*,8.5,FXIN
+32,Return on capital,12  Mar-15*,11.8,FXIN
+33,Exports to sales,12  Mar-15*,8.0,FXIN
+34,Imports to sales,12  Mar-15*,11.3,FXIN
+35,Exports (fob),12  Mar-15*,5124.0,FXIN
+36,Imports (cif),12  Mar-15*,7214.0,FXIN
+37,Fx inflow,12  Mar-15*,5230.0,FXIN
+38,Fx outflow,12  Mar-15*,7375.0,FXIN
+39,Net fx,12  Mar-15*,-2145.0,FXIN
+40,From Operations,12  Mar-15*,5014.0,FXIN
+41,From Investments,12  Mar-15*,-1973.0,FXIN
+42,From Financial Activity,12  Mar-15*,-3193.0,FXIN
+43,Net Cashflow,12  Mar-15*,-152.0,FXIN
+44,Net Sales,12  Mar-16*,63429.0,FXIN
+45,Other income,12  Mar-16*,353.0,FXIN
+46,Total revenues,12  Mar-16*,63782.0,FXIN
+47,Gross profit,12  Mar-16*,8059.0,FXIN
+48,Depreciation,12  Mar-16*,2855.0,FXIN
+49,Interest,12  Mar-16*,1770.0,FXIN
+50,Profit before tax,12  Mar-16*,3787.0,FXIN
+51,Minority Interest,12  Mar-16*,-31.0,FXIN
+52,Prior Period Items,12  Mar-16*,0.0,FXIN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,FXIN
+54,Tax,12  Mar-16*,628.0,FXIN
+55,Profit after tax,12  Mar-16*,3128.0,FXIN
+56,Gross profit margin,12  Mar-16*,12.7,FXIN
+57,Effective tax rate,12  Mar-16*,16.6,FXIN
+58,Net profit margin,12  Mar-16*,4.9,FXIN
+59,Current assets,12  Mar-16*,29018.0,FXIN
+60,Current liabilities,12  Mar-16*,22582.0,FXIN
+61,Net working cap to sales,12  Mar-16*,10.1,FXIN
+62,Current ratio,12  Mar-16*,1.3,FXIN
+63,Inventory Days,12  Mar-16*,36.0,FXIN
+64,Debtors Days,12  Mar-16*,85.0,FXIN
+65,Net fixed assets,12  Mar-16*,35196.0,FXIN
+66,Share capital,12  Mar-16*,722.0,FXIN
+67,"""Free"" reserves",12  Mar-16*,32715.0,FXIN
+68,Net worth,12  Mar-16*,33437.0,FXIN
+69,Long term debt,12  Mar-16*,10586.0,FXIN
+70,Total assets,12  Mar-16*,68164.0,FXIN
+71,Interest coverage,12  Mar-16*,3.1,FXIN
+72,Debt to equity ratio,12  Mar-16*,0.3,FXIN
+73,Sales to assets ratio,12  Mar-16*,0.9,FXIN
+74,Return on assets,12  Mar-16*,7.2,FXIN
+75,Return on equity,12  Mar-16*,9.4,FXIN
+76,Return on capital,12  Mar-16*,12.6,FXIN
+77,Exports to sales,12  Mar-16*,8.3,FXIN
+78,Imports to sales,12  Mar-16*,10.0,FXIN
+79,Exports (fob),12  Mar-16*,5245.0,FXIN
+80,Imports (cif),12  Mar-16*,6346.0,FXIN
+81,Fx inflow,12  Mar-16*,5381.0,FXIN
+82,Fx outflow,12  Mar-16*,6556.0,FXIN
+83,Net fx,12  Mar-16*,-1175.0,FXIN
+84,From Operations,12  Mar-16*,8986.0,FXIN
+85,From Investments,12  Mar-16*,-4612.0,FXIN
+86,From Financial Activity,12  Mar-16*,-2403.0,FXIN
+87,Net Cashflow,12  Mar-16*,1971.0,FXIN
+88,Net Sales,12  Mar-17*,63629.0,FXIN
+89,Other income,12  Mar-17*,205.0,FXIN
+90,Total revenues,12  Mar-17*,63834.0,FXIN
+91,Gross profit,12  Mar-17*,8784.0,FXIN
+92,Depreciation,12  Mar-17*,3175.0,FXIN
+93,Interest,12  Mar-17*,1868.0,FXIN
+94,Profit before tax,12  Mar-17*,3945.0,FXIN
+95,Minority Interest,12  Mar-17*,-23.0,FXIN
+96,Prior Period Items,12  Mar-17*,0.0,FXIN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,FXIN
+98,Tax,12  Mar-17*,438.0,FXIN
+99,Profit after tax,12  Mar-17*,3485.0,FXIN
+100,Gross profit margin,12  Mar-17*,13.8,FXIN
+101,Effective tax rate,12  Mar-17*,11.1,FXIN
+102,Net profit margin,12  Mar-17*,5.5,FXIN
+103,Current assets,12  Mar-17*,30027.0,FXIN
+104,Current liabilities,12  Mar-17*,23208.0,FXIN
+105,Net working cap to sales,12  Mar-17*,10.7,FXIN
+106,Current ratio,12  Mar-17*,1.3,FXIN
+107,Inventory Days,12  Mar-17*,39.0,FXIN
+108,Debtors Days,12  Mar-17*,95.0,FXIN
+109,Net fixed assets,12  Mar-17*,38429.0,FXIN
+110,Share capital,12  Mar-17*,722.0,FXIN
+111,"""Free"" reserves",12  Mar-17*,35719.0,FXIN
+112,Net worth,12  Mar-17*,36441.0,FXIN
+113,Long term debt,12  Mar-17*,10298.0,FXIN
+114,Total assets,12  Mar-17*,71484.0,FXIN
+115,Interest coverage,12  Mar-17*,3.1,FXIN
+116,Debt to equity ratio,12  Mar-17*,0.3,FXIN
+117,Sales to assets ratio,12  Mar-17*,0.9,FXIN
+118,Return on assets,12  Mar-17*,7.5,FXIN
+119,Return on equity,12  Mar-17*,9.6,FXIN
+120,Return on capital,12  Mar-17*,12.4,FXIN
+121,Exports to sales,12  Mar-17*,9.0,FXIN
+122,Imports to sales,12  Mar-17*,12.1,FXIN
+123,Exports (fob),12  Mar-17*,5704.0,FXIN
+124,Imports (cif),12  Mar-17*,7676.0,FXIN
+125,Fx inflow,12  Mar-17*,5903.0,FXIN
+126,Fx outflow,12  Mar-17*,7961.0,FXIN
+127,Net fx,12  Mar-17*,-2059.0,FXIN
+128,From Operations,12  Mar-17*,7792.0,FXIN
+129,From Investments,12  Mar-17*,-6691.0,FXIN
+130,From Financial Activity,12  Mar-17*,-2017.0,FXIN
+131,Net Cashflow,12  Mar-17*,-916.0,FXIN
+132,Net Sales,12  Mar-18*,66601.0,FXIN
+133,Other income,12  Mar-18*,200.0,FXIN
+134,Total revenues,12  Mar-18*,66800.0,FXIN
+135,Gross profit,12  Mar-18*,8826.0,FXIN
+136,Depreciation,12  Mar-18*,3516.0,FXIN
+137,Interest,12  Mar-18*,1971.0,FXIN
+138,Profit before tax,12  Mar-18*,3539.0,FXIN
+139,Minority Interest,12  Mar-18*,-17.0,FXIN
+140,Prior Period Items,12  Mar-18*,0.0,FXIN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,FXIN
+142,Tax,12  Mar-18*,417.0,FXIN
+143,Profit after tax,12  Mar-18*,3105.0,FXIN
+144,Gross profit margin,12  Mar-18*,13.3,FXIN
+145,Effective tax rate,12  Mar-18*,11.8,FXIN
+146,Net profit margin,12  Mar-18*,4.7,FXIN
+147,Current assets,12  Mar-18*,34868.0,FXIN
+148,Current liabilities,12  Mar-18*,24957.0,FXIN
+149,Net working cap to sales,12  Mar-18*,14.9,FXIN
+150,Current ratio,12  Mar-18*,1.4,FXIN
+151,Inventory Days,12  Mar-18*,44.0,FXIN
+152,Debtors Days,12  Mar-18*,106.0,FXIN
+153,Net fixed assets,12  Mar-18*,39616.0,FXIN
+154,Share capital,12  Mar-18*,722.0,FXIN
+155,"""Free"" reserves",12  Mar-18*,39074.0,FXIN
+156,Net worth,12  Mar-18*,39796.0,FXIN
+157,Long term debt,12  Mar-18*,10550.0,FXIN
+158,Total assets,12  Mar-18*,76882.0,FXIN
+159,Interest coverage,12  Mar-18*,2.8,FXIN
+160,Debt to equity ratio,12  Mar-18*,0.3,FXIN
+161,Sales to assets ratio,12  Mar-18*,0.9,FXIN
+162,Return on assets,12  Mar-18*,6.6,FXIN
+163,Return on equity,12  Mar-18*,7.8,FXIN
+164,Return on capital,12  Mar-18*,10.9,FXIN
+165,Exports to sales,12  Mar-18*,7.3,FXIN
+166,Imports to sales,12  Mar-18*,10.3,FXIN
+167,Exports (fob),12  Mar-18*,4894.0,FXIN
+168,Imports (cif),12  Mar-18*,6889.0,FXIN
+169,Fx inflow,12  Mar-18*,5036.0,FXIN
+170,Fx outflow,12  Mar-18*,7190.0,FXIN
+171,Net fx,12  Mar-18*,-2155.0,FXIN
+172,From Operations,12  Mar-18*,6510.0,FXIN
+173,From Investments,12  Mar-18*,-4267.0,FXIN
+174,From Financial Activity,12  Mar-18*,-2051.0,FXIN
+175,Net Cashflow,12  Mar-18*,192.0,FXIN
+176,Net Sales,12  Mar-19*,77655.0,FXIN
+177,Other income,12  Mar-19*,207.0,FXIN
+178,Total revenues,12  Mar-19*,77862.0,FXIN
+179,Gross profit,12  Mar-19*,9868.0,FXIN
+180,Depreciation,12  Mar-19*,3809.0,FXIN
+181,Interest,12  Mar-19*,2179.0,FXIN
+182,Profit before tax,12  Mar-19*,4088.0,FXIN
+183,Minority Interest,12  Mar-19*,-14.0,FXIN
+184,Prior Period Items,12  Mar-19*,0.0,FXIN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,FXIN
+186,Tax,12  Mar-19*,935.0,FXIN
+187,Profit after tax,12  Mar-19*,3138.0,FXIN
+188,Gross profit margin,12  Mar-19*,12.7,FXIN
+189,Effective tax rate,12  Mar-19*,22.9,FXIN
+190,Net profit margin,12  Mar-19*,4.0,FXIN
+191,Current assets,12  Mar-19*,35545.0,FXIN
+192,Current liabilities,12  Mar-19*,25640.0,FXIN
+193,Net working cap to sales,12  Mar-19*,12.8,FXIN
+194,Current ratio,12  Mar-19*,1.4,FXIN
+195,Inventory Days,12  Mar-19*,40.0,FXIN
+196,Debtors Days,12  Mar-19*,96.0,FXIN
+197,Net fixed assets,12  Mar-19*,40199.0,FXIN
+198,Share capital,12  Mar-19*,722.0,FXIN
+199,"""Free"" reserves",12  Mar-19*,42321.0,FXIN
+200,Net worth,12  Mar-19*,43043.0,FXIN
+201,Long term debt,12  Mar-19*,8764.0,FXIN
+202,Total assets,12  Mar-19*,79596.0,FXIN
+203,Interest coverage,12  Mar-19*,2.9,FXIN
+204,Debt to equity ratio,12  Mar-19*,0.2,FXIN
+205,Sales to assets ratio,12  Mar-19*,1.0,FXIN
+206,Return on assets,12  Mar-19*,6.7,FXIN
+207,Return on equity,12  Mar-19*,7.3,FXIN
+208,Return on capital,12  Mar-19*,12.1,FXIN
+209,Exports to sales,12  Mar-19*,6.9,FXIN
+210,Imports to sales,12  Mar-19*,9.2,FXIN
+211,Exports (fob),12  Mar-19*,5364.0,FXIN
+212,Imports (cif),12  Mar-19*,7153.0,FXIN
+213,Fx inflow,12  Mar-19*,5935.0,FXIN
+214,Fx outflow,12  Mar-19*,7388.0,FXIN
+215,Net fx,12  Mar-19*,-1453.0,FXIN
+216,From Operations,12  Mar-19*,5533.0,FXIN
+217,From Investments,12  Mar-19*,-3439.0,FXIN
+218,From Financial Activity,12  Mar-19*,-2368.0,FXIN
+219,Net Cashflow,12  Mar-19*,-274.0,FXIN

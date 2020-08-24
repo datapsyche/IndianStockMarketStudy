@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1233.0,NOTO
+1,Other income,12  Mar-15*,76.0,NOTO
+2,Total revenues,12  Mar-15*,1309.0,NOTO
+3,Gross profit,12  Mar-15*,868.0,NOTO
+4,Depreciation,12  Mar-15*,23.0,NOTO
+5,Interest,12  Mar-15*,82.0,NOTO
+6,Profit before tax,12  Mar-15*,839.0,NOTO
+7,Minority Interest,12  Mar-15*,0.0,NOTO
+8,Prior Period Items,12  Mar-15*,0.0,NOTO
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,NOTO
+10,Tax,12  Mar-15*,42.0,NOTO
+11,Profit after tax,12  Mar-15*,798.0,NOTO
+12,Gross profit margin,12  Mar-15*,70.4,NOTO
+13,Effective tax rate,12  Mar-15*,5.0,NOTO
+14,Net profit margin,12  Mar-15*,64.7,NOTO
+15,Current assets,12  Mar-15*,154.0,NOTO
+16,Current liabilities,12  Mar-15*,697.0,NOTO
+17,Net working cap to sales,12  Mar-15*,-44.0,NOTO
+18,Current ratio,12  Mar-15*,0.2,NOTO
+19,Inventory Days,12  Mar-15*,1.0,NOTO
+20,Debtors Days,12  Mar-15*,4.0,NOTO
+21,Net fixed assets,12  Mar-15*,5726.0,NOTO
+22,Share capital,12  Mar-15*,1862.0,NOTO
+23,"""Free"" reserves",12  Mar-15*,3088.0,NOTO
+24,Net worth,12  Mar-15*,5004.0,NOTO
+25,Long term debt,12  Mar-15*,0.0,NOTO
+26,Total assets,12  Mar-15*,6577.0,NOTO
+27,Interest coverage,12  Mar-15*,11.3,NOTO
+28,Debt to equity ratio,12  Mar-15*,0.0,NOTO
+29,Sales to assets ratio,12  Mar-15*,0.2,NOTO
+30,Return on assets,12  Mar-15*,13.4,NOTO
+31,Return on equity,12  Mar-15*,15.9,NOTO
+32,Return on capital,12  Mar-15*,18.4,NOTO
+33,Exports to sales,12  Mar-15*,0.0,NOTO
+34,Imports to sales,12  Mar-15*,0.0,NOTO
+35,Exports (fob),12  Mar-15*,0.0,NOTO
+36,Imports (cif),12  Mar-15*,0.0,NOTO
+37,Fx inflow,12  Mar-15*,0.0,NOTO
+38,Fx outflow,12  Mar-15*,6.0,NOTO
+39,Net fx,12  Mar-15*,-6.0,NOTO
+40,From Operations,12  Mar-15*,688.0,NOTO
+41,From Investments,12  Mar-15*,-9.0,NOTO
+42,From Financial Activity,12  Mar-15*,-780.0,NOTO
+43,Net Cashflow,12  Mar-15*,-101.0,NOTO
+44,Net Sales,12  Mar-16*,1305.0,NOTO
+45,Other income,12  Mar-16*,29.0,NOTO
+46,Total revenues,12  Mar-16*,1334.0,NOTO
+47,Gross profit,12  Mar-16*,925.0,NOTO
+48,Depreciation,12  Mar-16*,324.0,NOTO
+49,Interest,12  Mar-16*,27.0,NOTO
+50,Profit before tax,12  Mar-16*,604.0,NOTO
+51,Minority Interest,12  Mar-16*,0.0,NOTO
+52,Prior Period Items,12  Mar-16*,0.0,NOTO
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NOTO
+54,Tax,12  Mar-16*,-221.0,NOTO
+55,Profit after tax,12  Mar-16*,824.0,NOTO
+56,Gross profit margin,12  Mar-16*,70.9,NOTO
+57,Effective tax rate,12  Mar-16*,-36.6,NOTO
+58,Net profit margin,12  Mar-16*,63.2,NOTO
+59,Current assets,12  Mar-16*,665.0,NOTO
+60,Current liabilities,12  Mar-16*,885.0,NOTO
+61,Net working cap to sales,12  Mar-16*,-16.9,NOTO
+62,Current ratio,12  Mar-16*,0.8,NOTO
+63,Inventory Days,12  Mar-16*,0.0,NOTO
+64,Debtors Days,12  Mar-16*,10.0,NOTO
+65,Net fixed assets,12  Mar-16*,5530.0,NOTO
+66,Share capital,12  Mar-16*,1862.0,NOTO
+67,"""Free"" reserves",12  Mar-16*,3186.0,NOTO
+68,Net worth,12  Mar-16*,5186.0,NOTO
+69,Long term debt,12  Mar-16*,394.0,NOTO
+70,Total assets,12  Mar-16*,7133.0,NOTO
+71,Interest coverage,12  Mar-16*,23.2,NOTO
+72,Debt to equity ratio,12  Mar-16*,0.1,NOTO
+73,Sales to assets ratio,12  Mar-16*,0.2,NOTO
+74,Return on assets,12  Mar-16*,11.9,NOTO
+75,Return on equity,12  Mar-16*,15.9,NOTO
+76,Return on capital,12  Mar-16*,11.3,NOTO
+77,Exports to sales,12  Mar-16*,0.0,NOTO
+78,Imports to sales,12  Mar-16*,0.0,NOTO
+79,Exports (fob),12  Mar-16*,0.0,NOTO
+80,Imports (cif),12  Mar-16*,0.0,NOTO
+81,Fx inflow,12  Mar-16*,0.0,NOTO
+82,Fx outflow,12  Mar-16*,0.0,NOTO
+83,Net fx,12  Mar-16*,0.0,NOTO
+84,From Operations,12  Mar-16*,714.0,NOTO
+85,From Investments,12  Mar-16*,-128.0,NOTO
+86,From Financial Activity,12  Mar-16*,-377.0,NOTO
+87,Net Cashflow,12  Mar-16*,210.0,NOTO
+88,Net Sales,12  Mar-17*,870.0,NOTO
+89,Other income,12  Mar-17*,32.0,NOTO
+90,Total revenues,12  Mar-17*,902.0,NOTO
+91,Gross profit,12  Mar-17*,442.0,NOTO
+92,Depreciation,12  Mar-17*,380.0,NOTO
+93,Interest,12  Mar-17*,59.0,NOTO
+94,Profit before tax,12  Mar-17*,35.0,NOTO
+95,Minority Interest,12  Mar-17*,0.0,NOTO
+96,Prior Period Items,12  Mar-17*,0.0,NOTO
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NOTO
+98,Tax,12  Mar-17*,12.0,NOTO
+99,Profit after tax,12  Mar-17*,23.0,NOTO
+100,Gross profit margin,12  Mar-17*,50.8,NOTO
+101,Effective tax rate,12  Mar-17*,34.5,NOTO
+102,Net profit margin,12  Mar-17*,2.6,NOTO
+103,Current assets,12  Mar-17*,217.0,NOTO
+104,Current liabilities,12  Mar-17*,337.0,NOTO
+105,Net working cap to sales,12  Mar-17*,-13.8,NOTO
+106,Current ratio,12  Mar-17*,0.6,NOTO
+107,Inventory Days,12  Mar-17*,3.0,NOTO
+108,Debtors Days,12  Mar-17*,22.0,NOTO
+109,Net fixed assets,12  Mar-17*,5390.0,NOTO
+110,Share capital,12  Mar-17*,1862.0,NOTO
+111,"""Free"" reserves",12  Mar-17*,2903.0,NOTO
+112,Net worth,12  Mar-17*,4765.0,NOTO
+113,Long term debt,12  Mar-17*,446.0,NOTO
+114,Total assets,12  Mar-17*,5931.0,NOTO
+115,Interest coverage,12  Mar-17*,1.6,NOTO
+116,Debt to equity ratio,12  Mar-17*,0.1,NOTO
+117,Sales to assets ratio,12  Mar-17*,0.1,NOTO
+118,Return on assets,12  Mar-17*,1.4,NOTO
+119,Return on equity,12  Mar-17*,0.5,NOTO
+120,Return on capital,12  Mar-17*,1.8,NOTO
+121,Exports to sales,12  Mar-17*,0.0,NOTO
+122,Imports to sales,12  Mar-17*,0.0,NOTO
+123,Exports (fob),12  Mar-17*,0.0,NOTO
+124,Imports (cif),12  Mar-17*,0.0,NOTO
+125,Fx inflow,12  Mar-17*,0.0,NOTO
+126,Fx outflow,12  Mar-17*,0.0,NOTO
+127,Net fx,12  Mar-17*,0.0,NOTO
+128,From Operations,12  Mar-17*,332.0,NOTO
+129,From Investments,12  Mar-17*,-324.0,NOTO
+130,From Financial Activity,12  Mar-17*,-265.0,NOTO
+131,Net Cashflow,12  Mar-17*,-258.0,NOTO
+132,Net Sales,12  Mar-18*,163.0,NOTO
+133,Other income,12  Mar-18*,14.0,NOTO
+134,Total revenues,12  Mar-18*,177.0,NOTO
+135,Gross profit,12  Mar-18*,-95.0,NOTO
+136,Depreciation,12  Mar-18*,423.0,NOTO
+137,Interest,12  Mar-18*,70.0,NOTO
+138,Profit before tax,12  Mar-18*,-574.0,NOTO
+139,Minority Interest,12  Mar-18*,0.0,NOTO
+140,Prior Period Items,12  Mar-18*,0.0,NOTO
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NOTO
+142,Tax,12  Mar-18*,5.0,NOTO
+143,Profit after tax,12  Mar-18*,-579.0,NOTO
+144,Gross profit margin,12  Mar-18*,-58.3,NOTO
+145,Effective tax rate,12  Mar-18*,-0.9,NOTO
+146,Net profit margin,12  Mar-18*,-355.6,NOTO
+147,Current assets,12  Mar-18*,230.0,NOTO
+148,Current liabilities,12  Mar-18*,599.0,NOTO
+149,Net working cap to sales,12  Mar-18*,-226.3,NOTO
+150,Current ratio,12  Mar-18*,0.4,NOTO
+151,Inventory Days,12  Mar-18*,18.0,NOTO
+152,Debtors Days,12  Mar-18*,162.0,NOTO
+153,Net fixed assets,12  Mar-18*,5066.0,NOTO
+154,Share capital,12  Mar-18*,1862.0,NOTO
+155,"""Free"" reserves",12  Mar-18*,2325.0,NOTO
+156,Net worth,12  Mar-18*,4187.0,NOTO
+157,Long term debt,12  Mar-18*,347.0,NOTO
+158,Total assets,12  Mar-18*,5567.0,NOTO
+159,Interest coverage,12  Mar-18*,-7.2,NOTO
+160,Debt to equity ratio,12  Mar-18*,0.1,NOTO
+161,Sales to assets ratio,12  Mar-18*,0.0,NOTO
+162,Return on assets,12  Mar-18*,-9.1,NOTO
+163,Return on equity,12  Mar-18*,-13.8,NOTO
+164,Return on capital,12  Mar-18*,-11.1,NOTO
+165,Exports to sales,12  Mar-18*,0.0,NOTO
+166,Imports to sales,12  Mar-18*,0.0,NOTO
+167,Exports (fob),12  Mar-18*,0.0,NOTO
+168,Imports (cif),12  Mar-18*,0.0,NOTO
+169,Fx inflow,12  Mar-18*,0.0,NOTO
+170,Fx outflow,12  Mar-18*,0.0,NOTO
+171,Net fx,12  Mar-18*,0.0,NOTO
+172,From Operations,12  Mar-18*,-30.0,NOTO
+173,From Investments,12  Mar-18*,24.0,NOTO
+174,From Financial Activity,12  Mar-18*,1.0,NOTO
+175,Net Cashflow,12  Mar-18*,-6.0,NOTO
+176,Net Sales,12  Mar-19*,204.0,NOTO
+177,Other income,12  Mar-19*,3.0,NOTO
+178,Total revenues,12  Mar-19*,207.0,NOTO
+179,Gross profit,12  Mar-19*,-57.0,NOTO
+180,Depreciation,12  Mar-19*,433.0,NOTO
+181,Interest,12  Mar-19*,72.0,NOTO
+182,Profit before tax,12  Mar-19*,-559.0,NOTO
+183,Minority Interest,12  Mar-19*,0.0,NOTO
+184,Prior Period Items,12  Mar-19*,0.0,NOTO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NOTO
+186,Tax,12  Mar-19*,-201.0,NOTO
+187,Profit after tax,12  Mar-19*,-359.0,NOTO
+188,Gross profit margin,12  Mar-19*,-28.2,NOTO
+189,Effective tax rate,12  Mar-19*,35.9,NOTO
+190,Net profit margin,12  Mar-19*,-176.2,NOTO
+191,Current assets,12  Mar-19*,248.0,NOTO
+192,Current liabilities,12  Mar-19*,979.0,NOTO
+193,Net working cap to sales,12  Mar-19*,-358.6,NOTO
+194,Current ratio,12  Mar-19*,0.3,NOTO
+195,Inventory Days,12  Mar-19*,15.0,NOTO
+196,Debtors Days,12  Mar-19*,128.0,NOTO
+197,Net fixed assets,12  Mar-19*,4659.0,NOTO
+198,Share capital,12  Mar-19*,1862.0,NOTO
+199,"""Free"" reserves",12  Mar-19*,1965.0,NOTO
+200,Net worth,12  Mar-19*,3827.0,NOTO
+201,Long term debt,12  Mar-19*,0.0,NOTO
+202,Total assets,12  Mar-19*,5147.0,NOTO
+203,Interest coverage,12  Mar-19*,-6.7,NOTO
+204,Debt to equity ratio,12  Mar-19*,0.0,NOTO
+205,Sales to assets ratio,12  Mar-19*,0.0,NOTO
+206,Return on assets,12  Mar-19*,-5.6,NOTO
+207,Return on equity,12  Mar-19*,-9.4,NOTO
+208,Return on capital,12  Mar-19*,-12.7,NOTO
+209,Exports to sales,12  Mar-19*,0.0,NOTO
+210,Imports to sales,12  Mar-19*,0.0,NOTO
+211,Exports (fob),12  Mar-19*,0.0,NOTO
+212,Imports (cif),12  Mar-19*,0.0,NOTO
+213,Fx inflow,12  Mar-19*,0.0,NOTO
+214,Fx outflow,12  Mar-19*,0.0,NOTO
+215,Net fx,12  Mar-19*,0.0,NOTO
+216,From Operations,12  Mar-19*,8.0,NOTO
+217,From Investments,12  Mar-19*,4.0,NOTO
+218,From Financial Activity,12  Mar-19*,-2.0,NOTO
+219,Net Cashflow,12  Mar-19*,11.0,NOTO

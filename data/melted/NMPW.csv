@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,2219.0,NMPW
+1,Other income,12  Mar-15*,268.0,NMPW
+2,Total revenues,12  Mar-15*,2486.0,NMPW
+3,Gross profit,12  Mar-15*,72.0,NMPW
+4,Depreciation,12  Mar-15*,169.0,NMPW
+5,Interest,12  Mar-15*,130.0,NMPW
+6,Profit before tax,12  Mar-15*,41.0,NMPW
+7,Minority Interest,12  Mar-15*,0.0,NMPW
+8,Prior Period Items,12  Mar-15*,1.0,NMPW
+9,Extraordinary Inc (Exp),12  Mar-15*,-20.0,NMPW
+10,Tax,12  Mar-15*,25.0,NMPW
+11,Profit after tax,12  Mar-15*,-4.0,NMPW
+12,Gross profit margin,12  Mar-15*,3.2,NMPW
+13,Effective tax rate,12  Mar-15*,62.3,NMPW
+14,Net profit margin,12  Mar-15*,-0.2,NMPW
+15,Current assets,12  Mar-15*,5568.0,NMPW
+16,Current liabilities,12  Mar-15*,1038.0,NMPW
+17,Net working cap to sales,12  Mar-15*,204.2,NMPW
+18,Current ratio,12  Mar-15*,5.4,NMPW
+19,Inventory Days,12  Mar-15*,57.0,NMPW
+20,Debtors Days,12  Mar-15*,91.0,NMPW
+21,Net fixed assets,12  Mar-15*,2623.0,NMPW
+22,Share capital,12  Mar-15*,101.0,NMPW
+23,"""Free"" reserves",12  Mar-15*,6466.0,NMPW
+24,Net worth,12  Mar-15*,6780.0,NMPW
+25,Long term debt,12  Mar-15*,947.0,NMPW
+26,Total assets,12  Mar-15*,9010.0,NMPW
+27,Interest coverage,12  Mar-15*,1.3,NMPW
+28,Debt to equity ratio,12  Mar-15*,0.1,NMPW
+29,Sales to assets ratio,12  Mar-15*,0.2,NMPW
+30,Return on assets,12  Mar-15*,1.4,NMPW
+31,Return on equity,12  Mar-15*,-0.1,NMPW
+32,Return on capital,12  Mar-15*,2.0,NMPW
+33,Exports to sales,12  Mar-15*,0.0,NMPW
+34,Imports to sales,12  Mar-15*,5.2,NMPW
+35,Exports (fob),12  Mar-15*,0.0,NMPW
+36,Imports (cif),12  Mar-15*,116.0,NMPW
+37,Fx inflow,12  Mar-15*,0.0,NMPW
+38,Fx outflow,12  Mar-15*,118.0,NMPW
+39,Net fx,12  Mar-15*,-118.0,NMPW
+40,From Operations,12  Mar-15*,-48.0,NMPW
+41,From Investments,12  Mar-15*,453.0,NMPW
+42,From Financial Activity,12  Mar-15*,147.0,NMPW
+43,Net Cashflow,12  Mar-15*,552.0,NMPW
+44,Net Sales,12  Mar-16*,2064.0,NMPW
+45,Other income,12  Mar-16*,352.0,NMPW
+46,Total revenues,12  Mar-16*,2415.0,NMPW
+47,Gross profit,12  Mar-16*,166.0,NMPW
+48,Depreciation,12  Mar-16*,174.0,NMPW
+49,Interest,12  Mar-16*,120.0,NMPW
+50,Profit before tax,12  Mar-16*,223.0,NMPW
+51,Minority Interest,12  Mar-16*,0.0,NMPW
+52,Prior Period Items,12  Mar-16*,0.0,NMPW
+53,Extraordinary Inc (Exp),12  Mar-16*,3.0,NMPW
+54,Tax,12  Mar-16*,94.0,NMPW
+55,Profit after tax,12  Mar-16*,132.0,NMPW
+56,Gross profit margin,12  Mar-16*,8.0,NMPW
+57,Effective tax rate,12  Mar-16*,42.1,NMPW
+58,Net profit margin,12  Mar-16*,6.4,NMPW
+59,Current assets,12  Mar-16*,4975.0,NMPW
+60,Current liabilities,12  Mar-16*,1356.0,NMPW
+61,Net working cap to sales,12  Mar-16*,175.4,NMPW
+62,Current ratio,12  Mar-16*,3.7,NMPW
+63,Inventory Days,12  Mar-16*,75.0,NMPW
+64,Debtors Days,12  Mar-16*,125.0,NMPW
+65,Net fixed assets,12  Mar-16*,3290.0,NMPW
+66,Share capital,12  Mar-16*,101.0,NMPW
+67,"""Free"" reserves",12  Mar-16*,6550.0,NMPW
+68,Net worth,12  Mar-16*,6915.0,NMPW
+69,Long term debt,12  Mar-16*,506.0,NMPW
+70,Total assets,12  Mar-16*,9007.0,NMPW
+71,Interest coverage,12  Mar-16*,2.9,NMPW
+72,Debt to equity ratio,12  Mar-16*,0.1,NMPW
+73,Sales to assets ratio,12  Mar-16*,0.2,NMPW
+74,Return on assets,12  Mar-16*,2.8,NMPW
+75,Return on equity,12  Mar-16*,1.9,NMPW
+76,Return on capital,12  Mar-16*,4.7,NMPW
+77,Exports to sales,12  Mar-16*,0.0,NMPW
+78,Imports to sales,12  Mar-16*,0.5,NMPW
+79,Exports (fob),12  Mar-16*,0.0,NMPW
+80,Imports (cif),12  Mar-16*,9.0,NMPW
+81,Fx inflow,12  Mar-16*,0.0,NMPW
+82,Fx outflow,12  Mar-16*,10.0,NMPW
+83,Net fx,12  Mar-16*,-10.0,NMPW
+84,From Operations,12  Mar-16*,124.0,NMPW
+85,From Investments,12  Mar-16*,-337.0,NMPW
+86,From Financial Activity,12  Mar-16*,-254.0,NMPW
+87,Net Cashflow,12  Mar-16*,-467.0,NMPW
+88,Net Sales,12  Mar-17*,2413.0,NMPW
+89,Other income,12  Mar-17*,359.0,NMPW
+90,Total revenues,12  Mar-17*,2772.0,NMPW
+91,Gross profit,12  Mar-17*,240.0,NMPW
+92,Depreciation,12  Mar-17*,195.0,NMPW
+93,Interest,12  Mar-17*,96.0,NMPW
+94,Profit before tax,12  Mar-17*,309.0,NMPW
+95,Minority Interest,12  Mar-17*,0.0,NMPW
+96,Prior Period Items,12  Mar-17*,0.0,NMPW
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NMPW
+98,Tax,12  Mar-17*,92.0,NMPW
+99,Profit after tax,12  Mar-17*,216.0,NMPW
+100,Gross profit margin,12  Mar-17*,10.0,NMPW
+101,Effective tax rate,12  Mar-17*,29.9,NMPW
+102,Net profit margin,12  Mar-17*,9.0,NMPW
+103,Current assets,12  Mar-17*,5542.0,NMPW
+104,Current liabilities,12  Mar-17*,1601.0,NMPW
+105,Net working cap to sales,12  Mar-17*,163.3,NMPW
+106,Current ratio,12  Mar-17*,3.5,NMPW
+107,Inventory Days,12  Mar-17*,96.0,NMPW
+108,Debtors Days,12  Mar-17*,109.0,NMPW
+109,Net fixed assets,12  Mar-17*,2357.0,NMPW
+110,Share capital,12  Mar-17*,101.0,NMPW
+111,"""Free"" reserves",12  Mar-17*,6901.0,NMPW
+112,Net worth,12  Mar-17*,7002.0,NMPW
+113,Long term debt,12  Mar-17*,347.0,NMPW
+114,Total assets,12  Mar-17*,9009.0,NMPW
+115,Interest coverage,12  Mar-17*,4.2,NMPW
+116,Debt to equity ratio,12  Mar-17*,0.0,NMPW
+117,Sales to assets ratio,12  Mar-17*,0.3,NMPW
+118,Return on assets,12  Mar-17*,3.5,NMPW
+119,Return on equity,12  Mar-17*,3.1,NMPW
+120,Return on capital,12  Mar-17*,5.5,NMPW
+121,Exports to sales,12  Mar-17*,0.0,NMPW
+122,Imports to sales,12  Mar-17*,0.0,NMPW
+123,Exports (fob),12  Mar-17*,0.0,NMPW
+124,Imports (cif),12  Mar-17*,0.0,NMPW
+125,Fx inflow,12  Mar-17*,5.0,NMPW
+126,Fx outflow,12  Mar-17*,752.0,NMPW
+127,Net fx,12  Mar-17*,-747.0,NMPW
+128,From Operations,12  Mar-17*,287.0,NMPW
+129,From Investments,12  Mar-17*,211.0,NMPW
+130,From Financial Activity,12  Mar-17*,-519.0,NMPW
+131,Net Cashflow,12  Mar-17*,-48.0,NMPW
+132,Net Sales,12  Mar-18*,2945.0,NMPW
+133,Other income,12  Mar-18*,273.0,NMPW
+134,Total revenues,12  Mar-18*,3218.0,NMPW
+135,Gross profit,12  Mar-18*,336.0,NMPW
+136,Depreciation,12  Mar-18*,233.0,NMPW
+137,Interest,12  Mar-18*,103.0,NMPW
+138,Profit before tax,12  Mar-18*,274.0,NMPW
+139,Minority Interest,12  Mar-18*,0.0,NMPW
+140,Prior Period Items,12  Mar-18*,0.0,NMPW
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,NMPW
+142,Tax,12  Mar-18*,115.0,NMPW
+143,Profit after tax,12  Mar-18*,159.0,NMPW
+144,Gross profit margin,12  Mar-18*,11.4,NMPW
+145,Effective tax rate,12  Mar-18*,42.0,NMPW
+146,Net profit margin,12  Mar-18*,5.4,NMPW
+147,Current assets,12  Mar-18*,5700.0,NMPW
+148,Current liabilities,12  Mar-18*,2382.0,NMPW
+149,Net working cap to sales,12  Mar-18*,112.7,NMPW
+150,Current ratio,12  Mar-18*,2.4,NMPW
+151,Inventory Days,12  Mar-18*,86.0,NMPW
+152,Debtors Days,12  Mar-18*,72.0,NMPW
+153,Net fixed assets,12  Mar-18*,3885.0,NMPW
+154,Share capital,12  Mar-18*,101.0,NMPW
+155,"""Free"" reserves",12  Mar-18*,7047.0,NMPW
+156,Net worth,12  Mar-18*,7148.0,NMPW
+157,Long term debt,12  Mar-18*,317.0,NMPW
+158,Total assets,12  Mar-18*,9935.0,NMPW
+159,Interest coverage,12  Mar-18*,3.7,NMPW
+160,Debt to equity ratio,12  Mar-18*,0.0,NMPW
+161,Sales to assets ratio,12  Mar-18*,0.3,NMPW
+162,Return on assets,12  Mar-18*,2.6,NMPW
+163,Return on equity,12  Mar-18*,2.2,NMPW
+164,Return on capital,12  Mar-18*,5.0,NMPW
+165,Exports to sales,12  Mar-18*,0.0,NMPW
+166,Imports to sales,12  Mar-18*,0.0,NMPW
+167,Exports (fob),12  Mar-18*,0.0,NMPW
+168,Imports (cif),12  Mar-18*,0.0,NMPW
+169,Fx inflow,12  Mar-18*,1.0,NMPW
+170,Fx outflow,12  Mar-18*,1040.0,NMPW
+171,Net fx,12  Mar-18*,-1039.0,NMPW
+172,From Operations,12  Mar-18*,28.0,NMPW
+173,From Investments,12  Mar-18*,-1009.0,NMPW
+174,From Financial Activity,12  Mar-18*,485.0,NMPW
+175,Net Cashflow,12  Mar-18*,-469.0,NMPW
+176,Net Sales,12  Mar-19*,2277.0,NMPW
+177,Other income,12  Mar-19*,262.0,NMPW
+178,Total revenues,12  Mar-19*,2539.0,NMPW
+179,Gross profit,12  Mar-19*,252.0,NMPW
+180,Depreciation,12  Mar-19*,260.0,NMPW
+181,Interest,12  Mar-19*,153.0,NMPW
+182,Profit before tax,12  Mar-19*,102.0,NMPW
+183,Minority Interest,12  Mar-19*,0.0,NMPW
+184,Prior Period Items,12  Mar-19*,0.0,NMPW
+185,Extraordinary Inc (Exp),12  Mar-19*,3.0,NMPW
+186,Tax,12  Mar-19*,36.0,NMPW
+187,Profit after tax,12  Mar-19*,68.0,NMPW
+188,Gross profit margin,12  Mar-19*,11.1,NMPW
+189,Effective tax rate,12  Mar-19*,35.7,NMPW
+190,Net profit margin,12  Mar-19*,3.0,NMPW
+191,Current assets,12  Mar-19*,5084.0,NMPW
+192,Current liabilities,12  Mar-19*,2319.0,NMPW
+193,Net working cap to sales,12  Mar-19*,121.4,NMPW
+194,Current ratio,12  Mar-19*,2.2,NMPW
+195,Inventory Days,12  Mar-19*,92.0,NMPW
+196,Debtors Days,12  Mar-19*,64.0,NMPW
+197,Net fixed assets,12  Mar-19*,4401.0,NMPW
+198,Share capital,12  Mar-19*,101.0,NMPW
+199,"""Free"" reserves",12  Mar-19*,7159.0,NMPW
+200,Net worth,12  Mar-19*,7260.0,NMPW
+201,Long term debt,12  Mar-19*,288.0,NMPW
+202,Total assets,12  Mar-19*,9962.0,NMPW
+203,Interest coverage,12  Mar-19*,1.7,NMPW
+204,Debt to equity ratio,12  Mar-19*,0.0,NMPW
+205,Sales to assets ratio,12  Mar-19*,0.2,NMPW
+206,Return on assets,12  Mar-19*,2.2,NMPW
+207,Return on equity,12  Mar-19*,0.9,NMPW
+208,Return on capital,12  Mar-19*,3.4,NMPW
+209,Exports to sales,12  Mar-19*,0.0,NMPW
+210,Imports to sales,12  Mar-19*,0.0,NMPW
+211,Exports (fob),12  Mar-19*,0.0,NMPW
+212,Imports (cif),12  Mar-19*,0.0,NMPW
+213,Fx inflow,12  Mar-19*,2.0,NMPW
+214,Fx outflow,12  Mar-19*,789.0,NMPW
+215,Net fx,12  Mar-19*,-786.0,NMPW
+216,From Operations,12  Mar-19*,692.0,NMPW
+217,From Investments,12  Mar-19*,-1197.0,NMPW
+218,From Financial Activity,12  Mar-19*,-528.0,NMPW
+219,Net Cashflow,12  Mar-19*,-1033.0,NMPW

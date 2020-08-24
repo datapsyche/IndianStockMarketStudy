@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3264.0,PONA
+1,Other income,12  Mar-15*,72.0,PONA
+2,Total revenues,12  Mar-15*,3335.0,PONA
+3,Gross profit,12  Mar-15*,915.0,PONA
+4,Depreciation,12  Mar-15*,231.0,PONA
+5,Interest,12  Mar-15*,322.0,PONA
+6,Profit before tax,12  Mar-15*,433.0,PONA
+7,Minority Interest,12  Mar-15*,0.0,PONA
+8,Prior Period Items,12  Mar-15*,0.0,PONA
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PONA
+10,Tax,12  Mar-15*,120.0,PONA
+11,Profit after tax,12  Mar-15*,314.0,PONA
+12,Gross profit margin,12  Mar-15*,28.0,PONA
+13,Effective tax rate,12  Mar-15*,27.6,PONA
+14,Net profit margin,12  Mar-15*,9.6,PONA
+15,Current assets,12  Mar-15*,1671.0,PONA
+16,Current liabilities,12  Mar-15*,1519.0,PONA
+17,Net working cap to sales,12  Mar-15*,4.6,PONA
+18,Current ratio,12  Mar-15*,1.1,PONA
+19,Inventory Days,12  Mar-15*,86.0,PONA
+20,Debtors Days,12  Mar-15*,77.0,PONA
+21,Net fixed assets,12  Mar-15*,2462.0,PONA
+22,Share capital,12  Mar-15*,62.0,PONA
+23,"""Free"" reserves",12  Mar-15*,468.0,PONA
+24,Net worth,12  Mar-15*,530.0,PONA
+25,Long term debt,12  Mar-15*,2008.0,PONA
+26,Total assets,12  Mar-15*,4310.0,PONA
+27,Interest coverage,12  Mar-15*,2.3,PONA
+28,Debt to equity ratio,12  Mar-15*,3.8,PONA
+29,Sales to assets ratio,12  Mar-15*,0.8,PONA
+30,Return on assets,12  Mar-15*,14.8,PONA
+31,Return on equity,12  Mar-15*,59.1,PONA
+32,Return on capital,12  Mar-15*,29.8,PONA
+33,Exports to sales,12  Mar-15*,42.3,PONA
+34,Imports to sales,12  Mar-15*,7.5,PONA
+35,Exports (fob),12  Mar-15*,1381.0,PONA
+36,Imports (cif),12  Mar-15*,246.0,PONA
+37,Fx inflow,12  Mar-15*,1381.0,PONA
+38,Fx outflow,12  Mar-15*,294.0,PONA
+39,Net fx,12  Mar-15*,1086.0,PONA
+40,From Operations,12  Mar-15*,608.0,PONA
+41,From Investments,12  Mar-15*,-151.0,PONA
+42,From Financial Activity,12  Mar-15*,-406.0,PONA
+43,Net Cashflow,12  Mar-15*,51.0,PONA
+44,Net Sales,12  Mar-16*,3943.0,PONA
+45,Other income,12  Mar-16*,54.0,PONA
+46,Total revenues,12  Mar-16*,3997.0,PONA
+47,Gross profit,12  Mar-16*,1156.0,PONA
+48,Depreciation,12  Mar-16*,183.0,PONA
+49,Interest,12  Mar-16*,368.0,PONA
+50,Profit before tax,12  Mar-16*,660.0,PONA
+51,Minority Interest,12  Mar-16*,0.0,PONA
+52,Prior Period Items,12  Mar-16*,0.0,PONA
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PONA
+54,Tax,12  Mar-16*,147.0,PONA
+55,Profit after tax,12  Mar-16*,512.0,PONA
+56,Gross profit margin,12  Mar-16*,29.3,PONA
+57,Effective tax rate,12  Mar-16*,22.4,PONA
+58,Net profit margin,12  Mar-16*,13.0,PONA
+59,Current assets,12  Mar-16*,1880.0,PONA
+60,Current liabilities,12  Mar-16*,1648.0,PONA
+61,Net working cap to sales,12  Mar-16*,5.9,PONA
+62,Current ratio,12  Mar-16*,1.1,PONA
+63,Inventory Days,12  Mar-16*,82.0,PONA
+64,Debtors Days,12  Mar-16*,73.0,PONA
+65,Net fixed assets,12  Mar-16*,2588.0,PONA
+66,Share capital,12  Mar-16*,62.0,PONA
+67,"""Free"" reserves",12  Mar-16*,816.0,PONA
+68,Net worth,12  Mar-16*,878.0,PONA
+69,Long term debt,12  Mar-16*,1791.0,PONA
+70,Total assets,12  Mar-16*,4600.0,PONA
+71,Interest coverage,12  Mar-16*,2.8,PONA
+72,Debt to equity ratio,12  Mar-16*,2.0,PONA
+73,Sales to assets ratio,12  Mar-16*,0.9,PONA
+74,Return on assets,12  Mar-16*,19.1,PONA
+75,Return on equity,12  Mar-16*,58.3,PONA
+76,Return on capital,12  Mar-16*,38.5,PONA
+77,Exports to sales,12  Mar-16*,35.5,PONA
+78,Imports to sales,12  Mar-16*,8.3,PONA
+79,Exports (fob),12  Mar-16*,1401.0,PONA
+80,Imports (cif),12  Mar-16*,329.0,PONA
+81,Fx inflow,12  Mar-16*,1401.0,PONA
+82,Fx outflow,12  Mar-16*,383.0,PONA
+83,Net fx,12  Mar-16*,1018.0,PONA
+84,From Operations,12  Mar-16*,1055.0,PONA
+85,From Investments,12  Mar-16*,-307.0,PONA
+86,From Financial Activity,12  Mar-16*,-752.0,PONA
+87,Net Cashflow,12  Mar-16*,-3.0,PONA
+88,Net Sales,12  Mar-17*,3674.0,PONA
+89,Other income,12  Mar-17*,100.0,PONA
+90,Total revenues,12  Mar-17*,3774.0,PONA
+91,Gross profit,12  Mar-17*,1364.0,PONA
+92,Depreciation,12  Mar-17*,173.0,PONA
+93,Interest,12  Mar-17*,320.0,PONA
+94,Profit before tax,12  Mar-17*,971.0,PONA
+95,Minority Interest,12  Mar-17*,0.0,PONA
+96,Prior Period Items,12  Mar-17*,0.0,PONA
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PONA
+98,Tax,12  Mar-17*,199.0,PONA
+99,Profit after tax,12  Mar-17*,772.0,PONA
+100,Gross profit margin,12  Mar-17*,37.1,PONA
+101,Effective tax rate,12  Mar-17*,20.5,PONA
+102,Net profit margin,12  Mar-17*,21.0,PONA
+103,Current assets,12  Mar-17*,2010.0,PONA
+104,Current liabilities,12  Mar-17*,1535.0,PONA
+105,Net working cap to sales,12  Mar-17*,12.9,PONA
+106,Current ratio,12  Mar-17*,1.3,PONA
+107,Inventory Days,12  Mar-17*,97.0,PONA
+108,Debtors Days,12  Mar-17*,66.0,PONA
+109,Net fixed assets,12  Mar-17*,2624.0,PONA
+110,Share capital,12  Mar-17*,62.0,PONA
+111,"""Free"" reserves",12  Mar-17*,1447.0,PONA
+112,Net worth,12  Mar-17*,1509.0,PONA
+113,Long term debt,12  Mar-17*,1823.0,PONA
+114,Total assets,12  Mar-17*,4978.0,PONA
+115,Interest coverage,12  Mar-17*,4.0,PONA
+116,Debt to equity ratio,12  Mar-17*,1.2,PONA
+117,Sales to assets ratio,12  Mar-17*,0.7,PONA
+118,Return on assets,12  Mar-17*,21.9,PONA
+119,Return on equity,12  Mar-17*,51.2,PONA
+120,Return on capital,12  Mar-17*,38.8,PONA
+121,Exports to sales,12  Mar-17*,0.0,PONA
+122,Imports to sales,12  Mar-17*,0.0,PONA
+123,Exports (fob),12  Mar-17*,0.0,PONA
+124,Imports (cif),12  Mar-17*,0.0,PONA
+125,Fx inflow,12  Mar-17*,1053.0,PONA
+126,Fx outflow,12  Mar-17*,27.0,PONA
+127,Net fx,12  Mar-17*,1025.0,PONA
+128,From Operations,12  Mar-17*,1110.0,PONA
+129,From Investments,12  Mar-17*,-320.0,PONA
+130,From Financial Activity,12  Mar-17*,-637.0,PONA
+131,Net Cashflow,12  Mar-17*,162.0,PONA
+132,Net Sales,12  Mar-18*,3366.0,PONA
+133,Other income,12  Mar-18*,59.0,PONA
+134,Total revenues,12  Mar-18*,3425.0,PONA
+135,Gross profit,12  Mar-18*,937.0,PONA
+136,Depreciation,12  Mar-18*,199.0,PONA
+137,Interest,12  Mar-18*,286.0,PONA
+138,Profit before tax,12  Mar-18*,512.0,PONA
+139,Minority Interest,12  Mar-18*,0.0,PONA
+140,Prior Period Items,12  Mar-18*,0.0,PONA
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PONA
+142,Tax,12  Mar-18*,89.0,PONA
+143,Profit after tax,12  Mar-18*,423.0,PONA
+144,Gross profit margin,12  Mar-18*,27.8,PONA
+145,Effective tax rate,12  Mar-18*,17.4,PONA
+146,Net profit margin,12  Mar-18*,12.6,PONA
+147,Current assets,12  Mar-18*,2022.0,PONA
+148,Current liabilities,12  Mar-18*,1460.0,PONA
+149,Net working cap to sales,12  Mar-18*,16.7,PONA
+150,Current ratio,12  Mar-18*,1.4,PONA
+151,Inventory Days,12  Mar-18*,110.0,PONA
+152,Debtors Days,12  Mar-18*,75.0,PONA
+153,Net fixed assets,12  Mar-18*,2725.0,PONA
+154,Share capital,12  Mar-18*,62.0,PONA
+155,"""Free"" reserves",12  Mar-18*,1851.0,PONA
+156,Net worth,12  Mar-18*,1913.0,PONA
+157,Long term debt,12  Mar-18*,1619.0,PONA
+158,Total assets,12  Mar-18*,5106.0,PONA
+159,Interest coverage,12  Mar-18*,2.8,PONA
+160,Debt to equity ratio,12  Mar-18*,0.8,PONA
+161,Sales to assets ratio,12  Mar-18*,0.7,PONA
+162,Return on assets,12  Mar-18*,13.9,PONA
+163,Return on equity,12  Mar-18*,22.1,PONA
+164,Return on capital,12  Mar-18*,22.6,PONA
+165,Exports to sales,12  Mar-18*,0.0,PONA
+166,Imports to sales,12  Mar-18*,0.0,PONA
+167,Exports (fob),12  Mar-18*,0.0,PONA
+168,Imports (cif),12  Mar-18*,0.0,PONA
+169,Fx inflow,12  Mar-18*,921.0,PONA
+170,Fx outflow,12  Mar-18*,33.0,PONA
+171,Net fx,12  Mar-18*,889.0,PONA
+172,From Operations,12  Mar-18*,771.0,PONA
+173,From Investments,12  Mar-18*,-297.0,PONA
+174,From Financial Activity,12  Mar-18*,-516.0,PONA
+175,Net Cashflow,12  Mar-18*,-26.0,PONA
+176,Net Sales,12  Mar-19*,4622.0,PONA
+177,Other income,12  Mar-19*,91.0,PONA
+178,Total revenues,12  Mar-19*,4713.0,PONA
+179,Gross profit,12  Mar-19*,1431.0,PONA
+180,Depreciation,12  Mar-19*,255.0,PONA
+181,Interest,12  Mar-19*,254.0,PONA
+182,Profit before tax,12  Mar-19*,1012.0,PONA
+183,Minority Interest,12  Mar-19*,0.0,PONA
+184,Prior Period Items,12  Mar-19*,0.0,PONA
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PONA
+186,Tax,12  Mar-19*,206.0,PONA
+187,Profit after tax,12  Mar-19*,807.0,PONA
+188,Gross profit margin,12  Mar-19*,31.0,PONA
+189,Effective tax rate,12  Mar-19*,20.3,PONA
+190,Net profit margin,12  Mar-19*,17.5,PONA
+191,Current assets,12  Mar-19*,2184.0,PONA
+192,Current liabilities,12  Mar-19*,1711.0,PONA
+193,Net working cap to sales,12  Mar-19*,10.2,PONA
+194,Current ratio,12  Mar-19*,1.3,PONA
+195,Inventory Days,12  Mar-19*,79.0,PONA
+196,Debtors Days,12  Mar-19*,54.0,PONA
+197,Net fixed assets,12  Mar-19*,3141.0,PONA
+198,Share capital,12  Mar-19*,62.0,PONA
+199,"""Free"" reserves",12  Mar-19*,2643.0,PONA
+200,Net worth,12  Mar-19*,2705.0,PONA
+201,Long term debt,12  Mar-19*,1517.0,PONA
+202,Total assets,12  Mar-19*,6031.0,PONA
+203,Interest coverage,12  Mar-19*,5.0,PONA
+204,Debt to equity ratio,12  Mar-19*,0.6,PONA
+205,Sales to assets ratio,12  Mar-19*,0.8,PONA
+206,Return on assets,12  Mar-19*,17.6,PONA
+207,Return on equity,12  Mar-19*,29.8,PONA
+208,Return on capital,12  Mar-19*,30.0,PONA
+209,Exports to sales,12  Mar-19*,0.0,PONA
+210,Imports to sales,12  Mar-19*,0.0,PONA
+211,Exports (fob),12  Mar-19*,0.0,PONA
+212,Imports (cif),12  Mar-19*,0.0,PONA
+213,Fx inflow,12  Mar-19*,980.0,PONA
+214,Fx outflow,12  Mar-19*,42.0,PONA
+215,Net fx,12  Mar-19*,938.0,PONA
+216,From Operations,12  Mar-19*,1084.0,PONA
+217,From Investments,12  Mar-19*,-668.0,PONA
+218,From Financial Activity,12  Mar-19*,-438.0,PONA
+219,Net Cashflow,12  Mar-19*,9.0,PONA

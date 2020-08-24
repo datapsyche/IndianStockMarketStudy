@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,3672.0,KKCL
+1,Other income,12  Mar-14,118.0,KKCL
+2,Total revenues,12  Mar-14,3790.0,KKCL
+3,Gross profit,12  Mar-14,934.0,KKCL
+4,Depreciation,12  Mar-14,52.0,KKCL
+5,Interest,12  Mar-14,30.0,KKCL
+6,Profit before tax,12  Mar-14,971.0,KKCL
+7,Minority Interest,12  Mar-14,0.0,KKCL
+8,Prior Period Items,12  Mar-14,0.0,KKCL
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,KKCL
+10,Tax,12  Mar-14,301.0,KKCL
+11,Profit after tax,12  Mar-14,670.0,KKCL
+12,Gross profit margin,12  Mar-14,25.4,KKCL
+13,Effective tax rate,12  Mar-14,31.0,KKCL
+14,Net profit margin,12  Mar-14,18.3,KKCL
+15,Current assets,12  Mar-14,3137.0,KKCL
+16,Current liabilities,12  Mar-14,721.0,KKCL
+17,Net working cap to sales,12  Mar-14,65.8,KKCL
+18,Current ratio,12  Mar-14,4.4,KKCL
+19,Inventory Days,12  Mar-14,48.0,KKCL
+20,Debtors Days,12  Mar-14,63.0,KKCL
+21,Net fixed assets,12  Mar-14,427.0,KKCL
+22,Share capital,12  Mar-14,123.0,KKCL
+23,"""Free"" reserves",12  Mar-14,2783.0,KKCL
+24,Net worth,12  Mar-14,2906.0,KKCL
+25,Long term debt,12  Mar-14,0.0,KKCL
+26,Total assets,12  Mar-14,3705.0,KKCL
+27,Interest coverage,12  Mar-14,33.8,KKCL
+28,Debt to equity ratio,12  Mar-14,0.0,KKCL
+29,Sales to assets ratio,12  Mar-14,1.0,KKCL
+30,Return on assets,12  Mar-14,18.9,KKCL
+31,Return on equity,12  Mar-14,23.1,KKCL
+32,Return on capital,12  Mar-14,34.4,KKCL
+33,Exports to sales,12  Mar-14,6.8,KKCL
+34,Imports to sales,12  Mar-14,2.1,KKCL
+35,Exports (fob),12  Mar-14,251.0,KKCL
+36,Imports (cif),12  Mar-14,78.0,KKCL
+37,Fx inflow,12  Mar-14,251.0,KKCL
+38,Fx outflow,12  Mar-14,80.0,KKCL
+39,Net fx,12  Mar-14,170.0,KKCL
+40,From Operations,12  Mar-14,422.0,KKCL
+41,From Investments,12  Mar-14,-374.0,KKCL
+42,From Financial Activity,12  Mar-14,-314.0,KKCL
+43,Net Cashflow,12  Mar-14,-265.0,KKCL
+44,Net Sales,12  Mar-15,4083.0,KKCL
+45,Other income,12  Mar-15,80.0,KKCL
+46,Total revenues,12  Mar-15,4163.0,KKCL
+47,Gross profit,12  Mar-15,965.0,KKCL
+48,Depreciation,12  Mar-15,37.0,KKCL
+49,Interest,12  Mar-15,27.0,KKCL
+50,Profit before tax,12  Mar-15,981.0,KKCL
+51,Minority Interest,12  Mar-15,0.0,KKCL
+52,Prior Period Items,12  Mar-15,0.0,KKCL
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,KKCL
+54,Tax,12  Mar-15,318.0,KKCL
+55,Profit after tax,12  Mar-15,662.0,KKCL
+56,Gross profit margin,12  Mar-15,23.6,KKCL
+57,Effective tax rate,12  Mar-15,32.5,KKCL
+58,Net profit margin,12  Mar-15,16.2,KKCL
+59,Current assets,12  Mar-15,2018.0,KKCL
+60,Current liabilities,12  Mar-15,803.0,KKCL
+61,Net working cap to sales,12  Mar-15,29.7,KKCL
+62,Current ratio,12  Mar-15,2.5,KKCL
+63,Inventory Days,12  Mar-15,36.0,KKCL
+64,Debtors Days,12  Mar-15,69.0,KKCL
+65,Net fixed assets,12  Mar-15,582.0,KKCL
+66,Share capital,12  Mar-15,123.0,KKCL
+67,"""Free"" reserves",12  Mar-15,3075.0,KKCL
+68,Net worth,12  Mar-15,3198.0,KKCL
+69,Long term debt,12  Mar-15,0.0,KKCL
+70,Total assets,12  Mar-15,4105.0,KKCL
+71,Interest coverage,12  Mar-15,37.9,KKCL
+72,Debt to equity ratio,12  Mar-15,0.0,KKCL
+73,Sales to assets ratio,12  Mar-15,1.0,KKCL
+74,Return on assets,12  Mar-15,16.8,KKCL
+75,Return on equity,12  Mar-15,20.7,KKCL
+76,Return on capital,12  Mar-15,31.5,KKCL
+77,Exports to sales,12  Mar-15,5.6,KKCL
+78,Imports to sales,12  Mar-15,0.5,KKCL
+79,Exports (fob),12  Mar-15,229.0,KKCL
+80,Imports (cif),12  Mar-15,22.0,KKCL
+81,Fx inflow,12  Mar-15,229.0,KKCL
+82,Fx outflow,12  Mar-15,25.0,KKCL
+83,Net fx,12  Mar-15,203.0,KKCL
+84,From Operations,12  Mar-15,753.0,KKCL
+85,From Investments,12  Mar-15,-243.0,KKCL
+86,From Financial Activity,12  Mar-15,-422.0,KKCL
+87,Net Cashflow,12  Mar-15,89.0,KKCL
+88,Net Sales,12  Mar-16,4574.0,KKCL
+89,Other income,12  Mar-16,69.0,KKCL
+90,Total revenues,12  Mar-16,4643.0,KKCL
+91,Gross profit,12  Mar-16,1041.0,KKCL
+92,Depreciation,12  Mar-16,42.0,KKCL
+93,Interest,12  Mar-16,33.0,KKCL
+94,Profit before tax,12  Mar-16,1035.0,KKCL
+95,Minority Interest,12  Mar-16,0.0,KKCL
+96,Prior Period Items,12  Mar-16,0.0,KKCL
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,KKCL
+98,Tax,12  Mar-16,356.0,KKCL
+99,Profit after tax,12  Mar-16,680.0,KKCL
+100,Gross profit margin,12  Mar-16,22.8,KKCL
+101,Effective tax rate,12  Mar-16,34.4,KKCL
+102,Net profit margin,12  Mar-16,14.9,KKCL
+103,Current assets,12  Mar-16,3144.0,KKCL
+104,Current liabilities,12  Mar-16,1232.0,KKCL
+105,Net working cap to sales,12  Mar-16,41.8,KKCL
+106,Current ratio,12  Mar-16,2.6,KKCL
+107,Inventory Days,12  Mar-16,45.0,KKCL
+108,Debtors Days,12  Mar-16,87.0,KKCL
+109,Net fixed assets,12  Mar-16,626.0,KKCL
+110,Share capital,12  Mar-16,123.0,KKCL
+111,"""Free"" reserves",12  Mar-16,3157.0,KKCL
+112,Net worth,12  Mar-16,3280.0,KKCL
+113,Long term debt,12  Mar-16,0.0,KKCL
+114,Total assets,12  Mar-16,4513.0,KKCL
+115,Interest coverage,12  Mar-16,32.1,KKCL
+116,Debt to equity ratio,12  Mar-16,0.0,KKCL
+117,Sales to assets ratio,12  Mar-16,1.0,KKCL
+118,Return on assets,12  Mar-16,15.8,KKCL
+119,Return on equity,12  Mar-16,20.7,KKCL
+120,Return on capital,12  Mar-16,32.6,KKCL
+121,Exports to sales,12  Mar-16,6.5,KKCL
+122,Imports to sales,12  Mar-16,1.0,KKCL
+123,Exports (fob),12  Mar-16,298.0,KKCL
+124,Imports (cif),12  Mar-16,48.0,KKCL
+125,Fx inflow,12  Mar-16,298.0,KKCL
+126,Fx outflow,12  Mar-16,54.0,KKCL
+127,Net fx,12  Mar-16,244.0,KKCL
+128,From Operations,12  Mar-16,469.0,KKCL
+129,From Investments,12  Mar-16,134.0,KKCL
+130,From Financial Activity,12  Mar-16,-788.0,KKCL
+131,Net Cashflow,12  Mar-16,-186.0,KKCL
+132,Net Sales,12  Mar-17*,4665.0,KKCL
+133,Other income,12  Mar-17*,175.0,KKCL
+134,Total revenues,12  Mar-17*,4840.0,KKCL
+135,Gross profit,12  Mar-17*,989.0,KKCL
+136,Depreciation,12  Mar-17*,48.0,KKCL
+137,Interest,12  Mar-17*,33.0,KKCL
+138,Profit before tax,12  Mar-17*,1083.0,KKCL
+139,Minority Interest,12  Mar-17*,0.0,KKCL
+140,Prior Period Items,12  Mar-17*,0.0,KKCL
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,KKCL
+142,Tax,12  Mar-17*,337.0,KKCL
+143,Profit after tax,12  Mar-17*,746.0,KKCL
+144,Gross profit margin,12  Mar-17*,21.2,KKCL
+145,Effective tax rate,12  Mar-17*,31.1,KKCL
+146,Net profit margin,12  Mar-17*,16.0,KKCL
+147,Current assets,12  Mar-17*,3048.0,KKCL
+148,Current liabilities,12  Mar-17*,1374.0,KKCL
+149,Net working cap to sales,12  Mar-17*,35.9,KKCL
+150,Current ratio,12  Mar-17*,2.2,KKCL
+151,Inventory Days,12  Mar-17*,40.0,KKCL
+152,Debtors Days,12  Mar-17*,83.0,KKCL
+153,Net fixed assets,12  Mar-17*,697.0,KKCL
+154,Share capital,12  Mar-17*,123.0,KKCL
+155,"""Free"" reserves",12  Mar-17*,3618.0,KKCL
+156,Net worth,12  Mar-17*,3741.0,KKCL
+157,Long term debt,12  Mar-17*,0.0,KKCL
+158,Total assets,12  Mar-17*,5127.0,KKCL
+159,Interest coverage,12  Mar-17*,34.1,KKCL
+160,Debt to equity ratio,12  Mar-17*,0.0,KKCL
+161,Sales to assets ratio,12  Mar-17*,0.9,KKCL
+162,Return on assets,12  Mar-17*,15.2,KKCL
+163,Return on equity,12  Mar-17*,19.9,KKCL
+164,Return on capital,12  Mar-17*,29.8,KKCL
+165,Exports to sales,12  Mar-17*,4.4,KKCL
+166,Imports to sales,12  Mar-17*,1.9,KKCL
+167,Exports (fob),12  Mar-17*,203.0,KKCL
+168,Imports (cif),12  Mar-17*,87.0,KKCL
+169,Fx inflow,12  Mar-17*,203.0,KKCL
+170,Fx outflow,12  Mar-17*,110.0,KKCL
+171,Net fx,12  Mar-17*,94.0,KKCL
+172,From Operations,12  Mar-17*,801.0,KKCL
+173,From Investments,12  Mar-17*,-93.0,KKCL
+174,From Financial Activity,12  Mar-17*,-274.0,KKCL
+175,Net Cashflow,12  Mar-17*,434.0,KKCL
+176,Net Sales,12  Mar-18*,4603.0,KKCL
+177,Other income,12  Mar-18*,211.0,KKCL
+178,Total revenues,12  Mar-18*,4814.0,KKCL
+179,Gross profit,12  Mar-18*,982.0,KKCL
+180,Depreciation,12  Mar-18*,58.0,KKCL
+181,Interest,12  Mar-18*,50.0,KKCL
+182,Profit before tax,12  Mar-18*,1086.0,KKCL
+183,Minority Interest,12  Mar-18*,-1.0,KKCL
+184,Prior Period Items,12  Mar-18*,0.0,KKCL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,KKCL
+186,Tax,12  Mar-18*,353.0,KKCL
+187,Profit after tax,12  Mar-18*,732.0,KKCL
+188,Gross profit margin,12  Mar-18*,21.3,KKCL
+189,Effective tax rate,12  Mar-18*,32.5,KKCL
+190,Net profit margin,12  Mar-18*,15.9,KKCL
+191,Current assets,12  Mar-18*,3515.0,KKCL
+192,Current liabilities,12  Mar-18*,1664.0,KKCL
+193,Net working cap to sales,12  Mar-18*,40.2,KKCL
+194,Current ratio,12  Mar-18*,2.1,KKCL
+195,Inventory Days,12  Mar-18*,42.0,KKCL
+196,Debtors Days,12  Mar-18*,108.0,KKCL
+197,Net fixed assets,12  Mar-18*,766.0,KKCL
+198,Share capital,12  Mar-18*,123.0,KKCL
+199,"""Free"" reserves",12  Mar-18*,3869.0,KKCL
+200,Net worth,12  Mar-18*,3992.0,KKCL
+201,Long term debt,12  Mar-18*,0.0,KKCL
+202,Total assets,12  Mar-18*,5719.0,KKCL
+203,Interest coverage,12  Mar-18*,22.8,KKCL
+204,Debt to equity ratio,12  Mar-18*,0.0,KKCL
+205,Sales to assets ratio,12  Mar-18*,0.8,KKCL
+206,Return on assets,12  Mar-18*,13.7,KKCL
+207,Return on equity,12  Mar-18*,18.3,KKCL
+208,Return on capital,12  Mar-18*,28.4,KKCL
+209,Exports to sales,12  Mar-18*,5.1,KKCL
+210,Imports to sales,12  Mar-18*,0.9,KKCL
+211,Exports (fob),12  Mar-18*,233.0,KKCL
+212,Imports (cif),12  Mar-18*,41.0,KKCL
+213,Fx inflow,12  Mar-18*,233.0,KKCL
+214,Fx outflow,12  Mar-18*,60.0,KKCL
+215,Net fx,12  Mar-18*,173.0,KKCL
+216,From Operations,12  Mar-18*,557.0,KKCL
+217,From Investments,12  Mar-18*,-141.0,KKCL
+218,From Financial Activity,12  Mar-18*,-456.0,KKCL
+219,Net Cashflow,12  Mar-18*,-40.0,KKCL

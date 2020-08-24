@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,14687.0,SGMI
+1,Other income,12  Mar-15,110.0,SGMI
+2,Total revenues,12  Mar-15,14797.0,SGMI
+3,Gross profit,12  Mar-15,2091.0,SGMI
+4,Depreciation,12  Mar-15,804.0,SGMI
+5,Interest,12  Mar-15,672.0,SGMI
+6,Profit before tax,12  Mar-15,725.0,SGMI
+7,Minority Interest,12  Mar-15,0.0,SGMI
+8,Prior Period Items,12  Mar-15,0.0,SGMI
+9,Extraordinary Inc (Exp),12  Mar-15,-4.0,SGMI
+10,Tax,12  Mar-15,206.0,SGMI
+11,Profit after tax,12  Mar-15,516.0,SGMI
+12,Gross profit margin,12  Mar-15,14.2,SGMI
+13,Effective tax rate,12  Mar-15,28.4,SGMI
+14,Net profit margin,12  Mar-15,3.5,SGMI
+15,Current assets,12  Mar-15,5906.0,SGMI
+16,Current liabilities,12  Mar-15,5068.0,SGMI
+17,Net working cap to sales,12  Mar-15,5.7,SGMI
+18,Current ratio,12  Mar-15,1.2,SGMI
+19,Inventory Days,12  Mar-15,66.0,SGMI
+20,Debtors Days,12  Mar-15,63.0,SGMI
+21,Net fixed assets,12  Mar-15,5657.0,SGMI
+22,Share capital,12  Mar-15,394.0,SGMI
+23,"""Free"" reserves",12  Mar-15,3175.0,SGMI
+24,Net worth,12  Mar-15,3717.0,SGMI
+25,Long term debt,12  Mar-15,2578.0,SGMI
+26,Total assets,12  Mar-15,11766.0,SGMI
+27,Interest coverage,12  Mar-15,2.1,SGMI
+28,Debt to equity ratio,12  Mar-15,0.7,SGMI
+29,Sales to assets ratio,12  Mar-15,1.2,SGMI
+30,Return on assets,12  Mar-15,10.1,SGMI
+31,Return on equity,12  Mar-15,13.9,SGMI
+32,Return on capital,12  Mar-15,22.1,SGMI
+33,Exports to sales,12  Mar-15,22.1,SGMI
+34,Imports to sales,12  Mar-15,3.5,SGMI
+35,Exports (fob),12  Mar-15,3247.0,SGMI
+36,Imports (cif),12  Mar-15,510.0,SGMI
+37,Fx inflow,12  Mar-15,3247.0,SGMI
+38,Fx outflow,12  Mar-15,577.0,SGMI
+39,Net fx,12  Mar-15,2670.0,SGMI
+40,From Operations,12  Mar-15,1357.0,SGMI
+41,From Investments,12  Mar-15,-945.0,SGMI
+42,From Financial Activity,12  Mar-15,-406.0,SGMI
+43,Net Cashflow,12  Mar-15,6.0,SGMI
+44,Net Sales,12  Mar-16,15044.0,SGMI
+45,Other income,12  Mar-16,247.0,SGMI
+46,Total revenues,12  Mar-16,15291.0,SGMI
+47,Gross profit,12  Mar-16,2263.0,SGMI
+48,Depreciation,12  Mar-16,762.0,SGMI
+49,Interest,12  Mar-16,640.0,SGMI
+50,Profit before tax,12  Mar-16,1108.0,SGMI
+51,Minority Interest,12  Mar-16,0.0,SGMI
+52,Prior Period Items,12  Mar-16,0.0,SGMI
+53,Extraordinary Inc (Exp),12  Mar-16,-4.0,SGMI
+54,Tax,12  Mar-16,334.0,SGMI
+55,Profit after tax,12  Mar-16,770.0,SGMI
+56,Gross profit margin,12  Mar-16,15.0,SGMI
+57,Effective tax rate,12  Mar-16,30.1,SGMI
+58,Net profit margin,12  Mar-16,5.1,SGMI
+59,Current assets,12  Mar-16,6678.0,SGMI
+60,Current liabilities,12  Mar-16,5296.0,SGMI
+61,Net working cap to sales,12  Mar-16,9.2,SGMI
+62,Current ratio,12  Mar-16,1.3,SGMI
+63,Inventory Days,12  Mar-16,71.0,SGMI
+64,Debtors Days,12  Mar-16,66.0,SGMI
+65,Net fixed assets,12  Mar-16,5989.0,SGMI
+66,Share capital,12  Mar-16,394.0,SGMI
+67,"""Free"" reserves",12  Mar-16,3851.0,SGMI
+68,Net worth,12  Mar-16,4393.0,SGMI
+69,Long term debt,12  Mar-16,2813.0,SGMI
+70,Total assets,12  Mar-16,12923.0,SGMI
+71,Interest coverage,12  Mar-16,2.7,SGMI
+72,Debt to equity ratio,12  Mar-16,0.6,SGMI
+73,Sales to assets ratio,12  Mar-16,1.2,SGMI
+74,Return on assets,12  Mar-16,10.9,SGMI
+75,Return on equity,12  Mar-16,17.5,SGMI
+76,Return on capital,12  Mar-16,24.2,SGMI
+77,Exports to sales,12  Mar-16,26.8,SGMI
+78,Imports to sales,12  Mar-16,3.0,SGMI
+79,Exports (fob),12  Mar-16,4026.0,SGMI
+80,Imports (cif),12  Mar-16,457.0,SGMI
+81,Fx inflow,12  Mar-16,4026.0,SGMI
+82,Fx outflow,12  Mar-16,532.0,SGMI
+83,Net fx,12  Mar-16,3494.0,SGMI
+84,From Operations,12  Mar-16,1409.0,SGMI
+85,From Investments,12  Mar-16,-1069.0,SGMI
+86,From Financial Activity,12  Mar-16,-343.0,SGMI
+87,Net Cashflow,12  Mar-16,-3.0,SGMI
+88,Net Sales,12  Mar-17,15914.0,SGMI
+89,Other income,12  Mar-17,233.0,SGMI
+90,Total revenues,12  Mar-17,16148.0,SGMI
+91,Gross profit,12  Mar-17,1736.0,SGMI
+92,Depreciation,12  Mar-17,726.0,SGMI
+93,Interest,12  Mar-17,636.0,SGMI
+94,Profit before tax,12  Mar-17,608.0,SGMI
+95,Minority Interest,12  Mar-17,0.0,SGMI
+96,Prior Period Items,12  Mar-17,0.0,SGMI
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,SGMI
+98,Tax,12  Mar-17,78.0,SGMI
+99,Profit after tax,12  Mar-17,529.0,SGMI
+100,Gross profit margin,12  Mar-17,10.9,SGMI
+101,Effective tax rate,12  Mar-17,12.9,SGMI
+102,Net profit margin,12  Mar-17,3.3,SGMI
+103,Current assets,12  Mar-17,7388.0,SGMI
+104,Current liabilities,12  Mar-17,5652.0,SGMI
+105,Net working cap to sales,12  Mar-17,10.9,SGMI
+106,Current ratio,12  Mar-17,1.3,SGMI
+107,Inventory Days,12  Mar-17,83.0,SGMI
+108,Debtors Days,12  Mar-17,58.0,SGMI
+109,Net fixed assets,12  Mar-17,6656.0,SGMI
+110,Share capital,12  Mar-17,394.0,SGMI
+111,"""Free"" reserves",12  Mar-17,4525.0,SGMI
+112,Net worth,12  Mar-17,4919.0,SGMI
+113,Long term debt,12  Mar-17,3271.0,SGMI
+114,Total assets,12  Mar-17,14284.0,SGMI
+115,Interest coverage,12  Mar-17,2.0,SGMI
+116,Debt to equity ratio,12  Mar-17,0.7,SGMI
+117,Sales to assets ratio,12  Mar-17,1.1,SGMI
+118,Return on assets,12  Mar-17,8.2,SGMI
+119,Return on equity,12  Mar-17,10.8,SGMI
+120,Return on capital,12  Mar-17,15.2,SGMI
+121,Exports to sales,12  Mar-17,0.0,SGMI
+122,Imports to sales,12  Mar-17,0.0,SGMI
+123,Exports (fob),12  Mar-17,0.0,SGMI
+124,Imports (cif),12  Mar-17,0.0,SGMI
+125,Fx inflow,12  Mar-17,4026.0,SGMI
+126,Fx outflow,12  Mar-17,532.0,SGMI
+127,Net fx,12  Mar-17,3494.0,SGMI
+128,From Operations,12  Mar-17,1475.0,SGMI
+129,From Investments,12  Mar-17,-1312.0,SGMI
+130,From Financial Activity,12  Mar-17,-142.0,SGMI
+131,Net Cashflow,12  Mar-17,21.0,SGMI
+132,Net Sales,12  Mar-18,16373.0,SGMI
+133,Other income,12  Mar-18,252.0,SGMI
+134,Total revenues,12  Mar-18,16625.0,SGMI
+135,Gross profit,12  Mar-18,1247.0,SGMI
+136,Depreciation,12  Mar-18,771.0,SGMI
+137,Interest,12  Mar-18,628.0,SGMI
+138,Profit before tax,12  Mar-18,100.0,SGMI
+139,Minority Interest,12  Mar-18,0.0,SGMI
+140,Prior Period Items,12  Mar-18,0.0,SGMI
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,SGMI
+142,Tax,12  Mar-18,-186.0,SGMI
+143,Profit after tax,12  Mar-18,286.0,SGMI
+144,Gross profit margin,12  Mar-18,7.6,SGMI
+145,Effective tax rate,12  Mar-18,-186.2,SGMI
+146,Net profit margin,12  Mar-18,1.7,SGMI
+147,Current assets,12  Mar-18,8505.0,SGMI
+148,Current liabilities,12  Mar-18,6808.0,SGMI
+149,Net working cap to sales,12  Mar-18,10.4,SGMI
+150,Current ratio,12  Mar-18,1.2,SGMI
+151,Inventory Days,12  Mar-18,80.0,SGMI
+152,Debtors Days,12  Mar-18,71.0,SGMI
+153,Net fixed assets,12  Mar-18,7097.0,SGMI
+154,Share capital,12  Mar-18,394.0,SGMI
+155,"""Free"" reserves",12  Mar-18,4723.0,SGMI
+156,Net worth,12  Mar-18,5118.0,SGMI
+157,Long term debt,12  Mar-18,3443.0,SGMI
+158,Total assets,12  Mar-18,15798.0,SGMI
+159,Interest coverage,12  Mar-18,1.2,SGMI
+160,Debt to equity ratio,12  Mar-18,0.7,SGMI
+161,Sales to assets ratio,12  Mar-18,1.0,SGMI
+162,Return on assets,12  Mar-18,5.8,SGMI
+163,Return on equity,12  Mar-18,5.6,SGMI
+164,Return on capital,12  Mar-18,8.5,SGMI
+165,Exports to sales,12  Mar-18,26.9,SGMI
+166,Imports to sales,12  Mar-18,0.0,SGMI
+167,Exports (fob),12  Mar-18,4409.0,SGMI
+168,Imports (cif),12  Mar-18,0.0,SGMI
+169,Fx inflow,12  Mar-18,4343.0,SGMI
+170,Fx outflow,12  Mar-18,684.0,SGMI
+171,Net fx,12  Mar-18,3659.0,SGMI
+172,From Operations,12  Mar-18,953.0,SGMI
+173,From Investments,12  Mar-18,-1068.0,SGMI
+174,From Financial Activity,12  Mar-18,76.0,SGMI
+175,Net Cashflow,12  Mar-18,-40.0,SGMI
+176,Net Sales,12  Mar-19,18735.0,SGMI
+177,Other income,12  Mar-19,90.0,SGMI
+178,Total revenues,12  Mar-19,18825.0,SGMI
+179,Gross profit,12  Mar-19,1592.0,SGMI
+180,Depreciation,12  Mar-19,805.0,SGMI
+181,Interest,12  Mar-19,666.0,SGMI
+182,Profit before tax,12  Mar-19,211.0,SGMI
+183,Minority Interest,12  Mar-19,0.0,SGMI
+184,Prior Period Items,12  Mar-19,0.0,SGMI
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,SGMI
+186,Tax,12  Mar-19,79.0,SGMI
+187,Profit after tax,12  Mar-19,132.0,SGMI
+188,Gross profit margin,12  Mar-19,8.5,SGMI
+189,Effective tax rate,12  Mar-19,37.3,SGMI
+190,Net profit margin,12  Mar-19,0.7,SGMI
+191,Current assets,12  Mar-19,8498.0,SGMI
+192,Current liabilities,12  Mar-19,6825.0,SGMI
+193,Net working cap to sales,12  Mar-19,8.9,SGMI
+194,Current ratio,12  Mar-19,1.2,SGMI
+195,Inventory Days,12  Mar-19,70.0,SGMI
+196,Debtors Days,12  Mar-19,68.0,SGMI
+197,Net fixed assets,12  Mar-19,6602.0,SGMI
+198,Share capital,12  Mar-19,394.0,SGMI
+199,"""Free"" reserves",12  Mar-19,4813.0,SGMI
+200,Net worth,12  Mar-19,5207.0,SGMI
+201,Long term debt,12  Mar-19,2852.0,SGMI
+202,Total assets,12  Mar-19,15344.0,SGMI
+203,Interest coverage,12  Mar-19,1.3,SGMI
+204,Debt to equity ratio,12  Mar-19,0.5,SGMI
+205,Sales to assets ratio,12  Mar-19,1.2,SGMI
+206,Return on assets,12  Mar-19,5.2,SGMI
+207,Return on equity,12  Mar-19,2.5,SGMI
+208,Return on capital,12  Mar-19,10.9,SGMI
+209,Exports to sales,12  Mar-19,26.4,SGMI
+210,Imports to sales,12  Mar-19,0.0,SGMI
+211,Exports (fob),12  Mar-19,4947.0,SGMI
+212,Imports (cif),12  Mar-19,0.0,SGMI
+213,Fx inflow,12  Mar-19,4893.0,SGMI
+214,Fx outflow,12  Mar-19,447.0,SGMI
+215,Net fx,12  Mar-19,4446.0,SGMI
+216,From Operations,12  Mar-19,1740.0,SGMI
+217,From Investments,12  Mar-19,-237.0,SGMI
+218,From Financial Activity,12  Mar-19,-1513.0,SGMI
+219,Net Cashflow,12  Mar-19,-10.0,SGMI

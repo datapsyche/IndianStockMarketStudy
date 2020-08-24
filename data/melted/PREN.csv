@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1092.0,PREN
+1,Other income,12  Mar-15*,24.0,PREN
+2,Total revenues,12  Mar-15*,1115.0,PREN
+3,Gross profit,12  Mar-15*,-132.0,PREN
+4,Depreciation,12  Mar-15*,64.0,PREN
+5,Interest,12  Mar-15*,59.0,PREN
+6,Profit before tax,12  Mar-15*,-232.0,PREN
+7,Minority Interest,12  Mar-15*,-3.0,PREN
+8,Prior Period Items,12  Mar-15*,-14.0,PREN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PREN
+10,Tax,12  Mar-15*,-2.0,PREN
+11,Profit after tax,12  Mar-15*,-247.0,PREN
+12,Gross profit margin,12  Mar-15*,-12.1,PREN
+13,Effective tax rate,12  Mar-15*,0.6,PREN
+14,Net profit margin,12  Mar-15*,-22.6,PREN
+15,Current assets,12  Mar-15*,8312.0,PREN
+16,Current liabilities,12  Mar-15*,4348.0,PREN
+17,Net working cap to sales,12  Mar-15*,363.2,PREN
+18,Current ratio,12  Mar-15*,1.9,PREN
+19,Inventory Days,12  Mar-15*,1830.0,PREN
+20,Debtors Days,12  Mar-15*,795.0,PREN
+21,Net fixed assets,12  Mar-15*,3260.0,PREN
+22,Share capital,12  Mar-15*,699.0,PREN
+23,"""Free"" reserves",12  Mar-15*,5455.0,PREN
+24,Net worth,12  Mar-15*,6260.0,PREN
+25,Long term debt,12  Mar-15*,2260.0,PREN
+26,Total assets,12  Mar-15*,12931.0,PREN
+27,Interest coverage,12  Mar-15*,-2.9,PREN
+28,Debt to equity ratio,12  Mar-15*,0.4,PREN
+29,Sales to assets ratio,12  Mar-15*,0.1,PREN
+30,Return on assets,12  Mar-15*,-1.5,PREN
+31,Return on equity,12  Mar-15*,-3.9,PREN
+32,Return on capital,12  Mar-15*,-2.2,PREN
+33,Exports to sales,12  Mar-15*,0.0,PREN
+34,Imports to sales,12  Mar-15*,0.1,PREN
+35,Exports (fob),12  Mar-15*,0.0,PREN
+36,Imports (cif),12  Mar-15*,1.0,PREN
+37,Fx inflow,12  Mar-15*,0.0,PREN
+38,Fx outflow,12  Mar-15*,1.0,PREN
+39,Net fx,12  Mar-15*,-1.0,PREN
+40,From Operations,12  Mar-15*,18.0,PREN
+41,From Investments,12  Mar-15*,-214.0,PREN
+42,From Financial Activity,12  Mar-15*,150.0,PREN
+43,Net Cashflow,12  Mar-15*,-46.0,PREN
+44,Net Sales,12  Mar-16*,926.0,PREN
+45,Other income,12  Mar-16*,77.0,PREN
+46,Total revenues,12  Mar-16*,1002.0,PREN
+47,Gross profit,12  Mar-16*,-139.0,PREN
+48,Depreciation,12  Mar-16*,64.0,PREN
+49,Interest,12  Mar-16*,129.0,PREN
+50,Profit before tax,12  Mar-16*,-255.0,PREN
+51,Minority Interest,12  Mar-16*,11.0,PREN
+52,Prior Period Items,12  Mar-16*,-5.0,PREN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PREN
+54,Tax,12  Mar-16*,28.0,PREN
+55,Profit after tax,12  Mar-16*,-277.0,PREN
+56,Gross profit margin,12  Mar-16*,-15.0,PREN
+57,Effective tax rate,12  Mar-16*,-10.8,PREN
+58,Net profit margin,12  Mar-16*,-29.9,PREN
+59,Current assets,12  Mar-16*,8041.0,PREN
+60,Current liabilities,12  Mar-16*,4606.0,PREN
+61,Net working cap to sales,12  Mar-16*,371.1,PREN
+62,Current ratio,12  Mar-16*,1.7,PREN
+63,Inventory Days,12  Mar-16*,2106.0,PREN
+64,Debtors Days,12  Mar-16*,873.0,PREN
+65,Net fixed assets,12  Mar-16*,3359.0,PREN
+66,Share capital,12  Mar-16*,699.0,PREN
+67,"""Free"" reserves",12  Mar-16*,5157.0,PREN
+68,Net worth,12  Mar-16*,5962.0,PREN
+69,Long term debt,12  Mar-16*,2050.0,PREN
+70,Total assets,12  Mar-16*,12698.0,PREN
+71,Interest coverage,12  Mar-16*,-1.0,PREN
+72,Debt to equity ratio,12  Mar-16*,0.3,PREN
+73,Sales to assets ratio,12  Mar-16*,0.1,PREN
+74,Return on assets,12  Mar-16*,-1.2,PREN
+75,Return on equity,12  Mar-16*,-4.6,PREN
+76,Return on capital,12  Mar-16*,-1.5,PREN
+77,Exports to sales,12  Mar-16*,0.0,PREN
+78,Imports to sales,12  Mar-16*,0.0,PREN
+79,Exports (fob),12  Mar-16*,0.0,PREN
+80,Imports (cif),12  Mar-16*,0.0,PREN
+81,Fx inflow,12  Mar-16*,0.0,PREN
+82,Fx outflow,12  Mar-16*,0.0,PREN
+83,Net fx,12  Mar-16*,0.0,PREN
+84,From Operations,12  Mar-16*,60.0,PREN
+85,From Investments,12  Mar-16*,-171.0,PREN
+86,From Financial Activity,12  Mar-16*,118.0,PREN
+87,Net Cashflow,12  Mar-16*,7.0,PREN
+88,Net Sales,12  Mar-17*,686.0,PREN
+89,Other income,12  Mar-17*,46.0,PREN
+90,Total revenues,12  Mar-17*,732.0,PREN
+91,Gross profit,12  Mar-17*,-52.0,PREN
+92,Depreciation,12  Mar-17*,58.0,PREN
+93,Interest,12  Mar-17*,159.0,PREN
+94,Profit before tax,12  Mar-17*,-223.0,PREN
+95,Minority Interest,12  Mar-17*,4.0,PREN
+96,Prior Period Items,12  Mar-17*,0.0,PREN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PREN
+98,Tax,12  Mar-17*,20.0,PREN
+99,Profit after tax,12  Mar-17*,-240.0,PREN
+100,Gross profit margin,12  Mar-17*,-7.6,PREN
+101,Effective tax rate,12  Mar-17*,-9.2,PREN
+102,Net profit margin,12  Mar-17*,-34.9,PREN
+103,Current assets,12  Mar-17*,8096.0,PREN
+104,Current liabilities,12  Mar-17*,5013.0,PREN
+105,Net working cap to sales,12  Mar-17*,449.4,PREN
+106,Current ratio,12  Mar-17*,1.6,PREN
+107,Inventory Days,12  Mar-17*,2911.0,PREN
+108,Debtors Days,12  Mar-17*,1109.0,PREN
+109,Net fixed assets,12  Mar-17*,3596.0,PREN
+110,Share capital,12  Mar-17*,699.0,PREN
+111,"""Free"" reserves",12  Mar-17*,5502.0,PREN
+112,Net worth,12  Mar-17*,6201.0,PREN
+113,Long term debt,12  Mar-17*,1467.0,PREN
+114,Total assets,12  Mar-17*,12817.0,PREN
+115,Interest coverage,12  Mar-17*,-0.4,PREN
+116,Debt to equity ratio,12  Mar-17*,0.2,PREN
+117,Sales to assets ratio,12  Mar-17*,0.1,PREN
+118,Return on assets,12  Mar-17*,-0.6,PREN
+119,Return on equity,12  Mar-17*,-3.9,PREN
+120,Return on capital,12  Mar-17*,-0.8,PREN
+121,Exports to sales,12  Mar-17*,0.0,PREN
+122,Imports to sales,12  Mar-17*,0.0,PREN
+123,Exports (fob),12  Mar-17*,0.0,PREN
+124,Imports (cif),12  Mar-17*,0.0,PREN
+125,Fx inflow,12  Mar-17*,0.0,PREN
+126,Fx outflow,12  Mar-17*,0.0,PREN
+127,Net fx,12  Mar-17*,0.0,PREN
+128,From Operations,12  Mar-17*,562.0,PREN
+129,From Investments,12  Mar-17*,-195.0,PREN
+130,From Financial Activity,12  Mar-17*,-342.0,PREN
+131,Net Cashflow,12  Mar-17*,24.0,PREN
+132,Net Sales,12  Mar-18*,412.0,PREN
+133,Other income,12  Mar-18*,47.0,PREN
+134,Total revenues,12  Mar-18*,459.0,PREN
+135,Gross profit,12  Mar-18*,-19.0,PREN
+136,Depreciation,12  Mar-18*,51.0,PREN
+137,Interest,12  Mar-18*,186.0,PREN
+138,Profit before tax,12  Mar-18*,-209.0,PREN
+139,Minority Interest,12  Mar-18*,-24.0,PREN
+140,Prior Period Items,12  Mar-18*,0.0,PREN
+141,Extraordinary Inc (Exp),12  Mar-18*,18.0,PREN
+142,Tax,12  Mar-18*,8.0,PREN
+143,Profit after tax,12  Mar-18*,-222.0,PREN
+144,Gross profit margin,12  Mar-18*,-4.5,PREN
+145,Effective tax rate,12  Mar-18*,-3.6,PREN
+146,Net profit margin,12  Mar-18*,-53.9,PREN
+147,Current assets,12  Mar-18*,8217.0,PREN
+148,Current liabilities,12  Mar-18*,5466.0,PREN
+149,Net working cap to sales,12  Mar-18*,667.7,PREN
+150,Current ratio,12  Mar-18*,1.5,PREN
+151,Inventory Days,12  Mar-18*,5014.0,PREN
+152,Debtors Days,12  Mar-18*,1838.0,PREN
+153,Net fixed assets,12  Mar-18*,3750.0,PREN
+154,Share capital,12  Mar-18*,699.0,PREN
+155,"""Free"" reserves",12  Mar-18*,5279.0,PREN
+156,Net worth,12  Mar-18*,5979.0,PREN
+157,Long term debt,12  Mar-18*,1439.0,PREN
+158,Total assets,12  Mar-18*,13038.0,PREN
+159,Interest coverage,12  Mar-18*,-0.1,PREN
+160,Debt to equity ratio,12  Mar-18*,0.2,PREN
+161,Sales to assets ratio,12  Mar-18*,0.0,PREN
+162,Return on assets,12  Mar-18*,-0.3,PREN
+163,Return on equity,12  Mar-18*,-3.7,PREN
+164,Return on capital,12  Mar-18*,-0.4,PREN
+165,Exports to sales,12  Mar-18*,0.0,PREN
+166,Imports to sales,12  Mar-18*,0.0,PREN
+167,Exports (fob),12  Mar-18*,0.0,PREN
+168,Imports (cif),12  Mar-18*,0.0,PREN
+169,Fx inflow,12  Mar-18*,0.0,PREN
+170,Fx outflow,12  Mar-18*,0.0,PREN
+171,Net fx,12  Mar-18*,0.0,PREN
+172,From Operations,12  Mar-18*,330.0,PREN
+173,From Investments,12  Mar-18*,-203.0,PREN
+174,From Financial Activity,12  Mar-18*,-122.0,PREN
+175,Net Cashflow,12  Mar-18*,5.0,PREN
+176,Net Sales,12  Mar-19*,489.0,PREN
+177,Other income,12  Mar-19*,49.0,PREN
+178,Total revenues,12  Mar-19*,538.0,PREN
+179,Gross profit,12  Mar-19*,-1.0,PREN
+180,Depreciation,12  Mar-19*,43.0,PREN
+181,Interest,12  Mar-19*,155.0,PREN
+182,Profit before tax,12  Mar-19*,-149.0,PREN
+183,Minority Interest,12  Mar-19*,-5.0,PREN
+184,Prior Period Items,12  Mar-19*,0.0,PREN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PREN
+186,Tax,12  Mar-19*,-9.0,PREN
+187,Profit after tax,12  Mar-19*,-146.0,PREN
+188,Gross profit margin,12  Mar-19*,-0.2,PREN
+189,Effective tax rate,12  Mar-19*,6.0,PREN
+190,Net profit margin,12  Mar-19*,-29.8,PREN
+191,Current assets,12  Mar-19*,7820.0,PREN
+192,Current liabilities,12  Mar-19*,5469.0,PREN
+193,Net working cap to sales,12  Mar-19*,480.9,PREN
+194,Current ratio,12  Mar-19*,1.4,PREN
+195,Inventory Days,12  Mar-19*,4064.0,PREN
+196,Debtors Days,12  Mar-19*,1436.0,PREN
+197,Net fixed assets,12  Mar-19*,4013.0,PREN
+198,Share capital,12  Mar-19*,700.0,PREN
+199,"""Free"" reserves",12  Mar-19*,5093.0,PREN
+200,Net worth,12  Mar-19*,5793.0,PREN
+201,Long term debt,12  Mar-19*,1426.0,PREN
+202,Total assets,12  Mar-19*,12830.0,PREN
+203,Interest coverage,12  Mar-19*,0.0,PREN
+204,Debt to equity ratio,12  Mar-19*,0.2,PREN
+205,Sales to assets ratio,12  Mar-19*,0.0,PREN
+206,Return on assets,12  Mar-19*,0.1,PREN
+207,Return on equity,12  Mar-19*,-2.5,PREN
+208,Return on capital,12  Mar-19*,0.0,PREN
+209,Exports to sales,12  Mar-19*,0.0,PREN
+210,Imports to sales,12  Mar-19*,0.0,PREN
+211,Exports (fob),12  Mar-19*,0.0,PREN
+212,Imports (cif),12  Mar-19*,0.0,PREN
+213,Fx inflow,12  Mar-19*,0.0,PREN
+214,Fx outflow,12  Mar-19*,0.0,PREN
+215,Net fx,12  Mar-19*,0.0,PREN
+216,From Operations,12  Mar-19*,490.0,PREN
+217,From Investments,12  Mar-19*,-302.0,PREN
+218,From Financial Activity,12  Mar-19*,-190.0,PREN
+219,Net Cashflow,12  Mar-19*,-2.0,PREN

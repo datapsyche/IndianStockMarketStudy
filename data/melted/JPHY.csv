@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,28894.0,JPHY
+1,Other income,12  Mar-14*,241.0,JPHY
+2,Total revenues,12  Mar-14*,29135.0,JPHY
+3,Gross profit,12  Mar-14*,20498.0,JPHY
+4,Depreciation,12  Mar-14*,4991.0,JPHY
+5,Interest,12  Mar-14*,15238.0,JPHY
+6,Profit before tax,12  Mar-14*,511.0,JPHY
+7,Minority Interest,12  Mar-14*,-140.0,JPHY
+8,Prior Period Items,12  Mar-14*,-1.0,JPHY
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,JPHY
+10,Tax,12  Mar-14*,42.0,JPHY
+11,Profit after tax,12  Mar-14*,329.0,JPHY
+12,Gross profit margin,12  Mar-14*,70.9,JPHY
+13,Effective tax rate,12  Mar-14*,8.3,JPHY
+14,Net profit margin,12  Mar-14*,1.1,JPHY
+15,Current assets,12  Mar-14*,15210.0,JPHY
+16,Current liabilities,12  Mar-14*,38228.0,JPHY
+17,Net working cap to sales,12  Mar-14*,-79.7,JPHY
+18,Current ratio,12  Mar-14*,0.4,JPHY
+19,Inventory Days,12  Mar-14*,20.0,JPHY
+20,Debtors Days,12  Mar-14*,37.0,JPHY
+21,Net fixed assets,12  Mar-14*,331594.0,JPHY
+22,Share capital,12  Mar-14*,29380.0,JPHY
+23,"""Free"" reserves",12  Mar-14*,16773.0,JPHY
+24,Net worth,12  Mar-14*,63451.0,JPHY
+25,Long term debt,12  Mar-14*,242746.0,JPHY
+26,Total assets,12  Mar-14*,382283.0,JPHY
+27,Interest coverage,12  Mar-14*,1.0,JPHY
+28,Debt to equity ratio,12  Mar-14*,3.8,JPHY
+29,Sales to assets ratio,12  Mar-14*,0.1,JPHY
+30,Return on assets,12  Mar-14*,4.1,JPHY
+31,Return on equity,12  Mar-14*,0.5,JPHY
+32,Return on capital,12  Mar-14*,5.1,JPHY
+33,Exports to sales,12  Mar-14*,0.0,JPHY
+34,Imports to sales,12  Mar-14*,6.5,JPHY
+35,Exports (fob),12  Mar-14*,0.0,JPHY
+36,Imports (cif),12  Mar-14*,1867.0,JPHY
+37,Fx inflow,12  Mar-14*,31.0,JPHY
+38,Fx outflow,12  Mar-14*,2751.0,JPHY
+39,Net fx,12  Mar-14*,-2720.0,JPHY
+40,From Operations,12  Mar-14*,22488.0,JPHY
+41,From Investments,12  Mar-14*,-50592.0,JPHY
+42,From Financial Activity,12  Mar-14*,30840.0,JPHY
+43,Net Cashflow,12  Mar-14*,2736.0,JPHY
+44,Net Sales,12  Mar-15*,41396.0,JPHY
+45,Other income,12  Mar-15*,854.0,JPHY
+46,Total revenues,12  Mar-15*,42250.0,JPHY
+47,Gross profit,12  Mar-15*,27790.0,JPHY
+48,Depreciation,12  Mar-15*,5181.0,JPHY
+49,Interest,12  Mar-15*,21891.0,JPHY
+50,Profit before tax,12  Mar-15*,1572.0,JPHY
+51,Minority Interest,12  Mar-15*,-178.0,JPHY
+52,Prior Period Items,12  Mar-15*,45.0,JPHY
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,JPHY
+54,Tax,12  Mar-15*,-72.0,JPHY
+55,Profit after tax,12  Mar-15*,1511.0,JPHY
+56,Gross profit margin,12  Mar-15*,67.1,JPHY
+57,Effective tax rate,12  Mar-15*,-4.6,JPHY
+58,Net profit margin,12  Mar-15*,3.6,JPHY
+59,Current assets,12  Mar-15*,23493.0,JPHY
+60,Current liabilities,12  Mar-15*,78580.0,JPHY
+61,Net working cap to sales,12  Mar-15*,-133.1,JPHY
+62,Current ratio,12  Mar-15*,0.3,JPHY
+63,Inventory Days,12  Mar-15*,29.0,JPHY
+64,Debtors Days,12  Mar-15*,66.0,JPHY
+65,Net fixed assets,12  Mar-15*,368235.0,JPHY
+66,Share capital,12  Mar-15*,29380.0,JPHY
+67,"""Free"" reserves",12  Mar-15*,343723.0,JPHY
+68,Net worth,12  Mar-15*,373103.0,JPHY
+69,Long term debt,12  Mar-15*,263729.0,JPHY
+70,Total assets,12  Mar-15*,422492.0,JPHY
+71,Interest coverage,12  Mar-15*,1.1,JPHY
+72,Debt to equity ratio,12  Mar-15*,0.7,JPHY
+73,Sales to assets ratio,12  Mar-15*,0.1,JPHY
+74,Return on assets,12  Mar-15*,5.5,JPHY
+75,Return on equity,12  Mar-15*,0.4,JPHY
+76,Return on capital,12  Mar-15*,3.7,JPHY
+77,Exports to sales,12  Mar-15*,0.0,JPHY
+78,Imports to sales,12  Mar-15*,2.1,JPHY
+79,Exports (fob),12  Mar-15*,0.0,JPHY
+80,Imports (cif),12  Mar-15*,862.0,JPHY
+81,Fx inflow,12  Mar-15*,0.0,JPHY
+82,Fx outflow,12  Mar-15*,1959.0,JPHY
+83,Net fx,12  Mar-15*,-1959.0,JPHY
+84,From Operations,12  Mar-15*,26764.0,JPHY
+85,From Investments,12  Mar-15*,-48857.0,JPHY
+86,From Financial Activity,12  Mar-15*,20577.0,JPHY
+87,Net Cashflow,12  Mar-15*,-1516.0,JPHY
+88,Net Sales,12  Mar-16*,41133.0,JPHY
+89,Other income,12  Mar-16*,1227.0,JPHY
+90,Total revenues,12  Mar-16*,42360.0,JPHY
+91,Gross profit,12  Mar-16*,25500.0,JPHY
+92,Depreciation,12  Mar-16*,6349.0,JPHY
+93,Interest,12  Mar-16*,24757.0,JPHY
+94,Profit before tax,12  Mar-16*,-4379.0,JPHY
+95,Minority Interest,12  Mar-16*,0.0,JPHY
+96,Prior Period Items,12  Mar-16*,0.0,JPHY
+97,Extraordinary Inc (Exp),12  Mar-16*,-474.0,JPHY
+98,Tax,12  Mar-16*,-2418.0,JPHY
+99,Profit after tax,12  Mar-16*,-2435.0,JPHY
+100,Gross profit margin,12  Mar-16*,62.0,JPHY
+101,Effective tax rate,12  Mar-16*,55.2,JPHY
+102,Net profit margin,12  Mar-16*,-5.9,JPHY
+103,Current assets,12  Mar-16*,18121.0,JPHY
+104,Current liabilities,12  Mar-16*,53882.0,JPHY
+105,Net working cap to sales,12  Mar-16*,-86.9,JPHY
+106,Current ratio,12  Mar-16*,0.3,JPHY
+107,Inventory Days,12  Mar-16*,33.0,JPHY
+108,Debtors Days,12  Mar-16*,48.0,JPHY
+109,Net fixed assets,12  Mar-16*,315583.0,JPHY
+110,Share capital,12  Mar-16*,29380.0,JPHY
+111,"""Free"" reserves",12  Mar-16*,46763.0,JPHY
+112,Net worth,12  Mar-16*,76143.0,JPHY
+113,Long term debt,12  Mar-16*,215167.0,JPHY
+114,Total assets,12  Mar-16*,362732.0,JPHY
+115,Interest coverage,12  Mar-16*,0.8,JPHY
+116,Debt to equity ratio,12  Mar-16*,2.8,JPHY
+117,Sales to assets ratio,12  Mar-16*,0.1,JPHY
+118,Return on assets,12  Mar-16*,6.2,JPHY
+119,Return on equity,12  Mar-16*,-3.2,JPHY
+120,Return on capital,12  Mar-16*,6.8,JPHY
+121,Exports to sales,12  Mar-16*,0.0,JPHY
+122,Imports to sales,12  Mar-16*,0.1,JPHY
+123,Exports (fob),12  Mar-16*,0.0,JPHY
+124,Imports (cif),12  Mar-16*,30.0,JPHY
+125,Fx inflow,12  Mar-16*,2.0,JPHY
+126,Fx outflow,12  Mar-16*,1229.0,JPHY
+127,Net fx,12  Mar-16*,-1227.0,JPHY
+128,From Operations,12  Mar-16*,28162.0,JPHY
+129,From Investments,12  Mar-16*,64156.0,JPHY
+130,From Financial Activity,12  Mar-16*,-94937.0,JPHY
+131,Net Cashflow,12  Mar-16*,-2619.0,JPHY
+132,Net Sales,12  Mar-17*,46212.0,JPHY
+133,Other income,12  Mar-17*,871.0,JPHY
+134,Total revenues,12  Mar-17*,47083.0,JPHY
+135,Gross profit,12  Mar-17*,16863.0,JPHY
+136,Depreciation,12  Mar-17*,7712.0,JPHY
+137,Interest,12  Mar-17*,27496.0,JPHY
+138,Profit before tax,12  Mar-17*,-17475.0,JPHY
+139,Minority Interest,12  Mar-17*,0.0,JPHY
+140,Prior Period Items,12  Mar-17*,0.0,JPHY
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,JPHY
+142,Tax,12  Mar-17*,-4528.0,JPHY
+143,Profit after tax,12  Mar-17*,-12947.0,JPHY
+144,Gross profit margin,12  Mar-17*,36.5,JPHY
+145,Effective tax rate,12  Mar-17*,25.9,JPHY
+146,Net profit margin,12  Mar-17*,-28.0,JPHY
+147,Current assets,12  Mar-17*,20052.0,JPHY
+148,Current liabilities,12  Mar-17*,66795.0,JPHY
+149,Net working cap to sales,12  Mar-17*,-101.1,JPHY
+150,Current ratio,12  Mar-17*,0.3,JPHY
+151,Inventory Days,12  Mar-17*,25.0,JPHY
+152,Debtors Days,12  Mar-17*,81.0,JPHY
+153,Net fixed assets,12  Mar-17*,322847.0,JPHY
+154,Share capital,12  Mar-17*,59960.0,JPHY
+155,"""Free"" reserves",12  Mar-17*,33910.0,JPHY
+156,Net worth,12  Mar-17*,93870.0,JPHY
+157,Long term debt,12  Mar-17*,201031.0,JPHY
+158,Total assets,12  Mar-17*,378358.0,JPHY
+159,Interest coverage,12  Mar-17*,0.4,JPHY
+160,Debt to equity ratio,12  Mar-17*,2.1,JPHY
+161,Sales to assets ratio,12  Mar-17*,0.1,JPHY
+162,Return on assets,12  Mar-17*,3.8,JPHY
+163,Return on equity,12  Mar-17*,-13.8,JPHY
+164,Return on capital,12  Mar-17*,3.4,JPHY
+165,Exports to sales,12  Mar-17*,0.0,JPHY
+166,Imports to sales,12  Mar-17*,0.1,JPHY
+167,Exports (fob),12  Mar-17*,0.0,JPHY
+168,Imports (cif),12  Mar-17*,49.0,JPHY
+169,Fx inflow,12  Mar-17*,1.0,JPHY
+170,Fx outflow,12  Mar-17*,779.0,JPHY
+171,Net fx,12  Mar-17*,-777.0,JPHY
+172,From Operations,12  Mar-17*,14128.0,JPHY
+173,From Investments,12  Mar-17*,-8020.0,JPHY
+174,From Financial Activity,12  Mar-17*,-6715.0,JPHY
+175,Net Cashflow,12  Mar-17*,-607.0,JPHY
+176,Net Sales,12  Mar-18*,48769.0,JPHY
+177,Other income,12  Mar-18*,3542.0,JPHY
+178,Total revenues,12  Mar-18*,52311.0,JPHY
+179,Gross profit,12  Mar-18*,15249.0,JPHY
+180,Depreciation,12  Mar-18*,8189.0,JPHY
+181,Interest,12  Mar-18*,26138.0,JPHY
+182,Profit before tax,12  Mar-18*,-15536.0,JPHY
+183,Minority Interest,12  Mar-18*,0.0,JPHY
+184,Prior Period Items,12  Mar-18*,0.0,JPHY
+185,Extraordinary Inc (Exp),12  Mar-18*,-3133.0,JPHY
+186,Tax,12  Mar-18*,-1765.0,JPHY
+187,Profit after tax,12  Mar-18*,-16903.0,JPHY
+188,Gross profit margin,12  Mar-18*,31.3,JPHY
+189,Effective tax rate,12  Mar-18*,11.4,JPHY
+190,Net profit margin,12  Mar-18*,-34.7,JPHY
+191,Current assets,12  Mar-18*,20291.0,JPHY
+192,Current liabilities,12  Mar-18*,93632.0,JPHY
+193,Net working cap to sales,12  Mar-18*,-150.4,JPHY
+194,Current ratio,12  Mar-18*,0.2,JPHY
+195,Inventory Days,12  Mar-18*,17.0,JPHY
+196,Debtors Days,12  Mar-18*,73.0,JPHY
+197,Net fixed assets,12  Mar-18*,316550.0,JPHY
+198,Share capital,12  Mar-18*,59960.0,JPHY
+199,"""Free"" reserves",12  Mar-18*,17833.0,JPHY
+200,Net worth,12  Mar-18*,77793.0,JPHY
+201,Long term debt,12  Mar-18*,184386.0,JPHY
+202,Total assets,12  Mar-18*,371023.0,JPHY
+203,Interest coverage,12  Mar-18*,0.4,JPHY
+204,Debt to equity ratio,12  Mar-18*,2.4,JPHY
+205,Sales to assets ratio,12  Mar-18*,0.1,JPHY
+206,Return on assets,12  Mar-18*,2.5,JPHY
+207,Return on equity,12  Mar-18*,-21.7,JPHY
+208,Return on capital,12  Mar-18*,2.8,JPHY
+209,Exports to sales,12  Mar-18*,0.0,JPHY
+210,Imports to sales,12  Mar-18*,0.0,JPHY
+211,Exports (fob),12  Mar-18*,0.0,JPHY
+212,Imports (cif),12  Mar-18*,0.0,JPHY
+213,Fx inflow,12  Mar-18*,0.0,JPHY
+214,Fx outflow,12  Mar-18*,167.0,JPHY
+215,Net fx,12  Mar-18*,-166.0,JPHY
+216,From Operations,12  Mar-18*,17824.0,JPHY
+217,From Investments,12  Mar-18*,-2303.0,JPHY
+218,From Financial Activity,12  Mar-18*,-15432.0,JPHY
+219,Net Cashflow,12  Mar-18*,90.0,JPHY

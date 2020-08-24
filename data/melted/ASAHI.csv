@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,20986.0,ASAHI
+1,Other income,12  Mar-15*,170.0,ASAHI
+2,Total revenues,12  Mar-15*,21156.0,ASAHI
+3,Gross profit,12  Mar-15*,3056.0,ASAHI
+4,Depreciation,12  Mar-15*,1119.0,ASAHI
+5,Interest,12  Mar-15*,1596.0,ASAHI
+6,Profit before tax,12  Mar-15*,512.0,ASAHI
+7,Minority Interest,12  Mar-15*,19.0,ASAHI
+8,Prior Period Items,12  Mar-15*,20.0,ASAHI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ASAHI
+10,Tax,12  Mar-15*,131.0,ASAHI
+11,Profit after tax,12  Mar-15*,420.0,ASAHI
+12,Gross profit margin,12  Mar-15*,14.6,ASAHI
+13,Effective tax rate,12  Mar-15*,25.6,ASAHI
+14,Net profit margin,12  Mar-15*,2.0,ASAHI
+15,Current assets,12  Mar-15*,8984.0,ASAHI
+16,Current liabilities,12  Mar-15*,9748.0,ASAHI
+17,Net working cap to sales,12  Mar-15*,-3.6,ASAHI
+18,Current ratio,12  Mar-15*,0.9,ASAHI
+19,Inventory Days,12  Mar-15*,89.0,ASAHI
+20,Debtors Days,12  Mar-15*,46.0,ASAHI
+21,Net fixed assets,12  Mar-15*,11841.0,ASAHI
+22,Share capital,12  Mar-15*,243.0,ASAHI
+23,"""Free"" reserves",12  Mar-15*,2503.0,ASAHI
+24,Net worth,12  Mar-15*,2813.0,ASAHI
+25,Long term debt,12  Mar-15*,8110.0,ASAHI
+26,Total assets,12  Mar-15*,22605.0,ASAHI
+27,Interest coverage,12  Mar-15*,1.3,ASAHI
+28,Debt to equity ratio,12  Mar-15*,2.9,ASAHI
+29,Sales to assets ratio,12  Mar-15*,0.9,ASAHI
+30,Return on assets,12  Mar-15*,8.9,ASAHI
+31,Return on equity,12  Mar-15*,14.9,ASAHI
+32,Return on capital,12  Mar-15*,19.7,ASAHI
+33,Exports to sales,12  Mar-15*,1.8,ASAHI
+34,Imports to sales,12  Mar-15*,24.2,ASAHI
+35,Exports (fob),12  Mar-15*,381.0,ASAHI
+36,Imports (cif),12  Mar-15*,5087.0,ASAHI
+37,Fx inflow,12  Mar-15*,384.0,ASAHI
+38,Fx outflow,12  Mar-15*,5372.0,ASAHI
+39,Net fx,12  Mar-15*,-4988.0,ASAHI
+40,From Operations,12  Mar-15*,498.0,ASAHI
+41,From Investments,12  Mar-15*,-692.0,ASAHI
+42,From Financial Activity,12  Mar-15*,237.0,ASAHI
+43,Net Cashflow,12  Mar-15*,43.0,ASAHI
+44,Net Sales,12  Mar-16*,22089.0,ASAHI
+45,Other income,12  Mar-16*,55.0,ASAHI
+46,Total revenues,12  Mar-16*,22144.0,ASAHI
+47,Gross profit,12  Mar-16*,3921.0,ASAHI
+48,Depreciation,12  Mar-16*,1096.0,ASAHI
+49,Interest,12  Mar-16*,1439.0,ASAHI
+50,Profit before tax,12  Mar-16*,1441.0,ASAHI
+51,Minority Interest,12  Mar-16*,23.0,ASAHI
+52,Prior Period Items,12  Mar-16*,26.0,ASAHI
+53,Extraordinary Inc (Exp),12  Mar-16*,-20.0,ASAHI
+54,Tax,12  Mar-16*,600.0,ASAHI
+55,Profit after tax,12  Mar-16*,870.0,ASAHI
+56,Gross profit margin,12  Mar-16*,17.8,ASAHI
+57,Effective tax rate,12  Mar-16*,41.7,ASAHI
+58,Net profit margin,12  Mar-16*,3.9,ASAHI
+59,Current assets,12  Mar-16*,9156.0,ASAHI
+60,Current liabilities,12  Mar-16*,10285.0,ASAHI
+61,Net working cap to sales,12  Mar-16*,-5.1,ASAHI
+62,Current ratio,12  Mar-16*,0.9,ASAHI
+63,Inventory Days,12  Mar-16*,86.0,ASAHI
+64,Debtors Days,12  Mar-16*,44.0,ASAHI
+65,Net fixed assets,12  Mar-16*,15616.0,ASAHI
+66,Share capital,12  Mar-16*,243.0,ASAHI
+67,"""Free"" reserves",12  Mar-16*,7654.0,ASAHI
+68,Net worth,12  Mar-16*,7897.0,ASAHI
+69,Long term debt,12  Mar-16*,6654.0,ASAHI
+70,Total assets,12  Mar-16*,26842.0,ASAHI
+71,Interest coverage,12  Mar-16*,2.0,ASAHI
+72,Debt to equity ratio,12  Mar-16*,0.8,ASAHI
+73,Sales to assets ratio,12  Mar-16*,0.8,ASAHI
+74,Return on assets,12  Mar-16*,8.6,ASAHI
+75,Return on equity,12  Mar-16*,11.0,ASAHI
+76,Return on capital,12  Mar-16*,20.0,ASAHI
+77,Exports to sales,12  Mar-16*,1.1,ASAHI
+78,Imports to sales,12  Mar-16*,25.4,ASAHI
+79,Exports (fob),12  Mar-16*,237.0,ASAHI
+80,Imports (cif),12  Mar-16*,5608.0,ASAHI
+81,Fx inflow,12  Mar-16*,239.0,ASAHI
+82,Fx outflow,12  Mar-16*,5829.0,ASAHI
+83,Net fx,12  Mar-16*,-5590.0,ASAHI
+84,From Operations,12  Mar-16*,2302.0,ASAHI
+85,From Investments,12  Mar-16*,-1239.0,ASAHI
+86,From Financial Activity,12  Mar-16*,-996.0,ASAHI
+87,Net Cashflow,12  Mar-16*,67.0,ASAHI
+88,Net Sales,12  Mar-17*,23451.0,ASAHI
+89,Other income,12  Mar-17*,286.0,ASAHI
+90,Total revenues,12  Mar-17*,23737.0,ASAHI
+91,Gross profit,12  Mar-17*,4190.0,ASAHI
+92,Depreciation,12  Mar-17*,792.0,ASAHI
+93,Interest,12  Mar-17*,1442.0,ASAHI
+94,Profit before tax,12  Mar-17*,2242.0,ASAHI
+95,Minority Interest,12  Mar-17*,-2.0,ASAHI
+96,Prior Period Items,12  Mar-17*,0.0,ASAHI
+97,Extraordinary Inc (Exp),12  Mar-17*,-16.0,ASAHI
+98,Tax,12  Mar-17*,730.0,ASAHI
+99,Profit after tax,12  Mar-17*,1496.0,ASAHI
+100,Gross profit margin,12  Mar-17*,17.9,ASAHI
+101,Effective tax rate,12  Mar-17*,32.5,ASAHI
+102,Net profit margin,12  Mar-17*,6.4,ASAHI
+103,Current assets,12  Mar-17*,9581.0,ASAHI
+104,Current liabilities,12  Mar-17*,9276.0,ASAHI
+105,Net working cap to sales,12  Mar-17*,1.3,ASAHI
+106,Current ratio,12  Mar-17*,1.0,ASAHI
+107,Inventory Days,12  Mar-17*,91.0,ASAHI
+108,Debtors Days,12  Mar-17*,38.0,ASAHI
+109,Net fixed assets,12  Mar-17*,16738.0,ASAHI
+110,Share capital,12  Mar-17*,243.0,ASAHI
+111,"""Free"" reserves",12  Mar-17*,9024.0,ASAHI
+112,Net worth,12  Mar-17*,9267.0,ASAHI
+113,Long term debt,12  Mar-17*,7781.0,ASAHI
+114,Total assets,12  Mar-17*,28304.0,ASAHI
+115,Interest coverage,12  Mar-17*,2.6,ASAHI
+116,Debt to equity ratio,12  Mar-17*,0.8,ASAHI
+117,Sales to assets ratio,12  Mar-17*,0.8,ASAHI
+118,Return on assets,12  Mar-17*,10.4,ASAHI
+119,Return on equity,12  Mar-17*,16.1,ASAHI
+120,Return on capital,12  Mar-17*,21.5,ASAHI
+121,Exports to sales,12  Mar-17*,0.1,ASAHI
+122,Imports to sales,12  Mar-17*,0.0,ASAHI
+123,Exports (fob),12  Mar-17*,21.0,ASAHI
+124,Imports (cif),12  Mar-17*,0.0,ASAHI
+125,Fx inflow,12  Mar-17*,136.0,ASAHI
+126,Fx outflow,12  Mar-17*,7550.0,ASAHI
+127,Net fx,12  Mar-17*,-7413.0,ASAHI
+128,From Operations,12  Mar-17*,4180.0,ASAHI
+129,From Investments,12  Mar-17*,-1901.0,ASAHI
+130,From Financial Activity,12  Mar-17*,-2494.0,ASAHI
+131,Net Cashflow,12  Mar-17*,-215.0,ASAHI
+132,Net Sales,12  Mar-18*,26330.0,ASAHI
+133,Other income,12  Mar-18*,243.0,ASAHI
+134,Total revenues,12  Mar-18*,26573.0,ASAHI
+135,Gross profit,12  Mar-18*,4677.0,ASAHI
+136,Depreciation,12  Mar-18*,948.0,ASAHI
+137,Interest,12  Mar-18*,1237.0,ASAHI
+138,Profit before tax,12  Mar-18*,2735.0,ASAHI
+139,Minority Interest,12  Mar-18*,17.0,ASAHI
+140,Prior Period Items,12  Mar-18*,0.0,ASAHI
+141,Extraordinary Inc (Exp),12  Mar-18*,-49.0,ASAHI
+142,Tax,12  Mar-18*,930.0,ASAHI
+143,Profit after tax,12  Mar-18*,1774.0,ASAHI
+144,Gross profit margin,12  Mar-18*,17.8,ASAHI
+145,Effective tax rate,12  Mar-18*,34.0,ASAHI
+146,Net profit margin,12  Mar-18*,6.7,ASAHI
+147,Current assets,12  Mar-18*,10846.0,ASAHI
+148,Current liabilities,12  Mar-18*,11894.0,ASAHI
+149,Net working cap to sales,12  Mar-18*,-4.0,ASAHI
+150,Current ratio,12  Mar-18*,0.9,ASAHI
+151,Inventory Days,12  Mar-18*,85.0,ASAHI
+152,Debtors Days,12  Mar-18*,45.0,ASAHI
+153,Net fixed assets,12  Mar-18*,20212.0,ASAHI
+154,Share capital,12  Mar-18*,243.0,ASAHI
+155,"""Free"" reserves",12  Mar-18*,10513.0,ASAHI
+156,Net worth,12  Mar-18*,10756.0,ASAHI
+157,Long term debt,12  Mar-18*,9109.0,ASAHI
+158,Total assets,12  Mar-18*,32814.0,ASAHI
+159,Interest coverage,12  Mar-18*,3.2,ASAHI
+160,Debt to equity ratio,12  Mar-18*,0.8,ASAHI
+161,Sales to assets ratio,12  Mar-18*,0.8,ASAHI
+162,Return on assets,12  Mar-18*,9.2,ASAHI
+163,Return on equity,12  Mar-18*,16.5,ASAHI
+164,Return on capital,12  Mar-18*,19.8,ASAHI
+165,Exports to sales,12  Mar-18*,0.0,ASAHI
+166,Imports to sales,12  Mar-18*,0.0,ASAHI
+167,Exports (fob),12  Mar-18*,0.0,ASAHI
+168,Imports (cif),12  Mar-18*,0.0,ASAHI
+169,Fx inflow,12  Mar-18*,100.0,ASAHI
+170,Fx outflow,12  Mar-18*,7897.0,ASAHI
+171,Net fx,12  Mar-18*,-7798.0,ASAHI
+172,From Operations,12  Mar-18*,4493.0,ASAHI
+173,From Investments,12  Mar-18*,-4475.0,ASAHI
+174,From Financial Activity,12  Mar-18*,-12.0,ASAHI
+175,Net Cashflow,12  Mar-18*,5.0,ASAHI
+176,Net Sales,12  Mar-19*,29130.0,ASAHI
+177,Other income,12  Mar-19*,189.0,ASAHI
+178,Total revenues,12  Mar-19*,29319.0,ASAHI
+179,Gross profit,12  Mar-19*,5179.0,ASAHI
+180,Depreciation,12  Mar-19*,1185.0,ASAHI
+181,Interest,12  Mar-19*,1352.0,ASAHI
+182,Profit before tax,12  Mar-19*,2830.0,ASAHI
+183,Minority Interest,12  Mar-19*,19.0,ASAHI
+184,Prior Period Items,12  Mar-19*,0.0,ASAHI
+185,Extraordinary Inc (Exp),12  Mar-19*,-26.0,ASAHI
+186,Tax,12  Mar-19*,-921.0,ASAHI
+187,Profit after tax,12  Mar-19*,3744.0,ASAHI
+188,Gross profit margin,12  Mar-19*,17.8,ASAHI
+189,Effective tax rate,12  Mar-19*,-32.5,ASAHI
+190,Net profit margin,12  Mar-19*,12.9,ASAHI
+191,Current assets,12  Mar-19*,11266.0,ASAHI
+192,Current liabilities,12  Mar-19*,13553.0,ASAHI
+193,Net working cap to sales,12  Mar-19*,-7.8,ASAHI
+194,Current ratio,12  Mar-19*,0.8,ASAHI
+195,Inventory Days,12  Mar-19*,87.0,ASAHI
+196,Debtors Days,12  Mar-19*,34.0,ASAHI
+197,Net fixed assets,12  Mar-19*,24090.0,ASAHI
+198,Share capital,12  Mar-19*,243.0,ASAHI
+199,"""Free"" reserves",12  Mar-19*,11914.0,ASAHI
+200,Net worth,12  Mar-19*,12157.0,ASAHI
+201,Long term debt,12  Mar-19*,10993.0,ASAHI
+202,Total assets,12  Mar-19*,36895.0,ASAHI
+203,Interest coverage,12  Mar-19*,3.1,ASAHI
+204,Debt to equity ratio,12  Mar-19*,0.9,ASAHI
+205,Sales to assets ratio,12  Mar-19*,0.8,ASAHI
+206,Return on assets,12  Mar-19*,13.8,ASAHI
+207,Return on equity,12  Mar-19*,30.8,ASAHI
+208,Return on capital,12  Mar-19*,18.0,ASAHI
+209,Exports to sales,12  Mar-19*,0.0,ASAHI
+210,Imports to sales,12  Mar-19*,0.0,ASAHI
+211,Exports (fob),12  Mar-19*,0.0,ASAHI
+212,Imports (cif),12  Mar-19*,0.0,ASAHI
+213,Fx inflow,12  Mar-19*,310.0,ASAHI
+214,Fx outflow,12  Mar-19*,9215.0,ASAHI
+215,Net fx,12  Mar-19*,-8905.0,ASAHI
+216,From Operations,12  Mar-19*,4238.0,ASAHI
+217,From Investments,12  Mar-19*,-5118.0,ASAHI
+218,From Financial Activity,12  Mar-19*,908.0,ASAHI
+219,Net Cashflow,12  Mar-19*,28.0,ASAHI

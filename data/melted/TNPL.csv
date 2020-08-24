@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,9112.0,TNPL
+1,Other income,12  Mar-15,276.0,TNPL
+2,Total revenues,12  Mar-15,9387.0,TNPL
+3,Gross profit,12  Mar-15,1239.0,TNPL
+4,Depreciation,12  Mar-15,714.0,TNPL
+5,Interest,12  Mar-15,122.0,TNPL
+6,Profit before tax,12  Mar-15,678.0,TNPL
+7,Minority Interest,12  Mar-15,0.0,TNPL
+8,Prior Period Items,12  Mar-15,0.0,TNPL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,TNPL
+10,Tax,12  Mar-15,232.0,TNPL
+11,Profit after tax,12  Mar-15,446.0,TNPL
+12,Gross profit margin,12  Mar-15,13.6,TNPL
+13,Effective tax rate,12  Mar-15,34.3,TNPL
+14,Net profit margin,12  Mar-15,4.9,TNPL
+15,Current assets,12  Mar-15,1274.0,TNPL
+16,Current liabilities,12  Mar-15,1748.0,TNPL
+17,Net working cap to sales,12  Mar-15,-5.2,TNPL
+18,Current ratio,12  Mar-15,0.7,TNPL
+19,Inventory Days,12  Mar-15,27.0,TNPL
+20,Debtors Days,12  Mar-15,14.0,TNPL
+21,Net fixed assets,12  Mar-15,6977.0,TNPL
+22,Share capital,12  Mar-15,1048.0,TNPL
+23,"""Free"" reserves",12  Mar-15,4442.0,TNPL
+24,Net worth,12  Mar-15,5490.0,TNPL
+25,Long term debt,12  Mar-15,3.0,TNPL
+26,Total assets,12  Mar-15,8708.0,TNPL
+27,Interest coverage,12  Mar-15,6.6,TNPL
+28,Debt to equity ratio,12  Mar-15,0.0,TNPL
+29,Sales to assets ratio,12  Mar-15,1.0,TNPL
+30,Return on assets,12  Mar-15,6.5,TNPL
+31,Return on equity,12  Mar-15,8.1,TNPL
+32,Return on capital,12  Mar-15,14.6,TNPL
+33,Exports to sales,12  Mar-15,33.3,TNPL
+34,Imports to sales,12  Mar-15,3.7,TNPL
+35,Exports (fob),12  Mar-15,3037.0,TNPL
+36,Imports (cif),12  Mar-15,341.0,TNPL
+37,Fx inflow,12  Mar-15,3037.0,TNPL
+38,Fx outflow,12  Mar-15,361.0,TNPL
+39,Net fx,12  Mar-15,2676.0,TNPL
+40,From Operations,12  Mar-15,1701.0,TNPL
+41,From Investments,12  Mar-15,-355.0,TNPL
+42,From Financial Activity,12  Mar-15,-1337.0,TNPL
+43,Net Cashflow,12  Mar-15,8.0,TNPL
+44,Net Sales,12  Mar-16,8339.0,TNPL
+45,Other income,12  Mar-16,181.0,TNPL
+46,Total revenues,12  Mar-16,8519.0,TNPL
+47,Gross profit,12  Mar-16,1660.0,TNPL
+48,Depreciation,12  Mar-16,728.0,TNPL
+49,Interest,12  Mar-16,61.0,TNPL
+50,Profit before tax,12  Mar-16,1052.0,TNPL
+51,Minority Interest,12  Mar-16,0.0,TNPL
+52,Prior Period Items,12  Mar-16,0.0,TNPL
+53,Extraordinary Inc (Exp),12  Mar-16,79.0,TNPL
+54,Tax,12  Mar-16,397.0,TNPL
+55,Profit after tax,12  Mar-16,734.0,TNPL
+56,Gross profit margin,12  Mar-16,19.9,TNPL
+57,Effective tax rate,12  Mar-16,37.8,TNPL
+58,Net profit margin,12  Mar-16,8.8,TNPL
+59,Current assets,12  Mar-16,1714.0,TNPL
+60,Current liabilities,12  Mar-16,1170.0,TNPL
+61,Net working cap to sales,12  Mar-16,6.5,TNPL
+62,Current ratio,12  Mar-16,1.5,TNPL
+63,Inventory Days,12  Mar-16,40.0,TNPL
+64,Debtors Days,12  Mar-16,22.0,TNPL
+65,Net fixed assets,12  Mar-16,6643.0,TNPL
+66,Share capital,12  Mar-16,1048.0,TNPL
+67,"""Free"" reserves",12  Mar-16,4923.0,TNPL
+68,Net worth,12  Mar-16,5971.0,TNPL
+69,Long term debt,12  Mar-16,0.0,TNPL
+70,Total assets,12  Mar-16,8579.0,TNPL
+71,Interest coverage,12  Mar-16,18.4,TNPL
+72,Debt to equity ratio,12  Mar-16,0.0,TNPL
+73,Sales to assets ratio,12  Mar-16,1.0,TNPL
+74,Return on assets,12  Mar-16,9.3,TNPL
+75,Return on equity,12  Mar-16,12.3,TNPL
+76,Return on capital,12  Mar-16,20.0,TNPL
+77,Exports to sales,12  Mar-16,24.5,TNPL
+78,Imports to sales,12  Mar-16,5.9,TNPL
+79,Exports (fob),12  Mar-16,2041.0,TNPL
+80,Imports (cif),12  Mar-16,489.0,TNPL
+81,Fx inflow,12  Mar-16,2041.0,TNPL
+82,Fx outflow,12  Mar-16,519.0,TNPL
+83,Net fx,12  Mar-16,1522.0,TNPL
+84,From Operations,12  Mar-16,1085.0,TNPL
+85,From Investments,12  Mar-16,-305.0,TNPL
+86,From Financial Activity,12  Mar-16,-751.0,TNPL
+87,Net Cashflow,12  Mar-16,28.0,TNPL
+88,Net Sales,12  Mar-17,8315.0,TNPL
+89,Other income,12  Mar-17,188.0,TNPL
+90,Total revenues,12  Mar-17,8503.0,TNPL
+91,Gross profit,12  Mar-17,907.0,TNPL
+92,Depreciation,12  Mar-17,658.0,TNPL
+93,Interest,12  Mar-17,31.0,TNPL
+94,Profit before tax,12  Mar-17,407.0,TNPL
+95,Minority Interest,12  Mar-17,0.0,TNPL
+96,Prior Period Items,12  Mar-17,0.0,TNPL
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,TNPL
+98,Tax,12  Mar-17,128.0,TNPL
+99,Profit after tax,12  Mar-17,279.0,TNPL
+100,Gross profit margin,12  Mar-17,10.9,TNPL
+101,Effective tax rate,12  Mar-17,31.5,TNPL
+102,Net profit margin,12  Mar-17,3.4,TNPL
+103,Current assets,12  Mar-17,2306.0,TNPL
+104,Current liabilities,12  Mar-17,1013.0,TNPL
+105,Net working cap to sales,12  Mar-17,15.5,TNPL
+106,Current ratio,12  Mar-17,2.3,TNPL
+107,Inventory Days,12  Mar-17,28.0,TNPL
+108,Debtors Days,12  Mar-17,36.0,TNPL
+109,Net fixed assets,12  Mar-17,6280.0,TNPL
+110,Share capital,12  Mar-17,1048.0,TNPL
+111,"""Free"" reserves",12  Mar-17,5175.0,TNPL
+112,Net worth,12  Mar-17,6223.0,TNPL
+113,Long term debt,12  Mar-17,0.0,TNPL
+114,Total assets,12  Mar-17,8738.0,TNPL
+115,Interest coverage,12  Mar-17,14.1,TNPL
+116,Debt to equity ratio,12  Mar-17,0.0,TNPL
+117,Sales to assets ratio,12  Mar-17,1.0,TNPL
+118,Return on assets,12  Mar-17,3.5,TNPL
+119,Return on equity,12  Mar-17,4.5,TNPL
+120,Return on capital,12  Mar-17,7.0,TNPL
+121,Exports to sales,12  Mar-17,33.6,TNPL
+122,Imports to sales,12  Mar-17,3.9,TNPL
+123,Exports (fob),12  Mar-17,2792.0,TNPL
+124,Imports (cif),12  Mar-17,321.0,TNPL
+125,Fx inflow,12  Mar-17,2792.0,TNPL
+126,Fx outflow,12  Mar-17,371.0,TNPL
+127,Net fx,12  Mar-17,2420.0,TNPL
+128,From Operations,12  Mar-17,906.0,TNPL
+129,From Investments,12  Mar-17,-569.0,TNPL
+130,From Financial Activity,12  Mar-17,-283.0,TNPL
+131,Net Cashflow,12  Mar-17,55.0,TNPL
+132,Net Sales,12  Mar-18,19187.0,TNPL
+133,Other income,12  Mar-18,165.0,TNPL
+134,Total revenues,12  Mar-18,19352.0,TNPL
+135,Gross profit,12  Mar-18,1640.0,TNPL
+136,Depreciation,12  Mar-18,619.0,TNPL
+137,Interest,12  Mar-18,33.0,TNPL
+138,Profit before tax,12  Mar-18,1152.0,TNPL
+139,Minority Interest,12  Mar-18,0.0,TNPL
+140,Prior Period Items,12  Mar-18,0.0,TNPL
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,TNPL
+142,Tax,12  Mar-18,421.0,TNPL
+143,Profit after tax,12  Mar-18,732.0,TNPL
+144,Gross profit margin,12  Mar-18,8.5,TNPL
+145,Effective tax rate,12  Mar-18,36.5,TNPL
+146,Net profit margin,12  Mar-18,3.8,TNPL
+147,Current assets,12  Mar-18,4798.0,TNPL
+148,Current liabilities,12  Mar-18,2880.0,TNPL
+149,Net working cap to sales,12  Mar-18,10.0,TNPL
+150,Current ratio,12  Mar-18,1.7,TNPL
+151,Inventory Days,12  Mar-18,37.0,TNPL
+152,Debtors Days,12  Mar-18,19.0,TNPL
+153,Net fixed assets,12  Mar-18,6105.0,TNPL
+154,Share capital,12  Mar-18,1048.0,TNPL
+155,"""Free"" reserves",12  Mar-18,5719.0,TNPL
+156,Net worth,12  Mar-18,6767.0,TNPL
+157,Long term debt,12  Mar-18,0.0,TNPL
+158,Total assets,12  Mar-18,11072.0,TNPL
+159,Interest coverage,12  Mar-18,35.9,TNPL
+160,Debt to equity ratio,12  Mar-18,0.0,TNPL
+161,Sales to assets ratio,12  Mar-18,1.7,TNPL
+162,Return on assets,12  Mar-18,6.9,TNPL
+163,Return on equity,12  Mar-18,10.8,TNPL
+164,Return on capital,12  Mar-18,17.5,TNPL
+165,Exports to sales,12  Mar-18,19.4,TNPL
+166,Imports to sales,12  Mar-18,4.0,TNPL
+167,Exports (fob),12  Mar-18,3727.0,TNPL
+168,Imports (cif),12  Mar-18,777.0,TNPL
+169,Fx inflow,12  Mar-18,3727.0,TNPL
+170,Fx outflow,12  Mar-18,809.0,TNPL
+171,Net fx,12  Mar-18,2918.0,TNPL
+172,From Operations,12  Mar-18,1084.0,TNPL
+173,From Investments,12  Mar-18,-507.0,TNPL
+174,From Financial Activity,12  Mar-18,-235.0,TNPL
+175,Net Cashflow,12  Mar-18,343.0,TNPL
+176,Net Sales,12  Mar-19,25845.0,TNPL
+177,Other income,12  Mar-19,292.0,TNPL
+178,Total revenues,12  Mar-19,26137.0,TNPL
+179,Gross profit,12  Mar-19,1333.0,TNPL
+180,Depreciation,12  Mar-19,635.0,TNPL
+181,Interest,12  Mar-19,72.0,TNPL
+182,Profit before tax,12  Mar-19,918.0,TNPL
+183,Minority Interest,12  Mar-19,0.0,TNPL
+184,Prior Period Items,12  Mar-19,0.0,TNPL
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,TNPL
+186,Tax,12  Mar-19,338.0,TNPL
+187,Profit after tax,12  Mar-19,580.0,TNPL
+188,Gross profit margin,12  Mar-19,5.2,TNPL
+189,Effective tax rate,12  Mar-19,36.8,TNPL
+190,Net profit margin,12  Mar-19,2.2,TNPL
+191,Current assets,12  Mar-19,5482.0,TNPL
+192,Current liabilities,12  Mar-19,3287.0,TNPL
+193,Net working cap to sales,12  Mar-19,8.5,TNPL
+194,Current ratio,12  Mar-19,1.7,TNPL
+195,Inventory Days,12  Mar-19,30.0,TNPL
+196,Debtors Days,12  Mar-19,18.0,TNPL
+197,Net fixed assets,12  Mar-19,6059.0,TNPL
+198,Share capital,12  Mar-19,1048.0,TNPL
+199,"""Free"" reserves",12  Mar-19,6063.0,TNPL
+200,Net worth,12  Mar-19,7111.0,TNPL
+201,Long term debt,12  Mar-19,0.0,TNPL
+202,Total assets,12  Mar-19,11763.0,TNPL
+203,Interest coverage,12  Mar-19,13.8,TNPL
+204,Debt to equity ratio,12  Mar-19,0.0,TNPL
+205,Sales to assets ratio,12  Mar-19,2.2,TNPL
+206,Return on assets,12  Mar-19,5.5,TNPL
+207,Return on equity,12  Mar-19,8.2,TNPL
+208,Return on capital,12  Mar-19,13.9,TNPL
+209,Exports to sales,12  Mar-19,13.6,TNPL
+210,Imports to sales,12  Mar-19,7.9,TNPL
+211,Exports (fob),12  Mar-19,3516.0,TNPL
+212,Imports (cif),12  Mar-19,2039.0,TNPL
+213,Fx inflow,12  Mar-19,3516.0,TNPL
+214,Fx outflow,12  Mar-19,2076.0,TNPL
+215,Net fx,12  Mar-19,1440.0,TNPL
+216,From Operations,12  Mar-19,1245.0,TNPL
+217,From Investments,12  Mar-19,-1041.0,TNPL
+218,From Financial Activity,12  Mar-19,-324.0,TNPL
+219,Net Cashflow,12  Mar-19,-120.0,TNPL

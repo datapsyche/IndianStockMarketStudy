@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,8675.0,EMER
+1,Other income,12  Dec-14,203.0,EMER
+2,Total revenues,12  Dec-14,8878.0,EMER
+3,Gross profit,12  Dec-14,589.0,EMER
+4,Depreciation,12  Dec-14,127.0,EMER
+5,Interest,12  Dec-14,0.0,EMER
+6,Profit before tax,12  Dec-14,666.0,EMER
+7,Minority Interest,12  Dec-14,0.0,EMER
+8,Prior Period Items,12  Dec-14,0.0,EMER
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,EMER
+10,Tax,12  Dec-14,233.0,EMER
+11,Profit after tax,12  Dec-14,432.0,EMER
+12,Gross profit margin,12  Dec-14,6.8,EMER
+13,Effective tax rate,12  Dec-14,35.1,EMER
+14,Net profit margin,12  Dec-14,5.0,EMER
+15,Current assets,12  Dec-14,4986,EMER
+16,Current liabilities,12  Dec-14,1352,EMER
+17,Net working cap to sales,12  Dec-14,41.9,EMER
+18,Current ratio,12  Dec-14,3.7,EMER
+19,Inventory Days,12  Dec-14,75,EMER
+20,Debtors Days,12  Dec-14,44,EMER
+21,Net fixed assets,12  Dec-14,1373,EMER
+22,Share capital,12  Dec-14,166,EMER
+23,"""Free"" reserves",12  Dec-14,5374,EMER
+24,Net worth,12  Dec-14,5543,EMER
+25,Long term debt,12  Dec-14,0,EMER
+26,Total assets,12  Dec-14,7082,EMER
+27,Interest coverage,12  Dec-14,NM,EMER
+28,Debt to equity ratio,12  Dec-14,0,EMER
+29,Sales to assets ratio,12  Dec-14,1.2,EMER
+30,Return on assets,12  Dec-14,6.1,EMER
+31,Return on equity,12  Dec-14,7.8,EMER
+32,Return on capital,12  Dec-14,12.0,EMER
+33,Exports to sales,12  Dec-14,7.8,EMER
+34,Imports to sales,12  Dec-14,22.8,EMER
+35,Exports (fob),12  Dec-14,677,EMER
+36,Imports (cif),12  Dec-14,1981,EMER
+37,Fx inflow,12  Dec-14,824,EMER
+38,Fx outflow,12  Dec-14,2311,EMER
+39,Net fx,12  Dec-14,-1487,EMER
+40,From Operations,12  Dec-14,50,EMER
+41,From Investments,12  Dec-14,106,EMER
+42,From Financial Activity,12  Dec-14,-166,EMER
+43,Net Cashflow,12  Dec-14,-11,EMER
+44,Net Sales,12  Dec-15,9395.0,EMER
+45,Other income,12  Dec-15,233.0,EMER
+46,Total revenues,12  Dec-15,9628.0,EMER
+47,Gross profit,12  Dec-15,834.0,EMER
+48,Depreciation,12  Dec-15,234.0,EMER
+49,Interest,12  Dec-15,0.0,EMER
+50,Profit before tax,12  Dec-15,833.0,EMER
+51,Minority Interest,12  Dec-15,0.0,EMER
+52,Prior Period Items,12  Dec-15,0.0,EMER
+53,Extraordinary Inc (Exp),12  Dec-15,0.0,EMER
+54,Tax,12  Dec-15,298.0,EMER
+55,Profit after tax,12  Dec-15,536.0,EMER
+56,Gross profit margin,12  Dec-15,8.9,EMER
+57,Effective tax rate,12  Dec-15,35.7,EMER
+58,Net profit margin,12  Dec-15,5.7,EMER
+59,Current assets,12  Dec-15,5643,EMER
+60,Current liabilities,12  Dec-15,1503,EMER
+61,Net working cap to sales,12  Dec-15,44.1,EMER
+62,Current ratio,12  Dec-15,3.8,EMER
+63,Inventory Days,12  Dec-15,64,EMER
+64,Debtors Days,12  Dec-15,47,EMER
+65,Net fixed assets,12  Dec-15,1387,EMER
+66,Share capital,12  Dec-15,166,EMER
+67,"""Free"" reserves",12  Dec-15,5844,EMER
+68,Net worth,12  Dec-15,5916,EMER
+69,Long term debt,12  Dec-15,0,EMER
+70,Total assets,12  Dec-15,7784,EMER
+71,Interest coverage,12  Dec-15,NM,EMER
+72,Debt to equity ratio,12  Dec-15,0,EMER
+73,Sales to assets ratio,12  Dec-15,1.2,EMER
+74,Return on assets,12  Dec-15,6.9,EMER
+75,Return on equity,12  Dec-15,9.1,EMER
+76,Return on capital,12  Dec-15,14.1,EMER
+77,Exports to sales,12  Dec-15,8.5,EMER
+78,Imports to sales,12  Dec-15,21.6,EMER
+79,Exports (fob),12  Dec-15,802,EMER
+80,Imports (cif),12  Dec-15,2026,EMER
+81,Fx inflow,12  Dec-15,874,EMER
+82,Fx outflow,12  Dec-15,2356,EMER
+83,Net fx,12  Dec-15,-1483,EMER
+84,From Operations,12  Dec-15,835,EMER
+85,From Investments,12  Dec-15,-678,EMER
+86,From Financial Activity,12  Dec-15,-119,EMER
+87,Net Cashflow,12  Dec-15,37,EMER
+88,Net Sales,12  Dec-16,9926.0,EMER
+89,Other income,12  Dec-16,244.0,EMER
+90,Total revenues,12  Dec-16,10170.0,EMER
+91,Gross profit,12  Dec-16,1106.0,EMER
+92,Depreciation,12  Dec-16,248.0,EMER
+93,Interest,12  Dec-16,0.0,EMER
+94,Profit before tax,12  Dec-16,1102.0,EMER
+95,Minority Interest,12  Dec-16,0.0,EMER
+96,Prior Period Items,12  Dec-16,0.0,EMER
+97,Extraordinary Inc (Exp),12  Dec-16,0.0,EMER
+98,Tax,12  Dec-16,343.0,EMER
+99,Profit after tax,12  Dec-16,759.0,EMER
+100,Gross profit margin,12  Dec-16,11.1,EMER
+101,Effective tax rate,12  Dec-16,31.1,EMER
+102,Net profit margin,12  Dec-16,7.6,EMER
+103,Current assets,12  Dec-16,6361,EMER
+104,Current liabilities,12  Dec-16,1864,EMER
+105,Net working cap to sales,12  Dec-16,45.3,EMER
+106,Current ratio,12  Dec-16,3.4,EMER
+107,Inventory Days,12  Dec-16,60,EMER
+108,Debtors Days,12  Dec-16,39,EMER
+109,Net fixed assets,12  Dec-16,1406,EMER
+110,Share capital,12  Dec-16,166,EMER
+111,"""Free"" reserves",12  Dec-16,6472,EMER
+112,Net worth,12  Dec-16,6455,EMER
+113,Long term debt,12  Dec-16,0,EMER
+114,Total assets,12  Dec-16,8792,EMER
+115,Interest coverage,12  Dec-16,NM,EMER
+116,Debt to equity ratio,12  Dec-16,0,EMER
+117,Sales to assets ratio,12  Dec-16,1.1,EMER
+118,Return on assets,12  Dec-16,8.6,EMER
+119,Return on equity,12  Dec-16,11.8,EMER
+120,Return on capital,12  Dec-16,17.1,EMER
+121,Exports to sales,12  Dec-16,8.8,EMER
+122,Imports to sales,12  Dec-16,22.3,EMER
+123,Exports (fob),12  Dec-16,869,EMER
+124,Imports (cif),12  Dec-16,2209,EMER
+125,Fx inflow,12  Dec-16,959,EMER
+126,Fx outflow,12  Dec-16,2612,EMER
+127,Net fx,12  Dec-16,-1653,EMER
+128,From Operations,12  Dec-16,1070,EMER
+129,From Investments,12  Dec-16,-750,EMER
+130,From Financial Activity,12  Dec-16,-150,EMER
+131,Net Cashflow,12  Dec-16,171,EMER
+132,Net Sales,12  Dec-17,6981.0,EMER
+133,Other income,12  Dec-17,241.0,EMER
+134,Total revenues,12  Dec-17,7222.0,EMER
+135,Gross profit,12  Dec-17,770.0,EMER
+136,Depreciation,12  Dec-17,191.0,EMER
+137,Interest,12  Dec-17,0.0,EMER
+138,Profit before tax,12  Dec-17,819.0,EMER
+139,Minority Interest,12  Dec-17,0.0,EMER
+140,Prior Period Items,12  Dec-17,0.0,EMER
+141,Extraordinary Inc (Exp),12  Dec-17,170.0,EMER
+142,Tax,12  Dec-17,379.0,EMER
+143,Profit after tax,12  Dec-17,610.0,EMER
+144,Gross profit margin,12  Dec-17,11.0,EMER
+145,Effective tax rate,12  Dec-17,46.2,EMER
+146,Net profit margin,12  Dec-17,8.7,EMER
+147,Current assets,12  Dec-17,7523,EMER
+148,Current liabilities,12  Dec-17,2253,EMER
+149,Net working cap to sales,12  Dec-17,75.5,EMER
+150,Current ratio,12  Dec-17,3.3,EMER
+151,Inventory Days,12  Dec-17,82,EMER
+152,Debtors Days,12  Dec-17,64,EMER
+153,Net fixed assets,12  Dec-17,1240,EMER
+154,Share capital,12  Dec-17,166,EMER
+155,"""Free"" reserves",12  Dec-17,7167,EMER
+156,Net worth,12  Dec-17,7333,EMER
+157,Long term debt,12  Dec-17,0,EMER
+158,Total assets,12  Dec-17,9912,EMER
+159,Interest coverage,12  Dec-17,NM,EMER
+160,Debt to equity ratio,12  Dec-17,0,EMER
+161,Sales to assets ratio,12  Dec-17,0.7,EMER
+162,Return on assets,12  Dec-17,6.2,EMER
+163,Return on equity,12  Dec-17,8.3,EMER
+164,Return on capital,12  Dec-17,13.5,EMER
+165,Exports to sales,12  Dec-17,0,EMER
+166,Imports to sales,12  Dec-17,0,EMER
+167,Exports (fob),12  Dec-17,0,EMER
+168,Imports (cif),12  Dec-17,0,EMER
+169,Fx inflow,12  Dec-17,1015,EMER
+170,Fx outflow,12  Dec-17,3043,EMER
+171,Net fx,12  Dec-17,-2028,EMER
+172,From Operations,12  Dec-17,537,EMER
+173,From Investments,12  Dec-17,-476,EMER
+174,From Financial Activity,12  Dec-17,-220,EMER
+175,Net Cashflow,12  Dec-17,-160,EMER
+176,Net Sales,12  Dec-18,8490.0,EMER
+177,Other income,12  Dec-18,244.0,EMER
+178,Total revenues,12  Dec-18,8734.0,EMER
+179,Gross profit,12  Dec-18,1482.0,EMER
+180,Depreciation,12  Dec-18,211.0,EMER
+181,Interest,12  Dec-18,0.0,EMER
+182,Profit before tax,12  Dec-18,1514.0,EMER
+183,Minority Interest,12  Dec-18,0.0,EMER
+184,Prior Period Items,12  Dec-18,0.0,EMER
+185,Extraordinary Inc (Exp),12  Dec-18,66.0,EMER
+186,Tax,12  Dec-18,563.0,EMER
+187,Profit after tax,12  Dec-18,1017.0,EMER
+188,Gross profit margin,12  Dec-18,17.5,EMER
+189,Effective tax rate,12  Dec-18,37.1,EMER
+190,Net profit margin,12  Dec-18,12.0,EMER
+191,Current assets,12  Dec-18,15343,EMER
+192,Current liabilities,12  Dec-18,1960,EMER
+193,Net working cap to sales,12  Dec-18,157.6,EMER
+194,Current ratio,12  Dec-18,7.8,EMER
+195,Inventory Days,12  Dec-18,49,EMER
+196,Debtors Days,12  Dec-18,28,EMER
+197,Net fixed assets,12  Dec-18,1209,EMER
+198,Share capital,12  Dec-18,166,EMER
+199,"""Free"" reserves",12  Dec-18,15235,EMER
+200,Net worth,12  Dec-18,15401,EMER
+201,Long term debt,12  Dec-18,0,EMER
+202,Total assets,12  Dec-18,17595,EMER
+203,Interest coverage,12  Dec-18,NM,EMER
+204,Debt to equity ratio,12  Dec-18,0,EMER
+205,Sales to assets ratio,12  Dec-18,0.5,EMER
+206,Return on assets,12  Dec-18,5.8,EMER
+207,Return on equity,12  Dec-18,6.6,EMER
+208,Return on capital,12  Dec-18,10.3,EMER
+209,Exports to sales,12  Dec-18,0,EMER
+210,Imports to sales,12  Dec-18,0,EMER
+211,Exports (fob),12  Dec-18,0,EMER
+212,Imports (cif),12  Dec-18,0,EMER
+213,Fx inflow,12  Dec-18,1636,EMER
+214,Fx outflow,12  Dec-18,4368,EMER
+215,Net fx,12  Dec-18,-2732,EMER
+216,From Operations,12  Dec-18,-1304,EMER
+217,From Investments,12  Dec-18,12697,EMER
+218,From Financial Activity,12  Dec-18,-301,EMER
+219,Net Cashflow,12  Dec-18,11093,EMER

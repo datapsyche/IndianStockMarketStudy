@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,16481.0,GACO
+1,Other income,12  Mar-15*,146.0,GACO
+2,Total revenues,12  Mar-15*,16627.0,GACO
+3,Gross profit,12  Mar-15*,1393.0,GACO
+4,Depreciation,12  Mar-15*,332.0,GACO
+5,Interest,12  Mar-15*,419.0,GACO
+6,Profit before tax,12  Mar-15*,787.0,GACO
+7,Minority Interest,12  Mar-15*,-154.0,GACO
+8,Prior Period Items,12  Mar-15*,0.0,GACO
+9,Extraordinary Inc (Exp),12  Mar-15*,-30.0,GACO
+10,Tax,12  Mar-15*,192.0,GACO
+11,Profit after tax,12  Mar-15*,412.0,GACO
+12,Gross profit margin,12  Mar-15*,8.4,GACO
+13,Effective tax rate,12  Mar-15*,24.4,GACO
+14,Net profit margin,12  Mar-15*,2.5,GACO
+15,Current assets,12  Mar-15*,5007.0,GACO
+16,Current liabilities,12  Mar-15*,4061.0,GACO
+17,Net working cap to sales,12  Mar-15*,5.7,GACO
+18,Current ratio,12  Mar-15*,1.2,GACO
+19,Inventory Days,12  Mar-15*,1.0,GACO
+20,Debtors Days,12  Mar-15*,59.0,GACO
+21,Net fixed assets,12  Mar-15*,296.0,GACO
+22,Share capital,12  Mar-15*,175.0,GACO
+23,"""Free"" reserves",12  Mar-15*,5312.0,GACO
+24,Net worth,12  Mar-15*,5487.0,GACO
+25,Long term debt,12  Mar-15*,2709.0,GACO
+26,Total assets,12  Mar-15*,13439.0,GACO
+27,Interest coverage,12  Mar-15*,2.9,GACO
+28,Debt to equity ratio,12  Mar-15*,0.5,GACO
+29,Sales to assets ratio,12  Mar-15*,1.2,GACO
+30,Return on assets,12  Mar-15*,6.2,GACO
+31,Return on equity,12  Mar-15*,7.5,GACO
+32,Return on capital,12  Mar-15*,12.5,GACO
+33,Exports to sales,12  Mar-15*,0.0,GACO
+34,Imports to sales,12  Mar-15*,0.0,GACO
+35,Exports (fob),12  Mar-15*,0.0,GACO
+36,Imports (cif),12  Mar-15*,0.0,GACO
+37,Fx inflow,12  Mar-15*,12.0,GACO
+38,Fx outflow,12  Mar-15*,112.0,GACO
+39,Net fx,12  Mar-15*,-100.0,GACO
+40,From Operations,12  Mar-15*,861.0,GACO
+41,From Investments,12  Mar-15*,-762.0,GACO
+42,From Financial Activity,12  Mar-15*,185.0,GACO
+43,Net Cashflow,12  Mar-15*,284.0,GACO
+44,Net Sales,12  Mar-16*,16670.0,GACO
+45,Other income,12  Mar-16*,148.0,GACO
+46,Total revenues,12  Mar-16*,16818.0,GACO
+47,Gross profit,12  Mar-16*,1308.0,GACO
+48,Depreciation,12  Mar-16*,383.0,GACO
+49,Interest,12  Mar-16*,425.0,GACO
+50,Profit before tax,12  Mar-16*,648.0,GACO
+51,Minority Interest,12  Mar-16*,-124.0,GACO
+52,Prior Period Items,12  Mar-16*,0.0,GACO
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,GACO
+54,Tax,12  Mar-16*,156.0,GACO
+55,Profit after tax,12  Mar-16*,368.0,GACO
+56,Gross profit margin,12  Mar-16*,7.8,GACO
+57,Effective tax rate,12  Mar-16*,24.0,GACO
+58,Net profit margin,12  Mar-16*,2.2,GACO
+59,Current assets,12  Mar-16*,4367.0,GACO
+60,Current liabilities,12  Mar-16*,5669.0,GACO
+61,Net working cap to sales,12  Mar-16*,-7.8,GACO
+62,Current ratio,12  Mar-16*,0.8,GACO
+63,Inventory Days,12  Mar-16*,1.0,GACO
+64,Debtors Days,12  Mar-16*,53.0,GACO
+65,Net fixed assets,12  Mar-16*,5465.0,GACO
+66,Share capital,12  Mar-16*,176.0,GACO
+67,"""Free"" reserves",12  Mar-16*,6403.0,GACO
+68,Net worth,12  Mar-16*,6578.0,GACO
+69,Long term debt,12  Mar-16*,1549.0,GACO
+70,Total assets,12  Mar-16*,15058.0,GACO
+71,Interest coverage,12  Mar-16*,2.5,GACO
+72,Debt to equity ratio,12  Mar-16*,0.2,GACO
+73,Sales to assets ratio,12  Mar-16*,1.1,GACO
+74,Return on assets,12  Mar-16*,5.3,GACO
+75,Return on equity,12  Mar-16*,5.6,GACO
+76,Return on capital,12  Mar-16*,11.7,GACO
+77,Exports to sales,12  Mar-16*,0.0,GACO
+78,Imports to sales,12  Mar-16*,0.0,GACO
+79,Exports (fob),12  Mar-16*,0.0,GACO
+80,Imports (cif),12  Mar-16*,0.0,GACO
+81,Fx inflow,12  Mar-16*,35.0,GACO
+82,Fx outflow,12  Mar-16*,100.0,GACO
+83,Net fx,12  Mar-16*,-65.0,GACO
+84,From Operations,12  Mar-16*,980.0,GACO
+85,From Investments,12  Mar-16*,-607.0,GACO
+86,From Financial Activity,12  Mar-16*,-511.0,GACO
+87,Net Cashflow,12  Mar-16*,-138.0,GACO
+88,Net Sales,12  Mar-17*,16910.0,GACO
+89,Other income,12  Mar-17*,104.0,GACO
+90,Total revenues,12  Mar-17*,17014.0,GACO
+91,Gross profit,12  Mar-17*,959.0,GACO
+92,Depreciation,12  Mar-17*,298.0,GACO
+93,Interest,12  Mar-17*,500.0,GACO
+94,Profit before tax,12  Mar-17*,265.0,GACO
+95,Minority Interest,12  Mar-17*,0.0,GACO
+96,Prior Period Items,12  Mar-17*,0.0,GACO
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GACO
+98,Tax,12  Mar-17*,94.0,GACO
+99,Profit after tax,12  Mar-17*,171.0,GACO
+100,Gross profit margin,12  Mar-17*,5.7,GACO
+101,Effective tax rate,12  Mar-17*,35.4,GACO
+102,Net profit margin,12  Mar-17*,1.0,GACO
+103,Current assets,12  Mar-17*,3568.0,GACO
+104,Current liabilities,12  Mar-17*,5110.0,GACO
+105,Net working cap to sales,12  Mar-17*,-9.1,GACO
+106,Current ratio,12  Mar-17*,0.7,GACO
+107,Inventory Days,12  Mar-17*,1.0,GACO
+108,Debtors Days,12  Mar-17*,46.0,GACO
+109,Net fixed assets,12  Mar-17*,5673.0,GACO
+110,Share capital,12  Mar-17*,176.0,GACO
+111,"""Free"" reserves",12  Mar-17*,6212.0,GACO
+112,Net worth,12  Mar-17*,6389.0,GACO
+113,Long term debt,12  Mar-17*,1814.0,GACO
+114,Total assets,12  Mar-17*,14569.0,GACO
+115,Interest coverage,12  Mar-17*,1.5,GACO
+116,Debt to equity ratio,12  Mar-17*,0.3,GACO
+117,Sales to assets ratio,12  Mar-17*,1.2,GACO
+118,Return on assets,12  Mar-17*,4.6,GACO
+119,Return on equity,12  Mar-17*,2.7,GACO
+120,Return on capital,12  Mar-17*,9.3,GACO
+121,Exports to sales,12  Mar-17*,0.0,GACO
+122,Imports to sales,12  Mar-17*,0.0,GACO
+123,Exports (fob),12  Mar-17*,0.0,GACO
+124,Imports (cif),12  Mar-17*,0.0,GACO
+125,Fx inflow,12  Mar-17*,62.0,GACO
+126,Fx outflow,12  Mar-17*,84.0,GACO
+127,Net fx,12  Mar-17*,-22.0,GACO
+128,From Operations,12  Mar-17*,669.0,GACO
+129,From Investments,12  Mar-17*,-163.0,GACO
+130,From Financial Activity,12  Mar-17*,-326.0,GACO
+131,Net Cashflow,12  Mar-17*,180.0,GACO
+132,Net Sales,12  Mar-18*,17365.0,GACO
+133,Other income,12  Mar-18*,779.0,GACO
+134,Total revenues,12  Mar-18*,18143.0,GACO
+135,Gross profit,12  Mar-18*,771.0,GACO
+136,Depreciation,12  Mar-18*,300.0,GACO
+137,Interest,12  Mar-18*,470.0,GACO
+138,Profit before tax,12  Mar-18*,780.0,GACO
+139,Minority Interest,12  Mar-18*,0.0,GACO
+140,Prior Period Items,12  Mar-18*,0.0,GACO
+141,Extraordinary Inc (Exp),12  Mar-18*,-236.0,GACO
+142,Tax,12  Mar-18*,153.0,GACO
+143,Profit after tax,12  Mar-18*,391.0,GACO
+144,Gross profit margin,12  Mar-18*,4.4,GACO
+145,Effective tax rate,12  Mar-18*,19.6,GACO
+146,Net profit margin,12  Mar-18*,2.3,GACO
+147,Current assets,12  Mar-18*,3704.0,GACO
+148,Current liabilities,12  Mar-18*,3851.0,GACO
+149,Net working cap to sales,12  Mar-18*,-0.8,GACO
+150,Current ratio,12  Mar-18*,1.0,GACO
+151,Inventory Days,12  Mar-18*,2.0,GACO
+152,Debtors Days,12  Mar-18*,51.0,GACO
+153,Net fixed assets,12  Mar-18*,9961.0,GACO
+154,Share capital,12  Mar-18*,217.0,GACO
+155,"""Free"" reserves",12  Mar-18*,7068.0,GACO
+156,Net worth,12  Mar-18*,7285.0,GACO
+157,Long term debt,12  Mar-18*,2160.0,GACO
+158,Total assets,12  Mar-18*,14564.0,GACO
+159,Interest coverage,12  Mar-18*,2.7,GACO
+160,Debt to equity ratio,12  Mar-18*,0.3,GACO
+161,Sales to assets ratio,12  Mar-18*,1.2,GACO
+162,Return on assets,12  Mar-18*,5.9,GACO
+163,Return on equity,12  Mar-18*,5.4,GACO
+164,Return on capital,12  Mar-18*,10.7,GACO
+165,Exports to sales,12  Mar-18*,0.0,GACO
+166,Imports to sales,12  Mar-18*,0.0,GACO
+167,Exports (fob),12  Mar-18*,0.0,GACO
+168,Imports (cif),12  Mar-18*,0.0,GACO
+169,Fx inflow,12  Mar-18*,139.0,GACO
+170,Fx outflow,12  Mar-18*,93.0,GACO
+171,Net fx,12  Mar-18*,46.0,GACO
+172,From Operations,12  Mar-18*,1245.0,GACO
+173,From Investments,12  Mar-18*,-153.0,GACO
+174,From Financial Activity,12  Mar-18*,-1232.0,GACO
+175,Net Cashflow,12  Mar-18*,-140.0,GACO
+176,Net Sales,12  Mar-19*,18632.0,GACO
+177,Other income,12  Mar-19*,160.0,GACO
+178,Total revenues,12  Mar-19*,18792.0,GACO
+179,Gross profit,12  Mar-19*,943.0,GACO
+180,Depreciation,12  Mar-19*,295.0,GACO
+181,Interest,12  Mar-19*,453.0,GACO
+182,Profit before tax,12  Mar-19*,355.0,GACO
+183,Minority Interest,12  Mar-19*,0.0,GACO
+184,Prior Period Items,12  Mar-19*,0.0,GACO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GACO
+186,Tax,12  Mar-19*,124.0,GACO
+187,Profit after tax,12  Mar-19*,230.0,GACO
+188,Gross profit margin,12  Mar-19*,5.1,GACO
+189,Effective tax rate,12  Mar-19*,35.1,GACO
+190,Net profit margin,12  Mar-19*,1.2,GACO
+191,Current assets,12  Mar-19*,3773.0,GACO
+192,Current liabilities,12  Mar-19*,4594.0,GACO
+193,Net working cap to sales,12  Mar-19*,-4.4,GACO
+194,Current ratio,12  Mar-19*,0.8,GACO
+195,Inventory Days,12  Mar-19*,2.0,GACO
+196,Debtors Days,12  Mar-19*,47.0,GACO
+197,Net fixed assets,12  Mar-19*,10013.0,GACO
+198,Share capital,12  Mar-19*,217.0,GACO
+199,"""Free"" reserves",12  Mar-19*,7027.0,GACO
+200,Net worth,12  Mar-19*,7244.0,GACO
+201,Long term debt,12  Mar-19*,1687.0,GACO
+202,Total assets,12  Mar-19*,14896.0,GACO
+203,Interest coverage,12  Mar-19*,1.8,GACO
+204,Debt to equity ratio,12  Mar-19*,0.2,GACO
+205,Sales to assets ratio,12  Mar-19*,1.3,GACO
+206,Return on assets,12  Mar-19*,4.6,GACO
+207,Return on equity,12  Mar-19*,3.2,GACO
+208,Return on capital,12  Mar-19*,9.0,GACO
+209,Exports to sales,12  Mar-19*,0.0,GACO
+210,Imports to sales,12  Mar-19*,0.0,GACO
+211,Exports (fob),12  Mar-19*,0.0,GACO
+212,Imports (cif),12  Mar-19*,0.0,GACO
+213,Fx inflow,12  Mar-19*,138.0,GACO
+214,Fx outflow,12  Mar-19*,94.0,GACO
+215,Net fx,12  Mar-19*,44.0,GACO
+216,From Operations,12  Mar-19*,991.0,GACO
+217,From Investments,12  Mar-19*,-420.0,GACO
+218,From Financial Activity,12  Mar-19*,-589.0,GACO
+219,Net Cashflow,12  Mar-19*,-17.0,GACO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,4740.0,AIDL
+1,Other income,12  Mar-14,92.0,AIDL
+2,Total revenues,12  Mar-14,4832.0,AIDL
+3,Gross profit,12  Mar-14,-130.0,AIDL
+4,Depreciation,12  Mar-14,101.0,AIDL
+5,Interest,12  Mar-14,0.0,AIDL
+6,Profit before tax,12  Mar-14,-139.0,AIDL
+7,Minority Interest,12  Mar-14,0.0,AIDL
+8,Prior Period Items,12  Mar-14,0.0,AIDL
+9,Extraordinary Inc (Exp),12  Mar-14,139.0,AIDL
+10,Tax,12  Mar-14,5.0,AIDL
+11,Profit after tax,12  Mar-14,-5.0,AIDL
+12,Gross profit margin,12  Mar-14,-2.7,AIDL
+13,Effective tax rate,12  Mar-14,-3.7,AIDL
+14,Net profit margin,12  Mar-14,-0.1,AIDL
+15,Current assets,12  Mar-14,2726,AIDL
+16,Current liabilities,12  Mar-14,2435,AIDL
+17,Net working cap to sales,12  Mar-14,6.1,AIDL
+18,Current ratio,12  Mar-14,1.1,AIDL
+19,Inventory Days,12  Mar-14,74,AIDL
+20,Debtors Days,12  Mar-14,41,AIDL
+21,Net fixed assets,12  Mar-14,1035,AIDL
+22,Share capital,12  Mar-14,50,AIDL
+23,"""Free"" reserves",12  Mar-14,942,AIDL
+24,Net worth,12  Mar-14,1716,AIDL
+25,Long term debt,12  Mar-14,0,AIDL
+26,Total assets,12  Mar-14,4156,AIDL
+27,Interest coverage,12  Mar-14,NM,AIDL
+28,Debt to equity ratio,12  Mar-14,0,AIDL
+29,Sales to assets ratio,12  Mar-14,1.1,AIDL
+30,Return on assets,12  Mar-14,-0.1,AIDL
+31,Return on equity,12  Mar-14,-0.3,AIDL
+32,Return on capital,12  Mar-14,0,AIDL
+33,Exports to sales,12  Mar-14,5.7,AIDL
+34,Imports to sales,12  Mar-14,6.5,AIDL
+35,Exports (fob),12  Mar-14,270,AIDL
+36,Imports (cif),12  Mar-14,306,AIDL
+37,Fx inflow,12  Mar-14,375,AIDL
+38,Fx outflow,12  Mar-14,470,AIDL
+39,Net fx,12  Mar-14,-96,AIDL
+40,From Operations,12  Mar-14,-8,AIDL
+41,From Investments,12  Mar-14,-146,AIDL
+42,From Financial Activity,12  Mar-14,862,AIDL
+43,Net Cashflow,12  Mar-14,709,AIDL
+44,Net Sales,12  Mar-15,4681.0,AIDL
+45,Other income,12  Mar-15,59.0,AIDL
+46,Total revenues,12  Mar-15,4740.0,AIDL
+47,Gross profit,12  Mar-15,-114.0,AIDL
+48,Depreciation,12  Mar-15,153.0,AIDL
+49,Interest,12  Mar-15,0.0,AIDL
+50,Profit before tax,12  Mar-15,-208.0,AIDL
+51,Minority Interest,12  Mar-15,0.0,AIDL
+52,Prior Period Items,12  Mar-15,0.0,AIDL
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,AIDL
+54,Tax,12  Mar-15,0.0,AIDL
+55,Profit after tax,12  Mar-15,-208.0,AIDL
+56,Gross profit margin,12  Mar-15,-2.4,AIDL
+57,Effective tax rate,12  Mar-15,0.0,AIDL
+58,Net profit margin,12  Mar-15,-4.5,AIDL
+59,Current assets,12  Mar-15,2633,AIDL
+60,Current liabilities,12  Mar-15,2598,AIDL
+61,Net working cap to sales,12  Mar-15,0.7,AIDL
+62,Current ratio,12  Mar-15,1.0,AIDL
+63,Inventory Days,12  Mar-15,67,AIDL
+64,Debtors Days,12  Mar-15,33,AIDL
+65,Net fixed assets,12  Mar-15,1132,AIDL
+66,Share capital,12  Mar-15,50,AIDL
+67,"""Free"" reserves",12  Mar-15,1458,AIDL
+68,Net worth,12  Mar-15,1508,AIDL
+69,Long term debt,12  Mar-15,0,AIDL
+70,Total assets,12  Mar-15,4116,AIDL
+71,Interest coverage,12  Mar-15,NM,AIDL
+72,Debt to equity ratio,12  Mar-15,0,AIDL
+73,Sales to assets ratio,12  Mar-15,1.1,AIDL
+74,Return on assets,12  Mar-15,-5.1,AIDL
+75,Return on equity,12  Mar-15,-13.8,AIDL
+76,Return on capital,12  Mar-15,-13.8,AIDL
+77,Exports to sales,12  Mar-15,0.5,AIDL
+78,Imports to sales,12  Mar-15,2.3,AIDL
+79,Exports (fob),12  Mar-15,24,AIDL
+80,Imports (cif),12  Mar-15,108,AIDL
+81,Fx inflow,12  Mar-15,33,AIDL
+82,Fx outflow,12  Mar-15,1119,AIDL
+83,Net fx,12  Mar-15,-1086,AIDL
+84,From Operations,12  Mar-15,-457,AIDL
+85,From Investments,12  Mar-15,-186,AIDL
+86,From Financial Activity,12  Mar-15,0,AIDL
+87,Net Cashflow,12  Mar-15,-644,AIDL
+88,Net Sales,12  Mar-16,5168.0,AIDL
+89,Other income,12  Mar-16,68.0,AIDL
+90,Total revenues,12  Mar-16,5235.0,AIDL
+91,Gross profit,12  Mar-16,164.0,AIDL
+92,Depreciation,12  Mar-16,174.0,AIDL
+93,Interest,12  Mar-16,0.0,AIDL
+94,Profit before tax,12  Mar-16,58.0,AIDL
+95,Minority Interest,12  Mar-16,0.0,AIDL
+96,Prior Period Items,12  Mar-16,0.0,AIDL
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,AIDL
+98,Tax,12  Mar-16,5.0,AIDL
+99,Profit after tax,12  Mar-16,53.0,AIDL
+100,Gross profit margin,12  Mar-16,3.2,AIDL
+101,Effective tax rate,12  Mar-16,8.7,AIDL
+102,Net profit margin,12  Mar-16,1.0,AIDL
+103,Current assets,12  Mar-16,2658,AIDL
+104,Current liabilities,12  Mar-16,2431,AIDL
+105,Net working cap to sales,12  Mar-16,4.4,AIDL
+106,Current ratio,12  Mar-16,1.1,AIDL
+107,Inventory Days,12  Mar-16,54,AIDL
+108,Debtors Days,12  Mar-16,58,AIDL
+109,Net fixed assets,12  Mar-16,1037,AIDL
+110,Share capital,12  Mar-16,50,AIDL
+111,"""Free"" reserves",12  Mar-16,1510,AIDL
+112,Net worth,12  Mar-16,1560,AIDL
+113,Long term debt,12  Mar-16,0,AIDL
+114,Total assets,12  Mar-16,4487,AIDL
+115,Interest coverage,12  Mar-16,NM,AIDL
+116,Debt to equity ratio,12  Mar-16,0,AIDL
+117,Sales to assets ratio,12  Mar-16,1.2,AIDL
+118,Return on assets,12  Mar-16,1.2,AIDL
+119,Return on equity,12  Mar-16,3.4,AIDL
+120,Return on capital,12  Mar-16,3.7,AIDL
+121,Exports to sales,12  Mar-16,0,AIDL
+122,Imports to sales,12  Mar-16,3.2,AIDL
+123,Exports (fob),12  Mar-16,0,AIDL
+124,Imports (cif),12  Mar-16,164,AIDL
+125,Fx inflow,12  Mar-16,97,AIDL
+126,Fx outflow,12  Mar-16,1222,AIDL
+127,Net fx,12  Mar-16,-1125,AIDL
+128,From Operations,12  Mar-16,570,AIDL
+129,From Investments,12  Mar-16,-36,AIDL
+130,From Financial Activity,12  Mar-16,-5,AIDL
+131,Net Cashflow,12  Mar-16,529,AIDL
+132,Net Sales,12  Mar-17,5437.0,AIDL
+133,Other income,12  Mar-17,144.0,AIDL
+134,Total revenues,12  Mar-17,5581.0,AIDL
+135,Gross profit,12  Mar-17,369.0,AIDL
+136,Depreciation,12  Mar-17,158.0,AIDL
+137,Interest,12  Mar-17,0.0,AIDL
+138,Profit before tax,12  Mar-17,355.0,AIDL
+139,Minority Interest,12  Mar-17,0.0,AIDL
+140,Prior Period Items,12  Mar-17,0.0,AIDL
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,AIDL
+142,Tax,12  Mar-17,155.0,AIDL
+143,Profit after tax,12  Mar-17,201.0,AIDL
+144,Gross profit margin,12  Mar-17,6.8,AIDL
+145,Effective tax rate,12  Mar-17,43.5,AIDL
+146,Net profit margin,12  Mar-17,3.7,AIDL
+147,Current assets,12  Mar-17,2516,AIDL
+148,Current liabilities,12  Mar-17,1903,AIDL
+149,Net working cap to sales,12  Mar-17,11.3,AIDL
+150,Current ratio,12  Mar-17,1.3,AIDL
+151,Inventory Days,12  Mar-17,39,AIDL
+152,Debtors Days,12  Mar-17,29,AIDL
+153,Net fixed assets,12  Mar-17,917,AIDL
+154,Share capital,12  Mar-17,50,AIDL
+155,"""Free"" reserves",12  Mar-17,2179,AIDL
+156,Net worth,12  Mar-17,2229,AIDL
+157,Long term debt,12  Mar-17,0,AIDL
+158,Total assets,12  Mar-17,4155,AIDL
+159,Interest coverage,12  Mar-17,NM,AIDL
+160,Debt to equity ratio,12  Mar-17,0,AIDL
+161,Sales to assets ratio,12  Mar-17,1.3,AIDL
+162,Return on assets,12  Mar-17,4.8,AIDL
+163,Return on equity,12  Mar-17,9.0,AIDL
+164,Return on capital,12  Mar-17,15.9,AIDL
+165,Exports to sales,12  Mar-17,0,AIDL
+166,Imports to sales,12  Mar-17,0,AIDL
+167,Exports (fob),12  Mar-17,0,AIDL
+168,Imports (cif),12  Mar-17,0,AIDL
+169,Fx inflow,12  Mar-17,216,AIDL
+170,Fx outflow,12  Mar-17,1324,AIDL
+171,Net fx,12  Mar-17,-1107,AIDL
+172,From Operations,12  Mar-17,381,AIDL
+173,From Investments,12  Mar-17,3,AIDL
+174,From Financial Activity,12  Mar-17,0,AIDL
+175,Net Cashflow,12  Mar-17,384,AIDL
+176,Net Sales,12  Mar-18,5710.0,AIDL
+177,Other income,12  Mar-18,123.0,AIDL
+178,Total revenues,12  Mar-18,5833.0,AIDL
+179,Gross profit,12  Mar-18,463.0,AIDL
+180,Depreciation,12  Mar-18,147.0,AIDL
+181,Interest,12  Mar-18,0.0,AIDL
+182,Profit before tax,12  Mar-18,438.0,AIDL
+183,Minority Interest,12  Mar-18,0.0,AIDL
+184,Prior Period Items,12  Mar-18,0.0,AIDL
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,AIDL
+186,Tax,12  Mar-18,179.0,AIDL
+187,Profit after tax,12  Mar-18,259.0,AIDL
+188,Gross profit margin,12  Mar-18,8.1,AIDL
+189,Effective tax rate,12  Mar-18,40.8,AIDL
+190,Net profit margin,12  Mar-18,4.5,AIDL
+191,Current assets,12  Mar-18,3209,AIDL
+192,Current liabilities,12  Mar-18,2070,AIDL
+193,Net working cap to sales,12  Mar-18,20.0,AIDL
+194,Current ratio,12  Mar-18,1.6,AIDL
+195,Inventory Days,12  Mar-18,72,AIDL
+196,Debtors Days,12  Mar-18,35,AIDL
+197,Net fixed assets,12  Mar-18,790,AIDL
+198,Share capital,12  Mar-18,50,AIDL
+199,"""Free"" reserves",12  Mar-18,2419,AIDL
+200,Net worth,12  Mar-18,2469,AIDL
+201,Long term debt,12  Mar-18,0,AIDL
+202,Total assets,12  Mar-18,4605,AIDL
+203,Interest coverage,12  Mar-18,NM,AIDL
+204,Debt to equity ratio,12  Mar-18,0,AIDL
+205,Sales to assets ratio,12  Mar-18,1.2,AIDL
+206,Return on assets,12  Mar-18,5.6,AIDL
+207,Return on equity,12  Mar-18,10.5,AIDL
+208,Return on capital,12  Mar-18,17.7,AIDL
+209,Exports to sales,12  Mar-18,0,AIDL
+210,Imports to sales,12  Mar-18,0,AIDL
+211,Exports (fob),12  Mar-18,0,AIDL
+212,Imports (cif),12  Mar-18,0,AIDL
+213,Fx inflow,12  Mar-18,300,AIDL
+214,Fx outflow,12  Mar-18,2015,AIDL
+215,Net fx,12  Mar-18,-1715,AIDL
+216,From Operations,12  Mar-18,88,AIDL
+217,From Investments,12  Mar-18,-94,AIDL
+218,From Financial Activity,12  Mar-18,0,AIDL
+219,Net Cashflow,12  Mar-18,-6,AIDL

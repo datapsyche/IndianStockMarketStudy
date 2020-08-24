@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,1536.0,ALMC
+1,Other income,12  Mar-14,158.0,ALMC
+2,Total revenues,12  Mar-14,1694.0,ALMC
+3,Gross profit,12  Mar-14,223.0,ALMC
+4,Depreciation,12  Mar-14,23.0,ALMC
+5,Interest,12  Mar-14,23.0,ALMC
+6,Profit before tax,12  Mar-14,335.0,ALMC
+7,Minority Interest,12  Mar-14,0.0,ALMC
+8,Prior Period Items,12  Mar-14,0.0,ALMC
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,ALMC
+10,Tax,12  Mar-14,39.0,ALMC
+11,Profit after tax,12  Mar-14,295.0,ALMC
+12,Gross profit margin,12  Mar-14,14.5,ALMC
+13,Effective tax rate,12  Mar-14,11.8,ALMC
+14,Net profit margin,12  Mar-14,19.2,ALMC
+15,Current assets,12  Mar-14,1543.0,ALMC
+16,Current liabilities,12  Mar-14,907.0,ALMC
+17,Net working cap to sales,12  Mar-14,41.4,ALMC
+18,Current ratio,12  Mar-14,1.7,ALMC
+19,Inventory Days,12  Mar-14,248.0,ALMC
+20,Debtors Days,12  Mar-14,66.0,ALMC
+21,Net fixed assets,12  Mar-14,1800.0,ALMC
+22,Share capital,12  Mar-14,534.0,ALMC
+23,"""Free"" reserves",12  Mar-14,874.0,ALMC
+24,Net worth,12  Mar-14,2307.0,ALMC
+25,Long term debt,12  Mar-14,331.0,ALMC
+26,Total assets,12  Mar-14,3562.0,ALMC
+27,Interest coverage,12  Mar-14,15.4,ALMC
+28,Debt to equity ratio,12  Mar-14,0.1,ALMC
+29,Sales to assets ratio,12  Mar-14,0.4,ALMC
+30,Return on assets,12  Mar-14,8.9,ALMC
+31,Return on equity,12  Mar-14,12.8,ALMC
+32,Return on capital,12  Mar-14,13.6,ALMC
+33,Exports to sales,12  Mar-14,7.7,ALMC
+34,Imports to sales,12  Mar-14,3.4,ALMC
+35,Exports (fob),12  Mar-14,118.0,ALMC
+36,Imports (cif),12  Mar-14,52.0,ALMC
+37,Fx inflow,12  Mar-14,118.0,ALMC
+38,Fx outflow,12  Mar-14,63.0,ALMC
+39,Net fx,12  Mar-14,55.0,ALMC
+40,From Operations,12  Mar-14,-102.0,ALMC
+41,From Investments,12  Mar-14,178.0,ALMC
+42,From Financial Activity,12  Mar-14,-79.0,ALMC
+43,Net Cashflow,12  Mar-14,-3.0,ALMC
+44,Net Sales,12  Mar-15*,1439.0,ALMC
+45,Other income,12  Mar-15*,208.0,ALMC
+46,Total revenues,12  Mar-15*,1647.0,ALMC
+47,Gross profit,12  Mar-15*,95.0,ALMC
+48,Depreciation,12  Mar-15*,60.0,ALMC
+49,Interest,12  Mar-15*,8.0,ALMC
+50,Profit before tax,12  Mar-15*,235.0,ALMC
+51,Minority Interest,12  Mar-15*,0.0,ALMC
+52,Prior Period Items,12  Mar-15*,825.0,ALMC
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ALMC
+54,Tax,12  Mar-15*,-7.0,ALMC
+55,Profit after tax,12  Mar-15*,1066.0,ALMC
+56,Gross profit margin,12  Mar-15*,6.6,ALMC
+57,Effective tax rate,12  Mar-15*,-2.9,ALMC
+58,Net profit margin,12  Mar-15*,74.1,ALMC
+59,Current assets,12  Mar-15*,1609.0,ALMC
+60,Current liabilities,12  Mar-15*,533.0,ALMC
+61,Net working cap to sales,12  Mar-15*,74.8,ALMC
+62,Current ratio,12  Mar-15*,3.0,ALMC
+63,Inventory Days,12  Mar-15*,214.0,ALMC
+64,Debtors Days,12  Mar-15*,122.0,ALMC
+65,Net fixed assets,12  Mar-15*,1715.0,ALMC
+66,Share capital,12  Mar-15*,534.0,ALMC
+67,"""Free"" reserves",12  Mar-15*,3839.0,ALMC
+68,Net worth,12  Mar-15*,5278.0,ALMC
+69,Long term debt,12  Mar-15*,354.0,ALMC
+70,Total assets,12  Mar-15*,6192.0,ALMC
+71,Interest coverage,12  Mar-15*,29.3,ALMC
+72,Debt to equity ratio,12  Mar-15*,0.1,ALMC
+73,Sales to assets ratio,12  Mar-15*,0.2,ALMC
+74,Return on assets,12  Mar-15*,17.4,ALMC
+75,Return on equity,12  Mar-15*,20.2,ALMC
+76,Return on capital,12  Mar-15*,19.0,ALMC
+77,Exports to sales,12  Mar-15*,14.3,ALMC
+78,Imports to sales,12  Mar-15*,2.5,ALMC
+79,Exports (fob),12  Mar-15*,205.0,ALMC
+80,Imports (cif),12  Mar-15*,37.0,ALMC
+81,Fx inflow,12  Mar-15*,205.0,ALMC
+82,Fx outflow,12  Mar-15*,42.0,ALMC
+83,Net fx,12  Mar-15*,163.0,ALMC
+84,From Operations,12  Mar-15*,220.0,ALMC
+85,From Investments,12  Mar-15*,47.0,ALMC
+86,From Financial Activity,12  Mar-15*,-250.0,ALMC
+87,Net Cashflow,12  Mar-15*,17.0,ALMC
+88,Net Sales,12  Mar-16*,1260.0,ALMC
+89,Other income,12  Mar-16*,264.0,ALMC
+90,Total revenues,12  Mar-16*,1524.0,ALMC
+91,Gross profit,12  Mar-16*,83.0,ALMC
+92,Depreciation,12  Mar-16*,61.0,ALMC
+93,Interest,12  Mar-16*,0.0,ALMC
+94,Profit before tax,12  Mar-16*,285.0,ALMC
+95,Minority Interest,12  Mar-16*,0.0,ALMC
+96,Prior Period Items,12  Mar-16*,2096.0,ALMC
+97,Extraordinary Inc (Exp),12  Mar-16*,-32.0,ALMC
+98,Tax,12  Mar-16*,6.0,ALMC
+99,Profit after tax,12  Mar-16*,2343.0,ALMC
+100,Gross profit margin,12  Mar-16*,6.6,ALMC
+101,Effective tax rate,12  Mar-16*,2.1,ALMC
+102,Net profit margin,12  Mar-16*,185.9,ALMC
+103,Current assets,12  Mar-16*,1689.0,ALMC
+104,Current liabilities,12  Mar-16*,486.0,ALMC
+105,Net working cap to sales,12  Mar-16*,95.4,ALMC
+106,Current ratio,12  Mar-16*,3.5,ALMC
+107,Inventory Days,12  Mar-16*,217.0,ALMC
+108,Debtors Days,12  Mar-16*,81.0,ALMC
+109,Net fixed assets,12  Mar-16*,1624.0,ALMC
+110,Share capital,12  Mar-16*,534.0,ALMC
+111,"""Free"" reserves",12  Mar-16*,5960.0,ALMC
+112,Net worth,12  Mar-16*,7404.0,ALMC
+113,Long term debt,12  Mar-16*,104.0,ALMC
+114,Total assets,12  Mar-16*,8010.0,ALMC
+115,Interest coverage,12  Mar-16*,950.7,ALMC
+116,Debt to equity ratio,12  Mar-16*,0.0,ALMC
+117,Sales to assets ratio,12  Mar-16*,0.2,ALMC
+118,Return on assets,12  Mar-16*,29.3,ALMC
+119,Return on equity,12  Mar-16*,31.6,ALMC
+120,Return on capital,12  Mar-16*,31.3,ALMC
+121,Exports to sales,12  Mar-16*,2.9,ALMC
+122,Imports to sales,12  Mar-16*,28.9,ALMC
+123,Exports (fob),12  Mar-16*,37.0,ALMC
+124,Imports (cif),12  Mar-16*,364.0,ALMC
+125,Fx inflow,12  Mar-16*,37.0,ALMC
+126,Fx outflow,12  Mar-16*,365.0,ALMC
+127,Net fx,12  Mar-16*,-328.0,ALMC
+128,From Operations,12  Mar-16*,346.0,ALMC
+129,From Investments,12  Mar-16*,-48.0,ALMC
+130,From Financial Activity,12  Mar-16*,-301.0,ALMC
+131,Net Cashflow,12  Mar-16*,-3.0,ALMC
+132,Net Sales,12  Mar-17*,1403.0,ALMC
+133,Other income,12  Mar-17*,310.0,ALMC
+134,Total revenues,12  Mar-17*,1713.0,ALMC
+135,Gross profit,12  Mar-17*,67.0,ALMC
+136,Depreciation,12  Mar-17*,51.0,ALMC
+137,Interest,12  Mar-17*,2.0,ALMC
+138,Profit before tax,12  Mar-17*,324.0,ALMC
+139,Minority Interest,12  Mar-17*,0.0,ALMC
+140,Prior Period Items,12  Mar-17*,1179.0,ALMC
+141,Extraordinary Inc (Exp),12  Mar-17*,-58.0,ALMC
+142,Tax,12  Mar-17*,-9.0,ALMC
+143,Profit after tax,12  Mar-17*,1454.0,ALMC
+144,Gross profit margin,12  Mar-17*,4.8,ALMC
+145,Effective tax rate,12  Mar-17*,-2.6,ALMC
+146,Net profit margin,12  Mar-17*,103.6,ALMC
+147,Current assets,12  Mar-17*,1913.0,ALMC
+148,Current liabilities,12  Mar-17*,683.0,ALMC
+149,Net working cap to sales,12  Mar-17*,87.6,ALMC
+150,Current ratio,12  Mar-17*,2.8,ALMC
+151,Inventory Days,12  Mar-17*,132.0,ALMC
+152,Debtors Days,12  Mar-17*,56.0,ALMC
+153,Net fixed assets,12  Mar-17*,1716.0,ALMC
+154,Share capital,12  Mar-17*,534.0,ALMC
+155,"""Free"" reserves",12  Mar-17*,8580.0,ALMC
+156,Net worth,12  Mar-17*,9114.0,ALMC
+157,Long term debt,12  Mar-17*,18.0,ALMC
+158,Total assets,12  Mar-17*,9924.0,ALMC
+159,Interest coverage,12  Mar-17*,203.8,ALMC
+160,Debt to equity ratio,12  Mar-17*,0.0,ALMC
+161,Sales to assets ratio,12  Mar-17*,0.1,ALMC
+162,Return on assets,12  Mar-17*,14.7,ALMC
+163,Return on equity,12  Mar-17*,16.0,ALMC
+164,Return on capital,12  Mar-17*,15.8,ALMC
+165,Exports to sales,12  Mar-17*,0.7,ALMC
+166,Imports to sales,12  Mar-17*,25.4,ALMC
+167,Exports (fob),12  Mar-17*,10.0,ALMC
+168,Imports (cif),12  Mar-17*,356.0,ALMC
+169,Fx inflow,12  Mar-17*,10.0,ALMC
+170,Fx outflow,12  Mar-17*,357.0,ALMC
+171,Net fx,12  Mar-17*,-346.0,ALMC
+172,From Operations,12  Mar-17*,516.0,ALMC
+173,From Investments,12  Mar-17*,-467.0,ALMC
+174,From Financial Activity,12  Mar-17*,-50.0,ALMC
+175,Net Cashflow,12  Mar-17*,0.0,ALMC
+176,Net Sales,12  Mar-18*,1255.0,ALMC
+177,Other income,12  Mar-18*,370.0,ALMC
+178,Total revenues,12  Mar-18*,1625.0,ALMC
+179,Gross profit,12  Mar-18*,111.0,ALMC
+180,Depreciation,12  Mar-18*,38.0,ALMC
+181,Interest,12  Mar-18*,2.0,ALMC
+182,Profit before tax,12  Mar-18*,442.0,ALMC
+183,Minority Interest,12  Mar-18*,0.0,ALMC
+184,Prior Period Items,12  Mar-18*,1212.0,ALMC
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ALMC
+186,Tax,12  Mar-18*,24.0,ALMC
+187,Profit after tax,12  Mar-18*,1630.0,ALMC
+188,Gross profit margin,12  Mar-18*,8.9,ALMC
+189,Effective tax rate,12  Mar-18*,5.4,ALMC
+190,Net profit margin,12  Mar-18*,129.8,ALMC
+191,Current assets,12  Mar-18*,1867.0,ALMC
+192,Current liabilities,12  Mar-18*,591.0,ALMC
+193,Net working cap to sales,12  Mar-18*,101.6,ALMC
+194,Current ratio,12  Mar-18*,3.2,ALMC
+195,Inventory Days,12  Mar-18*,94.0,ALMC
+196,Debtors Days,12  Mar-18*,74.0,ALMC
+197,Net fixed assets,12  Mar-18*,1791.0,ALMC
+198,Share capital,12  Mar-18*,534.0,ALMC
+199,"""Free"" reserves",12  Mar-18*,10324.0,ALMC
+200,Net worth,12  Mar-18*,10858.0,ALMC
+201,Long term debt,12  Mar-18*,41.0,ALMC
+202,Total assets,12  Mar-18*,11591.0,ALMC
+203,Interest coverage,12  Mar-18*,260.9,ALMC
+204,Debt to equity ratio,12  Mar-18*,0.0,ALMC
+205,Sales to assets ratio,12  Mar-18*,0.1,ALMC
+206,Return on assets,12  Mar-18*,14.1,ALMC
+207,Return on equity,12  Mar-18*,15.0,ALMC
+208,Return on capital,12  Mar-18*,15.2,ALMC
+209,Exports to sales,12  Mar-18*,1.5,ALMC
+210,Imports to sales,12  Mar-18*,21.0,ALMC
+211,Exports (fob),12  Mar-18*,19.0,ALMC
+212,Imports (cif),12  Mar-18*,263.0,ALMC
+213,Fx inflow,12  Mar-18*,19.0,ALMC
+214,Fx outflow,12  Mar-18*,264.0,ALMC
+215,Net fx,12  Mar-18*,-244.0,ALMC
+216,From Operations,12  Mar-18*,236.0,ALMC
+217,From Investments,12  Mar-18*,-224.0,ALMC
+218,From Financial Activity,12  Mar-18*,-27.0,ALMC
+219,Net Cashflow,12  Mar-18*,-15.0,ALMC

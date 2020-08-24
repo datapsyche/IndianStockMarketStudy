@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,3000.0,ARWEB
+1,Other income,12  Mar-15*,74.0,ARWEB
+2,Total revenues,12  Mar-15*,3074.0,ARWEB
+3,Gross profit,12  Mar-15*,665.0,ARWEB
+4,Depreciation,12  Mar-15*,347.0,ARWEB
+5,Interest,12  Mar-15*,513.0,ARWEB
+6,Profit before tax,12  Mar-15*,-121.0,ARWEB
+7,Minority Interest,12  Mar-15*,50.0,ARWEB
+8,Prior Period Items,12  Mar-15*,-3.0,ARWEB
+9,Extraordinary Inc (Exp),12  Mar-15*,-45.0,ARWEB
+10,Tax,12  Mar-15*,108.0,ARWEB
+11,Profit after tax,12  Mar-15*,-228.0,ARWEB
+12,Gross profit margin,12  Mar-15*,22.2,ARWEB
+13,Effective tax rate,12  Mar-15*,-89.9,ARWEB
+14,Net profit margin,12  Mar-15*,-7.6,ARWEB
+15,Current assets,12  Mar-15*,2840.0,ARWEB
+16,Current liabilities,12  Mar-15*,1954.0,ARWEB
+17,Net working cap to sales,12  Mar-15*,29.5,ARWEB
+18,Current ratio,12  Mar-15*,1.5,ARWEB
+19,Inventory Days,12  Mar-15*,85.0,ARWEB
+20,Debtors Days,12  Mar-15*,28.0,ARWEB
+21,Net fixed assets,12  Mar-15*,8015.0,ARWEB
+22,Share capital,12  Mar-15*,231.0,ARWEB
+23,"""Free"" reserves",12  Mar-15*,7259.0,ARWEB
+24,Net worth,12  Mar-15*,7651.0,ARWEB
+25,Long term debt,12  Mar-15*,2239.0,ARWEB
+26,Total assets,12  Mar-15*,12177.0,ARWEB
+27,Interest coverage,12  Mar-15*,0.8,ARWEB
+28,Debt to equity ratio,12  Mar-15*,0.3,ARWEB
+29,Sales to assets ratio,12  Mar-15*,0.2,ARWEB
+30,Return on assets,12  Mar-15*,2.3,ARWEB
+31,Return on equity,12  Mar-15*,-3.0,ARWEB
+32,Return on capital,12  Mar-15*,4.0,ARWEB
+33,Exports to sales,12  Mar-15*,0.0,ARWEB
+34,Imports to sales,12  Mar-15*,0.0,ARWEB
+35,Exports (fob),12  Mar-15*,0.0,ARWEB
+36,Imports (cif),12  Mar-15*,0.0,ARWEB
+37,Fx inflow,12  Mar-15*,137.0,ARWEB
+38,Fx outflow,12  Mar-15*,20.0,ARWEB
+39,Net fx,12  Mar-15*,117.0,ARWEB
+40,From Operations,12  Mar-15*,838.0,ARWEB
+41,From Investments,12  Mar-15*,-250.0,ARWEB
+42,From Financial Activity,12  Mar-15*,-929.0,ARWEB
+43,Net Cashflow,12  Mar-15*,-341.0,ARWEB
+44,Net Sales,12  Mar-16*,3752.0,ARWEB
+45,Other income,12  Mar-16*,70.0,ARWEB
+46,Total revenues,12  Mar-16*,3822.0,ARWEB
+47,Gross profit,12  Mar-16*,1207.0,ARWEB
+48,Depreciation,12  Mar-16*,360.0,ARWEB
+49,Interest,12  Mar-16*,414.0,ARWEB
+50,Profit before tax,12  Mar-16*,504.0,ARWEB
+51,Minority Interest,12  Mar-16*,-50.0,ARWEB
+52,Prior Period Items,12  Mar-16*,-1.0,ARWEB
+53,Extraordinary Inc (Exp),12  Mar-16*,105.0,ARWEB
+54,Tax,12  Mar-16*,202.0,ARWEB
+55,Profit after tax,12  Mar-16*,355.0,ARWEB
+56,Gross profit margin,12  Mar-16*,32.2,ARWEB
+57,Effective tax rate,12  Mar-16*,40.1,ARWEB
+58,Net profit margin,12  Mar-16*,9.5,ARWEB
+59,Current assets,12  Mar-16*,2654.0,ARWEB
+60,Current liabilities,12  Mar-16*,1361.0,ARWEB
+61,Net working cap to sales,12  Mar-16*,34.5,ARWEB
+62,Current ratio,12  Mar-16*,1.9,ARWEB
+63,Inventory Days,12  Mar-16*,69.0,ARWEB
+64,Debtors Days,12  Mar-16*,14.0,ARWEB
+65,Net fixed assets,12  Mar-16*,8634.0,ARWEB
+66,Share capital,12  Mar-16*,231.0,ARWEB
+67,"""Free"" reserves",12  Mar-16*,8123.0,ARWEB
+68,Net worth,12  Mar-16*,8354.0,ARWEB
+69,Long term debt,12  Mar-16*,1863.0,ARWEB
+70,Total assets,12  Mar-16*,11950.0,ARWEB
+71,Interest coverage,12  Mar-16*,2.2,ARWEB
+72,Debt to equity ratio,12  Mar-16*,0.2,ARWEB
+73,Sales to assets ratio,12  Mar-16*,0.3,ARWEB
+74,Return on assets,12  Mar-16*,6.4,ARWEB
+75,Return on equity,12  Mar-16*,4.3,ARWEB
+76,Return on capital,12  Mar-16*,9.5,ARWEB
+77,Exports to sales,12  Mar-16*,12.0,ARWEB
+78,Imports to sales,12  Mar-16*,0.0,ARWEB
+79,Exports (fob),12  Mar-16*,450.0,ARWEB
+80,Imports (cif),12  Mar-16*,0.0,ARWEB
+81,Fx inflow,12  Mar-16*,556.0,ARWEB
+82,Fx outflow,12  Mar-16*,41.0,ARWEB
+83,Net fx,12  Mar-16*,514.0,ARWEB
+84,From Operations,12  Mar-16*,1172.0,ARWEB
+85,From Investments,12  Mar-16*,-173.0,ARWEB
+86,From Financial Activity,12  Mar-16*,-977.0,ARWEB
+87,Net Cashflow,12  Mar-16*,22.0,ARWEB
+88,Net Sales,12  Mar-17*,4547.0,ARWEB
+89,Other income,12  Mar-17*,50.0,ARWEB
+90,Total revenues,12  Mar-17*,4596.0,ARWEB
+91,Gross profit,12  Mar-17*,1640.0,ARWEB
+92,Depreciation,12  Mar-17*,361.0,ARWEB
+93,Interest,12  Mar-17*,350.0,ARWEB
+94,Profit before tax,12  Mar-17*,978.0,ARWEB
+95,Minority Interest,12  Mar-17*,-31.0,ARWEB
+96,Prior Period Items,12  Mar-17*,0.0,ARWEB
+97,Extraordinary Inc (Exp),12  Mar-17*,42.0,ARWEB
+98,Tax,12  Mar-17*,280.0,ARWEB
+99,Profit after tax,12  Mar-17*,709.0,ARWEB
+100,Gross profit margin,12  Mar-17*,36.1,ARWEB
+101,Effective tax rate,12  Mar-17*,28.7,ARWEB
+102,Net profit margin,12  Mar-17*,15.6,ARWEB
+103,Current assets,12  Mar-17*,3371.0,ARWEB
+104,Current liabilities,12  Mar-17*,2858.0,ARWEB
+105,Net working cap to sales,12  Mar-17*,11.3,ARWEB
+106,Current ratio,12  Mar-17*,1.2,ARWEB
+107,Inventory Days,12  Mar-17*,56.0,ARWEB
+108,Debtors Days,12  Mar-17*,3.0,ARWEB
+109,Net fixed assets,12  Mar-17*,8526.0,ARWEB
+110,Share capital,12  Mar-17*,232.0,ARWEB
+111,"""Free"" reserves",12  Mar-17*,8970.0,ARWEB
+112,Net worth,12  Mar-17*,9202.0,ARWEB
+113,Long term debt,12  Mar-17*,242.0,ARWEB
+114,Total assets,12  Mar-17*,12573.0,ARWEB
+115,Interest coverage,12  Mar-17*,3.8,ARWEB
+116,Debt to equity ratio,12  Mar-17*,0.0,ARWEB
+117,Sales to assets ratio,12  Mar-17*,0.4,ARWEB
+118,Return on assets,12  Mar-17*,8.4,ARWEB
+119,Return on equity,12  Mar-17*,7.7,ARWEB
+120,Return on capital,12  Mar-17*,14.2,ARWEB
+121,Exports to sales,12  Mar-17*,8.4,ARWEB
+122,Imports to sales,12  Mar-17*,0.0,ARWEB
+123,Exports (fob),12  Mar-17*,380.0,ARWEB
+124,Imports (cif),12  Mar-17*,0.0,ARWEB
+125,Fx inflow,12  Mar-17*,462.0,ARWEB
+126,Fx outflow,12  Mar-17*,69.0,ARWEB
+127,Net fx,12  Mar-17*,393.0,ARWEB
+128,From Operations,12  Mar-17*,1309.0,ARWEB
+129,From Investments,12  Mar-17*,-650.0,ARWEB
+130,From Financial Activity,12  Mar-17*,-589.0,ARWEB
+131,Net Cashflow,12  Mar-17*,70.0,ARWEB
+132,Net Sales,12  Mar-18*,6077.0,ARWEB
+133,Other income,12  Mar-18*,286.0,ARWEB
+134,Total revenues,12  Mar-18*,6363.0,ARWEB
+135,Gross profit,12  Mar-18*,2470.0,ARWEB
+136,Depreciation,12  Mar-18*,371.0,ARWEB
+137,Interest,12  Mar-18*,104.0,ARWEB
+138,Profit before tax,12  Mar-18*,2281.0,ARWEB
+139,Minority Interest,12  Mar-18*,-7.0,ARWEB
+140,Prior Period Items,12  Mar-18*,0.0,ARWEB
+141,Extraordinary Inc (Exp),12  Mar-18*,11.0,ARWEB
+142,Tax,12  Mar-18*,737.0,ARWEB
+143,Profit after tax,12  Mar-18*,1548.0,ARWEB
+144,Gross profit margin,12  Mar-18*,40.7,ARWEB
+145,Effective tax rate,12  Mar-18*,32.3,ARWEB
+146,Net profit margin,12  Mar-18*,25.5,ARWEB
+147,Current assets,12  Mar-18*,7053.0,ARWEB
+148,Current liabilities,12  Mar-18*,2752.0,ARWEB
+149,Net working cap to sales,12  Mar-18*,70.8,ARWEB
+150,Current ratio,12  Mar-18*,2.6,ARWEB
+151,Inventory Days,12  Mar-18*,42.0,ARWEB
+152,Debtors Days,12  Mar-18*,5.0,ARWEB
+153,Net fixed assets,12  Mar-18*,12277.0,ARWEB
+154,Share capital,12  Mar-18*,268.0,ARWEB
+155,"""Free"" reserves",12  Mar-18*,16560.0,ARWEB
+156,Net worth,12  Mar-18*,16827.0,ARWEB
+157,Long term debt,12  Mar-18*,13.0,ARWEB
+158,Total assets,12  Mar-18*,20082.0,ARWEB
+159,Interest coverage,12  Mar-18*,23.0,ARWEB
+160,Debt to equity ratio,12  Mar-18*,0.0,ARWEB
+161,Sales to assets ratio,12  Mar-18*,0.3,ARWEB
+162,Return on assets,12  Mar-18*,8.2,ARWEB
+163,Return on equity,12  Mar-18*,9.2,ARWEB
+164,Return on capital,12  Mar-18*,14.2,ARWEB
+165,Exports to sales,12  Mar-18*,0.0,ARWEB
+166,Imports to sales,12  Mar-18*,0.0,ARWEB
+167,Exports (fob),12  Mar-18*,0.0,ARWEB
+168,Imports (cif),12  Mar-18*,0.0,ARWEB
+169,Fx inflow,12  Mar-18*,115.0,ARWEB
+170,Fx outflow,12  Mar-18*,426.0,ARWEB
+171,Net fx,12  Mar-18*,-311.0,ARWEB
+172,From Operations,12  Mar-18*,2285.0,ARWEB
+173,From Investments,12  Mar-18*,-4605.0,ARWEB
+174,From Financial Activity,12  Mar-18*,3011.0,ARWEB
+175,Net Cashflow,12  Mar-18*,935.0,ARWEB
+176,Net Sales,12  Mar-19*,7978.0,ARWEB
+177,Other income,12  Mar-19*,313.0,ARWEB
+178,Total revenues,12  Mar-19*,8291.0,ARWEB
+179,Gross profit,12  Mar-19*,3187.0,ARWEB
+180,Depreciation,12  Mar-19*,377.0,ARWEB
+181,Interest,12  Mar-19*,18.0,ARWEB
+182,Profit before tax,12  Mar-19*,3105.0,ARWEB
+183,Minority Interest,12  Mar-19*,0.0,ARWEB
+184,Prior Period Items,12  Mar-19*,0.0,ARWEB
+185,Extraordinary Inc (Exp),12  Mar-19*,43.0,ARWEB
+186,Tax,12  Mar-19*,1141.0,ARWEB
+187,Profit after tax,12  Mar-19*,2007.0,ARWEB
+188,Gross profit margin,12  Mar-19*,39.9,ARWEB
+189,Effective tax rate,12  Mar-19*,36.8,ARWEB
+190,Net profit margin,12  Mar-19*,25.2,ARWEB
+191,Current assets,12  Mar-19*,7445.0,ARWEB
+192,Current liabilities,12  Mar-19*,1181.0,ARWEB
+193,Net working cap to sales,12  Mar-19*,78.5,ARWEB
+194,Current ratio,12  Mar-19*,6.3,ARWEB
+195,Inventory Days,12  Mar-19*,44.0,ARWEB
+196,Debtors Days,12  Mar-19*,3.0,ARWEB
+197,Net fixed assets,12  Mar-19*,12424.0,ARWEB
+198,Share capital,12  Mar-19*,271.0,ARWEB
+199,"""Free"" reserves",12  Mar-19*,19152.0,ARWEB
+200,Net worth,12  Mar-19*,19423.0,ARWEB
+201,Long term debt,12  Mar-19*,0.0,ARWEB
+202,Total assets,12  Mar-19*,20950.0,ARWEB
+203,Interest coverage,12  Mar-19*,175.5,ARWEB
+204,Debt to equity ratio,12  Mar-19*,0.0,ARWEB
+205,Sales to assets ratio,12  Mar-19*,0.4,ARWEB
+206,Return on assets,12  Mar-19*,9.7,ARWEB
+207,Return on equity,12  Mar-19*,10.3,ARWEB
+208,Return on capital,12  Mar-19*,16.3,ARWEB
+209,Exports to sales,12  Mar-19*,0.0,ARWEB
+210,Imports to sales,12  Mar-19*,0.0,ARWEB
+211,Exports (fob),12  Mar-19*,0.0,ARWEB
+212,Imports (cif),12  Mar-19*,0.0,ARWEB
+213,Fx inflow,12  Mar-19*,49.0,ARWEB
+214,Fx outflow,12  Mar-19*,57.0,ARWEB
+215,Net fx,12  Mar-19*,-8.0,ARWEB
+216,From Operations,12  Mar-19*,1014.0,ARWEB
+217,From Investments,12  Mar-19*,-785.0,ARWEB
+218,From Financial Activity,12  Mar-19*,-727.0,ARWEB
+219,Net Cashflow,12  Mar-19*,-497.0,ARWEB

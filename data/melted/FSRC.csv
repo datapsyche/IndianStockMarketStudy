@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,31059.0,FSRC
+1,Other income,12  Mar-14*,20.0,FSRC
+2,Total revenues,12  Mar-14*,31079.0,FSRC
+3,Gross profit,12  Mar-14*,3621.0,FSRC
+4,Depreciation,12  Mar-14*,757.0,FSRC
+5,Interest,12  Mar-14*,852.0,FSRC
+6,Profit before tax,12  Mar-14*,2033.0,FSRC
+7,Minority Interest,12  Mar-14*,-2.0,FSRC
+8,Prior Period Items,12  Mar-14*,0.0,FSRC
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,FSRC
+10,Tax,12  Mar-14*,101.0,FSRC
+11,Profit after tax,12  Mar-14*,1930.0,FSRC
+12,Gross profit margin,12  Mar-14*,11.7,FSRC
+13,Effective tax rate,12  Mar-14*,5.0,FSRC
+14,Net profit margin,12  Mar-14*,6.2,FSRC
+15,Current assets,12  Mar-14*,7481.0,FSRC
+16,Current liabilities,12  Mar-14*,8567.0,FSRC
+17,Net working cap to sales,12  Mar-14*,-3.5,FSRC
+18,Current ratio,12  Mar-14*,0.9,FSRC
+19,Inventory Days,12  Mar-14*,0.0,FSRC
+20,Debtors Days,12  Mar-14*,35.0,FSRC
+21,Net fixed assets,12  Mar-14*,1368.0,FSRC
+22,Share capital,12  Mar-14*,6597.0,FSRC
+23,"""Free"" reserves",12  Mar-14*,10962.0,FSRC
+24,Net worth,12  Mar-14*,20929.0,FSRC
+25,Long term debt,12  Mar-14*,6642.0,FSRC
+26,Total assets,12  Mar-14*,36895.0,FSRC
+27,Interest coverage,12  Mar-14*,3.4,FSRC
+28,Debt to equity ratio,12  Mar-14*,0.3,FSRC
+29,Sales to assets ratio,12  Mar-14*,0.8,FSRC
+30,Return on assets,12  Mar-14*,7.5,FSRC
+31,Return on equity,12  Mar-14*,9.2,FSRC
+32,Return on capital,12  Mar-14*,10.5,FSRC
+33,Exports to sales,12  Mar-14*,0.0,FSRC
+34,Imports to sales,12  Mar-14*,1.0,FSRC
+35,Exports (fob),12  Mar-14*,0.0,FSRC
+36,Imports (cif),12  Mar-14*,302.0,FSRC
+37,Fx inflow,12  Mar-14*,4633.0,FSRC
+38,Fx outflow,12  Mar-14*,437.0,FSRC
+39,Net fx,12  Mar-14*,4196.0,FSRC
+40,From Operations,12  Mar-14*,3956.0,FSRC
+41,From Investments,12  Mar-14*,-133.0,FSRC
+42,From Financial Activity,12  Mar-14*,-2864.0,FSRC
+43,Net Cashflow,12  Mar-14*,959.0,FSRC
+44,Net Sales,12  Mar-15*,30347.0,FSRC
+45,Other income,12  Mar-15*,65.0,FSRC
+46,Total revenues,12  Mar-15*,30412.0,FSRC
+47,Gross profit,12  Mar-15*,3808.0,FSRC
+48,Depreciation,12  Mar-15*,722.0,FSRC
+49,Interest,12  Mar-15*,711.0,FSRC
+50,Profit before tax,12  Mar-15*,2440.0,FSRC
+51,Minority Interest,12  Mar-15*,-2.0,FSRC
+52,Prior Period Items,12  Mar-15*,0.0,FSRC
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,FSRC
+54,Tax,12  Mar-15*,95.0,FSRC
+55,Profit after tax,12  Mar-15*,2343.0,FSRC
+56,Gross profit margin,12  Mar-15*,12.5,FSRC
+57,Effective tax rate,12  Mar-15*,3.9,FSRC
+58,Net profit margin,12  Mar-15*,7.7,FSRC
+59,Current assets,12  Mar-15*,7436.0,FSRC
+60,Current liabilities,12  Mar-15*,8698.0,FSRC
+61,Net working cap to sales,12  Mar-15*,-4.2,FSRC
+62,Current ratio,12  Mar-15*,0.9,FSRC
+63,Inventory Days,12  Mar-15*,0.0,FSRC
+64,Debtors Days,12  Mar-15*,35.0,FSRC
+65,Net fixed assets,12  Mar-15*,1188.0,FSRC
+66,Share capital,12  Mar-15*,6663.0,FSRC
+67,"""Free"" reserves",12  Mar-15*,10346.0,FSRC
+68,Net worth,12  Mar-15*,20903.0,FSRC
+69,Long term debt,12  Mar-15*,4143.0,FSRC
+70,Total assets,12  Mar-15*,34265.0,FSRC
+71,Interest coverage,12  Mar-15*,4.4,FSRC
+72,Debt to equity ratio,12  Mar-15*,0.2,FSRC
+73,Sales to assets ratio,12  Mar-15*,0.9,FSRC
+74,Return on assets,12  Mar-15*,8.9,FSRC
+75,Return on equity,12  Mar-15*,11.2,FSRC
+76,Return on capital,12  Mar-15*,12.6,FSRC
+77,Exports to sales,12  Mar-15*,0.0,FSRC
+78,Imports to sales,12  Mar-15*,0.4,FSRC
+79,Exports (fob),12  Mar-15*,0.0,FSRC
+80,Imports (cif),12  Mar-15*,120.0,FSRC
+81,Fx inflow,12  Mar-15*,5339.0,FSRC
+82,Fx outflow,12  Mar-15*,206.0,FSRC
+83,Net fx,12  Mar-15*,5133.0,FSRC
+84,From Operations,12  Mar-15*,2461.0,FSRC
+85,From Investments,12  Mar-15*,-1042.0,FSRC
+86,From Financial Activity,12  Mar-15*,-2465.0,FSRC
+87,Net Cashflow,12  Mar-15*,-1046.0,FSRC
+88,Net Sales,12  Mar-16*,32303.0,FSRC
+89,Other income,12  Mar-16*,94.0,FSRC
+90,Total revenues,12  Mar-16*,32397.0,FSRC
+91,Gross profit,12  Mar-16*,4048.0,FSRC
+92,Depreciation,12  Mar-16*,662.0,FSRC
+93,Interest,12  Mar-16*,524.0,FSRC
+94,Profit before tax,12  Mar-16*,2956.0,FSRC
+95,Minority Interest,12  Mar-16*,-4.0,FSRC
+96,Prior Period Items,12  Mar-16*,0.0,FSRC
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,FSRC
+98,Tax,12  Mar-16*,302.0,FSRC
+99,Profit after tax,12  Mar-16*,2650.0,FSRC
+100,Gross profit margin,12  Mar-16*,12.5,FSRC
+101,Effective tax rate,12  Mar-16*,10.2,FSRC
+102,Net profit margin,12  Mar-16*,8.2,FSRC
+103,Current assets,12  Mar-16*,7885.0,FSRC
+104,Current liabilities,12  Mar-16*,7699.0,FSRC
+105,Net working cap to sales,12  Mar-16*,0.6,FSRC
+106,Current ratio,12  Mar-16*,1.0,FSRC
+107,Inventory Days,12  Mar-16*,0.0,FSRC
+108,Debtors Days,12  Mar-16*,34.0,FSRC
+109,Net fixed assets,12  Mar-16*,1407.0,FSRC
+110,Share capital,12  Mar-16*,6733.0,FSRC
+111,"""Free"" reserves",12  Mar-16*,12847.0,FSRC
+112,Net worth,12  Mar-16*,24271.0,FSRC
+113,Long term debt,12  Mar-16*,4270.0,FSRC
+114,Total assets,12  Mar-16*,36672.0,FSRC
+115,Interest coverage,12  Mar-16*,6.6,FSRC
+116,Debt to equity ratio,12  Mar-16*,0.2,FSRC
+117,Sales to assets ratio,12  Mar-16*,0.9,FSRC
+118,Return on assets,12  Mar-16*,8.7,FSRC
+119,Return on equity,12  Mar-16*,10.9,FSRC
+120,Return on capital,12  Mar-16*,12.2,FSRC
+121,Exports to sales,12  Mar-16*,0.0,FSRC
+122,Imports to sales,12  Mar-16*,0.3,FSRC
+123,Exports (fob),12  Mar-16*,0.0,FSRC
+124,Imports (cif),12  Mar-16*,83.0,FSRC
+125,Fx inflow,12  Mar-16*,5084.0,FSRC
+126,Fx outflow,12  Mar-16*,145.0,FSRC
+127,Net fx,12  Mar-16*,4939.0,FSRC
+128,From Operations,12  Mar-16*,2997.0,FSRC
+129,From Investments,12  Mar-16*,-1037.0,FSRC
+130,From Financial Activity,12  Mar-16*,-2074.0,FSRC
+131,Net Cashflow,12  Mar-16*,-114.0,FSRC
+132,Net Sales,12  Mar-17*,35556.0,FSRC
+133,Other income,12  Mar-17*,32.0,FSRC
+134,Total revenues,12  Mar-17*,35588.0,FSRC
+135,Gross profit,12  Mar-17*,4380.0,FSRC
+136,Depreciation,12  Mar-17*,590.0,FSRC
+137,Interest,12  Mar-17*,453.0,FSRC
+138,Profit before tax,12  Mar-17*,3369.0,FSRC
+139,Minority Interest,12  Mar-17*,0.0,FSRC
+140,Prior Period Items,12  Mar-17*,0.0,FSRC
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,FSRC
+142,Tax,12  Mar-17*,577.0,FSRC
+143,Profit after tax,12  Mar-17*,2792.0,FSRC
+144,Gross profit margin,12  Mar-17*,12.3,FSRC
+145,Effective tax rate,12  Mar-17*,17.1,FSRC
+146,Net profit margin,12  Mar-17*,7.9,FSRC
+147,Current assets,12  Mar-17*,7843.0,FSRC
+148,Current liabilities,12  Mar-17*,9121.0,FSRC
+149,Net working cap to sales,12  Mar-17*,-3.6,FSRC
+150,Current ratio,12  Mar-17*,0.9,FSRC
+151,Inventory Days,12  Mar-17*,0.0,FSRC
+152,Debtors Days,12  Mar-17*,31.0,FSRC
+153,Net fixed assets,12  Mar-17*,1497.0,FSRC
+154,Share capital,12  Mar-17*,6813.0,FSRC
+155,"""Free"" reserves",12  Mar-17*,13467.0,FSRC
+156,Net worth,12  Mar-17*,20280.0,FSRC
+157,Long term debt,12  Mar-17*,3580.0,FSRC
+158,Total assets,12  Mar-17*,33506.0,FSRC
+159,Interest coverage,12  Mar-17*,8.4,FSRC
+160,Debt to equity ratio,12  Mar-17*,0.2,FSRC
+161,Sales to assets ratio,12  Mar-17*,1.1,FSRC
+162,Return on assets,12  Mar-17*,9.7,FSRC
+163,Return on equity,12  Mar-17*,13.8,FSRC
+164,Return on capital,12  Mar-17*,16.0,FSRC
+165,Exports to sales,12  Mar-17*,0.0,FSRC
+166,Imports to sales,12  Mar-17*,0.0,FSRC
+167,Exports (fob),12  Mar-17*,0.0,FSRC
+168,Imports (cif),12  Mar-17*,0.0,FSRC
+169,Fx inflow,12  Mar-17*,5683.0,FSRC
+170,Fx outflow,12  Mar-17*,156.0,FSRC
+171,Net fx,12  Mar-17*,5528.0,FSRC
+172,From Operations,12  Mar-17*,1998.0,FSRC
+173,From Investments,12  Mar-17*,-2315.0,FSRC
+174,From Financial Activity,12  Mar-17*,35.0,FSRC
+175,Net Cashflow,12  Mar-17*,-299.0,FSRC
+176,Net Sales,12  Mar-18*,35353.0,FSRC
+177,Other income,12  Mar-18*,54.0,FSRC
+178,Total revenues,12  Mar-18*,35407.0,FSRC
+179,Gross profit,12  Mar-18*,4589.0,FSRC
+180,Depreciation,12  Mar-18*,659.0,FSRC
+181,Interest,12  Mar-18*,404.0,FSRC
+182,Profit before tax,12  Mar-18*,3580.0,FSRC
+183,Minority Interest,12  Mar-18*,0.0,FSRC
+184,Prior Period Items,12  Mar-18*,0.0,FSRC
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,FSRC
+186,Tax,12  Mar-18*,314.0,FSRC
+187,Profit after tax,12  Mar-18*,3266.0,FSRC
+188,Gross profit margin,12  Mar-18*,13.0,FSRC
+189,Effective tax rate,12  Mar-18*,8.8,FSRC
+190,Net profit margin,12  Mar-18*,9.2,FSRC
+191,Current assets,12  Mar-18*,7891.0,FSRC
+192,Current liabilities,12  Mar-18*,9826.0,FSRC
+193,Net working cap to sales,12  Mar-18*,-5.5,FSRC
+194,Current ratio,12  Mar-18*,0.8,FSRC
+195,Inventory Days,12  Mar-18*,0.0,FSRC
+196,Debtors Days,12  Mar-18*,39.0,FSRC
+197,Net fixed assets,12  Mar-18*,1510.0,FSRC
+198,Share capital,12  Mar-18*,6865.0,FSRC
+199,"""Free"" reserves",12  Mar-18*,16652.0,FSRC
+200,Net worth,12  Mar-18*,23518.0,FSRC
+201,Long term debt,12  Mar-18*,142.0,FSRC
+202,Total assets,12  Mar-18*,33976.0,FSRC
+203,Interest coverage,12  Mar-18*,9.9,FSRC
+204,Debt to equity ratio,12  Mar-18*,0.0,FSRC
+205,Sales to assets ratio,12  Mar-18*,1.0,FSRC
+206,Return on assets,12  Mar-18*,10.8,FSRC
+207,Return on equity,12  Mar-18*,13.9,FSRC
+208,Return on capital,12  Mar-18*,16.8,FSRC
+209,Exports to sales,12  Mar-18*,0.0,FSRC
+210,Imports to sales,12  Mar-18*,0.0,FSRC
+211,Exports (fob),12  Mar-18*,0.0,FSRC
+212,Imports (cif),12  Mar-18*,0.0,FSRC
+213,Fx inflow,12  Mar-18*,5788.0,FSRC
+214,Fx outflow,12  Mar-18*,293.0,FSRC
+215,Net fx,12  Mar-18*,5495.0,FSRC
+216,From Operations,12  Mar-18*,3151.0,FSRC
+217,From Investments,12  Mar-18*,916.0,FSRC
+218,From Financial Activity,12  Mar-18*,-3268.0,FSRC
+219,Net Cashflow,12  Mar-18*,843.0,FSRC

@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,0,BNDN
+1,Other income,12  Mar-15*,80,BNDN
+2,Interest expense,12  Mar-15*,0,BNDN
+3,Net interest income,12  Mar-15*,0,BNDN
+4,Operating expense,12  Mar-15*,57,BNDN
+5,Provisions/contingencies,12  Mar-15*,17,BNDN
+6,Profit before tax,12  Mar-15*,6,BNDN
+7,Extraordinary Inc (Exp),12  Mar-15*,0,BNDN
+8,Minority Interest,12  Mar-15*,0,BNDN
+9,Prior Period Items,12  Mar-15*,0,BNDN
+10,Tax,12  Mar-15*,0,BNDN
+11,Profit after tax,12  Mar-15*,6,BNDN
+12,Net profit margin,12  Mar-15*,N.A.,BNDN
+13,Advances,12  Mar-15*,0,BNDN
+14,Deposits,12  Mar-15*,0,BNDN
+15,Credit/Deposit ratio,12  Mar-15*,NM,BNDN
+16,Yield on advances,12  Mar-15*,N.A.,BNDN
+17,Cost of deposits,12  Mar-15*,N.A.,BNDN
+18,Net Interest Margin,12  Mar-15*,0,BNDN
+19,Net fixed assets,12  Mar-15*,1086,BNDN
+20,Share capital,12  Mar-15*,5011,BNDN
+21,Free reserves,12  Mar-15*,6,BNDN
+22,Net worth,12  Mar-15*,5016,BNDN
+23,Borrowings,12  Mar-15*,0,BNDN
+24,Investments,12  Mar-15*,0,BNDN
+25,Total assets,12  Mar-15*,5269,BNDN
+26,Debt/equity ratio,12  Mar-15*,0,BNDN
+27,Return on assets,12  Mar-15*,0.1,BNDN
+28,Return on equity,12  Mar-15*,0.1,BNDN
+29,Capital adequacy ratio,12  Mar-15*,0,BNDN
+30,Net NPAs,12  Mar-15*,0,BNDN
+31,From Operations,12  Mar-15*,5,BNDN
+32,From Investments,12  Mar-15*,-1015,BNDN
+33,From Financial Activity,12  Mar-15*,5011,BNDN
+34,Net Cashflow,12  Mar-15*,4000,BNDN
+35,Interest income,12  Mar-16*,15813.0,BNDN
+36,Other income,12  Mar-16*,1500.0,BNDN
+37,Interest expense,12  Mar-16*,6485.0,BNDN
+38,Net interest income,12  Mar-16*,9327.0,BNDN
+39,Operating expense,12  Mar-16*,6159.0,BNDN
+40,Provisions/contingencies,12  Mar-16*,1916.0,BNDN
+41,Profit before tax,12  Mar-16*,2753.0,BNDN
+42,Extraordinary Inc (Exp),12  Mar-16*,0.0,BNDN
+43,Minority Interest,12  Mar-16*,0.0,BNDN
+44,Prior Period Items,12  Mar-16*,0.0,BNDN
+45,Tax,12  Mar-16*,0.0,BNDN
+46,Profit after tax,12  Mar-16*,2753.0,BNDN
+47,Net profit margin,12  Mar-16*,17.4,BNDN
+48,Advances,12  Mar-16*,124376.0,BNDN
+49,Deposits,12  Mar-16*,120888.0,BNDN
+50,Credit/Deposit ratio,12  Mar-16*,102.9,BNDN
+51,Yield on advances,12  Mar-16*,10.3,BNDN
+52,Cost of deposits,12  Mar-16*,1.8,BNDN
+53,Net Interest Margin,12  Mar-16*,4.8,BNDN
+54,Net fixed assets,12  Mar-16*,2372.0,BNDN
+55,Share capital,12  Mar-16*,10951.0,BNDN
+56,Free reserves,12  Mar-16*,2154.0,BNDN
+57,Net worth,12  Mar-16*,33345.0,BNDN
+58,Borrowings,12  Mar-16*,30517.0,BNDN
+59,Investments,12  Mar-16*,37580.0,BNDN
+60,Total assets,12  Mar-16*,199157.0,BNDN
+61,Debt/equity ratio,12  Mar-16*,4.5,BNDN
+62,Return on assets,12  Mar-16*,1.4,BNDN
+63,Return on equity,12  Mar-16*,8.3,BNDN
+64,Capital adequacy ratio,12  Mar-16*,29.0,BNDN
+65,Net NPAs,12  Mar-16*,0.0,BNDN
+66,From Operations,12  Mar-16*,69496.0,BNDN
+67,From Investments,12  Mar-16*,-37139.0,BNDN
+68,From Financial Activity,12  Mar-16*,-37226.0,BNDN
+69,Net Cashflow,12  Mar-16*,27734.0,BNDN
+70,Interest income,12  Mar-17*,39087.0,BNDN
+71,Other income,12  Mar-17*,4114.0,BNDN
+72,Interest expense,12  Mar-17*,15052.0,BNDN
+73,Net interest income,12  Mar-17*,24035.0,BNDN
+74,Operating expense,12  Mar-17*,10220.0,BNDN
+75,Provisions/contingencies,12  Mar-17*,6810.0,BNDN
+76,Profit before tax,12  Mar-17*,11120.0,BNDN
+77,Extraordinary Inc (Exp),12  Mar-17*,0.0,BNDN
+78,Minority Interest,12  Mar-17*,0.0,BNDN
+79,Prior Period Items,12  Mar-17*,0.0,BNDN
+80,Tax,12  Mar-17*,0.0,BNDN
+81,Profit after tax,12  Mar-17*,11120.0,BNDN
+82,Net profit margin,12  Mar-17*,28.4,BNDN
+83,Advances,12  Mar-17*,168391.0,BNDN
+84,Deposits,12  Mar-17*,232287.0,BNDN
+85,Credit/Deposit ratio,12  Mar-17*,72.5,BNDN
+86,Yield on advances,12  Mar-17*,18.5,BNDN
+87,Cost of deposits,12  Mar-17*,5.6,BNDN
+88,Net Interest Margin,12  Mar-17*,8.1,BNDN
+89,Net fixed assets,12  Mar-17*,2518.0,BNDN
+90,Share capital,12  Mar-17*,10951.0,BNDN
+91,Free reserves,12  Mar-17*,10484.0,BNDN
+92,Net worth,12  Mar-17*,44465.0,BNDN
+93,Borrowings,12  Mar-17*,10289.0,BNDN
+94,Investments,12  Mar-17*,55165.0,BNDN
+95,Total assets,12  Mar-17*,302361.0,BNDN
+96,Debt/equity ratio,12  Mar-17*,5.5,BNDN
+97,Return on assets,12  Mar-17*,3.7,BNDN
+98,Return on equity,12  Mar-17*,25.0,BNDN
+99,Capital adequacy ratio,12  Mar-17*,26.4,BNDN
+100,Net NPAs,12  Mar-17*,0.4,BNDN
+101,From Operations,12  Mar-17*,88852.0,BNDN
+102,From Investments,12  Mar-17*,-26709.0,BNDN
+103,From Financial Activity,12  Mar-17*,-20227.0,BNDN
+104,Net Cashflow,12  Mar-17*,41916.0,BNDN
+105,Interest income,12  Mar-18*,48023.0,BNDN
+106,Other income,12  Mar-18*,7062.0,BNDN
+107,Interest expense,12  Mar-18*,17701.0,BNDN
+108,Net interest income,12  Mar-18*,30322.0,BNDN
+109,Operating expense,12  Mar-18*,13083.0,BNDN
+110,Provisions/contingencies,12  Mar-18*,10846.0,BNDN
+111,Profit before tax,12  Mar-18*,13456.0,BNDN
+112,Extraordinary Inc (Exp),12  Mar-18*,0.0,BNDN
+113,Minority Interest,12  Mar-18*,0.0,BNDN
+114,Prior Period Items,12  Mar-18*,0.0,BNDN
+115,Tax,12  Mar-18*,0.0,BNDN
+116,Profit after tax,12  Mar-18*,13456.0,BNDN
+117,Net profit margin,12  Mar-18*,28.0,BNDN
+118,Advances,12  Mar-18*,297130.0,BNDN
+119,Deposits,12  Mar-18*,338690.0,BNDN
+120,Credit/Deposit ratio,12  Mar-18*,87.7,BNDN
+121,Yield on advances,12  Mar-18*,12.9,BNDN
+122,Cost of deposits,12  Mar-18*,5.0,BNDN
+123,Net Interest Margin,12  Mar-18*,7.0,BNDN
+124,Net fixed assets,12  Mar-18*,2381.0,BNDN
+125,Share capital,12  Mar-18*,11928.0,BNDN
+126,Free reserves,12  Mar-18*,20576.0,BNDN
+127,Net worth,12  Mar-18*,93820.0,BNDN
+128,Borrowings,12  Mar-18*,2850.0,BNDN
+129,Investments,12  Mar-18*,83719.0,BNDN
+130,Total assets,12  Mar-18*,443101.0,BNDN
+131,Debt/equity ratio,12  Mar-18*,3.6,BNDN
+132,Return on assets,12  Mar-18*,3.0,BNDN
+133,Return on equity,12  Mar-18*,14.3,BNDN
+134,Capital adequacy ratio,12  Mar-18*,31.5,BNDN
+135,Net NPAs,12  Mar-18*,0.6,BNDN
+136,From Operations,12  Mar-18*,-25988.0,BNDN
+137,From Investments,12  Mar-18*,-22366.0,BNDN
+138,From Financial Activity,12  Mar-18*,28460.0,BNDN
+139,Net Cashflow,12  Mar-18*,-19894.0,BNDN
+140,Interest income,12  Mar-19*,66441.0,BNDN
+141,Other income,12  Mar-19*,10631.0,BNDN
+142,Interest expense,12  Mar-19*,21480.0,BNDN
+143,Net interest income,12  Mar-19*,44961.0,BNDN
+144,Operating expense,12  Mar-19*,18110.0,BNDN
+145,Provisions/contingencies,12  Mar-19*,17967.0,BNDN
+146,Profit before tax,12  Mar-19*,19515.0,BNDN
+147,Extraordinary Inc (Exp),12  Mar-19*,0.0,BNDN
+148,Minority Interest,12  Mar-19*,0.0,BNDN
+149,Prior Period Items,12  Mar-19*,0.0,BNDN
+150,Tax,12  Mar-19*,0.0,BNDN
+151,Profit after tax,12  Mar-19*,19515.0,BNDN
+152,Net profit margin,12  Mar-19*,29.4,BNDN
+153,Advances,12  Mar-19*,396434.0,BNDN
+154,Deposits,12  Mar-19*,432316.0,BNDN
+155,Credit/Deposit ratio,12  Mar-19*,91.7,BNDN
+156,Yield on advances,12  Mar-19*,14.4,BNDN
+157,Cost of deposits,12  Mar-19*,4.8,BNDN
+158,Net Interest Margin,12  Mar-19*,8.1,BNDN
+159,Net fixed assets,12  Mar-19*,3312.0,BNDN
+160,Share capital,12  Mar-19*,11931.0,BNDN
+161,Free reserves,12  Mar-19*,100087.0,BNDN
+162,Net worth,12  Mar-19*,112018.0,BNDN
+163,Borrowings,12  Mar-19*,5214.0,BNDN
+164,Investments,12  Mar-19*,100375.0,BNDN
+165,Total assets,12  Mar-19*,564417.0,BNDN
+166,Debt/equity ratio,12  Mar-19*,3.9,BNDN
+167,Return on assets,12  Mar-19*,3.5,BNDN
+168,Return on equity,12  Mar-19*,17.4,BNDN
+169,Capital adequacy ratio,12  Mar-19*,29.2,BNDN
+170,Net NPAs,12  Mar-19*,0.6,BNDN
+171,From Operations,12  Mar-19*,29341.0,BNDN
+172,From Investments,12  Mar-19*,-26119.0,BNDN
+173,From Financial Activity,12  Mar-19*,1047.0,BNDN
+174,Net Cashflow,12  Mar-19*,4269.0,BNDN

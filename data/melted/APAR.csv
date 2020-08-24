@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,51219.0,APAR
+1,Other income,12  Mar-15*,18.0,APAR
+2,Total revenues,12  Mar-15*,51236.0,APAR
+3,Gross profit,12  Mar-15*,2518.0,APAR
+4,Depreciation,12  Mar-15*,312.0,APAR
+5,Interest,12  Mar-15*,1499.0,APAR
+6,Profit before tax,12  Mar-15*,725.0,APAR
+7,Minority Interest,12  Mar-15*,1.0,APAR
+8,Prior Period Items,12  Mar-15*,0.0,APAR
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,APAR
+10,Tax,12  Mar-15*,231.0,APAR
+11,Profit after tax,12  Mar-15*,495.0,APAR
+12,Gross profit margin,12  Mar-15*,4.9,APAR
+13,Effective tax rate,12  Mar-15*,31.8,APAR
+14,Net profit margin,12  Mar-15*,1.0,APAR
+15,Current assets,12  Mar-15*,25063.0,APAR
+16,Current liabilities,12  Mar-15*,20965.0,APAR
+17,Net working cap to sales,12  Mar-15*,8.0,APAR
+18,Current ratio,12  Mar-15*,1.2,APAR
+19,Inventory Days,12  Mar-15*,67.0,APAR
+20,Debtors Days,12  Mar-15*,90.0,APAR
+21,Net fixed assets,12  Mar-15*,3831.0,APAR
+22,Share capital,12  Mar-15*,385.0,APAR
+23,"""Free"" reserves",12  Mar-15*,6671.0,APAR
+24,Net worth,12  Mar-15*,7298.0,APAR
+25,Long term debt,12  Mar-15*,948.0,APAR
+26,Total assets,12  Mar-15*,29559.0,APAR
+27,Interest coverage,12  Mar-15*,1.5,APAR
+28,Debt to equity ratio,12  Mar-15*,0.1,APAR
+29,Sales to assets ratio,12  Mar-15*,1.7,APAR
+30,Return on assets,12  Mar-15*,6.7,APAR
+31,Return on equity,12  Mar-15*,6.8,APAR
+32,Return on capital,12  Mar-15*,27.0,APAR
+33,Exports to sales,12  Mar-15*,29.5,APAR
+34,Imports to sales,12  Mar-15*,59.4,APAR
+35,Exports (fob),12  Mar-15*,15122.0,APAR
+36,Imports (cif),12  Mar-15*,30432.0,APAR
+37,Fx inflow,12  Mar-15*,17348.0,APAR
+38,Fx outflow,12  Mar-15*,31122.0,APAR
+39,Net fx,12  Mar-15*,-13774.0,APAR
+40,From Operations,12  Mar-15*,2984.0,APAR
+41,From Investments,12  Mar-15*,-593.0,APAR
+42,From Financial Activity,12  Mar-15*,-3693.0,APAR
+43,Net Cashflow,12  Mar-15*,-1301.0,APAR
+44,Net Sales,12  Mar-16*,50800.0,APAR
+45,Other income,12  Mar-16*,34.0,APAR
+46,Total revenues,12  Mar-16*,50834.0,APAR
+47,Gross profit,12  Mar-16*,4064.0,APAR
+48,Depreciation,12  Mar-16*,378.0,APAR
+49,Interest,12  Mar-16*,1514.0,APAR
+50,Profit before tax,12  Mar-16*,2207.0,APAR
+51,Minority Interest,12  Mar-16*,-8.0,APAR
+52,Prior Period Items,12  Mar-16*,0.0,APAR
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,APAR
+54,Tax,12  Mar-16*,571.0,APAR
+55,Profit after tax,12  Mar-16*,1628.0,APAR
+56,Gross profit margin,12  Mar-16*,8.0,APAR
+57,Effective tax rate,12  Mar-16*,25.9,APAR
+58,Net profit margin,12  Mar-16*,3.2,APAR
+59,Current assets,12  Mar-16*,22621.0,APAR
+60,Current liabilities,12  Mar-16*,18108.0,APAR
+61,Net working cap to sales,12  Mar-16*,8.9,APAR
+62,Current ratio,12  Mar-16*,1.2,APAR
+63,Inventory Days,12  Mar-16*,56.0,APAR
+64,Debtors Days,12  Mar-16*,78.0,APAR
+65,Net fixed assets,12  Mar-16*,4439.0,APAR
+66,Share capital,12  Mar-16*,385.0,APAR
+67,"""Free"" reserves",12  Mar-16*,7972.0,APAR
+68,Net worth,12  Mar-16*,8593.0,APAR
+69,Long term debt,12  Mar-16*,837.0,APAR
+70,Total assets,12  Mar-16*,27926.0,APAR
+71,Interest coverage,12  Mar-16*,2.5,APAR
+72,Debt to equity ratio,12  Mar-16*,0.1,APAR
+73,Sales to assets ratio,12  Mar-16*,1.8,APAR
+74,Return on assets,12  Mar-16*,11.3,APAR
+75,Return on equity,12  Mar-16*,18.9,APAR
+76,Return on capital,12  Mar-16*,39.4,APAR
+77,Exports to sales,12  Mar-16*,29.6,APAR
+78,Imports to sales,12  Mar-16*,43.9,APAR
+79,Exports (fob),12  Mar-16*,15036.0,APAR
+80,Imports (cif),12  Mar-16*,22284.0,APAR
+81,Fx inflow,12  Mar-16*,16750.0,APAR
+82,Fx outflow,12  Mar-16*,22284.0,APAR
+83,Net fx,12  Mar-16*,-5535.0,APAR
+84,From Operations,12  Mar-16*,4135.0,APAR
+85,From Investments,12  Mar-16*,-1522.0,APAR
+86,From Financial Activity,12  Mar-16*,-2248.0,APAR
+87,Net Cashflow,12  Mar-16*,365.0,APAR
+88,Net Sales,12  Mar-17*,48320.0,APAR
+89,Other income,12  Mar-17*,160.0,APAR
+90,Total revenues,12  Mar-17*,48479.0,APAR
+91,Gross profit,12  Mar-17*,4168.0,APAR
+92,Depreciation,12  Mar-17*,450.0,APAR
+93,Interest,12  Mar-17*,1144.0,APAR
+94,Profit before tax,12  Mar-17*,2734.0,APAR
+95,Minority Interest,12  Mar-17*,3.0,APAR
+96,Prior Period Items,12  Mar-17*,0.0,APAR
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,APAR
+98,Tax,12  Mar-17*,972.0,APAR
+99,Profit after tax,12  Mar-17*,1766.0,APAR
+100,Gross profit margin,12  Mar-17*,8.6,APAR
+101,Effective tax rate,12  Mar-17*,35.5,APAR
+102,Net profit margin,12  Mar-17*,3.7,APAR
+103,Current assets,12  Mar-17*,27976.0,APAR
+104,Current liabilities,12  Mar-17*,22685.0,APAR
+105,Net working cap to sales,12  Mar-17*,10.9,APAR
+106,Current ratio,12  Mar-17*,1.2,APAR
+107,Inventory Days,12  Mar-17*,75.0,APAR
+108,Debtors Days,12  Mar-17*,95.0,APAR
+109,Net fixed assets,12  Mar-17*,6016.0,APAR
+110,Share capital,12  Mar-17*,383.0,APAR
+111,"""Free"" reserves",12  Mar-17*,9370.0,APAR
+112,Net worth,12  Mar-17*,9752.0,APAR
+113,Long term debt,12  Mar-17*,906.0,APAR
+114,Total assets,12  Mar-17*,34482.0,APAR
+115,Interest coverage,12  Mar-17*,3.4,APAR
+116,Debt to equity ratio,12  Mar-17*,0.1,APAR
+117,Sales to assets ratio,12  Mar-17*,1.4,APAR
+118,Return on assets,12  Mar-17*,8.4,APAR
+119,Return on equity,12  Mar-17*,18.1,APAR
+120,Return on capital,12  Mar-17*,36.4,APAR
+121,Exports to sales,12  Mar-17*,25.9,APAR
+122,Imports to sales,12  Mar-17*,47.7,APAR
+123,Exports (fob),12  Mar-17*,12530.0,APAR
+124,Imports (cif),12  Mar-17*,23048.0,APAR
+125,Fx inflow,12  Mar-17*,14167.0,APAR
+126,Fx outflow,12  Mar-17*,24261.0,APAR
+127,Net fx,12  Mar-17*,-10095.0,APAR
+128,From Operations,12  Mar-17*,3124.0,APAR
+129,From Investments,12  Mar-17*,-1663.0,APAR
+130,From Financial Activity,12  Mar-17*,-1575.0,APAR
+131,Net Cashflow,12  Mar-17*,-109.0,APAR
+132,Net Sales,12  Mar-18*,58185.0,APAR
+133,Other income,12  Mar-18*,111.0,APAR
+134,Total revenues,12  Mar-18*,58296.0,APAR
+135,Gross profit,12  Mar-18*,4075.0,APAR
+136,Depreciation,12  Mar-18*,559.0,APAR
+137,Interest,12  Mar-18*,1400.0,APAR
+138,Profit before tax,12  Mar-18*,2228.0,APAR
+139,Minority Interest,12  Mar-18*,0.0,APAR
+140,Prior Period Items,12  Mar-18*,0.0,APAR
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,APAR
+142,Tax,12  Mar-18*,780.0,APAR
+143,Profit after tax,12  Mar-18*,1447.0,APAR
+144,Gross profit margin,12  Mar-18*,7.0,APAR
+145,Effective tax rate,12  Mar-18*,35.0,APAR
+146,Net profit margin,12  Mar-18*,2.5,APAR
+147,Current assets,12  Mar-18*,35729.0,APAR
+148,Current liabilities,12  Mar-18*,29637.0,APAR
+149,Net working cap to sales,12  Mar-18*,10.5,APAR
+150,Current ratio,12  Mar-18*,1.2,APAR
+151,Inventory Days,12  Mar-18*,76.0,APAR
+152,Debtors Days,12  Mar-18*,109.0,APAR
+153,Net fixed assets,12  Mar-18*,6680.0,APAR
+154,Share capital,12  Mar-18*,383.0,APAR
+155,"""Free"" reserves",12  Mar-18*,10356.0,APAR
+156,Net worth,12  Mar-18*,10739.0,APAR
+157,Long term debt,12  Mar-18*,1619.0,APAR
+158,Total assets,12  Mar-18*,42759.0,APAR
+159,Interest coverage,12  Mar-18*,2.6,APAR
+160,Debt to equity ratio,12  Mar-18*,0.2,APAR
+161,Sales to assets ratio,12  Mar-18*,1.4,APAR
+162,Return on assets,12  Mar-18*,6.7,APAR
+163,Return on equity,12  Mar-18*,13.5,APAR
+164,Return on capital,12  Mar-18*,29.4,APAR
+165,Exports to sales,12  Mar-18*,26.5,APAR
+166,Imports to sales,12  Mar-18*,47.5,APAR
+167,Exports (fob),12  Mar-18*,15428.0,APAR
+168,Imports (cif),12  Mar-18*,27656.0,APAR
+169,Fx inflow,12  Mar-18*,16610.0,APAR
+170,Fx outflow,12  Mar-18*,28507.0,APAR
+171,Net fx,12  Mar-18*,-11896.0,APAR
+172,From Operations,12  Mar-18*,2250.0,APAR
+173,From Investments,12  Mar-18*,-46.0,APAR
+174,From Financial Activity,12  Mar-18*,-689.0,APAR
+175,Net Cashflow,12  Mar-18*,1514.0,APAR
+176,Net Sales,12  Mar-19*,79639.0,APAR
+177,Other income,12  Mar-19*,151.0,APAR
+178,Total revenues,12  Mar-19*,79789.0,APAR
+179,Gross profit,12  Mar-19*,4677.0,APAR
+180,Depreciation,12  Mar-19*,667.0,APAR
+181,Interest,12  Mar-19*,1999.0,APAR
+182,Profit before tax,12  Mar-19*,2162.0,APAR
+183,Minority Interest,12  Mar-19*,0.0,APAR
+184,Prior Period Items,12  Mar-19*,0.0,APAR
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,APAR
+186,Tax,12  Mar-19*,802.0,APAR
+187,Profit after tax,12  Mar-19*,1361.0,APAR
+188,Gross profit margin,12  Mar-19*,5.9,APAR
+189,Effective tax rate,12  Mar-19*,37.1,APAR
+190,Net profit margin,12  Mar-19*,1.7,APAR
+191,Current assets,12  Mar-19*,41661.0,APAR
+192,Current liabilities,12  Mar-19*,36392.0,APAR
+193,Net working cap to sales,12  Mar-19*,6.6,APAR
+194,Current ratio,12  Mar-19*,1.1,APAR
+195,Inventory Days,12  Mar-19*,59.0,APAR
+196,Debtors Days,12  Mar-19*,98.0,APAR
+197,Net fixed assets,12  Mar-19*,8123.0,APAR
+198,Share capital,12  Mar-19*,383.0,APAR
+199,"""Free"" reserves",12  Mar-19*,11279.0,APAR
+200,Net worth,12  Mar-19*,11661.0,APAR
+201,Long term debt,12  Mar-19*,1303.0,APAR
+202,Total assets,12  Mar-19*,50215.0,APAR
+203,Interest coverage,12  Mar-19*,2.1,APAR
+204,Debt to equity ratio,12  Mar-19*,0.1,APAR
+205,Sales to assets ratio,12  Mar-19*,1.6,APAR
+206,Return on assets,12  Mar-19*,6.7,APAR
+207,Return on equity,12  Mar-19*,11.7,APAR
+208,Return on capital,12  Mar-19*,32.1,APAR
+209,Exports to sales,12  Mar-19*,23.8,APAR
+210,Imports to sales,12  Mar-19*,45.5,APAR
+211,Exports (fob),12  Mar-19*,18945.0,APAR
+212,Imports (cif),12  Mar-19*,36219.0,APAR
+213,Fx inflow,12  Mar-19*,20264.0,APAR
+214,Fx outflow,12  Mar-19*,37492.0,APAR
+215,Net fx,12  Mar-19*,-17228.0,APAR
+216,From Operations,12  Mar-19*,6320.0,APAR
+217,From Investments,12  Mar-19*,-3879.0,APAR
+218,From Financial Activity,12  Mar-19*,-2933.0,APAR
+219,Net Cashflow,12  Mar-19*,-491.0,APAR

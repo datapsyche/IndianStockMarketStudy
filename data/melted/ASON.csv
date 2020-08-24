@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,2395.0,ASON
+1,Other income,12  Mar-15,9.0,ASON
+2,Total revenues,12  Mar-15,2405.0,ASON
+3,Gross profit,12  Mar-15,363.0,ASON
+4,Depreciation,12  Mar-15,61.0,ASON
+5,Interest,12  Mar-15,48.0,ASON
+6,Profit before tax,12  Mar-15,264.0,ASON
+7,Minority Interest,12  Mar-15,0.0,ASON
+8,Prior Period Items,12  Mar-15,0.0,ASON
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,ASON
+10,Tax,12  Mar-15,87.0,ASON
+11,Profit after tax,12  Mar-15,177.0,ASON
+12,Gross profit margin,12  Mar-15,15.1,ASON
+13,Effective tax rate,12  Mar-15,32.8,ASON
+14,Net profit margin,12  Mar-15,7.4,ASON
+15,Current assets,12  Mar-15,979.0,ASON
+16,Current liabilities,12  Mar-15,740.0,ASON
+17,Net working cap to sales,12  Mar-15,10.0,ASON
+18,Current ratio,12  Mar-15,1.3,ASON
+19,Inventory Days,12  Mar-15,44.0,ASON
+20,Debtors Days,12  Mar-15,65.0,ASON
+21,Net fixed assets,12  Mar-15,953.0,ASON
+22,Share capital,12  Mar-15,123.0,ASON
+23,"""Free"" reserves",12  Mar-15,1057.0,ASON
+24,Net worth,12  Mar-15,1180.0,ASON
+25,Long term debt,12  Mar-15,35.0,ASON
+26,Total assets,12  Mar-15,2123.0,ASON
+27,Interest coverage,12  Mar-15,6.5,ASON
+28,Debt to equity ratio,12  Mar-15,0.0,ASON
+29,Sales to assets ratio,12  Mar-15,1.1,ASON
+30,Return on assets,12  Mar-15,10.6,ASON
+31,Return on equity,12  Mar-15,15.0,ASON
+32,Return on capital,12  Mar-15,25.6,ASON
+33,Exports to sales,12  Mar-15,84.9,ASON
+34,Imports to sales,12  Mar-15,21.1,ASON
+35,Exports (fob),12  Mar-15,2034.0,ASON
+36,Imports (cif),12  Mar-15,506.0,ASON
+37,Fx inflow,12  Mar-15,2034.0,ASON
+38,Fx outflow,12  Mar-15,516.0,ASON
+39,Net fx,12  Mar-15,1517.0,ASON
+40,From Operations,12  Mar-15,250.0,ASON
+41,From Investments,12  Mar-15,-88.0,ASON
+42,From Financial Activity,12  Mar-15,-159.0,ASON
+43,Net Cashflow,12  Mar-15,2.0,ASON
+44,Net Sales,12  Mar-16,2239.0,ASON
+45,Other income,12  Mar-16,36.0,ASON
+46,Total revenues,12  Mar-16,2276.0,ASON
+47,Gross profit,12  Mar-16,390.0,ASON
+48,Depreciation,12  Mar-16,67.0,ASON
+49,Interest,12  Mar-16,45.0,ASON
+50,Profit before tax,12  Mar-16,314.0,ASON
+51,Minority Interest,12  Mar-16,0.0,ASON
+52,Prior Period Items,12  Mar-16,0.0,ASON
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,ASON
+54,Tax,12  Mar-16,104.0,ASON
+55,Profit after tax,12  Mar-16,210.0,ASON
+56,Gross profit margin,12  Mar-16,17.4,ASON
+57,Effective tax rate,12  Mar-16,33.1,ASON
+58,Net profit margin,12  Mar-16,9.4,ASON
+59,Current assets,12  Mar-16,941.0,ASON
+60,Current liabilities,12  Mar-16,610.0,ASON
+61,Net working cap to sales,12  Mar-16,14.8,ASON
+62,Current ratio,12  Mar-16,1.5,ASON
+63,Inventory Days,12  Mar-16,32.0,ASON
+64,Debtors Days,12  Mar-16,83.0,ASON
+65,Net fixed assets,12  Mar-16,989.0,ASON
+66,Share capital,12  Mar-16,123.0,ASON
+67,"""Free"" reserves",12  Mar-16,1237.0,ASON
+68,Net worth,12  Mar-16,1360.0,ASON
+69,Long term debt,12  Mar-16,48.0,ASON
+70,Total assets,12  Mar-16,2200.0,ASON
+71,Interest coverage,12  Mar-16,8.0,ASON
+72,Debt to equity ratio,12  Mar-16,0.0,ASON
+73,Sales to assets ratio,12  Mar-16,1.0,ASON
+74,Return on assets,12  Mar-16,11.6,ASON
+75,Return on equity,12  Mar-16,15.4,ASON
+76,Return on capital,12  Mar-16,25.5,ASON
+77,Exports to sales,12  Mar-16,78.3,ASON
+78,Imports to sales,12  Mar-16,17.0,ASON
+79,Exports (fob),12  Mar-16,1754.0,ASON
+80,Imports (cif),12  Mar-16,380.0,ASON
+81,Fx inflow,12  Mar-16,1754.0,ASON
+82,Fx outflow,12  Mar-16,393.0,ASON
+83,Net fx,12  Mar-16,1361.0,ASON
+84,From Operations,12  Mar-16,317.0,ASON
+85,From Investments,12  Mar-16,-151.0,ASON
+86,From Financial Activity,12  Mar-16,-168.0,ASON
+87,Net Cashflow,12  Mar-16,-1.0,ASON
+88,Net Sales,12  Mar-17,2535.0,ASON
+89,Other income,12  Mar-17,31.0,ASON
+90,Total revenues,12  Mar-17,2566.0,ASON
+91,Gross profit,12  Mar-17,542.0,ASON
+92,Depreciation,12  Mar-17,71.0,ASON
+93,Interest,12  Mar-17,99.0,ASON
+94,Profit before tax,12  Mar-17,404.0,ASON
+95,Minority Interest,12  Mar-17,0.0,ASON
+96,Prior Period Items,12  Mar-17,0.0,ASON
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,ASON
+98,Tax,12  Mar-17,129.0,ASON
+99,Profit after tax,12  Mar-17,274.0,ASON
+100,Gross profit margin,12  Mar-17,21.4,ASON
+101,Effective tax rate,12  Mar-17,32.1,ASON
+102,Net profit margin,12  Mar-17,10.8,ASON
+103,Current assets,12  Mar-17,1118.0,ASON
+104,Current liabilities,12  Mar-17,655.0,ASON
+105,Net working cap to sales,12  Mar-17,18.3,ASON
+106,Current ratio,12  Mar-17,1.7,ASON
+107,Inventory Days,12  Mar-17,62.0,ASON
+108,Debtors Days,12  Mar-17,67.0,ASON
+109,Net fixed assets,12  Mar-17,1040.0,ASON
+110,Share capital,12  Mar-17,123.0,ASON
+111,"""Free"" reserves",12  Mar-17,1463.0,ASON
+112,Net worth,12  Mar-17,1585.0,ASON
+113,Long term debt,12  Mar-17,35.0,ASON
+114,Total assets,12  Mar-17,2466.0,ASON
+115,Interest coverage,12  Mar-17,5.1,ASON
+116,Debt to equity ratio,12  Mar-17,0.0,ASON
+117,Sales to assets ratio,12  Mar-17,1.0,ASON
+118,Return on assets,12  Mar-17,15.1,ASON
+119,Return on equity,12  Mar-17,17.3,ASON
+120,Return on capital,12  Mar-17,31.0,ASON
+121,Exports to sales,12  Mar-17,0.0,ASON
+122,Imports to sales,12  Mar-17,0.0,ASON
+123,Exports (fob),12  Mar-17,0.0,ASON
+124,Imports (cif),12  Mar-17,0.0,ASON
+125,Fx inflow,12  Mar-17,1774.0,ASON
+126,Fx outflow,12  Mar-17,670.0,ASON
+127,Net fx,12  Mar-17,1104.0,ASON
+128,From Operations,12  Mar-17,281.0,ASON
+129,From Investments,12  Mar-17,-116.0,ASON
+130,From Financial Activity,12  Mar-17,-165.0,ASON
+131,Net Cashflow,12  Mar-17,0.0,ASON
+132,Net Sales,12  Mar-18,2925.0,ASON
+133,Other income,12  Mar-18,45.0,ASON
+134,Total revenues,12  Mar-18,2970.0,ASON
+135,Gross profit,12  Mar-18,383.0,ASON
+136,Depreciation,12  Mar-18,72.0,ASON
+137,Interest,12  Mar-18,35.0,ASON
+138,Profit before tax,12  Mar-18,320.0,ASON
+139,Minority Interest,12  Mar-18,0.0,ASON
+140,Prior Period Items,12  Mar-18,0.0,ASON
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ASON
+142,Tax,12  Mar-18,89.0,ASON
+143,Profit after tax,12  Mar-18,231.0,ASON
+144,Gross profit margin,12  Mar-18,13.1,ASON
+145,Effective tax rate,12  Mar-18,27.8,ASON
+146,Net profit margin,12  Mar-18,7.9,ASON
+147,Current assets,12  Mar-18,1430.0,ASON
+148,Current liabilities,12  Mar-18,988.0,ASON
+149,Net working cap to sales,12  Mar-18,15.1,ASON
+150,Current ratio,12  Mar-18,1.4,ASON
+151,Inventory Days,12  Mar-18,45.0,ASON
+152,Debtors Days,12  Mar-18,99.0,ASON
+153,Net fixed assets,12  Mar-18,1561.0,ASON
+154,Share capital,12  Mar-18,123.0,ASON
+155,"""Free"" reserves",12  Mar-18,1694.0,ASON
+156,Net worth,12  Mar-18,1816.0,ASON
+157,Long term debt,12  Mar-18,193.0,ASON
+158,Total assets,12  Mar-18,3195.0,ASON
+159,Interest coverage,12  Mar-18,10.1,ASON
+160,Debt to equity ratio,12  Mar-18,0.1,ASON
+161,Sales to assets ratio,12  Mar-18,0.9,ASON
+162,Return on assets,12  Mar-18,8.3,ASON
+163,Return on equity,12  Mar-18,12.7,ASON
+164,Return on capital,12  Mar-18,17.7,ASON
+165,Exports to sales,12  Mar-18,0.0,ASON
+166,Imports to sales,12  Mar-18,0.0,ASON
+167,Exports (fob),12  Mar-18,0.0,ASON
+168,Imports (cif),12  Mar-18,0.0,ASON
+169,Fx inflow,12  Mar-18,2102.0,ASON
+170,Fx outflow,12  Mar-18,763.0,ASON
+171,Net fx,12  Mar-18,1339.0,ASON
+172,From Operations,12  Mar-18,59.0,ASON
+173,From Investments,12  Mar-18,-438.0,ASON
+174,From Financial Activity,12  Mar-18,378.0,ASON
+175,Net Cashflow,12  Mar-18,-1.0,ASON
+176,Net Sales,12  Mar-19,2936.0,ASON
+177,Other income,12  Mar-19,0.0,ASON
+178,Total revenues,12  Mar-19,2937.0,ASON
+179,Gross profit,12  Mar-19,395.0,ASON
+180,Depreciation,12  Mar-19,82.0,ASON
+181,Interest,12  Mar-19,52.0,ASON
+182,Profit before tax,12  Mar-19,262.0,ASON
+183,Minority Interest,12  Mar-19,0.0,ASON
+184,Prior Period Items,12  Mar-19,0.0,ASON
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ASON
+186,Tax,12  Mar-19,79.0,ASON
+187,Profit after tax,12  Mar-19,183.0,ASON
+188,Gross profit margin,12  Mar-19,13.5,ASON
+189,Effective tax rate,12  Mar-19,30.3,ASON
+190,Net profit margin,12  Mar-19,6.2,ASON
+191,Current assets,12  Mar-19,1420.0,ASON
+192,Current liabilities,12  Mar-19,770.0,ASON
+193,Net working cap to sales,12  Mar-19,22.1,ASON
+194,Current ratio,12  Mar-19,1.8,ASON
+195,Inventory Days,12  Mar-19,77.0,ASON
+196,Debtors Days,12  Mar-19,68.0,ASON
+197,Net fixed assets,12  Mar-19,1515.0,ASON
+198,Share capital,12  Mar-19,123.0,ASON
+199,"""Free"" reserves",12  Mar-19,1813.0,ASON
+200,Net worth,12  Mar-19,1936.0,ASON
+201,Long term debt,12  Mar-19,177.0,ASON
+202,Total assets,12  Mar-19,3091.0,ASON
+203,Interest coverage,12  Mar-19,6.1,ASON
+204,Debt to equity ratio,12  Mar-19,0.1,ASON
+205,Sales to assets ratio,12  Mar-19,1.0,ASON
+206,Return on assets,12  Mar-19,7.6,ASON
+207,Return on equity,12  Mar-19,9.4,ASON
+208,Return on capital,12  Mar-19,14.9,ASON
+209,Exports to sales,12  Mar-19,0.0,ASON
+210,Imports to sales,12  Mar-19,0.0,ASON
+211,Exports (fob),12  Mar-19,0.0,ASON
+212,Imports (cif),12  Mar-19,0.0,ASON
+213,Fx inflow,12  Mar-19,1876.0,ASON
+214,Fx outflow,12  Mar-19,780.0,ASON
+215,Net fx,12  Mar-19,1096.0,ASON
+216,From Operations,12  Mar-19,271.0,ASON
+217,From Investments,12  Mar-19,-29.0,ASON
+218,From Financial Activity,12  Mar-19,-242.0,ASON
+219,Net Cashflow,12  Mar-19,0.0,ASON

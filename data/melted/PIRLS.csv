@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,233.0,PIRLS
+1,Other income,12  Mar-15,478.0,PIRLS
+2,Total revenues,12  Mar-15,712.0,PIRLS
+3,Gross profit,12  Mar-15,51.0,PIRLS
+4,Depreciation,12  Mar-15,3.0,PIRLS
+5,Interest,12  Mar-15,1.0,PIRLS
+6,Profit before tax,12  Mar-15,525.0,PIRLS
+7,Minority Interest,12  Mar-15,0.0,PIRLS
+8,Prior Period Items,12  Mar-15,0.0,PIRLS
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,PIRLS
+10,Tax,12  Mar-15,141.0,PIRLS
+11,Profit after tax,12  Mar-15,384.0,PIRLS
+12,Gross profit margin,12  Mar-15,21.7,PIRLS
+13,Effective tax rate,12  Mar-15,26.9,PIRLS
+14,Net profit margin,12  Mar-15,164.6,PIRLS
+15,Current assets,12  Mar-15,159.0,PIRLS
+16,Current liabilities,12  Mar-15,219.0,PIRLS
+17,Net working cap to sales,12  Mar-15,-25.9,PIRLS
+18,Current ratio,12  Mar-15,0.7,PIRLS
+19,Inventory Days,12  Mar-15,156.0,PIRLS
+20,Debtors Days,12  Mar-15,11.0,PIRLS
+21,Net fixed assets,12  Mar-15,9.0,PIRLS
+22,Share capital,12  Mar-15,190.0,PIRLS
+23,"""Free"" reserves",12  Mar-15,5224.0,PIRLS
+24,Net worth,12  Mar-15,5414.0,PIRLS
+25,Long term debt,12  Mar-15,0.0,PIRLS
+26,Total assets,12  Mar-15,5638.0,PIRLS
+27,Interest coverage,12  Mar-15,751.1,PIRLS
+28,Debt to equity ratio,12  Mar-15,0.0,PIRLS
+29,Sales to assets ratio,12  Mar-15,0.0,PIRLS
+30,Return on assets,12  Mar-15,6.8,PIRLS
+31,Return on equity,12  Mar-15,7.1,PIRLS
+32,Return on capital,12  Mar-15,9.7,PIRLS
+33,Exports to sales,12  Mar-15,0.0,PIRLS
+34,Imports to sales,12  Mar-15,0.0,PIRLS
+35,Exports (fob),12  Mar-15,0.0,PIRLS
+36,Imports (cif),12  Mar-15,0.0,PIRLS
+37,Fx inflow,12  Mar-15,0.0,PIRLS
+38,Fx outflow,12  Mar-15,0.0,PIRLS
+39,Net fx,12  Mar-15,0.0,PIRLS
+40,From Operations,12  Mar-15,2.0,PIRLS
+41,From Investments,12  Mar-15,141.0,PIRLS
+42,From Financial Activity,12  Mar-15,-112.0,PIRLS
+43,Net Cashflow,12  Mar-15,30.0,PIRLS
+44,Net Sales,12  Mar-16,63.0,PIRLS
+45,Other income,12  Mar-16,1182.0,PIRLS
+46,Total revenues,12  Mar-16,1245.0,PIRLS
+47,Gross profit,12  Mar-16,-75.0,PIRLS
+48,Depreciation,12  Mar-16,3.0,PIRLS
+49,Interest,12  Mar-16,0.0,PIRLS
+50,Profit before tax,12  Mar-16,1104.0,PIRLS
+51,Minority Interest,12  Mar-16,0.0,PIRLS
+52,Prior Period Items,12  Mar-16,0.0,PIRLS
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,PIRLS
+54,Tax,12  Mar-16,350.0,PIRLS
+55,Profit after tax,12  Mar-16,754.0,PIRLS
+56,Gross profit margin,12  Mar-16,-119.8,PIRLS
+57,Effective tax rate,12  Mar-16,31.7,PIRLS
+58,Net profit margin,12  Mar-16,1202.4,PIRLS
+59,Current assets,12  Mar-16,804,PIRLS
+60,Current liabilities,12  Mar-16,134,PIRLS
+61,Net working cap to sales,12  Mar-16,1068.1,PIRLS
+62,Current ratio,12  Mar-16,6.0,PIRLS
+63,Inventory Days,12  Mar-16,434,PIRLS
+64,Debtors Days,12  Mar-16,40,PIRLS
+65,Net fixed assets,12  Mar-16,4,PIRLS
+66,Share capital,12  Mar-16,284,PIRLS
+67,"""Free"" reserves",12  Mar-16,5849,PIRLS
+68,Net worth,12  Mar-16,6133,PIRLS
+69,Long term debt,12  Mar-16,0,PIRLS
+70,Total assets,12  Mar-16,6274,PIRLS
+71,Interest coverage,12  Mar-16,NM,PIRLS
+72,Debt to equity ratio,12  Mar-16,0,PIRLS
+73,Sales to assets ratio,12  Mar-16,0,PIRLS
+74,Return on assets,12  Mar-16,12.0,PIRLS
+75,Return on equity,12  Mar-16,12.3,PIRLS
+76,Return on capital,12  Mar-16,18.0,PIRLS
+77,Exports to sales,12  Mar-16,0,PIRLS
+78,Imports to sales,12  Mar-16,0,PIRLS
+79,Exports (fob),12  Mar-16,0,PIRLS
+80,Imports (cif),12  Mar-16,0,PIRLS
+81,Fx inflow,12  Mar-16,0,PIRLS
+82,Fx outflow,12  Mar-16,0,PIRLS
+83,Net fx,12  Mar-16,0,PIRLS
+84,From Operations,12  Mar-16,-517,PIRLS
+85,From Investments,12  Mar-16,644,PIRLS
+86,From Financial Activity,12  Mar-16,-137,PIRLS
+87,Net Cashflow,12  Mar-16,-10,PIRLS
+88,Net Sales,12  Mar-17,1931.0,PIRLS
+89,Other income,12  Mar-17,496.0,PIRLS
+90,Total revenues,12  Mar-17,2427.0,PIRLS
+91,Gross profit,12  Mar-17,568.0,PIRLS
+92,Depreciation,12  Mar-17,2.0,PIRLS
+93,Interest,12  Mar-17,3.0,PIRLS
+94,Profit before tax,12  Mar-17,1060.0,PIRLS
+95,Minority Interest,12  Mar-17,0.0,PIRLS
+96,Prior Period Items,12  Mar-17,0.0,PIRLS
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,PIRLS
+98,Tax,12  Mar-17,218.0,PIRLS
+99,Profit after tax,12  Mar-17,842.0,PIRLS
+100,Gross profit margin,12  Mar-17,29.4,PIRLS
+101,Effective tax rate,12  Mar-17,20.6,PIRLS
+102,Net profit margin,12  Mar-17,43.6,PIRLS
+103,Current assets,12  Mar-17,3037.0,PIRLS
+104,Current liabilities,12  Mar-17,77.0,PIRLS
+105,Net working cap to sales,12  Mar-17,153.3,PIRLS
+106,Current ratio,12  Mar-17,39.5,PIRLS
+107,Inventory Days,12  Mar-17,38.0,PIRLS
+108,Debtors Days,12  Mar-17,497.0,PIRLS
+109,Net fixed assets,12  Mar-17,3.0,PIRLS
+110,Share capital,12  Mar-17,284.0,PIRLS
+111,"""Free"" reserves",12  Mar-17,6475.0,PIRLS
+112,Net worth,12  Mar-17,6760.0,PIRLS
+113,Long term debt,12  Mar-17,113.0,PIRLS
+114,Total assets,12  Mar-17,6955.0,PIRLS
+115,Interest coverage,12  Mar-17,354.3,PIRLS
+116,Debt to equity ratio,12  Mar-17,0.0,PIRLS
+117,Sales to assets ratio,12  Mar-17,0.3,PIRLS
+118,Return on assets,12  Mar-17,12.1,PIRLS
+119,Return on equity,12  Mar-17,12.4,PIRLS
+120,Return on capital,12  Mar-17,15.5,PIRLS
+121,Exports to sales,12  Mar-17,0.0,PIRLS
+122,Imports to sales,12  Mar-17,0.0,PIRLS
+123,Exports (fob),12  Mar-17,0.0,PIRLS
+124,Imports (cif),12  Mar-17,0.0,PIRLS
+125,Fx inflow,12  Mar-17,0.0,PIRLS
+126,Fx outflow,12  Mar-17,0.0,PIRLS
+127,Net fx,12  Mar-17,0.0,PIRLS
+128,From Operations,12  Mar-17,-556.0,PIRLS
+129,From Investments,12  Mar-17,448.0,PIRLS
+130,From Financial Activity,12  Mar-17,77.0,PIRLS
+131,Net Cashflow,12  Mar-17,-32.0,PIRLS
+132,Net Sales,12  Mar-18,693.0,PIRLS
+133,Other income,12  Mar-18,6.0,PIRLS
+134,Total revenues,12  Mar-18,699.0,PIRLS
+135,Gross profit,12  Mar-18,432.0,PIRLS
+136,Depreciation,12  Mar-18,8.0,PIRLS
+137,Interest,12  Mar-18,46.0,PIRLS
+138,Profit before tax,12  Mar-18,385.0,PIRLS
+139,Minority Interest,12  Mar-18,0.0,PIRLS
+140,Prior Period Items,12  Mar-18,0.0,PIRLS
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,PIRLS
+142,Tax,12  Mar-18,105.0,PIRLS
+143,Profit after tax,12  Mar-18,280.0,PIRLS
+144,Gross profit margin,12  Mar-18,62.4,PIRLS
+145,Effective tax rate,12  Mar-18,27.3,PIRLS
+146,Net profit margin,12  Mar-18,40.4,PIRLS
+147,Current assets,12  Mar-18,3345.0,PIRLS
+148,Current liabilities,12  Mar-18,2182.0,PIRLS
+149,Net working cap to sales,12  Mar-18,167.9,PIRLS
+150,Current ratio,12  Mar-18,1.5,PIRLS
+151,Inventory Days,12  Mar-18,1485.0,PIRLS
+152,Debtors Days,12  Mar-18,0.0,PIRLS
+153,Net fixed assets,12  Mar-18,1159.0,PIRLS
+154,Share capital,12  Mar-18,230.0,PIRLS
+155,"""Free"" reserves",12  Mar-18,5265.0,PIRLS
+156,Net worth,12  Mar-18,5495.0,PIRLS
+157,Long term debt,12  Mar-18,1165.0,PIRLS
+158,Total assets,12  Mar-18,8853.0,PIRLS
+159,Interest coverage,12  Mar-18,9.4,PIRLS
+160,Debt to equity ratio,12  Mar-18,0.2,PIRLS
+161,Sales to assets ratio,12  Mar-18,0.1,PIRLS
+162,Return on assets,12  Mar-18,3.7,PIRLS
+163,Return on equity,12  Mar-18,5.1,PIRLS
+164,Return on capital,12  Mar-18,6.5,PIRLS
+165,Exports to sales,12  Mar-18,0.0,PIRLS
+166,Imports to sales,12  Mar-18,0.0,PIRLS
+167,Exports (fob),12  Mar-18,0.0,PIRLS
+168,Imports (cif),12  Mar-18,0.0,PIRLS
+169,Fx inflow,12  Mar-18,0.0,PIRLS
+170,Fx outflow,12  Mar-18,0.0,PIRLS
+171,Net fx,12  Mar-18,0.0,PIRLS
+172,From Operations,12  Mar-18,1694.0,PIRLS
+173,From Investments,12  Mar-18,-1983.0,PIRLS
+174,From Financial Activity,12  Mar-18,401.0,PIRLS
+175,Net Cashflow,12  Mar-18,112.0,PIRLS
+176,Net Sales,12  Mar-19,822.0,PIRLS
+177,Other income,12  Mar-19,7.0,PIRLS
+178,Total revenues,12  Mar-19,829.0,PIRLS
+179,Gross profit,12  Mar-19,521.0,PIRLS
+180,Depreciation,12  Mar-19,18.0,PIRLS
+181,Interest,12  Mar-19,212.0,PIRLS
+182,Profit before tax,12  Mar-19,298.0,PIRLS
+183,Minority Interest,12  Mar-19,0.0,PIRLS
+184,Prior Period Items,12  Mar-19,0.0,PIRLS
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,PIRLS
+186,Tax,12  Mar-19,59.0,PIRLS
+187,Profit after tax,12  Mar-19,239.0,PIRLS
+188,Gross profit margin,12  Mar-19,63.3,PIRLS
+189,Effective tax rate,12  Mar-19,19.7,PIRLS
+190,Net profit margin,12  Mar-19,29.1,PIRLS
+191,Current assets,12  Mar-19,8063.0,PIRLS
+192,Current liabilities,12  Mar-19,5164.0,PIRLS
+193,Net working cap to sales,12  Mar-19,352.6,PIRLS
+194,Current ratio,12  Mar-19,1.6,PIRLS
+195,Inventory Days,12  Mar-19,2272.0,PIRLS
+196,Debtors Days,12  Mar-19,24.0,PIRLS
+197,Net fixed assets,12  Mar-19,2392.0,PIRLS
+198,Share capital,12  Mar-19,230.0,PIRLS
+199,"""Free"" reserves",12  Mar-19,5844.0,PIRLS
+200,Net worth,12  Mar-19,6074.0,PIRLS
+201,Long term debt,12  Mar-19,3531.0,PIRLS
+202,Total assets,12  Mar-19,14978.0,PIRLS
+203,Interest coverage,12  Mar-19,2.4,PIRLS
+204,Debt to equity ratio,12  Mar-19,0.6,PIRLS
+205,Sales to assets ratio,12  Mar-19,0.1,PIRLS
+206,Return on assets,12  Mar-19,3.0,PIRLS
+207,Return on equity,12  Mar-19,3.9,PIRLS
+208,Return on capital,12  Mar-19,5.3,PIRLS
+209,Exports to sales,12  Mar-19,0.0,PIRLS
+210,Imports to sales,12  Mar-19,0.0,PIRLS
+211,Exports (fob),12  Mar-19,0.0,PIRLS
+212,Imports (cif),12  Mar-19,0.0,PIRLS
+213,Fx inflow,12  Mar-19,0.0,PIRLS
+214,Fx outflow,12  Mar-19,0.0,PIRLS
+215,Net fx,12  Mar-19,0.0,PIRLS
+216,From Operations,12  Mar-19,1006.0,PIRLS
+217,From Investments,12  Mar-19,-3117.0,PIRLS
+218,From Financial Activity,12  Mar-19,2031.0,PIRLS
+219,Net Cashflow,12  Mar-19,-79.0,PIRLS

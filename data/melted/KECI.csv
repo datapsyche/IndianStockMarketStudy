@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,84678.0,KECI
+1,Other income,12  Mar-15*,1462.0,KECI
+2,Total revenues,12  Mar-15*,86140.0,KECI
+3,Gross profit,12  Mar-15*,5118.0,KECI
+4,Depreciation,12  Mar-15*,881.0,KECI
+5,Interest,12  Mar-15*,3089.0,KECI
+6,Profit before tax,12  Mar-15*,2611.0,KECI
+7,Minority Interest,12  Mar-15*,0.0,KECI
+8,Prior Period Items,12  Mar-15*,0.0,KECI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,KECI
+10,Tax,12  Mar-15*,1001.0,KECI
+11,Profit after tax,12  Mar-15*,1610.0,KECI
+12,Gross profit margin,12  Mar-15*,6.0,KECI
+13,Effective tax rate,12  Mar-15*,38.3,KECI
+14,Net profit margin,12  Mar-15*,1.9,KECI
+15,Current assets,12  Mar-15*,64165.0,KECI
+16,Current liabilities,12  Mar-15*,61354.0,KECI
+17,Net working cap to sales,12  Mar-15*,3.3,KECI
+18,Current ratio,12  Mar-15*,1.0,KECI
+19,Inventory Days,12  Mar-15*,17.0,KECI
+20,Debtors Days,12  Mar-15*,166.0,KECI
+21,Net fixed assets,12  Mar-15*,12233.0,KECI
+22,Share capital,12  Mar-15*,514.0,KECI
+23,"""Free"" reserves",12  Mar-15*,11319.0,KECI
+24,Net worth,12  Mar-15*,11833.0,KECI
+25,Long term debt,12  Mar-15*,7263.0,KECI
+26,Total assets,12  Mar-15*,81798.0,KECI
+27,Interest coverage,12  Mar-15*,1.8,KECI
+28,Debt to equity ratio,12  Mar-15*,0.6,KECI
+29,Sales to assets ratio,12  Mar-15*,1.0,KECI
+30,Return on assets,12  Mar-15*,5.7,KECI
+31,Return on equity,12  Mar-15*,13.6,KECI
+32,Return on capital,12  Mar-15*,29.8,KECI
+33,Exports to sales,12  Mar-15*,13.7,KECI
+34,Imports to sales,12  Mar-15*,3.6,KECI
+35,Exports (fob),12  Mar-15*,11608.0,KECI
+36,Imports (cif),12  Mar-15*,3050.0,KECI
+37,Fx inflow,12  Mar-15*,25557.0,KECI
+38,Fx outflow,12  Mar-15*,17696.0,KECI
+39,Net fx,12  Mar-15*,7861.0,KECI
+40,From Operations,12  Mar-15*,1529.0,KECI
+41,From Investments,12  Mar-15*,1248.0,KECI
+42,From Financial Activity,12  Mar-15*,-2157.0,KECI
+43,Net Cashflow,12  Mar-15*,620.0,KECI
+44,Net Sales,12  Mar-16*,85178.0,KECI
+45,Other income,12  Mar-16*,103.0,KECI
+46,Total revenues,12  Mar-16*,85281.0,KECI
+47,Gross profit,12  Mar-16*,6923.0,KECI
+48,Depreciation,12  Mar-16*,1318.0,KECI
+49,Interest,12  Mar-16*,2794.0,KECI
+50,Profit before tax,12  Mar-16*,2914.0,KECI
+51,Minority Interest,12  Mar-16*,0.0,KECI
+52,Prior Period Items,12  Mar-16*,0.0,KECI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,KECI
+54,Tax,12  Mar-16*,1436.0,KECI
+55,Profit after tax,12  Mar-16*,1479.0,KECI
+56,Gross profit margin,12  Mar-16*,8.1,KECI
+57,Effective tax rate,12  Mar-16*,49.3,KECI
+58,Net profit margin,12  Mar-16*,1.7,KECI
+59,Current assets,12  Mar-16*,71577.0,KECI
+60,Current liabilities,12  Mar-16*,68671.0,KECI
+61,Net working cap to sales,12  Mar-16*,3.4,KECI
+62,Current ratio,12  Mar-16*,1.0,KECI
+63,Inventory Days,12  Mar-16*,15.0,KECI
+64,Debtors Days,12  Mar-16*,200.0,KECI
+65,Net fixed assets,12  Mar-16*,12061.0,KECI
+66,Share capital,12  Mar-16*,514.0,KECI
+67,"""Free"" reserves",12  Mar-16*,12390.0,KECI
+68,Net worth,12  Mar-16*,12904.0,KECI
+69,Long term debt,12  Mar-16*,5929.0,KECI
+70,Total assets,12  Mar-16*,88910.0,KECI
+71,Interest coverage,12  Mar-16*,2.0,KECI
+72,Debt to equity ratio,12  Mar-16*,0.5,KECI
+73,Sales to assets ratio,12  Mar-16*,1.0,KECI
+74,Return on assets,12  Mar-16*,4.8,KECI
+75,Return on equity,12  Mar-16*,11.5,KECI
+76,Return on capital,12  Mar-16*,30.3,KECI
+77,Exports to sales,12  Mar-16*,14.7,KECI
+78,Imports to sales,12  Mar-16*,6.3,KECI
+79,Exports (fob),12  Mar-16*,12536.0,KECI
+80,Imports (cif),12  Mar-16*,5340.0,KECI
+81,Fx inflow,12  Mar-16*,24255.0,KECI
+82,Fx outflow,12  Mar-16*,17839.0,KECI
+83,Net fx,12  Mar-16*,6417.0,KECI
+84,From Operations,12  Mar-16*,-753.0,KECI
+85,From Investments,12  Mar-16*,-226.0,KECI
+86,From Financial Activity,12  Mar-16*,-276.0,KECI
+87,Net Cashflow,12  Mar-16*,-1100.0,KECI
+88,Net Sales,12  Mar-17*,85844.0,KECI
+89,Other income,12  Mar-17*,289.0,KECI
+90,Total revenues,12  Mar-17*,86133.0,KECI
+91,Gross profit,12  Mar-17*,8179.0,KECI
+92,Depreciation,12  Mar-17*,1297.0,KECI
+93,Interest,12  Mar-17*,2536.0,KECI
+94,Profit before tax,12  Mar-17*,4634.0,KECI
+95,Minority Interest,12  Mar-17*,0.0,KECI
+96,Prior Period Items,12  Mar-17*,0.0,KECI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,KECI
+98,Tax,12  Mar-17*,1587.0,KECI
+99,Profit after tax,12  Mar-17*,3048.0,KECI
+100,Gross profit margin,12  Mar-17*,9.5,KECI
+101,Effective tax rate,12  Mar-17*,34.2,KECI
+102,Net profit margin,12  Mar-17*,3.6,KECI
+103,Current assets,12  Mar-17*,70542.0,KECI
+104,Current liabilities,12  Mar-17*,62142.0,KECI
+105,Net working cap to sales,12  Mar-17*,9.8,KECI
+106,Current ratio,12  Mar-17*,1.1,KECI
+107,Inventory Days,12  Mar-17*,17.0,KECI
+108,Debtors Days,12  Mar-17*,179.0,KECI
+109,Net fixed assets,12  Mar-17*,11539.0,KECI
+110,Share capital,12  Mar-17*,514.0,KECI
+111,"""Free"" reserves",12  Mar-17*,15349.0,KECI
+112,Net worth,12  Mar-17*,15864.0,KECI
+113,Long term debt,12  Mar-17*,7757.0,KECI
+114,Total assets,12  Mar-17*,87281.0,KECI
+115,Interest coverage,12  Mar-17*,2.8,KECI
+116,Debt to equity ratio,12  Mar-17*,0.5,KECI
+117,Sales to assets ratio,12  Mar-17*,1.0,KECI
+118,Return on assets,12  Mar-17*,6.4,KECI
+119,Return on equity,12  Mar-17*,19.2,KECI
+120,Return on capital,12  Mar-17*,30.4,KECI
+121,Exports to sales,12  Mar-17*,0.0,KECI
+122,Imports to sales,12  Mar-17*,0.0,KECI
+123,Exports (fob),12  Mar-17*,0.0,KECI
+124,Imports (cif),12  Mar-17*,0.0,KECI
+125,Fx inflow,12  Mar-17*,26214.0,KECI
+126,Fx outflow,12  Mar-17*,18048.0,KECI
+127,Net fx,12  Mar-17*,8167.0,KECI
+128,From Operations,12  Mar-17*,16616.0,KECI
+129,From Investments,12  Mar-17*,-1831.0,KECI
+130,From Financial Activity,12  Mar-17*,-13790.0,KECI
+131,Net Cashflow,12  Mar-17*,1010.0,KECI
+132,Net Sales,12  Mar-18*,100526.0,KECI
+133,Other income,12  Mar-18*,207.0,KECI
+134,Total revenues,12  Mar-18*,100733.0,KECI
+135,Gross profit,12  Mar-18*,10057.0,KECI
+136,Depreciation,12  Mar-18*,1097.0,KECI
+137,Interest,12  Mar-18*,2294.0,KECI
+138,Profit before tax,12  Mar-18*,6873.0,KECI
+139,Minority Interest,12  Mar-18*,0.0,KECI
+140,Prior Period Items,12  Mar-18*,0.0,KECI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,KECI
+142,Tax,12  Mar-18*,2290.0,KECI
+143,Profit after tax,12  Mar-18*,4583.0,KECI
+144,Gross profit margin,12  Mar-18*,10.0,KECI
+145,Effective tax rate,12  Mar-18*,33.3,KECI
+146,Net profit margin,12  Mar-18*,4.6,KECI
+147,Current assets,12  Mar-18*,88388.0,KECI
+148,Current liabilities,12  Mar-18*,76582.0,KECI
+149,Net working cap to sales,12  Mar-18*,11.7,KECI
+150,Current ratio,12  Mar-18*,1.2,KECI
+151,Inventory Days,12  Mar-18*,23.0,KECI
+152,Debtors Days,12  Mar-18*,183.0,KECI
+153,Net fixed assets,12  Mar-18*,11903.0,KECI
+154,Share capital,12  Mar-18*,514.0,KECI
+155,"""Free"" reserves",12  Mar-18*,19460.0,KECI
+156,Net worth,12  Mar-18*,19975.0,KECI
+157,Long term debt,12  Mar-18*,7384.0,KECI
+158,Total assets,12  Mar-18*,105390.0,KECI
+159,Interest coverage,12  Mar-18*,4.0,KECI
+160,Debt to equity ratio,12  Mar-18*,0.4,KECI
+161,Sales to assets ratio,12  Mar-18*,1.0,KECI
+162,Return on assets,12  Mar-18*,6.5,KECI
+163,Return on equity,12  Mar-18*,22.9,KECI
+164,Return on capital,12  Mar-18*,33.5,KECI
+165,Exports to sales,12  Mar-18*,0.0,KECI
+166,Imports to sales,12  Mar-18*,0.0,KECI
+167,Exports (fob),12  Mar-18*,0.0,KECI
+168,Imports (cif),12  Mar-18*,0.0,KECI
+169,Fx inflow,12  Mar-18*,30772.0,KECI
+170,Fx outflow,12  Mar-18*,21197.0,KECI
+171,Net fx,12  Mar-18*,9575.0,KECI
+172,From Operations,12  Mar-18*,6596.0,KECI
+173,From Investments,12  Mar-18*,-45.0,KECI
+174,From Financial Activity,12  Mar-18*,-6382.0,KECI
+175,Net Cashflow,12  Mar-18*,175.0,KECI
+176,Net Sales,12  Mar-19*,110005.0,KECI
+177,Other income,12  Mar-19*,226.0,KECI
+178,Total revenues,12  Mar-19*,110231.0,KECI
+179,Gross profit,12  Mar-19*,11499.0,KECI
+180,Depreciation,12  Mar-19*,1171.0,KECI
+181,Interest,12  Mar-19*,3119.0,KECI
+182,Profit before tax,12  Mar-19*,7435.0,KECI
+183,Minority Interest,12  Mar-19*,0.0,KECI
+184,Prior Period Items,12  Mar-19*,0.0,KECI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,KECI
+186,Tax,12  Mar-19*,2571.0,KECI
+187,Profit after tax,12  Mar-19*,4864.0,KECI
+188,Gross profit margin,12  Mar-19*,10.5,KECI
+189,Effective tax rate,12  Mar-19*,34.6,KECI
+190,Net profit margin,12  Mar-19*,4.4,KECI
+191,Current assets,12  Mar-19*,101511.0,KECI
+192,Current liabilities,12  Mar-19*,85547.0,KECI
+193,Net working cap to sales,12  Mar-19*,14.5,KECI
+194,Current ratio,12  Mar-19*,1.2,KECI
+195,Inventory Days,12  Mar-19*,21.0,KECI
+196,Debtors Days,12  Mar-19*,162.0,KECI
+197,Net fixed assets,12  Mar-19*,11897.0,KECI
+198,Share capital,12  Mar-19*,514.0,KECI
+199,"""Free"" reserves",12  Mar-19*,23837.0,KECI
+200,Net worth,12  Mar-19*,24351.0,KECI
+201,Long term debt,12  Mar-19*,5411.0,KECI
+202,Total assets,12  Mar-19*,116945.0,KECI
+203,Interest coverage,12  Mar-19*,3.4,KECI
+204,Debt to equity ratio,12  Mar-19*,0.2,KECI
+205,Sales to assets ratio,12  Mar-19*,0.9,KECI
+206,Return on assets,12  Mar-19*,6.8,KECI
+207,Return on equity,12  Mar-19*,20.0,KECI
+208,Return on capital,12  Mar-19*,35.5,KECI
+209,Exports to sales,12  Mar-19*,0.0,KECI
+210,Imports to sales,12  Mar-19*,0.0,KECI
+211,Exports (fob),12  Mar-19*,0.0,KECI
+212,Imports (cif),12  Mar-19*,0.0,KECI
+213,Fx inflow,12  Mar-19*,35723.0,KECI
+214,Fx outflow,12  Mar-19*,26832.0,KECI
+215,Net fx,12  Mar-19*,8892.0,KECI
+216,From Operations,12  Mar-19*,1987.0,KECI
+217,From Investments,12  Mar-19*,-695.0,KECI
+218,From Financial Activity,12  Mar-19*,-1499.0,KECI
+219,Net Cashflow,12  Mar-19*,-178.0,KECI

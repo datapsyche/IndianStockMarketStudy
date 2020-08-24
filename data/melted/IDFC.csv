@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,96398.0,IDFC
+1,Other income,12  Mar-15*,827.0,IDFC
+2,Interest expense,12  Mar-15*,56578.0,IDFC
+3,Net interest income,12  Mar-15*,39821.0,IDFC
+4,Operating expense,12  Mar-15*,7665.0,IDFC
+5,Gross profit,12  Mar-15*,32156.0,IDFC
+6,Gross profit margin,12  Mar-15*,33.4,IDFC
+7,Provisions/contingencies,12  Mar-15*,9521.0,IDFC
+8,Profit before tax,12  Mar-15*,23461.0,IDFC
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,IDFC
+10,Minority Interest,12  Mar-15*,-208.0,IDFC
+11,Prior Period Items,12  Mar-15*,-221.0,IDFC
+12,Tax,12  Mar-15*,5963.0,IDFC
+13,Profit after tax,12  Mar-15*,17070.0,IDFC
+14,Net profit margin,12  Mar-15*,17.7,IDFC
+15,Advances,12  Mar-15*,478022,IDFC
+16,Deposits,12  Mar-15*,0,IDFC
+17,Credit/Deposit ratio,12  Mar-15*,NM,IDFC
+18,Yield on advances,12  Mar-15*,13.5,IDFC
+19,Cost of deposits,12  Mar-15*,N.A.,IDFC
+20,Net Interest Margin,12  Mar-15*,6.4,IDFC
+21,Net fixed assets,12  Mar-15*,4265,IDFC
+22,Share capital,12  Mar-15*,15928,IDFC
+23,Free reserves,12  Mar-15*,94869,IDFC
+24,Net worth,12  Mar-15*,172745,IDFC
+25,Borrowings,12  Mar-15*,429187,IDFC
+26,Investments,12  Mar-15*,146105,IDFC
+27,Total assets,12  Mar-15*,870682,IDFC
+28,Debt/equity ratio,12  Mar-15*,2.5,IDFC
+29,Return on assets,12  Mar-15*,2.0,IDFC
+30,Return on equity,12  Mar-15*,9.9,IDFC
+31,Capital adequacy ratio,12  Mar-15*,12.5,IDFC
+32,Net NPAs,12  Mar-15*,0.2,IDFC
+33,From Operations,12  Mar-15*,75238,IDFC
+34,From Investments,12  Mar-15*,-176277,IDFC
+35,From Financial Activity,12  Mar-15*,100096,IDFC
+36,Net Cashflow,12  Mar-15*,-943,IDFC
+37,Interest income,12  Mar-16*,89423.0,IDFC
+38,Other income,12  Mar-16*,281.0,IDFC
+39,Interest expense,12  Mar-16*,57356.0,IDFC
+40,Net interest income,12  Mar-16*,32067.0,IDFC
+41,Operating expense,12  Mar-16*,21955.0,IDFC
+42,Gross profit,12  Mar-16*,10113.0,IDFC
+43,Gross profit margin,12  Mar-16*,11.3,IDFC
+44,Provisions/contingencies,12  Mar-16*,3891.0,IDFC
+45,Profit before tax,12  Mar-16*,16794.0,IDFC
+46,Extraordinary Inc (Exp),12  Mar-16*,-26387.0,IDFC
+47,Minority Interest,12  Mar-16*,-2780.0,IDFC
+48,Prior Period Items,12  Mar-16*,-650.0,IDFC
+49,Tax,12  Mar-16*,-3675.0,IDFC
+50,Profit after tax,12  Mar-16*,-9348.0,IDFC
+51,Net profit margin,12  Mar-16*,-10.5,IDFC
+52,Advances,12  Mar-16*,482844,IDFC
+53,Deposits,12  Mar-16*,0,IDFC
+54,Credit/Deposit ratio,12  Mar-16*,NM,IDFC
+55,Yield on advances,12  Mar-16*,11.1,IDFC
+56,Cost of deposits,12  Mar-16*,N.A.,IDFC
+57,Net Interest Margin,12  Mar-16*,5.5,IDFC
+58,Net fixed assets,12  Mar-16*,7975,IDFC
+59,Share capital,12  Mar-16*,15940,IDFC
+60,Free reserves,12  Mar-16*,41068,IDFC
+61,Net worth,12  Mar-16*,101030,IDFC
+62,Borrowings,12  Mar-16*,431849,IDFC
+63,Investments,12  Mar-16*,104151,IDFC
+64,Total assets,12  Mar-16*,868689,IDFC
+65,Debt/equity ratio,12  Mar-16*,4.3,IDFC
+66,Return on assets,12  Mar-16*,-1.1,IDFC
+67,Return on equity,12  Mar-16*,-9.3,IDFC
+68,Capital adequacy ratio,12  Mar-16*,0,IDFC
+69,Net NPAs,12  Mar-16*,0,IDFC
+70,From Operations,12  Mar-16*,29937,IDFC
+71,From Investments,12  Mar-16*,86396,IDFC
+72,From Financial Activity,12  Mar-16*,-88906,IDFC
+73,Net Cashflow,12  Mar-16*,27426,IDFC
+74,Interest income,12  Mar-17*,103925.0,IDFC
+75,Other income,12  Mar-17*,95.0,IDFC
+76,Interest expense,12  Mar-17*,66503.0,IDFC
+77,Net interest income,12  Mar-17*,37422.0,IDFC
+78,Operating expense,12  Mar-17*,27545.0,IDFC
+79,Gross profit,12  Mar-17*,9877.0,IDFC
+80,Gross profit margin,12  Mar-17*,9.5,IDFC
+81,Provisions/contingencies,12  Mar-17*,4265.0,IDFC
+82,Profit before tax,12  Mar-17*,17915.0,IDFC
+83,Extraordinary Inc (Exp),12  Mar-17*,0.0,IDFC
+84,Minority Interest,12  Mar-17*,-5408.0,IDFC
+85,Prior Period Items,12  Mar-17*,-688.0,IDFC
+86,Tax,12  Mar-17*,4829.0,IDFC
+87,Profit after tax,12  Mar-17*,6991.0,IDFC
+88,Net profit margin,12  Mar-17*,6.7,IDFC
+89,Advances,12  Mar-17*,530134,IDFC
+90,Deposits,12  Mar-17*,0,IDFC
+91,Credit/Deposit ratio,12  Mar-17*,NM,IDFC
+92,Yield on advances,12  Mar-17*,10.0,IDFC
+93,Cost of deposits,12  Mar-17*,N.A.,IDFC
+94,Net Interest Margin,12  Mar-17*,5.5,IDFC
+95,Net fixed assets,12  Mar-17*,9221,IDFC
+96,Share capital,12  Mar-17*,15959,IDFC
+97,Free reserves,12  Mar-17*,42201,IDFC
+98,Net worth,12  Mar-17*,108199,IDFC
+99,Borrowings,12  Mar-17*,364320,IDFC
+100,Investments,12  Mar-17*,153390,IDFC
+101,Total assets,12  Mar-17*,1176409,IDFC
+102,Debt/equity ratio,12  Mar-17*,3.4,IDFC
+103,Return on assets,12  Mar-17*,0.6,IDFC
+104,Return on equity,12  Mar-17*,6.5,IDFC
+105,Capital adequacy ratio,12  Mar-17*,18.9,IDFC
+106,Net NPAs,12  Mar-17*,0,IDFC
+107,From Operations,12  Mar-17*,-38061,IDFC
+108,From Investments,12  Mar-17*,-203606,IDFC
+109,From Financial Activity,12  Mar-17*,263821,IDFC
+110,Net Cashflow,12  Mar-17*,22154,IDFC
+111,Interest income,12  Mar-18,168.0,IDFC
+112,Other income,12  Mar-18,504.0,IDFC
+113,Interest expense,12  Mar-18,6.0,IDFC
+114,Net interest income,12  Mar-18,163.0,IDFC
+115,Operating expense,12  Mar-18,5755.0,IDFC
+116,Gross profit,12  Mar-18,-5592.0,IDFC
+117,Gross profit margin,12  Mar-18,-3320.7,IDFC
+118,Provisions/contingencies,12  Mar-18,127.0,IDFC
+119,Profit before tax,12  Mar-18,9772.0,IDFC
+120,Extraordinary Inc (Exp),12  Mar-18,0.0,IDFC
+121,Minority Interest,12  Mar-18,0.0,IDFC
+122,Prior Period Items,12  Mar-18,0.0,IDFC
+123,Tax,12  Mar-18,1976.0,IDFC
+124,Profit after tax,12  Mar-18,7797.0,IDFC
+125,Net profit margin,12  Mar-18,4629.9,IDFC
+126,Advances,12  Mar-18,41903,IDFC
+127,Deposits,12  Mar-18,0,IDFC
+128,Credit/Deposit ratio,12  Mar-18,NM,IDFC
+129,Yield on advances,12  Mar-18,123.9,IDFC
+130,Cost of deposits,12  Mar-18,N.A.,IDFC
+131,Net Interest Margin,12  Mar-18,0.1,IDFC
+132,Net fixed assets,12  Mar-18,12708,IDFC
+133,Share capital,12  Mar-18,15964,IDFC
+134,Free reserves,12  Mar-18,96796,IDFC
+135,Net worth,12  Mar-18,112760,IDFC
+136,Borrowings,12  Mar-18,2029,IDFC
+137,Investments,12  Mar-18,93791,IDFC
+138,Total assets,12  Mar-18,156023,IDFC
+139,Debt/equity ratio,12  Mar-18,0,IDFC
+140,Return on assets,12  Mar-18,5.0,IDFC
+141,Return on equity,12  Mar-18,6.9,IDFC
+142,Capital adequacy ratio,12  Mar-18,22.1,IDFC
+143,Net NPAs,12  Mar-18,0,IDFC
+144,From Operations,12  Mar-18,-7612,IDFC
+145,From Investments,12  Mar-18,-7131,IDFC
+146,From Financial Activity,12  Mar-18,11830,IDFC
+147,Net Cashflow,12  Mar-18,-2912,IDFC
+148,Interest income,12  Mar-19,147.0,IDFC
+149,Other income,12  Mar-19,1627.0,IDFC
+150,Interest expense,12  Mar-19,48.0,IDFC
+151,Net interest income,12  Mar-19,99.0,IDFC
+152,Operating expense,12  Mar-19,5068.0,IDFC
+153,Gross profit,12  Mar-19,-4968.0,IDFC
+154,Gross profit margin,12  Mar-19,-3372.8,IDFC
+155,Provisions/contingencies,12  Mar-19,139.0,IDFC
+156,Profit before tax,12  Mar-19,-7003.0,IDFC
+157,Extraordinary Inc (Exp),12  Mar-19,0.0,IDFC
+158,Minority Interest,12  Mar-19,0.0,IDFC
+159,Prior Period Items,12  Mar-19,0.0,IDFC
+160,Tax,12  Mar-19,-1485.0,IDFC
+161,Profit after tax,12  Mar-19,-5519.0,IDFC
+162,Net profit margin,12  Mar-19,-3746.5,IDFC
+163,Advances,12  Mar-19,0,IDFC
+164,Deposits,12  Mar-19,0,IDFC
+165,Credit/Deposit ratio,12  Mar-19,NM,IDFC
+166,Yield on advances,12  Mar-19,N.A.,IDFC
+167,Cost of deposits,12  Mar-19,N.A.,IDFC
+168,Net Interest Margin,12  Mar-19,0.1,IDFC
+169,Net fixed assets,12  Mar-19,8849,IDFC
+170,Share capital,12  Mar-19,15964,IDFC
+171,Free reserves,12  Mar-19,87885,IDFC
+172,Net worth,12  Mar-19,103848,IDFC
+173,Borrowings,12  Mar-19,578,IDFC
+174,Investments,12  Mar-19,86733,IDFC
+175,Total assets,12  Mar-19,105579,IDFC
+176,Debt/equity ratio,12  Mar-19,0,IDFC
+177,Return on assets,12  Mar-19,-5.2,IDFC
+178,Return on equity,12  Mar-19,-5.3,IDFC
+179,Capital adequacy ratio,12  Mar-19,15.5,IDFC
+180,Net NPAs,12  Mar-19,0,IDFC
+181,From Operations,12  Mar-19,29575,IDFC
+182,From Investments,12  Mar-19,4840,IDFC
+183,From Financial Activity,12  Mar-19,-35985,IDFC
+184,Net Cashflow,12  Mar-19,-1570,IDFC

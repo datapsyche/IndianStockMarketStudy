@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5111.0,KXGN
+1,Other income,12  Mar-15,134.0,KXGN
+2,Total revenues,12  Mar-15,5245.0,KXGN
+3,Gross profit,12  Mar-15,1687.0,KXGN
+4,Depreciation,12  Mar-15,213.0,KXGN
+5,Interest,12  Mar-15,192.0,KXGN
+6,Profit before tax,12  Mar-15,1417.0,KXGN
+7,Minority Interest,12  Mar-15,0.0,KXGN
+8,Prior Period Items,12  Mar-15,0.0,KXGN
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,KXGN
+10,Tax,12  Mar-15,432.0,KXGN
+11,Profit after tax,12  Mar-15,985.0,KXGN
+12,Gross profit margin,12  Mar-15,33.0,KXGN
+13,Effective tax rate,12  Mar-15,30.5,KXGN
+14,Net profit margin,12  Mar-15,19.3,KXGN
+15,Current assets,12  Mar-15,3412.0,KXGN
+16,Current liabilities,12  Mar-15,2187.0,KXGN
+17,Net working cap to sales,12  Mar-15,24.0,KXGN
+18,Current ratio,12  Mar-15,1.6,KXGN
+19,Inventory Days,12  Mar-15,8.0,KXGN
+20,Debtors Days,12  Mar-15,45.0,KXGN
+21,Net fixed assets,12  Mar-15,1885.0,KXGN
+22,Share capital,12  Mar-15,48.0,KXGN
+23,"""Free"" reserves",12  Mar-15,2589.0,KXGN
+24,Net worth,12  Mar-15,2639.0,KXGN
+25,Long term debt,12  Mar-15,268.0,KXGN
+26,Total assets,12  Mar-15,5353.0,KXGN
+27,Interest coverage,12  Mar-15,8.4,KXGN
+28,Debt to equity ratio,12  Mar-15,0.1,KXGN
+29,Sales to assets ratio,12  Mar-15,1.0,KXGN
+30,Return on assets,12  Mar-15,22.0,KXGN
+31,Return on equity,12  Mar-15,37.3,KXGN
+32,Return on capital,12  Mar-15,55.3,KXGN
+33,Exports to sales,12  Mar-15,81.3,KXGN
+34,Imports to sales,12  Mar-15,10.9,KXGN
+35,Exports (fob),12  Mar-15,4156.0,KXGN
+36,Imports (cif),12  Mar-15,559.0,KXGN
+37,Fx inflow,12  Mar-15,4169.0,KXGN
+38,Fx outflow,12  Mar-15,595.0,KXGN
+39,Net fx,12  Mar-15,3574.0,KXGN
+40,From Operations,12  Mar-15,1284.0,KXGN
+41,From Investments,12  Mar-15,-298.0,KXGN
+42,From Financial Activity,12  Mar-15,24.0,KXGN
+43,Net Cashflow,12  Mar-15,1009.0,KXGN
+44,Net Sales,12  Mar-16,5458.0,KXGN
+45,Other income,12  Mar-16,198.0,KXGN
+46,Total revenues,12  Mar-16,5656.0,KXGN
+47,Gross profit,12  Mar-16,1884.0,KXGN
+48,Depreciation,12  Mar-16,213.0,KXGN
+49,Interest,12  Mar-16,159.0,KXGN
+50,Profit before tax,12  Mar-16,1711.0,KXGN
+51,Minority Interest,12  Mar-16,0.0,KXGN
+52,Prior Period Items,12  Mar-16,0.0,KXGN
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,KXGN
+54,Tax,12  Mar-16,590.0,KXGN
+55,Profit after tax,12  Mar-16,1121.0,KXGN
+56,Gross profit margin,12  Mar-16,34.5,KXGN
+57,Effective tax rate,12  Mar-16,34.5,KXGN
+58,Net profit margin,12  Mar-16,20.5,KXGN
+59,Current assets,12  Mar-16,3914.0,KXGN
+60,Current liabilities,12  Mar-16,1780.0,KXGN
+61,Net working cap to sales,12  Mar-16,39.1,KXGN
+62,Current ratio,12  Mar-16,2.2,KXGN
+63,Inventory Days,12  Mar-16,9.0,KXGN
+64,Debtors Days,12  Mar-16,64.0,KXGN
+65,Net fixed assets,12  Mar-16,1741.0,KXGN
+66,Share capital,12  Mar-16,48.0,KXGN
+67,"""Free"" reserves",12  Mar-16,3624.0,KXGN
+68,Net worth,12  Mar-16,3650.0,KXGN
+69,Long term debt,12  Mar-16,83.0,KXGN
+70,Total assets,12  Mar-16,5865.0,KXGN
+71,Interest coverage,12  Mar-16,11.8,KXGN
+72,Debt to equity ratio,12  Mar-16,0.0,KXGN
+73,Sales to assets ratio,12  Mar-16,0.9,KXGN
+74,Return on assets,12  Mar-16,21.8,KXGN
+75,Return on equity,12  Mar-16,30.7,KXGN
+76,Return on capital,12  Mar-16,50.1,KXGN
+77,Exports to sales,12  Mar-16,79.0,KXGN
+78,Imports to sales,12  Mar-16,7.8,KXGN
+79,Exports (fob),12  Mar-16,4313.0,KXGN
+80,Imports (cif),12  Mar-16,428.0,KXGN
+81,Fx inflow,12  Mar-16,4326.0,KXGN
+82,Fx outflow,12  Mar-16,454.0,KXGN
+83,Net fx,12  Mar-16,3872.0,KXGN
+84,From Operations,12  Mar-16,1351.0,KXGN
+85,From Investments,12  Mar-16,-100.0,KXGN
+86,From Financial Activity,12  Mar-16,-784.0,KXGN
+87,Net Cashflow,12  Mar-16,467.0,KXGN
+88,Net Sales,12  Mar-17,5459.0,KXGN
+89,Other income,12  Mar-17,35.0,KXGN
+90,Total revenues,12  Mar-17,5494.0,KXGN
+91,Gross profit,12  Mar-17,1699.0,KXGN
+92,Depreciation,12  Mar-17,218.0,KXGN
+93,Interest,12  Mar-17,93.0,KXGN
+94,Profit before tax,12  Mar-17,1422.0,KXGN
+95,Minority Interest,12  Mar-17,0.0,KXGN
+96,Prior Period Items,12  Mar-17,0.0,KXGN
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,KXGN
+98,Tax,12  Mar-17,500.0,KXGN
+99,Profit after tax,12  Mar-17,922.0,KXGN
+100,Gross profit margin,12  Mar-17,31.1,KXGN
+101,Effective tax rate,12  Mar-17,35.2,KXGN
+102,Net profit margin,12  Mar-17,16.9,KXGN
+103,Current assets,12  Mar-17,3550.0,KXGN
+104,Current liabilities,12  Mar-17,706.0,KXGN
+105,Net working cap to sales,12  Mar-17,52.1,KXGN
+106,Current ratio,12  Mar-17,5.0,KXGN
+107,Inventory Days,12  Mar-17,27.0,KXGN
+108,Debtors Days,12  Mar-17,88.0,KXGN
+109,Net fixed assets,12  Mar-17,1885.0,KXGN
+110,Share capital,12  Mar-17,48.0,KXGN
+111,"""Free"" reserves",12  Mar-17,4395.0,KXGN
+112,Net worth,12  Mar-17,4445.0,KXGN
+113,Long term debt,12  Mar-17,31.0,KXGN
+114,Total assets,12  Mar-17,5547.0,KXGN
+115,Interest coverage,12  Mar-17,16.3,KXGN
+116,Debt to equity ratio,12  Mar-17,0.0,KXGN
+117,Sales to assets ratio,12  Mar-17,1.0,KXGN
+118,Return on assets,12  Mar-17,18.3,KXGN
+119,Return on equity,12  Mar-17,20.7,KXGN
+120,Return on capital,12  Mar-17,33.8,KXGN
+121,Exports to sales,12  Mar-17,73.7,KXGN
+122,Imports to sales,12  Mar-17,7.7,KXGN
+123,Exports (fob),12  Mar-17,4023.0,KXGN
+124,Imports (cif),12  Mar-17,422.0,KXGN
+125,Fx inflow,12  Mar-17,4326.0,KXGN
+126,Fx outflow,12  Mar-17,448.0,KXGN
+127,Net fx,12  Mar-17,3878.0,KXGN
+128,From Operations,12  Mar-17,447.0,KXGN
+129,From Investments,12  Mar-17,-345.0,KXGN
+130,From Financial Activity,12  Mar-17,-1199.0,KXGN
+131,Net Cashflow,12  Mar-17,-1158.0,KXGN
+132,Net Sales,12  Mar-18,5573.0,KXGN
+133,Other income,12  Mar-18,27.0,KXGN
+134,Total revenues,12  Mar-18,5599.0,KXGN
+135,Gross profit,12  Mar-18,1340.0,KXGN
+136,Depreciation,12  Mar-18,234.0,KXGN
+137,Interest,12  Mar-18,58.0,KXGN
+138,Profit before tax,12  Mar-18,1075.0,KXGN
+139,Minority Interest,12  Mar-18,0.0,KXGN
+140,Prior Period Items,12  Mar-18,0.0,KXGN
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,KXGN
+142,Tax,12  Mar-18,375.0,KXGN
+143,Profit after tax,12  Mar-18,700.0,KXGN
+144,Gross profit margin,12  Mar-18,24.1,KXGN
+145,Effective tax rate,12  Mar-18,34.9,KXGN
+146,Net profit margin,12  Mar-18,12.6,KXGN
+147,Current assets,12  Mar-18,3768.0,KXGN
+148,Current liabilities,12  Mar-18,699.0,KXGN
+149,Net working cap to sales,12  Mar-18,55.1,KXGN
+150,Current ratio,12  Mar-18,5.4,KXGN
+151,Inventory Days,12  Mar-18,58.0,KXGN
+152,Debtors Days,12  Mar-18,81.0,KXGN
+153,Net fixed assets,12  Mar-18,2057.0,KXGN
+154,Share capital,12  Mar-18,67.0,KXGN
+155,"""Free"" reserves",12  Mar-18,4921.0,KXGN
+156,Net worth,12  Mar-18,4987.0,KXGN
+157,Long term debt,12  Mar-18,6.0,KXGN
+158,Total assets,12  Mar-18,5999.0,KXGN
+159,Interest coverage,12  Mar-18,19.5,KXGN
+160,Debt to equity ratio,12  Mar-18,0.0,KXGN
+161,Sales to assets ratio,12  Mar-18,0.9,KXGN
+162,Return on assets,12  Mar-18,12.6,KXGN
+163,Return on equity,12  Mar-18,14.0,KXGN
+164,Return on capital,12  Mar-18,22.7,KXGN
+165,Exports to sales,12  Mar-18,0.0,KXGN
+166,Imports to sales,12  Mar-18,0.0,KXGN
+167,Exports (fob),12  Mar-18,0.0,KXGN
+168,Imports (cif),12  Mar-18,0.0,KXGN
+169,Fx inflow,12  Mar-18,4242.0,KXGN
+170,Fx outflow,12  Mar-18,15.0,KXGN
+171,Net fx,12  Mar-18,4227.0,KXGN
+172,From Operations,12  Mar-18,286.0,KXGN
+173,From Investments,12  Mar-18,-520.0,KXGN
+174,From Financial Activity,12  Mar-18,-151.0,KXGN
+175,Net Cashflow,12  Mar-18,-378.0,KXGN
+176,Net Sales,12  Mar-19,6068.0,KXGN
+177,Other income,12  Mar-19,225.0,KXGN
+178,Total revenues,12  Mar-19,6293.0,KXGN
+179,Gross profit,12  Mar-19,1387.0,KXGN
+180,Depreciation,12  Mar-19,273.0,KXGN
+181,Interest,12  Mar-19,39.0,KXGN
+182,Profit before tax,12  Mar-19,1300.0,KXGN
+183,Minority Interest,12  Mar-19,0.0,KXGN
+184,Prior Period Items,12  Mar-19,0.0,KXGN
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,KXGN
+186,Tax,12  Mar-19,487.0,KXGN
+187,Profit after tax,12  Mar-19,813.0,KXGN
+188,Gross profit margin,12  Mar-19,22.9,KXGN
+189,Effective tax rate,12  Mar-19,37.5,KXGN
+190,Net profit margin,12  Mar-19,13.4,KXGN
+191,Current assets,12  Mar-19,4952.0,KXGN
+192,Current liabilities,12  Mar-19,1663.0,KXGN
+193,Net working cap to sales,12  Mar-19,54.2,KXGN
+194,Current ratio,12  Mar-19,3.0,KXGN
+195,Inventory Days,12  Mar-19,78.0,KXGN
+196,Debtors Days,12  Mar-19,99.0,KXGN
+197,Net fixed assets,12  Mar-19,2543.0,KXGN
+198,Share capital,12  Mar-19,67.0,KXGN
+199,"""Free"" reserves",12  Mar-19,5568.0,KXGN
+200,Net worth,12  Mar-19,5635.0,KXGN
+201,Long term debt,12  Mar-19,0.0,KXGN
+202,Total assets,12  Mar-19,7577.0,KXGN
+203,Interest coverage,12  Mar-19,34.5,KXGN
+204,Debt to equity ratio,12  Mar-19,0.0,KXGN
+205,Sales to assets ratio,12  Mar-19,0.8,KXGN
+206,Return on assets,12  Mar-19,11.2,KXGN
+207,Return on equity,12  Mar-19,14.4,KXGN
+208,Return on capital,12  Mar-19,23.8,KXGN
+209,Exports to sales,12  Mar-19,0.0,KXGN
+210,Imports to sales,12  Mar-19,0.0,KXGN
+211,Exports (fob),12  Mar-19,0.0,KXGN
+212,Imports (cif),12  Mar-19,0.0,KXGN
+213,Fx inflow,12  Mar-19,4667.0,KXGN
+214,Fx outflow,12  Mar-19,718.0,KXGN
+215,Net fx,12  Mar-19,3949.0,KXGN
+216,From Operations,12  Mar-19,86.0,KXGN
+217,From Investments,12  Mar-19,-780.0,KXGN
+218,From Financial Activity,12  Mar-19,721.0,KXGN
+219,Net Cashflow,12  Mar-19,14.0,KXGN

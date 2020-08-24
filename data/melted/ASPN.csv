@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,142715.0,ASPN
+1,Other income,12  Mar-16*,2134.0,ASPN
+2,Total revenues,12  Mar-16*,144849.0,ASPN
+3,Gross profit,12  Mar-16*,27692.0,ASPN
+4,Depreciation,12  Mar-16*,2756.0,ASPN
+5,Interest,12  Mar-16*,407.0,ASPN
+6,Profit before tax,12  Mar-16*,26663.0,ASPN
+7,Minority Interest,12  Mar-16*,334.0,ASPN
+8,Prior Period Items,12  Mar-16*,0.0,ASPN
+9,Extraordinary Inc (Exp),12  Mar-16*,-525.0,ASPN
+10,Tax,12  Mar-16*,8445.0,ASPN
+11,Profit after tax,12  Mar-16*,18028.0,ASPN
+12,Gross profit margin,12  Mar-16*,19.4,ASPN
+13,Effective tax rate,12  Mar-16*,31.7,ASPN
+14,Net profit margin,12  Mar-16*,12.6,ASPN
+15,Current assets,12  Mar-16*,57350.0,ASPN
+16,Current liabilities,12  Mar-16*,31491.0,ASPN
+17,Net working cap to sales,12  Mar-16*,18.1,ASPN
+18,Current ratio,12  Mar-16*,1.8,ASPN
+19,Inventory Days,12  Mar-16*,51.0,ASPN
+20,Debtors Days,12  Mar-16*,30.0,ASPN
+21,Net fixed assets,12  Mar-16*,35229.0,ASPN
+22,Share capital,12  Mar-16*,959.0,ASPN
+23,"""Free"" reserves",12  Mar-16*,64289.0,ASPN
+24,Net worth,12  Mar-16*,65248.0,ASPN
+25,Long term debt,12  Mar-16*,726.0,ASPN
+26,Total assets,12  Mar-16*,105609.0,ASPN
+27,Interest coverage,12  Mar-16*,66.6,ASPN
+28,Debt to equity ratio,12  Mar-16*,0.0,ASPN
+29,Sales to assets ratio,12  Mar-16*,1.4,ASPN
+30,Return on assets,12  Mar-16*,17.5,ASPN
+31,Return on equity,12  Mar-16*,27.6,ASPN
+32,Return on capital,12  Mar-16*,40.7,ASPN
+33,Exports to sales,12  Mar-16*,0.3,ASPN
+34,Imports to sales,12  Mar-16*,13.0,ASPN
+35,Exports (fob),12  Mar-16*,357.0,ASPN
+36,Imports (cif),12  Mar-16*,18499.0,ASPN
+37,Fx inflow,12  Mar-16*,802.0,ASPN
+38,Fx outflow,12  Mar-16*,19554.0,ASPN
+39,Net fx,12  Mar-16*,-18752.0,ASPN
+40,From Operations,12  Mar-16*,22430.0,ASPN
+41,From Investments,12  Mar-16*,-8663.0,ASPN
+42,From Financial Activity,12  Mar-16*,-8490.0,ASPN
+43,Net Cashflow,12  Mar-16*,5277.0,ASPN
+44,Net Sales,12  Mar-17*,150620.0,ASPN
+45,Other income,12  Mar-17*,2624.0,ASPN
+46,Total revenues,12  Mar-17*,153244.0,ASPN
+47,Gross profit,12  Mar-17*,29864.0,ASPN
+48,Depreciation,12  Mar-17*,3348.0,ASPN
+49,Interest,12  Mar-17*,300.0,ASPN
+50,Profit before tax,12  Mar-17*,28841.0,ASPN
+51,Minority Interest,12  Mar-17*,496.0,ASPN
+52,Prior Period Items,12  Mar-17*,0.0,ASPN
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,ASPN
+54,Tax,12  Mar-17*,9433.0,ASPN
+55,Profit after tax,12  Mar-17*,19904.0,ASPN
+56,Gross profit margin,12  Mar-17*,19.8,ASPN
+57,Effective tax rate,12  Mar-17*,32.7,ASPN
+58,Net profit margin,12  Mar-17*,13.2,ASPN
+59,Current assets,12  Mar-17*,69657.0,ASPN
+60,Current liabilities,12  Mar-17*,38849.0,ASPN
+61,Net working cap to sales,12  Mar-17*,20.5,ASPN
+62,Current ratio,12  Mar-17*,1.8,ASPN
+63,Inventory Days,12  Mar-17*,64.0,ASPN
+64,Debtors Days,12  Mar-17*,35.0,ASPN
+65,Net fixed assets,12  Mar-17*,35597.0,ASPN
+66,Share capital,12  Mar-17*,959.0,ASPN
+67,"""Free"" reserves",12  Mar-17*,75080.0,ASPN
+68,Net worth,12  Mar-17*,76039.0,ASPN
+69,Long term debt,12  Mar-17*,411.0,ASPN
+70,Total assets,12  Mar-17*,124214.0,ASPN
+71,Interest coverage,12  Mar-17*,97.2,ASPN
+72,Debt to equity ratio,12  Mar-17*,0.0,ASPN
+73,Sales to assets ratio,12  Mar-17*,1.2,ASPN
+74,Return on assets,12  Mar-17*,16.3,ASPN
+75,Return on equity,12  Mar-17*,26.2,ASPN
+76,Return on capital,12  Mar-17*,38.8,ASPN
+77,Exports to sales,12  Mar-17*,0.9,ASPN
+78,Imports to sales,12  Mar-17*,13.9,ASPN
+79,Exports (fob),12  Mar-17*,1336.0,ASPN
+80,Imports (cif),12  Mar-17*,20954.0,ASPN
+81,Fx inflow,12  Mar-17*,1336.0,ASPN
+82,Fx outflow,12  Mar-17*,22014.0,ASPN
+83,Net fx,12  Mar-17*,-20678.0,ASPN
+84,From Operations,12  Mar-17*,15273.0,ASPN
+85,From Investments,12  Mar-17*,-6561.0,ASPN
+86,From Financial Activity,12  Mar-17*,-7564.0,ASPN
+87,Net Cashflow,12  Mar-17*,1148.0,ASPN
+88,Net Sales,12  Mar-18*,168246.0,ASPN
+89,Other income,12  Mar-18*,2206.0,ASPN
+90,Total revenues,12  Mar-18*,170452.0,ASPN
+91,Gross profit,12  Mar-18*,31976.0,ASPN
+92,Depreciation,12  Mar-18*,3605.0,ASPN
+93,Interest,12  Mar-18*,351.0,ASPN
+94,Profit before tax,12  Mar-18*,30227.0,ASPN
+95,Minority Interest,12  Mar-18*,458.0,ASPN
+96,Prior Period Items,12  Mar-18*,0.0,ASPN
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,ASPN
+98,Tax,12  Mar-18*,10410.0,ASPN
+99,Profit after tax,12  Mar-18*,20275.0,ASPN
+100,Gross profit margin,12  Mar-18*,19.0,ASPN
+101,Effective tax rate,12  Mar-18*,34.4,ASPN
+102,Net profit margin,12  Mar-18*,12.1,ASPN
+103,Current assets,12  Mar-18*,69141.0,ASPN
+104,Current liabilities,12  Mar-18*,44511.0,ASPN
+105,Net working cap to sales,12  Mar-18*,14.6,ASPN
+106,Current ratio,12  Mar-18*,1.6,ASPN
+107,Inventory Days,12  Mar-18*,58.0,ASPN
+108,Debtors Days,12  Mar-18*,38.0,ASPN
+109,Net fixed assets,12  Mar-18*,51374.0,ASPN
+110,Share capital,12  Mar-18*,959.0,ASPN
+111,"""Free"" reserves",12  Mar-18*,83143.0,ASPN
+112,Net worth,12  Mar-18*,84102.0,ASPN
+113,Long term debt,12  Mar-18*,283.0,ASPN
+114,Total assets,12  Mar-18*,142738.0,ASPN
+115,Interest coverage,12  Mar-18*,87.2,ASPN
+116,Debt to equity ratio,12  Mar-18*,0.0,ASPN
+117,Sales to assets ratio,12  Mar-18*,1.2,ASPN
+118,Return on assets,12  Mar-18*,14.5,ASPN
+119,Return on equity,12  Mar-18*,24.1,ASPN
+120,Return on capital,12  Mar-18*,36.8,ASPN
+121,Exports to sales,12  Mar-18*,0.0,ASPN
+122,Imports to sales,12  Mar-18*,0.0,ASPN
+123,Exports (fob),12  Mar-18*,0.0,ASPN
+124,Imports (cif),12  Mar-18*,0.0,ASPN
+125,Fx inflow,12  Mar-18*,1472.0,ASPN
+126,Fx outflow,12  Mar-18*,26474.0,ASPN
+127,Net fx,12  Mar-18*,-25002.0,ASPN
+128,From Operations,12  Mar-18*,21134.0,ASPN
+129,From Investments,12  Mar-18*,-15993.0,ASPN
+130,From Financial Activity,12  Mar-18*,-13791.0,ASPN
+131,Net Cashflow,12  Mar-18*,-8218.0,ASPN
+132,Net Sales,12  Mar-19*,193415.0,ASPN
+133,Other income,12  Mar-19*,2271.0,ASPN
+134,Total revenues,12  Mar-19*,195686.0,ASPN
+135,Gross profit,12  Mar-19*,37722.0,ASPN
+136,Depreciation,12  Mar-19*,6221.0,ASPN
+137,Interest,12  Mar-19*,1053.0,ASPN
+138,Profit before tax,12  Mar-19*,32718.0,ASPN
+139,Minority Interest,12  Mar-19*,408.0,ASPN
+140,Prior Period Items,12  Mar-19*,0.0,ASPN
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,ASPN
+142,Tax,12  Mar-19*,10988.0,ASPN
+143,Profit after tax,12  Mar-19*,22138.0,ASPN
+144,Gross profit margin,12  Mar-19*,19.5,ASPN
+145,Effective tax rate,12  Mar-19*,33.6,ASPN
+146,Net profit margin,12  Mar-19*,11.4,ASPN
+147,Current assets,12  Mar-19*,76341.0,ASPN
+148,Current liabilities,12  Mar-19*,50289.0,ASPN
+149,Net working cap to sales,12  Mar-19*,13.5,ASPN
+150,Current ratio,12  Mar-19*,1.5,ASPN
+151,Inventory Days,12  Mar-19*,59.0,ASPN
+152,Debtors Days,12  Mar-19*,36.0,ASPN
+153,Net fixed assets,12  Mar-19*,60609.0,ASPN
+154,Share capital,12  Mar-19*,959.0,ASPN
+155,"""Free"" reserves",12  Mar-19*,94238.0,ASPN
+156,Net worth,12  Mar-19*,95197.0,ASPN
+157,Long term debt,12  Mar-19*,195.0,ASPN
+158,Total assets,12  Mar-19*,162781.0,ASPN
+159,Interest coverage,12  Mar-19*,32.1,ASPN
+160,Debt to equity ratio,12  Mar-19*,0.0,ASPN
+161,Sales to assets ratio,12  Mar-19*,1.2,ASPN
+162,Return on assets,12  Mar-19*,14.2,ASPN
+163,Return on equity,12  Mar-19*,23.3,ASPN
+164,Return on capital,12  Mar-19*,35.8,ASPN
+165,Exports to sales,12  Mar-19*,0.0,ASPN
+166,Imports to sales,12  Mar-19*,0.0,ASPN
+167,Exports (fob),12  Mar-19*,0.0,ASPN
+168,Imports (cif),12  Mar-19*,0.0,ASPN
+169,Fx inflow,12  Mar-19*,1473.0,ASPN
+170,Fx outflow,12  Mar-19*,27570.0,ASPN
+171,Net fx,12  Mar-19*,-26097.0,ASPN
+172,From Operations,12  Mar-19*,24695.0,ASPN
+173,From Investments,12  Mar-19*,-9450.0,ASPN
+174,From Financial Activity,12  Mar-19*,-11175.0,ASPN
+175,Net Cashflow,12  Mar-19*,4338.0,ASPN
+176,Net Sales,12  Mar-20*,202113.0,ASPN
+177,Other income,12  Mar-20*,3043.0,ASPN
+178,Total revenues,12  Mar-20*,205156.0,ASPN
+179,Gross profit,12  Mar-20*,41618.0,ASPN
+180,Depreciation,12  Mar-20*,7805.0,ASPN
+181,Interest,12  Mar-20*,1023.0,ASPN
+182,Profit before tax,12  Mar-20*,35833.0,ASPN
+183,Minority Interest,12  Mar-20*,507.0,ASPN
+184,Prior Period Items,12  Mar-20*,0.0,ASPN
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,ASPN
+186,Tax,12  Mar-20*,8549.0,ASPN
+187,Profit after tax,12  Mar-20*,27791.0,ASPN
+188,Gross profit margin,12  Mar-20*,20.6,ASPN
+189,Effective tax rate,12  Mar-20*,23.9,ASPN
+190,Net profit margin,12  Mar-20*,13.8,ASPN
+191,Current assets,12  Mar-20*,75801.0,ASPN
+192,Current liabilities,12  Mar-20*,43803.0,ASPN
+193,Net working cap to sales,12  Mar-20*,15.8,ASPN
+194,Current ratio,12  Mar-20*,1.7,ASPN
+195,Inventory Days,12  Mar-20*,61.0,ASPN
+196,Debtors Days,12  Mar-20*,32.0,ASPN
+197,Net fixed assets,12  Mar-20*,64126.0,ASPN
+198,Share capital,12  Mar-20*,959.0,ASPN
+199,"""Free"" reserves",12  Mar-20*,100342.0,ASPN
+200,Net worth,12  Mar-20*,101302.0,ASPN
+201,Long term debt,12  Mar-20*,186.0,ASPN
+202,Total assets,12  Mar-20*,161548.0,ASPN
+203,Interest coverage,12  Mar-20*,36.0,ASPN
+204,Debt to equity ratio,12  Mar-20*,0.0,ASPN
+205,Sales to assets ratio,12  Mar-20*,1.3,ASPN
+206,Return on assets,12  Mar-20*,17.8,ASPN
+207,Return on equity,12  Mar-20*,27.4,ASPN
+208,Return on capital,12  Mar-20*,36.8,ASPN
+209,Exports to sales,12  Mar-20*,0.0,ASPN
+210,Imports to sales,12  Mar-20*,0.0,ASPN
+211,Exports (fob),12  Mar-20*,0.0,ASPN
+212,Imports (cif),12  Mar-20*,0.0,ASPN
+213,Fx inflow,12  Mar-20*,1408.0,ASPN
+214,Fx outflow,12  Mar-20*,28316.0,ASPN
+215,Net fx,12  Mar-20*,-26908.0,ASPN
+216,From Operations,12  Mar-20*,26319.0,ASPN
+217,From Investments,12  Mar-20*,-5214.0,ASPN
+218,From Financial Activity,12  Mar-20*,-24652.0,ASPN
+219,Net Cashflow,12  Mar-20*,-3512.0,ASPN

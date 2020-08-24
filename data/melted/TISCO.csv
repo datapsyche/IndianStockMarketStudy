@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,1063399.0,TISCO
+1,Other income,12  Mar-16*,4122.0,TISCO
+2,Total revenues,12  Mar-16*,1067521.0,TISCO
+3,Gross profit,12  Mar-16*,78579.0,TISCO
+4,Depreciation,12  Mar-16*,53064.0,TISCO
+5,Interest,12  Mar-16*,42214.0,TISCO
+6,Profit before tax,12  Mar-16*,-12576.0,TISCO
+7,Minority Interest,12  Mar-16*,0.0,TISCO
+8,Prior Period Items,12  Mar-16*,0.0,TISCO
+9,Extraordinary Inc (Exp),12  Mar-16*,39904.0,TISCO
+10,Tax,12  Mar-16*,6900.0,TISCO
+11,Profit after tax,12  Mar-16*,20428.0,TISCO
+12,Gross profit margin,12  Mar-16*,7.4,TISCO
+13,Effective tax rate,12  Mar-16*,-54.9,TISCO
+14,Net profit margin,12  Mar-16*,1.9,TISCO
+15,Current assets,12  Mar-16*,457659.0,TISCO
+16,Current liabilities,12  Mar-16*,479540.0,TISCO
+17,Net working cap to sales,12  Mar-16*,-2.1,TISCO
+18,Current ratio,12  Mar-16*,1.0,TISCO
+19,Inventory Days,12  Mar-16*,69.0,TISCO
+20,Debtors Days,12  Mar-16*,41.0,TISCO
+21,Net fixed assets,12  Mar-16*,1081959.0,TISCO
+22,Share capital,12  Mar-16*,9702.0,TISCO
+23,"""Free"" reserves",12  Mar-16*,404873.0,TISCO
+24,Net worth,12  Mar-16*,414576.0,TISCO
+25,Long term debt,12  Mar-16*,648728.0,TISCO
+26,Total assets,12  Mar-16*,1775114.0,TISCO
+27,Interest coverage,12  Mar-16*,0.7,TISCO
+28,Debt to equity ratio,12  Mar-16*,1.6,TISCO
+29,Sales to assets ratio,12  Mar-16*,0.6,TISCO
+30,Return on assets,12  Mar-16*,3.5,TISCO
+31,Return on equity,12  Mar-16*,4.9,TISCO
+32,Return on capital,12  Mar-16*,6.5,TISCO
+33,Exports to sales,12  Mar-16*,0.9,TISCO
+34,Imports to sales,12  Mar-16*,6.0,TISCO
+35,Exports (fob),12  Mar-16*,10014.0,TISCO
+36,Imports (cif),12  Mar-16*,63704.0,TISCO
+37,Fx inflow,12  Mar-16*,10896.0,TISCO
+38,Fx outflow,12  Mar-16*,69146.0,TISCO
+39,Net fx,12  Mar-16*,-58250.0,TISCO
+40,From Operations,12  Mar-16*,114554.0,TISCO
+41,From Investments,12  Mar-16*,-92538.0,TISCO
+42,From Financial Activity,12  Mar-16*,-47291.0,TISCO
+43,Net Cashflow,12  Mar-16*,-20681.0,TISCO
+44,Net Sales,12  Mar-17*,1121520.0,TISCO
+45,Other income,12  Mar-17*,5275.0,TISCO
+46,Total revenues,12  Mar-17*,1126795.0,TISCO
+47,Gross profit,12  Mar-17*,170155.0,TISCO
+48,Depreciation,12  Mar-17*,56729.0,TISCO
+49,Interest,12  Mar-17*,50722.0,TISCO
+50,Profit before tax,12  Mar-17*,67979.0,TISCO
+51,Minority Interest,12  Mar-17*,0.0,TISCO
+52,Prior Period Items,12  Mar-17*,0.0,TISCO
+53,Extraordinary Inc (Exp),12  Mar-17*,-43242.0,TISCO
+54,Tax,12  Mar-17*,27780.0,TISCO
+55,Profit after tax,12  Mar-17*,-3044.0,TISCO
+56,Gross profit margin,12  Mar-17*,15.2,TISCO
+57,Effective tax rate,12  Mar-17*,40.9,TISCO
+58,Net profit margin,12  Mar-17*,-0.3,TISCO
+59,Current assets,12  Mar-17*,499436.0,TISCO
+60,Current liabilities,12  Mar-17*,500513.0,TISCO
+61,Net working cap to sales,12  Mar-17*,-0.1,TISCO
+62,Current ratio,12  Mar-17*,1.0,TISCO
+63,Inventory Days,12  Mar-17*,81.0,TISCO
+64,Debtors Days,12  Mar-17*,38.0,TISCO
+65,Net fixed assets,12  Mar-17*,1077907.0,TISCO
+66,Share capital,12  Mar-17*,9702.0,TISCO
+67,"""Free"" reserves",12  Mar-17*,345741.0,TISCO
+68,Net worth,12  Mar-17*,355443.0,TISCO
+69,Long term debt,12  Mar-17*,640223.0,TISCO
+70,Total assets,12  Mar-17*,1733332.0,TISCO
+71,Interest coverage,12  Mar-17*,2.3,TISCO
+72,Debt to equity ratio,12  Mar-17*,1.8,TISCO
+73,Sales to assets ratio,12  Mar-17*,0.6,TISCO
+74,Return on assets,12  Mar-17*,2.8,TISCO
+75,Return on equity,12  Mar-17*,-0.9,TISCO
+76,Return on capital,12  Mar-17*,7.6,TISCO
+77,Exports to sales,12  Mar-17*,0.0,TISCO
+78,Imports to sales,12  Mar-17*,9.2,TISCO
+79,Exports (fob),12  Mar-17*,0.0,TISCO
+80,Imports (cif),12  Mar-17*,102980.0,TISCO
+81,Fx inflow,12  Mar-17*,39966.0,TISCO
+82,Fx outflow,12  Mar-17*,107454.0,TISCO
+83,Net fx,12  Mar-17*,-67488.0,TISCO
+84,From Operations,12  Mar-17*,108244.0,TISCO
+85,From Investments,12  Mar-17*,-90756.0,TISCO
+86,From Financial Activity,12  Mar-17*,-25794.0,TISCO
+87,Net Cashflow,12  Mar-17*,-12447.0,TISCO
+88,Net Sales,12  Mar-18*,1241097.0,TISCO
+89,Other income,12  Mar-18*,8811.0,TISCO
+90,Total revenues,12  Mar-18*,1249908.0,TISCO
+91,Gross profit,12  Mar-18*,216723.0,TISCO
+92,Depreciation,12  Mar-18*,57417.0,TISCO
+93,Interest,12  Mar-18*,54547.0,TISCO
+94,Profit before tax,12  Mar-18*,113570.0,TISCO
+95,Minority Interest,12  Mar-18*,2391.0,TISCO
+96,Prior Period Items,12  Mar-18*,0.0,TISCO
+97,Extraordinary Inc (Exp),12  Mar-18*,95991.0,TISCO
+98,Tax,12  Mar-18*,33923.0,TISCO
+99,Profit after tax,12  Mar-18*,178029.0,TISCO
+100,Gross profit margin,12  Mar-18*,17.5,TISCO
+101,Effective tax rate,12  Mar-18*,29.9,TISCO
+102,Net profit margin,12  Mar-18*,14.3,TISCO
+103,Current assets,12  Mar-18*,677747.0,TISCO
+104,Current liabilities,12  Mar-18*,556613.0,TISCO
+105,Net working cap to sales,12  Mar-18*,9.8,TISCO
+106,Current ratio,12  Mar-18*,1.2,TISCO
+107,Inventory Days,12  Mar-18*,83.0,TISCO
+108,Debtors Days,12  Mar-18*,37.0,TISCO
+109,Net fixed assets,12  Mar-18*,1127193.0,TISCO
+110,Share capital,12  Mar-18*,11450.0,TISCO
+111,"""Free"" reserves",12  Mar-18*,574507.0,TISCO
+112,Net worth,12  Mar-18*,585956.0,TISCO
+113,Long term debt,12  Mar-18*,158850.0,TISCO
+114,Total assets,12  Mar-18*,2097579.0,TISCO
+115,Interest coverage,12  Mar-18*,3.1,TISCO
+116,Debt to equity ratio,12  Mar-18*,0.3,TISCO
+117,Sales to assets ratio,12  Mar-18*,0.6,TISCO
+118,Return on assets,12  Mar-18*,11.1,TISCO
+119,Return on equity,12  Mar-18*,30.4,TISCO
+120,Return on capital,12  Mar-18*,35.8,TISCO
+121,Exports to sales,12  Mar-18*,0.0,TISCO
+122,Imports to sales,12  Mar-18*,10.8,TISCO
+123,Exports (fob),12  Mar-18*,0.0,TISCO
+124,Imports (cif),12  Mar-18*,133554.0,TISCO
+125,Fx inflow,12  Mar-18*,58982.0,TISCO
+126,Fx outflow,12  Mar-18*,136904.0,TISCO
+127,Net fx,12  Mar-18*,-77922.0,TISCO
+128,From Operations,12  Mar-18*,80234.0,TISCO
+129,From Investments,12  Mar-18*,-120256.0,TISCO
+130,From Financial Activity,12  Mar-18*,66399.0,TISCO
+131,Net Cashflow,12  Mar-18*,29330.0,TISCO
+132,Net Sales,12  Mar-19*,1576690.0,TISCO
+133,Other income,12  Mar-19*,14206.0,TISCO
+134,Total revenues,12  Mar-19*,1590896.0,TISCO
+135,Gross profit,12  Mar-19*,297880.0,TISCO
+136,Depreciation,12  Mar-19*,73418.0,TISCO
+137,Interest,12  Mar-19*,76601.0,TISCO
+138,Profit before tax,12  Mar-19*,162067.0,TISCO
+139,Minority Interest,12  Mar-19*,2247.0,TISCO
+140,Prior Period Items,12  Mar-19*,0.0,TISCO
+141,Extraordinary Inc (Exp),12  Mar-19*,-1210.0,TISCO
+142,Tax,12  Mar-19*,67184.0,TISCO
+143,Profit after tax,12  Mar-19*,95920.0,TISCO
+144,Gross profit margin,12  Mar-19*,18.9,TISCO
+145,Effective tax rate,12  Mar-19*,41.5,TISCO
+146,Net profit margin,12  Mar-19*,6.1,TISCO
+147,Current assets,12  Mar-19*,548487.0,TISCO
+148,Current liabilities,12  Mar-19*,596080.0,TISCO
+149,Net working cap to sales,12  Mar-19*,-3.0,TISCO
+150,Current ratio,12  Mar-19*,0.9,TISCO
+151,Inventory Days,12  Mar-19*,73.0,TISCO
+152,Debtors Days,12  Mar-19*,27.0,TISCO
+153,Net fixed assets,12  Mar-19*,1450061.0,TISCO
+154,Share capital,12  Mar-19*,11449.0,TISCO
+155,"""Free"" reserves",12  Mar-19*,655051.0,TISCO
+156,Net worth,12  Mar-19*,666501.0,TISCO
+157,Long term debt,12  Mar-19*,803427.0,TISCO
+158,Total assets,12  Mar-19*,2335824.0,TISCO
+159,Interest coverage,12  Mar-19*,3.1,TISCO
+160,Debt to equity ratio,12  Mar-19*,1.2,TISCO
+161,Sales to assets ratio,12  Mar-19*,0.7,TISCO
+162,Return on assets,12  Mar-19*,7.4,TISCO
+163,Return on equity,12  Mar-19*,14.4,TISCO
+164,Return on capital,12  Mar-19*,16.3,TISCO
+165,Exports to sales,12  Mar-19*,0.0,TISCO
+166,Imports to sales,12  Mar-19*,9.2,TISCO
+167,Exports (fob),12  Mar-19*,0.0,TISCO
+168,Imports (cif),12  Mar-19*,145193.0,TISCO
+169,Fx inflow,12  Mar-19*,64979.0,TISCO
+170,Fx outflow,12  Mar-19*,149693.0,TISCO
+171,Net fx,12  Mar-19*,-84714.0,TISCO
+172,From Operations,12  Mar-19*,253360.0,TISCO
+173,From Investments,12  Mar-19*,-292109.0,TISCO
+174,From Financial Activity,12  Mar-19*,-6727.0,TISCO
+175,Net Cashflow,12  Mar-19*,-45132.0,TISCO
+176,Net Sales,12  Mar-20*,1398167.0,TISCO
+177,Other income,12  Mar-20*,18435.0,TISCO
+178,Total revenues,12  Mar-20*,1416601.0,TISCO
+179,Gross profit,12  Mar-20*,303374.0,TISCO
+180,Depreciation,12  Mar-20*,84407.0,TISCO
+181,Interest,12  Mar-20*,75335.0,TISCO
+182,Profit before tax,12  Mar-20*,162067.0,TISCO
+183,Minority Interest,12  Mar-20*,1880.0,TISCO
+184,Prior Period Items,12  Mar-20*,0.0,TISCO
+185,Extraordinary Inc (Exp),12  Mar-20*,-37521.0,TISCO
+186,Tax,12  Mar-20*,-25684.0,TISCO
+187,Profit after tax,12  Mar-20*,152110.0,TISCO
+188,Gross profit margin,12  Mar-20*,21.7,TISCO
+189,Effective tax rate,12  Mar-20*,-15.8,TISCO
+190,Net profit margin,12  Mar-20*,10.9,TISCO
+191,Current assets,12  Mar-20*,559093.0,TISCO
+192,Current liabilities,12  Mar-20*,603126.0,TISCO
+193,Net working cap to sales,12  Mar-20*,-3.1,TISCO
+194,Current ratio,12  Mar-20*,0.9,TISCO
+195,Inventory Days,12  Mar-20*,81.0,TISCO
+196,Debtors Days,12  Mar-20*,21.0,TISCO
+197,Net fixed assets,12  Mar-20*,1562160.0,TISCO
+198,Share capital,12  Mar-20*,11450.0,TISCO
+199,"""Free"" reserves",12  Mar-20*,701564.0,TISCO
+200,Net worth,12  Mar-20*,713013.0,TISCO
+201,Long term debt,12  Mar-20*,941050.0,TISCO
+202,Total assets,12  Mar-20*,2504195.0,TISCO
+203,Interest coverage,12  Mar-20*,3.2,TISCO
+204,Debt to equity ratio,12  Mar-20*,1.3,TISCO
+205,Sales to assets ratio,12  Mar-20*,0.6,TISCO
+206,Return on assets,12  Mar-20*,9.1,TISCO
+207,Return on equity,12  Mar-20*,21.3,TISCO
+208,Return on capital,12  Mar-20*,12.2,TISCO
+209,Exports to sales,12  Mar-20*,0.0,TISCO
+210,Imports to sales,12  Mar-20*,8.9,TISCO
+211,Exports (fob),12  Mar-20*,0.0,TISCO
+212,Imports (cif),12  Mar-20*,123813.0,TISCO
+213,Fx inflow,12  Mar-20*,63150.0,TISCO
+214,Fx outflow,12  Mar-20*,128908.0,TISCO
+215,Net fx,12  Mar-20*,-65758.0,TISCO
+216,From Operations,12  Mar-20*,201687.0,TISCO
+217,From Investments,12  Mar-20*,-145304.0,TISCO
+218,From Financial Activity,12  Mar-20*,-16946.0,TISCO
+219,Net Cashflow,12  Mar-20*,44620.0,TISCO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,50848.0,ICMN
+1,Other income,12  Mar-14*,243.0,ICMN
+2,Total revenues,12  Mar-14*,51090.0,ICMN
+3,Gross profit,12  Mar-14*,5914.0,ICMN
+4,Depreciation,12  Mar-14*,3197.0,ICMN
+5,Interest,12  Mar-14*,4107.0,ICMN
+6,Profit before tax,12  Mar-14*,-1147.0,ICMN
+7,Minority Interest,12  Mar-14*,-48.0,ICMN
+8,Prior Period Items,12  Mar-14*,39.0,ICMN
+9,Extraordinary Inc (Exp),12  Mar-14*,-1266.0,ICMN
+10,Tax,12  Mar-14*,12.0,ICMN
+11,Profit after tax,12  Mar-14*,-2434.0,ICMN
+12,Gross profit margin,12  Mar-14*,11.6,ICMN
+13,Effective tax rate,12  Mar-14*,-1.1,ICMN
+14,Net profit margin,12  Mar-14*,-4.8,ICMN
+15,Current assets,12  Mar-14*,16678.0,ICMN
+16,Current liabilities,12  Mar-14*,26188.0,ICMN
+17,Net working cap to sales,12  Mar-14*,-18.7,ICMN
+18,Current ratio,12  Mar-14*,0.6,ICMN
+19,Inventory Days,12  Mar-14*,43.0,ICMN
+20,Debtors Days,12  Mar-14*,33.0,ICMN
+21,Net fixed assets,12  Mar-14*,53221.0,ICMN
+22,Share capital,12  Mar-14*,3072.0,ICMN
+23,"""Free"" reserves",12  Mar-14*,27685.0,ICMN
+24,Net worth,12  Mar-14*,36710.0,ICMN
+25,Long term debt,12  Mar-14*,22407.0,ICMN
+26,Total assets,12  Mar-14*,91317.0,ICMN
+27,Interest coverage,12  Mar-14*,0.7,ICMN
+28,Debt to equity ratio,12  Mar-14*,0.6,ICMN
+29,Sales to assets ratio,12  Mar-14*,0.6,ICMN
+30,Return on assets,12  Mar-14*,1.8,ICMN
+31,Return on equity,12  Mar-14*,-6.6,ICMN
+32,Return on capital,12  Mar-14*,2.9,ICMN
+33,Exports to sales,12  Mar-14*,1.8,ICMN
+34,Imports to sales,12  Mar-14*,15.3,ICMN
+35,Exports (fob),12  Mar-14*,917.0,ICMN
+36,Imports (cif),12  Mar-14*,7763.0,ICMN
+37,Fx inflow,12  Mar-14*,917.0,ICMN
+38,Fx outflow,12  Mar-14*,8156.0,ICMN
+39,Net fx,12  Mar-14*,-7240.0,ICMN
+40,From Operations,12  Mar-14*,5161.0,ICMN
+41,From Investments,12  Mar-14*,-1844.0,ICMN
+42,From Financial Activity,12  Mar-14*,-3349.0,ICMN
+43,Net Cashflow,12  Mar-14*,-33.0,ICMN
+44,Net Sales,12  Mar-15*,44138.0,ICMN
+45,Other income,12  Mar-15*,225.0,ICMN
+46,Total revenues,12  Mar-15*,44363.0,ICMN
+47,Gross profit,12  Mar-15*,7330.0,ICMN
+48,Depreciation,12  Mar-15*,3029.0,ICMN
+49,Interest,12  Mar-15*,4781.0,ICMN
+50,Profit before tax,12  Mar-15*,-255.0,ICMN
+51,Minority Interest,12  Mar-15*,-23.0,ICMN
+52,Prior Period Items,12  Mar-15*,2.0,ICMN
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ICMN
+54,Tax,12  Mar-15*,55.0,ICMN
+55,Profit after tax,12  Mar-15*,-331.0,ICMN
+56,Gross profit margin,12  Mar-15*,16.6,ICMN
+57,Effective tax rate,12  Mar-15*,-21.8,ICMN
+58,Net profit margin,12  Mar-15*,-0.8,ICMN
+59,Current assets,12  Mar-15*,16272.0,ICMN
+60,Current liabilities,12  Mar-15*,25418.0,ICMN
+61,Net working cap to sales,12  Mar-15*,-20.7,ICMN
+62,Current ratio,12  Mar-15*,0.6,ICMN
+63,Inventory Days,12  Mar-15*,54.0,ICMN
+64,Debtors Days,12  Mar-15*,42.0,ICMN
+65,Net fixed assets,12  Mar-15*,77986.0,ICMN
+66,Share capital,12  Mar-15*,3082.0,ICMN
+67,"""Free"" reserves",12  Mar-15*,46296.0,ICMN
+68,Net worth,12  Mar-15*,49377.0,ICMN
+69,Long term debt,12  Mar-15*,25068.0,ICMN
+70,Total assets,12  Mar-15*,108328.0,ICMN
+71,Interest coverage,12  Mar-15*,0.9,ICMN
+72,Debt to equity ratio,12  Mar-15*,0.5,ICMN
+73,Sales to assets ratio,12  Mar-15*,0.4,ICMN
+74,Return on assets,12  Mar-15*,4.1,ICMN
+75,Return on equity,12  Mar-15*,-0.7,ICMN
+76,Return on capital,12  Mar-15*,6.1,ICMN
+77,Exports to sales,12  Mar-15*,3.9,ICMN
+78,Imports to sales,12  Mar-15*,14.3,ICMN
+79,Exports (fob),12  Mar-15*,1713.0,ICMN
+80,Imports (cif),12  Mar-15*,6294.0,ICMN
+81,Fx inflow,12  Mar-15*,1713.0,ICMN
+82,Fx outflow,12  Mar-15*,6717.0,ICMN
+83,Net fx,12  Mar-15*,-5003.0,ICMN
+84,From Operations,12  Mar-15*,6451.0,ICMN
+85,From Investments,12  Mar-15*,-1235.0,ICMN
+86,From Financial Activity,12  Mar-15*,-5203.0,ICMN
+87,Net Cashflow,12  Mar-15*,12.0,ICMN
+88,Net Sales,12  Mar-16*,55348.0,ICMN
+89,Other income,12  Mar-16*,247.0,ICMN
+90,Total revenues,12  Mar-16*,55594.0,ICMN
+91,Gross profit,12  Mar-16*,8701.0,ICMN
+92,Depreciation,12  Mar-16*,2905.0,ICMN
+93,Interest,12  Mar-16*,4396.0,ICMN
+94,Profit before tax,12  Mar-16*,1647.0,ICMN
+95,Minority Interest,12  Mar-16*,-22.0,ICMN
+96,Prior Period Items,12  Mar-16*,26.0,ICMN
+97,Extraordinary Inc (Exp),12  Mar-16*,-32.0,ICMN
+98,Tax,12  Mar-16*,474.0,ICMN
+99,Profit after tax,12  Mar-16*,1145.0,ICMN
+100,Gross profit margin,12  Mar-16*,15.7,ICMN
+101,Effective tax rate,12  Mar-16*,28.8,ICMN
+102,Net profit margin,12  Mar-16*,2.1,ICMN
+103,Current assets,12  Mar-16*,15854.0,ICMN
+104,Current liabilities,12  Mar-16*,26658.0,ICMN
+105,Net working cap to sales,12  Mar-16*,-19.5,ICMN
+106,Current ratio,12  Mar-16*,0.6,ICMN
+107,Inventory Days,12  Mar-16*,41.0,ICMN
+108,Debtors Days,12  Mar-16*,37.0,ICMN
+109,Net fixed assets,12  Mar-16*,75866.0,ICMN
+110,Share capital,12  Mar-16*,3082.0,ICMN
+111,"""Free"" reserves",12  Mar-16*,47421.0,ICMN
+112,Net worth,12  Mar-16*,50502.0,ICMN
+113,Long term debt,12  Mar-16*,21265.0,ICMN
+114,Total assets,12  Mar-16*,106915.0,ICMN
+115,Interest coverage,12  Mar-16*,1.4,ICMN
+116,Debt to equity ratio,12  Mar-16*,0.4,ICMN
+117,Sales to assets ratio,12  Mar-16*,0.5,ICMN
+118,Return on assets,12  Mar-16*,5.2,ICMN
+119,Return on equity,12  Mar-16*,2.3,ICMN
+120,Return on capital,12  Mar-16*,8.4,ICMN
+121,Exports to sales,12  Mar-16*,1.9,ICMN
+122,Imports to sales,12  Mar-16*,7.3,ICMN
+123,Exports (fob),12  Mar-16*,1037.0,ICMN
+124,Imports (cif),12  Mar-16*,4037.0,ICMN
+125,Fx inflow,12  Mar-16*,1038.0,ICMN
+126,Fx outflow,12  Mar-16*,4071.0,ICMN
+127,Net fx,12  Mar-16*,-3034.0,ICMN
+128,From Operations,12  Mar-16*,9637.0,ICMN
+129,From Investments,12  Mar-16*,-2200.0,ICMN
+130,From Financial Activity,12  Mar-16*,-7571.0,ICMN
+131,Net Cashflow,12  Mar-16*,-135.0,ICMN
+132,Net Sales,12  Mar-17*,58609.0,ICMN
+133,Other income,12  Mar-17*,193.0,ICMN
+134,Total revenues,12  Mar-17*,58802.0,ICMN
+135,Gross profit,12  Mar-17*,9003.0,ICMN
+136,Depreciation,12  Mar-17*,2760.0,ICMN
+137,Interest,12  Mar-17*,3800.0,ICMN
+138,Profit before tax,12  Mar-17*,2636.0,ICMN
+139,Minority Interest,12  Mar-17*,-75.0,ICMN
+140,Prior Period Items,12  Mar-17*,10.0,ICMN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ICMN
+142,Tax,12  Mar-17*,940.0,ICMN
+143,Profit after tax,12  Mar-17*,1631.0,ICMN
+144,Gross profit margin,12  Mar-17*,15.4,ICMN
+145,Effective tax rate,12  Mar-17*,35.7,ICMN
+146,Net profit margin,12  Mar-17*,2.8,ICMN
+147,Current assets,12  Mar-17*,19482.0,ICMN
+148,Current liabilities,12  Mar-17*,24362.0,ICMN
+149,Net working cap to sales,12  Mar-17*,-8.3,ICMN
+150,Current ratio,12  Mar-17*,0.8,ICMN
+151,Inventory Days,12  Mar-17*,48.0,ICMN
+152,Debtors Days,12  Mar-17*,33.0,ICMN
+153,Net fixed assets,12  Mar-17*,73941.0,ICMN
+154,Share capital,12  Mar-17*,3082.0,ICMN
+155,"""Free"" reserves",12  Mar-17*,48668.0,ICMN
+156,Net worth,12  Mar-17*,51749.0,ICMN
+157,Long term debt,12  Mar-17*,24515.0,ICMN
+158,Total assets,12  Mar-17*,109497.0,ICMN
+159,Interest coverage,12  Mar-17*,1.7,ICMN
+160,Debt to equity ratio,12  Mar-17*,0.5,ICMN
+161,Sales to assets ratio,12  Mar-17*,0.5,ICMN
+162,Return on assets,12  Mar-17*,5.0,ICMN
+163,Return on equity,12  Mar-17*,3.2,ICMN
+164,Return on capital,12  Mar-17*,8.4,ICMN
+165,Exports to sales,12  Mar-17*,0.0,ICMN
+166,Imports to sales,12  Mar-17*,0.0,ICMN
+167,Exports (fob),12  Mar-17*,0.0,ICMN
+168,Imports (cif),12  Mar-17*,0.0,ICMN
+169,Fx inflow,12  Mar-17*,1632.0,ICMN
+170,Fx outflow,12  Mar-17*,60.0,ICMN
+171,Net fx,12  Mar-17*,1572.0,ICMN
+172,From Operations,12  Mar-17*,7652.0,ICMN
+173,From Investments,12  Mar-17*,-1579.0,ICMN
+174,From Financial Activity,12  Mar-17*,-6050.0,ICMN
+175,Net Cashflow,12  Mar-17*,23.0,ICMN
+176,Net Sales,12  Mar-18*,54323.0,ICMN
+177,Other income,12  Mar-18*,245.0,ICMN
+178,Total revenues,12  Mar-18*,54568.0,ICMN
+179,Gross profit,12  Mar-18*,7147.0,ICMN
+180,Depreciation,12  Mar-18*,2790.0,ICMN
+181,Interest,12  Mar-18*,3648.0,ICMN
+182,Profit before tax,12  Mar-18*,954.0,ICMN
+183,Minority Interest,12  Mar-18*,-43.0,ICMN
+184,Prior Period Items,12  Mar-18*,-11.0,ICMN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ICMN
+186,Tax,12  Mar-18*,192.0,ICMN
+187,Profit after tax,12  Mar-18*,707.0,ICMN
+188,Gross profit margin,12  Mar-18*,13.2,ICMN
+189,Effective tax rate,12  Mar-18*,20.2,ICMN
+190,Net profit margin,12  Mar-18*,1.3,ICMN
+191,Current assets,12  Mar-18*,19682.0,ICMN
+192,Current liabilities,12  Mar-18*,19356.0,ICMN
+193,Net working cap to sales,12  Mar-18*,0.6,ICMN
+194,Current ratio,12  Mar-18*,1.0,ICMN
+195,Inventory Days,12  Mar-18*,47.0,ICMN
+196,Debtors Days,12  Mar-18*,43.0,ICMN
+197,Net fixed assets,12  Mar-18*,73222.0,ICMN
+198,Share capital,12  Mar-18*,3082.0,ICMN
+199,"""Free"" reserves",12  Mar-18*,49609.0,ICMN
+200,Net worth,12  Mar-18*,52691.0,ICMN
+201,Long term debt,12  Mar-18*,28992.0,ICMN
+202,Total assets,12  Mar-18*,109775.0,ICMN
+203,Interest coverage,12  Mar-18*,1.3,ICMN
+204,Debt to equity ratio,12  Mar-18*,0.6,ICMN
+205,Sales to assets ratio,12  Mar-18*,0.5,ICMN
+206,Return on assets,12  Mar-18*,4.0,ICMN
+207,Return on equity,12  Mar-18*,1.3,ICMN
+208,Return on capital,12  Mar-18*,5.6,ICMN
+209,Exports to sales,12  Mar-18*,0.0,ICMN
+210,Imports to sales,12  Mar-18*,0.0,ICMN
+211,Exports (fob),12  Mar-18*,0.0,ICMN
+212,Imports (cif),12  Mar-18*,0.0,ICMN
+213,Fx inflow,12  Mar-18*,859.0,ICMN
+214,Fx outflow,12  Mar-18*,62.0,ICMN
+215,Net fx,12  Mar-18*,797.0,ICMN
+216,From Operations,12  Mar-18*,5633.0,ICMN
+217,From Investments,12  Mar-18*,-3132.0,ICMN
+218,From Financial Activity,12  Mar-18*,-2345.0,ICMN
+219,Net Cashflow,12  Mar-18*,156.0,ICMN

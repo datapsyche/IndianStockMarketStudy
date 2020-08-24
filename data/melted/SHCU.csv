@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-14*,32256.0,SHCU
+1,Other income,12  Mar-14*,532.0,SHCU
+2,Interest expense,12  Mar-14*,13507.0,SHCU
+3,Net interest income,12  Mar-14*,18748.0,SHCU
+4,Operating expense,12  Mar-14*,7166.0,SHCU
+5,Gross profit,12  Mar-14*,11582.0,SHCU
+6,Gross profit margin,12  Mar-14*,35.9,SHCU
+7,Provisions/contingencies,12  Mar-14*,4158.0,SHCU
+8,Profit before tax,12  Mar-14*,7956.0,SHCU
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,SHCU
+10,Minority Interest,12  Mar-14*,-33.0,SHCU
+11,Prior Period Items,12  Mar-14*,0.0,SHCU
+12,Tax,12  Mar-14*,2602.0,SHCU
+13,Profit after tax,12  Mar-14*,5322.0,SHCU
+14,Net profit margin,12  Mar-14*,16.5,SHCU
+15,Advances,12  Mar-14*,131985,SHCU
+16,Deposits,12  Mar-14*,0,SHCU
+17,Credit/Deposit ratio,12  Mar-14*,NM,SHCU
+18,Yield on advances,12  Mar-14*,23.5,SHCU
+19,Cost of deposits,12  Mar-14*,N.A.,SHCU
+20,Net Interest Margin,12  Mar-14*,13.7,SHCU
+21,Net fixed assets,12  Mar-14*,1030,SHCU
+22,Share capital,12  Mar-14*,593,SHCU
+23,Free reserves,12  Mar-14*,22736,SHCU
+24,Net worth,12  Mar-14*,29998,SHCU
+25,Borrowings,12  Mar-14*,89304,SHCU
+26,Investments,12  Mar-14*,4735,SHCU
+27,Total assets,12  Mar-14*,165682,SHCU
+28,Debt/equity ratio,12  Mar-14*,3.0,SHCU
+29,Return on assets,12  Mar-14*,3.2,SHCU
+30,Return on equity,12  Mar-14*,17.7,SHCU
+31,Capital adequacy ratio,12  Mar-14*,25.8,SHCU
+32,Net NPAs,12  Mar-14*,0.6,SHCU
+33,From Operations,12  Mar-14*,-1473,SHCU
+34,From Investments,12  Mar-14*,-817,SHCU
+35,From Financial Activity,12  Mar-14*,-3655,SHCU
+36,Net Cashflow,12  Mar-14*,-5944,SHCU
+37,Interest income,12  Mar-15*,35617.0,SHCU
+38,Other income,12  Mar-15*,512.0,SHCU
+39,Interest expense,12  Mar-15*,13559.0,SHCU
+40,Net interest income,12  Mar-15*,22058.0,SHCU
+41,Operating expense,12  Mar-15*,8883.0,SHCU
+42,Gross profit,12  Mar-15*,13175.0,SHCU
+43,Gross profit margin,12  Mar-15*,37.0,SHCU
+44,Provisions/contingencies,12  Mar-15*,5018.0,SHCU
+45,Profit before tax,12  Mar-15*,8668.0,SHCU
+46,Extraordinary Inc (Exp),12  Mar-15*,0.0,SHCU
+47,Minority Interest,12  Mar-15*,-39.0,SHCU
+48,Prior Period Items,12  Mar-15*,0.0,SHCU
+49,Tax,12  Mar-15*,2914.0,SHCU
+50,Profit after tax,12  Mar-15*,5714.0,SHCU
+51,Net profit margin,12  Mar-15*,16.0,SHCU
+52,Advances,12  Mar-15*,166311,SHCU
+53,Deposits,12  Mar-15*,0,SHCU
+54,Credit/Deposit ratio,12  Mar-15*,NM,SHCU
+55,Yield on advances,12  Mar-15*,20.4,SHCU
+56,Cost of deposits,12  Mar-15*,N.A.,SHCU
+57,Net Interest Margin,12  Mar-15*,12.6,SHCU
+58,Net fixed assets,12  Mar-15*,834,SHCU
+59,Share capital,12  Mar-15*,659,SHCU
+60,Free reserves,12  Mar-15*,33643,SHCU
+61,Net worth,12  Mar-15*,42160,SHCU
+62,Borrowings,12  Mar-15*,80897,SHCU
+63,Investments,12  Mar-15*,8363,SHCU
+64,Total assets,12  Mar-15*,186563,SHCU
+65,Debt/equity ratio,12  Mar-15*,1.9,SHCU
+66,Return on assets,12  Mar-15*,3.1,SHCU
+67,Return on equity,12  Mar-15*,13.6,SHCU
+68,Capital adequacy ratio,12  Mar-15*,29.0,SHCU
+69,Net NPAs,12  Mar-15*,0.7,SHCU
+70,From Operations,12  Mar-15*,-12418,SHCU
+71,From Investments,12  Mar-15*,-2076,SHCU
+72,From Financial Activity,12  Mar-15*,6659,SHCU
+73,Net Cashflow,12  Mar-15*,-7835,SHCU
+74,Interest income,12  Mar-16*,39982.0,SHCU
+75,Other income,12  Mar-16*,214.0,SHCU
+76,Interest expense,12  Mar-16*,14404.0,SHCU
+77,Net interest income,12  Mar-16*,25578.0,SHCU
+78,Operating expense,12  Mar-16*,10654.0,SHCU
+79,Gross profit,12  Mar-16*,14924.0,SHCU
+80,Gross profit margin,12  Mar-16*,37.3,SHCU
+81,Provisions/contingencies,12  Mar-16*,6645.0,SHCU
+82,Profit before tax,12  Mar-16*,8494.0,SHCU
+83,Extraordinary Inc (Exp),12  Mar-16*,0.0,SHCU
+84,Minority Interest,12  Mar-16*,-66.0,SHCU
+85,Prior Period Items,12  Mar-16*,0.0,SHCU
+86,Tax,12  Mar-16*,2908.0,SHCU
+87,Profit after tax,12  Mar-16*,5521.0,SHCU
+88,Net profit margin,12  Mar-16*,13.8,SHCU
+89,Advances,12  Mar-16*,204200,SHCU
+90,Deposits,12  Mar-16*,0,SHCU
+91,Credit/Deposit ratio,12  Mar-16*,NM,SHCU
+92,Yield on advances,12  Mar-16*,19.0,SHCU
+93,Cost of deposits,12  Mar-16*,N.A.,SHCU
+94,Net Interest Margin,12  Mar-16*,12.1,SHCU
+95,Net fixed assets,12  Mar-16*,873,SHCU
+96,Share capital,12  Mar-16*,659,SHCU
+97,Free reserves,12  Mar-16*,45828,SHCU
+98,Net worth,12  Mar-16*,46488,SHCU
+99,Borrowings,12  Mar-16*,100127,SHCU
+100,Investments,12  Mar-16*,7143,SHCU
+101,Total assets,12  Mar-16*,220731,SHCU
+102,Debt/equity ratio,12  Mar-16*,2.2,SHCU
+103,Return on assets,12  Mar-16*,2.5,SHCU
+104,Return on equity,12  Mar-16*,11.9,SHCU
+105,Capital adequacy ratio,12  Mar-16*,26.1,SHCU
+106,Net NPAs,12  Mar-16*,1.6,SHCU
+107,From Operations,12  Mar-16*,-15866,SHCU
+108,From Investments,12  Mar-16*,-1076,SHCU
+109,From Financial Activity,12  Mar-16*,17260,SHCU
+110,Net Cashflow,12  Mar-16*,318,SHCU
+111,Interest income,12  Mar-17*,47036.0,SHCU
+112,Other income,12  Mar-17*,54.0,SHCU
+113,Interest expense,12  Mar-17*,16523.0,SHCU
+114,Net interest income,12  Mar-17*,30513.0,SHCU
+115,Operating expense,12  Mar-17*,11858.0,SHCU
+116,Gross profit,12  Mar-17*,18654.0,SHCU
+117,Gross profit margin,12  Mar-17*,39.7,SHCU
+118,Provisions/contingencies,12  Mar-17*,9740.0,SHCU
+119,Profit before tax,12  Mar-17*,8969.0,SHCU
+120,Extraordinary Inc (Exp),12  Mar-17*,0.0,SHCU
+121,Minority Interest,12  Mar-17*,-65.0,SHCU
+122,Prior Period Items,12  Mar-17*,0.0,SHCU
+123,Tax,12  Mar-17*,3123.0,SHCU
+124,Profit after tax,12  Mar-17*,5781.0,SHCU
+125,Net profit margin,12  Mar-17*,12.3,SHCU
+126,Advances,12  Mar-17*,247413,SHCU
+127,Deposits,12  Mar-17*,0,SHCU
+128,Credit/Deposit ratio,12  Mar-17*,NM,SHCU
+129,Yield on advances,12  Mar-17*,17.5,SHCU
+130,Cost of deposits,12  Mar-17*,N.A.,SHCU
+131,Net Interest Margin,12  Mar-17*,12.0,SHCU
+132,Net fixed assets,12  Mar-17*,833,SHCU
+133,Share capital,12  Mar-17*,659,SHCU
+134,Free reserves,12  Mar-17*,51216,SHCU
+135,Net worth,12  Mar-17*,51876,SHCU
+136,Borrowings,12  Mar-17*,109373,SHCU
+137,Investments,12  Mar-17*,6384,SHCU
+138,Total assets,12  Mar-17*,262967,SHCU
+139,Debt/equity ratio,12  Mar-17*,2.1,SHCU
+140,Return on assets,12  Mar-17*,2.2,SHCU
+141,Return on equity,12  Mar-17*,11.1,SHCU
+142,Capital adequacy ratio,12  Mar-17*,23.9,SHCU
+143,Net NPAs,12  Mar-17*,1.8,SHCU
+144,From Operations,12  Mar-17*,-36973,SHCU
+145,From Investments,12  Mar-17*,-634,SHCU
+146,From Financial Activity,12  Mar-17*,37753,SHCU
+147,Net Cashflow,12  Mar-17*,147,SHCU
+148,Interest income,12  Mar-18*,53528.0,SHCU
+149,Other income,12  Mar-18*,207.0,SHCU
+150,Interest expense,12  Mar-18*,17811.0,SHCU
+151,Net interest income,12  Mar-18*,35718.0,SHCU
+152,Operating expense,12  Mar-18*,14223.0,SHCU
+153,Gross profit,12  Mar-18*,21494.0,SHCU
+154,Gross profit margin,12  Mar-18*,40.2,SHCU
+155,Provisions/contingencies,12  Mar-18*,11070.0,SHCU
+156,Profit before tax,12  Mar-18*,10631.0,SHCU
+157,Extraordinary Inc (Exp),12  Mar-18*,0.0,SHCU
+158,Minority Interest,12  Mar-18*,-66.0,SHCU
+159,Prior Period Items,12  Mar-18*,0.0,SHCU
+160,Tax,12  Mar-18*,3694.0,SHCU
+161,Profit after tax,12  Mar-18*,6871.0,SHCU
+162,Net profit margin,12  Mar-18*,12.8,SHCU
+163,Advances,12  Mar-18*,292778,SHCU
+164,Deposits,12  Mar-18*,0,SHCU
+165,Credit/Deposit ratio,12  Mar-18*,NM,SHCU
+166,Yield on advances,12  Mar-18*,17.0,SHCU
+167,Cost of deposits,12  Mar-18*,N.A.,SHCU
+168,Net Interest Margin,12  Mar-18*,11.9,SHCU
+169,Net fixed assets,12  Mar-18*,877,SHCU
+170,Share capital,12  Mar-18*,660,SHCU
+171,Free reserves,12  Mar-18*,56818,SHCU
+172,Net worth,12  Mar-18*,57478,SHCU
+173,Borrowings,12  Mar-18*,126357,SHCU
+174,Investments,12  Mar-18*,6619,SHCU
+175,Total assets,12  Mar-18*,307791,SHCU
+176,Debt/equity ratio,12  Mar-18*,2.2,SHCU
+177,Return on assets,12  Mar-18*,2.2,SHCU
+178,Return on equity,12  Mar-18*,12.0,SHCU
+179,Capital adequacy ratio,12  Mar-18*,21.4,SHCU
+180,Net NPAs,12  Mar-18*,3.4,SHCU
+181,From Operations,12  Mar-18*,-25744,SHCU
+182,From Investments,12  Mar-18*,-168,SHCU
+183,From Financial Activity,12  Mar-18*,24934,SHCU
+184,Net Cashflow,12  Mar-18*,-979,SHCU

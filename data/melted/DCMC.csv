@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,56063.0,DCMC
+1,Other income,12  Mar-15*,516.0,DCMC
+2,Total revenues,12  Mar-15*,56579.0,DCMC
+3,Gross profit,12  Mar-15*,3987.0,DCMC
+4,Depreciation,12  Mar-15*,1102.0,DCMC
+5,Interest,12  Mar-15*,1118.0,DCMC
+6,Profit before tax,12  Mar-15*,2284.0,DCMC
+7,Minority Interest,12  Mar-15*,0.0,DCMC
+8,Prior Period Items,12  Mar-15*,0.0,DCMC
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,DCMC
+10,Tax,12  Mar-15*,176.0,DCMC
+11,Profit after tax,12  Mar-15*,2108.0,DCMC
+12,Gross profit margin,12  Mar-15*,7.1,DCMC
+13,Effective tax rate,12  Mar-15*,7.7,DCMC
+14,Net profit margin,12  Mar-15*,3.8,DCMC
+15,Current assets,12  Mar-15*,25146.0,DCMC
+16,Current liabilities,12  Mar-15*,19585.0,DCMC
+17,Net working cap to sales,12  Mar-15*,9.9,DCMC
+18,Current ratio,12  Mar-15*,1.3,DCMC
+19,Inventory Days,12  Mar-15*,73.0,DCMC
+20,Debtors Days,12  Mar-15*,69.0,DCMC
+21,Net fixed assets,12  Mar-15*,14793.0,DCMC
+22,Share capital,12  Mar-15*,326.0,DCMC
+23,"""Free"" reserves",12  Mar-15*,18092.0,DCMC
+24,Net worth,12  Mar-15*,18419.0,DCMC
+25,Long term debt,12  Mar-15*,3009.0,DCMC
+26,Total assets,12  Mar-15*,42812.0,DCMC
+27,Interest coverage,12  Mar-15*,3.0,DCMC
+28,Debt to equity ratio,12  Mar-15*,0.2,DCMC
+29,Sales to assets ratio,12  Mar-15*,1.3,DCMC
+30,Return on assets,12  Mar-15*,7.5,DCMC
+31,Return on equity,12  Mar-15*,11.4,DCMC
+32,Return on capital,12  Mar-15*,15.9,DCMC
+33,Exports to sales,12  Mar-15*,0.1,DCMC
+34,Imports to sales,12  Mar-15*,8.7,DCMC
+35,Exports (fob),12  Mar-15*,59.0,DCMC
+36,Imports (cif),12  Mar-15*,4890.0,DCMC
+37,Fx inflow,12  Mar-15*,59.0,DCMC
+38,Fx outflow,12  Mar-15*,5157.0,DCMC
+39,Net fx,12  Mar-15*,-5098.0,DCMC
+40,From Operations,12  Mar-15*,1666.0,DCMC
+41,From Investments,12  Mar-15*,2279.0,DCMC
+42,From Financial Activity,12  Mar-15*,-5944.0,DCMC
+43,Net Cashflow,12  Mar-15*,-1998.0,DCMC
+44,Net Sales,12  Mar-16*,47805.0,DCMC
+45,Other income,12  Mar-16*,407.0,DCMC
+46,Total revenues,12  Mar-16*,48212.0,DCMC
+47,Gross profit,12  Mar-16*,5050.0,DCMC
+48,Depreciation,12  Mar-16*,980.0,DCMC
+49,Interest,12  Mar-16*,854.0,DCMC
+50,Profit before tax,12  Mar-16*,3623.0,DCMC
+51,Minority Interest,12  Mar-16*,0.0,DCMC
+52,Prior Period Items,12  Mar-16*,0.0,DCMC
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,DCMC
+54,Tax,12  Mar-16*,619.0,DCMC
+55,Profit after tax,12  Mar-16*,3004.0,DCMC
+56,Gross profit margin,12  Mar-16*,10.6,DCMC
+57,Effective tax rate,12  Mar-16*,17.1,DCMC
+58,Net profit margin,12  Mar-16*,6.3,DCMC
+59,Current assets,12  Mar-16*,28947.0,DCMC
+60,Current liabilities,12  Mar-16*,24773.0,DCMC
+61,Net working cap to sales,12  Mar-16*,8.7,DCMC
+62,Current ratio,12  Mar-16*,1.2,DCMC
+63,Inventory Days,12  Mar-16*,101.0,DCMC
+64,Debtors Days,12  Mar-16*,98.0,DCMC
+65,Net fixed assets,12  Mar-16*,17926.0,DCMC
+66,Share capital,12  Mar-16*,326.0,DCMC
+67,"""Free"" reserves",12  Mar-16*,20583.0,DCMC
+68,Net worth,12  Mar-16*,20909.0,DCMC
+69,Long term debt,12  Mar-16*,2575.0,DCMC
+70,Total assets,12  Mar-16*,50071.0,DCMC
+71,Interest coverage,12  Mar-16*,5.2,DCMC
+72,Debt to equity ratio,12  Mar-16*,0.1,DCMC
+73,Sales to assets ratio,12  Mar-16*,1.0,DCMC
+74,Return on assets,12  Mar-16*,7.7,DCMC
+75,Return on equity,12  Mar-16*,14.4,DCMC
+76,Return on capital,12  Mar-16*,19.1,DCMC
+77,Exports to sales,12  Mar-16*,0.2,DCMC
+78,Imports to sales,12  Mar-16*,18.5,DCMC
+79,Exports (fob),12  Mar-16*,77.0,DCMC
+80,Imports (cif),12  Mar-16*,8864.0,DCMC
+81,Fx inflow,12  Mar-16*,77.0,DCMC
+82,Fx outflow,12  Mar-16*,9093.0,DCMC
+83,Net fx,12  Mar-16*,-9016.0,DCMC
+84,From Operations,12  Mar-16*,1002.0,DCMC
+85,From Investments,12  Mar-16*,-3260.0,DCMC
+86,From Financial Activity,12  Mar-16*,1663.0,DCMC
+87,Net Cashflow,12  Mar-16*,-595.0,DCMC
+88,Net Sales,12  Mar-17*,57885.0,DCMC
+89,Other income,12  Mar-17*,468.0,DCMC
+90,Total revenues,12  Mar-17*,58352.0,DCMC
+91,Gross profit,12  Mar-17*,7711.0,DCMC
+92,Depreciation,12  Mar-17*,1137.0,DCMC
+93,Interest,12  Mar-17*,714.0,DCMC
+94,Profit before tax,12  Mar-17*,6327.0,DCMC
+95,Minority Interest,12  Mar-17*,0.0,DCMC
+96,Prior Period Items,12  Mar-17*,0.0,DCMC
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,DCMC
+98,Tax,12  Mar-17*,804.0,DCMC
+99,Profit after tax,12  Mar-17*,5523.0,DCMC
+100,Gross profit margin,12  Mar-17*,13.3,DCMC
+101,Effective tax rate,12  Mar-17*,12.7,DCMC
+102,Net profit margin,12  Mar-17*,9.5,DCMC
+103,Current assets,12  Mar-17*,31345.0,DCMC
+104,Current liabilities,12  Mar-17*,23750.0,DCMC
+105,Net working cap to sales,12  Mar-17*,13.1,DCMC
+106,Current ratio,12  Mar-17*,1.3,DCMC
+107,Inventory Days,12  Mar-17*,102.0,DCMC
+108,Debtors Days,12  Mar-17*,63.0,DCMC
+109,Net fixed assets,12  Mar-17*,20158.0,DCMC
+110,Share capital,12  Mar-17*,326.0,DCMC
+111,"""Free"" reserves",12  Mar-17*,24951.0,DCMC
+112,Net worth,12  Mar-17*,25277.0,DCMC
+113,Long term debt,12  Mar-17*,4722.0,DCMC
+114,Total assets,12  Mar-17*,55739.0,DCMC
+115,Interest coverage,12  Mar-17*,9.9,DCMC
+116,Debt to equity ratio,12  Mar-17*,0.2,DCMC
+117,Sales to assets ratio,12  Mar-17*,1.0,DCMC
+118,Return on assets,12  Mar-17*,11.2,DCMC
+119,Return on equity,12  Mar-17*,21.9,DCMC
+120,Return on capital,12  Mar-17*,23.5,DCMC
+121,Exports to sales,12  Mar-17*,0.0,DCMC
+122,Imports to sales,12  Mar-17*,0.0,DCMC
+123,Exports (fob),12  Mar-17*,0.0,DCMC
+124,Imports (cif),12  Mar-17*,0.0,DCMC
+125,Fx inflow,12  Mar-17*,174.0,DCMC
+126,Fx outflow,12  Mar-17*,2664.0,DCMC
+127,Net fx,12  Mar-17*,-2490.0,DCMC
+128,From Operations,12  Mar-17*,7725.0,DCMC
+129,From Investments,12  Mar-17*,-4115.0,DCMC
+130,From Financial Activity,12  Mar-17*,-1850.0,DCMC
+131,Net Cashflow,12  Mar-17*,1761.0,DCMC
+132,Net Sales,12  Mar-18*,69005.0,DCMC
+133,Other income,12  Mar-18*,561.0,DCMC
+134,Total revenues,12  Mar-18*,69566.0,DCMC
+135,Gross profit,12  Mar-18*,10349.0,DCMC
+136,Depreciation,12  Mar-18*,1407.0,DCMC
+137,Interest,12  Mar-18*,830.0,DCMC
+138,Profit before tax,12  Mar-18*,8673.0,DCMC
+139,Minority Interest,12  Mar-18*,0.0,DCMC
+140,Prior Period Items,12  Mar-18*,0.0,DCMC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,DCMC
+142,Tax,12  Mar-18*,1987.0,DCMC
+143,Profit after tax,12  Mar-18*,6687.0,DCMC
+144,Gross profit margin,12  Mar-18*,15.0,DCMC
+145,Effective tax rate,12  Mar-18*,22.9,DCMC
+146,Net profit margin,12  Mar-18*,9.7,DCMC
+147,Current assets,12  Mar-18*,29990.0,DCMC
+148,Current liabilities,12  Mar-18*,18569.0,DCMC
+149,Net working cap to sales,12  Mar-18*,16.6,DCMC
+150,Current ratio,12  Mar-18*,1.6,DCMC
+151,Inventory Days,12  Mar-18*,87.0,DCMC
+152,Debtors Days,12  Mar-18*,48.0,DCMC
+153,Net fixed assets,12  Mar-18*,23205.0,DCMC
+154,Share capital,12  Mar-18*,326.0,DCMC
+155,"""Free"" reserves",12  Mar-18*,30069.0,DCMC
+156,Net worth,12  Mar-18*,30395.0,DCMC
+157,Long term debt,12  Mar-18*,5272.0,DCMC
+158,Total assets,12  Mar-18*,56517.0,DCMC
+159,Interest coverage,12  Mar-18*,11.4,DCMC
+160,Debt to equity ratio,12  Mar-18*,0.2,DCMC
+161,Sales to assets ratio,12  Mar-18*,1.2,DCMC
+162,Return on assets,12  Mar-18*,13.3,DCMC
+163,Return on equity,12  Mar-18*,22.0,DCMC
+164,Return on capital,12  Mar-18*,26.6,DCMC
+165,Exports to sales,12  Mar-18*,0.0,DCMC
+166,Imports to sales,12  Mar-18*,0.0,DCMC
+167,Exports (fob),12  Mar-18*,0.0,DCMC
+168,Imports (cif),12  Mar-18*,0.0,DCMC
+169,Fx inflow,12  Mar-18*,1033.0,DCMC
+170,Fx outflow,12  Mar-18*,2948.0,DCMC
+171,Net fx,12  Mar-18*,-1915.0,DCMC
+172,From Operations,12  Mar-18*,8271.0,DCMC
+173,From Investments,12  Mar-18*,-3211.0,DCMC
+174,From Financial Activity,12  Mar-18*,-5714.0,DCMC
+175,Net Cashflow,12  Mar-18*,-654.0,DCMC
+176,Net Sales,12  Mar-19*,77711.0,DCMC
+177,Other income,12  Mar-19*,876.0,DCMC
+178,Total revenues,12  Mar-19*,78588.0,DCMC
+179,Gross profit,12  Mar-19*,13687.0,DCMC
+180,Depreciation,12  Mar-19*,1572.0,DCMC
+181,Interest,12  Mar-19*,1189.0,DCMC
+182,Profit before tax,12  Mar-19*,11802.0,DCMC
+183,Minority Interest,12  Mar-19*,0.0,DCMC
+184,Prior Period Items,12  Mar-19*,0.0,DCMC
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,DCMC
+186,Tax,12  Mar-19*,2776.0,DCMC
+187,Profit after tax,12  Mar-19*,9026.0,DCMC
+188,Gross profit margin,12  Mar-19*,17.6,DCMC
+189,Effective tax rate,12  Mar-19*,23.5,DCMC
+190,Net profit margin,12  Mar-19*,11.6,DCMC
+191,Current assets,12  Mar-19*,37579.0,DCMC
+192,Current liabilities,12  Mar-19*,24136.0,DCMC
+193,Net working cap to sales,12  Mar-19*,17.3,DCMC
+194,Current ratio,12  Mar-19*,1.6,DCMC
+195,Inventory Days,12  Mar-19*,90.0,DCMC
+196,Debtors Days,12  Mar-19*,49.0,DCMC
+197,Net fixed assets,12  Mar-19*,30220.0,DCMC
+198,Share capital,12  Mar-19*,314.0,DCMC
+199,"""Free"" reserves",12  Mar-19*,34943.0,DCMC
+200,Net worth,12  Mar-19*,35257.0,DCMC
+201,Long term debt,12  Mar-19*,9368.0,DCMC
+202,Total assets,12  Mar-19*,71364.0,DCMC
+203,Interest coverage,12  Mar-19*,10.9,DCMC
+204,Debt to equity ratio,12  Mar-19*,0.3,DCMC
+205,Sales to assets ratio,12  Mar-19*,1.1,DCMC
+206,Return on assets,12  Mar-19*,14.3,DCMC
+207,Return on equity,12  Mar-19*,25.6,DCMC
+208,Return on capital,12  Mar-19*,29.1,DCMC
+209,Exports to sales,12  Mar-19*,0.0,DCMC
+210,Imports to sales,12  Mar-19*,0.0,DCMC
+211,Exports (fob),12  Mar-19*,0.0,DCMC
+212,Imports (cif),12  Mar-19*,0.0,DCMC
+213,Fx inflow,12  Mar-19*,1113.0,DCMC
+214,Fx outflow,12  Mar-19*,3887.0,DCMC
+215,Net fx,12  Mar-19*,-2775.0,DCMC
+216,From Operations,12  Mar-19*,7749.0,DCMC
+217,From Investments,12  Mar-19*,-8034.0,DCMC
+218,From Financial Activity,12  Mar-19*,2769.0,DCMC
+219,Net Cashflow,12  Mar-19*,2483.0,DCMC

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,18533.0,PFIZ
+1,Other income,12  Mar-15,674.0,PFIZ
+2,Total revenues,12  Mar-15,19207.0,PFIZ
+3,Gross profit,12  Mar-15,3830.0,PFIZ
+4,Depreciation,12  Mar-15,1311.0,PFIZ
+5,Interest,12  Mar-15,8.0,PFIZ
+6,Profit before tax,12  Mar-15,3185.0,PFIZ
+7,Minority Interest,12  Mar-15,0.0,PFIZ
+8,Prior Period Items,12  Mar-15,0.0,PFIZ
+9,Extraordinary Inc (Exp),12  Mar-15,-1110.0,PFIZ
+10,Tax,12  Mar-15,1377.0,PFIZ
+11,Profit after tax,12  Mar-15,698.0,PFIZ
+12,Gross profit margin,12  Mar-15,20.7,PFIZ
+13,Effective tax rate,12  Mar-15,43.2,PFIZ
+14,Net profit margin,12  Mar-15,3.8,PFIZ
+15,Current assets,12  Mar-15,12506.0,PFIZ
+16,Current liabilities,12  Mar-15,5396.0,PFIZ
+17,Net working cap to sales,12  Mar-15,38.4,PFIZ
+18,Current ratio,12  Mar-15,2.3,PFIZ
+19,Inventory Days,12  Mar-15,76.0,PFIZ
+20,Debtors Days,12  Mar-15,32.0,PFIZ
+21,Net fixed assets,12  Mar-15,9996.0,PFIZ
+22,Share capital,12  Mar-15,458.0,PFIZ
+23,"""Free"" reserves",12  Mar-15,18758.0,PFIZ
+24,Net worth,12  Mar-15,19215.0,PFIZ
+25,Long term debt,12  Mar-15,25.0,PFIZ
+26,Total assets,12  Mar-15,25434.0,PFIZ
+27,Interest coverage,12  Mar-15,414.6,PFIZ
+28,Debt to equity ratio,12  Mar-15,0.0,PFIZ
+29,Sales to assets ratio,12  Mar-15,0.7,PFIZ
+30,Return on assets,12  Mar-15,2.8,PFIZ
+31,Return on equity,12  Mar-15,3.6,PFIZ
+32,Return on capital,12  Mar-15,10.8,PFIZ
+33,Exports to sales,12  Mar-15,0.1,PFIZ
+34,Imports to sales,12  Mar-15,23.1,PFIZ
+35,Exports (fob),12  Mar-15,9.0,PFIZ
+36,Imports (cif),12  Mar-15,4274.0,PFIZ
+37,Fx inflow,12  Mar-15,117.0,PFIZ
+38,Fx outflow,12  Mar-15,4383.0,PFIZ
+39,Net fx,12  Mar-15,-4266.0,PFIZ
+40,From Operations,12  Mar-15,1135.0,PFIZ
+41,From Investments,12  Mar-15,-888.0,PFIZ
+42,From Financial Activity,12  Mar-15,-14.0,PFIZ
+43,Net Cashflow,12  Mar-15,233.0,PFIZ
+44,Net Sales,12  Mar-16,20123.0,PFIZ
+45,Other income,12  Mar-16,870.0,PFIZ
+46,Total revenues,12  Mar-16,20993.0,PFIZ
+47,Gross profit,12  Mar-16,4320.0,PFIZ
+48,Depreciation,12  Mar-16,579.0,PFIZ
+49,Interest,12  Mar-16,5.0,PFIZ
+50,Profit before tax,12  Mar-16,4605.0,PFIZ
+51,Minority Interest,12  Mar-16,0.0,PFIZ
+52,Prior Period Items,12  Mar-16,0.0,PFIZ
+53,Extraordinary Inc (Exp),12  Mar-16,99.0,PFIZ
+54,Tax,12  Mar-16,1654.0,PFIZ
+55,Profit after tax,12  Mar-16,3050.0,PFIZ
+56,Gross profit margin,12  Mar-16,21.5,PFIZ
+57,Effective tax rate,12  Mar-16,35.9,PFIZ
+58,Net profit margin,12  Mar-16,15.2,PFIZ
+59,Current assets,12  Mar-16,16325.0,PFIZ
+60,Current liabilities,12  Mar-16,6584.0,PFIZ
+61,Net working cap to sales,12  Mar-16,48.4,PFIZ
+62,Current ratio,12  Mar-16,2.5,PFIZ
+63,Inventory Days,12  Mar-16,65.0,PFIZ
+64,Debtors Days,12  Mar-16,26.0,PFIZ
+65,Net fixed assets,12  Mar-16,9646.0,PFIZ
+66,Share capital,12  Mar-16,458.0,PFIZ
+67,"""Free"" reserves",12  Mar-16,21178.0,PFIZ
+68,Net worth,12  Mar-16,21635.0,PFIZ
+69,Long term debt,12  Mar-16,25.0,PFIZ
+70,Total assets,12  Mar-16,28881.0,PFIZ
+71,Interest coverage,12  Mar-16,886.7,PFIZ
+72,Debt to equity ratio,12  Mar-16,0.0,PFIZ
+73,Sales to assets ratio,12  Mar-16,0.7,PFIZ
+74,Return on assets,12  Mar-16,10.6,PFIZ
+75,Return on equity,12  Mar-16,14.1,PFIZ
+76,Return on capital,12  Mar-16,21.7,PFIZ
+77,Exports to sales,12  Mar-16,0.1,PFIZ
+78,Imports to sales,12  Mar-16,17.5,PFIZ
+79,Exports (fob),12  Mar-16,12.0,PFIZ
+80,Imports (cif),12  Mar-16,3526.0,PFIZ
+81,Fx inflow,12  Mar-16,52.0,PFIZ
+82,Fx outflow,12  Mar-16,140.0,PFIZ
+83,Net fx,12  Mar-16,-88.0,PFIZ
+84,From Operations,12  Mar-16,3455.0,PFIZ
+85,From Investments,12  Mar-16,-7009.0,PFIZ
+86,From Financial Activity,12  Mar-16,-619.0,PFIZ
+87,Net Cashflow,12  Mar-16,-4174.0,PFIZ
+88,Net Sales,12  Mar-17,19663.0,PFIZ
+89,Other income,12  Mar-17,1012.0,PFIZ
+90,Total revenues,12  Mar-17,20674.0,PFIZ
+91,Gross profit,12  Mar-17,3491.0,PFIZ
+92,Depreciation,12  Mar-17,629.0,PFIZ
+93,Interest,12  Mar-17,10.0,PFIZ
+94,Profit before tax,12  Mar-17,3864.0,PFIZ
+95,Minority Interest,12  Mar-17,0.0,PFIZ
+96,Prior Period Items,12  Mar-17,0.0,PFIZ
+97,Extraordinary Inc (Exp),12  Mar-17,1304.0,PFIZ
+98,Tax,12  Mar-17,1801.0,PFIZ
+99,Profit after tax,12  Mar-17,3368.0,PFIZ
+100,Gross profit margin,12  Mar-17,17.8,PFIZ
+101,Effective tax rate,12  Mar-17,46.6,PFIZ
+102,Net profit margin,12  Mar-17,17.1,PFIZ
+103,Current assets,12  Mar-17,20513.0,PFIZ
+104,Current liabilities,12  Mar-17,7797.0,PFIZ
+105,Net working cap to sales,12  Mar-17,64.7,PFIZ
+106,Current ratio,12  Mar-17,2.6,PFIZ
+107,Inventory Days,12  Mar-17,60.0,PFIZ
+108,Debtors Days,12  Mar-17,20.0,PFIZ
+109,Net fixed assets,12  Mar-17,9175.0,PFIZ
+110,Share capital,12  Mar-17,458.0,PFIZ
+111,"""Free"" reserves",12  Mar-17,23731.0,PFIZ
+112,Net worth,12  Mar-17,24189.0,PFIZ
+113,Long term debt,12  Mar-17,25.0,PFIZ
+114,Total assets,12  Mar-17,32610.0,PFIZ
+115,Interest coverage,12  Mar-17,403.5,PFIZ
+116,Debt to equity ratio,12  Mar-17,0.0,PFIZ
+117,Sales to assets ratio,12  Mar-17,0.6,PFIZ
+118,Return on assets,12  Mar-17,10.4,PFIZ
+119,Return on equity,12  Mar-17,13.9,PFIZ
+120,Return on capital,12  Mar-17,21.4,PFIZ
+121,Exports to sales,12  Mar-17,0.0,PFIZ
+122,Imports to sales,12  Mar-17,0.0,PFIZ
+123,Exports (fob),12  Mar-17,0.0,PFIZ
+124,Imports (cif),12  Mar-17,0.0,PFIZ
+125,Fx inflow,12  Mar-17,63.0,PFIZ
+126,Fx outflow,12  Mar-17,4067.0,PFIZ
+127,Net fx,12  Mar-17,-4004.0,PFIZ
+128,From Operations,12  Mar-17,3288.0,PFIZ
+129,From Investments,12  Mar-17,-2496.0,PFIZ
+130,From Financial Activity,12  Mar-17,-826.0,PFIZ
+131,Net Cashflow,12  Mar-17,-35.0,PFIZ
+132,Net Sales,12  Mar-18,19685.0,PFIZ
+133,Other income,12  Mar-18,1143.0,PFIZ
+134,Total revenues,12  Mar-18,20828.0,PFIZ
+135,Gross profit,12  Mar-18,5003.0,PFIZ
+136,Depreciation,12  Mar-18,663.0,PFIZ
+137,Interest,12  Mar-18,4.0,PFIZ
+138,Profit before tax,12  Mar-18,5479.0,PFIZ
+139,Minority Interest,12  Mar-18,0.0,PFIZ
+140,Prior Period Items,12  Mar-18,0.0,PFIZ
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,PFIZ
+142,Tax,12  Mar-18,1878.0,PFIZ
+143,Profit after tax,12  Mar-18,3601.0,PFIZ
+144,Gross profit margin,12  Mar-18,25.4,PFIZ
+145,Effective tax rate,12  Mar-18,34.3,PFIZ
+146,Net profit margin,12  Mar-18,18.3,PFIZ
+147,Current assets,12  Mar-18,24167.0,PFIZ
+148,Current liabilities,12  Mar-18,9544.0,PFIZ
+149,Net working cap to sales,12  Mar-18,74.3,PFIZ
+150,Current ratio,12  Mar-18,2.5,PFIZ
+151,Inventory Days,12  Mar-18,55.0,PFIZ
+152,Debtors Days,12  Mar-18,29.0,PFIZ
+153,Net fixed assets,12  Mar-18,9514.0,PFIZ
+154,Share capital,12  Mar-18,458.0,PFIZ
+155,"""Free"" reserves",12  Mar-18,26375.0,PFIZ
+156,Net worth,12  Mar-18,26832.0,PFIZ
+157,Long term debt,12  Mar-18,25.0,PFIZ
+158,Total assets,12  Mar-18,36900.0,PFIZ
+159,Interest coverage,12  Mar-18,1305.5,PFIZ
+160,Debt to equity ratio,12  Mar-18,0.0,PFIZ
+161,Sales to assets ratio,12  Mar-18,0.5,PFIZ
+162,Return on assets,12  Mar-18,9.8,PFIZ
+163,Return on equity,12  Mar-18,13.4,PFIZ
+164,Return on capital,12  Mar-18,20.4,PFIZ
+165,Exports to sales,12  Mar-18,0.0,PFIZ
+166,Imports to sales,12  Mar-18,0.0,PFIZ
+167,Exports (fob),12  Mar-18,0.0,PFIZ
+168,Imports (cif),12  Mar-18,0.0,PFIZ
+169,Fx inflow,12  Mar-18,22.0,PFIZ
+170,Fx outflow,12  Mar-18,1489.0,PFIZ
+171,Net fx,12  Mar-18,-1466.0,PFIZ
+172,From Operations,12  Mar-18,3318.0,PFIZ
+173,From Investments,12  Mar-18,-2383.0,PFIZ
+174,From Financial Activity,12  Mar-18,-1104.0,PFIZ
+175,Net Cashflow,12  Mar-18,-169.0,PFIZ
+176,Net Sales,12  Mar-19,20815.0,PFIZ
+177,Other income,12  Mar-19,1674.0,PFIZ
+178,Total revenues,12  Mar-19,22489.0,PFIZ
+179,Gross profit,12  Mar-19,5712.0,PFIZ
+180,Depreciation,12  Mar-19,714.0,PFIZ
+181,Interest,12  Mar-19,73.0,PFIZ
+182,Profit before tax,12  Mar-19,6599.0,PFIZ
+183,Minority Interest,12  Mar-19,0.0,PFIZ
+184,Prior Period Items,12  Mar-19,0.0,PFIZ
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,PFIZ
+186,Tax,12  Mar-19,2309.0,PFIZ
+187,Profit after tax,12  Mar-19,4291.0,PFIZ
+188,Gross profit margin,12  Mar-19,27.4,PFIZ
+189,Effective tax rate,12  Mar-19,35.0,PFIZ
+190,Net profit margin,12  Mar-19,20.6,PFIZ
+191,Current assets,12  Mar-19,27167.0,PFIZ
+192,Current liabilities,12  Mar-19,8917.0,PFIZ
+193,Net working cap to sales,12  Mar-19,87.7,PFIZ
+194,Current ratio,12  Mar-19,3.0,PFIZ
+195,Inventory Days,12  Mar-19,68.0,PFIZ
+196,Debtors Days,12  Mar-19,30.0,PFIZ
+197,Net fixed assets,12  Mar-19,8862.0,PFIZ
+198,Share capital,12  Mar-19,458.0,PFIZ
+199,"""Free"" reserves",12  Mar-19,29656.0,PFIZ
+200,Net worth,12  Mar-19,30113.0,PFIZ
+201,Long term debt,12  Mar-19,25.0,PFIZ
+202,Total assets,12  Mar-19,39400.0,PFIZ
+203,Interest coverage,12  Mar-19,91.5,PFIZ
+204,Debt to equity ratio,12  Mar-19,0.0,PFIZ
+205,Sales to assets ratio,12  Mar-19,0.5,PFIZ
+206,Return on assets,12  Mar-19,11.1,PFIZ
+207,Return on equity,12  Mar-19,14.2,PFIZ
+208,Return on capital,12  Mar-19,22.1,PFIZ
+209,Exports to sales,12  Mar-19,0.0,PFIZ
+210,Imports to sales,12  Mar-19,0.0,PFIZ
+211,Exports (fob),12  Mar-19,0.0,PFIZ
+212,Imports (cif),12  Mar-19,0.0,PFIZ
+213,Fx inflow,12  Mar-19,428.0,PFIZ
+214,Fx outflow,12  Mar-19,786.0,PFIZ
+215,Net fx,12  Mar-19,-358.0,PFIZ
+216,From Operations,12  Mar-19,978.0,PFIZ
+217,From Investments,12  Mar-19,351.0,PFIZ
+218,From Financial Activity,12  Mar-19,-1099.0,PFIZ
+219,Net Cashflow,12  Mar-19,231.0,PFIZ

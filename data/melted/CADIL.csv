@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,86513.0,CADIL
+1,Other income,12  Mar-15*,554.0,CADIL
+2,Total revenues,12  Mar-15*,87067.0,CADIL
+3,Gross profit,12  Mar-15*,17599.0,CADIL
+4,Depreciation,12  Mar-15*,2873.0,CADIL
+5,Interest,12  Mar-15*,679.0,CADIL
+6,Profit before tax,12  Mar-15*,14601.0,CADIL
+7,Minority Interest,12  Mar-15*,-397.0,CADIL
+8,Prior Period Items,12  Mar-15*,42.0,CADIL
+9,Extraordinary Inc (Exp),12  Mar-15*,-104.0,CADIL
+10,Tax,12  Mar-15*,2636.0,CADIL
+11,Profit after tax,12  Mar-15*,11506.0,CADIL
+12,Gross profit margin,12  Mar-15*,20.3,CADIL
+13,Effective tax rate,12  Mar-15*,18.1,CADIL
+14,Net profit margin,12  Mar-15*,13.3,CADIL
+15,Current assets,12  Mar-15*,40887.0,CADIL
+16,Current liabilities,12  Mar-15*,29921.0,CADIL
+17,Net working cap to sales,12  Mar-15*,12.7,CADIL
+18,Current ratio,12  Mar-15*,1.4,CADIL
+19,Inventory Days,12  Mar-15*,60.0,CADIL
+20,Debtors Days,12  Mar-15*,69.0,CADIL
+21,Net fixed assets,12  Mar-15*,40526.0,CADIL
+22,Share capital,12  Mar-15*,1024.0,CADIL
+23,"""Free"" reserves",12  Mar-15*,44184.0,CADIL
+24,Net worth,12  Mar-15*,45208.0,CADIL
+25,Long term debt,12  Mar-15*,11504.0,CADIL
+26,Total assets,12  Mar-15*,91342.0,CADIL
+27,Interest coverage,12  Mar-15*,22.5,CADIL
+28,Debt to equity ratio,12  Mar-15*,0.3,CADIL
+29,Sales to assets ratio,12  Mar-15*,0.9,CADIL
+30,Return on assets,12  Mar-15*,13.3,CADIL
+31,Return on equity,12  Mar-15*,25.5,CADIL
+32,Return on capital,12  Mar-15*,26.1,CADIL
+33,Exports to sales,12  Mar-15*,32.5,CADIL
+34,Imports to sales,12  Mar-15*,6.2,CADIL
+35,Exports (fob),12  Mar-15*,28080.0,CADIL
+36,Imports (cif),12  Mar-15*,5391.0,CADIL
+37,Fx inflow,12  Mar-15*,29666.0,CADIL
+38,Fx outflow,12  Mar-15*,8093.0,CADIL
+39,Net fx,12  Mar-15*,21573.0,CADIL
+40,From Operations,12  Mar-15*,9936.0,CADIL
+41,From Investments,12  Mar-15*,-4647.0,CADIL
+42,From Financial Activity,12  Mar-15*,-3511.0,CADIL
+43,Net Cashflow,12  Mar-15*,1778.0,CADIL
+44,Net Sales,12  Mar-16*,94268.0,CADIL
+45,Other income,12  Mar-16*,1156.0,CADIL
+46,Total revenues,12  Mar-16*,95424.0,CADIL
+47,Gross profit,12  Mar-16*,23305.0,CADIL
+48,Depreciation,12  Mar-16*,2921.0,CADIL
+49,Interest,12  Mar-16*,528.0,CADIL
+50,Profit before tax,12  Mar-16*,21012.0,CADIL
+51,Minority Interest,12  Mar-16*,430.0,CADIL
+52,Prior Period Items,12  Mar-16*,0.0,CADIL
+53,Extraordinary Inc (Exp),12  Mar-16*,-25.0,CADIL
+54,Tax,12  Mar-16*,1774.0,CADIL
+55,Profit after tax,12  Mar-16*,19643.0,CADIL
+56,Gross profit margin,12  Mar-16*,24.7,CADIL
+57,Effective tax rate,12  Mar-16*,8.4,CADIL
+58,Net profit margin,12  Mar-16*,20.8,CADIL
+59,Current assets,12  Mar-16*,42804.0,CADIL
+60,Current liabilities,12  Mar-16*,34610.0,CADIL
+61,Net working cap to sales,12  Mar-16*,8.7,CADIL
+62,Current ratio,12  Mar-16*,1.2,CADIL
+63,Inventory Days,12  Mar-16*,52.0,CADIL
+64,Debtors Days,12  Mar-16*,68.0,CADIL
+65,Net fixed assets,12  Mar-16*,46987.0,CADIL
+66,Share capital,12  Mar-16*,1024.0,CADIL
+67,"""Free"" reserves",12  Mar-16*,55968.0,CADIL
+68,Net worth,12  Mar-16*,56992.0,CADIL
+69,Long term debt,12  Mar-16*,8964.0,CADIL
+70,Total assets,12  Mar-16*,105506.0,CADIL
+71,Interest coverage,12  Mar-16*,40.8,CADIL
+72,Debt to equity ratio,12  Mar-16*,0.2,CADIL
+73,Sales to assets ratio,12  Mar-16*,0.9,CADIL
+74,Return on assets,12  Mar-16*,19.1,CADIL
+75,Return on equity,12  Mar-16*,34.5,CADIL
+76,Return on capital,12  Mar-16*,33.3,CADIL
+77,Exports to sales,12  Mar-16*,47.2,CADIL
+78,Imports to sales,12  Mar-16*,6.2,CADIL
+79,Exports (fob),12  Mar-16*,44537.0,CADIL
+80,Imports (cif),12  Mar-16*,5838.0,CADIL
+81,Fx inflow,12  Mar-16*,44881.0,CADIL
+82,Fx outflow,12  Mar-16*,9069.0,CADIL
+83,Net fx,12  Mar-16*,35812.0,CADIL
+84,From Operations,12  Mar-16*,18935.0,CADIL
+85,From Investments,12  Mar-16*,-8635.0,CADIL
+86,From Financial Activity,12  Mar-16*,-9348.0,CADIL
+87,Net Cashflow,12  Mar-16*,991.0,CADIL
+88,Net Sales,12  Mar-17*,93765.0,CADIL
+89,Other income,12  Mar-17*,1284.0,CADIL
+90,Total revenues,12  Mar-17*,95049.0,CADIL
+91,Gross profit,12  Mar-17*,19044.0,CADIL
+92,Depreciation,12  Mar-17*,3733.0,CADIL
+93,Interest,12  Mar-17*,446.0,CADIL
+94,Profit before tax,12  Mar-17*,16149.0,CADIL
+95,Minority Interest,12  Mar-17*,338.0,CADIL
+96,Prior Period Items,12  Mar-17*,0.0,CADIL
+97,Extraordinary Inc (Exp),12  Mar-17*,-3.0,CADIL
+98,Tax,12  Mar-17*,1289.0,CADIL
+99,Profit after tax,12  Mar-17*,15195.0,CADIL
+100,Gross profit margin,12  Mar-17*,20.3,CADIL
+101,Effective tax rate,12  Mar-17*,8.0,CADIL
+102,Net profit margin,12  Mar-17*,16.2,CADIL
+103,Current assets,12  Mar-17*,60223.0,CADIL
+104,Current liabilities,12  Mar-17*,53058.0,CADIL
+105,Net working cap to sales,12  Mar-17*,7.6,CADIL
+106,Current ratio,12  Mar-17*,1.1,CADIL
+107,Inventory Days,12  Mar-17*,70.0,CADIL
+108,Debtors Days,12  Mar-17*,89.0,CADIL
+109,Net fixed assets,12  Mar-17*,72984.0,CADIL
+110,Share capital,12  Mar-17*,1024.0,CADIL
+111,"""Free"" reserves",12  Mar-17*,68576.0,CADIL
+112,Net worth,12  Mar-17*,69600.0,CADIL
+113,Long term debt,12  Mar-17*,24684.0,CADIL
+114,Total assets,12  Mar-17*,152207.0,CADIL
+115,Interest coverage,12  Mar-17*,37.2,CADIL
+116,Debt to equity ratio,12  Mar-17*,0.4,CADIL
+117,Sales to assets ratio,12  Mar-17*,0.6,CADIL
+118,Return on assets,12  Mar-17*,10.3,CADIL
+119,Return on equity,12  Mar-17*,21.8,CADIL
+120,Return on capital,12  Mar-17*,18.0,CADIL
+121,Exports to sales,12  Mar-17*,0.0,CADIL
+122,Imports to sales,12  Mar-17*,0.0,CADIL
+123,Exports (fob),12  Mar-17*,0.0,CADIL
+124,Imports (cif),12  Mar-17*,0.0,CADIL
+125,Fx inflow,12  Mar-17*,21280.0,CADIL
+126,Fx outflow,12  Mar-17*,10874.0,CADIL
+127,Net fx,12  Mar-17*,10406.0,CADIL
+128,From Operations,12  Mar-17*,13117.0,CADIL
+129,From Investments,12  Mar-17*,-28719.0,CADIL
+130,From Financial Activity,12  Mar-17*,23158.0,CADIL
+131,Net Cashflow,12  Mar-17*,7556.0,CADIL
+132,Net Sales,12  Mar-18*,119049.0,CADIL
+133,Other income,12  Mar-18*,1132.0,CADIL
+134,Total revenues,12  Mar-18*,120181.0,CADIL
+135,Gross profit,12  Mar-18*,28475.0,CADIL
+136,Depreciation,12  Mar-18*,5388.0,CADIL
+137,Interest,12  Mar-18*,911.0,CADIL
+138,Profit before tax,12  Mar-18*,23308.0,CADIL
+139,Minority Interest,12  Mar-18*,628.0,CADIL
+140,Prior Period Items,12  Mar-18*,0.0,CADIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CADIL
+142,Tax,12  Mar-18*,5644.0,CADIL
+143,Profit after tax,12  Mar-18*,18292.0,CADIL
+144,Gross profit margin,12  Mar-18*,23.9,CADIL
+145,Effective tax rate,12  Mar-18*,24.2,CADIL
+146,Net profit margin,12  Mar-18*,15.4,CADIL
+147,Current assets,12  Mar-18*,82005.0,CADIL
+148,Current liabilities,12  Mar-18*,60720.0,CADIL
+149,Net working cap to sales,12  Mar-18*,17.9,CADIL
+150,Current ratio,12  Mar-18*,1.4,CADIL
+151,Inventory Days,12  Mar-18*,73.0,CADIL
+152,Debtors Days,12  Mar-18*,98.0,CADIL
+153,Net fixed assets,12  Mar-18*,83703.0,CADIL
+154,Share capital,12  Mar-18*,1024.0,CADIL
+155,"""Free"" reserves",12  Mar-18*,86421.0,CADIL
+156,Net worth,12  Mar-18*,87445.0,CADIL
+157,Long term debt,12  Mar-18*,25551.0,CADIL
+158,Total assets,12  Mar-18*,180653.0,CADIL
+159,Interest coverage,12  Mar-18*,26.6,CADIL
+160,Debt to equity ratio,12  Mar-18*,0.3,CADIL
+161,Sales to assets ratio,12  Mar-18*,0.7,CADIL
+162,Return on assets,12  Mar-18*,10.6,CADIL
+163,Return on equity,12  Mar-18*,20.9,CADIL
+164,Return on capital,12  Mar-18*,22.0,CADIL
+165,Exports to sales,12  Mar-18*,0.0,CADIL
+166,Imports to sales,12  Mar-18*,0.0,CADIL
+167,Exports (fob),12  Mar-18*,0.0,CADIL
+168,Imports (cif),12  Mar-18*,0.0,CADIL
+169,Fx inflow,12  Mar-18*,42683.0,CADIL
+170,Fx outflow,12  Mar-18*,11242.0,CADIL
+171,Net fx,12  Mar-18*,31441.0,CADIL
+172,From Operations,12  Mar-18*,9193.0,CADIL
+173,From Investments,12  Mar-18*,-9737.0,CADIL
+174,From Financial Activity,12  Mar-18*,515.0,CADIL
+175,Net Cashflow,12  Mar-18*,-29.0,CADIL
+176,Net Sales,12  Mar-19*,131656.0,CADIL
+177,Other income,12  Mar-19*,2011.0,CADIL
+178,Total revenues,12  Mar-19*,133667.0,CADIL
+179,Gross profit,12  Mar-19*,29731.0,CADIL
+180,Depreciation,12  Mar-19*,5986.0,CADIL
+181,Interest,12  Mar-19*,1935.0,CADIL
+182,Profit before tax,12  Mar-19*,23821.0,CADIL
+183,Minority Interest,12  Mar-19*,469.0,CADIL
+184,Prior Period Items,12  Mar-19*,0.0,CADIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CADIL
+186,Tax,12  Mar-19*,5303.0,CADIL
+187,Profit after tax,12  Mar-19*,18987.0,CADIL
+188,Gross profit margin,12  Mar-19*,22.6,CADIL
+189,Effective tax rate,12  Mar-19*,22.3,CADIL
+190,Net profit margin,12  Mar-19*,14.4,CADIL
+191,Current assets,12  Mar-19*,84981.0,CADIL
+192,Current liabilities,12  Mar-19*,73425.0,CADIL
+193,Net working cap to sales,12  Mar-19*,8.8,CADIL
+194,Current ratio,12  Mar-19*,1.2,CADIL
+195,Inventory Days,12  Mar-19*,75.0,CADIL
+196,Debtors Days,12  Mar-19*,110.0,CADIL
+197,Net fixed assets,12  Mar-19*,133493.0,CADIL
+198,Share capital,12  Mar-19*,1024.0,CADIL
+199,"""Free"" reserves",12  Mar-19*,102839.0,CADIL
+200,Net worth,12  Mar-19*,103863.0,CADIL
+201,Long term debt,12  Mar-19*,39497.0,CADIL
+202,Total assets,12  Mar-19*,234831.0,CADIL
+203,Interest coverage,12  Mar-19*,13.3,CADIL
+204,Debt to equity ratio,12  Mar-19*,0.4,CADIL
+205,Sales to assets ratio,12  Mar-19*,0.6,CADIL
+206,Return on assets,12  Mar-19*,8.9,CADIL
+207,Return on equity,12  Mar-19*,18.3,CADIL
+208,Return on capital,12  Mar-19*,18.3,CADIL
+209,Exports to sales,12  Mar-19*,0.0,CADIL
+210,Imports to sales,12  Mar-19*,0.0,CADIL
+211,Exports (fob),12  Mar-19*,0.0,CADIL
+212,Imports (cif),12  Mar-19*,0.0,CADIL
+213,Fx inflow,12  Mar-19*,48404.0,CADIL
+214,Fx outflow,12  Mar-19*,11593.0,CADIL
+215,Net fx,12  Mar-19*,36811.0,CADIL
+216,From Operations,12  Mar-19*,28823.0,CADIL
+217,From Investments,12  Mar-19*,-57387.0,CADIL
+218,From Financial Activity,12  Mar-19*,18846.0,CADIL
+219,Net Cashflow,12  Mar-19*,-7105.0,CADIL

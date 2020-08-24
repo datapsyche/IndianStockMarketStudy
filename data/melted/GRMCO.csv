@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1865.0,GRMCO
+1,Other income,12  Mar-15*,111.0,GRMCO
+2,Total revenues,12  Mar-15*,1977.0,GRMCO
+3,Gross profit,12  Mar-15*,108.0,GRMCO
+4,Depreciation,12  Mar-15*,63.0,GRMCO
+5,Interest,12  Mar-15*,6.0,GRMCO
+6,Profit before tax,12  Mar-15*,151.0,GRMCO
+7,Minority Interest,12  Mar-15*,5.0,GRMCO
+8,Prior Period Items,12  Mar-15*,0.0,GRMCO
+9,Extraordinary Inc (Exp),12  Mar-15*,-91.0,GRMCO
+10,Tax,12  Mar-15*,-3.0,GRMCO
+11,Profit after tax,12  Mar-15*,68.0,GRMCO
+12,Gross profit margin,12  Mar-15*,5.8,GRMCO
+13,Effective tax rate,12  Mar-15*,-1.9,GRMCO
+14,Net profit margin,12  Mar-15*,3.6,GRMCO
+15,Current assets,12  Mar-15*,1125.0,GRMCO
+16,Current liabilities,12  Mar-15*,750.0,GRMCO
+17,Net working cap to sales,12  Mar-15*,20.1,GRMCO
+18,Current ratio,12  Mar-15*,1.5,GRMCO
+19,Inventory Days,12  Mar-15*,10.0,GRMCO
+20,Debtors Days,12  Mar-15*,106.0,GRMCO
+21,Net fixed assets,12  Mar-15*,838.0,GRMCO
+22,Share capital,12  Mar-15*,174.0,GRMCO
+23,"""Free"" reserves",12  Mar-15*,1202.0,GRMCO
+24,Net worth,12  Mar-15*,1678.0,GRMCO
+25,Long term debt,12  Mar-15*,0.0,GRMCO
+26,Total assets,12  Mar-15*,2472.0,GRMCO
+27,Interest coverage,12  Mar-15*,26.2,GRMCO
+28,Debt to equity ratio,12  Mar-15*,0.0,GRMCO
+29,Sales to assets ratio,12  Mar-15*,0.8,GRMCO
+30,Return on assets,12  Mar-15*,3.0,GRMCO
+31,Return on equity,12  Mar-15*,4.0,GRMCO
+32,Return on capital,12  Mar-15*,4.2,GRMCO
+33,Exports to sales,12  Mar-15*,0.0,GRMCO
+34,Imports to sales,12  Mar-15*,0.0,GRMCO
+35,Exports (fob),12  Mar-15*,0.0,GRMCO
+36,Imports (cif),12  Mar-15*,0.0,GRMCO
+37,Fx inflow,12  Mar-15*,302.0,GRMCO
+38,Fx outflow,12  Mar-15*,2.0,GRMCO
+39,Net fx,12  Mar-15*,300.0,GRMCO
+40,From Operations,12  Mar-15*,27.0,GRMCO
+41,From Investments,12  Mar-15*,-9.0,GRMCO
+42,From Financial Activity,12  Mar-15*,-62.0,GRMCO
+43,Net Cashflow,12  Mar-15*,-45.0,GRMCO
+44,Net Sales,12  Mar-16*,2217.0,GRMCO
+45,Other income,12  Mar-16*,122.0,GRMCO
+46,Total revenues,12  Mar-16*,2339.0,GRMCO
+47,Gross profit,12  Mar-16*,144.0,GRMCO
+48,Depreciation,12  Mar-16*,54.0,GRMCO
+49,Interest,12  Mar-16*,5.0,GRMCO
+50,Profit before tax,12  Mar-16*,206.0,GRMCO
+51,Minority Interest,12  Mar-16*,0.0,GRMCO
+52,Prior Period Items,12  Mar-16*,0.0,GRMCO
+53,Extraordinary Inc (Exp),12  Mar-16*,-116.0,GRMCO
+54,Tax,12  Mar-16*,22.0,GRMCO
+55,Profit after tax,12  Mar-16*,68.0,GRMCO
+56,Gross profit margin,12  Mar-16*,6.5,GRMCO
+57,Effective tax rate,12  Mar-16*,10.9,GRMCO
+58,Net profit margin,12  Mar-16*,3.1,GRMCO
+59,Current assets,12  Mar-16*,1258.0,GRMCO
+60,Current liabilities,12  Mar-16*,817.0,GRMCO
+61,Net working cap to sales,12  Mar-16*,19.9,GRMCO
+62,Current ratio,12  Mar-16*,1.5,GRMCO
+63,Inventory Days,12  Mar-16*,2.0,GRMCO
+64,Debtors Days,12  Mar-16*,76.0,GRMCO
+65,Net fixed assets,12  Mar-16*,847.0,GRMCO
+66,Share capital,12  Mar-16*,174.0,GRMCO
+67,"""Free"" reserves",12  Mar-16*,1566.0,GRMCO
+68,Net worth,12  Mar-16*,1740.0,GRMCO
+69,Long term debt,12  Mar-16*,0.0,GRMCO
+70,Total assets,12  Mar-16*,2927.0,GRMCO
+71,Interest coverage,12  Mar-16*,44.0,GRMCO
+72,Debt to equity ratio,12  Mar-16*,0.0,GRMCO
+73,Sales to assets ratio,12  Mar-16*,0.8,GRMCO
+74,Return on assets,12  Mar-16*,2.5,GRMCO
+75,Return on equity,12  Mar-16*,3.9,GRMCO
+76,Return on capital,12  Mar-16*,5.5,GRMCO
+77,Exports to sales,12  Mar-16*,0.0,GRMCO
+78,Imports to sales,12  Mar-16*,0.0,GRMCO
+79,Exports (fob),12  Mar-16*,0.0,GRMCO
+80,Imports (cif),12  Mar-16*,0.0,GRMCO
+81,Fx inflow,12  Mar-16*,469.0,GRMCO
+82,Fx outflow,12  Mar-16*,23.0,GRMCO
+83,Net fx,12  Mar-16*,446.0,GRMCO
+84,From Operations,12  Mar-16*,319.0,GRMCO
+85,From Investments,12  Mar-16*,-40.0,GRMCO
+86,From Financial Activity,12  Mar-16*,-78.0,GRMCO
+87,Net Cashflow,12  Mar-16*,201.0,GRMCO
+88,Net Sales,12  Mar-17*,2185.0,GRMCO
+89,Other income,12  Mar-17*,133.0,GRMCO
+90,Total revenues,12  Mar-17*,2318.0,GRMCO
+91,Gross profit,12  Mar-17*,94.0,GRMCO
+92,Depreciation,12  Mar-17*,44.0,GRMCO
+93,Interest,12  Mar-17*,24.0,GRMCO
+94,Profit before tax,12  Mar-17*,159.0,GRMCO
+95,Minority Interest,12  Mar-17*,0.0,GRMCO
+96,Prior Period Items,12  Mar-17*,0.0,GRMCO
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GRMCO
+98,Tax,12  Mar-17*,73.0,GRMCO
+99,Profit after tax,12  Mar-17*,86.0,GRMCO
+100,Gross profit margin,12  Mar-17*,4.3,GRMCO
+101,Effective tax rate,12  Mar-17*,45.8,GRMCO
+102,Net profit margin,12  Mar-17*,4.0,GRMCO
+103,Current assets,12  Mar-17*,1425.0,GRMCO
+104,Current liabilities,12  Mar-17*,908.0,GRMCO
+105,Net working cap to sales,12  Mar-17*,23.6,GRMCO
+106,Current ratio,12  Mar-17*,1.6,GRMCO
+107,Inventory Days,12  Mar-17*,17.0,GRMCO
+108,Debtors Days,12  Mar-17*,87.0,GRMCO
+109,Net fixed assets,12  Mar-17*,1989.0,GRMCO
+110,Share capital,12  Mar-17*,174.0,GRMCO
+111,"""Free"" reserves",12  Mar-17*,3223.0,GRMCO
+112,Net worth,12  Mar-17*,3398.0,GRMCO
+113,Long term debt,12  Mar-17*,0.0,GRMCO
+114,Total assets,12  Mar-17*,4797.0,GRMCO
+115,Interest coverage,12  Mar-17*,7.8,GRMCO
+116,Debt to equity ratio,12  Mar-17*,0.0,GRMCO
+117,Sales to assets ratio,12  Mar-17*,0.5,GRMCO
+118,Return on assets,12  Mar-17*,2.3,GRMCO
+119,Return on equity,12  Mar-17*,2.5,GRMCO
+120,Return on capital,12  Mar-17*,5.4,GRMCO
+121,Exports to sales,12  Mar-17*,0.0,GRMCO
+122,Imports to sales,12  Mar-17*,0.0,GRMCO
+123,Exports (fob),12  Mar-17*,0.0,GRMCO
+124,Imports (cif),12  Mar-17*,0.0,GRMCO
+125,Fx inflow,12  Mar-17*,479.0,GRMCO
+126,Fx outflow,12  Mar-17*,51.0,GRMCO
+127,Net fx,12  Mar-17*,428.0,GRMCO
+128,From Operations,12  Mar-17*,-36.0,GRMCO
+129,From Investments,12  Mar-17*,5.0,GRMCO
+130,From Financial Activity,12  Mar-17*,-34.0,GRMCO
+131,Net Cashflow,12  Mar-17*,-65.0,GRMCO
+132,Net Sales,12  Mar-18*,3566.0,GRMCO
+133,Other income,12  Mar-18*,102.0,GRMCO
+134,Total revenues,12  Mar-18*,3668.0,GRMCO
+135,Gross profit,12  Mar-18*,363.0,GRMCO
+136,Depreciation,12  Mar-18*,42.0,GRMCO
+137,Interest,12  Mar-18*,34.0,GRMCO
+138,Profit before tax,12  Mar-18*,389.0,GRMCO
+139,Minority Interest,12  Mar-18*,0.0,GRMCO
+140,Prior Period Items,12  Mar-18*,0.0,GRMCO
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GRMCO
+142,Tax,12  Mar-18*,106.0,GRMCO
+143,Profit after tax,12  Mar-18*,283.0,GRMCO
+144,Gross profit margin,12  Mar-18*,10.2,GRMCO
+145,Effective tax rate,12  Mar-18*,27.3,GRMCO
+146,Net profit margin,12  Mar-18*,7.9,GRMCO
+147,Current assets,12  Mar-18*,2149.0,GRMCO
+148,Current liabilities,12  Mar-18*,1441.0,GRMCO
+149,Net working cap to sales,12  Mar-18*,19.9,GRMCO
+150,Current ratio,12  Mar-18*,1.5,GRMCO
+151,Inventory Days,12  Mar-18*,50.0,GRMCO
+152,Debtors Days,12  Mar-18*,75.0,GRMCO
+153,Net fixed assets,12  Mar-18*,1973.0,GRMCO
+154,Share capital,12  Mar-18*,174.0,GRMCO
+155,"""Free"" reserves",12  Mar-18*,3643.0,GRMCO
+156,Net worth,12  Mar-18*,3817.0,GRMCO
+157,Long term debt,12  Mar-18*,0.0,GRMCO
+158,Total assets,12  Mar-18*,5784.0,GRMCO
+159,Interest coverage,12  Mar-18*,12.5,GRMCO
+160,Debt to equity ratio,12  Mar-18*,0.0,GRMCO
+161,Sales to assets ratio,12  Mar-18*,0.6,GRMCO
+162,Return on assets,12  Mar-18*,5.5,GRMCO
+163,Return on equity,12  Mar-18*,7.4,GRMCO
+164,Return on capital,12  Mar-18*,11.1,GRMCO
+165,Exports to sales,12  Mar-18*,0.0,GRMCO
+166,Imports to sales,12  Mar-18*,0.0,GRMCO
+167,Exports (fob),12  Mar-18*,0.0,GRMCO
+168,Imports (cif),12  Mar-18*,0.0,GRMCO
+169,Fx inflow,12  Mar-18*,603.0,GRMCO
+170,Fx outflow,12  Mar-18*,979.0,GRMCO
+171,Net fx,12  Mar-18*,-377.0,GRMCO
+172,From Operations,12  Mar-18*,-190.0,GRMCO
+173,From Investments,12  Mar-18*,-2.0,GRMCO
+174,From Financial Activity,12  Mar-18*,91.0,GRMCO
+175,Net Cashflow,12  Mar-18*,-97.0,GRMCO
+176,Net Sales,12  Mar-19*,5447.0,GRMCO
+177,Other income,12  Mar-19*,564.0,GRMCO
+178,Total revenues,12  Mar-19*,6011.0,GRMCO
+179,Gross profit,12  Mar-19*,382.0,GRMCO
+180,Depreciation,12  Mar-19*,33.0,GRMCO
+181,Interest,12  Mar-19*,66.0,GRMCO
+182,Profit before tax,12  Mar-19*,847.0,GRMCO
+183,Minority Interest,12  Mar-19*,0.0,GRMCO
+184,Prior Period Items,12  Mar-19*,0.0,GRMCO
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GRMCO
+186,Tax,12  Mar-19*,304.0,GRMCO
+187,Profit after tax,12  Mar-19*,543.0,GRMCO
+188,Gross profit margin,12  Mar-19*,7.0,GRMCO
+189,Effective tax rate,12  Mar-19*,35.8,GRMCO
+190,Net profit margin,12  Mar-19*,10.0,GRMCO
+191,Current assets,12  Mar-19*,3387.0,GRMCO
+192,Current liabilities,12  Mar-19*,2172.0,GRMCO
+193,Net working cap to sales,12  Mar-19*,22.3,GRMCO
+194,Current ratio,12  Mar-19*,1.6,GRMCO
+195,Inventory Days,12  Mar-19*,65.0,GRMCO
+196,Debtors Days,12  Mar-19*,74.0,GRMCO
+197,Net fixed assets,12  Mar-19*,2152.0,GRMCO
+198,Share capital,12  Mar-19*,174.0,GRMCO
+199,"""Free"" reserves",12  Mar-19*,4107.0,GRMCO
+200,Net worth,12  Mar-19*,4281.0,GRMCO
+201,Long term debt,12  Mar-19*,0.0,GRMCO
+202,Total assets,12  Mar-19*,7088.0,GRMCO
+203,Interest coverage,12  Mar-19*,13.9,GRMCO
+204,Debt to equity ratio,12  Mar-19*,0.0,GRMCO
+205,Sales to assets ratio,12  Mar-19*,0.8,GRMCO
+206,Return on assets,12  Mar-19*,8.6,GRMCO
+207,Return on equity,12  Mar-19*,12.7,GRMCO
+208,Return on capital,12  Mar-19*,21.3,GRMCO
+209,Exports to sales,12  Mar-19*,0.0,GRMCO
+210,Imports to sales,12  Mar-19*,0.0,GRMCO
+211,Exports (fob),12  Mar-19*,0.0,GRMCO
+212,Imports (cif),12  Mar-19*,0.0,GRMCO
+213,Fx inflow,12  Mar-19*,665.0,GRMCO
+214,Fx outflow,12  Mar-19*,1841.0,GRMCO
+215,Net fx,12  Mar-19*,-1176.0,GRMCO
+216,From Operations,12  Mar-19*,-357.0,GRMCO
+217,From Investments,12  Mar-19*,-64.0,GRMCO
+218,From Financial Activity,12  Mar-19*,379.0,GRMCO
+219,Net Cashflow,12  Mar-19*,-42.0,GRMCO

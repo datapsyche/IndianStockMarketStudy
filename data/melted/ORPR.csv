@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,16689.0,ORPR
+1,Other income,12  Mar-15,202.0,ORPR
+2,Total revenues,12  Mar-15,16890.0,ORPR
+3,Gross profit,12  Mar-15,252.0,ORPR
+4,Depreciation,12  Mar-15,437.0,ORPR
+5,Interest,12  Mar-15,438.0,ORPR
+6,Profit before tax,12  Mar-15,-421.0,ORPR
+7,Minority Interest,12  Mar-15,0.0,ORPR
+8,Prior Period Items,12  Mar-15,0.0,ORPR
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,ORPR
+10,Tax,12  Mar-15,-135.0,ORPR
+11,Profit after tax,12  Mar-15,-287.0,ORPR
+12,Gross profit margin,12  Mar-15,1.5,ORPR
+13,Effective tax rate,12  Mar-15,32.0,ORPR
+14,Net profit margin,12  Mar-15,-1.7,ORPR
+15,Current assets,12  Mar-15,6712.0,ORPR
+16,Current liabilities,12  Mar-15,6833.0,ORPR
+17,Net working cap to sales,12  Mar-15,-0.7,ORPR
+18,Current ratio,12  Mar-15,1.0,ORPR
+19,Inventory Days,12  Mar-15,50.0,ORPR
+20,Debtors Days,12  Mar-15,79.0,ORPR
+21,Net fixed assets,12  Mar-15,5174.0,ORPR
+22,Share capital,12  Mar-15,205.0,ORPR
+23,"""Free"" reserves",12  Mar-15,3727.0,ORPR
+24,Net worth,12  Mar-15,3994.0,ORPR
+25,Long term debt,12  Mar-15,874.0,ORPR
+26,Total assets,12  Mar-15,12233.0,ORPR
+27,Interest coverage,12  Mar-15,0.0,ORPR
+28,Debt to equity ratio,12  Mar-15,0.2,ORPR
+29,Sales to assets ratio,12  Mar-15,1.4,ORPR
+30,Return on assets,12  Mar-15,1.2,ORPR
+31,Return on equity,12  Mar-15,-7.2,ORPR
+32,Return on capital,12  Mar-15,0.3,ORPR
+33,Exports to sales,12  Mar-15,11.7,ORPR
+34,Imports to sales,12  Mar-15,5.7,ORPR
+35,Exports (fob),12  Mar-15,1957.0,ORPR
+36,Imports (cif),12  Mar-15,943.0,ORPR
+37,Fx inflow,12  Mar-15,1957.0,ORPR
+38,Fx outflow,12  Mar-15,955.0,ORPR
+39,Net fx,12  Mar-15,1001.0,ORPR
+40,From Operations,12  Mar-15,364.0,ORPR
+41,From Investments,12  Mar-15,-303.0,ORPR
+42,From Financial Activity,12  Mar-15,-41.0,ORPR
+43,Net Cashflow,12  Mar-15,20.0,ORPR
+44,Net Sales,12  Mar-16,18204.0,ORPR
+45,Other income,12  Mar-16,174.0,ORPR
+46,Total revenues,12  Mar-16,18378.0,ORPR
+47,Gross profit,12  Mar-16,995.0,ORPR
+48,Depreciation,12  Mar-16,443.0,ORPR
+49,Interest,12  Mar-16,512.0,ORPR
+50,Profit before tax,12  Mar-16,214.0,ORPR
+51,Minority Interest,12  Mar-16,0.0,ORPR
+52,Prior Period Items,12  Mar-16,0.0,ORPR
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,ORPR
+54,Tax,12  Mar-16,3.0,ORPR
+55,Profit after tax,12  Mar-16,210.0,ORPR
+56,Gross profit margin,12  Mar-16,5.5,ORPR
+57,Effective tax rate,12  Mar-16,1.5,ORPR
+58,Net profit margin,12  Mar-16,1.2,ORPR
+59,Current assets,12  Mar-16,7273.0,ORPR
+60,Current liabilities,12  Mar-16,6870.0,ORPR
+61,Net working cap to sales,12  Mar-16,2.2,ORPR
+62,Current ratio,12  Mar-16,1.1,ORPR
+63,Inventory Days,12  Mar-16,45.0,ORPR
+64,Debtors Days,12  Mar-16,77.0,ORPR
+65,Net fixed assets,12  Mar-16,5202.0,ORPR
+66,Share capital,12  Mar-16,205.0,ORPR
+67,"""Free"" reserves",12  Mar-16,3876.0,ORPR
+68,Net worth,12  Mar-16,4142.0,ORPR
+69,Long term debt,12  Mar-16,1549.0,ORPR
+70,Total assets,12  Mar-16,12994.0,ORPR
+71,Interest coverage,12  Mar-16,1.4,ORPR
+72,Debt to equity ratio,12  Mar-16,0.4,ORPR
+73,Sales to assets ratio,12  Mar-16,1.4,ORPR
+74,Return on assets,12  Mar-16,5.6,ORPR
+75,Return on equity,12  Mar-16,5.1,ORPR
+76,Return on capital,12  Mar-16,12.7,ORPR
+77,Exports to sales,12  Mar-16,12.0,ORPR
+78,Imports to sales,12  Mar-16,5.4,ORPR
+79,Exports (fob),12  Mar-16,2178.0,ORPR
+80,Imports (cif),12  Mar-16,988.0,ORPR
+81,Fx inflow,12  Mar-16,2178.0,ORPR
+82,Fx outflow,12  Mar-16,997.0,ORPR
+83,Net fx,12  Mar-16,1181.0,ORPR
+84,From Operations,12  Mar-16,761.0,ORPR
+85,From Investments,12  Mar-16,-455.0,ORPR
+86,From Financial Activity,12  Mar-16,8.0,ORPR
+87,Net Cashflow,12  Mar-16,314.0,ORPR
+88,Net Sales,12  Mar-17,5115.0,ORPR
+89,Other income,12  Mar-17,200.0,ORPR
+90,Total revenues,12  Mar-17,5315.0,ORPR
+91,Gross profit,12  Mar-17,315.0,ORPR
+92,Depreciation,12  Mar-17,252.0,ORPR
+93,Interest,12  Mar-17,206.0,ORPR
+94,Profit before tax,12  Mar-17,57.0,ORPR
+95,Minority Interest,12  Mar-17,0.0,ORPR
+96,Prior Period Items,12  Mar-17,0.0,ORPR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,ORPR
+98,Tax,12  Mar-17,-52.0,ORPR
+99,Profit after tax,12  Mar-17,109.0,ORPR
+100,Gross profit margin,12  Mar-17,6.2,ORPR
+101,Effective tax rate,12  Mar-17,-89.9,ORPR
+102,Net profit margin,12  Mar-17,2.1,ORPR
+103,Current assets,12  Mar-17,1699.0,ORPR
+104,Current liabilities,12  Mar-17,2789.0,ORPR
+105,Net working cap to sales,12  Mar-17,-21.3,ORPR
+106,Current ratio,12  Mar-17,0.6,ORPR
+107,Inventory Days,12  Mar-17,56.0,ORPR
+108,Debtors Days,12  Mar-17,17.0,ORPR
+109,Net fixed assets,12  Mar-17,13662.0,ORPR
+110,Share capital,12  Mar-17,212.0,ORPR
+111,"""Free"" reserves",12  Mar-17,11886.0,ORPR
+112,Net worth,12  Mar-17,12098.0,ORPR
+113,Long term debt,12  Mar-17,597.0,ORPR
+114,Total assets,12  Mar-17,18027.0,ORPR
+115,Interest coverage,12  Mar-17,1.3,ORPR
+116,Debt to equity ratio,12  Mar-17,0.0,ORPR
+117,Sales to assets ratio,12  Mar-17,0.3,ORPR
+118,Return on assets,12  Mar-17,1.7,ORPR
+119,Return on equity,12  Mar-17,0.9,ORPR
+120,Return on capital,12  Mar-17,2.1,ORPR
+121,Exports to sales,12  Mar-17,0.0,ORPR
+122,Imports to sales,12  Mar-17,0.0,ORPR
+123,Exports (fob),12  Mar-17,0.0,ORPR
+124,Imports (cif),12  Mar-17,0.0,ORPR
+125,Fx inflow,12  Mar-17,1806.0,ORPR
+126,Fx outflow,12  Mar-17,1358.0,ORPR
+127,Net fx,12  Mar-17,449.0,ORPR
+128,From Operations,12  Mar-17,358.0,ORPR
+129,From Investments,12  Mar-17,-674.0,ORPR
+130,From Financial Activity,12  Mar-17,-72.0,ORPR
+131,Net Cashflow,12  Mar-17,-490.0,ORPR
+132,Net Sales,12  Mar-18,6614.0,ORPR
+133,Other income,12  Mar-18,112.0,ORPR
+134,Total revenues,12  Mar-18,6726.0,ORPR
+135,Gross profit,12  Mar-18,1119.0,ORPR
+136,Depreciation,12  Mar-18,283.0,ORPR
+137,Interest,12  Mar-18,147.0,ORPR
+138,Profit before tax,12  Mar-18,801.0,ORPR
+139,Minority Interest,12  Mar-18,0.0,ORPR
+140,Prior Period Items,12  Mar-18,0.0,ORPR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ORPR
+142,Tax,12  Mar-18,308.0,ORPR
+143,Profit after tax,12  Mar-18,493.0,ORPR
+144,Gross profit margin,12  Mar-18,16.9,ORPR
+145,Effective tax rate,12  Mar-18,38.5,ORPR
+146,Net profit margin,12  Mar-18,7.5,ORPR
+147,Current assets,12  Mar-18,1260.0,ORPR
+148,Current liabilities,12  Mar-18,1909.0,ORPR
+149,Net working cap to sales,12  Mar-18,-9.8,ORPR
+150,Current ratio,12  Mar-18,0.7,ORPR
+151,Inventory Days,12  Mar-18,34.0,ORPR
+152,Debtors Days,12  Mar-18,20.0,ORPR
+153,Net fixed assets,12  Mar-18,13631.0,ORPR
+154,Share capital,12  Mar-18,212.0,ORPR
+155,"""Free"" reserves",12  Mar-18,12965.0,ORPR
+156,Net worth,12  Mar-18,13177.0,ORPR
+157,Long term debt,12  Mar-18,391.0,ORPR
+158,Total assets,12  Mar-18,18094.0,ORPR
+159,Interest coverage,12  Mar-18,6.4,ORPR
+160,Debt to equity ratio,12  Mar-18,0.0,ORPR
+161,Sales to assets ratio,12  Mar-18,0.4,ORPR
+162,Return on assets,12  Mar-18,3.5,ORPR
+163,Return on equity,12  Mar-18,3.7,ORPR
+164,Return on capital,12  Mar-18,7.0,ORPR
+165,Exports to sales,12  Mar-18,0.0,ORPR
+166,Imports to sales,12  Mar-18,0.0,ORPR
+167,Exports (fob),12  Mar-18,0.0,ORPR
+168,Imports (cif),12  Mar-18,0.0,ORPR
+169,Fx inflow,12  Mar-18,1027.0,ORPR
+170,Fx outflow,12  Mar-18,235.0,ORPR
+171,Net fx,12  Mar-18,792.0,ORPR
+172,From Operations,12  Mar-18,1258.0,ORPR
+173,From Investments,12  Mar-18,153.0,ORPR
+174,From Financial Activity,12  Mar-18,-1458.0,ORPR
+175,Net Cashflow,12  Mar-18,-46.0,ORPR
+176,Net Sales,12  Mar-19,7100.0,ORPR
+177,Other income,12  Mar-19,337.0,ORPR
+178,Total revenues,12  Mar-19,7438.0,ORPR
+179,Gross profit,12  Mar-19,1379.0,ORPR
+180,Depreciation,12  Mar-19,316.0,ORPR
+181,Interest,12  Mar-19,100.0,ORPR
+182,Profit before tax,12  Mar-19,1301.0,ORPR
+183,Minority Interest,12  Mar-19,0.0,ORPR
+184,Prior Period Items,12  Mar-19,0.0,ORPR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ORPR
+186,Tax,12  Mar-19,284.0,ORPR
+187,Profit after tax,12  Mar-19,1017.0,ORPR
+188,Gross profit margin,12  Mar-19,19.4,ORPR
+189,Effective tax rate,12  Mar-19,21.8,ORPR
+190,Net profit margin,12  Mar-19,14.3,ORPR
+191,Current assets,12  Mar-19,1467.0,ORPR
+192,Current liabilities,12  Mar-19,1492.0,ORPR
+193,Net working cap to sales,12  Mar-19,-0.3,ORPR
+194,Current ratio,12  Mar-19,1.0,ORPR
+195,Inventory Days,12  Mar-19,39.0,ORPR
+196,Debtors Days,12  Mar-19,15.0,ORPR
+197,Net fixed assets,12  Mar-19,13471.0,ORPR
+198,Share capital,12  Mar-19,212.0,ORPR
+199,"""Free"" reserves",12  Mar-19,13639.0,ORPR
+200,Net worth,12  Mar-19,13851.0,ORPR
+201,Long term debt,12  Mar-19,102.0,ORPR
+202,Total assets,12  Mar-19,18052.0,ORPR
+203,Interest coverage,12  Mar-19,14.0,ORPR
+204,Debt to equity ratio,12  Mar-19,0.0,ORPR
+205,Sales to assets ratio,12  Mar-19,0.4,ORPR
+206,Return on assets,12  Mar-19,6.2,ORPR
+207,Return on equity,12  Mar-19,7.3,ORPR
+208,Return on capital,12  Mar-19,10.0,ORPR
+209,Exports to sales,12  Mar-19,0.0,ORPR
+210,Imports to sales,12  Mar-19,0.0,ORPR
+211,Exports (fob),12  Mar-19,0.0,ORPR
+212,Imports (cif),12  Mar-19,0.0,ORPR
+213,Fx inflow,12  Mar-19,1472.0,ORPR
+214,Fx outflow,12  Mar-19,447.0,ORPR
+215,Net fx,12  Mar-19,1025.0,ORPR
+216,From Operations,12  Mar-19,988.0,ORPR
+217,From Investments,12  Mar-19,7.0,ORPR
+218,From Financial Activity,12  Mar-19,-1003.0,ORPR
+219,Net Cashflow,12  Mar-19,-8.0,ORPR

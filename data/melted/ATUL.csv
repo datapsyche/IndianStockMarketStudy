@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,26564.0,ATUL
+1,Other income,12  Mar-15*,103.0,ATUL
+2,Total revenues,12  Mar-15*,26666.0,ATUL
+3,Gross profit,12  Mar-15*,4013.0,ATUL
+4,Depreciation,12  Mar-15*,603.0,ATUL
+5,Interest,12  Mar-15*,257.0,ATUL
+6,Profit before tax,12  Mar-15*,3256.0,ATUL
+7,Minority Interest,12  Mar-15*,2.0,ATUL
+8,Prior Period Items,12  Mar-15*,143.0,ATUL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ATUL
+10,Tax,12  Mar-15*,994.0,ATUL
+11,Profit after tax,12  Mar-15*,2407.0,ATUL
+12,Gross profit margin,12  Mar-15*,15.1,ATUL
+13,Effective tax rate,12  Mar-15*,30.5,ATUL
+14,Net profit margin,12  Mar-15*,9.1,ATUL
+15,Current assets,12  Mar-15*,10408.0,ATUL
+16,Current liabilities,12  Mar-15*,6383.0,ATUL
+17,Net working cap to sales,12  Mar-15*,15.2,ATUL
+18,Current ratio,12  Mar-15*,1.6,ATUL
+19,Inventory Days,12  Mar-15*,57.0,ATUL
+20,Debtors Days,12  Mar-15*,61.0,ATUL
+21,Net fixed assets,12  Mar-15*,6257.0,ATUL
+22,Share capital,12  Mar-15*,297.0,ATUL
+23,"""Free"" reserves",12  Mar-15*,9926.0,ATUL
+24,Net worth,12  Mar-15*,10390.0,ATUL
+25,Long term debt,12  Mar-15*,586.0,ATUL
+26,Total assets,12  Mar-15*,18231.0,ATUL
+27,Interest coverage,12  Mar-15*,13.7,ATUL
+28,Debt to equity ratio,12  Mar-15*,0.1,ATUL
+29,Sales to assets ratio,12  Mar-15*,1.5,ATUL
+30,Return on assets,12  Mar-15*,14.6,ATUL
+31,Return on equity,12  Mar-15*,23.2,ATUL
+32,Return on capital,12  Mar-15*,33.3,ATUL
+33,Exports to sales,12  Mar-15*,43.8,ATUL
+34,Imports to sales,12  Mar-15*,14.8,ATUL
+35,Exports (fob),12  Mar-15*,11634.0,ATUL
+36,Imports (cif),12  Mar-15*,3928.0,ATUL
+37,Fx inflow,12  Mar-15*,11634.0,ATUL
+38,Fx outflow,12  Mar-15*,4114.0,ATUL
+39,Net fx,12  Mar-15*,7520.0,ATUL
+40,From Operations,12  Mar-15*,3063.0,ATUL
+41,From Investments,12  Mar-15*,-1666.0,ATUL
+42,From Financial Activity,12  Mar-15*,-1238.0,ATUL
+43,Net Cashflow,12  Mar-15*,158.0,ATUL
+44,Net Sales,12  Mar-16*,25946.0,ATUL
+45,Other income,12  Mar-16*,344.0,ATUL
+46,Total revenues,12  Mar-16*,26290.0,ATUL
+47,Gross profit,12  Mar-16*,4592.0,ATUL
+48,Depreciation,12  Mar-16*,661.0,ATUL
+49,Interest,12  Mar-16*,275.0,ATUL
+50,Profit before tax,12  Mar-16*,4000.0,ATUL
+51,Minority Interest,12  Mar-16*,0.0,ATUL
+52,Prior Period Items,12  Mar-16*,45.0,ATUL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ATUL
+54,Tax,12  Mar-16*,1302.0,ATUL
+55,Profit after tax,12  Mar-16*,2743.0,ATUL
+56,Gross profit margin,12  Mar-16*,17.7,ATUL
+57,Effective tax rate,12  Mar-16*,32.6,ATUL
+58,Net profit margin,12  Mar-16*,10.6,ATUL
+59,Current assets,12  Mar-16*,10587.0,ATUL
+60,Current liabilities,12  Mar-16*,7062.0,ATUL
+61,Net working cap to sales,12  Mar-16*,13.6,ATUL
+62,Current ratio,12  Mar-16*,1.5,ATUL
+63,Inventory Days,12  Mar-16*,60.0,ATUL
+64,Debtors Days,12  Mar-16*,62.0,ATUL
+65,Net fixed assets,12  Mar-16*,9331.0,ATUL
+66,Share capital,12  Mar-16*,297.0,ATUL
+67,"""Free"" reserves",12  Mar-16*,12332.0,ATUL
+68,Net worth,12  Mar-16*,16148.0,ATUL
+69,Long term debt,12  Mar-16*,234.0,ATUL
+70,Total assets,12  Mar-16*,24790.0,ATUL
+71,Interest coverage,12  Mar-16*,15.5,ATUL
+72,Debt to equity ratio,12  Mar-16*,0.0,ATUL
+73,Sales to assets ratio,12  Mar-16*,1.0,ATUL
+74,Return on assets,12  Mar-16*,12.2,ATUL
+75,Return on equity,12  Mar-16*,17.0,ATUL
+76,Return on capital,12  Mar-16*,26.4,ATUL
+77,Exports to sales,12  Mar-16*,44.2,ATUL
+78,Imports to sales,12  Mar-16*,14.4,ATUL
+79,Exports (fob),12  Mar-16*,11480.0,ATUL
+80,Imports (cif),12  Mar-16*,3735.0,ATUL
+81,Fx inflow,12  Mar-16*,11725.0,ATUL
+82,Fx outflow,12  Mar-16*,3927.0,ATUL
+83,Net fx,12  Mar-16*,7798.0,ATUL
+84,From Operations,12  Mar-16*,4010.0,ATUL
+85,From Investments,12  Mar-16*,-3748.0,ATUL
+86,From Financial Activity,12  Mar-16*,-393.0,ATUL
+87,Net Cashflow,12  Mar-16*,-129.0,ATUL
+88,Net Sales,12  Mar-17*,28339.0,ATUL
+89,Other income,12  Mar-17*,526.0,ATUL
+90,Total revenues,12  Mar-17*,28865.0,ATUL
+91,Gross profit,12  Mar-17*,5095.0,ATUL
+92,Depreciation,12  Mar-17*,954.0,ATUL
+93,Interest,12  Mar-17*,252.0,ATUL
+94,Profit before tax,12  Mar-17*,4414.0,ATUL
+95,Minority Interest,12  Mar-17*,0.0,ATUL
+96,Prior Period Items,12  Mar-17*,47.0,ATUL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ATUL
+98,Tax,12  Mar-17*,1227.0,ATUL
+99,Profit after tax,12  Mar-17*,3234.0,ATUL
+100,Gross profit margin,12  Mar-17*,18.0,ATUL
+101,Effective tax rate,12  Mar-17*,27.8,ATUL
+102,Net profit margin,12  Mar-17*,11.4,ATUL
+103,Current assets,12  Mar-17*,11271.0,ATUL
+104,Current liabilities,12  Mar-17*,5876.0,ATUL
+105,Net working cap to sales,12  Mar-17*,19.0,ATUL
+106,Current ratio,12  Mar-17*,1.9,ATUL
+107,Inventory Days,12  Mar-17*,54.0,ATUL
+108,Debtors Days,12  Mar-17*,67.0,ATUL
+109,Net fixed assets,12  Mar-17*,10850.0,ATUL
+110,Share capital,12  Mar-17*,297.0,ATUL
+111,"""Free"" reserves",12  Mar-17*,19363.0,ATUL
+112,Net worth,12  Mar-17*,19659.0,ATUL
+113,Long term debt,12  Mar-17*,4.0,ATUL
+114,Total assets,12  Mar-17*,27271.0,ATUL
+115,Interest coverage,12  Mar-17*,18.5,ATUL
+116,Debt to equity ratio,12  Mar-17*,0.0,ATUL
+117,Sales to assets ratio,12  Mar-17*,1.0,ATUL
+118,Return on assets,12  Mar-17*,12.8,ATUL
+119,Return on equity,12  Mar-17*,16.4,ATUL
+120,Return on capital,12  Mar-17*,24.0,ATUL
+121,Exports to sales,12  Mar-17*,47.0,ATUL
+122,Imports to sales,12  Mar-17*,0.0,ATUL
+123,Exports (fob),12  Mar-17*,13325.0,ATUL
+124,Imports (cif),12  Mar-17*,0.0,ATUL
+125,Fx inflow,12  Mar-17*,13378.0,ATUL
+126,Fx outflow,12  Mar-17*,6292.0,ATUL
+127,Net fx,12  Mar-17*,7086.0,ATUL
+128,From Operations,12  Mar-17*,3917.0,ATUL
+129,From Investments,12  Mar-17*,-1732.0,ATUL
+130,From Financial Activity,12  Mar-17*,-2118.0,ATUL
+131,Net Cashflow,12  Mar-17*,54.0,ATUL
+132,Net Sales,12  Mar-18*,32958.0,ATUL
+133,Other income,12  Mar-18*,259.0,ATUL
+134,Total revenues,12  Mar-18*,33217.0,ATUL
+135,Gross profit,12  Mar-18*,5052.0,ATUL
+136,Depreciation,12  Mar-18*,1104.0,ATUL
+137,Interest,12  Mar-18*,127.0,ATUL
+138,Profit before tax,12  Mar-18*,4080.0,ATUL
+139,Minority Interest,12  Mar-18*,0.0,ATUL
+140,Prior Period Items,12  Mar-18*,42.0,ATUL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ATUL
+142,Tax,12  Mar-18*,1310.0,ATUL
+143,Profit after tax,12  Mar-18*,2812.0,ATUL
+144,Gross profit margin,12  Mar-18*,15.3,ATUL
+145,Effective tax rate,12  Mar-18*,32.1,ATUL
+146,Net profit margin,12  Mar-18*,8.5,ATUL
+147,Current assets,12  Mar-18*,13555.0,ATUL
+148,Current liabilities,12  Mar-18*,5687.0,ATUL
+149,Net working cap to sales,12  Mar-18*,23.9,ATUL
+150,Current ratio,12  Mar-18*,2.4,ATUL
+151,Inventory Days,12  Mar-18*,46.0,ATUL
+152,Debtors Days,12  Mar-18*,80.0,ATUL
+153,Net fixed assets,12  Mar-18*,11235.0,ATUL
+154,Share capital,12  Mar-18*,297.0,ATUL
+155,"""Free"" reserves",12  Mar-18*,22142.0,ATUL
+156,Net worth,12  Mar-18*,22439.0,ATUL
+157,Long term debt,12  Mar-18*,0.0,ATUL
+158,Total assets,12  Mar-18*,30136.0,ATUL
+159,Interest coverage,12  Mar-18*,33.0,ATUL
+160,Debt to equity ratio,12  Mar-18*,0.0,ATUL
+161,Sales to assets ratio,12  Mar-18*,1.1,ATUL
+162,Return on assets,12  Mar-18*,9.8,ATUL
+163,Return on equity,12  Mar-18*,12.5,ATUL
+164,Return on capital,12  Mar-18*,18.9,ATUL
+165,Exports to sales,12  Mar-18*,44.8,ATUL
+166,Imports to sales,12  Mar-18*,0.0,ATUL
+167,Exports (fob),12  Mar-18*,14777.0,ATUL
+168,Imports (cif),12  Mar-18*,0.0,ATUL
+169,Fx inflow,12  Mar-18*,14839.0,ATUL
+170,Fx outflow,12  Mar-18*,6717.0,ATUL
+171,Net fx,12  Mar-18*,8123.0,ATUL
+172,From Operations,12  Mar-18*,3557.0,ATUL
+173,From Investments,12  Mar-18*,-1301.0,ATUL
+174,From Financial Activity,12  Mar-18*,-2074.0,ATUL
+175,Net Cashflow,12  Mar-18*,192.0,ATUL
+176,Net Sales,12  Mar-19*,40378.0,ATUL
+177,Other income,12  Mar-19*,349.0,ATUL
+178,Total revenues,12  Mar-19*,40727.0,ATUL
+179,Gross profit,12  Mar-19*,7668.0,ATUL
+180,Depreciation,12  Mar-19*,1189.0,ATUL
+181,Interest,12  Mar-19*,74.0,ATUL
+182,Profit before tax,12  Mar-19*,6753.0,ATUL
+183,Minority Interest,12  Mar-19*,0.0,ATUL
+184,Prior Period Items,12  Mar-19*,50.0,ATUL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ATUL
+186,Tax,12  Mar-19*,2443.0,ATUL
+187,Profit after tax,12  Mar-19*,4360.0,ATUL
+188,Gross profit margin,12  Mar-19*,19.0,ATUL
+189,Effective tax rate,12  Mar-19*,36.2,ATUL
+190,Net profit margin,12  Mar-19*,10.8,ATUL
+191,Current assets,12  Mar-19*,16623.0,ATUL
+192,Current liabilities,12  Mar-19*,5772.0,ATUL
+193,Net working cap to sales,12  Mar-19*,26.9,ATUL
+194,Current ratio,12  Mar-19*,2.9,ATUL
+195,Inventory Days,12  Mar-19*,46.0,ATUL
+196,Debtors Days,12  Mar-19*,63.0,ATUL
+197,Net fixed assets,12  Mar-19*,12570.0,ATUL
+198,Share capital,12  Mar-19*,297.0,ATUL
+199,"""Free"" reserves",12  Mar-19*,26760.0,ATUL
+200,Net worth,12  Mar-19*,27057.0,ATUL
+201,Long term debt,12  Mar-19*,431.0,ATUL
+202,Total assets,12  Mar-19*,35440.0,ATUL
+203,Interest coverage,12  Mar-19*,92.1,ATUL
+204,Debt to equity ratio,12  Mar-19*,0.0,ATUL
+205,Sales to assets ratio,12  Mar-19*,1.1,ATUL
+206,Return on assets,12  Mar-19*,12.5,ATUL
+207,Return on equity,12  Mar-19*,16.1,ATUL
+208,Return on capital,12  Mar-19*,25.0,ATUL
+209,Exports to sales,12  Mar-19*,46.4,ATUL
+210,Imports to sales,12  Mar-19*,0.0,ATUL
+211,Exports (fob),12  Mar-19*,18743.0,ATUL
+212,Imports (cif),12  Mar-19*,0.0,ATUL
+213,Fx inflow,12  Mar-19*,18745.0,ATUL
+214,Fx outflow,12  Mar-19*,7648.0,ATUL
+215,Net fx,12  Mar-19*,11097.0,ATUL
+216,From Operations,12  Mar-19*,4036.0,ATUL
+217,From Investments,12  Mar-19*,-4075.0,ATUL
+218,From Financial Activity,12  Mar-19*,11.0,ATUL
+219,Net Cashflow,12  Mar-19*,-30.0,ATUL

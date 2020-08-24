@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,24227.0,BATA
+1,Other income,12  Mar-16*,266.0,BATA
+2,Total revenues,12  Mar-16*,24493.0,BATA
+3,Gross profit,12  Mar-16*,2758.0,BATA
+4,Depreciation,12  Mar-16*,788.0,BATA
+5,Interest,12  Mar-16*,17.0,BATA
+6,Profit before tax,12  Mar-16*,2218.0,BATA
+7,Minority Interest,12  Mar-16*,0.0,BATA
+8,Prior Period Items,12  Mar-16*,0.0,BATA
+9,Extraordinary Inc (Exp),12  Mar-16*,747.0,BATA
+10,Tax,12  Mar-16*,792.0,BATA
+11,Profit after tax,12  Mar-16*,2174.0,BATA
+12,Gross profit margin,12  Mar-16*,11.4,BATA
+13,Effective tax rate,12  Mar-16*,35.7,BATA
+14,Net profit margin,12  Mar-16*,9.0,BATA
+15,Current assets,12  Mar-16*,11576.0,BATA
+16,Current liabilities,12  Mar-16*,4093.0,BATA
+17,Net working cap to sales,12  Mar-16*,30.9,BATA
+18,Current ratio,12  Mar-16*,2.8,BATA
+19,Inventory Days,12  Mar-16*,103.0,BATA
+20,Debtors Days,12  Mar-16*,11.0,BATA
+21,Net fixed assets,12  Mar-16*,3169.0,BATA
+22,Share capital,12  Mar-16*,643.0,BATA
+23,"""Free"" reserves",12  Mar-16*,11567.0,BATA
+24,Net worth,12  Mar-16*,12209.0,BATA
+25,Long term debt,12  Mar-16*,0.0,BATA
+26,Total assets,12  Mar-16*,17331.0,BATA
+27,Interest coverage,12  Mar-16*,128.5,BATA
+28,Debt to equity ratio,12  Mar-16*,0.0,BATA
+29,Sales to assets ratio,12  Mar-16*,1.4,BATA
+30,Return on assets,12  Mar-16*,12.6,BATA
+31,Return on equity,12  Mar-16*,17.8,BATA
+32,Return on capital,12  Mar-16*,24.4,BATA
+33,Exports to sales,12  Mar-16*,0.6,BATA
+34,Imports to sales,12  Mar-16*,5.4,BATA
+35,Exports (fob),12  Mar-16*,140.0,BATA
+36,Imports (cif),12  Mar-16*,1298.0,BATA
+37,Fx inflow,12  Mar-16*,140.0,BATA
+38,Fx outflow,12  Mar-16*,2055.0,BATA
+39,Net fx,12  Mar-16*,-1916.0,BATA
+40,From Operations,12  Mar-16*,2036.0,BATA
+41,From Investments,12  Mar-16*,-1143.0,BATA
+42,From Financial Activity,12  Mar-16*,-519.0,BATA
+43,Net Cashflow,12  Mar-16*,375.0,BATA
+44,Net Sales,12  Mar-17*,24743.0,BATA
+45,Other income,12  Mar-17*,460.0,BATA
+46,Total revenues,12  Mar-17*,25203.0,BATA
+47,Gross profit,12  Mar-17*,2786.0,BATA
+48,Depreciation,12  Mar-17*,650.0,BATA
+49,Interest,12  Mar-17*,40.0,BATA
+50,Profit before tax,12  Mar-17*,2555.0,BATA
+51,Minority Interest,12  Mar-17*,0.0,BATA
+52,Prior Period Items,12  Mar-17*,0.0,BATA
+53,Extraordinary Inc (Exp),12  Mar-17*,-217.0,BATA
+54,Tax,12  Mar-17*,749.0,BATA
+55,Profit after tax,12  Mar-17*,1589.0,BATA
+56,Gross profit margin,12  Mar-17*,11.3,BATA
+57,Effective tax rate,12  Mar-17*,29.3,BATA
+58,Net profit margin,12  Mar-17*,6.4,BATA
+59,Current assets,12  Mar-17*,13619.0,BATA
+60,Current liabilities,12  Mar-17*,4948.0,BATA
+61,Net working cap to sales,12  Mar-17*,35.0,BATA
+62,Current ratio,12  Mar-17*,2.8,BATA
+63,Inventory Days,12  Mar-17*,105.0,BATA
+64,Debtors Days,12  Mar-17*,10.0,BATA
+65,Net fixed assets,12  Mar-17*,2908.0,BATA
+66,Share capital,12  Mar-17*,643.0,BATA
+67,"""Free"" reserves",12  Mar-17*,12601.0,BATA
+68,Net worth,12  Mar-17*,13243.0,BATA
+69,Long term debt,12  Mar-17*,0.0,BATA
+70,Total assets,12  Mar-17*,19231.0,BATA
+71,Interest coverage,12  Mar-17*,64.4,BATA
+72,Debt to equity ratio,12  Mar-17*,0.0,BATA
+73,Sales to assets ratio,12  Mar-17*,1.3,BATA
+74,Return on assets,12  Mar-17*,8.5,BATA
+75,Return on equity,12  Mar-17*,12.0,BATA
+76,Return on capital,12  Mar-17*,18.0,BATA
+77,Exports to sales,12  Mar-17*,0.0,BATA
+78,Imports to sales,12  Mar-17*,0.0,BATA
+79,Exports (fob),12  Mar-17*,0.0,BATA
+80,Imports (cif),12  Mar-17*,0.0,BATA
+81,Fx inflow,12  Mar-17*,365.0,BATA
+82,Fx outflow,12  Mar-17*,2035.0,BATA
+83,Net fx,12  Mar-17*,-1669.0,BATA
+84,From Operations,12  Mar-17*,2565.0,BATA
+85,From Investments,12  Mar-17*,-2288.0,BATA
+86,From Financial Activity,12  Mar-17*,-557.0,BATA
+87,Net Cashflow,12  Mar-17*,-280.0,BATA
+88,Net Sales,12  Mar-18*,26342.0,BATA
+89,Other income,12  Mar-18*,503.0,BATA
+90,Total revenues,12  Mar-18*,26845.0,BATA
+91,Gross profit,12  Mar-18*,3514.0,BATA
+92,Depreciation,12  Mar-18*,605.0,BATA
+93,Interest,12  Mar-18*,42.0,BATA
+94,Profit before tax,12  Mar-18*,3370.0,BATA
+95,Minority Interest,12  Mar-18*,0.0,BATA
+96,Prior Period Items,12  Mar-18*,0.0,BATA
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,BATA
+98,Tax,12  Mar-18*,1165.0,BATA
+99,Profit after tax,12  Mar-18*,2205.0,BATA
+100,Gross profit margin,12  Mar-18*,13.3,BATA
+101,Effective tax rate,12  Mar-18*,34.6,BATA
+102,Net profit margin,12  Mar-18*,8.4,BATA
+103,Current assets,12  Mar-18*,15549.0,BATA
+104,Current liabilities,12  Mar-18*,5608.0,BATA
+105,Net working cap to sales,12  Mar-18*,37.7,BATA
+106,Current ratio,12  Mar-18*,2.8,BATA
+107,Inventory Days,12  Mar-18*,106.0,BATA
+108,Debtors Days,12  Mar-18*,12.0,BATA
+109,Net fixed assets,12  Mar-18*,3070.0,BATA
+110,Share capital,12  Mar-18*,643.0,BATA
+111,"""Free"" reserves",12  Mar-18*,14104.0,BATA
+112,Net worth,12  Mar-18*,14747.0,BATA
+113,Long term debt,12  Mar-18*,0.0,BATA
+114,Total assets,12  Mar-18*,21414.0,BATA
+115,Interest coverage,12  Mar-18*,81.2,BATA
+116,Debt to equity ratio,12  Mar-18*,0.0,BATA
+117,Sales to assets ratio,12  Mar-18*,1.2,BATA
+118,Return on assets,12  Mar-18*,10.5,BATA
+119,Return on equity,12  Mar-18*,15.0,BATA
+120,Return on capital,12  Mar-18*,23.1,BATA
+121,Exports to sales,12  Mar-18*,0.0,BATA
+122,Imports to sales,12  Mar-18*,0.0,BATA
+123,Exports (fob),12  Mar-18*,0.0,BATA
+124,Imports (cif),12  Mar-18*,0.0,BATA
+125,Fx inflow,12  Mar-18*,161.0,BATA
+126,Fx outflow,12  Mar-18*,2648.0,BATA
+127,Net fx,12  Mar-18*,-2487.0,BATA
+128,From Operations,12  Mar-18*,1603.0,BATA
+129,From Investments,12  Mar-18*,-1119.0,BATA
+130,From Financial Activity,12  Mar-18*,-556.0,BATA
+131,Net Cashflow,12  Mar-18*,-72.0,BATA
+132,Net Sales,12  Mar-19*,29311.0,BATA
+133,Other income,12  Mar-19*,682.0,BATA
+134,Total revenues,12  Mar-19*,29993.0,BATA
+135,Gross profit,12  Mar-19*,4771.0,BATA
+136,Depreciation,12  Mar-19*,641.0,BATA
+137,Interest,12  Mar-19*,36.0,BATA
+138,Profit before tax,12  Mar-19*,4777.0,BATA
+139,Minority Interest,12  Mar-19*,0.0,BATA
+140,Prior Period Items,12  Mar-19*,0.0,BATA
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,BATA
+142,Tax,12  Mar-19*,1487.0,BATA
+143,Profit after tax,12  Mar-19*,3290.0,BATA
+144,Gross profit margin,12  Mar-19*,16.3,BATA
+145,Effective tax rate,12  Mar-19*,31.1,BATA
+146,Net profit margin,12  Mar-19*,11.2,BATA
+147,Current assets,12  Mar-19*,18405.0,BATA
+148,Current liabilities,12  Mar-19*,6297.0,BATA
+149,Net working cap to sales,12  Mar-19*,41.3,BATA
+150,Current ratio,12  Mar-19*,2.9,BATA
+151,Inventory Days,12  Mar-19*,105.0,BATA
+152,Debtors Days,12  Mar-19*,8.0,BATA
+153,Net fixed assets,12  Mar-19*,3300.0,BATA
+154,Share capital,12  Mar-19*,643.0,BATA
+155,"""Free"" reserves",12  Mar-19*,16776.0,BATA
+156,Net worth,12  Mar-19*,17418.0,BATA
+157,Long term debt,12  Mar-19*,0.0,BATA
+158,Total assets,12  Mar-19*,24741.0,BATA
+159,Interest coverage,12  Mar-19*,135.6,BATA
+160,Debt to equity ratio,12  Mar-19*,0.0,BATA
+161,Sales to assets ratio,12  Mar-19*,1.2,BATA
+162,Return on assets,12  Mar-19*,13.4,BATA
+163,Return on equity,12  Mar-19*,18.9,BATA
+164,Return on capital,12  Mar-19*,27.6,BATA
+165,Exports to sales,12  Mar-19*,0.0,BATA
+166,Imports to sales,12  Mar-19*,0.0,BATA
+167,Exports (fob),12  Mar-19*,0.0,BATA
+168,Imports (cif),12  Mar-19*,0.0,BATA
+169,Fx inflow,12  Mar-19*,130.0,BATA
+170,Fx outflow,12  Mar-19*,3420.0,BATA
+171,Net fx,12  Mar-19*,-3290.0,BATA
+172,From Operations,12  Mar-19*,3449.0,BATA
+173,From Investments,12  Mar-19*,-2777.0,BATA
+174,From Financial Activity,12  Mar-19*,-631.0,BATA
+175,Net Cashflow,12  Mar-19*,41.0,BATA
+176,Net Sales,12  Mar-20*,30561.0,BATA
+177,Other income,12  Mar-20*,687.0,BATA
+178,Total revenues,12  Mar-20*,31248.0,BATA
+179,Gross profit,12  Mar-20*,8321.0,BATA
+180,Depreciation,12  Mar-20*,2958.0,BATA
+181,Interest,12  Mar-20*,1177.0,BATA
+182,Profit before tax,12  Mar-20*,4872.0,BATA
+183,Minority Interest,12  Mar-20*,0.0,BATA
+184,Prior Period Items,12  Mar-20*,0.0,BATA
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,BATA
+186,Tax,12  Mar-20*,1583.0,BATA
+187,Profit after tax,12  Mar-20*,3290.0,BATA
+188,Gross profit margin,12  Mar-20*,27.2,BATA
+189,Effective tax rate,12  Mar-20*,32.5,BATA
+190,Net profit margin,12  Mar-20*,10.8,BATA
+191,Current assets,12  Mar-20*,20033.0,BATA
+192,Current liabilities,12  Mar-20*,8007.0,BATA
+193,Net working cap to sales,12  Mar-20*,39.3,BATA
+194,Current ratio,12  Mar-20*,2.5,BATA
+195,Inventory Days,12  Mar-20*,104.0,BATA
+196,Debtors Days,12  Mar-20*,8.0,BATA
+197,Net fixed assets,12  Mar-20*,13893.0,BATA
+198,Share capital,12  Mar-20*,643.0,BATA
+199,"""Free"" reserves",12  Mar-20*,18297.0,BATA
+200,Net worth,12  Mar-20*,18939.0,BATA
+201,Long term debt,12  Mar-20*,10354.0,BATA
+202,Total assets,12  Mar-20*,37325.0,BATA
+203,Interest coverage,12  Mar-20*,5.1,BATA
+204,Debt to equity ratio,12  Mar-20*,0.5,BATA
+205,Sales to assets ratio,12  Mar-20*,0.8,BATA
+206,Return on assets,12  Mar-20*,12.0,BATA
+207,Return on equity,12  Mar-20*,17.4,BATA
+208,Return on capital,12  Mar-20*,20.7,BATA
+209,Exports to sales,12  Mar-20*,0.0,BATA
+210,Imports to sales,12  Mar-20*,0.0,BATA
+211,Exports (fob),12  Mar-20*,0.0,BATA
+212,Imports (cif),12  Mar-20*,0.0,BATA
+213,Fx inflow,12  Mar-20*,202.0,BATA
+214,Fx outflow,12  Mar-20*,3047.0,BATA
+215,Net fx,12  Mar-20*,-2845.0,BATA
+216,From Operations,12  Mar-20*,5817.0,BATA
+217,From Investments,12  Mar-20*,-1890.0,BATA
+218,From Financial Activity,12  Mar-20*,-4361.0,BATA
+219,Net Cashflow,12  Mar-20*,-434.0,BATA

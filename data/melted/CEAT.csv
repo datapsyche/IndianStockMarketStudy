@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,57521.0,CEAT
+1,Other income,12  Mar-15*,224.0,CEAT
+2,Total revenues,12  Mar-15*,57745.0,CEAT
+3,Gross profit,12  Mar-15*,6807.0,CEAT
+4,Depreciation,12  Mar-15*,934.0,CEAT
+5,Interest,12  Mar-15*,1319.0,CEAT
+6,Profit before tax,12  Mar-15*,4777.0,CEAT
+7,Minority Interest,12  Mar-15*,33.0,CEAT
+8,Prior Period Items,12  Mar-15*,0.0,CEAT
+9,Extraordinary Inc (Exp),12  Mar-15*,-61.0,CEAT
+10,Tax,12  Mar-15*,1576.0,CEAT
+11,Profit after tax,12  Mar-15*,3172.0,CEAT
+12,Gross profit margin,12  Mar-15*,11.8,CEAT
+13,Effective tax rate,12  Mar-15*,33.0,CEAT
+14,Net profit margin,12  Mar-15*,5.5,CEAT
+15,Current assets,12  Mar-15*,18351.0,CEAT
+16,Current liabilities,12  Mar-15*,15166.0,CEAT
+17,Net working cap to sales,12  Mar-15*,5.5,CEAT
+18,Current ratio,12  Mar-15*,1.2,CEAT
+19,Inventory Days,12  Mar-15*,41.0,CEAT
+20,Debtors Days,12  Mar-15*,43.0,CEAT
+21,Net fixed assets,12  Mar-15*,17253.0,CEAT
+22,Share capital,12  Mar-15*,405.0,CEAT
+23,"""Free"" reserves",12  Mar-15*,16730.0,CEAT
+24,Net worth,12  Mar-15*,17134.0,CEAT
+25,Long term debt,12  Mar-15*,3517.0,CEAT
+26,Total assets,12  Mar-15*,37817.0,CEAT
+27,Interest coverage,12  Mar-15*,4.6,CEAT
+28,Debt to equity ratio,12  Mar-15*,0.2,CEAT
+29,Sales to assets ratio,12  Mar-15*,1.5,CEAT
+30,Return on assets,12  Mar-15*,11.9,CEAT
+31,Return on equity,12  Mar-15*,18.5,CEAT
+32,Return on capital,12  Mar-15*,29.4,CEAT
+33,Exports to sales,12  Mar-15*,17.0,CEAT
+34,Imports to sales,12  Mar-15*,25.5,CEAT
+35,Exports (fob),12  Mar-15*,9780.0,CEAT
+36,Imports (cif),12  Mar-15*,14647.0,CEAT
+37,Fx inflow,12  Mar-15*,9926.0,CEAT
+38,Fx outflow,12  Mar-15*,14824.0,CEAT
+39,Net fx,12  Mar-15*,-4898.0,CEAT
+40,From Operations,12  Mar-15*,7487.0,CEAT
+41,From Investments,12  Mar-15*,-2533.0,CEAT
+42,From Financial Activity,12  Mar-15*,-1940.0,CEAT
+43,Net Cashflow,12  Mar-15*,3014.0,CEAT
+44,Net Sales,12  Mar-16*,54836.0,CEAT
+45,Other income,12  Mar-16*,277.0,CEAT
+46,Total revenues,12  Mar-16*,55112.0,CEAT
+47,Gross profit,12  Mar-16*,7732.0,CEAT
+48,Depreciation,12  Mar-16*,1077.0,CEAT
+49,Interest,12  Mar-16*,949.0,CEAT
+50,Profit before tax,12  Mar-16*,5983.0,CEAT
+51,Minority Interest,12  Mar-16*,362.0,CEAT
+52,Prior Period Items,12  Mar-16*,0.0,CEAT
+53,Extraordinary Inc (Exp),12  Mar-16*,-114.0,CEAT
+54,Tax,12  Mar-16*,1873.0,CEAT
+55,Profit after tax,12  Mar-16*,4357.0,CEAT
+56,Gross profit margin,12  Mar-16*,14.1,CEAT
+57,Effective tax rate,12  Mar-16*,31.3,CEAT
+58,Net profit margin,12  Mar-16*,7.9,CEAT
+59,Current assets,12  Mar-16*,14932.0,CEAT
+60,Current liabilities,12  Mar-16*,12315.0,CEAT
+61,Net working cap to sales,12  Mar-16*,4.8,CEAT
+62,Current ratio,12  Mar-16*,1.2,CEAT
+63,Inventory Days,12  Mar-16*,43.0,CEAT
+64,Debtors Days,12  Mar-16*,40.0,CEAT
+65,Net fixed assets,12  Mar-16*,200909.0,CEAT
+66,Share capital,12  Mar-16*,405.0,CEAT
+67,"""Free"" reserves",12  Mar-16*,20143.0,CEAT
+68,Net worth,12  Mar-16*,20547.0,CEAT
+69,Long term debt,12  Mar-16*,5879.0,CEAT
+70,Total assets,12  Mar-16*,41080.0,CEAT
+71,Interest coverage,12  Mar-16*,7.3,CEAT
+72,Debt to equity ratio,12  Mar-16*,0.3,CEAT
+73,Sales to assets ratio,12  Mar-16*,1.3,CEAT
+74,Return on assets,12  Mar-16*,12.9,CEAT
+75,Return on equity,12  Mar-16*,21.2,CEAT
+76,Return on capital,12  Mar-16*,27.2,CEAT
+77,Exports to sales,12  Mar-16*,12.9,CEAT
+78,Imports to sales,12  Mar-16*,28.2,CEAT
+79,Exports (fob),12  Mar-16*,7098.0,CEAT
+80,Imports (cif),12  Mar-16*,15449.0,CEAT
+81,Fx inflow,12  Mar-16*,7270.0,CEAT
+82,Fx outflow,12  Mar-16*,15725.0,CEAT
+83,Net fx,12  Mar-16*,-8455.0,CEAT
+84,From Operations,12  Mar-16*,7021.0,CEAT
+85,From Investments,12  Mar-16*,-4326.0,CEAT
+86,From Financial Activity,12  Mar-16*,-3264.0,CEAT
+87,Net Cashflow,12  Mar-16*,-569.0,CEAT
+88,Net Sales,12  Mar-17*,57665.0,CEAT
+89,Other income,12  Mar-17*,186.0,CEAT
+90,Total revenues,12  Mar-17*,57851.0,CEAT
+91,Gross profit,12  Mar-17*,6568.0,CEAT
+92,Depreciation,12  Mar-17*,1431.0,CEAT
+93,Interest,12  Mar-17*,817.0,CEAT
+94,Profit before tax,12  Mar-17*,4506.0,CEAT
+95,Minority Interest,12  Mar-17*,284.0,CEAT
+96,Prior Period Items,12  Mar-17*,0.0,CEAT
+97,Extraordinary Inc (Exp),12  Mar-17*,-133.0,CEAT
+98,Tax,12  Mar-17*,1064.0,CEAT
+99,Profit after tax,12  Mar-17*,3592.0,CEAT
+100,Gross profit margin,12  Mar-17*,11.4,CEAT
+101,Effective tax rate,12  Mar-17*,23.6,CEAT
+102,Net profit margin,12  Mar-17*,6.2,CEAT
+103,Current assets,12  Mar-17*,18420.0,CEAT
+104,Current liabilities,12  Mar-17*,14079.0,CEAT
+105,Net working cap to sales,12  Mar-17*,7.5,CEAT
+106,Current ratio,12  Mar-17*,1.3,CEAT
+107,Inventory Days,12  Mar-17*,60.0,CEAT
+108,Debtors Days,12  Mar-17*,39.0,CEAT
+109,Net fixed assets,12  Mar-17*,27788.0,CEAT
+110,Share capital,12  Mar-17*,405.0,CEAT
+111,"""Free"" reserves",12  Mar-17*,23745.0,CEAT
+112,Net worth,12  Mar-17*,24150.0,CEAT
+113,Long term debt,12  Mar-17*,8524.0,CEAT
+114,Total assets,12  Mar-17*,49169.0,CEAT
+115,Interest coverage,12  Mar-17*,6.5,CEAT
+116,Debt to equity ratio,12  Mar-17*,0.4,CEAT
+117,Sales to assets ratio,12  Mar-17*,1.2,CEAT
+118,Return on assets,12  Mar-17*,9.0,CEAT
+119,Return on equity,12  Mar-17*,14.9,CEAT
+120,Return on capital,12  Mar-17*,16.8,CEAT
+121,Exports to sales,12  Mar-17*,0.0,CEAT
+122,Imports to sales,12  Mar-17*,0.0,CEAT
+123,Exports (fob),12  Mar-17*,0.0,CEAT
+124,Imports (cif),12  Mar-17*,0.0,CEAT
+125,Fx inflow,12  Mar-17*,7759.0,CEAT
+126,Fx outflow,12  Mar-17*,14425.0,CEAT
+127,Net fx,12  Mar-17*,-6666.0,CEAT
+128,From Operations,12  Mar-17*,3347.0,CEAT
+129,From Investments,12  Mar-17*,-5434.0,CEAT
+130,From Financial Activity,12  Mar-17*,2191.0,CEAT
+131,Net Cashflow,12  Mar-17*,104.0,CEAT
+132,Net Sales,12  Mar-18*,62834.0,CEAT
+133,Other income,12  Mar-18*,295.0,CEAT
+134,Total revenues,12  Mar-18*,63129.0,CEAT
+135,Gross profit,12  Mar-18*,6148.0,CEAT
+136,Depreciation,12  Mar-18*,1686.0,CEAT
+137,Interest,12  Mar-18*,974.0,CEAT
+138,Profit before tax,12  Mar-18*,3783.0,CEAT
+139,Minority Interest,12  Mar-18*,230.0,CEAT
+140,Prior Period Items,12  Mar-18*,0.0,CEAT
+141,Extraordinary Inc (Exp),12  Mar-18*,-340.0,CEAT
+142,Tax,12  Mar-18*,1340.0,CEAT
+143,Profit after tax,12  Mar-18*,2333.0,CEAT
+144,Gross profit margin,12  Mar-18*,9.8,CEAT
+145,Effective tax rate,12  Mar-18*,35.4,CEAT
+146,Net profit margin,12  Mar-18*,3.7,CEAT
+147,Current assets,12  Mar-18*,18146.0,CEAT
+148,Current liabilities,12  Mar-18*,18389.0,CEAT
+149,Net working cap to sales,12  Mar-18*,-0.4,CEAT
+150,Current ratio,12  Mar-18*,1.0,CEAT
+151,Inventory Days,12  Mar-18*,46.0,CEAT
+152,Debtors Days,12  Mar-18*,43.0,CEAT
+153,Net fixed assets,12  Mar-18*,30338.0,CEAT
+154,Share capital,12  Mar-18*,405.0,CEAT
+155,"""Free"" reserves",12  Mar-18*,25656.0,CEAT
+156,Net worth,12  Mar-18*,26061.0,CEAT
+157,Long term debt,12  Mar-18*,4512.0,CEAT
+158,Total assets,12  Mar-18*,51464.0,CEAT
+159,Interest coverage,12  Mar-18*,4.9,CEAT
+160,Debt to equity ratio,12  Mar-18*,0.2,CEAT
+161,Sales to assets ratio,12  Mar-18*,1.2,CEAT
+162,Return on assets,12  Mar-18*,6.4,CEAT
+163,Return on equity,12  Mar-18*,9.0,CEAT
+164,Return on capital,12  Mar-18*,15.2,CEAT
+165,Exports to sales,12  Mar-18*,0.0,CEAT
+166,Imports to sales,12  Mar-18*,0.0,CEAT
+167,Exports (fob),12  Mar-18*,0.0,CEAT
+168,Imports (cif),12  Mar-18*,0.0,CEAT
+169,Fx inflow,12  Mar-18*,7609.0,CEAT
+170,Fx outflow,12  Mar-18*,13856.0,CEAT
+171,Net fx,12  Mar-18*,-6247.0,CEAT
+172,From Operations,12  Mar-18*,6724.0,CEAT
+173,From Investments,12  Mar-18*,-4118.0,CEAT
+174,From Financial Activity,12  Mar-18*,-2025.0,CEAT
+175,Net Cashflow,12  Mar-18*,582.0,CEAT
+176,Net Sales,12  Mar-19*,69845.0,CEAT
+177,Other income,12  Mar-19*,390.0,CEAT
+178,Total revenues,12  Mar-19*,70235.0,CEAT
+179,Gross profit,12  Mar-19*,6425.0,CEAT
+180,Depreciation,12  Mar-19*,1927.0,CEAT
+181,Interest,12  Mar-19*,880.0,CEAT
+182,Profit before tax,12  Mar-19*,4008.0,CEAT
+183,Minority Interest,12  Mar-19*,202.0,CEAT
+184,Prior Period Items,12  Mar-19*,0.0,CEAT
+185,Extraordinary Inc (Exp),12  Mar-19*,-448.0,CEAT
+186,Tax,12  Mar-19*,1251.0,CEAT
+187,Profit after tax,12  Mar-19*,2511.0,CEAT
+188,Gross profit margin,12  Mar-19*,9.2,CEAT
+189,Effective tax rate,12  Mar-19*,31.2,CEAT
+190,Net profit margin,12  Mar-19*,3.6,CEAT
+191,Current assets,12  Mar-19*,20007.0,CEAT
+192,Current liabilities,12  Mar-19*,21296.0,CEAT
+193,Net working cap to sales,12  Mar-19*,-1.8,CEAT
+194,Current ratio,12  Mar-19*,0.9,CEAT
+195,Inventory Days,12  Mar-19*,53.0,CEAT
+196,Debtors Days,12  Mar-19*,37.0,CEAT
+197,Net fixed assets,12  Mar-19*,41938.0,CEAT
+198,Share capital,12  Mar-19*,405.0,CEAT
+199,"""Free"" reserves",12  Mar-19*,27257.0,CEAT
+200,Net worth,12  Mar-19*,27661.0,CEAT
+201,Long term debt,12  Mar-19*,12226.0,CEAT
+202,Total assets,12  Mar-19*,64049.0,CEAT
+203,Interest coverage,12  Mar-19*,5.6,CEAT
+204,Debt to equity ratio,12  Mar-19*,0.4,CEAT
+205,Sales to assets ratio,12  Mar-19*,1.1,CEAT
+206,Return on assets,12  Mar-19*,5.3,CEAT
+207,Return on equity,12  Mar-19*,9.1,CEAT
+208,Return on capital,12  Mar-19*,11.6,CEAT
+209,Exports to sales,12  Mar-19*,0.0,CEAT
+210,Imports to sales,12  Mar-19*,0.0,CEAT
+211,Exports (fob),12  Mar-19*,0.0,CEAT
+212,Imports (cif),12  Mar-19*,0.0,CEAT
+213,Fx inflow,12  Mar-19*,8471.0,CEAT
+214,Fx outflow,12  Mar-19*,20094.0,CEAT
+215,Net fx,12  Mar-19*,-11623.0,CEAT
+216,From Operations,12  Mar-19*,5527.0,CEAT
+217,From Investments,12  Mar-19*,-10517.0,CEAT
+218,From Financial Activity,12  Mar-19*,4844.0,CEAT
+219,Net Cashflow,12  Mar-19*,-146.0,CEAT

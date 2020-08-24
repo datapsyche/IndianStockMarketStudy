@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,5713.0,NDTV
+1,Other income,12  Mar-15*,149.0,NDTV
+2,Total revenues,12  Mar-15*,5862.0,NDTV
+3,Gross profit,12  Mar-15*,181.0,NDTV
+4,Depreciation,12  Mar-15*,247.0,NDTV
+5,Interest,12  Mar-15*,215.0,NDTV
+6,Profit before tax,12  Mar-15*,-132.0,NDTV
+7,Minority Interest,12  Mar-15*,3.0,NDTV
+8,Prior Period Items,12  Mar-15*,17.0,NDTV
+9,Extraordinary Inc (Exp),12  Mar-15*,-78.0,NDTV
+10,Tax,12  Mar-15*,250.0,NDTV
+11,Profit after tax,12  Mar-15*,-440.0,NDTV
+12,Gross profit margin,12  Mar-15*,3.2,NDTV
+13,Effective tax rate,12  Mar-15*,-189.4,NDTV
+14,Net profit margin,12  Mar-15*,-7.7,NDTV
+15,Current assets,12  Mar-15*,4336.0,NDTV
+16,Current liabilities,12  Mar-15*,2880.0,NDTV
+17,Net working cap to sales,12  Mar-15*,25.5,NDTV
+18,Current ratio,12  Mar-15*,1.5,NDTV
+19,Inventory Days,12  Mar-15*,7.0,NDTV
+20,Debtors Days,12  Mar-15*,118.0,NDTV
+21,Net fixed assets,12  Mar-15*,986.0,NDTV
+22,Share capital,12  Mar-15*,258.0,NDTV
+23,"""Free"" reserves",12  Mar-15*,314.0,NDTV
+24,Net worth,12  Mar-15*,741.0,NDTV
+25,Long term debt,12  Mar-15*,397.0,NDTV
+26,Total assets,12  Mar-15*,5864.0,NDTV
+27,Interest coverage,12  Mar-15*,0.4,NDTV
+28,Debt to equity ratio,12  Mar-15*,0.5,NDTV
+29,Sales to assets ratio,12  Mar-15*,1.0,NDTV
+30,Return on assets,12  Mar-15*,-3.8,NDTV
+31,Return on equity,12  Mar-15*,-59.4,NDTV
+32,Return on capital,12  Mar-15*,2.2,NDTV
+33,Exports to sales,12  Mar-15*,0.0,NDTV
+34,Imports to sales,12  Mar-15*,0.5,NDTV
+35,Exports (fob),12  Mar-15*,0.0,NDTV
+36,Imports (cif),12  Mar-15*,31.0,NDTV
+37,Fx inflow,12  Mar-15*,232.0,NDTV
+38,Fx outflow,12  Mar-15*,210.0,NDTV
+39,Net fx,12  Mar-15*,22.0,NDTV
+40,From Operations,12  Mar-15*,-187.0,NDTV
+41,From Investments,12  Mar-15*,590.0,NDTV
+42,From Financial Activity,12  Mar-15*,-215.0,NDTV
+43,Net Cashflow,12  Mar-15*,188.0,NDTV
+44,Net Sales,12  Mar-16*,5658.0,NDTV
+45,Other income,12  Mar-16*,114.0,NDTV
+46,Total revenues,12  Mar-16*,5772.0,NDTV
+47,Gross profit,12  Mar-16*,-338.0,NDTV
+48,Depreciation,12  Mar-16*,249.0,NDTV
+49,Interest,12  Mar-16*,208.0,NDTV
+50,Profit before tax,12  Mar-16*,-681.0,NDTV
+51,Minority Interest,12  Mar-16*,192.0,NDTV
+52,Prior Period Items,12  Mar-16*,17.0,NDTV
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,NDTV
+54,Tax,12  Mar-16*,75.0,NDTV
+55,Profit after tax,12  Mar-16*,-547.0,NDTV
+56,Gross profit margin,12  Mar-16*,-6.0,NDTV
+57,Effective tax rate,12  Mar-16*,-11.0,NDTV
+58,Net profit margin,12  Mar-16*,-9.7,NDTV
+59,Current assets,12  Mar-16*,3407.0,NDTV
+60,Current liabilities,12  Mar-16*,3020.0,NDTV
+61,Net working cap to sales,12  Mar-16*,6.8,NDTV
+62,Current ratio,12  Mar-16*,1.1,NDTV
+63,Inventory Days,12  Mar-16*,9.0,NDTV
+64,Debtors Days,12  Mar-16*,81.0,NDTV
+65,Net fixed assets,12  Mar-16*,892.0,NDTV
+66,Share capital,12  Mar-16*,258.0,NDTV
+67,"""Free"" reserves",12  Mar-16*,1246.0,NDTV
+68,Net worth,12  Mar-16*,1504.0,NDTV
+69,Long term debt,12  Mar-16*,192.0,NDTV
+70,Total assets,12  Mar-16*,4960.0,NDTV
+71,Interest coverage,12  Mar-16*,-2.3,NDTV
+72,Debt to equity ratio,12  Mar-16*,0.1,NDTV
+73,Sales to assets ratio,12  Mar-16*,1.1,NDTV
+74,Return on assets,12  Mar-16*,-6.8,NDTV
+75,Return on equity,12  Mar-16*,-36.4,NDTV
+76,Return on capital,12  Mar-16*,-15.6,NDTV
+77,Exports to sales,12  Mar-16*,0.0,NDTV
+78,Imports to sales,12  Mar-16*,0.3,NDTV
+79,Exports (fob),12  Mar-16*,0.0,NDTV
+80,Imports (cif),12  Mar-16*,18.0,NDTV
+81,Fx inflow,12  Mar-16*,351.0,NDTV
+82,Fx outflow,12  Mar-16*,173.0,NDTV
+83,Net fx,12  Mar-16*,178.0,NDTV
+84,From Operations,12  Mar-16*,-35.0,NDTV
+85,From Investments,12  Mar-16*,-157.0,NDTV
+86,From Financial Activity,12  Mar-16*,-61.0,NDTV
+87,Net Cashflow,12  Mar-16*,-253.0,NDTV
+88,Net Sales,12  Mar-17*,4900.0,NDTV
+89,Other income,12  Mar-17*,115.0,NDTV
+90,Total revenues,12  Mar-17*,5015.0,NDTV
+91,Gross profit,12  Mar-17*,-423.0,NDTV
+92,Depreciation,12  Mar-17*,185.0,NDTV
+93,Interest,12  Mar-17*,218.0,NDTV
+94,Profit before tax,12  Mar-17*,-711.0,NDTV
+95,Minority Interest,12  Mar-17*,2.0,NDTV
+96,Prior Period Items,12  Mar-17*,0.0,NDTV
+97,Extraordinary Inc (Exp),12  Mar-17*,-74.0,NDTV
+98,Tax,12  Mar-17*,79.0,NDTV
+99,Profit after tax,12  Mar-17*,-862.0,NDTV
+100,Gross profit margin,12  Mar-17*,-8.6,NDTV
+101,Effective tax rate,12  Mar-17*,-11.1,NDTV
+102,Net profit margin,12  Mar-17*,-17.6,NDTV
+103,Current assets,12  Mar-17*,3374.0,NDTV
+104,Current liabilities,12  Mar-17*,3034.0,NDTV
+105,Net working cap to sales,12  Mar-17*,6.9,NDTV
+106,Current ratio,12  Mar-17*,1.1,NDTV
+107,Inventory Days,12  Mar-17*,1.0,NDTV
+108,Debtors Days,12  Mar-17*,114.0,NDTV
+109,Net fixed assets,12  Mar-17*,848.0,NDTV
+110,Share capital,12  Mar-17*,258.0,NDTV
+111,"""Free"" reserves",12  Mar-17*,773.0,NDTV
+112,Net worth,12  Mar-17*,1031.0,NDTV
+113,Long term debt,12  Mar-17*,474.0,NDTV
+114,Total assets,12  Mar-17*,4779.0,NDTV
+115,Interest coverage,12  Mar-17*,-2.3,NDTV
+116,Debt to equity ratio,12  Mar-17*,0.5,NDTV
+117,Sales to assets ratio,12  Mar-17*,1.0,NDTV
+118,Return on assets,12  Mar-17*,-13.5,NDTV
+119,Return on equity,12  Mar-17*,-83.6,NDTV
+120,Return on capital,12  Mar-17*,-37.5,NDTV
+121,Exports to sales,12  Mar-17*,0.0,NDTV
+122,Imports to sales,12  Mar-17*,0.0,NDTV
+123,Exports (fob),12  Mar-17*,0.0,NDTV
+124,Imports (cif),12  Mar-17*,0.0,NDTV
+125,Fx inflow,12  Mar-17*,394.0,NDTV
+126,Fx outflow,12  Mar-17*,135.0,NDTV
+127,Net fx,12  Mar-17*,259.0,NDTV
+128,From Operations,12  Mar-17*,-73.0,NDTV
+129,From Investments,12  Mar-17*,90.0,NDTV
+130,From Financial Activity,12  Mar-17*,-61.0,NDTV
+131,Net Cashflow,12  Mar-17*,-43.0,NDTV
+132,Net Sales,12  Mar-18*,4256.0,NDTV
+133,Other income,12  Mar-18*,141.0,NDTV
+134,Total revenues,12  Mar-18*,4397.0,NDTV
+135,Gross profit,12  Mar-18*,-397.0,NDTV
+136,Depreciation,12  Mar-18*,155.0,NDTV
+137,Interest,12  Mar-18*,206.0,NDTV
+138,Profit before tax,12  Mar-18*,-617.0,NDTV
+139,Minority Interest,12  Mar-18*,17.0,NDTV
+140,Prior Period Items,12  Mar-18*,0.0,NDTV
+141,Extraordinary Inc (Exp),12  Mar-18*,-136.0,NDTV
+142,Tax,12  Mar-18*,108.0,NDTV
+143,Profit after tax,12  Mar-18*,-844.0,NDTV
+144,Gross profit margin,12  Mar-18*,-9.3,NDTV
+145,Effective tax rate,12  Mar-18*,-17.5,NDTV
+146,Net profit margin,12  Mar-18*,-19.8,NDTV
+147,Current assets,12  Mar-18*,3667.0,NDTV
+148,Current liabilities,12  Mar-18*,3696.0,NDTV
+149,Net working cap to sales,12  Mar-18*,-0.7,NDTV
+150,Current ratio,12  Mar-18*,1.0,NDTV
+151,Inventory Days,12  Mar-18*,2.0,NDTV
+152,Debtors Days,12  Mar-18*,121.0,NDTV
+153,Net fixed assets,12  Mar-18*,1406.0,NDTV
+154,Share capital,12  Mar-18*,258.0,NDTV
+155,"""Free"" reserves",12  Mar-18*,234.0,NDTV
+156,Net worth,12  Mar-18*,492.0,NDTV
+157,Long term debt,12  Mar-18*,653.0,NDTV
+158,Total assets,12  Mar-18*,5035.0,NDTV
+159,Interest coverage,12  Mar-18*,-2.0,NDTV
+160,Debt to equity ratio,12  Mar-18*,1.3,NDTV
+161,Sales to assets ratio,12  Mar-18*,0.8,NDTV
+162,Return on assets,12  Mar-18*,-12.7,NDTV
+163,Return on equity,12  Mar-18*,-171.5,NDTV
+164,Return on capital,12  Mar-18*,-46.3,NDTV
+165,Exports to sales,12  Mar-18*,0.0,NDTV
+166,Imports to sales,12  Mar-18*,0.0,NDTV
+167,Exports (fob),12  Mar-18*,0.0,NDTV
+168,Imports (cif),12  Mar-18*,0.0,NDTV
+169,Fx inflow,12  Mar-18*,363.0,NDTV
+170,Fx outflow,12  Mar-18*,130.0,NDTV
+171,Net fx,12  Mar-18*,233.0,NDTV
+172,From Operations,12  Mar-18*,412.0,NDTV
+173,From Investments,12  Mar-18*,52.0,NDTV
+174,From Financial Activity,12  Mar-18*,22.0,NDTV
+175,Net Cashflow,12  Mar-18*,486.0,NDTV
+176,Net Sales,12  Mar-19*,3985.0,NDTV
+177,Other income,12  Mar-19*,252.0,NDTV
+178,Total revenues,12  Mar-19*,4237.0,NDTV
+179,Gross profit,12  Mar-19*,506.0,NDTV
+180,Depreciation,12  Mar-19*,155.0,NDTV
+181,Interest,12  Mar-19*,277.0,NDTV
+182,Profit before tax,12  Mar-19*,326.0,NDTV
+183,Minority Interest,12  Mar-19*,-81.0,NDTV
+184,Prior Period Items,12  Mar-19*,0.0,NDTV
+185,Extraordinary Inc (Exp),12  Mar-19*,-40.0,NDTV
+186,Tax,12  Mar-19*,92.0,NDTV
+187,Profit after tax,12  Mar-19*,113.0,NDTV
+188,Gross profit margin,12  Mar-19*,12.7,NDTV
+189,Effective tax rate,12  Mar-19*,28.2,NDTV
+190,Net profit margin,12  Mar-19*,2.8,NDTV
+191,Current assets,12  Mar-19*,3477.0,NDTV
+192,Current liabilities,12  Mar-19*,3466.0,NDTV
+193,Net working cap to sales,12  Mar-19*,0.3,NDTV
+194,Current ratio,12  Mar-19*,1.0,NDTV
+195,Inventory Days,12  Mar-19*,1.0,NDTV
+196,Debtors Days,12  Mar-19*,124.0,NDTV
+197,Net fixed assets,12  Mar-19*,1357.0,NDTV
+198,Share capital,12  Mar-19*,258.0,NDTV
+199,"""Free"" reserves",12  Mar-19*,400.0,NDTV
+200,Net worth,12  Mar-19*,658.0,NDTV
+201,Long term debt,12  Mar-19*,515.0,NDTV
+202,Total assets,12  Mar-19*,4928.0,NDTV
+203,Interest coverage,12  Mar-19*,2.2,NDTV
+204,Debt to equity ratio,12  Mar-19*,0.8,NDTV
+205,Sales to assets ratio,12  Mar-19*,0.8,NDTV
+206,Return on assets,12  Mar-19*,7.9,NDTV
+207,Return on equity,12  Mar-19*,17.2,NDTV
+208,Return on capital,12  Mar-19*,41.1,NDTV
+209,Exports to sales,12  Mar-19*,0.0,NDTV
+210,Imports to sales,12  Mar-19*,0.0,NDTV
+211,Exports (fob),12  Mar-19*,0.0,NDTV
+212,Imports (cif),12  Mar-19*,0.0,NDTV
+213,Fx inflow,12  Mar-19*,257.0,NDTV
+214,Fx outflow,12  Mar-19*,106.0,NDTV
+215,Net fx,12  Mar-19*,151.0,NDTV
+216,From Operations,12  Mar-19*,261.0,NDTV
+217,From Investments,12  Mar-19*,-192.0,NDTV
+218,From Financial Activity,12  Mar-19*,-570.0,NDTV
+219,Net Cashflow,12  Mar-19*,-501.0,NDTV

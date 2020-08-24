@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-16*,631616.0,HDBK
+1,Other income,12  Mar-16*,112117.0,HDBK
+2,Interest expense,12  Mar-16*,340696.0,HDBK
+3,Net interest income,12  Mar-16*,290920.0,HDBK
+4,Operating expense,12  Mar-16*,178319.0,HDBK
+5,Provisions/contingencies,12  Mar-16*,29608.0,HDBK
+6,Profit before tax,12  Mar-16*,194715.0,HDBK
+7,Extraordinary Inc (Exp),12  Mar-16*,0.0,HDBK
+8,Minority Interest,12  Mar-16*,197.0,HDBK
+9,Prior Period Items,12  Mar-16*,37.0,HDBK
+10,Tax,12  Mar-16*,66937.0,HDBK
+11,Profit after tax,12  Mar-16*,128013.0,HDBK
+12,Net profit margin,12  Mar-16*,20.3,HDBK
+13,Advances,12  Mar-16*,4872904.0,HDBK
+14,Deposits,12  Mar-16*,5458733.0,HDBK
+15,Credit/Deposit ratio,12  Mar-16*,89.3,HDBK
+16,Yield on advances,12  Mar-16*,9.8,HDBK
+17,Cost of deposits,12  Mar-16*,5.3,HDBK
+18,Net Interest Margin,12  Mar-16*,4.0,HDBK
+19,Net fixed assets,12  Mar-16*,34797.0,HDBK
+20,Share capital,12  Mar-16*,5056.0,HDBK
+21,Free reserves,12  Mar-16*,568152.0,HDBK
+22,Net worth,12  Mar-16*,743041.0,HDBK
+23,Borrowings,12  Mar-16*,1037140.0,HDBK
+24,Investments,12  Mar-16*,1936339.0,HDBK
+25,Total assets,12  Mar-16*,7622123.0,HDBK
+26,Debt/equity ratio,12  Mar-16*,8.7,HDBK
+27,Return on assets,12  Mar-16*,1.7,HDBK
+28,Return on equity,12  Mar-16*,17.2,HDBK
+29,Capital adequacy ratio,12  Mar-16*,15.5,HDBK
+30,Net NPAs,12  Mar-16*,0.3,HDBK
+31,From Operations,12  Mar-16*,-344354.0,HDBK
+32,From Investments,12  Mar-16*,-8656.0,HDBK
+33,From Financial Activity,12  Mar-16*,378151.0,HDBK
+34,Net Cashflow,12  Mar-16*,25142.0,HDBK
+35,Interest income,12  Mar-17*,732714.0,HDBK
+36,Other income,12  Mar-17*,128776.0,HDBK
+37,Interest expense,12  Mar-17*,380416.0,HDBK
+38,Net interest income,12  Mar-17*,352298.0,HDBK
+39,Operating expense,12  Mar-17*,207511.0,HDBK
+40,Provisions/contingencies,12  Mar-17*,39908.0,HDBK
+41,Profit before tax,12  Mar-17*,232921.0,HDBK
+42,Extraordinary Inc (Exp),12  Mar-17*,0.0,HDBK
+43,Minority Interest,12  Mar-17*,367.0,HDBK
+44,Prior Period Items,12  Mar-17*,23.0,HDBK
+45,Tax,12  Mar-17*,80781.0,HDBK
+46,Profit after tax,12  Mar-17*,152530.0,HDBK
+47,Net profit margin,12  Mar-17*,20.8,HDBK
+48,Advances,12  Mar-17*,5854810.0,HDBK
+49,Deposits,12  Mar-17*,6431343.0,HDBK
+50,Credit/Deposit ratio,12  Mar-17*,91.0,HDBK
+51,Yield on advances,12  Mar-17*,9.6,HDBK
+52,Cost of deposits,12  Mar-17*,4.9,HDBK
+53,Net Interest Margin,12  Mar-17*,4.2,HDBK
+54,Net fixed assets,12  Mar-17*,38147.0,HDBK
+55,Share capital,12  Mar-17*,5125.0,HDBK
+56,Free reserves,12  Mar-17*,702033.0,HDBK
+57,Net worth,12  Mar-17*,917940.0,HDBK
+58,Borrowings,12  Mar-17*,984156.0,HDBK
+59,Investments,12  Mar-17*,2107771.0,HDBK
+60,Total assets,12  Mar-17*,8923442.0,HDBK
+61,Debt/equity ratio,12  Mar-17*,8.1,HDBK
+62,Return on assets,12  Mar-17*,1.7,HDBK
+63,Return on equity,12  Mar-17*,16.6,HDBK
+64,Capital adequacy ratio,12  Mar-17*,14.6,HDBK
+65,Net NPAs,12  Mar-17*,0.3,HDBK
+66,From Operations,12  Mar-17*,172816.0,HDBK
+67,From Investments,12  Mar-17*,-11477.0,HDBK
+68,From Financial Activity,12  Mar-17*,-58930.0,HDBK
+69,Net Cashflow,12  Mar-17*,102409.0,HDBK
+70,Interest income,12  Mar-18*,852878.0,HDBK
+71,Other income,12  Mar-18*,160566.0,HDBK
+72,Interest expense,12  Mar-18*,423815.0,HDBK
+73,Net interest income,12  Mar-18*,429064.0,HDBK
+74,Operating expense,12  Mar-18*,239272.0,HDBK
+75,Provisions/contingencies,12  Mar-18*,65718.0,HDBK
+76,Profit before tax,12  Mar-18*,283612.0,HDBK
+77,Extraordinary Inc (Exp),12  Mar-18*,0.0,HDBK
+78,Minority Interest,12  Mar-18*,513.0,HDBK
+79,Prior Period Items,12  Mar-18*,5.0,HDBK
+80,Tax,12  Mar-18*,99031.0,HDBK
+81,Profit after tax,12  Mar-18*,185100.0,HDBK
+82,Net profit margin,12  Mar-18*,21.7,HDBK
+83,Advances,12  Mar-18*,7000338.0,HDBK
+84,Deposits,12  Mar-18*,7883751.0,HDBK
+85,Credit/Deposit ratio,12  Mar-18*,88.8,HDBK
+86,Yield on advances,12  Mar-18*,9.7,HDBK
+87,Cost of deposits,12  Mar-18*,4.2,HDBK
+88,Net Interest Margin,12  Mar-18*,4.0,HDBK
+89,Net fixed assets,12  Mar-18*,38106.0,HDBK
+90,Share capital,12  Mar-18*,5190.0,HDBK
+91,Free reserves,12  Mar-18*,832486.0,HDBK
+92,Net worth,12  Mar-18*,1095991.0,HDBK
+93,Borrowings,12  Mar-18*,1564421.0,HDBK
+94,Investments,12  Mar-18*,2384609.0,HDBK
+95,Total assets,12  Mar-18*,11031862.0,HDBK
+96,Debt/equity ratio,12  Mar-18*,8.6,HDBK
+97,Return on assets,12  Mar-18*,1.7,HDBK
+98,Return on equity,12  Mar-18*,16.9,HDBK
+99,Capital adequacy ratio,12  Mar-18*,14.8,HDBK
+100,Net NPAs,12  Mar-18*,0.4,HDBK
+101,From Operations,12  Mar-18*,172144.0,HDBK
+102,From Investments,12  Mar-18*,-8522.0,HDBK
+103,From Financial Activity,12  Mar-18*,573777.0,HDBK
+104,Net Cashflow,12  Mar-18*,737399.0,HDBK
+105,Interest income,12  Mar-19*,1051607.0,HDBK
+106,Other income,12  Mar-19*,189471.0,HDBK
+107,Interest expense,12  Mar-19*,537127.0,HDBK
+108,Net interest income,12  Mar-19*,514481.0,HDBK
+109,Operating expense,12  Mar-19*,276948.0,HDBK
+110,Provisions/contingencies,12  Mar-19*,83822.0,HDBK
+111,Profit before tax,12  Mar-19*,340918.0,HDBK
+112,Extraordinary Inc (Exp),12  Mar-19*,0.0,HDBK
+113,Minority Interest,12  Mar-19*,1132.0,HDBK
+114,Prior Period Items,12  Mar-19*,0.0,HDBK
+115,Tax,12  Mar-19*,118726.0,HDBK
+116,Profit after tax,12  Mar-19*,223324.0,HDBK
+117,Net profit margin,12  Mar-19*,21.2,HDBK
+118,Advances,12  Mar-19*,8692227.0,HDBK
+119,Deposits,12  Mar-19*,9225027.0,HDBK
+120,Credit/Deposit ratio,12  Mar-19*,94.2,HDBK
+121,Yield on advances,12  Mar-19*,9.6,HDBK
+122,Cost of deposits,12  Mar-19*,4.4,HDBK
+123,Net Interest Margin,12  Mar-19*,4.1,HDBK
+124,Net fixed assets,12  Mar-19*,42198.0,HDBK
+125,Share capital,12  Mar-19*,5447.0,HDBK
+126,Free reserves,12  Mar-19*,1531280.0,HDBK
+127,Net worth,12  Mar-19*,1536727.0,HDBK
+128,Borrowings,12  Mar-19*,1577328.0,HDBK
+129,Investments,12  Mar-19*,2894459.0,HDBK
+130,Total assets,12  Mar-19*,12928057.0,HDBK
+131,Debt/equity ratio,12  Mar-19*,7.0,HDBK
+132,Return on assets,12  Mar-19*,1.7,HDBK
+133,Return on equity,12  Mar-19*,14.5,HDBK
+134,Capital adequacy ratio,12  Mar-19*,17.1,HDBK
+135,Net NPAs,12  Mar-19*,0.4,HDBK
+136,From Operations,12  Mar-19*,-628715.0,HDBK
+137,From Investments,12  Mar-19*,-15984.0,HDBK
+138,From Financial Activity,12  Mar-19*,231307.0,HDBK
+139,Net Cashflow,12  Mar-19*,-412439.0,HDBK
+140,Interest income,12  Mar-20*,1221893.0,HDBK
+141,Other income,12  Mar-20*,248790.0,HDBK
+142,Interest expense,12  Mar-20*,621374.0,HDBK
+143,Net interest income,12  Mar-20*,600519.0,HDBK
+144,Operating expense,12  Mar-20*,330361.0,HDBK
+145,Provisions/contingencies,12  Mar-20*,142487.0,HDBK
+146,Profit before tax,12  Mar-20*,375615.0,HDBK
+147,Extraordinary Inc (Exp),12  Mar-20*,0.0,HDBK
+148,Minority Interest,12  Mar-20*,423.0,HDBK
+149,Prior Period Items,12  Mar-20*,0.0,HDBK
+150,Tax,12  Mar-20*,103498.0,HDBK
+151,Profit after tax,12  Mar-20*,272540.0,HDBK
+152,Net profit margin,12  Mar-20*,22.3,HDBK
+153,Advances,12  Mar-20*,10436709.0,HDBK
+154,Deposits,12  Mar-20*,11462071.0,HDBK
+155,Credit/Deposit ratio,12  Mar-20*,91.1,HDBK
+156,Yield on advances,12  Mar-20*,9.5,HDBK
+157,Cost of deposits,12  Mar-20*,4.4,HDBK
+158,Net Interest Margin,12  Mar-20*,3.9,HDBK
+159,Net fixed assets,12  Mar-20*,46269.0,HDBK
+160,Share capital,12  Mar-20*,5483.0,HDBK
+161,Free reserves,12  Mar-20*,1758104.0,HDBK
+162,Net worth,12  Mar-20*,1763587.0,HDBK
+163,Borrowings,12  Mar-20*,1868343.0,HDBK
+164,Investments,12  Mar-20*,3893050.0,HDBK
+165,Total assets,12  Mar-20*,15808304.0,HDBK
+166,Debt/equity ratio,12  Mar-20*,7.6,HDBK
+167,Return on assets,12  Mar-20*,1.7,HDBK
+168,Return on equity,12  Mar-20*,15.5,HDBK
+169,Capital adequacy ratio,12  Mar-20*,18.5,HDBK
+170,Net NPAs,12  Mar-20*,0.4,HDBK
+171,From Operations,12  Mar-20*,-168691.0,HDBK
+172,From Investments,12  Mar-20*,-16169.0,HDBK
+173,From Financial Activity,12  Mar-20*,243945.0,HDBK
+174,Net Cashflow,12  Mar-20*,61225.0,HDBK

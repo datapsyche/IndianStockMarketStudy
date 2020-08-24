@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,27089.0,IRSY
+1,Other income,12  Mar-15*,97.0,IRSY
+2,Total revenues,12  Mar-15*,27186.0,IRSY
+3,Gross profit,12  Mar-15*,1224.0,IRSY
+4,Depreciation,12  Mar-15*,1172.0,IRSY
+5,Interest,12  Mar-15*,434.0,IRSY
+6,Profit before tax,12  Mar-15*,-285.0,IRSY
+7,Minority Interest,12  Mar-15*,0.0,IRSY
+8,Prior Period Items,12  Mar-15*,0.0,IRSY
+9,Extraordinary Inc (Exp),12  Mar-15*,-57.0,IRSY
+10,Tax,12  Mar-15*,-125.0,IRSY
+11,Profit after tax,12  Mar-15*,-217.0,IRSY
+12,Gross profit margin,12  Mar-15*,4.5,IRSY
+13,Effective tax rate,12  Mar-15*,43.8,IRSY
+14,Net profit margin,12  Mar-15*,-0.8,IRSY
+15,Current assets,12  Mar-15*,6543.0,IRSY
+16,Current liabilities,12  Mar-15*,9036.0,IRSY
+17,Net working cap to sales,12  Mar-15*,-9.2,IRSY
+18,Current ratio,12  Mar-15*,0.7,IRSY
+19,Inventory Days,12  Mar-15*,37.0,IRSY
+20,Debtors Days,12  Mar-15*,16.0,IRSY
+21,Net fixed assets,12  Mar-15*,11401.0,IRSY
+22,Share capital,12  Mar-15*,1518.0,IRSY
+23,"""Free"" reserves",12  Mar-15*,3613.0,IRSY
+24,Net worth,12  Mar-15*,5484.0,IRSY
+25,Long term debt,12  Mar-15*,2426.0,IRSY
+26,Total assets,12  Mar-15*,18880.0,IRSY
+27,Interest coverage,12  Mar-15*,0.3,IRSY
+28,Debt to equity ratio,12  Mar-15*,0.4,IRSY
+29,Sales to assets ratio,12  Mar-15*,1.4,IRSY
+30,Return on assets,12  Mar-15*,1.1,IRSY
+31,Return on equity,12  Mar-15*,-4.0,IRSY
+32,Return on capital,12  Mar-15*,1.2,IRSY
+33,Exports to sales,12  Mar-15*,22.0,IRSY
+34,Imports to sales,12  Mar-15*,49.4,IRSY
+35,Exports (fob),12  Mar-15*,5967.0,IRSY
+36,Imports (cif),12  Mar-15*,13378.0,IRSY
+37,Fx inflow,12  Mar-15*,8415.0,IRSY
+38,Fx outflow,12  Mar-15*,13530.0,IRSY
+39,Net fx,12  Mar-15*,-5115.0,IRSY
+40,From Operations,12  Mar-15*,2213.0,IRSY
+41,From Investments,12  Mar-15*,-28.0,IRSY
+42,From Financial Activity,12  Mar-15*,-2085.0,IRSY
+43,Net Cashflow,12  Mar-15*,101.0,IRSY
+44,Net Sales,12  Mar-16*,24648.0,IRSY
+45,Other income,12  Mar-16*,309.0,IRSY
+46,Total revenues,12  Mar-16*,24956.0,IRSY
+47,Gross profit,12  Mar-16*,932.0,IRSY
+48,Depreciation,12  Mar-16*,778.0,IRSY
+49,Interest,12  Mar-16*,517.0,IRSY
+50,Profit before tax,12  Mar-16*,-54.0,IRSY
+51,Minority Interest,12  Mar-16*,0.0,IRSY
+52,Prior Period Items,12  Mar-16*,0.0,IRSY
+53,Extraordinary Inc (Exp),12  Mar-16*,-545.0,IRSY
+54,Tax,12  Mar-16*,-1157.0,IRSY
+55,Profit after tax,12  Mar-16*,558.0,IRSY
+56,Gross profit margin,12  Mar-16*,3.8,IRSY
+57,Effective tax rate,12  Mar-16*,2161.9,IRSY
+58,Net profit margin,12  Mar-16*,2.3,IRSY
+59,Current assets,12  Mar-16*,7670.0,IRSY
+60,Current liabilities,12  Mar-16*,11045.0,IRSY
+61,Net working cap to sales,12  Mar-16*,-13.7,IRSY
+62,Current ratio,12  Mar-16*,0.7,IRSY
+63,Inventory Days,12  Mar-16*,38.0,IRSY
+64,Debtors Days,12  Mar-16*,31.0,IRSY
+65,Net fixed assets,12  Mar-16*,11350.0,IRSY
+66,Share capital,12  Mar-16*,1518.0,IRSY
+67,"""Free"" reserves",12  Mar-16*,4000.0,IRSY
+68,Net worth,12  Mar-16*,5863.0,IRSY
+69,Long term debt,12  Mar-16*,2240.0,IRSY
+70,Total assets,12  Mar-16*,19339.0,IRSY
+71,Interest coverage,12  Mar-16*,0.9,IRSY
+72,Debt to equity ratio,12  Mar-16*,0.4,IRSY
+73,Sales to assets ratio,12  Mar-16*,1.3,IRSY
+74,Return on assets,12  Mar-16*,5.6,IRSY
+75,Return on equity,12  Mar-16*,9.5,IRSY
+76,Return on capital,12  Mar-16*,-1.0,IRSY
+77,Exports to sales,12  Mar-16*,15.7,IRSY
+78,Imports to sales,12  Mar-16*,27.6,IRSY
+79,Exports (fob),12  Mar-16*,3880.0,IRSY
+80,Imports (cif),12  Mar-16*,6811.0,IRSY
+81,Fx inflow,12  Mar-16*,4176.0,IRSY
+82,Fx outflow,12  Mar-16*,6894.0,IRSY
+83,Net fx,12  Mar-16*,-2718.0,IRSY
+84,From Operations,12  Mar-16*,1519.0,IRSY
+85,From Investments,12  Mar-16*,-288.0,IRSY
+86,From Financial Activity,12  Mar-16*,-1397.0,IRSY
+87,Net Cashflow,12  Mar-16*,-166.0,IRSY
+88,Net Sales,12  Mar-17*,24680.0,IRSY
+89,Other income,12  Mar-17*,285.0,IRSY
+90,Total revenues,12  Mar-17*,24966.0,IRSY
+91,Gross profit,12  Mar-17*,88.0,IRSY
+92,Depreciation,12  Mar-17*,795.0,IRSY
+93,Interest,12  Mar-17*,911.0,IRSY
+94,Profit before tax,12  Mar-17*,-1333.0,IRSY
+95,Minority Interest,12  Mar-17*,0.0,IRSY
+96,Prior Period Items,12  Mar-17*,0.0,IRSY
+97,Extraordinary Inc (Exp),12  Mar-17*,-47.0,IRSY
+98,Tax,12  Mar-17*,-540.0,IRSY
+99,Profit after tax,12  Mar-17*,-840.0,IRSY
+100,Gross profit margin,12  Mar-17*,0.4,IRSY
+101,Effective tax rate,12  Mar-17*,40.5,IRSY
+102,Net profit margin,12  Mar-17*,-3.4,IRSY
+103,Current assets,12  Mar-17*,6113.0,IRSY
+104,Current liabilities,12  Mar-17*,11061.0,IRSY
+105,Net working cap to sales,12  Mar-17*,-20.0,IRSY
+106,Current ratio,12  Mar-17*,0.6,IRSY
+107,Inventory Days,12  Mar-17*,29.0,IRSY
+108,Debtors Days,12  Mar-17*,20.0,IRSY
+109,Net fixed assets,12  Mar-17*,9089.0,IRSY
+110,Share capital,12  Mar-17*,1518.0,IRSY
+111,"""Free"" reserves",12  Mar-17*,3499.0,IRSY
+112,Net worth,12  Mar-17*,5017.0,IRSY
+113,Long term debt,12  Mar-17*,809.0,IRSY
+114,Total assets,12  Mar-17*,16078.0,IRSY
+115,Interest coverage,12  Mar-17*,-0.5,IRSY
+116,Debt to equity ratio,12  Mar-17*,0.2,IRSY
+117,Sales to assets ratio,12  Mar-17*,1.5,IRSY
+118,Return on assets,12  Mar-17*,0.4,IRSY
+119,Return on equity,12  Mar-17*,-16.7,IRSY
+120,Return on capital,12  Mar-17*,-8.1,IRSY
+121,Exports to sales,12  Mar-17*,19.8,IRSY
+122,Imports to sales,12  Mar-17*,13.4,IRSY
+123,Exports (fob),12  Mar-17*,4885.0,IRSY
+124,Imports (cif),12  Mar-17*,3310.0,IRSY
+125,Fx inflow,12  Mar-17*,4885.0,IRSY
+126,Fx outflow,12  Mar-17*,3310.0,IRSY
+127,Net fx,12  Mar-17*,1574.0,IRSY
+128,From Operations,12  Mar-17*,392.0,IRSY
+129,From Investments,12  Mar-17*,526.0,IRSY
+130,From Financial Activity,12  Mar-17*,-926.0,IRSY
+131,Net Cashflow,12  Mar-17*,-8.0,IRSY
+132,Net Sales,12  Mar-18*,22556.0,IRSY
+133,Other income,12  Mar-18*,37.0,IRSY
+134,Total revenues,12  Mar-18*,22594.0,IRSY
+135,Gross profit,12  Mar-18*,563.0,IRSY
+136,Depreciation,12  Mar-18*,832.0,IRSY
+137,Interest,12  Mar-18*,944.0,IRSY
+138,Profit before tax,12  Mar-18*,-1175.0,IRSY
+139,Minority Interest,12  Mar-18*,0.0,IRSY
+140,Prior Period Items,12  Mar-18*,0.0,IRSY
+141,Extraordinary Inc (Exp),12  Mar-18*,-74.0,IRSY
+142,Tax,12  Mar-18*,-422.0,IRSY
+143,Profit after tax,12  Mar-18*,-827.0,IRSY
+144,Gross profit margin,12  Mar-18*,2.5,IRSY
+145,Effective tax rate,12  Mar-18*,35.9,IRSY
+146,Net profit margin,12  Mar-18*,-3.7,IRSY
+147,Current assets,12  Mar-18*,5211.0,IRSY
+148,Current liabilities,12  Mar-18*,10197.0,IRSY
+149,Net working cap to sales,12  Mar-18*,-22.1,IRSY
+150,Current ratio,12  Mar-18*,0.5,IRSY
+151,Inventory Days,12  Mar-18*,19.0,IRSY
+152,Debtors Days,12  Mar-18*,18.0,IRSY
+153,Net fixed assets,12  Mar-18*,8424.0,IRSY
+154,Share capital,12  Mar-18*,1518.0,IRSY
+155,"""Free"" reserves",12  Mar-18*,2679.0,IRSY
+156,Net worth,12  Mar-18*,4197.0,IRSY
+157,Long term debt,12  Mar-18*,368.0,IRSY
+158,Total assets,12  Mar-18*,14973.0,IRSY
+159,Interest coverage,12  Mar-18*,-0.2,IRSY
+160,Debt to equity ratio,12  Mar-18*,0.1,IRSY
+161,Sales to assets ratio,12  Mar-18*,1.5,IRSY
+162,Return on assets,12  Mar-18*,0.8,IRSY
+163,Return on equity,12  Mar-18*,-19.7,IRSY
+164,Return on capital,12  Mar-18*,-6.7,IRSY
+165,Exports to sales,12  Mar-18*,15.8,IRSY
+166,Imports to sales,12  Mar-18*,8.4,IRSY
+167,Exports (fob),12  Mar-18*,3562.0,IRSY
+168,Imports (cif),12  Mar-18*,1886.0,IRSY
+169,Fx inflow,12  Mar-18*,3562.0,IRSY
+170,Fx outflow,12  Mar-18*,1886.0,IRSY
+171,Net fx,12  Mar-18*,1676.0,IRSY
+172,From Operations,12  Mar-18*,281.0,IRSY
+173,From Investments,12  Mar-18*,-58.0,IRSY
+174,From Financial Activity,12  Mar-18*,-145.0,IRSY
+175,Net Cashflow,12  Mar-18*,77.0,IRSY
+176,Net Sales,12  Mar-19*,16946.0,IRSY
+177,Other income,12  Mar-19*,48.0,IRSY
+178,Total revenues,12  Mar-19*,16994.0,IRSY
+179,Gross profit,12  Mar-19*,-969.0,IRSY
+180,Depreciation,12  Mar-19*,830.0,IRSY
+181,Interest,12  Mar-19*,1313.0,IRSY
+182,Profit before tax,12  Mar-19*,-3065.0,IRSY
+183,Minority Interest,12  Mar-19*,0.0,IRSY
+184,Prior Period Items,12  Mar-19*,0.0,IRSY
+185,Extraordinary Inc (Exp),12  Mar-19*,-1152.0,IRSY
+186,Tax,12  Mar-19*,-1506.0,IRSY
+187,Profit after tax,12  Mar-19*,-2711.0,IRSY
+188,Gross profit margin,12  Mar-19*,-5.7,IRSY
+189,Effective tax rate,12  Mar-19*,49.1,IRSY
+190,Net profit margin,12  Mar-19*,-16.0,IRSY
+191,Current assets,12  Mar-19*,5525.0,IRSY
+192,Current liabilities,12  Mar-19*,11048.0,IRSY
+193,Net working cap to sales,12  Mar-19*,-32.6,IRSY
+194,Current ratio,12  Mar-19*,0.5,IRSY
+195,Inventory Days,12  Mar-19*,40.0,IRSY
+196,Debtors Days,12  Mar-19*,13.0,IRSY
+197,Net fixed assets,12  Mar-19*,7617.0,IRSY
+198,Share capital,12  Mar-19*,1781.0,IRSY
+199,"""Free"" reserves",12  Mar-19*,631.0,IRSY
+200,Net worth,12  Mar-19*,2412.0,IRSY
+201,Long term debt,12  Mar-19*,2220.0,IRSY
+202,Total assets,12  Mar-19*,15902.0,IRSY
+203,Interest coverage,12  Mar-19*,-1.3,IRSY
+204,Debt to equity ratio,12  Mar-19*,0.9,IRSY
+205,Sales to assets ratio,12  Mar-19*,1.1,IRSY
+206,Return on assets,12  Mar-19*,-8.8,IRSY
+207,Return on equity,12  Mar-19*,-112.4,IRSY
+208,Return on capital,12  Mar-19*,-62.7,IRSY
+209,Exports to sales,12  Mar-19*,15.1,IRSY
+210,Imports to sales,12  Mar-19*,1.7,IRSY
+211,Exports (fob),12  Mar-19*,2560.0,IRSY
+212,Imports (cif),12  Mar-19*,286.0,IRSY
+213,Fx inflow,12  Mar-19*,2560.0,IRSY
+214,Fx outflow,12  Mar-19*,286.0,IRSY
+215,Net fx,12  Mar-19*,2273.0,IRSY
+216,From Operations,12  Mar-19*,-2111.0,IRSY
+217,From Investments,12  Mar-19*,171.0,IRSY
+218,From Financial Activity,12  Mar-19*,1853.0,IRSY
+219,Net Cashflow,12  Mar-19*,-87.0,IRSY

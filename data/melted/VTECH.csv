@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,24352.0,VTECH
+1,Other income,12  Mar-15*,78.0,VTECH
+2,Total revenues,12  Mar-15*,24429.0,VTECH
+3,Gross profit,12  Mar-15*,2095.0,VTECH
+4,Depreciation,12  Mar-15*,109.0,VTECH
+5,Interest,12  Mar-15*,392.0,VTECH
+6,Profit before tax,12  Mar-15*,1671.0,VTECH
+7,Minority Interest,12  Mar-15*,-20.0,VTECH
+8,Prior Period Items,12  Mar-15*,16.0,VTECH
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,VTECH
+10,Tax,12  Mar-15*,566.0,VTECH
+11,Profit after tax,12  Mar-15*,1101.0,VTECH
+12,Gross profit margin,12  Mar-15*,8.6,VTECH
+13,Effective tax rate,12  Mar-15*,33.9,VTECH
+14,Net profit margin,12  Mar-15*,4.5,VTECH
+15,Current assets,12  Mar-15*,19011.0,VTECH
+16,Current liabilities,12  Mar-15*,12772.0,VTECH
+17,Net working cap to sales,12  Mar-15*,25.6,VTECH
+18,Current ratio,12  Mar-15*,1.5,VTECH
+19,Inventory Days,12  Mar-15*,7.0,VTECH
+20,Debtors Days,12  Mar-15*,199.0,VTECH
+21,Net fixed assets,12  Mar-15*,1945.0,VTECH
+22,Share capital,12  Mar-15*,109.0,VTECH
+23,"""Free"" reserves",12  Mar-15*,8163.0,VTECH
+24,Net worth,12  Mar-15*,8272.0,VTECH
+25,Long term debt,12  Mar-15*,693.0,VTECH
+26,Total assets,12  Mar-15*,24228.0,VTECH
+27,Interest coverage,12  Mar-15*,5.3,VTECH
+28,Debt to equity ratio,12  Mar-15*,0.1,VTECH
+29,Sales to assets ratio,12  Mar-15*,1.0,VTECH
+30,Return on assets,12  Mar-15*,6.2,VTECH
+31,Return on equity,12  Mar-15*,13.3,VTECH
+32,Return on capital,12  Mar-15*,23.0,VTECH
+33,Exports to sales,12  Mar-15*,11.9,VTECH
+34,Imports to sales,12  Mar-15*,0.9,VTECH
+35,Exports (fob),12  Mar-15*,2907.0,VTECH
+36,Imports (cif),12  Mar-15*,216.0,VTECH
+37,Fx inflow,12  Mar-15*,2907.0,VTECH
+38,Fx outflow,12  Mar-15*,734.0,VTECH
+39,Net fx,12  Mar-15*,2173.0,VTECH
+40,From Operations,12  Mar-15*,56.0,VTECH
+41,From Investments,12  Mar-15*,-676.0,VTECH
+42,From Financial Activity,12  Mar-15*,22.0,VTECH
+43,Net Cashflow,12  Mar-15*,-599.0,VTECH
+44,Net Sales,12  Mar-16*,25083.0,VTECH
+45,Other income,12  Mar-16*,79.0,VTECH
+46,Total revenues,12  Mar-16*,25162.0,VTECH
+47,Gross profit,12  Mar-16*,2330.0,VTECH
+48,Depreciation,12  Mar-16*,205.0,VTECH
+49,Interest,12  Mar-16*,457.0,VTECH
+50,Profit before tax,12  Mar-16*,1746.0,VTECH
+51,Minority Interest,12  Mar-16*,-175.0,VTECH
+52,Prior Period Items,12  Mar-16*,0.0,VTECH
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,VTECH
+54,Tax,12  Mar-16*,668.0,VTECH
+55,Profit after tax,12  Mar-16*,903.0,VTECH
+56,Gross profit margin,12  Mar-16*,9.3,VTECH
+57,Effective tax rate,12  Mar-16*,38.3,VTECH
+58,Net profit margin,12  Mar-16*,3.6,VTECH
+59,Current assets,12  Mar-16*,23445.0,VTECH
+60,Current liabilities,12  Mar-16*,17706.0,VTECH
+61,Net working cap to sales,12  Mar-16*,22.9,VTECH
+62,Current ratio,12  Mar-16*,1.3,VTECH
+63,Inventory Days,12  Mar-16*,14.0,VTECH
+64,Debtors Days,12  Mar-16*,241.0,VTECH
+65,Net fixed assets,12  Mar-16*,1798.0,VTECH
+66,Share capital,12  Mar-16*,109.0,VTECH
+67,"""Free"" reserves",12  Mar-16*,9094.0,VTECH
+68,Net worth,12  Mar-16*,9203.0,VTECH
+69,Long term debt,12  Mar-16*,501.0,VTECH
+70,Total assets,12  Mar-16*,29216.0,VTECH
+71,Interest coverage,12  Mar-16*,4.8,VTECH
+72,Debt to equity ratio,12  Mar-16*,0.1,VTECH
+73,Sales to assets ratio,12  Mar-16*,0.9,VTECH
+74,Return on assets,12  Mar-16*,4.7,VTECH
+75,Return on equity,12  Mar-16*,9.8,VTECH
+76,Return on capital,12  Mar-16*,20.9,VTECH
+77,Exports to sales,12  Mar-16*,11.8,VTECH
+78,Imports to sales,12  Mar-16*,0.8,VTECH
+79,Exports (fob),12  Mar-16*,2963.0,VTECH
+80,Imports (cif),12  Mar-16*,208.0,VTECH
+81,Fx inflow,12  Mar-16*,2963.0,VTECH
+82,Fx outflow,12  Mar-16*,525.0,VTECH
+83,Net fx,12  Mar-16*,2438.0,VTECH
+84,From Operations,12  Mar-16*,-2173.0,VTECH
+85,From Investments,12  Mar-16*,966.0,VTECH
+86,From Financial Activity,12  Mar-16*,1816.0,VTECH
+87,Net Cashflow,12  Mar-16*,859.0,VTECH
+88,Net Sales,12  Mar-17*,32079.0,VTECH
+89,Other income,12  Mar-17*,112.0,VTECH
+90,Total revenues,12  Mar-17*,32191.0,VTECH
+91,Gross profit,12  Mar-17*,2966.0,VTECH
+92,Depreciation,12  Mar-17*,191.0,VTECH
+93,Interest,12  Mar-17*,526.0,VTECH
+94,Profit before tax,12  Mar-17*,2362.0,VTECH
+95,Minority Interest,12  Mar-17*,-573.0,VTECH
+96,Prior Period Items,12  Mar-17*,0.0,VTECH
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,VTECH
+98,Tax,12  Mar-17*,667.0,VTECH
+99,Profit after tax,12  Mar-17*,1122.0,VTECH
+100,Gross profit margin,12  Mar-17*,9.2,VTECH
+101,Effective tax rate,12  Mar-17*,28.2,VTECH
+102,Net profit margin,12  Mar-17*,3.5,VTECH
+103,Current assets,12  Mar-17*,27003.0,VTECH
+104,Current liabilities,12  Mar-17*,20707.0,VTECH
+105,Net working cap to sales,12  Mar-17*,19.6,VTECH
+106,Current ratio,12  Mar-17*,1.3,VTECH
+107,Inventory Days,12  Mar-17*,4.0,VTECH
+108,Debtors Days,12  Mar-17*,242.0,VTECH
+109,Net fixed assets,12  Mar-17*,1776.0,VTECH
+110,Share capital,12  Mar-17*,109.0,VTECH
+111,"""Free"" reserves",12  Mar-17*,9822.0,VTECH
+112,Net worth,12  Mar-17*,9931.0,VTECH
+113,Long term debt,12  Mar-17*,632.0,VTECH
+114,Total assets,12  Mar-17*,33506.0,VTECH
+115,Interest coverage,12  Mar-17*,5.5,VTECH
+116,Debt to equity ratio,12  Mar-17*,0.1,VTECH
+117,Sales to assets ratio,12  Mar-17*,1.0,VTECH
+118,Return on assets,12  Mar-17*,4.9,VTECH
+119,Return on equity,12  Mar-17*,11.3,VTECH
+120,Return on capital,12  Mar-17*,21.9,VTECH
+121,Exports to sales,12  Mar-17*,0.0,VTECH
+122,Imports to sales,12  Mar-17*,0.0,VTECH
+123,Exports (fob),12  Mar-17*,0.0,VTECH
+124,Imports (cif),12  Mar-17*,0.0,VTECH
+125,Fx inflow,12  Mar-17*,5117.0,VTECH
+126,Fx outflow,12  Mar-17*,527.0,VTECH
+127,Net fx,12  Mar-17*,4590.0,VTECH
+128,From Operations,12  Mar-17*,61.0,VTECH
+129,From Investments,12  Mar-17*,608.0,VTECH
+130,From Financial Activity,12  Mar-17*,-1265.0,VTECH
+131,Net Cashflow,12  Mar-17*,-680.0,VTECH
+132,Net Sales,12  Mar-18*,34573.0,VTECH
+133,Other income,12  Mar-18*,57.0,VTECH
+134,Total revenues,12  Mar-18*,34629.0,VTECH
+135,Gross profit,12  Mar-18*,2918.0,VTECH
+136,Depreciation,12  Mar-18*,178.0,VTECH
+137,Interest,12  Mar-18*,577.0,VTECH
+138,Profit before tax,12  Mar-18*,2219.0,VTECH
+139,Minority Interest,12  Mar-18*,26.0,VTECH
+140,Prior Period Items,12  Mar-18*,0.0,VTECH
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,VTECH
+142,Tax,12  Mar-18*,774.0,VTECH
+143,Profit after tax,12  Mar-18*,1471.0,VTECH
+144,Gross profit margin,12  Mar-18*,8.4,VTECH
+145,Effective tax rate,12  Mar-18*,34.9,VTECH
+146,Net profit margin,12  Mar-18*,4.3,VTECH
+147,Current assets,12  Mar-18*,30198.0,VTECH
+148,Current liabilities,12  Mar-18*,22947.0,VTECH
+149,Net working cap to sales,12  Mar-18*,21.0,VTECH
+150,Current ratio,12  Mar-18*,1.3,VTECH
+151,Inventory Days,12  Mar-18*,4.0,VTECH
+152,Debtors Days,12  Mar-18*,138.0,VTECH
+153,Net fixed assets,12  Mar-18*,1768.0,VTECH
+154,Share capital,12  Mar-18*,109.0,VTECH
+155,"""Free"" reserves",12  Mar-18*,11177.0,VTECH
+156,Net worth,12  Mar-18*,11287.0,VTECH
+157,Long term debt,12  Mar-18*,499.0,VTECH
+158,Total assets,12  Mar-18*,37303.0,VTECH
+159,Interest coverage,12  Mar-18*,4.8,VTECH
+160,Debt to equity ratio,12  Mar-18*,0.0,VTECH
+161,Sales to assets ratio,12  Mar-18*,0.9,VTECH
+162,Return on assets,12  Mar-18*,5.5,VTECH
+163,Return on equity,12  Mar-18*,13.0,VTECH
+164,Return on capital,12  Mar-18*,23.9,VTECH
+165,Exports to sales,12  Mar-18*,0.0,VTECH
+166,Imports to sales,12  Mar-18*,0.0,VTECH
+167,Exports (fob),12  Mar-18*,0.0,VTECH
+168,Imports (cif),12  Mar-18*,0.0,VTECH
+169,Fx inflow,12  Mar-18*,7763.0,VTECH
+170,Fx outflow,12  Mar-18*,852.0,VTECH
+171,Net fx,12  Mar-18*,6911.0,VTECH
+172,From Operations,12  Mar-18*,-2158.0,VTECH
+173,From Investments,12  Mar-18*,-108.0,VTECH
+174,From Financial Activity,12  Mar-18*,1061.0,VTECH
+175,Net Cashflow,12  Mar-18*,-1062.0,VTECH
+176,Net Sales,12  Mar-19*,27810.0,VTECH
+177,Other income,12  Mar-19*,44.0,VTECH
+178,Total revenues,12  Mar-19*,27853.0,VTECH
+179,Gross profit,12  Mar-19*,1941.0,VTECH
+180,Depreciation,12  Mar-19*,168.0,VTECH
+181,Interest,12  Mar-19*,753.0,VTECH
+182,Profit before tax,12  Mar-19*,1064.0,VTECH
+183,Minority Interest,12  Mar-19*,33.0,VTECH
+184,Prior Period Items,12  Mar-19*,0.0,VTECH
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,VTECH
+186,Tax,12  Mar-19*,205.0,VTECH
+187,Profit after tax,12  Mar-19*,892.0,VTECH
+188,Gross profit margin,12  Mar-19*,7.0,VTECH
+189,Effective tax rate,12  Mar-19*,19.3,VTECH
+190,Net profit margin,12  Mar-19*,3.2,VTECH
+191,Current assets,12  Mar-19*,30901.0,VTECH
+192,Current liabilities,12  Mar-19*,24197.0,VTECH
+193,Net working cap to sales,12  Mar-19*,24.1,VTECH
+194,Current ratio,12  Mar-19*,1.3,VTECH
+195,Inventory Days,12  Mar-19*,2.0,VTECH
+196,Debtors Days,12  Mar-19*,177.0,VTECH
+197,Net fixed assets,12  Mar-19*,1570.0,VTECH
+198,Share capital,12  Mar-19*,109.0,VTECH
+199,"""Free"" reserves",12  Mar-19*,10580.0,VTECH
+200,Net worth,12  Mar-19*,10689.0,VTECH
+201,Long term debt,12  Mar-19*,960.0,VTECH
+202,Total assets,12  Mar-19*,37785.0,VTECH
+203,Interest coverage,12  Mar-19*,2.4,VTECH
+204,Debt to equity ratio,12  Mar-19*,0.1,VTECH
+205,Sales to assets ratio,12  Mar-19*,0.7,VTECH
+206,Return on assets,12  Mar-19*,4.4,VTECH
+207,Return on equity,12  Mar-19*,8.3,VTECH
+208,Return on capital,12  Mar-19*,15.9,VTECH
+209,Exports to sales,12  Mar-19*,0.0,VTECH
+210,Imports to sales,12  Mar-19*,0.0,VTECH
+211,Exports (fob),12  Mar-19*,0.0,VTECH
+212,Imports (cif),12  Mar-19*,0.0,VTECH
+213,Fx inflow,12  Mar-19*,6452.0,VTECH
+214,Fx outflow,12  Mar-19*,2514.0,VTECH
+215,Net fx,12  Mar-19*,3938.0,VTECH
+216,From Operations,12  Mar-19*,-763.0,VTECH
+217,From Investments,12  Mar-19*,112.0,VTECH
+218,From Financial Activity,12  Mar-19*,486.0,VTECH
+219,Net Cashflow,12  Mar-19*,-184.0,VTECH

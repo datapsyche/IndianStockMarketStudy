@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,74159.0,NHPC
+1,Other income,12  Mar-14*,13221.0,NHPC
+2,Total revenues,12  Mar-14*,87380.0,NHPC
+3,Gross profit,12  Mar-14*,43833.0,NHPC
+4,Depreciation,12  Mar-14*,14994.0,NHPC
+5,Interest,12  Mar-14*,11802.0,NHPC
+6,Profit before tax,12  Mar-14*,30258.0,NHPC
+7,Minority Interest,12  Mar-14*,-4144.0,NHPC
+8,Prior Period Items,12  Mar-14*,-4972.0,NHPC
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,NHPC
+10,Tax,12  Mar-14*,8954.0,NHPC
+11,Profit after tax,12  Mar-14*,12188.0,NHPC
+12,Gross profit margin,12  Mar-14*,59.1,NHPC
+13,Effective tax rate,12  Mar-14*,29.6,NHPC
+14,Net profit margin,12  Mar-14*,16.4,NHPC
+15,Current assets,12  Mar-14*,134075.0,NHPC
+16,Current liabilities,12  Mar-14*,72928.0,NHPC
+17,Net working cap to sales,12  Mar-14*,82.5,NHPC
+18,Current ratio,12  Mar-14*,1.8,NHPC
+19,Inventory Days,12  Mar-14*,4.0,NHPC
+20,Debtors Days,12  Mar-14*,119.0,NHPC
+21,Net fixed assets,12  Mar-14*,445108.0,NHPC
+22,Share capital,12  Mar-14*,110707.0,NHPC
+23,"""Free"" reserves",12  Mar-14*,146579.0,NHPC
+24,Net worth,12  Mar-14*,282460.0,NHPC
+25,Long term debt,12  Mar-14*,193090.0,NHPC
+26,Total assets,12  Mar-14*,614011.0,NHPC
+27,Interest coverage,12  Mar-14*,3.6,NHPC
+28,Debt to equity ratio,12  Mar-14*,0.7,NHPC
+29,Sales to assets ratio,12  Mar-14*,0.1,NHPC
+30,Return on assets,12  Mar-14*,3.9,NHPC
+31,Return on equity,12  Mar-14*,4.3,NHPC
+32,Return on capital,12  Mar-14*,6.9,NHPC
+33,Exports to sales,12  Mar-14*,0.0,NHPC
+34,Imports to sales,12  Mar-14*,0.1,NHPC
+35,Exports (fob),12  Mar-14*,0.0,NHPC
+36,Imports (cif),12  Mar-14*,93.0,NHPC
+37,Fx inflow,12  Mar-14*,1.0,NHPC
+38,Fx outflow,12  Mar-14*,2707.0,NHPC
+39,Net fx,12  Mar-14*,-2706.0,NHPC
+40,From Operations,12  Mar-14*,38244.0,NHPC
+41,From Investments,12  Mar-14*,-10754.0,NHPC
+42,From Financial Activity,12  Mar-14*,-45363.0,NHPC
+43,Net Cashflow,12  Mar-14*,-17873.0,NHPC
+44,Net Sales,12  Mar-15*,82441.0,NHPC
+45,Other income,12  Mar-15*,9132.0,NHPC
+46,Total revenues,12  Mar-15*,91573.0,NHPC
+47,Gross profit,12  Mar-15*,58482.0,NHPC
+48,Depreciation,12  Mar-15*,17153.0,NHPC
+49,Interest,12  Mar-15*,12728.0,NHPC
+50,Profit before tax,12  Mar-15*,37733.0,NHPC
+51,Minority Interest,12  Mar-15*,-3067.0,NHPC
+52,Prior Period Items,12  Mar-15*,-550.0,NHPC
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,NHPC
+54,Tax,12  Mar-15*,9203.0,NHPC
+55,Profit after tax,12  Mar-15*,24914.0,NHPC
+56,Gross profit margin,12  Mar-15*,70.9,NHPC
+57,Effective tax rate,12  Mar-15*,24.4,NHPC
+58,Net profit margin,12  Mar-15*,30.2,NHPC
+59,Current assets,12  Mar-15*,142862.0,NHPC
+60,Current liabilities,12  Mar-15*,71122.0,NHPC
+61,Net working cap to sales,12  Mar-15*,87.0,NHPC
+62,Current ratio,12  Mar-15*,2.0,NHPC
+63,Inventory Days,12  Mar-15*,4.0,NHPC
+64,Debtors Days,12  Mar-15*,129.0,NHPC
+65,Net fixed assets,12  Mar-15*,442936.0,NHPC
+66,Share capital,12  Mar-15*,110707.0,NHPC
+67,"""Free"" reserves",12  Mar-15*,167545.0,NHPC
+68,Net worth,12  Mar-15*,307575.0,NHPC
+69,Long term debt,12  Mar-15*,187245.0,NHPC
+70,Total assets,12  Mar-15*,614120.0,NHPC
+71,Interest coverage,12  Mar-15*,4.0,NHPC
+72,Debt to equity ratio,12  Mar-15*,0.6,NHPC
+73,Sales to assets ratio,12  Mar-15*,0.1,NHPC
+74,Return on assets,12  Mar-15*,6.1,NHPC
+75,Return on equity,12  Mar-15*,8.1,NHPC
+76,Return on capital,12  Mar-15*,9.5,NHPC
+77,Exports to sales,12  Mar-15*,0.0,NHPC
+78,Imports to sales,12  Mar-15*,0.1,NHPC
+79,Exports (fob),12  Mar-15*,0.0,NHPC
+80,Imports (cif),12  Mar-15*,88.0,NHPC
+81,Fx inflow,12  Mar-15*,0.0,NHPC
+82,Fx outflow,12  Mar-15*,1970.0,NHPC
+83,Net fx,12  Mar-15*,-1970.0,NHPC
+84,From Operations,12  Mar-15*,40606.0,NHPC
+85,From Investments,12  Mar-15*,-7670.0,NHPC
+86,From Financial Activity,12  Mar-15*,-24944.0,NHPC
+87,Net Cashflow,12  Mar-15*,7992.0,NHPC
+88,Net Sales,12  Mar-16*,86278.0,NHPC
+89,Other income,12  Mar-16*,9494.0,NHPC
+90,Total revenues,12  Mar-16*,95773.0,NHPC
+91,Gross profit,12  Mar-16*,57924.0,NHPC
+92,Depreciation,12  Mar-16*,17427.0,NHPC
+93,Interest,12  Mar-16*,11133.0,NHPC
+94,Profit before tax,12  Mar-16*,38859.0,NHPC
+95,Minority Interest,12  Mar-16*,-2313.0,NHPC
+96,Prior Period Items,12  Mar-16*,-377.0,NHPC
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,NHPC
+98,Tax,12  Mar-16*,9286.0,NHPC
+99,Profit after tax,12  Mar-16*,26883.0,NHPC
+100,Gross profit margin,12  Mar-16*,67.1,NHPC
+101,Effective tax rate,12  Mar-16*,23.9,NHPC
+102,Net profit margin,12  Mar-16*,31.2,NHPC
+103,Current assets,12  Mar-16*,123262.0,NHPC
+104,Current liabilities,12  Mar-16*,59063.0,NHPC
+105,Net working cap to sales,12  Mar-16*,74.4,NHPC
+106,Current ratio,12  Mar-16*,2.1,NHPC
+107,Inventory Days,12  Mar-16*,4.0,NHPC
+108,Debtors Days,12  Mar-16*,101.0,NHPC
+109,Net fixed assets,12  Mar-16*,448231.0,NHPC
+110,Share capital,12  Mar-16*,110707.0,NHPC
+111,"""Free"" reserves",12  Mar-16*,182418.0,NHPC
+112,Net worth,12  Mar-16*,313680.0,NHPC
+113,Long term debt,12  Mar-16*,184167.0,NHPC
+114,Total assets,12  Mar-16*,619500.0,NHPC
+115,Interest coverage,12  Mar-16*,4.5,NHPC
+116,Debt to equity ratio,12  Mar-16*,0.6,NHPC
+117,Sales to assets ratio,12  Mar-16*,0.1,NHPC
+118,Return on assets,12  Mar-16*,6.1,NHPC
+119,Return on equity,12  Mar-16*,8.6,NHPC
+120,Return on capital,12  Mar-16*,9.5,NHPC
+121,Exports to sales,12  Mar-16*,0.0,NHPC
+122,Imports to sales,12  Mar-16*,0.1,NHPC
+123,Exports (fob),12  Mar-16*,0.0,NHPC
+124,Imports (cif),12  Mar-16*,43.0,NHPC
+125,Fx inflow,12  Mar-16*,26.0,NHPC
+126,Fx outflow,12  Mar-16*,1740.0,NHPC
+127,Net fx,12  Mar-16*,-1714.0,NHPC
+128,From Operations,12  Mar-16*,54343.0,NHPC
+129,From Investments,12  Mar-16*,-9306.0,NHPC
+130,From Financial Activity,12  Mar-16*,-39997.0,NHPC
+131,Net Cashflow,12  Mar-16*,5040.0,NHPC
+132,Net Sales,12  Mar-17*,86261.0,NHPC
+133,Other income,12  Mar-17*,15028.0,NHPC
+134,Total revenues,12  Mar-17*,101289.0,NHPC
+135,Gross profit,12  Mar-17*,48443.0,NHPC
+136,Depreciation,12  Mar-17*,14618.0,NHPC
+137,Interest,12  Mar-17*,10734.0,NHPC
+138,Profit before tax,12  Mar-17*,38119.0,NHPC
+139,Minority Interest,12  Mar-17*,0.0,NHPC
+140,Prior Period Items,12  Mar-17*,27.0,NHPC
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,NHPC
+142,Tax,12  Mar-17*,10544.0,NHPC
+143,Profit after tax,12  Mar-17*,27602.0,NHPC
+144,Gross profit margin,12  Mar-17*,56.2,NHPC
+145,Effective tax rate,12  Mar-17*,27.7,NHPC
+146,Net profit margin,12  Mar-17*,32.0,NHPC
+147,Current assets,12  Mar-17*,83286.0,NHPC
+148,Current liabilities,12  Mar-17*,55598.0,NHPC
+149,Net working cap to sales,12  Mar-17*,32.1,NHPC
+150,Current ratio,12  Mar-17*,1.5,NHPC
+151,Inventory Days,12  Mar-17*,4.0,NHPC
+152,Debtors Days,12  Mar-17*,78.0,NHPC
+153,Net fixed assets,12  Mar-17*,398147.0,NHPC
+154,Share capital,12  Mar-17*,102593.0,NHPC
+155,"""Free"" reserves",12  Mar-17*,187555.0,NHPC
+156,Net worth,12  Mar-17*,290148.0,NHPC
+157,Long term debt,12  Mar-17*,172456.0,NHPC
+158,Total assets,12  Mar-17*,601771.0,NHPC
+159,Interest coverage,12  Mar-17*,4.6,NHPC
+160,Debt to equity ratio,12  Mar-17*,0.6,NHPC
+161,Sales to assets ratio,12  Mar-17*,0.1,NHPC
+162,Return on assets,12  Mar-17*,6.4,NHPC
+163,Return on equity,12  Mar-17*,9.5,NHPC
+164,Return on capital,12  Mar-17*,10.6,NHPC
+165,Exports to sales,12  Mar-17*,0.0,NHPC
+166,Imports to sales,12  Mar-17*,0.3,NHPC
+167,Exports (fob),12  Mar-17*,0.0,NHPC
+168,Imports (cif),12  Mar-17*,264.0,NHPC
+169,Fx inflow,12  Mar-17*,0.0,NHPC
+170,Fx outflow,12  Mar-17*,1540.0,NHPC
+171,Net fx,12  Mar-17*,-1540.0,NHPC
+172,From Operations,12  Mar-17*,83292.0,NHPC
+173,From Investments,12  Mar-17*,-18645.0,NHPC
+174,From Financial Activity,12  Mar-17*,-78116.0,NHPC
+175,Net Cashflow,12  Mar-17*,-13470.0,NHPC
+176,Net Sales,12  Mar-18*,77512.0,NHPC
+177,Other income,12  Mar-18*,11014.0,NHPC
+178,Total revenues,12  Mar-18*,88526.0,NHPC
+179,Gross profit,12  Mar-18*,42018.0,NHPC
+180,Depreciation,12  Mar-18*,14791.0,NHPC
+181,Interest,12  Mar-18*,9226.0,NHPC
+182,Profit before tax,12  Mar-18*,29015.0,NHPC
+183,Minority Interest,12  Mar-18*,0.0,NHPC
+184,Prior Period Items,12  Mar-18*,-1.0,NHPC
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,NHPC
+186,Tax,12  Mar-18*,8629.0,NHPC
+187,Profit after tax,12  Mar-18*,20385.0,NHPC
+188,Gross profit margin,12  Mar-18*,54.2,NHPC
+189,Effective tax rate,12  Mar-18*,29.7,NHPC
+190,Net profit margin,12  Mar-18*,26.3,NHPC
+191,Current assets,12  Mar-18*,73492.0,NHPC
+192,Current liabilities,12  Mar-18*,60619.0,NHPC
+193,Net working cap to sales,12  Mar-18*,16.6,NHPC
+194,Current ratio,12  Mar-18*,1.2,NHPC
+195,Inventory Days,12  Mar-18*,5.0,NHPC
+196,Debtors Days,12  Mar-18*,63.0,NHPC
+197,Net fixed assets,12  Mar-18*,402644.0,NHPC
+198,Share capital,12  Mar-18*,102593.0,NHPC
+199,"""Free"" reserves",12  Mar-18*,197586.0,NHPC
+200,Net worth,12  Mar-18*,300179.0,NHPC
+201,Long term debt,12  Mar-18*,167282.0,NHPC
+202,Total assets,12  Mar-18*,603876.0,NHPC
+203,Interest coverage,12  Mar-18*,4.1,NHPC
+204,Debt to equity ratio,12  Mar-18*,0.6,NHPC
+205,Sales to assets ratio,12  Mar-18*,0.1,NHPC
+206,Return on assets,12  Mar-18*,4.9,NHPC
+207,Return on equity,12  Mar-18*,6.8,NHPC
+208,Return on capital,12  Mar-18*,8.2,NHPC
+209,Exports to sales,12  Mar-18*,0.0,NHPC
+210,Imports to sales,12  Mar-18*,0.1,NHPC
+211,Exports (fob),12  Mar-18*,0.0,NHPC
+212,Imports (cif),12  Mar-18*,55.0,NHPC
+213,Fx inflow,12  Mar-18*,0.0,NHPC
+214,Fx outflow,12  Mar-18*,1135.0,NHPC
+215,Net fx,12  Mar-18*,-1135.0,NHPC
+216,From Operations,12  Mar-18*,50978.0,NHPC
+217,From Investments,12  Mar-18*,-12879.0,NHPC
+218,From Financial Activity,12  Mar-18*,-38629.0,NHPC
+219,Net Cashflow,12  Mar-18*,-530.0,NHPC

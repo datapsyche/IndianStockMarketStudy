@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,241531.0,ALTE
+1,Other income,12  Mar-15*,4672.0,ALTE
+2,Total revenues,12  Mar-15*,246203.0,ALTE
+3,Gross profit,12  Mar-15*,51694.0,ALTE
+4,Depreciation,12  Mar-15*,15218.0,ALTE
+5,Interest,12  Mar-15*,35127.0,ALTE
+6,Profit before tax,12  Mar-15*,6021.0,ALTE
+7,Minority Interest,12  Mar-15*,0.0,ALTE
+8,Prior Period Items,12  Mar-15*,40.0,ALTE
+9,Extraordinary Inc (Exp),12  Mar-15*,-1310.0,ALTE
+10,Tax,12  Mar-15*,2167.0,ALTE
+11,Profit after tax,12  Mar-15*,2583.0,ALTE
+12,Gross profit margin,12  Mar-15*,21.4,ALTE
+13,Effective tax rate,12  Mar-15*,36.0,ALTE
+14,Net profit margin,12  Mar-15*,1.1,ALTE
+15,Current assets,12  Mar-15*,183675.0,ALTE
+16,Current liabilities,12  Mar-15*,141721.0,ALTE
+17,Net working cap to sales,12  Mar-15*,17.4,ALTE
+18,Current ratio,12  Mar-15*,1.3,ALTE
+19,Inventory Days,12  Mar-15*,129.0,ALTE
+20,Debtors Days,12  Mar-15*,99.0,ALTE
+21,Net fixed assets,12  Mar-15*,176095.0,ALTE
+22,Share capital,12  Mar-15*,13579.0,ALTE
+23,"""Free"" reserves",12  Mar-15*,76694.0,ALTE
+24,Net worth,12  Mar-15*,90273.0,ALTE
+25,Long term debt,12  Mar-15*,84350.0,ALTE
+26,Total assets,12  Mar-15*,376769.0,ALTE
+27,Interest coverage,12  Mar-15*,1.2,ALTE
+28,Debt to equity ratio,12  Mar-15*,0.9,ALTE
+29,Sales to assets ratio,12  Mar-15*,0.6,ALTE
+30,Return on assets,12  Mar-15*,10.0,ALTE
+31,Return on equity,12  Mar-15*,2.9,ALTE
+32,Return on capital,12  Mar-15*,22.8,ALTE
+33,Exports to sales,12  Mar-15*,14.5,ALTE
+34,Imports to sales,12  Mar-15*,2.1,ALTE
+35,Exports (fob),12  Mar-15*,35138.0,ALTE
+36,Imports (cif),12  Mar-15*,5183.0,ALTE
+37,Fx inflow,12  Mar-15*,35138.0,ALTE
+38,Fx outflow,12  Mar-15*,9582.0,ALTE
+39,Net fx,12  Mar-15*,25557.0,ALTE
+40,From Operations,12  Mar-15*,38391.0,ALTE
+41,From Investments,12  Mar-15*,1561.0,ALTE
+42,From Financial Activity,12  Mar-15*,-46310.0,ALTE
+43,Net Cashflow,12  Mar-15*,-6358.0,ALTE
+44,Net Sales,12  Mar-16*,129240.0,ALTE
+45,Other income,12  Mar-16*,1116.0,ALTE
+46,Total revenues,12  Mar-16*,130356.0,ALTE
+47,Gross profit,12  Mar-16*,-27162.0,ALTE
+48,Depreciation,12  Mar-16*,10628.0,ALTE
+49,Interest,12  Mar-16*,28736.0,ALTE
+50,Profit before tax,12  Mar-16*,-65410.0,ALTE
+51,Minority Interest,12  Mar-16*,0.0,ALTE
+52,Prior Period Items,12  Mar-16*,-143.0,ALTE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ALTE
+54,Tax,12  Mar-16*,-21981.0,ALTE
+55,Profit after tax,12  Mar-16*,-43571.0,ALTE
+56,Gross profit margin,12  Mar-16*,-21.0,ALTE
+57,Effective tax rate,12  Mar-16*,33.6,ALTE
+58,Net profit margin,12  Mar-16*,-33.7,ALTE
+59,Current assets,12  Mar-16*,153321.0,ALTE
+60,Current liabilities,12  Mar-16*,162204.0,ALTE
+61,Net working cap to sales,12  Mar-16*,-6.9,ALTE
+62,Current ratio,12  Mar-16*,0.9,ALTE
+63,Inventory Days,12  Mar-16*,234.0,ALTE
+64,Debtors Days,12  Mar-16*,171.0,ALTE
+65,Net fixed assets,12  Mar-16*,166763.0,ALTE
+66,Share capital,12  Mar-16*,13579.0,ALTE
+67,"""Free"" reserves",12  Mar-16*,31973.0,ALTE
+68,Net worth,12  Mar-16*,45552.0,ALTE
+69,Long term debt,12  Mar-16*,87088.0,ALTE
+70,Total assets,12  Mar-16*,333829.0,ALTE
+71,Interest coverage,12  Mar-16*,-1.3,ALTE
+72,Debt to equity ratio,12  Mar-16*,1.9,ALTE
+73,Sales to assets ratio,12  Mar-16*,0.4,ALTE
+74,Return on assets,12  Mar-16*,-4.4,ALTE
+75,Return on equity,12  Mar-16*,-95.7,ALTE
+76,Return on capital,12  Mar-16*,-27.8,ALTE
+77,Exports to sales,12  Mar-16*,8.7,ALTE
+78,Imports to sales,12  Mar-16*,4.5,ALTE
+79,Exports (fob),12  Mar-16*,11264.0,ALTE
+80,Imports (cif),12  Mar-16*,5784.0,ALTE
+81,Fx inflow,12  Mar-16*,11264.0,ALTE
+82,Fx outflow,12  Mar-16*,7416.0,ALTE
+83,Net fx,12  Mar-16*,3849.0,ALTE
+84,From Operations,12  Mar-16*,-30058.0,ALTE
+85,From Investments,12  Mar-16*,4490.0,ALTE
+86,From Financial Activity,12  Mar-16*,24566.0,ALTE
+87,Net Cashflow,12  Mar-16*,-1002.0,ALTE
+88,Net Sales,12  Mar-17*,87231.0,ALTE
+89,Other income,12  Mar-17*,656.0,ALTE
+90,Total revenues,12  Mar-17*,87886.0,ALTE
+91,Gross profit,12  Mar-17*,-14559.0,ALTE
+92,Depreciation,12  Mar-17*,5607.0,ALTE
+93,Interest,12  Mar-17*,34418.0,ALTE
+94,Profit before tax,12  Mar-17*,-53929.0,ALTE
+95,Minority Interest,12  Mar-17*,0.0,ALTE
+96,Prior Period Items,12  Mar-17*,-111.0,ALTE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ALTE
+98,Tax,12  Mar-17*,-23208.0,ALTE
+99,Profit after tax,12  Mar-17*,-30831.0,ALTE
+100,Gross profit margin,12  Mar-17*,-16.7,ALTE
+101,Effective tax rate,12  Mar-17*,43.0,ALTE
+102,Net profit margin,12  Mar-17*,-35.3,ALTE
+103,Current assets,12  Mar-17*,141871.0,ALTE
+104,Current liabilities,12  Mar-17*,216400.0,ALTE
+105,Net working cap to sales,12  Mar-17*,-85.4,ALTE
+106,Current ratio,12  Mar-17*,0.7,ALTE
+107,Inventory Days,12  Mar-17*,139.0,ALTE
+108,Debtors Days,12  Mar-17*,421.0,ALTE
+109,Net fixed assets,12  Mar-17*,158662.0,ALTE
+110,Share capital,12  Mar-17*,13579.0,ALTE
+111,"""Free"" reserves",12  Mar-17*,3315.0,ALTE
+112,Net worth,12  Mar-17*,16894.0,ALTE
+113,Long term debt,12  Mar-17*,92618.0,ALTE
+114,Total assets,12  Mar-17*,327060.0,ALTE
+115,Interest coverage,12  Mar-17*,-0.6,ALTE
+116,Debt to equity ratio,12  Mar-17*,5.5,ALTE
+117,Sales to assets ratio,12  Mar-17*,0.3,ALTE
+118,Return on assets,12  Mar-17*,1.1,ALTE
+119,Return on equity,12  Mar-17*,-182.5,ALTE
+120,Return on capital,12  Mar-17*,-17.9,ALTE
+121,Exports to sales,12  Mar-17*,11.5,ALTE
+122,Imports to sales,12  Mar-17*,1.8,ALTE
+123,Exports (fob),12  Mar-17*,10029.0,ALTE
+124,Imports (cif),12  Mar-17*,1568.0,ALTE
+125,Fx inflow,12  Mar-17*,10029.0,ALTE
+126,Fx outflow,12  Mar-17*,1568.0,ALTE
+127,Net fx,12  Mar-17*,8461.0,ALTE
+128,From Operations,12  Mar-17*,-30321.0,ALTE
+129,From Investments,12  Mar-17*,-997.0,ALTE
+130,From Financial Activity,12  Mar-17*,31721.0,ALTE
+131,Net Cashflow,12  Mar-17*,404.0,ALTE
+132,Net Sales,12  Mar-18*,55138.0,ALTE
+133,Other income,12  Mar-18*,2566.0,ALTE
+134,Total revenues,12  Mar-18*,57704.0,ALTE
+135,Gross profit,12  Mar-18*,-135695.0,ALTE
+136,Depreciation,12  Mar-18*,5446.0,ALTE
+137,Interest,12  Mar-18*,47113.0,ALTE
+138,Profit before tax,12  Mar-18*,-185689.0,ALTE
+139,Minority Interest,12  Mar-18*,0.0,ALTE
+140,Prior Period Items,12  Mar-18*,-5.0,ALTE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ALTE
+142,Tax,12  Mar-18*,104.0,ALTE
+143,Profit after tax,12  Mar-18*,-185798.0,ALTE
+144,Gross profit margin,12  Mar-18*,-246.1,ALTE
+145,Effective tax rate,12  Mar-18*,-0.1,ALTE
+146,Net profit margin,12  Mar-18*,-337.0,ALTE
+147,Current assets,12  Mar-18*,10620.0,ALTE
+148,Current liabilities,12  Mar-18*,278531.0,ALTE
+149,Net working cap to sales,12  Mar-18*,-485.9,ALTE
+150,Current ratio,12  Mar-18*,0.0,ALTE
+151,Inventory Days,12  Mar-18*,34.0,ALTE
+152,Debtors Days,12  Mar-18*,21.0,ALTE
+153,Net fixed assets,12  Mar-18*,152263.0,ALTE
+154,Share capital,12  Mar-18*,13686.0,ALTE
+155,"""Free"" reserves",12  Mar-18*,-180458.0,ALTE
+156,Net worth,12  Mar-18*,-166772.0,ALTE
+157,Long term debt,12  Mar-18*,73672.0,ALTE
+158,Total assets,12  Mar-18*,187019.0,ALTE
+159,Interest coverage,12  Mar-18*,-2.9,ALTE
+160,Debt to equity ratio,12  Mar-18*,-0.4,ALTE
+161,Sales to assets ratio,12  Mar-18*,0.3,ALTE
+162,Return on assets,12  Mar-18*,-74.2,ALTE
+163,Return on equity,12  Mar-18*,111.4,ALTE
+164,Return on capital,12  Mar-18*,148.9,ALTE
+165,Exports to sales,12  Mar-18*,15.3,ALTE
+166,Imports to sales,12  Mar-18*,1.6,ALTE
+167,Exports (fob),12  Mar-18*,8432.0,ALTE
+168,Imports (cif),12  Mar-18*,901.0,ALTE
+169,Fx inflow,12  Mar-18*,8432.0,ALTE
+170,Fx outflow,12  Mar-18*,901.0,ALTE
+171,Net fx,12  Mar-18*,7531.0,ALTE
+172,From Operations,12  Mar-18*,-979.0,ALTE
+173,From Investments,12  Mar-18*,2110.0,ALTE
+174,From Financial Activity,12  Mar-18*,-1490.0,ALTE
+175,Net Cashflow,12  Mar-18*,-358.0,ALTE
+176,Net Sales,12  Mar-19*,33522.0,ALTE
+177,Other income,12  Mar-19*,185.0,ALTE
+178,Total revenues,12  Mar-19*,33708.0,ALTE
+179,Gross profit,12  Mar-19*,-1292.0,ALTE
+180,Depreciation,12  Mar-19*,5495.0,ALTE
+181,Interest,12  Mar-19*,43087.0,ALTE
+182,Profit before tax,12  Mar-19*,-49689.0,ALTE
+183,Minority Interest,12  Mar-19*,0.0,ALTE
+184,Prior Period Items,12  Mar-19*,-10.0,ALTE
+185,Extraordinary Inc (Exp),12  Mar-19*,70452.0,ALTE
+186,Tax,12  Mar-19*,-9.0,ALTE
+187,Profit after tax,12  Mar-19*,20762.0,ALTE
+188,Gross profit margin,12  Mar-19*,-3.9,ALTE
+189,Effective tax rate,12  Mar-19*,0.0,ALTE
+190,Net profit margin,12  Mar-19*,61.9,ALTE
+191,Current assets,12  Mar-19*,9006.0,ALTE
+192,Current liabilities,12  Mar-19*,263473.0,ALTE
+193,Net working cap to sales,12  Mar-19*,-759.1,ALTE
+194,Current ratio,12  Mar-19*,0.0,ALTE
+195,Inventory Days,12  Mar-19*,46.0,ALTE
+196,Debtors Days,12  Mar-19*,26.0,ALTE
+197,Net fixed assets,12  Mar-19*,155729.0,ALTE
+198,Share capital,12  Mar-19*,13686.0,ALTE
+199,"""Free"" reserves",12  Mar-19*,-159856.0,ALTE
+200,Net worth,12  Mar-19*,-146170.0,ALTE
+201,Long term debt,12  Mar-19*,61253.0,ALTE
+202,Total assets,12  Mar-19*,180164.0,ALTE
+203,Interest coverage,12  Mar-19*,-0.2,ALTE
+204,Debt to equity ratio,12  Mar-19*,-0.4,ALTE
+205,Sales to assets ratio,12  Mar-19*,0.2,ALTE
+206,Return on assets,12  Mar-19*,35.4,ALTE
+207,Return on equity,12  Mar-19*,-14.2,ALTE
+208,Return on capital,12  Mar-19*,-75.2,ALTE
+209,Exports to sales,12  Mar-19*,22.3,ALTE
+210,Imports to sales,12  Mar-19*,1.2,ALTE
+211,Exports (fob),12  Mar-19*,7483.0,ALTE
+212,Imports (cif),12  Mar-19*,392.0,ALTE
+213,Fx inflow,12  Mar-19*,8432.0,ALTE
+214,Fx outflow,12  Mar-19*,901.0,ALTE
+215,Net fx,12  Mar-19*,7531.0,ALTE
+216,From Operations,12  Mar-19*,1154.0,ALTE
+217,From Investments,12  Mar-19*,379.0,ALTE
+218,From Financial Activity,12  Mar-19*,-1801.0,ALTE
+219,Net Cashflow,12  Mar-19*,-268.0,ALTE

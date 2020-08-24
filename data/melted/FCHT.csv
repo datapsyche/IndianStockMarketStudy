@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,22094.0,FCHT
+1,Other income,12  Mar-14,140.0,FCHT
+2,Total revenues,12  Mar-14,22233.0,FCHT
+3,Gross profit,12  Mar-14,-1457.0,FCHT
+4,Depreciation,12  Mar-14,453.0,FCHT
+5,Interest,12  Mar-14,1918.0,FCHT
+6,Profit before tax,12  Mar-14,-3688.0,FCHT
+7,Minority Interest,12  Mar-14,0.0,FCHT
+8,Prior Period Items,12  Mar-14,0.0,FCHT
+9,Extraordinary Inc (Exp),12  Mar-14,1038.0,FCHT
+10,Tax,12  Mar-14,0.0,FCHT
+11,Profit after tax,12  Mar-14,-2650.0,FCHT
+12,Gross profit margin,12  Mar-14,-6.6,FCHT
+13,Effective tax rate,12  Mar-14,0.0,FCHT
+14,Net profit margin,12  Mar-14,-12.0,FCHT
+15,Current assets,12  Mar-14,15440.0,FCHT
+16,Current liabilities,12  Mar-14,19537.0,FCHT
+17,Net working cap to sales,12  Mar-14,-18.5,FCHT
+18,Current ratio,12  Mar-14,0.8,FCHT
+19,Inventory Days,12  Mar-14,103.0,FCHT
+20,Debtors Days,12  Mar-14,2.0,FCHT
+21,Net fixed assets,12  Mar-14,2999.0,FCHT
+22,Share capital,12  Mar-14,6471.0,FCHT
+23,"""Free"" reserves",12  Mar-14,-11045.0,FCHT
+24,Net worth,12  Mar-14,-4567.0,FCHT
+25,Long term debt,12  Mar-14,1898.0,FCHT
+26,Total assets,12  Mar-14,18820.0,FCHT
+27,Interest coverage,12  Mar-14,-0.9,FCHT
+28,Debt to equity ratio,12  Mar-14,-0.4,FCHT
+29,Sales to assets ratio,12  Mar-14,1.2,FCHT
+30,Return on assets,12  Mar-14,-3.9,FCHT
+31,Return on equity,12  Mar-14,58.0,FCHT
+32,Return on capital,12  Mar-14,27.4,FCHT
+33,Exports to sales,12  Mar-14,0.0,FCHT
+34,Imports to sales,12  Mar-14,38.3,FCHT
+35,Exports (fob),12  Mar-14,0.0,FCHT
+36,Imports (cif),12  Mar-14,8455.0,FCHT
+37,Fx inflow,12  Mar-14,0.0,FCHT
+38,Fx outflow,12  Mar-14,8496.0,FCHT
+39,Net fx,12  Mar-14,-8496.0,FCHT
+40,From Operations,12  Mar-14,703.0,FCHT
+41,From Investments,12  Mar-14,-596.0,FCHT
+42,From Financial Activity,12  Mar-14,-157.0,FCHT
+43,Net Cashflow,12  Mar-14,-50.0,FCHT
+44,Net Sales,12  Mar-15*,19808.0,FCHT
+45,Other income,12  Mar-15*,187.0,FCHT
+46,Total revenues,12  Mar-15*,19995.0,FCHT
+47,Gross profit,12  Mar-15*,-2536.0,FCHT
+48,Depreciation,12  Mar-15*,252.0,FCHT
+49,Interest,12  Mar-15*,2009.0,FCHT
+50,Profit before tax,12  Mar-15*,-4610.0,FCHT
+51,Minority Interest,12  Mar-15*,0.0,FCHT
+52,Prior Period Items,12  Mar-15*,0.0,FCHT
+53,Extraordinary Inc (Exp),12  Mar-15*,881.0,FCHT
+54,Tax,12  Mar-15*,0.0,FCHT
+55,Profit after tax,12  Mar-15*,-3729.0,FCHT
+56,Gross profit margin,12  Mar-15*,-12.8,FCHT
+57,Effective tax rate,12  Mar-15*,0.0,FCHT
+58,Net profit margin,12  Mar-15*,-18.8,FCHT
+59,Current assets,12  Mar-15*,13156.0,FCHT
+60,Current liabilities,12  Mar-15*,21201.0,FCHT
+61,Net working cap to sales,12  Mar-15*,-40.6,FCHT
+62,Current ratio,12  Mar-15*,0.6,FCHT
+63,Inventory Days,12  Mar-15*,102.0,FCHT
+64,Debtors Days,12  Mar-15*,2.0,FCHT
+65,Net fixed assets,12  Mar-15*,3551.0,FCHT
+66,Share capital,12  Mar-15*,6471.0,FCHT
+67,"""Free"" reserves",12  Mar-15*,-14987.0,FCHT
+68,Net worth,12  Mar-15*,-8517.0,FCHT
+69,Long term debt,12  Mar-15*,2017.0,FCHT
+70,Total assets,12  Mar-15*,16823.0,FCHT
+71,Interest coverage,12  Mar-15*,-1.3,FCHT
+72,Debt to equity ratio,12  Mar-15*,-0.2,FCHT
+73,Sales to assets ratio,12  Mar-15*,1.2,FCHT
+74,Return on assets,12  Mar-15*,-10.2,FCHT
+75,Return on equity,12  Mar-15*,43.8,FCHT
+76,Return on capital,12  Mar-15*,26.5,FCHT
+77,Exports to sales,12  Mar-15*,0.0,FCHT
+78,Imports to sales,12  Mar-15*,60.8,FCHT
+79,Exports (fob),12  Mar-15*,0.0,FCHT
+80,Imports (cif),12  Mar-15*,12039.0,FCHT
+81,Fx inflow,12  Mar-15*,0.0,FCHT
+82,Fx outflow,12  Mar-15*,12045.0,FCHT
+83,Net fx,12  Mar-15*,-12045.0,FCHT
+84,From Operations,12  Mar-15*,1920.0,FCHT
+85,From Investments,12  Mar-15*,-94.0,FCHT
+86,From Financial Activity,12  Mar-15*,-1806.0,FCHT
+87,Net Cashflow,12  Mar-15*,19.0,FCHT
+88,Net Sales,12  Mar-16*,17458.0,FCHT
+89,Other income,12  Mar-16*,290.0,FCHT
+90,Total revenues,12  Mar-16*,17748.0,FCHT
+91,Gross profit,12  Mar-16*,-3315.0,FCHT
+92,Depreciation,12  Mar-16*,230.0,FCHT
+93,Interest,12  Mar-16*,2566.0,FCHT
+94,Profit before tax,12  Mar-16*,-5821.0,FCHT
+95,Minority Interest,12  Mar-16*,0.0,FCHT
+96,Prior Period Items,12  Mar-16*,0.0,FCHT
+97,Extraordinary Inc (Exp),12  Mar-16*,1235.0,FCHT
+98,Tax,12  Mar-16*,0.0,FCHT
+99,Profit after tax,12  Mar-16*,-4586.0,FCHT
+100,Gross profit margin,12  Mar-16*,-19.0,FCHT
+101,Effective tax rate,12  Mar-16*,0.0,FCHT
+102,Net profit margin,12  Mar-16*,-26.3,FCHT
+103,Current assets,12  Mar-16*,12724.0,FCHT
+104,Current liabilities,12  Mar-16*,12190.0,FCHT
+105,Net working cap to sales,12  Mar-16*,3.1,FCHT
+106,Current ratio,12  Mar-16*,1.0,FCHT
+107,Inventory Days,12  Mar-16*,79.0,FCHT
+108,Debtors Days,12  Mar-16*,85.0,FCHT
+109,Net fixed assets,12  Mar-16*,3360.0,FCHT
+110,Share capital,12  Mar-16*,6471.0,FCHT
+111,"""Free"" reserves",12  Mar-16*,-19760.0,FCHT
+112,Net worth,12  Mar-16*,-13289.0,FCHT
+113,Long term debt,12  Mar-16*,16271.0,FCHT
+114,Total assets,12  Mar-16*,16598.0,FCHT
+115,Interest coverage,12  Mar-16*,-1.3,FCHT
+116,Debt to equity ratio,12  Mar-16*,-1.2,FCHT
+117,Sales to assets ratio,12  Mar-16*,1.1,FCHT
+118,Return on assets,12  Mar-16*,-12.2,FCHT
+119,Return on equity,12  Mar-16*,34.5,FCHT
+120,Return on capital,12  Mar-16*,-67.7,FCHT
+121,Exports to sales,12  Mar-16*,0.0,FCHT
+122,Imports to sales,12  Mar-16*,49.1,FCHT
+123,Exports (fob),12  Mar-16*,0.0,FCHT
+124,Imports (cif),12  Mar-16*,8577.0,FCHT
+125,Fx inflow,12  Mar-16*,0.0,FCHT
+126,Fx outflow,12  Mar-16*,8580.0,FCHT
+127,Net fx,12  Mar-16*,-8580.0,FCHT
+128,From Operations,12  Mar-16*,-2213.0,FCHT
+129,From Investments,12  Mar-16*,-39.0,FCHT
+130,From Financial Activity,12  Mar-16*,2238.0,FCHT
+131,Net Cashflow,12  Mar-16*,-14.0,FCHT
+132,Net Sales,12  Mar-17,18833.0,FCHT
+133,Other income,12  Mar-17,180.0,FCHT
+134,Total revenues,12  Mar-17,19013.0,FCHT
+135,Gross profit,12  Mar-17,452.0,FCHT
+136,Depreciation,12  Mar-17,213.0,FCHT
+137,Interest,12  Mar-17,3047.0,FCHT
+138,Profit before tax,12  Mar-17,-2627.0,FCHT
+139,Minority Interest,12  Mar-17,0.0,FCHT
+140,Prior Period Items,12  Mar-17,0.0,FCHT
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,FCHT
+142,Tax,12  Mar-17,0.0,FCHT
+143,Profit after tax,12  Mar-17,-2627.0,FCHT
+144,Gross profit margin,12  Mar-17,2.4,FCHT
+145,Effective tax rate,12  Mar-17,0.0,FCHT
+146,Net profit margin,12  Mar-17,-13.9,FCHT
+147,Current assets,12  Mar-17,11923.0,FCHT
+148,Current liabilities,12  Mar-17,11814.0,FCHT
+149,Net working cap to sales,12  Mar-17,0.6,FCHT
+150,Current ratio,12  Mar-17,1.0,FCHT
+151,Inventory Days,12  Mar-17,83.0,FCHT
+152,Debtors Days,12  Mar-17,98.0,FCHT
+153,Net fixed assets,12  Mar-17,3239.0,FCHT
+154,Share capital,12  Mar-17,6471.0,FCHT
+155,"""Free"" reserves",12  Mar-17,-21594.0,FCHT
+156,Net worth,12  Mar-17,-15123.0,FCHT
+157,Long term debt,12  Mar-17,17705.0,FCHT
+158,Total assets,12  Mar-17,15676.0,FCHT
+159,Interest coverage,12  Mar-17,0.1,FCHT
+160,Debt to equity ratio,12  Mar-17,-1.2,FCHT
+161,Sales to assets ratio,12  Mar-17,1.2,FCHT
+162,Return on assets,12  Mar-17,2.7,FCHT
+163,Return on equity,12  Mar-17,17.4,FCHT
+164,Return on capital,12  Mar-17,16.3,FCHT
+165,Exports to sales,12  Mar-17,0.0,FCHT
+166,Imports to sales,12  Mar-17,39.8,FCHT
+167,Exports (fob),12  Mar-17,0.0,FCHT
+168,Imports (cif),12  Mar-17,7500.0,FCHT
+169,Fx inflow,12  Mar-17,0.0,FCHT
+170,Fx outflow,12  Mar-17,7509.0,FCHT
+171,Net fx,12  Mar-17,-7509.0,FCHT
+172,From Operations,12  Mar-17,314.0,FCHT
+173,From Investments,12  Mar-17,749.0,FCHT
+174,From Financial Activity,12  Mar-17,-941.0,FCHT
+175,Net Cashflow,12  Mar-17,122.0,FCHT
+176,Net Sales,12  Mar-18,19287.0,FCHT
+177,Other income,12  Mar-18,414.0,FCHT
+178,Total revenues,12  Mar-18,19700.0,FCHT
+179,Gross profit,12  Mar-18,1667.0,FCHT
+180,Depreciation,12  Mar-18,172.0,FCHT
+181,Interest,12  Mar-18,3214.0,FCHT
+182,Profit before tax,12  Mar-18,-1305.0,FCHT
+183,Minority Interest,12  Mar-18,0.0,FCHT
+184,Prior Period Items,12  Mar-18,0.0,FCHT
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,FCHT
+186,Tax,12  Mar-18,0.0,FCHT
+187,Profit after tax,12  Mar-18,-1305.0,FCHT
+188,Gross profit margin,12  Mar-18,8.6,FCHT
+189,Effective tax rate,12  Mar-18,0.0,FCHT
+190,Net profit margin,12  Mar-18,-6.8,FCHT
+191,Current assets,12  Mar-18,14328.0,FCHT
+192,Current liabilities,12  Mar-18,15152.0,FCHT
+193,Net working cap to sales,12  Mar-18,-4.3,FCHT
+194,Current ratio,12  Mar-18,0.9,FCHT
+195,Inventory Days,12  Mar-18,91.0,FCHT
+196,Debtors Days,12  Mar-18,85.0,FCHT
+197,Net fixed assets,12  Mar-18,3166.0,FCHT
+198,Share capital,12  Mar-18,6471.0,FCHT
+199,"""Free"" reserves",12  Mar-18,-22873.0,FCHT
+200,Net worth,12  Mar-18,-16402.0,FCHT
+201,Long term debt,12  Mar-18,17705.0,FCHT
+202,Total assets,12  Mar-18,18162.0,FCHT
+203,Interest coverage,12  Mar-18,0.6,FCHT
+204,Debt to equity ratio,12  Mar-18,-1.1,FCHT
+205,Sales to assets ratio,12  Mar-18,1.1,FCHT
+206,Return on assets,12  Mar-18,10.5,FCHT
+207,Return on equity,12  Mar-18,8.0,FCHT
+208,Return on capital,12  Mar-18,146.5,FCHT
+209,Exports to sales,12  Mar-18,0.0,FCHT
+210,Imports to sales,12  Mar-18,32.5,FCHT
+211,Exports (fob),12  Mar-18,0.0,FCHT
+212,Imports (cif),12  Mar-18,6267.0,FCHT
+213,Fx inflow,12  Mar-18,0.0,FCHT
+214,Fx outflow,12  Mar-18,6279.0,FCHT
+215,Net fx,12  Mar-18,-6279.0,FCHT
+216,From Operations,12  Mar-18,994.0,FCHT
+217,From Investments,12  Mar-18,-32.0,FCHT
+218,From Financial Activity,12  Mar-18,-824.0,FCHT
+219,Net Cashflow,12  Mar-18,138.0,FCHT

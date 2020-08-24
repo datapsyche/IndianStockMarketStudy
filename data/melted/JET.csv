@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,190358.0,JET
+1,Other income,12  Mar-14*,4095.0,JET
+2,Total revenues,12  Mar-14*,194453.0,JET
+3,Gross profit,12  Mar-14*,-18595.0,JET
+4,Depreciation,12  Mar-14*,8778.0,JET
+5,Interest,12  Mar-14*,10836.0,JET
+6,Profit before tax,12  Mar-14*,-34114.0,JET
+7,Minority Interest,12  Mar-14*,0.0,JET
+8,Prior Period Items,12  Mar-14*,-11.0,JET
+9,Extraordinary Inc (Exp),12  Mar-14*,-7174.0,JET
+10,Tax,12  Mar-14*,-1.0,JET
+11,Profit after tax,12  Mar-14*,-41298.0,JET
+12,Gross profit margin,12  Mar-14*,-9.8,JET
+13,Effective tax rate,12  Mar-14*,0.0,JET
+14,Net profit margin,12  Mar-14*,-21.7,JET
+15,Current assets,12  Mar-14*,44017.0,JET
+16,Current liabilities,12  Mar-14*,141239.0,JET
+17,Net working cap to sales,12  Mar-14*,-51.1,JET
+18,Current ratio,12  Mar-14*,0.3,JET
+19,Inventory Days,12  Mar-14*,16.0,JET
+20,Debtors Days,12  Mar-14*,25.0,JET
+21,Net fixed assets,12  Mar-14*,96446.0,JET
+22,Share capital,12  Mar-14*,1136.0,JET
+23,"""Free"" reserves",12  Mar-14*,-46058.0,JET
+24,Net worth,12  Mar-14*,-41749.0,JET
+25,Long term debt,12  Mar-14*,65461.0,JET
+26,Total assets,12  Mar-14*,171101.0,JET
+27,Interest coverage,12  Mar-14*,-2.1,JET
+28,Debt to equity ratio,12  Mar-14*,-1.6,JET
+29,Sales to assets ratio,12  Mar-14*,1.1,JET
+30,Return on assets,12  Mar-14*,-17.8,JET
+31,Return on equity,12  Mar-14*,98.9,JET
+32,Return on capital,12  Mar-14*,-128.5,JET
+33,Exports to sales,12  Mar-14*,0.0,JET
+34,Imports to sales,12  Mar-14*,1.9,JET
+35,Exports (fob),12  Mar-14*,0.0,JET
+36,Imports (cif),12  Mar-14*,3662.0,JET
+37,Fx inflow,12  Mar-14*,84210.0,JET
+38,Fx outflow,12  Mar-14*,101146.0,JET
+39,Net fx,12  Mar-14*,-16936.0,JET
+40,From Operations,12  Mar-14*,10118.0,JET
+41,From Investments,12  Mar-14*,-2661.0,JET
+42,From Financial Activity,12  Mar-14*,-5722.0,JET
+43,Net Cashflow,12  Mar-14*,1735.0,JET
+44,Net Sales,12  Mar-15*,20966.0,JET
+45,Other income,12  Mar-15*,6961.0,JET
+46,Total revenues,12  Mar-15*,27926.0,JET
+47,Gross profit,12  Mar-15*,-3584.0,JET
+48,Depreciation,12  Mar-15*,7653.0,JET
+49,Interest,12  Mar-15*,9205.0,JET
+50,Profit before tax,12  Mar-15*,-13481.0,JET
+51,Minority Interest,12  Mar-15*,0.0,JET
+52,Prior Period Items,12  Mar-15*,40.0,JET
+53,Extraordinary Inc (Exp),12  Mar-15*,-7532.0,JET
+54,Tax,12  Mar-15*,0.0,JET
+55,Profit after tax,12  Mar-15*,-20974.0,JET
+56,Gross profit margin,12  Mar-15*,-17.1,JET
+57,Effective tax rate,12  Mar-15*,0.0,JET
+58,Net profit margin,12  Mar-15*,-100.0,JET
+59,Current assets,12  Mar-15*,57256.0,JET
+60,Current liabilities,12  Mar-15*,154009.0,JET
+61,Net working cap to sales,12  Mar-15*,-461.5,JET
+62,Current ratio,12  Mar-15*,0.4,JET
+63,Inventory Days,12  Mar-15*,168.0,JET
+64,Debtors Days,12  Mar-15*,242.0,JET
+65,Net fixed assets,12  Mar-15*,92538.0,JET
+66,Share capital,12  Mar-15*,1136.0,JET
+67,"""Free"" reserves",12  Mar-15*,-67558.0,JET
+68,Net worth,12  Mar-15*,-63248.0,JET
+69,Long term debt,12  Mar-15*,66073.0,JET
+70,Total assets,12  Mar-15*,171054.0,JET
+71,Interest coverage,12  Mar-15*,-0.5,JET
+72,Debt to equity ratio,12  Mar-15*,-1.0,JET
+73,Sales to assets ratio,12  Mar-15*,0.1,JET
+74,Return on assets,12  Mar-15*,-6.9,JET
+75,Return on equity,12  Mar-15*,33.2,JET
+76,Return on capital,12  Mar-15*,-416.6,JET
+77,Exports to sales,12  Mar-15*,0.0,JET
+78,Imports to sales,12  Mar-15*,108.6,JET
+79,Exports (fob),12  Mar-15*,0.0,JET
+80,Imports (cif),12  Mar-15*,22762.0,JET
+81,Fx inflow,12  Mar-15*,118002.0,JET
+82,Fx outflow,12  Mar-15*,120490.0,JET
+83,Net fx,12  Mar-15*,-2489.0,JET
+84,From Operations,12  Mar-15*,7377.0,JET
+85,From Investments,12  Mar-15*,-2170.0,JET
+86,From Financial Activity,12  Mar-15*,1396.0,JET
+87,Net Cashflow,12  Mar-15*,6602.0,JET
+88,Net Sales,12  Mar-16*,223211.0,JET
+89,Other income,12  Mar-16*,5850.0,JET
+90,Total revenues,12  Mar-16*,229061.0,JET
+91,Gross profit,12  Mar-16*,23502.0,JET
+92,Depreciation,12  Mar-16*,9962.0,JET
+93,Interest,12  Mar-16*,8850.0,JET
+94,Profit before tax,12  Mar-16*,10539.0,JET
+95,Minority Interest,12  Mar-16*,97.0,JET
+96,Prior Period Items,12  Mar-16*,0.0,JET
+97,Extraordinary Inc (Exp),12  Mar-16*,1480.0,JET
+98,Tax,12  Mar-16*,0.0,JET
+99,Profit after tax,12  Mar-16*,12117.0,JET
+100,Gross profit margin,12  Mar-16*,10.5,JET
+101,Effective tax rate,12  Mar-16*,0.0,JET
+102,Net profit margin,12  Mar-16*,5.4,JET
+103,Current assets,12  Mar-16*,57148.0,JET
+104,Current liabilities,12  Mar-16*,149745.0,JET
+105,Net working cap to sales,12  Mar-16*,-41.5,JET
+106,Current ratio,12  Mar-16*,0.4,JET
+107,Inventory Days,12  Mar-16*,8.0,JET
+108,Debtors Days,12  Mar-16*,26.0,JET
+109,Net fixed assets,12  Mar-16*,67338.0,JET
+110,Share capital,12  Mar-16*,1136.0,JET
+111,"""Free"" reserves",12  Mar-16*,-80604.0,JET
+112,Net worth,12  Mar-16*,-79468.0,JET
+113,Long term debt,12  Mar-16*,62094.0,JET
+114,Total assets,12  Mar-16*,145679.0,JET
+115,Interest coverage,12  Mar-16*,2.2,JET
+116,Debt to equity ratio,12  Mar-16*,-0.8,JET
+117,Sales to assets ratio,12  Mar-16*,1.5,JET
+118,Return on assets,12  Mar-16*,14.4,JET
+119,Return on equity,12  Mar-16*,-15.2,JET
+120,Return on capital,12  Mar-16*,-120.7,JET
+121,Exports to sales,12  Mar-16*,0.0,JET
+122,Imports to sales,12  Mar-16*,2.7,JET
+123,Exports (fob),12  Mar-16*,0.0,JET
+124,Imports (cif),12  Mar-16*,5925.0,JET
+125,Fx inflow,12  Mar-16*,99842.0,JET
+126,Fx outflow,12  Mar-16*,108531.0,JET
+127,Net fx,12  Mar-16*,-8689.0,JET
+128,From Operations,12  Mar-16*,25116.0,JET
+129,From Investments,12  Mar-16*,-7165.0,JET
+130,From Financial Activity,12  Mar-16*,-24577.0,JET
+131,Net Cashflow,12  Mar-16*,-6625.0,JET
+132,Net Sales,12  Mar-17*,226926.0,JET
+133,Other income,12  Mar-17*,14825.0,JET
+134,Total revenues,12  Mar-17*,241751.0,JET
+135,Gross profit,12  Mar-17*,14930.0,JET
+136,Depreciation,12  Mar-17*,6716.0,JET
+137,Interest,12  Mar-17*,8587.0,JET
+138,Profit before tax,12  Mar-17*,14453.0,JET
+139,Minority Interest,12  Mar-17*,532.0,JET
+140,Prior Period Items,12  Mar-17*,0.0,JET
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,JET
+142,Tax,12  Mar-17*,-2.0,JET
+143,Profit after tax,12  Mar-17*,14987.0,JET
+144,Gross profit margin,12  Mar-17*,6.6,JET
+145,Effective tax rate,12  Mar-17*,0.0,JET
+146,Net profit margin,12  Mar-17*,6.6,JET
+147,Current assets,12  Mar-17*,54637.0,JET
+148,Current liabilities,12  Mar-17*,119346.0,JET
+149,Net working cap to sales,12  Mar-17*,-28.5,JET
+150,Current ratio,12  Mar-17*,0.5,JET
+151,Inventory Days,12  Mar-17*,8.0,JET
+152,Debtors Days,12  Mar-17*,21.0,JET
+153,Net fixed assets,12  Mar-17*,56061.0,JET
+154,Share capital,12  Mar-17*,1136.0,JET
+155,"""Free"" reserves",12  Mar-17*,-66188.0,JET
+156,Net worth,12  Mar-17*,-65052.0,JET
+157,Long term debt,12  Mar-17*,69679.0,JET
+158,Total assets,12  Mar-17*,128823.0,JET
+159,Interest coverage,12  Mar-17*,2.7,JET
+160,Debt to equity ratio,12  Mar-17*,-1.1,JET
+161,Sales to assets ratio,12  Mar-17*,1.8,JET
+162,Return on assets,12  Mar-17*,18.3,JET
+163,Return on equity,12  Mar-17*,-23.0,JET
+164,Return on capital,12  Mar-17*,509.4,JET
+165,Exports to sales,12  Mar-17*,0.0,JET
+166,Imports to sales,12  Mar-17*,1.4,JET
+167,Exports (fob),12  Mar-17*,0.0,JET
+168,Imports (cif),12  Mar-17*,3120.0,JET
+169,Fx inflow,12  Mar-17*,116042.0,JET
+170,Fx outflow,12  Mar-17*,109566.0,JET
+171,Net fx,12  Mar-17*,6476.0,JET
+172,From Operations,12  Mar-17*,10113.0,JET
+173,From Investments,12  Mar-17*,16001.0,JET
+174,From Financial Activity,12  Mar-17*,-23904.0,JET
+175,Net Cashflow,12  Mar-17*,2210.0,JET
+176,Net Sales,12  Mar-18*,245107.0,JET
+177,Other income,12  Mar-18*,6668.0,JET
+178,Total revenues,12  Mar-18*,251775.0,JET
+179,Gross profit,12  Mar-18*,784.0,JET
+180,Depreciation,12  Mar-18*,6211.0,JET
+181,Interest,12  Mar-18*,8489.0,JET
+182,Profit before tax,12  Mar-18*,-7249.0,JET
+183,Minority Interest,12  Mar-18*,885.0,JET
+184,Prior Period Items,12  Mar-18*,0.0,JET
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,JET
+186,Tax,12  Mar-18*,0.0,JET
+187,Profit after tax,12  Mar-18*,-6365.0,JET
+188,Gross profit margin,12  Mar-18*,0.3,JET
+189,Effective tax rate,12  Mar-18*,0.0,JET
+190,Net profit margin,12  Mar-18*,-2.6,JET
+191,Current assets,12  Mar-18*,72997.0,JET
+192,Current liabilities,12  Mar-18*,145052.0,JET
+193,Net working cap to sales,12  Mar-18*,-29.4,JET
+194,Current ratio,12  Mar-18*,0.5,JET
+195,Inventory Days,12  Mar-18*,7.0,JET
+196,Debtors Days,12  Mar-18*,19.0,JET
+197,Net fixed assets,12  Mar-18*,36335.0,JET
+198,Share capital,12  Mar-18*,1136.0,JET
+199,"""Free"" reserves",12  Mar-18*,-72527.0,JET
+200,Net worth,12  Mar-18*,-71391.0,JET
+201,Long term debt,12  Mar-18*,50856.0,JET
+202,Total assets,12  Mar-18*,129551.0,JET
+203,Interest coverage,12  Mar-18*,0.1,JET
+204,Debt to equity ratio,12  Mar-18*,-0.7,JET
+205,Sales to assets ratio,12  Mar-18*,1.9,JET
+206,Return on assets,12  Mar-18*,1.6,JET
+207,Return on equity,12  Mar-18*,8.9,JET
+208,Return on capital,12  Mar-18*,-10.3,JET
+209,Exports to sales,12  Mar-18*,0.0,JET
+210,Imports to sales,12  Mar-18*,1.8,JET
+211,Exports (fob),12  Mar-18*,0.0,JET
+212,Imports (cif),12  Mar-18*,4474.0,JET
+213,Fx inflow,12  Mar-18*,99359.0,JET
+214,Fx outflow,12  Mar-18*,121740.0,JET
+215,Net fx,12  Mar-18*,-22381.0,JET
+216,From Operations,12  Mar-18*,17102.0,JET
+217,From Investments,12  Mar-18*,-3617.0,JET
+218,From Financial Activity,12  Mar-18*,-15649.0,JET
+219,Net Cashflow,12  Mar-18*,-2165.0,JET

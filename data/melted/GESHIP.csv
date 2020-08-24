@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,34380.0,GESHIP
+1,Other income,12  Mar-15*,2755.0,GESHIP
+2,Total revenues,12  Mar-15*,37135.0,GESHIP
+3,Gross profit,12  Mar-15*,14332.0,GESHIP
+4,Depreciation,12  Mar-15*,6100.0,GESHIP
+5,Interest,12  Mar-15*,3006.0,GESHIP
+6,Profit before tax,12  Mar-15*,7981.0,GESHIP
+7,Minority Interest,12  Mar-15*,0.0,GESHIP
+8,Prior Period Items,12  Mar-15*,0.0,GESHIP
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,GESHIP
+10,Tax,12  Mar-15*,499.0,GESHIP
+11,Profit after tax,12  Mar-15*,7482.0,GESHIP
+12,Gross profit margin,12  Mar-15*,41.7,GESHIP
+13,Effective tax rate,12  Mar-15*,6.3,GESHIP
+14,Net profit margin,12  Mar-15*,21.8,GESHIP
+15,Current assets,12  Mar-15*,43721.0,GESHIP
+16,Current liabilities,12  Mar-15*,24780.0,GESHIP
+17,Net working cap to sales,12  Mar-15*,55.1,GESHIP
+18,Current ratio,12  Mar-15*,1.8,GESHIP
+19,Inventory Days,12  Mar-15*,15.0,GESHIP
+20,Debtors Days,12  Mar-15*,36.0,GESHIP
+21,Net fixed assets,12  Mar-15*,91733.0,GESHIP
+22,Share capital,12  Mar-15*,1508.0,GESHIP
+23,"""Free"" reserves",12  Mar-15*,55634.0,GESHIP
+24,Net worth,12  Mar-15*,57141.0,GESHIP
+25,Long term debt,12  Mar-15*,54197.0,GESHIP
+26,Total assets,12  Mar-15*,136745.0,GESHIP
+27,Interest coverage,12  Mar-15*,3.7,GESHIP
+28,Debt to equity ratio,12  Mar-15*,0.9,GESHIP
+29,Sales to assets ratio,12  Mar-15*,0.3,GESHIP
+30,Return on assets,12  Mar-15*,7.7,GESHIP
+31,Return on equity,12  Mar-15*,13.1,GESHIP
+32,Return on capital,12  Mar-15*,9.9,GESHIP
+33,Exports to sales,12  Mar-15*,0.0,GESHIP
+34,Imports to sales,12  Mar-15*,0.0,GESHIP
+35,Exports (fob),12  Mar-15*,0.0,GESHIP
+36,Imports (cif),12  Mar-15*,0.0,GESHIP
+37,Fx inflow,12  Mar-15*,9388.0,GESHIP
+38,Fx outflow,12  Mar-15*,9505.0,GESHIP
+39,Net fx,12  Mar-15*,-117.0,GESHIP
+40,From Operations,12  Mar-15*,14448.0,GESHIP
+41,From Investments,12  Mar-15*,-7254.0,GESHIP
+42,From Financial Activity,12  Mar-15*,-2283.0,GESHIP
+43,Net Cashflow,12  Mar-15*,4911.0,GESHIP
+44,Net Sales,12  Mar-16*,38078.0,GESHIP
+45,Other income,12  Mar-16*,1187.0,GESHIP
+46,Total revenues,12  Mar-16*,39265.0,GESHIP
+47,Gross profit,12  Mar-16*,19847.0,GESHIP
+48,Depreciation,12  Mar-16*,6079.0,GESHIP
+49,Interest,12  Mar-16*,2878.0,GESHIP
+50,Profit before tax,12  Mar-16*,12077.0,GESHIP
+51,Minority Interest,12  Mar-16*,0.0,GESHIP
+52,Prior Period Items,12  Mar-16*,0.0,GESHIP
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,GESHIP
+54,Tax,12  Mar-16*,1107.0,GESHIP
+55,Profit after tax,12  Mar-16*,10970.0,GESHIP
+56,Gross profit margin,12  Mar-16*,52.1,GESHIP
+57,Effective tax rate,12  Mar-16*,9.2,GESHIP
+58,Net profit margin,12  Mar-16*,28.8,GESHIP
+59,Current assets,12  Mar-16*,45544.0,GESHIP
+60,Current liabilities,12  Mar-16*,23969.0,GESHIP
+61,Net working cap to sales,12  Mar-16*,56.7,GESHIP
+62,Current ratio,12  Mar-16*,1.9,GESHIP
+63,Inventory Days,12  Mar-16*,11.0,GESHIP
+64,Debtors Days,12  Mar-16*,30.0,GESHIP
+65,Net fixed assets,12  Mar-16*,92531.0,GESHIP
+66,Share capital,12  Mar-16*,1508.0,GESHIP
+67,"""Free"" reserves",12  Mar-16*,64127.0,GESHIP
+68,Net worth,12  Mar-16*,65635.0,GESHIP
+69,Long term debt,12  Mar-16*,49077.0,GESHIP
+70,Total assets,12  Mar-16*,139328.0,GESHIP
+71,Interest coverage,12  Mar-16*,5.2,GESHIP
+72,Debt to equity ratio,12  Mar-16*,0.7,GESHIP
+73,Sales to assets ratio,12  Mar-16*,0.3,GESHIP
+74,Return on assets,12  Mar-16*,9.9,GESHIP
+75,Return on equity,12  Mar-16*,16.7,GESHIP
+76,Return on capital,12  Mar-16*,13.0,GESHIP
+77,Exports to sales,12  Mar-16*,0.0,GESHIP
+78,Imports to sales,12  Mar-16*,0.0,GESHIP
+79,Exports (fob),12  Mar-16*,0.0,GESHIP
+80,Imports (cif),12  Mar-16*,0.0,GESHIP
+81,Fx inflow,12  Mar-16*,11200.0,GESHIP
+82,Fx outflow,12  Mar-16*,7658.0,GESHIP
+83,Net fx,12  Mar-16*,3542.0,GESHIP
+84,From Operations,12  Mar-16*,21507.0,GESHIP
+85,From Investments,12  Mar-16*,-4678.0,GESHIP
+86,From Financial Activity,12  Mar-16*,-16767.0,GESHIP
+87,Net Cashflow,12  Mar-16*,339.0,GESHIP
+88,Net Sales,12  Mar-17*,31169.0,GESHIP
+89,Other income,12  Mar-17*,5059.0,GESHIP
+90,Total revenues,12  Mar-17*,36228.0,GESHIP
+91,Gross profit,12  Mar-17*,14312.0,GESHIP
+92,Depreciation,12  Mar-17*,6779.0,GESHIP
+93,Interest,12  Mar-17*,3776.0,GESHIP
+94,Profit before tax,12  Mar-17*,8816.0,GESHIP
+95,Minority Interest,12  Mar-17*,0.0,GESHIP
+96,Prior Period Items,12  Mar-17*,0.0,GESHIP
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GESHIP
+98,Tax,12  Mar-17*,1266.0,GESHIP
+99,Profit after tax,12  Mar-17*,7550.0,GESHIP
+100,Gross profit margin,12  Mar-17*,45.9,GESHIP
+101,Effective tax rate,12  Mar-17*,14.4,GESHIP
+102,Net profit margin,12  Mar-17*,24.2,GESHIP
+103,Current assets,12  Mar-17*,49119.0,GESHIP
+104,Current liabilities,12  Mar-17*,23421.0,GESHIP
+105,Net working cap to sales,12  Mar-17*,82.4,GESHIP
+106,Current ratio,12  Mar-17*,2.1,GESHIP
+107,Inventory Days,12  Mar-17*,17.0,GESHIP
+108,Debtors Days,12  Mar-17*,24.0,GESHIP
+109,Net fixed assets,12  Mar-17*,103267.0,GESHIP
+110,Share capital,12  Mar-17*,1508.0,GESHIP
+111,"""Free"" reserves",12  Mar-17*,70726.0,GESHIP
+112,Net worth,12  Mar-17*,72233.0,GESHIP
+113,Long term debt,12  Mar-17*,57704.0,GESHIP
+114,Total assets,12  Mar-17*,154023.0,GESHIP
+115,Interest coverage,12  Mar-17*,3.3,GESHIP
+116,Debt to equity ratio,12  Mar-17*,0.8,GESHIP
+117,Sales to assets ratio,12  Mar-17*,0.2,GESHIP
+118,Return on assets,12  Mar-17*,7.4,GESHIP
+119,Return on equity,12  Mar-17*,10.5,GESHIP
+120,Return on capital,12  Mar-17*,9.7,GESHIP
+121,Exports to sales,12  Mar-17*,0.0,GESHIP
+122,Imports to sales,12  Mar-17*,0.0,GESHIP
+123,Exports (fob),12  Mar-17*,0.0,GESHIP
+124,Imports (cif),12  Mar-17*,0.0,GESHIP
+125,Fx inflow,12  Mar-17*,11503.0,GESHIP
+126,Fx outflow,12  Mar-17*,21424.0,GESHIP
+127,Net fx,12  Mar-17*,-9920.0,GESHIP
+128,From Operations,12  Mar-17*,15218.0,GESHIP
+129,From Investments,12  Mar-17*,-15258.0,GESHIP
+130,From Financial Activity,12  Mar-17*,7133.0,GESHIP
+131,Net Cashflow,12  Mar-17*,6874.0,GESHIP
+132,Net Sales,12  Mar-18*,30384.0,GESHIP
+133,Other income,12  Mar-18*,1022.0,GESHIP
+134,Total revenues,12  Mar-18*,31406.0,GESHIP
+135,Gross profit,12  Mar-18*,12005.0,GESHIP
+136,Depreciation,12  Mar-18*,7687.0,GESHIP
+137,Interest,12  Mar-18*,4551.0,GESHIP
+138,Profit before tax,12  Mar-18*,789.0,GESHIP
+139,Minority Interest,12  Mar-18*,0.0,GESHIP
+140,Prior Period Items,12  Mar-18*,0.0,GESHIP
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,GESHIP
+142,Tax,12  Mar-18*,2894.0,GESHIP
+143,Profit after tax,12  Mar-18*,-2105.0,GESHIP
+144,Gross profit margin,12  Mar-18*,39.5,GESHIP
+145,Effective tax rate,12  Mar-18*,366.8,GESHIP
+146,Net profit margin,12  Mar-18*,-6.9,GESHIP
+147,Current assets,12  Mar-18*,44705.0,GESHIP
+148,Current liabilities,12  Mar-18*,15931.0,GESHIP
+149,Net working cap to sales,12  Mar-18*,94.7,GESHIP
+150,Current ratio,12  Mar-18*,2.8,GESHIP
+151,Inventory Days,12  Mar-18*,21.0,GESHIP
+152,Debtors Days,12  Mar-18*,30.0,GESHIP
+153,Net fixed assets,12  Mar-18*,98220.0,GESHIP
+154,Share capital,12  Mar-18*,1508.0,GESHIP
+155,"""Free"" reserves",12  Mar-18*,67770.0,GESHIP
+156,Net worth,12  Mar-18*,69277.0,GESHIP
+157,Long term debt,12  Mar-18*,53614.0,GESHIP
+158,Total assets,12  Mar-18*,146639.0,GESHIP
+159,Interest coverage,12  Mar-18*,1.2,GESHIP
+160,Debt to equity ratio,12  Mar-18*,0.8,GESHIP
+161,Sales to assets ratio,12  Mar-18*,0.2,GESHIP
+162,Return on assets,12  Mar-18*,1.7,GESHIP
+163,Return on equity,12  Mar-18*,-3.0,GESHIP
+164,Return on capital,12  Mar-18*,4.3,GESHIP
+165,Exports to sales,12  Mar-18*,0.0,GESHIP
+166,Imports to sales,12  Mar-18*,0.0,GESHIP
+167,Exports (fob),12  Mar-18*,0.0,GESHIP
+168,Imports (cif),12  Mar-18*,0.0,GESHIP
+169,Fx inflow,12  Mar-18*,11320.0,GESHIP
+170,Fx outflow,12  Mar-18*,21833.0,GESHIP
+171,Net fx,12  Mar-18*,-10512.0,GESHIP
+172,From Operations,12  Mar-18*,9689.0,GESHIP
+173,From Investments,12  Mar-18*,-4495.0,GESHIP
+174,From Financial Activity,12  Mar-18*,-11584.0,GESHIP
+175,Net Cashflow,12  Mar-18*,-6017.0,GESHIP
+176,Net Sales,12  Mar-19*,35471.0,GESHIP
+177,Other income,12  Mar-19*,2828.0,GESHIP
+178,Total revenues,12  Mar-19*,38299.0,GESHIP
+179,Gross profit,12  Mar-19*,10532.0,GESHIP
+180,Depreciation,12  Mar-19*,7727.0,GESHIP
+181,Interest,12  Mar-19*,5212.0,GESHIP
+182,Profit before tax,12  Mar-19*,421.0,GESHIP
+183,Minority Interest,12  Mar-19*,0.0,GESHIP
+184,Prior Period Items,12  Mar-19*,0.0,GESHIP
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,GESHIP
+186,Tax,12  Mar-19*,636.0,GESHIP
+187,Profit after tax,12  Mar-19*,-215.0,GESHIP
+188,Gross profit margin,12  Mar-19*,29.7,GESHIP
+189,Effective tax rate,12  Mar-19*,150.9,GESHIP
+190,Net profit margin,12  Mar-19*,-0.6,GESHIP
+191,Current assets,12  Mar-19*,42897.0,GESHIP
+192,Current liabilities,12  Mar-19*,21118.0,GESHIP
+193,Net working cap to sales,12  Mar-19*,61.4,GESHIP
+194,Current ratio,12  Mar-19*,2.0,GESHIP
+195,Inventory Days,12  Mar-19*,22.0,GESHIP
+196,Debtors Days,12  Mar-19*,31.0,GESHIP
+197,Net fixed assets,12  Mar-19*,96315.0,GESHIP
+198,Share capital,12  Mar-19*,1508.0,GESHIP
+199,"""Free"" reserves",12  Mar-19*,66589.0,GESHIP
+200,Net worth,12  Mar-19*,68097.0,GESHIP
+201,Long term debt,12  Mar-19*,48430.0,GESHIP
+202,Total assets,12  Mar-19*,143702.0,GESHIP
+203,Interest coverage,12  Mar-19*,1.1,GESHIP
+204,Debt to equity ratio,12  Mar-19*,0.7,GESHIP
+205,Sales to assets ratio,12  Mar-19*,0.2,GESHIP
+206,Return on assets,12  Mar-19*,3.5,GESHIP
+207,Return on equity,12  Mar-19*,-0.3,GESHIP
+208,Return on capital,12  Mar-19*,4.8,GESHIP
+209,Exports to sales,12  Mar-19*,0.0,GESHIP
+210,Imports to sales,12  Mar-19*,0.0,GESHIP
+211,Exports (fob),12  Mar-19*,0.0,GESHIP
+212,Imports (cif),12  Mar-19*,0.0,GESHIP
+213,Fx inflow,12  Mar-19*,16390.0,GESHIP
+214,Fx outflow,12  Mar-19*,30686.0,GESHIP
+215,Net fx,12  Mar-19*,-14297.0,GESHIP
+216,From Operations,12  Mar-19*,10957.0,GESHIP
+217,From Investments,12  Mar-19*,4298.0,GESHIP
+218,From Financial Activity,12  Mar-19*,-10199.0,GESHIP
+219,Net Cashflow,12  Mar-19*,5052.0,GESHIP

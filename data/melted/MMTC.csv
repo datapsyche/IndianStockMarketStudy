@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23926.0,MMTC
+1,Other income,12  Mar-15*,1449.0,MMTC
+2,Total revenues,12  Mar-15*,25375.0,MMTC
+3,Gross profit,12  Mar-15*,-2.0,MMTC
+4,Depreciation,12  Mar-15*,237.0,MMTC
+5,Interest,12  Mar-15*,391.0,MMTC
+6,Profit before tax,12  Mar-15*,819.0,MMTC
+7,Minority Interest,12  Mar-15*,0.0,MMTC
+8,Prior Period Items,12  Mar-15*,-1202.0,MMTC
+9,Extraordinary Inc (Exp),12  Mar-15*,231.0,MMTC
+10,Tax,12  Mar-15*,272.0,MMTC
+11,Profit after tax,12  Mar-15*,-425.0,MMTC
+12,Gross profit margin,12  Mar-15*,0.0,MMTC
+13,Effective tax rate,12  Mar-15*,33.2,MMTC
+14,Net profit margin,12  Mar-15*,-1.8,MMTC
+15,Current assets,12  Mar-15*,54077.0,MMTC
+16,Current liabilities,12  Mar-15*,46812.0,MMTC
+17,Net working cap to sales,12  Mar-15*,30.4,MMTC
+18,Current ratio,12  Mar-15*,1.2,MMTC
+19,Inventory Days,12  Mar-15*,51.0,MMTC
+20,Debtors Days,12  Mar-15*,464.0,MMTC
+21,Net fixed assets,12  Mar-15*,2755.0,MMTC
+22,Share capital,12  Mar-15*,1000.0,MMTC
+23,"""Free"" reserves",12  Mar-15*,12601.0,MMTC
+24,Net worth,12  Mar-15*,13643.0,MMTC
+25,Long term debt,12  Mar-15*,502.0,MMTC
+26,Total assets,12  Mar-15*,63002.0,MMTC
+27,Interest coverage,12  Mar-15*,3.1,MMTC
+28,Debt to equity ratio,12  Mar-15*,0.0,MMTC
+29,Sales to assets ratio,12  Mar-15*,0.4,MMTC
+30,Return on assets,12  Mar-15*,-0.1,MMTC
+31,Return on equity,12  Mar-15*,-3.1,MMTC
+32,Return on capital,12  Mar-15*,1.7,MMTC
+33,Exports to sales,12  Mar-15*,95.9,MMTC
+34,Imports to sales,12  Mar-15*,573.7,MMTC
+35,Exports (fob),12  Mar-15*,22938.0,MMTC
+36,Imports (cif),12  Mar-15*,137268.0,MMTC
+37,Fx inflow,12  Mar-15*,22997.0,MMTC
+38,Fx outflow,12  Mar-15*,138085.0,MMTC
+39,Net fx,12  Mar-15*,-115088.0,MMTC
+40,From Operations,12  Mar-15*,-1777.0,MMTC
+41,From Investments,12  Mar-15*,850.0,MMTC
+42,From Financial Activity,12  Mar-15*,-1781.0,MMTC
+43,Net Cashflow,12  Mar-15*,-2709.0,MMTC
+44,Net Sales,12  Mar-16*,18790.0,MMTC
+45,Other income,12  Mar-16*,1706.0,MMTC
+46,Total revenues,12  Mar-16*,20496.0,MMTC
+47,Gross profit,12  Mar-16*,-1010.0,MMTC
+48,Depreciation,12  Mar-16*,106.0,MMTC
+49,Interest,12  Mar-16*,503.0,MMTC
+50,Profit before tax,12  Mar-16*,87.0,MMTC
+51,Minority Interest,12  Mar-16*,0.0,MMTC
+52,Prior Period Items,12  Mar-16*,-1709.0,MMTC
+53,Extraordinary Inc (Exp),12  Mar-16*,650.0,MMTC
+54,Tax,12  Mar-16*,73.0,MMTC
+55,Profit after tax,12  Mar-16*,-1045.0,MMTC
+56,Gross profit margin,12  Mar-16*,-5.4,MMTC
+57,Effective tax rate,12  Mar-16*,83.6,MMTC
+58,Net profit margin,12  Mar-16*,-5.6,MMTC
+59,Current assets,12  Mar-16*,31373.0,MMTC
+60,Current liabilities,12  Mar-16*,24531.0,MMTC
+61,Net working cap to sales,12  Mar-16*,36.4,MMTC
+62,Current ratio,12  Mar-16*,1.3,MMTC
+63,Inventory Days,12  Mar-16*,86.0,MMTC
+64,Debtors Days,12  Mar-16*,162.0,MMTC
+65,Net fixed assets,12  Mar-16*,2899.0,MMTC
+66,Share capital,12  Mar-16*,1000.0,MMTC
+67,"""Free"" reserves",12  Mar-16*,11133.0,MMTC
+68,Net worth,12  Mar-16*,12133.0,MMTC
+69,Long term debt,12  Mar-16*,136.0,MMTC
+70,Total assets,12  Mar-16*,38894.0,MMTC
+71,Interest coverage,12  Mar-16*,1.2,MMTC
+72,Debt to equity ratio,12  Mar-16*,0.0,MMTC
+73,Sales to assets ratio,12  Mar-16*,0.5,MMTC
+74,Return on assets,12  Mar-16*,-1.4,MMTC
+75,Return on equity,12  Mar-16*,-8.6,MMTC
+76,Return on capital,12  Mar-16*,-3.8,MMTC
+77,Exports to sales,12  Mar-16*,36.0,MMTC
+78,Imports to sales,12  Mar-16*,486.5,MMTC
+79,Exports (fob),12  Mar-16*,6762.0,MMTC
+80,Imports (cif),12  Mar-16*,91415.0,MMTC
+81,Fx inflow,12  Mar-16*,6825.0,MMTC
+82,Fx outflow,12  Mar-16*,91837.0,MMTC
+83,Net fx,12  Mar-16*,-85012.0,MMTC
+84,From Operations,12  Mar-16*,-3211.0,MMTC
+85,From Investments,12  Mar-16*,1295.0,MMTC
+86,From Financial Activity,12  Mar-16*,-503.0,MMTC
+87,Net Cashflow,12  Mar-16*,-2419.0,MMTC
+88,Net Sales,12  Mar-17*,118270.0,MMTC
+89,Other income,12  Mar-17*,449.0,MMTC
+90,Total revenues,12  Mar-17*,118718.0,MMTC
+91,Gross profit,12  Mar-17*,-265.0,MMTC
+92,Depreciation,12  Mar-17*,68.0,MMTC
+93,Interest,12  Mar-17*,214.0,MMTC
+94,Profit before tax,12  Mar-17*,-99.0,MMTC
+95,Minority Interest,12  Mar-17*,0.0,MMTC
+96,Prior Period Items,12  Mar-17*,-870.0,MMTC
+97,Extraordinary Inc (Exp),12  Mar-17*,913.0,MMTC
+98,Tax,12  Mar-17*,242.0,MMTC
+99,Profit after tax,12  Mar-17*,-298.0,MMTC
+100,Gross profit margin,12  Mar-17*,-0.2,MMTC
+101,Effective tax rate,12  Mar-17*,-244.9,MMTC
+102,Net profit margin,12  Mar-17*,-0.3,MMTC
+103,Current assets,12  Mar-17*,51888.0,MMTC
+104,Current liabilities,12  Mar-17*,44594.0,MMTC
+105,Net working cap to sales,12  Mar-17*,6.2,MMTC
+106,Current ratio,12  Mar-17*,1.2,MMTC
+107,Inventory Days,12  Mar-17*,73.0,MMTC
+108,Debtors Days,12  Mar-17*,16.0,MMTC
+109,Net fixed assets,12  Mar-17*,1604.0,MMTC
+110,Share capital,12  Mar-17*,1000.0,MMTC
+111,"""Free"" reserves",12  Mar-17*,11007.0,MMTC
+112,Net worth,12  Mar-17*,12007.0,MMTC
+113,Long term debt,12  Mar-17*,0.0,MMTC
+114,Total assets,12  Mar-17*,58478.0,MMTC
+115,Interest coverage,12  Mar-17*,0.5,MMTC
+116,Debt to equity ratio,12  Mar-17*,0.0,MMTC
+117,Sales to assets ratio,12  Mar-17*,2.0,MMTC
+118,Return on assets,12  Mar-17*,-0.1,MMTC
+119,Return on equity,12  Mar-17*,-2.5,MMTC
+120,Return on capital,12  Mar-17*,1.3,MMTC
+121,Exports to sales,12  Mar-17*,13.1,MMTC
+122,Imports to sales,12  Mar-17*,85.2,MMTC
+123,Exports (fob),12  Mar-17*,15473.0,MMTC
+124,Imports (cif),12  Mar-17*,100787.0,MMTC
+125,Fx inflow,12  Mar-17*,15474.0,MMTC
+126,Fx outflow,12  Mar-17*,100898.0,MMTC
+127,Net fx,12  Mar-17*,-85424.0,MMTC
+128,From Operations,12  Mar-17*,2729.0,MMTC
+129,From Investments,12  Mar-17*,-676.0,MMTC
+130,From Financial Activity,12  Mar-17*,1098.0,MMTC
+131,Net Cashflow,12  Mar-17*,3151.0,MMTC
+132,Net Sales,12  Mar-18*,164510.0,MMTC
+133,Other income,12  Mar-18*,457.0,MMTC
+134,Total revenues,12  Mar-18*,164967.0,MMTC
+135,Gross profit,12  Mar-18*,211.0,MMTC
+136,Depreciation,12  Mar-18*,54.0,MMTC
+137,Interest,12  Mar-18*,166.0,MMTC
+138,Profit before tax,12  Mar-18*,448.0,MMTC
+139,Minority Interest,12  Mar-18*,0.0,MMTC
+140,Prior Period Items,12  Mar-18*,114.0,MMTC
+141,Extraordinary Inc (Exp),12  Mar-18*,-84.0,MMTC
+142,Tax,12  Mar-18*,102.0,MMTC
+143,Profit after tax,12  Mar-18*,375.0,MMTC
+144,Gross profit margin,12  Mar-18*,0.1,MMTC
+145,Effective tax rate,12  Mar-18*,22.8,MMTC
+146,Net profit margin,12  Mar-18*,0.2,MMTC
+147,Current assets,12  Mar-18*,46616.0,MMTC
+148,Current liabilities,12  Mar-18*,37856.0,MMTC
+149,Net working cap to sales,12  Mar-18*,5.3,MMTC
+150,Current ratio,12  Mar-18*,1.2,MMTC
+151,Inventory Days,12  Mar-18*,38.0,MMTC
+152,Debtors Days,12  Mar-18*,8.0,MMTC
+153,Net fixed assets,12  Mar-18*,1620.0,MMTC
+154,Share capital,12  Mar-18*,1000.0,MMTC
+155,"""Free"" reserves",12  Mar-18*,11027.0,MMTC
+156,Net worth,12  Mar-18*,12027.0,MMTC
+157,Long term debt,12  Mar-18*,0.0,MMTC
+158,Total assets,12  Mar-18*,51725.0,MMTC
+159,Interest coverage,12  Mar-18*,3.7,MMTC
+160,Debt to equity ratio,12  Mar-18*,0.0,MMTC
+161,Sales to assets ratio,12  Mar-18*,3.2,MMTC
+162,Return on assets,12  Mar-18*,1.0,MMTC
+163,Return on equity,12  Mar-18*,3.1,MMTC
+164,Return on capital,12  Mar-18*,5.4,MMTC
+165,Exports to sales,12  Mar-18*,10.9,MMTC
+166,Imports to sales,12  Mar-18*,66.9,MMTC
+167,Exports (fob),12  Mar-18*,17954.0,MMTC
+168,Imports (cif),12  Mar-18*,110078.0,MMTC
+169,Fx inflow,12  Mar-18*,17969.0,MMTC
+170,Fx outflow,12  Mar-18*,110492.0,MMTC
+171,Net fx,12  Mar-18*,-92523.0,MMTC
+172,From Operations,12  Mar-18*,-4551.0,MMTC
+173,From Investments,12  Mar-18*,1169.0,MMTC
+174,From Financial Activity,12  Mar-18*,264.0,MMTC
+175,Net Cashflow,12  Mar-18*,-3119.0,MMTC
+176,Net Sales,12  Mar-19*,294397.0,MMTC
+177,Other income,12  Mar-19*,209.0,MMTC
+178,Total revenues,12  Mar-19*,294606.0,MMTC
+179,Gross profit,12  Mar-19*,1822.0,MMTC
+180,Depreciation,12  Mar-19*,57.0,MMTC
+181,Interest,12  Mar-19*,667.0,MMTC
+182,Profit before tax,12  Mar-19*,1307.0,MMTC
+183,Minority Interest,12  Mar-19*,0.0,MMTC
+184,Prior Period Items,12  Mar-19*,250.0,MMTC
+185,Extraordinary Inc (Exp),12  Mar-19*,-98.0,MMTC
+186,Tax,12  Mar-19*,372.0,MMTC
+187,Profit after tax,12  Mar-19*,1087.0,MMTC
+188,Gross profit margin,12  Mar-19*,0.6,MMTC
+189,Effective tax rate,12  Mar-19*,28.4,MMTC
+190,Net profit margin,12  Mar-19*,0.4,MMTC
+191,Current assets,12  Mar-19*,38786.0,MMTC
+192,Current liabilities,12  Mar-19*,29225.0,MMTC
+193,Net working cap to sales,12  Mar-19*,3.2,MMTC
+194,Current ratio,12  Mar-19*,1.3,MMTC
+195,Inventory Days,12  Mar-19*,3.0,MMTC
+196,Debtors Days,12  Mar-19*,5.0,MMTC
+197,Net fixed assets,12  Mar-19*,1776.0,MMTC
+198,Share capital,12  Mar-19*,1500.0,MMTC
+199,"""Free"" reserves",12  Mar-19*,11187.0,MMTC
+200,Net worth,12  Mar-19*,12687.0,MMTC
+201,Long term debt,12  Mar-19*,0.0,MMTC
+202,Total assets,12  Mar-19*,43798.0,MMTC
+203,Interest coverage,12  Mar-19*,3.0,MMTC
+204,Debt to equity ratio,12  Mar-19*,0.0,MMTC
+205,Sales to assets ratio,12  Mar-19*,6.7,MMTC
+206,Return on assets,12  Mar-19*,4.0,MMTC
+207,Return on equity,12  Mar-19*,8.6,MMTC
+208,Return on capital,12  Mar-19*,16.8,MMTC
+209,Exports to sales,12  Mar-19*,3.7,MMTC
+210,Imports to sales,12  Mar-19*,67.4,MMTC
+211,Exports (fob),12  Mar-19*,11039.0,MMTC
+212,Imports (cif),12  Mar-19*,198408.0,MMTC
+213,Fx inflow,12  Mar-19*,11055.0,MMTC
+214,Fx outflow,12  Mar-19*,199523.0,MMTC
+215,Net fx,12  Mar-19*,-188468.0,MMTC
+216,From Operations,12  Mar-19*,-3552.0,MMTC
+217,From Investments,12  Mar-19*,87.0,MMTC
+218,From Financial Activity,12  Mar-19*,3394.0,MMTC
+219,Net Cashflow,12  Mar-19*,-71.0,MMTC

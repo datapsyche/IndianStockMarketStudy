@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,59672.0,NYVL
+1,Other income,12  Mar-14*,10248.0,NYVL
+2,Total revenues,12  Mar-14*,69920.0,NYVL
+3,Gross profit,12  Mar-14*,19562.0,NYVL
+4,Depreciation,12  Mar-14*,5173.0,NYVL
+5,Interest,12  Mar-14*,1816.0,NYVL
+6,Profit before tax,12  Mar-14*,22821.0,NYVL
+7,Minority Interest,12  Mar-14*,0.0,NYVL
+8,Prior Period Items,12  Mar-14*,0.0,NYVL
+9,Extraordinary Inc (Exp),12  Mar-14*,-730.0,NYVL
+10,Tax,12  Mar-14*,7073.0,NYVL
+11,Profit after tax,12  Mar-14*,15019.0,NYVL
+12,Gross profit margin,12  Mar-14*,32.8,NYVL
+13,Effective tax rate,12  Mar-14*,31.0,NYVL
+14,Net profit margin,12  Mar-14*,25.2,NYVL
+15,Current assets,12  Mar-14*,81825.0,NYVL
+16,Current liabilities,12  Mar-14*,30687.0,NYVL
+17,Net working cap to sales,12  Mar-14*,85.7,NYVL
+18,Current ratio,12  Mar-14*,2.7,NYVL
+19,Inventory Days,12  Mar-14*,42.0,NYVL
+20,Debtors Days,12  Mar-14*,135.0,NYVL
+21,Net fixed assets,12  Mar-14*,159194.0,NYVL
+22,Share capital,12  Mar-14*,16777.0,NYVL
+23,"""Free"" reserves",12  Mar-14*,117981.0,NYVL
+24,Net worth,12  Mar-14*,139025.0,NYVL
+25,Long term debt,12  Mar-14*,62105.0,NYVL
+26,Total assets,12  Mar-14*,247101.0,NYVL
+27,Interest coverage,12  Mar-14*,13.6,NYVL
+28,Debt to equity ratio,12  Mar-14*,0.4,NYVL
+29,Sales to assets ratio,12  Mar-14*,0.2,NYVL
+30,Return on assets,12  Mar-14*,6.8,NYVL
+31,Return on equity,12  Mar-14*,10.8,NYVL
+32,Return on capital,12  Mar-14*,11.9,NYVL
+33,Exports to sales,12  Mar-14*,0.0,NYVL
+34,Imports to sales,12  Mar-14*,0.4,NYVL
+35,Exports (fob),12  Mar-14*,0.0,NYVL
+36,Imports (cif),12  Mar-14*,215.0,NYVL
+37,Fx inflow,12  Mar-14*,0.0,NYVL
+38,Fx outflow,12  Mar-14*,265.0,NYVL
+39,Net fx,12  Mar-14*,-265.0,NYVL
+40,From Operations,12  Mar-14*,37370.0,NYVL
+41,From Investments,12  Mar-14*,-13928.0,NYVL
+42,From Financial Activity,12  Mar-14*,-9464.0,NYVL
+43,Net Cashflow,12  Mar-14*,13977.0,NYVL
+44,Net Sales,12  Mar-15*,60877.0,NYVL
+45,Other income,12  Mar-15*,7093.0,NYVL
+46,Total revenues,12  Mar-15*,67970.0,NYVL
+47,Gross profit,12  Mar-15*,19183.0,NYVL
+48,Depreciation,12  Mar-15*,4406.0,NYVL
+49,Interest,12  Mar-15*,1496.0,NYVL
+50,Profit before tax,12  Mar-15*,20374.0,NYVL
+51,Minority Interest,12  Mar-15*,0.0,NYVL
+52,Prior Period Items,12  Mar-15*,0.0,NYVL
+53,Extraordinary Inc (Exp),12  Mar-15*,3456.0,NYVL
+54,Tax,12  Mar-15*,8035.0,NYVL
+55,Profit after tax,12  Mar-15*,15794.0,NYVL
+56,Gross profit margin,12  Mar-15*,31.5,NYVL
+57,Effective tax rate,12  Mar-15*,39.4,NYVL
+58,Net profit margin,12  Mar-15*,25.9,NYVL
+59,Current assets,12  Mar-15*,75750.0,NYVL
+60,Current liabilities,12  Mar-15*,25388.0,NYVL
+61,Net working cap to sales,12  Mar-15*,82.7,NYVL
+62,Current ratio,12  Mar-15*,3.0,NYVL
+63,Inventory Days,12  Mar-15*,54.0,NYVL
+64,Debtors Days,12  Mar-15*,137.0,NYVL
+65,Net fixed assets,12  Mar-15*,176394.0,NYVL
+66,Share capital,12  Mar-15*,16777.0,NYVL
+67,"""Free"" reserves",12  Mar-15*,131905.0,NYVL
+68,Net worth,12  Mar-15*,148682.0,NYVL
+69,Long term debt,12  Mar-15*,60108.0,NYVL
+70,Total assets,12  Mar-15*,257524.0,NYVL
+71,Interest coverage,12  Mar-15*,14.6,NYVL
+72,Debt to equity ratio,12  Mar-15*,0.4,NYVL
+73,Sales to assets ratio,12  Mar-15*,0.2,NYVL
+74,Return on assets,12  Mar-15*,6.7,NYVL
+75,Return on equity,12  Mar-15*,10.6,NYVL
+76,Return on capital,12  Mar-15*,12.1,NYVL
+77,Exports to sales,12  Mar-15*,0.0,NYVL
+78,Imports to sales,12  Mar-15*,0.5,NYVL
+79,Exports (fob),12  Mar-15*,0.0,NYVL
+80,Imports (cif),12  Mar-15*,310.0,NYVL
+81,Fx inflow,12  Mar-15*,0.0,NYVL
+82,Fx outflow,12  Mar-15*,613.0,NYVL
+83,Net fx,12  Mar-15*,-613.0,NYVL
+84,From Operations,12  Mar-15*,10361.0,NYVL
+85,From Investments,12  Mar-15*,-5019.0,NYVL
+86,From Financial Activity,12  Mar-15*,-12305.0,NYVL
+87,Net Cashflow,12  Mar-15*,-6963.0,NYVL
+88,Net Sales,12  Mar-16*,78960.0,NYVL
+89,Other income,12  Mar-16*,4933.0,NYVL
+90,Total revenues,12  Mar-16*,83893.0,NYVL
+91,Gross profit,12  Mar-16*,25881.0,NYVL
+92,Depreciation,12  Mar-16*,8679.0,NYVL
+93,Interest,12  Mar-16*,4673.0,NYVL
+94,Profit before tax,12  Mar-16*,17462.0,NYVL
+95,Minority Interest,12  Mar-16*,0.0,NYVL
+96,Prior Period Items,12  Mar-16*,0.0,NYVL
+97,Extraordinary Inc (Exp),12  Mar-16*,-284.0,NYVL
+98,Tax,12  Mar-16*,6370.0,NYVL
+99,Profit after tax,12  Mar-16*,10808.0,NYVL
+100,Gross profit margin,12  Mar-16*,32.8,NYVL
+101,Effective tax rate,12  Mar-16*,36.5,NYVL
+102,Net profit margin,12  Mar-16*,13.7,NYVL
+103,Current assets,12  Mar-16*,99008.0,NYVL
+104,Current liabilities,12  Mar-16*,38051.0,NYVL
+105,Net working cap to sales,12  Mar-16*,77.2,NYVL
+106,Current ratio,12  Mar-16*,2.6,NYVL
+107,Inventory Days,12  Mar-16*,69.0,NYVL
+108,Debtors Days,12  Mar-16*,175.0,NYVL
+109,Net fixed assets,12  Mar-16*,188757.0,NYVL
+110,Share capital,12  Mar-16*,16777.0,NYVL
+111,"""Free"" reserves",12  Mar-16*,136474.0,NYVL
+112,Net worth,12  Mar-16*,153251.0,NYVL
+113,Long term debt,12  Mar-16*,70501.0,NYVL
+114,Total assets,12  Mar-16*,296644.0,NYVL
+115,Interest coverage,12  Mar-16*,4.7,NYVL
+116,Debt to equity ratio,12  Mar-16*,0.5,NYVL
+117,Sales to assets ratio,12  Mar-16*,0.3,NYVL
+118,Return on assets,12  Mar-16*,5.2,NYVL
+119,Return on equity,12  Mar-16*,7.1,NYVL
+120,Return on capital,12  Mar-16*,9.8,NYVL
+121,Exports to sales,12  Mar-16*,0.0,NYVL
+122,Imports to sales,12  Mar-16*,0.2,NYVL
+123,Exports (fob),12  Mar-16*,0.0,NYVL
+124,Imports (cif),12  Mar-16*,179.0,NYVL
+125,Fx inflow,12  Mar-16*,0.0,NYVL
+126,Fx outflow,12  Mar-16*,449.0,NYVL
+127,Net fx,12  Mar-16*,-449.0,NYVL
+128,From Operations,12  Mar-16*,2624.0,NYVL
+129,From Investments,12  Mar-16*,-10752.0,NYVL
+130,From Financial Activity,12  Mar-16*,8552.0,NYVL
+131,Net Cashflow,12  Mar-16*,424.0,NYVL
+132,Net Sales,12  Mar-17*,111857.0,NYVL
+133,Other income,12  Mar-17*,7138.0,NYVL
+134,Total revenues,12  Mar-17*,118995.0,NYVL
+135,Gross profit,12  Mar-17*,42610.0,NYVL
+136,Depreciation,12  Mar-17*,10435.0,NYVL
+137,Interest,12  Mar-17*,5883.0,NYVL
+138,Profit before tax,12  Mar-17*,33429.0,NYVL
+139,Minority Interest,12  Mar-17*,0.0,NYVL
+140,Prior Period Items,12  Mar-17*,0.0,NYVL
+141,Extraordinary Inc (Exp),12  Mar-17*,-1801.0,NYVL
+142,Tax,12  Mar-17*,-1674.0,NYVL
+143,Profit after tax,12  Mar-17*,33302.0,NYVL
+144,Gross profit margin,12  Mar-17*,38.1,NYVL
+145,Effective tax rate,12  Mar-17*,-5.0,NYVL
+146,Net profit margin,12  Mar-17*,29.8,NYVL
+147,Current assets,12  Mar-17*,98350.0,NYVL
+148,Current liabilities,12  Mar-17*,62065.0,NYVL
+149,Net working cap to sales,12  Mar-17*,32.4,NYVL
+150,Current ratio,12  Mar-17*,1.6,NYVL
+151,Inventory Days,12  Mar-17*,76.0,NYVL
+152,Debtors Days,12  Mar-17*,156.0,NYVL
+153,Net fixed assets,12  Mar-17*,212158.0,NYVL
+154,Share capital,12  Mar-17*,15286.0,NYVL
+155,"""Free"" reserves",12  Mar-17*,105979.0,NYVL
+156,Net worth,12  Mar-17*,121265.0,NYVL
+157,Long term debt,12  Mar-17*,85366.0,NYVL
+158,Total assets,12  Mar-17*,334871.0,NYVL
+159,Interest coverage,12  Mar-17*,6.7,NYVL
+160,Debt to equity ratio,12  Mar-17*,0.7,NYVL
+161,Sales to assets ratio,12  Mar-17*,0.3,NYVL
+162,Return on assets,12  Mar-17*,11.7,NYVL
+163,Return on equity,12  Mar-17*,27.5,NYVL
+164,Return on capital,12  Mar-17*,18.2,NYVL
+165,Exports to sales,12  Mar-17*,0.0,NYVL
+166,Imports to sales,12  Mar-17*,0.6,NYVL
+167,Exports (fob),12  Mar-17*,0.0,NYVL
+168,Imports (cif),12  Mar-17*,690.0,NYVL
+169,Fx inflow,12  Mar-17*,0.0,NYVL
+170,Fx outflow,12  Mar-17*,937.0,NYVL
+171,Net fx,12  Mar-17*,-937.0,NYVL
+172,From Operations,12  Mar-17*,12253.0,NYVL
+173,From Investments,12  Mar-17*,-43318.0,NYVL
+174,From Financial Activity,12  Mar-17*,-678.0,NYVL
+175,Net Cashflow,12  Mar-17*,-31743.0,NYVL
+176,Net Sales,12  Mar-18*,112884.0,NYVL
+177,Other income,12  Mar-18*,5760.0,NYVL
+178,Total revenues,12  Mar-18*,118643.0,NYVL
+179,Gross profit,12  Mar-18*,40138.0,NYVL
+180,Depreciation,12  Mar-18*,12316.0,NYVL
+181,Interest,12  Mar-18*,5479.0,NYVL
+182,Profit before tax,12  Mar-18*,28103.0,NYVL
+183,Minority Interest,12  Mar-18*,0.0,NYVL
+184,Prior Period Items,12  Mar-18*,0.0,NYVL
+185,Extraordinary Inc (Exp),12  Mar-18*,594.0,NYVL
+186,Tax,12  Mar-18*,8639.0,NYVL
+187,Profit after tax,12  Mar-18*,20058.0,NYVL
+188,Gross profit margin,12  Mar-18*,35.6,NYVL
+189,Effective tax rate,12  Mar-18*,30.7,NYVL
+190,Net profit margin,12  Mar-18*,17.8,NYVL
+191,Current assets,12  Mar-18*,101538.0,NYVL
+192,Current liabilities,12  Mar-18*,76229.0,NYVL
+193,Net working cap to sales,12  Mar-18*,22.4,NYVL
+194,Current ratio,12  Mar-18*,1.3,NYVL
+195,Inventory Days,12  Mar-18*,68.0,NYVL
+196,Debtors Days,12  Mar-18*,147.0,NYVL
+197,Net fixed assets,12  Mar-18*,251619.0,NYVL
+198,Share capital,12  Mar-18*,15286.0,NYVL
+199,"""Free"" reserves",12  Mar-18*,118234.0,NYVL
+200,Net worth,12  Mar-18*,133520.0,NYVL
+201,Long term debt,12  Mar-18*,93803.0,NYVL
+202,Total assets,12  Mar-18*,384478.0,NYVL
+203,Interest coverage,12  Mar-18*,6.1,NYVL
+204,Debt to equity ratio,12  Mar-18*,0.7,NYVL
+205,Sales to assets ratio,12  Mar-18*,0.3,NYVL
+206,Return on assets,12  Mar-18*,6.6,NYVL
+207,Return on equity,12  Mar-18*,15.0,NYVL
+208,Return on capital,12  Mar-18*,15.0,NYVL
+209,Exports to sales,12  Mar-18*,0.0,NYVL
+210,Imports to sales,12  Mar-18*,0.2,NYVL
+211,Exports (fob),12  Mar-18*,0.0,NYVL
+212,Imports (cif),12  Mar-18*,224.0,NYVL
+213,Fx inflow,12  Mar-18*,0.0,NYVL
+214,Fx outflow,12  Mar-18*,489.0,NYVL
+215,Net fx,12  Mar-18*,-489.0,NYVL
+216,From Operations,12  Mar-18*,45334.0,NYVL
+217,From Investments,12  Mar-18*,-45931.0,NYVL
+218,From Financial Activity,12  Mar-18*,982.0,NYVL
+219,Net Cashflow,12  Mar-18*,385.0,NYVL

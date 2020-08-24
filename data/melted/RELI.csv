@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,2664530.0,RELI
+1,Other income,12  Mar-16*,75460.0,RELI
+2,Total revenues,12  Mar-16*,2739990.0,RELI
+3,Gross profit,12  Mar-16*,462110.0,RELI
+4,Depreciation,12  Mar-16*,115650.0,RELI
+5,Interest,12  Mar-16*,36910.0,RELI
+6,Profit before tax,12  Mar-16*,385010.0,RELI
+7,Minority Interest,12  Mar-16*,2360.0,RELI
+8,Prior Period Items,12  Mar-16*,0.0,RELI
+9,Extraordinary Inc (Exp),12  Mar-16*,0.0,RELI
+10,Tax,12  Mar-16*,88760.0,RELI
+11,Profit after tax,12  Mar-16*,298610.0,RELI
+12,Gross profit margin,12  Mar-16*,17.3,RELI
+13,Effective tax rate,12  Mar-16*,23.1,RELI
+14,Net profit margin,12  Mar-16*,11.2,RELI
+15,Current assets,12  Mar-16*,1277850.0,RELI
+16,Current liabilities,12  Mar-16*,1851540.0,RELI
+17,Net working cap to sales,12  Mar-16*,-21.5,RELI
+18,Current ratio,12  Mar-16*,0.7,RELI
+19,Inventory Days,12  Mar-16*,64.0,RELI
+20,Debtors Days,12  Mar-16*,6.0,RELI
+21,Net fixed assets,12  Mar-16*,4197220.0,RELI
+22,Share capital,12  Mar-16*,29480.0,RELI
+23,"""Free"" reserves",12  Mar-16*,2286080.0,RELI
+24,Net worth,12  Mar-16*,2315560.0,RELI
+25,Long term debt,12  Mar-16*,1416470.0,RELI
+26,Total assets,12  Mar-16*,5989970.0,RELI
+27,Interest coverage,12  Mar-16*,11.4,RELI
+28,Debt to equity ratio,12  Mar-16*,0.6,RELI
+29,Sales to assets ratio,12  Mar-16*,0.4,RELI
+30,Return on assets,12  Mar-16*,5.6,RELI
+31,Return on equity,12  Mar-16*,12.9,RELI
+32,Return on capital,12  Mar-16*,11.4,RELI
+33,Exports to sales,12  Mar-16*,51.7,RELI
+34,Imports to sales,12  Mar-16*,61.8,RELI
+35,Exports (fob),12  Mar-16*,1376340.0,RELI
+36,Imports (cif),12  Mar-16*,1645550.0,RELI
+37,Fx inflow,12  Mar-16*,1378320.0,RELI
+38,Fx outflow,12  Mar-16*,1725680.0,RELI
+39,Net fx,12  Mar-16*,-347360.0,RELI
+40,From Operations,12  Mar-16*,381340.0,RELI
+41,From Investments,12  Mar-16*,-361900.0,RELI
+42,From Financial Activity,12  Mar-16*,-32100.0,RELI
+43,Net Cashflow,12  Mar-16*,-12620.0,RELI
+44,Net Sales,12  Mar-17*,2939510.0,RELI
+45,Other income,12  Mar-17*,114310.0,RELI
+46,Total revenues,12  Mar-17*,3053820.0,RELI
+47,Gross profit,12  Mar-17*,442060.0,RELI
+48,Depreciation,12  Mar-17*,116460.0,RELI
+49,Interest,12  Mar-17*,38490.0,RELI
+50,Profit before tax,12  Mar-17*,401420.0,RELI
+51,Minority Interest,12  Mar-17*,-1080.0,RELI
+52,Prior Period Items,12  Mar-17*,0.0,RELI
+53,Extraordinary Inc (Exp),12  Mar-17*,0.0,RELI
+54,Tax,12  Mar-17*,102010.0,RELI
+55,Profit after tax,12  Mar-17*,298330.0,RELI
+56,Gross profit margin,12  Mar-17*,15.0,RELI
+57,Effective tax rate,12  Mar-17*,25.4,RELI
+58,Net profit margin,12  Mar-17*,10.1,RELI
+59,Current assets,12  Mar-17*,1468130.0,RELI
+60,Current liabilities,12  Mar-17*,2353170.0,RELI
+61,Net working cap to sales,12  Mar-17*,-30.1,RELI
+62,Current ratio,12  Mar-17*,0.6,RELI
+63,Inventory Days,12  Mar-17*,61.0,RELI
+64,Debtors Days,12  Mar-17*,10.0,RELI
+65,Net fixed assets,12  Mar-17*,4550458.0,RELI
+66,Share capital,12  Mar-17*,29590.0,RELI
+67,"""Free"" reserves",12  Mar-17*,2607500.0,RELI
+68,Net worth,12  Mar-17*,2637090.0,RELI
+69,Long term debt,12  Mar-17*,1521480.0,RELI
+70,Total assets,12  Mar-17*,7123390.0,RELI
+71,Interest coverage,12  Mar-17*,11.4,RELI
+72,Debt to equity ratio,12  Mar-17*,0.6,RELI
+73,Sales to assets ratio,12  Mar-17*,0.4,RELI
+74,Return on assets,12  Mar-17*,4.7,RELI
+75,Return on equity,12  Mar-17*,11.3,RELI
+76,Return on capital,12  Mar-17*,10.6,RELI
+77,Exports to sales,12  Mar-17*,47.2,RELI
+78,Imports to sales,12  Mar-17*,0.0,RELI
+79,Exports (fob),12  Mar-17*,1388560.0,RELI
+80,Imports (cif),12  Mar-17*,0.0,RELI
+81,Fx inflow,12  Mar-17*,1391310.0,RELI
+82,Fx outflow,12  Mar-17*,1799490.0,RELI
+83,Net fx,12  Mar-17*,-408180.0,RELI
+84,From Operations,12  Mar-17*,495500.0,RELI
+85,From Investments,12  Mar-17*,-662920.0,RELI
+86,From Financial Activity,12  Mar-17*,86170.0,RELI
+87,Net Cashflow,12  Mar-17*,-80340.0,RELI
+88,Net Sales,12  Mar-18*,3945170.0,RELI
+89,Other income,12  Mar-18*,196260.0,RELI
+90,Total revenues,12  Mar-18*,4141430.0,RELI
+91,Gross profit,12  Mar-18*,544990.0,RELI
+92,Depreciation,12  Mar-18*,167060.0,RELI
+93,Interest,12  Mar-18*,80520.0,RELI
+94,Profit before tax,12  Mar-18*,493670.0,RELI
+95,Minority Interest,12  Mar-18*,590.0,RELI
+96,Prior Period Items,12  Mar-18*,0.0,RELI
+97,Extraordinary Inc (Exp),12  Mar-18*,0.0,RELI
+98,Tax,12  Mar-18*,133460.0,RELI
+99,Profit after tax,12  Mar-18*,360800.0,RELI
+100,Gross profit margin,12  Mar-18*,13.8,RELI
+101,Effective tax rate,12  Mar-18*,27.0,RELI
+102,Net profit margin,12  Mar-18*,9.1,RELI
+103,Current assets,12  Mar-18*,1837860.0,RELI
+104,Current liabilities,12  Mar-18*,3138520.0,RELI
+105,Net working cap to sales,12  Mar-18*,-33.0,RELI
+106,Current ratio,12  Mar-18*,0.6,RELI
+107,Inventory Days,12  Mar-18*,56.0,RELI
+108,Debtors Days,12  Mar-18*,16.0,RELI
+109,Net fixed assets,12  Mar-18*,5909070.0,RELI
+110,Share capital,12  Mar-18*,59220.0,RELI
+111,"""Free"" reserves",12  Mar-18*,2875840.0,RELI
+112,Net worth,12  Mar-18*,2935060.0,RELI
+113,Long term debt,12  Mar-18*,1441750.0,RELI
+114,Total assets,12  Mar-18*,8163480.0,RELI
+115,Interest coverage,12  Mar-18*,7.1,RELI
+116,Debt to equity ratio,12  Mar-18*,0.5,RELI
+117,Sales to assets ratio,12  Mar-18*,0.5,RELI
+118,Return on assets,12  Mar-18*,5.4,RELI
+119,Return on equity,12  Mar-18*,12.3,RELI
+120,Return on capital,12  Mar-18*,13.1,RELI
+121,Exports to sales,12  Mar-18*,42.9,RELI
+122,Imports to sales,12  Mar-18*,0.0,RELI
+123,Exports (fob),12  Mar-18*,1693250.0,RELI
+124,Imports (cif),12  Mar-18*,0.0,RELI
+125,Fx inflow,12  Mar-18*,1697630.0,RELI
+126,Fx outflow,12  Mar-18*,2219770.0,RELI
+127,Net fx,12  Mar-18*,-522140.0,RELI
+128,From Operations,12  Mar-18*,714590.0,RELI
+129,From Investments,12  Mar-18*,-682900.0,RELI
+130,From Financial Activity,12  Mar-18*,-20010.0,RELI
+131,Net Cashflow,12  Mar-18*,12660.0,RELI
+132,Net Sales,12  Mar-19*,5716550.0,RELI
+133,Other income,12  Mar-19*,83860.0,RELI
+134,Total revenues,12  Mar-19*,5800410.0,RELI
+135,Gross profit,12  Mar-19*,841670.0,RELI
+136,Depreciation,12  Mar-19*,209340.0,RELI
+137,Interest,12  Mar-19*,164950.0,RELI
+138,Profit before tax,12  Mar-19*,551240.0,RELI
+139,Minority Interest,12  Mar-19*,1030.0,RELI
+140,Prior Period Items,12  Mar-19*,0.0,RELI
+141,Extraordinary Inc (Exp),12  Mar-19*,0.0,RELI
+142,Tax,12  Mar-19*,153900.0,RELI
+143,Profit after tax,12  Mar-19*,398370.0,RELI
+144,Gross profit margin,12  Mar-19*,14.7,RELI
+145,Effective tax rate,12  Mar-19*,27.9,RELI
+146,Net profit margin,12  Mar-19*,7.0,RELI
+147,Current assets,12  Mar-19*,2260880.0,RELI
+148,Current liabilities,12  Mar-19*,3140230.0,RELI
+149,Net working cap to sales,12  Mar-19*,-15.4,RELI
+150,Current ratio,12  Mar-19*,0.7,RELI
+151,Inventory Days,12  Mar-19*,43.0,RELI
+152,Debtors Days,12  Mar-19*,19.0,RELI
+153,Net fixed assets,12  Mar-19*,5778370.0,RELI
+154,Share capital,12  Mar-19*,59260.0,RELI
+155,"""Free"" reserves",12  Mar-19*,3811860.0,RELI
+156,Net worth,12  Mar-19*,3871120.0,RELI
+157,Long term debt,12  Mar-19*,2075060.0,RELI
+158,Total assets,12  Mar-19*,10024060.0,RELI
+159,Interest coverage,12  Mar-19*,4.3,RELI
+160,Debt to equity ratio,12  Mar-19*,0.5,RELI
+161,Sales to assets ratio,12  Mar-19*,0.6,RELI
+162,Return on assets,12  Mar-19*,5.6,RELI
+163,Return on equity,12  Mar-19*,10.3,RELI
+164,Return on capital,12  Mar-19*,12.1,RELI
+165,Exports to sales,12  Mar-19*,37.2,RELI
+166,Imports to sales,12  Mar-19*,0.0,RELI
+167,Exports (fob),12  Mar-19*,2124690.0,RELI
+168,Imports (cif),12  Mar-19*,0.0,RELI
+169,Fx inflow,12  Mar-19*,2143370.0,RELI
+170,Fx outflow,12  Mar-19*,3075580.0,RELI
+171,Net fx,12  Mar-19*,-932210.0,RELI
+172,From Operations,12  Mar-19*,423460.0,RELI
+173,From Investments,12  Mar-19*,-951280.0,RELI
+174,From Financial Activity,12  Mar-19*,559060.0,RELI
+175,Net Cashflow,12  Mar-19*,37450.0,RELI
+176,Net Sales,12  Mar-20*,5768760.0,RELI
+177,Other income,12  Mar-20*,139560.0,RELI
+178,Total revenues,12  Mar-20*,5908320.0,RELI
+179,Gross profit,12  Mar-20*,882170.0,RELI
+180,Depreciation,12  Mar-20*,222030.0,RELI
+181,Interest,12  Mar-20*,220270.0,RELI
+182,Profit before tax,12  Mar-20*,579430.0,RELI
+183,Minority Interest,12  Mar-20*,1070.0,RELI
+184,Prior Period Items,12  Mar-20*,-44440.0,RELI
+185,Extraordinary Inc (Exp),12  Mar-20*,0.0,RELI
+186,Tax,12  Mar-20*,137260.0,RELI
+187,Profit after tax,12  Mar-20*,398800.0,RELI
+188,Gross profit margin,12  Mar-20*,15.3,RELI
+189,Effective tax rate,12  Mar-20*,23.7,RELI
+190,Net profit margin,12  Mar-20*,6.9,RELI
+191,Current assets,12  Mar-20*,2582600.0,RELI
+192,Current liabilities,12  Mar-20*,4129160.0,RELI
+193,Net working cap to sales,12  Mar-20*,-26.8,RELI
+194,Current ratio,12  Mar-20*,0.6,RELI
+195,Inventory Days,12  Mar-20*,47.0,RELI
+196,Debtors Days,12  Mar-20*,12.0,RELI
+197,Net fixed assets,12  Mar-20*,6417640.0,RELI
+198,Share capital,12  Mar-20*,63390.0,RELI
+199,"""Free"" reserves",12  Mar-20*,4469920.0,RELI
+200,Net worth,12  Mar-20*,4533310.0,RELI
+201,Long term debt,12  Mar-20*,1976310.0,RELI
+202,Total assets,12  Mar-20*,11659150.0,RELI
+203,Interest coverage,12  Mar-20*,3.6,RELI
+204,Debt to equity ratio,12  Mar-20*,0.4,RELI
+205,Sales to assets ratio,12  Mar-20*,0.5,RELI
+206,Return on assets,12  Mar-20*,5.3,RELI
+207,Return on equity,12  Mar-20*,8.8,RELI
+208,Return on capital,12  Mar-20*,11.6,RELI
+209,Exports to sales,12  Mar-20*,33.2,RELI
+210,Imports to sales,12  Mar-20*,0.0,RELI
+211,Exports (fob),12  Mar-20*,1915170.0,RELI
+212,Imports (cif),12  Mar-20*,0.0,RELI
+213,Fx inflow,12  Mar-20*,1915170.0,RELI
+214,Fx outflow,12  Mar-20*,2602800.0,RELI
+215,Net fx,12  Mar-20*,-687630.0,RELI
+216,From Operations,12  Mar-20*,980740.0,RELI
+217,From Investments,12  Mar-20*,-757170.0,RELI
+218,From Financial Activity,12  Mar-20*,-25410.0,RELI
+219,Net Cashflow,12  Mar-20*,198390.0,RELI

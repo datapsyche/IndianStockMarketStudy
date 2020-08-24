@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,1331.0,OREX
+1,Other income,12  Mar-14*,22.0,OREX
+2,Total revenues,12  Mar-14*,1354.0,OREX
+3,Gross profit,12  Mar-14*,318.0,OREX
+4,Depreciation,12  Mar-14*,35.0,OREX
+5,Interest,12  Mar-14*,16.0,OREX
+6,Profit before tax,12  Mar-14*,289.0,OREX
+7,Minority Interest,12  Mar-14*,0.0,OREX
+8,Prior Period Items,12  Mar-14*,3.0,OREX
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,OREX
+10,Tax,12  Mar-14*,89.0,OREX
+11,Profit after tax,12  Mar-14*,204.0,OREX
+12,Gross profit margin,12  Mar-14*,23.9,OREX
+13,Effective tax rate,12  Mar-14*,30.7,OREX
+14,Net profit margin,12  Mar-14*,15.3,OREX
+15,Current assets,12  Mar-14*,638.0,OREX
+16,Current liabilities,12  Mar-14*,360.0,OREX
+17,Net working cap to sales,12  Mar-14*,20.9,OREX
+18,Current ratio,12  Mar-14*,1.8,OREX
+19,Inventory Days,12  Mar-14*,68.0,OREX
+20,Debtors Days,12  Mar-14*,69.0,OREX
+21,Net fixed assets,12  Mar-14*,697.0,OREX
+22,Share capital,12  Mar-14*,139.0,OREX
+23,"""Free"" reserves",12  Mar-14*,502.0,OREX
+24,Net worth,12  Mar-14*,712.0,OREX
+25,Long term debt,12  Mar-14*,218.0,OREX
+26,Total assets,12  Mar-14*,1352.0,OREX
+27,Interest coverage,12  Mar-14*,19.4,OREX
+28,Debt to equity ratio,12  Mar-14*,0.3,OREX
+29,Sales to assets ratio,12  Mar-14*,1.0,OREX
+30,Return on assets,12  Mar-14*,16.2,OREX
+31,Return on equity,12  Mar-14*,28.6,OREX
+32,Return on capital,12  Mar-14*,33.1,OREX
+33,Exports to sales,12  Mar-14*,58.8,OREX
+34,Imports to sales,12  Mar-14*,14.4,OREX
+35,Exports (fob),12  Mar-14*,783.0,OREX
+36,Imports (cif),12  Mar-14*,192.0,OREX
+37,Fx inflow,12  Mar-14*,798.0,OREX
+38,Fx outflow,12  Mar-14*,423.0,OREX
+39,Net fx,12  Mar-14*,376.0,OREX
+40,From Operations,12  Mar-14*,174.0,OREX
+41,From Investments,12  Mar-14*,-327.0,OREX
+42,From Financial Activity,12  Mar-14*,187.0,OREX
+43,Net Cashflow,12  Mar-14*,34.0,OREX
+44,Net Sales,12  Mar-15*,1582.0,OREX
+45,Other income,12  Mar-15*,10.0,OREX
+46,Total revenues,12  Mar-15*,1592.0,OREX
+47,Gross profit,12  Mar-15*,437.0,OREX
+48,Depreciation,12  Mar-15*,48.0,OREX
+49,Interest,12  Mar-15*,13.0,OREX
+50,Profit before tax,12  Mar-15*,386.0,OREX
+51,Minority Interest,12  Mar-15*,0.0,OREX
+52,Prior Period Items,12  Mar-15*,10.0,OREX
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,OREX
+54,Tax,12  Mar-15*,117.0,OREX
+55,Profit after tax,12  Mar-15*,279.0,OREX
+56,Gross profit margin,12  Mar-15*,27.6,OREX
+57,Effective tax rate,12  Mar-15*,30.4,OREX
+58,Net profit margin,12  Mar-15*,17.6,OREX
+59,Current assets,12  Mar-15*,758.0,OREX
+60,Current liabilities,12  Mar-15*,337.0,OREX
+61,Net working cap to sales,12  Mar-15*,26.6,OREX
+62,Current ratio,12  Mar-15*,2.3,OREX
+63,Inventory Days,12  Mar-15*,67.0,OREX
+64,Debtors Days,12  Mar-15*,67.0,OREX
+65,Net fixed assets,12  Mar-15*,785.0,OREX
+66,Share capital,12  Mar-15*,143.0,OREX
+67,"""Free"" reserves",12  Mar-15*,732.0,OREX
+68,Net worth,12  Mar-15*,950.0,OREX
+69,Long term debt,12  Mar-15*,209.0,OREX
+70,Total assets,12  Mar-15*,1573.0,OREX
+71,Interest coverage,12  Mar-15*,31.4,OREX
+72,Debt to equity ratio,12  Mar-15*,0.2,OREX
+73,Sales to assets ratio,12  Mar-15*,1.0,OREX
+74,Return on assets,12  Mar-15*,18.5,OREX
+75,Return on equity,12  Mar-15*,29.3,OREX
+76,Return on capital,12  Mar-15*,35.3,OREX
+77,Exports to sales,12  Mar-15*,60.5,OREX
+78,Imports to sales,12  Mar-15*,5.8,OREX
+79,Exports (fob),12  Mar-15*,957.0,OREX
+80,Imports (cif),12  Mar-15*,91.0,OREX
+81,Fx inflow,12  Mar-15*,957.0,OREX
+82,Fx outflow,12  Mar-15*,125.0,OREX
+83,Net fx,12  Mar-15*,832.0,OREX
+84,From Operations,12  Mar-15*,242.0,OREX
+85,From Investments,12  Mar-15*,-140.0,OREX
+86,From Financial Activity,12  Mar-15*,-88.0,OREX
+87,Net Cashflow,12  Mar-15*,14.0,OREX
+88,Net Sales,12  Mar-16*,1481.0,OREX
+89,Other income,12  Mar-16*,24.0,OREX
+90,Total revenues,12  Mar-16*,1505.0,OREX
+91,Gross profit,12  Mar-16*,402.0,OREX
+92,Depreciation,12  Mar-16*,60.0,OREX
+93,Interest,12  Mar-16*,12.0,OREX
+94,Profit before tax,12  Mar-16*,355.0,OREX
+95,Minority Interest,12  Mar-16*,0.0,OREX
+96,Prior Period Items,12  Mar-16*,0.0,OREX
+97,Extraordinary Inc (Exp),12  Mar-16*,2.0,OREX
+98,Tax,12  Mar-16*,125.0,OREX
+99,Profit after tax,12  Mar-16*,232.0,OREX
+100,Gross profit margin,12  Mar-16*,27.1,OREX
+101,Effective tax rate,12  Mar-16*,35.1,OREX
+102,Net profit margin,12  Mar-16*,15.7,OREX
+103,Current assets,12  Mar-16*,842.0,OREX
+104,Current liabilities,12  Mar-16*,340.0,OREX
+105,Net working cap to sales,12  Mar-16*,33.9,OREX
+106,Current ratio,12  Mar-16*,2.5,OREX
+107,Inventory Days,12  Mar-16*,99.0,OREX
+108,Debtors Days,12  Mar-16*,72.0,OREX
+109,Net fixed assets,12  Mar-16*,867.0,OREX
+110,Share capital,12  Mar-16*,143.0,OREX
+111,"""Free"" reserves",12  Mar-16*,981.0,OREX
+112,Net worth,12  Mar-16*,1124.0,OREX
+113,Long term debt,12  Mar-16*,200.0,OREX
+114,Total assets,12  Mar-16*,1761.0,OREX
+115,Interest coverage,12  Mar-16*,31.6,OREX
+116,Debt to equity ratio,12  Mar-16*,0.2,OREX
+117,Sales to assets ratio,12  Mar-16*,0.8,OREX
+118,Return on assets,12  Mar-16*,13.9,OREX
+119,Return on equity,12  Mar-16*,20.7,OREX
+120,Return on capital,12  Mar-16*,27.8,OREX
+121,Exports to sales,12  Mar-16*,59.0,OREX
+122,Imports to sales,12  Mar-16*,6.3,OREX
+123,Exports (fob),12  Mar-16*,875.0,OREX
+124,Imports (cif),12  Mar-16*,93.0,OREX
+125,Fx inflow,12  Mar-16*,875.0,OREX
+126,Fx outflow,12  Mar-16*,128.0,OREX
+127,Net fx,12  Mar-16*,746.0,OREX
+128,From Operations,12  Mar-16*,216.0,OREX
+129,From Investments,12  Mar-16*,-164.0,OREX
+130,From Financial Activity,12  Mar-16*,-67.0,OREX
+131,Net Cashflow,12  Mar-16*,-14.0,OREX
+132,Net Sales,12  Mar-17*,1344.0,OREX
+133,Other income,12  Mar-17*,37.0,OREX
+134,Total revenues,12  Mar-17*,1381.0,OREX
+135,Gross profit,12  Mar-17*,360.0,OREX
+136,Depreciation,12  Mar-17*,69.0,OREX
+137,Interest,12  Mar-17*,18.0,OREX
+138,Profit before tax,12  Mar-17*,310.0,OREX
+139,Minority Interest,12  Mar-17*,0.0,OREX
+140,Prior Period Items,12  Mar-17*,11.0,OREX
+141,Extraordinary Inc (Exp),12  Mar-17*,5.0,OREX
+142,Tax,12  Mar-17*,112.0,OREX
+143,Profit after tax,12  Mar-17*,214.0,OREX
+144,Gross profit margin,12  Mar-17*,26.8,OREX
+145,Effective tax rate,12  Mar-17*,36.1,OREX
+146,Net profit margin,12  Mar-17*,16.0,OREX
+147,Current assets,12  Mar-17*,782.0,OREX
+148,Current liabilities,12  Mar-17*,179.0,OREX
+149,Net working cap to sales,12  Mar-17*,44.8,OREX
+150,Current ratio,12  Mar-17*,4.4,OREX
+151,Inventory Days,12  Mar-17*,93.0,OREX
+152,Debtors Days,12  Mar-17*,82.0,OREX
+153,Net fixed assets,12  Mar-17*,813.0,OREX
+154,Share capital,12  Mar-17*,287.0,OREX
+155,"""Free"" reserves",12  Mar-17*,973.0,OREX
+156,Net worth,12  Mar-17*,1260.0,OREX
+157,Long term debt,12  Mar-17*,97.0,OREX
+158,Total assets,12  Mar-17*,1681.0,OREX
+159,Interest coverage,12  Mar-17*,18.2,OREX
+160,Debt to equity ratio,12  Mar-17*,0.1,OREX
+161,Sales to assets ratio,12  Mar-17*,0.8,OREX
+162,Return on assets,12  Mar-17*,13.8,OREX
+163,Return on equity,12  Mar-17*,17.0,OREX
+164,Return on capital,12  Mar-17*,25.4,OREX
+165,Exports to sales,12  Mar-17*,65.9,OREX
+166,Imports to sales,12  Mar-17*,0.0,OREX
+167,Exports (fob),12  Mar-17*,886.0,OREX
+168,Imports (cif),12  Mar-17*,1.0,OREX
+169,Fx inflow,12  Mar-17*,886.0,OREX
+170,Fx outflow,12  Mar-17*,42.0,OREX
+171,Net fx,12  Mar-17*,844.0,OREX
+172,From Operations,12  Mar-17*,322.0,OREX
+173,From Investments,12  Mar-17*,1.0,OREX
+174,From Financial Activity,12  Mar-17*,-305.0,OREX
+175,Net Cashflow,12  Mar-17*,19.0,OREX
+176,Net Sales,12  Mar-18*,1365.0,OREX
+177,Other income,12  Mar-18*,36.0,OREX
+178,Total revenues,12  Mar-18*,1400.0,OREX
+179,Gross profit,12  Mar-18*,395.0,OREX
+180,Depreciation,12  Mar-18*,72.0,OREX
+181,Interest,12  Mar-18*,5.0,OREX
+182,Profit before tax,12  Mar-18*,353.0,OREX
+183,Minority Interest,12  Mar-18*,0.0,OREX
+184,Prior Period Items,12  Mar-18*,20.0,OREX
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,OREX
+186,Tax,12  Mar-18*,102.0,OREX
+187,Profit after tax,12  Mar-18*,270.0,OREX
+188,Gross profit margin,12  Mar-18*,28.9,OREX
+189,Effective tax rate,12  Mar-18*,28.9,OREX
+190,Net profit margin,12  Mar-18*,19.8,OREX
+191,Current assets,12  Mar-18*,828.0,OREX
+192,Current liabilities,12  Mar-18*,236.0,OREX
+193,Net working cap to sales,12  Mar-18*,43.4,OREX
+194,Current ratio,12  Mar-18*,3.5,OREX
+195,Inventory Days,12  Mar-18*,95.0,OREX
+196,Debtors Days,12  Mar-18*,74.0,OREX
+197,Net fixed assets,12  Mar-18*,936.0,OREX
+198,Share capital,12  Mar-18*,283.0,OREX
+199,"""Free"" reserves",12  Mar-18*,1146.0,OREX
+200,Net worth,12  Mar-18*,1428.0,OREX
+201,Long term debt,12  Mar-18*,52.0,OREX
+202,Total assets,12  Mar-18*,1908.0,OREX
+203,Interest coverage,12  Mar-18*,66.3,OREX
+204,Debt to equity ratio,12  Mar-18*,0.0,OREX
+205,Sales to assets ratio,12  Mar-18*,0.7,OREX
+206,Return on assets,12  Mar-18*,14.5,OREX
+207,Return on equity,12  Mar-18*,18.9,OREX
+208,Return on capital,12  Mar-18*,25.5,OREX
+209,Exports to sales,12  Mar-18*,0.0,OREX
+210,Imports to sales,12  Mar-18*,0.0,OREX
+211,Exports (fob),12  Mar-18*,0.0,OREX
+212,Imports (cif),12  Mar-18*,0.0,OREX
+213,Fx inflow,12  Mar-18*,911.0,OREX
+214,Fx outflow,12  Mar-18*,112.0,OREX
+215,Net fx,12  Mar-18*,800.0,OREX
+216,From Operations,12  Mar-18*,379.0,OREX
+217,From Investments,12  Mar-18*,-258.0,OREX
+218,From Financial Activity,12  Mar-18*,-129.0,OREX
+219,Net Cashflow,12  Mar-18*,-7.0,OREX

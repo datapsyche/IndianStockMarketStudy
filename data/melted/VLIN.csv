@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4063.0,VLIN
+1,Other income,12  Mar-15*,32.0,VLIN
+2,Total revenues,12  Mar-15*,4095.0,VLIN
+3,Gross profit,12  Mar-15*,395.0,VLIN
+4,Depreciation,12  Mar-15*,132.0,VLIN
+5,Interest,12  Mar-15*,257.0,VLIN
+6,Profit before tax,12  Mar-15*,37.0,VLIN
+7,Minority Interest,12  Mar-15*,0.0,VLIN
+8,Prior Period Items,12  Mar-15*,1.0,VLIN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,VLIN
+10,Tax,12  Mar-15*,14.0,VLIN
+11,Profit after tax,12  Mar-15*,24.0,VLIN
+12,Gross profit margin,12  Mar-15*,9.7,VLIN
+13,Effective tax rate,12  Mar-15*,36.1,VLIN
+14,Net profit margin,12  Mar-15*,0.6,VLIN
+15,Current assets,12  Mar-15*,1282.0,VLIN
+16,Current liabilities,12  Mar-15*,1783.0,VLIN
+17,Net working cap to sales,12  Mar-15*,-12.3,VLIN
+18,Current ratio,12  Mar-15*,0.7,VLIN
+19,Inventory Days,12  Mar-15*,87.0,VLIN
+20,Debtors Days,12  Mar-15*,14.0,VLIN
+21,Net fixed assets,12  Mar-15*,2261.0,VLIN
+22,Share capital,12  Mar-15*,72.0,VLIN
+23,"""Free"" reserves",12  Mar-15*,456.0,VLIN
+24,Net worth,12  Mar-15*,1135.0,VLIN
+25,Long term debt,12  Mar-15*,608.0,VLIN
+26,Total assets,12  Mar-15*,3697.0,VLIN
+27,Interest coverage,12  Mar-15*,1.1,VLIN
+28,Debt to equity ratio,12  Mar-15*,0.5,VLIN
+29,Sales to assets ratio,12  Mar-15*,1.1,VLIN
+30,Return on assets,12  Mar-15*,7.6,VLIN
+31,Return on equity,12  Mar-15*,2.1,VLIN
+32,Return on capital,12  Mar-15*,16.9,VLIN
+33,Exports to sales,12  Mar-15*,11.0,VLIN
+34,Imports to sales,12  Mar-15*,0.9,VLIN
+35,Exports (fob),12  Mar-15*,445.0,VLIN
+36,Imports (cif),12  Mar-15*,37.0,VLIN
+37,Fx inflow,12  Mar-15*,445.0,VLIN
+38,Fx outflow,12  Mar-15*,79.0,VLIN
+39,Net fx,12  Mar-15*,366.0,VLIN
+40,From Operations,12  Mar-15*,499.0,VLIN
+41,From Investments,12  Mar-15*,-78.0,VLIN
+42,From Financial Activity,12  Mar-15*,-408.0,VLIN
+43,Net Cashflow,12  Mar-15*,13.0,VLIN
+44,Net Sales,12  Mar-16*,4497.0,VLIN
+45,Other income,12  Mar-16*,11.0,VLIN
+46,Total revenues,12  Mar-16*,4508.0,VLIN
+47,Gross profit,12  Mar-16*,584.0,VLIN
+48,Depreciation,12  Mar-16*,136.0,VLIN
+49,Interest,12  Mar-16*,215.0,VLIN
+50,Profit before tax,12  Mar-16*,244.0,VLIN
+51,Minority Interest,12  Mar-16*,0.0,VLIN
+52,Prior Period Items,12  Mar-16*,1.0,VLIN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,VLIN
+54,Tax,12  Mar-16*,97.0,VLIN
+55,Profit after tax,12  Mar-16*,148.0,VLIN
+56,Gross profit margin,12  Mar-16*,13.0,VLIN
+57,Effective tax rate,12  Mar-16*,39.8,VLIN
+58,Net profit margin,12  Mar-16*,3.3,VLIN
+59,Current assets,12  Mar-16*,1274.0,VLIN
+60,Current liabilities,12  Mar-16*,1723.0,VLIN
+61,Net working cap to sales,12  Mar-16*,-10.0,VLIN
+62,Current ratio,12  Mar-16*,0.7,VLIN
+63,Inventory Days,12  Mar-16*,76.0,VLIN
+64,Debtors Days,12  Mar-16*,17.0,VLIN
+65,Net fixed assets,12  Mar-16*,2253.0,VLIN
+66,Share capital,12  Mar-16*,72.0,VLIN
+67,"""Free"" reserves",12  Mar-16*,1360.0,VLIN
+68,Net worth,12  Mar-16*,1432.0,VLIN
+69,Long term debt,12  Mar-16*,453.0,VLIN
+70,Total assets,12  Mar-16*,3828.0,VLIN
+71,Interest coverage,12  Mar-16*,2.1,VLIN
+72,Debt to equity ratio,12  Mar-16*,0.3,VLIN
+73,Sales to assets ratio,12  Mar-16*,1.2,VLIN
+74,Return on assets,12  Mar-16*,9.5,VLIN
+75,Return on equity,12  Mar-16*,10.3,VLIN
+76,Return on capital,12  Mar-16*,24.4,VLIN
+77,Exports to sales,12  Mar-16*,8.1,VLIN
+78,Imports to sales,12  Mar-16*,2.0,VLIN
+79,Exports (fob),12  Mar-16*,362.0,VLIN
+80,Imports (cif),12  Mar-16*,92.0,VLIN
+81,Fx inflow,12  Mar-16*,362.0,VLIN
+82,Fx outflow,12  Mar-16*,130.0,VLIN
+83,Net fx,12  Mar-16*,232.0,VLIN
+84,From Operations,12  Mar-16*,636.0,VLIN
+85,From Investments,12  Mar-16*,-113.0,VLIN
+86,From Financial Activity,12  Mar-16*,-529.0,VLIN
+87,Net Cashflow,12  Mar-16*,-7.0,VLIN
+88,Net Sales,12  Mar-17*,4822.0,VLIN
+89,Other income,12  Mar-17*,35.0,VLIN
+90,Total revenues,12  Mar-17*,4857.0,VLIN
+91,Gross profit,12  Mar-17*,568.0,VLIN
+92,Depreciation,12  Mar-17*,149.0,VLIN
+93,Interest,12  Mar-17*,160.0,VLIN
+94,Profit before tax,12  Mar-17*,293.0,VLIN
+95,Minority Interest,12  Mar-17*,0.0,VLIN
+96,Prior Period Items,12  Mar-17*,0.0,VLIN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,VLIN
+98,Tax,12  Mar-17*,102.0,VLIN
+99,Profit after tax,12  Mar-17*,191.0,VLIN
+100,Gross profit margin,12  Mar-17*,11.8,VLIN
+101,Effective tax rate,12  Mar-17*,34.9,VLIN
+102,Net profit margin,12  Mar-17*,4.0,VLIN
+103,Current assets,12  Mar-17*,1486.0,VLIN
+104,Current liabilities,12  Mar-17*,1916.0,VLIN
+105,Net working cap to sales,12  Mar-17*,-8.9,VLIN
+106,Current ratio,12  Mar-17*,0.8,VLIN
+107,Inventory Days,12  Mar-17*,93.0,VLIN
+108,Debtors Days,12  Mar-17*,8.0,VLIN
+109,Net fixed assets,12  Mar-17*,2555.0,VLIN
+110,Share capital,12  Mar-17*,72.0,VLIN
+111,"""Free"" reserves",12  Mar-17*,1537.0,VLIN
+112,Net worth,12  Mar-17*,1608.0,VLIN
+113,Long term debt,12  Mar-17*,344.0,VLIN
+114,Total assets,12  Mar-17*,4137.0,VLIN
+115,Interest coverage,12  Mar-17*,2.8,VLIN
+116,Debt to equity ratio,12  Mar-17*,0.2,VLIN
+117,Sales to assets ratio,12  Mar-17*,1.2,VLIN
+118,Return on assets,12  Mar-17*,8.5,VLIN
+119,Return on equity,12  Mar-17*,11.9,VLIN
+120,Return on capital,12  Mar-17*,23.2,VLIN
+121,Exports to sales,12  Mar-17*,8.6,VLIN
+122,Imports to sales,12  Mar-17*,0.0,VLIN
+123,Exports (fob),12  Mar-17*,417.0,VLIN
+124,Imports (cif),12  Mar-17*,0.0,VLIN
+125,Fx inflow,12  Mar-17*,417.0,VLIN
+126,Fx outflow,12  Mar-17*,130.0,VLIN
+127,Net fx,12  Mar-17*,287.0,VLIN
+128,From Operations,12  Mar-17*,455.0,VLIN
+129,From Investments,12  Mar-17*,-231.0,VLIN
+130,From Financial Activity,12  Mar-17*,-199.0,VLIN
+131,Net Cashflow,12  Mar-17*,26.0,VLIN
+132,Net Sales,12  Mar-18*,5474.0,VLIN
+133,Other income,12  Mar-18*,63.0,VLIN
+134,Total revenues,12  Mar-18*,5537.0,VLIN
+135,Gross profit,12  Mar-18*,481.0,VLIN
+136,Depreciation,12  Mar-18*,161.0,VLIN
+137,Interest,12  Mar-18*,153.0,VLIN
+138,Profit before tax,12  Mar-18*,229.0,VLIN
+139,Minority Interest,12  Mar-18*,0.0,VLIN
+140,Prior Period Items,12  Mar-18*,0.0,VLIN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,VLIN
+142,Tax,12  Mar-18*,73.0,VLIN
+143,Profit after tax,12  Mar-18*,157.0,VLIN
+144,Gross profit margin,12  Mar-18*,8.8,VLIN
+145,Effective tax rate,12  Mar-18*,31.7,VLIN
+146,Net profit margin,12  Mar-18*,2.9,VLIN
+147,Current assets,12  Mar-18*,1621.0,VLIN
+148,Current liabilities,12  Mar-18*,1634.0,VLIN
+149,Net working cap to sales,12  Mar-18*,-0.2,VLIN
+150,Current ratio,12  Mar-18*,1.0,VLIN
+151,Inventory Days,12  Mar-18*,68.0,VLIN
+152,Debtors Days,12  Mar-18*,28.0,VLIN
+153,Net fixed assets,12  Mar-18*,2640.0,VLIN
+154,Share capital,12  Mar-18*,72.0,VLIN
+155,"""Free"" reserves",12  Mar-18*,1681.0,VLIN
+156,Net worth,12  Mar-18*,1753.0,VLIN
+157,Long term debt,12  Mar-18*,710.0,VLIN
+158,Total assets,12  Mar-18*,4394.0,VLIN
+159,Interest coverage,12  Mar-18*,2.5,VLIN
+160,Debt to equity ratio,12  Mar-18*,0.4,VLIN
+161,Sales to assets ratio,12  Mar-18*,1.2,VLIN
+162,Return on assets,12  Mar-18*,7.0,VLIN
+163,Return on equity,12  Mar-18*,8.9,VLIN
+164,Return on capital,12  Mar-18*,15.5,VLIN
+165,Exports to sales,12  Mar-18*,10.0,VLIN
+166,Imports to sales,12  Mar-18*,0.0,VLIN
+167,Exports (fob),12  Mar-18*,549.0,VLIN
+168,Imports (cif),12  Mar-18*,0.0,VLIN
+169,Fx inflow,12  Mar-18*,549.0,VLIN
+170,Fx outflow,12  Mar-18*,119.0,VLIN
+171,Net fx,12  Mar-18*,430.0,VLIN
+172,From Operations,12  Mar-18*,166.0,VLIN
+173,From Investments,12  Mar-18*,-240.0,VLIN
+174,From Financial Activity,12  Mar-18*,61.0,VLIN
+175,Net Cashflow,12  Mar-18*,-13.0,VLIN
+176,Net Sales,12  Mar-19*,5671.0,VLIN
+177,Other income,12  Mar-19*,108.0,VLIN
+178,Total revenues,12  Mar-19*,5779.0,VLIN
+179,Gross profit,12  Mar-19*,720.0,VLIN
+180,Depreciation,12  Mar-19*,169.0,VLIN
+181,Interest,12  Mar-19*,141.0,VLIN
+182,Profit before tax,12  Mar-19*,519.0,VLIN
+183,Minority Interest,12  Mar-19*,0.0,VLIN
+184,Prior Period Items,12  Mar-19*,0.0,VLIN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,VLIN
+186,Tax,12  Mar-19*,185.0,VLIN
+187,Profit after tax,12  Mar-19*,334.0,VLIN
+188,Gross profit margin,12  Mar-19*,12.7,VLIN
+189,Effective tax rate,12  Mar-19*,35.7,VLIN
+190,Net profit margin,12  Mar-19*,5.9,VLIN
+191,Current assets,12  Mar-19*,1807.0,VLIN
+192,Current liabilities,12  Mar-19*,1794.0,VLIN
+193,Net working cap to sales,12  Mar-19*,0.2,VLIN
+194,Current ratio,12  Mar-19*,1.0,VLIN
+195,Inventory Days,12  Mar-19*,82.0,VLIN
+196,Debtors Days,12  Mar-19*,20.0,VLIN
+197,Net fixed assets,12  Mar-19*,2805.0,VLIN
+198,Share capital,12  Mar-19*,72.0,VLIN
+199,"""Free"" reserves",12  Mar-19*,2002.0,VLIN
+200,Net worth,12  Mar-19*,2074.0,VLIN
+201,Long term debt,12  Mar-19*,580.0,VLIN
+202,Total assets,12  Mar-19*,4761.0,VLIN
+203,Interest coverage,12  Mar-19*,4.7,VLIN
+204,Debt to equity ratio,12  Mar-19*,0.3,VLIN
+205,Sales to assets ratio,12  Mar-19*,1.2,VLIN
+206,Return on assets,12  Mar-19*,10.0,VLIN
+207,Return on equity,12  Mar-19*,16.1,VLIN
+208,Return on capital,12  Mar-19*,24.8,VLIN
+209,Exports to sales,12  Mar-19*,12.6,VLIN
+210,Imports to sales,12  Mar-19*,0.0,VLIN
+211,Exports (fob),12  Mar-19*,717.0,VLIN
+212,Imports (cif),12  Mar-19*,0.0,VLIN
+213,Fx inflow,12  Mar-19*,717.0,VLIN
+214,Fx outflow,12  Mar-19*,106.0,VLIN
+215,Net fx,12  Mar-19*,611.0,VLIN
+216,From Operations,12  Mar-19*,460.0,VLIN
+217,From Investments,12  Mar-19*,-328.0,VLIN
+218,From Financial Activity,12  Mar-19*,-96.0,VLIN
+219,Net Cashflow,12  Mar-19*,36.0,VLIN

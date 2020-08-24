@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,291.0,LOGIX
+1,Other income,12  Mar-14*,331.0,LOGIX
+2,Total revenues,12  Mar-14*,622.0,LOGIX
+3,Gross profit,12  Mar-14*,-45.0,LOGIX
+4,Depreciation,12  Mar-14*,258.0,LOGIX
+5,Interest,12  Mar-14*,20.0,LOGIX
+6,Profit before tax,12  Mar-14*,8.0,LOGIX
+7,Minority Interest,12  Mar-14*,0.0,LOGIX
+8,Prior Period Items,12  Mar-14*,0.0,LOGIX
+9,Extraordinary Inc (Exp),12  Mar-14*,-1.0,LOGIX
+10,Tax,12  Mar-14*,1.0,LOGIX
+11,Profit after tax,12  Mar-14*,6.0,LOGIX
+12,Gross profit margin,12  Mar-14*,-15.5,LOGIX
+13,Effective tax rate,12  Mar-14*,9.9,LOGIX
+14,Net profit margin,12  Mar-14*,2.1,LOGIX
+15,Current assets,12  Mar-14*,303.0,LOGIX
+16,Current liabilities,12  Mar-14*,286.0,LOGIX
+17,Net working cap to sales,12  Mar-14*,5.8,LOGIX
+18,Current ratio,12  Mar-14*,1.1,LOGIX
+19,Inventory Days,12  Mar-14*,1.0,LOGIX
+20,Debtors Days,12  Mar-14*,40.0,LOGIX
+21,Net fixed assets,12  Mar-14*,1746.0,LOGIX
+22,Share capital,12  Mar-14*,121.0,LOGIX
+23,"""Free"" reserves",12  Mar-14*,1651.0,LOGIX
+24,Net worth,12  Mar-14*,1772.0,LOGIX
+25,Long term debt,12  Mar-14*,4.0,LOGIX
+26,Total assets,12  Mar-14*,2080.0,LOGIX
+27,Interest coverage,12  Mar-14*,1.4,LOGIX
+28,Debt to equity ratio,12  Mar-14*,0.0,LOGIX
+29,Sales to assets ratio,12  Mar-14*,0.1,LOGIX
+30,Return on assets,12  Mar-14*,1.2,LOGIX
+31,Return on equity,12  Mar-14*,0.4,LOGIX
+32,Return on capital,12  Mar-14*,1.5,LOGIX
+33,Exports to sales,12  Mar-14*,49.1,LOGIX
+34,Imports to sales,12  Mar-14*,4.1,LOGIX
+35,Exports (fob),12  Mar-14*,143.0,LOGIX
+36,Imports (cif),12  Mar-14*,12.0,LOGIX
+37,Fx inflow,12  Mar-14*,143.0,LOGIX
+38,Fx outflow,12  Mar-14*,25.0,LOGIX
+39,Net fx,12  Mar-14*,117.0,LOGIX
+40,From Operations,12  Mar-14*,220.0,LOGIX
+41,From Investments,12  Mar-14*,-195.0,LOGIX
+42,From Financial Activity,12  Mar-14*,-28.0,LOGIX
+43,Net Cashflow,12  Mar-14*,-3.0,LOGIX
+44,Net Sales,12  Mar-15*,335.0,LOGIX
+45,Other income,12  Mar-15*,81.0,LOGIX
+46,Total revenues,12  Mar-15*,416.0,LOGIX
+47,Gross profit,12  Mar-15*,39.0,LOGIX
+48,Depreciation,12  Mar-15*,132.0,LOGIX
+49,Interest,12  Mar-15*,24.0,LOGIX
+50,Profit before tax,12  Mar-15*,-36.0,LOGIX
+51,Minority Interest,12  Mar-15*,0.0,LOGIX
+52,Prior Period Items,12  Mar-15*,0.0,LOGIX
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,LOGIX
+54,Tax,12  Mar-15*,2.0,LOGIX
+55,Profit after tax,12  Mar-15*,-38.0,LOGIX
+56,Gross profit margin,12  Mar-15*,11.5,LOGIX
+57,Effective tax rate,12  Mar-15*,-6.4,LOGIX
+58,Net profit margin,12  Mar-15*,-11.5,LOGIX
+59,Current assets,12  Mar-15*,354.0,LOGIX
+60,Current liabilities,12  Mar-15*,217.0,LOGIX
+61,Net working cap to sales,12  Mar-15*,41.0,LOGIX
+62,Current ratio,12  Mar-15*,1.6,LOGIX
+63,Inventory Days,12  Mar-15*,0.0,LOGIX
+64,Debtors Days,12  Mar-15*,33.0,LOGIX
+65,Net fixed assets,12  Mar-15*,1683.0,LOGIX
+66,Share capital,12  Mar-15*,121.0,LOGIX
+67,"""Free"" reserves",12  Mar-15*,1601.0,LOGIX
+68,Net worth,12  Mar-15*,1722.0,LOGIX
+69,Long term debt,12  Mar-15*,0.0,LOGIX
+70,Total assets,12  Mar-15*,2170.0,LOGIX
+71,Interest coverage,12  Mar-15*,-0.5,LOGIX
+72,Debt to equity ratio,12  Mar-15*,0.0,LOGIX
+73,Sales to assets ratio,12  Mar-15*,0.2,LOGIX
+74,Return on assets,12  Mar-15*,-0.7,LOGIX
+75,Return on equity,12  Mar-15*,-2.2,LOGIX
+76,Return on capital,12  Mar-15*,-0.7,LOGIX
+77,Exports to sales,12  Mar-15*,49.5,LOGIX
+78,Imports to sales,12  Mar-15*,3.5,LOGIX
+79,Exports (fob),12  Mar-15*,166.0,LOGIX
+80,Imports (cif),12  Mar-15*,12.0,LOGIX
+81,Fx inflow,12  Mar-15*,166.0,LOGIX
+82,Fx outflow,12  Mar-15*,29.0,LOGIX
+83,Net fx,12  Mar-15*,137.0,LOGIX
+84,From Operations,12  Mar-15*,8.0,LOGIX
+85,From Investments,12  Mar-15*,-163.0,LOGIX
+86,From Financial Activity,12  Mar-15*,-28.0,LOGIX
+87,Net Cashflow,12  Mar-15*,-183.0,LOGIX
+88,Net Sales,12  Mar-16*,429.0,LOGIX
+89,Other income,12  Mar-16*,83.0,LOGIX
+90,Total revenues,12  Mar-16*,512.0,LOGIX
+91,Gross profit,12  Mar-16*,80.0,LOGIX
+92,Depreciation,12  Mar-16*,122.0,LOGIX
+93,Interest,12  Mar-16*,19.0,LOGIX
+94,Profit before tax,12  Mar-16*,23.0,LOGIX
+95,Minority Interest,12  Mar-16*,0.0,LOGIX
+96,Prior Period Items,12  Mar-16*,0.0,LOGIX
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,LOGIX
+98,Tax,12  Mar-16*,6.0,LOGIX
+99,Profit after tax,12  Mar-16*,16.0,LOGIX
+100,Gross profit margin,12  Mar-16*,18.6,LOGIX
+101,Effective tax rate,12  Mar-16*,27.1,LOGIX
+102,Net profit margin,12  Mar-16*,3.8,LOGIX
+103,Current assets,12  Mar-16*,495.0,LOGIX
+104,Current liabilities,12  Mar-16*,392.0,LOGIX
+105,Net working cap to sales,12  Mar-16*,24.1,LOGIX
+106,Current ratio,12  Mar-16*,1.3,LOGIX
+107,Inventory Days,12  Mar-16*,0.0,LOGIX
+108,Debtors Days,12  Mar-16*,54.0,LOGIX
+109,Net fixed assets,12  Mar-16*,1649.0,LOGIX
+110,Share capital,12  Mar-16*,121.0,LOGIX
+111,"""Free"" reserves",12  Mar-16*,1632.0,LOGIX
+112,Net worth,12  Mar-16*,1753.0,LOGIX
+113,Long term debt,12  Mar-16*,24.0,LOGIX
+114,Total assets,12  Mar-16*,2198.0,LOGIX
+115,Interest coverage,12  Mar-16*,2.2,LOGIX
+116,Debt to equity ratio,12  Mar-16*,0.0,LOGIX
+117,Sales to assets ratio,12  Mar-16*,0.2,LOGIX
+118,Return on assets,12  Mar-16*,1.6,LOGIX
+119,Return on equity,12  Mar-16*,0.9,LOGIX
+120,Return on capital,12  Mar-16*,2.3,LOGIX
+121,Exports to sales,12  Mar-16*,41.0,LOGIX
+122,Imports to sales,12  Mar-16*,1.5,LOGIX
+123,Exports (fob),12  Mar-16*,176.0,LOGIX
+124,Imports (cif),12  Mar-16*,7.0,LOGIX
+125,Fx inflow,12  Mar-16*,176.0,LOGIX
+126,Fx outflow,12  Mar-16*,22.0,LOGIX
+127,Net fx,12  Mar-16*,154.0,LOGIX
+128,From Operations,12  Mar-16*,113.0,LOGIX
+129,From Investments,12  Mar-16*,-86.0,LOGIX
+130,From Financial Activity,12  Mar-16*,-19.0,LOGIX
+131,Net Cashflow,12  Mar-16*,9.0,LOGIX
+132,Net Sales,12  Mar-17*,543.0,LOGIX
+133,Other income,12  Mar-17*,43.0,LOGIX
+134,Total revenues,12  Mar-17*,585.0,LOGIX
+135,Gross profit,12  Mar-17*,128.0,LOGIX
+136,Depreciation,12  Mar-17*,119.0,LOGIX
+137,Interest,12  Mar-17*,12.0,LOGIX
+138,Profit before tax,12  Mar-17*,39.0,LOGIX
+139,Minority Interest,12  Mar-17*,0.0,LOGIX
+140,Prior Period Items,12  Mar-17*,0.0,LOGIX
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,LOGIX
+142,Tax,12  Mar-17*,-7.0,LOGIX
+143,Profit after tax,12  Mar-17*,47.0,LOGIX
+144,Gross profit margin,12  Mar-17*,23.5,LOGIX
+145,Effective tax rate,12  Mar-17*,-18.9,LOGIX
+146,Net profit margin,12  Mar-17*,8.6,LOGIX
+147,Current assets,12  Mar-17*,425.0,LOGIX
+148,Current liabilities,12  Mar-17*,181.0,LOGIX
+149,Net working cap to sales,12  Mar-17*,45.0,LOGIX
+150,Current ratio,12  Mar-17*,2.3,LOGIX
+151,Inventory Days,12  Mar-17*,0.0,LOGIX
+152,Debtors Days,12  Mar-17*,86.0,LOGIX
+153,Net fixed assets,12  Mar-17*,1689.0,LOGIX
+154,Share capital,12  Mar-17*,122.0,LOGIX
+155,"""Free"" reserves",12  Mar-17*,1683.0,LOGIX
+156,Net worth,12  Mar-17*,1805.0,LOGIX
+157,Long term debt,12  Mar-17*,170.0,LOGIX
+158,Total assets,12  Mar-17*,2184.0,LOGIX
+159,Interest coverage,12  Mar-17*,4.3,LOGIX
+160,Debt to equity ratio,12  Mar-17*,0.1,LOGIX
+161,Sales to assets ratio,12  Mar-17*,0.2,LOGIX
+162,Return on assets,12  Mar-17*,2.7,LOGIX
+163,Return on equity,12  Mar-17*,2.6,LOGIX
+164,Return on capital,12  Mar-17*,2.6,LOGIX
+165,Exports to sales,12  Mar-17*,97.3,LOGIX
+166,Imports to sales,12  Mar-17*,1.3,LOGIX
+167,Exports (fob),12  Mar-17*,528.0,LOGIX
+168,Imports (cif),12  Mar-17*,7.0,LOGIX
+169,Fx inflow,12  Mar-17*,528.0,LOGIX
+170,Fx outflow,12  Mar-17*,14.0,LOGIX
+171,Net fx,12  Mar-17*,514.0,LOGIX
+172,From Operations,12  Mar-17*,91.0,LOGIX
+173,From Investments,12  Mar-17*,-70.0,LOGIX
+174,From Financial Activity,12  Mar-17*,-46.0,LOGIX
+175,Net Cashflow,12  Mar-17*,-25.0,LOGIX
+176,Net Sales,12  Mar-18*,630.0,LOGIX
+177,Other income,12  Mar-18*,51.0,LOGIX
+178,Total revenues,12  Mar-18*,681.0,LOGIX
+179,Gross profit,12  Mar-18*,173.0,LOGIX
+180,Depreciation,12  Mar-18*,123.0,LOGIX
+181,Interest,12  Mar-18*,12.0,LOGIX
+182,Profit before tax,12  Mar-18*,90.0,LOGIX
+183,Minority Interest,12  Mar-18*,0.0,LOGIX
+184,Prior Period Items,12  Mar-18*,0.0,LOGIX
+185,Extraordinary Inc (Exp),12  Mar-18*,-19.0,LOGIX
+186,Tax,12  Mar-18*,10.0,LOGIX
+187,Profit after tax,12  Mar-18*,61.0,LOGIX
+188,Gross profit margin,12  Mar-18*,27.5,LOGIX
+189,Effective tax rate,12  Mar-18*,11.1,LOGIX
+190,Net profit margin,12  Mar-18*,9.6,LOGIX
+191,Current assets,12  Mar-18*,403.0,LOGIX
+192,Current liabilities,12  Mar-18*,226.0,LOGIX
+193,Net working cap to sales,12  Mar-18*,28.1,LOGIX
+194,Current ratio,12  Mar-18*,1.8,LOGIX
+195,Inventory Days,12  Mar-18*,0.0,LOGIX
+196,Debtors Days,12  Mar-18*,101.0,LOGIX
+197,Net fixed assets,12  Mar-18*,1810.0,LOGIX
+198,Share capital,12  Mar-18*,128.0,LOGIX
+199,"""Free"" reserves",12  Mar-18*,1765.0,LOGIX
+200,Net worth,12  Mar-18*,1893.0,LOGIX
+201,Long term debt,12  Mar-18*,132.0,LOGIX
+202,Total assets,12  Mar-18*,2276.0,LOGIX
+203,Interest coverage,12  Mar-18*,8.5,LOGIX
+204,Debt to equity ratio,12  Mar-18*,0.1,LOGIX
+205,Sales to assets ratio,12  Mar-18*,0.3,LOGIX
+206,Return on assets,12  Mar-18*,3.2,LOGIX
+207,Return on equity,12  Mar-18*,3.2,LOGIX
+208,Return on capital,12  Mar-18*,4.1,LOGIX
+209,Exports to sales,12  Mar-18*,97.6,LOGIX
+210,Imports to sales,12  Mar-18*,0.5,LOGIX
+211,Exports (fob),12  Mar-18*,615.0,LOGIX
+212,Imports (cif),12  Mar-18*,3.0,LOGIX
+213,Fx inflow,12  Mar-18*,615.0,LOGIX
+214,Fx outflow,12  Mar-18*,10.0,LOGIX
+215,Net fx,12  Mar-18*,605.0,LOGIX
+216,From Operations,12  Mar-18*,234.0,LOGIX
+217,From Investments,12  Mar-18*,-130.0,LOGIX
+218,From Financial Activity,12  Mar-18*,-86.0,LOGIX
+219,Net Cashflow,12  Mar-18*,19.0,LOGIX

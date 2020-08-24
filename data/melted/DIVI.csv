@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,31149.0,DIVI
+1,Other income,12  Mar-15*,447.0,DIVI
+2,Total revenues,12  Mar-15*,31596.0,DIVI
+3,Gross profit,12  Mar-15*,11652.0,DIVI
+4,Depreciation,12  Mar-15*,1360.0,DIVI
+5,Interest,12  Mar-15*,19.0,DIVI
+6,Profit before tax,12  Mar-15*,10721.0,DIVI
+7,Minority Interest,12  Mar-15*,0.0,DIVI
+8,Prior Period Items,12  Mar-15*,0.0,DIVI
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,DIVI
+10,Tax,12  Mar-15*,2206.0,DIVI
+11,Profit after tax,12  Mar-15*,8515.0,DIVI
+12,Gross profit margin,12  Mar-15*,37.4,DIVI
+13,Effective tax rate,12  Mar-15*,20.6,DIVI
+14,Net profit margin,12  Mar-15*,27.3,DIVI
+15,Current assets,12  Mar-15*,27724.0,DIVI
+16,Current liabilities,12  Mar-15*,4560.0,DIVI
+17,Net working cap to sales,12  Mar-15*,74.4,DIVI
+18,Current ratio,12  Mar-15*,6.1,DIVI
+19,Inventory Days,12  Mar-15*,136.0,DIVI
+20,Debtors Days,12  Mar-15*,87.0,DIVI
+21,Net fixed assets,12  Mar-15*,15231.0,DIVI
+22,Share capital,12  Mar-15*,266.0,DIVI
+23,"""Free"" reserves",12  Mar-15*,37958.0,DIVI
+24,Net worth,12  Mar-15*,38223.0,DIVI
+25,Long term debt,12  Mar-15*,11.0,DIVI
+26,Total assets,12  Mar-15*,43829.0,DIVI
+27,Interest coverage,12  Mar-15*,577.4,DIVI
+28,Debt to equity ratio,12  Mar-15*,0.0,DIVI
+29,Sales to assets ratio,12  Mar-15*,0.7,DIVI
+30,Return on assets,12  Mar-15*,19.5,DIVI
+31,Return on equity,12  Mar-15*,22.3,DIVI
+32,Return on capital,12  Mar-15*,28.1,DIVI
+33,Exports to sales,12  Mar-15*,84.3,DIVI
+34,Imports to sales,12  Mar-15*,23.9,DIVI
+35,Exports (fob),12  Mar-15*,26244.0,DIVI
+36,Imports (cif),12  Mar-15*,7442.0,DIVI
+37,Fx inflow,12  Mar-15*,26317.0,DIVI
+38,Fx outflow,12  Mar-15*,7588.0,DIVI
+39,Net fx,12  Mar-15*,18729.0,DIVI
+40,From Operations,12  Mar-15*,8263.0,DIVI
+41,From Investments,12  Mar-15*,-5208.0,DIVI
+42,From Financial Activity,12  Mar-15*,-3030.0,DIVI
+43,Net Cashflow,12  Mar-15*,25.0,DIVI
+44,Net Sales,12  Mar-16*,37764.0,DIVI
+45,Other income,12  Mar-16*,974.0,DIVI
+46,Total revenues,12  Mar-16*,38738.0,DIVI
+47,Gross profit,12  Mar-16*,14174.0,DIVI
+48,Depreciation,12  Mar-16*,1182.0,DIVI
+49,Interest,12  Mar-16*,38.0,DIVI
+50,Profit before tax,12  Mar-16*,13928.0,DIVI
+51,Minority Interest,12  Mar-16*,0.0,DIVI
+52,Prior Period Items,12  Mar-16*,0.0,DIVI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,DIVI
+54,Tax,12  Mar-16*,2671.0,DIVI
+55,Profit after tax,12  Mar-16*,11258.0,DIVI
+56,Gross profit margin,12  Mar-16*,37.5,DIVI
+57,Effective tax rate,12  Mar-16*,19.2,DIVI
+58,Net profit margin,12  Mar-16*,29.8,DIVI
+59,Current assets,12  Mar-16*,30270.0,DIVI
+60,Current liabilities,12  Mar-16*,5195.0,DIVI
+61,Net working cap to sales,12  Mar-16*,66.4,DIVI
+62,Current ratio,12  Mar-16*,5.8,DIVI
+63,Inventory Days,12  Mar-16*,117.0,DIVI
+64,Debtors Days,12  Mar-16*,85.0,DIVI
+65,Net fixed assets,12  Mar-16*,16998.0,DIVI
+66,Share capital,12  Mar-16*,531.0,DIVI
+67,"""Free"" reserves",12  Mar-16*,42402.0,DIVI
+68,Net worth,12  Mar-16*,42933.0,DIVI
+69,Long term debt,12  Mar-16*,5.0,DIVI
+70,Total assets,12  Mar-16*,49021.0,DIVI
+71,Interest coverage,12  Mar-16*,369.5,DIVI
+72,Debt to equity ratio,12  Mar-16*,0.0,DIVI
+73,Sales to assets ratio,12  Mar-16*,0.8,DIVI
+74,Return on assets,12  Mar-16*,23.0,DIVI
+75,Return on equity,12  Mar-16*,26.2,DIVI
+76,Return on capital,12  Mar-16*,32.5,DIVI
+77,Exports to sales,12  Mar-16*,85.3,DIVI
+78,Imports to sales,12  Mar-16*,22.9,DIVI
+79,Exports (fob),12  Mar-16*,32198.0,DIVI
+80,Imports (cif),12  Mar-16*,8654.0,DIVI
+81,Fx inflow,12  Mar-16*,32270.0,DIVI
+82,Fx outflow,12  Mar-16*,8775.0,DIVI
+83,Net fx,12  Mar-16*,23496.0,DIVI
+84,From Operations,12  Mar-16*,10379.0,DIVI
+85,From Investments,12  Mar-16*,-4064.0,DIVI
+86,From Financial Activity,12  Mar-16*,-6311.0,DIVI
+87,Net Cashflow,12  Mar-16*,3.0,DIVI
+88,Net Sales,12  Mar-17*,40643.0,DIVI
+89,Other income,12  Mar-17*,749.0,DIVI
+90,Total revenues,12  Mar-17*,41392.0,DIVI
+91,Gross profit,12  Mar-17*,14460.0,DIVI
+92,Depreciation,12  Mar-17*,1233.0,DIVI
+93,Interest,12  Mar-17*,23.0,DIVI
+94,Profit before tax,12  Mar-17*,13953.0,DIVI
+95,Minority Interest,12  Mar-17*,0.0,DIVI
+96,Prior Period Items,12  Mar-17*,0.0,DIVI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,DIVI
+98,Tax,12  Mar-17*,3349.0,DIVI
+99,Profit after tax,12  Mar-17*,10604.0,DIVI
+100,Gross profit margin,12  Mar-17*,35.6,DIVI
+101,Effective tax rate,12  Mar-17*,24.0,DIVI
+102,Net profit margin,12  Mar-17*,26.1,DIVI
+103,Current assets,12  Mar-17*,40105.0,DIVI
+104,Current liabilities,12  Mar-17*,6595.0,DIVI
+105,Net working cap to sales,12  Mar-17*,82.5,DIVI
+106,Current ratio,12  Mar-17*,6.1,DIVI
+107,Inventory Days,12  Mar-17*,119.0,DIVI
+108,Debtors Days,12  Mar-17*,81.0,DIVI
+109,Net fixed assets,12  Mar-17*,19995.0,DIVI
+110,Share capital,12  Mar-17*,531.0,DIVI
+111,"""Free"" reserves",12  Mar-17*,53043.0,DIVI
+112,Net worth,12  Mar-17*,53574.0,DIVI
+113,Long term debt,12  Mar-17*,0.0,DIVI
+114,Total assets,12  Mar-17*,61585.0,DIVI
+115,Interest coverage,12  Mar-17*,618.4,DIVI
+116,Debt to equity ratio,12  Mar-17*,0.0,DIVI
+117,Sales to assets ratio,12  Mar-17*,0.7,DIVI
+118,Return on assets,12  Mar-17*,17.3,DIVI
+119,Return on equity,12  Mar-17*,19.8,DIVI
+120,Return on capital,12  Mar-17*,26.1,DIVI
+121,Exports to sales,12  Mar-17*,0.0,DIVI
+122,Imports to sales,12  Mar-17*,25.2,DIVI
+123,Exports (fob),12  Mar-17*,0.0,DIVI
+124,Imports (cif),12  Mar-17*,10260.0,DIVI
+125,Fx inflow,12  Mar-17*,35384.0,DIVI
+126,Fx outflow,12  Mar-17*,10399.0,DIVI
+127,Net fx,12  Mar-17*,24985.0,DIVI
+128,From Operations,12  Mar-17*,11504.0,DIVI
+129,From Investments,12  Mar-17*,-11396.0,DIVI
+130,From Financial Activity,12  Mar-17*,24.0,DIVI
+131,Net Cashflow,12  Mar-17*,132.0,DIVI
+132,Net Sales,12  Mar-18*,38915.0,DIVI
+133,Other income,12  Mar-18*,1134.0,DIVI
+134,Total revenues,12  Mar-18*,40049.0,DIVI
+135,Gross profit,12  Mar-18*,12617.0,DIVI
+136,Depreciation,12  Mar-18*,1425.0,DIVI
+137,Interest,12  Mar-18*,13.0,DIVI
+138,Profit before tax,12  Mar-18*,12313.0,DIVI
+139,Minority Interest,12  Mar-18*,0.0,DIVI
+140,Prior Period Items,12  Mar-18*,0.0,DIVI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,DIVI
+142,Tax,12  Mar-18*,3543.0,DIVI
+143,Profit after tax,12  Mar-18*,8770.0,DIVI
+144,Gross profit margin,12  Mar-18*,32.4,DIVI
+145,Effective tax rate,12  Mar-18*,28.8,DIVI
+146,Net profit margin,12  Mar-18*,22.5,DIVI
+147,Current assets,12  Mar-18*,45351.0,DIVI
+148,Current liabilities,12  Mar-18*,6534.0,DIVI
+149,Net working cap to sales,12  Mar-18*,99.7,DIVI
+150,Current ratio,12  Mar-18*,6.9,DIVI
+151,Inventory Days,12  Mar-18*,127.0,DIVI
+152,Debtors Days,12  Mar-18*,95.0,DIVI
+153,Net fixed assets,12  Mar-18*,21160.0,DIVI
+154,Share capital,12  Mar-18*,531.0,DIVI
+155,"""Free"" reserves",12  Mar-18*,58625.0,DIVI
+156,Net worth,12  Mar-18*,59156.0,DIVI
+157,Long term debt,12  Mar-18*,0.0,DIVI
+158,Total assets,12  Mar-18*,67859.0,DIVI
+159,Interest coverage,12  Mar-18*,926.8,DIVI
+160,Debt to equity ratio,12  Mar-18*,0.0,DIVI
+161,Sales to assets ratio,12  Mar-18*,0.6,DIVI
+162,Return on assets,12  Mar-18*,12.9,DIVI
+163,Return on equity,12  Mar-18*,14.8,DIVI
+164,Return on capital,12  Mar-18*,20.8,DIVI
+165,Exports to sales,12  Mar-18*,0.0,DIVI
+166,Imports to sales,12  Mar-18*,21.8,DIVI
+167,Exports (fob),12  Mar-18*,0.0,DIVI
+168,Imports (cif),12  Mar-18*,8485.0,DIVI
+169,Fx inflow,12  Mar-18*,32359.0,DIVI
+170,Fx outflow,12  Mar-18*,9042.0,DIVI
+171,Net fx,12  Mar-18*,23317.0,DIVI
+172,From Operations,12  Mar-18*,7759.0,DIVI
+173,From Investments,12  Mar-18*,-4783.0,DIVI
+174,From Financial Activity,12  Mar-18*,-3142.0,DIVI
+175,Net Cashflow,12  Mar-18*,-166.0,DIVI
+176,Net Sales,12  Mar-19*,49463.0,DIVI
+177,Other income,12  Mar-19*,1556.0,DIVI
+178,Total revenues,12  Mar-19*,51019.0,DIVI
+179,Gross profit,12  Mar-19*,18718.0,DIVI
+180,Depreciation,12  Mar-19*,1689.0,DIVI
+181,Interest,12  Mar-19*,35.0,DIVI
+182,Profit before tax,12  Mar-19*,18551.0,DIVI
+183,Minority Interest,12  Mar-19*,0.0,DIVI
+184,Prior Period Items,12  Mar-19*,0.0,DIVI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,DIVI
+186,Tax,12  Mar-19*,5023.0,DIVI
+187,Profit after tax,12  Mar-19*,13527.0,DIVI
+188,Gross profit margin,12  Mar-19*,37.8,DIVI
+189,Effective tax rate,12  Mar-19*,27.1,DIVI
+190,Net profit margin,12  Mar-19*,27.3,DIVI
+191,Current assets,12  Mar-19*,46501.0,DIVI
+192,Current liabilities,12  Mar-19*,8468.0,DIVI
+193,Net working cap to sales,12  Mar-19*,76.9,DIVI
+194,Current ratio,12  Mar-19*,5.5,DIVI
+195,Inventory Days,12  Mar-19*,131.0,DIVI
+196,Debtors Days,12  Mar-19*,86.0,DIVI
+197,Net fixed assets,12  Mar-19*,25797.0,DIVI
+198,Share capital,12  Mar-19*,531.0,DIVI
+199,"""Free"" reserves",12  Mar-19*,68962.0,DIVI
+200,Net worth,12  Mar-19*,69493.0,DIVI
+201,Long term debt,12  Mar-19*,0.0,DIVI
+202,Total assets,12  Mar-19*,80383.0,DIVI
+203,Interest coverage,12  Mar-19*,531.0,DIVI
+204,Debt to equity ratio,12  Mar-19*,0.0,DIVI
+205,Sales to assets ratio,12  Mar-19*,0.6,DIVI
+206,Return on assets,12  Mar-19*,16.9,DIVI
+207,Return on equity,12  Mar-19*,19.5,DIVI
+208,Return on capital,12  Mar-19*,26.7,DIVI
+209,Exports to sales,12  Mar-19*,0.0,DIVI
+210,Imports to sales,12  Mar-19*,24.6,DIVI
+211,Exports (fob),12  Mar-19*,0.0,DIVI
+212,Imports (cif),12  Mar-19*,12187.0,DIVI
+213,Fx inflow,12  Mar-19*,41238.0,DIVI
+214,Fx outflow,12  Mar-19*,12405.0,DIVI
+215,Net fx,12  Mar-19*,28833.0,DIVI
+216,From Operations,12  Mar-19*,9543.0,DIVI
+217,From Investments,12  Mar-19*,-6854.0,DIVI
+218,From Financial Activity,12  Mar-19*,-2459.0,DIVI
+219,Net Cashflow,12  Mar-19*,230.0,DIVI

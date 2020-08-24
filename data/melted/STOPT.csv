@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,30971.0,STOPT
+1,Other income,12  Mar-15*,513.0,STOPT
+2,Total revenues,12  Mar-15*,31484.0,STOPT
+3,Gross profit,12  Mar-15*,4607.0,STOPT
+4,Depreciation,12  Mar-15*,1850.0,STOPT
+5,Interest,12  Mar-15*,3269.0,STOPT
+6,Profit before tax,12  Mar-15*,1.0,STOPT
+7,Minority Interest,12  Mar-15*,9.0,STOPT
+8,Prior Period Items,12  Mar-15*,0.0,STOPT
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,STOPT
+10,Tax,12  Mar-15*,37.0,STOPT
+11,Profit after tax,12  Mar-15*,-26.0,STOPT
+12,Gross profit margin,12  Mar-15*,14.9,STOPT
+13,Effective tax rate,12  Mar-15*,3354.5,STOPT
+14,Net profit margin,12  Mar-15*,-0.1,STOPT
+15,Current assets,12  Mar-15*,11139.0,STOPT
+16,Current liabilities,12  Mar-15*,7297.0,STOPT
+17,Net working cap to sales,12  Mar-15*,12.4,STOPT
+18,Current ratio,12  Mar-15*,1.5,STOPT
+19,Inventory Days,12  Mar-15*,20.0,STOPT
+20,Debtors Days,12  Mar-15*,56.0,STOPT
+21,Net fixed assets,12  Mar-15*,9844.0,STOPT
+22,Share capital,12  Mar-15*,788.0,STOPT
+23,"""Free"" reserves",12  Mar-15*,8463.0,STOPT
+24,Net worth,12  Mar-15*,10869.0,STOPT
+25,Long term debt,12  Mar-15*,7142.0,STOPT
+26,Total assets,12  Mar-15*,21428.0,STOPT
+27,Interest coverage,12  Mar-15*,1.0,STOPT
+28,Debt to equity ratio,12  Mar-15*,0.7,STOPT
+29,Sales to assets ratio,12  Mar-15*,1.4,STOPT
+30,Return on assets,12  Mar-15*,15.1,STOPT
+31,Return on equity,12  Mar-15*,-0.2,STOPT
+32,Return on capital,12  Mar-15*,18.2,STOPT
+33,Exports to sales,12  Mar-15*,35.1,STOPT
+34,Imports to sales,12  Mar-15*,33.7,STOPT
+35,Exports (fob),12  Mar-15*,10862.0,STOPT
+36,Imports (cif),12  Mar-15*,10428.0,STOPT
+37,Fx inflow,12  Mar-15*,10864.0,STOPT
+38,Fx outflow,12  Mar-15*,11138.0,STOPT
+39,Net fx,12  Mar-15*,-274.0,STOPT
+40,From Operations,12  Mar-15*,3927.0,STOPT
+41,From Investments,12  Mar-15*,-11718.0,STOPT
+42,From Financial Activity,12  Mar-15*,8500.0,STOPT
+43,Net Cashflow,12  Mar-15*,709.0,STOPT
+44,Net Sales,12  Mar-16*,21440.0,STOPT
+45,Other income,12  Mar-16*,39.0,STOPT
+46,Total revenues,12  Mar-16*,21479.0,STOPT
+47,Gross profit,12  Mar-16*,4659.0,STOPT
+48,Depreciation,12  Mar-16*,1256.0,STOPT
+49,Interest,12  Mar-16*,1192.0,STOPT
+50,Profit before tax,12  Mar-16*,2250.0,STOPT
+51,Minority Interest,12  Mar-16*,0.0,STOPT
+52,Prior Period Items,12  Mar-16*,0.0,STOPT
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,STOPT
+54,Tax,12  Mar-16*,652.0,STOPT
+55,Profit after tax,12  Mar-16*,1598.0,STOPT
+56,Gross profit margin,12  Mar-16*,21.7,STOPT
+57,Effective tax rate,12  Mar-16*,29.0,STOPT
+58,Net profit margin,12  Mar-16*,7.5,STOPT
+59,Current assets,12  Mar-16*,12357.0,STOPT
+60,Current liabilities,12  Mar-16*,12028.0,STOPT
+61,Net working cap to sales,12  Mar-16*,1.5,STOPT
+62,Current ratio,12  Mar-16*,1.0,STOPT
+63,Inventory Days,12  Mar-16*,35.0,STOPT
+64,Debtors Days,12  Mar-16*,121.0,STOPT
+65,Net fixed assets,12  Mar-16*,13342.0,STOPT
+66,Share capital,12  Mar-16*,790.0,STOPT
+67,"""Free"" reserves",12  Mar-16*,4990.0,STOPT
+68,Net worth,12  Mar-16*,6989.0,STOPT
+69,Long term debt,12  Mar-16*,4678.0,STOPT
+70,Total assets,12  Mar-16*,26245.0,STOPT
+71,Interest coverage,12  Mar-16*,2.9,STOPT
+72,Debt to equity ratio,12  Mar-16*,0.7,STOPT
+73,Sales to assets ratio,12  Mar-16*,0.8,STOPT
+74,Return on assets,12  Mar-16*,10.6,STOPT
+75,Return on equity,12  Mar-16*,22.9,STOPT
+76,Return on capital,12  Mar-16*,29.5,STOPT
+77,Exports to sales,12  Mar-16*,25.5,STOPT
+78,Imports to sales,12  Mar-16*,34.3,STOPT
+79,Exports (fob),12  Mar-16*,5474.0,STOPT
+80,Imports (cif),12  Mar-16*,7360.0,STOPT
+81,Fx inflow,12  Mar-16*,5474.0,STOPT
+82,Fx outflow,12  Mar-16*,8066.0,STOPT
+83,Net fx,12  Mar-16*,-2592.0,STOPT
+84,From Operations,12  Mar-16*,2147.0,STOPT
+85,From Investments,12  Mar-16*,-1555.0,STOPT
+86,From Financial Activity,12  Mar-16*,-809.0,STOPT
+87,Net Cashflow,12  Mar-16*,57.0,STOPT
+88,Net Sales,12  Mar-17*,24489.0,STOPT
+89,Other income,12  Mar-17*,116.0,STOPT
+90,Total revenues,12  Mar-17*,24604.0,STOPT
+91,Gross profit,12  Mar-17*,5308.0,STOPT
+92,Depreciation,12  Mar-17*,1592.0,STOPT
+93,Interest,12  Mar-17*,1229.0,STOPT
+94,Profit before tax,12  Mar-17*,2602.0,STOPT
+95,Minority Interest,12  Mar-17*,0.0,STOPT
+96,Prior Period Items,12  Mar-17*,0.0,STOPT
+97,Extraordinary Inc (Exp),12  Mar-17*,-28.0,STOPT
+98,Tax,12  Mar-17*,397.0,STOPT
+99,Profit after tax,12  Mar-17*,2177.0,STOPT
+100,Gross profit margin,12  Mar-17*,21.7,STOPT
+101,Effective tax rate,12  Mar-17*,15.2,STOPT
+102,Net profit margin,12  Mar-17*,8.9,STOPT
+103,Current assets,12  Mar-17*,14728.0,STOPT
+104,Current liabilities,12  Mar-17*,14091.0,STOPT
+105,Net working cap to sales,12  Mar-17*,2.6,STOPT
+106,Current ratio,12  Mar-17*,1.0,STOPT
+107,Inventory Days,12  Mar-17*,50.0,STOPT
+108,Debtors Days,12  Mar-17*,102.0,STOPT
+109,Net fixed assets,12  Mar-17*,14227.0,STOPT
+110,Share capital,12  Mar-17*,797.0,STOPT
+111,"""Free"" reserves",12  Mar-17*,8004.0,STOPT
+112,Net worth,12  Mar-17*,8801.0,STOPT
+113,Long term debt,12  Mar-17*,4271.0,STOPT
+114,Total assets,12  Mar-17*,29110.0,STOPT
+115,Interest coverage,12  Mar-17*,3.1,STOPT
+116,Debt to equity ratio,12  Mar-17*,0.5,STOPT
+117,Sales to assets ratio,12  Mar-17*,0.8,STOPT
+118,Return on assets,12  Mar-17*,11.7,STOPT
+119,Return on equity,12  Mar-17*,24.7,STOPT
+120,Return on capital,12  Mar-17*,29.1,STOPT
+121,Exports to sales,12  Mar-17*,0.0,STOPT
+122,Imports to sales,12  Mar-17*,0.0,STOPT
+123,Exports (fob),12  Mar-17*,0.0,STOPT
+124,Imports (cif),12  Mar-17*,0.0,STOPT
+125,Fx inflow,12  Mar-17*,6643.0,STOPT
+126,Fx outflow,12  Mar-17*,5443.0,STOPT
+127,Net fx,12  Mar-17*,1200.0,STOPT
+128,From Operations,12  Mar-17*,4885.0,STOPT
+129,From Investments,12  Mar-17*,-2323.0,STOPT
+130,From Financial Activity,12  Mar-17*,-1869.0,STOPT
+131,Net Cashflow,12  Mar-17*,693.0,STOPT
+132,Net Sales,12  Mar-18*,31771.0,STOPT
+133,Other income,12  Mar-18*,256.0,STOPT
+134,Total revenues,12  Mar-18*,32027.0,STOPT
+135,Gross profit,12  Mar-18*,7630.0,STOPT
+136,Depreciation,12  Mar-18*,1822.0,STOPT
+137,Interest,12  Mar-18*,1038.0,STOPT
+138,Profit before tax,12  Mar-18*,5026.0,STOPT
+139,Minority Interest,12  Mar-18*,0.0,STOPT
+140,Prior Period Items,12  Mar-18*,0.0,STOPT
+141,Extraordinary Inc (Exp),12  Mar-18*,-9.0,STOPT
+142,Tax,12  Mar-18*,1332.0,STOPT
+143,Profit after tax,12  Mar-18*,3685.0,STOPT
+144,Gross profit margin,12  Mar-18*,24.0,STOPT
+145,Effective tax rate,12  Mar-18*,26.5,STOPT
+146,Net profit margin,12  Mar-18*,11.6,STOPT
+147,Current assets,12  Mar-18*,19562.0,STOPT
+148,Current liabilities,12  Mar-18*,17040.0,STOPT
+149,Net working cap to sales,12  Mar-18*,7.9,STOPT
+150,Current ratio,12  Mar-18*,1.1,STOPT
+151,Inventory Days,12  Mar-18*,39.0,STOPT
+152,Debtors Days,12  Mar-18*,100.0,STOPT
+153,Net fixed assets,12  Mar-18*,15911.0,STOPT
+154,Share capital,12  Mar-18*,802.0,STOPT
+155,"""Free"" reserves",12  Mar-18*,10951.0,STOPT
+156,Net worth,12  Mar-18*,11753.0,STOPT
+157,Long term debt,12  Mar-18*,6305.0,STOPT
+158,Total assets,12  Mar-18*,37117.0,STOPT
+159,Interest coverage,12  Mar-18*,5.8,STOPT
+160,Debt to equity ratio,12  Mar-18*,0.5,STOPT
+161,Sales to assets ratio,12  Mar-18*,0.9,STOPT
+162,Return on assets,12  Mar-18*,12.7,STOPT
+163,Return on equity,12  Mar-18*,31.4,STOPT
+164,Return on capital,12  Mar-18*,33.5,STOPT
+165,Exports to sales,12  Mar-18*,0.0,STOPT
+166,Imports to sales,12  Mar-18*,0.0,STOPT
+167,Exports (fob),12  Mar-18*,0.0,STOPT
+168,Imports (cif),12  Mar-18*,0.0,STOPT
+169,Fx inflow,12  Mar-18*,9565.0,STOPT
+170,Fx outflow,12  Mar-18*,5084.0,STOPT
+171,Net fx,12  Mar-18*,4482.0,STOPT
+172,From Operations,12  Mar-18*,7289.0,STOPT
+173,From Investments,12  Mar-18*,-5822.0,STOPT
+174,From Financial Activity,12  Mar-18*,-1515.0,STOPT
+175,Net Cashflow,12  Mar-18*,-91.0,STOPT
+176,Net Sales,12  Mar-19*,50873.0,STOPT
+177,Other income,12  Mar-19*,199.0,STOPT
+178,Total revenues,12  Mar-19*,51072.0,STOPT
+179,Gross profit,12  Mar-19*,11441.0,STOPT
+180,Depreciation,12  Mar-19*,1950.0,STOPT
+181,Interest,12  Mar-19*,1055.0,STOPT
+182,Profit before tax,12  Mar-19*,8635.0,STOPT
+183,Minority Interest,12  Mar-19*,0.0,STOPT
+184,Prior Period Items,12  Mar-19*,0.0,STOPT
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,STOPT
+186,Tax,12  Mar-19*,2782.0,STOPT
+187,Profit after tax,12  Mar-19*,5854.0,STOPT
+188,Gross profit margin,12  Mar-19*,22.5,STOPT
+189,Effective tax rate,12  Mar-19*,32.2,STOPT
+190,Net profit margin,12  Mar-19*,11.5,STOPT
+191,Current assets,12  Mar-19*,39781.0,STOPT
+192,Current liabilities,12  Mar-19*,41401.0,STOPT
+193,Net working cap to sales,12  Mar-19*,-3.2,STOPT
+194,Current ratio,12  Mar-19*,1.0,STOPT
+195,Inventory Days,12  Mar-19*,42.0,STOPT
+196,Debtors Days,12  Mar-19*,97.0,STOPT
+197,Net fixed assets,12  Mar-19*,28873.0,STOPT
+198,Share capital,12  Mar-19*,805.0,STOPT
+199,"""Free"" reserves",12  Mar-19*,16388.0,STOPT
+200,Net worth,12  Mar-19*,17193.0,STOPT
+201,Long term debt,12  Mar-19*,9348.0,STOPT
+202,Total assets,12  Mar-19*,70123.0,STOPT
+203,Interest coverage,12  Mar-19*,9.2,STOPT
+204,Debt to equity ratio,12  Mar-19*,0.5,STOPT
+205,Sales to assets ratio,12  Mar-19*,0.7,STOPT
+206,Return on assets,12  Mar-19*,9.9,STOPT
+207,Return on equity,12  Mar-19*,34.0,STOPT
+208,Return on capital,12  Mar-19*,36.5,STOPT
+209,Exports to sales,12  Mar-19*,0.0,STOPT
+210,Imports to sales,12  Mar-19*,0.0,STOPT
+211,Exports (fob),12  Mar-19*,0.0,STOPT
+212,Imports (cif),12  Mar-19*,0.0,STOPT
+213,Fx inflow,12  Mar-19*,15101.0,STOPT
+214,Fx outflow,12  Mar-19*,15827.0,STOPT
+215,Net fx,12  Mar-19*,-726.0,STOPT
+216,From Operations,12  Mar-19*,6311.0,STOPT
+217,From Investments,12  Mar-19*,-11721.0,STOPT
+218,From Financial Activity,12  Mar-19*,5702.0,STOPT
+219,Net Cashflow,12  Mar-19*,295.0,STOPT

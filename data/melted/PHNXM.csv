@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,14485.0,PHNXM
+1,Other income,12  Mar-14*,391.0,PHNXM
+2,Total revenues,12  Mar-14*,14876.0,PHNXM
+3,Gross profit,12  Mar-14*,6784.0,PHNXM
+4,Depreciation,12  Mar-14*,1055.0,PHNXM
+5,Interest,12  Mar-14*,3451.0,PHNXM
+6,Profit before tax,12  Mar-14*,2669.0,PHNXM
+7,Minority Interest,12  Mar-14*,-531.0,PHNXM
+8,Prior Period Items,12  Mar-14*,-29.0,PHNXM
+9,Extraordinary Inc (Exp),12  Mar-14*,84.0,PHNXM
+10,Tax,12  Mar-14*,909.0,PHNXM
+11,Profit after tax,12  Mar-14*,1285.0,PHNXM
+12,Gross profit margin,12  Mar-14*,46.8,PHNXM
+13,Effective tax rate,12  Mar-14*,34.1,PHNXM
+14,Net profit margin,12  Mar-14*,8.9,PHNXM
+15,Current assets,12  Mar-14*,17161.0,PHNXM
+16,Current liabilities,12  Mar-14*,11928.0,PHNXM
+17,Net working cap to sales,12  Mar-14*,36.1,PHNXM
+18,Current ratio,12  Mar-14*,1.4,PHNXM
+19,Inventory Days,12  Mar-14*,288.0,PHNXM
+20,Debtors Days,12  Mar-14*,50.0,PHNXM
+21,Net fixed assets,12  Mar-14*,44047.0,PHNXM
+22,Share capital,12  Mar-14*,290.0,PHNXM
+23,"""Free"" reserves",12  Mar-14*,15142.0,PHNXM
+24,Net worth,12  Mar-14*,17237.0,PHNXM
+25,Long term debt,12  Mar-14*,28329.0,PHNXM
+26,Total assets,12  Mar-14*,67585.0,PHNXM
+27,Interest coverage,12  Mar-14*,1.8,PHNXM
+28,Debt to equity ratio,12  Mar-14*,1.6,PHNXM
+29,Sales to assets ratio,12  Mar-14*,0.2,PHNXM
+30,Return on assets,12  Mar-14*,7.0,PHNXM
+31,Return on equity,12  Mar-14*,7.5,PHNXM
+32,Return on capital,12  Mar-14*,12.4,PHNXM
+33,Exports to sales,12  Mar-14*,0.0,PHNXM
+34,Imports to sales,12  Mar-14*,0.0,PHNXM
+35,Exports (fob),12  Mar-14*,0.0,PHNXM
+36,Imports (cif),12  Mar-14*,0.0,PHNXM
+37,Fx inflow,12  Mar-14*,2.0,PHNXM
+38,Fx outflow,12  Mar-14*,7.0,PHNXM
+39,Net fx,12  Mar-14*,-6.0,PHNXM
+40,From Operations,12  Mar-14*,3776.0,PHNXM
+41,From Investments,12  Mar-14*,-12629.0,PHNXM
+42,From Financial Activity,12  Mar-14*,8855.0,PHNXM
+43,Net Cashflow,12  Mar-14*,3.0,PHNXM
+44,Net Sales,12  Mar-15*,16533.0,PHNXM
+45,Other income,12  Mar-15*,312.0,PHNXM
+46,Total revenues,12  Mar-15*,16846.0,PHNXM
+47,Gross profit,12  Mar-15*,7620.0,PHNXM
+48,Depreciation,12  Mar-15*,1681.0,PHNXM
+49,Interest,12  Mar-15*,3956.0,PHNXM
+50,Profit before tax,12  Mar-15*,2295.0,PHNXM
+51,Minority Interest,12  Mar-15*,-553.0,PHNXM
+52,Prior Period Items,12  Mar-15*,43.0,PHNXM
+53,Extraordinary Inc (Exp),12  Mar-15*,-938.0,PHNXM
+54,Tax,12  Mar-15*,493.0,PHNXM
+55,Profit after tax,12  Mar-15*,354.0,PHNXM
+56,Gross profit margin,12  Mar-15*,46.1,PHNXM
+57,Effective tax rate,12  Mar-15*,21.5,PHNXM
+58,Net profit margin,12  Mar-15*,2.1,PHNXM
+59,Current assets,12  Mar-15*,17268.0,PHNXM
+60,Current liabilities,12  Mar-15*,11676.0,PHNXM
+61,Net working cap to sales,12  Mar-15*,33.8,PHNXM
+62,Current ratio,12  Mar-15*,1.5,PHNXM
+63,Inventory Days,12  Mar-15*,260.0,PHNXM
+64,Debtors Days,12  Mar-15*,47.0,PHNXM
+65,Net fixed assets,12  Mar-15*,43648.0,PHNXM
+66,Share capital,12  Mar-15*,290.0,PHNXM
+67,"""Free"" reserves",12  Mar-15*,16713.0,PHNXM
+68,Net worth,12  Mar-15*,17003.0,PHNXM
+69,Long term debt,12  Mar-15*,28010.0,PHNXM
+70,Total assets,12  Mar-15*,66787.0,PHNXM
+71,Interest coverage,12  Mar-15*,1.6,PHNXM
+72,Debt to equity ratio,12  Mar-15*,1.6,PHNXM
+73,Sales to assets ratio,12  Mar-15*,0.2,PHNXM
+74,Return on assets,12  Mar-15*,6.5,PHNXM
+75,Return on equity,12  Mar-15*,2.1,PHNXM
+76,Return on capital,12  Mar-15*,10.7,PHNXM
+77,Exports to sales,12  Mar-15*,0.0,PHNXM
+78,Imports to sales,12  Mar-15*,0.0,PHNXM
+79,Exports (fob),12  Mar-15*,0.0,PHNXM
+80,Imports (cif),12  Mar-15*,0.0,PHNXM
+81,Fx inflow,12  Mar-15*,2.0,PHNXM
+82,Fx outflow,12  Mar-15*,7.0,PHNXM
+83,Net fx,12  Mar-15*,-5.0,PHNXM
+84,From Operations,12  Mar-15*,5636.0,PHNXM
+85,From Investments,12  Mar-15*,-1021.0,PHNXM
+86,From Financial Activity,12  Mar-15*,-4546.0,PHNXM
+87,Net Cashflow,12  Mar-15*,69.0,PHNXM
+88,Net Sales,12  Mar-16*,17795.0,PHNXM
+89,Other income,12  Mar-16*,302.0,PHNXM
+90,Total revenues,12  Mar-16*,18098.0,PHNXM
+91,Gross profit,12  Mar-16*,7869.0,PHNXM
+92,Depreciation,12  Mar-16*,1773.0,PHNXM
+93,Interest,12  Mar-16*,4425.0,PHNXM
+94,Profit before tax,12  Mar-16*,1974.0,PHNXM
+95,Minority Interest,12  Mar-16*,0.0,PHNXM
+96,Prior Period Items,12  Mar-16*,17.0,PHNXM
+97,Extraordinary Inc (Exp),12  Mar-16*,-387.0,PHNXM
+98,Tax,12  Mar-16*,767.0,PHNXM
+99,Profit after tax,12  Mar-16*,837.0,PHNXM
+100,Gross profit margin,12  Mar-16*,44.2,PHNXM
+101,Effective tax rate,12  Mar-16*,38.9,PHNXM
+102,Net profit margin,12  Mar-16*,4.7,PHNXM
+103,Current assets,12  Mar-16*,20487.0,PHNXM
+104,Current liabilities,12  Mar-16*,12162.0,PHNXM
+105,Net working cap to sales,12  Mar-16*,46.8,PHNXM
+106,Current ratio,12  Mar-16*,1.7,PHNXM
+107,Inventory Days,12  Mar-16*,272.0,PHNXM
+108,Debtors Days,12  Mar-16*,57.0,PHNXM
+109,Net fixed assets,12  Mar-16*,47428.0,PHNXM
+110,Share capital,12  Mar-16*,306.0,PHNXM
+111,"""Free"" reserves",12  Mar-16*,19967.0,PHNXM
+112,Net worth,12  Mar-16*,20273.0,PHNXM
+113,Long term debt,12  Mar-16*,33801.0,PHNXM
+114,Total assets,12  Mar-16*,74594.0,PHNXM
+115,Interest coverage,12  Mar-16*,1.4,PHNXM
+116,Debt to equity ratio,12  Mar-16*,1.7,PHNXM
+117,Sales to assets ratio,12  Mar-16*,0.2,PHNXM
+118,Return on assets,12  Mar-16*,7.1,PHNXM
+119,Return on equity,12  Mar-16*,4.1,PHNXM
+120,Return on capital,12  Mar-16*,11.1,PHNXM
+121,Exports to sales,12  Mar-16*,0.0,PHNXM
+122,Imports to sales,12  Mar-16*,0.0,PHNXM
+123,Exports (fob),12  Mar-16*,0.0,PHNXM
+124,Imports (cif),12  Mar-16*,6.0,PHNXM
+125,Fx inflow,12  Mar-16*,0.0,PHNXM
+126,Fx outflow,12  Mar-16*,18.0,PHNXM
+127,Net fx,12  Mar-16*,-18.0,PHNXM
+128,From Operations,12  Mar-16*,4972.0,PHNXM
+129,From Investments,12  Mar-16*,-3889.0,PHNXM
+130,From Financial Activity,12  Mar-16*,-707.0,PHNXM
+131,Net Cashflow,12  Mar-16*,499.0,PHNXM
+132,Net Sales,12  Mar-17*,18246.0,PHNXM
+133,Other income,12  Mar-17*,472.0,PHNXM
+134,Total revenues,12  Mar-17*,18718.0,PHNXM
+135,Gross profit,12  Mar-17*,8469.0,PHNXM
+136,Depreciation,12  Mar-17*,1953.0,PHNXM
+137,Interest,12  Mar-17*,4230.0,PHNXM
+138,Profit before tax,12  Mar-17*,2758.0,PHNXM
+139,Minority Interest,12  Mar-17*,0.0,PHNXM
+140,Prior Period Items,12  Mar-17*,10.0,PHNXM
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,PHNXM
+142,Tax,12  Mar-17*,858.0,PHNXM
+143,Profit after tax,12  Mar-17*,1910.0,PHNXM
+144,Gross profit margin,12  Mar-17*,46.4,PHNXM
+145,Effective tax rate,12  Mar-17*,31.1,PHNXM
+146,Net profit margin,12  Mar-17*,10.5,PHNXM
+147,Current assets,12  Mar-17*,14068.0,PHNXM
+148,Current liabilities,12  Mar-17*,11244.0,PHNXM
+149,Net working cap to sales,12  Mar-17*,15.5,PHNXM
+150,Current ratio,12  Mar-17*,1.3,PHNXM
+151,Inventory Days,12  Mar-17*,189.0,PHNXM
+152,Debtors Days,12  Mar-17*,29.0,PHNXM
+153,Net fixed assets,12  Mar-17*,48627.0,PHNXM
+154,Share capital,12  Mar-17*,306.0,PHNXM
+155,"""Free"" reserves",12  Mar-17*,21194.0,PHNXM
+156,Net worth,12  Mar-17*,21501.0,PHNXM
+157,Long term debt,12  Mar-17*,31066.0,PHNXM
+158,Total assets,12  Mar-17*,70081.0,PHNXM
+159,Interest coverage,12  Mar-17*,1.7,PHNXM
+160,Debt to equity ratio,12  Mar-17*,1.4,PHNXM
+161,Sales to assets ratio,12  Mar-17*,0.3,PHNXM
+162,Return on assets,12  Mar-17*,8.8,PHNXM
+163,Return on equity,12  Mar-17*,8.9,PHNXM
+164,Return on capital,12  Mar-17*,13.3,PHNXM
+165,Exports to sales,12  Mar-17*,0.0,PHNXM
+166,Imports to sales,12  Mar-17*,0.0,PHNXM
+167,Exports (fob),12  Mar-17*,0.0,PHNXM
+168,Imports (cif),12  Mar-17*,0.0,PHNXM
+169,Fx inflow,12  Mar-17*,0.0,PHNXM
+170,Fx outflow,12  Mar-17*,30.0,PHNXM
+171,Net fx,12  Mar-17*,-29.0,PHNXM
+172,From Operations,12  Mar-17*,14189.0,PHNXM
+173,From Investments,12  Mar-17*,-3536.0,PHNXM
+174,From Financial Activity,12  Mar-17*,-11080.0,PHNXM
+175,Net Cashflow,12  Mar-17*,-427.0,PHNXM
+176,Net Sales,12  Mar-18*,16198.0,PHNXM
+177,Other income,12  Mar-18*,556.0,PHNXM
+178,Total revenues,12  Mar-18*,16754.0,PHNXM
+179,Gross profit,12  Mar-18*,7774.0,PHNXM
+180,Depreciation,12  Mar-18*,1983.0,PHNXM
+181,Interest,12  Mar-18*,3476.0,PHNXM
+182,Profit before tax,12  Mar-18*,2871.0,PHNXM
+183,Minority Interest,12  Mar-18*,0.0,PHNXM
+184,Prior Period Items,12  Mar-18*,442.0,PHNXM
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,PHNXM
+186,Tax,12  Mar-18*,758.0,PHNXM
+187,Profit after tax,12  Mar-18*,2556.0,PHNXM
+188,Gross profit margin,12  Mar-18*,48.0,PHNXM
+189,Effective tax rate,12  Mar-18*,26.4,PHNXM
+190,Net profit margin,12  Mar-18*,15.8,PHNXM
+191,Current assets,12  Mar-18*,14487.0,PHNXM
+192,Current liabilities,12  Mar-18*,15603.0,PHNXM
+193,Net working cap to sales,12  Mar-18*,-6.9,PHNXM
+194,Current ratio,12  Mar-18*,0.9,PHNXM
+195,Inventory Days,12  Mar-18*,149.0,PHNXM
+196,Debtors Days,12  Mar-18*,29.0,PHNXM
+197,Net fixed assets,12  Mar-18*,57990.0,PHNXM
+198,Share capital,12  Mar-18*,306.0,PHNXM
+199,"""Free"" reserves",12  Mar-18*,28211.0,PHNXM
+200,Net worth,12  Mar-18*,28517.0,PHNXM
+201,Long term debt,12  Mar-18*,31972.0,PHNXM
+202,Total assets,12  Mar-18*,84973.0,PHNXM
+203,Interest coverage,12  Mar-18*,1.8,PHNXM
+204,Debt to equity ratio,12  Mar-18*,1.1,PHNXM
+205,Sales to assets ratio,12  Mar-18*,0.2,PHNXM
+206,Return on assets,12  Mar-18*,7.1,PHNXM
+207,Return on equity,12  Mar-18*,9.0,PHNXM
+208,Return on capital,12  Mar-18*,11.2,PHNXM
+209,Exports to sales,12  Mar-18*,0.0,PHNXM
+210,Imports to sales,12  Mar-18*,0.0,PHNXM
+211,Exports (fob),12  Mar-18*,0.0,PHNXM
+212,Imports (cif),12  Mar-18*,0.0,PHNXM
+213,Fx inflow,12  Mar-18*,3.0,PHNXM
+214,Fx outflow,12  Mar-18*,5.0,PHNXM
+215,Net fx,12  Mar-18*,-2.0,PHNXM
+216,From Operations,12  Mar-18*,15177.0,PHNXM
+217,From Investments,12  Mar-18*,-18249.0,PHNXM
+218,From Financial Activity,12  Mar-18*,2774.0,PHNXM
+219,Net Cashflow,12  Mar-18*,-298.0,PHNXM

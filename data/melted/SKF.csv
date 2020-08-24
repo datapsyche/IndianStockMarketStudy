@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,24156.0,SKF
+1,Other income,12  Dec-14,789.0,SKF
+2,Total revenues,12  Dec-14,24945.0,SKF
+3,Gross profit,12  Dec-14,2812.0,SKF
+4,Depreciation,12  Dec-14,540.0,SKF
+5,Interest,12  Dec-14,0.0,SKF
+6,Profit before tax,12  Dec-14,3062.0,SKF
+7,Minority Interest,12  Dec-14,0.0,SKF
+8,Prior Period Items,12  Dec-14,0.0,SKF
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,SKF
+10,Tax,12  Dec-14,1034.0,SKF
+11,Profit after tax,12  Dec-14,2028.0,SKF
+12,Gross profit margin,12  Dec-14,11.6,SKF
+13,Effective tax rate,12  Dec-14,33.8,SKF
+14,Net profit margin,12  Dec-14,8.4,SKF
+15,Current assets,12  Dec-14,12942,SKF
+16,Current liabilities,12  Dec-14,4521,SKF
+17,Net working cap to sales,12  Dec-14,34.9,SKF
+18,Current ratio,12  Dec-14,2.9,SKF
+19,Inventory Days,12  Dec-14,44,SKF
+20,Debtors Days,12  Dec-14,56,SKF
+21,Net fixed assets,12  Dec-14,3653,SKF
+22,Share capital,12  Dec-14,527,SKF
+23,"""Free"" reserves",12  Dec-14,13793,SKF
+24,Net worth,12  Dec-14,14320,SKF
+25,Long term debt,12  Dec-14,0,SKF
+26,Total assets,12  Dec-14,19112,SKF
+27,Interest coverage,12  Dec-14,NM,SKF
+28,Debt to equity ratio,12  Dec-14,0,SKF
+29,Sales to assets ratio,12  Dec-14,1.3,SKF
+30,Return on assets,12  Dec-14,10.6,SKF
+31,Return on equity,12  Dec-14,14.2,SKF
+32,Return on capital,12  Dec-14,21.4,SKF
+33,Exports to sales,12  Dec-14,7.5,SKF
+34,Imports to sales,12  Dec-14,32.5,SKF
+35,Exports (fob),12  Dec-14,1818,SKF
+36,Imports (cif),12  Dec-14,7863,SKF
+37,Fx inflow,12  Dec-14,2173,SKF
+38,Fx outflow,12  Dec-14,9344,SKF
+39,Net fx,12  Dec-14,-7172,SKF
+40,From Operations,12  Dec-14,2177,SKF
+41,From Investments,12  Dec-14,-27,SKF
+42,From Financial Activity,12  Dec-14,-925,SKF
+43,Net Cashflow,12  Dec-14,1225,SKF
+44,Net Sales,15  Mar-16,29973.0,SKF
+45,Other income,15  Mar-16,1014.0,SKF
+46,Total revenues,15  Mar-16,30987.0,SKF
+47,Gross profit,15  Mar-16,3615.0,SKF
+48,Depreciation,15  Mar-16,684.0,SKF
+49,Interest,15  Mar-16,0.0,SKF
+50,Profit before tax,15  Mar-16,3945.0,SKF
+51,Minority Interest,15  Mar-16,0.0,SKF
+52,Prior Period Items,15  Mar-16,0.0,SKF
+53,Extraordinary Inc (Exp),15  Mar-16,0.0,SKF
+54,Tax,15  Mar-16,1386.0,SKF
+55,Profit after tax,15  Mar-16,2559.0,SKF
+56,Gross profit margin,15  Mar-16,12.1,SKF
+57,Effective tax rate,15  Mar-16,35.1,SKF
+58,Net profit margin,15  Mar-16,8.5,SKF
+59,Current assets,15  Mar-16,16127,SKF
+60,Current liabilities,15  Mar-16,4565,SKF
+61,Net working cap to sales,15  Mar-16,38.6,SKF
+62,Current ratio,15  Mar-16,3.5,SKF
+63,Inventory Days,15  Mar-16,41,SKF
+64,Debtors Days,15  Mar-16,59,SKF
+65,Net fixed assets,15  Mar-16,3098,SKF
+66,Share capital,15  Mar-16,527,SKF
+67,"""Free"" reserves",15  Mar-16,16119,SKF
+68,Net worth,15  Mar-16,16646,SKF
+69,Long term debt,15  Mar-16,0,SKF
+70,Total assets,15  Mar-16,21486,SKF
+71,Interest coverage,15  Mar-16,NM,SKF
+72,Debt to equity ratio,15  Mar-16,0,SKF
+73,Sales to assets ratio,15  Mar-16,1.4,SKF
+74,Return on assets,15  Mar-16,11.9,SKF
+75,Return on equity,15  Mar-16,15.4,SKF
+76,Return on capital,15  Mar-16,23.7,SKF
+77,Exports to sales,15  Mar-16,7.3,SKF
+78,Imports to sales,15  Mar-16,31.7,SKF
+79,Exports (fob),15  Mar-16,2185,SKF
+80,Imports (cif),15  Mar-16,9500,SKF
+81,Fx inflow,15  Mar-16,2500,SKF
+82,Fx outflow,15  Mar-16,10674,SKF
+83,Net fx,15  Mar-16,-8174,SKF
+84,From Operations,15  Mar-16,262,SKF
+85,From Investments,15  Mar-16,-1739,SKF
+86,From Financial Activity,15  Mar-16,491,SKF
+87,Net Cashflow,15  Mar-16,-985,SKF
+88,Net Sales,12  Mar-17,26314.0,SKF
+89,Other income,12  Mar-17,873.0,SKF
+90,Total revenues,12  Mar-17,27187.0,SKF
+91,Gross profit,12  Mar-17,3362.0,SKF
+92,Depreciation,12  Mar-17,479.0,SKF
+93,Interest,12  Mar-17,0.0,SKF
+94,Profit before tax,12  Mar-17,3756.0,SKF
+95,Minority Interest,12  Mar-17,0.0,SKF
+96,Prior Period Items,12  Mar-17,0.0,SKF
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,SKF
+98,Tax,12  Mar-17,1317.0,SKF
+99,Profit after tax,12  Mar-17,2439.0,SKF
+100,Gross profit margin,12  Mar-17,12.8,SKF
+101,Effective tax rate,12  Mar-17,35.1,SKF
+102,Net profit margin,12  Mar-17,9.3,SKF
+103,Current assets,12  Mar-17,18197,SKF
+104,Current liabilities,12  Mar-17,4635,SKF
+105,Net working cap to sales,12  Mar-17,51.5,SKF
+106,Current ratio,12  Mar-17,3.9,SKF
+107,Inventory Days,12  Mar-17,58,SKF
+108,Debtors Days,12  Mar-17,71,SKF
+109,Net fixed assets,12  Mar-17,3157,SKF
+110,Share capital,12  Mar-17,527,SKF
+111,"""Free"" reserves",12  Mar-17,17585,SKF
+112,Net worth,12  Mar-17,18112,SKF
+113,Long term debt,12  Mar-17,0,SKF
+114,Total assets,12  Mar-17,23040,SKF
+115,Interest coverage,12  Mar-17,NM,SKF
+116,Debt to equity ratio,12  Mar-17,0,SKF
+117,Sales to assets ratio,12  Mar-17,1.1,SKF
+118,Return on assets,12  Mar-17,10.6,SKF
+119,Return on equity,12  Mar-17,13.5,SKF
+120,Return on capital,12  Mar-17,20.7,SKF
+121,Exports to sales,12  Mar-17,0,SKF
+122,Imports to sales,12  Mar-17,0,SKF
+123,Exports (fob),12  Mar-17,0,SKF
+124,Imports (cif),12  Mar-17,0,SKF
+125,Fx inflow,12  Mar-17,0,SKF
+126,Fx outflow,12  Mar-17,0,SKF
+127,Net fx,12  Mar-17,0,SKF
+128,From Operations,12  Mar-17,1150,SKF
+129,From Investments,12  Mar-17,1471,SKF
+130,From Financial Activity,12  Mar-17,-1262,SKF
+131,Net Cashflow,12  Mar-17,1359,SKF
+132,Net Sales,12  Mar-18,27504.0,SKF
+133,Other income,12  Mar-18,714.0,SKF
+134,Total revenues,12  Mar-18,28218.0,SKF
+135,Gross profit,12  Mar-18,4348.0,SKF
+136,Depreciation,12  Mar-18,457.0,SKF
+137,Interest,12  Mar-18,50.0,SKF
+138,Profit before tax,12  Mar-18,4555.0,SKF
+139,Minority Interest,12  Mar-18,0.0,SKF
+140,Prior Period Items,12  Mar-18,0.0,SKF
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,SKF
+142,Tax,12  Mar-18,1596.0,SKF
+143,Profit after tax,12  Mar-18,2959.0,SKF
+144,Gross profit margin,12  Mar-18,15.8,SKF
+145,Effective tax rate,12  Mar-18,35.0,SKF
+146,Net profit margin,12  Mar-18,10.8,SKF
+147,Current assets,12  Mar-18,18931.0,SKF
+148,Current liabilities,12  Mar-18,5784.0,SKF
+149,Net working cap to sales,12  Mar-18,47.8,SKF
+150,Current ratio,12  Mar-18,3.3,SKF
+151,Inventory Days,12  Mar-18,53.0,SKF
+152,Debtors Days,12  Mar-18,65.0,SKF
+153,Net fixed assets,12  Mar-18,3300.0,SKF
+154,Share capital,12  Mar-18,513.0,SKF
+155,"""Free"" reserves",12  Mar-18,17860.0,SKF
+156,Net worth,12  Mar-18,18373.0,SKF
+157,Long term debt,12  Mar-18,0.0,SKF
+158,Total assets,12  Mar-18,24438.0,SKF
+159,Interest coverage,12  Mar-18,92.6,SKF
+160,Debt to equity ratio,12  Mar-18,0.0,SKF
+161,Sales to assets ratio,12  Mar-18,1.1,SKF
+162,Return on assets,12  Mar-18,12.3,SKF
+163,Return on equity,12  Mar-18,16.1,SKF
+164,Return on capital,12  Mar-18,25.1,SKF
+165,Exports to sales,12  Mar-18,9.8,SKF
+166,Imports to sales,12  Mar-18,24.3,SKF
+167,Exports (fob),12  Mar-18,2684.0,SKF
+168,Imports (cif),12  Mar-18,6693.0,SKF
+169,Fx inflow,12  Mar-18,2954.0,SKF
+170,Fx outflow,12  Mar-18,9641.0,SKF
+171,Net fx,12  Mar-18,-6687.0,SKF
+172,From Operations,12  Mar-18,3672.0,SKF
+173,From Investments,12  Mar-18,-2649.0,SKF
+174,From Financial Activity,12  Mar-18,-2253.0,SKF
+175,Net Cashflow,12  Mar-18,-1230.0,SKF
+176,Net Sales,12  Mar-19,30345.0,SKF
+177,Other income,12  Mar-19,924.0,SKF
+178,Total revenues,12  Mar-19,31269.0,SKF
+179,Gross profit,12  Mar-19,4859.0,SKF
+180,Depreciation,12  Mar-19,464.0,SKF
+181,Interest,12  Mar-19,77.0,SKF
+182,Profit before tax,12  Mar-19,5242.0,SKF
+183,Minority Interest,12  Mar-19,0.0,SKF
+184,Prior Period Items,12  Mar-19,0.0,SKF
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,SKF
+186,Tax,12  Mar-19,1884.0,SKF
+187,Profit after tax,12  Mar-19,3358.0,SKF
+188,Gross profit margin,12  Mar-19,16.0,SKF
+189,Effective tax rate,12  Mar-19,35.9,SKF
+190,Net profit margin,12  Mar-19,11.1,SKF
+191,Current assets,12  Mar-19,17113.0,SKF
+192,Current liabilities,12  Mar-19,5674.0,SKF
+193,Net working cap to sales,12  Mar-19,37.7,SKF
+194,Current ratio,12  Mar-19,3.0,SKF
+195,Inventory Days,12  Mar-19,55.0,SKF
+196,Debtors Days,12  Mar-19,63.0,SKF
+197,Net fixed assets,12  Mar-19,3463.0,SKF
+198,Share capital,12  Mar-19,494.0,SKF
+199,"""Free"" reserves",12  Mar-19,16475.0,SKF
+200,Net worth,12  Mar-19,16969.0,SKF
+201,Long term debt,12  Mar-19,0.0,SKF
+202,Total assets,12  Mar-19,22967.0,SKF
+203,Interest coverage,12  Mar-19,69.4,SKF
+204,Debt to equity ratio,12  Mar-19,0.0,SKF
+205,Sales to assets ratio,12  Mar-19,1.3,SKF
+206,Return on assets,12  Mar-19,15.0,SKF
+207,Return on equity,12  Mar-19,19.8,SKF
+208,Return on capital,12  Mar-19,31.3,SKF
+209,Exports to sales,12  Mar-19,0.0,SKF
+210,Imports to sales,12  Mar-19,0.0,SKF
+211,Exports (fob),12  Mar-19,0.0,SKF
+212,Imports (cif),12  Mar-19,0.0,SKF
+213,Fx inflow,12  Mar-19,2237.0,SKF
+214,Fx outflow,12  Mar-19,8164.0,SKF
+215,Net fx,12  Mar-19,-5927.0,SKF
+216,From Operations,12  Mar-19,1810.0,SKF
+217,From Investments,12  Mar-19,3064.0,SKF
+218,From Financial Activity,12  Mar-19,-4765.0,SKF
+219,Net Cashflow,12  Mar-19,109.0,SKF

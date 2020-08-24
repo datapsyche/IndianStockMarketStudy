@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,39659.0,FORTIS
+1,Other income,12  Mar-15*,958.0,FORTIS
+2,Total revenues,12  Mar-15*,40617.0,FORTIS
+3,Gross profit,12  Mar-15*,1306.0,FORTIS
+4,Depreciation,12  Mar-15*,2346.0,FORTIS
+5,Interest,12  Mar-15*,1518.0,FORTIS
+6,Profit before tax,12  Mar-15*,-1599.0,FORTIS
+7,Minority Interest,12  Mar-15*,-139.0,FORTIS
+8,Prior Period Items,12  Mar-15*,593.0,FORTIS
+9,Extraordinary Inc (Exp),12  Mar-15*,3.0,FORTIS
+10,Tax,12  Mar-15*,45.0,FORTIS
+11,Profit after tax,12  Mar-15*,-1186.0,FORTIS
+12,Gross profit margin,12  Mar-15*,3.3,FORTIS
+13,Effective tax rate,12  Mar-15*,-2.8,FORTIS
+14,Net profit margin,12  Mar-15*,-3.0,FORTIS
+15,Current assets,12  Mar-15*,19648.0,FORTIS
+16,Current liabilities,12  Mar-15*,15869.0,FORTIS
+17,Net working cap to sales,12  Mar-15*,9.5,FORTIS
+18,Current ratio,12  Mar-15*,1.2,FORTIS
+19,Inventory Days,12  Mar-15*,6.0,FORTIS
+20,Debtors Days,12  Mar-15*,37.0,FORTIS
+21,Net fixed assets,12  Mar-15*,41915.0,FORTIS
+22,Share capital,12  Mar-15*,4628.0,FORTIS
+23,"""Free"" reserves",12  Mar-15*,67800.0,FORTIS
+24,Net worth,12  Mar-15*,40476.0,FORTIS
+25,Long term debt,12  Mar-15*,10217.0,FORTIS
+26,Total assets,12  Mar-15*,76353.0,FORTIS
+27,Interest coverage,12  Mar-15*,-0.1,FORTIS
+28,Debt to equity ratio,12  Mar-15*,0.3,FORTIS
+29,Sales to assets ratio,12  Mar-15*,0.5,FORTIS
+30,Return on assets,12  Mar-15*,0.4,FORTIS
+31,Return on equity,12  Mar-15*,-2.9,FORTIS
+32,Return on capital,12  Mar-15*,0.7,FORTIS
+33,Exports to sales,12  Mar-15*,0.0,FORTIS
+34,Imports to sales,12  Mar-15*,0.1,FORTIS
+35,Exports (fob),12  Mar-15*,0.0,FORTIS
+36,Imports (cif),12  Mar-15*,50.0,FORTIS
+37,Fx inflow,12  Mar-15*,80.0,FORTIS
+38,Fx outflow,12  Mar-15*,719.0,FORTIS
+39,Net fx,12  Mar-15*,-638.0,FORTIS
+40,From Operations,12  Mar-15*,241.0,FORTIS
+41,From Investments,12  Mar-15*,2126.0,FORTIS
+42,From Financial Activity,12  Mar-15*,-3035.0,FORTIS
+43,Net Cashflow,12  Mar-15*,-668.0,FORTIS
+44,Net Sales,12  Mar-16*,41989.0,FORTIS
+45,Other income,12  Mar-16*,1535.0,FORTIS
+46,Total revenues,12  Mar-16*,43524.0,FORTIS
+47,Gross profit,12  Mar-16*,2040.0,FORTIS
+48,Depreciation,12  Mar-16*,2251.0,FORTIS
+49,Interest,12  Mar-16*,1331.0,FORTIS
+50,Profit before tax,12  Mar-16*,-6.0,FORTIS
+51,Minority Interest,12  Mar-16*,725.0,FORTIS
+52,Prior Period Items,12  Mar-16*,0.0,FORTIS
+53,Extraordinary Inc (Exp),12  Mar-16*,-401.0,FORTIS
+54,Tax,12  Mar-16*,-80.0,FORTIS
+55,Profit after tax,12  Mar-16*,397.0,FORTIS
+56,Gross profit margin,12  Mar-16*,4.9,FORTIS
+57,Effective tax rate,12  Mar-16*,1253.1,FORTIS
+58,Net profit margin,12  Mar-16*,0.9,FORTIS
+59,Current assets,12  Mar-16*,14147.0,FORTIS
+60,Current liabilities,12  Mar-16*,14505.0,FORTIS
+61,Net working cap to sales,12  Mar-16*,-0.9,FORTIS
+62,Current ratio,12  Mar-16*,1.0,FORTIS
+63,Inventory Days,12  Mar-16*,5.0,FORTIS
+64,Debtors Days,12  Mar-16*,39.0,FORTIS
+65,Net fixed assets,12  Mar-16*,38673.0,FORTIS
+66,Share capital,12  Mar-16*,4631.0,FORTIS
+67,"""Free"" reserves",12  Mar-16*,67420.0,FORTIS
+68,Net worth,12  Mar-16*,39973.0,FORTIS
+69,Long term debt,12  Mar-16*,8669.0,FORTIS
+70,Total assets,12  Mar-16*,72322.0,FORTIS
+71,Interest coverage,12  Mar-16*,1.0,FORTIS
+72,Debt to equity ratio,12  Mar-16*,0.2,FORTIS
+73,Sales to assets ratio,12  Mar-16*,0.6,FORTIS
+74,Return on assets,12  Mar-16*,2.4,FORTIS
+75,Return on equity,12  Mar-16*,1.0,FORTIS
+76,Return on capital,12  Mar-16*,3.4,FORTIS
+77,Exports to sales,12  Mar-16*,0.0,FORTIS
+78,Imports to sales,12  Mar-16*,0.2,FORTIS
+79,Exports (fob),12  Mar-16*,0.0,FORTIS
+80,Imports (cif),12  Mar-16*,85.0,FORTIS
+81,Fx inflow,12  Mar-16*,88.0,FORTIS
+82,Fx outflow,12  Mar-16*,482.0,FORTIS
+83,Net fx,12  Mar-16*,-394.0,FORTIS
+84,From Operations,12  Mar-16*,1947.0,FORTIS
+85,From Investments,12  Mar-16*,1128.0,FORTIS
+86,From Financial Activity,12  Mar-16*,-3543.0,FORTIS
+87,Net Cashflow,12  Mar-16*,-375.0,FORTIS
+88,Net Sales,12  Mar-17*,45737.0,FORTIS
+89,Other income,12  Mar-17*,1660.0,FORTIS
+90,Total revenues,12  Mar-17*,47397.0,FORTIS
+91,Gross profit,12  Mar-17*,3529.0,FORTIS
+92,Depreciation,12  Mar-17*,2222.0,FORTIS
+93,Interest,12  Mar-17*,2294.0,FORTIS
+94,Profit before tax,12  Mar-17*,673.0,FORTIS
+95,Minority Interest,12  Mar-17*,4861.0,FORTIS
+96,Prior Period Items,12  Mar-17*,0.0,FORTIS
+97,Extraordinary Inc (Exp),12  Mar-17*,-16.0,FORTIS
+98,Tax,12  Mar-17*,724.0,FORTIS
+99,Profit after tax,12  Mar-17*,4793.0,FORTIS
+100,Gross profit margin,12  Mar-17*,7.7,FORTIS
+101,Effective tax rate,12  Mar-17*,107.6,FORTIS
+102,Net profit margin,12  Mar-17*,10.5,FORTIS
+103,Current assets,12  Mar-17*,17748.0,FORTIS
+104,Current liabilities,12  Mar-17*,19265.0,FORTIS
+105,Net working cap to sales,12  Mar-17*,-3.3,FORTIS
+106,Current ratio,12  Mar-17*,0.9,FORTIS
+107,Inventory Days,12  Mar-17*,5.0,FORTIS
+108,Debtors Days,12  Mar-17*,38.0,FORTIS
+109,Net fixed assets,12  Mar-17*,56872.0,FORTIS
+110,Share capital,12  Mar-17*,5177.0,FORTIS
+111,"""Free"" reserves",12  Mar-17*,46258.0,FORTIS
+112,Net worth,12  Mar-17*,51435.0,FORTIS
+113,Long term debt,12  Mar-17*,12787.0,FORTIS
+114,Total assets,12  Mar-17*,97170.0,FORTIS
+115,Interest coverage,12  Mar-17*,1.3,FORTIS
+116,Debt to equity ratio,12  Mar-17*,0.2,FORTIS
+117,Sales to assets ratio,12  Mar-17*,0.5,FORTIS
+118,Return on assets,12  Mar-17*,7.3,FORTIS
+119,Return on equity,12  Mar-17*,9.3,FORTIS
+120,Return on capital,12  Mar-17*,12.2,FORTIS
+121,Exports to sales,12  Mar-17*,0.0,FORTIS
+122,Imports to sales,12  Mar-17*,0.0,FORTIS
+123,Exports (fob),12  Mar-17*,0.0,FORTIS
+124,Imports (cif),12  Mar-17*,0.0,FORTIS
+125,Fx inflow,12  Mar-17*,0.0,FORTIS
+126,Fx outflow,12  Mar-17*,0.0,FORTIS
+127,Net fx,12  Mar-17*,0.0,FORTIS
+128,From Operations,12  Mar-17*,9665.0,FORTIS
+129,From Investments,12  Mar-17*,-10016.0,FORTIS
+130,From Financial Activity,12  Mar-17*,2594.0,FORTIS
+131,Net Cashflow,12  Mar-17*,2245.0,FORTIS
+132,Net Sales,12  Mar-18*,45608.0,FORTIS
+133,Other income,12  Mar-18*,1397.0,FORTIS
+134,Total revenues,12  Mar-18*,47005.0,FORTIS
+135,Gross profit,12  Mar-18*,3263.0,FORTIS
+136,Depreciation,12  Mar-18*,2390.0,FORTIS
+137,Interest,12  Mar-18*,2578.0,FORTIS
+138,Profit before tax,12  Mar-18*,-307.0,FORTIS
+139,Minority Interest,12  Mar-18*,0.0,FORTIS
+140,Prior Period Items,12  Mar-18*,0.0,FORTIS
+141,Extraordinary Inc (Exp),12  Mar-18*,-8810.0,FORTIS
+142,Tax,12  Mar-18*,227.0,FORTIS
+143,Profit after tax,12  Mar-18*,-9344.0,FORTIS
+144,Gross profit margin,12  Mar-18*,7.2,FORTIS
+145,Effective tax rate,12  Mar-18*,-73.7,FORTIS
+146,Net profit margin,12  Mar-18*,-20.5,FORTIS
+147,Current assets,12  Mar-18*,12815.0,FORTIS
+148,Current liabilities,12  Mar-18*,21348.0,FORTIS
+149,Net working cap to sales,12  Mar-18*,-18.7,FORTIS
+150,Current ratio,12  Mar-18*,0.6,FORTIS
+151,Inventory Days,12  Mar-18*,5.0,FORTIS
+152,Debtors Days,12  Mar-18*,38.0,FORTIS
+153,Net fixed assets,12  Mar-18*,981870.0,FORTIS
+154,Share capital,12  Mar-18*,5187.0,FORTIS
+155,"""Free"" reserves",12  Mar-18*,35431.0,FORTIS
+156,Net worth,12  Mar-18*,40617.0,FORTIS
+157,Long term debt,12  Mar-18*,9481.0,FORTIS
+158,Total assets,12  Mar-18*,86217.0,FORTIS
+159,Interest coverage,12  Mar-18*,0.9,FORTIS
+160,Debt to equity ratio,12  Mar-18*,0.2,FORTIS
+161,Sales to assets ratio,12  Mar-18*,0.5,FORTIS
+162,Return on assets,12  Mar-18*,-7.8,FORTIS
+163,Return on equity,12  Mar-18*,-23.0,FORTIS
+164,Return on capital,12  Mar-18*,-13.1,FORTIS
+165,Exports to sales,12  Mar-18*,0.0,FORTIS
+166,Imports to sales,12  Mar-18*,0.0,FORTIS
+167,Exports (fob),12  Mar-18*,0.0,FORTIS
+168,Imports (cif),12  Mar-18*,0.0,FORTIS
+169,Fx inflow,12  Mar-18*,158.0,FORTIS
+170,Fx outflow,12  Mar-18*,175.0,FORTIS
+171,Net fx,12  Mar-18*,-17.0,FORTIS
+172,From Operations,12  Mar-18*,4929.0,FORTIS
+173,From Investments,12  Mar-18*,-3354.0,FORTIS
+174,From Financial Activity,12  Mar-18*,-6721.0,FORTIS
+175,Net Cashflow,12  Mar-18*,-5126.0,FORTIS
+176,Net Sales,12  Mar-19*,44694.0,FORTIS
+177,Other income,12  Mar-19*,924.0,FORTIS
+178,Total revenues,12  Mar-19*,45618.0,FORTIS
+179,Gross profit,12  Mar-19*,5896.0,FORTIS
+180,Depreciation,12  Mar-19*,2329.0,FORTIS
+181,Interest,12  Mar-19*,3368.0,FORTIS
+182,Profit before tax,12  Mar-19*,1123.0,FORTIS
+183,Minority Interest,12  Mar-19*,0.0,FORTIS
+184,Prior Period Items,12  Mar-19*,0.0,FORTIS
+185,Extraordinary Inc (Exp),12  Mar-19*,-2224.0,FORTIS
+186,Tax,12  Mar-19*,1136.0,FORTIS
+187,Profit after tax,12  Mar-19*,-2237.0,FORTIS
+188,Gross profit margin,12  Mar-19*,13.2,FORTIS
+189,Effective tax rate,12  Mar-19*,101.2,FORTIS
+190,Net profit margin,12  Mar-19*,-5.0,FORTIS
+191,Current assets,12  Mar-19*,16666.0,FORTIS
+192,Current liabilities,12  Mar-19*,35910.0,FORTIS
+193,Net working cap to sales,12  Mar-19*,-43.1,FORTIS
+194,Current ratio,12  Mar-19*,0.5,FORTIS
+195,Inventory Days,12  Mar-19*,5.0,FORTIS
+196,Debtors Days,12  Mar-19*,44.0,FORTIS
+197,Net fixed assets,12  Mar-19*,91168.0,FORTIS
+198,Share capital,12  Mar-19*,7550.0,FORTIS
+199,"""Free"" reserves",12  Mar-19*,58458.0,FORTIS
+200,Net worth,12  Mar-19*,66008.0,FORTIS
+201,Long term debt,12  Mar-19*,6746.0,FORTIS
+202,Total assets,12  Mar-19*,119513.0,FORTIS
+203,Interest coverage,12  Mar-19*,1.3,FORTIS
+204,Debt to equity ratio,12  Mar-19*,0.1,FORTIS
+205,Sales to assets ratio,12  Mar-19*,0.4,FORTIS
+206,Return on assets,12  Mar-19*,0.9,FORTIS
+207,Return on equity,12  Mar-19*,-3.4,FORTIS
+208,Return on capital,12  Mar-19*,3.1,FORTIS
+209,Exports to sales,12  Mar-19*,0.0,FORTIS
+210,Imports to sales,12  Mar-19*,0.0,FORTIS
+211,Exports (fob),12  Mar-19*,0.0,FORTIS
+212,Imports (cif),12  Mar-19*,0.0,FORTIS
+213,Fx inflow,12  Mar-19*,73.0,FORTIS
+214,Fx outflow,12  Mar-19*,11.0,FORTIS
+215,Net fx,12  Mar-19*,62.0,FORTIS
+216,From Operations,12  Mar-19*,-1785.0,FORTIS
+217,From Investments,12  Mar-19*,-33227.0,FORTIS
+218,From Financial Activity,12  Mar-19*,42566.0,FORTIS
+219,Net Cashflow,12  Mar-19*,7988.0,FORTIS

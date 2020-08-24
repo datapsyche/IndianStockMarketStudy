@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,15829.0,GDYR
+1,Other income,12  Dec-14,291.0,GDYR
+2,Total revenues,12  Dec-14,16119.0,GDYR
+3,Gross profit,12  Dec-14,1564.0,GDYR
+4,Depreciation,12  Dec-14,285.0,GDYR
+5,Interest,12  Dec-14,34.0,GDYR
+6,Profit before tax,12  Dec-14,1535.0,GDYR
+7,Minority Interest,12  Dec-14,0.0,GDYR
+8,Prior Period Items,12  Dec-14,0.0,GDYR
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,GDYR
+10,Tax,12  Dec-14,523.0,GDYR
+11,Profit after tax,12  Dec-14,1012.0,GDYR
+12,Gross profit margin,12  Dec-14,9.9,GDYR
+13,Effective tax rate,12  Dec-14,34.0,GDYR
+14,Net profit margin,12  Dec-14,6.4,GDYR
+15,Current assets,12  Dec-14,6161.0,GDYR
+16,Current liabilities,12  Dec-14,3345.0,GDYR
+17,Net working cap to sales,12  Dec-14,17.8,GDYR
+18,Current ratio,12  Dec-14,1.8,GDYR
+19,Inventory Days,12  Dec-14,28.0,GDYR
+20,Debtors Days,12  Dec-14,26.0,GDYR
+21,Net fixed assets,12  Dec-14,2576.0,GDYR
+22,Share capital,12  Dec-14,231.0,GDYR
+23,"""Free"" reserves",12  Dec-14,4993.0,GDYR
+24,Net worth,12  Dec-14,5224.0,GDYR
+25,Long term debt,12  Dec-14,0.0,GDYR
+26,Total assets,12  Dec-14,9020.0,GDYR
+27,Interest coverage,12  Dec-14,46.0,GDYR
+28,Debt to equity ratio,12  Dec-14,0.0,GDYR
+29,Sales to assets ratio,12  Dec-14,1.8,GDYR
+30,Return on assets,12  Dec-14,11.6,GDYR
+31,Return on equity,12  Dec-14,19.4,GDYR
+32,Return on capital,12  Dec-14,30.0,GDYR
+33,Exports to sales,12  Dec-14,1.1,GDYR
+34,Imports to sales,12  Dec-14,15.1,GDYR
+35,Exports (fob),12  Dec-14,173.0,GDYR
+36,Imports (cif),12  Dec-14,2387.0,GDYR
+37,Fx inflow,12  Dec-14,231.0,GDYR
+38,Fx outflow,12  Dec-14,3482.0,GDYR
+39,Net fx,12  Dec-14,-3251.0,GDYR
+40,From Operations,12  Dec-14,994.0,GDYR
+41,From Investments,12  Dec-14,1163.0,GDYR
+42,From Financial Activity,12  Dec-14,-274.0,GDYR
+43,Net Cashflow,12  Dec-14,1882.0,GDYR
+44,Net Sales,15  Mar-16,17303.0,GDYR
+45,Other income,15  Mar-16,377.0,GDYR
+46,Total revenues,15  Mar-16,17680.0,GDYR
+47,Gross profit,15  Mar-16,1964.0,GDYR
+48,Depreciation,15  Mar-16,465.0,GDYR
+49,Interest,15  Mar-16,32.0,GDYR
+50,Profit before tax,15  Mar-16,1843.0,GDYR
+51,Minority Interest,15  Mar-16,0.0,GDYR
+52,Prior Period Items,15  Mar-16,0.0,GDYR
+53,Extraordinary Inc (Exp),15  Mar-16,0.0,GDYR
+54,Tax,15  Mar-16,645.0,GDYR
+55,Profit after tax,15  Mar-16,1198.0,GDYR
+56,Gross profit margin,15  Mar-16,11.3,GDYR
+57,Effective tax rate,15  Mar-16,35.0,GDYR
+58,Net profit margin,15  Mar-16,6.9,GDYR
+59,Current assets,15  Mar-16,6508.0,GDYR
+60,Current liabilities,15  Mar-16,2798.0,GDYR
+61,Net working cap to sales,15  Mar-16,21.4,GDYR
+62,Current ratio,15  Mar-16,2.3,GDYR
+63,Inventory Days,15  Mar-16,27.0,GDYR
+64,Debtors Days,15  Mar-16,34.0,GDYR
+65,Net fixed assets,15  Mar-16,2503.0,GDYR
+66,Share capital,15  Mar-16,231.0,GDYR
+67,"""Free"" reserves",15  Mar-16,5911.0,GDYR
+68,Net worth,15  Mar-16,6141.0,GDYR
+69,Long term debt,15  Mar-16,0.0,GDYR
+70,Total assets,15  Mar-16,9350.0,GDYR
+71,Interest coverage,15  Mar-16,57.9,GDYR
+72,Debt to equity ratio,15  Mar-16,0.0,GDYR
+73,Sales to assets ratio,15  Mar-16,1.9,GDYR
+74,Return on assets,15  Mar-16,13.2,GDYR
+75,Return on equity,15  Mar-16,19.5,GDYR
+76,Return on capital,15  Mar-16,30.5,GDYR
+77,Exports to sales,15  Mar-16,2.6,GDYR
+78,Imports to sales,15  Mar-16,10.3,GDYR
+79,Exports (fob),15  Mar-16,450.0,GDYR
+80,Imports (cif),15  Mar-16,1778.0,GDYR
+81,Fx inflow,15  Mar-16,584.0,GDYR
+82,Fx outflow,15  Mar-16,3346.0,GDYR
+83,Net fx,15  Mar-16,-2762.0,GDYR
+84,From Operations,15  Mar-16,93.0,GDYR
+85,From Investments,15  Mar-16,-1329.0,GDYR
+86,From Financial Activity,15  Mar-16,-310.0,GDYR
+87,Net Cashflow,15  Mar-16,-1546.0,GDYR
+88,Net Sales,12  Mar-17,15118.0,GDYR
+89,Other income,12  Mar-17,329.0,GDYR
+90,Total revenues,12  Mar-17,15448.0,GDYR
+91,Gross profit,12  Mar-17,1998.0,GDYR
+92,Depreciation,12  Mar-17,337.0,GDYR
+93,Interest,12  Mar-17,34.0,GDYR
+94,Profit before tax,12  Mar-17,1956.0,GDYR
+95,Minority Interest,12  Mar-17,0.0,GDYR
+96,Prior Period Items,12  Mar-17,0.0,GDYR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,GDYR
+98,Tax,12  Mar-17,682.0,GDYR
+99,Profit after tax,12  Mar-17,1274.0,GDYR
+100,Gross profit margin,12  Mar-17,13.2,GDYR
+101,Effective tax rate,12  Mar-17,34.9,GDYR
+102,Net profit margin,12  Mar-17,8.4,GDYR
+103,Current assets,12  Mar-17,8051.0,GDYR
+104,Current liabilities,12  Mar-17,3535.0,GDYR
+105,Net working cap to sales,12  Mar-17,29.9,GDYR
+106,Current ratio,12  Mar-17,2.3,GDYR
+107,Inventory Days,12  Mar-17,41.0,GDYR
+108,Debtors Days,12  Mar-17,38.0,GDYR
+109,Net fixed assets,12  Mar-17,2581.0,GDYR
+110,Share capital,12  Mar-17,231.0,GDYR
+111,"""Free"" reserves",12  Mar-17,6840.0,GDYR
+112,Net worth,12  Mar-17,7071.0,GDYR
+113,Long term debt,12  Mar-17,0.0,GDYR
+114,Total assets,12  Mar-17,10896.0,GDYR
+115,Interest coverage,12  Mar-17,59.2,GDYR
+116,Debt to equity ratio,12  Mar-17,0.0,GDYR
+117,Sales to assets ratio,12  Mar-17,1.4,GDYR
+118,Return on assets,12  Mar-17,12.0,GDYR
+119,Return on equity,12  Mar-17,18.0,GDYR
+120,Return on capital,12  Mar-17,28.1,GDYR
+121,Exports to sales,12  Mar-17,3.7,GDYR
+122,Imports to sales,12  Mar-17,15.9,GDYR
+123,Exports (fob),12  Mar-17,563.0,GDYR
+124,Imports (cif),12  Mar-17,2402.0,GDYR
+125,Fx inflow,12  Mar-17,668.0,GDYR
+126,Fx outflow,12  Mar-17,2402.0,GDYR
+127,Net fx,12  Mar-17,-1734.0,GDYR
+128,From Operations,12  Mar-17,1678.0,GDYR
+129,From Investments,12  Mar-17,-115.0,GDYR
+130,From Financial Activity,12  Mar-17,-366.0,GDYR
+131,Net Cashflow,12  Mar-17,1197.0,GDYR
+132,Net Sales,12  Mar-18,16647.0,GDYR
+133,Other income,12  Mar-18,367.0,GDYR
+134,Total revenues,12  Mar-18,17013.0,GDYR
+135,Gross profit,12  Mar-18,2017.0,GDYR
+136,Depreciation,12  Mar-18,362.0,GDYR
+137,Interest,12  Mar-18,29.0,GDYR
+138,Profit before tax,12  Mar-18,1993.0,GDYR
+139,Minority Interest,12  Mar-18,0.0,GDYR
+140,Prior Period Items,12  Mar-18,0.0,GDYR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,GDYR
+142,Tax,12  Mar-18,693.0,GDYR
+143,Profit after tax,12  Mar-18,1300.0,GDYR
+144,Gross profit margin,12  Mar-18,12.1,GDYR
+145,Effective tax rate,12  Mar-18,34.8,GDYR
+146,Net profit margin,12  Mar-18,7.8,GDYR
+147,Current assets,12  Mar-18,9900.0,GDYR
+148,Current liabilities,12  Mar-18,4654.0,GDYR
+149,Net working cap to sales,12  Mar-18,31.5,GDYR
+150,Current ratio,12  Mar-18,2.1,GDYR
+151,Inventory Days,12  Mar-18,37.0,GDYR
+152,Debtors Days,12  Mar-18,46.0,GDYR
+153,Net fixed assets,12  Mar-18,2724.0,GDYR
+154,Share capital,12  Mar-18,231.0,GDYR
+155,"""Free"" reserves",12  Mar-18,7791.0,GDYR
+156,Net worth,12  Mar-18,8022.0,GDYR
+157,Long term debt,12  Mar-18,0.0,GDYR
+158,Total assets,12  Mar-18,12976.0,GDYR
+159,Interest coverage,12  Mar-18,70.0,GDYR
+160,Debt to equity ratio,12  Mar-18,0.0,GDYR
+161,Sales to assets ratio,12  Mar-18,1.3,GDYR
+162,Return on assets,12  Mar-18,10.2,GDYR
+163,Return on equity,12  Mar-18,16.2,GDYR
+164,Return on capital,12  Mar-18,25.2,GDYR
+165,Exports to sales,12  Mar-18,1.8,GDYR
+166,Imports to sales,12  Mar-18,11.7,GDYR
+167,Exports (fob),12  Mar-18,291.0,GDYR
+168,Imports (cif),12  Mar-18,1953.0,GDYR
+169,Fx inflow,12  Mar-18,417.0,GDYR
+170,Fx outflow,12  Mar-18,1953.0,GDYR
+171,Net fx,12  Mar-18,-1535.0,GDYR
+172,From Operations,12  Mar-18,1823.0,GDYR
+173,From Investments,12  Mar-18,-220.0,GDYR
+174,From Financial Activity,12  Mar-18,-373.0,GDYR
+175,Net Cashflow,12  Mar-18,1230.0,GDYR
+176,Net Sales,12  Mar-19,1919.0,GDYR
+177,Other income,12  Mar-19,377.0,GDYR
+178,Total revenues,12  Mar-19,2296.0,GDYR
+179,Gross profit,12  Mar-19,1645.0,GDYR
+180,Depreciation,12  Mar-19,410.0,GDYR
+181,Interest,12  Mar-19,30.0,GDYR
+182,Profit before tax,12  Mar-19,1581.0,GDYR
+183,Minority Interest,12  Mar-19,0.0,GDYR
+184,Prior Period Items,12  Mar-19,0.0,GDYR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,GDYR
+186,Tax,12  Mar-19,561.0,GDYR
+187,Profit after tax,12  Mar-19,1021.0,GDYR
+188,Gross profit margin,12  Mar-19,85.7,GDYR
+189,Effective tax rate,12  Mar-19,35.5,GDYR
+190,Net profit margin,12  Mar-19,53.2,GDYR
+191,Current assets,12  Mar-19,9951.0,GDYR
+192,Current liabilities,12  Mar-19,4348.0,GDYR
+193,Net working cap to sales,12  Mar-19,291.9,GDYR
+194,Current ratio,12  Mar-19,2.3,GDYR
+195,Inventory Days,12  Mar-19,318.0,GDYR
+196,Debtors Days,12  Mar-19,463.0,GDYR
+197,Net fixed assets,12  Mar-19,3012.0,GDYR
+198,Share capital,12  Mar-19,231.0,GDYR
+199,"""Free"" reserves",12  Mar-19,8441.0,GDYR
+200,Net worth,12  Mar-19,8671.0,GDYR
+201,Long term debt,12  Mar-19,0.0,GDYR
+202,Total assets,12  Mar-19,13305.0,GDYR
+203,Interest coverage,12  Mar-19,53.2,GDYR
+204,Debt to equity ratio,12  Mar-19,0.0,GDYR
+205,Sales to assets ratio,12  Mar-19,0.1,GDYR
+206,Return on assets,12  Mar-19,7.9,GDYR
+207,Return on equity,12  Mar-19,11.8,GDYR
+208,Return on capital,12  Mar-19,18.6,GDYR
+209,Exports to sales,12  Mar-19,5.3,GDYR
+210,Imports to sales,12  Mar-19,103.9,GDYR
+211,Exports (fob),12  Mar-19,101.0,GDYR
+212,Imports (cif),12  Mar-19,1994.0,GDYR
+213,Fx inflow,12  Mar-19,133.0,GDYR
+214,Fx outflow,12  Mar-19,1994.0,GDYR
+215,Net fx,12  Mar-19,-1860.0,GDYR
+216,From Operations,12  Mar-19,566.0,GDYR
+217,From Investments,12  Mar-19,-356.0,GDYR
+218,From Financial Activity,12  Mar-19,-389.0,GDYR
+219,Net Cashflow,12  Mar-19,-179.0,GDYR

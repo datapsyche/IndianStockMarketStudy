@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,321860.0,HLL
+1,Other income,12  Mar-16*,4230.0,HLL
+2,Total revenues,12  Mar-16*,326090.0,HLL
+3,Gross profit,12  Mar-16*,60200.0,HLL
+4,Depreciation,12  Mar-16*,3530.0,HLL
+5,Interest,12  Mar-16*,170.0,HLL
+6,Profit before tax,12  Mar-16*,60730.0,HLL
+7,Minority Interest,12  Mar-16*,-90.0,HLL
+8,Prior Period Items,12  Mar-16*,0.0,HLL
+9,Extraordinary Inc (Exp),12  Mar-16*,-310.0,HLL
+10,Tax,12  Mar-16*,18750.0,HLL
+11,Profit after tax,12  Mar-16*,41580.0,HLL
+12,Gross profit margin,12  Mar-16*,18.7,HLL
+13,Effective tax rate,12  Mar-16*,30.9,HLL
+14,Net profit margin,12  Mar-16*,12.9,HLL
+15,Current assets,12  Mar-16*,76190.0,HLL
+16,Current liabilities,12  Mar-16*,68900.0,HLL
+17,Net working cap to sales,12  Mar-16*,2.3,HLL
+18,Current ratio,12  Mar-16*,1.1,HLL
+19,Inventory Days,12  Mar-16*,31.0,HLL
+20,Debtors Days,12  Mar-16*,14.0,HLL
+21,Net fixed assets,12  Mar-16*,36920.0,HLL
+22,Share capital,12  Mar-16*,2160.0,HLL
+23,"""Free"" reserves",12  Mar-16*,63570.0,HLL
+24,Net worth,12  Mar-16*,65730.0,HLL
+25,Long term debt,12  Mar-16*,1770.0,HLL
+26,Total assets,12  Mar-16*,147940.0,HLL
+27,Interest coverage,12  Mar-16*,358.2,HLL
+28,Debt to equity ratio,12  Mar-16*,0.0,HLL
+29,Sales to assets ratio,12  Mar-16*,2.2,HLL
+30,Return on assets,12  Mar-16*,28.2,HLL
+31,Return on equity,12  Mar-16*,63.3,HLL
+32,Return on capital,12  Mar-16*,89.6,HLL
+33,Exports to sales,12  Mar-16*,0.2,HLL
+34,Imports to sales,12  Mar-16*,2.9,HLL
+35,Exports (fob),12  Mar-16*,788.0,HLL
+36,Imports (cif),12  Mar-16*,9490.0,HLL
+37,Fx inflow,12  Mar-16*,5590.0,HLL
+38,Fx outflow,12  Mar-16*,10840.0,HLL
+39,Net fx,12  Mar-16*,-5250.0,HLL
+40,From Operations,12  Mar-16*,41710.0,HLL
+41,From Investments,12  Mar-16*,-2820.0,HLL
+42,From Financial Activity,12  Mar-16*,-38640.0,HLL
+43,Net Cashflow,12  Mar-16*,250.0,HLL
+44,Net Sales,12  Mar-17*,331620.0,HLL
+45,Other income,12  Mar-17*,3690.0,HLL
+46,Total revenues,12  Mar-17*,335310.0,HLL
+47,Gross profit,12  Mar-17*,63400.0,HLL
+48,Depreciation,12  Mar-17*,4320.0,HLL
+49,Interest,12  Mar-17*,350.0,HLL
+50,Profit before tax,12  Mar-17*,62420.0,HLL
+51,Minority Interest,12  Mar-17*,0.0,HLL
+52,Prior Period Items,12  Mar-17*,0.0,HLL
+53,Extraordinary Inc (Exp),12  Mar-17*,2370.0,HLL
+54,Tax,12  Mar-17*,19770.0,HLL
+55,Profit after tax,12  Mar-17*,45020.0,HLL
+56,Gross profit margin,12  Mar-17*,19.1,HLL
+57,Effective tax rate,12  Mar-17*,31.7,HLL
+58,Net profit margin,12  Mar-17*,13.6,HLL
+59,Current assets,12  Mar-17*,101720.0,HLL
+60,Current liabilities,12  Mar-17*,77140.0,HLL
+61,Net working cap to sales,12  Mar-17*,7.4,HLL
+62,Current ratio,12  Mar-17*,1.3,HLL
+63,Inventory Days,12  Mar-17*,28.0,HLL
+64,Debtors Days,12  Mar-17*,12.0,HLL
+65,Net fixed assets,12  Mar-17*,46480.0,HLL
+66,Share capital,12  Mar-17*,2160.0,HLL
+67,"""Free"" reserves",12  Mar-17*,65280.0,HLL
+68,Net worth,12  Mar-17*,67440.0,HLL
+69,Long term debt,12  Mar-17*,2770.0,HLL
+70,Total assets,12  Mar-17*,157060.0,HLL
+71,Interest coverage,12  Mar-17*,179.3,HLL
+72,Debt to equity ratio,12  Mar-17*,0.0,HLL
+73,Sales to assets ratio,12  Mar-17*,2.1,HLL
+74,Return on assets,12  Mar-17*,28.9,HLL
+75,Return on equity,12  Mar-17*,66.8,HLL
+76,Return on capital,12  Mar-17*,92.8,HLL
+77,Exports to sales,12  Mar-17*,0.0,HLL
+78,Imports to sales,12  Mar-17*,0.0,HLL
+79,Exports (fob),12  Mar-17*,0.0,HLL
+80,Imports (cif),12  Mar-17*,0.0,HLL
+81,Fx inflow,12  Mar-17*,5410.0,HLL
+82,Fx outflow,12  Mar-17*,12140.0,HLL
+83,Net fx,12  Mar-17*,-6730.0,HLL
+84,From Operations,12  Mar-17*,51850.0,HLL
+85,From Investments,12  Mar-17*,-11730.0,HLL
+86,From Financial Activity,12  Mar-17*,-42140.0,HLL
+87,Net Cashflow,12  Mar-17*,-2020.0,HLL
+88,Net Sales,12  Mar-18*,355450.0,HLL
+89,Other income,12  Mar-18*,3840.0,HLL
+90,Total revenues,12  Mar-18*,359290.0,HLL
+91,Gross profit,12  Mar-18*,74990.0,HLL
+92,Depreciation,12  Mar-18*,5200.0,HLL
+93,Interest,12  Mar-18*,260.0,HLL
+94,Profit before tax,12  Mar-18*,73370.0,HLL
+95,Minority Interest,12  Mar-18*,0.0,HLL
+96,Prior Period Items,12  Mar-18*,0.0,HLL
+97,Extraordinary Inc (Exp),12  Mar-18*,-330.0,HLL
+98,Tax,12  Mar-18*,20790.0,HLL
+99,Profit after tax,12  Mar-18*,52250.0,HLL
+100,Gross profit margin,12  Mar-18*,21.1,HLL
+101,Effective tax rate,12  Mar-18*,28.3,HLL
+102,Net profit margin,12  Mar-18*,14.7,HLL
+103,Current assets,12  Mar-18*,116600.0,HLL
+104,Current liabilities,12  Mar-18*,88870.0,HLL
+105,Net working cap to sales,12  Mar-18*,7.8,HLL
+106,Current ratio,12  Mar-18*,1.3,HLL
+107,Inventory Days,12  Mar-18*,26.0,HLL
+108,Debtors Days,12  Mar-18*,13.0,HLL
+109,Net fixed assets,12  Mar-18*,49890.0,HLL
+110,Share capital,12  Mar-18*,2160.0,HLL
+111,"""Free"" reserves",12  Mar-18*,70650.0,HLL
+112,Net worth,12  Mar-18*,72810.0,HLL
+113,Long term debt,12  Mar-18*,0.0,HLL
+114,Total assets,12  Mar-18*,178620.0,HLL
+115,Interest coverage,12  Mar-18*,283.2,HLL
+116,Debt to equity ratio,12  Mar-18*,0.0,HLL
+117,Sales to assets ratio,12  Mar-18*,2.0,HLL
+118,Return on assets,12  Mar-18*,29.4,HLL
+119,Return on equity,12  Mar-18*,71.8,HLL
+120,Return on capital,12  Mar-18*,100.7,HLL
+121,Exports to sales,12  Mar-18*,0.0,HLL
+122,Imports to sales,12  Mar-18*,0.0,HLL
+123,Exports (fob),12  Mar-18*,0.0,HLL
+124,Imports (cif),12  Mar-18*,0.0,HLL
+125,Fx inflow,12  Mar-18*,3870.0,HLL
+126,Fx outflow,12  Mar-18*,12850.0,HLL
+127,Net fx,12  Mar-18*,-8980.0,HLL
+128,From Operations,12  Mar-18*,60590.0,HLL
+129,From Investments,12  Mar-18*,-10630.0,HLL
+130,From Financial Activity,12  Mar-18*,-49750.0,HLL
+131,Net Cashflow,12  Mar-18*,210.0,HLL
+132,Net Sales,12  Mar-19*,393100.0,HLL
+133,Other income,12  Mar-19*,5500.0,HLL
+134,Total revenues,12  Mar-19*,398600.0,HLL
+135,Gross profit,12  Mar-19*,88800.0,HLL
+136,Depreciation,12  Mar-19*,5650.0,HLL
+137,Interest,12  Mar-19*,330.0,HLL
+138,Profit before tax,12  Mar-19*,88320.0,HLL
+139,Minority Interest,12  Mar-19*,0.0,HLL
+140,Prior Period Items,12  Mar-19*,0.0,HLL
+141,Extraordinary Inc (Exp),12  Mar-19*,-2280.0,HLL
+142,Tax,12  Mar-19*,25440.0,HLL
+143,Profit after tax,12  Mar-19*,60600.0,HLL
+144,Gross profit margin,12  Mar-19*,22.6,HLL
+145,Effective tax rate,12  Mar-19*,28.8,HLL
+146,Net profit margin,12  Mar-19*,15.4,HLL
+147,Current assets,12  Mar-19*,119140.0,HLL
+148,Current liabilities,12  Mar-19*,86670.0,HLL
+149,Net working cap to sales,12  Mar-19*,8.3,HLL
+150,Current ratio,12  Mar-19*,1.4,HLL
+151,Inventory Days,12  Mar-19*,24.0,HLL
+152,Debtors Days,12  Mar-19*,17.0,HLL
+153,Net fixed assets,12  Mar-19*,51210.0,HLL
+154,Share capital,12  Mar-19*,2160.0,HLL
+155,"""Free"" reserves",12  Mar-19*,76510.0,HLL
+156,Net worth,12  Mar-19*,78670.0,HLL
+157,Long term debt,12  Mar-19*,0.0,HLL
+158,Total assets,12  Mar-19*,186290.0,HLL
+159,Interest coverage,12  Mar-19*,268.6,HLL
+160,Debt to equity ratio,12  Mar-19*,0.0,HLL
+161,Sales to assets ratio,12  Mar-19*,2.1,HLL
+162,Return on assets,12  Mar-19*,32.7,HLL
+163,Return on equity,12  Mar-19*,77.0,HLL
+164,Return on capital,12  Mar-19*,109.8,HLL
+165,Exports to sales,12  Mar-19*,0.0,HLL
+166,Imports to sales,12  Mar-19*,0.0,HLL
+167,Exports (fob),12  Mar-19*,0.0,HLL
+168,Imports (cif),12  Mar-19*,0.0,HLL
+169,Fx inflow,12  Mar-19*,3240.0,HLL
+170,Fx outflow,12  Mar-19*,13820.0,HLL
+171,Net fx,12  Mar-19*,-10580.0,HLL
+172,From Operations,12  Mar-19*,58000.0,HLL
+173,From Investments,12  Mar-19*,-4380.0,HLL
+174,From Financial Activity,12  Mar-19*,-53900.0,HLL
+175,Net Cashflow,12  Mar-19*,-280.0,HLL
+176,Net Sales,12  Mar-20*,397830.0,HLL
+177,Other income,12  Mar-20*,6320.0,HLL
+178,Total revenues,12  Mar-20*,404150.0,HLL
+179,Gross profit,12  Mar-20*,98610.0,HLL
+180,Depreciation,12  Mar-20*,10020.0,HLL
+181,Interest,12  Mar-20*,1180.0,HLL
+182,Profit before tax,12  Mar-20*,93730.0,HLL
+183,Minority Interest,12  Mar-20*,0.0,HLL
+184,Prior Period Items,12  Mar-20*,0.0,HLL
+185,Extraordinary Inc (Exp),12  Mar-20*,-2000.0,HLL
+186,Tax,12  Mar-20*,24090.0,HLL
+187,Profit after tax,12  Mar-20*,67640.0,HLL
+188,Gross profit margin,12  Mar-20*,24.8,HLL
+189,Effective tax rate,12  Mar-20*,25.7,HLL
+190,Net profit margin,12  Mar-20*,17.0,HLL
+191,Current assets,12  Mar-20*,123210.0,HLL
+192,Current liabilities,12  Mar-20*,93170.0,HLL
+193,Net working cap to sales,12  Mar-20*,7.6,HLL
+194,Current ratio,12  Mar-20*,1.3,HLL
+195,Inventory Days,12  Mar-20*,25.0,HLL
+196,Debtors Days,12  Mar-20*,11.0,HLL
+197,Net fixed assets,12  Mar-20*,60760.0,HLL
+198,Share capital,12  Mar-20*,2160.0,HLL
+199,"""Free"" reserves",12  Mar-20*,80130.0,HLL
+200,Net worth,12  Mar-20*,82290.0,HLL
+201,Long term debt,12  Mar-20*,0.0,HLL
+202,Total assets,12  Mar-20*,201530.0,HLL
+203,Interest coverage,12  Mar-20*,80.4,HLL
+204,Debt to equity ratio,12  Mar-20*,0.0,HLL
+205,Sales to assets ratio,12  Mar-20*,2.0,HLL
+206,Return on assets,12  Mar-20*,34.1,HLL
+207,Return on equity,12  Mar-20*,82.2,HLL
+208,Return on capital,12  Mar-20*,112.9,HLL
+209,Exports to sales,12  Mar-20*,0.0,HLL
+210,Imports to sales,12  Mar-20*,0.0,HLL
+211,Exports (fob),12  Mar-20*,0.0,HLL
+212,Imports (cif),12  Mar-20*,0.0,HLL
+213,Fx inflow,12  Mar-20*,2830.0,HLL
+214,Fx outflow,12  Mar-20*,15650.0,HLL
+215,Net fx,12  Mar-20*,-12820.0,HLL
+216,From Operations,12  Mar-20*,76230.0,HLL
+217,From Investments,12  Mar-20*,17910.0,HLL
+218,From Financial Activity,12  Mar-20*,-68190.0,HLL
+219,Net Cashflow,12  Mar-20*,25950.0,HLL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,2606.0,CARE
+1,Other income,12  Mar-15*,437.0,CARE
+2,Total revenues,12  Mar-15*,3042.0,CARE
+3,Gross profit,12  Mar-15*,1596.0,CARE
+4,Depreciation,12  Mar-15*,51.0,CARE
+5,Interest,12  Mar-15*,13.0,CARE
+6,Profit before tax,12  Mar-15*,1969.0,CARE
+7,Minority Interest,12  Mar-15*,0.0,CARE
+8,Prior Period Items,12  Mar-15*,0.0,CARE
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,CARE
+10,Tax,12  Mar-15*,591.0,CARE
+11,Profit after tax,12  Mar-15*,1378.0,CARE
+12,Gross profit margin,12  Mar-15*,61.2,CARE
+13,Effective tax rate,12  Mar-15*,30.0,CARE
+14,Net profit margin,12  Mar-15*,52.9,CARE
+15,Current assets,12  Mar-15*,1817.0,CARE
+16,Current liabilities,12  Mar-15*,783.0,CARE
+17,Net working cap to sales,12  Mar-15*,39.7,CARE
+18,Current ratio,12  Mar-15*,2.3,CARE
+19,Inventory Days,12  Mar-15*,0.0,CARE
+20,Debtors Days,12  Mar-15*,22.0,CARE
+21,Net fixed assets,12  Mar-15*,567.0,CARE
+22,Share capital,12  Mar-15*,290.0,CARE
+23,"""Free"" reserves",12  Mar-15*,3232.0,CARE
+24,Net worth,12  Mar-15*,3589.0,CARE
+25,Long term debt,12  Mar-15*,0.0,CARE
+26,Total assets,12  Mar-15*,4455.0,CARE
+27,Interest coverage,12  Mar-15*,152.4,CARE
+28,Debt to equity ratio,12  Mar-15*,0.0,CARE
+29,Sales to assets ratio,12  Mar-15*,0.6,CARE
+30,Return on assets,12  Mar-15*,31.2,CARE
+31,Return on equity,12  Mar-15*,38.4,CARE
+32,Return on capital,12  Mar-15*,55.2,CARE
+33,Exports to sales,12  Mar-15*,0.0,CARE
+34,Imports to sales,12  Mar-15*,0.0,CARE
+35,Exports (fob),12  Mar-15*,0.0,CARE
+36,Imports (cif),12  Mar-15*,0.0,CARE
+37,Fx inflow,12  Mar-15*,10.0,CARE
+38,Fx outflow,12  Mar-15*,8.0,CARE
+39,Net fx,12  Mar-15*,2.0,CARE
+40,From Operations,12  Mar-15*,1073.0,CARE
+41,From Investments,12  Mar-15*,1565.0,CARE
+42,From Financial Activity,12  Mar-15*,-2761.0,CARE
+43,Net Cashflow,12  Mar-15*,-124.0,CARE
+44,Net Sales,12  Mar-16*,2794.0,CARE
+45,Other income,12  Mar-16*,87.0,CARE
+46,Total revenues,12  Mar-16*,2881.0,CARE
+47,Gross profit,12  Mar-16*,1739.0,CARE
+48,Depreciation,12  Mar-16*,42.0,CARE
+49,Interest,12  Mar-16*,0.0,CARE
+50,Profit before tax,12  Mar-16*,1784.0,CARE
+51,Minority Interest,12  Mar-16*,0.0,CARE
+52,Prior Period Items,12  Mar-16*,0.0,CARE
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CARE
+54,Tax,12  Mar-16*,588.0,CARE
+55,Profit after tax,12  Mar-16*,1196.0,CARE
+56,Gross profit margin,12  Mar-16*,62.2,CARE
+57,Effective tax rate,12  Mar-16*,33.0,CARE
+58,Net profit margin,12  Mar-16*,42.8,CARE
+59,Current assets,12  Mar-16*,2300,CARE
+60,Current liabilities,12  Mar-16*,468,CARE
+61,Net working cap to sales,12  Mar-16*,65.6,CARE
+62,Current ratio,12  Mar-16*,4.9,CARE
+63,Inventory Days,12  Mar-16*,0,CARE
+64,Debtors Days,12  Mar-16*,29,CARE
+65,Net fixed assets,12  Mar-16*,556,CARE
+66,Share capital,12  Mar-16*,294,CARE
+67,"""Free"" reserves",12  Mar-16*,3443,CARE
+68,Net worth,12  Mar-16*,4087,CARE
+69,Long term debt,12  Mar-16*,0,CARE
+70,Total assets,12  Mar-16*,5319,CARE
+71,Interest coverage,12  Mar-16*,NM,CARE
+72,Debt to equity ratio,12  Mar-16*,0,CARE
+73,Sales to assets ratio,12  Mar-16*,0.5,CARE
+74,Return on assets,12  Mar-16*,22.5,CARE
+75,Return on equity,12  Mar-16*,29.3,CARE
+76,Return on capital,12  Mar-16*,43.7,CARE
+77,Exports to sales,12  Mar-16*,0,CARE
+78,Imports to sales,12  Mar-16*,0,CARE
+79,Exports (fob),12  Mar-16*,0,CARE
+80,Imports (cif),12  Mar-16*,0,CARE
+81,Fx inflow,12  Mar-16*,43,CARE
+82,Fx outflow,12  Mar-16*,3,CARE
+83,Net fx,12  Mar-16*,40,CARE
+84,From Operations,12  Mar-16*,1064,CARE
+85,From Investments,12  Mar-16*,-409,CARE
+86,From Financial Activity,12  Mar-16*,-662,CARE
+87,Net Cashflow,12  Mar-16*,-7,CARE
+88,Net Sales,12  Mar-17*,2805.0,CARE
+89,Other income,12  Mar-17*,341.0,CARE
+90,Total revenues,12  Mar-17*,3146.0,CARE
+91,Gross profit,12  Mar-17*,1862.0,CARE
+92,Depreciation,12  Mar-17*,31.0,CARE
+93,Interest,12  Mar-17*,0.0,CARE
+94,Profit before tax,12  Mar-17*,2171.0,CARE
+95,Minority Interest,12  Mar-17*,0.0,CARE
+96,Prior Period Items,12  Mar-17*,0.0,CARE
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CARE
+98,Tax,12  Mar-17*,648.0,CARE
+99,Profit after tax,12  Mar-17*,1523.0,CARE
+100,Gross profit margin,12  Mar-17*,66.4,CARE
+101,Effective tax rate,12  Mar-17*,29.9,CARE
+102,Net profit margin,12  Mar-17*,54.3,CARE
+103,Current assets,12  Mar-17*,4278,CARE
+104,Current liabilities,12  Mar-17*,463,CARE
+105,Net working cap to sales,12  Mar-17*,136.0,CARE
+106,Current ratio,12  Mar-17*,9.2,CARE
+107,Inventory Days,12  Mar-17*,0,CARE
+108,Debtors Days,12  Mar-17*,30,CARE
+109,Net fixed assets,12  Mar-17*,610,CARE
+110,Share capital,12  Mar-17*,295,CARE
+111,"""Free"" reserves",12  Mar-17*,4615,CARE
+112,Net worth,12  Mar-17*,4953,CARE
+113,Long term debt,12  Mar-17*,0,CARE
+114,Total assets,12  Mar-17*,5857,CARE
+115,Interest coverage,12  Mar-17*,NM,CARE
+116,Debt to equity ratio,12  Mar-17*,0,CARE
+117,Sales to assets ratio,12  Mar-17*,0.5,CARE
+118,Return on assets,12  Mar-17*,26.0,CARE
+119,Return on equity,12  Mar-17*,30.7,CARE
+120,Return on capital,12  Mar-17*,43.8,CARE
+121,Exports to sales,12  Mar-17*,0,CARE
+122,Imports to sales,12  Mar-17*,0,CARE
+123,Exports (fob),12  Mar-17*,0,CARE
+124,Imports (cif),12  Mar-17*,0,CARE
+125,Fx inflow,12  Mar-17*,23,CARE
+126,Fx outflow,12  Mar-17*,4,CARE
+127,Net fx,12  Mar-17*,19,CARE
+128,From Operations,12  Mar-17*,1233,CARE
+129,From Investments,12  Mar-17*,-276,CARE
+130,From Financial Activity,12  Mar-17*,-961,CARE
+131,Net Cashflow,12  Mar-17*,-5,CARE
+132,Net Sales,12  Mar-18*,3327.0,CARE
+133,Other income,12  Mar-18*,255.0,CARE
+134,Total revenues,12  Mar-18*,3582.0,CARE
+135,Gross profit,12  Mar-18*,2108.0,CARE
+136,Depreciation,12  Mar-18*,32.0,CARE
+137,Interest,12  Mar-18*,0.0,CARE
+138,Profit before tax,12  Mar-18*,2331.0,CARE
+139,Minority Interest,12  Mar-18*,0.0,CARE
+140,Prior Period Items,12  Mar-18*,0.0,CARE
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CARE
+142,Tax,12  Mar-18*,707.0,CARE
+143,Profit after tax,12  Mar-18*,1623.0,CARE
+144,Gross profit margin,12  Mar-18*,63.3,CARE
+145,Effective tax rate,12  Mar-18*,30.3,CARE
+146,Net profit margin,12  Mar-18*,48.8,CARE
+147,Current assets,12  Mar-18*,3409,CARE
+148,Current liabilities,12  Mar-18*,496,CARE
+149,Net working cap to sales,12  Mar-18*,87.6,CARE
+150,Current ratio,12  Mar-18*,6.9,CARE
+151,Inventory Days,12  Mar-18*,0,CARE
+152,Debtors Days,12  Mar-18*,43,CARE
+153,Net fixed assets,12  Mar-18*,602,CARE
+154,Share capital,12  Mar-18*,295,CARE
+155,"""Free"" reserves",12  Mar-18*,5674,CARE
+156,Net worth,12  Mar-18*,5968,CARE
+157,Long term debt,12  Mar-18*,0,CARE
+158,Total assets,12  Mar-18*,6586,CARE
+159,Interest coverage,12  Mar-18*,NM,CARE
+160,Debt to equity ratio,12  Mar-18*,0,CARE
+161,Sales to assets ratio,12  Mar-18*,0.5,CARE
+162,Return on assets,12  Mar-18*,24.6,CARE
+163,Return on equity,12  Mar-18*,27.2,CARE
+164,Return on capital,12  Mar-18*,39.1,CARE
+165,Exports to sales,12  Mar-18*,0,CARE
+166,Imports to sales,12  Mar-18*,0,CARE
+167,Exports (fob),12  Mar-18*,0,CARE
+168,Imports (cif),12  Mar-18*,0,CARE
+169,Fx inflow,12  Mar-18*,24,CARE
+170,Fx outflow,12  Mar-18*,2,CARE
+171,Net fx,12  Mar-18*,22,CARE
+172,From Operations,12  Mar-18*,1338,CARE
+173,From Investments,12  Mar-18*,-246,CARE
+174,From Financial Activity,12  Mar-18*,-987,CARE
+175,Net Cashflow,12  Mar-18*,105,CARE
+176,Net Sales,12  Mar-19*,3190.0,CARE
+177,Other income,12  Mar-19*,304.0,CARE
+178,Total revenues,12  Mar-19*,3494.0,CARE
+179,Gross profit,12  Mar-19*,1747.0,CARE
+180,Depreciation,12  Mar-19*,33.0,CARE
+181,Interest,12  Mar-19*,0.0,CARE
+182,Profit before tax,12  Mar-19*,2017.0,CARE
+183,Minority Interest,12  Mar-19*,0.0,CARE
+184,Prior Period Items,12  Mar-19*,0.0,CARE
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CARE
+186,Tax,12  Mar-19*,637.0,CARE
+187,Profit after tax,12  Mar-19*,1381.0,CARE
+188,Gross profit margin,12  Mar-19*,54.8,CARE
+189,Effective tax rate,12  Mar-19*,31.6,CARE
+190,Net profit margin,12  Mar-19*,43.3,CARE
+191,Current assets,12  Mar-19*,2794,CARE
+192,Current liabilities,12  Mar-19*,489,CARE
+193,Net working cap to sales,12  Mar-19*,72.2,CARE
+194,Current ratio,12  Mar-19*,5.7,CARE
+195,Inventory Days,12  Mar-19*,0,CARE
+196,Debtors Days,12  Mar-19*,54,CARE
+197,Net fixed assets,12  Mar-19*,831,CARE
+198,Share capital,12  Mar-19*,295,CARE
+199,"""Free"" reserves",12  Mar-19*,5205,CARE
+200,Net worth,12  Mar-19*,5500,CARE
+201,Long term debt,12  Mar-19*,0,CARE
+202,Total assets,12  Mar-19*,6151,CARE
+203,Interest coverage,12  Mar-19*,NM,CARE
+204,Debt to equity ratio,12  Mar-19*,0,CARE
+205,Sales to assets ratio,12  Mar-19*,0.5,CARE
+206,Return on assets,12  Mar-19*,22.4,CARE
+207,Return on equity,12  Mar-19*,25.1,CARE
+208,Return on capital,12  Mar-19*,36.7,CARE
+209,Exports to sales,12  Mar-19*,0,CARE
+210,Imports to sales,12  Mar-19*,0,CARE
+211,Exports (fob),12  Mar-19*,0,CARE
+212,Imports (cif),12  Mar-19*,0,CARE
+213,Fx inflow,12  Mar-19*,25,CARE
+214,Fx outflow,12  Mar-19*,3,CARE
+215,Net fx,12  Mar-19*,22,CARE
+216,From Operations,12  Mar-19*,1086,CARE
+217,From Investments,12  Mar-19*,826,CARE
+218,From Financial Activity,12  Mar-19*,-1954,CARE
+219,Net Cashflow,12  Mar-19*,-42,CARE

@@ -1,0 +1,186 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15,43138.0,MUTFL
+1,Other income,12  Mar-15,108.0,MUTFL
+2,Interest expense,12  Mar-15,21064.0,MUTFL
+3,Net interest income,12  Mar-15,22074.0,MUTFL
+4,Operating expense,12  Mar-15,10692.0,MUTFL
+5,Gross profit,12  Mar-15,11383.0,MUTFL
+6,Gross profit margin,12  Mar-15,26.4,MUTFL
+7,Provisions/contingencies,12  Mar-15,1213.0,MUTFL
+8,Profit before tax,12  Mar-15,10279.0,MUTFL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,MUTFL
+10,Minority Interest,12  Mar-15,0.0,MUTFL
+11,Prior Period Items,12  Mar-15,0.0,MUTFL
+12,Tax,12  Mar-15,3573.0,MUTFL
+13,Profit after tax,12  Mar-15,6705.0,MUTFL
+14,Net profit margin,12  Mar-15,15.5,MUTFL
+15,Advances,12  Mar-15,235389,MUTFL
+16,Deposits,12  Mar-15,0,MUTFL
+17,Credit/Deposit ratio,12  Mar-15,NM,MUTFL
+18,Yield on advances,12  Mar-15,18.1,MUTFL
+19,Cost of deposits,12  Mar-15,N.A.,MUTFL
+20,Net Interest Margin,12  Mar-15,9.4,MUTFL
+21,Net fixed assets,12  Mar-15,2642,MUTFL
+22,Share capital,12  Mar-15,3980,MUTFL
+23,Free reserves,12  Mar-15,25965,MUTFL
+24,Net worth,12  Mar-15,50835,MUTFL
+25,Borrowings,12  Mar-15,67126,MUTFL
+26,Investments,12  Mar-15,385,MUTFL
+27,Total assets,12  Mar-15,267693,MUTFL
+28,Debt/equity ratio,12  Mar-15,1.3,MUTFL
+29,Return on assets,12  Mar-15,2.5,MUTFL
+30,Return on equity,12  Mar-15,13.2,MUTFL
+31,Capital adequacy ratio,12  Mar-15,24.8,MUTFL
+32,Net NPAs,12  Mar-15,1.9,MUTFL
+33,From Operations,12  Mar-15,-4603,MUTFL
+34,From Investments,12  Mar-15,-162,MUTFL
+35,From Financial Activity,12  Mar-15,2542,MUTFL
+36,Net Cashflow,12  Mar-15,-2223,MUTFL
+37,Interest income,12  Mar-16,49200.0,MUTFL
+38,Other income,12  Mar-16,208.0,MUTFL
+39,Interest expense,12  Mar-16,22856.0,MUTFL
+40,Net interest income,12  Mar-16,26344.0,MUTFL
+41,Operating expense,12  Mar-16,11034.0,MUTFL
+42,Gross profit,12  Mar-16,15309.0,MUTFL
+43,Gross profit margin,12  Mar-16,31.1,MUTFL
+44,Provisions/contingencies,12  Mar-16,2251.0,MUTFL
+45,Profit before tax,12  Mar-16,13267.0,MUTFL
+46,Extraordinary Inc (Exp),12  Mar-16,0.0,MUTFL
+47,Minority Interest,12  Mar-16,-33.0,MUTFL
+48,Prior Period Items,12  Mar-16,0.0,MUTFL
+49,Tax,12  Mar-16,5088.0,MUTFL
+50,Profit after tax,12  Mar-16,8145.0,MUTFL
+51,Net profit margin,12  Mar-16,16.6,MUTFL
+52,Advances,12  Mar-16,248587,MUTFL
+53,Deposits,12  Mar-16,0,MUTFL
+54,Credit/Deposit ratio,12  Mar-16,NM,MUTFL
+55,Yield on advances,12  Mar-16,19.3,MUTFL
+56,Cost of deposits,12  Mar-16,N.A.,MUTFL
+57,Net Interest Margin,12  Mar-16,10.6,MUTFL
+58,Net fixed assets,12  Mar-16,2424,MUTFL
+59,Share capital,12  Mar-16,3990,MUTFL
+60,Free reserves,12  Mar-16,26166,MUTFL
+61,Net worth,12  Mar-16,56193,MUTFL
+62,Borrowings,12  Mar-16,137974,MUTFL
+63,Investments,12  Mar-16,491,MUTFL
+64,Total assets,12  Mar-16,273948,MUTFL
+65,Debt/equity ratio,12  Mar-16,2.5,MUTFL
+66,Return on assets,12  Mar-16,3.0,MUTFL
+67,Return on equity,12  Mar-16,14.5,MUTFL
+68,Capital adequacy ratio,12  Mar-16,24.5,MUTFL
+69,Net NPAs,12  Mar-16,2.5,MUTFL
+70,From Operations,12  Mar-16,1083,MUTFL
+71,From Investments,12  Mar-16,-457,MUTFL
+72,From Financial Activity,12  Mar-16,-11017,MUTFL
+73,Net Cashflow,12  Mar-16,-10390,MUTFL
+74,Interest income,12  Mar-17,59108.0,MUTFL
+75,Other income,12  Mar-17,276.0,MUTFL
+76,Interest expense,12  Mar-17,23688.0,MUTFL
+77,Net interest income,12  Mar-17,35420.0,MUTFL
+78,Operating expense,12  Mar-17,12585.0,MUTFL
+79,Gross profit,12  Mar-17,22834.0,MUTFL
+80,Gross profit margin,12  Mar-17,38.6,MUTFL
+81,Provisions/contingencies,12  Mar-17,3486.0,MUTFL
+82,Profit before tax,12  Mar-17,19586.0,MUTFL
+83,Extraordinary Inc (Exp),12  Mar-17,0.0,MUTFL
+84,Minority Interest,12  Mar-17,-75.0,MUTFL
+85,Prior Period Items,12  Mar-17,0.0,MUTFL
+86,Tax,12  Mar-17,7513.0,MUTFL
+87,Profit after tax,12  Mar-17,11998.0,MUTFL
+88,Net profit margin,12  Mar-17,20.3,MUTFL
+89,Advances,12  Mar-17,287949,MUTFL
+90,Deposits,12  Mar-17,0,MUTFL
+91,Credit/Deposit ratio,12  Mar-17,NM,MUTFL
+92,Yield on advances,12  Mar-17,19.6,MUTFL
+93,Cost of deposits,12  Mar-17,N.A.,MUTFL
+94,Net Interest Margin,12  Mar-17,12.3,MUTFL
+95,Net fixed assets,12  Mar-17,2462,MUTFL
+96,Share capital,12  Mar-17,3995,MUTFL
+97,Free reserves,12  Mar-17,61386,MUTFL
+98,Net worth,12  Mar-17,65380,MUTFL
+99,Borrowings,12  Mar-17,176110,MUTFL
+100,Investments,12  Mar-17,965,MUTFL
+101,Total assets,12  Mar-17,321841,MUTFL
+102,Debt/equity ratio,12  Mar-17,2.7,MUTFL
+103,Return on assets,12  Mar-17,3.7,MUTFL
+104,Return on equity,12  Mar-17,18.4,MUTFL
+105,Capital adequacy ratio,12  Mar-17,24.9,MUTFL
+106,Net NPAs,12  Mar-17,1.7,MUTFL
+107,From Operations,12  Mar-17,-21862,MUTFL
+108,From Investments,12  Mar-17,-1832,MUTFL
+109,From Financial Activity,12  Mar-17,30268,MUTFL
+110,Net Cashflow,12  Mar-17,6639,MUTFL
+111,Interest income,12  Mar-18,66124.0,MUTFL
+112,Other income,12  Mar-18,690.0,MUTFL
+113,Interest expense,12  Mar-18,21271.0,MUTFL
+114,Net interest income,12  Mar-18,44852.0,MUTFL
+115,Operating expense,12  Mar-18,13936.0,MUTFL
+116,Gross profit,12  Mar-18,30917.0,MUTFL
+117,Gross profit margin,12  Mar-18,46.8,MUTFL
+118,Provisions/contingencies,12  Mar-18,3232.0,MUTFL
+119,Profit before tax,12  Mar-18,29567.0,MUTFL
+120,Extraordinary Inc (Exp),12  Mar-18,0.0,MUTFL
+121,Minority Interest,12  Mar-18,-146.0,MUTFL
+122,Prior Period Items,12  Mar-18,0.0,MUTFL
+123,Tax,12  Mar-18,10983.0,MUTFL
+124,Profit after tax,12  Mar-18,18438.0,MUTFL
+125,Net profit margin,12  Mar-18,27.9,MUTFL
+126,Advances,12  Mar-18,322523,MUTFL
+127,Deposits,12  Mar-18,0,MUTFL
+128,Credit/Deposit ratio,12  Mar-18,NM,MUTFL
+129,Yield on advances,12  Mar-18,18.7,MUTFL
+130,Cost of deposits,12  Mar-18,N.A.,MUTFL
+131,Net Interest Margin,12  Mar-18,13.8,MUTFL
+132,Net fixed assets,12  Mar-18,2378,MUTFL
+133,Share capital,12  Mar-18,4000,MUTFL
+134,Free reserves,12  Mar-18,74565,MUTFL
+135,Net worth,12  Mar-18,78566,MUTFL
+136,Borrowings,12  Mar-18,201505,MUTFL
+137,Investments,12  Mar-18,1656,MUTFL
+138,Total assets,12  Mar-18,336718,MUTFL
+139,Debt/equity ratio,12  Mar-18,2.6,MUTFL
+140,Return on assets,12  Mar-18,5.5,MUTFL
+141,Return on equity,12  Mar-18,23.5,MUTFL
+142,Capital adequacy ratio,12  Mar-18,26.6,MUTFL
+143,Net NPAs,12  Mar-18,3.8,MUTFL
+144,From Operations,12  Mar-18,-14322,MUTFL
+145,From Investments,12  Mar-18,-1250,MUTFL
+146,From Financial Activity,12  Mar-18,8237,MUTFL
+147,Net Cashflow,12  Mar-18,-7341,MUTFL
+148,Interest income,12  Mar-19,74160.0,MUTFL
+149,Other income,12  Mar-19,66.0,MUTFL
+150,Interest expense,12  Mar-19,25355.0,MUTFL
+151,Net interest income,12  Mar-19,48805.0,MUTFL
+152,Operating expense,12  Mar-19,16865.0,MUTFL
+153,Gross profit,12  Mar-19,31940.0,MUTFL
+154,Gross profit margin,12  Mar-19,43.1,MUTFL
+155,Provisions/contingencies,12  Mar-19,1195.0,MUTFL
+156,Profit before tax,12  Mar-19,32595.0,MUTFL
+157,Extraordinary Inc (Exp),12  Mar-19,0.0,MUTFL
+158,Minority Interest,12  Mar-19,0.0,MUTFL
+159,Prior Period Items,12  Mar-19,0.0,MUTFL
+160,Tax,12  Mar-19,11566.0,MUTFL
+161,Profit after tax,12  Mar-19,21030.0,MUTFL
+162,Net profit margin,12  Mar-19,28.4,MUTFL
+163,Advances,12  Mar-19,387225,MUTFL
+164,Deposits,12  Mar-19,0,MUTFL
+165,Credit/Deposit ratio,12  Mar-19,NM,MUTFL
+166,Yield on advances,12  Mar-19,17.4,MUTFL
+167,Cost of deposits,12  Mar-19,N.A.,MUTFL
+168,Net Interest Margin,12  Mar-19,12.5,MUTFL
+169,Net fixed assets,12  Mar-19,2364,MUTFL
+170,Share capital,12  Mar-19,4007,MUTFL
+171,Free reserves,12  Mar-19,95305,MUTFL
+172,Net worth,12  Mar-19,99312,MUTFL
+173,Borrowings,12  Mar-19,211314,MUTFL
+174,Investments,12  Mar-19,2111,MUTFL
+175,Total assets,12  Mar-19,417348,MUTFL
+176,Debt/equity ratio,12  Mar-19,2.1,MUTFL
+177,Return on assets,12  Mar-19,5.0,MUTFL
+178,Return on equity,12  Mar-19,21.2,MUTFL
+179,Capital adequacy ratio,12  Mar-19,26.1,MUTFL
+180,Net NPAs,12  Mar-19,2.4,MUTFL
+181,From Operations,12  Mar-19,-48242,MUTFL
+182,From Investments,12  Mar-19,-1647,MUTFL
+183,From Financial Activity,12  Mar-19,63510,MUTFL
+184,Net Cashflow,12  Mar-19,13645,MUTFL

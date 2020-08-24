@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-16*,2730456.0,TELCO
+1,Other income,12  Mar-16*,8854.0,TELCO
+2,Total revenues,12  Mar-16*,2739310.0,TELCO
+3,Gross profit,12  Mar-16*,366906.0,TELCO
+4,Depreciation,12  Mar-16*,167108.0,TELCO
+5,Interest,12  Mar-16*,48891.0,TELCO
+6,Profit before tax,12  Mar-16*,159761.0,TELCO
+7,Minority Interest,12  Mar-16*,0.0,TELCO
+8,Prior Period Items,12  Mar-16*,5775.0,TELCO
+9,Extraordinary Inc (Exp),12  Mar-16*,-18504.0,TELCO
+10,Tax,12  Mar-16*,30251.0,TELCO
+11,Profit after tax,12  Mar-16*,116782.0,TELCO
+12,Gross profit margin,12  Mar-16*,13.4,TELCO
+13,Effective tax rate,12  Mar-16*,18.9,TELCO
+14,Net profit margin,12  Mar-16*,4.3,TELCO
+15,Current assets,12  Mar-16*,1099237.0,TELCO
+16,Current liabilities,12  Mar-16*,1070494.0,TELCO
+17,Net working cap to sales,12  Mar-16*,1.1,TELCO
+18,Current ratio,12  Mar-16*,1.0,TELCO
+19,Inventory Days,12  Mar-16*,44.0,TELCO
+20,Debtors Days,12  Mar-16*,18.0,TELCO
+21,Net fixed assets,12  Mar-16*,1288507.0,TELCO
+22,Share capital,12  Mar-16*,6792.0,TELCO
+23,"""Free"" reserves",12  Mar-16*,782732.0,TELCO
+24,Net worth,12  Mar-16*,789524.0,TELCO
+25,Long term debt,12  Mar-16*,505104.0,TELCO
+26,Total assets,12  Mar-16*,2671412.0,TELCO
+27,Interest coverage,12  Mar-16*,4.3,TELCO
+28,Debt to equity ratio,12  Mar-16*,0.6,TELCO
+29,Sales to assets ratio,12  Mar-16*,1.0,TELCO
+30,Return on assets,12  Mar-16*,6.2,TELCO
+31,Return on equity,12  Mar-16*,14.8,TELCO
+32,Return on capital,12  Mar-16*,15.1,TELCO
+33,Exports to sales,12  Mar-16*,1.6,TELCO
+34,Imports to sales,12  Mar-16*,0.6,TELCO
+35,Exports (fob),12  Mar-16*,43722.0,TELCO
+36,Imports (cif),12  Mar-16*,17096.0,TELCO
+37,Fx inflow,12  Mar-16*,54590.0,TELCO
+38,Fx outflow,12  Mar-16*,10612.0,TELCO
+39,Net fx,12  Mar-16*,43978.0,TELCO
+40,From Operations,12  Mar-16*,378995.0,TELCO
+41,From Investments,12  Mar-16*,-375044.0,TELCO
+42,From Financial Activity,12  Mar-16*,-37951.0,TELCO
+43,Net Cashflow,12  Mar-16*,-25895.0,TELCO
+44,Net Sales,12  Mar-17*,2696925.0,TELCO
+45,Other income,12  Mar-17*,7545.0,TELCO
+46,Total revenues,12  Mar-17*,2704471.0,TELCO
+47,Gross profit,12  Mar-17*,295887.0,TELCO
+48,Depreciation,12  Mar-17*,179050.0,TELCO
+49,Interest,12  Mar-17*,42380.0,TELCO
+50,Profit before tax,12  Mar-17*,82002.0,TELCO
+51,Minority Interest,12  Mar-17*,0.0,TELCO
+52,Prior Period Items,12  Mar-17*,14930.0,TELCO
+53,Extraordinary Inc (Exp),12  Mar-17*,11146.0,TELCO
+54,Tax,12  Mar-17*,32512.0,TELCO
+55,Profit after tax,12  Mar-17*,75566.0,TELCO
+56,Gross profit margin,12  Mar-17*,11.0,TELCO
+57,Effective tax rate,12  Mar-17*,39.6,TELCO
+58,Net profit margin,12  Mar-17*,2.8,TELCO
+59,Current assets,12  Mar-17*,1161198.0,TELCO
+60,Current liabilities,12  Mar-17*,1156295.0,TELCO
+61,Net working cap to sales,12  Mar-17*,0.2,TELCO
+62,Current ratio,12  Mar-17*,1.0,TELCO
+63,Inventory Days,12  Mar-17*,47.0,TELCO
+64,Debtors Days,12  Mar-17*,19.0,TELCO
+65,Net fixed assets,12  Mar-17*,1296429.0,TELCO
+66,Share capital,12  Mar-17*,6792.0,TELCO
+67,"""Free"" reserves",12  Mar-17*,573827.0,TELCO
+68,Net worth,12  Mar-17*,580619.0,TELCO
+69,Long term debt,12  Mar-17*,606292.0,TELCO
+70,Total assets,12  Mar-17*,2737544.0,TELCO
+71,Interest coverage,12  Mar-17*,2.9,TELCO
+72,Debt to equity ratio,12  Mar-17*,1.0,TELCO
+73,Sales to assets ratio,12  Mar-17*,1.0,TELCO
+74,Return on assets,12  Mar-17*,4.3,TELCO
+75,Return on equity,12  Mar-17*,13.0,TELCO
+76,Return on capital,12  Mar-17*,12.7,TELCO
+77,Exports to sales,12  Mar-17*,0.0,TELCO
+78,Imports to sales,12  Mar-17*,0.0,TELCO
+79,Exports (fob),12  Mar-17*,0.0,TELCO
+80,Imports (cif),12  Mar-17*,0.0,TELCO
+81,Fx inflow,12  Mar-17*,56513.0,TELCO
+82,Fx outflow,12  Mar-17*,27842.0,TELCO
+83,Net fx,12  Mar-17*,28671.0,TELCO
+84,From Operations,12  Mar-17*,301993.0,TELCO
+85,From Investments,12  Mar-17*,-380799.0,TELCO
+86,From Financial Activity,12  Mar-17*,62053.0,TELCO
+87,Net Cashflow,12  Mar-17*,-31669.0,TELCO
+88,Net Sales,12  Mar-18*,2915505.0,TELCO
+89,Other income,12  Mar-18*,39576.0,TELCO
+90,Total revenues,12  Mar-18*,2955081.0,TELCO
+91,Gross profit,12  Mar-18*,314577.0,TELCO
+92,Depreciation,12  Mar-18*,215536.0,TELCO
+93,Interest,12  Mar-18*,46818.0,TELCO
+94,Profit before tax,12  Mar-18*,91799.0,TELCO
+95,Minority Interest,12  Mar-18*,0.0,TELCO
+96,Prior Period Items,12  Mar-18*,22783.0,TELCO
+97,Extraordinary Inc (Exp),12  Mar-18*,19751.0,TELCO
+98,Tax,12  Mar-18*,43419.0,TELCO
+99,Profit after tax,12  Mar-18*,90914.0,TELCO
+100,Gross profit margin,12  Mar-18*,10.8,TELCO
+101,Effective tax rate,12  Mar-18*,47.3,TELCO
+102,Net profit margin,12  Mar-18*,3.1,TELCO
+103,Current assets,12  Mar-18*,1359728.0,TELCO
+104,Current liabilities,12  Mar-18*,1432195.0,TELCO
+105,Net working cap to sales,12  Mar-18*,-2.5,TELCO
+106,Current ratio,12  Mar-18*,0.9,TELCO
+107,Inventory Days,12  Mar-18*,53.0,TELCO
+108,Debtors Days,12  Mar-18*,25.0,TELCO
+109,Net fixed assets,12  Mar-18*,1663353.0,TELCO
+110,Share capital,12  Mar-18*,6792.0,TELCO
+111,"""Free"" reserves",12  Mar-18*,947487.0,TELCO
+112,Net worth,12  Mar-18*,954279.0,TELCO
+113,Long term debt,12  Mar-18*,611995.0,TELCO
+114,Total assets,12  Mar-18*,3313505.0,TELCO
+115,Interest coverage,12  Mar-18*,3.0,TELCO
+116,Debt to equity ratio,12  Mar-18*,0.6,TELCO
+117,Sales to assets ratio,12  Mar-18*,0.9,TELCO
+118,Return on assets,12  Mar-18*,4.2,TELCO
+119,Return on equity,12  Mar-18*,9.5,TELCO
+120,Return on capital,12  Mar-18*,11.6,TELCO
+121,Exports to sales,12  Mar-18*,0.0,TELCO
+122,Imports to sales,12  Mar-18*,0.0,TELCO
+123,Exports (fob),12  Mar-18*,0.0,TELCO
+124,Imports (cif),12  Mar-18*,0.0,TELCO
+125,Fx inflow,12  Mar-18*,54225.0,TELCO
+126,Fx outflow,12  Mar-18*,30798.0,TELCO
+127,Net fx,12  Mar-18*,23427.0,TELCO
+128,From Operations,12  Mar-18*,238574.0,TELCO
+129,From Investments,12  Mar-18*,-262016.0,TELCO
+130,From Financial Activity,12  Mar-18*,20117.0,TELCO
+131,Net Cashflow,12  Mar-18*,7300.0,TELCO
+132,Net Sales,12  Mar-19*,2991906.0,TELCO
+133,Other income,12  Mar-19*,29653.0,TELCO
+134,Total revenues,12  Mar-19*,3021559.0,TELCO
+135,Gross profit,12  Mar-19*,246643.0,TELCO
+136,Depreciation,12  Mar-19*,235906.0,TELCO
+137,Interest,12  Mar-19*,57586.0,TELCO
+138,Profit before tax,12  Mar-19*,-17196.0,TELCO
+139,Minority Interest,12  Mar-19*,0.0,TELCO
+140,Prior Period Items,12  Mar-19*,2095.0,TELCO
+141,Extraordinary Inc (Exp),12  Mar-19*,-296516.0,TELCO
+142,Tax,12  Mar-19*,-24375.0,TELCO
+143,Profit after tax,12  Mar-19*,-287242.0,TELCO
+144,Gross profit margin,12  Mar-19*,8.2,TELCO
+145,Effective tax rate,12  Mar-19*,141.7,TELCO
+146,Net profit margin,12  Mar-19*,-9.6,TELCO
+147,Current assets,12  Mar-19*,1234312.0,TELCO
+148,Current liabilities,12  Mar-19*,1454574.0,TELCO
+149,Net working cap to sales,12  Mar-19*,-7.4,TELCO
+150,Current ratio,12  Mar-19*,0.8,TELCO
+151,Inventory Days,12  Mar-19*,48.0,TELCO
+152,Debtors Days,12  Mar-19*,23.0,TELCO
+153,Net fixed assets,12  Mar-19*,1478617.0,TELCO
+154,Share capital,12  Mar-19*,6792.0,TELCO
+155,"""Free"" reserves",12  Mar-19*,595003.0,TELCO
+156,Net worth,12  Mar-19*,601796.0,TELCO
+157,Long term debt,12  Mar-19*,709737.0,TELCO
+158,Total assets,12  Mar-19*,3071945.0,TELCO
+159,Interest coverage,12  Mar-19*,0.7,TELCO
+160,Debt to equity ratio,12  Mar-19*,1.2,TELCO
+161,Sales to assets ratio,12  Mar-19*,1.0,TELCO
+162,Return on assets,12  Mar-19*,-7.5,TELCO
+163,Return on equity,12  Mar-19*,-47.7,TELCO
+164,Return on capital,12  Mar-19*,-19.4,TELCO
+165,Exports to sales,12  Mar-19*,0.0,TELCO
+166,Imports to sales,12  Mar-19*,0.0,TELCO
+167,Exports (fob),12  Mar-19*,0.0,TELCO
+168,Imports (cif),12  Mar-19*,0.0,TELCO
+169,Fx inflow,12  Mar-19*,0.0,TELCO
+170,Fx outflow,12  Mar-19*,0.0,TELCO
+171,Net fx,12  Mar-19*,0.0,TELCO
+172,From Operations,12  Mar-19*,188908.0,TELCO
+173,From Investments,12  Mar-19*,-197111.0,TELCO
+174,From Financial Activity,12  Mar-19*,88304.0,TELCO
+175,Net Cashflow,12  Mar-19*,68431.0,TELCO
+176,Net Sales,12  Mar-20*,2585944.0,TELCO
+177,Other income,12  Mar-20*,29732.0,TELCO
+178,Total revenues,12  Mar-20*,2615675.0,TELCO
+179,Gross profit,12  Mar-20*,260909.0,TELCO
+180,Depreciation,12  Mar-20*,214254.0,TELCO
+181,Interest,12  Mar-20*,72433.0,TELCO
+182,Profit before tax,12  Mar-20*,3953.0,TELCO
+183,Minority Interest,12  Mar-20*,0.0,TELCO
+184,Prior Period Items,12  Mar-20*,-10000.0,TELCO
+185,Extraordinary Inc (Exp),12  Mar-20*,-109752.0,TELCO
+186,Tax,12  Mar-20*,3953.0,TELCO
+187,Profit after tax,12  Mar-20*,-119752.0,TELCO
+188,Gross profit margin,12  Mar-20*,10.1,TELCO
+189,Effective tax rate,12  Mar-20*,100.0,TELCO
+190,Net profit margin,12  Mar-20*,-4.6,TELCO
+191,Current assets,12  Mar-20*,1195873.0,TELCO
+192,Current liabilities,12  Mar-20*,1404541.0,TELCO
+193,Net working cap to sales,12  Mar-20*,-8.1,TELCO
+194,Current ratio,12  Mar-20*,0.9,TELCO
+195,Inventory Days,12  Mar-20*,53.0,TELCO
+196,Debtors Days,12  Mar-20*,16.0,TELCO
+197,Net fixed assets,12  Mar-20*,1671483.0,TELCO
+198,Share capital,12  Mar-20*,7195.0,TELCO
+199,"""Free"" reserves",12  Mar-20*,623590.0,TELCO
+200,Net worth,12  Mar-20*,630785.0,TELCO
+201,Long term debt,12  Mar-20*,833156.0,TELCO
+202,Total assets,12  Mar-20*,3221213.0,TELCO
+203,Interest coverage,12  Mar-20*,1.1,TELCO
+204,Debt to equity ratio,12  Mar-20*,1.3,TELCO
+205,Sales to assets ratio,12  Mar-20*,0.8,TELCO
+206,Return on assets,12  Mar-20*,-1.5,TELCO
+207,Return on equity,12  Mar-20*,-19.0,TELCO
+208,Return on capital,12  Mar-20*,-3.0,TELCO
+209,Exports to sales,12  Mar-20*,0.0,TELCO
+210,Imports to sales,12  Mar-20*,0.0,TELCO
+211,Exports (fob),12  Mar-20*,0.0,TELCO
+212,Imports (cif),12  Mar-20*,0.0,TELCO
+213,Fx inflow,12  Mar-20*,31449.0,TELCO
+214,Fx outflow,12  Mar-20*,29466.0,TELCO
+215,Net fx,12  Mar-20*,1982.0,TELCO
+216,From Operations,12  Mar-20*,266329.0,TELCO
+217,From Investments,12  Mar-20*,-341702.0,TELCO
+218,From Financial Activity,12  Mar-20*,33896.0,TELCO
+219,Net Cashflow,12  Mar-20*,-30920.0,TELCO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4841.0,ANRI
+1,Other income,12  Mar-15*,68.0,ANRI
+2,Total revenues,12  Mar-15*,4909.0,ANRI
+3,Gross profit,12  Mar-15*,2504.0,ANRI
+4,Depreciation,12  Mar-15*,285.0,ANRI
+5,Interest,12  Mar-15*,547.0,ANRI
+6,Profit before tax,12  Mar-15*,1741.0,ANRI
+7,Minority Interest,12  Mar-15*,3.0,ANRI
+8,Prior Period Items,12  Mar-15*,20.0,ANRI
+9,Extraordinary Inc (Exp),12  Mar-15*,-6.0,ANRI
+10,Tax,12  Mar-15*,334.0,ANRI
+11,Profit after tax,12  Mar-15*,1424.0,ANRI
+12,Gross profit margin,12  Mar-15*,51.7,ANRI
+13,Effective tax rate,12  Mar-15*,19.2,ANRI
+14,Net profit margin,12  Mar-15*,29.4,ANRI
+15,Current assets,12  Mar-15*,20902.0,ANRI
+16,Current liabilities,12  Mar-15*,9726.0,ANRI
+17,Net working cap to sales,12  Mar-15*,230.9,ANRI
+18,Current ratio,12  Mar-15*,2.1,ANRI
+19,Inventory Days,12  Mar-15*,854.0,ANRI
+20,Debtors Days,12  Mar-15*,71.0,ANRI
+21,Net fixed assets,12  Mar-15*,27245.0,ANRI
+22,Share capital,12  Mar-15*,590.0,ANRI
+23,"""Free"" reserves",12  Mar-15*,40002.0,ANRI
+24,Net worth,12  Mar-15*,40592.0,ANRI
+25,Long term debt,12  Mar-15*,7868.0,ANRI
+26,Total assets,12  Mar-15*,59710.0,ANRI
+27,Interest coverage,12  Mar-15*,4.2,ANRI
+28,Debt to equity ratio,12  Mar-15*,0.2,ANRI
+29,Sales to assets ratio,12  Mar-15*,0.1,ANRI
+30,Return on assets,12  Mar-15*,3.3,ANRI
+31,Return on equity,12  Mar-15*,3.5,ANRI
+32,Return on capital,12  Mar-15*,4.8,ANRI
+33,Exports to sales,12  Mar-15*,0.0,ANRI
+34,Imports to sales,12  Mar-15*,0.0,ANRI
+35,Exports (fob),12  Mar-15*,0.0,ANRI
+36,Imports (cif),12  Mar-15*,0.0,ANRI
+37,Fx inflow,12  Mar-15*,0.0,ANRI
+38,Fx outflow,12  Mar-15*,9.0,ANRI
+39,Net fx,12  Mar-15*,-9.0,ANRI
+40,From Operations,12  Mar-15*,2488.0,ANRI
+41,From Investments,12  Mar-15*,-1231.0,ANRI
+42,From Financial Activity,12  Mar-15*,-824.0,ANRI
+43,Net Cashflow,12  Mar-15*,433.0,ANRI
+44,Net Sales,12  Mar-16*,4313.0,ANRI
+45,Other income,12  Mar-16*,450.0,ANRI
+46,Total revenues,12  Mar-16*,4764.0,ANRI
+47,Gross profit,12  Mar-16*,1162.0,ANRI
+48,Depreciation,12  Mar-16*,275.0,ANRI
+49,Interest,12  Mar-16*,465.0,ANRI
+50,Profit before tax,12  Mar-16*,873.0,ANRI
+51,Minority Interest,12  Mar-16*,61.0,ANRI
+52,Prior Period Items,12  Mar-16*,0.0,ANRI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ANRI
+54,Tax,12  Mar-16*,237.0,ANRI
+55,Profit after tax,12  Mar-16*,696.0,ANRI
+56,Gross profit margin,12  Mar-16*,26.9,ANRI
+57,Effective tax rate,12  Mar-16*,27.2,ANRI
+58,Net profit margin,12  Mar-16*,16.1,ANRI
+59,Current assets,12  Mar-16*,19692.0,ANRI
+60,Current liabilities,12  Mar-16*,10446.0,ANRI
+61,Net working cap to sales,12  Mar-16*,214.3,ANRI
+62,Current ratio,12  Mar-16*,1.9,ANRI
+63,Inventory Days,12  Mar-16*,961.0,ANRI
+64,Debtors Days,12  Mar-16*,82.0,ANRI
+65,Net fixed assets,12  Mar-16*,28036.0,ANRI
+66,Share capital,12  Mar-16*,590.0,ANRI
+67,"""Free"" reserves",12  Mar-16*,40579.0,ANRI
+68,Net worth,12  Mar-16*,41170.0,ANRI
+69,Long term debt,12  Mar-16*,9296.0,ANRI
+70,Total assets,12  Mar-16*,62489.0,ANRI
+71,Interest coverage,12  Mar-16*,2.9,ANRI
+72,Debt to equity ratio,12  Mar-16*,0.2,ANRI
+73,Sales to assets ratio,12  Mar-16*,0.1,ANRI
+74,Return on assets,12  Mar-16*,1.9,ANRI
+75,Return on equity,12  Mar-16*,1.7,ANRI
+76,Return on capital,12  Mar-16*,2.8,ANRI
+77,Exports to sales,12  Mar-16*,0.0,ANRI
+78,Imports to sales,12  Mar-16*,0.0,ANRI
+79,Exports (fob),12  Mar-16*,0.0,ANRI
+80,Imports (cif),12  Mar-16*,0.0,ANRI
+81,Fx inflow,12  Mar-16*,0.0,ANRI
+82,Fx outflow,12  Mar-16*,26.0,ANRI
+83,Net fx,12  Mar-16*,-26.0,ANRI
+84,From Operations,12  Mar-16*,-729.0,ANRI
+85,From Investments,12  Mar-16*,-502.0,ANRI
+86,From Financial Activity,12  Mar-16*,1090.0,ANRI
+87,Net Cashflow,12  Mar-16*,-142.0,ANRI
+88,Net Sales,12  Mar-17*,4660.0,ANRI
+89,Other income,12  Mar-17*,287.0,ANRI
+90,Total revenues,12  Mar-17*,4946.0,ANRI
+91,Gross profit,12  Mar-17*,1408.0,ANRI
+92,Depreciation,12  Mar-17*,274.0,ANRI
+93,Interest,12  Mar-17*,545.0,ANRI
+94,Profit before tax,12  Mar-17*,876.0,ANRI
+95,Minority Interest,12  Mar-17*,92.0,ANRI
+96,Prior Period Items,12  Mar-17*,0.0,ANRI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ANRI
+98,Tax,12  Mar-17*,207.0,ANRI
+99,Profit after tax,12  Mar-17*,760.0,ANRI
+100,Gross profit margin,12  Mar-17*,30.2,ANRI
+101,Effective tax rate,12  Mar-17*,23.7,ANRI
+102,Net profit margin,12  Mar-17*,16.3,ANRI
+103,Current assets,12  Mar-17*,22932.0,ANRI
+104,Current liabilities,12  Mar-17*,10383.0,ANRI
+105,Net working cap to sales,12  Mar-17*,269.3,ANRI
+106,Current ratio,12  Mar-17*,2.2,ANRI
+107,Inventory Days,12  Mar-17*,879.0,ANRI
+108,Debtors Days,12  Mar-17*,87.0,ANRI
+109,Net fixed assets,12  Mar-17*,27720.0,ANRI
+110,Share capital,12  Mar-17*,590.0,ANRI
+111,"""Free"" reserves",12  Mar-17*,41869.0,ANRI
+112,Net worth,12  Mar-17*,42459.0,ANRI
+113,Long term debt,12  Mar-17*,12452.0,ANRI
+114,Total assets,12  Mar-17*,66923.0,ANRI
+115,Interest coverage,12  Mar-17*,2.6,ANRI
+116,Debt to equity ratio,12  Mar-17*,0.3,ANRI
+117,Sales to assets ratio,12  Mar-17*,0.1,ANRI
+118,Return on assets,12  Mar-17*,1.9,ANRI
+119,Return on equity,12  Mar-17*,1.8,ANRI
+120,Return on capital,12  Mar-17*,2.8,ANRI
+121,Exports to sales,12  Mar-17*,0.0,ANRI
+122,Imports to sales,12  Mar-17*,0.0,ANRI
+123,Exports (fob),12  Mar-17*,0.0,ANRI
+124,Imports (cif),12  Mar-17*,0.0,ANRI
+125,Fx inflow,12  Mar-17*,0.0,ANRI
+126,Fx outflow,12  Mar-17*,13.0,ANRI
+127,Net fx,12  Mar-17*,-13.0,ANRI
+128,From Operations,12  Mar-17*,-1272.0,ANRI
+129,From Investments,12  Mar-17*,-325.0,ANRI
+130,From Financial Activity,12  Mar-17*,1927.0,ANRI
+131,Net Cashflow,12  Mar-17*,330.0,ANRI
+132,Net Sales,12  Mar-18*,4801.0,ANRI
+133,Other income,12  Mar-18*,492.0,ANRI
+134,Total revenues,12  Mar-18*,5293.0,ANRI
+135,Gross profit,12  Mar-18*,1103.0,ANRI
+136,Depreciation,12  Mar-18*,260.0,ANRI
+137,Interest,12  Mar-18*,549.0,ANRI
+138,Profit before tax,12  Mar-18*,785.0,ANRI
+139,Minority Interest,12  Mar-18*,58.0,ANRI
+140,Prior Period Items,12  Mar-18*,0.0,ANRI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ANRI
+142,Tax,12  Mar-18*,183.0,ANRI
+143,Profit after tax,12  Mar-18*,660.0,ANRI
+144,Gross profit margin,12  Mar-18*,23.0,ANRI
+145,Effective tax rate,12  Mar-18*,23.3,ANRI
+146,Net profit margin,12  Mar-18*,13.7,ANRI
+147,Current assets,12  Mar-18*,28432.0,ANRI
+148,Current liabilities,12  Mar-18*,11094.0,ANRI
+149,Net working cap to sales,12  Mar-18*,361.1,ANRI
+150,Current ratio,12  Mar-18*,2.6,ANRI
+151,Inventory Days,12  Mar-18*,872.0,ANRI
+152,Debtors Days,12  Mar-18*,80.0,ANRI
+153,Net fixed assets,12  Mar-18*,29807.0,ANRI
+154,Share capital,12  Mar-18*,590.0,ANRI
+155,"""Free"" reserves",12  Mar-18*,41277.0,ANRI
+156,Net worth,12  Mar-18*,41867.0,ANRI
+157,Long term debt,12  Mar-18*,20282.0,ANRI
+158,Total assets,12  Mar-18*,74731.0,ANRI
+159,Interest coverage,12  Mar-18*,2.4,ANRI
+160,Debt to equity ratio,12  Mar-18*,0.5,ANRI
+161,Sales to assets ratio,12  Mar-18*,0.1,ANRI
+162,Return on assets,12  Mar-18*,1.6,ANRI
+163,Return on equity,12  Mar-18*,1.6,ANRI
+164,Return on capital,12  Mar-18*,2.2,ANRI
+165,Exports to sales,12  Mar-18*,0.0,ANRI
+166,Imports to sales,12  Mar-18*,0.0,ANRI
+167,Exports (fob),12  Mar-18*,0.0,ANRI
+168,Imports (cif),12  Mar-18*,0.0,ANRI
+169,Fx inflow,12  Mar-18*,0.0,ANRI
+170,Fx outflow,12  Mar-18*,13.0,ANRI
+171,Net fx,12  Mar-18*,-13.0,ANRI
+172,From Operations,12  Mar-18*,-3046.0,ANRI
+173,From Investments,12  Mar-18*,-2295.0,ANRI
+174,From Financial Activity,12  Mar-18*,6746.0,ANRI
+175,Net Cashflow,12  Mar-18*,1406.0,ANRI
+176,Net Sales,12  Mar-19*,5003.0,ANRI
+177,Other income,12  Mar-19*,236.0,ANRI
+178,Total revenues,12  Mar-19*,5239.0,ANRI
+179,Gross profit,12  Mar-19*,1322.0,ANRI
+180,Depreciation,12  Mar-19*,255.0,ANRI
+181,Interest,12  Mar-19*,628.0,ANRI
+182,Profit before tax,12  Mar-19*,675.0,ANRI
+183,Minority Interest,12  Mar-19*,131.0,ANRI
+184,Prior Period Items,12  Mar-19*,0.0,ANRI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ANRI
+186,Tax,12  Mar-19*,142.0,ANRI
+187,Profit after tax,12  Mar-19*,665.0,ANRI
+188,Gross profit margin,12  Mar-19*,26.4,ANRI
+189,Effective tax rate,12  Mar-19*,21.0,ANRI
+190,Net profit margin,12  Mar-19*,13.3,ANRI
+191,Current assets,12  Mar-19*,31705.0,ANRI
+192,Current liabilities,12  Mar-19*,12577.0,ANRI
+193,Net working cap to sales,12  Mar-19*,382.4,ANRI
+194,Current ratio,12  Mar-19*,2.5,ANRI
+195,Inventory Days,12  Mar-19*,903.0,ANRI
+196,Debtors Days,12  Mar-19*,87.0,ANRI
+197,Net fixed assets,12  Mar-19*,29973.0,ANRI
+198,Share capital,12  Mar-19*,590.0,ANRI
+199,"""Free"" reserves",12  Mar-19*,41612.0,ANRI
+200,Net worth,12  Mar-19*,42203.0,ANRI
+201,Long term debt,12  Mar-19*,21455.0,ANRI
+202,Total assets,12  Mar-19*,77663.0,ANRI
+203,Interest coverage,12  Mar-19*,2.1,ANRI
+204,Debt to equity ratio,12  Mar-19*,0.5,ANRI
+205,Sales to assets ratio,12  Mar-19*,0.1,ANRI
+206,Return on assets,12  Mar-19*,1.7,ANRI
+207,Return on equity,12  Mar-19*,1.6,ANRI
+208,Return on capital,12  Mar-19*,2.3,ANRI
+209,Exports to sales,12  Mar-19*,0.0,ANRI
+210,Imports to sales,12  Mar-19*,0.0,ANRI
+211,Exports (fob),12  Mar-19*,0.0,ANRI
+212,Imports (cif),12  Mar-19*,0.0,ANRI
+213,Fx inflow,12  Mar-19*,0.0,ANRI
+214,Fx outflow,12  Mar-19*,12.0,ANRI
+215,Net fx,12  Mar-19*,-12.0,ANRI
+216,From Operations,12  Mar-19*,-2371.0,ANRI
+217,From Investments,12  Mar-19*,405.0,ANRI
+218,From Financial Activity,12  Mar-19*,460.0,ANRI
+219,Net Cashflow,12  Mar-19*,-1506.0,ANRI

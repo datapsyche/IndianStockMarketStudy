@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-12*,11241.0,DHPH
+1,Other income,12  Mar-12*,129.0,DHPH
+2,Total revenues,12  Mar-12*,11370.0,DHPH
+3,Gross profit,12  Mar-12*,2245.0,DHPH
+4,Depreciation,12  Mar-12*,765.0,DHPH
+5,Interest,12  Mar-12*,729.0,DHPH
+6,Profit before tax,12  Mar-12*,879.0,DHPH
+7,Minority Interest,12  Mar-12*,0.0,DHPH
+8,Prior Period Items,12  Mar-12*,0.0,DHPH
+9,Extraordinary Inc (Exp),12  Mar-12*,0.0,DHPH
+10,Tax,12  Mar-12*,312.0,DHPH
+11,Profit after tax,12  Mar-12*,568.0,DHPH
+12,Gross profit margin,12  Mar-12*,20.0,DHPH
+13,Effective tax rate,12  Mar-12*,35.4,DHPH
+14,Net profit margin,12  Mar-12*,5.0,DHPH
+15,Current assets,12  Mar-12*,6239.0,DHPH
+16,Current liabilities,12  Mar-12*,6547.0,DHPH
+17,Net working cap to sales,12  Mar-12*,-2.7,DHPH
+18,Current ratio,12  Mar-12*,1.0,DHPH
+19,Inventory Days,12  Mar-12*,87.0,DHPH
+20,Debtors Days,12  Mar-12*,61.0,DHPH
+21,Net fixed assets,12  Mar-12*,14391.0,DHPH
+22,Share capital,12  Mar-12*,161.0,DHPH
+23,"""Free"" reserves",12  Mar-12*,8225.0,DHPH
+24,Net worth,12  Mar-12*,9307.0,DHPH
+25,Long term debt,12  Mar-12*,5121.0,DHPH
+26,Total assets,12  Mar-12*,22490.0,DHPH
+27,Interest coverage,12  Mar-12*,2.2,DHPH
+28,Debt to equity ratio,12  Mar-12*,0.6,DHPH
+29,Sales to assets ratio,12  Mar-12*,0.5,DHPH
+30,Return on assets,12  Mar-12*,5.8,DHPH
+31,Return on equity,12  Mar-12*,6.1,DHPH
+32,Return on capital,12  Mar-12*,11.1,DHPH
+33,Exports to sales,12  Mar-12*,30.3,DHPH
+34,Imports to sales,12  Mar-12*,7.2,DHPH
+35,Exports (fob),12  Mar-12*,3404.0,DHPH
+36,Imports (cif),12  Mar-12*,806.0,DHPH
+37,Fx inflow,12  Mar-12*,3974.0,DHPH
+38,Fx outflow,12  Mar-12*,905.0,DHPH
+39,Net fx,12  Mar-12*,3069.0,DHPH
+40,From Operations,12  Mar-12*,1536.0,DHPH
+41,From Investments,12  Mar-12*,-1040.0,DHPH
+42,From Financial Activity,12  Mar-12*,-680.0,DHPH
+43,Net Cashflow,12  Mar-12*,-185.0,DHPH
+44,Net Sales,12  Mar-13*,12722.0,DHPH
+45,Other income,12  Mar-13*,178.0,DHPH
+46,Total revenues,12  Mar-13*,12900.0,DHPH
+47,Gross profit,12  Mar-13*,2901.0,DHPH
+48,Depreciation,12  Mar-13*,838.0,DHPH
+49,Interest,12  Mar-13*,788.0,DHPH
+50,Profit before tax,12  Mar-13*,1453.0,DHPH
+51,Minority Interest,12  Mar-13*,0.0,DHPH
+52,Prior Period Items,12  Mar-13*,0.0,DHPH
+53,Extraordinary Inc (Exp),12  Mar-13*,0.0,DHPH
+54,Tax,12  Mar-13*,450.0,DHPH
+55,Profit after tax,12  Mar-13*,1003.0,DHPH
+56,Gross profit margin,12  Mar-13*,22.8,DHPH
+57,Effective tax rate,12  Mar-13*,31.0,DHPH
+58,Net profit margin,12  Mar-13*,7.9,DHPH
+59,Current assets,12  Mar-13*,6733.0,DHPH
+60,Current liabilities,12  Mar-13*,7127.0,DHPH
+61,Net working cap to sales,12  Mar-13*,-3.1,DHPH
+62,Current ratio,12  Mar-13*,0.9,DHPH
+63,Inventory Days,12  Mar-13*,97.0,DHPH
+64,Debtors Days,12  Mar-13*,21.0,DHPH
+65,Net fixed assets,12  Mar-13*,14579.0,DHPH
+66,Share capital,12  Mar-13*,161.0,DHPH
+67,"""Free"" reserves",12  Mar-13*,9051.0,DHPH
+68,Net worth,12  Mar-13*,10345.0,DHPH
+69,Long term debt,12  Mar-13*,4336.0,DHPH
+70,Total assets,12  Mar-13*,22911.0,DHPH
+71,Interest coverage,12  Mar-13*,2.8,DHPH
+72,Debt to equity ratio,12  Mar-13*,0.4,DHPH
+73,Sales to assets ratio,12  Mar-13*,0.6,DHPH
+74,Return on assets,12  Mar-13*,7.8,DHPH
+75,Return on equity,12  Mar-13*,9.7,DHPH
+76,Return on capital,12  Mar-13*,15.3,DHPH
+77,Exports to sales,12  Mar-13*,28.3,DHPH
+78,Imports to sales,12  Mar-13*,4.7,DHPH
+79,Exports (fob),12  Mar-13*,3595.0,DHPH
+80,Imports (cif),12  Mar-13*,599.0,DHPH
+81,Fx inflow,12  Mar-13*,4210.0,DHPH
+82,Fx outflow,12  Mar-13*,695.0,DHPH
+83,Net fx,12  Mar-13*,3515.0,DHPH
+84,From Operations,12  Mar-13*,1651.0,DHPH
+85,From Investments,12  Mar-13*,-1173.0,DHPH
+86,From Financial Activity,12  Mar-13*,-502.0,DHPH
+87,Net Cashflow,12  Mar-13*,-23.0,DHPH
+88,Net Sales,12  Mar-14*,13853.0,DHPH
+89,Other income,12  Mar-14*,249.0,DHPH
+90,Total revenues,12  Mar-14*,14102.0,DHPH
+91,Gross profit,12  Mar-14*,3321.0,DHPH
+92,Depreciation,12  Mar-14*,1086.0,DHPH
+93,Interest,12  Mar-14*,921.0,DHPH
+94,Profit before tax,12  Mar-14*,1564.0,DHPH
+95,Minority Interest,12  Mar-14*,0.0,DHPH
+96,Prior Period Items,12  Mar-14*,0.0,DHPH
+97,Extraordinary Inc (Exp),12  Mar-14*,0.0,DHPH
+98,Tax,12  Mar-14*,471.0,DHPH
+99,Profit after tax,12  Mar-14*,1093.0,DHPH
+100,Gross profit margin,12  Mar-14*,24.0,DHPH
+101,Effective tax rate,12  Mar-14*,30.1,DHPH
+102,Net profit margin,12  Mar-14*,7.9,DHPH
+103,Current assets,12  Mar-14*,8245.0,DHPH
+104,Current liabilities,12  Mar-14*,9028.0,DHPH
+105,Net working cap to sales,12  Mar-14*,-5.7,DHPH
+106,Current ratio,12  Mar-14*,0.9,DHPH
+107,Inventory Days,12  Mar-14*,112.0,DHPH
+108,Debtors Days,12  Mar-14*,38.0,DHPH
+109,Net fixed assets,12  Mar-14*,15717.0,DHPH
+110,Share capital,12  Mar-14*,161.0,DHPH
+111,"""Free"" reserves",12  Mar-14*,10031.0,DHPH
+112,Net worth,12  Mar-14*,11813.0,DHPH
+113,Long term debt,12  Mar-14*,4121.0,DHPH
+114,Total assets,12  Mar-14*,26277.0,DHPH
+115,Interest coverage,12  Mar-14*,2.7,DHPH
+116,Debt to equity ratio,12  Mar-14*,0.3,DHPH
+117,Sales to assets ratio,12  Mar-14*,0.5,DHPH
+118,Return on assets,12  Mar-14*,7.7,DHPH
+119,Return on equity,12  Mar-14*,9.3,DHPH
+120,Return on capital,12  Mar-14*,15.6,DHPH
+121,Exports to sales,12  Mar-14*,27.8,DHPH
+122,Imports to sales,12  Mar-14*,6.3,DHPH
+123,Exports (fob),12  Mar-14*,3855.0,DHPH
+124,Imports (cif),12  Mar-14*,869.0,DHPH
+125,Fx inflow,12  Mar-14*,3966.0,DHPH
+126,Fx outflow,12  Mar-14*,954.0,DHPH
+127,Net fx,12  Mar-14*,3011.0,DHPH
+128,From Operations,12  Mar-14*,3445.0,DHPH
+129,From Investments,12  Mar-14*,-2568.0,DHPH
+130,From Financial Activity,12  Mar-14*,-741.0,DHPH
+131,Net Cashflow,12  Mar-14*,136.0,DHPH
+132,Net Sales,12  Mar-15*,15887.0,DHPH
+133,Other income,12  Mar-15*,869.0,DHPH
+134,Total revenues,12  Mar-15*,16757.0,DHPH
+135,Gross profit,12  Mar-15*,3128.0,DHPH
+136,Depreciation,12  Mar-15*,1507.0,DHPH
+137,Interest,12  Mar-15*,897.0,DHPH
+138,Profit before tax,12  Mar-15*,1593.0,DHPH
+139,Minority Interest,12  Mar-15*,0.0,DHPH
+140,Prior Period Items,12  Mar-15*,0.0,DHPH
+141,Extraordinary Inc (Exp),12  Mar-15*,0.0,DHPH
+142,Tax,12  Mar-15*,394.0,DHPH
+143,Profit after tax,12  Mar-15*,1198.0,DHPH
+144,Gross profit margin,12  Mar-15*,19.7,DHPH
+145,Effective tax rate,12  Mar-15*,24.8,DHPH
+146,Net profit margin,12  Mar-15*,7.5,DHPH
+147,Current assets,12  Mar-15*,10135.0,DHPH
+148,Current liabilities,12  Mar-15*,11048.0,DHPH
+149,Net working cap to sales,12  Mar-15*,-5.7,DHPH
+150,Current ratio,12  Mar-15*,0.9,DHPH
+151,Inventory Days,12  Mar-15*,103.0,DHPH
+152,Debtors Days,12  Mar-15*,50.0,DHPH
+153,Net fixed assets,12  Mar-15*,15827.0,DHPH
+154,Share capital,12  Mar-15*,161.0,DHPH
+155,"""Free"" reserves",12  Mar-15*,11167.0,DHPH
+156,Net worth,12  Mar-15*,12378.0,DHPH
+157,Long term debt,12  Mar-15*,3302.0,DHPH
+158,Total assets,12  Mar-15*,28089.0,DHPH
+159,Interest coverage,12  Mar-15*,2.8,DHPH
+160,Debt to equity ratio,12  Mar-15*,0.3,DHPH
+161,Sales to assets ratio,12  Mar-15*,0.6,DHPH
+162,Return on assets,12  Mar-15*,7.5,DHPH
+163,Return on equity,12  Mar-15*,9.7,DHPH
+164,Return on capital,12  Mar-15*,15.9,DHPH
+165,Exports to sales,12  Mar-15*,22.6,DHPH
+166,Imports to sales,12  Mar-15*,5.6,DHPH
+167,Exports (fob),12  Mar-15*,3598.0,DHPH
+168,Imports (cif),12  Mar-15*,891.0,DHPH
+169,Fx inflow,12  Mar-15*,4576.0,DHPH
+170,Fx outflow,12  Mar-15*,974.0,DHPH
+171,Net fx,12  Mar-15*,3601.0,DHPH
+172,From Operations,12  Mar-15*,2937.0,DHPH
+173,From Investments,12  Mar-15*,-1581.0,DHPH
+174,From Financial Activity,12  Mar-15*,-1420.0,DHPH
+175,Net Cashflow,12  Mar-15*,-64.0,DHPH
+176,Net Sales,12  Mar-16*,15961.0,DHPH
+177,Other income,12  Mar-16*,265.0,DHPH
+178,Total revenues,12  Mar-16*,16226.0,DHPH
+179,Gross profit,12  Mar-16*,4103.0,DHPH
+180,Depreciation,12  Mar-16*,1091.0,DHPH
+181,Interest,12  Mar-16*,944.0,DHPH
+182,Profit before tax,12  Mar-16*,2334.0,DHPH
+183,Minority Interest,12  Mar-16*,0.0,DHPH
+184,Prior Period Items,12  Mar-16*,1.0,DHPH
+185,Extraordinary Inc (Exp),12  Mar-16*,0.0,DHPH
+186,Tax,12  Mar-16*,624.0,DHPH
+187,Profit after tax,12  Mar-16*,1711.0,DHPH
+188,Gross profit margin,12  Mar-16*,25.7,DHPH
+189,Effective tax rate,12  Mar-16*,26.7,DHPH
+190,Net profit margin,12  Mar-16*,10.7,DHPH
+191,Current assets,12  Mar-16*,11018.0,DHPH
+192,Current liabilities,12  Mar-16*,9517.0,DHPH
+193,Net working cap to sales,12  Mar-16*,9.4,DHPH
+194,Current ratio,12  Mar-16*,1.2,DHPH
+195,Inventory Days,12  Mar-16*,110.0,DHPH
+196,Debtors Days,12  Mar-16*,35.0,DHPH
+197,Net fixed assets,12  Mar-16*,16304.0,DHPH
+198,Share capital,12  Mar-16*,161.0,DHPH
+199,"""Free"" reserves",12  Mar-16*,12907.0,DHPH
+200,Net worth,12  Mar-16*,14516.0,DHPH
+201,Long term debt,12  Mar-16*,4189.0,DHPH
+202,Total assets,12  Mar-16*,29805.0,DHPH
+203,Interest coverage,12  Mar-16*,3.5,DHPH
+204,Debt to equity ratio,12  Mar-16*,0.3,DHPH
+205,Sales to assets ratio,12  Mar-16*,0.5,DHPH
+206,Return on assets,12  Mar-16*,8.9,DHPH
+207,Return on equity,12  Mar-16*,11.8,DHPH
+208,Return on capital,12  Mar-16*,17.5,DHPH
+209,Exports to sales,12  Mar-16*,24.8,DHPH
+210,Imports to sales,12  Mar-16*,3.7,DHPH
+211,Exports (fob),12  Mar-16*,3956.0,DHPH
+212,Imports (cif),12  Mar-16*,596.0,DHPH
+213,Fx inflow,12  Mar-16*,4952.0,DHPH
+214,Fx outflow,12  Mar-16*,697.0,DHPH
+215,Net fx,12  Mar-16*,4255.0,DHPH
+216,From Operations,12  Mar-16*,2786.0,DHPH
+217,From Investments,12  Mar-16*,-1529.0,DHPH
+218,From Financial Activity,12  Mar-16*,-941.0,DHPH
+219,Net Cashflow,12  Mar-16*,316.0,DHPH

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,23952.0,CPMS
+1,Other income,12  Mar-15*,90.0,CPMS
+2,Total revenues,12  Mar-15*,24042.0,CPMS
+3,Gross profit,12  Mar-15*,2584.0,CPMS
+4,Depreciation,12  Mar-15*,1158.0,CPMS
+5,Interest,12  Mar-15*,2054.0,CPMS
+6,Profit before tax,12  Mar-15*,-538.0,CPMS
+7,Minority Interest,12  Mar-15*,0.0,CPMS
+8,Prior Period Items,12  Mar-15*,0.0,CPMS
+9,Extraordinary Inc (Exp),12  Mar-15*,-58.0,CPMS
+10,Tax,12  Mar-15*,-412.0,CPMS
+11,Profit after tax,12  Mar-15*,-184.0,CPMS
+12,Gross profit margin,12  Mar-15*,10.8,CPMS
+13,Effective tax rate,12  Mar-15*,76.6,CPMS
+14,Net profit margin,12  Mar-15*,-0.8,CPMS
+15,Current assets,12  Mar-15*,6795.0,CPMS
+16,Current liabilities,12  Mar-15*,8857.0,CPMS
+17,Net working cap to sales,12  Mar-15*,-8.6,CPMS
+18,Current ratio,12  Mar-15*,0.8,CPMS
+19,Inventory Days,12  Mar-15*,56.0,CPMS
+20,Debtors Days,12  Mar-15*,22.0,CPMS
+21,Net fixed assets,12  Mar-15*,28434.0,CPMS
+22,Share capital,12  Mar-15*,1366.0,CPMS
+23,"""Free"" reserves",12  Mar-15*,8633.0,CPMS
+24,Net worth,12  Mar-15*,9999.0,CPMS
+25,Long term debt,12  Mar-15*,15693.0,CPMS
+26,Total assets,12  Mar-15*,35735.0,CPMS
+27,Interest coverage,12  Mar-15*,0.7,CPMS
+28,Debt to equity ratio,12  Mar-15*,1.6,CPMS
+29,Sales to assets ratio,12  Mar-15*,0.7,CPMS
+30,Return on assets,12  Mar-15*,5.2,CPMS
+31,Return on equity,12  Mar-15*,-1.8,CPMS
+32,Return on capital,12  Mar-15*,5.7,CPMS
+33,Exports to sales,12  Mar-15*,7.8,CPMS
+34,Imports to sales,12  Mar-15*,18.6,CPMS
+35,Exports (fob),12  Mar-15*,1875.0,CPMS
+36,Imports (cif),12  Mar-15*,4447.0,CPMS
+37,Fx inflow,12  Mar-15*,1875.0,CPMS
+38,Fx outflow,12  Mar-15*,4783.0,CPMS
+39,Net fx,12  Mar-15*,-2908.0,CPMS
+40,From Operations,12  Mar-15*,2598.0,CPMS
+41,From Investments,12  Mar-15*,-145.0,CPMS
+42,From Financial Activity,12  Mar-15*,-2396.0,CPMS
+43,Net Cashflow,12  Mar-15*,58.0,CPMS
+44,Net Sales,12  Mar-16*,24373.0,CPMS
+45,Other income,12  Mar-16*,69.0,CPMS
+46,Total revenues,12  Mar-16*,24442.0,CPMS
+47,Gross profit,12  Mar-16*,3954.0,CPMS
+48,Depreciation,12  Mar-16*,1183.0,CPMS
+49,Interest,12  Mar-16*,1952.0,CPMS
+50,Profit before tax,12  Mar-16*,888.0,CPMS
+51,Minority Interest,12  Mar-16*,-48.0,CPMS
+52,Prior Period Items,12  Mar-16*,0.0,CPMS
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,CPMS
+54,Tax,12  Mar-16*,281.0,CPMS
+55,Profit after tax,12  Mar-16*,559.0,CPMS
+56,Gross profit margin,12  Mar-16*,16.2,CPMS
+57,Effective tax rate,12  Mar-16*,31.6,CPMS
+58,Net profit margin,12  Mar-16*,2.3,CPMS
+59,Current assets,12  Mar-16*,6295.0,CPMS
+60,Current liabilities,12  Mar-16*,8339.0,CPMS
+61,Net working cap to sales,12  Mar-16*,-8.4,CPMS
+62,Current ratio,12  Mar-16*,0.8,CPMS
+63,Inventory Days,12  Mar-16*,50.0,CPMS
+64,Debtors Days,12  Mar-16*,21.0,CPMS
+65,Net fixed assets,12  Mar-16*,28219.0,CPMS
+66,Share capital,12  Mar-16*,1485.0,CPMS
+67,"""Free"" reserves",12  Mar-16*,9536.0,CPMS
+68,Net worth,12  Mar-16*,11021.0,CPMS
+69,Long term debt,12  Mar-16*,14154.0,CPMS
+70,Total assets,12  Mar-16*,34784.0,CPMS
+71,Interest coverage,12  Mar-16*,1.5,CPMS
+72,Debt to equity ratio,12  Mar-16*,1.3,CPMS
+73,Sales to assets ratio,12  Mar-16*,0.7,CPMS
+74,Return on assets,12  Mar-16*,7.2,CPMS
+75,Return on equity,12  Mar-16*,5.1,CPMS
+76,Return on capital,12  Mar-16*,11.1,CPMS
+77,Exports to sales,12  Mar-16*,9.9,CPMS
+78,Imports to sales,12  Mar-16*,18.4,CPMS
+79,Exports (fob),12  Mar-16*,2418.0,CPMS
+80,Imports (cif),12  Mar-16*,4489.0,CPMS
+81,Fx inflow,12  Mar-16*,2418.0,CPMS
+82,Fx outflow,12  Mar-16*,4815.0,CPMS
+83,Net fx,12  Mar-16*,-2398.0,CPMS
+84,From Operations,12  Mar-16*,4046.0,CPMS
+85,From Investments,12  Mar-16*,-337.0,CPMS
+86,From Financial Activity,12  Mar-16*,-3727.0,CPMS
+87,Net Cashflow,12  Mar-16*,-18.0,CPMS
+88,Net Sales,12  Mar-17*,26286.0,CPMS
+89,Other income,12  Mar-17*,348.0,CPMS
+90,Total revenues,12  Mar-17*,26634.0,CPMS
+91,Gross profit,12  Mar-17*,5171.0,CPMS
+92,Depreciation,12  Mar-17*,1207.0,CPMS
+93,Interest,12  Mar-17*,1876.0,CPMS
+94,Profit before tax,12  Mar-17*,2435.0,CPMS
+95,Minority Interest,12  Mar-17*,-27.0,CPMS
+96,Prior Period Items,12  Mar-17*,0.0,CPMS
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,CPMS
+98,Tax,12  Mar-17*,690.0,CPMS
+99,Profit after tax,12  Mar-17*,1718.0,CPMS
+100,Gross profit margin,12  Mar-17*,19.7,CPMS
+101,Effective tax rate,12  Mar-17*,28.3,CPMS
+102,Net profit margin,12  Mar-17*,6.5,CPMS
+103,Current assets,12  Mar-17*,8441.0,CPMS
+104,Current liabilities,12  Mar-17*,8161.0,CPMS
+105,Net working cap to sales,12  Mar-17*,1.1,CPMS
+106,Current ratio,12  Mar-17*,1.0,CPMS
+107,Inventory Days,12  Mar-17*,53.0,CPMS
+108,Debtors Days,12  Mar-17*,15.0,CPMS
+109,Net fixed assets,12  Mar-17*,27034.0,CPMS
+110,Share capital,12  Mar-17*,1560.0,CPMS
+111,"""Free"" reserves",12  Mar-17*,11653.0,CPMS
+112,Net worth,12  Mar-17*,13213.0,CPMS
+113,Long term debt,12  Mar-17*,12991.0,CPMS
+114,Total assets,12  Mar-17*,35956.0,CPMS
+115,Interest coverage,12  Mar-17*,2.3,CPMS
+116,Debt to equity ratio,12  Mar-17*,1.0,CPMS
+117,Sales to assets ratio,12  Mar-17*,0.7,CPMS
+118,Return on assets,12  Mar-17*,10.0,CPMS
+119,Return on equity,12  Mar-17*,13.0,CPMS
+120,Return on capital,12  Mar-17*,16.4,CPMS
+121,Exports to sales,12  Mar-17*,0.0,CPMS
+122,Imports to sales,12  Mar-17*,17.4,CPMS
+123,Exports (fob),12  Mar-17*,0.0,CPMS
+124,Imports (cif),12  Mar-17*,4572.0,CPMS
+125,Fx inflow,12  Mar-17*,2151.0,CPMS
+126,Fx outflow,12  Mar-17*,4827.0,CPMS
+127,Net fx,12  Mar-17*,-2676.0,CPMS
+128,From Operations,12  Mar-17*,5647.0,CPMS
+129,From Investments,12  Mar-17*,-2615.0,CPMS
+130,From Financial Activity,12  Mar-17*,-2888.0,CPMS
+131,Net Cashflow,12  Mar-17*,143.0,CPMS
+132,Net Sales,12  Mar-18*,28443.0,CPMS
+133,Other income,12  Mar-18*,225.0,CPMS
+134,Total revenues,12  Mar-18*,28668.0,CPMS
+135,Gross profit,12  Mar-18*,6183.0,CPMS
+136,Depreciation,12  Mar-18*,1223.0,CPMS
+137,Interest,12  Mar-18*,1430.0,CPMS
+138,Profit before tax,12  Mar-18*,3754.0,CPMS
+139,Minority Interest,12  Mar-18*,0.0,CPMS
+140,Prior Period Items,12  Mar-18*,0.0,CPMS
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,CPMS
+142,Tax,12  Mar-18*,1148.0,CPMS
+143,Profit after tax,12  Mar-18*,2606.0,CPMS
+144,Gross profit margin,12  Mar-18*,21.7,CPMS
+145,Effective tax rate,12  Mar-18*,30.6,CPMS
+146,Net profit margin,12  Mar-18*,9.2,CPMS
+147,Current assets,12  Mar-18*,8524.0,CPMS
+148,Current liabilities,12  Mar-18*,7922.0,CPMS
+149,Net working cap to sales,12  Mar-18*,2.1,CPMS
+150,Current ratio,12  Mar-18*,1.1,CPMS
+151,Inventory Days,12  Mar-18*,51.0,CPMS
+152,Debtors Days,12  Mar-18*,14.0,CPMS
+153,Net fixed assets,12  Mar-18*,26937.0,CPMS
+154,Share capital,12  Mar-18*,1755.0,CPMS
+155,"""Free"" reserves",12  Mar-18*,14676.0,CPMS
+156,Net worth,12  Mar-18*,16431.0,CPMS
+157,Long term debt,12  Mar-18*,9715.0,CPMS
+158,Total assets,12  Mar-18*,36085.0,CPMS
+159,Interest coverage,12  Mar-18*,3.6,CPMS
+160,Debt to equity ratio,12  Mar-18*,0.6,CPMS
+161,Sales to assets ratio,12  Mar-18*,0.8,CPMS
+162,Return on assets,12  Mar-18*,11.2,CPMS
+163,Return on equity,12  Mar-18*,15.9,CPMS
+164,Return on capital,12  Mar-18*,19.8,CPMS
+165,Exports to sales,12  Mar-18*,0.0,CPMS
+166,Imports to sales,12  Mar-18*,20.3,CPMS
+167,Exports (fob),12  Mar-18*,0.0,CPMS
+168,Imports (cif),12  Mar-18*,5762.0,CPMS
+169,Fx inflow,12  Mar-18*,2376.0,CPMS
+170,Fx outflow,12  Mar-18*,5939.0,CPMS
+171,Net fx,12  Mar-18*,-3563.0,CPMS
+172,From Operations,12  Mar-18*,5603.0,CPMS
+173,From Investments,12  Mar-18*,403.0,CPMS
+174,From Financial Activity,12  Mar-18*,-5073.0,CPMS
+175,Net Cashflow,12  Mar-18*,933.0,CPMS
+176,Net Sales,12  Mar-19*,32567.0,CPMS
+177,Other income,12  Mar-19*,500.0,CPMS
+178,Total revenues,12  Mar-19*,33067.0,CPMS
+179,Gross profit,12  Mar-19*,8681.0,CPMS
+180,Depreciation,12  Mar-19*,1277.0,CPMS
+181,Interest,12  Mar-19*,1244.0,CPMS
+182,Profit before tax,12  Mar-19*,6660.0,CPMS
+183,Minority Interest,12  Mar-19*,0.0,CPMS
+184,Prior Period Items,12  Mar-19*,0.0,CPMS
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,CPMS
+186,Tax,12  Mar-19*,2411.0,CPMS
+187,Profit after tax,12  Mar-19*,4249.0,CPMS
+188,Gross profit margin,12  Mar-19*,26.7,CPMS
+189,Effective tax rate,12  Mar-19*,36.2,CPMS
+190,Net profit margin,12  Mar-19*,13.0,CPMS
+191,Current assets,12  Mar-19*,14004.0,CPMS
+192,Current liabilities,12  Mar-19*,8404.0,CPMS
+193,Net working cap to sales,12  Mar-19*,17.2,CPMS
+194,Current ratio,12  Mar-19*,1.7,CPMS
+195,Inventory Days,12  Mar-19*,39.0,CPMS
+196,Debtors Days,12  Mar-19*,8.0,CPMS
+197,Net fixed assets,12  Mar-19*,30352.0,CPMS
+198,Share capital,12  Mar-19*,1782.0,CPMS
+199,"""Free"" reserves",12  Mar-19*,18599.0,CPMS
+200,Net worth,12  Mar-19*,20381.0,CPMS
+201,Long term debt,12  Mar-19*,12873.0,CPMS
+202,Total assets,12  Mar-19*,45221.0,CPMS
+203,Interest coverage,12  Mar-19*,6.4,CPMS
+204,Debt to equity ratio,12  Mar-19*,0.6,CPMS
+205,Sales to assets ratio,12  Mar-19*,0.7,CPMS
+206,Return on assets,12  Mar-19*,12.1,CPMS
+207,Return on equity,12  Mar-19*,20.8,CPMS
+208,Return on capital,12  Mar-19*,23.8,CPMS
+209,Exports to sales,12  Mar-19*,0.0,CPMS
+210,Imports to sales,12  Mar-19*,20.5,CPMS
+211,Exports (fob),12  Mar-19*,0.0,CPMS
+212,Imports (cif),12  Mar-19*,6670.0,CPMS
+213,Fx inflow,12  Mar-19*,2262.0,CPMS
+214,Fx outflow,12  Mar-19*,6809.0,CPMS
+215,Net fx,12  Mar-19*,-4547.0,CPMS
+216,From Operations,12  Mar-19*,7293.0,CPMS
+217,From Investments,12  Mar-19*,-9656.0,CPMS
+218,From Financial Activity,12  Mar-19*,1397.0,CPMS
+219,Net Cashflow,12  Mar-19*,-966.0,CPMS

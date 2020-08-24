@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-10*,18087.0,MRCR
+1,Other income,12  Mar-10*,168.0,MRCR
+2,Total revenues,12  Mar-10*,18255.0,MRCR
+3,Gross profit,12  Mar-10*,6271.0,MRCR
+4,Depreciation,12  Mar-10*,3409.0,MRCR
+5,Interest,12  Mar-10*,2285.0,MRCR
+6,Profit before tax,12  Mar-10*,745.0,MRCR
+7,Minority Interest,12  Mar-10*,-510.0,MRCR
+8,Prior Period Items,12  Mar-10*,0.0,MRCR
+9,Extraordinary Inc (Exp),12  Mar-10*,348.0,MRCR
+10,Tax,12  Mar-10*,51.0,MRCR
+11,Profit after tax,12  Mar-10*,532.0,MRCR
+12,Gross profit margin,12  Mar-10*,34.7,MRCR
+13,Effective tax rate,12  Mar-10*,6.8,MRCR
+14,Net profit margin,12  Mar-10*,2.9,MRCR
+15,Current assets,12  Mar-10*,13924.0,MRCR
+16,Current liabilities,12  Mar-10*,13348.0,MRCR
+17,Net working cap to sales,12  Mar-10*,3.2,MRCR
+18,Current ratio,12  Mar-10*,1.0,MRCR
+19,Inventory Days,12  Mar-10*,12.0,MRCR
+20,Debtors Days,12  Mar-10*,41.0,MRCR
+21,Net fixed assets,12  Mar-10*,52057.0,MRCR
+22,Share capital,12  Mar-10*,236.0,MRCR
+23,"""Free"" reserves",12  Mar-10*,10230.0,MRCR
+24,Net worth,12  Mar-10*,21426.0,MRCR
+25,Long term debt,12  Mar-10*,28902.0,MRCR
+26,Total assets,12  Mar-10*,66826.0,MRCR
+27,Interest coverage,12  Mar-10*,1.3,MRCR
+28,Debt to equity ratio,12  Mar-10*,1.3,MRCR
+29,Sales to assets ratio,12  Mar-10*,0.3,MRCR
+30,Return on assets,12  Mar-10*,4.2,MRCR
+31,Return on equity,12  Mar-10*,2.5,MRCR
+32,Return on capital,12  Mar-10*,5.7,MRCR
+33,Exports to sales,12  Mar-10*,0.0,MRCR
+34,Imports to sales,12  Mar-10*,6.3,MRCR
+35,Exports (fob),12  Mar-10*,0.0,MRCR
+36,Imports (cif),12  Mar-10*,1145.0,MRCR
+37,Fx inflow,12  Mar-10*,2165.0,MRCR
+38,Fx outflow,12  Mar-10*,3821.0,MRCR
+39,Net fx,12  Mar-10*,-1656.0,MRCR
+40,From Operations,12  Mar-10*,-727.0,MRCR
+41,From Investments,12  Mar-10*,2564.0,MRCR
+42,From Financial Activity,12  Mar-10*,-1534.0,MRCR
+43,Net Cashflow,12  Mar-10*,303.0,MRCR
+44,Net Sales,12  Mar-11*,28289.0,MRCR
+45,Other income,12  Mar-11*,274.0,MRCR
+46,Total revenues,12  Mar-11*,28563.0,MRCR
+47,Gross profit,12  Mar-11*,6166.0,MRCR
+48,Depreciation,12  Mar-11*,3067.0,MRCR
+49,Interest,12  Mar-11*,2379.0,MRCR
+50,Profit before tax,12  Mar-11*,994.0,MRCR
+51,Minority Interest,12  Mar-11*,-390.0,MRCR
+52,Prior Period Items,12  Mar-11*,0.0,MRCR
+53,Extraordinary Inc (Exp),12  Mar-11*,0.0,MRCR
+54,Tax,12  Mar-11*,-336.0,MRCR
+55,Profit after tax,12  Mar-11*,940.0,MRCR
+56,Gross profit margin,12  Mar-11*,21.8,MRCR
+57,Effective tax rate,12  Mar-11*,-33.8,MRCR
+58,Net profit margin,12  Mar-11*,3.3,MRCR
+59,Current assets,12  Mar-11*,14624.0,MRCR
+60,Current liabilities,12  Mar-11*,18374.0,MRCR
+61,Net working cap to sales,12  Mar-11*,-13.3,MRCR
+62,Current ratio,12  Mar-11*,0.8,MRCR
+63,Inventory Days,12  Mar-11*,8.0,MRCR
+64,Debtors Days,12  Mar-11*,49.0,MRCR
+65,Net fixed assets,12  Mar-11*,53615.0,MRCR
+66,Share capital,12  Mar-11*,245.0,MRCR
+67,"""Free"" reserves",12  Mar-11*,12206.0,MRCR
+68,Net worth,12  Mar-11*,22966.0,MRCR
+69,Long term debt,12  Mar-11*,23307.0,MRCR
+70,Total assets,12  Mar-11*,69148.0,MRCR
+71,Interest coverage,12  Mar-11*,1.4,MRCR
+72,Debt to equity ratio,12  Mar-11*,1.0,MRCR
+73,Sales to assets ratio,12  Mar-11*,0.4,MRCR
+74,Return on assets,12  Mar-11*,4.8,MRCR
+75,Return on equity,12  Mar-11*,4.1,MRCR
+76,Return on capital,12  Mar-11*,6.4,MRCR
+77,Exports to sales,12  Mar-11*,0.0,MRCR
+78,Imports to sales,12  Mar-11*,0.0,MRCR
+79,Exports (fob),12  Mar-11*,0.0,MRCR
+80,Imports (cif),12  Mar-11*,0.0,MRCR
+81,Fx inflow,12  Mar-11*,1329.0,MRCR
+82,Fx outflow,12  Mar-11*,3122.0,MRCR
+83,Net fx,12  Mar-11*,-1793.0,MRCR
+84,From Operations,12  Mar-11*,2686.0,MRCR
+85,From Investments,12  Mar-11*,-4491.0,MRCR
+86,From Financial Activity,12  Mar-11*,47.0,MRCR
+87,Net Cashflow,12  Mar-11*,-1757.0,MRCR
+88,Net Sales,12  Mar-12*,36999.0,MRCR
+89,Other income,12  Mar-12*,651.0,MRCR
+90,Total revenues,12  Mar-12*,37650.0,MRCR
+91,Gross profit,12  Mar-12*,5825.0,MRCR
+92,Depreciation,12  Mar-12*,3824.0,MRCR
+93,Interest,12  Mar-12*,2130.0,MRCR
+94,Profit before tax,12  Mar-12*,523.0,MRCR
+95,Minority Interest,12  Mar-12*,-96.0,MRCR
+96,Prior Period Items,12  Mar-12*,0.0,MRCR
+97,Extraordinary Inc (Exp),12  Mar-12*,0.0,MRCR
+98,Tax,12  Mar-12*,222.0,MRCR
+99,Profit after tax,12  Mar-12*,206.0,MRCR
+100,Gross profit margin,12  Mar-12*,15.7,MRCR
+101,Effective tax rate,12  Mar-12*,42.4,MRCR
+102,Net profit margin,12  Mar-12*,0.6,MRCR
+103,Current assets,12  Mar-12*,11347.0,MRCR
+104,Current liabilities,12  Mar-12*,13370.0,MRCR
+105,Net working cap to sales,12  Mar-12*,-5.5,MRCR
+106,Current ratio,12  Mar-12*,0.8,MRCR
+107,Inventory Days,12  Mar-12*,9.0,MRCR
+108,Debtors Days,12  Mar-12*,50.0,MRCR
+109,Net fixed assets,12  Mar-12*,57309.0,MRCR
+110,Share capital,12  Mar-12*,245.0,MRCR
+111,"""Free"" reserves",12  Mar-12*,12140.0,MRCR
+112,Net worth,12  Mar-12*,25215.0,MRCR
+113,Long term debt,12  Mar-12*,27426.0,MRCR
+114,Total assets,12  Mar-12*,70830.0,MRCR
+115,Interest coverage,12  Mar-12*,1.2,MRCR
+116,Debt to equity ratio,12  Mar-12*,1.1,MRCR
+117,Sales to assets ratio,12  Mar-12*,0.5,MRCR
+118,Return on assets,12  Mar-12*,3.3,MRCR
+119,Return on equity,12  Mar-12*,0.8,MRCR
+120,Return on capital,12  Mar-12*,4.9,MRCR
+121,Exports to sales,12  Mar-12*,0.0,MRCR
+122,Imports to sales,12  Mar-12*,1.0,MRCR
+123,Exports (fob),12  Mar-12*,0.0,MRCR
+124,Imports (cif),12  Mar-12*,373.0,MRCR
+125,Fx inflow,12  Mar-12*,880.0,MRCR
+126,Fx outflow,12  Mar-12*,2309.0,MRCR
+127,Net fx,12  Mar-12*,-1429.0,MRCR
+128,From Operations,12  Mar-12*,4513.0,MRCR
+129,From Investments,12  Mar-12*,136.0,MRCR
+130,From Financial Activity,12  Mar-12*,-5954.0,MRCR
+131,Net Cashflow,12  Mar-12*,-1305.0,MRCR
+132,Net Sales,12  Mar-13*,37334.0,MRCR
+133,Other income,12  Mar-13*,257.0,MRCR
+134,Total revenues,12  Mar-13*,37591.0,MRCR
+135,Gross profit,12  Mar-13*,3439.0,MRCR
+136,Depreciation,12  Mar-13*,4475.0,MRCR
+137,Interest,12  Mar-13*,2450.0,MRCR
+138,Profit before tax,12  Mar-13*,-3229.0,MRCR
+139,Minority Interest,12  Mar-13*,1204.0,MRCR
+140,Prior Period Items,12  Mar-13*,0.0,MRCR
+141,Extraordinary Inc (Exp),12  Mar-13*,-1564.0,MRCR
+142,Tax,12  Mar-13*,132.0,MRCR
+143,Profit after tax,12  Mar-13*,-3721.0,MRCR
+144,Gross profit margin,12  Mar-13*,9.2,MRCR
+145,Effective tax rate,12  Mar-13*,-4.1,MRCR
+146,Net profit margin,12  Mar-13*,-10.0,MRCR
+147,Current assets,12  Mar-13*,15179.0,MRCR
+148,Current liabilities,12  Mar-13*,16419.0,MRCR
+149,Net working cap to sales,12  Mar-13*,-3.3,MRCR
+150,Current ratio,12  Mar-13*,0.9,MRCR
+151,Inventory Days,12  Mar-13*,3.0,MRCR
+152,Debtors Days,12  Mar-13*,64.0,MRCR
+153,Net fixed assets,12  Mar-13*,50520.0,MRCR
+154,Share capital,12  Mar-13*,245.0,MRCR
+155,"""Free"" reserves",12  Mar-13*,9869.0,MRCR
+156,Net worth,12  Mar-13*,21963.0,MRCR
+157,Long term debt,12  Mar-13*,25848.0,MRCR
+158,Total assets,12  Mar-13*,68642.0,MRCR
+159,Interest coverage,12  Mar-13*,-0.3,MRCR
+160,Debt to equity ratio,12  Mar-13*,1.2,MRCR
+161,Sales to assets ratio,12  Mar-13*,0.5,MRCR
+162,Return on assets,12  Mar-13*,-1.9,MRCR
+163,Return on equity,12  Mar-13*,-16.9,MRCR
+164,Return on capital,12  Mar-13*,-2.4,MRCR
+165,Exports to sales,12  Mar-13*,0.0,MRCR
+166,Imports to sales,12  Mar-13*,0.4,MRCR
+167,Exports (fob),12  Mar-13*,0.0,MRCR
+168,Imports (cif),12  Mar-13*,154.0,MRCR
+169,Fx inflow,12  Mar-13*,988.0,MRCR
+170,Fx outflow,12  Mar-13*,1740.0,MRCR
+171,Net fx,12  Mar-13*,-752.0,MRCR
+172,From Operations,12  Mar-13*,1983.0,MRCR
+173,From Investments,12  Mar-13*,3864.0,MRCR
+174,From Financial Activity,12  Mar-13*,-4911.0,MRCR
+175,Net Cashflow,12  Mar-13*,937.0,MRCR
+176,Net Sales,12  Mar-14*,34578.0,MRCR
+177,Other income,12  Mar-14*,284.0,MRCR
+178,Total revenues,12  Mar-14*,34862.0,MRCR
+179,Gross profit,12  Mar-14*,6307.0,MRCR
+180,Depreciation,12  Mar-14*,4409.0,MRCR
+181,Interest,12  Mar-14*,2051.0,MRCR
+182,Profit before tax,12  Mar-14*,131.0,MRCR
+183,Minority Interest,12  Mar-14*,471.0,MRCR
+184,Prior Period Items,12  Mar-14*,0.0,MRCR
+185,Extraordinary Inc (Exp),12  Mar-14*,-30.0,MRCR
+186,Tax,12  Mar-14*,250.0,MRCR
+187,Profit after tax,12  Mar-14*,322.0,MRCR
+188,Gross profit margin,12  Mar-14*,18.2,MRCR
+189,Effective tax rate,12  Mar-14*,191.1,MRCR
+190,Net profit margin,12  Mar-14*,0.9,MRCR
+191,Current assets,12  Mar-14*,14471.0,MRCR
+192,Current liabilities,12  Mar-14*,18554.0,MRCR
+193,Net working cap to sales,12  Mar-14*,-11.8,MRCR
+194,Current ratio,12  Mar-14*,0.8,MRCR
+195,Inventory Days,12  Mar-14*,6.0,MRCR
+196,Debtors Days,12  Mar-14*,67.0,MRCR
+197,Net fixed assets,12  Mar-14*,54243.0,MRCR
+198,Share capital,12  Mar-14*,245.0,MRCR
+199,"""Free"" reserves",12  Mar-14*,11968.0,MRCR
+200,Net worth,12  Mar-14*,23433.0,MRCR
+201,Long term debt,12  Mar-14*,25639.0,MRCR
+202,Total assets,12  Mar-14*,72788.0,MRCR
+203,Interest coverage,12  Mar-14*,1.1,MRCR
+204,Debt to equity ratio,12  Mar-14*,1.1,MRCR
+205,Sales to assets ratio,12  Mar-14*,0.5,MRCR
+206,Return on assets,12  Mar-14*,3.3,MRCR
+207,Return on equity,12  Mar-14*,1.4,MRCR
+208,Return on capital,12  Mar-14*,5.3,MRCR
+209,Exports to sales,12  Mar-14*,0.0,MRCR
+210,Imports to sales,12  Mar-14*,2.4,MRCR
+211,Exports (fob),12  Mar-14*,0.0,MRCR
+212,Imports (cif),12  Mar-14*,820.0,MRCR
+213,Fx inflow,12  Mar-14*,868.0,MRCR
+214,Fx outflow,12  Mar-14*,1507.0,MRCR
+215,Net fx,12  Mar-14*,-639.0,MRCR
+216,From Operations,12  Mar-14*,4245.0,MRCR
+217,From Investments,12  Mar-14*,-4093.0,MRCR
+218,From Financial Activity,12  Mar-14*,-1718.0,MRCR
+219,Net Cashflow,12  Mar-14*,-1566.0,MRCR

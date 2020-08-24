@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,291785.0,RAJEX
+1,Other income,12  Mar-14,194.0,RAJEX
+2,Total revenues,12  Mar-14,291979.0,RAJEX
+3,Gross profit,12  Mar-14,7650.0,RAJEX
+4,Depreciation,12  Mar-14,164.0,RAJEX
+5,Interest,12  Mar-14,3635.0,RAJEX
+6,Profit before tax,12  Mar-14,4046.0,RAJEX
+7,Minority Interest,12  Mar-14,0.0,RAJEX
+8,Prior Period Items,12  Mar-14,0.0,RAJEX
+9,Extraordinary Inc (Exp),12  Mar-14,-8.0,RAJEX
+10,Tax,12  Mar-14,463.0,RAJEX
+11,Profit after tax,12  Mar-14,3575.0,RAJEX
+12,Gross profit margin,12  Mar-14,2.6,RAJEX
+13,Effective tax rate,12  Mar-14,11.4,RAJEX
+14,Net profit margin,12  Mar-14,1.2,RAJEX
+15,Current assets,12  Mar-14,110136.0,RAJEX
+16,Current liabilities,12  Mar-14,84871.0,RAJEX
+17,Net working cap to sales,12  Mar-14,8.7,RAJEX
+18,Current ratio,12  Mar-14,1.3,RAJEX
+19,Inventory Days,12  Mar-14,7.0,RAJEX
+20,Debtors Days,12  Mar-14,30.0,RAJEX
+21,Net fixed assets,12  Mar-14,1688.0,RAJEX
+22,Share capital,12  Mar-14,295.0,RAJEX
+23,"""Free"" reserves",12  Mar-14,27130.0,RAJEX
+24,Net worth,12  Mar-14,27425.0,RAJEX
+25,Long term debt,12  Mar-14,0.0,RAJEX
+26,Total assets,12  Mar-14,112381.0,RAJEX
+27,Interest coverage,12  Mar-14,2.1,RAJEX
+28,Debt to equity ratio,12  Mar-14,0.0,RAJEX
+29,Sales to assets ratio,12  Mar-14,2.6,RAJEX
+30,Return on assets,12  Mar-14,6.4,RAJEX
+31,Return on equity,12  Mar-14,13.0,RAJEX
+32,Return on capital,12  Mar-14,28.0,RAJEX
+33,Exports to sales,12  Mar-14,65.7,RAJEX
+34,Imports to sales,12  Mar-14,75.0,RAJEX
+35,Exports (fob),12  Mar-14,191690.0,RAJEX
+36,Imports (cif),12  Mar-14,218856.0,RAJEX
+37,Fx inflow,12  Mar-14,191690.0,RAJEX
+38,Fx outflow,12  Mar-14,218856.0,RAJEX
+39,Net fx,12  Mar-14,-27166.0,RAJEX
+40,From Operations,12  Mar-14,-25023.0,RAJEX
+41,From Investments,12  Mar-14,-1254.0,RAJEX
+42,From Financial Activity,12  Mar-14,-40.0,RAJEX
+43,Net Cashflow,12  Mar-14,-26316.0,RAJEX
+44,Net Sales,12  Mar-15,504629.0,RAJEX
+45,Other income,12  Mar-15,1.0,RAJEX
+46,Total revenues,12  Mar-15,504630.0,RAJEX
+47,Gross profit,12  Mar-15,12665.0,RAJEX
+48,Depreciation,12  Mar-15,622.0,RAJEX
+49,Interest,12  Mar-15,4783.0,RAJEX
+50,Profit before tax,12  Mar-15,7261.0,RAJEX
+51,Minority Interest,12  Mar-15,0.0,RAJEX
+52,Prior Period Items,12  Mar-15,0.0,RAJEX
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,RAJEX
+54,Tax,12  Mar-15,712.0,RAJEX
+55,Profit after tax,12  Mar-15,6549.0,RAJEX
+56,Gross profit margin,12  Mar-15,2.5,RAJEX
+57,Effective tax rate,12  Mar-15,9.8,RAJEX
+58,Net profit margin,12  Mar-15,1.3,RAJEX
+59,Current assets,12  Mar-15,157140.0,RAJEX
+60,Current liabilities,12  Mar-15,127111.0,RAJEX
+61,Net working cap to sales,12  Mar-15,6.0,RAJEX
+62,Current ratio,12  Mar-15,1.2,RAJEX
+63,Inventory Days,12  Mar-15,4.0,RAJEX
+64,Debtors Days,12  Mar-15,22.0,RAJEX
+65,Net fixed assets,12  Mar-15,2641.0,RAJEX
+66,Share capital,12  Mar-15,295.0,RAJEX
+67,"""Free"" reserves",12  Mar-15,33321.0,RAJEX
+68,Net worth,12  Mar-15,33616.0,RAJEX
+69,Long term debt,12  Mar-15,0.0,RAJEX
+70,Total assets,12  Mar-15,160807.0,RAJEX
+71,Interest coverage,12  Mar-15,2.5,RAJEX
+72,Debt to equity ratio,12  Mar-15,0.0,RAJEX
+73,Sales to assets ratio,12  Mar-15,3.1,RAJEX
+74,Return on assets,12  Mar-15,7.0,RAJEX
+75,Return on equity,12  Mar-15,19.5,RAJEX
+76,Return on capital,12  Mar-15,35.8,RAJEX
+77,Exports to sales,12  Mar-15,40.3,RAJEX
+78,Imports to sales,12  Mar-15,70.4,RAJEX
+79,Exports (fob),12  Mar-15,203549.0,RAJEX
+80,Imports (cif),12  Mar-15,355439.0,RAJEX
+81,Fx inflow,12  Mar-15,203549.0,RAJEX
+82,Fx outflow,12  Mar-15,355439.0,RAJEX
+83,Net fx,12  Mar-15,-151890.0,RAJEX
+84,From Operations,12  Mar-15,41854.0,RAJEX
+85,From Investments,12  Mar-15,-2042.0,RAJEX
+86,From Financial Activity,12  Mar-15,2111.0,RAJEX
+87,Net Cashflow,12  Mar-15,41922.0,RAJEX
+88,Net Sales,12  Mar-16,1651787.0,RAJEX
+89,Other income,12  Mar-16,418.0,RAJEX
+90,Total revenues,12  Mar-16,1652205.0,RAJEX
+91,Gross profit,12  Mar-16,17271.0,RAJEX
+92,Depreciation,12  Mar-16,790.0,RAJEX
+93,Interest,12  Mar-16,5777.0,RAJEX
+94,Profit before tax,12  Mar-16,11121.0,RAJEX
+95,Minority Interest,12  Mar-16,0.0,RAJEX
+96,Prior Period Items,12  Mar-16,0.0,RAJEX
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,RAJEX
+98,Tax,12  Mar-16,431.0,RAJEX
+99,Profit after tax,12  Mar-16,10690.0,RAJEX
+100,Gross profit margin,12  Mar-16,1.0,RAJEX
+101,Effective tax rate,12  Mar-16,3.9,RAJEX
+102,Net profit margin,12  Mar-16,0.6,RAJEX
+103,Current assets,12  Mar-16,186914.0,RAJEX
+104,Current liabilities,12  Mar-16,156478.0,RAJEX
+105,Net working cap to sales,12  Mar-16,1.8,RAJEX
+106,Current ratio,12  Mar-16,1.2,RAJEX
+107,Inventory Days,12  Mar-16,2.0,RAJEX
+108,Debtors Days,12  Mar-16,11.0,RAJEX
+109,Net fixed assets,12  Mar-16,13488.0,RAJEX
+110,Share capital,12  Mar-16,295.0,RAJEX
+111,"""Free"" reserves",12  Mar-16,47537.0,RAJEX
+112,Net worth,12  Mar-16,47832.0,RAJEX
+113,Long term debt,12  Mar-16,5098.0,RAJEX
+114,Total assets,12  Mar-16,209413.0,RAJEX
+115,Interest coverage,12  Mar-16,2.9,RAJEX
+116,Debt to equity ratio,12  Mar-16,0.1,RAJEX
+117,Sales to assets ratio,12  Mar-16,7.9,RAJEX
+118,Return on assets,12  Mar-16,7.9,RAJEX
+119,Return on equity,12  Mar-16,22.3,RAJEX
+120,Return on capital,12  Mar-16,31.9,RAJEX
+121,Exports to sales,12  Mar-16,22.3,RAJEX
+122,Imports to sales,12  Mar-16,22.7,RAJEX
+123,Exports (fob),12  Mar-16,368522.0,RAJEX
+124,Imports (cif),12  Mar-16,374649.0,RAJEX
+125,Fx inflow,12  Mar-16,368522.0,RAJEX
+126,Fx outflow,12  Mar-16,374649.0,RAJEX
+127,Net fx,12  Mar-16,-6127.0,RAJEX
+128,From Operations,12  Mar-16,20694.0,RAJEX
+129,From Investments,12  Mar-16,-19438.0,RAJEX
+130,From Financial Activity,12  Mar-16,1383.0,RAJEX
+131,Net Cashflow,12  Mar-16,6561.0,RAJEX
+132,Net Sales,12  Mar-17,2421320.0,RAJEX
+133,Other income,12  Mar-17,472.0,RAJEX
+134,Total revenues,12  Mar-17,2421791.0,RAJEX
+135,Gross profit,12  Mar-17,17507.0,RAJEX
+136,Depreciation,12  Mar-17,646.0,RAJEX
+137,Interest,12  Mar-17,4303.0,RAJEX
+138,Profit before tax,12  Mar-17,13029.0,RAJEX
+139,Minority Interest,12  Mar-17,0.0,RAJEX
+140,Prior Period Items,12  Mar-17,0.0,RAJEX
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,RAJEX
+142,Tax,12  Mar-17,593.0,RAJEX
+143,Profit after tax,12  Mar-17,12436.0,RAJEX
+144,Gross profit margin,12  Mar-17,0.7,RAJEX
+145,Effective tax rate,12  Mar-17,4.6,RAJEX
+146,Net profit margin,12  Mar-17,0.5,RAJEX
+147,Current assets,12  Mar-17,218746.0,RAJEX
+148,Current liabilities,12  Mar-17,177715.0,RAJEX
+149,Net working cap to sales,12  Mar-17,1.7,RAJEX
+150,Current ratio,12  Mar-17,1.2,RAJEX
+151,Inventory Days,12  Mar-17,2.0,RAJEX
+152,Debtors Days,12  Mar-17,8.0,RAJEX
+153,Net fixed assets,12  Mar-17,12869.0,RAJEX
+154,Share capital,12  Mar-17,295.0,RAJEX
+155,"""Free"" reserves",12  Mar-17,58546.0,RAJEX
+156,Net worth,12  Mar-17,58841.0,RAJEX
+157,Long term debt,12  Mar-17,3569.0,RAJEX
+158,Total assets,12  Mar-17,241309.0,RAJEX
+159,Interest coverage,12  Mar-17,4.0,RAJEX
+160,Debt to equity ratio,12  Mar-17,0.1,RAJEX
+161,Sales to assets ratio,12  Mar-17,10.0,RAJEX
+162,Return on assets,12  Mar-17,6.9,RAJEX
+163,Return on equity,12  Mar-17,21.1,RAJEX
+164,Return on capital,12  Mar-17,27.8,RAJEX
+165,Exports to sales,12  Mar-17,17.3,RAJEX
+166,Imports to sales,12  Mar-17,18.2,RAJEX
+167,Exports (fob),12  Mar-17,418790.0,RAJEX
+168,Imports (cif),12  Mar-17,440396.0,RAJEX
+169,Fx inflow,12  Mar-17,418790.0,RAJEX
+170,Fx outflow,12  Mar-17,440396.0,RAJEX
+171,Net fx,12  Mar-17,-21607.0,RAJEX
+172,From Operations,12  Mar-17,24738.0,RAJEX
+173,From Investments,12  Mar-17,-812.0,RAJEX
+174,From Financial Activity,12  Mar-17,5280.0,RAJEX
+175,Net Cashflow,12  Mar-17,27773.0,RAJEX
+176,Net Sales,12  Mar-18,1876861.0,RAJEX
+177,Other income,12  Mar-18,620.0,RAJEX
+178,Total revenues,12  Mar-18,1877481.0,RAJEX
+179,Gross profit,12  Mar-18,18843.0,RAJEX
+180,Depreciation,12  Mar-18,680.0,RAJEX
+181,Interest,12  Mar-18,5367.0,RAJEX
+182,Profit before tax,12  Mar-18,13416.0,RAJEX
+183,Minority Interest,12  Mar-18,0.0,RAJEX
+184,Prior Period Items,12  Mar-18,0.0,RAJEX
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,RAJEX
+186,Tax,12  Mar-18,759.0,RAJEX
+187,Profit after tax,12  Mar-18,12658.0,RAJEX
+188,Gross profit margin,12  Mar-18,1.0,RAJEX
+189,Effective tax rate,12  Mar-18,5.7,RAJEX
+190,Net profit margin,12  Mar-18,0.7,RAJEX
+191,Current assets,12  Mar-18,211710.0,RAJEX
+192,Current liabilities,12  Mar-18,160289.0,RAJEX
+193,Net working cap to sales,12  Mar-18,2.7,RAJEX
+194,Current ratio,12  Mar-18,1.3,RAJEX
+195,Inventory Days,12  Mar-18,3.0,RAJEX
+196,Debtors Days,12  Mar-18,8.0,RAJEX
+197,Net fixed assets,12  Mar-18,12945.0,RAJEX
+198,Share capital,12  Mar-18,295.0,RAJEX
+199,"""Free"" reserves",12  Mar-18,71451.0,RAJEX
+200,Net worth,12  Mar-18,71746.0,RAJEX
+201,Long term debt,12  Mar-18,2506.0,RAJEX
+202,Total assets,12  Mar-18,235351.0,RAJEX
+203,Interest coverage,12  Mar-18,3.5,RAJEX
+204,Debt to equity ratio,12  Mar-18,0.0,RAJEX
+205,Sales to assets ratio,12  Mar-18,8.0,RAJEX
+206,Return on assets,12  Mar-18,7.7,RAJEX
+207,Return on equity,12  Mar-18,17.6,RAJEX
+208,Return on capital,12  Mar-18,25.3,RAJEX
+209,Exports to sales,12  Mar-18,15.1,RAJEX
+210,Imports to sales,12  Mar-18,17.2,RAJEX
+211,Exports (fob),12  Mar-18,283663.0,RAJEX
+212,Imports (cif),12  Mar-18,323376.0,RAJEX
+213,Fx inflow,12  Mar-18,283663.0,RAJEX
+214,Fx outflow,12  Mar-18,323376.0,RAJEX
+215,Net fx,12  Mar-18,-39713.0,RAJEX
+216,From Operations,12  Mar-18,-28696.0,RAJEX
+217,From Investments,12  Mar-18,-1541.0,RAJEX
+218,From Financial Activity,12  Mar-18,25958.0,RAJEX
+219,Net Cashflow,12  Mar-18,-3707.0,RAJEX

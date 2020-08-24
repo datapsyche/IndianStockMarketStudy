@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,5209.0,SVNP
+1,Other income,12  Mar-15,86.0,SVNP
+2,Total revenues,12  Mar-15,5294.0,SVNP
+3,Gross profit,12  Mar-15,1595.0,SVNP
+4,Depreciation,12  Mar-15,118.0,SVNP
+5,Interest,12  Mar-15,47.0,SVNP
+6,Profit before tax,12  Mar-15,1516.0,SVNP
+7,Minority Interest,12  Mar-15,0.0,SVNP
+8,Prior Period Items,12  Mar-15,0.0,SVNP
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,SVNP
+10,Tax,12  Mar-15,428.0,SVNP
+11,Profit after tax,12  Mar-15,1088.0,SVNP
+12,Gross profit margin,12  Mar-15,30.6,SVNP
+13,Effective tax rate,12  Mar-15,28.2,SVNP
+14,Net profit margin,12  Mar-15,20.9,SVNP
+15,Current assets,12  Mar-15,4494.0,SVNP
+16,Current liabilities,12  Mar-15,1185.0,SVNP
+17,Net working cap to sales,12  Mar-15,63.5,SVNP
+18,Current ratio,12  Mar-15,3.8,SVNP
+19,Inventory Days,12  Mar-15,57.0,SVNP
+20,Debtors Days,12  Mar-15,28.0,SVNP
+21,Net fixed assets,12  Mar-15,2790.0,SVNP
+22,Share capital,12  Mar-15,127.0,SVNP
+23,"""Free"" reserves",12  Mar-15,5510.0,SVNP
+24,Net worth,12  Mar-15,5637.0,SVNP
+25,Long term debt,12  Mar-15,594.0,SVNP
+26,Total assets,12  Mar-15,7456.0,SVNP
+27,Interest coverage,12  Mar-15,33.2,SVNP
+28,Debt to equity ratio,12  Mar-15,0.1,SVNP
+29,Sales to assets ratio,12  Mar-15,0.7,SVNP
+30,Return on assets,12  Mar-15,15.2,SVNP
+31,Return on equity,12  Mar-15,19.3,SVNP
+32,Return on capital,12  Mar-15,25.1,SVNP
+33,Exports to sales,12  Mar-15,88.1,SVNP
+34,Imports to sales,12  Mar-15,11.6,SVNP
+35,Exports (fob),12  Mar-15,4590.0,SVNP
+36,Imports (cif),12  Mar-15,602.0,SVNP
+37,Fx inflow,12  Mar-15,4779.0,SVNP
+38,Fx outflow,12  Mar-15,855.0,SVNP
+39,Net fx,12  Mar-15,3924.0,SVNP
+40,From Operations,12  Mar-15,1429.0,SVNP
+41,From Investments,12  Mar-15,-1105.0,SVNP
+42,From Financial Activity,12  Mar-15,1791.0,SVNP
+43,Net Cashflow,12  Mar-15,2116.0,SVNP
+44,Net Sales,12  Mar-16,4995.0,SVNP
+45,Other income,12  Mar-16,194.0,SVNP
+46,Total revenues,12  Mar-16,5189.0,SVNP
+47,Gross profit,12  Mar-16,1016.0,SVNP
+48,Depreciation,12  Mar-16,175.0,SVNP
+49,Interest,12  Mar-16,59.0,SVNP
+50,Profit before tax,12  Mar-16,976.0,SVNP
+51,Minority Interest,12  Mar-16,0.0,SVNP
+52,Prior Period Items,12  Mar-16,0.0,SVNP
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,SVNP
+54,Tax,12  Mar-16,257.0,SVNP
+55,Profit after tax,12  Mar-16,718.0,SVNP
+56,Gross profit margin,12  Mar-16,20.3,SVNP
+57,Effective tax rate,12  Mar-16,26.4,SVNP
+58,Net profit margin,12  Mar-16,14.4,SVNP
+59,Current assets,12  Mar-16,4277.0,SVNP
+60,Current liabilities,12  Mar-16,1107.0,SVNP
+61,Net working cap to sales,12  Mar-16,63.5,SVNP
+62,Current ratio,12  Mar-16,3.9,SVNP
+63,Inventory Days,12  Mar-16,61.0,SVNP
+64,Debtors Days,12  Mar-16,39.0,SVNP
+65,Net fixed assets,12  Mar-16,3126.0,SVNP
+66,Share capital,12  Mar-16,127.0,SVNP
+67,"""Free"" reserves",12  Mar-16,5826.0,SVNP
+68,Net worth,12  Mar-16,5953.0,SVNP
+69,Long term debt,12  Mar-16,416.0,SVNP
+70,Total assets,12  Mar-16,7515.0,SVNP
+71,Interest coverage,12  Mar-16,17.6,SVNP
+72,Debt to equity ratio,12  Mar-16,0.1,SVNP
+73,Sales to assets ratio,12  Mar-16,0.7,SVNP
+74,Return on assets,12  Mar-16,10.3,SVNP
+75,Return on equity,12  Mar-16,12.1,SVNP
+76,Return on capital,12  Mar-16,16.2,SVNP
+77,Exports to sales,12  Mar-16,87.5,SVNP
+78,Imports to sales,12  Mar-16,12.2,SVNP
+79,Exports (fob),12  Mar-16,4371.0,SVNP
+80,Imports (cif),12  Mar-16,611.0,SVNP
+81,Fx inflow,12  Mar-16,4666.0,SVNP
+82,Fx outflow,12  Mar-16,942.0,SVNP
+83,Net fx,12  Mar-16,3724.0,SVNP
+84,From Operations,12  Mar-16,675.0,SVNP
+85,From Investments,12  Mar-16,-386.0,SVNP
+86,From Financial Activity,12  Mar-16,-681.0,SVNP
+87,Net Cashflow,12  Mar-16,-392.0,SVNP
+88,Net Sales,12  Mar-17,5435.0,SVNP
+89,Other income,12  Mar-17,211.0,SVNP
+90,Total revenues,12  Mar-17,5646.0,SVNP
+91,Gross profit,12  Mar-17,1291.0,SVNP
+92,Depreciation,12  Mar-17,214.0,SVNP
+93,Interest,12  Mar-17,57.0,SVNP
+94,Profit before tax,12  Mar-17,1231.0,SVNP
+95,Minority Interest,12  Mar-17,0.0,SVNP
+96,Prior Period Items,12  Mar-17,0.0,SVNP
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,SVNP
+98,Tax,12  Mar-17,359.0,SVNP
+99,Profit after tax,12  Mar-17,872.0,SVNP
+100,Gross profit margin,12  Mar-17,23.7,SVNP
+101,Effective tax rate,12  Mar-17,29.2,SVNP
+102,Net profit margin,12  Mar-17,16.0,SVNP
+103,Current assets,12  Mar-17,4917.0,SVNP
+104,Current liabilities,12  Mar-17,1186.0,SVNP
+105,Net working cap to sales,12  Mar-17,68.6,SVNP
+106,Current ratio,12  Mar-17,4.1,SVNP
+107,Inventory Days,12  Mar-17,62.0,SVNP
+108,Debtors Days,12  Mar-17,31.0,SVNP
+109,Net fixed assets,12  Mar-17,3154.0,SVNP
+110,Share capital,12  Mar-17,127.0,SVNP
+111,"""Free"" reserves",12  Mar-17,6543.0,SVNP
+112,Net worth,12  Mar-17,6670.0,SVNP
+113,Long term debt,12  Mar-17,259.0,SVNP
+114,Total assets,12  Mar-17,8157.0,SVNP
+115,Interest coverage,12  Mar-17,22.7,SVNP
+116,Debt to equity ratio,12  Mar-17,0.0,SVNP
+117,Sales to assets ratio,12  Mar-17,0.7,SVNP
+118,Return on assets,12  Mar-17,11.4,SVNP
+119,Return on equity,12  Mar-17,13.1,SVNP
+120,Return on capital,12  Mar-17,18.6,SVNP
+121,Exports to sales,12  Mar-17,0.0,SVNP
+122,Imports to sales,12  Mar-17,0.0,SVNP
+123,Exports (fob),12  Mar-17,0.0,SVNP
+124,Imports (cif),12  Mar-17,0.0,SVNP
+125,Fx inflow,12  Mar-17,4943.0,SVNP
+126,Fx outflow,12  Mar-17,1857.0,SVNP
+127,Net fx,12  Mar-17,3086.0,SVNP
+128,From Operations,12  Mar-17,1092.0,SVNP
+129,From Investments,12  Mar-17,-3107.0,SVNP
+130,From Financial Activity,12  Mar-17,-304.0,SVNP
+131,Net Cashflow,12  Mar-17,-2319.0,SVNP
+132,Net Sales,12  Mar-18,6253.0,SVNP
+133,Other income,12  Mar-18,233.0,SVNP
+134,Total revenues,12  Mar-18,6485.0,SVNP
+135,Gross profit,12  Mar-18,1982.0,SVNP
+136,Depreciation,12  Mar-18,213.0,SVNP
+137,Interest,12  Mar-18,46.0,SVNP
+138,Profit before tax,12  Mar-18,1955.0,SVNP
+139,Minority Interest,12  Mar-18,0.0,SVNP
+140,Prior Period Items,12  Mar-18,0.0,SVNP
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,SVNP
+142,Tax,12  Mar-18,718.0,SVNP
+143,Profit after tax,12  Mar-18,1237.0,SVNP
+144,Gross profit margin,12  Mar-18,31.7,SVNP
+145,Effective tax rate,12  Mar-18,36.7,SVNP
+146,Net profit margin,12  Mar-18,19.8,SVNP
+147,Current assets,12  Mar-18,5696.0,SVNP
+148,Current liabilities,12  Mar-18,1216.0,SVNP
+149,Net working cap to sales,12  Mar-18,71.6,SVNP
+150,Current ratio,12  Mar-18,4.7,SVNP
+151,Inventory Days,12  Mar-18,81.0,SVNP
+152,Debtors Days,12  Mar-18,36.0,SVNP
+153,Net fixed assets,12  Mar-18,3325.0,SVNP
+154,Share capital,12  Mar-18,127.0,SVNP
+155,"""Free"" reserves",12  Mar-18,7547.0,SVNP
+156,Net worth,12  Mar-18,7674.0,SVNP
+157,Long term debt,12  Mar-18,22.0,SVNP
+158,Total assets,12  Mar-18,9192.0,SVNP
+159,Interest coverage,12  Mar-18,43.2,SVNP
+160,Debt to equity ratio,12  Mar-18,0.0,SVNP
+161,Sales to assets ratio,12  Mar-18,0.7,SVNP
+162,Return on assets,12  Mar-18,14.0,SVNP
+163,Return on equity,12  Mar-18,16.1,SVNP
+164,Return on capital,12  Mar-18,26.0,SVNP
+165,Exports to sales,12  Mar-18,0.0,SVNP
+166,Imports to sales,12  Mar-18,0.0,SVNP
+167,Exports (fob),12  Mar-18,0.0,SVNP
+168,Imports (cif),12  Mar-18,0.0,SVNP
+169,Fx inflow,12  Mar-18,5066.0,SVNP
+170,Fx outflow,12  Mar-18,2001.0,SVNP
+171,Net fx,12  Mar-18,3065.0,SVNP
+172,From Operations,12  Mar-18,699.0,SVNP
+173,From Investments,12  Mar-18,-6.0,SVNP
+174,From Financial Activity,12  Mar-18,-521.0,SVNP
+175,Net Cashflow,12  Mar-18,173.0,SVNP
+176,Net Sales,12  Mar-19,6635.0,SVNP
+177,Other income,12  Mar-19,242.0,SVNP
+178,Total revenues,12  Mar-19,6877.0,SVNP
+179,Gross profit,12  Mar-19,1604.0,SVNP
+180,Depreciation,12  Mar-19,221.0,SVNP
+181,Interest,12  Mar-19,38.0,SVNP
+182,Profit before tax,12  Mar-19,1587.0,SVNP
+183,Minority Interest,12  Mar-19,0.0,SVNP
+184,Prior Period Items,12  Mar-19,0.0,SVNP
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,SVNP
+186,Tax,12  Mar-19,718.0,SVNP
+187,Profit after tax,12  Mar-19,869.0,SVNP
+188,Gross profit margin,12  Mar-19,24.2,SVNP
+189,Effective tax rate,12  Mar-19,45.2,SVNP
+190,Net profit margin,12  Mar-19,13.1,SVNP
+191,Current assets,12  Mar-19,6232.0,SVNP
+192,Current liabilities,12  Mar-19,1490.0,SVNP
+193,Net working cap to sales,12  Mar-19,71.5,SVNP
+194,Current ratio,12  Mar-19,4.2,SVNP
+195,Inventory Days,12  Mar-19,86.0,SVNP
+196,Debtors Days,12  Mar-19,83.0,SVNP
+197,Net fixed assets,12  Mar-19,4043.0,SVNP
+198,Share capital,12  Mar-19,127.0,SVNP
+199,"""Free"" reserves",12  Mar-19,8183.0,SVNP
+200,Net worth,12  Mar-19,8310.0,SVNP
+201,Long term debt,12  Mar-19,18.0,SVNP
+202,Total assets,12  Mar-19,10389.0,SVNP
+203,Interest coverage,12  Mar-19,43.1,SVNP
+204,Debt to equity ratio,12  Mar-19,0.0,SVNP
+205,Sales to assets ratio,12  Mar-19,0.6,SVNP
+206,Return on assets,12  Mar-19,8.7,SVNP
+207,Return on equity,12  Mar-19,10.5,SVNP
+208,Return on capital,12  Mar-19,19.5,SVNP
+209,Exports to sales,12  Mar-19,0.0,SVNP
+210,Imports to sales,12  Mar-19,0.0,SVNP
+211,Exports (fob),12  Mar-19,0.0,SVNP
+212,Imports (cif),12  Mar-19,0.0,SVNP
+213,Fx inflow,12  Mar-19,5622.0,SVNP
+214,Fx outflow,12  Mar-19,1799.0,SVNP
+215,Net fx,12  Mar-19,3822.0,SVNP
+216,From Operations,12  Mar-19,356.0,SVNP
+217,From Investments,12  Mar-19,-279.0,SVNP
+218,From Financial Activity,12  Mar-19,-225.0,SVNP
+219,Net Cashflow,12  Mar-19,-148.0,SVNP

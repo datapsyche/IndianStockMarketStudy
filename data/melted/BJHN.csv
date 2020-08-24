@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,45354.0,BJHN
+1,Other income,12  Mar-15*,1201.0,BJHN
+2,Total revenues,12  Mar-15*,46554.0,BJHN
+3,Gross profit,12  Mar-15*,-3313.0,BJHN
+4,Depreciation,12  Mar-15*,2577.0,BJHN
+5,Interest,12  Mar-15*,7263.0,BJHN
+6,Profit before tax,12  Mar-15*,-11952.0,BJHN
+7,Minority Interest,12  Mar-15*,0.0,BJHN
+8,Prior Period Items,12  Mar-15*,-2.0,BJHN
+9,Extraordinary Inc (Exp),12  Mar-15*,38.0,BJHN
+10,Tax,12  Mar-15*,10.0,BJHN
+11,Profit after tax,12  Mar-15*,-11925.0,BJHN
+12,Gross profit margin,12  Mar-15*,-7.3,BJHN
+13,Effective tax rate,12  Mar-15*,-0.1,BJHN
+14,Net profit margin,12  Mar-15*,-26.3,BJHN
+15,Current assets,12  Mar-15*,43590.0,BJHN
+16,Current liabilities,12  Mar-15*,29904.0,BJHN
+17,Net working cap to sales,12  Mar-15*,30.2,BJHN
+18,Current ratio,12  Mar-15*,1.5,BJHN
+19,Inventory Days,12  Mar-15*,175.0,BJHN
+20,Debtors Days,12  Mar-15*,13.0,BJHN
+21,Net fixed assets,12  Mar-15*,82303.0,BJHN
+22,Share capital,12  Mar-15*,810.0,BJHN
+23,"""Free"" reserves",12  Mar-15*,31538.0,BJHN
+24,Net worth,12  Mar-15*,32348.0,BJHN
+25,Long term debt,12  Mar-15*,69946.0,BJHN
+26,Total assets,12  Mar-15*,139337.0,BJHN
+27,Interest coverage,12  Mar-15*,-0.6,BJHN
+28,Debt to equity ratio,12  Mar-15*,2.2,BJHN
+29,Sales to assets ratio,12  Mar-15*,0.3,BJHN
+30,Return on assets,12  Mar-15*,-3.3,BJHN
+31,Return on equity,12  Mar-15*,-36.9,BJHN
+32,Return on capital,12  Mar-15*,-4.5,BJHN
+33,Exports to sales,12  Mar-15*,0.0,BJHN
+34,Imports to sales,12  Mar-15*,0.0,BJHN
+35,Exports (fob),12  Mar-15*,0.0,BJHN
+36,Imports (cif),12  Mar-15*,16.0,BJHN
+37,Fx inflow,12  Mar-15*,0.0,BJHN
+38,Fx outflow,12  Mar-15*,92.0,BJHN
+39,Net fx,12  Mar-15*,-92.0,BJHN
+40,From Operations,12  Mar-15*,-3650.0,BJHN
+41,From Investments,12  Mar-15*,-1791.0,BJHN
+42,From Financial Activity,12  Mar-15*,4760.0,BJHN
+43,Net Cashflow,12  Mar-15*,-681.0,BJHN
+44,Net Sales,12  Mar-16*,46905.0,BJHN
+45,Other income,12  Mar-16*,898.0,BJHN
+46,Total revenues,12  Mar-16*,47803.0,BJHN
+47,Gross profit,12  Mar-16*,29598.0,BJHN
+48,Depreciation,12  Mar-16*,24171.0,BJHN
+49,Interest,12  Mar-16*,8484.0,BJHN
+50,Profit before tax,12  Mar-16*,-2159.0,BJHN
+51,Minority Interest,12  Mar-16*,0.0,BJHN
+52,Prior Period Items,12  Mar-16*,1.0,BJHN
+53,Extraordinary Inc (Exp),12  Mar-16*,2.0,BJHN
+54,Tax,12  Mar-16*,-35.0,BJHN
+55,Profit after tax,12  Mar-16*,-2121.0,BJHN
+56,Gross profit margin,12  Mar-16*,63.1,BJHN
+57,Effective tax rate,12  Mar-16*,1.6,BJHN
+58,Net profit margin,12  Mar-16*,-4.5,BJHN
+59,Current assets,12  Mar-16*,42774.0,BJHN
+60,Current liabilities,12  Mar-16*,30886.0,BJHN
+61,Net working cap to sales,12  Mar-16*,25.3,BJHN
+62,Current ratio,12  Mar-16*,1.4,BJHN
+63,Inventory Days,12  Mar-16*,150.0,BJHN
+64,Debtors Days,12  Mar-16*,22.0,BJHN
+65,Net fixed assets,12  Mar-16*,80026.0,BJHN
+66,Share capital,12  Mar-16*,1117.0,BJHN
+67,"""Free"" reserves",12  Mar-16*,34701.0,BJHN
+68,Net worth,12  Mar-16*,35817.0,BJHN
+69,Long term debt,12  Mar-16*,62198.0,BJHN
+70,Total assets,12  Mar-16*,135916.0,BJHN
+71,Interest coverage,12  Mar-16*,0.7,BJHN
+72,Debt to equity ratio,12  Mar-16*,1.7,BJHN
+73,Sales to assets ratio,12  Mar-16*,0.3,BJHN
+74,Return on assets,12  Mar-16*,4.7,BJHN
+75,Return on equity,12  Mar-16*,-5.9,BJHN
+76,Return on capital,12  Mar-16*,6.5,BJHN
+77,Exports to sales,12  Mar-16*,0.6,BJHN
+78,Imports to sales,12  Mar-16*,0.0,BJHN
+79,Exports (fob),12  Mar-16*,264.0,BJHN
+80,Imports (cif),12  Mar-16*,0.0,BJHN
+81,Fx inflow,12  Mar-16*,264.0,BJHN
+82,Fx outflow,12  Mar-16*,2.0,BJHN
+83,Net fx,12  Mar-16*,262.0,BJHN
+84,From Operations,12  Mar-16*,3793.0,BJHN
+85,From Investments,12  Mar-16*,-21.0,BJHN
+86,From Financial Activity,12  Mar-16*,-3860.0,BJHN
+87,Net Cashflow,12  Mar-16*,-88.0,BJHN
+88,Net Sales,12  Mar-17*,43993.0,BJHN
+89,Other income,12  Mar-17*,964.0,BJHN
+90,Total revenues,12  Mar-17*,44957.0,BJHN
+91,Gross profit,12  Mar-17*,8511.0,BJHN
+92,Depreciation,12  Mar-17*,2432.0,BJHN
+93,Interest,12  Mar-17*,8021.0,BJHN
+94,Profit before tax,12  Mar-17*,-977.0,BJHN
+95,Minority Interest,12  Mar-17*,0.0,BJHN
+96,Prior Period Items,12  Mar-17*,0.0,BJHN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,BJHN
+98,Tax,12  Mar-17*,-57.0,BJHN
+99,Profit after tax,12  Mar-17*,-920.0,BJHN
+100,Gross profit margin,12  Mar-17*,19.3,BJHN
+101,Effective tax rate,12  Mar-17*,5.9,BJHN
+102,Net profit margin,12  Mar-17*,-2.1,BJHN
+103,Current assets,12  Mar-17*,52688.0,BJHN
+104,Current liabilities,12  Mar-17*,47128.0,BJHN
+105,Net working cap to sales,12  Mar-17*,12.6,BJHN
+106,Current ratio,12  Mar-17*,1.1,BJHN
+107,Inventory Days,12  Mar-17*,250.0,BJHN
+108,Debtors Days,12  Mar-17*,12.0,BJHN
+109,Net fixed assets,12  Mar-17*,77818.0,BJHN
+110,Share capital,12  Mar-17*,1101.0,BJHN
+111,"""Free"" reserves",12  Mar-17*,33555.0,BJHN
+112,Net worth,12  Mar-17*,34656.0,BJHN
+113,Long term debt,12  Mar-17*,54598.0,BJHN
+114,Total assets,12  Mar-17*,143410.0,BJHN
+115,Interest coverage,12  Mar-17*,0.9,BJHN
+116,Debt to equity ratio,12  Mar-17*,1.6,BJHN
+117,Sales to assets ratio,12  Mar-17*,0.3,BJHN
+118,Return on assets,12  Mar-17*,5.0,BJHN
+119,Return on equity,12  Mar-17*,-2.7,BJHN
+120,Return on capital,12  Mar-17*,7.9,BJHN
+121,Exports to sales,12  Mar-17*,0.0,BJHN
+122,Imports to sales,12  Mar-17*,0.0,BJHN
+123,Exports (fob),12  Mar-17*,0.0,BJHN
+124,Imports (cif),12  Mar-17*,0.0,BJHN
+125,Fx inflow,12  Mar-17*,0.0,BJHN
+126,Fx outflow,12  Mar-17*,1.0,BJHN
+127,Net fx,12  Mar-17*,-1.0,BJHN
+128,From Operations,12  Mar-17*,6999.0,BJHN
+129,From Investments,12  Mar-17*,-135.0,BJHN
+130,From Financial Activity,12  Mar-17*,-7068.0,BJHN
+131,Net Cashflow,12  Mar-17*,-204.0,BJHN
+132,Net Sales,12  Mar-18*,58467.0,BJHN
+133,Other income,12  Mar-18*,1010.0,BJHN
+134,Total revenues,12  Mar-18*,59477.0,BJHN
+135,Gross profit,12  Mar-18*,2721.0,BJHN
+136,Depreciation,12  Mar-18*,1975.0,BJHN
+137,Interest,12  Mar-18*,6802.0,BJHN
+138,Profit before tax,12  Mar-18*,-5045.0,BJHN
+139,Minority Interest,12  Mar-18*,0.0,BJHN
+140,Prior Period Items,12  Mar-18*,0.0,BJHN
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,BJHN
+142,Tax,12  Mar-18*,-49.0,BJHN
+143,Profit after tax,12  Mar-18*,-4996.0,BJHN
+144,Gross profit margin,12  Mar-18*,4.7,BJHN
+145,Effective tax rate,12  Mar-18*,1.0,BJHN
+146,Net profit margin,12  Mar-18*,-8.5,BJHN
+147,Current assets,12  Mar-18*,52057.0,BJHN
+148,Current liabilities,12  Mar-18*,45192.0,BJHN
+149,Net working cap to sales,12  Mar-18*,11.7,BJHN
+150,Current ratio,12  Mar-18*,1.2,BJHN
+151,Inventory Days,12  Mar-18*,178.0,BJHN
+152,Debtors Days,12  Mar-18*,11.0,BJHN
+153,Net fixed assets,12  Mar-18*,76185.0,BJHN
+154,Share capital,12  Mar-18*,1101.0,BJHN
+155,"""Free"" reserves",12  Mar-18*,28319.0,BJHN
+156,Net worth,12  Mar-18*,29420.0,BJHN
+157,Long term debt,12  Mar-18*,58924.0,BJHN
+158,Total assets,12  Mar-18*,140543.0,BJHN
+159,Interest coverage,12  Mar-18*,0.3,BJHN
+160,Debt to equity ratio,12  Mar-18*,2.0,BJHN
+161,Sales to assets ratio,12  Mar-18*,0.4,BJHN
+162,Return on assets,12  Mar-18*,1.3,BJHN
+163,Return on equity,12  Mar-18*,-17.0,BJHN
+164,Return on capital,12  Mar-18*,2.0,BJHN
+165,Exports to sales,12  Mar-18*,0.0,BJHN
+166,Imports to sales,12  Mar-18*,0.0,BJHN
+167,Exports (fob),12  Mar-18*,0.0,BJHN
+168,Imports (cif),12  Mar-18*,0.0,BJHN
+169,Fx inflow,12  Mar-18*,338.0,BJHN
+170,Fx outflow,12  Mar-18*,1.0,BJHN
+171,Net fx,12  Mar-18*,337.0,BJHN
+172,From Operations,12  Mar-18*,9532.0,BJHN
+173,From Investments,12  Mar-18*,-287.0,BJHN
+174,From Financial Activity,12  Mar-18*,-9182.0,BJHN
+175,Net Cashflow,12  Mar-18*,63.0,BJHN
+176,Net Sales,12  Mar-19*,68064.0,BJHN
+177,Other income,12  Mar-19*,959.0,BJHN
+178,Total revenues,12  Mar-19*,69023.0,BJHN
+179,Gross profit,12  Mar-19*,2962.0,BJHN
+180,Depreciation,12  Mar-19*,2042.0,BJHN
+181,Interest,12  Mar-19*,3218.0,BJHN
+182,Profit before tax,12  Mar-19*,-1339.0,BJHN
+183,Minority Interest,12  Mar-19*,0.0,BJHN
+184,Prior Period Items,12  Mar-19*,0.0,BJHN
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,BJHN
+186,Tax,12  Mar-19*,26.0,BJHN
+187,Profit after tax,12  Mar-19*,-1366.0,BJHN
+188,Gross profit margin,12  Mar-19*,4.4,BJHN
+189,Effective tax rate,12  Mar-19*,-2.0,BJHN
+190,Net profit margin,12  Mar-19*,-2.0,BJHN
+191,Current assets,12  Mar-19*,59483.0,BJHN
+192,Current liabilities,12  Mar-19*,49268.0,BJHN
+193,Net working cap to sales,12  Mar-19*,15.0,BJHN
+194,Current ratio,12  Mar-19*,1.2,BJHN
+195,Inventory Days,12  Mar-19*,148.0,BJHN
+196,Debtors Days,12  Mar-19*,10.0,BJHN
+197,Net fixed assets,12  Mar-19*,74232.0,BJHN
+198,Share capital,12  Mar-19*,1101.0,BJHN
+199,"""Free"" reserves",12  Mar-19*,26670.0,BJHN
+200,Net worth,12  Mar-19*,27771.0,BJHN
+201,Long term debt,12  Mar-19*,53821.0,BJHN
+202,Total assets,12  Mar-19*,137910.0,BJHN
+203,Interest coverage,12  Mar-19*,0.6,BJHN
+204,Debt to equity ratio,12  Mar-19*,1.9,BJHN
+205,Sales to assets ratio,12  Mar-19*,0.5,BJHN
+206,Return on assets,12  Mar-19*,1.3,BJHN
+207,Return on equity,12  Mar-19*,-4.9,BJHN
+208,Return on capital,12  Mar-19*,2.3,BJHN
+209,Exports to sales,12  Mar-19*,0.0,BJHN
+210,Imports to sales,12  Mar-19*,0.0,BJHN
+211,Exports (fob),12  Mar-19*,0.0,BJHN
+212,Imports (cif),12  Mar-19*,0.0,BJHN
+213,Fx inflow,12  Mar-19*,186.0,BJHN
+214,Fx outflow,12  Mar-19*,1.0,BJHN
+215,Net fx,12  Mar-19*,185.0,BJHN
+216,From Operations,12  Mar-19*,11177.0,BJHN
+217,From Investments,12  Mar-19*,-37.0,BJHN
+218,From Financial Activity,12  Mar-19*,-10984.0,BJHN
+219,Net Cashflow,12  Mar-19*,156.0,BJHN

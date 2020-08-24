@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,7070.0,MZTN
+1,Other income,12  Mar-14,4.0,MZTN
+2,Total revenues,12  Mar-14,7074.0,MZTN
+3,Gross profit,12  Mar-14,1214.0,MZTN
+4,Depreciation,12  Mar-14,220.0,MZTN
+5,Interest,12  Mar-14,320.0,MZTN
+6,Profit before tax,12  Mar-14,678.0,MZTN
+7,Minority Interest,12  Mar-14,0.0,MZTN
+8,Prior Period Items,12  Mar-14,0.0,MZTN
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,MZTN
+10,Tax,12  Mar-14,244.0,MZTN
+11,Profit after tax,12  Mar-14,434.0,MZTN
+12,Gross profit margin,12  Mar-14,17.2,MZTN
+13,Effective tax rate,12  Mar-14,36.0,MZTN
+14,Net profit margin,12  Mar-14,6.1,MZTN
+15,Current assets,12  Mar-14,2963.0,MZTN
+16,Current liabilities,12  Mar-14,2548.0,MZTN
+17,Net working cap to sales,12  Mar-14,5.9,MZTN
+18,Current ratio,12  Mar-14,1.2,MZTN
+19,Inventory Days,12  Mar-14,99.0,MZTN
+20,Debtors Days,12  Mar-14,22.0,MZTN
+21,Net fixed assets,12  Mar-14,3153.0,MZTN
+22,Share capital,12  Mar-14,185.0,MZTN
+23,"""Free"" reserves",12  Mar-14,2634.0,MZTN
+24,Net worth,12  Mar-14,2866.0,MZTN
+25,Long term debt,12  Mar-14,454.0,MZTN
+26,Total assets,12  Mar-14,6158.0,MZTN
+27,Interest coverage,12  Mar-14,3.1,MZTN
+28,Debt to equity ratio,12  Mar-14,0.2,MZTN
+29,Sales to assets ratio,12  Mar-14,1.1,MZTN
+30,Return on assets,12  Mar-14,12.2,MZTN
+31,Return on equity,12  Mar-14,15.1,MZTN
+32,Return on capital,12  Mar-14,30.1,MZTN
+33,Exports to sales,12  Mar-14,63.7,MZTN
+34,Imports to sales,12  Mar-14,12.6,MZTN
+35,Exports (fob),12  Mar-14,4502.0,MZTN
+36,Imports (cif),12  Mar-14,891.0,MZTN
+37,Fx inflow,12  Mar-14,4502.0,MZTN
+38,Fx outflow,12  Mar-14,956.0,MZTN
+39,Net fx,12  Mar-14,3546.0,MZTN
+40,From Operations,12  Mar-14,484.0,MZTN
+41,From Investments,12  Mar-14,-537.0,MZTN
+42,From Financial Activity,12  Mar-14,78.0,MZTN
+43,Net Cashflow,12  Mar-14,25.0,MZTN
+44,Net Sales,12  Mar-15,9183.0,MZTN
+45,Other income,12  Mar-15,7.0,MZTN
+46,Total revenues,12  Mar-15,9190.0,MZTN
+47,Gross profit,12  Mar-15,1420.0,MZTN
+48,Depreciation,12  Mar-15,246.0,MZTN
+49,Interest,12  Mar-15,393.0,MZTN
+50,Profit before tax,12  Mar-15,787.0,MZTN
+51,Minority Interest,12  Mar-15,0.0,MZTN
+52,Prior Period Items,12  Mar-15,0.0,MZTN
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,MZTN
+54,Tax,12  Mar-15,276.0,MZTN
+55,Profit after tax,12  Mar-15,512.0,MZTN
+56,Gross profit margin,12  Mar-15,15.5,MZTN
+57,Effective tax rate,12  Mar-15,35.0,MZTN
+58,Net profit margin,12  Mar-15,5.6,MZTN
+59,Current assets,12  Mar-15,3411.0,MZTN
+60,Current liabilities,12  Mar-15,2896.0,MZTN
+61,Net working cap to sales,12  Mar-15,5.6,MZTN
+62,Current ratio,12  Mar-15,1.2,MZTN
+63,Inventory Days,12  Mar-15,90.0,MZTN
+64,Debtors Days,12  Mar-15,17.0,MZTN
+65,Net fixed assets,12  Mar-15,3104.0,MZTN
+66,Share capital,12  Mar-15,185.0,MZTN
+67,"""Free"" reserves",12  Mar-15,2940.0,MZTN
+68,Net worth,12  Mar-15,3125.0,MZTN
+69,Long term debt,12  Mar-15,310.0,MZTN
+70,Total assets,12  Mar-15,6569.0,MZTN
+71,Interest coverage,12  Mar-15,3.0,MZTN
+72,Debt to equity ratio,12  Mar-15,0.1,MZTN
+73,Sales to assets ratio,12  Mar-15,1.4,MZTN
+74,Return on assets,12  Mar-15,13.8,MZTN
+75,Return on equity,12  Mar-15,16.4,MZTN
+76,Return on capital,12  Mar-15,34.4,MZTN
+77,Exports to sales,12  Mar-15,63.7,MZTN
+78,Imports to sales,12  Mar-15,12.7,MZTN
+79,Exports (fob),12  Mar-15,5853.0,MZTN
+80,Imports (cif),12  Mar-15,1169.0,MZTN
+81,Fx inflow,12  Mar-15,5853.0,MZTN
+82,Fx outflow,12  Mar-15,1290.0,MZTN
+83,Net fx,12  Mar-15,4563.0,MZTN
+84,From Operations,12  Mar-15,973.0,MZTN
+85,From Investments,12  Mar-15,-589.0,MZTN
+86,From Financial Activity,12  Mar-15,-390.0,MZTN
+87,Net Cashflow,12  Mar-15,-6.0,MZTN
+88,Net Sales,12  Mar-16,9258.0,MZTN
+89,Other income,12  Mar-16,30.0,MZTN
+90,Total revenues,12  Mar-16,9287.0,MZTN
+91,Gross profit,12  Mar-16,1706.0,MZTN
+92,Depreciation,12  Mar-16,258.0,MZTN
+93,Interest,12  Mar-16,319.0,MZTN
+94,Profit before tax,12  Mar-16,1158.0,MZTN
+95,Minority Interest,12  Mar-16,0.0,MZTN
+96,Prior Period Items,12  Mar-16,0.0,MZTN
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,MZTN
+98,Tax,12  Mar-16,377.0,MZTN
+99,Profit after tax,12  Mar-16,781.0,MZTN
+100,Gross profit margin,12  Mar-16,18.4,MZTN
+101,Effective tax rate,12  Mar-16,32.6,MZTN
+102,Net profit margin,12  Mar-16,8.4,MZTN
+103,Current assets,12  Mar-16,4113.0,MZTN
+104,Current liabilities,12  Mar-16,2601.0,MZTN
+105,Net working cap to sales,12  Mar-16,16.3,MZTN
+106,Current ratio,12  Mar-16,1.6,MZTN
+107,Inventory Days,12  Mar-16,104.0,MZTN
+108,Debtors Days,12  Mar-16,25.0,MZTN
+109,Net fixed assets,12  Mar-16,3448.0,MZTN
+110,Share capital,12  Mar-16,241.0,MZTN
+111,"""Free"" reserves",12  Mar-16,4216.0,MZTN
+112,Net worth,12  Mar-16,4456.0,MZTN
+113,Long term debt,12  Mar-16,277.0,MZTN
+114,Total assets,12  Mar-16,7616.0,MZTN
+115,Interest coverage,12  Mar-16,4.6,MZTN
+116,Debt to equity ratio,12  Mar-16,0.1,MZTN
+117,Sales to assets ratio,12  Mar-16,1.2,MZTN
+118,Return on assets,12  Mar-16,14.4,MZTN
+119,Return on equity,12  Mar-16,17.5,MZTN
+120,Return on capital,12  Mar-16,31.2,MZTN
+121,Exports to sales,12  Mar-16,67.0,MZTN
+122,Imports to sales,12  Mar-16,12.7,MZTN
+123,Exports (fob),12  Mar-16,6205.0,MZTN
+124,Imports (cif),12  Mar-16,1172.0,MZTN
+125,Fx inflow,12  Mar-16,6205.0,MZTN
+126,Fx outflow,12  Mar-16,1288.0,MZTN
+127,Net fx,12  Mar-16,4918.0,MZTN
+128,From Operations,12  Mar-16,903.0,MZTN
+129,From Investments,12  Mar-16,-423.0,MZTN
+130,From Financial Activity,12  Mar-16,-507.0,MZTN
+131,Net Cashflow,12  Mar-16,57.0,MZTN
+132,Net Sales,12  Mar-17*,9357.0,MZTN
+133,Other income,12  Mar-17*,8.0,MZTN
+134,Total revenues,12  Mar-17*,9365.0,MZTN
+135,Gross profit,12  Mar-17*,1611.0,MZTN
+136,Depreciation,12  Mar-17*,291.0,MZTN
+137,Interest,12  Mar-17*,259.0,MZTN
+138,Profit before tax,12  Mar-17*,1069.0,MZTN
+139,Minority Interest,12  Mar-17*,0.0,MZTN
+140,Prior Period Items,12  Mar-17*,0.0,MZTN
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,MZTN
+142,Tax,12  Mar-17*,352.0,MZTN
+143,Profit after tax,12  Mar-17*,717.0,MZTN
+144,Gross profit margin,12  Mar-17*,17.2,MZTN
+145,Effective tax rate,12  Mar-17*,32.9,MZTN
+146,Net profit margin,12  Mar-17*,7.7,MZTN
+147,Current assets,12  Mar-17*,4015.0,MZTN
+148,Current liabilities,12  Mar-17*,2147.0,MZTN
+149,Net working cap to sales,12  Mar-17*,20.0,MZTN
+150,Current ratio,12  Mar-17*,1.9,MZTN
+151,Inventory Days,12  Mar-17*,103.0,MZTN
+152,Debtors Days,12  Mar-17*,26.0,MZTN
+153,Net fixed assets,12  Mar-17*,3535.0,MZTN
+154,Share capital,12  Mar-17*,241.0,MZTN
+155,"""Free"" reserves",12  Mar-17*,4780.0,MZTN
+156,Net worth,12  Mar-17*,5020.0,MZTN
+157,Long term debt,12  Mar-17*,148.0,MZTN
+158,Total assets,12  Mar-17*,7643.0,MZTN
+159,Interest coverage,12  Mar-17*,5.1,MZTN
+160,Debt to equity ratio,12  Mar-17*,0.0,MZTN
+161,Sales to assets ratio,12  Mar-17*,1.2,MZTN
+162,Return on assets,12  Mar-17*,12.8,MZTN
+163,Return on equity,12  Mar-17*,14.3,MZTN
+164,Return on capital,12  Mar-17*,25.7,MZTN
+165,Exports to sales,12  Mar-17*,62.5,MZTN
+166,Imports to sales,12  Mar-17*,10.3,MZTN
+167,Exports (fob),12  Mar-17*,5848.0,MZTN
+168,Imports (cif),12  Mar-17*,968.0,MZTN
+169,Fx inflow,12  Mar-17*,5848.0,MZTN
+170,Fx outflow,12  Mar-17*,1054.0,MZTN
+171,Net fx,12  Mar-17*,4794.0,MZTN
+172,From Operations,12  Mar-17*,1136.0,MZTN
+173,From Investments,12  Mar-17*,-363.0,MZTN
+174,From Financial Activity,12  Mar-17*,-822.0,MZTN
+175,Net Cashflow,12  Mar-17*,-49.0,MZTN
+176,Net Sales,12  Mar-18*,9721.0,MZTN
+177,Other income,12  Mar-18*,4.0,MZTN
+178,Total revenues,12  Mar-18*,9725.0,MZTN
+179,Gross profit,12  Mar-18*,1740.0,MZTN
+180,Depreciation,12  Mar-18*,316.0,MZTN
+181,Interest,12  Mar-18*,250.0,MZTN
+182,Profit before tax,12  Mar-18*,1178.0,MZTN
+183,Minority Interest,12  Mar-18*,0.0,MZTN
+184,Prior Period Items,12  Mar-18*,0.0,MZTN
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MZTN
+186,Tax,12  Mar-18*,394.0,MZTN
+187,Profit after tax,12  Mar-18*,784.0,MZTN
+188,Gross profit margin,12  Mar-18*,17.9,MZTN
+189,Effective tax rate,12  Mar-18*,33.5,MZTN
+190,Net profit margin,12  Mar-18*,8.1,MZTN
+191,Current assets,12  Mar-18*,6064.0,MZTN
+192,Current liabilities,12  Mar-18*,3748.0,MZTN
+193,Net working cap to sales,12  Mar-18*,23.8,MZTN
+194,Current ratio,12  Mar-18*,1.6,MZTN
+195,Inventory Days,12  Mar-18*,144.0,MZTN
+196,Debtors Days,12  Mar-18*,50.0,MZTN
+197,Net fixed assets,12  Mar-18*,3816.0,MZTN
+198,Share capital,12  Mar-18*,241.0,MZTN
+199,"""Free"" reserves",12  Mar-18*,5477.0,MZTN
+200,Net worth,12  Mar-18*,5718.0,MZTN
+201,Long term debt,12  Mar-18*,160.0,MZTN
+202,Total assets,12  Mar-18*,9990.0,MZTN
+203,Interest coverage,12  Mar-18*,5.7,MZTN
+204,Debt to equity ratio,12  Mar-18*,0.0,MZTN
+205,Sales to assets ratio,12  Mar-18*,1.0,MZTN
+206,Return on assets,12  Mar-18*,10.3,MZTN
+207,Return on equity,12  Mar-18*,13.7,MZTN
+208,Return on capital,12  Mar-18*,24.3,MZTN
+209,Exports to sales,12  Mar-18*,47.4,MZTN
+210,Imports to sales,12  Mar-18*,20.7,MZTN
+211,Exports (fob),12  Mar-18*,4610.0,MZTN
+212,Imports (cif),12  Mar-18*,2012.0,MZTN
+213,Fx inflow,12  Mar-18*,4610.0,MZTN
+214,Fx outflow,12  Mar-18*,2058.0,MZTN
+215,Net fx,12  Mar-18*,2553.0,MZTN
+216,From Operations,12  Mar-18*,-238.0,MZTN
+217,From Investments,12  Mar-18*,-593.0,MZTN
+218,From Financial Activity,12  Mar-18*,895.0,MZTN
+219,Net Cashflow,12  Mar-18*,63.0,MZTN

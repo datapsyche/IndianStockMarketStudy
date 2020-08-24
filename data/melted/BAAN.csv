@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,9299.0,BAAN
+1,Other income,12  Mar-15,163.0,BAAN
+2,Total revenues,12  Mar-15,9462.0,BAAN
+3,Gross profit,12  Mar-15,1281.0,BAAN
+4,Depreciation,12  Mar-15,513.0,BAAN
+5,Interest,12  Mar-15,928.0,BAAN
+6,Profit before tax,12  Mar-15,3.0,BAAN
+7,Minority Interest,12  Mar-15,0.0,BAAN
+8,Prior Period Items,12  Mar-15,0.0,BAAN
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,BAAN
+10,Tax,12  Mar-15,-7.0,BAAN
+11,Profit after tax,12  Mar-15,10.0,BAAN
+12,Gross profit margin,12  Mar-15,13.8,BAAN
+13,Effective tax rate,12  Mar-15,-202.9,BAAN
+14,Net profit margin,12  Mar-15,0.1,BAAN
+15,Current assets,12  Mar-15,13710.0,BAAN
+16,Current liabilities,12  Mar-15,10832.0,BAAN
+17,Net working cap to sales,12  Mar-15,31.0,BAAN
+18,Current ratio,12  Mar-15,1.3,BAAN
+19,Inventory Days,12  Mar-15,475.0,BAAN
+20,Debtors Days,12  Mar-15,16.0,BAAN
+21,Net fixed assets,12  Mar-15,9385.0,BAAN
+22,Share capital,12  Mar-15,114.0,BAAN
+23,"""Free"" reserves",12  Mar-15,9339.0,BAAN
+24,Net worth,12  Mar-15,9519.0,BAAN
+25,Long term debt,12  Mar-15,2722.0,BAAN
+26,Total assets,12  Mar-15,24046.0,BAAN
+27,Interest coverage,12  Mar-15,1.0,BAAN
+28,Debt to equity ratio,12  Mar-15,0.3,BAAN
+29,Sales to assets ratio,12  Mar-15,0.4,BAAN
+30,Return on assets,12  Mar-15,3.9,BAAN
+31,Return on equity,12  Mar-15,0.1,BAAN
+32,Return on capital,12  Mar-15,7.6,BAAN
+33,Exports to sales,12  Mar-15,21.0,BAAN
+34,Imports to sales,12  Mar-15,4.5,BAAN
+35,Exports (fob),12  Mar-15,1949.0,BAAN
+36,Imports (cif),12  Mar-15,423.0,BAAN
+37,Fx inflow,12  Mar-15,1949.0,BAAN
+38,Fx outflow,12  Mar-15,425.0,BAAN
+39,Net fx,12  Mar-15,1523.0,BAAN
+40,From Operations,12  Mar-15,200.0,BAAN
+41,From Investments,12  Mar-15,-742.0,BAAN
+42,From Financial Activity,12  Mar-15,615.0,BAAN
+43,Net Cashflow,12  Mar-15,73.0,BAAN
+44,Net Sales,12  Mar-16,14556.0,BAAN
+45,Other income,12  Mar-16,28.0,BAAN
+46,Total revenues,12  Mar-16,14585.0,BAAN
+47,Gross profit,12  Mar-16,2044.0,BAAN
+48,Depreciation,12  Mar-16,615.0,BAAN
+49,Interest,12  Mar-16,1159.0,BAAN
+50,Profit before tax,12  Mar-16,299.0,BAAN
+51,Minority Interest,12  Mar-16,0.0,BAAN
+52,Prior Period Items,12  Mar-16,0.0,BAAN
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,BAAN
+54,Tax,12  Mar-16,-19.0,BAAN
+55,Profit after tax,12  Mar-16,318.0,BAAN
+56,Gross profit margin,12  Mar-16,14.0,BAAN
+57,Effective tax rate,12  Mar-16,-6.5,BAAN
+58,Net profit margin,12  Mar-16,2.2,BAAN
+59,Current assets,12  Mar-16,15629.0,BAAN
+60,Current liabilities,12  Mar-16,11609.0,BAAN
+61,Net working cap to sales,12  Mar-16,27.6,BAAN
+62,Current ratio,12  Mar-16,1.3,BAAN
+63,Inventory Days,12  Mar-16,320.0,BAAN
+64,Debtors Days,12  Mar-16,33.0,BAAN
+65,Net fixed assets,12  Mar-16,11532.0,BAAN
+66,Share capital,12  Mar-16,114.0,BAAN
+67,"""Free"" reserves",12  Mar-16,9081.0,BAAN
+68,Net worth,12  Mar-16,9195.0,BAAN
+69,Long term debt,12  Mar-16,6718.0,BAAN
+70,Total assets,12  Mar-16,28205.0,BAAN
+71,Interest coverage,12  Mar-16,1.3,BAAN
+72,Debt to equity ratio,12  Mar-16,0.7,BAAN
+73,Sales to assets ratio,12  Mar-16,0.5,BAAN
+74,Return on assets,12  Mar-16,5.2,BAAN
+75,Return on equity,12  Mar-16,3.5,BAAN
+76,Return on capital,12  Mar-16,9.2,BAAN
+77,Exports to sales,12  Mar-16,14.9,BAAN
+78,Imports to sales,12  Mar-16,1.0,BAAN
+79,Exports (fob),12  Mar-16,2168.0,BAAN
+80,Imports (cif),12  Mar-16,153.0,BAAN
+81,Fx inflow,12  Mar-16,2168.0,BAAN
+82,Fx outflow,12  Mar-16,155.0,BAAN
+83,Net fx,12  Mar-16,2013.0,BAAN
+84,From Operations,12  Mar-16,1779.0,BAAN
+85,From Investments,12  Mar-16,-2750.0,BAAN
+86,From Financial Activity,12  Mar-16,1068.0,BAAN
+87,Net Cashflow,12  Mar-16,97.0,BAAN
+88,Net Sales,12  Mar-17,17518.0,BAAN
+89,Other income,12  Mar-17,57.0,BAAN
+90,Total revenues,12  Mar-17,17575.0,BAAN
+91,Gross profit,12  Mar-17,3477.0,BAAN
+92,Depreciation,12  Mar-17,695.0,BAAN
+93,Interest,12  Mar-17,971.0,BAAN
+94,Profit before tax,12  Mar-17,1869.0,BAAN
+95,Minority Interest,12  Mar-17,0.0,BAAN
+96,Prior Period Items,12  Mar-17,0.0,BAAN
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,BAAN
+98,Tax,12  Mar-17,417.0,BAAN
+99,Profit after tax,12  Mar-17,1452.0,BAAN
+100,Gross profit margin,12  Mar-17,19.8,BAAN
+101,Effective tax rate,12  Mar-17,22.3,BAAN
+102,Net profit margin,12  Mar-17,8.3,BAAN
+103,Current assets,12  Mar-17,11185.0,BAAN
+104,Current liabilities,12  Mar-17,7808.0,BAAN
+105,Net working cap to sales,12  Mar-17,19.3,BAAN
+106,Current ratio,12  Mar-17,1.4,BAAN
+107,Inventory Days,12  Mar-17,196.0,BAAN
+108,Debtors Days,12  Mar-17,24.0,BAAN
+109,Net fixed assets,12  Mar-17,11373.0,BAAN
+110,Share capital,12  Mar-17,125.0,BAAN
+111,"""Free"" reserves",12  Mar-17,10545.0,BAAN
+112,Net worth,12  Mar-17,10671.0,BAAN
+113,Long term debt,12  Mar-17,4444.0,BAAN
+114,Total assets,12  Mar-17,24019.0,BAAN
+115,Interest coverage,12  Mar-17,2.9,BAAN
+116,Debt to equity ratio,12  Mar-17,0.4,BAAN
+117,Sales to assets ratio,12  Mar-17,0.7,BAAN
+118,Return on assets,12  Mar-17,10.1,BAAN
+119,Return on equity,12  Mar-17,13.6,BAAN
+120,Return on capital,12  Mar-17,18.8,BAAN
+121,Exports to sales,12  Mar-17,3.4,BAAN
+122,Imports to sales,12  Mar-17,1.1,BAAN
+123,Exports (fob),12  Mar-17,599.0,BAAN
+124,Imports (cif),12  Mar-17,184.0,BAAN
+125,Fx inflow,12  Mar-17,599.0,BAAN
+126,Fx outflow,12  Mar-17,189.0,BAAN
+127,Net fx,12  Mar-17,410.0,BAAN
+128,From Operations,12  Mar-17,6447.0,BAAN
+129,From Investments,12  Mar-17,-524.0,BAAN
+130,From Financial Activity,12  Mar-17,-6036.0,BAAN
+131,Net Cashflow,12  Mar-17,-113.0,BAAN
+132,Net Sales,12  Mar-18,14808.0,BAAN
+133,Other income,12  Mar-18,56.0,BAAN
+134,Total revenues,12  Mar-18,14863.0,BAAN
+135,Gross profit,12  Mar-18,2102.0,BAAN
+136,Depreciation,12  Mar-18,696.0,BAAN
+137,Interest,12  Mar-18,338.0,BAAN
+138,Profit before tax,12  Mar-18,1124.0,BAAN
+139,Minority Interest,12  Mar-18,0.0,BAAN
+140,Prior Period Items,12  Mar-18,0.0,BAAN
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,BAAN
+142,Tax,12  Mar-18,251.0,BAAN
+143,Profit after tax,12  Mar-18,873.0,BAAN
+144,Gross profit margin,12  Mar-18,14.2,BAAN
+145,Effective tax rate,12  Mar-18,22.3,BAAN
+146,Net profit margin,12  Mar-18,5.9,BAAN
+147,Current assets,12  Mar-18,1334.0,BAAN
+148,Current liabilities,12  Mar-18,3761.0,BAAN
+149,Net working cap to sales,12  Mar-18,-16.4,BAAN
+150,Current ratio,12  Mar-18,0.4,BAAN
+151,Inventory Days,12  Mar-18,132.0,BAAN
+152,Debtors Days,12  Mar-18,17.0,BAAN
+153,Net fixed assets,12  Mar-18,11179.0,BAAN
+154,Share capital,12  Mar-18,125.0,BAAN
+155,"""Free"" reserves",12  Mar-18,11230.0,BAAN
+156,Net worth,12  Mar-18,11356.0,BAAN
+157,Long term debt,12  Mar-18,2658.0,BAAN
+158,Total assets,12  Mar-18,17862.0,BAAN
+159,Interest coverage,12  Mar-18,4.3,BAAN
+160,Debt to equity ratio,12  Mar-18,0.2,BAAN
+161,Sales to assets ratio,12  Mar-18,0.8,BAAN
+162,Return on assets,12  Mar-18,6.8,BAAN
+163,Return on equity,12  Mar-18,7.7,BAAN
+164,Return on capital,12  Mar-18,10.4,BAAN
+165,Exports to sales,12  Mar-18,3.5,BAAN
+166,Imports to sales,12  Mar-18,1.7,BAAN
+167,Exports (fob),12  Mar-18,524.0,BAAN
+168,Imports (cif),12  Mar-18,248.0,BAAN
+169,Fx inflow,12  Mar-18,524.0,BAAN
+170,Fx outflow,12  Mar-18,254.0,BAAN
+171,Net fx,12  Mar-18,270.0,BAAN
+172,From Operations,12  Mar-18,5884.0,BAAN
+173,From Investments,12  Mar-18,-157.0,BAAN
+174,From Financial Activity,12  Mar-18,-5787.0,BAAN
+175,Net Cashflow,12  Mar-18,-60.0,BAAN
+176,Net Sales,12  Mar-19,11250.0,BAAN
+177,Other income,12  Mar-19,77.0,BAAN
+178,Total revenues,12  Mar-19,11327.0,BAAN
+179,Gross profit,12  Mar-19,1815.0,BAAN
+180,Depreciation,12  Mar-19,668.0,BAAN
+181,Interest,12  Mar-19,296.0,BAAN
+182,Profit before tax,12  Mar-19,928.0,BAAN
+183,Minority Interest,12  Mar-19,0.0,BAAN
+184,Prior Period Items,12  Mar-19,0.0,BAAN
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,BAAN
+186,Tax,12  Mar-19,169.0,BAAN
+187,Profit after tax,12  Mar-19,759.0,BAAN
+188,Gross profit margin,12  Mar-19,16.1,BAAN
+189,Effective tax rate,12  Mar-19,18.2,BAAN
+190,Net profit margin,12  Mar-19,6.8,BAAN
+191,Current assets,12  Mar-19,1747.0,BAAN
+192,Current liabilities,12  Mar-19,7508.0,BAAN
+193,Net working cap to sales,12  Mar-19,-51.2,BAAN
+194,Current ratio,12  Mar-19,0.2,BAAN
+195,Inventory Days,12  Mar-19,303.0,BAAN
+196,Debtors Days,12  Mar-19,42.0,BAAN
+197,Net fixed assets,12  Mar-19,10934.0,BAAN
+198,Share capital,12  Mar-19,125.0,BAAN
+199,"""Free"" reserves",12  Mar-19,11833.0,BAAN
+200,Net worth,12  Mar-19,11959.0,BAAN
+201,Long term debt,12  Mar-19,2464.0,BAAN
+202,Total assets,12  Mar-19,22024.0,BAAN
+203,Interest coverage,12  Mar-19,4.1,BAAN
+204,Debt to equity ratio,12  Mar-19,0.2,BAAN
+205,Sales to assets ratio,12  Mar-19,0.5,BAAN
+206,Return on assets,12  Mar-19,4.8,BAAN
+207,Return on equity,12  Mar-19,6.4,BAAN
+208,Return on capital,12  Mar-19,8.5,BAAN
+209,Exports to sales,12  Mar-19,3.3,BAAN
+210,Imports to sales,12  Mar-19,1.2,BAAN
+211,Exports (fob),12  Mar-19,373.0,BAAN
+212,Imports (cif),12  Mar-19,130.0,BAAN
+213,Fx inflow,12  Mar-19,373.0,BAAN
+214,Fx outflow,12  Mar-19,150.0,BAAN
+215,Net fx,12  Mar-19,223.0,BAAN
+216,From Operations,12  Mar-19,-1810.0,BAAN
+217,From Investments,12  Mar-19,-271.0,BAAN
+218,From Financial Activity,12  Mar-19,2084.0,BAAN
+219,Net Cashflow,12  Mar-19,3.0,BAAN

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10288.0,TIIL
+1,Other income,12  Mar-15*,146.0,TIIL
+2,Total revenues,12  Mar-15*,10435.0,TIIL
+3,Gross profit,12  Mar-15*,1347.0,TIIL
+4,Depreciation,12  Mar-15*,319.0,TIIL
+5,Interest,12  Mar-15*,86.0,TIIL
+6,Profit before tax,12  Mar-15*,1089.0,TIIL
+7,Minority Interest,12  Mar-15*,0.0,TIIL
+8,Prior Period Items,12  Mar-15*,0.0,TIIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TIIL
+10,Tax,12  Mar-15*,336.0,TIIL
+11,Profit after tax,12  Mar-15*,752.0,TIIL
+12,Gross profit margin,12  Mar-15*,13.1,TIIL
+13,Effective tax rate,12  Mar-15*,30.9,TIIL
+14,Net profit margin,12  Mar-15*,7.3,TIIL
+15,Current assets,12  Mar-15*,6037.0,TIIL
+16,Current liabilities,12  Mar-15*,3418.0,TIIL
+17,Net working cap to sales,12  Mar-15*,25.5,TIIL
+18,Current ratio,12  Mar-15*,1.8,TIIL
+19,Inventory Days,12  Mar-15*,81.0,TIIL
+20,Debtors Days,12  Mar-15*,86.0,TIIL
+21,Net fixed assets,12  Mar-15*,1571.0,TIIL
+22,Share capital,12  Mar-15*,315.0,TIIL
+23,"""Free"" reserves",12  Mar-15*,5873.0,TIIL
+24,Net worth,12  Mar-15*,6209.0,TIIL
+25,Long term debt,12  Mar-15*,148.0,TIIL
+26,Total assets,12  Mar-15*,9909.0,TIIL
+27,Interest coverage,12  Mar-15*,13.6,TIIL
+28,Debt to equity ratio,12  Mar-15*,0.0,TIIL
+29,Sales to assets ratio,12  Mar-15*,1.0,TIIL
+30,Return on assets,12  Mar-15*,8.5,TIIL
+31,Return on equity,12  Mar-15*,12.1,TIIL
+32,Return on capital,12  Mar-15*,18.5,TIIL
+33,Exports to sales,12  Mar-15*,59.6,TIIL
+34,Imports to sales,12  Mar-15*,9.0,TIIL
+35,Exports (fob),12  Mar-15*,6128.0,TIIL
+36,Imports (cif),12  Mar-15*,926.0,TIIL
+37,Fx inflow,12  Mar-15*,6128.0,TIIL
+38,Fx outflow,12  Mar-15*,1068.0,TIIL
+39,Net fx,12  Mar-15*,5059.0,TIIL
+40,From Operations,12  Mar-15*,644.0,TIIL
+41,From Investments,12  Mar-15*,-906.0,TIIL
+42,From Financial Activity,12  Mar-15*,392.0,TIIL
+43,Net Cashflow,12  Mar-15*,130.0,TIIL
+44,Net Sales,12  Mar-16*,9211.0,TIIL
+45,Other income,12  Mar-16*,168.0,TIIL
+46,Total revenues,12  Mar-16*,9379.0,TIIL
+47,Gross profit,12  Mar-16*,1503.0,TIIL
+48,Depreciation,12  Mar-16*,260.0,TIIL
+49,Interest,12  Mar-16*,99.0,TIIL
+50,Profit before tax,12  Mar-16*,1312.0,TIIL
+51,Minority Interest,12  Mar-16*,0.0,TIIL
+52,Prior Period Items,12  Mar-16*,0.0,TIIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TIIL
+54,Tax,12  Mar-16*,415.0,TIIL
+55,Profit after tax,12  Mar-16*,897.0,TIIL
+56,Gross profit margin,12  Mar-16*,16.3,TIIL
+57,Effective tax rate,12  Mar-16*,31.6,TIIL
+58,Net profit margin,12  Mar-16*,9.7,TIIL
+59,Current assets,12  Mar-16*,6828.0,TIIL
+60,Current liabilities,12  Mar-16*,3799.0,TIIL
+61,Net working cap to sales,12  Mar-16*,32.9,TIIL
+62,Current ratio,12  Mar-16*,1.8,TIIL
+63,Inventory Days,12  Mar-16*,85.0,TIIL
+64,Debtors Days,12  Mar-16*,72.0,TIIL
+65,Net fixed assets,12  Mar-16*,1787.0,TIIL
+66,Share capital,12  Mar-16*,263.0,TIIL
+67,"""Free"" reserves",12  Mar-16*,5305.0,TIIL
+68,Net worth,12  Mar-16*,5597.0,TIIL
+69,Long term debt,12  Mar-16*,270.0,TIIL
+70,Total assets,12  Mar-16*,9832.0,TIIL
+71,Interest coverage,12  Mar-16*,14.3,TIIL
+72,Debt to equity ratio,12  Mar-16*,0.0,TIIL
+73,Sales to assets ratio,12  Mar-16*,0.9,TIIL
+74,Return on assets,12  Mar-16*,10.1,TIIL
+75,Return on equity,12  Mar-16*,16.0,TIIL
+76,Return on capital,12  Mar-16*,24.0,TIIL
+77,Exports to sales,12  Mar-16*,65.3,TIIL
+78,Imports to sales,12  Mar-16*,2.3,TIIL
+79,Exports (fob),12  Mar-16*,6019.0,TIIL
+80,Imports (cif),12  Mar-16*,215.0,TIIL
+81,Fx inflow,12  Mar-16*,6019.0,TIIL
+82,Fx outflow,12  Mar-16*,357.0,TIIL
+83,Net fx,12  Mar-16*,5662.0,TIIL
+84,From Operations,12  Mar-16*,1245.0,TIIL
+85,From Investments,12  Mar-16*,-424.0,TIIL
+86,From Financial Activity,12  Mar-16*,-464.0,TIIL
+87,Net Cashflow,12  Mar-16*,357.0,TIIL
+88,Net Sales,12  Mar-17*,9359.0,TIIL
+89,Other income,12  Mar-17*,412.0,TIIL
+90,Total revenues,12  Mar-17*,9771.0,TIIL
+91,Gross profit,12  Mar-17*,1460.0,TIIL
+92,Depreciation,12  Mar-17*,241.0,TIIL
+93,Interest,12  Mar-17*,188.0,TIIL
+94,Profit before tax,12  Mar-17*,1443.0,TIIL
+95,Minority Interest,12  Mar-17*,0.0,TIIL
+96,Prior Period Items,12  Mar-17*,0.0,TIIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TIIL
+98,Tax,12  Mar-17*,428.0,TIIL
+99,Profit after tax,12  Mar-17*,1015.0,TIIL
+100,Gross profit margin,12  Mar-17*,15.6,TIIL
+101,Effective tax rate,12  Mar-17*,29.7,TIIL
+102,Net profit margin,12  Mar-17*,10.8,TIIL
+103,Current assets,12  Mar-17*,8095.0,TIIL
+104,Current liabilities,12  Mar-17*,4163.0,TIIL
+105,Net working cap to sales,12  Mar-17*,42.0,TIIL
+106,Current ratio,12  Mar-17*,1.9,TIIL
+107,Inventory Days,12  Mar-17*,120.0,TIIL
+108,Debtors Days,12  Mar-17*,74.0,TIIL
+109,Net fixed assets,12  Mar-17*,2202.0,TIIL
+110,Share capital,12  Mar-17*,263.0,TIIL
+111,"""Free"" reserves",12  Mar-17*,6626.0,TIIL
+112,Net worth,12  Mar-17*,6889.0,TIIL
+113,Long term debt,12  Mar-17*,230.0,TIIL
+114,Total assets,12  Mar-17*,11537.0,TIIL
+115,Interest coverage,12  Mar-17*,8.7,TIIL
+116,Debt to equity ratio,12  Mar-17*,0.0,TIIL
+117,Sales to assets ratio,12  Mar-17*,0.8,TIIL
+118,Return on assets,12  Mar-17*,10.4,TIIL
+119,Return on equity,12  Mar-17*,14.7,TIIL
+120,Return on capital,12  Mar-17*,22.9,TIIL
+121,Exports to sales,12  Mar-17*,70.2,TIIL
+122,Imports to sales,12  Mar-17*,3.3,TIIL
+123,Exports (fob),12  Mar-17*,6570.0,TIIL
+124,Imports (cif),12  Mar-17*,311.0,TIIL
+125,Fx inflow,12  Mar-17*,6584.0,TIIL
+126,Fx outflow,12  Mar-17*,442.0,TIIL
+127,Net fx,12  Mar-17*,6142.0,TIIL
+128,From Operations,12  Mar-17*,541.0,TIIL
+129,From Investments,12  Mar-17*,-491.0,TIIL
+130,From Financial Activity,12  Mar-17*,-75.0,TIIL
+131,Net Cashflow,12  Mar-17*,-25.0,TIIL
+132,Net Sales,12  Mar-18*,11844.0,TIIL
+133,Other income,12  Mar-18*,521.0,TIIL
+134,Total revenues,12  Mar-18*,12364.0,TIIL
+135,Gross profit,12  Mar-18*,1700.0,TIIL
+136,Depreciation,12  Mar-18*,293.0,TIIL
+137,Interest,12  Mar-18*,229.0,TIIL
+138,Profit before tax,12  Mar-18*,1699.0,TIIL
+139,Minority Interest,12  Mar-18*,0.0,TIIL
+140,Prior Period Items,12  Mar-18*,0.0,TIIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TIIL
+142,Tax,12  Mar-18*,499.0,TIIL
+143,Profit after tax,12  Mar-18*,1200.0,TIIL
+144,Gross profit margin,12  Mar-18*,14.4,TIIL
+145,Effective tax rate,12  Mar-18*,29.4,TIIL
+146,Net profit margin,12  Mar-18*,10.1,TIIL
+147,Current assets,12  Mar-18*,9884.0,TIIL
+148,Current liabilities,12  Mar-18*,6042.0,TIIL
+149,Net working cap to sales,12  Mar-18*,32.4,TIIL
+150,Current ratio,12  Mar-18*,1.6,TIIL
+151,Inventory Days,12  Mar-18*,121.0,TIIL
+152,Debtors Days,12  Mar-18*,85.0,TIIL
+153,Net fixed assets,12  Mar-18*,2989.0,TIIL
+154,Share capital,12  Mar-18*,245.0,TIIL
+155,"""Free"" reserves",12  Mar-18*,6843.0,TIIL
+156,Net worth,12  Mar-18*,7088.0,TIIL
+157,Long term debt,12  Mar-18*,396.0,TIIL
+158,Total assets,12  Mar-18*,13871.0,TIIL
+159,Interest coverage,12  Mar-18*,8.4,TIIL
+160,Debt to equity ratio,12  Mar-18*,0.1,TIIL
+161,Sales to assets ratio,12  Mar-18*,0.9,TIIL
+162,Return on assets,12  Mar-18*,10.3,TIIL
+163,Return on equity,12  Mar-18*,16.9,TIIL
+164,Return on capital,12  Mar-18*,25.8,TIIL
+165,Exports to sales,12  Mar-18*,61.3,TIIL
+166,Imports to sales,12  Mar-18*,2.0,TIIL
+167,Exports (fob),12  Mar-18*,7263.0,TIIL
+168,Imports (cif),12  Mar-18*,238.0,TIIL
+169,Fx inflow,12  Mar-18*,7283.0,TIIL
+170,Fx outflow,12  Mar-18*,367.0,TIIL
+171,Net fx,12  Mar-18*,6916.0,TIIL
+172,From Operations,12  Mar-18*,-266.0,TIIL
+173,From Investments,12  Mar-18*,-409.0,TIIL
+174,From Financial Activity,12  Mar-18*,530.0,TIIL
+175,Net Cashflow,12  Mar-18*,-145.0,TIIL
+176,Net Sales,12  Mar-19*,13135.0,TIIL
+177,Other income,12  Mar-19*,374.0,TIIL
+178,Total revenues,12  Mar-19*,13508.0,TIIL
+179,Gross profit,12  Mar-19*,1975.0,TIIL
+180,Depreciation,12  Mar-19*,384.0,TIIL
+181,Interest,12  Mar-19*,324.0,TIIL
+182,Profit before tax,12  Mar-19*,1641.0,TIIL
+183,Minority Interest,12  Mar-19*,0.0,TIIL
+184,Prior Period Items,12  Mar-19*,0.0,TIIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,TIIL
+186,Tax,12  Mar-19*,451.0,TIIL
+187,Profit after tax,12  Mar-19*,1190.0,TIIL
+188,Gross profit margin,12  Mar-19*,15.0,TIIL
+189,Effective tax rate,12  Mar-19*,27.5,TIIL
+190,Net profit margin,12  Mar-19*,9.1,TIIL
+191,Current assets,12  Mar-19*,10835.0,TIIL
+192,Current liabilities,12  Mar-19*,6996.0,TIIL
+193,Net working cap to sales,12  Mar-19*,29.2,TIIL
+194,Current ratio,12  Mar-19*,1.5,TIIL
+195,Inventory Days,12  Mar-19*,133.0,TIIL
+196,Debtors Days,12  Mar-19*,91.0,TIIL
+197,Net fixed assets,12  Mar-19*,3734.0,TIIL
+198,Share capital,12  Mar-19*,245.0,TIIL
+199,"""Free"" reserves",12  Mar-19*,8027.0,TIIL
+200,Net worth,12  Mar-19*,8271.0,TIIL
+201,Long term debt,12  Mar-19*,564.0,TIIL
+202,Total assets,12  Mar-19*,16256.0,TIIL
+203,Interest coverage,12  Mar-19*,6.1,TIIL
+204,Debt to equity ratio,12  Mar-19*,0.1,TIIL
+205,Sales to assets ratio,12  Mar-19*,0.8,TIIL
+206,Return on assets,12  Mar-19*,9.3,TIIL
+207,Return on equity,12  Mar-19*,14.4,TIIL
+208,Return on capital,12  Mar-19*,22.2,TIIL
+209,Exports to sales,12  Mar-19*,66.2,TIIL
+210,Imports to sales,12  Mar-19*,2.0,TIIL
+211,Exports (fob),12  Mar-19*,8689.0,TIIL
+212,Imports (cif),12  Mar-19*,260.0,TIIL
+213,Fx inflow,12  Mar-19*,8718.0,TIIL
+214,Fx outflow,12  Mar-19*,421.0,TIIL
+215,Net fx,12  Mar-19*,8297.0,TIIL
+216,From Operations,12  Mar-19*,265.0,TIIL
+217,From Investments,12  Mar-19*,-1167.0,TIIL
+218,From Financial Activity,12  Mar-19*,982.0,TIIL
+219,Net Cashflow,12  Mar-19*,79.0,TIIL

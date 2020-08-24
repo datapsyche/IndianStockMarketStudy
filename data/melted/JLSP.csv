@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,368.0,JLSP
+1,Other income,12  Mar-14*,0.0,JLSP
+2,Total revenues,12  Mar-14*,368.0,JLSP
+3,Gross profit,12  Mar-14*,360.0,JLSP
+4,Depreciation,12  Mar-14*,0.0,JLSP
+5,Interest,12  Mar-14*,0.0,JLSP
+6,Profit before tax,12  Mar-14*,361.0,JLSP
+7,Minority Interest,12  Mar-14*,-5.0,JLSP
+8,Prior Period Items,12  Mar-14*,0.0,JLSP
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,JLSP
+10,Tax,12  Mar-14*,71.0,JLSP
+11,Profit after tax,12  Mar-14*,285.0,JLSP
+12,Gross profit margin,12  Mar-14*,98.0,JLSP
+13,Effective tax rate,12  Mar-14*,19.6,JLSP
+14,Net profit margin,12  Mar-14*,77.5,JLSP
+15,Current assets,12  Mar-14*,2013,JLSP
+16,Current liabilities,12  Mar-14*,113,JLSP
+17,Net working cap to sales,12  Mar-14*,517.0,JLSP
+18,Current ratio,12  Mar-14*,17.9,JLSP
+19,Inventory Days,12  Mar-14*,56,JLSP
+20,Debtors Days,12  Mar-14*,31,JLSP
+21,Net fixed assets,12  Mar-14*,0,JLSP
+22,Share capital,12  Mar-14*,51,JLSP
+23,"""Free"" reserves",12  Mar-14*,1058,JLSP
+24,Net worth,12  Mar-14*,3123,JLSP
+25,Long term debt,12  Mar-14*,297,JLSP
+26,Total assets,12  Mar-14*,3848,JLSP
+27,Interest coverage,12  Mar-14*,NM,JLSP
+28,Debt to equity ratio,12  Mar-14*,0.1,JLSP
+29,Sales to assets ratio,12  Mar-14*,0.1,JLSP
+30,Return on assets,12  Mar-14*,7.4,JLSP
+31,Return on equity,12  Mar-14*,9.1,JLSP
+32,Return on capital,12  Mar-14*,10.4,JLSP
+33,Exports to sales,12  Mar-14*,0,JLSP
+34,Imports to sales,12  Mar-14*,0,JLSP
+35,Exports (fob),12  Mar-14*,0,JLSP
+36,Imports (cif),12  Mar-14*,0,JLSP
+37,Fx inflow,12  Mar-14*,0,JLSP
+38,Fx outflow,12  Mar-14*,0,JLSP
+39,Net fx,12  Mar-14*,0,JLSP
+40,From Operations,12  Mar-14*,116,JLSP
+41,From Investments,12  Mar-14*,-134,JLSP
+42,From Financial Activity,12  Mar-14*,28,JLSP
+43,Net Cashflow,12  Mar-14*,10,JLSP
+44,Net Sales,12  Mar-15*,306.0,JLSP
+45,Other income,12  Mar-15*,1.0,JLSP
+46,Total revenues,12  Mar-15*,307.0,JLSP
+47,Gross profit,12  Mar-15*,132.0,JLSP
+48,Depreciation,12  Mar-15*,0.0,JLSP
+49,Interest,12  Mar-15*,0.0,JLSP
+50,Profit before tax,12  Mar-15*,133.0,JLSP
+51,Minority Interest,12  Mar-15*,0.0,JLSP
+52,Prior Period Items,12  Mar-15*,0.0,JLSP
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,JLSP
+54,Tax,12  Mar-15*,12.0,JLSP
+55,Profit after tax,12  Mar-15*,121.0,JLSP
+56,Gross profit margin,12  Mar-15*,43.2,JLSP
+57,Effective tax rate,12  Mar-15*,9.0,JLSP
+58,Net profit margin,12  Mar-15*,39.6,JLSP
+59,Current assets,12  Mar-15*,2180,JLSP
+60,Current liabilities,12  Mar-15*,26,JLSP
+61,Net working cap to sales,12  Mar-15*,703.8,JLSP
+62,Current ratio,12  Mar-15*,83.7,JLSP
+63,Inventory Days,12  Mar-15*,67,JLSP
+64,Debtors Days,12  Mar-15*,27,JLSP
+65,Net fixed assets,12  Mar-15*,0,JLSP
+66,Share capital,12  Mar-15*,51,JLSP
+67,"""Free"" reserves",12  Mar-15*,3176,JLSP
+68,Net worth,12  Mar-15*,3228,JLSP
+69,Long term debt,12  Mar-15*,311,JLSP
+70,Total assets,12  Mar-15*,3972,JLSP
+71,Interest coverage,12  Mar-15*,NM,JLSP
+72,Debt to equity ratio,12  Mar-15*,0.1,JLSP
+73,Sales to assets ratio,12  Mar-15*,0.1,JLSP
+74,Return on assets,12  Mar-15*,3.1,JLSP
+75,Return on equity,12  Mar-15*,3.8,JLSP
+76,Return on capital,12  Mar-15*,3.8,JLSP
+77,Exports to sales,12  Mar-15*,0,JLSP
+78,Imports to sales,12  Mar-15*,0,JLSP
+79,Exports (fob),12  Mar-15*,0,JLSP
+80,Imports (cif),12  Mar-15*,0,JLSP
+81,Fx inflow,12  Mar-15*,0,JLSP
+82,Fx outflow,12  Mar-15*,0,JLSP
+83,Net fx,12  Mar-15*,0,JLSP
+84,From Operations,12  Mar-15*,174,JLSP
+85,From Investments,12  Mar-15*,-183,JLSP
+86,From Financial Activity,12  Mar-15*,14,JLSP
+87,Net Cashflow,12  Mar-15*,5,JLSP
+88,Net Sales,12  Mar-16*,295.0,JLSP
+89,Other income,12  Mar-16*,7.0,JLSP
+90,Total revenues,12  Mar-16*,302.0,JLSP
+91,Gross profit,12  Mar-16*,236.0,JLSP
+92,Depreciation,12  Mar-16*,0.0,JLSP
+93,Interest,12  Mar-16*,0.0,JLSP
+94,Profit before tax,12  Mar-16*,243.0,JLSP
+95,Minority Interest,12  Mar-16*,0.0,JLSP
+96,Prior Period Items,12  Mar-16*,0.0,JLSP
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,JLSP
+98,Tax,12  Mar-16*,56.0,JLSP
+99,Profit after tax,12  Mar-16*,187.0,JLSP
+100,Gross profit margin,12  Mar-16*,79.9,JLSP
+101,Effective tax rate,12  Mar-16*,22.9,JLSP
+102,Net profit margin,12  Mar-16*,63.5,JLSP
+103,Current assets,12  Mar-16*,1702,JLSP
+104,Current liabilities,12  Mar-16*,28,JLSP
+105,Net working cap to sales,12  Mar-16*,567.5,JLSP
+106,Current ratio,12  Mar-16*,60.6,JLSP
+107,Inventory Days,12  Mar-16*,70,JLSP
+108,Debtors Days,12  Mar-16*,91,JLSP
+109,Net fixed assets,12  Mar-16*,0,JLSP
+110,Share capital,12  Mar-16*,51,JLSP
+111,"""Free"" reserves",12  Mar-16*,3340,JLSP
+112,Net worth,12  Mar-16*,3391,JLSP
+113,Long term debt,12  Mar-16*,331,JLSP
+114,Total assets,12  Mar-16*,4162,JLSP
+115,Interest coverage,12  Mar-16*,NM,JLSP
+116,Debt to equity ratio,12  Mar-16*,0.1,JLSP
+117,Sales to assets ratio,12  Mar-16*,0.1,JLSP
+118,Return on assets,12  Mar-16*,4.5,JLSP
+119,Return on equity,12  Mar-16*,5.5,JLSP
+120,Return on capital,12  Mar-16*,6.5,JLSP
+121,Exports to sales,12  Mar-16*,0,JLSP
+122,Imports to sales,12  Mar-16*,0,JLSP
+123,Exports (fob),12  Mar-16*,0,JLSP
+124,Imports (cif),12  Mar-16*,0,JLSP
+125,Fx inflow,12  Mar-16*,0,JLSP
+126,Fx outflow,12  Mar-16*,0,JLSP
+127,Net fx,12  Mar-16*,0,JLSP
+128,From Operations,12  Mar-16*,183,JLSP
+129,From Investments,12  Mar-16*,-192,JLSP
+130,From Financial Activity,12  Mar-16*,19,JLSP
+131,Net Cashflow,12  Mar-16*,10,JLSP
+132,Net Sales,12  Mar-17*,339.0,JLSP
+133,Other income,12  Mar-17*,2.0,JLSP
+134,Total revenues,12  Mar-17*,341.0,JLSP
+135,Gross profit,12  Mar-17*,219.0,JLSP
+136,Depreciation,12  Mar-17*,0.0,JLSP
+137,Interest,12  Mar-17*,0.0,JLSP
+138,Profit before tax,12  Mar-17*,221.0,JLSP
+139,Minority Interest,12  Mar-17*,0.0,JLSP
+140,Prior Period Items,12  Mar-17*,0.0,JLSP
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,JLSP
+142,Tax,12  Mar-17*,41.0,JLSP
+143,Profit after tax,12  Mar-17*,181.0,JLSP
+144,Gross profit margin,12  Mar-17*,64.7,JLSP
+145,Effective tax rate,12  Mar-17*,18.4,JLSP
+146,Net profit margin,12  Mar-17*,53.3,JLSP
+147,Current assets,12  Mar-17*,1269.0,JLSP
+148,Current liabilities,12  Mar-17*,120.0,JLSP
+149,Net working cap to sales,12  Mar-17*,339.2,JLSP
+150,Current ratio,12  Mar-17*,10.5,JLSP
+151,Inventory Days,12  Mar-17*,45.0,JLSP
+152,Debtors Days,12  Mar-17*,30.0,JLSP
+153,Net fixed assets,12  Mar-17*,0.0,JLSP
+154,Share capital,12  Mar-17*,51.0,JLSP
+155,"""Free"" reserves",12  Mar-17*,3537.0,JLSP
+156,Net worth,12  Mar-17*,3588.0,JLSP
+157,Long term debt,12  Mar-17*,324.0,JLSP
+158,Total assets,12  Mar-17*,4342.0,JLSP
+159,Interest coverage,12  Mar-17*,1107.5,JLSP
+160,Debt to equity ratio,12  Mar-17*,0.1,JLSP
+161,Sales to assets ratio,12  Mar-17*,0.1,JLSP
+162,Return on assets,12  Mar-17*,4.2,JLSP
+163,Return on equity,12  Mar-17*,5.0,JLSP
+164,Return on capital,12  Mar-17*,5.7,JLSP
+165,Exports to sales,12  Mar-17*,0.0,JLSP
+166,Imports to sales,12  Mar-17*,0.0,JLSP
+167,Exports (fob),12  Mar-17*,0.0,JLSP
+168,Imports (cif),12  Mar-17*,0.0,JLSP
+169,Fx inflow,12  Mar-17*,0.0,JLSP
+170,Fx outflow,12  Mar-17*,0.0,JLSP
+171,Net fx,12  Mar-17*,0.0,JLSP
+172,From Operations,12  Mar-17*,245.0,JLSP
+173,From Investments,12  Mar-17*,-259.0,JLSP
+174,From Financial Activity,12  Mar-17*,-7.0,JLSP
+175,Net Cashflow,12  Mar-17*,-22.0,JLSP
+176,Net Sales,12  Mar-18*,362.0,JLSP
+177,Other income,12  Mar-18*,1.0,JLSP
+178,Total revenues,12  Mar-18*,363.0,JLSP
+179,Gross profit,12  Mar-18*,104.0,JLSP
+180,Depreciation,12  Mar-18*,0.0,JLSP
+181,Interest,12  Mar-18*,0.0,JLSP
+182,Profit before tax,12  Mar-18*,105.0,JLSP
+183,Minority Interest,12  Mar-18*,0.0,JLSP
+184,Prior Period Items,12  Mar-18*,0.0,JLSP
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,JLSP
+186,Tax,12  Mar-18*,20.0,JLSP
+187,Profit after tax,12  Mar-18*,85.0,JLSP
+188,Gross profit margin,12  Mar-18*,28.8,JLSP
+189,Effective tax rate,12  Mar-18*,19.3,JLSP
+190,Net profit margin,12  Mar-18*,23.4,JLSP
+191,Current assets,12  Mar-18*,1276.0,JLSP
+192,Current liabilities,12  Mar-18*,119.0,JLSP
+193,Net working cap to sales,12  Mar-18*,319.8,JLSP
+194,Current ratio,12  Mar-18*,10.7,JLSP
+195,Inventory Days,12  Mar-18*,20.0,JLSP
+196,Debtors Days,12  Mar-18*,26.0,JLSP
+197,Net fixed assets,12  Mar-18*,0.0,JLSP
+198,Share capital,12  Mar-18*,51.0,JLSP
+199,"""Free"" reserves",12  Mar-18*,3650.0,JLSP
+200,Net worth,12  Mar-18*,3701.0,JLSP
+201,Long term debt,12  Mar-18*,327.0,JLSP
+202,Total assets,12  Mar-18*,4427.0,JLSP
+203,Interest coverage,12  Mar-18*,351.3,JLSP
+204,Debt to equity ratio,12  Mar-18*,0.1,JLSP
+205,Sales to assets ratio,12  Mar-18*,0.1,JLSP
+206,Return on assets,12  Mar-18*,1.9,JLSP
+207,Return on equity,12  Mar-18*,2.3,JLSP
+208,Return on capital,12  Mar-18*,2.6,JLSP
+209,Exports to sales,12  Mar-18*,0.0,JLSP
+210,Imports to sales,12  Mar-18*,0.0,JLSP
+211,Exports (fob),12  Mar-18*,0.0,JLSP
+212,Imports (cif),12  Mar-18*,0.0,JLSP
+213,Fx inflow,12  Mar-18*,0.0,JLSP
+214,Fx outflow,12  Mar-18*,0.0,JLSP
+215,Net fx,12  Mar-18*,0.0,JLSP
+216,From Operations,12  Mar-18*,224.0,JLSP
+217,From Investments,12  Mar-18*,-129.0,JLSP
+218,From Financial Activity,12  Mar-18*,2.0,JLSP
+219,Net Cashflow,12  Mar-18*,97.0,JLSP

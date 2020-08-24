@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,46535.0,TORR
+1,Other income,12  Mar-15*,2856.0,TORR
+2,Total revenues,12  Mar-15*,49390.0,TORR
+3,Gross profit,12  Mar-15*,10202.0,TORR
+4,Depreciation,12  Mar-15*,1907.0,TORR
+5,Interest,12  Mar-15*,1752.0,TORR
+6,Profit before tax,12  Mar-15*,9398.0,TORR
+7,Minority Interest,12  Mar-15*,0.0,TORR
+8,Prior Period Items,12  Mar-15*,0.0,TORR
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,TORR
+10,Tax,12  Mar-15*,1888.0,TORR
+11,Profit after tax,12  Mar-15*,7509.0,TORR
+12,Gross profit margin,12  Mar-15*,21.9,TORR
+13,Effective tax rate,12  Mar-15*,20.1,TORR
+14,Net profit margin,12  Mar-15*,16.1,TORR
+15,Current assets,12  Mar-15*,40983.0,TORR
+16,Current liabilities,12  Mar-15*,27046.0,TORR
+17,Net working cap to sales,12  Mar-15*,30.0,TORR
+18,Current ratio,12  Mar-15*,1.5,TORR
+19,Inventory Days,12  Mar-15*,84.0,TORR
+20,Debtors Days,12  Mar-15*,125.0,TORR
+21,Net fixed assets,12  Mar-15*,34720.0,TORR
+22,Share capital,12  Mar-15*,846.0,TORR
+23,"""Free"" reserves",12  Mar-15*,25583.0,TORR
+24,Net worth,12  Mar-15*,26430.0,TORR
+25,Long term debt,12  Mar-15*,21729.0,TORR
+26,Total assets,12  Mar-15*,79641.0,TORR
+27,Interest coverage,12  Mar-15*,6.4,TORR
+28,Debt to equity ratio,12  Mar-15*,0.8,TORR
+29,Sales to assets ratio,12  Mar-15*,0.6,TORR
+30,Return on assets,12  Mar-15*,11.6,TORR
+31,Return on equity,12  Mar-15*,28.4,TORR
+32,Return on capital,12  Mar-15*,23.2,TORR
+33,Exports to sales,12  Mar-15*,30.4,TORR
+34,Imports to sales,12  Mar-15*,6.0,TORR
+35,Exports (fob),12  Mar-15*,14136.0,TORR
+36,Imports (cif),12  Mar-15*,2801.0,TORR
+37,Fx inflow,12  Mar-15*,14265.0,TORR
+38,Fx outflow,12  Mar-15*,5184.0,TORR
+39,Net fx,12  Mar-15*,9081.0,TORR
+40,From Operations,12  Mar-15*,8102.0,TORR
+41,From Investments,12  Mar-15*,-21623.0,TORR
+42,From Financial Activity,12  Mar-15*,12123.0,TORR
+43,Net Cashflow,12  Mar-15*,-1399.0,TORR
+44,Net Sales,12  Mar-16*,66764.0,TORR
+45,Other income,12  Mar-16*,2256.0,TORR
+46,Total revenues,12  Mar-16*,69020.0,TORR
+47,Gross profit,12  Mar-16*,27330.0,TORR
+48,Depreciation,12  Mar-16*,2376.0,TORR
+49,Interest,12  Mar-16*,1840.0,TORR
+50,Profit before tax,12  Mar-16*,25371.0,TORR
+51,Minority Interest,12  Mar-16*,0.0,TORR
+52,Prior Period Items,12  Mar-16*,0.0,TORR
+53,Extraordinary Inc (Exp),12  Mar-16*,-1936.0,TORR
+54,Tax,12  Mar-16*,6102.0,TORR
+55,Profit after tax,12  Mar-16*,17333.0,TORR
+56,Gross profit margin,12  Mar-16*,40.9,TORR
+57,Effective tax rate,12  Mar-16*,24.1,TORR
+58,Net profit margin,12  Mar-16*,26.0,TORR
+59,Current assets,12  Mar-16*,46882.0,TORR
+60,Current liabilities,12  Mar-16*,32855.0,TORR
+61,Net working cap to sales,12  Mar-16*,21.0,TORR
+62,Current ratio,12  Mar-16*,1.4,TORR
+63,Inventory Days,12  Mar-16*,74.0,TORR
+64,Debtors Days,12  Mar-16*,79.0,TORR
+65,Net fixed assets,12  Mar-16*,39007.0,TORR
+66,Share capital,12  Mar-16*,846.0,TORR
+67,"""Free"" reserves",12  Mar-16*,34095.0,TORR
+68,Net worth,12  Mar-16*,34941.0,TORR
+69,Long term debt,12  Mar-16*,18501.0,TORR
+70,Total assets,12  Mar-16*,90579.0,TORR
+71,Interest coverage,12  Mar-16*,14.8,TORR
+72,Debt to equity ratio,12  Mar-16*,0.5,TORR
+73,Sales to assets ratio,12  Mar-16*,0.7,TORR
+74,Return on assets,12  Mar-16*,21.2,TORR
+75,Return on equity,12  Mar-16*,49.6,TORR
+76,Return on capital,12  Mar-16*,47.3,TORR
+77,Exports to sales,12  Mar-16*,43.3,TORR
+78,Imports to sales,12  Mar-16*,6.9,TORR
+79,Exports (fob),12  Mar-16*,28934.0,TORR
+80,Imports (cif),12  Mar-16*,4584.0,TORR
+81,Fx inflow,12  Mar-16*,29185.0,TORR
+82,Fx outflow,12  Mar-16*,6021.0,TORR
+83,Net fx,12  Mar-16*,23165.0,TORR
+84,From Operations,12  Mar-16*,27421.0,TORR
+85,From Investments,12  Mar-16*,-8379.0,TORR
+86,From Financial Activity,12  Mar-16*,-14352.0,TORR
+87,Net Cashflow,12  Mar-16*,4375.0,TORR
+88,Net Sales,12  Mar-17*,58569.0,TORR
+89,Other income,12  Mar-17*,2233.0,TORR
+90,Total revenues,12  Mar-17*,60802.0,TORR
+91,Gross profit,12  Mar-17*,13773.0,TORR
+92,Depreciation,12  Mar-17*,3069.0,TORR
+93,Interest,12  Mar-17*,2056.0,TORR
+94,Profit before tax,12  Mar-17*,10881.0,TORR
+95,Minority Interest,12  Mar-17*,0.0,TORR
+96,Prior Period Items,12  Mar-17*,0.0,TORR
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TORR
+98,Tax,12  Mar-17*,1545.0,TORR
+99,Profit after tax,12  Mar-17*,9336.0,TORR
+100,Gross profit margin,12  Mar-17*,23.5,TORR
+101,Effective tax rate,12  Mar-17*,14.2,TORR
+102,Net profit margin,12  Mar-17*,15.9,TORR
+103,Current assets,12  Mar-17*,48794.0,TORR
+104,Current liabilities,12  Mar-17*,27383.0,TORR
+105,Net working cap to sales,12  Mar-17*,36.6,TORR
+106,Current ratio,12  Mar-17*,1.8,TORR
+107,Inventory Days,12  Mar-17*,97.0,TORR
+108,Debtors Days,12  Mar-17*,59.0,TORR
+109,Net fixed assets,12  Mar-17*,42079.0,TORR
+110,Share capital,12  Mar-17*,846.0,TORR
+111,"""Free"" reserves",12  Mar-17*,42655.0,TORR
+112,Net worth,12  Mar-17*,43501.0,TORR
+113,Long term debt,12  Mar-17*,22408.0,TORR
+114,Total assets,12  Mar-17*,97021.0,TORR
+115,Interest coverage,12  Mar-17*,6.3,TORR
+116,Debt to equity ratio,12  Mar-17*,0.5,TORR
+117,Sales to assets ratio,12  Mar-17*,0.6,TORR
+118,Return on assets,12  Mar-17*,11.7,TORR
+119,Return on equity,12  Mar-17*,21.5,TORR
+120,Return on capital,12  Mar-17*,19.6,TORR
+121,Exports to sales,12  Mar-17*,0.0,TORR
+122,Imports to sales,12  Mar-17*,0.0,TORR
+123,Exports (fob),12  Mar-17*,0.0,TORR
+124,Imports (cif),12  Mar-17*,0.0,TORR
+125,Fx inflow,12  Mar-17*,20066.0,TORR
+126,Fx outflow,12  Mar-17*,5304.0,TORR
+127,Net fx,12  Mar-17*,14762.0,TORR
+128,From Operations,12  Mar-17*,10088.0,TORR
+129,From Investments,12  Mar-17*,-7869.0,TORR
+130,From Financial Activity,12  Mar-17*,-1929.0,TORR
+131,Net Cashflow,12  Mar-17*,177.0,TORR
+132,Net Sales,12  Mar-18*,59498.0,TORR
+133,Other income,12  Mar-18*,2988.0,TORR
+134,Total revenues,12  Mar-18*,62487.0,TORR
+135,Gross profit,12  Mar-18*,13493.0,TORR
+136,Depreciation,12  Mar-18*,4086.0,TORR
+137,Interest,12  Mar-18*,3085.0,TORR
+138,Profit before tax,12  Mar-18*,9310.0,TORR
+139,Minority Interest,12  Mar-18*,0.0,TORR
+140,Prior Period Items,12  Mar-18*,0.0,TORR
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,TORR
+142,Tax,12  Mar-18*,2529.0,TORR
+143,Profit after tax,12  Mar-18*,6781.0,TORR
+144,Gross profit margin,12  Mar-18*,22.7,TORR
+145,Effective tax rate,12  Mar-18*,27.2,TORR
+146,Net profit margin,12  Mar-18*,11.4,TORR
+147,Current assets,12  Mar-18*,52623.0,TORR
+148,Current liabilities,12  Mar-18*,52022.0,TORR
+149,Net working cap to sales,12  Mar-18*,1.0,TORR
+150,Current ratio,12  Mar-18*,1.0,TORR
+151,Inventory Days,12  Mar-18*,121.0,TORR
+152,Debtors Days,12  Mar-18*,77.0,TORR
+153,Net fixed assets,12  Mar-18*,85016.0,TORR
+154,Share capital,12  Mar-18*,846.0,TORR
+155,"""Free"" reserves",12  Mar-18*,45376.0,TORR
+156,Net worth,12  Mar-18*,46222.0,TORR
+157,Long term debt,12  Mar-18*,41115.0,TORR
+158,Total assets,12  Mar-18*,142432.0,TORR
+159,Interest coverage,12  Mar-18*,4.0,TORR
+160,Debt to equity ratio,12  Mar-18*,0.9,TORR
+161,Sales to assets ratio,12  Mar-18*,0.4,TORR
+162,Return on assets,12  Mar-18*,6.9,TORR
+163,Return on equity,12  Mar-18*,14.7,TORR
+164,Return on capital,12  Mar-18*,14.2,TORR
+165,Exports to sales,12  Mar-18*,0.0,TORR
+166,Imports to sales,12  Mar-18*,0.0,TORR
+167,Exports (fob),12  Mar-18*,0.0,TORR
+168,Imports (cif),12  Mar-18*,0.0,TORR
+169,Fx inflow,12  Mar-18*,14580.0,TORR
+170,Fx outflow,12  Mar-18*,3600.0,TORR
+171,Net fx,12  Mar-18*,10980.0,TORR
+172,From Operations,12  Mar-18*,8942.0,TORR
+173,From Investments,12  Mar-18*,-47070.0,TORR
+174,From Financial Activity,12  Mar-18*,34174.0,TORR
+175,Net Cashflow,12  Mar-18*,-3655.0,TORR
+176,Net Sales,12  Mar-19*,76728.0,TORR
+177,Other income,12  Mar-19*,571.0,TORR
+178,Total revenues,12  Mar-19*,77299.0,TORR
+179,Gross profit,12  Mar-19*,19831.0,TORR
+180,Depreciation,12  Mar-19*,6177.0,TORR
+181,Interest,12  Mar-19*,5038.0,TORR
+182,Profit before tax,12  Mar-19*,9187.0,TORR
+183,Minority Interest,12  Mar-19*,0.0,TORR
+184,Prior Period Items,12  Mar-19*,0.0,TORR
+185,Extraordinary Inc (Exp),12  Mar-19*,-3570.0,TORR
+186,Tax,12  Mar-19*,1254.0,TORR
+187,Profit after tax,12  Mar-19*,4363.0,TORR
+188,Gross profit margin,12  Mar-19*,25.8,TORR
+189,Effective tax rate,12  Mar-19*,13.6,TORR
+190,Net profit margin,12  Mar-19*,5.7,TORR
+191,Current assets,12  Mar-19*,50375.0,TORR
+192,Current liabilities,12  Mar-19*,51653.0,TORR
+193,Net working cap to sales,12  Mar-19*,-1.7,TORR
+194,Current ratio,12  Mar-19*,1.0,TORR
+195,Inventory Days,12  Mar-19*,92.0,TORR
+196,Debtors Days,12  Mar-19*,68.0,TORR
+197,Net fixed assets,12  Mar-19*,83648.0,TORR
+198,Share capital,12  Mar-19*,846.0,TORR
+199,"""Free"" reserves",12  Mar-19*,46397.0,TORR
+200,Net worth,12  Mar-19*,47244.0,TORR
+201,Long term debt,12  Mar-19*,39129.0,TORR
+202,Total assets,12  Mar-19*,141209.0,TORR
+203,Interest coverage,12  Mar-19*,2.8,TORR
+204,Debt to equity ratio,12  Mar-19*,0.8,TORR
+205,Sales to assets ratio,12  Mar-19*,0.5,TORR
+206,Return on assets,12  Mar-19*,6.7,TORR
+207,Return on equity,12  Mar-19*,9.2,TORR
+208,Return on capital,12  Mar-19*,12.3,TORR
+209,Exports to sales,12  Mar-19*,0.0,TORR
+210,Imports to sales,12  Mar-19*,0.0,TORR
+211,Exports (fob),12  Mar-19*,0.0,TORR
+212,Imports (cif),12  Mar-19*,0.0,TORR
+213,Fx inflow,12  Mar-19*,22103.0,TORR
+214,Fx outflow,12  Mar-19*,5522.0,TORR
+215,Net fx,12  Mar-19*,16581.0,TORR
+216,From Operations,12  Mar-19*,17981.0,TORR
+217,From Investments,12  Mar-19*,-2413.0,TORR
+218,From Financial Activity,12  Mar-19*,-13145.0,TORR
+219,Net Cashflow,12  Mar-19*,2380.0,TORR

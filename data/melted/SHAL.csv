@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4333.0,SHAL
+1,Other income,12  Mar-15*,17.0,SHAL
+2,Total revenues,12  Mar-15*,4350.0,SHAL
+3,Gross profit,12  Mar-15*,88.0,SHAL
+4,Depreciation,12  Mar-15*,48.0,SHAL
+5,Interest,12  Mar-15*,207.0,SHAL
+6,Profit before tax,12  Mar-15*,-149.0,SHAL
+7,Minority Interest,12  Mar-15*,0.0,SHAL
+8,Prior Period Items,12  Mar-15*,0.0,SHAL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,SHAL
+10,Tax,12  Mar-15*,-43.0,SHAL
+11,Profit after tax,12  Mar-15*,-106.0,SHAL
+12,Gross profit margin,12  Mar-15*,2.0,SHAL
+13,Effective tax rate,12  Mar-15*,28.7,SHAL
+14,Net profit margin,12  Mar-15*,-2.4,SHAL
+15,Current assets,12  Mar-15*,3002.0,SHAL
+16,Current liabilities,12  Mar-15*,2942.0,SHAL
+17,Net working cap to sales,12  Mar-15*,1.4,SHAL
+18,Current ratio,12  Mar-15*,1.0,SHAL
+19,Inventory Days,12  Mar-15*,89.0,SHAL
+20,Debtors Days,12  Mar-15*,129.0,SHAL
+21,Net fixed assets,12  Mar-15*,768.0,SHAL
+22,Share capital,12  Mar-15*,38.0,SHAL
+23,"""Free"" reserves",12  Mar-15*,578.0,SHAL
+24,Net worth,12  Mar-15*,616.0,SHAL
+25,Long term debt,12  Mar-15*,184.0,SHAL
+26,Total assets,12  Mar-15*,3820.0,SHAL
+27,Interest coverage,12  Mar-15*,0.3,SHAL
+28,Debt to equity ratio,12  Mar-15*,0.3,SHAL
+29,Sales to assets ratio,12  Mar-15*,1.1,SHAL
+30,Return on assets,12  Mar-15*,2.6,SHAL
+31,Return on equity,12  Mar-15*,-17.2,SHAL
+32,Return on capital,12  Mar-15*,7.2,SHAL
+33,Exports to sales,12  Mar-15*,0.7,SHAL
+34,Imports to sales,12  Mar-15*,5.1,SHAL
+35,Exports (fob),12  Mar-15*,31.0,SHAL
+36,Imports (cif),12  Mar-15*,221.0,SHAL
+37,Fx inflow,12  Mar-15*,34.0,SHAL
+38,Fx outflow,12  Mar-15*,280.0,SHAL
+39,Net fx,12  Mar-15*,-246.0,SHAL
+40,From Operations,12  Mar-15*,380.0,SHAL
+41,From Investments,12  Mar-15*,-258.0,SHAL
+42,From Financial Activity,12  Mar-15*,-157.0,SHAL
+43,Net Cashflow,12  Mar-15*,-35.0,SHAL
+44,Net Sales,12  Mar-16*,4029.0,SHAL
+45,Other income,12  Mar-16*,3.0,SHAL
+46,Total revenues,12  Mar-16*,4032.0,SHAL
+47,Gross profit,12  Mar-16*,312.0,SHAL
+48,Depreciation,12  Mar-16*,50.0,SHAL
+49,Interest,12  Mar-16*,222.0,SHAL
+50,Profit before tax,12  Mar-16*,43.0,SHAL
+51,Minority Interest,12  Mar-16*,0.0,SHAL
+52,Prior Period Items,12  Mar-16*,0.0,SHAL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SHAL
+54,Tax,12  Mar-16*,-10.0,SHAL
+55,Profit after tax,12  Mar-16*,53.0,SHAL
+56,Gross profit margin,12  Mar-16*,7.7,SHAL
+57,Effective tax rate,12  Mar-16*,-22.7,SHAL
+58,Net profit margin,12  Mar-16*,1.3,SHAL
+59,Current assets,12  Mar-16*,3054.0,SHAL
+60,Current liabilities,12  Mar-16*,2837.0,SHAL
+61,Net working cap to sales,12  Mar-16*,5.4,SHAL
+62,Current ratio,12  Mar-16*,1.1,SHAL
+63,Inventory Days,12  Mar-16*,100.0,SHAL
+64,Debtors Days,12  Mar-16*,130.0,SHAL
+65,Net fixed assets,12  Mar-16*,2375.0,SHAL
+66,Share capital,12  Mar-16*,38.0,SHAL
+67,"""Free"" reserves",12  Mar-16*,1893.0,SHAL
+68,Net worth,12  Mar-16*,1931.0,SHAL
+69,Long term debt,12  Mar-16*,336.0,SHAL
+70,Total assets,12  Mar-16*,5452.0,SHAL
+71,Interest coverage,12  Mar-16*,1.2,SHAL
+72,Debt to equity ratio,12  Mar-16*,0.2,SHAL
+73,Sales to assets ratio,12  Mar-16*,0.7,SHAL
+74,Return on assets,12  Mar-16*,5.0,SHAL
+75,Return on equity,12  Mar-16*,2.7,SHAL
+76,Return on capital,12  Mar-16*,11.7,SHAL
+77,Exports to sales,12  Mar-16*,0.7,SHAL
+78,Imports to sales,12  Mar-16*,3.9,SHAL
+79,Exports (fob),12  Mar-16*,28.0,SHAL
+80,Imports (cif),12  Mar-16*,158.0,SHAL
+81,Fx inflow,12  Mar-16*,28.0,SHAL
+82,Fx outflow,12  Mar-16*,160.0,SHAL
+83,Net fx,12  Mar-16*,-132.0,SHAL
+84,From Operations,12  Mar-16*,231.0,SHAL
+85,From Investments,12  Mar-16*,-81.0,SHAL
+86,From Financial Activity,12  Mar-16*,-70.0,SHAL
+87,Net Cashflow,12  Mar-16*,81.0,SHAL
+88,Net Sales,12  Mar-17*,3498.0,SHAL
+89,Other income,12  Mar-17*,20.0,SHAL
+90,Total revenues,12  Mar-17*,3518.0,SHAL
+91,Gross profit,12  Mar-17*,135.0,SHAL
+92,Depreciation,12  Mar-17*,81.0,SHAL
+93,Interest,12  Mar-17*,226.0,SHAL
+94,Profit before tax,12  Mar-17*,-152.0,SHAL
+95,Minority Interest,12  Mar-17*,0.0,SHAL
+96,Prior Period Items,12  Mar-17*,0.0,SHAL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SHAL
+98,Tax,12  Mar-17*,-55.0,SHAL
+99,Profit after tax,12  Mar-17*,-97.0,SHAL
+100,Gross profit margin,12  Mar-17*,3.9,SHAL
+101,Effective tax rate,12  Mar-17*,36.3,SHAL
+102,Net profit margin,12  Mar-17*,-2.8,SHAL
+103,Current assets,12  Mar-17*,2892.0,SHAL
+104,Current liabilities,12  Mar-17*,2985.0,SHAL
+105,Net working cap to sales,12  Mar-17*,-2.7,SHAL
+106,Current ratio,12  Mar-17*,1.0,SHAL
+107,Inventory Days,12  Mar-17*,97.0,SHAL
+108,Debtors Days,12  Mar-17*,130.0,SHAL
+109,Net fixed assets,12  Mar-17*,2355.0,SHAL
+110,Share capital,12  Mar-17*,38.0,SHAL
+111,"""Free"" reserves",12  Mar-17*,1800.0,SHAL
+112,Net worth,12  Mar-17*,1838.0,SHAL
+113,Long term debt,12  Mar-17*,237.0,SHAL
+114,Total assets,12  Mar-17*,5346.0,SHAL
+115,Interest coverage,12  Mar-17*,0.3,SHAL
+116,Debt to equity ratio,12  Mar-17*,0.1,SHAL
+117,Sales to assets ratio,12  Mar-17*,0.7,SHAL
+118,Return on assets,12  Mar-17*,2.4,SHAL
+119,Return on equity,12  Mar-17*,-5.3,SHAL
+120,Return on capital,12  Mar-17*,3.5,SHAL
+121,Exports to sales,12  Mar-17*,1.1,SHAL
+122,Imports to sales,12  Mar-17*,4.9,SHAL
+123,Exports (fob),12  Mar-17*,38.0,SHAL
+124,Imports (cif),12  Mar-17*,173.0,SHAL
+125,Fx inflow,12  Mar-17*,47.0,SHAL
+126,Fx outflow,12  Mar-17*,180.0,SHAL
+127,Net fx,12  Mar-17*,-133.0,SHAL
+128,From Operations,12  Mar-17*,344.0,SHAL
+129,From Investments,12  Mar-17*,-160.0,SHAL
+130,From Financial Activity,12  Mar-17*,-189.0,SHAL
+131,Net Cashflow,12  Mar-17*,-5.0,SHAL
+132,Net Sales,12  Mar-18*,2712.0,SHAL
+133,Other income,12  Mar-18*,6.0,SHAL
+134,Total revenues,12  Mar-18*,2718.0,SHAL
+135,Gross profit,12  Mar-18*,-341.0,SHAL
+136,Depreciation,12  Mar-18*,79.0,SHAL
+137,Interest,12  Mar-18*,260.0,SHAL
+138,Profit before tax,12  Mar-18*,-674.0,SHAL
+139,Minority Interest,12  Mar-18*,0.0,SHAL
+140,Prior Period Items,12  Mar-18*,0.0,SHAL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SHAL
+142,Tax,12  Mar-18*,-218.0,SHAL
+143,Profit after tax,12  Mar-18*,-456.0,SHAL
+144,Gross profit margin,12  Mar-18*,-12.6,SHAL
+145,Effective tax rate,12  Mar-18*,32.4,SHAL
+146,Net profit margin,12  Mar-18*,-16.8,SHAL
+147,Current assets,12  Mar-18*,2409.0,SHAL
+148,Current liabilities,12  Mar-18*,3243.0,SHAL
+149,Net working cap to sales,12  Mar-18*,-30.7,SHAL
+150,Current ratio,12  Mar-18*,0.7,SHAL
+151,Inventory Days,12  Mar-18*,100.0,SHAL
+152,Debtors Days,12  Mar-18*,142.0,SHAL
+153,Net fixed assets,12  Mar-18*,2503.0,SHAL
+154,Share capital,12  Mar-18*,38.0,SHAL
+155,"""Free"" reserves",12  Mar-18*,1343.0,SHAL
+156,Net worth,12  Mar-18*,1380.0,SHAL
+157,Long term debt,12  Mar-18*,249.0,SHAL
+158,Total assets,12  Mar-18*,4942.0,SHAL
+159,Interest coverage,12  Mar-18*,-1.6,SHAL
+160,Debt to equity ratio,12  Mar-18*,0.2,SHAL
+161,Sales to assets ratio,12  Mar-18*,0.5,SHAL
+162,Return on assets,12  Mar-18*,-4.0,SHAL
+163,Return on equity,12  Mar-18*,-33.0,SHAL
+164,Return on capital,12  Mar-18*,-25.4,SHAL
+165,Exports to sales,12  Mar-18*,3.0,SHAL
+166,Imports to sales,12  Mar-18*,5.0,SHAL
+167,Exports (fob),12  Mar-18*,81.0,SHAL
+168,Imports (cif),12  Mar-18*,137.0,SHAL
+169,Fx inflow,12  Mar-18*,101.0,SHAL
+170,Fx outflow,12  Mar-18*,148.0,SHAL
+171,Net fx,12  Mar-18*,-47.0,SHAL
+172,From Operations,12  Mar-18*,358.0,SHAL
+173,From Investments,12  Mar-18*,-105.0,SHAL
+174,From Financial Activity,12  Mar-18*,-179.0,SHAL
+175,Net Cashflow,12  Mar-18*,74.0,SHAL
+176,Net Sales,12  Mar-19*,2876.0,SHAL
+177,Other income,12  Mar-19*,20.0,SHAL
+178,Total revenues,12  Mar-19*,2897.0,SHAL
+179,Gross profit,12  Mar-19*,-777.0,SHAL
+180,Depreciation,12  Mar-19*,85.0,SHAL
+181,Interest,12  Mar-19*,249.0,SHAL
+182,Profit before tax,12  Mar-19*,-1091.0,SHAL
+183,Minority Interest,12  Mar-19*,0.0,SHAL
+184,Prior Period Items,12  Mar-19*,0.0,SHAL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SHAL
+186,Tax,12  Mar-19*,-274.0,SHAL
+187,Profit after tax,12  Mar-19*,-817.0,SHAL
+188,Gross profit margin,12  Mar-19*,-27.0,SHAL
+189,Effective tax rate,12  Mar-19*,25.1,SHAL
+190,Net profit margin,12  Mar-19*,-28.4,SHAL
+191,Current assets,12  Mar-19*,2903.0,SHAL
+192,Current liabilities,12  Mar-19*,2623.0,SHAL
+193,Net working cap to sales,12  Mar-19*,9.7,SHAL
+194,Current ratio,12  Mar-19*,1.1,SHAL
+195,Inventory Days,12  Mar-19*,91.0,SHAL
+196,Debtors Days,12  Mar-19*,126.0,SHAL
+197,Net fixed assets,12  Mar-19*,2679.0,SHAL
+198,Share capital,12  Mar-19*,107.0,SHAL
+199,"""Free"" reserves",12  Mar-19*,2946.0,SHAL
+200,Net worth,12  Mar-19*,3053.0,SHAL
+201,Long term debt,12  Mar-19*,181.0,SHAL
+202,Total assets,12  Mar-19*,5928.0,SHAL
+203,Interest coverage,12  Mar-19*,-3.4,SHAL
+204,Debt to equity ratio,12  Mar-19*,0.1,SHAL
+205,Sales to assets ratio,12  Mar-19*,0.5,SHAL
+206,Return on assets,12  Mar-19*,-9.6,SHAL
+207,Return on equity,12  Mar-19*,-26.8,SHAL
+208,Return on capital,12  Mar-19*,-26.0,SHAL
+209,Exports to sales,12  Mar-19*,0.0,SHAL
+210,Imports to sales,12  Mar-19*,0.0,SHAL
+211,Exports (fob),12  Mar-19*,0.0,SHAL
+212,Imports (cif),12  Mar-19*,0.0,SHAL
+213,Fx inflow,12  Mar-19*,41.0,SHAL
+214,Fx outflow,12  Mar-19*,54.0,SHAL
+215,Net fx,12  Mar-19*,-14.0,SHAL
+216,From Operations,12  Mar-19*,-958.0,SHAL
+217,From Investments,12  Mar-19*,-320.0,SHAL
+218,From Financial Activity,12  Mar-19*,1980.0,SHAL
+219,Net Cashflow,12  Mar-19*,702.0,SHAL

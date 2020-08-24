@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,1973.0,MACM
+1,Other income,12  Mar-14*,67.0,MACM
+2,Total revenues,12  Mar-14*,2040.0,MACM
+3,Gross profit,12  Mar-14*,630.0,MACM
+4,Depreciation,12  Mar-14*,53.0,MACM
+5,Interest,12  Mar-14*,4.0,MACM
+6,Profit before tax,12  Mar-14*,640.0,MACM
+7,Minority Interest,12  Mar-14*,0.0,MACM
+8,Prior Period Items,12  Mar-14*,0.0,MACM
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,MACM
+10,Tax,12  Mar-14*,218.0,MACM
+11,Profit after tax,12  Mar-14*,421.0,MACM
+12,Gross profit margin,12  Mar-14*,31.9,MACM
+13,Effective tax rate,12  Mar-14*,34.1,MACM
+14,Net profit margin,12  Mar-14*,21.4,MACM
+15,Current assets,12  Mar-14*,714.0,MACM
+16,Current liabilities,12  Mar-14*,257.0,MACM
+17,Net working cap to sales,12  Mar-14*,23.2,MACM
+18,Current ratio,12  Mar-14*,2.8,MACM
+19,Inventory Days,12  Mar-14*,14.0,MACM
+20,Debtors Days,12  Mar-14*,59.0,MACM
+21,Net fixed assets,12  Mar-14*,239.0,MACM
+22,Share capital,12  Mar-14*,168.0,MACM
+23,"""Free"" reserves",12  Mar-14*,745.0,MACM
+24,Net worth,12  Mar-14*,917.0,MACM
+25,Long term debt,12  Mar-14*,0.0,MACM
+26,Total assets,12  Mar-14*,1175.0,MACM
+27,Interest coverage,12  Mar-14*,169.3,MACM
+28,Debt to equity ratio,12  Mar-14*,0.0,MACM
+29,Sales to assets ratio,12  Mar-14*,1.7,MACM
+30,Return on assets,12  Mar-14*,36.2,MACM
+31,Return on equity,12  Mar-14*,45.9,MACM
+32,Return on capital,12  Mar-14*,70.1,MACM
+33,Exports to sales,12  Mar-14*,95.4,MACM
+34,Imports to sales,12  Mar-14*,0.2,MACM
+35,Exports (fob),12  Mar-14*,1883.0,MACM
+36,Imports (cif),12  Mar-14*,3.0,MACM
+37,Fx inflow,12  Mar-14*,1883.0,MACM
+38,Fx outflow,12  Mar-14*,127.0,MACM
+39,Net fx,12  Mar-14*,1756.0,MACM
+40,From Operations,12  Mar-14*,377.0,MACM
+41,From Investments,12  Mar-14*,-50.0,MACM
+42,From Financial Activity,12  Mar-14*,-337.0,MACM
+43,Net Cashflow,12  Mar-14*,-10.0,MACM
+44,Net Sales,12  Mar-15*,2239.0,MACM
+45,Other income,12  Mar-15*,108.0,MACM
+46,Total revenues,12  Mar-15*,2346.0,MACM
+47,Gross profit,12  Mar-15*,881.0,MACM
+48,Depreciation,12  Mar-15*,55.0,MACM
+49,Interest,12  Mar-15*,3.0,MACM
+50,Profit before tax,12  Mar-15*,931.0,MACM
+51,Minority Interest,12  Mar-15*,0.0,MACM
+52,Prior Period Items,12  Mar-15*,0.0,MACM
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,MACM
+54,Tax,12  Mar-15*,317.0,MACM
+55,Profit after tax,12  Mar-15*,614.0,MACM
+56,Gross profit margin,12  Mar-15*,39.3,MACM
+57,Effective tax rate,12  Mar-15*,34.0,MACM
+58,Net profit margin,12  Mar-15*,27.4,MACM
+59,Current assets,12  Mar-15*,2272.0,MACM
+60,Current liabilities,12  Mar-15*,256.0,MACM
+61,Net working cap to sales,12  Mar-15*,90.0,MACM
+62,Current ratio,12  Mar-15*,8.9,MACM
+63,Inventory Days,12  Mar-15*,13.0,MACM
+64,Debtors Days,12  Mar-15*,64.0,MACM
+65,Net fixed assets,12  Mar-15*,326.0,MACM
+66,Share capital,12  Mar-15*,186.0,MACM
+67,"""Free"" reserves",12  Mar-15*,2364.0,MACM
+68,Net worth,12  Mar-15*,2561.0,MACM
+69,Long term debt,12  Mar-15*,0.0,MACM
+70,Total assets,12  Mar-15*,2825.0,MACM
+71,Interest coverage,12  Mar-15*,322.0,MACM
+72,Debt to equity ratio,12  Mar-15*,0.0,MACM
+73,Sales to assets ratio,12  Mar-15*,0.8,MACM
+74,Return on assets,12  Mar-15*,21.9,MACM
+75,Return on equity,12  Mar-15*,24.0,MACM
+76,Return on capital,12  Mar-15*,36.5,MACM
+77,Exports to sales,12  Mar-15*,90.8,MACM
+78,Imports to sales,12  Mar-15*,0.0,MACM
+79,Exports (fob),12  Mar-15*,2032.0,MACM
+80,Imports (cif),12  Mar-15*,0.0,MACM
+81,Fx inflow,12  Mar-15*,2032.0,MACM
+82,Fx outflow,12  Mar-15*,120.0,MACM
+83,Net fx,12  Mar-15*,1912.0,MACM
+84,From Operations,12  Mar-15*,504.0,MACM
+85,From Investments,12  Mar-15*,-1495.0,MACM
+86,From Financial Activity,12  Mar-15*,1036.0,MACM
+87,Net Cashflow,12  Mar-15*,45.0,MACM
+88,Net Sales,12  Mar-16*,2572.0,MACM
+89,Other income,12  Mar-16*,184.0,MACM
+90,Total revenues,12  Mar-16*,2756.0,MACM
+91,Gross profit,12  Mar-16*,910.0,MACM
+92,Depreciation,12  Mar-16*,41.0,MACM
+93,Interest,12  Mar-16*,1.0,MACM
+94,Profit before tax,12  Mar-16*,1052.0,MACM
+95,Minority Interest,12  Mar-16*,0.0,MACM
+96,Prior Period Items,12  Mar-16*,0.0,MACM
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,MACM
+98,Tax,12  Mar-16*,339.0,MACM
+99,Profit after tax,12  Mar-16*,712.0,MACM
+100,Gross profit margin,12  Mar-16*,35.4,MACM
+101,Effective tax rate,12  Mar-16*,32.2,MACM
+102,Net profit margin,12  Mar-16*,27.7,MACM
+103,Current assets,12  Mar-16*,2420.0,MACM
+104,Current liabilities,12  Mar-16*,239.0,MACM
+105,Net working cap to sales,12  Mar-16*,84.8,MACM
+106,Current ratio,12  Mar-16*,10.1,MACM
+107,Inventory Days,12  Mar-16*,0.0,MACM
+108,Debtors Days,12  Mar-16*,64.0,MACM
+109,Net fixed assets,12  Mar-16*,359.0,MACM
+110,Share capital,12  Mar-16*,186.0,MACM
+111,"""Free"" reserves",12  Mar-16*,2583.0,MACM
+112,Net worth,12  Mar-16*,2794.0,MACM
+113,Long term debt,12  Mar-16*,0.0,MACM
+114,Total assets,12  Mar-16*,3050.0,MACM
+115,Interest coverage,12  Mar-16*,956.9,MACM
+116,Debt to equity ratio,12  Mar-16*,0.0,MACM
+117,Sales to assets ratio,12  Mar-16*,0.8,MACM
+118,Return on assets,12  Mar-16*,23.4,MACM
+119,Return on equity,12  Mar-16*,25.5,MACM
+120,Return on capital,12  Mar-16*,37.7,MACM
+121,Exports to sales,12  Mar-16*,87.1,MACM
+122,Imports to sales,12  Mar-16*,0.3,MACM
+123,Exports (fob),12  Mar-16*,2240.0,MACM
+124,Imports (cif),12  Mar-16*,8.0,MACM
+125,Fx inflow,12  Mar-16*,2240.0,MACM
+126,Fx outflow,12  Mar-16*,156.0,MACM
+127,Net fx,12  Mar-16*,2084.0,MACM
+128,From Operations,12  Mar-16*,488.0,MACM
+129,From Investments,12  Mar-16*,-33.0,MACM
+130,From Financial Activity,12  Mar-16*,-494.0,MACM
+131,Net Cashflow,12  Mar-16*,-39.0,MACM
+132,Net Sales,12  Mar-17*,2887.0,MACM
+133,Other income,12  Mar-17*,194.0,MACM
+134,Total revenues,12  Mar-17*,3081.0,MACM
+135,Gross profit,12  Mar-17*,933.0,MACM
+136,Depreciation,12  Mar-17*,59.0,MACM
+137,Interest,12  Mar-17*,2.0,MACM
+138,Profit before tax,12  Mar-17*,1067.0,MACM
+139,Minority Interest,12  Mar-17*,0.0,MACM
+140,Prior Period Items,12  Mar-17*,0.0,MACM
+141,Extraordinary Inc (Exp),12  Mar-17*,-41.0,MACM
+142,Tax,12  Mar-17*,321.0,MACM
+143,Profit after tax,12  Mar-17*,704.0,MACM
+144,Gross profit margin,12  Mar-17*,32.3,MACM
+145,Effective tax rate,12  Mar-17*,30.1,MACM
+146,Net profit margin,12  Mar-17*,24.4,MACM
+147,Current assets,12  Mar-17*,3099.0,MACM
+148,Current liabilities,12  Mar-17*,282.0,MACM
+149,Net working cap to sales,12  Mar-17*,97.6,MACM
+150,Current ratio,12  Mar-17*,11.0,MACM
+151,Inventory Days,12  Mar-17*,0.0,MACM
+152,Debtors Days,12  Mar-17*,76.0,MACM
+153,Net fixed assets,12  Mar-17*,474.0,MACM
+154,Share capital,12  Mar-17*,186.0,MACM
+155,"""Free"" reserves",12  Mar-17*,3293.0,MACM
+156,Net worth,12  Mar-17*,3479.0,MACM
+157,Long term debt,12  Mar-17*,0.0,MACM
+158,Total assets,12  Mar-17*,3814.0,MACM
+159,Interest coverage,12  Mar-17*,628.4,MACM
+160,Debt to equity ratio,12  Mar-17*,0.0,MACM
+161,Sales to assets ratio,12  Mar-17*,0.8,MACM
+162,Return on assets,12  Mar-17*,18.5,MACM
+163,Return on equity,12  Mar-17*,20.2,MACM
+164,Return on capital,12  Mar-17*,29.5,MACM
+165,Exports to sales,12  Mar-17*,0.0,MACM
+166,Imports to sales,12  Mar-17*,0.0,MACM
+167,Exports (fob),12  Mar-17*,0.0,MACM
+168,Imports (cif),12  Mar-17*,0.0,MACM
+169,Fx inflow,12  Mar-17*,2234.0,MACM
+170,Fx outflow,12  Mar-17*,126.0,MACM
+171,Net fx,12  Mar-17*,2108.0,MACM
+172,From Operations,12  Mar-17*,447.0,MACM
+173,From Investments,12  Mar-17*,-398.0,MACM
+174,From Financial Activity,12  Mar-17*,-2.0,MACM
+175,Net Cashflow,12  Mar-17*,25.0,MACM
+176,Net Sales,12  Mar-18*,2670.0,MACM
+177,Other income,12  Mar-18*,230.0,MACM
+178,Total revenues,12  Mar-18*,2900.0,MACM
+179,Gross profit,12  Mar-18*,871.0,MACM
+180,Depreciation,12  Mar-18*,81.0,MACM
+181,Interest,12  Mar-18*,1.0,MACM
+182,Profit before tax,12  Mar-18*,1019.0,MACM
+183,Minority Interest,12  Mar-18*,0.0,MACM
+184,Prior Period Items,12  Mar-18*,0.0,MACM
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,MACM
+186,Tax,12  Mar-18*,317.0,MACM
+187,Profit after tax,12  Mar-18*,702.0,MACM
+188,Gross profit margin,12  Mar-18*,32.6,MACM
+189,Effective tax rate,12  Mar-18*,31.1,MACM
+190,Net profit margin,12  Mar-18*,26.3,MACM
+191,Current assets,12  Mar-18*,3906.0,MACM
+192,Current liabilities,12  Mar-18*,277.0,MACM
+193,Net working cap to sales,12  Mar-18*,135.9,MACM
+194,Current ratio,12  Mar-18*,14.1,MACM
+195,Inventory Days,12  Mar-18*,0.0,MACM
+196,Debtors Days,12  Mar-18*,63.0,MACM
+197,Net fixed assets,12  Mar-18*,488.0,MACM
+198,Share capital,12  Mar-18*,186.0,MACM
+199,"""Free"" reserves",12  Mar-18*,4001.0,MACM
+200,Net worth,12  Mar-18*,4187.0,MACM
+201,Long term debt,12  Mar-18*,0.0,MACM
+202,Total assets,12  Mar-18*,4513.0,MACM
+203,Interest coverage,12  Mar-18*,784.5,MACM
+204,Debt to equity ratio,12  Mar-18*,0.0,MACM
+205,Sales to assets ratio,12  Mar-18*,0.6,MACM
+206,Return on assets,12  Mar-18*,15.6,MACM
+207,Return on equity,12  Mar-18*,16.8,MACM
+208,Return on capital,12  Mar-18*,24.4,MACM
+209,Exports to sales,12  Mar-18*,0.0,MACM
+210,Imports to sales,12  Mar-18*,0.0,MACM
+211,Exports (fob),12  Mar-18*,0.0,MACM
+212,Imports (cif),12  Mar-18*,0.0,MACM
+213,Fx inflow,12  Mar-18*,2182.0,MACM
+214,Fx outflow,12  Mar-18*,170.0,MACM
+215,Net fx,12  Mar-18*,2011.0,MACM
+216,From Operations,12  Mar-18*,776.0,MACM
+217,From Investments,12  Mar-18*,-724.0,MACM
+218,From Financial Activity,12  Mar-18*,-1.0,MACM
+219,Net Cashflow,12  Mar-18*,62.0,MACM

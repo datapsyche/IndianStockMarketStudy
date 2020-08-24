@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4332.0,ENIL
+1,Other income,12  Mar-15*,323.0,ENIL
+2,Total revenues,12  Mar-15*,4655.0,ENIL
+3,Gross profit,12  Mar-15*,1452.0,ENIL
+4,Depreciation,12  Mar-15*,329.0,ENIL
+5,Interest,12  Mar-15*,0.0,ENIL
+6,Profit before tax,12  Mar-15*,1446.0,ENIL
+7,Minority Interest,12  Mar-15*,0.0,ENIL
+8,Prior Period Items,12  Mar-15*,0.0,ENIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ENIL
+10,Tax,12  Mar-15*,386.0,ENIL
+11,Profit after tax,12  Mar-15*,1060.0,ENIL
+12,Gross profit margin,12  Mar-15*,33.5,ENIL
+13,Effective tax rate,12  Mar-15*,26.7,ENIL
+14,Net profit margin,12  Mar-15*,24.5,ENIL
+15,Current assets,12  Mar-15*,5719.0,ENIL
+16,Current liabilities,12  Mar-15*,1019.0,ENIL
+17,Net working cap to sales,12  Mar-15*,108.5,ENIL
+18,Current ratio,12  Mar-15*,5.6,ENIL
+19,Inventory Days,12  Mar-15*,0.0,ENIL
+20,Debtors Days,12  Mar-15*,105.0,ENIL
+21,Net fixed assets,12  Mar-15*,545.0,ENIL
+22,Share capital,12  Mar-15*,477.0,ENIL
+23,"""Free"" reserves",12  Mar-15*,6578.0,ENIL
+24,Net worth,12  Mar-15*,7054.0,ENIL
+25,Long term debt,12  Mar-15*,0.0,ENIL
+26,Total assets,12  Mar-15*,8145.0,ENIL
+27,Interest coverage,12  Mar-15*,3616.3,ENIL
+28,Debt to equity ratio,12  Mar-15*,0.0,ENIL
+29,Sales to assets ratio,12  Mar-15*,0.5,ENIL
+30,Return on assets,12  Mar-15*,13.0,ENIL
+31,Return on equity,12  Mar-15*,15.0,ENIL
+32,Return on capital,12  Mar-15*,20.5,ENIL
+33,Exports to sales,12  Mar-15*,0.0,ENIL
+34,Imports to sales,12  Mar-15*,0.1,ENIL
+35,Exports (fob),12  Mar-15*,0.0,ENIL
+36,Imports (cif),12  Mar-15*,2.0,ENIL
+37,Fx inflow,12  Mar-15*,48.0,ENIL
+38,Fx outflow,12  Mar-15*,4.0,ENIL
+39,Net fx,12  Mar-15*,44.0,ENIL
+40,From Operations,12  Mar-15*,954.0,ENIL
+41,From Investments,12  Mar-15*,-893.0,ENIL
+42,From Financial Activity,12  Mar-15*,-56.0,ENIL
+43,Net Cashflow,12  Mar-15*,5.0,ENIL
+44,Net Sales,12  Mar-16*,4921.0,ENIL
+45,Other income,12  Mar-16*,349.0,ENIL
+46,Total revenues,12  Mar-16*,5271.0,ENIL
+47,Gross profit,12  Mar-16*,1585.0,ENIL
+48,Depreciation,12  Mar-16*,361.0,ENIL
+49,Interest,12  Mar-16*,0.0,ENIL
+50,Profit before tax,12  Mar-16*,1573.0,ENIL
+51,Minority Interest,12  Mar-16*,0.0,ENIL
+52,Prior Period Items,12  Mar-16*,0.0,ENIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ENIL
+54,Tax,12  Mar-16*,488.0,ENIL
+55,Profit after tax,12  Mar-16*,1085.0,ENIL
+56,Gross profit margin,12  Mar-16*,32.2,ENIL
+57,Effective tax rate,12  Mar-16*,31.0,ENIL
+58,Net profit margin,12  Mar-16*,22.1,ENIL
+59,Current assets,12  Mar-16*,3644.0,ENIL
+60,Current liabilities,12  Mar-16*,3604.0,ENIL
+61,Net working cap to sales,12  Mar-16*,0.8,ENIL
+62,Current ratio,12  Mar-16*,1.0,ENIL
+63,Inventory Days,12  Mar-16*,0.0,ENIL
+64,Debtors Days,12  Mar-16*,104.0,ENIL
+65,Net fixed assets,12  Mar-16*,7290.0,ENIL
+66,Share capital,12  Mar-16*,477.0,ENIL
+67,"""Free"" reserves",12  Mar-16*,7608.0,ENIL
+68,Net worth,12  Mar-16*,8084.0,ENIL
+69,Long term debt,12  Mar-16*,0.0,ENIL
+70,Total assets,12  Mar-16*,11819.0,ENIL
+71,Interest coverage,12  Mar-16*,3933.0,ENIL
+72,Debt to equity ratio,12  Mar-16*,0.0,ENIL
+73,Sales to assets ratio,12  Mar-16*,0.4,ENIL
+74,Return on assets,12  Mar-16*,9.2,ENIL
+75,Return on equity,12  Mar-16*,13.4,ENIL
+76,Return on capital,12  Mar-16*,19.5,ENIL
+77,Exports to sales,12  Mar-16*,0.0,ENIL
+78,Imports to sales,12  Mar-16*,1.3,ENIL
+79,Exports (fob),12  Mar-16*,0.0,ENIL
+80,Imports (cif),12  Mar-16*,63.0,ENIL
+81,Fx inflow,12  Mar-16*,57.0,ENIL
+82,Fx outflow,12  Mar-16*,65.0,ENIL
+83,Net fx,12  Mar-16*,-8.0,ENIL
+84,From Operations,12  Mar-16*,1088.0,ENIL
+85,From Investments,12  Mar-16*,-3379.0,ENIL
+86,From Financial Activity,12  Mar-16*,2309.0,ENIL
+87,Net Cashflow,12  Mar-16*,19.0,ENIL
+88,Net Sales,12  Mar-17*,5495.0,ENIL
+89,Other income,12  Mar-17*,203.0,ENIL
+90,Total revenues,12  Mar-17*,5698.0,ENIL
+91,Gross profit,12  Mar-17*,1259.0,ENIL
+92,Depreciation,12  Mar-17*,536.0,ENIL
+93,Interest,12  Mar-17*,136.0,ENIL
+94,Profit before tax,12  Mar-17*,790.0,ENIL
+95,Minority Interest,12  Mar-17*,0.0,ENIL
+96,Prior Period Items,12  Mar-17*,0.0,ENIL
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ENIL
+98,Tax,12  Mar-17*,238.0,ENIL
+99,Profit after tax,12  Mar-17*,552.0,ENIL
+100,Gross profit margin,12  Mar-17*,22.9,ENIL
+101,Effective tax rate,12  Mar-17*,30.1,ENIL
+102,Net profit margin,12  Mar-17*,10.0,ENIL
+103,Current assets,12  Mar-17*,3190.0,ENIL
+104,Current liabilities,12  Mar-17*,2620.0,ENIL
+105,Net working cap to sales,12  Mar-17*,10.4,ENIL
+106,Current ratio,12  Mar-17*,1.2,ENIL
+107,Inventory Days,12  Mar-17*,0.0,ENIL
+108,Debtors Days,12  Mar-17*,108.0,ENIL
+109,Net fixed assets,12  Mar-17*,7810.0,ENIL
+110,Share capital,12  Mar-17*,477.0,ENIL
+111,"""Free"" reserves",12  Mar-17*,8097.0,ENIL
+112,Net worth,12  Mar-17*,8574.0,ENIL
+113,Long term debt,12  Mar-17*,0.0,ENIL
+114,Total assets,12  Mar-17*,11378.0,ENIL
+115,Interest coverage,12  Mar-17*,6.8,ENIL
+116,Debt to equity ratio,12  Mar-17*,0.0,ENIL
+117,Sales to assets ratio,12  Mar-17*,0.5,ENIL
+118,Return on assets,12  Mar-17*,6.0,ENIL
+119,Return on equity,12  Mar-17*,6.4,ENIL
+120,Return on capital,12  Mar-17*,10.8,ENIL
+121,Exports to sales,12  Mar-17*,0.0,ENIL
+122,Imports to sales,12  Mar-17*,0.0,ENIL
+123,Exports (fob),12  Mar-17*,0.0,ENIL
+124,Imports (cif),12  Mar-17*,0.0,ENIL
+125,Fx inflow,12  Mar-17*,70.0,ENIL
+126,Fx outflow,12  Mar-17*,95.0,ENIL
+127,Net fx,12  Mar-17*,-26.0,ENIL
+128,From Operations,12  Mar-17*,1043.0,ENIL
+129,From Investments,12  Mar-17*,520.0,ENIL
+130,From Financial Activity,12  Mar-17*,-1540.0,ENIL
+131,Net Cashflow,12  Mar-17*,24.0,ENIL
+132,Net Sales,12  Mar-18*,5371.0,ENIL
+133,Other income,12  Mar-18*,95.0,ENIL
+134,Total revenues,12  Mar-18*,5465.0,ENIL
+135,Gross profit,12  Mar-18*,1166.0,ENIL
+136,Depreciation,12  Mar-18*,635.0,ENIL
+137,Interest,12  Mar-18*,47.0,ENIL
+138,Profit before tax,12  Mar-18*,579.0,ENIL
+139,Minority Interest,12  Mar-18*,0.0,ENIL
+140,Prior Period Items,12  Mar-18*,0.0,ENIL
+141,Extraordinary Inc (Exp),12  Mar-18*,42.0,ENIL
+142,Tax,12  Mar-18*,265.0,ENIL
+143,Profit after tax,12  Mar-18*,356.0,ENIL
+144,Gross profit margin,12  Mar-18*,21.7,ENIL
+145,Effective tax rate,12  Mar-18*,45.7,ENIL
+146,Net profit margin,12  Mar-18*,6.6,ENIL
+147,Current assets,12  Mar-18*,3669.0,ENIL
+148,Current liabilities,12  Mar-18*,2372.0,ENIL
+149,Net working cap to sales,12  Mar-18*,24.1,ENIL
+150,Current ratio,12  Mar-18*,1.5,ENIL
+151,Inventory Days,12  Mar-18*,0.0,ENIL
+152,Debtors Days,12  Mar-18*,116.0,ENIL
+153,Net fixed assets,12  Mar-18*,7369.0,ENIL
+154,Share capital,12  Mar-18*,477.0,ENIL
+155,"""Free"" reserves",12  Mar-18*,8398.0,ENIL
+156,Net worth,12  Mar-18*,8875.0,ENIL
+157,Long term debt,12  Mar-18*,0.0,ENIL
+158,Total assets,12  Mar-18*,11584.0,ENIL
+159,Interest coverage,12  Mar-18*,13.3,ENIL
+160,Debt to equity ratio,12  Mar-18*,0.0,ENIL
+161,Sales to assets ratio,12  Mar-18*,0.5,ENIL
+162,Return on assets,12  Mar-18*,3.5,ENIL
+163,Return on equity,12  Mar-18*,4.0,ENIL
+164,Return on capital,12  Mar-18*,7.5,ENIL
+165,Exports to sales,12  Mar-18*,0.0,ENIL
+166,Imports to sales,12  Mar-18*,0.0,ENIL
+167,Exports (fob),12  Mar-18*,0.0,ENIL
+168,Imports (cif),12  Mar-18*,0.0,ENIL
+169,Fx inflow,12  Mar-18*,71.0,ENIL
+170,Fx outflow,12  Mar-18*,49.0,ENIL
+171,Net fx,12  Mar-18*,22.0,ENIL
+172,From Operations,12  Mar-18*,1063.0,ENIL
+173,From Investments,12  Mar-18*,-738.0,ENIL
+174,From Financial Activity,12  Mar-18*,-332.0,ENIL
+175,Net Cashflow,12  Mar-18*,-6.0,ENIL
+176,Net Sales,12  Mar-19*,6208.0,ENIL
+177,Other income,12  Mar-19*,157.0,ENIL
+178,Total revenues,12  Mar-19*,6365.0,ENIL
+179,Gross profit,12  Mar-19*,1391.0,ENIL
+180,Depreciation,12  Mar-19*,671.0,ENIL
+181,Interest,12  Mar-19*,40.0,ENIL
+182,Profit before tax,12  Mar-19*,837.0,ENIL
+183,Minority Interest,12  Mar-19*,0.0,ENIL
+184,Prior Period Items,12  Mar-19*,0.0,ENIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ENIL
+186,Tax,12  Mar-19*,299.0,ENIL
+187,Profit after tax,12  Mar-19*,539.0,ENIL
+188,Gross profit margin,12  Mar-19*,22.4,ENIL
+189,Effective tax rate,12  Mar-19*,35.6,ENIL
+190,Net profit margin,12  Mar-19*,8.7,ENIL
+191,Current assets,12  Mar-19*,3869.0,ENIL
+192,Current liabilities,12  Mar-19*,1657.0,ENIL
+193,Net working cap to sales,12  Mar-19*,35.6,ENIL
+194,Current ratio,12  Mar-19*,2.3,ENIL
+195,Inventory Days,12  Mar-19*,0.0,ENIL
+196,Debtors Days,12  Mar-19*,118.0,ENIL
+197,Net fixed assets,12  Mar-19*,7148.0,ENIL
+198,Share capital,12  Mar-19*,477.0,ENIL
+199,"""Free"" reserves",12  Mar-19*,8876.0,ENIL
+200,Net worth,12  Mar-19*,9353.0,ENIL
+201,Long term debt,12  Mar-19*,0.0,ENIL
+202,Total assets,12  Mar-19*,11458.0,ENIL
+203,Interest coverage,12  Mar-19*,22.0,ENIL
+204,Debt to equity ratio,12  Mar-19*,0.0,ENIL
+205,Sales to assets ratio,12  Mar-19*,0.5,ENIL
+206,Return on assets,12  Mar-19*,5.1,ENIL
+207,Return on equity,12  Mar-19*,5.8,ENIL
+208,Return on capital,12  Mar-19*,9.4,ENIL
+209,Exports to sales,12  Mar-19*,0.0,ENIL
+210,Imports to sales,12  Mar-19*,0.0,ENIL
+211,Exports (fob),12  Mar-19*,0.0,ENIL
+212,Imports (cif),12  Mar-19*,0.0,ENIL
+213,Fx inflow,12  Mar-19*,105.0,ENIL
+214,Fx outflow,12  Mar-19*,208.0,ENIL
+215,Net fx,12  Mar-19*,-103.0,ENIL
+216,From Operations,12  Mar-19*,1192.0,ENIL
+217,From Investments,12  Mar-19*,25.0,ENIL
+218,From Financial Activity,12  Mar-19*,-1158.0,ENIL
+219,Net Cashflow,12  Mar-19*,59.0,ENIL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-95,2222.0,SAUC
+1,Other income,12  Jun-95,21.0,SAUC
+2,Total revenues,12  Jun-95,2243.0,SAUC
+3,Gross profit,12  Jun-95,407.0,SAUC
+4,Depreciation,12  Jun-95,55.0,SAUC
+5,Interest,12  Jun-95,155.0,SAUC
+6,Profit before tax,12  Jun-95,218.0,SAUC
+7,Minority Interest,12  Jun-95,0.0,SAUC
+8,Prior Period Items,12  Jun-95,0.0,SAUC
+9,Extraordinary Inc (Exp),12  Jun-95,0.0,SAUC
+10,Tax,12  Jun-95,0.0,SAUC
+11,Profit after tax,12  Jun-95,218.0,SAUC
+12,Gross profit margin,12  Jun-95,18.3,SAUC
+13,Effective tax rate,12  Jun-95,0.0,SAUC
+14,Net profit margin,12  Jun-95,9.8,SAUC
+15,Current assets,12  Jun-95,1142.0,SAUC
+16,Current liabilities,12  Jun-95,430.0,SAUC
+17,Net working cap to sales,12  Jun-95,32.0,SAUC
+18,Current ratio,12  Jun-95,2.7,SAUC
+19,Inventory Days,12  Jun-95,39.0,SAUC
+20,Debtors Days,12  Jun-95,48.0,SAUC
+21,Net fixed assets,12  Jun-95,1638.0,SAUC
+22,Share capital,12  Jun-95,122.0,SAUC
+23,"""Free"" reserves",12  Jun-95,588.0,SAUC
+24,Net worth,12  Jun-95,1427.0,SAUC
+25,Long term debt,12  Jun-95,763.0,SAUC
+26,Total assets,12  Jun-95,3252.0,SAUC
+27,Interest coverage,12  Jun-95,2.4,SAUC
+28,Debt to equity ratio,12  Jun-95,0.5,SAUC
+29,Sales to assets ratio,12  Jun-95,0.7,SAUC
+30,Return on assets,12  Jun-95,11.5,SAUC
+31,Return on equity,12  Jun-95,15.3,SAUC
+32,Return on capital,12  Jun-95,17.0,SAUC
+33,Exports to sales,12  Jun-95,10.1,SAUC
+34,Imports to sales,12  Jun-95,0.9,SAUC
+35,Exports (fob),12  Jun-95,225.0,SAUC
+36,Imports (cif),12  Jun-95,19.0,SAUC
+37,Fx inflow,12  Jun-95,229.0,SAUC
+38,Fx outflow,12  Jun-95,28.0,SAUC
+39,Net fx,12  Jun-95,201.0,SAUC
+40,From Operations,12  Jun-95,0.0,SAUC
+41,From Investments,12  Jun-95,0.0,SAUC
+42,From Financial Activity,12  Jun-95,0.0,SAUC
+43,Net Cashflow,12  Jun-95,0.0,SAUC
+44,Net Sales,12  Jun-96,1974.0,SAUC
+45,Other income,12  Jun-96,22.0,SAUC
+46,Total revenues,12  Jun-96,1996.0,SAUC
+47,Gross profit,12  Jun-96,414.0,SAUC
+48,Depreciation,12  Jun-96,87.0,SAUC
+49,Interest,12  Jun-96,178.0,SAUC
+50,Profit before tax,12  Jun-96,171.0,SAUC
+51,Minority Interest,12  Jun-96,0.0,SAUC
+52,Prior Period Items,12  Jun-96,0.0,SAUC
+53,Extraordinary Inc (Exp),12  Jun-96,0.0,SAUC
+54,Tax,12  Jun-96,80.0,SAUC
+55,Profit after tax,12  Jun-96,91.0,SAUC
+56,Gross profit margin,12  Jun-96,21.0,SAUC
+57,Effective tax rate,12  Jun-96,46.8,SAUC
+58,Net profit margin,12  Jun-96,4.6,SAUC
+59,Current assets,12  Jun-96,1020.0,SAUC
+60,Current liabilities,12  Jun-96,544.0,SAUC
+61,Net working cap to sales,12  Jun-96,24.1,SAUC
+62,Current ratio,12  Jun-96,1.9,SAUC
+63,Inventory Days,12  Jun-96,62.0,SAUC
+64,Debtors Days,12  Jun-96,54.0,SAUC
+65,Net fixed assets,12  Jun-96,1990.0,SAUC
+66,Share capital,12  Jun-96,122.0,SAUC
+67,"""Free"" reserves",12  Jun-96,630.0,SAUC
+68,Net worth,12  Jun-96,1461.0,SAUC
+69,Long term debt,12  Jun-96,839.0,SAUC
+70,Total assets,12  Jun-96,3427.0,SAUC
+71,Interest coverage,12  Jun-96,2.0,SAUC
+72,Debt to equity ratio,12  Jun-96,0.6,SAUC
+73,Sales to assets ratio,12  Jun-96,0.6,SAUC
+74,Return on assets,12  Jun-96,7.8,SAUC
+75,Return on equity,12  Jun-96,6.2,SAUC
+76,Return on capital,12  Jun-96,15.2,SAUC
+77,Exports to sales,12  Jun-96,5.1,SAUC
+78,Imports to sales,12  Jun-96,6.8,SAUC
+79,Exports (fob),12  Jun-96,101.0,SAUC
+80,Imports (cif),12  Jun-96,135.0,SAUC
+81,Fx inflow,12  Jun-96,103.0,SAUC
+82,Fx outflow,12  Jun-96,151.0,SAUC
+83,Net fx,12  Jun-96,-48.0,SAUC
+84,From Operations,12  Jun-96,0.0,SAUC
+85,From Investments,12  Jun-96,0.0,SAUC
+86,From Financial Activity,12  Jun-96,0.0,SAUC
+87,Net Cashflow,12  Jun-96,0.0,SAUC
+88,Net Sales,12  Jun-97,1810.0,SAUC
+89,Other income,12  Jun-97,39.0,SAUC
+90,Total revenues,12  Jun-97,1849.0,SAUC
+91,Gross profit,12  Jun-97,246.0,SAUC
+92,Depreciation,12  Jun-97,115.0,SAUC
+93,Interest,12  Jun-97,265.0,SAUC
+94,Profit before tax,12  Jun-97,-95.0,SAUC
+95,Minority Interest,12  Jun-97,0.0,SAUC
+96,Prior Period Items,12  Jun-97,0.0,SAUC
+97,Extraordinary Inc (Exp),12  Jun-97,0.0,SAUC
+98,Tax,12  Jun-97,0.0,SAUC
+99,Profit after tax,12  Jun-97,-95.0,SAUC
+100,Gross profit margin,12  Jun-97,13.6,SAUC
+101,Effective tax rate,12  Jun-97,0.0,SAUC
+102,Net profit margin,12  Jun-97,-5.2,SAUC
+103,Current assets,12  Jun-97,1014.0,SAUC
+104,Current liabilities,12  Jun-97,410.0,SAUC
+105,Net working cap to sales,12  Jun-97,33.4,SAUC
+106,Current ratio,12  Jun-97,2.5,SAUC
+107,Inventory Days,12  Jun-97,76.0,SAUC
+108,Debtors Days,12  Jun-97,65.0,SAUC
+109,Net fixed assets,12  Jun-97,1954.0,SAUC
+110,Share capital,12  Jun-97,122.0,SAUC
+111,"""Free"" reserves",12  Jun-97,550.0,SAUC
+112,Net worth,12  Jun-97,1237.0,SAUC
+113,Long term debt,12  Jun-97,1174.0,SAUC
+114,Total assets,12  Jun-97,3336.0,SAUC
+115,Interest coverage,12  Jun-97,0.6,SAUC
+116,Debt to equity ratio,12  Jun-97,0.9,SAUC
+117,Sales to assets ratio,12  Jun-97,0.5,SAUC
+118,Return on assets,12  Jun-97,5.1,SAUC
+119,Return on equity,12  Jun-97,-7.7,SAUC
+120,Return on capital,12  Jun-97,7.1,SAUC
+121,Exports to sales,12  Jun-97,7.7,SAUC
+122,Imports to sales,12  Jun-97,1.7,SAUC
+123,Exports (fob),12  Jun-97,140.0,SAUC
+124,Imports (cif),12  Jun-97,31.0,SAUC
+125,Fx inflow,12  Jun-97,141.0,SAUC
+126,Fx outflow,12  Jun-97,52.0,SAUC
+127,Net fx,12  Jun-97,89.0,SAUC
+128,From Operations,12  Jun-97,0.0,SAUC
+129,From Investments,12  Jun-97,0.0,SAUC
+130,From Financial Activity,12  Jun-97,0.0,SAUC
+131,Net Cashflow,12  Jun-97,0.0,SAUC
+132,Net Sales,12  Jun-98,1956.0,SAUC
+133,Other income,12  Jun-98,58.0,SAUC
+134,Total revenues,12  Jun-98,2014.0,SAUC
+135,Gross profit,12  Jun-98,360.0,SAUC
+136,Depreciation,12  Jun-98,120.0,SAUC
+137,Interest,12  Jun-98,268.0,SAUC
+138,Profit before tax,12  Jun-98,30.0,SAUC
+139,Minority Interest,12  Jun-98,0.0,SAUC
+140,Prior Period Items,12  Jun-98,0.0,SAUC
+141,Extraordinary Inc (Exp),12  Jun-98,0.0,SAUC
+142,Tax,12  Jun-98,0.0,SAUC
+143,Profit after tax,12  Jun-98,30.0,SAUC
+144,Gross profit margin,12  Jun-98,18.4,SAUC
+145,Effective tax rate,12  Jun-98,0.0,SAUC
+146,Net profit margin,12  Jun-98,1.5,SAUC
+147,Current assets,12  Jun-98,1327.0,SAUC
+148,Current liabilities,12  Jun-98,647.0,SAUC
+149,Net working cap to sales,12  Jun-98,34.8,SAUC
+150,Current ratio,12  Jun-98,2.1,SAUC
+151,Inventory Days,12  Jun-98,74.0,SAUC
+152,Debtors Days,12  Jun-98,50.0,SAUC
+153,Net fixed assets,12  Jun-98,2130.0,SAUC
+154,Share capital,12  Jun-98,472.0,SAUC
+155,"""Free"" reserves",12  Jun-98,638.0,SAUC
+156,Net worth,12  Jun-98,1658.0,SAUC
+157,Long term debt,12  Jun-98,1172.0,SAUC
+158,Total assets,12  Jun-98,3820.0,SAUC
+159,Interest coverage,12  Jun-98,1.1,SAUC
+160,Debt to equity ratio,12  Jun-98,0.7,SAUC
+161,Sales to assets ratio,12  Jun-98,0.5,SAUC
+162,Return on assets,12  Jun-98,7.8,SAUC
+163,Return on equity,12  Jun-98,1.8,SAUC
+164,Return on capital,12  Jun-98,10.5,SAUC
+165,Exports to sales,12  Jun-98,9.4,SAUC
+166,Imports to sales,12  Jun-98,7.8,SAUC
+167,Exports (fob),12  Jun-98,184.0,SAUC
+168,Imports (cif),12  Jun-98,152.0,SAUC
+169,Fx inflow,12  Jun-98,184.0,SAUC
+170,Fx outflow,12  Jun-98,175.0,SAUC
+171,Net fx,12  Jun-98,9.0,SAUC
+172,From Operations,12  Jun-98,0.0,SAUC
+173,From Investments,12  Jun-98,0.0,SAUC
+174,From Financial Activity,12  Jun-98,0.0,SAUC
+175,Net Cashflow,12  Jun-98,0.0,SAUC
+176,Net Sales,12  Jun-99,1694.0,SAUC
+177,Other income,12  Jun-99,105.0,SAUC
+178,Total revenues,12  Jun-99,1799.0,SAUC
+179,Gross profit,12  Jun-99,172.0,SAUC
+180,Depreciation,12  Jun-99,143.0,SAUC
+181,Interest,12  Jun-99,259.0,SAUC
+182,Profit before tax,12  Jun-99,-125.0,SAUC
+183,Minority Interest,12  Jun-99,0.0,SAUC
+184,Prior Period Items,12  Jun-99,0.0,SAUC
+185,Extraordinary Inc (Exp),12  Jun-99,0.0,SAUC
+186,Tax,12  Jun-99,0.0,SAUC
+187,Profit after tax,12  Jun-99,-125.0,SAUC
+188,Gross profit margin,12  Jun-99,10.2,SAUC
+189,Effective tax rate,12  Jun-99,0.0,SAUC
+190,Net profit margin,12  Jun-99,-7.4,SAUC
+191,Current assets,12  Jun-99,1422.0,SAUC
+192,Current liabilities,12  Jun-99,637.0,SAUC
+193,Net working cap to sales,12  Jun-99,46.3,SAUC
+194,Current ratio,12  Jun-99,2.2,SAUC
+195,Inventory Days,12  Jun-99,84.0,SAUC
+196,Debtors Days,12  Jun-99,61.0,SAUC
+197,Net fixed assets,12  Jun-99,2470.0,SAUC
+198,Share capital,12  Jun-99,472.0,SAUC
+199,"""Free"" reserves",12  Jun-99,598.0,SAUC
+200,Net worth,12  Jun-99,1576.0,SAUC
+201,Long term debt,12  Jun-99,599.0,SAUC
+202,Total assets,12  Jun-99,4258.0,SAUC
+203,Interest coverage,12  Jun-99,0.5,SAUC
+204,Debt to equity ratio,12  Jun-99,0.4,SAUC
+205,Sales to assets ratio,12  Jun-99,0.4,SAUC
+206,Return on assets,12  Jun-99,3.1,SAUC
+207,Return on equity,12  Jun-99,-7.9,SAUC
+208,Return on capital,12  Jun-99,6.2,SAUC
+209,Exports to sales,12  Jun-99,0.0,SAUC
+210,Imports to sales,12  Jun-99,1.5,SAUC
+211,Exports (fob),12  Jun-99,0.0,SAUC
+212,Imports (cif),12  Jun-99,26.0,SAUC
+213,Fx inflow,12  Jun-99,30.0,SAUC
+214,Fx outflow,12  Jun-99,94.0,SAUC
+215,Net fx,12  Jun-99,-64.0,SAUC
+216,From Operations,12  Jun-99,0.0,SAUC
+217,From Investments,12  Jun-99,0.0,SAUC
+218,From Financial Activity,12  Jun-99,0.0,SAUC
+219,Net Cashflow,12  Jun-99,0.0,SAUC

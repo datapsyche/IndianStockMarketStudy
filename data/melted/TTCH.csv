@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,172045.0,TTCH
+1,Other income,12  Mar-15*,1180.0,TTCH
+2,Total revenues,12  Mar-15*,173225.0,TTCH
+3,Gross profit,12  Mar-15*,21643.0,TTCH
+4,Depreciation,12  Mar-15*,4631.0,TTCH
+5,Interest,12  Mar-15*,4609.0,TTCH
+6,Profit before tax,12  Mar-15*,13582.0,TTCH
+7,Minority Interest,12  Mar-15*,-2055.0,TTCH
+8,Prior Period Items,12  Mar-15*,-54.0,TTCH
+9,Extraordinary Inc (Exp),12  Mar-15*,-1997.0,TTCH
+10,Tax,12  Mar-15*,3511.0,TTCH
+11,Profit after tax,12  Mar-15*,5965.0,TTCH
+12,Gross profit margin,12  Mar-15*,12.6,TTCH
+13,Effective tax rate,12  Mar-15*,25.9,TTCH
+14,Net profit margin,12  Mar-15*,3.5,TTCH
+15,Current assets,12  Mar-15*,81006.0,TTCH
+16,Current liabilities,12  Mar-15*,65410.0,TTCH
+17,Net working cap to sales,12  Mar-15*,9.1,TTCH
+18,Current ratio,12  Mar-15*,1.2,TTCH
+19,Inventory Days,12  Mar-15*,55.0,TTCH
+20,Debtors Days,12  Mar-15*,75.0,TTCH
+21,Net fixed assets,12  Mar-15*,44595.0,TTCH
+22,Share capital,12  Mar-15*,2548.0,TTCH
+23,"""Free"" reserves",12  Mar-15*,63314.0,TTCH
+24,Net worth,12  Mar-15*,65863.0,TTCH
+25,Long term debt,12  Mar-15*,57595.0,TTCH
+26,Total assets,12  Mar-15*,244492.0,TTCH
+27,Interest coverage,12  Mar-15*,3.9,TTCH
+28,Debt to equity ratio,12  Mar-15*,0.9,TTCH
+29,Sales to assets ratio,12  Mar-15*,0.7,TTCH
+30,Return on assets,12  Mar-15*,4.3,TTCH
+31,Return on equity,12  Mar-15*,9.1,TTCH
+32,Return on capital,12  Mar-15*,11.4,TTCH
+33,Exports to sales,12  Mar-15*,0.1,TTCH
+34,Imports to sales,12  Mar-15*,23.9,TTCH
+35,Exports (fob),12  Mar-15*,110.0,TTCH
+36,Imports (cif),12  Mar-15*,41144.0,TTCH
+37,Fx inflow,12  Mar-15*,1040.0,TTCH
+38,Fx outflow,12  Mar-15*,42259.0,TTCH
+39,Net fx,12  Mar-15*,-41219.0,TTCH
+40,From Operations,12  Mar-15*,12736.0,TTCH
+41,From Investments,12  Mar-15*,-6552.0,TTCH
+42,From Financial Activity,12  Mar-15*,-10873.0,TTCH
+43,Net Cashflow,12  Mar-15*,-4770.0,TTCH
+44,Net Sales,12  Mar-16*,148729.0,TTCH
+45,Other income,12  Mar-16*,1253.0,TTCH
+46,Total revenues,12  Mar-16*,149982.0,TTCH
+47,Gross profit,12  Mar-16*,20917.0,TTCH
+48,Depreciation,12  Mar-16*,5261.0,TTCH
+49,Interest,12  Mar-16*,5255.0,TTCH
+50,Profit before tax,12  Mar-16*,11654.0,TTCH
+51,Minority Interest,12  Mar-16*,149.0,TTCH
+52,Prior Period Items,12  Mar-16*,0.0,TTCH
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,TTCH
+54,Tax,12  Mar-16*,2484.0,TTCH
+55,Profit after tax,12  Mar-16*,9320.0,TTCH
+56,Gross profit margin,12  Mar-16*,14.1,TTCH
+57,Effective tax rate,12  Mar-16*,21.3,TTCH
+58,Net profit margin,12  Mar-16*,6.3,TTCH
+59,Current assets,12  Mar-16*,75760.0,TTCH
+60,Current liabilities,12  Mar-16*,50250.0,TTCH
+61,Net working cap to sales,12  Mar-16*,17.2,TTCH
+62,Current ratio,12  Mar-16*,1.5,TTCH
+63,Inventory Days,12  Mar-16*,47.0,TTCH
+64,Debtors Days,12  Mar-16*,88.0,TTCH
+65,Net fixed assets,12  Mar-16*,47273.0,TTCH
+66,Share capital,12  Mar-16*,2548.0,TTCH
+67,"""Free"" reserves",12  Mar-16*,65995.0,TTCH
+68,Net worth,12  Mar-16*,68543.0,TTCH
+69,Long term debt,12  Mar-16*,67797.0,TTCH
+70,Total assets,12  Mar-16*,243552.0,TTCH
+71,Interest coverage,12  Mar-16*,3.2,TTCH
+72,Debt to equity ratio,12  Mar-16*,1.0,TTCH
+73,Sales to assets ratio,12  Mar-16*,0.6,TTCH
+74,Return on assets,12  Mar-16*,6.0,TTCH
+75,Return on equity,12  Mar-16*,13.6,TTCH
+76,Return on capital,12  Mar-16*,12.5,TTCH
+77,Exports to sales,12  Mar-16*,0.1,TTCH
+78,Imports to sales,12  Mar-16*,21.0,TTCH
+79,Exports (fob),12  Mar-16*,126.0,TTCH
+80,Imports (cif),12  Mar-16*,31297.0,TTCH
+81,Fx inflow,12  Mar-16*,658.0,TTCH
+82,Fx outflow,12  Mar-16*,31924.0,TTCH
+83,Net fx,12  Mar-16*,-31266.0,TTCH
+84,From Operations,12  Mar-16*,23319.0,TTCH
+85,From Investments,12  Mar-16*,-4887.0,TTCH
+86,From Financial Activity,12  Mar-16*,-18017.0,TTCH
+87,Net Cashflow,12  Mar-16*,676.0,TTCH
+88,Net Sales,12  Mar-17*,103461.0,TTCH
+89,Other income,12  Mar-17*,1661.0,TTCH
+90,Total revenues,12  Mar-17*,105122.0,TTCH
+91,Gross profit,12  Mar-17*,20943.0,TTCH
+92,Depreciation,12  Mar-17*,5122.0,TTCH
+93,Interest,12  Mar-17*,2973.0,TTCH
+94,Profit before tax,12  Mar-17*,14510.0,TTCH
+95,Minority Interest,12  Mar-17*,156.0,TTCH
+96,Prior Period Items,12  Mar-17*,0.0,TTCH
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,TTCH
+98,Tax,12  Mar-17*,3460.0,TTCH
+99,Profit after tax,12  Mar-17*,11206.0,TTCH
+100,Gross profit margin,12  Mar-17*,20.2,TTCH
+101,Effective tax rate,12  Mar-17*,23.8,TTCH
+102,Net profit margin,12  Mar-17*,10.8,TTCH
+103,Current assets,12  Mar-17*,73745.0,TTCH
+104,Current liabilities,12  Mar-17*,56055.0,TTCH
+105,Net working cap to sales,12  Mar-17*,17.1,TTCH
+106,Current ratio,12  Mar-17*,1.3,TTCH
+107,Inventory Days,12  Mar-17*,49.0,TTCH
+108,Debtors Days,12  Mar-17*,74.0,TTCH
+109,Net fixed assets,12  Mar-17*,45177.0,TTCH
+110,Share capital,12  Mar-17*,2548.0,TTCH
+111,"""Free"" reserves",12  Mar-17*,76534.0,TTCH
+112,Net worth,12  Mar-17*,79082.0,TTCH
+113,Long term debt,12  Mar-17*,43610.0,TTCH
+114,Total assets,12  Mar-17*,236105.0,TTCH
+115,Interest coverage,12  Mar-17*,5.9,TTCH
+116,Debt to equity ratio,12  Mar-17*,0.6,TTCH
+117,Sales to assets ratio,12  Mar-17*,0.4,TTCH
+118,Return on assets,12  Mar-17*,6.0,TTCH
+119,Return on equity,12  Mar-17*,14.2,TTCH
+120,Return on capital,12  Mar-17*,14.4,TTCH
+121,Exports to sales,12  Mar-17*,0.0,TTCH
+122,Imports to sales,12  Mar-17*,0.0,TTCH
+123,Exports (fob),12  Mar-17*,0.0,TTCH
+124,Imports (cif),12  Mar-17*,0.0,TTCH
+125,Fx inflow,12  Mar-17*,555.0,TTCH
+126,Fx outflow,12  Mar-17*,17774.0,TTCH
+127,Net fx,12  Mar-17*,-17219.0,TTCH
+128,From Operations,12  Mar-17*,35309.0,TTCH
+129,From Investments,12  Mar-17*,-9821.0,TTCH
+130,From Financial Activity,12  Mar-17*,-23414.0,TTCH
+131,Net Cashflow,12  Mar-17*,2048.0,TTCH
+132,Net Sales,12  Mar-18*,102697.0,TTCH
+133,Other income,12  Mar-18*,1595.0,TTCH
+134,Total revenues,12  Mar-18*,104292.0,TTCH
+135,Gross profit,12  Mar-18*,21907.0,TTCH
+136,Depreciation,12  Mar-18*,5180.0,TTCH
+137,Interest,12  Mar-18*,3256.0,TTCH
+138,Profit before tax,12  Mar-18*,15066.0,TTCH
+139,Minority Interest,12  Mar-18*,492.0,TTCH
+140,Prior Period Items,12  Mar-18*,0.0,TTCH
+141,Extraordinary Inc (Exp),12  Mar-18*,643.0,TTCH
+142,Tax,12  Mar-18*,601.0,TTCH
+143,Profit after tax,12  Mar-18*,15600.0,TTCH
+144,Gross profit margin,12  Mar-18*,21.3,TTCH
+145,Effective tax rate,12  Mar-18*,4.0,TTCH
+146,Net profit margin,12  Mar-18*,15.2,TTCH
+147,Current assets,12  Mar-18*,90396.0,TTCH
+148,Current liabilities,12  Mar-18*,37033.0,TTCH
+149,Net working cap to sales,12  Mar-18*,52.0,TTCH
+150,Current ratio,12  Mar-18*,2.4,TTCH
+151,Inventory Days,12  Mar-18*,52.0,TTCH
+152,Debtors Days,12  Mar-18*,46.0,TTCH
+153,Net fixed assets,12  Mar-18*,47767.0,TTCH
+154,Share capital,12  Mar-18*,2548.0,TTCH
+155,"""Free"" reserves",12  Mar-18*,108469.0,TTCH
+156,Net worth,12  Mar-18*,111017.0,TTCH
+157,Long term debt,12  Mar-18*,53940.0,TTCH
+158,Total assets,12  Mar-18*,258786.0,TTCH
+159,Interest coverage,12  Mar-18*,5.6,TTCH
+160,Debt to equity ratio,12  Mar-18*,0.5,TTCH
+161,Sales to assets ratio,12  Mar-18*,0.4,TTCH
+162,Return on assets,12  Mar-18*,7.3,TTCH
+163,Return on equity,12  Mar-18*,14.1,TTCH
+164,Return on capital,12  Mar-18*,11.8,TTCH
+165,Exports to sales,12  Mar-18*,0.0,TTCH
+166,Imports to sales,12  Mar-18*,0.0,TTCH
+167,Exports (fob),12  Mar-18*,0.0,TTCH
+168,Imports (cif),12  Mar-18*,0.0,TTCH
+169,Fx inflow,12  Mar-18*,350.0,TTCH
+170,Fx outflow,12  Mar-18*,12617.0,TTCH
+171,Net fx,12  Mar-18*,-12267.0,TTCH
+172,From Operations,12  Mar-18*,18701.0,TTCH
+173,From Investments,12  Mar-18*,27070.0,TTCH
+174,From Financial Activity,12  Mar-18*,-20895.0,TTCH
+175,Net Cashflow,12  Mar-18*,24945.0,TTCH
+176,Net Sales,12  Mar-19*,112963.0,TTCH
+177,Other income,12  Mar-19*,4116.0,TTCH
+178,Total revenues,12  Mar-19*,117080.0,TTCH
+179,Gross profit,12  Mar-19*,20951.0,TTCH
+180,Depreciation,12  Mar-19*,5714.0,TTCH
+181,Interest,12  Mar-19*,3631.0,TTCH
+182,Profit before tax,12  Mar-19*,15722.0,TTCH
+183,Minority Interest,12  Mar-19*,992.0,TTCH
+184,Prior Period Items,12  Mar-19*,0.0,TTCH
+185,Extraordinary Inc (Exp),12  Mar-19*,703.0,TTCH
+186,Tax,12  Mar-19*,3469.0,TTCH
+187,Profit after tax,12  Mar-19*,13948.0,TTCH
+188,Gross profit margin,12  Mar-19*,18.5,TTCH
+189,Effective tax rate,12  Mar-19*,22.1,TTCH
+190,Net profit margin,12  Mar-19*,12.3,TTCH
+191,Current assets,12  Mar-19*,80983.0,TTCH
+192,Current liabilities,12  Mar-19*,39486.0,TTCH
+193,Net working cap to sales,12  Mar-19*,36.7,TTCH
+194,Current ratio,12  Mar-19*,2.1,TTCH
+195,Inventory Days,12  Mar-19*,56.0,TTCH
+196,Debtors Days,12  Mar-19*,47.0,TTCH
+197,Net fixed assets,12  Mar-19*,59650.0,TTCH
+198,Share capital,12  Mar-19*,2548.0,TTCH
+199,"""Free"" reserves",12  Mar-19*,120865.0,TTCH
+200,Net worth,12  Mar-19*,123413.0,TTCH
+201,Long term debt,12  Mar-19*,47829.0,TTCH
+202,Total assets,12  Mar-19*,269049.0,TTCH
+203,Interest coverage,12  Mar-19*,5.3,TTCH
+204,Debt to equity ratio,12  Mar-19*,0.4,TTCH
+205,Sales to assets ratio,12  Mar-19*,0.4,TTCH
+206,Return on assets,12  Mar-19*,6.5,TTCH
+207,Return on equity,12  Mar-19*,11.3,TTCH
+208,Return on capital,12  Mar-19*,12.3,TTCH
+209,Exports to sales,12  Mar-19*,0.0,TTCH
+210,Imports to sales,12  Mar-19*,0.0,TTCH
+211,Exports (fob),12  Mar-19*,0.0,TTCH
+212,Imports (cif),12  Mar-19*,0.0,TTCH
+213,Fx inflow,12  Mar-19*,821.0,TTCH
+214,Fx outflow,12  Mar-19*,9765.0,TTCH
+215,Net fx,12  Mar-19*,-8944.0,TTCH
+216,From Operations,12  Mar-19*,15813.0,TTCH
+217,From Investments,12  Mar-19*,-19582.0,TTCH
+218,From Financial Activity,12  Mar-19*,-17118.0,TTCH
+219,Net Cashflow,12  Mar-19*,-20576.0,TTCH

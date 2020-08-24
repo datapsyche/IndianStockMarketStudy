@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,328473.0,GRSM
+1,Other income,12  Mar-15*,5390.0,GRSM
+2,Total revenues,12  Mar-15*,333863.0,GRSM
+3,Gross profit,12  Mar-15*,51445.0,GRSM
+4,Depreciation,12  Mar-15*,15632.0,GRSM
+5,Interest,12  Mar-15*,6674.0,GRSM
+6,Profit before tax,12  Mar-15*,34528.0,GRSM
+7,Minority Interest,12  Mar-15*,-8379.0,GRSM
+8,Prior Period Items,12  Mar-15*,1542.0,GRSM
+9,Extraordinary Inc (Exp),12  Mar-15*,-95.0,GRSM
+10,Tax,12  Mar-15*,10159.0,GRSM
+11,Profit after tax,12  Mar-15*,17438.0,GRSM
+12,Gross profit margin,12  Mar-15*,15.7,GRSM
+13,Effective tax rate,12  Mar-15*,29.4,GRSM
+14,Net profit margin,12  Mar-15*,5.3,GRSM
+15,Current assets,12  Mar-15*,128137.0,GRSM
+16,Current liabilities,12  Mar-15*,123694.0,GRSM
+17,Net working cap to sales,12  Mar-15*,1.4,GRSM
+18,Current ratio,12  Mar-15*,1.0,GRSM
+19,Inventory Days,12  Mar-15*,48.0,GRSM
+20,Debtors Days,12  Mar-15*,27.0,GRSM
+21,Net fixed assets,12  Mar-15*,301894.0,GRSM
+22,Share capital,12  Mar-15*,919.0,GRSM
+23,"""Free"" reserves",12  Mar-15*,243910.0,GRSM
+24,Net worth,12  Mar-15*,244828.0,GRSM
+25,Long term debt,12  Mar-15*,62616.0,GRSM
+26,Total assets,12  Mar-15*,539339.0,GRSM
+27,Interest coverage,12  Mar-15*,6.2,GRSM
+28,Debt to equity ratio,12  Mar-15*,0.3,GRSM
+29,Sales to assets ratio,12  Mar-15*,0.6,GRSM
+30,Return on assets,12  Mar-15*,4.5,GRSM
+31,Return on equity,12  Mar-15*,7.1,GRSM
+32,Return on capital,12  Mar-15*,11.1,GRSM
+33,Exports to sales,12  Mar-15*,4.9,GRSM
+34,Imports to sales,12  Mar-15*,8.7,GRSM
+35,Exports (fob),12  Mar-15*,16054.0,GRSM
+36,Imports (cif),12  Mar-15*,28732.0,GRSM
+37,Fx inflow,12  Mar-15*,16086.0,GRSM
+38,Fx outflow,12  Mar-15*,28930.0,GRSM
+39,Net fx,12  Mar-15*,-12844.0,GRSM
+40,From Operations,12  Mar-15*,45941.0,GRSM
+41,From Investments,12  Mar-15*,-23704.0,GRSM
+42,From Financial Activity,12  Mar-15*,-22780.0,GRSM
+43,Net Cashflow,12  Mar-15*,-542.0,GRSM
+44,Net Sales,12  Mar-16*,385350.0,GRSM
+45,Other income,12  Mar-16*,6616.0,GRSM
+46,Total revenues,12  Mar-16*,391966.0,GRSM
+47,Gross profit,12  Mar-16*,64045.0,GRSM
+48,Depreciation,12  Mar-16*,18338.0,GRSM
+49,Interest,12  Mar-16*,7181.0,GRSM
+50,Profit before tax,12  Mar-16*,45142.0,GRSM
+51,Minority Interest,12  Mar-16*,1930.0,GRSM
+52,Prior Period Items,12  Mar-16*,0.0,GRSM
+53,Extraordinary Inc (Exp),12  Mar-16*,-279.0,GRSM
+54,Tax,12  Mar-16*,12246.0,GRSM
+55,Profit after tax,12  Mar-16*,34547.0,GRSM
+56,Gross profit margin,12  Mar-16*,16.6,GRSM
+57,Effective tax rate,12  Mar-16*,27.1,GRSM
+58,Net profit margin,12  Mar-16*,9.0,GRSM
+59,Current assets,12  Mar-16*,150766.0,GRSM
+60,Current liabilities,12  Mar-16*,144630.0,GRSM
+61,Net working cap to sales,12  Mar-16*,1.6,GRSM
+62,Current ratio,12  Mar-16*,1.0,GRSM
+63,Inventory Days,12  Mar-16*,39.0,GRSM
+64,Debtors Days,12  Mar-16*,28.0,GRSM
+65,Net fixed assets,12  Mar-16*,327030.0,GRSM
+66,Share capital,12  Mar-16*,934.0,GRSM
+67,"""Free"" reserves",12  Mar-16*,273360.0,GRSM
+68,Net worth,12  Mar-16*,274293.0,GRSM
+69,Long term debt,12  Mar-16*,55442.0,GRSM
+70,Total assets,12  Mar-16*,595955.0,GRSM
+71,Interest coverage,12  Mar-16*,7.3,GRSM
+72,Debt to equity ratio,12  Mar-16*,0.2,GRSM
+73,Sales to assets ratio,12  Mar-16*,0.6,GRSM
+74,Return on assets,12  Mar-16*,7.0,GRSM
+75,Return on equity,12  Mar-16*,12.6,GRSM
+76,Return on capital,12  Mar-16*,16.4,GRSM
+77,Exports to sales,12  Mar-16*,5.7,GRSM
+78,Imports to sales,12  Mar-16*,7.8,GRSM
+79,Exports (fob),12  Mar-16*,22149.0,GRSM
+80,Imports (cif),12  Mar-16*,30202.0,GRSM
+81,Fx inflow,12  Mar-16*,22176.0,GRSM
+82,Fx outflow,12  Mar-16*,30417.0,GRSM
+83,Net fx,12  Mar-16*,-8240.0,GRSM
+84,From Operations,12  Mar-16*,58684.0,GRSM
+85,From Investments,12  Mar-16*,-45726.0,GRSM
+86,From Financial Activity,12  Mar-16*,-13646.0,GRSM
+87,Net Cashflow,12  Mar-16*,-114.0,GRSM
+88,Net Sales,12  Mar-17*,360684.0,GRSM
+89,Other income,12  Mar-17*,9478.0,GRSM
+90,Total revenues,12  Mar-17*,370162.0,GRSM
+91,Gross profit,12  Mar-17*,73851.0,GRSM
+92,Depreciation,12  Mar-17*,18076.0,GRSM
+93,Interest,12  Mar-17*,7024.0,GRSM
+94,Profit before tax,12  Mar-17*,58229.0,GRSM
+95,Minority Interest,12  Mar-17*,1294.0,GRSM
+96,Prior Period Items,12  Mar-17*,0.0,GRSM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,GRSM
+98,Tax,12  Mar-17*,17067.0,GRSM
+99,Profit after tax,12  Mar-17*,42456.0,GRSM
+100,Gross profit margin,12  Mar-17*,20.5,GRSM
+101,Effective tax rate,12  Mar-17*,29.3,GRSM
+102,Net profit margin,12  Mar-17*,11.8,GRSM
+103,Current assets,12  Mar-17*,184595.0,GRSM
+104,Current liabilities,12  Mar-17*,109951.0,GRSM
+105,Net working cap to sales,12  Mar-17*,20.7,GRSM
+106,Current ratio,12  Mar-17*,1.7,GRSM
+107,Inventory Days,12  Mar-17*,43.0,GRSM
+108,Debtors Days,12  Mar-17*,30.0,GRSM
+109,Net fixed assets,12  Mar-17*,327168.0,GRSM
+110,Share capital,12  Mar-17*,934.0,GRSM
+111,"""Free"" reserves",12  Mar-17*,312934.0,GRSM
+112,Net worth,12  Mar-17*,313868.0,GRSM
+113,Long term debt,12  Mar-17*,67687.0,GRSM
+114,Total assets,12  Mar-17*,627676.0,GRSM
+115,Interest coverage,12  Mar-17*,9.3,GRSM
+116,Debt to equity ratio,12  Mar-17*,0.2,GRSM
+117,Sales to assets ratio,12  Mar-17*,0.6,GRSM
+118,Return on assets,12  Mar-17*,7.9,GRSM
+119,Return on equity,12  Mar-17*,13.5,GRSM
+120,Return on capital,12  Mar-17*,17.4,GRSM
+121,Exports to sales,12  Mar-17*,0.0,GRSM
+122,Imports to sales,12  Mar-17*,0.0,GRSM
+123,Exports (fob),12  Mar-17*,0.0,GRSM
+124,Imports (cif),12  Mar-17*,0.0,GRSM
+125,Fx inflow,12  Mar-17*,25592.0,GRSM
+126,Fx outflow,12  Mar-17*,37250.0,GRSM
+127,Net fx,12  Mar-17*,-11658.0,GRSM
+128,From Operations,12  Mar-17*,72878.0,GRSM
+129,From Investments,12  Mar-17*,-34877.0,GRSM
+130,From Financial Activity,12  Mar-17*,-37986.0,GRSM
+131,Net Cashflow,12  Mar-17*,-195.0,GRSM
+132,Net Sales,12  Mar-18*,558935.0,GRSM
+133,Other income,12  Mar-18*,8607.0,GRSM
+134,Total revenues,12  Mar-18*,567542.0,GRSM
+135,Gross profit,12  Mar-18*,100227.0,GRSM
+136,Depreciation,12  Mar-18*,27244.0,GRSM
+137,Interest,12  Mar-18*,13640.0,GRSM
+138,Profit before tax,12  Mar-18*,67950.0,GRSM
+139,Minority Interest,12  Mar-18*,-7274.0,GRSM
+140,Prior Period Items,12  Mar-18*,0.0,GRSM
+141,Extraordinary Inc (Exp),12  Mar-18*,-4329.0,GRSM
+142,Tax,12  Mar-18*,19471.0,GRSM
+143,Profit after tax,12  Mar-18*,36876.0,GRSM
+144,Gross profit margin,12  Mar-18*,17.9,GRSM
+145,Effective tax rate,12  Mar-18*,28.7,GRSM
+146,Net profit margin,12  Mar-18*,6.6,GRSM
+147,Current assets,12  Mar-18*,403092.0,GRSM
+148,Current liabilities,12  Mar-18*,422919.0,GRSM
+149,Net working cap to sales,12  Mar-18*,-3.5,GRSM
+150,Current ratio,12  Mar-18*,1.0,GRSM
+151,Inventory Days,12  Mar-18*,38.0,GRSM
+152,Debtors Days,12  Mar-18*,34.0,GRSM
+153,Net fixed assets,12  Mar-18*,476909.0,GRSM
+154,Share capital,12  Mar-18*,1315.0,GRSM
+155,"""Free"" reserves",12  Mar-18*,572304.0,GRSM
+156,Net worth,12  Mar-18*,573619.0,GRSM
+157,Long term debt,12  Mar-18*,407934.0,GRSM
+158,Total assets,12  Mar-18*,2079201.0,GRSM
+159,Interest coverage,12  Mar-18*,6.0,GRSM
+160,Debt to equity ratio,12  Mar-18*,0.7,GRSM
+161,Sales to assets ratio,12  Mar-18*,0.3,GRSM
+162,Return on assets,12  Mar-18*,2.4,GRSM
+163,Return on equity,12  Mar-18*,6.4,GRSM
+164,Return on capital,12  Mar-18*,7.1,GRSM
+165,Exports to sales,12  Mar-18*,0.0,GRSM
+166,Imports to sales,12  Mar-18*,0.0,GRSM
+167,Exports (fob),12  Mar-18*,0.0,GRSM
+168,Imports (cif),12  Mar-18*,0.0,GRSM
+169,Fx inflow,12  Mar-18*,29873.0,GRSM
+170,Fx outflow,12  Mar-18*,58792.0,GRSM
+171,Net fx,12  Mar-18*,-28920.0,GRSM
+172,From Operations,12  Mar-18*,-41399.0,GRSM
+173,From Investments,12  Mar-18*,5098.0,GRSM
+174,From Financial Activity,12  Mar-18*,34491.0,GRSM
+175,Net Cashflow,12  Mar-18*,8555.0,GRSM
+176,Net Sales,12  Mar-19*,729706.0,GRSM
+177,Other income,12  Mar-19*,8014.0,GRSM
+178,Total revenues,12  Mar-19*,737720.0,GRSM
+179,Gross profit,12  Mar-19*,120185.0,GRSM
+180,Depreciation,12  Mar-19*,32605.0,GRSM
+181,Interest,12  Mar-19*,17806.0,GRSM
+182,Profit before tax,12  Mar-19*,77788.0,GRSM
+183,Minority Interest,12  Mar-19*,291.0,GRSM
+184,Prior Period Items,12  Mar-19*,0.0,GRSM
+185,Extraordinary Inc (Exp),12  Mar-19*,-25745.0,GRSM
+186,Tax,12  Mar-19*,24574.0,GRSM
+187,Profit after tax,12  Mar-19*,27760.0,GRSM
+188,Gross profit margin,12  Mar-19*,16.5,GRSM
+189,Effective tax rate,12  Mar-19*,31.6,GRSM
+190,Net profit margin,12  Mar-19*,3.8,GRSM
+191,Current assets,12  Mar-19*,487118.0,GRSM
+192,Current liabilities,12  Mar-19*,461189.0,GRSM
+193,Net working cap to sales,12  Mar-19*,3.6,GRSM
+194,Current ratio,12  Mar-19*,1.1,GRSM
+195,Inventory Days,12  Mar-19*,33.0,GRSM
+196,Debtors Days,12  Mar-19*,32.0,GRSM
+197,Net fixed assets,12  Mar-19*,523516.0,GRSM
+198,Share capital,12  Mar-19*,1315.0,GRSM
+199,"""Free"" reserves",12  Mar-19*,556417.0,GRSM
+200,Net worth,12  Mar-19*,557732.0,GRSM
+201,Long term debt,12  Mar-19*,555869.0,GRSM
+202,Total assets,12  Mar-19*,2292027.0,GRSM
+203,Interest coverage,12  Mar-19*,5.4,GRSM
+204,Debt to equity ratio,12  Mar-19*,1.0,GRSM
+205,Sales to assets ratio,12  Mar-19*,0.3,GRSM
+206,Return on assets,12  Mar-19*,2.0,GRSM
+207,Return on equity,12  Mar-19*,5.0,GRSM
+208,Return on capital,12  Mar-19*,6.3,GRSM
+209,Exports to sales,12  Mar-19*,0.0,GRSM
+210,Imports to sales,12  Mar-19*,0.0,GRSM
+211,Exports (fob),12  Mar-19*,0.0,GRSM
+212,Imports (cif),12  Mar-19*,0.0,GRSM
+213,Fx inflow,12  Mar-19*,28903.0,GRSM
+214,Fx outflow,12  Mar-19*,63274.0,GRSM
+215,Net fx,12  Mar-19*,-34371.0,GRSM
+216,From Operations,12  Mar-19*,-24548.0,GRSM
+217,From Investments,12  Mar-19*,-21870.0,GRSM
+218,From Financial Activity,12  Mar-19*,48702.0,GRSM
+219,Net Cashflow,12  Mar-19*,2746.0,GRSM

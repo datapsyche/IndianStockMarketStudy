@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,51831.0,VOLT
+1,Other income,12  Mar-15*,1087.0,VOLT
+2,Total revenues,12  Mar-15*,52918.0,VOLT
+3,Gross profit,12  Mar-15*,4100.0,VOLT
+4,Depreciation,12  Mar-15*,280.0,VOLT
+5,Interest,12  Mar-15*,233.0,VOLT
+6,Profit before tax,12  Mar-15*,4675.0,VOLT
+7,Minority Interest,12  Mar-15*,-33.0,VOLT
+8,Prior Period Items,12  Mar-15*,16.0,VOLT
+9,Extraordinary Inc (Exp),12  Mar-15*,462.0,VOLT
+10,Tax,12  Mar-15*,1276.0,VOLT
+11,Profit after tax,12  Mar-15*,3843.0,VOLT
+12,Gross profit margin,12  Mar-15*,7.9,VOLT
+13,Effective tax rate,12  Mar-15*,27.3,VOLT
+14,Net profit margin,12  Mar-15*,7.4,VOLT
+15,Current assets,12  Mar-15*,36761.0,VOLT
+16,Current liabilities,12  Mar-15*,25620.0,VOLT
+17,Net working cap to sales,12  Mar-15*,21.5,VOLT
+18,Current ratio,12  Mar-15*,1.4,VOLT
+19,Inventory Days,12  Mar-15*,54.0,VOLT
+20,Debtors Days,12  Mar-15*,93.0,VOLT
+21,Net fixed assets,12  Mar-15*,1961.0,VOLT
+22,Share capital,12  Mar-15*,331.0,VOLT
+23,"""Free"" reserves",12  Mar-15*,24816.0,VOLT
+24,Net worth,12  Mar-15*,25147.0,VOLT
+25,Long term debt,12  Mar-15*,43.0,VOLT
+26,Total assets,12  Mar-15*,51823.0,VOLT
+27,Interest coverage,12  Mar-15*,21.1,VOLT
+28,Debt to equity ratio,12  Mar-15*,0.0,VOLT
+29,Sales to assets ratio,12  Mar-15*,1.0,VOLT
+30,Return on assets,12  Mar-15*,7.9,VOLT
+31,Return on equity,12  Mar-15*,15.3,VOLT
+32,Return on capital,12  Mar-15*,21.2,VOLT
+33,Exports to sales,12  Mar-15*,0.6,VOLT
+34,Imports to sales,12  Mar-15*,14.2,VOLT
+35,Exports (fob),12  Mar-15*,288.0,VOLT
+36,Imports (cif),12  Mar-15*,7375.0,VOLT
+37,Fx inflow,12  Mar-15*,1066.0,VOLT
+38,Fx outflow,12  Mar-15*,7440.0,VOLT
+39,Net fx,12  Mar-15*,-6374.0,VOLT
+40,From Operations,12  Mar-15*,3106.0,VOLT
+41,From Investments,12  Mar-15*,-1036.0,VOLT
+42,From Financial Activity,12  Mar-15*,-2360.0,VOLT
+43,Net Cashflow,12  Mar-15*,-291.0,VOLT
+44,Net Sales,12  Mar-16*,57198.0,VOLT
+45,Other income,12  Mar-16*,1367.0,VOLT
+46,Total revenues,12  Mar-16*,58565.0,VOLT
+47,Gross profit,12  Mar-16*,4330.0,VOLT
+48,Depreciation,12  Mar-16*,264.0,VOLT
+49,Interest,12  Mar-16*,158.0,VOLT
+50,Profit before tax,12  Mar-16*,5275.0,VOLT
+51,Minority Interest,12  Mar-16*,62.0,VOLT
+52,Prior Period Items,12  Mar-16*,0.0,VOLT
+53,Extraordinary Inc (Exp),12  Mar-16*,289.0,VOLT
+54,Tax,12  Mar-16*,1696.0,VOLT
+55,Profit after tax,12  Mar-16*,3931.0,VOLT
+56,Gross profit margin,12  Mar-16*,7.6,VOLT
+57,Effective tax rate,12  Mar-16*,32.1,VOLT
+58,Net profit margin,12  Mar-16*,6.9,VOLT
+59,Current assets,12  Mar-16*,41256.0,VOLT
+60,Current liabilities,12  Mar-16*,29496.0,VOLT
+61,Net working cap to sales,12  Mar-16*,20.6,VOLT
+62,Current ratio,12  Mar-16*,1.4,VOLT
+63,Inventory Days,12  Mar-16*,46.0,VOLT
+64,Debtors Days,12  Mar-16*,87.0,VOLT
+65,Net fixed assets,12  Mar-16*,2255.0,VOLT
+66,Share capital,12  Mar-16*,331.0,VOLT
+67,"""Free"" reserves",12  Mar-16*,27780.0,VOLT
+68,Net worth,12  Mar-16*,28111.0,VOLT
+69,Long term debt,12  Mar-16*,0.0,VOLT
+70,Total assets,12  Mar-16*,58791.0,VOLT
+71,Interest coverage,12  Mar-16*,34.4,VOLT
+72,Debt to equity ratio,12  Mar-16*,0.0,VOLT
+73,Sales to assets ratio,12  Mar-16*,1.0,VOLT
+74,Return on assets,12  Mar-16*,7.0,VOLT
+75,Return on equity,12  Mar-16*,14.0,VOLT
+76,Return on capital,12  Mar-16*,20.6,VOLT
+77,Exports to sales,12  Mar-16*,0.6,VOLT
+78,Imports to sales,12  Mar-16*,13.0,VOLT
+79,Exports (fob),12  Mar-16*,332.0,VOLT
+80,Imports (cif),12  Mar-16*,7409.0,VOLT
+81,Fx inflow,12  Mar-16*,1342.0,VOLT
+82,Fx outflow,12  Mar-16*,7440.0,VOLT
+83,Net fx,12  Mar-16*,-6098.0,VOLT
+84,From Operations,12  Mar-16*,2191.0,VOLT
+85,From Investments,12  Mar-16*,-3149.0,VOLT
+86,From Financial Activity,12  Mar-16*,483.0,VOLT
+87,Net Cashflow,12  Mar-16*,-475.0,VOLT
+88,Net Sales,12  Mar-17*,60328.0,VOLT
+89,Other income,12  Mar-17*,2120.0,VOLT
+90,Total revenues,12  Mar-17*,62448.0,VOLT
+91,Gross profit,12  Mar-17*,5669.0,VOLT
+92,Depreciation,12  Mar-17*,245.0,VOLT
+93,Interest,12  Mar-17*,160.0,VOLT
+94,Profit before tax,12  Mar-17*,7384.0,VOLT
+95,Minority Interest,12  Mar-17*,-192.0,VOLT
+96,Prior Period Items,12  Mar-17*,0.0,VOLT
+97,Extraordinary Inc (Exp),12  Mar-17*,11.0,VOLT
+98,Tax,12  Mar-17*,2004.0,VOLT
+99,Profit after tax,12  Mar-17*,5199.0,VOLT
+100,Gross profit margin,12  Mar-17*,9.4,VOLT
+101,Effective tax rate,12  Mar-17*,27.1,VOLT
+102,Net profit margin,12  Mar-17*,8.6,VOLT
+103,Current assets,12  Mar-17*,39896.0,VOLT
+104,Current liabilities,12  Mar-17*,30421.0,VOLT
+105,Net working cap to sales,12  Mar-17*,15.7,VOLT
+106,Current ratio,12  Mar-17*,1.3,VOLT
+107,Inventory Days,12  Mar-17*,55.0,VOLT
+108,Debtors Days,12  Mar-17*,88.0,VOLT
+109,Net fixed assets,12  Mar-17*,2190.0,VOLT
+110,Share capital,12  Mar-17*,331.0,VOLT
+111,"""Free"" reserves",12  Mar-17*,32735.0,VOLT
+112,Net worth,12  Mar-17*,33066.0,VOLT
+113,Long term debt,12  Mar-17*,0.0,VOLT
+114,Total assets,12  Mar-17*,64796.0,VOLT
+115,Interest coverage,12  Mar-17*,47.0,VOLT
+116,Debt to equity ratio,12  Mar-17*,0.0,VOLT
+117,Sales to assets ratio,12  Mar-17*,0.9,VOLT
+118,Return on assets,12  Mar-17*,8.3,VOLT
+119,Return on equity,12  Mar-17*,15.7,VOLT
+120,Return on capital,12  Mar-17*,22.3,VOLT
+121,Exports to sales,12  Mar-17*,0.0,VOLT
+122,Imports to sales,12  Mar-17*,13.6,VOLT
+123,Exports (fob),12  Mar-17*,0.0,VOLT
+124,Imports (cif),12  Mar-17*,8221.0,VOLT
+125,Fx inflow,12  Mar-17*,891.0,VOLT
+126,Fx outflow,12  Mar-17*,8243.0,VOLT
+127,Net fx,12  Mar-17*,-7352.0,VOLT
+128,From Operations,12  Mar-17*,4281.0,VOLT
+129,From Investments,12  Mar-17*,-738.0,VOLT
+130,From Financial Activity,12  Mar-17*,-2115.0,VOLT
+131,Net Cashflow,12  Mar-17*,1428.0,VOLT
+132,Net Sales,12  Mar-18*,64044.0,VOLT
+133,Other income,12  Mar-18*,1741.0,VOLT
+134,Total revenues,12  Mar-18*,65785.0,VOLT
+135,Gross profit,12  Mar-18*,6626.0,VOLT
+136,Depreciation,12  Mar-18*,244.0,VOLT
+137,Interest,12  Mar-18*,119.0,VOLT
+138,Profit before tax,12  Mar-18*,8005.0,VOLT
+139,Minority Interest,12  Mar-18*,38.0,VOLT
+140,Prior Period Items,12  Mar-18*,0.0,VOLT
+141,Extraordinary Inc (Exp),12  Mar-18*,6.0,VOLT
+142,Tax,12  Mar-18*,2270.0,VOLT
+143,Profit after tax,12  Mar-18*,5779.0,VOLT
+144,Gross profit margin,12  Mar-18*,10.3,VOLT
+145,Effective tax rate,12  Mar-18*,28.4,VOLT
+146,Net profit margin,12  Mar-18*,9.0,VOLT
+147,Current assets,12  Mar-18*,45975.0,VOLT
+148,Current liabilities,12  Mar-18*,32712.0,VOLT
+149,Net working cap to sales,12  Mar-18*,20.7,VOLT
+150,Current ratio,12  Mar-18*,1.4,VOLT
+151,Inventory Days,12  Mar-18*,46.0,VOLT
+152,Debtors Days,12  Mar-18*,89.0,VOLT
+153,Net fixed assets,12  Mar-18*,2193.0,VOLT
+154,Share capital,12  Mar-18*,331.0,VOLT
+155,"""Free"" reserves",12  Mar-18*,38721.0,VOLT
+156,Net worth,12  Mar-18*,39052.0,VOLT
+157,Long term debt,12  Mar-18*,0.0,VOLT
+158,Total assets,12  Mar-18*,73097.0,VOLT
+159,Interest coverage,12  Mar-18*,68.2,VOLT
+160,Debt to equity ratio,12  Mar-18*,0.0,VOLT
+161,Sales to assets ratio,12  Mar-18*,0.9,VOLT
+162,Return on assets,12  Mar-18*,8.1,VOLT
+163,Return on equity,12  Mar-18*,14.8,VOLT
+164,Return on capital,12  Mar-18*,20.9,VOLT
+165,Exports to sales,12  Mar-18*,0.0,VOLT
+166,Imports to sales,12  Mar-18*,14.1,VOLT
+167,Exports (fob),12  Mar-18*,0.0,VOLT
+168,Imports (cif),12  Mar-18*,9030.0,VOLT
+169,Fx inflow,12  Mar-18*,1849.0,VOLT
+170,Fx outflow,12  Mar-18*,9051.0,VOLT
+171,Net fx,12  Mar-18*,-7202.0,VOLT
+172,From Operations,12  Mar-18*,3253.0,VOLT
+173,From Investments,12  Mar-18*,-1992.0,VOLT
+174,From Financial Activity,12  Mar-18*,-1814.0,VOLT
+175,Net Cashflow,12  Mar-18*,-553.0,VOLT
+176,Net Sales,12  Mar-19*,71241.0,VOLT
+177,Other income,12  Mar-19*,1863.0,VOLT
+178,Total revenues,12  Mar-19*,73103.0,VOLT
+179,Gross profit,12  Mar-19*,6117.0,VOLT
+180,Depreciation,12  Mar-19*,240.0,VOLT
+181,Interest,12  Mar-19*,330.0,VOLT
+182,Profit before tax,12  Mar-19*,7410.0,VOLT
+183,Minority Interest,12  Mar-19*,-518.0,VOLT
+184,Prior Period Items,12  Mar-19*,0.0,VOLT
+185,Extraordinary Inc (Exp),12  Mar-19*,-118.0,VOLT
+186,Tax,12  Mar-19*,1635.0,VOLT
+187,Profit after tax,12  Mar-19*,5139.0,VOLT
+188,Gross profit margin,12  Mar-19*,8.6,VOLT
+189,Effective tax rate,12  Mar-19*,22.1,VOLT
+190,Net profit margin,12  Mar-19*,7.2,VOLT
+191,Current assets,12  Mar-19*,56472.0,VOLT
+192,Current liabilities,12  Mar-19*,32853.0,VOLT
+193,Net working cap to sales,12  Mar-19*,33.2,VOLT
+194,Current ratio,12  Mar-19*,1.7,VOLT
+195,Inventory Days,12  Mar-19*,56.0,VOLT
+196,Debtors Days,12  Mar-19*,92.0,VOLT
+197,Net fixed assets,12  Mar-19*,2775.0,VOLT
+198,Share capital,12  Mar-19*,331.0,VOLT
+199,"""Free"" reserves",12  Mar-19*,40769.0,VOLT
+200,Net worth,12  Mar-19*,41100.0,VOLT
+201,Long term debt,12  Mar-19*,0.0,VOLT
+202,Total assets,12  Mar-19*,75220.0,VOLT
+203,Interest coverage,12  Mar-19*,23.5,VOLT
+204,Debt to equity ratio,12  Mar-19*,0.0,VOLT
+205,Sales to assets ratio,12  Mar-19*,0.9,VOLT
+206,Return on assets,12  Mar-19*,7.3,VOLT
+207,Return on equity,12  Mar-19*,12.5,VOLT
+208,Return on capital,12  Mar-19*,17.3,VOLT
+209,Exports to sales,12  Mar-19*,0.0,VOLT
+210,Imports to sales,12  Mar-19*,18.2,VOLT
+211,Exports (fob),12  Mar-19*,0.0,VOLT
+212,Imports (cif),12  Mar-19*,12953.0,VOLT
+213,Fx inflow,12  Mar-19*,2649.0,VOLT
+214,Fx outflow,12  Mar-19*,12968.0,VOLT
+215,Net fx,12  Mar-19*,-10319.0,VOLT
+216,From Operations,12  Mar-19*,-3214.0,VOLT
+217,From Investments,12  Mar-19*,3927.0,VOLT
+218,From Financial Activity,12  Mar-19*,-183.0,VOLT
+219,Net Cashflow,12  Mar-19*,531.0,VOLT

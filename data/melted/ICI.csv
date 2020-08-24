@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,24698.0,ICI
+1,Other income,12  Mar-15,650.0,ICI
+2,Total revenues,12  Mar-15,25348.0,ICI
+3,Gross profit,12  Mar-15,2614.0,ICI
+4,Depreciation,12  Mar-15,526.0,ICI
+5,Interest,12  Mar-15,15.0,ICI
+6,Profit before tax,12  Mar-15,2723.0,ICI
+7,Minority Interest,12  Mar-15,0.0,ICI
+8,Prior Period Items,12  Mar-15,0.0,ICI
+9,Extraordinary Inc (Exp),12  Mar-15,27.0,ICI
+10,Tax,12  Mar-15,887.0,ICI
+11,Profit after tax,12  Mar-15,1863.0,ICI
+12,Gross profit margin,12  Mar-15,10.6,ICI
+13,Effective tax rate,12  Mar-15,32.6,ICI
+14,Net profit margin,12  Mar-15,7.5,ICI
+15,Current assets,12  Mar-15,11128.0,ICI
+16,Current liabilities,12  Mar-15,7919.0,ICI
+17,Net working cap to sales,12  Mar-15,13.0,ICI
+18,Current ratio,12  Mar-15,1.4,ICI
+19,Inventory Days,12  Mar-15,54.0,ICI
+20,Debtors Days,12  Mar-15,41.0,ICI
+21,Net fixed assets,12  Mar-15,5283.0,ICI
+22,Share capital,12  Mar-15,467.0,ICI
+23,"""Free"" reserves",12  Mar-15,8733.0,ICI
+24,Net worth,12  Mar-15,9200.0,ICI
+25,Long term debt,12  Mar-15,0.0,ICI
+26,Total assets,12  Mar-15,17991.0,ICI
+27,Interest coverage,12  Mar-15,182.5,ICI
+28,Debt to equity ratio,12  Mar-15,0.0,ICI
+29,Sales to assets ratio,12  Mar-15,1.4,ICI
+30,Return on assets,12  Mar-15,10.4,ICI
+31,Return on equity,12  Mar-15,20.3,ICI
+32,Return on capital,12  Mar-15,30.1,ICI
+33,Exports to sales,12  Mar-15,3.4,ICI
+34,Imports to sales,12  Mar-15,13.8,ICI
+35,Exports (fob),12  Mar-15,838.0,ICI
+36,Imports (cif),12  Mar-15,3409.0,ICI
+37,Fx inflow,12  Mar-15,1213.0,ICI
+38,Fx outflow,12  Mar-15,3551.0,ICI
+39,Net fx,12  Mar-15,-2338.0,ICI
+40,From Operations,12  Mar-15,1554.0,ICI
+41,From Investments,12  Mar-15,2387.0,ICI
+42,From Financial Activity,12  Mar-15,-4097.0,ICI
+43,Net Cashflow,12  Mar-15,-156.0,ICI
+44,Net Sales,12  Mar-16,26831.0,ICI
+45,Other income,12  Mar-16,399.0,ICI
+46,Total revenues,12  Mar-16,27230.0,ICI
+47,Gross profit,12  Mar-16,3049.0,ICI
+48,Depreciation,12  Mar-16,535.0,ICI
+49,Interest,12  Mar-16,13.0,ICI
+50,Profit before tax,12  Mar-16,2900.0,ICI
+51,Minority Interest,12  Mar-16,0.0,ICI
+52,Prior Period Items,12  Mar-16,0.0,ICI
+53,Extraordinary Inc (Exp),12  Mar-16,99.0,ICI
+54,Tax,12  Mar-16,978.0,ICI
+55,Profit after tax,12  Mar-16,2021.0,ICI
+56,Gross profit margin,12  Mar-16,11.4,ICI
+57,Effective tax rate,12  Mar-16,33.7,ICI
+58,Net profit margin,12  Mar-16,7.5,ICI
+59,Current assets,12  Mar-16,13266.0,ICI
+60,Current liabilities,12  Mar-16,12121.0,ICI
+61,Net working cap to sales,12  Mar-16,4.3,ICI
+62,Current ratio,12  Mar-16,1.1,ICI
+63,Inventory Days,12  Mar-16,49.0,ICI
+64,Debtors Days,12  Mar-16,43.0,ICI
+65,Net fixed assets,12  Mar-16,5297.0,ICI
+66,Share capital,12  Mar-16,467.0,ICI
+67,"""Free"" reserves",12  Mar-16,6823.0,ICI
+68,Net worth,12  Mar-16,7290.0,ICI
+69,Long term debt,12  Mar-16,0.0,ICI
+70,Total assets,12  Mar-16,20189.0,ICI
+71,Interest coverage,12  Mar-16,224.1,ICI
+72,Debt to equity ratio,12  Mar-16,0.0,ICI
+73,Sales to assets ratio,12  Mar-16,1.3,ICI
+74,Return on assets,12  Mar-16,10.1,ICI
+75,Return on equity,12  Mar-16,27.7,ICI
+76,Return on capital,12  Mar-16,41.3,ICI
+77,Exports to sales,12  Mar-16,3.3,ICI
+78,Imports to sales,12  Mar-16,16.1,ICI
+79,Exports (fob),12  Mar-16,890.0,ICI
+80,Imports (cif),12  Mar-16,4324.0,ICI
+81,Fx inflow,12  Mar-16,1215.0,ICI
+82,Fx outflow,12  Mar-16,4502.0,ICI
+83,Net fx,12  Mar-16,-3287.0,ICI
+84,From Operations,12  Mar-16,2644.0,ICI
+85,From Investments,12  Mar-16,-1566.0,ICI
+86,From Financial Activity,12  Mar-16,-1133.0,ICI
+87,Net Cashflow,12  Mar-16,-55.0,ICI
+88,Net Sales,12  Mar-17*,25725.0,ICI
+89,Other income,12  Mar-17*,489.0,ICI
+90,Total revenues,12  Mar-17*,26214.0,ICI
+91,Gross profit,12  Mar-17*,3285.0,ICI
+92,Depreciation,12  Mar-17*,543.0,ICI
+93,Interest,12  Mar-17*,32.0,ICI
+94,Profit before tax,12  Mar-17*,3199.0,ICI
+95,Minority Interest,12  Mar-17*,0.0,ICI
+96,Prior Period Items,12  Mar-17*,0.0,ICI
+97,Extraordinary Inc (Exp),12  Mar-17*,38.0,ICI
+98,Tax,12  Mar-17*,896.0,ICI
+99,Profit after tax,12  Mar-17*,2341.0,ICI
+100,Gross profit margin,12  Mar-17*,12.8,ICI
+101,Effective tax rate,12  Mar-17*,28.0,ICI
+102,Net profit margin,12  Mar-17*,9.1,ICI
+103,Current assets,12  Mar-17*,12023.0,ICI
+104,Current liabilities,12  Mar-17*,7926.0,ICI
+105,Net working cap to sales,12  Mar-17*,15.9,ICI
+106,Current ratio,12  Mar-17*,1.5,ICI
+107,Inventory Days,12  Mar-17*,58.0,ICI
+108,Debtors Days,12  Mar-17*,58.0,ICI
+109,Net fixed assets,12  Mar-17*,5423.0,ICI
+110,Share capital,12  Mar-17*,467.0,ICI
+111,"""Free"" reserves",12  Mar-17*,9629.0,ICI
+112,Net worth,12  Mar-17*,10096.0,ICI
+113,Long term debt,12  Mar-17*,29.0,ICI
+114,Total assets,12  Mar-17*,18845.0,ICI
+115,Interest coverage,12  Mar-17*,101.0,ICI
+116,Debt to equity ratio,12  Mar-17*,0.0,ICI
+117,Sales to assets ratio,12  Mar-17*,1.4,ICI
+118,Return on assets,12  Mar-17*,12.6,ICI
+119,Return on equity,12  Mar-17*,23.2,ICI
+120,Return on capital,12  Mar-17*,32.3,ICI
+121,Exports to sales,12  Mar-17*,0.0,ICI
+122,Imports to sales,12  Mar-17*,0.0,ICI
+123,Exports (fob),12  Mar-17*,0.0,ICI
+124,Imports (cif),12  Mar-17*,0.0,ICI
+125,Fx inflow,12  Mar-17*,930.0,ICI
+126,Fx outflow,12  Mar-17*,4161.0,ICI
+127,Net fx,12  Mar-17*,-3231.0,ICI
+128,From Operations,12  Mar-17*,1433.0,ICI
+129,From Investments,12  Mar-17*,2251.0,ICI
+130,From Financial Activity,12  Mar-17*,-3924.0,ICI
+131,Net Cashflow,12  Mar-17*,-240.0,ICI
+132,Net Sales,12  Mar-18*,27193.0,ICI
+133,Other income,12  Mar-18*,438.0,ICI
+134,Total revenues,12  Mar-18*,27631.0,ICI
+135,Gross profit,12  Mar-18*,2986.0,ICI
+136,Depreciation,12  Mar-18*,582.0,ICI
+137,Interest,12  Mar-18*,35.0,ICI
+138,Profit before tax,12  Mar-18*,2807.0,ICI
+139,Minority Interest,12  Mar-18*,0.0,ICI
+140,Prior Period Items,12  Mar-18*,0.0,ICI
+141,Extraordinary Inc (Exp),12  Mar-18*,20.0,ICI
+142,Tax,12  Mar-18*,775.0,ICI
+143,Profit after tax,12  Mar-18*,2052.0,ICI
+144,Gross profit margin,12  Mar-18*,11.0,ICI
+145,Effective tax rate,12  Mar-18*,27.6,ICI
+146,Net profit margin,12  Mar-18*,7.5,ICI
+147,Current assets,12  Mar-18*,15304.0,ICI
+148,Current liabilities,12  Mar-18*,8691.0,ICI
+149,Net working cap to sales,12  Mar-18*,24.3,ICI
+150,Current ratio,12  Mar-18*,1.8,ICI
+151,Inventory Days,12  Mar-18*,47.0,ICI
+152,Debtors Days,12  Mar-18*,53.0,ICI
+153,Net fixed assets,12  Mar-18*,5657.0,ICI
+154,Share capital,12  Mar-18*,467.0,ICI
+155,"""Free"" reserves",12  Mar-18*,12442.0,ICI
+156,Net worth,12  Mar-18*,12909.0,ICI
+157,Long term debt,12  Mar-18*,29.0,ICI
+158,Total assets,12  Mar-18*,22326.0,ICI
+159,Interest coverage,12  Mar-18*,81.2,ICI
+160,Debt to equity ratio,12  Mar-18*,0.0,ICI
+161,Sales to assets ratio,12  Mar-18*,1.2,ICI
+162,Return on assets,12  Mar-18*,9.3,ICI
+163,Return on equity,12  Mar-18*,15.9,ICI
+164,Return on capital,12  Mar-18*,22.1,ICI
+165,Exports to sales,12  Mar-18*,0.0,ICI
+166,Imports to sales,12  Mar-18*,0.0,ICI
+167,Exports (fob),12  Mar-18*,0.0,ICI
+168,Imports (cif),12  Mar-18*,0.0,ICI
+169,Fx inflow,12  Mar-18*,983.0,ICI
+170,Fx outflow,12  Mar-18*,3571.0,ICI
+171,Net fx,12  Mar-18*,-2588.0,ICI
+172,From Operations,12  Mar-18*,1826.0,ICI
+173,From Investments,12  Mar-18*,-56.0,ICI
+174,From Financial Activity,12  Mar-18*,-1256.0,ICI
+175,Net Cashflow,12  Mar-18*,514.0,ICI
+176,Net Sales,12  Mar-19*,29184.0,ICI
+177,Other income,12  Mar-19*,422.0,ICI
+178,Total revenues,12  Mar-19*,29606.0,ICI
+179,Gross profit,12  Mar-19*,3424.0,ICI
+180,Depreciation,12  Mar-19*,652.0,ICI
+181,Interest,12  Mar-19*,45.0,ICI
+182,Profit before tax,12  Mar-19*,3149.0,ICI
+183,Minority Interest,12  Mar-19*,0.0,ICI
+184,Prior Period Items,12  Mar-19*,0.0,ICI
+185,Extraordinary Inc (Exp),12  Mar-19*,7.0,ICI
+186,Tax,12  Mar-19*,1046.0,ICI
+187,Profit after tax,12  Mar-19*,2110.0,ICI
+188,Gross profit margin,12  Mar-19*,11.7,ICI
+189,Effective tax rate,12  Mar-19*,33.2,ICI
+190,Net profit margin,12  Mar-19*,7.2,ICI
+191,Current assets,12  Mar-19*,14102.0,ICI
+192,Current liabilities,12  Mar-19*,8845.0,ICI
+193,Net working cap to sales,12  Mar-19*,18.0,ICI
+194,Current ratio,12  Mar-19*,1.6,ICI
+195,Inventory Days,12  Mar-19*,49.0,ICI
+196,Debtors Days,12  Mar-19*,56.0,ICI
+197,Net fixed assets,12  Mar-19*,5470.0,ICI
+198,Share capital,12  Mar-19*,456.0,ICI
+199,"""Free"" reserves",12  Mar-19*,10907.0,ICI
+200,Net worth,12  Mar-19*,11363.0,ICI
+201,Long term debt,12  Mar-19*,29.0,ICI
+202,Total assets,12  Mar-19*,20979.0,ICI
+203,Interest coverage,12  Mar-19*,71.0,ICI
+204,Debt to equity ratio,12  Mar-19*,0.0,ICI
+205,Sales to assets ratio,12  Mar-19*,1.4,ICI
+206,Return on assets,12  Mar-19*,10.3,ICI
+207,Return on equity,12  Mar-19*,18.6,ICI
+208,Return on capital,12  Mar-19*,28.1,ICI
+209,Exports to sales,12  Mar-19*,0.0,ICI
+210,Imports to sales,12  Mar-19*,0.0,ICI
+211,Exports (fob),12  Mar-19*,0.0,ICI
+212,Imports (cif),12  Mar-19*,0.0,ICI
+213,Fx inflow,12  Mar-19*,586.0,ICI
+214,Fx outflow,12  Mar-19*,2899.0,ICI
+215,Net fx,12  Mar-19*,-2313.0,ICI
+216,From Operations,12  Mar-19*,1392.0,ICI
+217,From Investments,12  Mar-19*,1852.0,ICI
+218,From Financial Activity,12  Mar-19*,-3600.0,ICI
+219,Net Cashflow,12  Mar-19*,-356.0,ICI

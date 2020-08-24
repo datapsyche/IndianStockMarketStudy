@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Sep-13,7265.0,WLCH
+1,Other income,12  Sep-13,56.0,WLCH
+2,Total revenues,12  Sep-13,7321.0,WLCH
+3,Gross profit,12  Sep-13,-242.0,WLCH
+4,Depreciation,12  Sep-13,182.0,WLCH
+5,Interest,12  Sep-13,408.0,WLCH
+6,Profit before tax,12  Sep-13,-775.0,WLCH
+7,Minority Interest,12  Sep-13,0.0,WLCH
+8,Prior Period Items,12  Sep-13,0.0,WLCH
+9,Extraordinary Inc (Exp),12  Sep-13,418.0,WLCH
+10,Tax,12  Sep-13,25.0,WLCH
+11,Profit after tax,12  Sep-13,-383.0,WLCH
+12,Gross profit margin,12  Sep-13,-3.3,WLCH
+13,Effective tax rate,12  Sep-13,-3.2,WLCH
+14,Net profit margin,12  Sep-13,-5.3,WLCH
+15,Current assets,12  Sep-13,8695.0,WLCH
+16,Current liabilities,12  Sep-13,7901.0,WLCH
+17,Net working cap to sales,12  Sep-13,10.9,WLCH
+18,Current ratio,12  Sep-13,1.1,WLCH
+19,Inventory Days,12  Sep-13,132.0,WLCH
+20,Debtors Days,12  Sep-13,210.0,WLCH
+21,Net fixed assets,12  Sep-13,6587.0,WLCH
+22,Share capital,12  Sep-13,76.0,WLCH
+23,"""Free"" reserves",12  Sep-13,1923.0,WLCH
+24,Net worth,12  Sep-13,7064.0,WLCH
+25,Long term debt,12  Sep-13,1.0,WLCH
+26,Total assets,12  Sep-13,15860.0,WLCH
+27,Interest coverage,12  Sep-13,-0.9,WLCH
+28,Debt to equity ratio,12  Sep-13,0.0,WLCH
+29,Sales to assets ratio,12  Sep-13,0.5,WLCH
+30,Return on assets,12  Sep-13,0.2,WLCH
+31,Return on equity,12  Sep-13,-5.4,WLCH
+32,Return on capital,12  Sep-13,0.7,WLCH
+33,Exports to sales,12  Sep-13,27.3,WLCH
+34,Imports to sales,12  Sep-13,1.3,WLCH
+35,Exports (fob),12  Sep-13,1984.0,WLCH
+36,Imports (cif),12  Sep-13,93.0,WLCH
+37,Fx inflow,12  Sep-13,2563.0,WLCH
+38,Fx outflow,12  Sep-13,670.0,WLCH
+39,Net fx,12  Sep-13,1893.0,WLCH
+40,From Operations,12  Sep-13,-378.0,WLCH
+41,From Investments,12  Sep-13,267.0,WLCH
+42,From Financial Activity,12  Sep-13,48.0,WLCH
+43,Net Cashflow,12  Sep-13,-63.0,WLCH
+44,Net Sales,12  Sep-14,6382.0,WLCH
+45,Other income,12  Sep-14,79.0,WLCH
+46,Total revenues,12  Sep-14,6461.0,WLCH
+47,Gross profit,12  Sep-14,144.0,WLCH
+48,Depreciation,12  Sep-14,173.0,WLCH
+49,Interest,12  Sep-14,480.0,WLCH
+50,Profit before tax,12  Sep-14,-430.0,WLCH
+51,Minority Interest,12  Sep-14,0.0,WLCH
+52,Prior Period Items,12  Sep-14,0.0,WLCH
+53,Extraordinary Inc (Exp),12  Sep-14,245.0,WLCH
+54,Tax,12  Sep-14,-62.0,WLCH
+55,Profit after tax,12  Sep-14,-124.0,WLCH
+56,Gross profit margin,12  Sep-14,2.2,WLCH
+57,Effective tax rate,12  Sep-14,14.5,WLCH
+58,Net profit margin,12  Sep-14,-1.9,WLCH
+59,Current assets,12  Sep-14,9335.0,WLCH
+60,Current liabilities,12  Sep-14,7786.0,WLCH
+61,Net working cap to sales,12  Sep-14,24.3,WLCH
+62,Current ratio,12  Sep-14,1.2,WLCH
+63,Inventory Days,12  Sep-14,157.0,WLCH
+64,Debtors Days,12  Sep-14,231.0,WLCH
+65,Net fixed assets,12  Sep-14,6214.0,WLCH
+66,Share capital,12  Sep-14,76.0,WLCH
+67,"""Free"" reserves",12  Sep-14,1803.0,WLCH
+68,Net worth,12  Sep-14,6704.0,WLCH
+69,Long term debt,12  Sep-14,751.0,WLCH
+70,Total assets,12  Sep-14,16151.0,WLCH
+71,Interest coverage,12  Sep-14,0.1,WLCH
+72,Debt to equity ratio,12  Sep-14,0.1,WLCH
+73,Sales to assets ratio,12  Sep-14,0.4,WLCH
+74,Return on assets,12  Sep-14,2.2,WLCH
+75,Return on equity,12  Sep-14,-1.8,WLCH
+76,Return on capital,12  Sep-14,3.9,WLCH
+77,Exports to sales,12  Sep-14,12.3,WLCH
+78,Imports to sales,12  Sep-14,2.8,WLCH
+79,Exports (fob),12  Sep-14,787.0,WLCH
+80,Imports (cif),12  Sep-14,181.0,WLCH
+81,Fx inflow,12  Sep-14,871.0,WLCH
+82,Fx outflow,12  Sep-14,291.0,WLCH
+83,Net fx,12  Sep-14,580.0,WLCH
+84,From Operations,12  Sep-14,-382.0,WLCH
+85,From Investments,12  Sep-14,314.0,WLCH
+86,From Financial Activity,12  Sep-14,415.0,WLCH
+87,Net Cashflow,12  Sep-14,346.0,WLCH
+88,Net Sales,18  Mar-16,8021.0,WLCH
+89,Other income,18  Mar-16,52.0,WLCH
+90,Total revenues,18  Mar-16,8074.0,WLCH
+91,Gross profit,18  Mar-16,599.0,WLCH
+92,Depreciation,18  Mar-16,338.0,WLCH
+93,Interest,18  Mar-16,898.0,WLCH
+94,Profit before tax,18  Mar-16,-585.0,WLCH
+95,Minority Interest,18  Mar-16,0.0,WLCH
+96,Prior Period Items,18  Mar-16,0.0,WLCH
+97,Extraordinary Inc (Exp),18  Mar-16,-101.0,WLCH
+98,Tax,18  Mar-16,31.0,WLCH
+99,Profit after tax,18  Mar-16,-717.0,WLCH
+100,Gross profit margin,18  Mar-16,7.5,WLCH
+101,Effective tax rate,18  Mar-16,-5.3,WLCH
+102,Net profit margin,18  Mar-16,-8.9,WLCH
+103,Current assets,18  Mar-16,7893.0,WLCH
+104,Current liabilities,18  Mar-16,6662.0,WLCH
+105,Net working cap to sales,18  Mar-16,15.3,WLCH
+106,Current ratio,18  Mar-16,1.2,WLCH
+107,Inventory Days,18  Mar-16,100.0,WLCH
+108,Debtors Days,18  Mar-16,163.0,WLCH
+109,Net fixed assets,18  Mar-16,5610.0,WLCH
+110,Share capital,18  Mar-16,76.0,WLCH
+111,"""Free"" reserves",18  Mar-16,4366.0,WLCH
+112,Net worth,18  Mar-16,4442.0,WLCH
+113,Long term debt,18  Mar-16,69.0,WLCH
+114,Total assets,18  Mar-16,12806.0,WLCH
+115,Interest coverage,18  Mar-16,0.3,WLCH
+116,Debt to equity ratio,18  Mar-16,0.0,WLCH
+117,Sales to assets ratio,18  Mar-16,0.6,WLCH
+118,Return on assets,18  Mar-16,1.4,WLCH
+119,Return on equity,18  Mar-16,-16.1,WLCH
+120,Return on capital,18  Mar-16,4.7,WLCH
+121,Exports to sales,18  Mar-16,17.0,WLCH
+122,Imports to sales,18  Mar-16,1.2,WLCH
+123,Exports (fob),18  Mar-16,1360.0,WLCH
+124,Imports (cif),18  Mar-16,96.0,WLCH
+125,Fx inflow,18  Mar-16,1444.0,WLCH
+126,Fx outflow,18  Mar-16,189.0,WLCH
+127,Net fx,18  Mar-16,1255.0,WLCH
+128,From Operations,18  Mar-16,1.0,WLCH
+129,From Investments,18  Mar-16,152.0,WLCH
+130,From Financial Activity,18  Mar-16,-374.0,WLCH
+131,Net Cashflow,18  Mar-16,-221.0,WLCH
+132,Net Sales,12  Mar-17,3979.0,WLCH
+133,Other income,12  Mar-17,35.0,WLCH
+134,Total revenues,12  Mar-17,4014.0,WLCH
+135,Gross profit,12  Mar-17,475.0,WLCH
+136,Depreciation,12  Mar-17,357.0,WLCH
+137,Interest,12  Mar-17,695.0,WLCH
+138,Profit before tax,12  Mar-17,-542.0,WLCH
+139,Minority Interest,12  Mar-17,0.0,WLCH
+140,Prior Period Items,12  Mar-17,0.0,WLCH
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,WLCH
+142,Tax,12  Mar-17,253.0,WLCH
+143,Profit after tax,12  Mar-17,-795.0,WLCH
+144,Gross profit margin,12  Mar-17,11.9,WLCH
+145,Effective tax rate,12  Mar-17,-46.7,WLCH
+146,Net profit margin,12  Mar-17,-20.0,WLCH
+147,Current assets,12  Mar-17,7667.0,WLCH
+148,Current liabilities,12  Mar-17,7254.0,WLCH
+149,Net working cap to sales,12  Mar-17,10.4,WLCH
+150,Current ratio,12  Mar-17,1.1,WLCH
+151,Inventory Days,12  Mar-17,176.0,WLCH
+152,Debtors Days,12  Mar-17,330.0,WLCH
+153,Net fixed assets,12  Mar-17,5255.0,WLCH
+154,Share capital,12  Mar-17,76.0,WLCH
+155,"""Free"" reserves",12  Mar-17,3568.0,WLCH
+156,Net worth,12  Mar-17,3644.0,WLCH
+157,Long term debt,12  Mar-17,69.0,WLCH
+158,Total assets,12  Mar-17,12091.0,WLCH
+159,Interest coverage,12  Mar-17,0.2,WLCH
+160,Debt to equity ratio,12  Mar-17,0.0,WLCH
+161,Sales to assets ratio,12  Mar-17,0.3,WLCH
+162,Return on assets,12  Mar-17,-0.8,WLCH
+163,Return on equity,12  Mar-17,-21.8,WLCH
+164,Return on capital,12  Mar-17,4.1,WLCH
+165,Exports to sales,12  Mar-17,9.3,WLCH
+166,Imports to sales,12  Mar-17,1.5,WLCH
+167,Exports (fob),12  Mar-17,368.0,WLCH
+168,Imports (cif),12  Mar-17,60.0,WLCH
+169,Fx inflow,12  Mar-17,378.0,WLCH
+170,Fx outflow,12  Mar-17,118.0,WLCH
+171,Net fx,12  Mar-17,261.0,WLCH
+172,From Operations,12  Mar-17,626.0,WLCH
+173,From Investments,12  Mar-17,-96.0,WLCH
+174,From Financial Activity,12  Mar-17,-664.0,WLCH
+175,Net Cashflow,12  Mar-17,-135.0,WLCH
+176,Net Sales,12  Mar-18,3984.0,WLCH
+177,Other income,12  Mar-18,89.0,WLCH
+178,Total revenues,12  Mar-18,4073.0,WLCH
+179,Gross profit,12  Mar-18,749.0,WLCH
+180,Depreciation,12  Mar-18,335.0,WLCH
+181,Interest,12  Mar-18,761.0,WLCH
+182,Profit before tax,12  Mar-18,-258.0,WLCH
+183,Minority Interest,12  Mar-18,0.0,WLCH
+184,Prior Period Items,12  Mar-18,0.0,WLCH
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,WLCH
+186,Tax,12  Mar-18,0.0,WLCH
+187,Profit after tax,12  Mar-18,-258.0,WLCH
+188,Gross profit margin,12  Mar-18,18.8,WLCH
+189,Effective tax rate,12  Mar-18,0.0,WLCH
+190,Net profit margin,12  Mar-18,-6.5,WLCH
+191,Current assets,12  Mar-18,7082.0,WLCH
+192,Current liabilities,12  Mar-18,5059.0,WLCH
+193,Net working cap to sales,12  Mar-18,50.8,WLCH
+194,Current ratio,12  Mar-18,1.4,WLCH
+195,Inventory Days,12  Mar-18,157.0,WLCH
+196,Debtors Days,12  Mar-18,339.0,WLCH
+197,Net fixed assets,12  Mar-18,3657.0,WLCH
+198,Share capital,12  Mar-18,76.0,WLCH
+199,"""Free"" reserves",12  Mar-18,3314.0,WLCH
+200,Net worth,12  Mar-18,3390.0,WLCH
+201,Long term debt,12  Mar-18,69.0,WLCH
+202,Total assets,12  Mar-18,11546.0,WLCH
+203,Interest coverage,12  Mar-18,0.7,WLCH
+204,Debt to equity ratio,12  Mar-18,0.0,WLCH
+205,Sales to assets ratio,12  Mar-18,0.3,WLCH
+206,Return on assets,12  Mar-18,4.4,WLCH
+207,Return on equity,12  Mar-18,-7.6,WLCH
+208,Return on capital,12  Mar-18,14.5,WLCH
+209,Exports to sales,12  Mar-18,0.0,WLCH
+210,Imports to sales,12  Mar-18,0.0,WLCH
+211,Exports (fob),12  Mar-18,0.0,WLCH
+212,Imports (cif),12  Mar-18,0.0,WLCH
+213,Fx inflow,12  Mar-18,357.0,WLCH
+214,Fx outflow,12  Mar-18,61.0,WLCH
+215,Net fx,12  Mar-18,296.0,WLCH
+216,From Operations,12  Mar-18,498.0,WLCH
+217,From Investments,12  Mar-18,34.0,WLCH
+218,From Financial Activity,12  Mar-18,-555.0,WLCH
+219,Net Cashflow,12  Mar-18,-23.0,WLCH

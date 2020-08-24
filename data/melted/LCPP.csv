@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-12,2750.0,LCPP
+1,Other income,12  Mar-12,1.0,LCPP
+2,Total revenues,12  Mar-12,2752.0,LCPP
+3,Gross profit,12  Mar-12,100.0,LCPP
+4,Depreciation,12  Mar-12,43.0,LCPP
+5,Interest,12  Mar-12,36.0,LCPP
+6,Profit before tax,12  Mar-12,22.0,LCPP
+7,Minority Interest,12  Mar-12,0.0,LCPP
+8,Prior Period Items,12  Mar-12,0.0,LCPP
+9,Extraordinary Inc (Exp),12  Mar-12,0.0,LCPP
+10,Tax,12  Mar-12,5.0,LCPP
+11,Profit after tax,12  Mar-12,17.0,LCPP
+12,Gross profit margin,12  Mar-12,3.6,LCPP
+13,Effective tax rate,12  Mar-12,21.8,LCPP
+14,Net profit margin,12  Mar-12,0.6,LCPP
+15,Current assets,12  Mar-12,1010.0,LCPP
+16,Current liabilities,12  Mar-12,403.0,LCPP
+17,Net working cap to sales,12  Mar-12,22.1,LCPP
+18,Current ratio,12  Mar-12,2.5,LCPP
+19,Inventory Days,12  Mar-12,84.0,LCPP
+20,Debtors Days,12  Mar-12,44.0,LCPP
+21,Net fixed assets,12  Mar-12,282.0,LCPP
+22,Share capital,12  Mar-12,128.0,LCPP
+23,"""Free"" reserves",12  Mar-12,348.0,LCPP
+24,Net worth,12  Mar-12,476.0,LCPP
+25,Long term debt,12  Mar-12,18.0,LCPP
+26,Total assets,12  Mar-12,361.0,LCPP
+27,Interest coverage,12  Mar-12,1.6,LCPP
+28,Debt to equity ratio,12  Mar-12,0.0,LCPP
+29,Sales to assets ratio,12  Mar-12,7.6,LCPP
+30,Return on assets,12  Mar-12,14.8,LCPP
+31,Return on equity,12  Mar-12,3.6,LCPP
+32,Return on capital,12  Mar-12,11.8,LCPP
+33,Exports to sales,12  Mar-12,24.2,LCPP
+34,Imports to sales,12  Mar-12,12.0,LCPP
+35,Exports (fob),12  Mar-12,664.0,LCPP
+36,Imports (cif),12  Mar-12,329.0,LCPP
+37,Fx inflow,12  Mar-12,664.0,LCPP
+38,Fx outflow,12  Mar-12,337.0,LCPP
+39,Net fx,12  Mar-12,328.0,LCPP
+40,From Operations,12  Mar-12,114.0,LCPP
+41,From Investments,12  Mar-12,-64.0,LCPP
+42,From Financial Activity,12  Mar-12,-50.0,LCPP
+43,Net Cashflow,12  Mar-12,0.0,LCPP
+44,Net Sales,12  Mar-13,3053.0,LCPP
+45,Other income,12  Mar-13,4.0,LCPP
+46,Total revenues,12  Mar-13,3056.0,LCPP
+47,Gross profit,12  Mar-13,136.0,LCPP
+48,Depreciation,12  Mar-13,45.0,LCPP
+49,Interest,12  Mar-13,25.0,LCPP
+50,Profit before tax,12  Mar-13,71.0,LCPP
+51,Minority Interest,12  Mar-13,0.0,LCPP
+52,Prior Period Items,12  Mar-13,0.0,LCPP
+53,Extraordinary Inc (Exp),12  Mar-13,0.0,LCPP
+54,Tax,12  Mar-13,16.0,LCPP
+55,Profit after tax,12  Mar-13,54.0,LCPP
+56,Gross profit margin,12  Mar-13,4.5,LCPP
+57,Effective tax rate,12  Mar-13,23.0,LCPP
+58,Net profit margin,12  Mar-13,1.8,LCPP
+59,Current assets,12  Mar-13,1158.0,LCPP
+60,Current liabilities,12  Mar-13,735.0,LCPP
+61,Net working cap to sales,12  Mar-13,13.9,LCPP
+62,Current ratio,12  Mar-13,1.6,LCPP
+63,Inventory Days,12  Mar-13,79.0,LCPP
+64,Debtors Days,12  Mar-13,53.0,LCPP
+65,Net fixed assets,12  Mar-13,296.0,LCPP
+66,Share capital,12  Mar-13,148.0,LCPP
+67,"""Free"" reserves",12  Mar-13,558.0,LCPP
+68,Net worth,12  Mar-13,706.0,LCPP
+69,Long term debt,12  Mar-13,10.0,LCPP
+70,Total assets,12  Mar-13,1479.0,LCPP
+71,Interest coverage,12  Mar-13,3.8,LCPP
+72,Debt to equity ratio,12  Mar-13,0.0,LCPP
+73,Sales to assets ratio,12  Mar-13,2.1,LCPP
+74,Return on assets,12  Mar-13,5.3,LCPP
+75,Return on equity,12  Mar-13,7.7,LCPP
+76,Return on capital,12  Mar-13,13.3,LCPP
+77,Exports to sales,12  Mar-13,24.9,LCPP
+78,Imports to sales,12  Mar-13,10.9,LCPP
+79,Exports (fob),12  Mar-13,760.0,LCPP
+80,Imports (cif),12  Mar-13,332.0,LCPP
+81,Fx inflow,12  Mar-13,760.0,LCPP
+82,Fx outflow,12  Mar-13,341.0,LCPP
+83,Net fx,12  Mar-13,419.0,LCPP
+84,From Operations,12  Mar-13,8.0,LCPP
+85,From Investments,12  Mar-13,-55.0,LCPP
+86,From Financial Activity,12  Mar-13,47.0,LCPP
+87,Net Cashflow,12  Mar-13,1.0,LCPP
+88,Net Sales,12  Mar-14,3141.0,LCPP
+89,Other income,12  Mar-14,1.0,LCPP
+90,Total revenues,12  Mar-14,3142.0,LCPP
+91,Gross profit,12  Mar-14,221.0,LCPP
+92,Depreciation,12  Mar-14,51.0,LCPP
+93,Interest,12  Mar-14,24.0,LCPP
+94,Profit before tax,12  Mar-14,147.0,LCPP
+95,Minority Interest,12  Mar-14,0.0,LCPP
+96,Prior Period Items,12  Mar-14,0.0,LCPP
+97,Extraordinary Inc (Exp),12  Mar-14,0.0,LCPP
+98,Tax,12  Mar-14,32.0,LCPP
+99,Profit after tax,12  Mar-14,115.0,LCPP
+100,Gross profit margin,12  Mar-14,7.0,LCPP
+101,Effective tax rate,12  Mar-14,21.8,LCPP
+102,Net profit margin,12  Mar-14,3.7,LCPP
+103,Current assets,12  Mar-14,1181.0,LCPP
+104,Current liabilities,12  Mar-14,744.0,LCPP
+105,Net working cap to sales,12  Mar-14,13.9,LCPP
+106,Current ratio,12  Mar-14,1.6,LCPP
+107,Inventory Days,12  Mar-14,82.0,LCPP
+108,Debtors Days,12  Mar-14,48.0,LCPP
+109,Net fixed assets,12  Mar-14,335.0,LCPP
+110,Share capital,12  Mar-14,148.0,LCPP
+111,"""Free"" reserves",12  Mar-14,638.0,LCPP
+112,Net worth,12  Mar-14,786.0,LCPP
+113,Long term debt,12  Mar-14,1.0,LCPP
+114,Total assets,12  Mar-14,1562.0,LCPP
+115,Interest coverage,12  Mar-14,7.2,LCPP
+116,Debt to equity ratio,12  Mar-14,0.0,LCPP
+117,Sales to assets ratio,12  Mar-14,2.0,LCPP
+118,Return on assets,12  Mar-14,8.9,LCPP
+119,Return on equity,12  Mar-14,14.6,LCPP
+120,Return on capital,12  Mar-14,21.7,LCPP
+121,Exports to sales,12  Mar-14,28.6,LCPP
+122,Imports to sales,12  Mar-14,14.9,LCPP
+123,Exports (fob),12  Mar-14,899.0,LCPP
+124,Imports (cif),12  Mar-14,467.0,LCPP
+125,Fx inflow,12  Mar-14,899.0,LCPP
+126,Fx outflow,12  Mar-14,473.0,LCPP
+127,Net fx,12  Mar-14,426.0,LCPP
+128,From Operations,12  Mar-14,114.0,LCPP
+129,From Investments,12  Mar-14,-91.0,LCPP
+130,From Financial Activity,12  Mar-14,-23.0,LCPP
+131,Net Cashflow,12  Mar-14,-1.0,LCPP
+132,Net Sales,12  Mar-15,3183.0,LCPP
+133,Other income,12  Mar-15,3.0,LCPP
+134,Total revenues,12  Mar-15,3186.0,LCPP
+135,Gross profit,12  Mar-15,253.0,LCPP
+136,Depreciation,12  Mar-15,59.0,LCPP
+137,Interest,12  Mar-15,15.0,LCPP
+138,Profit before tax,12  Mar-15,182.0,LCPP
+139,Minority Interest,12  Mar-15,0.0,LCPP
+140,Prior Period Items,12  Mar-15,0.0,LCPP
+141,Extraordinary Inc (Exp),12  Mar-15,0.0,LCPP
+142,Tax,12  Mar-15,39.0,LCPP
+143,Profit after tax,12  Mar-15,143.0,LCPP
+144,Gross profit margin,12  Mar-15,7.9,LCPP
+145,Effective tax rate,12  Mar-15,21.3,LCPP
+146,Net profit margin,12  Mar-15,4.5,LCPP
+147,Current assets,12  Mar-15,1101.0,LCPP
+148,Current liabilities,12  Mar-15,568.0,LCPP
+149,Net working cap to sales,12  Mar-15,16.8,LCPP
+150,Current ratio,12  Mar-15,1.9,LCPP
+151,Inventory Days,12  Mar-15,73.0,LCPP
+152,Debtors Days,12  Mar-15,46.0,LCPP
+153,Net fixed assets,12  Mar-15,307.0,LCPP
+154,Share capital,12  Mar-15,148.0,LCPP
+155,"""Free"" reserves",12  Mar-15,733.0,LCPP
+156,Net worth,12  Mar-15,881.0,LCPP
+157,Long term debt,12  Mar-15,0.0,LCPP
+158,Total assets,12  Mar-15,1480.0,LCPP
+159,Interest coverage,12  Mar-15,13.3,LCPP
+160,Debt to equity ratio,12  Mar-15,0.0,LCPP
+161,Sales to assets ratio,12  Mar-15,2.2,LCPP
+162,Return on assets,12  Mar-15,10.7,LCPP
+163,Return on equity,12  Mar-15,16.3,LCPP
+164,Return on capital,12  Mar-15,22.3,LCPP
+165,Exports to sales,12  Mar-15,26.8,LCPP
+166,Imports to sales,12  Mar-15,11.9,LCPP
+167,Exports (fob),12  Mar-15,853.0,LCPP
+168,Imports (cif),12  Mar-15,378.0,LCPP
+169,Fx inflow,12  Mar-15,853.0,LCPP
+170,Fx outflow,12  Mar-15,389.0,LCPP
+171,Net fx,12  Mar-15,463.0,LCPP
+172,From Operations,12  Mar-15,248.0,LCPP
+173,From Investments,12  Mar-15,-36.0,LCPP
+174,From Financial Activity,12  Mar-15,-198.0,LCPP
+175,Net Cashflow,12  Mar-15,14.0,LCPP
+176,Net Sales,12  Mar-16,3441.0,LCPP
+177,Other income,12  Mar-16,7.0,LCPP
+178,Total revenues,12  Mar-16,3449.0,LCPP
+179,Gross profit,12  Mar-16,314.0,LCPP
+180,Depreciation,12  Mar-16,60.0,LCPP
+181,Interest,12  Mar-16,15.0,LCPP
+182,Profit before tax,12  Mar-16,246.0,LCPP
+183,Minority Interest,12  Mar-16,0.0,LCPP
+184,Prior Period Items,12  Mar-16,0.0,LCPP
+185,Extraordinary Inc (Exp),12  Mar-16,0.0,LCPP
+186,Tax,12  Mar-16,63.0,LCPP
+187,Profit after tax,12  Mar-16,183.0,LCPP
+188,Gross profit margin,12  Mar-16,9.1,LCPP
+189,Effective tax rate,12  Mar-16,25.6,LCPP
+190,Net profit margin,12  Mar-16,5.3,LCPP
+191,Current assets,12  Mar-16,1334.0,LCPP
+192,Current liabilities,12  Mar-16,802.0,LCPP
+193,Net working cap to sales,12  Mar-16,15.5,LCPP
+194,Current ratio,12  Mar-16,1.7,LCPP
+195,Inventory Days,12  Mar-16,82.0,LCPP
+196,Debtors Days,12  Mar-16,51.0,LCPP
+197,Net fixed assets,12  Mar-16,437.0,LCPP
+198,Share capital,12  Mar-16,148.0,LCPP
+199,"""Free"" reserves",12  Mar-16,863.0,LCPP
+200,Net worth,12  Mar-16,1011.0,LCPP
+201,Long term debt,12  Mar-16,0.0,LCPP
+202,Total assets,12  Mar-16,1855.0,LCPP
+203,Interest coverage,12  Mar-16,17.1,LCPP
+204,Debt to equity ratio,12  Mar-16,0.0,LCPP
+205,Sales to assets ratio,12  Mar-16,1.9,LCPP
+206,Return on assets,12  Mar-16,10.7,LCPP
+207,Return on equity,12  Mar-16,18.1,LCPP
+208,Return on capital,12  Mar-16,25.9,LCPP
+209,Exports to sales,12  Mar-16,27.9,LCPP
+210,Imports to sales,12  Mar-16,16.0,LCPP
+211,Exports (fob),12  Mar-16,959.0,LCPP
+212,Imports (cif),12  Mar-16,552.0,LCPP
+213,Fx inflow,12  Mar-16,960.0,LCPP
+214,Fx outflow,12  Mar-16,577.0,LCPP
+215,Net fx,12  Mar-16,383.0,LCPP
+216,From Operations,12  Mar-16,97.0,LCPP
+217,From Investments,12  Mar-16,-185.0,LCPP
+218,From Financial Activity,12  Mar-16,74.0,LCPP
+219,Net Cashflow,12  Mar-16,-14.0,LCPP

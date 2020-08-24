@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,70066.0,SNTX
+1,Other income,12  Mar-15*,964.0,SNTX
+2,Total revenues,12  Mar-15*,71030.0,SNTX
+3,Gross profit,12  Mar-15*,11824.0,SNTX
+4,Depreciation,12  Mar-15*,2605.0,SNTX
+5,Interest,12  Mar-15*,2835.0,SNTX
+6,Profit before tax,12  Mar-15*,7348.0,SNTX
+7,Minority Interest,12  Mar-15*,0.0,SNTX
+8,Prior Period Items,12  Mar-15*,21.0,SNTX
+9,Extraordinary Inc (Exp),12  Mar-15*,-218.0,SNTX
+10,Tax,12  Mar-15*,1863.0,SNTX
+11,Profit after tax,12  Mar-15*,5288.0,SNTX
+12,Gross profit margin,12  Mar-15*,16.9,SNTX
+13,Effective tax rate,12  Mar-15*,25.4,SNTX
+14,Net profit margin,12  Mar-15*,7.5,SNTX
+15,Current assets,12  Mar-15*,38594.0,SNTX
+16,Current liabilities,12  Mar-15*,28249.0,SNTX
+17,Net working cap to sales,12  Mar-15*,14.8,SNTX
+18,Current ratio,12  Mar-15*,1.4,SNTX
+19,Inventory Days,12  Mar-15*,27.0,SNTX
+20,Debtors Days,12  Mar-15*,120.0,SNTX
+21,Net fixed assets,12  Mar-15*,52686.0,SNTX
+22,Share capital,12  Mar-15*,424.0,SNTX
+23,"""Free"" reserves",12  Mar-15*,40969.0,SNTX
+24,Net worth,12  Mar-15*,46978.0,SNTX
+25,Long term debt,12  Mar-15*,31817.0,SNTX
+26,Total assets,12  Mar-15*,113077.0,SNTX
+27,Interest coverage,12  Mar-15*,3.6,SNTX
+28,Debt to equity ratio,12  Mar-15*,0.7,SNTX
+29,Sales to assets ratio,12  Mar-15*,0.6,SNTX
+30,Return on assets,12  Mar-15*,7.2,SNTX
+31,Return on equity,12  Mar-15*,11.3,SNTX
+32,Return on capital,12  Mar-15*,12.7,SNTX
+33,Exports to sales,12  Mar-15*,0.5,SNTX
+34,Imports to sales,12  Mar-15*,4.7,SNTX
+35,Exports (fob),12  Mar-15*,332.0,SNTX
+36,Imports (cif),12  Mar-15*,3285.0,SNTX
+37,Fx inflow,12  Mar-15*,332.0,SNTX
+38,Fx outflow,12  Mar-15*,3787.0,SNTX
+39,Net fx,12  Mar-15*,-3456.0,SNTX
+40,From Operations,12  Mar-15*,10095.0,SNTX
+41,From Investments,12  Mar-15*,-18950.0,SNTX
+42,From Financial Activity,12  Mar-15*,10382.0,SNTX
+43,Net Cashflow,12  Mar-15*,1528.0,SNTX
+44,Net Sales,12  Mar-16*,9322.0,SNTX
+45,Other income,12  Mar-16*,764.0,SNTX
+46,Total revenues,12  Mar-16*,10085.0,SNTX
+47,Gross profit,12  Mar-16*,2063.0,SNTX
+48,Depreciation,12  Mar-16*,725.0,SNTX
+49,Interest,12  Mar-16*,679.0,SNTX
+50,Profit before tax,12  Mar-16*,1423.0,SNTX
+51,Minority Interest,12  Mar-16*,0.0,SNTX
+52,Prior Period Items,12  Mar-16*,0.0,SNTX
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,SNTX
+54,Tax,12  Mar-16*,314.0,SNTX
+55,Profit after tax,12  Mar-16*,1108.0,SNTX
+56,Gross profit margin,12  Mar-16*,22.1,SNTX
+57,Effective tax rate,12  Mar-16*,22.1,SNTX
+58,Net profit margin,12  Mar-16*,11.9,SNTX
+59,Current assets,12  Mar-16*,45126.0,SNTX
+60,Current liabilities,12  Mar-16*,25780.0,SNTX
+61,Net working cap to sales,12  Mar-16*,207.5,SNTX
+62,Current ratio,12  Mar-16*,1.8,SNTX
+63,Inventory Days,12  Mar-16*,237.0,SNTX
+64,Debtors Days,12  Mar-16*,876.0,SNTX
+65,Net fixed assets,12  Mar-16*,78957.0,SNTX
+66,Share capital,12  Mar-16*,447.0,SNTX
+67,"""Free"" reserves",12  Mar-16*,55083.0,SNTX
+68,Net worth,12  Mar-16*,55530.0,SNTX
+69,Long term debt,12  Mar-16*,51414.0,SNTX
+70,Total assets,12  Mar-16*,135617.0,SNTX
+71,Interest coverage,12  Mar-16*,3.1,SNTX
+72,Debt to equity ratio,12  Mar-16*,0.9,SNTX
+73,Sales to assets ratio,12  Mar-16*,0.1,SNTX
+74,Return on assets,12  Mar-16*,1.3,SNTX
+75,Return on equity,12  Mar-16*,2.0,SNTX
+76,Return on capital,12  Mar-16*,2.0,SNTX
+77,Exports to sales,12  Mar-16*,6.8,SNTX
+78,Imports to sales,12  Mar-16*,29.7,SNTX
+79,Exports (fob),12  Mar-16*,632.0,SNTX
+80,Imports (cif),12  Mar-16*,2768.0,SNTX
+81,Fx inflow,12  Mar-16*,632.0,SNTX
+82,Fx outflow,12  Mar-16*,3144.0,SNTX
+83,Net fx,12  Mar-16*,-2511.0,SNTX
+84,From Operations,12  Mar-16*,8874.0,SNTX
+85,From Investments,12  Mar-16*,-20112.0,SNTX
+86,From Financial Activity,12  Mar-16*,14104.0,SNTX
+87,Net Cashflow,12  Mar-16*,2863.0,SNTX
+88,Net Sales,12  Mar-17*,19213.0,SNTX
+89,Other income,12  Mar-17*,972.0,SNTX
+90,Total revenues,12  Mar-17*,20185.0,SNTX
+91,Gross profit,12  Mar-17*,2699.0,SNTX
+92,Depreciation,12  Mar-17*,1322.0,SNTX
+93,Interest,12  Mar-17*,933.0,SNTX
+94,Profit before tax,12  Mar-17*,1416.0,SNTX
+95,Minority Interest,12  Mar-17*,0.0,SNTX
+96,Prior Period Items,12  Mar-17*,0.0,SNTX
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SNTX
+98,Tax,12  Mar-17*,73.0,SNTX
+99,Profit after tax,12  Mar-17*,1343.0,SNTX
+100,Gross profit margin,12  Mar-17*,14.0,SNTX
+101,Effective tax rate,12  Mar-17*,5.2,SNTX
+102,Net profit margin,12  Mar-17*,7.0,SNTX
+103,Current assets,12  Mar-17*,21187.0,SNTX
+104,Current liabilities,12  Mar-17*,9689.0,SNTX
+105,Net working cap to sales,12  Mar-17*,59.8,SNTX
+106,Current ratio,12  Mar-17*,2.2,SNTX
+107,Inventory Days,12  Mar-17*,39.0,SNTX
+108,Debtors Days,12  Mar-17*,119.0,SNTX
+109,Net fixed assets,12  Mar-17*,62550.0,SNTX
+110,Share capital,12  Mar-17*,545.0,SNTX
+111,"""Free"" reserves",12  Mar-17*,38584.0,SNTX
+112,Net worth,12  Mar-17*,39129.0,SNTX
+113,Long term debt,12  Mar-17*,36376.0,SNTX
+114,Total assets,12  Mar-17*,86190.0,SNTX
+115,Interest coverage,12  Mar-17*,2.5,SNTX
+116,Debt to equity ratio,12  Mar-17*,0.9,SNTX
+117,Sales to assets ratio,12  Mar-17*,0.2,SNTX
+118,Return on assets,12  Mar-17*,2.6,SNTX
+119,Return on equity,12  Mar-17*,3.4,SNTX
+120,Return on capital,12  Mar-17*,3.1,SNTX
+121,Exports to sales,12  Mar-17*,0.0,SNTX
+122,Imports to sales,12  Mar-17*,0.0,SNTX
+123,Exports (fob),12  Mar-17*,0.0,SNTX
+124,Imports (cif),12  Mar-17*,0.0,SNTX
+125,Fx inflow,12  Mar-17*,380.0,SNTX
+126,Fx outflow,12  Mar-17*,3970.0,SNTX
+127,Net fx,12  Mar-17*,-3590.0,SNTX
+128,From Operations,12  Mar-17*,5628.0,SNTX
+129,From Investments,12  Mar-17*,-27312.0,SNTX
+130,From Financial Activity,12  Mar-17*,23384.0,SNTX
+131,Net Cashflow,12  Mar-17*,-654.0,SNTX
+132,Net Sales,12  Mar-18*,28727.0,SNTX
+133,Other income,12  Mar-18*,1489.0,SNTX
+134,Total revenues,12  Mar-18*,30216.0,SNTX
+135,Gross profit,12  Mar-18*,2876.0,SNTX
+136,Depreciation,12  Mar-18*,1422.0,SNTX
+137,Interest,12  Mar-18*,1140.0,SNTX
+138,Profit before tax,12  Mar-18*,1803.0,SNTX
+139,Minority Interest,12  Mar-18*,0.0,SNTX
+140,Prior Period Items,12  Mar-18*,0.0,SNTX
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SNTX
+142,Tax,12  Mar-18*,384.0,SNTX
+143,Profit after tax,12  Mar-18*,1418.0,SNTX
+144,Gross profit margin,12  Mar-18*,10.0,SNTX
+145,Effective tax rate,12  Mar-18*,21.3,SNTX
+146,Net profit margin,12  Mar-18*,4.9,SNTX
+147,Current assets,12  Mar-18*,21528.0,SNTX
+148,Current liabilities,12  Mar-18*,19515.0,SNTX
+149,Net working cap to sales,12  Mar-18*,7.0,SNTX
+150,Current ratio,12  Mar-18*,1.1,SNTX
+151,Inventory Days,12  Mar-18*,80.0,SNTX
+152,Debtors Days,12  Mar-18*,85.0,SNTX
+153,Net fixed assets,12  Mar-18*,82297.0,SNTX
+154,Share capital,12  Mar-18*,594.0,SNTX
+155,"""Free"" reserves",12  Mar-18*,43508.0,SNTX
+156,Net worth,12  Mar-18*,44102.0,SNTX
+157,Long term debt,12  Mar-18*,42336.0,SNTX
+158,Total assets,12  Mar-18*,106865.0,SNTX
+159,Interest coverage,12  Mar-18*,2.6,SNTX
+160,Debt to equity ratio,12  Mar-18*,1.0,SNTX
+161,Sales to assets ratio,12  Mar-18*,0.3,SNTX
+162,Return on assets,12  Mar-18*,2.4,SNTX
+163,Return on equity,12  Mar-18*,3.2,SNTX
+164,Return on capital,12  Mar-18*,3.4,SNTX
+165,Exports to sales,12  Mar-18*,0.0,SNTX
+166,Imports to sales,12  Mar-18*,0.0,SNTX
+167,Exports (fob),12  Mar-18*,0.0,SNTX
+168,Imports (cif),12  Mar-18*,0.0,SNTX
+169,Fx inflow,12  Mar-18*,1315.0,SNTX
+170,Fx outflow,12  Mar-18*,5986.0,SNTX
+171,Net fx,12  Mar-18*,-4672.0,SNTX
+172,From Operations,12  Mar-18*,182.0,SNTX
+173,From Investments,12  Mar-18*,-21230.0,SNTX
+174,From Financial Activity,12  Mar-18*,15682.0,SNTX
+175,Net Cashflow,12  Mar-18*,-5367.0,SNTX
+176,Net Sales,12  Mar-19*,32570.0,SNTX
+177,Other income,12  Mar-19*,1193.0,SNTX
+178,Total revenues,12  Mar-19*,33763.0,SNTX
+179,Gross profit,12  Mar-19*,3763.0,SNTX
+180,Depreciation,12  Mar-19*,2325.0,SNTX
+181,Interest,12  Mar-19*,2257.0,SNTX
+182,Profit before tax,12  Mar-19*,375.0,SNTX
+183,Minority Interest,12  Mar-19*,0.0,SNTX
+184,Prior Period Items,12  Mar-19*,0.0,SNTX
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SNTX
+186,Tax,12  Mar-19*,160.0,SNTX
+187,Profit after tax,12  Mar-19*,215.0,SNTX
+188,Gross profit margin,12  Mar-19*,11.6,SNTX
+189,Effective tax rate,12  Mar-19*,42.6,SNTX
+190,Net profit margin,12  Mar-19*,0.7,SNTX
+191,Current assets,12  Mar-19*,19389.0,SNTX
+192,Current liabilities,12  Mar-19*,26214.0,SNTX
+193,Net working cap to sales,12  Mar-19*,-21.0,SNTX
+194,Current ratio,12  Mar-19*,0.7,SNTX
+195,Inventory Days,12  Mar-19*,37.0,SNTX
+196,Debtors Days,12  Mar-19*,65.0,SNTX
+197,Net fixed assets,12  Mar-19*,93152.0,SNTX
+198,Share capital,12  Mar-19*,594.0,SNTX
+199,"""Free"" reserves",12  Mar-19*,43534.0,SNTX
+200,Net worth,12  Mar-19*,44128.0,SNTX
+201,Long term debt,12  Mar-19*,45374.0,SNTX
+202,Total assets,12  Mar-19*,116691.0,SNTX
+203,Interest coverage,12  Mar-19*,1.2,SNTX
+204,Debt to equity ratio,12  Mar-19*,1.0,SNTX
+205,Sales to assets ratio,12  Mar-19*,0.3,SNTX
+206,Return on assets,12  Mar-19*,2.1,SNTX
+207,Return on equity,12  Mar-19*,0.5,SNTX
+208,Return on capital,12  Mar-19*,2.9,SNTX
+209,Exports to sales,12  Mar-19*,0.0,SNTX
+210,Imports to sales,12  Mar-19*,0.0,SNTX
+211,Exports (fob),12  Mar-19*,0.0,SNTX
+212,Imports (cif),12  Mar-19*,0.0,SNTX
+213,Fx inflow,12  Mar-19*,628.0,SNTX
+214,Fx outflow,12  Mar-19*,3763.0,SNTX
+215,Net fx,12  Mar-19*,-3135.0,SNTX
+216,From Operations,12  Mar-19*,10611.0,SNTX
+217,From Investments,12  Mar-19*,-12952.0,SNTX
+218,From Financial Activity,12  Mar-19*,2070.0,SNTX
+219,Net Cashflow,12  Mar-19*,-271.0,SNTX

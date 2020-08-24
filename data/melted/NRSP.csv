@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,22042.0,NRSP
+1,Other income,12  Mar-14,70.0,NRSP
+2,Total revenues,12  Mar-14,22112.0,NRSP
+3,Gross profit,12  Mar-14,3502.0,NRSP
+4,Depreciation,12  Mar-14,882.0,NRSP
+5,Interest,12  Mar-14,645.0,NRSP
+6,Profit before tax,12  Mar-14,2045.0,NRSP
+7,Minority Interest,12  Mar-14,0.0,NRSP
+8,Prior Period Items,12  Mar-14,0.0,NRSP
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,NRSP
+10,Tax,12  Mar-14,588.0,NRSP
+11,Profit after tax,12  Mar-14,1458.0,NRSP
+12,Gross profit margin,12  Mar-14,15.9,NRSP
+13,Effective tax rate,12  Mar-14,28.7,NRSP
+14,Net profit margin,12  Mar-14,6.6,NRSP
+15,Current assets,12  Mar-14,11576.0,NRSP
+16,Current liabilities,12  Mar-14,9827.0,NRSP
+17,Net working cap to sales,12  Mar-14,7.9,NRSP
+18,Current ratio,12  Mar-14,1.2,NRSP
+19,Inventory Days,12  Mar-14,99.0,NRSP
+20,Debtors Days,12  Mar-14,68.0,NRSP
+21,Net fixed assets,12  Mar-14,9612.0,NRSP
+22,Share capital,12  Mar-14,181.0,NRSP
+23,"""Free"" reserves",12  Mar-14,7303.0,NRSP
+24,Net worth,12  Mar-14,7635.0,NRSP
+25,Long term debt,12  Mar-14,3661.0,NRSP
+26,Total assets,12  Mar-14,21741.0,NRSP
+27,Interest coverage,12  Mar-14,4.2,NRSP
+28,Debt to equity ratio,12  Mar-14,0.5,NRSP
+29,Sales to assets ratio,12  Mar-14,1.0,NRSP
+30,Return on assets,12  Mar-14,9.7,NRSP
+31,Return on equity,12  Mar-14,19.1,NRSP
+32,Return on capital,12  Mar-14,23.8,NRSP
+33,Exports to sales,12  Mar-14,63.9,NRSP
+34,Imports to sales,12  Mar-14,3.0,NRSP
+35,Exports (fob),12  Mar-14,14092.0,NRSP
+36,Imports (cif),12  Mar-14,663.0,NRSP
+37,Fx inflow,12  Mar-14,14098.0,NRSP
+38,Fx outflow,12  Mar-14,818.0,NRSP
+39,Net fx,12  Mar-14,13281.0,NRSP
+40,From Operations,12  Mar-14,2088.0,NRSP
+41,From Investments,12  Mar-14,-2108.0,NRSP
+42,From Financial Activity,12  Mar-14,-30.0,NRSP
+43,Net Cashflow,12  Mar-14,-50.0,NRSP
+44,Net Sales,12  Mar-15,21496.0,NRSP
+45,Other income,12  Mar-15,113.0,NRSP
+46,Total revenues,12  Mar-15,21609.0,NRSP
+47,Gross profit,12  Mar-15,2136.0,NRSP
+48,Depreciation,12  Mar-15,1306.0,NRSP
+49,Interest,12  Mar-15,795.0,NRSP
+50,Profit before tax,12  Mar-15,148.0,NRSP
+51,Minority Interest,12  Mar-15,0.0,NRSP
+52,Prior Period Items,12  Mar-15,0.0,NRSP
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,NRSP
+54,Tax,12  Mar-15,-55.0,NRSP
+55,Profit after tax,12  Mar-15,204.0,NRSP
+56,Gross profit margin,12  Mar-15,9.9,NRSP
+57,Effective tax rate,12  Mar-15,-37.3,NRSP
+58,Net profit margin,12  Mar-15,0.9,NRSP
+59,Current assets,12  Mar-15,10693.0,NRSP
+60,Current liabilities,12  Mar-15,8528.0,NRSP
+61,Net working cap to sales,12  Mar-15,10.1,NRSP
+62,Current ratio,12  Mar-15,1.3,NRSP
+63,Inventory Days,12  Mar-15,97.0,NRSP
+64,Debtors Days,12  Mar-15,65.0,NRSP
+65,Net fixed assets,12  Mar-15,8969.0,NRSP
+66,Share capital,12  Mar-15,181.0,NRSP
+67,"""Free"" reserves",12  Mar-15,7271.0,NRSP
+68,Net worth,12  Mar-15,7603.0,NRSP
+69,Long term debt,12  Mar-15,3463.0,NRSP
+70,Total assets,12  Mar-15,20026.0,NRSP
+71,Interest coverage,12  Mar-15,1.2,NRSP
+72,Debt to equity ratio,12  Mar-15,0.5,NRSP
+73,Sales to assets ratio,12  Mar-15,1.1,NRSP
+74,Return on assets,12  Mar-15,5.0,NRSP
+75,Return on equity,12  Mar-15,2.7,NRSP
+76,Return on capital,12  Mar-15,8.5,NRSP
+77,Exports to sales,12  Mar-15,64.2,NRSP
+78,Imports to sales,12  Mar-15,1.8,NRSP
+79,Exports (fob),12  Mar-15,13805.0,NRSP
+80,Imports (cif),12  Mar-15,390.0,NRSP
+81,Fx inflow,12  Mar-15,13811.0,NRSP
+82,Fx outflow,12  Mar-15,544.0,NRSP
+83,Net fx,12  Mar-15,13267.0,NRSP
+84,From Operations,12  Mar-15,1342.0,NRSP
+85,From Investments,12  Mar-15,-892.0,NRSP
+86,From Financial Activity,12  Mar-15,-437.0,NRSP
+87,Net Cashflow,12  Mar-15,14.0,NRSP
+88,Net Sales,12  Mar-16,20382.0,NRSP
+89,Other income,12  Mar-16,156.0,NRSP
+90,Total revenues,12  Mar-16,20538.0,NRSP
+91,Gross profit,12  Mar-16,2227.0,NRSP
+92,Depreciation,12  Mar-16,1011.0,NRSP
+93,Interest,12  Mar-16,576.0,NRSP
+94,Profit before tax,12  Mar-16,796.0,NRSP
+95,Minority Interest,12  Mar-16,0.0,NRSP
+96,Prior Period Items,12  Mar-16,0.0,NRSP
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,NRSP
+98,Tax,12  Mar-16,283.0,NRSP
+99,Profit after tax,12  Mar-16,514.0,NRSP
+100,Gross profit margin,12  Mar-16,10.9,NRSP
+101,Effective tax rate,12  Mar-16,35.5,NRSP
+102,Net profit margin,12  Mar-16,2.5,NRSP
+103,Current assets,12  Mar-16,11221.0,NRSP
+104,Current liabilities,12  Mar-16,8808.0,NRSP
+105,Net working cap to sales,12  Mar-16,11.8,NRSP
+106,Current ratio,12  Mar-16,1.3,NRSP
+107,Inventory Days,12  Mar-16,114.0,NRSP
+108,Debtors Days,12  Mar-16,65.0,NRSP
+109,Net fixed assets,12  Mar-16,8288.0,NRSP
+110,Share capital,12  Mar-16,181.0,NRSP
+111,"""Free"" reserves",12  Mar-16,7705.0,NRSP
+112,Net worth,12  Mar-16,8037.0,NRSP
+113,Long term debt,12  Mar-16,2731.0,NRSP
+114,Total assets,12  Mar-16,19993.0,NRSP
+115,Interest coverage,12  Mar-16,2.4,NRSP
+116,Debt to equity ratio,12  Mar-16,0.3,NRSP
+117,Sales to assets ratio,12  Mar-16,1.0,NRSP
+118,Return on assets,12  Mar-16,5.5,NRSP
+119,Return on equity,12  Mar-16,6.4,NRSP
+120,Return on capital,12  Mar-16,12.7,NRSP
+121,Exports to sales,12  Mar-16,61.9,NRSP
+122,Imports to sales,12  Mar-16,2.9,NRSP
+123,Exports (fob),12  Mar-16,12610.0,NRSP
+124,Imports (cif),12  Mar-16,600.0,NRSP
+125,Fx inflow,12  Mar-16,12620.0,NRSP
+126,Fx outflow,12  Mar-16,730.0,NRSP
+127,Net fx,12  Mar-16,11891.0,NRSP
+128,From Operations,12  Mar-16,1681.0,NRSP
+129,From Investments,12  Mar-16,-439.0,NRSP
+130,From Financial Activity,12  Mar-16,-1208.0,NRSP
+131,Net Cashflow,12  Mar-16,35.0,NRSP
+132,Net Sales,12  Mar-17,21292.0,NRSP
+133,Other income,12  Mar-17,220.0,NRSP
+134,Total revenues,12  Mar-17,21512.0,NRSP
+135,Gross profit,12  Mar-17,1826.0,NRSP
+136,Depreciation,12  Mar-17,958.0,NRSP
+137,Interest,12  Mar-17,410.0,NRSP
+138,Profit before tax,12  Mar-17,677.0,NRSP
+139,Minority Interest,12  Mar-17,0.0,NRSP
+140,Prior Period Items,12  Mar-17,0.0,NRSP
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,NRSP
+142,Tax,12  Mar-17,217.0,NRSP
+143,Profit after tax,12  Mar-17,460.0,NRSP
+144,Gross profit margin,12  Mar-17,8.6,NRSP
+145,Effective tax rate,12  Mar-17,32.1,NRSP
+146,Net profit margin,12  Mar-17,2.2,NRSP
+147,Current assets,12  Mar-17,8989.0,NRSP
+148,Current liabilities,12  Mar-17,6915.0,NRSP
+149,Net working cap to sales,12  Mar-17,9.7,NRSP
+150,Current ratio,12  Mar-17,1.3,NRSP
+151,Inventory Days,12  Mar-17,84.0,NRSP
+152,Debtors Days,12  Mar-17,52.0,NRSP
+153,Net fixed assets,12  Mar-17,7731.0,NRSP
+154,Share capital,12  Mar-17,181.0,NRSP
+155,"""Free"" reserves",12  Mar-17,8382.0,NRSP
+156,Net worth,12  Mar-17,8563.0,NRSP
+157,Long term debt,12  Mar-17,1694.0,NRSP
+158,Total assets,12  Mar-17,17557.0,NRSP
+159,Interest coverage,12  Mar-17,2.7,NRSP
+160,Debt to equity ratio,12  Mar-17,0.2,NRSP
+161,Sales to assets ratio,12  Mar-17,1.2,NRSP
+162,Return on assets,12  Mar-17,5.0,NRSP
+163,Return on equity,12  Mar-17,5.4,NRSP
+164,Return on capital,12  Mar-17,10.6,NRSP
+165,Exports to sales,12  Mar-17,63.0,NRSP
+166,Imports to sales,12  Mar-17,4.8,NRSP
+167,Exports (fob),12  Mar-17,13423.0,NRSP
+168,Imports (cif),12  Mar-17,1027.0,NRSP
+169,Fx inflow,12  Mar-17,13423.0,NRSP
+170,Fx outflow,12  Mar-17,1027.0,NRSP
+171,Net fx,12  Mar-17,12396.0,NRSP
+172,From Operations,12  Mar-17,3825.0,NRSP
+173,From Investments,12  Mar-17,3212.0,NRSP
+174,From Financial Activity,12  Mar-17,-1200.0,NRSP
+175,Net Cashflow,12  Mar-17,5837.0,NRSP
+176,Net Sales,12  Mar-18,21307.0,NRSP
+177,Other income,12  Mar-18,90.0,NRSP
+178,Total revenues,12  Mar-18,21397.0,NRSP
+179,Gross profit,12  Mar-18,885.0,NRSP
+180,Depreciation,12  Mar-18,941.0,NRSP
+181,Interest,12  Mar-18,498.0,NRSP
+182,Profit before tax,12  Mar-18,-463.0,NRSP
+183,Minority Interest,12  Mar-18,0.0,NRSP
+184,Prior Period Items,12  Mar-18,0.0,NRSP
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,NRSP
+186,Tax,12  Mar-18,-141.0,NRSP
+187,Profit after tax,12  Mar-18,-322.0,NRSP
+188,Gross profit margin,12  Mar-18,4.2,NRSP
+189,Effective tax rate,12  Mar-18,30.5,NRSP
+190,Net profit margin,12  Mar-18,-1.5,NRSP
+191,Current assets,12  Mar-18,11963.0,NRSP
+192,Current liabilities,12  Mar-18,10688.0,NRSP
+193,Net working cap to sales,12  Mar-18,6.0,NRSP
+194,Current ratio,12  Mar-18,1.1,NRSP
+195,Inventory Days,12  Mar-18,126.0,NRSP
+196,Debtors Days,12  Mar-18,59.0,NRSP
+197,Net fixed assets,12  Mar-18,7144.0,NRSP
+198,Share capital,12  Mar-18,181.0,NRSP
+199,"""Free"" reserves",12  Mar-18,8005.0,NRSP
+200,Net worth,12  Mar-18,8186.0,NRSP
+201,Long term debt,12  Mar-18,729.0,NRSP
+202,Total assets,12  Mar-18,19850.0,NRSP
+203,Interest coverage,12  Mar-18,0.1,NRSP
+204,Debt to equity ratio,12  Mar-18,0.1,NRSP
+205,Sales to assets ratio,12  Mar-18,1.1,NRSP
+206,Return on assets,12  Mar-18,0.9,NRSP
+207,Return on equity,12  Mar-18,-3.9,NRSP
+208,Return on capital,12  Mar-18,0.4,NRSP
+209,Exports to sales,12  Mar-18,58.7,NRSP
+210,Imports to sales,12  Mar-18,6.0,NRSP
+211,Exports (fob),12  Mar-18,12517.0,NRSP
+212,Imports (cif),12  Mar-18,1270.0,NRSP
+213,Fx inflow,12  Mar-18,12517.0,NRSP
+214,Fx outflow,12  Mar-18,1270.0,NRSP
+215,Net fx,12  Mar-18,11246.0,NRSP
+216,From Operations,12  Mar-18,-2399.0,NRSP
+217,From Investments,12  Mar-18,-2591.0,NRSP
+218,From Financial Activity,12  Mar-18,-1225.0,NRSP
+219,Net Cashflow,12  Mar-18,-10031.0,NRSP

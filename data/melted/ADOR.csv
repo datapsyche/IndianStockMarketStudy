@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,3718.0,ADOR
+1,Other income,12  Mar-14*,50.0,ADOR
+2,Total revenues,12  Mar-14*,3768.0,ADOR
+3,Gross profit,12  Mar-14*,268.0,ADOR
+4,Depreciation,12  Mar-14*,123.0,ADOR
+5,Interest,12  Mar-14*,21.0,ADOR
+6,Profit before tax,12  Mar-14*,174.0,ADOR
+7,Minority Interest,12  Mar-14*,0.0,ADOR
+8,Prior Period Items,12  Mar-14*,0.0,ADOR
+9,Extraordinary Inc (Exp),12  Mar-14*,-130.0,ADOR
+10,Tax,12  Mar-14*,95.0,ADOR
+11,Profit after tax,12  Mar-14*,-51.0,ADOR
+12,Gross profit margin,12  Mar-14*,7.2,ADOR
+13,Effective tax rate,12  Mar-14*,54.8,ADOR
+14,Net profit margin,12  Mar-14*,-1.4,ADOR
+15,Current assets,12  Mar-14*,1753.0,ADOR
+16,Current liabilities,12  Mar-14*,1010.0,ADOR
+17,Net working cap to sales,12  Mar-14*,20.0,ADOR
+18,Current ratio,12  Mar-14*,1.7,ADOR
+19,Inventory Days,12  Mar-14*,51.0,ADOR
+20,Debtors Days,12  Mar-14*,77.0,ADOR
+21,Net fixed assets,12  Mar-14*,791.0,ADOR
+22,Share capital,12  Mar-14*,136.0,ADOR
+23,"""Free"" reserves",12  Mar-14*,1549.0,ADOR
+24,Net worth,12  Mar-14*,1685.0,ADOR
+25,Long term debt,12  Mar-14*,89.0,ADOR
+26,Total assets,12  Mar-14*,2804.0,ADOR
+27,Interest coverage,12  Mar-14*,9.3,ADOR
+28,Debt to equity ratio,12  Mar-14*,0.1,ADOR
+29,Sales to assets ratio,12  Mar-14*,1.3,ADOR
+30,Return on assets,12  Mar-14*,-1.1,ADOR
+31,Return on equity,12  Mar-14*,-3.0,ADOR
+32,Return on capital,12  Mar-14*,3.7,ADOR
+33,Exports to sales,12  Mar-14*,13.2,ADOR
+34,Imports to sales,12  Mar-14*,10.1,ADOR
+35,Exports (fob),12  Mar-14*,491.0,ADOR
+36,Imports (cif),12  Mar-14*,374.0,ADOR
+37,Fx inflow,12  Mar-14*,496.0,ADOR
+38,Fx outflow,12  Mar-14*,510.0,ADOR
+39,Net fx,12  Mar-14*,-13.0,ADOR
+40,From Operations,12  Mar-14*,183.0,ADOR
+41,From Investments,12  Mar-14*,22.0,ADOR
+42,From Financial Activity,12  Mar-14*,-28.0,ADOR
+43,Net Cashflow,12  Mar-14*,177.0,ADOR
+44,Net Sales,12  Mar-15*,3877.0,ADOR
+45,Other income,12  Mar-15*,55.0,ADOR
+46,Total revenues,12  Mar-15*,3932.0,ADOR
+47,Gross profit,12  Mar-15*,271.0,ADOR
+48,Depreciation,12  Mar-15*,125.0,ADOR
+49,Interest,12  Mar-15*,4.0,ADOR
+50,Profit before tax,12  Mar-15*,196.0,ADOR
+51,Minority Interest,12  Mar-15*,0.0,ADOR
+52,Prior Period Items,12  Mar-15*,0.0,ADOR
+53,Extraordinary Inc (Exp),12  Mar-15*,282.0,ADOR
+54,Tax,12  Mar-15*,159.0,ADOR
+55,Profit after tax,12  Mar-15*,319.0,ADOR
+56,Gross profit margin,12  Mar-15*,7.0,ADOR
+57,Effective tax rate,12  Mar-15*,81.2,ADOR
+58,Net profit margin,12  Mar-15*,8.2,ADOR
+59,Current assets,12  Mar-15*,1607.0,ADOR
+60,Current liabilities,12  Mar-15*,716.0,ADOR
+61,Net working cap to sales,12  Mar-15*,23.0,ADOR
+62,Current ratio,12  Mar-15*,2.2,ADOR
+63,Inventory Days,12  Mar-15*,41.0,ADOR
+64,Debtors Days,12  Mar-15*,78.0,ADOR
+65,Net fixed assets,12  Mar-15*,990.0,ADOR
+66,Share capital,12  Mar-15*,136.0,ADOR
+67,"""Free"" reserves",12  Mar-15*,1889.0,ADOR
+68,Net worth,12  Mar-15*,2025.0,ADOR
+69,Long term debt,12  Mar-15*,1.0,ADOR
+70,Total assets,12  Mar-15*,2847.0,ADOR
+71,Interest coverage,12  Mar-15*,51.3,ADOR
+72,Debt to equity ratio,12  Mar-15*,0.0,ADOR
+73,Sales to assets ratio,12  Mar-15*,1.4,ADOR
+74,Return on assets,12  Mar-15*,11.3,ADOR
+75,Return on equity,12  Mar-15*,15.7,ADOR
+76,Return on capital,12  Mar-15*,23.8,ADOR
+77,Exports to sales,12  Mar-15*,7.7,ADOR
+78,Imports to sales,12  Mar-15*,11.7,ADOR
+79,Exports (fob),12  Mar-15*,299.0,ADOR
+80,Imports (cif),12  Mar-15*,452.0,ADOR
+81,Fx inflow,12  Mar-15*,307.0,ADOR
+82,Fx outflow,12  Mar-15*,487.0,ADOR
+83,Net fx,12  Mar-15*,-180.0,ADOR
+84,From Operations,12  Mar-15*,12.0,ADOR
+85,From Investments,12  Mar-15*,-85.0,ADOR
+86,From Financial Activity,12  Mar-15*,-93.0,ADOR
+87,Net Cashflow,12  Mar-15*,-166.0,ADOR
+88,Net Sales,12  Mar-16*,4084.0,ADOR
+89,Other income,12  Mar-16*,53.0,ADOR
+90,Total revenues,12  Mar-16*,4137.0,ADOR
+91,Gross profit,12  Mar-16*,409.0,ADOR
+92,Depreciation,12  Mar-16*,118.0,ADOR
+93,Interest,12  Mar-16*,9.0,ADOR
+94,Profit before tax,12  Mar-16*,335.0,ADOR
+95,Minority Interest,12  Mar-16*,0.0,ADOR
+96,Prior Period Items,12  Mar-16*,0.0,ADOR
+97,Extraordinary Inc (Exp),12  Mar-16*,-20.0,ADOR
+98,Tax,12  Mar-16*,92.0,ADOR
+99,Profit after tax,12  Mar-16*,224.0,ADOR
+100,Gross profit margin,12  Mar-16*,10.0,ADOR
+101,Effective tax rate,12  Mar-16*,27.4,ADOR
+102,Net profit margin,12  Mar-16*,5.5,ADOR
+103,Current assets,12  Mar-16*,2070.0,ADOR
+104,Current liabilities,12  Mar-16*,1014.0,ADOR
+105,Net working cap to sales,12  Mar-16*,25.9,ADOR
+106,Current ratio,12  Mar-16*,2.0,ADOR
+107,Inventory Days,12  Mar-16*,39.0,ADOR
+108,Debtors Days,12  Mar-16*,106.0,ADOR
+109,Net fixed assets,12  Mar-16*,1014.0,ADOR
+110,Share capital,12  Mar-16*,136.0,ADOR
+111,"""Free"" reserves",12  Mar-16*,2031.0,ADOR
+112,Net worth,12  Mar-16*,2167.0,ADOR
+113,Long term debt,12  Mar-16*,0.0,ADOR
+114,Total assets,12  Mar-16*,3352.0,ADOR
+115,Interest coverage,12  Mar-16*,39.6,ADOR
+116,Debt to equity ratio,12  Mar-16*,0.0,ADOR
+117,Sales to assets ratio,12  Mar-16*,1.2,ADOR
+118,Return on assets,12  Mar-16*,6.9,ADOR
+119,Return on equity,12  Mar-16*,10.3,ADOR
+120,Return on capital,12  Mar-16*,15.0,ADOR
+121,Exports to sales,12  Mar-16*,9.0,ADOR
+122,Imports to sales,12  Mar-16*,10.3,ADOR
+123,Exports (fob),12  Mar-16*,367.0,ADOR
+124,Imports (cif),12  Mar-16*,421.0,ADOR
+125,Fx inflow,12  Mar-16*,416.0,ADOR
+126,Fx outflow,12  Mar-16*,452.0,ADOR
+127,Net fx,12  Mar-16*,-35.0,ADOR
+128,From Operations,12  Mar-16*,227.0,ADOR
+129,From Investments,12  Mar-16*,-38.0,ADOR
+130,From Financial Activity,12  Mar-16*,-93.0,ADOR
+131,Net Cashflow,12  Mar-16*,95.0,ADOR
+132,Net Sales,12  Mar-17*,4424.0,ADOR
+133,Other income,12  Mar-17*,92.0,ADOR
+134,Total revenues,12  Mar-17*,4516.0,ADOR
+135,Gross profit,12  Mar-17*,301.0,ADOR
+136,Depreciation,12  Mar-17*,114.0,ADOR
+137,Interest,12  Mar-17*,11.0,ADOR
+138,Profit before tax,12  Mar-17*,269.0,ADOR
+139,Minority Interest,12  Mar-17*,0.0,ADOR
+140,Prior Period Items,12  Mar-17*,0.0,ADOR
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ADOR
+142,Tax,12  Mar-17*,90.0,ADOR
+143,Profit after tax,12  Mar-17*,179.0,ADOR
+144,Gross profit margin,12  Mar-17*,6.8,ADOR
+145,Effective tax rate,12  Mar-17*,33.6,ADOR
+146,Net profit margin,12  Mar-17*,4.0,ADOR
+147,Current assets,12  Mar-17*,2421.0,ADOR
+148,Current liabilities,12  Mar-17*,1332.0,ADOR
+149,Net working cap to sales,12  Mar-17*,24.6,ADOR
+150,Current ratio,12  Mar-17*,1.8,ADOR
+151,Inventory Days,12  Mar-17*,39.0,ADOR
+152,Debtors Days,12  Mar-17*,63.0,ADOR
+153,Net fixed assets,12  Mar-17*,1063.0,ADOR
+154,Share capital,12  Mar-17*,136.0,ADOR
+155,"""Free"" reserves",12  Mar-17*,2216.0,ADOR
+156,Net worth,12  Mar-17*,2352.0,ADOR
+157,Long term debt,12  Mar-17*,0.0,ADOR
+158,Total assets,12  Mar-17*,3780.0,ADOR
+159,Interest coverage,12  Mar-17*,26.4,ADOR
+160,Debt to equity ratio,12  Mar-17*,0.0,ADOR
+161,Sales to assets ratio,12  Mar-17*,1.2,ADOR
+162,Return on assets,12  Mar-17*,5.0,ADOR
+163,Return on equity,12  Mar-17*,7.6,ADOR
+164,Return on capital,12  Mar-17*,11.9,ADOR
+165,Exports to sales,12  Mar-17*,0.0,ADOR
+166,Imports to sales,12  Mar-17*,0.0,ADOR
+167,Exports (fob),12  Mar-17*,0.0,ADOR
+168,Imports (cif),12  Mar-17*,0.0,ADOR
+169,Fx inflow,12  Mar-17*,960.0,ADOR
+170,Fx outflow,12  Mar-17*,377.0,ADOR
+171,Net fx,12  Mar-17*,583.0,ADOR
+172,From Operations,12  Mar-17*,2.0,ADOR
+173,From Investments,12  Mar-17*,-116.0,ADOR
+174,From Financial Activity,12  Mar-17*,188.0,ADOR
+175,Net Cashflow,12  Mar-17*,73.0,ADOR
+176,Net Sales,12  Mar-18*,4583.0,ADOR
+177,Other income,12  Mar-18*,96.0,ADOR
+178,Total revenues,12  Mar-18*,4679.0,ADOR
+179,Gross profit,12  Mar-18*,340.0,ADOR
+180,Depreciation,12  Mar-18*,102.0,ADOR
+181,Interest,12  Mar-18*,53.0,ADOR
+182,Profit before tax,12  Mar-18*,281.0,ADOR
+183,Minority Interest,12  Mar-18*,0.0,ADOR
+184,Prior Period Items,12  Mar-18*,0.0,ADOR
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ADOR
+186,Tax,12  Mar-18*,97.0,ADOR
+187,Profit after tax,12  Mar-18*,184.0,ADOR
+188,Gross profit margin,12  Mar-18*,7.4,ADOR
+189,Effective tax rate,12  Mar-18*,34.5,ADOR
+190,Net profit margin,12  Mar-18*,4.0,ADOR
+191,Current assets,12  Mar-18*,2936.0,ADOR
+192,Current liabilities,12  Mar-18*,1724.0,ADOR
+193,Net working cap to sales,12  Mar-18*,26.4,ADOR
+194,Current ratio,12  Mar-18*,1.7,ADOR
+195,Inventory Days,12  Mar-18*,43.0,ADOR
+196,Debtors Days,12  Mar-18*,73.0,ADOR
+197,Net fixed assets,12  Mar-18*,1041.0,ADOR
+198,Share capital,12  Mar-18*,136.0,ADOR
+199,"""Free"" reserves",12  Mar-18*,2314.0,ADOR
+200,Net worth,12  Mar-18*,2450.0,ADOR
+201,Long term debt,12  Mar-18*,0.0,ADOR
+202,Total assets,12  Mar-18*,4281.0,ADOR
+203,Interest coverage,12  Mar-18*,6.3,ADOR
+204,Debt to equity ratio,12  Mar-18*,0.0,ADOR
+205,Sales to assets ratio,12  Mar-18*,1.1,ADOR
+206,Return on assets,12  Mar-18*,5.5,ADOR
+207,Return on equity,12  Mar-18*,7.5,ADOR
+208,Return on capital,12  Mar-18*,13.6,ADOR
+209,Exports to sales,12  Mar-18*,0.0,ADOR
+210,Imports to sales,12  Mar-18*,0.0,ADOR
+211,Exports (fob),12  Mar-18*,0.0,ADOR
+212,Imports (cif),12  Mar-18*,0.0,ADOR
+213,Fx inflow,12  Mar-18*,967.0,ADOR
+214,Fx outflow,12  Mar-18*,405.0,ADOR
+215,Net fx,12  Mar-18*,562.0,ADOR
+216,From Operations,12  Mar-18*,-368.0,ADOR
+217,From Investments,12  Mar-18*,3.0,ADOR
+218,From Financial Activity,12  Mar-18*,325.0,ADOR
+219,Net Cashflow,12  Mar-18*,-41.0,ADOR

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,150233.0,REDY
+1,Other income,12  Mar-15*,2741.0,REDY
+2,Total revenues,12  Mar-15*,152974.0,REDY
+3,Gross profit,12  Mar-15*,34936.0,REDY
+4,Depreciation,12  Mar-15*,7599.0,REDY
+5,Interest,12  Mar-15*,1082.0,REDY
+6,Profit before tax,12  Mar-15*,28996.0,REDY
+7,Minority Interest,12  Mar-15*,0.0,REDY
+8,Prior Period Items,12  Mar-15*,0.0,REDY
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,REDY
+10,Tax,12  Mar-15*,5632.0,REDY
+11,Profit after tax,12  Mar-15*,23364.0,REDY
+12,Gross profit margin,12  Mar-15*,23.3,REDY
+13,Effective tax rate,12  Mar-15*,19.4,REDY
+14,Net profit margin,12  Mar-15*,15.6,REDY
+15,Current assets,12  Mar-15*,118096.0,REDY
+16,Current liabilities,12  Mar-15*,63734.0,REDY
+17,Net working cap to sales,12  Mar-15*,36.2,REDY
+18,Current ratio,12  Mar-15*,1.9,REDY
+19,Inventory Days,12  Mar-15*,62.0,REDY
+20,Debtors Days,12  Mar-15*,99.0,REDY
+21,Net fixed assets,12  Mar-15*,59065.0,REDY
+22,Share capital,12  Mar-15*,852.0,REDY
+23,"""Free"" reserves",12  Mar-15*,107482.0,REDY
+24,Net worth,12  Mar-15*,108334.0,REDY
+25,Long term debt,12  Mar-15*,14307.0,REDY
+26,Total assets,12  Mar-15*,190650.0,REDY
+27,Interest coverage,12  Mar-15*,27.8,REDY
+28,Debt to equity ratio,12  Mar-15*,0.1,REDY
+29,Sales to assets ratio,12  Mar-15*,0.8,REDY
+30,Return on assets,12  Mar-15*,12.8,REDY
+31,Return on equity,12  Mar-15*,21.6,REDY
+32,Return on capital,12  Mar-15*,24.5,REDY
+33,Exports to sales,12  Mar-15*,49.4,REDY
+34,Imports to sales,12  Mar-15*,9.0,REDY
+35,Exports (fob),12  Mar-15*,74146.0,REDY
+36,Imports (cif),12  Mar-15*,13485.0,REDY
+37,Fx inflow,12  Mar-15*,74870.0,REDY
+38,Fx outflow,12  Mar-15*,26008.0,REDY
+39,Net fx,12  Mar-15*,48862.0,REDY
+40,From Operations,12  Mar-15*,25235.0,REDY
+41,From Investments,12  Mar-15*,-22647.0,REDY
+42,From Financial Activity,12  Mar-15*,-4332.0,REDY
+43,Net Cashflow,12  Mar-15*,-1744.0,REDY
+44,Net Sales,12  Mar-16*,155683.0,REDY
+45,Other income,12  Mar-16*,2950.0,REDY
+46,Total revenues,12  Mar-16*,158633.0,REDY
+47,Gross profit,12  Mar-16*,35853.0,REDY
+48,Depreciation,12  Mar-16*,9389.0,REDY
+49,Interest,12  Mar-16*,826.0,REDY
+50,Profit before tax,12  Mar-16*,28588.0,REDY
+51,Minority Interest,12  Mar-16*,0.0,REDY
+52,Prior Period Items,12  Mar-16*,229.0,REDY
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,REDY
+54,Tax,12  Mar-16*,7511.0,REDY
+55,Profit after tax,12  Mar-16*,21306.0,REDY
+56,Gross profit margin,12  Mar-16*,23.0,REDY
+57,Effective tax rate,12  Mar-16*,26.3,REDY
+58,Net profit margin,12  Mar-16*,13.7,REDY
+59,Current assets,12  Mar-16*,117940.0,REDY
+60,Current liabilities,12  Mar-16*,63471.0,REDY
+61,Net working cap to sales,12  Mar-16*,35.0,REDY
+62,Current ratio,12  Mar-16*,1.9,REDY
+63,Inventory Days,12  Mar-16*,60.0,REDY
+64,Debtors Days,12  Mar-16*,97.0,REDY
+65,Net fixed assets,12  Mar-16*,73352.0,REDY
+66,Share capital,12  Mar-16*,853.0,REDY
+67,"""Free"" reserves",12  Mar-16*,124845.0,REDY
+68,Net worth,12  Mar-16*,125698.0,REDY
+69,Long term debt,12  Mar-16*,10685.0,REDY
+70,Total assets,12  Mar-16*,203841.0,REDY
+71,Interest coverage,12  Mar-16*,35.6,REDY
+72,Debt to equity ratio,12  Mar-16*,0.1,REDY
+73,Sales to assets ratio,12  Mar-16*,0.8,REDY
+74,Return on assets,12  Mar-16*,10.9,REDY
+75,Return on equity,12  Mar-16*,17.0,REDY
+76,Return on capital,12  Mar-16*,21.7,REDY
+77,Exports to sales,12  Mar-16*,46.6,REDY
+78,Imports to sales,12  Mar-16*,9.0,REDY
+79,Exports (fob),12  Mar-16*,72618.0,REDY
+80,Imports (cif),12  Mar-16*,14050.0,REDY
+81,Fx inflow,12  Mar-16*,75405.0,REDY
+82,Fx outflow,12  Mar-16*,27115.0,REDY
+83,Net fx,12  Mar-16*,48290.0,REDY
+84,From Operations,12  Mar-16*,32626.0,REDY
+85,From Investments,12  Mar-16*,-20394.0,REDY
+86,From Financial Activity,12  Mar-16*,-17001.0,REDY
+87,Net Cashflow,12  Mar-16*,-474.0,REDY
+88,Net Sales,12  Mar-17*,141961.0,REDY
+89,Other income,12  Mar-17*,1715.0,REDY
+90,Total revenues,12  Mar-17*,143676.0,REDY
+91,Gross profit,12  Mar-17*,24722.0,REDY
+92,Depreciation,12  Mar-17*,10266.0,REDY
+93,Interest,12  Mar-17*,634.0,REDY
+94,Profit before tax,12  Mar-17*,15537.0,REDY
+95,Minority Interest,12  Mar-17*,0.0,REDY
+96,Prior Period Items,12  Mar-17*,349.0,REDY
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,REDY
+98,Tax,12  Mar-17*,2965.0,REDY
+99,Profit after tax,12  Mar-17*,12921.0,REDY
+100,Gross profit margin,12  Mar-17*,17.4,REDY
+101,Effective tax rate,12  Mar-17*,19.1,REDY
+102,Net profit margin,12  Mar-17*,9.1,REDY
+103,Current assets,12  Mar-17*,96837.0,REDY
+104,Current liabilities,12  Mar-17*,84199.0,REDY
+105,Net working cap to sales,12  Mar-17*,8.9,REDY
+106,Current ratio,12  Mar-17*,1.2,REDY
+107,Inventory Days,12  Mar-17*,73.0,REDY
+108,Debtors Days,12  Mar-17*,98.0,REDY
+109,Net fixed assets,12  Mar-17*,102552.0,REDY
+110,Share capital,12  Mar-17*,829.0,REDY
+111,"""Free"" reserves",12  Mar-17*,121792.0,REDY
+112,Net worth,12  Mar-17*,122621.0,REDY
+113,Long term debt,12  Mar-17*,5449.0,REDY
+114,Total assets,12  Mar-17*,218165.0,REDY
+115,Interest coverage,12  Mar-17*,25.5,REDY
+116,Debt to equity ratio,12  Mar-17*,0.0,REDY
+117,Sales to assets ratio,12  Mar-17*,0.7,REDY
+118,Return on assets,12  Mar-17*,6.2,REDY
+119,Return on equity,12  Mar-17*,10.5,REDY
+120,Return on capital,12  Mar-17*,12.9,REDY
+121,Exports to sales,12  Mar-17*,54.6,REDY
+122,Imports to sales,12  Mar-17*,9.4,REDY
+123,Exports (fob),12  Mar-17*,77520.0,REDY
+124,Imports (cif),12  Mar-17*,13274.0,REDY
+125,Fx inflow,12  Mar-17*,81670.0,REDY
+126,Fx outflow,12  Mar-17*,26355.0,REDY
+127,Net fx,12  Mar-17*,55315.0,REDY
+128,From Operations,12  Mar-17*,21444.0,REDY
+129,From Investments,12  Mar-17*,-18404.0,REDY
+130,From Financial Activity,12  Mar-17*,-3692.0,REDY
+131,Net Cashflow,12  Mar-17*,-1144.0,REDY
+132,Net Sales,12  Mar-18*,142810.0,REDY
+133,Other income,12  Mar-18*,1552.0,REDY
+134,Total revenues,12  Mar-18*,144362.0,REDY
+135,Gross profit,12  Mar-18*,23512.0,REDY
+136,Depreciation,12  Mar-18*,10772.0,REDY
+137,Interest,12  Mar-18*,788.0,REDY
+138,Profit before tax,12  Mar-18*,13504.0,REDY
+139,Minority Interest,12  Mar-18*,0.0,REDY
+140,Prior Period Items,12  Mar-18*,344.0,REDY
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,REDY
+142,Tax,12  Mar-18*,4380.0,REDY
+143,Profit after tax,12  Mar-18*,9468.0,REDY
+144,Gross profit margin,12  Mar-18*,16.5,REDY
+145,Effective tax rate,12  Mar-18*,32.4,REDY
+146,Net profit margin,12  Mar-18*,6.6,REDY
+147,Current assets,12  Mar-18*,104984.0,REDY
+148,Current liabilities,12  Mar-18*,68938.0,REDY
+149,Net working cap to sales,12  Mar-18*,25.2,REDY
+150,Current ratio,12  Mar-18*,1.5,REDY
+151,Inventory Days,12  Mar-18*,74.0,REDY
+152,Debtors Days,12  Mar-18*,104.0,REDY
+153,Net fixed assets,12  Mar-18*,104385.0,REDY
+154,Share capital,12  Mar-18*,830.0,REDY
+155,"""Free"" reserves",12  Mar-18*,124886.0,REDY
+156,Net worth,12  Mar-18*,125716.0,REDY
+157,Long term debt,12  Mar-18*,25089.0,REDY
+158,Total assets,12  Mar-18*,225443.0,REDY
+159,Interest coverage,12  Mar-18*,18.1,REDY
+160,Debt to equity ratio,12  Mar-18*,0.2,REDY
+161,Sales to assets ratio,12  Mar-18*,0.6,REDY
+162,Return on assets,12  Mar-18*,4.5,REDY
+163,Return on equity,12  Mar-18*,7.5,REDY
+164,Return on capital,12  Mar-18*,9.7,REDY
+165,Exports to sales,12  Mar-18*,0.0,REDY
+166,Imports to sales,12  Mar-18*,0.0,REDY
+167,Exports (fob),12  Mar-18*,0.0,REDY
+168,Imports (cif),12  Mar-18*,0.0,REDY
+169,Fx inflow,12  Mar-18*,72623.0,REDY
+170,Fx outflow,12  Mar-18*,18916.0,REDY
+171,Net fx,12  Mar-18*,53707.0,REDY
+172,From Operations,12  Mar-18*,18030.0,REDY
+173,From Investments,12  Mar-18*,-14883.0,REDY
+174,From Financial Activity,12  Mar-18*,-4440.0,REDY
+175,Net Cashflow,12  Mar-18*,-1236.0,REDY
+176,Net Sales,12  Mar-19*,154482.0,REDY
+177,Other income,12  Mar-19*,3375.0,REDY
+178,Total revenues,12  Mar-19*,157857.0,REDY
+179,Gross profit,12  Mar-19*,31782.0,REDY
+180,Depreciation,12  Mar-19*,11348.0,REDY
+181,Interest,12  Mar-19*,889.0,REDY
+182,Profit before tax,12  Mar-19*,22920.0,REDY
+183,Minority Interest,12  Mar-19*,0.0,REDY
+184,Prior Period Items,12  Mar-19*,438.0,REDY
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,REDY
+186,Tax,12  Mar-19*,3858.0,REDY
+187,Profit after tax,12  Mar-19*,19500.0,REDY
+188,Gross profit margin,12  Mar-19*,20.6,REDY
+189,Effective tax rate,12  Mar-19*,16.8,REDY
+190,Net profit margin,12  Mar-19*,12.6,REDY
+191,Current assets,12  Mar-19*,111101.0,REDY
+192,Current liabilities,12  Mar-19*,58973.0,REDY
+193,Net working cap to sales,12  Mar-19*,33.7,REDY
+194,Current ratio,12  Mar-19*,1.9,REDY
+195,Inventory Days,12  Mar-19*,79.0,REDY
+196,Debtors Days,12  Mar-19*,94.0,REDY
+197,Net fixed assets,12  Mar-19*,101245.0,REDY
+198,Share capital,12  Mar-19*,830.0,REDY
+199,"""Free"" reserves",12  Mar-19*,139406.0,REDY
+200,Net worth,12  Mar-19*,140236.0,REDY
+201,Long term debt,12  Mar-19*,22000.0,REDY
+202,Total assets,12  Mar-19*,224656.0,REDY
+203,Interest coverage,12  Mar-19*,26.8,REDY
+204,Debt to equity ratio,12  Mar-19*,0.2,REDY
+205,Sales to assets ratio,12  Mar-19*,0.7,REDY
+206,Return on assets,12  Mar-19*,9.1,REDY
+207,Return on equity,12  Mar-19*,13.9,REDY
+208,Return on capital,12  Mar-19*,14.9,REDY
+209,Exports to sales,12  Mar-19*,0.0,REDY
+210,Imports to sales,12  Mar-19*,0.0,REDY
+211,Exports (fob),12  Mar-19*,0.0,REDY
+212,Imports (cif),12  Mar-19*,0.0,REDY
+213,Fx inflow,12  Mar-19*,88673.0,REDY
+214,Fx outflow,12  Mar-19*,19104.0,REDY
+215,Net fx,12  Mar-19*,69569.0,REDY
+216,From Operations,12  Mar-19*,28704.0,REDY
+217,From Investments,12  Mar-19*,-7727.0,REDY
+218,From Financial Activity,12  Mar-19*,-21326.0,REDY
+219,Net Cashflow,12  Mar-19*,-314.0,REDY

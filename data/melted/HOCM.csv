@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,19775.0,HOCM
+1,Other income,12  Dec-14,643.0,HOCM
+2,Total revenues,12  Dec-14,20418.0,HOCM
+3,Gross profit,12  Dec-14,3389.0,HOCM
+4,Depreciation,12  Dec-14,966.0,HOCM
+5,Interest,12  Dec-14,5.0,HOCM
+6,Profit before tax,12  Dec-14,3061.0,HOCM
+7,Minority Interest,12  Dec-14,0.0,HOCM
+8,Prior Period Items,12  Dec-14,0.0,HOCM
+9,Extraordinary Inc (Exp),12  Dec-14,666.0,HOCM
+10,Tax,12  Dec-14,1090.0,HOCM
+11,Profit after tax,12  Dec-14,2636.0,HOCM
+12,Gross profit margin,12  Dec-14,17.1,HOCM
+13,Effective tax rate,12  Dec-14,35.6,HOCM
+14,Net profit margin,12  Dec-14,13.3,HOCM
+15,Current assets,12  Dec-14,12628.0,HOCM
+16,Current liabilities,12  Dec-14,6558.0,HOCM
+17,Net working cap to sales,12  Dec-14,30.7,HOCM
+18,Current ratio,12  Dec-14,1.9,HOCM
+19,Inventory Days,12  Dec-14,88.0,HOCM
+20,Debtors Days,12  Dec-14,21.0,HOCM
+21,Net fixed assets,12  Dec-14,8582.0,HOCM
+22,Share capital,12  Dec-14,230.0,HOCM
+23,"""Free"" reserves",12  Dec-14,14559.0,HOCM
+24,Net worth,12  Dec-14,14858.0,HOCM
+25,Long term debt,12  Dec-14,0.0,HOCM
+26,Total assets,12  Dec-14,22276.0,HOCM
+27,Interest coverage,12  Dec-14,638.6,HOCM
+28,Debt to equity ratio,12  Dec-14,0.0,HOCM
+29,Sales to assets ratio,12  Dec-14,0.9,HOCM
+30,Return on assets,12  Dec-14,11.9,HOCM
+31,Return on equity,12  Dec-14,17.7,HOCM
+32,Return on capital,12  Dec-14,25.1,HOCM
+33,Exports to sales,12  Dec-14,24.2,HOCM
+34,Imports to sales,12  Dec-14,36.9,HOCM
+35,Exports (fob),12  Dec-14,4788.0,HOCM
+36,Imports (cif),12  Dec-14,7298.0,HOCM
+37,Fx inflow,12  Dec-14,5495.0,HOCM
+38,Fx outflow,12  Dec-14,8045.0,HOCM
+39,Net fx,12  Dec-14,-2550.0,HOCM
+40,From Operations,12  Dec-14,2650.0,HOCM
+41,From Investments,12  Dec-14,613.0,HOCM
+42,From Financial Activity,12  Dec-14,-1217.0,HOCM
+43,Net Cashflow,12  Dec-14,2046.0,HOCM
+44,Net Sales,12  Dec-15,21930.0,HOCM
+45,Other income,12  Dec-15,514.0,HOCM
+46,Total revenues,12  Dec-15,22444.0,HOCM
+47,Gross profit,12  Dec-15,4591.0,HOCM
+48,Depreciation,12  Dec-15,1130.0,HOCM
+49,Interest,12  Dec-15,4.0,HOCM
+50,Profit before tax,12  Dec-15,3970.0,HOCM
+51,Minority Interest,12  Dec-15,0.0,HOCM
+52,Prior Period Items,12  Dec-15,0.0,HOCM
+53,Extraordinary Inc (Exp),12  Dec-15,839.0,HOCM
+54,Tax,12  Dec-15,1594.0,HOCM
+55,Profit after tax,12  Dec-15,3215.0,HOCM
+56,Gross profit margin,12  Dec-15,20.9,HOCM
+57,Effective tax rate,12  Dec-15,40.1,HOCM
+58,Net profit margin,12  Dec-15,14.7,HOCM
+59,Current assets,12  Dec-15,12437.0,HOCM
+60,Current liabilities,12  Dec-15,4945.0,HOCM
+61,Net working cap to sales,12  Dec-15,34.2,HOCM
+62,Current ratio,12  Dec-15,2.5,HOCM
+63,Inventory Days,12  Dec-15,80.0,HOCM
+64,Debtors Days,12  Dec-15,24.0,HOCM
+65,Net fixed assets,12  Dec-15,8771.0,HOCM
+66,Share capital,12  Dec-15,230.0,HOCM
+67,"""Free"" reserves",12  Dec-15,16004.0,HOCM
+68,Net worth,12  Dec-15,16272.0,HOCM
+69,Long term debt,12  Dec-15,0.0,HOCM
+70,Total assets,12  Dec-15,24114.0,HOCM
+71,Interest coverage,12  Dec-15,993.5,HOCM
+72,Debt to equity ratio,12  Dec-15,0.0,HOCM
+73,Sales to assets ratio,12  Dec-15,0.9,HOCM
+74,Return on assets,12  Dec-15,13.3,HOCM
+75,Return on equity,12  Dec-15,19.8,HOCM
+76,Return on capital,12  Dec-15,29.6,HOCM
+77,Exports to sales,12  Dec-15,24.2,HOCM
+78,Imports to sales,12  Dec-15,26.1,HOCM
+79,Exports (fob),12  Dec-15,5312.0,HOCM
+80,Imports (cif),12  Dec-15,5720.0,HOCM
+81,Fx inflow,12  Dec-15,6680.0,HOCM
+82,Fx outflow,12  Dec-15,6587.0,HOCM
+83,Net fx,12  Dec-15,93.0,HOCM
+84,From Operations,12  Dec-15,2132.0,HOCM
+85,From Investments,12  Dec-15,359.0,HOCM
+86,From Financial Activity,12  Dec-15,-1470.0,HOCM
+87,Net Cashflow,12  Dec-15,1021.0,HOCM
+88,Net Sales,12  Dec-16,23686.0,HOCM
+89,Other income,12  Dec-16,664.0,HOCM
+90,Total revenues,12  Dec-16,24350.0,HOCM
+91,Gross profit,12  Dec-16,5351.0,HOCM
+92,Depreciation,12  Dec-16,1188.0,HOCM
+93,Interest,12  Dec-16,23.0,HOCM
+94,Profit before tax,12  Dec-16,4804.0,HOCM
+95,Minority Interest,12  Dec-16,0.0,HOCM
+96,Prior Period Items,12  Dec-16,0.0,HOCM
+97,Extraordinary Inc (Exp),12  Dec-16,0.0,HOCM
+98,Tax,12  Dec-16,1762.0,HOCM
+99,Profit after tax,12  Dec-16,3042.0,HOCM
+100,Gross profit margin,12  Dec-16,22.6,HOCM
+101,Effective tax rate,12  Dec-16,36.7,HOCM
+102,Net profit margin,12  Dec-16,12.8,HOCM
+103,Current assets,12  Dec-16,15753.0,HOCM
+104,Current liabilities,12  Dec-16,5021.0,HOCM
+105,Net working cap to sales,12  Dec-16,45.3,HOCM
+106,Current ratio,12  Dec-16,3.1,HOCM
+107,Inventory Days,12  Dec-16,76.0,HOCM
+108,Debtors Days,12  Dec-16,22.0,HOCM
+109,Net fixed assets,12  Dec-16,8098.0,HOCM
+110,Share capital,12  Dec-16,230.0,HOCM
+111,"""Free"" reserves",12  Dec-16,17088.0,HOCM
+112,Net worth,12  Dec-16,17356.0,HOCM
+113,Long term debt,12  Dec-16,0.0,HOCM
+114,Total assets,12  Dec-16,25412.0,HOCM
+115,Interest coverage,12  Dec-16,209.9,HOCM
+116,Debt to equity ratio,12  Dec-16,0.0,HOCM
+117,Sales to assets ratio,12  Dec-16,0.9,HOCM
+118,Return on assets,12  Dec-16,12.1,HOCM
+119,Return on equity,12  Dec-16,17.5,HOCM
+120,Return on capital,12  Dec-16,27.8,HOCM
+121,Exports to sales,12  Dec-16,24.5,HOCM
+122,Imports to sales,12  Dec-16,28.0,HOCM
+123,Exports (fob),12  Dec-16,5801.0,HOCM
+124,Imports (cif),12  Dec-16,6627.0,HOCM
+125,Fx inflow,12  Dec-16,7145.0,HOCM
+126,Fx outflow,12  Dec-16,6846.0,HOCM
+127,Net fx,12  Dec-16,299.0,HOCM
+128,From Operations,12  Dec-16,3221.0,HOCM
+129,From Investments,12  Dec-16,-1550.0,HOCM
+130,From Financial Activity,12  Dec-16,-1802.0,HOCM
+131,Net Cashflow,12  Dec-16,-131.0,HOCM
+132,Net Sales,12  Dec-17,24914.0,HOCM
+133,Other income,12  Dec-17,807.0,HOCM
+134,Total revenues,12  Dec-17,25721.0,HOCM
+135,Gross profit,12  Dec-17,5372.0,HOCM
+136,Depreciation,12  Dec-17,1022.0,HOCM
+137,Interest,12  Dec-17,11.0,HOCM
+138,Profit before tax,12  Dec-17,5146.0,HOCM
+139,Minority Interest,12  Dec-17,0.0,HOCM
+140,Prior Period Items,12  Dec-17,0.0,HOCM
+141,Extraordinary Inc (Exp),12  Dec-17,0.0,HOCM
+142,Tax,12  Dec-17,1886.0,HOCM
+143,Profit after tax,12  Dec-17,3260.0,HOCM
+144,Gross profit margin,12  Dec-17,21.6,HOCM
+145,Effective tax rate,12  Dec-17,36.6,HOCM
+146,Net profit margin,12  Dec-17,13.1,HOCM
+147,Current assets,12  Dec-17,14438.0,HOCM
+148,Current liabilities,12  Dec-17,6017.0,HOCM
+149,Net working cap to sales,12  Dec-17,33.8,HOCM
+150,Current ratio,12  Dec-17,2.4,HOCM
+151,Inventory Days,12  Dec-17,61.0,HOCM
+152,Debtors Days,12  Dec-17,29.0,HOCM
+153,Net fixed assets,12  Dec-17,7991.0,HOCM
+154,Share capital,12  Dec-17,230.0,HOCM
+155,"""Free"" reserves",12  Dec-17,20034.0,HOCM
+156,Net worth,12  Dec-17,20264.0,HOCM
+157,Long term debt,12  Dec-17,0.0,HOCM
+158,Total assets,12  Dec-17,27777.0,HOCM
+159,Interest coverage,12  Dec-17,468.8,HOCM
+160,Debt to equity ratio,12  Dec-17,0.0,HOCM
+161,Sales to assets ratio,12  Dec-17,0.9,HOCM
+162,Return on assets,12  Dec-17,11.8,HOCM
+163,Return on equity,12  Dec-17,16.1,HOCM
+164,Return on capital,12  Dec-17,25.4,HOCM
+165,Exports to sales,12  Dec-17,0.0,HOCM
+166,Imports to sales,12  Dec-17,0.0,HOCM
+167,Exports (fob),12  Dec-17,0.0,HOCM
+168,Imports (cif),12  Dec-17,0.0,HOCM
+169,Fx inflow,12  Dec-17,6306.0,HOCM
+170,Fx outflow,12  Dec-17,5257.0,HOCM
+171,Net fx,12  Dec-17,1049.0,HOCM
+172,From Operations,12  Dec-17,4351.0,HOCM
+173,From Investments,12  Dec-17,-787.0,HOCM
+174,From Financial Activity,12  Dec-17,-1884.0,HOCM
+175,Net Cashflow,12  Dec-17,1680.0,HOCM
+176,Net Sales,12  Dec-18,27708.0,HOCM
+177,Other income,12  Dec-18,897.0,HOCM
+178,Total revenues,12  Dec-18,28605.0,HOCM
+179,Gross profit,12  Dec-18,6235.0,HOCM
+180,Depreciation,12  Dec-18,1027.0,HOCM
+181,Interest,12  Dec-18,7.0,HOCM
+182,Profit before tax,12  Dec-18,6098.0,HOCM
+183,Minority Interest,12  Dec-18,0.0,HOCM
+184,Prior Period Items,12  Dec-18,0.0,HOCM
+185,Extraordinary Inc (Exp),12  Dec-18,0.0,HOCM
+186,Tax,12  Dec-18,2292.0,HOCM
+187,Profit after tax,12  Dec-18,3806.0,HOCM
+188,Gross profit margin,12  Dec-18,22.5,HOCM
+189,Effective tax rate,12  Dec-18,37.6,HOCM
+190,Net profit margin,12  Dec-18,13.7,HOCM
+191,Current assets,12  Dec-18,15922.0,HOCM
+192,Current liabilities,12  Dec-18,6235.0,HOCM
+193,Net working cap to sales,12  Dec-18,35.0,HOCM
+194,Current ratio,12  Dec-18,2.6,HOCM
+195,Inventory Days,12  Dec-18,64.0,HOCM
+196,Debtors Days,12  Dec-18,21.0,HOCM
+197,Net fixed assets,12  Dec-18,7539.0,HOCM
+198,Share capital,12  Dec-18,230.0,HOCM
+199,"""Free"" reserves",12  Dec-18,21962.0,HOCM
+200,Net worth,12  Dec-18,22192.0,HOCM
+201,Long term debt,12  Dec-18,0.0,HOCM
+202,Total assets,12  Dec-18,29839.0,HOCM
+203,Interest coverage,12  Dec-18,872.1,HOCM
+204,Debt to equity ratio,12  Dec-18,0.0,HOCM
+205,Sales to assets ratio,12  Dec-18,0.9,HOCM
+206,Return on assets,12  Dec-18,12.8,HOCM
+207,Return on equity,12  Dec-18,17.2,HOCM
+208,Return on capital,12  Dec-18,27.5,HOCM
+209,Exports to sales,12  Dec-18,0.0,HOCM
+210,Imports to sales,12  Dec-18,0.0,HOCM
+211,Exports (fob),12  Dec-18,0.0,HOCM
+212,Imports (cif),12  Dec-18,0.0,HOCM
+213,Fx inflow,12  Dec-18,7587.0,HOCM
+214,Fx outflow,12  Dec-18,7145.0,HOCM
+215,Net fx,12  Dec-18,442.0,HOCM
+216,From Operations,12  Dec-18,3739.0,HOCM
+217,From Investments,12  Dec-18,-731.0,HOCM
+218,From Financial Activity,12  Dec-18,-1972.0,HOCM
+219,Net Cashflow,12  Dec-18,1036.0,HOCM

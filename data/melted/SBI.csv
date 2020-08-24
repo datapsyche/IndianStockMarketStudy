@@ -1,0 +1,176 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Interest income,12  Mar-15*,2079743.0,SBI
+1,Other income,12  Mar-15*,493152.0,SBI
+2,Interest expense,12  Mar-15*,1331786.0,SBI
+3,Net interest income,12  Mar-15*,747957.0,SBI
+4,Operating expense,12  Mar-15*,732242.0,SBI
+5,Provisions/contingencies,12  Mar-15*,250321.0,SBI
+6,Profit before tax,12  Mar-15*,258546.0,SBI
+7,Extraordinary Inc (Exp),12  Mar-15*,0.0,SBI
+8,Minority Interest,12  Mar-15*,-8375.0,SBI
+9,Prior Period Items,12  Mar-15*,3144.0,SBI
+10,Tax,12  Mar-15*,83372.0,SBI
+11,Profit after tax,12  Mar-15*,169943.0,SBI
+12,Net profit margin,12  Mar-15*,8.2,SBI
+13,Advances,12  Mar-15*,16922113.0,SBI
+14,Deposits,12  Mar-15*,20529608.0,SBI
+15,Credit/Deposit ratio,12  Mar-15*,82.4,SBI
+16,Yield on advances,12  Mar-15*,9.0,SBI
+17,Cost of deposits,12  Mar-15*,5.9,SBI
+18,Net Interest Margin,12  Mar-15*,2.9,SBI
+19,Net fixed assets,12  Mar-15*,123793.0,SBI
+20,Share capital,12  Mar-15*,7466.0,SBI
+21,Free reserves,12  Mar-15*,1000352.0,SBI
+22,Net worth,12  Mar-15*,1613875.0,SBI
+23,Borrowings,12  Mar-15*,2446635.0,SBI
+24,Investments,12  Mar-15*,6956918.0,SBI
+25,Total assets,12  Mar-15*,27001100.0,SBI
+26,Debt/equity ratio,12  Mar-15*,14.2,SBI
+27,Return on assets,12  Mar-15*,0.6,SBI
+28,Return on equity,12  Mar-15*,10.5,SBI
+29,Capital adequacy ratio,12  Mar-15*,12.8,SBI
+30,Net NPAs,12  Mar-15*,2.1,SBI
+31,From Operations,12  Mar-15*,262974.0,SBI
+32,From Investments,12  Mar-15*,-34304.0,SBI
+33,From Financial Activity,12  Mar-15*,-15533.0,SBI
+34,Net Cashflow,12  Mar-15*,213137.0,SBI
+35,Interest income,12  Mar-16*,2206328.0,SBI
+36,Other income,12  Mar-16*,528284.0,SBI
+37,Interest expense,12  Mar-16*,1430474.0,SBI
+38,Net interest income,12  Mar-16*,775854.0,SBI
+39,Operating expense,12  Mar-16*,743072.0,SBI
+40,Provisions/contingencies,12  Mar-16*,379298.0,SBI
+41,Profit before tax,12  Mar-16*,181768.0,SBI
+42,Extraordinary Inc (Exp),12  Mar-16*,0.0,SBI
+43,Minority Interest,12  Mar-16*,-7945.0,SBI
+44,Prior Period Items,12  Mar-16*,2758.0,SBI
+45,Tax,12  Mar-16*,54335.0,SBI
+46,Profit after tax,12  Mar-16*,122246.0,SBI
+47,Net profit margin,12  Mar-16*,5.5,SBI
+48,Advances,12  Mar-16*,18702609.0,SBI
+49,Deposits,12  Mar-16*,22538576.0,SBI
+50,Credit/Deposit ratio,12  Mar-16*,83.0,SBI
+51,Yield on advances,12  Mar-16*,8.4,SBI
+52,Cost of deposits,12  Mar-16*,5.9,SBI
+53,Net Interest Margin,12  Mar-16*,2.7,SBI
+54,Net fixed assets,12  Mar-16*,152557.0,SBI
+55,Share capital,12  Mar-16*,7763.0,SBI
+56,Free reserves,12  Mar-16*,1798161.0,SBI
+57,Net worth,12  Mar-16*,1805924.0,SBI
+58,Borrowings,12  Mar-16*,3613994.0,SBI
+59,Investments,12  Mar-16*,8073746.0,SBI
+60,Total assets,12  Mar-16*,30734832.0,SBI
+61,Debt/equity ratio,12  Mar-16*,14.5,SBI
+62,Return on assets,12  Mar-16*,0.4,SBI
+63,Return on equity,12  Mar-16*,6.8,SBI
+64,Capital adequacy ratio,12  Mar-16*,13.9,SBI
+65,Net NPAs,12  Mar-16*,3.8,SBI
+66,From Operations,12  Mar-16*,144767.0,SBI
+67,From Investments,12  Mar-16*,-36686.0,SBI
+68,From Financial Activity,12  Mar-16*,43485.0,SBI
+69,Net Cashflow,12  Mar-16*,151566.0,SBI
+70,Interest income,12  Mar-17*,2304475.0,SBI
+71,Other income,12  Mar-17*,681930.0,SBI
+72,Interest expense,12  Mar-17*,1491147.0,SBI
+73,Net interest income,12  Mar-17*,813328.0,SBI
+74,Operating expense,12  Mar-17*,872901.0,SBI
+75,Provisions/contingencies,12  Mar-17*,612909.0,SBI
+76,Profit before tax,12  Mar-17*,9448.0,SBI
+77,Extraordinary Inc (Exp),12  Mar-17*,0.0,SBI
+78,Minority Interest,12  Mar-17*,3386.0,SBI
+79,Prior Period Items,12  Mar-17*,2933.0,SBI
+80,Tax,12  Mar-17*,13355.0,SBI
+81,Profit after tax,12  Mar-17*,2412.0,SBI
+82,Net profit margin,12  Mar-17*,0.1,SBI
+83,Advances,12  Mar-17*,18968868.0,SBI
+84,Deposits,12  Mar-17*,25998107.0,SBI
+85,Credit/Deposit ratio,12  Mar-17*,73.0,SBI
+86,Yield on advances,12  Mar-17*,8.3,SBI
+87,Cost of deposits,12  Mar-17*,5.3,SBI
+88,Net Interest Margin,12  Mar-17*,2.5,SBI
+89,Net fixed assets,12  Mar-17*,509407.0,SBI
+90,Share capital,12  Mar-17*,7974.0,SBI
+91,Free reserves,12  Mar-17*,2163948.0,SBI
+92,Net worth,12  Mar-17*,2171922.0,SBI
+93,Borrowings,12  Mar-17*,3363657.0,SBI
+94,Investments,12  Mar-17*,10272809.0,SBI
+95,Total assets,12  Mar-17*,34451216.0,SBI
+96,Debt/equity ratio,12  Mar-17*,13.5,SBI
+97,Return on assets,12  Mar-17*,0.0,SBI
+98,Return on equity,12  Mar-17*,0.1,SBI
+99,Capital adequacy ratio,12  Mar-17*,13.6,SBI
+100,Net NPAs,12  Mar-17*,3.7,SBI
+101,From Operations,12  Mar-17*,774060.0,SBI
+102,From Investments,12  Mar-17*,-28321.0,SBI
+103,From Financial Activity,12  Mar-17*,-41965.0,SBI
+104,Net Cashflow,12  Mar-17*,686377.0,SBI
+105,Interest income,12  Mar-18*,2289703.0,SBI
+106,Other income,12  Mar-18*,775572.0,SBI
+107,Interest expense,12  Mar-18*,1466030.0,SBI
+108,Net interest income,12  Mar-18*,823673.0,SBI
+109,Operating expense,12  Mar-18*,961544.0,SBI
+110,Provisions/contingencies,12  Mar-18*,746816.0,SBI
+111,Profit before tax,12  Mar-18*,-109114.0,SBI
+112,Extraordinary Inc (Exp),12  Mar-18*,0.0,SBI
+113,Minority Interest,12  Mar-18*,-8070.0,SBI
+114,Prior Period Items,12  Mar-18*,4382.0,SBI
+115,Tax,12  Mar-18*,-67240.0,SBI
+116,Profit after tax,12  Mar-18*,-45563.0,SBI
+117,Net profit margin,12  Mar-18*,-2.0,SBI
+118,Advances,12  Mar-18*,19601185.0,SBI
+119,Deposits,12  Mar-18*,27221783.0,SBI
+120,Credit/Deposit ratio,12  Mar-18*,72.0,SBI
+121,Yield on advances,12  Mar-18*,7.4,SBI
+122,Cost of deposits,12  Mar-18*,5.0,SBI
+123,Net Interest Margin,12  Mar-18*,2.5,SBI
+124,Net fixed assets,12  Mar-18*,412258.0,SBI
+125,Share capital,12  Mar-18*,8925.0,SBI
+126,Free reserves,12  Mar-18*,2294295.0,SBI
+127,Net worth,12  Mar-18*,2303220.0,SBI
+128,Borrowings,12  Mar-18*,3690793.0,SBI
+129,Investments,12  Mar-18*,11837942.0,SBI
+130,Total assets,12  Mar-18*,36164330.0,SBI
+131,Debt/equity ratio,12  Mar-18*,13.4,SBI
+132,Return on assets,12  Mar-18*,-0.1,SBI
+133,Return on equity,12  Mar-18*,-2.0,SBI
+134,Capital adequacy ratio,12  Mar-18*,12.7,SBI
+135,Net NPAs,12  Mar-18*,5.7,SBI
+136,From Operations,12  Mar-18*,-965079.0,SBI
+137,From Investments,12  Mar-18*,110658.0,SBI
+138,From Financial Activity,12  Mar-18*,55472.0,SBI
+139,Net Cashflow,12  Mar-18*,-779081.0,SBI
+140,Interest income,12  Mar-19*,2533221.0,SBI
+141,Other income,12  Mar-19*,773652.0,SBI
+142,Interest expense,12  Mar-19*,1558675.0,SBI
+143,Net interest income,12  Mar-19*,974547.0,SBI
+144,Operating expense,12  Mar-19*,1148003.0,SBI
+145,Provisions/contingencies,12  Mar-19*,628566.0,SBI
+146,Profit before tax,12  Mar-19*,-28370.0,SBI
+147,Extraordinary Inc (Exp),12  Mar-19*,0.0,SBI
+148,Minority Interest,12  Mar-19*,-10509.0,SBI
+149,Prior Period Items,12  Mar-19*,2815.0,SBI
+150,Tax,12  Mar-19*,-59061.0,SBI
+151,Profit after tax,12  Mar-19*,22996.0,SBI
+152,Net profit margin,12  Mar-19*,0.9,SBI
+153,Advances,12  Mar-19*,22268537.0,SBI
+154,Deposits,12  Mar-19*,29405411.0,SBI
+155,Credit/Deposit ratio,12  Mar-19*,75.7,SBI
+156,Yield on advances,12  Mar-19*,7.5,SBI
+157,Cost of deposits,12  Mar-19*,4.8,SBI
+158,Net Interest Margin,12  Mar-19*,2.7,SBI
+159,Net fixed assets,12  Mar-19*,407031.0,SBI
+160,Share capital,12  Mar-19*,8925.0,SBI
+161,Free reserves,12  Mar-19*,2336032.0,SBI
+162,Net worth,12  Mar-19*,2344957.0,SBI
+163,Borrowings,12  Mar-19*,4137477.0,SBI
+164,Investments,12  Mar-19*,11192478.0,SBI
+165,Total assets,12  Mar-19*,38884671.0,SBI
+166,Debt/equity ratio,12  Mar-19*,14.3,SBI
+167,Return on assets,12  Mar-19*,0.1,SBI
+168,Return on equity,12  Mar-19*,1.0,SBI
+169,Capital adequacy ratio,12  Mar-19*,12.9,SBI
+170,Net NPAs,12  Mar-19*,3.0,SBI
+171,From Operations,12  Mar-19*,295560.0,SBI
+172,From Investments,12  Mar-19*,-8568.0,SBI
+173,From Financial Activity,12  Mar-19*,4476.0,SBI
+174,Net Cashflow,12  Mar-19*,302232.0,SBI

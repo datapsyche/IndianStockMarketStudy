@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,16322.0,FAG
+1,Other income,12  Dec-14,410.0,FAG
+2,Total revenues,12  Dec-14,16731.0,FAG
+3,Gross profit,12  Dec-14,2417.0,FAG
+4,Depreciation,12  Dec-14,494.0,FAG
+5,Interest,12  Dec-14,10.0,FAG
+6,Profit before tax,12  Dec-14,2324.0,FAG
+7,Minority Interest,12  Dec-14,0.0,FAG
+8,Prior Period Items,12  Dec-14,0.0,FAG
+9,Extraordinary Inc (Exp),12  Dec-14,0.0,FAG
+10,Tax,12  Dec-14,795.0,FAG
+11,Profit after tax,12  Dec-14,1529.0,FAG
+12,Gross profit margin,12  Dec-14,14.8,FAG
+13,Effective tax rate,12  Dec-14,34.2,FAG
+14,Net profit margin,12  Dec-14,9.4,FAG
+15,Current assets,12  Dec-14,9395.0,FAG
+16,Current liabilities,12  Dec-14,2769.0,FAG
+17,Net working cap to sales,12  Dec-14,40.6,FAG
+18,Current ratio,12  Dec-14,3.4,FAG
+19,Inventory Days,12  Dec-14,43.0,FAG
+20,Debtors Days,12  Dec-14,65.0,FAG
+21,Net fixed assets,12  Dec-14,3904.0,FAG
+22,Share capital,12  Dec-14,166.0,FAG
+23,"""Free"" reserves",12  Dec-14,10889.0,FAG
+24,Net worth,12  Dec-14,11075.0,FAG
+25,Long term debt,12  Dec-14,0.0,FAG
+26,Total assets,12  Dec-14,14342.0,FAG
+27,Interest coverage,12  Dec-14,240.6,FAG
+28,Debt to equity ratio,12  Dec-14,0.0,FAG
+29,Sales to assets ratio,12  Dec-14,1.1,FAG
+30,Return on assets,12  Dec-14,10.7,FAG
+31,Return on equity,12  Dec-14,13.8,FAG
+32,Return on capital,12  Dec-14,21.1,FAG
+33,Exports to sales,12  Dec-14,17.9,FAG
+34,Imports to sales,12  Dec-14,35.8,FAG
+35,Exports (fob),12  Dec-14,2923.0,FAG
+36,Imports (cif),12  Dec-14,5836.0,FAG
+37,Fx inflow,12  Dec-14,2934.0,FAG
+38,Fx outflow,12  Dec-14,6282.0,FAG
+39,Net fx,12  Dec-14,-3348.0,FAG
+40,From Operations,12  Dec-14,1174.0,FAG
+41,From Investments,12  Dec-14,-1524.0,FAG
+42,From Financial Activity,12  Dec-14,-126.0,FAG
+43,Net Cashflow,12  Dec-14,-477.0,FAG
+44,Net Sales,12  Dec-15,17078.0,FAG
+45,Other income,12  Dec-15,562.0,FAG
+46,Total revenues,12  Dec-15,17639.0,FAG
+47,Gross profit,12  Dec-15,3053.0,FAG
+48,Depreciation,12  Dec-15,655.0,FAG
+49,Interest,12  Dec-15,21.0,FAG
+50,Profit before tax,12  Dec-15,2938.0,FAG
+51,Minority Interest,12  Dec-15,0.0,FAG
+52,Prior Period Items,12  Dec-15,0.0,FAG
+53,Extraordinary Inc (Exp),12  Dec-15,0.0,FAG
+54,Tax,12  Dec-15,963.0,FAG
+55,Profit after tax,12  Dec-15,1975.0,FAG
+56,Gross profit margin,12  Dec-15,17.9,FAG
+57,Effective tax rate,12  Dec-15,32.8,FAG
+58,Net profit margin,12  Dec-15,11.6,FAG
+59,Current assets,12  Dec-15,11251.0,FAG
+60,Current liabilities,12  Dec-15,3143.0,FAG
+61,Net working cap to sales,12  Dec-15,47.5,FAG
+62,Current ratio,12  Dec-15,3.6,FAG
+63,Inventory Days,12  Dec-15,47.0,FAG
+64,Debtors Days,12  Dec-15,71.0,FAG
+65,Net fixed assets,12  Dec-15,3976.0,FAG
+66,Share capital,12  Dec-15,166.0,FAG
+67,"""Free"" reserves",12  Dec-15,12702.0,FAG
+68,Net worth,12  Dec-15,12892.0,FAG
+69,Long term debt,12  Dec-15,0.0,FAG
+70,Total assets,12  Dec-15,16510.0,FAG
+71,Interest coverage,12  Dec-15,139.6,FAG
+72,Debt to equity ratio,12  Dec-15,0.0,FAG
+73,Sales to assets ratio,12  Dec-15,1.0,FAG
+74,Return on assets,12  Dec-15,12.1,FAG
+75,Return on equity,12  Dec-15,15.3,FAG
+76,Return on capital,12  Dec-15,23.0,FAG
+77,Exports to sales,12  Dec-15,17.4,FAG
+78,Imports to sales,12  Dec-15,35.7,FAG
+79,Exports (fob),12  Dec-15,2973.0,FAG
+80,Imports (cif),12  Dec-15,6096.0,FAG
+81,Fx inflow,12  Dec-15,2997.0,FAG
+82,Fx outflow,12  Dec-15,6575.0,FAG
+83,Net fx,12  Dec-15,-3578.0,FAG
+84,From Operations,12  Dec-15,1819.0,FAG
+85,From Investments,12  Dec-15,-2221.0,FAG
+86,From Financial Activity,12  Dec-15,-172.0,FAG
+87,Net Cashflow,12  Dec-15,-574.0,FAG
+88,Net Sales,12  Dec-16,17963.0,FAG
+89,Other income,12  Dec-16,683.0,FAG
+90,Total revenues,12  Dec-16,18646.0,FAG
+91,Gross profit,12  Dec-16,2969.0,FAG
+92,Depreciation,12  Dec-16,641.0,FAG
+93,Interest,12  Dec-16,18.0,FAG
+94,Profit before tax,12  Dec-16,2993.0,FAG
+95,Minority Interest,12  Dec-16,0.0,FAG
+96,Prior Period Items,12  Dec-16,0.0,FAG
+97,Extraordinary Inc (Exp),12  Dec-16,0.0,FAG
+98,Tax,12  Dec-16,1043.0,FAG
+99,Profit after tax,12  Dec-16,1951.0,FAG
+100,Gross profit margin,12  Dec-16,16.5,FAG
+101,Effective tax rate,12  Dec-16,34.8,FAG
+102,Net profit margin,12  Dec-16,10.9,FAG
+103,Current assets,12  Dec-16,12994.0,FAG
+104,Current liabilities,12  Dec-16,3515.0,FAG
+105,Net working cap to sales,12  Dec-16,52.8,FAG
+106,Current ratio,12  Dec-16,3.7,FAG
+107,Inventory Days,12  Dec-16,56.0,FAG
+108,Debtors Days,12  Dec-16,66.0,FAG
+109,Net fixed assets,12  Dec-16,4103.0,FAG
+110,Share capital,12  Dec-16,166.0,FAG
+111,"""Free"" reserves",12  Dec-16,14585.0,FAG
+112,Net worth,12  Dec-16,14752.0,FAG
+113,Long term debt,12  Dec-16,0.0,FAG
+114,Total assets,12  Dec-16,18537.0,FAG
+115,Interest coverage,12  Dec-16,171.1,FAG
+116,Debt to equity ratio,12  Dec-16,0.0,FAG
+117,Sales to assets ratio,12  Dec-16,1.0,FAG
+118,Return on assets,12  Dec-16,10.6,FAG
+119,Return on equity,12  Dec-16,13.2,FAG
+120,Return on capital,12  Dec-16,20.4,FAG
+121,Exports to sales,12  Dec-16,16.4,FAG
+122,Imports to sales,12  Dec-16,37.8,FAG
+123,Exports (fob),12  Dec-16,2947.0,FAG
+124,Imports (cif),12  Dec-16,6794.0,FAG
+125,Fx inflow,12  Dec-16,2962.0,FAG
+126,Fx outflow,12  Dec-16,7368.0,FAG
+127,Net fx,12  Dec-16,-4406.0,FAG
+128,From Operations,12  Dec-16,1928.0,FAG
+129,From Investments,12  Dec-16,-1387.0,FAG
+130,From Financial Activity,12  Dec-16,-218.0,FAG
+131,Net Cashflow,12  Dec-16,323.0,FAG
+132,Net Sales,12  Dec-17,39331.0,FAG
+133,Other income,12  Dec-17,596.0,FAG
+134,Total revenues,12  Dec-17,39927.0,FAG
+135,Gross profit,12  Dec-17,6821.0,FAG
+136,Depreciation,12  Dec-17,1382.0,FAG
+137,Interest,12  Dec-17,102.0,FAG
+138,Profit before tax,12  Dec-17,5934.0,FAG
+139,Minority Interest,12  Dec-17,0.0,FAG
+140,Prior Period Items,12  Dec-17,0.0,FAG
+141,Extraordinary Inc (Exp),12  Dec-17,-45.0,FAG
+142,Tax,12  Dec-17,2003.0,FAG
+143,Profit after tax,12  Dec-17,3885.0,FAG
+144,Gross profit margin,12  Dec-17,17.3,FAG
+145,Effective tax rate,12  Dec-17,33.8,FAG
+146,Net profit margin,12  Dec-17,9.9,FAG
+147,Current assets,12  Dec-17,22508.0,FAG
+148,Current liabilities,12  Dec-17,7527.0,FAG
+149,Net working cap to sales,12  Dec-17,38.1,FAG
+150,Current ratio,12  Dec-17,3.0,FAG
+151,Inventory Days,12  Dec-17,56.0,FAG
+152,Debtors Days,12  Dec-17,59.0,FAG
+153,Net fixed assets,12  Dec-17,7977.0,FAG
+154,Share capital,12  Dec-17,166.0,FAG
+155,"""Free"" reserves",12  Dec-17,23085.0,FAG
+156,Net worth,12  Dec-17,23252.0,FAG
+157,Long term debt,12  Dec-17,569.0,FAG
+158,Total assets,12  Dec-17,31804.0,FAG
+159,Interest coverage,12  Dec-17,59.4,FAG
+160,Debt to equity ratio,12  Dec-17,0.0,FAG
+161,Sales to assets ratio,12  Dec-17,1.2,FAG
+162,Return on assets,12  Dec-17,12.5,FAG
+163,Return on equity,12  Dec-17,16.7,FAG
+164,Return on capital,12  Dec-17,25.1,FAG
+165,Exports to sales,12  Dec-17,10.8,FAG
+166,Imports to sales,12  Dec-17,27.4,FAG
+167,Exports (fob),12  Dec-17,4259.0,FAG
+168,Imports (cif),12  Dec-17,10793.0,FAG
+169,Fx inflow,12  Dec-17,4285.0,FAG
+170,Fx outflow,12  Dec-17,12139.0,FAG
+171,Net fx,12  Dec-17,-7854.0,FAG
+172,From Operations,12  Dec-17,4010.0,FAG
+173,From Investments,12  Dec-17,-3050.0,FAG
+174,From Financial Activity,12  Dec-17,-882.0,FAG
+175,Net Cashflow,12  Dec-17,431.0,FAG
+176,Net Sales,12  Dec-18,45615.0,FAG
+177,Other income,12  Dec-18,908.0,FAG
+178,Total revenues,12  Dec-18,46523.0,FAG
+179,Gross profit,12  Dec-18,7396.0,FAG
+180,Depreciation,12  Dec-18,1485.0,FAG
+181,Interest,12  Dec-18,70.0,FAG
+182,Profit before tax,12  Dec-18,6749.0,FAG
+183,Minority Interest,12  Dec-18,0.0,FAG
+184,Prior Period Items,12  Dec-18,0.0,FAG
+185,Extraordinary Inc (Exp),12  Dec-18,-432.0,FAG
+186,Tax,12  Dec-18,2119.0,FAG
+187,Profit after tax,12  Dec-18,4198.0,FAG
+188,Gross profit margin,12  Dec-18,16.2,FAG
+189,Effective tax rate,12  Dec-18,31.4,FAG
+190,Net profit margin,12  Dec-18,9.2,FAG
+191,Current assets,12  Dec-18,26637.0,FAG
+192,Current liabilities,12  Dec-18,10170.0,FAG
+193,Net working cap to sales,12  Dec-18,36.1,FAG
+194,Current ratio,12  Dec-18,2.6,FAG
+195,Inventory Days,12  Dec-18,73.0,FAG
+196,Debtors Days,12  Dec-18,60.0,FAG
+197,Net fixed assets,12  Dec-18,8924.0,FAG
+198,Share capital,12  Dec-18,313.0,FAG
+199,"""Free"" reserves",12  Dec-18,26749.0,FAG
+200,Net worth,12  Dec-18,27061.0,FAG
+201,Long term debt,12  Dec-18,49.0,FAG
+202,Total assets,12  Dec-18,37674.0,FAG
+203,Interest coverage,12  Dec-18,96.9,FAG
+204,Debt to equity ratio,12  Dec-18,0.0,FAG
+205,Sales to assets ratio,12  Dec-18,1.2,FAG
+206,Return on assets,12  Dec-18,11.3,FAG
+207,Return on equity,12  Dec-18,15.5,FAG
+208,Return on capital,12  Dec-18,23.6,FAG
+209,Exports to sales,12  Dec-18,10.2,FAG
+210,Imports to sales,12  Dec-18,33.5,FAG
+211,Exports (fob),12  Dec-18,4636.0,FAG
+212,Imports (cif),12  Dec-18,15270.0,FAG
+213,Fx inflow,12  Dec-18,4642.0,FAG
+214,Fx outflow,12  Dec-18,16412.0,FAG
+215,Net fx,12  Dec-18,-11770.0,FAG
+216,From Operations,12  Dec-18,2382.0,FAG
+217,From Investments,12  Dec-18,-1834.0,FAG
+218,From Financial Activity,12  Dec-18,-527.0,FAG
+219,Net Cashflow,12  Dec-18,22.0,FAG

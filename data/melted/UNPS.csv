@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,120905.0,UNPS
+1,Other income,12  Mar-15*,-28.0,UNPS
+2,Total revenues,12  Mar-15*,120877.0,UNPS
+3,Gross profit,12  Mar-15*,23626.0,UNPS
+4,Depreciation,12  Mar-15*,4245.0,UNPS
+5,Interest,12  Mar-15*,5170.0,UNPS
+6,Profit before tax,12  Mar-15*,14182.0,UNPS
+7,Minority Interest,12  Mar-15*,-433.0,UNPS
+8,Prior Period Items,12  Mar-15*,205.0,UNPS
+9,Extraordinary Inc (Exp),12  Mar-15*,-74.0,UNPS
+10,Tax,12  Mar-15*,2440.0,UNPS
+11,Profit after tax,12  Mar-15*,11440.0,UNPS
+12,Gross profit margin,12  Mar-15*,19.5,UNPS
+13,Effective tax rate,12  Mar-15*,17.2,UNPS
+14,Net profit margin,12  Mar-15*,9.5,UNPS
+15,Current assets,12  Mar-15*,94740.0,UNPS
+16,Current liabilities,12  Mar-15*,65740.0,UNPS
+17,Net working cap to sales,12  Mar-15*,24.0,UNPS
+18,Current ratio,12  Mar-15*,1.4,UNPS
+19,Inventory Days,12  Mar-15*,104.0,UNPS
+20,Debtors Days,12  Mar-15*,125.0,UNPS
+21,Net fixed assets,12  Mar-15*,40510.0,UNPS
+22,Share capital,12  Mar-15*,857.0,UNPS
+23,"""Free"" reserves",12  Mar-15*,52710.0,UNPS
+24,Net worth,12  Mar-15*,53567.0,UNPS
+25,Long term debt,12  Mar-15*,17930.0,UNPS
+26,Total assets,12  Mar-15*,145050.0,UNPS
+27,Interest coverage,12  Mar-15*,3.7,UNPS
+28,Debt to equity ratio,12  Mar-15*,0.3,UNPS
+29,Sales to assets ratio,12  Mar-15*,0.8,UNPS
+30,Return on assets,12  Mar-15*,11.5,UNPS
+31,Return on equity,12  Mar-15*,21.4,UNPS
+32,Return on capital,12  Mar-15*,26.6,UNPS
+33,Exports to sales,12  Mar-15*,23.1,UNPS
+34,Imports to sales,12  Mar-15*,14.9,UNPS
+35,Exports (fob),12  Mar-15*,27977.0,UNPS
+36,Imports (cif),12  Mar-15*,18054.0,UNPS
+37,Fx inflow,12  Mar-15*,30193.0,UNPS
+38,Fx outflow,12  Mar-15*,21026.0,UNPS
+39,Net fx,12  Mar-15*,9166.0,UNPS
+40,From Operations,12  Mar-15*,14090.0,UNPS
+41,From Investments,12  Mar-15*,-3314.0,UNPS
+42,From Financial Activity,12  Mar-15*,-9913.0,UNPS
+43,Net Cashflow,12  Mar-15*,863.0,UNPS
+44,Net Sales,12  Mar-16*,140480.0,UNPS
+45,Other income,12  Mar-16*,3160.0,UNPS
+46,Total revenues,12  Mar-16*,143640.0,UNPS
+47,Gross profit,12  Mar-16*,23950.0,UNPS
+48,Depreciation,12  Mar-16*,6760.0,UNPS
+49,Interest,12  Mar-16*,7040.0,UNPS
+50,Profit before tax,12  Mar-16*,13310.0,UNPS
+51,Minority Interest,12  Mar-16*,-850.0,UNPS
+52,Prior Period Items,12  Mar-16*,0.0,UNPS
+53,Extraordinary Inc (Exp),12  Mar-16*,-1290.0,UNPS
+54,Tax,12  Mar-16*,1650.0,UNPS
+55,Profit after tax,12  Mar-16*,9520.0,UNPS
+56,Gross profit margin,12  Mar-16*,17.0,UNPS
+57,Effective tax rate,12  Mar-16*,12.4,UNPS
+58,Net profit margin,12  Mar-16*,6.8,UNPS
+59,Current assets,12  Mar-16*,111830.0,UNPS
+60,Current liabilities,12  Mar-16*,81680.0,UNPS
+61,Net working cap to sales,12  Mar-16*,21.5,UNPS
+62,Current ratio,12  Mar-16*,1.4,UNPS
+63,Inventory Days,12  Mar-16*,98.0,UNPS
+64,Debtors Days,12  Mar-16*,133.0,UNPS
+65,Net fixed assets,12  Mar-16*,45210.0,UNPS
+66,Share capital,12  Mar-16*,857.0,UNPS
+67,"""Free"" reserves",12  Mar-16*,58030.0,UNPS
+68,Net worth,12  Mar-16*,58887.0,UNPS
+69,Long term debt,12  Mar-16*,22660.0,UNPS
+70,Total assets,12  Mar-16*,169880.0,UNPS
+71,Interest coverage,12  Mar-16*,2.9,UNPS
+72,Debt to equity ratio,12  Mar-16*,0.4,UNPS
+73,Sales to assets ratio,12  Mar-16*,0.8,UNPS
+74,Return on assets,12  Mar-16*,9.7,UNPS
+75,Return on equity,12  Mar-16*,16.2,UNPS
+76,Return on capital,12  Mar-16*,22.3,UNPS
+77,Exports to sales,12  Mar-16*,26.0,UNPS
+78,Imports to sales,12  Mar-16*,12.9,UNPS
+79,Exports (fob),12  Mar-16*,36571.0,UNPS
+80,Imports (cif),12  Mar-16*,18055.0,UNPS
+81,Fx inflow,12  Mar-16*,44039.0,UNPS
+82,Fx outflow,12  Mar-16*,20454.0,UNPS
+83,Net fx,12  Mar-16*,23585.0,UNPS
+84,From Operations,12  Mar-16*,13960.0,UNPS
+85,From Investments,12  Mar-16*,-17190.0,UNPS
+86,From Financial Activity,12  Mar-16*,4690.0,UNPS
+87,Net Cashflow,12  Mar-16*,1310.0,UNPS
+88,Net Sales,12  Mar-17*,163120.0,UNPS
+89,Other income,12  Mar-17*,4440.0,UNPS
+90,Total revenues,12  Mar-17*,167560.0,UNPS
+91,Gross profit,12  Mar-17*,29850.0,UNPS
+92,Depreciation,12  Mar-17*,6720.0,UNPS
+93,Interest,12  Mar-17*,7350.0,UNPS
+94,Profit before tax,12  Mar-17*,20220.0,UNPS
+95,Minority Interest,12  Mar-17*,-190.0,UNPS
+96,Prior Period Items,12  Mar-17*,0.0,UNPS
+97,Extraordinary Inc (Exp),12  Mar-17*,-810.0,UNPS
+98,Tax,12  Mar-17*,1890.0,UNPS
+99,Profit after tax,12  Mar-17*,17330.0,UNPS
+100,Gross profit margin,12  Mar-17*,18.3,UNPS
+101,Effective tax rate,12  Mar-17*,9.3,UNPS
+102,Net profit margin,12  Mar-17*,10.6,UNPS
+103,Current assets,12  Mar-17*,136580.0,UNPS
+104,Current liabilities,12  Mar-17*,70280.0,UNPS
+105,Net working cap to sales,12  Mar-17*,40.6,UNPS
+106,Current ratio,12  Mar-17*,1.9,UNPS
+107,Inventory Days,12  Mar-17*,93.0,UNPS
+108,Debtors Days,12  Mar-17*,127.0,UNPS
+109,Net fixed assets,12  Mar-17*,50370.0,UNPS
+110,Share capital,12  Mar-17*,1010.0,UNPS
+111,"""Free"" reserves",12  Mar-17*,72140.0,UNPS
+112,Net worth,12  Mar-17*,73150.0,UNPS
+113,Long term debt,12  Mar-17*,53500.0,UNPS
+114,Total assets,12  Mar-17*,203810.0,UNPS
+115,Interest coverage,12  Mar-17*,3.8,UNPS
+116,Debt to equity ratio,12  Mar-17*,0.7,UNPS
+117,Sales to assets ratio,12  Mar-17*,0.8,UNPS
+118,Return on assets,12  Mar-17*,12.1,UNPS
+119,Return on equity,12  Mar-17*,23.7,UNPS
+120,Return on capital,12  Mar-17*,21.0,UNPS
+121,Exports to sales,12  Mar-17*,0.0,UNPS
+122,Imports to sales,12  Mar-17*,0.0,UNPS
+123,Exports (fob),12  Mar-17*,0.0,UNPS
+124,Imports (cif),12  Mar-17*,0.0,UNPS
+125,Fx inflow,12  Mar-17*,39721.0,UNPS
+126,Fx outflow,12  Mar-17*,22969.0,UNPS
+127,Net fx,12  Mar-17*,16752.0,UNPS
+128,From Operations,12  Mar-17*,25850.0,UNPS
+129,From Investments,12  Mar-17*,-9990.0,UNPS
+130,From Financial Activity,12  Mar-17*,1400.0,UNPS
+131,Net Cashflow,12  Mar-17*,17030.0,UNPS
+132,Net Sales,12  Mar-18*,173780.0,UNPS
+133,Other income,12  Mar-18*,4140.0,UNPS
+134,Total revenues,12  Mar-18*,177920.0,UNPS
+135,Gross profit,12  Mar-18*,35050.0,UNPS
+136,Depreciation,12  Mar-18*,6750.0,UNPS
+137,Interest,12  Mar-18*,7830.0,UNPS
+138,Profit before tax,12  Mar-18*,24610.0,UNPS
+139,Minority Interest,12  Mar-18*,-930.0,UNPS
+140,Prior Period Items,12  Mar-18*,0.0,UNPS
+141,Extraordinary Inc (Exp),12  Mar-18*,-630.0,UNPS
+142,Tax,12  Mar-18*,2750.0,UNPS
+143,Profit after tax,12  Mar-18*,20300.0,UNPS
+144,Gross profit margin,12  Mar-18*,20.2,UNPS
+145,Effective tax rate,12  Mar-18*,11.2,UNPS
+146,Net profit margin,12  Mar-18*,11.7,UNPS
+147,Current assets,12  Mar-18*,150040.0,UNPS
+148,Current liabilities,12  Mar-18*,76420.0,UNPS
+149,Net working cap to sales,12  Mar-18*,42.4,UNPS
+150,Current ratio,12  Mar-18*,2.0,UNPS
+151,Inventory Days,12  Mar-18*,95.0,UNPS
+152,Debtors Days,12  Mar-18*,127.0,UNPS
+153,Net fixed assets,12  Mar-18*,61420.0,UNPS
+154,Share capital,12  Mar-18*,1020.0,UNPS
+155,"""Free"" reserves",12  Mar-18*,90670.0,UNPS
+156,Net worth,12  Mar-18*,91690.0,UNPS
+157,Long term debt,12  Mar-18*,58730.0,UNPS
+158,Total assets,12  Mar-18*,230430.0,UNPS
+159,Interest coverage,12  Mar-18*,4.1,UNPS
+160,Debt to equity ratio,12  Mar-18*,0.6,UNPS
+161,Sales to assets ratio,12  Mar-18*,0.8,UNPS
+162,Return on assets,12  Mar-18*,12.2,UNPS
+163,Return on equity,12  Mar-18*,22.1,UNPS
+164,Return on capital,12  Mar-18*,20.5,UNPS
+165,Exports to sales,12  Mar-18*,0.0,UNPS
+166,Imports to sales,12  Mar-18*,0.0,UNPS
+167,Exports (fob),12  Mar-18*,0.0,UNPS
+168,Imports (cif),12  Mar-18*,0.0,UNPS
+169,Fx inflow,12  Mar-18*,39558.0,UNPS
+170,Fx outflow,12  Mar-18*,24460.0,UNPS
+171,Net fx,12  Mar-18*,15097.0,UNPS
+172,From Operations,12  Mar-18*,28390.0,UNPS
+173,From Investments,12  Mar-18*,-20930.0,UNPS
+174,From Financial Activity,12  Mar-18*,-8010.0,UNPS
+175,Net Cashflow,12  Mar-18*,-180.0,UNPS
+176,Net Sales,12  Mar-19*,218370.0,UNPS
+177,Other income,12  Mar-19*,2400.0,UNPS
+178,Total revenues,12  Mar-19*,220770.0,UNPS
+179,Gross profit,12  Mar-19*,38130.0,UNPS
+180,Depreciation,12  Mar-19*,9690.0,UNPS
+181,Interest,12  Mar-19*,9630.0,UNPS
+182,Profit before tax,12  Mar-19*,21210.0,UNPS
+183,Minority Interest,12  Mar-19*,140.0,UNPS
+184,Prior Period Items,12  Mar-19*,0.0,UNPS
+185,Extraordinary Inc (Exp),12  Mar-19*,-4510.0,UNPS
+186,Tax,12  Mar-19*,1650.0,UNPS
+187,Profit after tax,12  Mar-19*,15190.0,UNPS
+188,Gross profit margin,12  Mar-19*,17.5,UNPS
+189,Effective tax rate,12  Mar-19*,7.8,UNPS
+190,Net profit margin,12  Mar-19*,7.0,UNPS
+191,Current assets,12  Mar-19*,269660.0,UNPS
+192,Current liabilities,12  Mar-19*,155640.0,UNPS
+193,Net working cap to sales,12  Mar-19*,52.2,UNPS
+194,Current ratio,12  Mar-19*,1.7,UNPS
+195,Inventory Days,12  Mar-19*,155.0,UNPS
+196,Debtors Days,12  Mar-19*,197.0,UNPS
+197,Net fixed assets,12  Mar-19*,340920.0,UNPS
+198,Share capital,12  Mar-19*,1020.0,UNPS
+199,"""Free"" reserves",12  Mar-19*,145430.0,UNPS
+200,Net worth,12  Mar-19*,146450.0,UNPS
+201,Long term debt,12  Mar-19*,263830.0,UNPS
+202,Total assets,12  Mar-19*,630480.0,UNPS
+203,Interest coverage,12  Mar-19*,3.2,UNPS
+204,Debt to equity ratio,12  Mar-19*,1.8,UNPS
+205,Sales to assets ratio,12  Mar-19*,0.3,UNPS
+206,Return on assets,12  Mar-19*,3.9,UNPS
+207,Return on equity,12  Mar-19*,10.4,UNPS
+208,Return on capital,12  Mar-19*,6.5,UNPS
+209,Exports to sales,12  Mar-19*,0.0,UNPS
+210,Imports to sales,12  Mar-19*,0.0,UNPS
+211,Exports (fob),12  Mar-19*,0.0,UNPS
+212,Imports (cif),12  Mar-19*,0.0,UNPS
+213,Fx inflow,12  Mar-19*,51952.0,UNPS
+214,Fx outflow,12  Mar-19*,34098.0,UNPS
+215,Net fx,12  Mar-19*,17854.0,UNPS
+216,From Operations,12  Mar-19*,23560.0,UNPS
+217,From Investments,12  Mar-19*,-319680.0,UNPS
+218,From Financial Activity,12  Mar-19*,288940.0,UNPS
+219,Net Cashflow,12  Mar-19*,-320.0,UNPS

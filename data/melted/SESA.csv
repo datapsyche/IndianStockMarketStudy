@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,737095.0,SESA
+1,Other income,12  Mar-15*,29772.0,SESA
+2,Total revenues,12  Mar-15*,766867.0,SESA
+3,Gross profit,12  Mar-15*,221144.0,SESA
+4,Depreciation,12  Mar-15*,71592.0,SESA
+5,Interest,12  Mar-15*,56588.0,SESA
+6,Profit before tax,12  Mar-15*,122736.0,SESA
+7,Minority Interest,12  Mar-15*,-42764.0,SESA
+8,Prior Period Items,12  Mar-15*,41.0,SESA
+9,Extraordinary Inc (Exp),12  Mar-15*,-221987.0,SESA
+10,Tax,12  Mar-15*,14484.0,SESA
+11,Profit after tax,12  Mar-15*,-156458.0,SESA
+12,Gross profit margin,12  Mar-15*,30.0,SESA
+13,Effective tax rate,12  Mar-15*,11.8,SESA
+14,Net profit margin,12  Mar-15*,-21.2,SESA
+15,Current assets,12  Mar-15*,686035.0,SESA
+16,Current liabilities,12  Mar-15*,424168.0,SESA
+17,Net working cap to sales,12  Mar-15*,35.5,SESA
+18,Current ratio,12  Mar-15*,1.6,SESA
+19,Inventory Days,12  Mar-15*,43.0,SESA
+20,Debtors Days,12  Mar-15*,17.0,SESA
+21,Net fixed assets,12  Mar-15*,910661.0,SESA
+22,Share capital,12  Mar-15*,2965.0,SESA
+23,"""Free"" reserves",12  Mar-15*,584398.0,SESA
+24,Net worth,12  Mar-15*,587363.0,SESA
+25,Long term debt,12  Mar-15*,518357.0,SESA
+26,Total assets,12  Mar-15*,2228957.0,SESA
+27,Interest coverage,12  Mar-15*,3.2,SESA
+28,Debt to equity ratio,12  Mar-15*,0.9,SESA
+29,Sales to assets ratio,12  Mar-15*,0.3,SESA
+30,Return on assets,12  Mar-15*,-4.5,SESA
+31,Return on equity,12  Mar-15*,-26.6,SESA
+32,Return on capital,12  Mar-15*,-7.7,SESA
+33,Exports to sales,12  Mar-15*,19.6,SESA
+34,Imports to sales,12  Mar-15*,25.9,SESA
+35,Exports (fob),12  Mar-15*,144238.0,SESA
+36,Imports (cif),12  Mar-15*,190778.0,SESA
+37,Fx inflow,12  Mar-15*,144292.0,SESA
+38,Fx outflow,12  Mar-15*,198579.0,SESA
+39,Net fx,12  Mar-15*,-54287.0,SESA
+40,From Operations,12  Mar-15*,178051.0,SESA
+41,From Investments,12  Mar-15*,-41600.0,SESA
+42,From Financial Activity,12  Mar-15*,-139558.0,SESA
+43,Net Cashflow,12  Mar-15*,-3107.0,SESA
+44,Net Sales,12  Mar-16*,642618.0,SESA
+45,Other income,12  Mar-16*,44436.0,SESA
+46,Total revenues,12  Mar-16*,687053.0,SESA
+47,Gross profit,12  Mar-16*,151516.0,SESA
+48,Depreciation,12  Mar-16*,85724.0,SESA
+49,Interest,12  Mar-16*,57781.0,SESA
+50,Profit before tax,12  Mar-16*,52446.0,SESA
+51,Minority Interest,12  Mar-16*,2.0,SESA
+52,Prior Period Items,12  Mar-16*,0.0,SESA
+53,Extraordinary Inc (Exp),12  Mar-16*,-337847.0,SESA
+54,Tax,12  Mar-16*,-106776.0,SESA
+55,Profit after tax,12  Mar-16*,-178624.0,SESA
+56,Gross profit margin,12  Mar-16*,23.6,SESA
+57,Effective tax rate,12  Mar-16*,-203.6,SESA
+58,Net profit margin,12  Mar-16*,-27.8,SESA
+59,Current assets,12  Mar-16*,728433.0,SESA
+60,Current liabilities,12  Mar-16*,543403.0,SESA
+61,Net working cap to sales,12  Mar-16*,28.8,SESA
+62,Current ratio,12  Mar-16*,1.3,SESA
+63,Inventory Days,12  Mar-16*,46.0,SESA
+64,Debtors Days,12  Mar-16*,14.0,SESA
+65,Net fixed assets,12  Mar-16*,943651.0,SESA
+66,Share capital,12  Mar-16*,2965.0,SESA
+67,"""Free"" reserves",12  Mar-16*,437427.0,SESA
+68,Net worth,12  Mar-16*,440392.0,SESA
+69,Long term debt,12  Mar-16*,493784.0,SESA
+70,Total assets,12  Mar-16*,1952311.0,SESA
+71,Interest coverage,12  Mar-16*,1.9,SESA
+72,Debt to equity ratio,12  Mar-16*,1.1,SESA
+73,Sales to assets ratio,12  Mar-16*,0.3,SESA
+74,Return on assets,12  Mar-16*,-6.2,SESA
+75,Return on equity,12  Mar-16*,-40.6,SESA
+76,Return on capital,12  Mar-16*,-24.4,SESA
+77,Exports to sales,12  Mar-16*,17.4,SESA
+78,Imports to sales,12  Mar-16*,25.2,SESA
+79,Exports (fob),12  Mar-16*,111869.0,SESA
+80,Imports (cif),12  Mar-16*,162069.0,SESA
+81,Fx inflow,12  Mar-16*,164540.0,SESA
+82,Fx outflow,12  Mar-16*,174623.0,SESA
+83,Net fx,12  Mar-16*,-10083.0,SESA
+84,From Operations,12  Mar-16*,203769.0,SESA
+85,From Investments,12  Mar-16*,-78628.0,SESA
+86,From Financial Activity,12  Mar-16*,-113030.0,SESA
+87,Net Cashflow,12  Mar-16*,12061.0,SESA
+88,Net Sales,12  Mar-17*,722250.0,SESA
+89,Other income,12  Mar-17*,45806.0,SESA
+90,Total revenues,12  Mar-17*,768056.0,SESA
+91,Gross profit,12  Mar-17*,213324.0,SESA
+92,Depreciation,12  Mar-17*,62915.0,SESA
+93,Interest,12  Mar-17*,58550.0,SESA
+94,Profit before tax,12  Mar-17*,137664.0,SESA
+95,Minority Interest,12  Mar-17*,0.0,SESA
+96,Prior Period Items,12  Mar-17*,0.0,SESA
+97,Extraordinary Inc (Exp),12  Mar-17*,-1144.0,SESA
+98,Tax,12  Mar-17*,23330.0,SESA
+99,Profit after tax,12  Mar-17*,113190.0,SESA
+100,Gross profit margin,12  Mar-17*,29.5,SESA
+101,Effective tax rate,12  Mar-17*,16.9,SESA
+102,Net profit margin,12  Mar-17*,15.7,SESA
+103,Current assets,12  Mar-17*,767961.0,SESA
+104,Current liabilities,12  Mar-17*,826753.0,SESA
+105,Net working cap to sales,12  Mar-17*,-8.1,SESA
+106,Current ratio,12  Mar-17*,0.9,SESA
+107,Inventory Days,12  Mar-17*,49.0,SESA
+108,Debtors Days,12  Mar-17*,11.0,SESA
+109,Net fixed assets,12  Mar-17*,1043116.0,SESA
+110,Share capital,12  Mar-17*,3718.0,SESA
+111,"""Free"" reserves",12  Mar-17*,601284.0,SESA
+112,Net worth,12  Mar-17*,605001.0,SESA
+113,Long term debt,12  Mar-17*,302551.0,SESA
+114,Total assets,12  Mar-17*,1990296.0,SESA
+115,Interest coverage,12  Mar-17*,3.4,SESA
+116,Debt to equity ratio,12  Mar-17*,0.5,SESA
+117,Sales to assets ratio,12  Mar-17*,0.4,SESA
+118,Return on assets,12  Mar-17*,8.6,SESA
+119,Return on equity,12  Mar-17*,18.7,SESA
+120,Return on capital,12  Mar-17*,21.5,SESA
+121,Exports to sales,12  Mar-17*,0.0,SESA
+122,Imports to sales,12  Mar-17*,26.8,SESA
+123,Exports (fob),12  Mar-17*,0.0,SESA
+124,Imports (cif),12  Mar-17*,193220.0,SESA
+125,Fx inflow,12  Mar-17*,211376.0,SESA
+126,Fx outflow,12  Mar-17*,206040.0,SESA
+127,Net fx,12  Mar-17*,5336.0,SESA
+128,From Operations,12  Mar-17*,180830.0,SESA
+129,From Investments,12  Mar-17*,27110.0,SESA
+130,From Financial Activity,12  Mar-17*,-124250.0,SESA
+131,Net Cashflow,12  Mar-17*,83391.0,SESA
+132,Net Sales,12  Mar-18*,918660.0,SESA
+133,Other income,12  Mar-18*,32050.0,SESA
+134,Total revenues,12  Mar-18*,950710.0,SESA
+135,Gross profit,12  Mar-18*,248620.0,SESA
+136,Depreciation,12  Mar-18*,62830.0,SESA
+137,Interest,12  Mar-18*,51120.0,SESA
+138,Profit before tax,12  Mar-18*,166720.0,SESA
+139,Minority Interest,12  Mar-18*,0.0,SESA
+140,Prior Period Items,12  Mar-18*,0.0,SESA
+141,Extraordinary Inc (Exp),12  Mar-18*,28970.0,SESA
+142,Tax,12  Mar-18*,58770.0,SESA
+143,Profit after tax,12  Mar-18*,136920.0,SESA
+144,Gross profit margin,12  Mar-18*,27.1,SESA
+145,Effective tax rate,12  Mar-18*,35.3,SESA
+146,Net profit margin,12  Mar-18*,14.9,SESA
+147,Current assets,12  Mar-18*,551140.0,SESA
+148,Current liabilities,12  Mar-18*,672470.0,SESA
+149,Net working cap to sales,12  Mar-18*,-13.2,SESA
+150,Current ratio,12  Mar-18*,0.8,SESA
+151,Inventory Days,12  Mar-18*,48.0,SESA
+152,Debtors Days,12  Mar-18*,16.0,SESA
+153,Net fixed assets,12  Mar-18*,1123340.0,SESA
+154,Share capital,12  Mar-18*,3718.0,SESA
+155,"""Free"" reserves",12  Mar-18*,629400.0,SESA
+156,Net worth,12  Mar-18*,633118.0,SESA
+157,Long term debt,12  Mar-18*,267890.0,SESA
+158,Total assets,12  Mar-18*,1845850.0,SESA
+159,Interest coverage,12  Mar-18*,4.3,SESA
+160,Debt to equity ratio,12  Mar-18*,0.4,SESA
+161,Sales to assets ratio,12  Mar-18*,0.5,SESA
+162,Return on assets,12  Mar-18*,10.2,SESA
+163,Return on equity,12  Mar-18*,21.6,SESA
+164,Return on capital,12  Mar-18*,27.4,SESA
+165,Exports to sales,12  Mar-18*,0.0,SESA
+166,Imports to sales,12  Mar-18*,31.5,SESA
+167,Exports (fob),12  Mar-18*,0.0,SESA
+168,Imports (cif),12  Mar-18*,289000.0,SESA
+169,Fx inflow,12  Mar-18*,283940.0,SESA
+170,Fx outflow,12  Mar-18*,304510.0,SESA
+171,Net fx,12  Mar-18*,-20570.0,SESA
+172,From Operations,12  Mar-18*,173660.0,SESA
+173,From Investments,12  Mar-18*,153960.0,SESA
+174,From Financial Activity,12  Mar-18*,-392550.0,SESA
+175,Net Cashflow,12  Mar-18*,-64090.0,SESA
+176,Net Sales,12  Mar-19*,920480.0,SESA
+177,Other income,12  Mar-19*,40180.0,SESA
+178,Total revenues,12  Mar-19*,960660.0,SESA
+179,Gross profit,12  Mar-19*,231030.0,SESA
+180,Depreciation,12  Mar-19*,81920.0,SESA
+181,Interest,12  Mar-19*,56890.0,SESA
+182,Profit before tax,12  Mar-19*,132400.0,SESA
+183,Minority Interest,12  Mar-19*,0.0,SESA
+184,Prior Period Items,12  Mar-19*,0.0,SESA
+185,Extraordinary Inc (Exp),12  Mar-19*,3200.0,SESA
+186,Tax,12  Mar-19*,38620.0,SESA
+187,Profit after tax,12  Mar-19*,96980.0,SESA
+188,Gross profit margin,12  Mar-19*,25.1,SESA
+189,Effective tax rate,12  Mar-19*,29.2,SESA
+190,Net profit margin,12  Mar-19*,10.5,SESA
+191,Current assets,12  Mar-19*,598280.0,SESA
+192,Current liabilities,12  Mar-19*,766410.0,SESA
+193,Net working cap to sales,12  Mar-19*,-18.3,SESA
+194,Current ratio,12  Mar-19*,0.8,SESA
+195,Inventory Days,12  Mar-19*,52.0,SESA
+196,Debtors Days,12  Mar-19*,16.0,SESA
+197,Net fixed assets,12  Mar-19*,1213560.0,SESA
+198,Share capital,12  Mar-19*,3718.0,SESA
+199,"""Free"" reserves",12  Mar-19*,619250.0,SESA
+200,Net worth,12  Mar-19*,622968.0,SESA
+201,Long term debt,12  Mar-19*,347210.0,SESA
+202,Total assets,12  Mar-19*,2020430.0,SESA
+203,Interest coverage,12  Mar-19*,3.3,SESA
+204,Debt to equity ratio,12  Mar-19*,0.6,SESA
+205,Sales to assets ratio,12  Mar-19*,0.5,SESA
+206,Return on assets,12  Mar-19*,7.6,SESA
+207,Return on equity,12  Mar-19*,15.6,SESA
+208,Return on capital,12  Mar-19*,19.8,SESA
+209,Exports to sales,12  Mar-19*,0.0,SESA
+210,Imports to sales,12  Mar-19*,20.2,SESA
+211,Exports (fob),12  Mar-19*,0.0,SESA
+212,Imports (cif),12  Mar-19*,186330.0,SESA
+213,Fx inflow,12  Mar-19*,185960.0,SESA
+214,Fx outflow,12  Mar-19*,220920.0,SESA
+215,Net fx,12  Mar-19*,-34960.0,SESA
+216,From Operations,12  Mar-19*,237540.0,SESA
+217,From Investments,12  Mar-19*,-105300.0,SESA
+218,From Financial Activity,12  Mar-19*,-102420.0,SESA
+219,Net Cashflow,12  Mar-19*,29180.0,SESA

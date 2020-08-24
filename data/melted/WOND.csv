@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,1819.0,WOND
+1,Other income,12  Mar-15,103.0,WOND
+2,Total revenues,12  Mar-15,1921.0,WOND
+3,Gross profit,12  Mar-15,806.0,WOND
+4,Depreciation,12  Mar-15,162.0,WOND
+5,Interest,12  Mar-15,17.0,WOND
+6,Profit before tax,12  Mar-15,729.0,WOND
+7,Minority Interest,12  Mar-15,0.0,WOND
+8,Prior Period Items,12  Mar-15,0.0,WOND
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,WOND
+10,Tax,12  Mar-15,223.0,WOND
+11,Profit after tax,12  Mar-15,506.0,WOND
+12,Gross profit margin,12  Mar-15,44.3,WOND
+13,Effective tax rate,12  Mar-15,30.6,WOND
+14,Net profit margin,12  Mar-15,27.8,WOND
+15,Current assets,12  Mar-15,2098.0,WOND
+16,Current liabilities,12  Mar-15,289.0,WOND
+17,Net working cap to sales,12  Mar-15,99.4,WOND
+18,Current ratio,12  Mar-15,7.2,WOND
+19,Inventory Days,12  Mar-15,8.0,WOND
+20,Debtors Days,12  Mar-15,1.0,WOND
+21,Net fixed assets,12  Mar-15,1802.0,WOND
+22,Share capital,12  Mar-15,565.0,WOND
+23,"""Free"" reserves",12  Mar-15,2999.0,WOND
+24,Net worth,12  Mar-15,3564.0,WOND
+25,Long term debt,12  Mar-15,102.0,WOND
+26,Total assets,12  Mar-15,3976.0,WOND
+27,Interest coverage,12  Mar-15,44.7,WOND
+28,Debt to equity ratio,12  Mar-15,0.0,WOND
+29,Sales to assets ratio,12  Mar-15,0.5,WOND
+30,Return on assets,12  Mar-15,13.2,WOND
+31,Return on equity,12  Mar-15,14.2,WOND
+32,Return on capital,12  Mar-15,20.3,WOND
+33,Exports to sales,12  Mar-15,0.0,WOND
+34,Imports to sales,12  Mar-15,6.9,WOND
+35,Exports (fob),12  Mar-15,0.0,WOND
+36,Imports (cif),12  Mar-15,125.0,WOND
+37,Fx inflow,12  Mar-15,0.0,WOND
+38,Fx outflow,12  Mar-15,211.0,WOND
+39,Net fx,12  Mar-15,-211.0,WOND
+40,From Operations,12  Mar-15,556.0,WOND
+41,From Investments,12  Mar-15,-2229.0,WOND
+42,From Financial Activity,12  Mar-15,1493.0,WOND
+43,Net Cashflow,12  Mar-15,-179.0,WOND
+44,Net Sales,12  Mar-16,2054.0,WOND
+45,Other income,12  Mar-16,181.0,WOND
+46,Total revenues,12  Mar-16,2234.0,WOND
+47,Gross profit,12  Mar-16,842.0,WOND
+48,Depreciation,12  Mar-16,139.0,WOND
+49,Interest,12  Mar-16,13.0,WOND
+50,Profit before tax,12  Mar-16,870.0,WOND
+51,Minority Interest,12  Mar-16,0.0,WOND
+52,Prior Period Items,12  Mar-16,0.0,WOND
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,WOND
+54,Tax,12  Mar-16,272.0,WOND
+55,Profit after tax,12  Mar-16,598.0,WOND
+56,Gross profit margin,12  Mar-16,41.0,WOND
+57,Effective tax rate,12  Mar-16,31.3,WOND
+58,Net profit margin,12  Mar-16,29.1,WOND
+59,Current assets,12  Mar-16,1280.0,WOND
+60,Current liabilities,12  Mar-16,431.0,WOND
+61,Net working cap to sales,12  Mar-16,41.4,WOND
+62,Current ratio,12  Mar-16,3.0,WOND
+63,Inventory Days,12  Mar-16,12.0,WOND
+64,Debtors Days,12  Mar-16,1.0,WOND
+65,Net fixed assets,12  Mar-16,6972.0,WOND
+66,Share capital,12  Mar-16,565.0,WOND
+67,"""Free"" reserves",12  Mar-16,6535.0,WOND
+68,Net worth,12  Mar-16,7100.0,WOND
+69,Long term debt,12  Mar-16,52.0,WOND
+70,Total assets,12  Mar-16,8358.0,WOND
+71,Interest coverage,12  Mar-16,66.5,WOND
+72,Debt to equity ratio,12  Mar-16,0.0,WOND
+73,Sales to assets ratio,12  Mar-16,0.2,WOND
+74,Return on assets,12  Mar-16,7.3,WOND
+75,Return on equity,12  Mar-16,8.4,WOND
+76,Return on capital,12  Mar-16,12.4,WOND
+77,Exports to sales,12  Mar-16,0.0,WOND
+78,Imports to sales,12  Mar-16,10.5,WOND
+79,Exports (fob),12  Mar-16,0.0,WOND
+80,Imports (cif),12  Mar-16,215.0,WOND
+81,Fx inflow,12  Mar-16,0.0,WOND
+82,Fx outflow,12  Mar-16,220.0,WOND
+83,Net fx,12  Mar-16,-220.0,WOND
+84,From Operations,12  Mar-16,744.0,WOND
+85,From Investments,12  Mar-16,-203.0,WOND
+86,From Financial Activity,12  Mar-16,-289.0,WOND
+87,Net Cashflow,12  Mar-16,251.0,WOND
+88,Net Sales,12  Mar-17,2628.0,WOND
+89,Other income,12  Mar-17,122.0,WOND
+90,Total revenues,12  Mar-17,2750.0,WOND
+91,Gross profit,12  Mar-17,670.0,WOND
+92,Depreciation,12  Mar-17,293.0,WOND
+93,Interest,12  Mar-17,13.0,WOND
+94,Profit before tax,12  Mar-17,485.0,WOND
+95,Minority Interest,12  Mar-17,0.0,WOND
+96,Prior Period Items,12  Mar-17,0.0,WOND
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,WOND
+98,Tax,12  Mar-17,146.0,WOND
+99,Profit after tax,12  Mar-17,339.0,WOND
+100,Gross profit margin,12  Mar-17,25.5,WOND
+101,Effective tax rate,12  Mar-17,30.1,WOND
+102,Net profit margin,12  Mar-17,12.9,WOND
+103,Current assets,12  Mar-17,1062.0,WOND
+104,Current liabilities,12  Mar-17,741.0,WOND
+105,Net working cap to sales,12  Mar-17,12.2,WOND
+106,Current ratio,12  Mar-17,1.4,WOND
+107,Inventory Days,12  Mar-17,12.0,WOND
+108,Debtors Days,12  Mar-17,1.0,WOND
+109,Net fixed assets,12  Mar-17,7667.0,WOND
+110,Share capital,12  Mar-17,565.0,WOND
+111,"""Free"" reserves",12  Mar-17,6842.0,WOND
+112,Net worth,12  Mar-17,7407.0,WOND
+113,Long term debt,12  Mar-17,90.0,WOND
+114,Total assets,12  Mar-17,8972.0,WOND
+115,Interest coverage,12  Mar-17,37.5,WOND
+116,Debt to equity ratio,12  Mar-17,0.0,WOND
+117,Sales to assets ratio,12  Mar-17,0.3,WOND
+118,Return on assets,12  Mar-17,3.9,WOND
+119,Return on equity,12  Mar-17,4.6,WOND
+120,Return on capital,12  Mar-17,6.7,WOND
+121,Exports to sales,12  Mar-17,0.0,WOND
+122,Imports to sales,12  Mar-17,0.0,WOND
+123,Exports (fob),12  Mar-17,0.0,WOND
+124,Imports (cif),12  Mar-17,0.0,WOND
+125,Fx inflow,12  Mar-17,0.0,WOND
+126,Fx outflow,12  Mar-17,298.0,WOND
+127,Net fx,12  Mar-17,-298.0,WOND
+128,From Operations,12  Mar-17,678.0,WOND
+129,From Investments,12  Mar-17,-997.0,WOND
+130,From Financial Activity,12  Mar-17,71.0,WOND
+131,Net Cashflow,12  Mar-17,-248.0,WOND
+132,Net Sales,12  Mar-18,2706.0,WOND
+133,Other income,12  Mar-18,78.0,WOND
+134,Total revenues,12  Mar-18,2783.0,WOND
+135,Gross profit,12  Mar-18,892.0,WOND
+136,Depreciation,12  Mar-18,365.0,WOND
+137,Interest,12  Mar-18,12.0,WOND
+138,Profit before tax,12  Mar-18,592.0,WOND
+139,Minority Interest,12  Mar-18,0.0,WOND
+140,Prior Period Items,12  Mar-18,0.0,WOND
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,WOND
+142,Tax,12  Mar-18,207.0,WOND
+143,Profit after tax,12  Mar-18,385.0,WOND
+144,Gross profit margin,12  Mar-18,33.0,WOND
+145,Effective tax rate,12  Mar-18,35.0,WOND
+146,Net profit margin,12  Mar-18,14.2,WOND
+147,Current assets,12  Mar-18,733.0,WOND
+148,Current liabilities,12  Mar-18,839.0,WOND
+149,Net working cap to sales,12  Mar-18,-3.9,WOND
+150,Current ratio,12  Mar-18,0.9,WOND
+151,Inventory Days,12  Mar-18,10.0,WOND
+152,Debtors Days,12  Mar-18,2.0,WOND
+153,Net fixed assets,12  Mar-18,8492.0,WOND
+154,Share capital,12  Mar-18,565.0,WOND
+155,"""Free"" reserves",12  Mar-18,7161.0,WOND
+156,Net worth,12  Mar-18,7726.0,WOND
+157,Long term debt,12  Mar-18,0.0,WOND
+158,Total assets,12  Mar-18,9288.0,WOND
+159,Interest coverage,12  Mar-18,50.0,WOND
+160,Debt to equity ratio,12  Mar-18,0.0,WOND
+161,Sales to assets ratio,12  Mar-18,0.3,WOND
+162,Return on assets,12  Mar-18,4.3,WOND
+163,Return on equity,12  Mar-18,5.0,WOND
+164,Return on capital,12  Mar-18,7.8,WOND
+165,Exports to sales,12  Mar-18,0.0,WOND
+166,Imports to sales,12  Mar-18,0.0,WOND
+167,Exports (fob),12  Mar-18,0.0,WOND
+168,Imports (cif),12  Mar-18,0.0,WOND
+169,Fx inflow,12  Mar-18,0.0,WOND
+170,Fx outflow,12  Mar-18,54.0,WOND
+171,Net fx,12  Mar-18,-54.0,WOND
+172,From Operations,12  Mar-18,841.0,WOND
+173,From Investments,12  Mar-18,-383.0,WOND
+174,From Financial Activity,12  Mar-18,-238.0,WOND
+175,Net Cashflow,12  Mar-18,220.0,WOND
+176,Net Sales,12  Mar-19,2820.0,WOND
+177,Other income,12  Mar-19,96.0,WOND
+178,Total revenues,12  Mar-19,2917.0,WOND
+179,Gross profit,12  Mar-19,1143.0,WOND
+180,Depreciation,12  Mar-19,395.0,WOND
+181,Interest,12  Mar-19,4.0,WOND
+182,Profit before tax,12  Mar-19,840.0,WOND
+183,Minority Interest,12  Mar-19,0.0,WOND
+184,Prior Period Items,12  Mar-19,0.0,WOND
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,WOND
+186,Tax,12  Mar-19,286.0,WOND
+187,Profit after tax,12  Mar-19,554.0,WOND
+188,Gross profit margin,12  Mar-19,40.5,WOND
+189,Effective tax rate,12  Mar-19,34.1,WOND
+190,Net profit margin,12  Mar-19,19.6,WOND
+191,Current assets,12  Mar-19,1301.0,WOND
+192,Current liabilities,12  Mar-19,845.0,WOND
+193,Net working cap to sales,12  Mar-19,16.2,WOND
+194,Current ratio,12  Mar-19,1.5,WOND
+195,Inventory Days,12  Mar-19,8.0,WOND
+196,Debtors Days,12  Mar-19,2.0,WOND
+197,Net fixed assets,12  Mar-19,8350.0,WOND
+198,Share capital,12  Mar-19,565.0,WOND
+199,"""Free"" reserves",12  Mar-19,7620.0,WOND
+200,Net worth,12  Mar-19,8185.0,WOND
+201,Long term debt,12  Mar-19,10.0,WOND
+202,Total assets,12  Mar-19,9743.0,WOND
+203,Interest coverage,12  Mar-19,206.0,WOND
+204,Debt to equity ratio,12  Mar-19,0.0,WOND
+205,Sales to assets ratio,12  Mar-19,0.3,WOND
+206,Return on assets,12  Mar-19,5.7,WOND
+207,Return on equity,12  Mar-19,6.8,WOND
+208,Return on capital,12  Mar-19,10.3,WOND
+209,Exports to sales,12  Mar-19,0.0,WOND
+210,Imports to sales,12  Mar-19,0.0,WOND
+211,Exports (fob),12  Mar-19,0.0,WOND
+212,Imports (cif),12  Mar-19,0.0,WOND
+213,Fx inflow,12  Mar-19,0.0,WOND
+214,Fx outflow,12  Mar-19,16.0,WOND
+215,Net fx,12  Mar-19,-16.0,WOND
+216,From Operations,12  Mar-19,512.0,WOND
+217,From Investments,12  Mar-19,-594.0,WOND
+218,From Financial Activity,12  Mar-19,-134.0,WOND
+219,Net Cashflow,12  Mar-19,-216.0,WOND

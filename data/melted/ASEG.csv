@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,1013.0,ASEG
+1,Other income,12  Mar-15*,2.0,ASEG
+2,Total revenues,12  Mar-15*,1015.0,ASEG
+3,Gross profit,12  Mar-15*,67.0,ASEG
+4,Depreciation,12  Mar-15*,14.0,ASEG
+5,Interest,12  Mar-15*,10.0,ASEG
+6,Profit before tax,12  Mar-15*,45.0,ASEG
+7,Minority Interest,12  Mar-15*,0.0,ASEG
+8,Prior Period Items,12  Mar-15*,0.0,ASEG
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,ASEG
+10,Tax,12  Mar-15*,14.0,ASEG
+11,Profit after tax,12  Mar-15*,31.0,ASEG
+12,Gross profit margin,12  Mar-15*,6.6,ASEG
+13,Effective tax rate,12  Mar-15*,31.6,ASEG
+14,Net profit margin,12  Mar-15*,3.0,ASEG
+15,Current assets,12  Mar-15*,831.0,ASEG
+16,Current liabilities,12  Mar-15*,360.0,ASEG
+17,Net working cap to sales,12  Mar-15*,46.5,ASEG
+18,Current ratio,12  Mar-15*,2.3,ASEG
+19,Inventory Days,12  Mar-15*,172.0,ASEG
+20,Debtors Days,12  Mar-15*,97.0,ASEG
+21,Net fixed assets,12  Mar-15*,123.0,ASEG
+22,Share capital,12  Mar-15*,35.0,ASEG
+23,"""Free"" reserves",12  Mar-15*,546.0,ASEG
+24,Net worth,12  Mar-15*,584.0,ASEG
+25,Long term debt,12  Mar-15*,1.0,ASEG
+26,Total assets,12  Mar-15*,979.0,ASEG
+27,Interest coverage,12  Mar-15*,5.6,ASEG
+28,Debt to equity ratio,12  Mar-15*,0.0,ASEG
+29,Sales to assets ratio,12  Mar-15*,1.0,ASEG
+30,Return on assets,12  Mar-15*,4.1,ASEG
+31,Return on equity,12  Mar-15*,5.3,ASEG
+32,Return on capital,12  Mar-15*,9.3,ASEG
+33,Exports to sales,12  Mar-15*,47.3,ASEG
+34,Imports to sales,12  Mar-15*,0.1,ASEG
+35,Exports (fob),12  Mar-15*,479.0,ASEG
+36,Imports (cif),12  Mar-15*,1.0,ASEG
+37,Fx inflow,12  Mar-15*,479.0,ASEG
+38,Fx outflow,12  Mar-15*,5.0,ASEG
+39,Net fx,12  Mar-15*,474.0,ASEG
+40,From Operations,12  Mar-15*,-12.0,ASEG
+41,From Investments,12  Mar-15*,-8.0,ASEG
+42,From Financial Activity,12  Mar-15*,24.0,ASEG
+43,Net Cashflow,12  Mar-15*,4.0,ASEG
+44,Net Sales,12  Mar-16*,684.0,ASEG
+45,Other income,12  Mar-16*,16.0,ASEG
+46,Total revenues,12  Mar-16*,700.0,ASEG
+47,Gross profit,12  Mar-16*,-12.0,ASEG
+48,Depreciation,12  Mar-16*,13.0,ASEG
+49,Interest,12  Mar-16*,10.0,ASEG
+50,Profit before tax,12  Mar-16*,-19.0,ASEG
+51,Minority Interest,12  Mar-16*,0.0,ASEG
+52,Prior Period Items,12  Mar-16*,0.0,ASEG
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ASEG
+54,Tax,12  Mar-16*,-3.0,ASEG
+55,Profit after tax,12  Mar-16*,-16.0,ASEG
+56,Gross profit margin,12  Mar-16*,-1.7,ASEG
+57,Effective tax rate,12  Mar-16*,16.8,ASEG
+58,Net profit margin,12  Mar-16*,-2.3,ASEG
+59,Current assets,12  Mar-16*,786.0,ASEG
+60,Current liabilities,12  Mar-16*,327.0,ASEG
+61,Net working cap to sales,12  Mar-16*,67.1,ASEG
+62,Current ratio,12  Mar-16*,2.4,ASEG
+63,Inventory Days,12  Mar-16*,274.0,ASEG
+64,Debtors Days,12  Mar-16*,119.0,ASEG
+65,Net fixed assets,12  Mar-16*,123.0,ASEG
+66,Share capital,12  Mar-16*,35.0,ASEG
+67,"""Free"" reserves",12  Mar-16*,530.0,ASEG
+68,Net worth,12  Mar-16*,564.0,ASEG
+69,Long term debt,12  Mar-16*,1.0,ASEG
+70,Total assets,12  Mar-16*,936.0,ASEG
+71,Interest coverage,12  Mar-16*,-0.8,ASEG
+72,Debt to equity ratio,12  Mar-16*,0.0,ASEG
+73,Sales to assets ratio,12  Mar-16*,0.7,ASEG
+74,Return on assets,12  Mar-16*,-0.6,ASEG
+75,Return on equity,12  Mar-16*,-2.8,ASEG
+76,Return on capital,12  Mar-16*,-1.5,ASEG
+77,Exports to sales,12  Mar-16*,29.8,ASEG
+78,Imports to sales,12  Mar-16*,0.7,ASEG
+79,Exports (fob),12  Mar-16*,204.0,ASEG
+80,Imports (cif),12  Mar-16*,5.0,ASEG
+81,Fx inflow,12  Mar-16*,204.0,ASEG
+82,Fx outflow,12  Mar-16*,8.0,ASEG
+83,Net fx,12  Mar-16*,196.0,ASEG
+84,From Operations,12  Mar-16*,16.0,ASEG
+85,From Investments,12  Mar-16*,-9.0,ASEG
+86,From Financial Activity,12  Mar-16*,-26.0,ASEG
+87,Net Cashflow,12  Mar-16*,-20.0,ASEG
+88,Net Sales,12  Mar-17*,721.0,ASEG
+89,Other income,12  Mar-17*,6.0,ASEG
+90,Total revenues,12  Mar-17*,726.0,ASEG
+91,Gross profit,12  Mar-17*,-17.0,ASEG
+92,Depreciation,12  Mar-17*,12.0,ASEG
+93,Interest,12  Mar-17*,11.0,ASEG
+94,Profit before tax,12  Mar-17*,-33.0,ASEG
+95,Minority Interest,12  Mar-17*,0.0,ASEG
+96,Prior Period Items,12  Mar-17*,0.0,ASEG
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ASEG
+98,Tax,12  Mar-17*,-3.0,ASEG
+99,Profit after tax,12  Mar-17*,-30.0,ASEG
+100,Gross profit margin,12  Mar-17*,-2.3,ASEG
+101,Effective tax rate,12  Mar-17*,9.7,ASEG
+102,Net profit margin,12  Mar-17*,-4.1,ASEG
+103,Current assets,12  Mar-17*,742.0,ASEG
+104,Current liabilities,12  Mar-17*,303.0,ASEG
+105,Net working cap to sales,12  Mar-17*,60.9,ASEG
+106,Current ratio,12  Mar-17*,2.4,ASEG
+107,Inventory Days,12  Mar-17*,245.0,ASEG
+108,Debtors Days,12  Mar-17*,100.0,ASEG
+109,Net fixed assets,12  Mar-17*,114.0,ASEG
+110,Share capital,12  Mar-17*,35.0,ASEG
+111,"""Free"" reserves",12  Mar-17*,498.0,ASEG
+112,Net worth,12  Mar-17*,533.0,ASEG
+113,Long term debt,12  Mar-17*,1.0,ASEG
+114,Total assets,12  Mar-17*,887.0,ASEG
+115,Interest coverage,12  Mar-17*,-2.1,ASEG
+116,Debt to equity ratio,12  Mar-17*,0.0,ASEG
+117,Sales to assets ratio,12  Mar-17*,0.8,ASEG
+118,Return on assets,12  Mar-17*,-2.2,ASEG
+119,Return on equity,12  Mar-17*,-5.6,ASEG
+120,Return on capital,12  Mar-17*,-4.2,ASEG
+121,Exports to sales,12  Mar-17*,29.3,ASEG
+122,Imports to sales,12  Mar-17*,0.6,ASEG
+123,Exports (fob),12  Mar-17*,211.0,ASEG
+124,Imports (cif),12  Mar-17*,4.0,ASEG
+125,Fx inflow,12  Mar-17*,211.0,ASEG
+126,Fx outflow,12  Mar-17*,6.0,ASEG
+127,Net fx,12  Mar-17*,205.0,ASEG
+128,From Operations,12  Mar-17*,42.0,ASEG
+129,From Investments,12  Mar-17*,-2.0,ASEG
+130,From Financial Activity,12  Mar-17*,-28.0,ASEG
+131,Net Cashflow,12  Mar-17*,13.0,ASEG
+132,Net Sales,12  Mar-18*,772.0,ASEG
+133,Other income,12  Mar-18*,12.0,ASEG
+134,Total revenues,12  Mar-18*,784.0,ASEG
+135,Gross profit,12  Mar-18*,-4.0,ASEG
+136,Depreciation,12  Mar-18*,11.0,ASEG
+137,Interest,12  Mar-18*,7.0,ASEG
+138,Profit before tax,12  Mar-18*,-10.0,ASEG
+139,Minority Interest,12  Mar-18*,0.0,ASEG
+140,Prior Period Items,12  Mar-18*,0.0,ASEG
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ASEG
+142,Tax,12  Mar-18*,2.0,ASEG
+143,Profit after tax,12  Mar-18*,-12.0,ASEG
+144,Gross profit margin,12  Mar-18*,-0.5,ASEG
+145,Effective tax rate,12  Mar-18*,-16.7,ASEG
+146,Net profit margin,12  Mar-18*,-1.5,ASEG
+147,Current assets,12  Mar-18*,742.0,ASEG
+148,Current liabilities,12  Mar-18*,298.0,ASEG
+149,Net working cap to sales,12  Mar-18*,57.5,ASEG
+150,Current ratio,12  Mar-18*,2.5,ASEG
+151,Inventory Days,12  Mar-18*,224.0,ASEG
+152,Debtors Days,12  Mar-18*,89.0,ASEG
+153,Net fixed assets,12  Mar-18*,105.0,ASEG
+154,Share capital,12  Mar-18*,35.0,ASEG
+155,"""Free"" reserves",12  Mar-18*,486.0,ASEG
+156,Net worth,12  Mar-18*,520.0,ASEG
+157,Long term debt,12  Mar-18*,0.0,ASEG
+158,Total assets,12  Mar-18*,879.0,ASEG
+159,Interest coverage,12  Mar-18*,-0.5,ASEG
+160,Debt to equity ratio,12  Mar-18*,0.0,ASEG
+161,Sales to assets ratio,12  Mar-18*,0.9,ASEG
+162,Return on assets,12  Mar-18*,-0.6,ASEG
+163,Return on equity,12  Mar-18*,-2.3,ASEG
+164,Return on capital,12  Mar-18*,-0.7,ASEG
+165,Exports to sales,12  Mar-18*,30.7,ASEG
+166,Imports to sales,12  Mar-18*,1.3,ASEG
+167,Exports (fob),12  Mar-18*,237.0,ASEG
+168,Imports (cif),12  Mar-18*,10.0,ASEG
+169,Fx inflow,12  Mar-18*,237.0,ASEG
+170,Fx outflow,12  Mar-18*,15.0,ASEG
+171,Net fx,12  Mar-18*,222.0,ASEG
+172,From Operations,12  Mar-18*,39.0,ASEG
+173,From Investments,12  Mar-18*,-1.0,ASEG
+174,From Financial Activity,12  Mar-18*,-25.0,ASEG
+175,Net Cashflow,12  Mar-18*,13.0,ASEG
+176,Net Sales,12  Mar-19*,970.0,ASEG
+177,Other income,12  Mar-19*,10.0,ASEG
+178,Total revenues,12  Mar-19*,979.0,ASEG
+179,Gross profit,12  Mar-19*,34.0,ASEG
+180,Depreciation,12  Mar-19*,11.0,ASEG
+181,Interest,12  Mar-19*,8.0,ASEG
+182,Profit before tax,12  Mar-19*,25.0,ASEG
+183,Minority Interest,12  Mar-19*,0.0,ASEG
+184,Prior Period Items,12  Mar-19*,0.0,ASEG
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ASEG
+186,Tax,12  Mar-19*,5.0,ASEG
+187,Profit after tax,12  Mar-19*,20.0,ASEG
+188,Gross profit margin,12  Mar-19*,3.5,ASEG
+189,Effective tax rate,12  Mar-19*,20.0,ASEG
+190,Net profit margin,12  Mar-19*,2.0,ASEG
+191,Current assets,12  Mar-19*,766.0,ASEG
+192,Current liabilities,12  Mar-19*,286.0,ASEG
+193,Net working cap to sales,12  Mar-19*,49.5,ASEG
+194,Current ratio,12  Mar-19*,2.7,ASEG
+195,Inventory Days,12  Mar-19*,175.0,ASEG
+196,Debtors Days,12  Mar-19*,81.0,ASEG
+197,Net fixed assets,12  Mar-19*,103.0,ASEG
+198,Share capital,12  Mar-19*,35.0,ASEG
+199,"""Free"" reserves",12  Mar-19*,507.0,ASEG
+200,Net worth,12  Mar-19*,541.0,ASEG
+201,Long term debt,12  Mar-19*,0.0,ASEG
+202,Total assets,12  Mar-19*,895.0,ASEG
+203,Interest coverage,12  Mar-19*,4.1,ASEG
+204,Debt to equity ratio,12  Mar-19*,0.0,ASEG
+205,Sales to assets ratio,12  Mar-19*,1.1,ASEG
+206,Return on assets,12  Mar-19*,3.1,ASEG
+207,Return on equity,12  Mar-19*,3.6,ASEG
+208,Return on capital,12  Mar-19*,6.0,ASEG
+209,Exports to sales,12  Mar-19*,39.3,ASEG
+210,Imports to sales,12  Mar-19*,1.6,ASEG
+211,Exports (fob),12  Mar-19*,382.0,ASEG
+212,Imports (cif),12  Mar-19*,15.0,ASEG
+213,Fx inflow,12  Mar-19*,382.0,ASEG
+214,Fx outflow,12  Mar-19*,24.0,ASEG
+215,Net fx,12  Mar-19*,358.0,ASEG
+216,From Operations,12  Mar-19*,0.0,ASEG
+217,From Investments,12  Mar-19*,-6.0,ASEG
+218,From Financial Activity,12  Mar-19*,11.0,ASEG
+219,Net Cashflow,12  Mar-19*,5.0,ASEG

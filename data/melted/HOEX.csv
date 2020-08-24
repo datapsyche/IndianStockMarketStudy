@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,595.0,HOEX
+1,Other income,12  Mar-15*,74.0,HOEX
+2,Total revenues,12  Mar-15*,669.0,HOEX
+3,Gross profit,12  Mar-15*,-93.0,HOEX
+4,Depreciation,12  Mar-15*,389.0,HOEX
+5,Interest,12  Mar-15*,147.0,HOEX
+6,Profit before tax,12  Mar-15*,-555.0,HOEX
+7,Minority Interest,12  Mar-15*,0.0,HOEX
+8,Prior Period Items,12  Mar-15*,0.0,HOEX
+9,Extraordinary Inc (Exp),12  Mar-15*,-11634.0,HOEX
+10,Tax,12  Mar-15*,6.0,HOEX
+11,Profit after tax,12  Mar-15*,-12196.0,HOEX
+12,Gross profit margin,12  Mar-15*,-15.6,HOEX
+13,Effective tax rate,12  Mar-15*,-1.2,HOEX
+14,Net profit margin,12  Mar-15*,-2048.7,HOEX
+15,Current assets,12  Mar-15*,1533.0,HOEX
+16,Current liabilities,12  Mar-15*,436.0,HOEX
+17,Net working cap to sales,12  Mar-15*,184.4,HOEX
+18,Current ratio,12  Mar-15*,3.5,HOEX
+19,Inventory Days,12  Mar-15*,162.0,HOEX
+20,Debtors Days,12  Mar-15*,33.0,HOEX
+21,Net fixed assets,12  Mar-15*,1977.0,HOEX
+22,Share capital,12  Mar-15*,1305.0,HOEX
+23,"""Free"" reserves",12  Mar-15*,-8106.0,HOEX
+24,Net worth,12  Mar-15*,2807.0,HOEX
+25,Long term debt,12  Mar-15*,0.0,HOEX
+26,Total assets,12  Mar-15*,4348.0,HOEX
+27,Interest coverage,12  Mar-15*,-2.8,HOEX
+28,Debt to equity ratio,12  Mar-15*,0.0,HOEX
+29,Sales to assets ratio,12  Mar-15*,0.1,HOEX
+30,Return on assets,12  Mar-15*,-277.1,HOEX
+31,Return on equity,12  Mar-15*,-434.4,HOEX
+32,Return on capital,12  Mar-15*,-429.0,HOEX
+33,Exports to sales,12  Mar-15*,0.0,HOEX
+34,Imports to sales,12  Mar-15*,0.2,HOEX
+35,Exports (fob),12  Mar-15*,0.0,HOEX
+36,Imports (cif),12  Mar-15*,1.0,HOEX
+37,Fx inflow,12  Mar-15*,0.0,HOEX
+38,Fx outflow,12  Mar-15*,163.0,HOEX
+39,Net fx,12  Mar-15*,-163.0,HOEX
+40,From Operations,12  Mar-15*,123.0,HOEX
+41,From Investments,12  Mar-15*,18.0,HOEX
+42,From Financial Activity,12  Mar-15*,-240.0,HOEX
+43,Net Cashflow,12  Mar-15*,-99.0,HOEX
+44,Net Sales,12  Mar-16*,487.0,HOEX
+45,Other income,12  Mar-16*,73.0,HOEX
+46,Total revenues,12  Mar-16*,561.0,HOEX
+47,Gross profit,12  Mar-16*,84.0,HOEX
+48,Depreciation,12  Mar-16*,123.0,HOEX
+49,Interest,12  Mar-16*,0.0,HOEX
+50,Profit before tax,12  Mar-16*,34.0,HOEX
+51,Minority Interest,12  Mar-16*,0.0,HOEX
+52,Prior Period Items,12  Mar-16*,0.0,HOEX
+53,Extraordinary Inc (Exp),12  Mar-16*,52.0,HOEX
+54,Tax,12  Mar-16*,6.0,HOEX
+55,Profit after tax,12  Mar-16*,79.0,HOEX
+56,Gross profit margin,12  Mar-16*,17.3,HOEX
+57,Effective tax rate,12  Mar-16*,18.5,HOEX
+58,Net profit margin,12  Mar-16*,16.3,HOEX
+59,Current assets,12  Mar-16*,2410.0,HOEX
+60,Current liabilities,12  Mar-16*,635.0,HOEX
+61,Net working cap to sales,12  Mar-16*,364.3,HOEX
+62,Current ratio,12  Mar-16*,3.8,HOEX
+63,Inventory Days,12  Mar-16*,182.0,HOEX
+64,Debtors Days,12  Mar-16*,31.0,HOEX
+65,Net fixed assets,12  Mar-16*,1988.0,HOEX
+66,Share capital,12  Mar-16*,1305.0,HOEX
+67,"""Free"" reserves",12  Mar-16*,-8027.0,HOEX
+68,Net worth,12  Mar-16*,2887.0,HOEX
+69,Long term debt,12  Mar-16*,0.0,HOEX
+70,Total assets,12  Mar-16*,4898.0,HOEX
+71,Interest coverage,12  Mar-16*,86.3,HOEX
+72,Debt to equity ratio,12  Mar-16*,0.0,HOEX
+73,Sales to assets ratio,12  Mar-16*,0.1,HOEX
+74,Return on assets,12  Mar-16*,1.6,HOEX
+75,Return on equity,12  Mar-16*,2.7,HOEX
+76,Return on capital,12  Mar-16*,3.0,HOEX
+77,Exports to sales,12  Mar-16*,0.0,HOEX
+78,Imports to sales,12  Mar-16*,10.3,HOEX
+79,Exports (fob),12  Mar-16*,0.0,HOEX
+80,Imports (cif),12  Mar-16*,50.0,HOEX
+81,Fx inflow,12  Mar-16*,0.0,HOEX
+82,Fx outflow,12  Mar-16*,50.0,HOEX
+83,Net fx,12  Mar-16*,-50.0,HOEX
+84,From Operations,12  Mar-16*,941.0,HOEX
+85,From Investments,12  Mar-16*,-26.0,HOEX
+86,From Financial Activity,12  Mar-16*,0.0,HOEX
+87,Net Cashflow,12  Mar-16*,915.0,HOEX
+88,Net Sales,12  Mar-17*,255.0,HOEX
+89,Other income,12  Mar-17*,193.0,HOEX
+90,Total revenues,12  Mar-17*,448.0,HOEX
+91,Gross profit,12  Mar-17*,13.0,HOEX
+92,Depreciation,12  Mar-17*,96.0,HOEX
+93,Interest,12  Mar-17*,0.0,HOEX
+94,Profit before tax,12  Mar-17*,111.0,HOEX
+95,Minority Interest,12  Mar-17*,0.0,HOEX
+96,Prior Period Items,12  Mar-17*,0.0,HOEX
+97,Extraordinary Inc (Exp),12  Mar-17*,290.0,HOEX
+98,Tax,12  Mar-17*,40.0,HOEX
+99,Profit after tax,12  Mar-17*,361.0,HOEX
+100,Gross profit margin,12  Mar-17*,5.3,HOEX
+101,Effective tax rate,12  Mar-17*,35.7,HOEX
+102,Net profit margin,12  Mar-17*,141.5,HOEX
+103,Current assets,12  Mar-17*,2352,HOEX
+104,Current liabilities,12  Mar-17*,675,HOEX
+105,Net working cap to sales,12  Mar-17*,658.0,HOEX
+106,Current ratio,12  Mar-17*,3.5,HOEX
+107,Inventory Days,12  Mar-17*,354,HOEX
+108,Debtors Days,12  Mar-17*,74,HOEX
+109,Net fixed assets,12  Mar-17*,2379,HOEX
+110,Share capital,12  Mar-17*,1305,HOEX
+111,"""Free"" reserves",12  Mar-17*,2108,HOEX
+112,Net worth,12  Mar-17*,3413,HOEX
+113,Long term debt,12  Mar-17*,0,HOEX
+114,Total assets,12  Mar-17*,5248,HOEX
+115,Interest coverage,12  Mar-17*,NM,HOEX
+116,Debt to equity ratio,12  Mar-17*,0,HOEX
+117,Sales to assets ratio,12  Mar-17*,0,HOEX
+118,Return on assets,12  Mar-17*,6.9,HOEX
+119,Return on equity,12  Mar-17*,10.6,HOEX
+120,Return on capital,12  Mar-17*,11.7,HOEX
+121,Exports to sales,12  Mar-17*,0,HOEX
+122,Imports to sales,12  Mar-17*,12.4,HOEX
+123,Exports (fob),12  Mar-17*,0,HOEX
+124,Imports (cif),12  Mar-17*,32,HOEX
+125,Fx inflow,12  Mar-17*,0,HOEX
+126,Fx outflow,12  Mar-17*,241,HOEX
+127,Net fx,12  Mar-17*,-241,HOEX
+128,From Operations,12  Mar-17*,983,HOEX
+129,From Investments,12  Mar-17*,-316,HOEX
+130,From Financial Activity,12  Mar-17*,0,HOEX
+131,Net Cashflow,12  Mar-17*,667,HOEX
+132,Net Sales,12  Mar-18*,487.0,HOEX
+133,Other income,12  Mar-18*,118.0,HOEX
+134,Total revenues,12  Mar-18*,606.0,HOEX
+135,Gross profit,12  Mar-18*,307.0,HOEX
+136,Depreciation,12  Mar-18*,85.0,HOEX
+137,Interest,12  Mar-18*,10.0,HOEX
+138,Profit before tax,12  Mar-18*,330.0,HOEX
+139,Minority Interest,12  Mar-18*,0.0,HOEX
+140,Prior Period Items,12  Mar-18*,0.0,HOEX
+141,Extraordinary Inc (Exp),12  Mar-18*,45.0,HOEX
+142,Tax,12  Mar-18*,0.0,HOEX
+143,Profit after tax,12  Mar-18*,375.0,HOEX
+144,Gross profit margin,12  Mar-18*,63.0,HOEX
+145,Effective tax rate,12  Mar-18*,0.0,HOEX
+146,Net profit margin,12  Mar-18*,77.0,HOEX
+147,Current assets,12  Mar-18*,2027.0,HOEX
+148,Current liabilities,12  Mar-18*,411.0,HOEX
+149,Net working cap to sales,12  Mar-18*,331.7,HOEX
+150,Current ratio,12  Mar-18*,4.9,HOEX
+151,Inventory Days,12  Mar-18*,212.0,HOEX
+152,Debtors Days,12  Mar-18*,124.0,HOEX
+153,Net fixed assets,12  Mar-18*,2862.0,HOEX
+154,Share capital,12  Mar-18*,1305.0,HOEX
+155,"""Free"" reserves",12  Mar-18*,2527.0,HOEX
+156,Net worth,12  Mar-18*,3832.0,HOEX
+157,Long term debt,12  Mar-18*,3.0,HOEX
+158,Total assets,12  Mar-18*,5435.0,HOEX
+159,Interest coverage,12  Mar-18*,33.3,HOEX
+160,Debt to equity ratio,12  Mar-18*,0.0,HOEX
+161,Sales to assets ratio,12  Mar-18*,0.1,HOEX
+162,Return on assets,12  Mar-18*,7.1,HOEX
+163,Return on equity,12  Mar-18*,9.8,HOEX
+164,Return on capital,12  Mar-18*,10.1,HOEX
+165,Exports to sales,12  Mar-18*,0.0,HOEX
+166,Imports to sales,12  Mar-18*,6.5,HOEX
+167,Exports (fob),12  Mar-18*,0.0,HOEX
+168,Imports (cif),12  Mar-18*,32.0,HOEX
+169,Fx inflow,12  Mar-18*,0.0,HOEX
+170,Fx outflow,12  Mar-18*,241.0,HOEX
+171,Net fx,12  Mar-18*,-241.0,HOEX
+172,From Operations,12  Mar-18*,-72.0,HOEX
+173,From Investments,12  Mar-18*,-603.0,HOEX
+174,From Financial Activity,12  Mar-18*,0.0,HOEX
+175,Net Cashflow,12  Mar-18*,-675.0,HOEX
+176,Net Sales,12  Mar-19*,2651.0,HOEX
+177,Other income,12  Mar-19*,112.0,HOEX
+178,Total revenues,12  Mar-19*,2763.0,HOEX
+179,Gross profit,12  Mar-19*,1885.0,HOEX
+180,Depreciation,12  Mar-19*,438.0,HOEX
+181,Interest,12  Mar-19*,17.0,HOEX
+182,Profit before tax,12  Mar-19*,1543.0,HOEX
+183,Minority Interest,12  Mar-19*,0.0,HOEX
+184,Prior Period Items,12  Mar-19*,0.0,HOEX
+185,Extraordinary Inc (Exp),12  Mar-19*,26.0,HOEX
+186,Tax,12  Mar-19*,1.0,HOEX
+187,Profit after tax,12  Mar-19*,1568.0,HOEX
+188,Gross profit margin,12  Mar-19*,71.1,HOEX
+189,Effective tax rate,12  Mar-19*,0.1,HOEX
+190,Net profit margin,12  Mar-19*,59.1,HOEX
+191,Current assets,12  Mar-19*,2452.0,HOEX
+192,Current liabilities,12  Mar-19*,658.0,HOEX
+193,Net working cap to sales,12  Mar-19*,67.6,HOEX
+194,Current ratio,12  Mar-19*,3.7,HOEX
+195,Inventory Days,12  Mar-19*,38.0,HOEX
+196,Debtors Days,12  Mar-19*,56.0,HOEX
+197,Net fixed assets,12  Mar-19*,4101.0,HOEX
+198,Share capital,12  Mar-19*,1305.0,HOEX
+199,"""Free"" reserves",12  Mar-19*,4097.0,HOEX
+200,Net worth,12  Mar-19*,5402.0,HOEX
+201,Long term debt,12  Mar-19*,2.0,HOEX
+202,Total assets,12  Mar-19*,7342.0,HOEX
+203,Interest coverage,12  Mar-19*,93.4,HOEX
+204,Debt to equity ratio,12  Mar-19*,0.0,HOEX
+205,Sales to assets ratio,12  Mar-19*,0.4,HOEX
+206,Return on assets,12  Mar-19*,21.6,HOEX
+207,Return on equity,12  Mar-19*,29.0,HOEX
+208,Return on capital,12  Mar-19*,29.3,HOEX
+209,Exports to sales,12  Mar-19*,0.0,HOEX
+210,Imports to sales,12  Mar-19*,0.3,HOEX
+211,Exports (fob),12  Mar-19*,0.0,HOEX
+212,Imports (cif),12  Mar-19*,7.0,HOEX
+213,Fx inflow,12  Mar-19*,0.0,HOEX
+214,Fx outflow,12  Mar-19*,732.0,HOEX
+215,Net fx,12  Mar-19*,-732.0,HOEX
+216,From Operations,12  Mar-19*,1674.0,HOEX
+217,From Investments,12  Mar-19*,-1477.0,HOEX
+218,From Financial Activity,12  Mar-19*,0.0,HOEX
+219,Net Cashflow,12  Mar-19*,203.0,HOEX

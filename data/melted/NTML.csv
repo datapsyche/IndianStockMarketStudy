@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,123564.0,NTML
+1,Other income,12  Mar-15*,22669.0,NTML
+2,Total revenues,12  Mar-15*,146233.0,NTML
+3,Gross profit,12  Mar-15*,77658.0,NTML
+4,Depreciation,12  Mar-15*,1726.0,NTML
+5,Interest,12  Mar-15*,1.0,NTML
+6,Profit before tax,12  Mar-15*,98600.0,NTML
+7,Minority Interest,12  Mar-15*,-39.0,NTML
+8,Prior Period Items,12  Mar-15*,-505.0,NTML
+9,Extraordinary Inc (Exp),12  Mar-15*,-1126.0,NTML
+10,Tax,12  Mar-15*,33463.0,NTML
+11,Profit after tax,12  Mar-15*,63467.0,NTML
+12,Gross profit margin,12  Mar-15*,62.8,NTML
+13,Effective tax rate,12  Mar-15*,33.9,NTML
+14,Net profit margin,12  Mar-15*,51.4,NTML
+15,Current assets,12  Mar-15*,221150.0,NTML
+16,Current liabilities,12  Mar-15*,15308.0,NTML
+17,Net working cap to sales,12  Mar-15*,166.6,NTML
+18,Current ratio,12  Mar-15*,14.4,NTML
+19,Inventory Days,12  Mar-15*,20.0,NTML
+20,Debtors Days,12  Mar-15*,28.0,NTML
+21,Net fixed assets,12  Mar-15*,91950.0,NTML
+22,Share capital,12  Mar-15*,3965.0,NTML
+23,"""Free"" reserves",12  Mar-15*,320955.0,NTML
+24,Net worth,12  Mar-15*,324920.0,NTML
+25,Long term debt,12  Mar-15*,0.0,NTML
+26,Total assets,12  Mar-15*,343528.0,NTML
+27,Interest coverage,12  Mar-15*,70429.6,NTML
+28,Debt to equity ratio,12  Mar-15*,0.0,NTML
+29,Sales to assets ratio,12  Mar-15*,0.4,NTML
+30,Return on assets,12  Mar-15*,18.5,NTML
+31,Return on equity,12  Mar-15*,19.5,NTML
+32,Return on capital,12  Mar-15*,29.8,NTML
+33,Exports to sales,12  Mar-15*,11.1,NTML
+34,Imports to sales,12  Mar-15*,1.8,NTML
+35,Exports (fob),12  Mar-15*,13695.0,NTML
+36,Imports (cif),12  Mar-15*,2266.0,NTML
+37,Fx inflow,12  Mar-15*,13695.0,NTML
+38,Fx outflow,12  Mar-15*,2405.0,NTML
+39,Net fx,12  Mar-15*,11291.0,NTML
+40,From Operations,12  Mar-15*,39991.0,NTML
+41,From Investments,12  Mar-15*,-5172.0,NTML
+42,From Financial Activity,12  Mar-15*,-34494.0,NTML
+43,Net Cashflow,12  Mar-15*,325.0,NTML
+44,Net Sales,12  Mar-16*,64558.0,NTML
+45,Other income,12  Mar-16*,181.0,NTML
+46,Total revenues,12  Mar-16*,64739.0,NTML
+47,Gross profit,12  Mar-16*,45345.0,NTML
+48,Depreciation,12  Mar-16*,2180.0,NTML
+49,Interest,12  Mar-16*,657.0,NTML
+50,Profit before tax,12  Mar-16*,42690.0,NTML
+51,Minority Interest,12  Mar-16*,0.0,NTML
+52,Prior Period Items,12  Mar-16*,0.0,NTML
+53,Extraordinary Inc (Exp),12  Mar-16*,-1848.0,NTML
+54,Tax,12  Mar-16*,13801.0,NTML
+55,Profit after tax,12  Mar-16*,27041.0,NTML
+56,Gross profit margin,12  Mar-16*,70.2,NTML
+57,Effective tax rate,12  Mar-16*,32.3,NTML
+58,Net profit margin,12  Mar-16*,41.9,NTML
+59,Current assets,12  Mar-16*,181361.0,NTML
+60,Current liabilities,12  Mar-16*,32053.0,NTML
+61,Net working cap to sales,12  Mar-16*,231.3,NTML
+62,Current ratio,12  Mar-16*,5.7,NTML
+63,Inventory Days,12  Mar-16*,35.0,NTML
+64,Debtors Days,12  Mar-16*,45.0,NTML
+65,Net fixed assets,12  Mar-16*,118055.0,NTML
+66,Share capital,12  Mar-16*,3965.0,NTML
+67,"""Free"" reserves",12  Mar-16*,287836.0,NTML
+68,Net worth,12  Mar-16*,291801.0,NTML
+69,Long term debt,12  Mar-16*,14970.0,NTML
+70,Total assets,12  Mar-16*,327558.0,NTML
+71,Interest coverage,12  Mar-16*,66.0,NTML
+72,Debt to equity ratio,12  Mar-16*,0.1,NTML
+73,Sales to assets ratio,12  Mar-16*,0.2,NTML
+74,Return on assets,12  Mar-16*,8.5,NTML
+75,Return on equity,12  Mar-16*,9.3,NTML
+76,Return on capital,12  Mar-16*,13.5,NTML
+77,Exports to sales,12  Mar-16*,5.5,NTML
+78,Imports to sales,12  Mar-16*,3.6,NTML
+79,Exports (fob),12  Mar-16*,3528.0,NTML
+80,Imports (cif),12  Mar-16*,2329.0,NTML
+81,Fx inflow,12  Mar-16*,3528.0,NTML
+82,Fx outflow,12  Mar-16*,2415.0,NTML
+83,Net fx,12  Mar-16*,1113.0,NTML
+84,From Operations,12  Mar-16*,25020.0,NTML
+85,From Investments,12  Mar-16*,36446.0,NTML
+86,From Financial Activity,12  Mar-16*,-62904.0,NTML
+87,Net Cashflow,12  Mar-16*,-1438.0,NTML
+88,Net Sales,12  Mar-17*,88281.0,NTML
+89,Other income,12  Mar-17*,9102.0,NTML
+90,Total revenues,12  Mar-17*,97383.0,NTML
+91,Gross profit,12  Mar-17*,35948.0,NTML
+92,Depreciation,12  Mar-17*,1967.0,NTML
+93,Interest,12  Mar-17*,208.0,NTML
+94,Profit before tax,12  Mar-17*,42876.0,NTML
+95,Minority Interest,12  Mar-17*,0.0,NTML
+96,Prior Period Items,12  Mar-17*,0.0,NTML
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,NTML
+98,Tax,12  Mar-17*,17040.0,NTML
+99,Profit after tax,12  Mar-17*,25835.0,NTML
+100,Gross profit margin,12  Mar-17*,40.7,NTML
+101,Effective tax rate,12  Mar-17*,39.7,NTML
+102,Net profit margin,12  Mar-17*,29.3,NTML
+103,Current assets,12  Mar-17*,79762.0,NTML
+104,Current liabilities,12  Mar-17*,25747.0,NTML
+105,Net working cap to sales,12  Mar-17*,61.2,NTML
+106,Current ratio,12  Mar-17*,3.1,NTML
+107,Inventory Days,12  Mar-17*,22.0,NTML
+108,Debtors Days,12  Mar-17*,43.0,NTML
+109,Net fixed assets,12  Mar-17*,139506.0,NTML
+110,Share capital,12  Mar-17*,3164.0,NTML
+111,"""Free"" reserves",12  Mar-17*,222658.0,NTML
+112,Net worth,12  Mar-17*,225822.0,NTML
+113,Long term debt,12  Mar-17*,0.0,NTML
+114,Total assets,12  Mar-17*,257837.0,NTML
+115,Interest coverage,12  Mar-17*,207.3,NTML
+116,Debt to equity ratio,12  Mar-17*,0.0,NTML
+117,Sales to assets ratio,12  Mar-17*,0.3,NTML
+118,Return on assets,12  Mar-17*,10.1,NTML
+119,Return on equity,12  Mar-17*,11.4,NTML
+120,Return on capital,12  Mar-17*,19.1,NTML
+121,Exports to sales,12  Mar-17*,10.2,NTML
+122,Imports to sales,12  Mar-17*,2.1,NTML
+123,Exports (fob),12  Mar-17*,9048.0,NTML
+124,Imports (cif),12  Mar-17*,1866.0,NTML
+125,Fx inflow,12  Mar-17*,9048.0,NTML
+126,Fx outflow,12  Mar-17*,1970.0,NTML
+127,Net fx,12  Mar-17*,7078.0,NTML
+128,From Operations,12  Mar-17*,21085.0,NTML
+129,From Investments,12  Mar-17*,51713.0,NTML
+130,From Financial Activity,12  Mar-17*,-72493.0,NTML
+131,Net Cashflow,12  Mar-17*,305.0,NTML
+132,Net Sales,12  Mar-18*,116149.0,NTML
+133,Other income,12  Mar-18*,5232.0,NTML
+134,Total revenues,12  Mar-18*,121381.0,NTML
+135,Gross profit,12  Mar-18*,58033.0,NTML
+136,Depreciation,12  Mar-18*,2566.0,NTML
+137,Interest,12  Mar-18*,371.0,NTML
+138,Profit before tax,12  Mar-18*,60328.0,NTML
+139,Minority Interest,12  Mar-18*,47.0,NTML
+140,Prior Period Items,12  Mar-18*,0.0,NTML
+141,Extraordinary Inc (Exp),12  Mar-18*,1443.0,NTML
+142,Tax,12  Mar-18*,23733.0,NTML
+143,Profit after tax,12  Mar-18*,38085.0,NTML
+144,Gross profit margin,12  Mar-18*,50.0,NTML
+145,Effective tax rate,12  Mar-18*,39.3,NTML
+146,Net profit margin,12  Mar-18*,32.8,NTML
+147,Current assets,12  Mar-18*,88643.0,NTML
+148,Current liabilities,12  Mar-18*,35449.0,NTML
+149,Net working cap to sales,12  Mar-18*,45.8,NTML
+150,Current ratio,12  Mar-18*,2.5,NTML
+151,Inventory Days,12  Mar-18*,18.0,NTML
+152,Debtors Days,12  Mar-18*,46.0,NTML
+153,Net fixed assets,12  Mar-18*,160023.0,NTML
+154,Share capital,12  Mar-18*,3164.0,NTML
+155,"""Free"" reserves",12  Mar-18*,241010.0,NTML
+156,Net worth,12  Mar-18*,244174.0,NTML
+157,Long term debt,12  Mar-18*,0.0,NTML
+158,Total assets,12  Mar-18*,286913.0,NTML
+159,Interest coverage,12  Mar-18*,163.6,NTML
+160,Debt to equity ratio,12  Mar-18*,0.0,NTML
+161,Sales to assets ratio,12  Mar-18*,0.4,NTML
+162,Return on assets,12  Mar-18*,13.4,NTML
+163,Return on equity,12  Mar-18*,15.6,NTML
+164,Return on capital,12  Mar-18*,25.5,NTML
+165,Exports to sales,12  Mar-18*,9.2,NTML
+166,Imports to sales,12  Mar-18*,1.6,NTML
+167,Exports (fob),12  Mar-18*,10699.0,NTML
+168,Imports (cif),12  Mar-18*,1815.0,NTML
+169,Fx inflow,12  Mar-18*,10699.0,NTML
+170,Fx outflow,12  Mar-18*,1877.0,NTML
+171,Net fx,12  Mar-18*,8822.0,NTML
+172,From Operations,12  Mar-18*,33763.0,NTML
+173,From Investments,12  Mar-18*,-18649.0,NTML
+174,From Financial Activity,12  Mar-18*,-15572.0,NTML
+175,Net Cashflow,12  Mar-18*,-458.0,NTML
+176,Net Sales,12  Mar-19*,121527.0,NTML
+177,Other income,12  Mar-19*,5890.0,NTML
+178,Total revenues,12  Mar-19*,127416.0,NTML
+179,Gross profit,12  Mar-19*,69244.0,NTML
+180,Depreciation,12  Mar-19*,2790.0,NTML
+181,Interest,12  Mar-19*,403.0,NTML
+182,Profit before tax,12  Mar-19*,71940.0,NTML
+183,Minority Interest,12  Mar-19*,-191.0,NTML
+184,Prior Period Items,12  Mar-19*,0.0,NTML
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,NTML
+186,Tax,12  Mar-19*,25565.0,NTML
+187,Profit after tax,12  Mar-19*,46184.0,NTML
+188,Gross profit margin,12  Mar-19*,57.0,NTML
+189,Effective tax rate,12  Mar-19*,35.5,NTML
+190,Net profit margin,12  Mar-19*,38.0,NTML
+191,Current assets,12  Mar-19*,79773.0,NTML
+192,Current liabilities,12  Mar-19*,30648.0,NTML
+193,Net working cap to sales,12  Mar-19*,40.4,NTML
+194,Current ratio,12  Mar-19*,2.6,NTML
+195,Inventory Days,12  Mar-19*,20.0,NTML
+196,Debtors Days,12  Mar-19*,43.0,NTML
+197,Net fixed assets,12  Mar-19*,173313.0,NTML
+198,Share capital,12  Mar-19*,3062.0,NTML
+199,"""Free"" reserves",12  Mar-19*,257378.0,NTML
+200,Net worth,12  Mar-19*,260440.0,NTML
+201,Long term debt,12  Mar-19*,0.0,NTML
+202,Total assets,12  Mar-19*,298919.0,NTML
+203,Interest coverage,12  Mar-19*,179.4,NTML
+204,Debt to equity ratio,12  Mar-19*,0.0,NTML
+205,Sales to assets ratio,12  Mar-19*,0.4,NTML
+206,Return on assets,12  Mar-19*,15.6,NTML
+207,Return on equity,12  Mar-19*,17.7,NTML
+208,Return on capital,12  Mar-19*,27.7,NTML
+209,Exports to sales,12  Mar-19*,4.5,NTML
+210,Imports to sales,12  Mar-19*,0.5,NTML
+211,Exports (fob),12  Mar-19*,5457.0,NTML
+212,Imports (cif),12  Mar-19*,566.0,NTML
+213,Fx inflow,12  Mar-19*,5457.0,NTML
+214,Fx outflow,12  Mar-19*,659.0,NTML
+215,Net fx,12  Mar-19*,4798.0,NTML
+216,From Operations,12  Mar-19*,40966.0,NTML
+217,From Investments,12  Mar-19*,-7892.0,NTML
+218,From Financial Activity,12  Mar-19*,-32961.0,NTML
+219,Net Cashflow,12  Mar-19*,113.0,NTML

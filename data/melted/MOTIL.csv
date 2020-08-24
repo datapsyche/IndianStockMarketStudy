@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,7690.0,MOTIL
+1,Other income,12  Mar-15*,38.0,MOTIL
+2,Total revenues,12  Mar-15*,7727.0,MOTIL
+3,Gross profit,12  Mar-15*,2535.0,MOTIL
+4,Depreciation,12  Mar-15*,307.0,MOTIL
+5,Interest,12  Mar-15*,309.0,MOTIL
+6,Profit before tax,12  Mar-15*,1956.0,MOTIL
+7,Minority Interest,12  Mar-15*,-19.0,MOTIL
+8,Prior Period Items,12  Mar-15*,22.0,MOTIL
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,MOTIL
+10,Tax,12  Mar-15*,523.0,MOTIL
+11,Profit after tax,12  Mar-15*,1436.0,MOTIL
+12,Gross profit margin,12  Mar-15*,33.0,MOTIL
+13,Effective tax rate,12  Mar-15*,26.8,MOTIL
+14,Net profit margin,12  Mar-15*,18.7,MOTIL
+15,Current assets,12  Mar-15*,14526.0,MOTIL
+16,Current liabilities,12  Mar-15*,13204.0,MOTIL
+17,Net working cap to sales,12  Mar-15*,17.2,MOTIL
+18,Current ratio,12  Mar-15*,1.1,MOTIL
+19,Inventory Days,12  Mar-15*,0.0,MOTIL
+20,Debtors Days,12  Mar-15*,280.0,MOTIL
+21,Net fixed assets,12  Mar-15*,3001.0,MOTIL
+22,Share capital,12  Mar-15*,140.0,MOTIL
+23,"""Free"" reserves",12  Mar-15*,11598.0,MOTIL
+24,Net worth,12  Mar-15*,12949.0,MOTIL
+25,Long term debt,12  Mar-15*,3006.0,MOTIL
+26,Total assets,12  Mar-15*,29448.0,MOTIL
+27,Interest coverage,12  Mar-15*,7.3,MOTIL
+28,Debt to equity ratio,12  Mar-15*,0.2,MOTIL
+29,Sales to assets ratio,12  Mar-15*,0.3,MOTIL
+30,Return on assets,12  Mar-15*,5.9,MOTIL
+31,Return on equity,12  Mar-15*,11.1,MOTIL
+32,Return on capital,12  Mar-15*,14.2,MOTIL
+33,Exports to sales,12  Mar-15*,0.0,MOTIL
+34,Imports to sales,12  Mar-15*,0.0,MOTIL
+35,Exports (fob),12  Mar-15*,0.0,MOTIL
+36,Imports (cif),12  Mar-15*,0.0,MOTIL
+37,Fx inflow,12  Mar-15*,0.0,MOTIL
+38,Fx outflow,12  Mar-15*,0.0,MOTIL
+39,Net fx,12  Mar-15*,0.0,MOTIL
+40,From Operations,12  Mar-15*,-978.0,MOTIL
+41,From Investments,12  Mar-15*,-6056.0,MOTIL
+42,From Financial Activity,12  Mar-15*,7472.0,MOTIL
+43,Net Cashflow,12  Mar-15*,438.0,MOTIL
+44,Net Sales,12  Mar-16*,10562.0,MOTIL
+45,Other income,12  Mar-16*,244.0,MOTIL
+46,Total revenues,12  Mar-16*,10806.0,MOTIL
+47,Gross profit,12  Mar-16*,4088.0,MOTIL
+48,Depreciation,12  Mar-16*,349.0,MOTIL
+49,Interest,12  Mar-16*,1738.0,MOTIL
+50,Profit before tax,12  Mar-16*,2245.0,MOTIL
+51,Minority Interest,12  Mar-16*,-26.0,MOTIL
+52,Prior Period Items,12  Mar-16*,83.0,MOTIL
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,MOTIL
+54,Tax,12  Mar-16*,612.0,MOTIL
+55,Profit after tax,12  Mar-16*,1691.0,MOTIL
+56,Gross profit margin,12  Mar-16*,38.7,MOTIL
+57,Effective tax rate,12  Mar-16*,27.3,MOTIL
+58,Net profit margin,12  Mar-16*,16.0,MOTIL
+59,Current assets,12  Mar-16*,15509.0,MOTIL
+60,Current liabilities,12  Mar-16*,19106.0,MOTIL
+61,Net working cap to sales,12  Mar-16*,-34.1,MOTIL
+62,Current ratio,12  Mar-16*,0.8,MOTIL
+63,Inventory Days,12  Mar-16*,0.0,MOTIL
+64,Debtors Days,12  Mar-16*,245.0,MOTIL
+65,Net fixed assets,12  Mar-16*,2921.0,MOTIL
+66,Share capital,12  Mar-16*,142.0,MOTIL
+67,"""Free"" reserves",12  Mar-16*,14223.0,MOTIL
+68,Net worth,12  Mar-16*,14365.0,MOTIL
+69,Long term debt,12  Mar-16*,17000.0,MOTIL
+70,Total assets,12  Mar-16*,50897.0,MOTIL
+71,Interest coverage,12  Mar-16*,2.3,MOTIL
+72,Debt to equity ratio,12  Mar-16*,1.2,MOTIL
+73,Sales to assets ratio,12  Mar-16*,0.2,MOTIL
+74,Return on assets,12  Mar-16*,6.7,MOTIL
+75,Return on equity,12  Mar-16*,11.8,MOTIL
+76,Return on capital,12  Mar-16*,12.9,MOTIL
+77,Exports to sales,12  Mar-16*,0.0,MOTIL
+78,Imports to sales,12  Mar-16*,0.0,MOTIL
+79,Exports (fob),12  Mar-16*,0.0,MOTIL
+80,Imports (cif),12  Mar-16*,0.0,MOTIL
+81,Fx inflow,12  Mar-16*,0.0,MOTIL
+82,Fx outflow,12  Mar-16*,0.0,MOTIL
+83,Net fx,12  Mar-16*,0.0,MOTIL
+84,From Operations,12  Mar-16*,-12417.0,MOTIL
+85,From Investments,12  Mar-16*,-3801.0,MOTIL
+86,From Financial Activity,12  Mar-16*,17180.0,MOTIL
+87,Net Cashflow,12  Mar-16*,963.0,MOTIL
+88,Net Sales,12  Mar-17*,18409.0,MOTIL
+89,Other income,12  Mar-17*,828.0,MOTIL
+90,Total revenues,12  Mar-17*,19236.0,MOTIL
+91,Gross profit,12  Mar-17*,9259.0,MOTIL
+92,Depreciation,12  Mar-17*,328.0,MOTIL
+93,Interest,12  Mar-17*,4423.0,MOTIL
+94,Profit before tax,12  Mar-17*,5335.0,MOTIL
+95,Minority Interest,12  Mar-17*,-106.0,MOTIL
+96,Prior Period Items,12  Mar-17*,60.0,MOTIL
+97,Extraordinary Inc (Exp),12  Mar-17*,-279.0,MOTIL
+98,Tax,12  Mar-17*,1411.0,MOTIL
+99,Profit after tax,12  Mar-17*,3600.0,MOTIL
+100,Gross profit margin,12  Mar-17*,50.3,MOTIL
+101,Effective tax rate,12  Mar-17*,26.4,MOTIL
+102,Net profit margin,12  Mar-17*,19.6,MOTIL
+103,Current assets,12  Mar-17*,26579.0,MOTIL
+104,Current liabilities,12  Mar-17*,28499.0,MOTIL
+105,Net working cap to sales,12  Mar-17*,-10.4,MOTIL
+106,Current ratio,12  Mar-17*,0.9,MOTIL
+107,Inventory Days,12  Mar-17*,0.0,MOTIL
+108,Debtors Days,12  Mar-17*,250.0,MOTIL
+109,Net fixed assets,12  Mar-17*,2594.0,MOTIL
+110,Share capital,12  Mar-17*,145.0,MOTIL
+111,"""Free"" reserves",12  Mar-17*,22076.0,MOTIL
+112,Net worth,12  Mar-17*,22221.0,MOTIL
+113,Long term debt,12  Mar-17*,21534.0,MOTIL
+114,Total assets,12  Mar-17*,89289.0,MOTIL
+115,Interest coverage,12  Mar-17*,2.2,MOTIL
+116,Debt to equity ratio,12  Mar-17*,1.0,MOTIL
+117,Sales to assets ratio,12  Mar-17*,0.2,MOTIL
+118,Return on assets,12  Mar-17*,9.0,MOTIL
+119,Return on equity,12  Mar-17*,16.2,MOTIL
+120,Return on capital,12  Mar-17*,21.6,MOTIL
+121,Exports to sales,12  Mar-17*,0.0,MOTIL
+122,Imports to sales,12  Mar-17*,0.0,MOTIL
+123,Exports (fob),12  Mar-17*,0.0,MOTIL
+124,Imports (cif),12  Mar-17*,0.0,MOTIL
+125,Fx inflow,12  Mar-17*,0.0,MOTIL
+126,Fx outflow,12  Mar-17*,0.0,MOTIL
+127,Net fx,12  Mar-17*,0.0,MOTIL
+128,From Operations,12  Mar-17*,-19805.0,MOTIL
+129,From Investments,12  Mar-17*,-3142.0,MOTIL
+130,From Financial Activity,12  Mar-17*,24200.0,MOTIL
+131,Net Cashflow,12  Mar-17*,1253.0,MOTIL
+132,Net Sales,12  Mar-18*,27507.0,MOTIL
+133,Other income,12  Mar-18*,16.0,MOTIL
+134,Total revenues,12  Mar-18*,27523.0,MOTIL
+135,Gross profit,12  Mar-18*,13934.0,MOTIL
+136,Depreciation,12  Mar-18*,375.0,MOTIL
+137,Interest,12  Mar-18*,5284.0,MOTIL
+138,Profit before tax,12  Mar-18*,8291.0,MOTIL
+139,Minority Interest,12  Mar-18*,0.0,MOTIL
+140,Prior Period Items,12  Mar-18*,91.0,MOTIL
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,MOTIL
+142,Tax,12  Mar-18*,2059.0,MOTIL
+143,Profit after tax,12  Mar-18*,6323.0,MOTIL
+144,Gross profit margin,12  Mar-18*,50.7,MOTIL
+145,Effective tax rate,12  Mar-18*,24.8,MOTIL
+146,Net profit margin,12  Mar-18*,23.0,MOTIL
+147,Current assets,12  Mar-18*,15960.0,MOTIL
+148,Current liabilities,12  Mar-18*,47910.0,MOTIL
+149,Net working cap to sales,12  Mar-18*,-116.1,MOTIL
+150,Current ratio,12  Mar-18*,0.3,MOTIL
+151,Inventory Days,12  Mar-18*,0.0,MOTIL
+152,Debtors Days,12  Mar-18*,138.0,MOTIL
+153,Net fixed assets,12  Mar-18*,2640.0,MOTIL
+154,Share capital,12  Mar-18*,145.0,MOTIL
+155,"""Free"" reserves",12  Mar-18*,28714.0,MOTIL
+156,Net worth,12  Mar-18*,28859.0,MOTIL
+157,Long term debt,12  Mar-18*,24255.0,MOTIL
+158,Total assets,12  Mar-18*,104872.0,MOTIL
+159,Interest coverage,12  Mar-18*,2.6,MOTIL
+160,Debt to equity ratio,12  Mar-18*,0.8,MOTIL
+161,Sales to assets ratio,12  Mar-18*,0.3,MOTIL
+162,Return on assets,12  Mar-18*,11.1,MOTIL
+163,Return on equity,12  Mar-18*,21.9,MOTIL
+164,Return on capital,12  Mar-18*,25.7,MOTIL
+165,Exports to sales,12  Mar-18*,0.0,MOTIL
+166,Imports to sales,12  Mar-18*,0.0,MOTIL
+167,Exports (fob),12  Mar-18*,0.0,MOTIL
+168,Imports (cif),12  Mar-18*,0.0,MOTIL
+169,Fx inflow,12  Mar-18*,0.0,MOTIL
+170,Fx outflow,12  Mar-18*,0.0,MOTIL
+171,Net fx,12  Mar-18*,0.0,MOTIL
+172,From Operations,12  Mar-18*,2476.0,MOTIL
+173,From Investments,12  Mar-18*,-1567.0,MOTIL
+174,From Financial Activity,12  Mar-18*,-980.0,MOTIL
+175,Net Cashflow,12  Mar-18*,-71.0,MOTIL
+176,Net Sales,12  Mar-19*,24627.0,MOTIL
+177,Other income,12  Mar-19*,56.0,MOTIL
+178,Total revenues,12  Mar-19*,24682.0,MOTIL
+179,Gross profit,12  Mar-19*,9196.0,MOTIL
+180,Depreciation,12  Mar-19*,240.0,MOTIL
+181,Interest,12  Mar-19*,5169.0,MOTIL
+182,Profit before tax,12  Mar-19*,3844.0,MOTIL
+183,Minority Interest,12  Mar-19*,0.0,MOTIL
+184,Prior Period Items,12  Mar-19*,80.0,MOTIL
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,MOTIL
+186,Tax,12  Mar-19*,941.0,MOTIL
+187,Profit after tax,12  Mar-19*,2983.0,MOTIL
+188,Gross profit margin,12  Mar-19*,37.3,MOTIL
+189,Effective tax rate,12  Mar-19*,24.5,MOTIL
+190,Net profit margin,12  Mar-19*,12.1,MOTIL
+191,Current assets,12  Mar-19*,22992.0,MOTIL
+192,Current liabilities,12  Mar-19*,45699.0,MOTIL
+193,Net working cap to sales,12  Mar-19*,-92.2,MOTIL
+194,Current ratio,12  Mar-19*,0.5,MOTIL
+195,Inventory Days,12  Mar-19*,0.0,MOTIL
+196,Debtors Days,12  Mar-19*,225.0,MOTIL
+197,Net fixed assets,12  Mar-19*,2670.0,MOTIL
+198,Share capital,12  Mar-19*,146.0,MOTIL
+199,"""Free"" reserves",12  Mar-19*,30389.0,MOTIL
+200,Net worth,12  Mar-19*,30534.0,MOTIL
+201,Long term debt,12  Mar-19*,25333.0,MOTIL
+202,Total assets,12  Mar-19*,104818.0,MOTIL
+203,Interest coverage,12  Mar-19*,1.7,MOTIL
+204,Debt to equity ratio,12  Mar-19*,0.8,MOTIL
+205,Sales to assets ratio,12  Mar-19*,0.2,MOTIL
+206,Return on assets,12  Mar-19*,7.8,MOTIL
+207,Return on equity,12  Mar-19*,9.8,MOTIL
+208,Return on capital,12  Mar-19*,16.3,MOTIL
+209,Exports to sales,12  Mar-19*,0.0,MOTIL
+210,Imports to sales,12  Mar-19*,0.0,MOTIL
+211,Exports (fob),12  Mar-19*,0.0,MOTIL
+212,Imports (cif),12  Mar-19*,0.0,MOTIL
+213,Fx inflow,12  Mar-19*,0.0,MOTIL
+214,Fx outflow,12  Mar-19*,0.0,MOTIL
+215,Net fx,12  Mar-19*,0.0,MOTIL
+216,From Operations,12  Mar-19*,2062.0,MOTIL
+217,From Investments,12  Mar-19*,39.0,MOTIL
+218,From Financial Activity,12  Mar-19*,-1422.0,MOTIL
+219,Net Cashflow,12  Mar-19*,679.0,MOTIL

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,108549.0,PUNL
+1,Other income,12  Mar-14*,3195.0,PUNL
+2,Total revenues,12  Mar-14*,111743.0,PUNL
+3,Gross profit,12  Mar-14*,3188.0,PUNL
+4,Depreciation,12  Mar-14*,3925.0,PUNL
+5,Interest,12  Mar-14*,8820.0,PUNL
+6,Profit before tax,12  Mar-14*,-6361.0,PUNL
+7,Minority Interest,12  Mar-14*,884.0,PUNL
+8,Prior Period Items,12  Mar-14*,73.0,PUNL
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,PUNL
+10,Tax,12  Mar-14*,77.0,PUNL
+11,Profit after tax,12  Mar-14*,-5482.0,PUNL
+12,Gross profit margin,12  Mar-14*,2.9,PUNL
+13,Effective tax rate,12  Mar-14*,-1.2,PUNL
+14,Net profit margin,12  Mar-14*,-5.1,PUNL
+15,Current assets,12  Mar-14*,112714.0,PUNL
+16,Current liabilities,12  Mar-14*,110602.0,PUNL
+17,Net working cap to sales,12  Mar-14*,1.9,PUNL
+18,Current ratio,12  Mar-14*,1.0,PUNL
+19,Inventory Days,12  Mar-14*,251.0,PUNL
+20,Debtors Days,12  Mar-14*,81.0,PUNL
+21,Net fixed assets,12  Mar-14*,34880.0,PUNL
+22,Share capital,12  Mar-14*,664.0,PUNL
+23,"""Free"" reserves",12  Mar-14*,20224.0,PUNL
+24,Net worth,12  Mar-14*,22323.0,PUNL
+25,Long term debt,12  Mar-14*,23414.0,PUNL
+26,Total assets,12  Mar-14*,158043.0,PUNL
+27,Interest coverage,12  Mar-14*,0.3,PUNL
+28,Debt to equity ratio,12  Mar-14*,1.0,PUNL
+29,Sales to assets ratio,12  Mar-14*,0.7,PUNL
+30,Return on assets,12  Mar-14*,2.1,PUNL
+31,Return on equity,12  Mar-14*,-24.6,PUNL
+32,Return on capital,12  Mar-14*,7.5,PUNL
+33,Exports to sales,12  Mar-14*,8.0,PUNL
+34,Imports to sales,12  Mar-14*,9.6,PUNL
+35,Exports (fob),12  Mar-14*,8726.0,PUNL
+36,Imports (cif),12  Mar-14*,10375.0,PUNL
+37,Fx inflow,12  Mar-14*,54266.0,PUNL
+38,Fx outflow,12  Mar-14*,60260.0,PUNL
+39,Net fx,12  Mar-14*,-5994.0,PUNL
+40,From Operations,12  Mar-14*,4536.0,PUNL
+41,From Investments,12  Mar-14*,-689.0,PUNL
+42,From Financial Activity,12  Mar-14*,-6190.0,PUNL
+43,Net Cashflow,12  Mar-14*,-2342.0,PUNL
+44,Net Sales,12  Mar-15*,70903.0,PUNL
+45,Other income,12  Mar-15*,7849.0,PUNL
+46,Total revenues,12  Mar-15*,78752.0,PUNL
+47,Gross profit,12  Mar-15*,-5336.0,PUNL
+48,Depreciation,12  Mar-15*,4703.0,PUNL
+49,Interest,12  Mar-15*,10022.0,PUNL
+50,Profit before tax,12  Mar-15*,-12212.0,PUNL
+51,Minority Interest,12  Mar-15*,98.0,PUNL
+52,Prior Period Items,12  Mar-15*,32.0,PUNL
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,PUNL
+54,Tax,12  Mar-15*,-670.0,PUNL
+55,Profit after tax,12  Mar-15*,-11411.0,PUNL
+56,Gross profit margin,12  Mar-15*,-7.5,PUNL
+57,Effective tax rate,12  Mar-15*,5.5,PUNL
+58,Net profit margin,12  Mar-15*,-16.1,PUNL
+59,Current assets,12  Mar-15*,108635.0,PUNL
+60,Current liabilities,12  Mar-15*,115599.0,PUNL
+61,Net working cap to sales,12  Mar-15*,-9.8,PUNL
+62,Current ratio,12  Mar-15*,0.9,PUNL
+63,Inventory Days,12  Mar-15*,8.0,PUNL
+64,Debtors Days,12  Mar-15*,108.0,PUNL
+65,Net fixed assets,12  Mar-15*,22892.0,PUNL
+66,Share capital,12  Mar-15*,664.0,PUNL
+67,"""Free"" reserves",12  Mar-15*,7572.0,PUNL
+68,Net worth,12  Mar-15*,8237.0,PUNL
+69,Long term debt,12  Mar-15*,17667.0,PUNL
+70,Total assets,12  Mar-15*,141546.0,PUNL
+71,Interest coverage,12  Mar-15*,-0.2,PUNL
+72,Debt to equity ratio,12  Mar-15*,2.1,PUNL
+73,Sales to assets ratio,12  Mar-15*,0.5,PUNL
+74,Return on assets,12  Mar-15*,-1.0,PUNL
+75,Return on equity,12  Mar-15*,-138.5,PUNL
+76,Return on capital,12  Mar-15*,-7.9,PUNL
+77,Exports to sales,12  Mar-15*,11.5,PUNL
+78,Imports to sales,12  Mar-15*,15.0,PUNL
+79,Exports (fob),12  Mar-15*,8165.0,PUNL
+80,Imports (cif),12  Mar-15*,10670.0,PUNL
+81,Fx inflow,12  Mar-15*,32290.0,PUNL
+82,Fx outflow,12  Mar-15*,45966.0,PUNL
+83,Net fx,12  Mar-15*,-13676.0,PUNL
+84,From Operations,12  Mar-15*,-909.0,PUNL
+85,From Investments,12  Mar-15*,6859.0,PUNL
+86,From Financial Activity,12  Mar-15*,-5519.0,PUNL
+87,Net Cashflow,12  Mar-15*,431.0,PUNL
+88,Net Sales,12  Mar-16*,44470.0,PUNL
+89,Other income,12  Mar-16*,2581.0,PUNL
+90,Total revenues,12  Mar-16*,47051.0,PUNL
+91,Gross profit,12  Mar-16*,-9345.0,PUNL
+92,Depreciation,12  Mar-16*,3424.0,PUNL
+93,Interest,12  Mar-16*,10590.0,PUNL
+94,Profit before tax,12  Mar-16*,-20779.0,PUNL
+95,Minority Interest,12  Mar-16*,-53.0,PUNL
+96,Prior Period Items,12  Mar-16*,0.0,PUNL
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,PUNL
+98,Tax,12  Mar-16*,-1.0,PUNL
+99,Profit after tax,12  Mar-16*,-20831.0,PUNL
+100,Gross profit margin,12  Mar-16*,-21.0,PUNL
+101,Effective tax rate,12  Mar-16*,0.0,PUNL
+102,Net profit margin,12  Mar-16*,-46.8,PUNL
+103,Current assets,12  Mar-16*,101898.0,PUNL
+104,Current liabilities,12  Mar-16*,118171.0,PUNL
+105,Net working cap to sales,12  Mar-16*,-36.6,PUNL
+106,Current ratio,12  Mar-16*,0.9,PUNL
+107,Inventory Days,12  Mar-16*,11.0,PUNL
+108,Debtors Days,12  Mar-16*,151.0,PUNL
+109,Net fixed assets,12  Mar-16*,20265.0,PUNL
+110,Share capital,12  Mar-16*,664.0,PUNL
+111,"""Free"" reserves",12  Mar-16*,-14104.0,PUNL
+112,Net worth,12  Mar-16*,-13440.0,PUNL
+113,Long term debt,12  Mar-16*,25355.0,PUNL
+114,Total assets,12  Mar-16*,130194.0,PUNL
+115,Interest coverage,12  Mar-16*,-1.0,PUNL
+116,Debt to equity ratio,12  Mar-16*,-1.9,PUNL
+117,Sales to assets ratio,12  Mar-16*,0.3,PUNL
+118,Return on assets,12  Mar-16*,-7.9,PUNL
+119,Return on equity,12  Mar-16*,155.0,PUNL
+120,Return on capital,12  Mar-16*,-86.0,PUNL
+121,Exports to sales,12  Mar-16*,6.0,PUNL
+122,Imports to sales,12  Mar-16*,12.5,PUNL
+123,Exports (fob),12  Mar-16*,2682.0,PUNL
+124,Imports (cif),12  Mar-16*,5578.0,PUNL
+125,Fx inflow,12  Mar-16*,18221.0,PUNL
+126,Fx outflow,12  Mar-16*,28942.0,PUNL
+127,Net fx,12  Mar-16*,-10721.0,PUNL
+128,From Operations,12  Mar-16*,-2158.0,PUNL
+129,From Investments,12  Mar-16*,1837.0,PUNL
+130,From Financial Activity,12  Mar-16*,1278.0,PUNL
+131,Net Cashflow,12  Mar-16*,956.0,PUNL
+132,Net Sales,12  Mar-17*,48673.0,PUNL
+133,Other income,12  Mar-17*,13551.0,PUNL
+134,Total revenues,12  Mar-17*,62224.0,PUNL
+135,Gross profit,12  Mar-17*,-10159.0,PUNL
+136,Depreciation,12  Mar-17*,2205.0,PUNL
+137,Interest,12  Mar-17*,10182.0,PUNL
+138,Profit before tax,12  Mar-17*,-8996.0,PUNL
+139,Minority Interest,12  Mar-17*,-57.0,PUNL
+140,Prior Period Items,12  Mar-17*,0.0,PUNL
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,PUNL
+142,Tax,12  Mar-17*,-349.0,PUNL
+143,Profit after tax,12  Mar-17*,-8704.0,PUNL
+144,Gross profit margin,12  Mar-17*,-20.9,PUNL
+145,Effective tax rate,12  Mar-17*,3.9,PUNL
+146,Net profit margin,12  Mar-17*,-17.9,PUNL
+147,Current assets,12  Mar-17*,98526.0,PUNL
+148,Current liabilities,12  Mar-17*,118670.0,PUNL
+149,Net working cap to sales,12  Mar-17*,-41.4,PUNL
+150,Current ratio,12  Mar-17*,0.8,PUNL
+151,Inventory Days,12  Mar-17*,9.0,PUNL
+152,Debtors Days,12  Mar-17*,132.0,PUNL
+153,Net fixed assets,12  Mar-17*,14684.0,PUNL
+154,Share capital,12  Mar-17*,669.0,PUNL
+155,"""Free"" reserves",12  Mar-17*,-18938.0,PUNL
+156,Net worth,12  Mar-17*,-18269.0,PUNL
+157,Long term debt,12  Mar-17*,18713.0,PUNL
+158,Total assets,12  Mar-17*,119625.0,PUNL
+159,Interest coverage,12  Mar-17*,0.1,PUNL
+160,Debt to equity ratio,12  Mar-17*,-1.0,PUNL
+161,Sales to assets ratio,12  Mar-17*,0.4,PUNL
+162,Return on assets,12  Mar-17*,1.2,PUNL
+163,Return on equity,12  Mar-17*,47.6,PUNL
+164,Return on capital,12  Mar-17*,254.6,PUNL
+165,Exports to sales,12  Mar-17*,0.0,PUNL
+166,Imports to sales,12  Mar-17*,0.0,PUNL
+167,Exports (fob),12  Mar-17*,0.0,PUNL
+168,Imports (cif),12  Mar-17*,0.0,PUNL
+169,Fx inflow,12  Mar-17*,19837.0,PUNL
+170,Fx outflow,12  Mar-17*,21119.0,PUNL
+171,Net fx,12  Mar-17*,-1281.0,PUNL
+172,From Operations,12  Mar-17*,8530.0,PUNL
+173,From Investments,12  Mar-17*,644.0,PUNL
+174,From Financial Activity,12  Mar-17*,-6520.0,PUNL
+175,Net Cashflow,12  Mar-17*,1792.0,PUNL
+176,Net Sales,12  Mar-18*,50804.0,PUNL
+177,Other income,12  Mar-18*,5054.0,PUNL
+178,Total revenues,12  Mar-18*,55858.0,PUNL
+179,Gross profit,12  Mar-18*,-4874.0,PUNL
+180,Depreciation,12  Mar-18*,1941.0,PUNL
+181,Interest,12  Mar-18*,10875.0,PUNL
+182,Profit before tax,12  Mar-18*,-12636.0,PUNL
+183,Minority Interest,12  Mar-18*,-99.0,PUNL
+184,Prior Period Items,12  Mar-18*,0.0,PUNL
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,PUNL
+186,Tax,12  Mar-18*,-12017.0,PUNL
+187,Profit after tax,12  Mar-18*,-718.0,PUNL
+188,Gross profit margin,12  Mar-18*,-9.6,PUNL
+189,Effective tax rate,12  Mar-18*,95.1,PUNL
+190,Net profit margin,12  Mar-18*,-1.4,PUNL
+191,Current assets,12  Mar-18*,80933.0,PUNL
+192,Current liabilities,12  Mar-18*,119313.0,PUNL
+193,Net working cap to sales,12  Mar-18*,-75.5,PUNL
+194,Current ratio,12  Mar-18*,0.7,PUNL
+195,Inventory Days,12  Mar-18*,11.0,PUNL
+196,Debtors Days,12  Mar-18*,133.0,PUNL
+197,Net fixed assets,12  Mar-18*,10165.0,PUNL
+198,Share capital,12  Mar-18*,671.0,PUNL
+199,"""Free"" reserves",12  Mar-18*,-20981.0,PUNL
+200,Net worth,12  Mar-18*,-20310.0,PUNL
+201,Long term debt,12  Mar-18*,9876.0,PUNL
+202,Total assets,12  Mar-18*,111805.0,PUNL
+203,Interest coverage,12  Mar-18*,-0.2,PUNL
+204,Debt to equity ratio,12  Mar-18*,-0.5,PUNL
+205,Sales to assets ratio,12  Mar-18*,0.5,PUNL
+206,Return on assets,12  Mar-18*,9.1,PUNL
+207,Return on equity,12  Mar-18*,3.5,PUNL
+208,Return on capital,12  Mar-18*,17.8,PUNL
+209,Exports to sales,12  Mar-18*,0.0,PUNL
+210,Imports to sales,12  Mar-18*,0.0,PUNL
+211,Exports (fob),12  Mar-18*,0.0,PUNL
+212,Imports (cif),12  Mar-18*,0.0,PUNL
+213,Fx inflow,12  Mar-18*,21064.0,PUNL
+214,Fx outflow,12  Mar-18*,19876.0,PUNL
+215,Net fx,12  Mar-18*,1189.0,PUNL
+216,From Operations,12  Mar-18*,4876.0,PUNL
+217,From Investments,12  Mar-18*,-590.0,PUNL
+218,From Financial Activity,12  Mar-18*,-6909.0,PUNL
+219,Net Cashflow,12  Mar-18*,-2507.0,PUNL

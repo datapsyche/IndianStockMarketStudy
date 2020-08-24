@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-14*,52846.0,BILT
+1,Other income,12  Jun-14*,340.0,BILT
+2,Total revenues,12  Jun-14*,53186.0,BILT
+3,Gross profit,12  Jun-14*,8914.0,BILT
+4,Depreciation,12  Jun-14*,4956.0,BILT
+5,Interest,12  Jun-14*,4003.0,BILT
+6,Profit before tax,12  Jun-14*,296.0,BILT
+7,Minority Interest,12  Jun-14*,-119.0,BILT
+8,Prior Period Items,12  Jun-14*,0.0,BILT
+9,Extraordinary Inc (Exp),12  Jun-14*,0.0,BILT
+10,Tax,12  Jun-14*,-321.0,BILT
+11,Profit after tax,12  Jun-14*,498.0,BILT
+12,Gross profit margin,12  Jun-14*,16.9,BILT
+13,Effective tax rate,12  Jun-14*,-108.7,BILT
+14,Net profit margin,12  Jun-14*,0.9,BILT
+15,Current assets,12  Jun-14*,28671.0,BILT
+16,Current liabilities,12  Jun-14*,42969.0,BILT
+17,Net working cap to sales,12  Jun-14*,-27.1,BILT
+18,Current ratio,12  Jun-14*,0.7,BILT
+19,Inventory Days,12  Jun-14*,101.0,BILT
+20,Debtors Days,12  Jun-14*,33.0,BILT
+21,Net fixed assets,12  Jun-14*,84477.0,BILT
+22,Share capital,12  Jun-14*,1311.0,BILT
+23,"""Free"" reserves",12  Jun-14*,15962.0,BILT
+24,Net worth,12  Jun-14*,35924.0,BILT
+25,Long term debt,12  Jun-14*,36237.0,BILT
+26,Total assets,12  Jun-14*,122987.0,BILT
+27,Interest coverage,12  Jun-14*,1.1,BILT
+28,Debt to equity ratio,12  Jun-14*,1.0,BILT
+29,Sales to assets ratio,12  Jun-14*,0.4,BILT
+30,Return on assets,12  Jun-14*,3.7,BILT
+31,Return on equity,12  Jun-14*,1.4,BILT
+32,Return on capital,12  Jun-14*,5.8,BILT
+33,Exports to sales,12  Jun-14*,0.0,BILT
+34,Imports to sales,12  Jun-14*,0.5,BILT
+35,Exports (fob),12  Jun-14*,0.0,BILT
+36,Imports (cif),12  Jun-14*,252.0,BILT
+37,Fx inflow,12  Jun-14*,0.0,BILT
+38,Fx outflow,12  Jun-14*,261.0,BILT
+39,Net fx,12  Jun-14*,-261.0,BILT
+40,From Operations,12  Jun-14*,9717.0,BILT
+41,From Investments,12  Jun-14*,-8184.0,BILT
+42,From Financial Activity,12  Jun-14*,-1161.0,BILT
+43,Net Cashflow,12  Jun-14*,372.0,BILT
+44,Net Sales,9  Mar-15*,32386.0,BILT
+45,Other income,9  Mar-15*,1598.0,BILT
+46,Total revenues,9  Mar-15*,33984.0,BILT
+47,Gross profit,9  Mar-15*,3081.0,BILT
+48,Depreciation,9  Mar-15*,2030.0,BILT
+49,Interest,9  Mar-15*,2762.0,BILT
+50,Profit before tax,9  Mar-15*,-113.0,BILT
+51,Minority Interest,9  Mar-15*,-256.0,BILT
+52,Prior Period Items,9  Mar-15*,0.0,BILT
+53,Extraordinary Inc (Exp),9  Mar-15*,0.0,BILT
+54,Tax,9  Mar-15*,-155.0,BILT
+55,Profit after tax,9  Mar-15*,-214.0,BILT
+56,Gross profit margin,9  Mar-15*,9.5,BILT
+57,Effective tax rate,9  Mar-15*,137.2,BILT
+58,Net profit margin,9  Mar-15*,-0.7,BILT
+59,Current assets,9  Mar-15*,28352.0,BILT
+60,Current liabilities,9  Mar-15*,42014.0,BILT
+61,Net working cap to sales,9  Mar-15*,-42.2,BILT
+62,Current ratio,9  Mar-15*,0.7,BILT
+63,Inventory Days,9  Mar-15*,161.0,BILT
+64,Debtors Days,9  Mar-15*,58.0,BILT
+65,Net fixed assets,9  Mar-15*,81912.0,BILT
+66,Share capital,9  Mar-15*,1311.0,BILT
+67,"""Free"" reserves",9  Mar-15*,15171.0,BILT
+68,Net worth,9  Mar-15*,32020.0,BILT
+69,Long term debt,9  Mar-15*,33544.0,BILT
+70,Total assets,9  Mar-15*,120728.0,BILT
+71,Interest coverage,9  Mar-15*,1.0,BILT
+72,Debt to equity ratio,9  Mar-15*,1.0,BILT
+73,Sales to assets ratio,9  Mar-15*,0.3,BILT
+74,Return on assets,9  Mar-15*,2.1,BILT
+75,Return on equity,9  Mar-15*,-0.7,BILT
+76,Return on capital,9  Mar-15*,3.7,BILT
+77,Exports to sales,9  Mar-15*,0.0,BILT
+78,Imports to sales,9  Mar-15*,1.2,BILT
+79,Exports (fob),9  Mar-15*,6.0,BILT
+80,Imports (cif),9  Mar-15*,388.0,BILT
+81,Fx inflow,9  Mar-15*,6.0,BILT
+82,Fx outflow,9  Mar-15*,389.0,BILT
+83,Net fx,9  Mar-15*,-383.0,BILT
+84,From Operations,9  Mar-15*,6853.0,BILT
+85,From Investments,9  Mar-15*,-3040.0,BILT
+86,From Financial Activity,9  Mar-15*,-3974.0,BILT
+87,Net Cashflow,9  Mar-15*,-162.0,BILT
+88,Net Sales,12  Mar-16*,42768.0,BILT
+89,Other income,12  Mar-16*,447.0,BILT
+90,Total revenues,12  Mar-16*,43215.0,BILT
+91,Gross profit,12  Mar-16*,4455.0,BILT
+92,Depreciation,12  Mar-16*,2646.0,BILT
+93,Interest,12  Mar-16*,4632.0,BILT
+94,Profit before tax,12  Mar-16*,-2375.0,BILT
+95,Minority Interest,12  Mar-16*,693.0,BILT
+96,Prior Period Items,12  Mar-16*,0.0,BILT
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,BILT
+98,Tax,12  Mar-16*,-81.0,BILT
+99,Profit after tax,12  Mar-16*,-1601.0,BILT
+100,Gross profit margin,12  Mar-16*,10.4,BILT
+101,Effective tax rate,12  Mar-16*,3.4,BILT
+102,Net profit margin,12  Mar-16*,-3.7,BILT
+103,Current assets,12  Mar-16*,31285.0,BILT
+104,Current liabilities,12  Mar-16*,45700.0,BILT
+105,Net working cap to sales,12  Mar-16*,-33.7,BILT
+106,Current ratio,12  Mar-16*,0.7,BILT
+107,Inventory Days,12  Mar-16*,131.0,BILT
+108,Debtors Days,12  Mar-16*,44.0,BILT
+109,Net fixed assets,12  Mar-16*,82504.0,BILT
+110,Share capital,12  Mar-16*,1311.0,BILT
+111,"""Free"" reserves",12  Mar-16*,13005.0,BILT
+112,Net worth,12  Mar-16*,27664.0,BILT
+113,Long term debt,12  Mar-16*,42516.0,BILT
+114,Total assets,12  Mar-16*,127877.0,BILT
+115,Interest coverage,12  Mar-16*,0.5,BILT
+116,Debt to equity ratio,12  Mar-16*,1.5,BILT
+117,Sales to assets ratio,12  Mar-16*,0.3,BILT
+118,Return on assets,12  Mar-16*,2.4,BILT
+119,Return on equity,12  Mar-16*,-5.8,BILT
+120,Return on capital,12  Mar-16*,4.2,BILT
+121,Exports to sales,12  Mar-16*,0.2,BILT
+122,Imports to sales,12  Mar-16*,0.2,BILT
+123,Exports (fob),12  Mar-16*,68.0,BILT
+124,Imports (cif),12  Mar-16*,102.0,BILT
+125,Fx inflow,12  Mar-16*,68.0,BILT
+126,Fx outflow,12  Mar-16*,104.0,BILT
+127,Net fx,12  Mar-16*,-36.0,BILT
+128,From Operations,12  Mar-16*,2161.0,BILT
+129,From Investments,12  Mar-16*,-3815.0,BILT
+130,From Financial Activity,12  Mar-16*,4316.0,BILT
+131,Net Cashflow,12  Mar-16*,2662.0,BILT
+132,Net Sales,12  Mar-17*,20587.0,BILT
+133,Other income,12  Mar-17*,651.0,BILT
+134,Total revenues,12  Mar-17*,21238.0,BILT
+135,Gross profit,12  Mar-17*,-6182.0,BILT
+136,Depreciation,12  Mar-17*,2645.0,BILT
+137,Interest,12  Mar-17*,8992.0,BILT
+138,Profit before tax,12  Mar-17*,-17168.0,BILT
+139,Minority Interest,12  Mar-17*,0.0,BILT
+140,Prior Period Items,12  Mar-17*,0.0,BILT
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,BILT
+142,Tax,12  Mar-17*,-1354.0,BILT
+143,Profit after tax,12  Mar-17*,-15814.0,BILT
+144,Gross profit margin,12  Mar-17*,-30.0,BILT
+145,Effective tax rate,12  Mar-17*,7.9,BILT
+146,Net profit margin,12  Mar-17*,-76.8,BILT
+147,Current assets,12  Mar-17*,46681.0,BILT
+148,Current liabilities,12  Mar-17*,91663.0,BILT
+149,Net working cap to sales,12  Mar-17*,-218.5,BILT
+150,Current ratio,12  Mar-17*,0.5,BILT
+151,Inventory Days,12  Mar-17*,97.0,BILT
+152,Debtors Days,12  Mar-17*,12.0,BILT
+153,Net fixed assets,12  Mar-17*,82471.0,BILT
+154,Share capital,12  Mar-17*,1311.0,BILT
+155,"""Free"" reserves",12  Mar-17*,-2060.0,BILT
+156,Net worth,12  Mar-17*,-749.0,BILT
+157,Long term debt,12  Mar-17*,35108.0,BILT
+158,Total assets,12  Mar-17*,132189.0,BILT
+159,Interest coverage,12  Mar-17*,-0.9,BILT
+160,Debt to equity ratio,12  Mar-17*,-46.9,BILT
+161,Sales to assets ratio,12  Mar-17*,0.2,BILT
+162,Return on assets,12  Mar-17*,-5.2,BILT
+163,Return on equity,12  Mar-17*,2111.3,BILT
+164,Return on capital,12  Mar-17*,-23.8,BILT
+165,Exports to sales,12  Mar-17*,0.0,BILT
+166,Imports to sales,12  Mar-17*,0.0,BILT
+167,Exports (fob),12  Mar-17*,0.0,BILT
+168,Imports (cif),12  Mar-17*,0.0,BILT
+169,Fx inflow,12  Mar-17*,32.0,BILT
+170,Fx outflow,12  Mar-17*,4.0,BILT
+171,Net fx,12  Mar-17*,27.0,BILT
+172,From Operations,12  Mar-17*,-8058.0,BILT
+173,From Investments,12  Mar-17*,-1074.0,BILT
+174,From Financial Activity,12  Mar-17*,6957.0,BILT
+175,Net Cashflow,12  Mar-17*,-1323.0,BILT
+176,Net Sales,12  Mar-18*,25187.0,BILT
+177,Other income,12  Mar-18*,260.0,BILT
+178,Total revenues,12  Mar-18*,25447.0,BILT
+179,Gross profit,12  Mar-18*,1357.0,BILT
+180,Depreciation,12  Mar-18*,2767.0,BILT
+181,Interest,12  Mar-18*,9156.0,BILT
+182,Profit before tax,12  Mar-18*,-10305.0,BILT
+183,Minority Interest,12  Mar-18*,0.0,BILT
+184,Prior Period Items,12  Mar-18*,0.0,BILT
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,BILT
+186,Tax,12  Mar-18*,-1664.0,BILT
+187,Profit after tax,12  Mar-18*,-8641.0,BILT
+188,Gross profit margin,12  Mar-18*,5.4,BILT
+189,Effective tax rate,12  Mar-18*,16.1,BILT
+190,Net profit margin,12  Mar-18*,-34.3,BILT
+191,Current assets,12  Mar-18*,36026.0,BILT
+192,Current liabilities,12  Mar-18*,64198.0,BILT
+193,Net working cap to sales,12  Mar-18*,-111.9,BILT
+194,Current ratio,12  Mar-18*,0.6,BILT
+195,Inventory Days,12  Mar-18*,51.0,BILT
+196,Debtors Days,12  Mar-18*,13.0,BILT
+197,Net fixed assets,12  Mar-18*,75564.0,BILT
+198,Share capital,12  Mar-18*,2587.0,BILT
+199,"""Free"" reserves",12  Mar-18*,558.0,BILT
+200,Net worth,12  Mar-18*,3145.0,BILT
+201,Long term debt,12  Mar-18*,47954.0,BILT
+202,Total assets,12  Mar-18*,115172.0,BILT
+203,Interest coverage,12  Mar-18*,-0.1,BILT
+204,Debt to equity ratio,12  Mar-18*,15.2,BILT
+205,Sales to assets ratio,12  Mar-18*,0.2,BILT
+206,Return on assets,12  Mar-18*,0.4,BILT
+207,Return on equity,12  Mar-18*,-274.8,BILT
+208,Return on capital,12  Mar-18*,-2.2,BILT
+209,Exports to sales,12  Mar-18*,0.0,BILT
+210,Imports to sales,12  Mar-18*,0.0,BILT
+211,Exports (fob),12  Mar-18*,0.0,BILT
+212,Imports (cif),12  Mar-18*,0.0,BILT
+213,Fx inflow,12  Mar-18*,98.0,BILT
+214,Fx outflow,12  Mar-18*,48.0,BILT
+215,Net fx,12  Mar-18*,50.0,BILT
+216,From Operations,12  Mar-18*,4172.0,BILT
+217,From Investments,12  Mar-18*,-420.0,BILT
+218,From Financial Activity,12  Mar-18*,-4397.0,BILT
+219,Net Cashflow,12  Mar-18*,287.0,BILT

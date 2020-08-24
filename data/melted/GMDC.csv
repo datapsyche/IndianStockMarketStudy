@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,12897.0,GMDC
+1,Other income,12  Mar-14*,1454.0,GMDC
+2,Total revenues,12  Mar-14*,14351.0,GMDC
+3,Gross profit,12  Mar-14*,6087.0,GMDC
+4,Depreciation,12  Mar-14*,1246.0,GMDC
+5,Interest,12  Mar-14*,0.0,GMDC
+6,Profit before tax,12  Mar-14*,6296.0,GMDC
+7,Minority Interest,12  Mar-14*,0.0,GMDC
+8,Prior Period Items,12  Mar-14*,0.0,GMDC
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,GMDC
+10,Tax,12  Mar-14*,1905.0,GMDC
+11,Profit after tax,12  Mar-14*,4391.0,GMDC
+12,Gross profit margin,12  Mar-14*,47.2,GMDC
+13,Effective tax rate,12  Mar-14*,30.3,GMDC
+14,Net profit margin,12  Mar-14*,34.0,GMDC
+15,Current assets,12  Mar-14*,12978,GMDC
+16,Current liabilities,12  Mar-14*,3519,GMDC
+17,Net working cap to sales,12  Mar-14*,73.3,GMDC
+18,Current ratio,12  Mar-14*,3.7,GMDC
+19,Inventory Days,12  Mar-14*,13,GMDC
+20,Debtors Days,12  Mar-14*,15,GMDC
+21,Net fixed assets,12  Mar-14*,18736,GMDC
+22,Share capital,12  Mar-14*,636,GMDC
+23,"""Free"" reserves",12  Mar-14*,27988,GMDC
+24,Net worth,12  Mar-14*,28624,GMDC
+25,Long term debt,12  Mar-14*,0,GMDC
+26,Total assets,12  Mar-14*,39450,GMDC
+27,Interest coverage,12  Mar-14*,NM,GMDC
+28,Debt to equity ratio,12  Mar-14*,0,GMDC
+29,Sales to assets ratio,12  Mar-14*,0.3,GMDC
+30,Return on assets,12  Mar-14*,11.1,GMDC
+31,Return on equity,12  Mar-14*,15.3,GMDC
+32,Return on capital,12  Mar-14*,22.0,GMDC
+33,Exports to sales,12  Mar-14*,0,GMDC
+34,Imports to sales,12  Mar-14*,0.1,GMDC
+35,Exports (fob),12  Mar-14*,0,GMDC
+36,Imports (cif),12  Mar-14*,9,GMDC
+37,Fx inflow,12  Mar-14*,0,GMDC
+38,Fx outflow,12  Mar-14*,9,GMDC
+39,Net fx,12  Mar-14*,-9,GMDC
+40,From Operations,12  Mar-14*,2864,GMDC
+41,From Investments,12  Mar-14*,-1899,GMDC
+42,From Financial Activity,12  Mar-14*,-1115,GMDC
+43,Net Cashflow,12  Mar-14*,-150,GMDC
+44,Net Sales,12  Mar-15*,14393.0,GMDC
+45,Other income,12  Mar-15*,1443.0,GMDC
+46,Total revenues,12  Mar-15*,15835.0,GMDC
+47,Gross profit,12  Mar-15*,5242.0,GMDC
+48,Depreciation,12  Mar-15*,1384.0,GMDC
+49,Interest,12  Mar-15*,24.0,GMDC
+50,Profit before tax,12  Mar-15*,5278.0,GMDC
+51,Minority Interest,12  Mar-15*,0.0,GMDC
+52,Prior Period Items,12  Mar-15*,0.0,GMDC
+53,Extraordinary Inc (Exp),12  Mar-15*,1092.0,GMDC
+54,Tax,12  Mar-15*,1360.0,GMDC
+55,Profit after tax,12  Mar-15*,5009.0,GMDC
+56,Gross profit margin,12  Mar-15*,36.4,GMDC
+57,Effective tax rate,12  Mar-15*,25.8,GMDC
+58,Net profit margin,12  Mar-15*,34.8,GMDC
+59,Current assets,12  Mar-15*,13317.0,GMDC
+60,Current liabilities,12  Mar-15*,3500.0,GMDC
+61,Net working cap to sales,12  Mar-15*,68.2,GMDC
+62,Current ratio,12  Mar-15*,3.8,GMDC
+63,Inventory Days,12  Mar-15*,13.0,GMDC
+64,Debtors Days,12  Mar-15*,21.0,GMDC
+65,Net fixed assets,12  Mar-15*,27289.0,GMDC
+66,Share capital,12  Mar-15*,636.0,GMDC
+67,"""Free"" reserves",12  Mar-15*,35710.0,GMDC
+68,Net worth,12  Mar-15*,36346.0,GMDC
+69,Long term debt,12  Mar-15*,0.0,GMDC
+70,Total assets,12  Mar-15*,45333.0,GMDC
+71,Interest coverage,12  Mar-15*,224.6,GMDC
+72,Debt to equity ratio,12  Mar-15*,0.0,GMDC
+73,Sales to assets ratio,12  Mar-15*,0.3,GMDC
+74,Return on assets,12  Mar-15*,11.1,GMDC
+75,Return on equity,12  Mar-15*,13.8,GMDC
+76,Return on capital,12  Mar-15*,17.6,GMDC
+77,Exports to sales,12  Mar-15*,0.0,GMDC
+78,Imports to sales,12  Mar-15*,0.0,GMDC
+79,Exports (fob),12  Mar-15*,0.0,GMDC
+80,Imports (cif),12  Mar-15*,0.0,GMDC
+81,Fx inflow,12  Mar-15*,0.0,GMDC
+82,Fx outflow,12  Mar-15*,0.0,GMDC
+83,Net fx,12  Mar-15*,0.0,GMDC
+84,From Operations,12  Mar-15*,1011.0,GMDC
+85,From Investments,12  Mar-15*,-129.0,GMDC
+86,From Financial Activity,12  Mar-15*,-1114.0,GMDC
+87,Net Cashflow,12  Mar-15*,-232.0,GMDC
+88,Net Sales,12  Mar-16*,11787.0,GMDC
+89,Other income,12  Mar-16*,1550.0,GMDC
+90,Total revenues,12  Mar-16*,13337.0,GMDC
+91,Gross profit,12  Mar-16*,2888.0,GMDC
+92,Depreciation,12  Mar-16*,1307.0,GMDC
+93,Interest,12  Mar-16*,11.0,GMDC
+94,Profit before tax,12  Mar-16*,3120.0,GMDC
+95,Minority Interest,12  Mar-16*,0.0,GMDC
+96,Prior Period Items,12  Mar-16*,7.0,GMDC
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,GMDC
+98,Tax,12  Mar-16*,937.0,GMDC
+99,Profit after tax,12  Mar-16*,2190.0,GMDC
+100,Gross profit margin,12  Mar-16*,24.5,GMDC
+101,Effective tax rate,12  Mar-16*,30.0,GMDC
+102,Net profit margin,12  Mar-16*,18.6,GMDC
+103,Current assets,12  Mar-16*,16284.0,GMDC
+104,Current liabilities,12  Mar-16*,4084.0,GMDC
+105,Net working cap to sales,12  Mar-16*,103.5,GMDC
+106,Current ratio,12  Mar-16*,4.0,GMDC
+107,Inventory Days,12  Mar-16*,13.0,GMDC
+108,Debtors Days,12  Mar-16*,28.0,GMDC
+109,Net fixed assets,12  Mar-16*,29457.0,GMDC
+110,Share capital,12  Mar-16*,636.0,GMDC
+111,"""Free"" reserves",12  Mar-16*,36248.0,GMDC
+112,Net worth,12  Mar-16*,36884.0,GMDC
+113,Long term debt,12  Mar-16*,0.0,GMDC
+114,Total assets,12  Mar-16*,46945.0,GMDC
+115,Interest coverage,12  Mar-16*,295.4,GMDC
+116,Debt to equity ratio,12  Mar-16*,0.0,GMDC
+117,Sales to assets ratio,12  Mar-16*,0.3,GMDC
+118,Return on assets,12  Mar-16*,4.7,GMDC
+119,Return on equity,12  Mar-16*,5.9,GMDC
+120,Return on capital,12  Mar-16*,8.5,GMDC
+121,Exports to sales,12  Mar-16*,0.0,GMDC
+122,Imports to sales,12  Mar-16*,0.0,GMDC
+123,Exports (fob),12  Mar-16*,0.0,GMDC
+124,Imports (cif),12  Mar-16*,0.0,GMDC
+125,Fx inflow,12  Mar-16*,0.0,GMDC
+126,Fx outflow,12  Mar-16*,0.0,GMDC
+127,Net fx,12  Mar-16*,0.0,GMDC
+128,From Operations,12  Mar-16*,2043.0,GMDC
+129,From Investments,12  Mar-16*,-669.0,GMDC
+130,From Financial Activity,12  Mar-16*,-1149.0,GMDC
+131,Net Cashflow,12  Mar-16*,225.0,GMDC
+132,Net Sales,12  Mar-17*,15367.0,GMDC
+133,Other income,12  Mar-17*,1815.0,GMDC
+134,Total revenues,12  Mar-17*,17181.0,GMDC
+135,Gross profit,12  Mar-17*,4184.0,GMDC
+136,Depreciation,12  Mar-17*,1513.0,GMDC
+137,Interest,12  Mar-17*,13.0,GMDC
+138,Profit before tax,12  Mar-17*,4473.0,GMDC
+139,Minority Interest,12  Mar-17*,0.0,GMDC
+140,Prior Period Items,12  Mar-17*,-5.0,GMDC
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,GMDC
+142,Tax,12  Mar-17*,1218.0,GMDC
+143,Profit after tax,12  Mar-17*,3251.0,GMDC
+144,Gross profit margin,12  Mar-17*,27.2,GMDC
+145,Effective tax rate,12  Mar-17*,27.2,GMDC
+146,Net profit margin,12  Mar-17*,21.2,GMDC
+147,Current assets,12  Mar-17*,14412.0,GMDC
+148,Current liabilities,12  Mar-17*,4373.0,GMDC
+149,Net working cap to sales,12  Mar-17*,65.3,GMDC
+150,Current ratio,12  Mar-17*,3.3,GMDC
+151,Inventory Days,12  Mar-17*,16.0,GMDC
+152,Debtors Days,12  Mar-17*,28.0,GMDC
+153,Net fixed assets,12  Mar-17*,23008.0,GMDC
+154,Share capital,12  Mar-17*,636.0,GMDC
+155,"""Free"" reserves",12  Mar-17*,39370.0,GMDC
+156,Net worth,12  Mar-17*,40006.0,GMDC
+157,Long term debt,12  Mar-17*,0.0,GMDC
+158,Total assets,12  Mar-17*,51141.0,GMDC
+159,Interest coverage,12  Mar-17*,337.3,GMDC
+160,Debt to equity ratio,12  Mar-17*,0.0,GMDC
+161,Sales to assets ratio,12  Mar-17*,0.3,GMDC
+162,Return on assets,12  Mar-17*,6.4,GMDC
+163,Return on equity,12  Mar-17*,8.1,GMDC
+164,Return on capital,12  Mar-17*,11.2,GMDC
+165,Exports to sales,12  Mar-17*,0.0,GMDC
+166,Imports to sales,12  Mar-17*,0.0,GMDC
+167,Exports (fob),12  Mar-17*,0.0,GMDC
+168,Imports (cif),12  Mar-17*,0.0,GMDC
+169,Fx inflow,12  Mar-17*,0.0,GMDC
+170,Fx outflow,12  Mar-17*,0.0,GMDC
+171,Net fx,12  Mar-17*,0.0,GMDC
+172,From Operations,12  Mar-17*,4525.0,GMDC
+173,From Investments,12  Mar-17*,-3503.0,GMDC
+174,From Financial Activity,12  Mar-17*,-1149.0,GMDC
+175,Net Cashflow,12  Mar-17*,-127.0,GMDC
+176,Net Sales,12  Mar-18*,20509.0,GMDC
+177,Other income,12  Mar-18*,1220.0,GMDC
+178,Total revenues,12  Mar-18*,21730.0,GMDC
+179,Gross profit,12  Mar-18*,5475.0,GMDC
+180,Depreciation,12  Mar-18*,1117.0,GMDC
+181,Interest,12  Mar-18*,16.0,GMDC
+182,Profit before tax,12  Mar-18*,5563.0,GMDC
+183,Minority Interest,12  Mar-18*,0.0,GMDC
+184,Prior Period Items,12  Mar-18*,-809.0,GMDC
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,GMDC
+186,Tax,12  Mar-18*,1223.0,GMDC
+187,Profit after tax,12  Mar-18*,3531.0,GMDC
+188,Gross profit margin,12  Mar-18*,26.7,GMDC
+189,Effective tax rate,12  Mar-18*,22.0,GMDC
+190,Net profit margin,12  Mar-18*,17.2,GMDC
+191,Current assets,12  Mar-18*,14664.0,GMDC
+192,Current liabilities,12  Mar-18*,4038.0,GMDC
+193,Net working cap to sales,12  Mar-18*,51.8,GMDC
+194,Current ratio,12  Mar-18*,3.6,GMDC
+195,Inventory Days,12  Mar-18*,13.0,GMDC
+196,Debtors Days,12  Mar-18*,20.0,GMDC
+197,Net fixed assets,12  Mar-18*,24159.0,GMDC
+198,Share capital,12  Mar-18*,636.0,GMDC
+199,"""Free"" reserves",12  Mar-18*,42883.0,GMDC
+200,Net worth,12  Mar-18*,43519.0,GMDC
+201,Long term debt,12  Mar-18*,0.0,GMDC
+202,Total assets,12  Mar-18*,54230.0,GMDC
+203,Interest coverage,12  Mar-18*,342.3,GMDC
+204,Debt to equity ratio,12  Mar-18*,0.0,GMDC
+205,Sales to assets ratio,12  Mar-18*,0.4,GMDC
+206,Return on assets,12  Mar-18*,6.5,GMDC
+207,Return on equity,12  Mar-18*,8.1,GMDC
+208,Return on capital,12  Mar-18*,11.0,GMDC
+209,Exports to sales,12  Mar-18*,0.0,GMDC
+210,Imports to sales,12  Mar-18*,0.0,GMDC
+211,Exports (fob),12  Mar-18*,0.0,GMDC
+212,Imports (cif),12  Mar-18*,0.0,GMDC
+213,Fx inflow,12  Mar-18*,0.0,GMDC
+214,Fx outflow,12  Mar-18*,0.0,GMDC
+215,Net fx,12  Mar-18*,0.0,GMDC
+216,From Operations,12  Mar-18*,2587.0,GMDC
+217,From Investments,12  Mar-18*,-1375.0,GMDC
+218,From Financial Activity,12  Mar-18*,-1148.0,GMDC
+219,Net Cashflow,12  Mar-18*,64.0,GMDC

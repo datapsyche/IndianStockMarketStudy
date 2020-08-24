@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,31597.0,KHRB
+1,Other income,12  Mar-15*,436.0,KHRB
+2,Total revenues,12  Mar-15*,32033.0,KHRB
+3,Gross profit,12  Mar-15*,4882.0,KHRB
+4,Depreciation,12  Mar-15*,527.0,KHRB
+5,Interest,12  Mar-15*,809.0,KHRB
+6,Profit before tax,12  Mar-15*,3983.0,KHRB
+7,Minority Interest,12  Mar-15*,0.0,KHRB
+8,Prior Period Items,12  Mar-15*,0.0,KHRB
+9,Extraordinary Inc (Exp),12  Mar-15*,-42.0,KHRB
+10,Tax,12  Mar-15*,724.0,KHRB
+11,Profit after tax,12  Mar-15*,3217.0,KHRB
+12,Gross profit margin,12  Mar-15*,15.5,KHRB
+13,Effective tax rate,12  Mar-15*,18.2,KHRB
+14,Net profit margin,12  Mar-15*,10.2,KHRB
+15,Current assets,12  Mar-15*,22902.0,KHRB
+16,Current liabilities,12  Mar-15*,14512.0,KHRB
+17,Net working cap to sales,12  Mar-15*,26.6,KHRB
+18,Current ratio,12  Mar-15*,1.6,KHRB
+19,Inventory Days,12  Mar-15*,227.0,KHRB
+20,Debtors Days,12  Mar-15*,26.0,KHRB
+21,Net fixed assets,12  Mar-15*,7470.0,KHRB
+22,Share capital,12  Mar-15*,235.0,KHRB
+23,"""Free"" reserves",12  Mar-15*,12605.0,KHRB
+24,Net worth,12  Mar-15*,12840.0,KHRB
+25,Long term debt,12  Mar-15*,2425.0,KHRB
+26,Total assets,12  Mar-15*,30611.0,KHRB
+27,Interest coverage,12  Mar-15*,5.9,KHRB
+28,Debt to equity ratio,12  Mar-15*,0.2,KHRB
+29,Sales to assets ratio,12  Mar-15*,1.0,KHRB
+30,Return on assets,12  Mar-15*,13.2,KHRB
+31,Return on equity,12  Mar-15*,25.1,KHRB
+32,Return on capital,12  Mar-15*,31.1,KHRB
+33,Exports to sales,12  Mar-15*,40.2,KHRB
+34,Imports to sales,12  Mar-15*,0.1,KHRB
+35,Exports (fob),12  Mar-15*,12716.0,KHRB
+36,Imports (cif),12  Mar-15*,37.0,KHRB
+37,Fx inflow,12  Mar-15*,25452.0,KHRB
+38,Fx outflow,12  Mar-15*,321.0,KHRB
+39,Net fx,12  Mar-15*,25132.0,KHRB
+40,From Operations,12  Mar-15*,3365.0,KHRB
+41,From Investments,12  Mar-15*,-2315.0,KHRB
+42,From Financial Activity,12  Mar-15*,-1469.0,KHRB
+43,Net Cashflow,12  Mar-15*,-419.0,KHRB
+44,Net Sales,12  Mar-16*,33628.0,KHRB
+45,Other income,12  Mar-16*,612.0,KHRB
+46,Total revenues,12  Mar-16*,34240.0,KHRB
+47,Gross profit,12  Mar-16*,4468.0,KHRB
+48,Depreciation,12  Mar-16*,498.0,KHRB
+49,Interest,12  Mar-16*,675.0,KHRB
+50,Profit before tax,12  Mar-16*,3908.0,KHRB
+51,Minority Interest,12  Mar-16*,0.0,KHRB
+52,Prior Period Items,12  Mar-16*,0.0,KHRB
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,KHRB
+54,Tax,12  Mar-16*,977.0,KHRB
+55,Profit after tax,12  Mar-16*,2931.0,KHRB
+56,Gross profit margin,12  Mar-16*,13.3,KHRB
+57,Effective tax rate,12  Mar-16*,25.0,KHRB
+58,Net profit margin,12  Mar-16*,8.7,KHRB
+59,Current assets,12  Mar-16*,20607.0,KHRB
+60,Current liabilities,12  Mar-16*,11833.0,KHRB
+61,Net working cap to sales,12  Mar-16*,26.1,KHRB
+62,Current ratio,12  Mar-16*,1.7,KHRB
+63,Inventory Days,12  Mar-16*,195.0,KHRB
+64,Debtors Days,12  Mar-16*,17.0,KHRB
+65,Net fixed assets,12  Mar-16*,8693.0,KHRB
+66,Share capital,12  Mar-16*,235.0,KHRB
+67,"""Free"" reserves",12  Mar-16*,14748.0,KHRB
+68,Net worth,12  Mar-16*,14983.0,KHRB
+69,Long term debt,12  Mar-16*,2032.0,KHRB
+70,Total assets,12  Mar-16*,29808.0,KHRB
+71,Interest coverage,12  Mar-16*,6.8,KHRB
+72,Debt to equity ratio,12  Mar-16*,0.1,KHRB
+73,Sales to assets ratio,12  Mar-16*,1.1,KHRB
+74,Return on assets,12  Mar-16*,12.1,KHRB
+75,Return on equity,12  Mar-16*,19.6,KHRB
+76,Return on capital,12  Mar-16*,26.9,KHRB
+77,Exports to sales,12  Mar-16*,52.5,KHRB
+78,Imports to sales,12  Mar-16*,0.3,KHRB
+79,Exports (fob),12  Mar-16*,17662.0,KHRB
+80,Imports (cif),12  Mar-16*,90.0,KHRB
+81,Fx inflow,12  Mar-16*,35377.0,KHRB
+82,Fx outflow,12  Mar-16*,238.0,KHRB
+83,Net fx,12  Mar-16*,35140.0,KHRB
+84,From Operations,12  Mar-16*,5103.0,KHRB
+85,From Investments,12  Mar-16*,-1739.0,KHRB
+86,From Financial Activity,12  Mar-16*,-3325.0,KHRB
+87,Net Cashflow,12  Mar-16*,40.0,KHRB
+88,Net Sales,12  Mar-17*,31477.0,KHRB
+89,Other income,12  Mar-17*,103.0,KHRB
+90,Total revenues,12  Mar-17*,31579.0,KHRB
+91,Gross profit,12  Mar-17*,6435.0,KHRB
+92,Depreciation,12  Mar-17*,614.0,KHRB
+93,Interest,12  Mar-17*,548.0,KHRB
+94,Profit before tax,12  Mar-17*,5376.0,KHRB
+95,Minority Interest,12  Mar-17*,0.0,KHRB
+96,Prior Period Items,12  Mar-17*,0.0,KHRB
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,KHRB
+98,Tax,12  Mar-17*,1382.0,KHRB
+99,Profit after tax,12  Mar-17*,3994.0,KHRB
+100,Gross profit margin,12  Mar-17*,20.4,KHRB
+101,Effective tax rate,12  Mar-17*,25.7,KHRB
+102,Net profit margin,12  Mar-17*,12.7,KHRB
+103,Current assets,12  Mar-17*,23531.0,KHRB
+104,Current liabilities,12  Mar-17*,13081.0,KHRB
+105,Net working cap to sales,12  Mar-17*,33.2,KHRB
+106,Current ratio,12  Mar-17*,1.8,KHRB
+107,Inventory Days,12  Mar-17*,234.0,KHRB
+108,Debtors Days,12  Mar-17*,27.0,KHRB
+109,Net fixed assets,12  Mar-17*,10149.0,KHRB
+110,Share capital,12  Mar-17*,235.0,KHRB
+111,"""Free"" reserves",12  Mar-17*,18838.0,KHRB
+112,Net worth,12  Mar-17*,19073.0,KHRB
+113,Long term debt,12  Mar-17*,873.0,KHRB
+114,Total assets,12  Mar-17*,34222.0,KHRB
+115,Interest coverage,12  Mar-17*,10.8,KHRB
+116,Debt to equity ratio,12  Mar-17*,0.0,KHRB
+117,Sales to assets ratio,12  Mar-17*,0.9,KHRB
+118,Return on assets,12  Mar-17*,13.3,KHRB
+119,Return on equity,12  Mar-17*,20.9,KHRB
+120,Return on capital,12  Mar-17*,29.7,KHRB
+121,Exports to sales,12  Mar-17*,34.2,KHRB
+122,Imports to sales,12  Mar-17*,0.1,KHRB
+123,Exports (fob),12  Mar-17*,10781.0,KHRB
+124,Imports (cif),12  Mar-17*,41.0,KHRB
+125,Fx inflow,12  Mar-17*,21451.0,KHRB
+126,Fx outflow,12  Mar-17*,250.0,KHRB
+127,Net fx,12  Mar-17*,21201.0,KHRB
+128,From Operations,12  Mar-17*,2583.0,KHRB
+129,From Investments,12  Mar-17*,-2079.0,KHRB
+130,From Financial Activity,12  Mar-17*,-737.0,KHRB
+131,Net Cashflow,12  Mar-17*,-233.0,KHRB
+132,Net Sales,12  Mar-18*,32457.0,KHRB
+133,Other income,12  Mar-18*,178.0,KHRB
+134,Total revenues,12  Mar-18*,32635.0,KHRB
+135,Gross profit,12  Mar-18*,7739.0,KHRB
+136,Depreciation,12  Mar-18*,678.0,KHRB
+137,Interest,12  Mar-18*,690.0,KHRB
+138,Profit before tax,12  Mar-18*,6550.0,KHRB
+139,Minority Interest,12  Mar-18*,0.0,KHRB
+140,Prior Period Items,12  Mar-18*,0.0,KHRB
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,KHRB
+142,Tax,12  Mar-18*,2206.0,KHRB
+143,Profit after tax,12  Mar-18*,4344.0,KHRB
+144,Gross profit margin,12  Mar-18*,23.8,KHRB
+145,Effective tax rate,12  Mar-18*,33.7,KHRB
+146,Net profit margin,12  Mar-18*,13.4,KHRB
+147,Current assets,12  Mar-18*,28339.0,KHRB
+148,Current liabilities,12  Mar-18*,13797.0,KHRB
+149,Net working cap to sales,12  Mar-18*,44.8,KHRB
+150,Current ratio,12  Mar-18*,2.1,KHRB
+151,Inventory Days,12  Mar-18*,277.0,KHRB
+152,Debtors Days,12  Mar-18*,28.0,KHRB
+153,Net fixed assets,12  Mar-18*,9842.0,KHRB
+154,Share capital,12  Mar-18*,235.0,KHRB
+155,"""Free"" reserves",12  Mar-18*,22644.0,KHRB
+156,Net worth,12  Mar-18*,22879.0,KHRB
+157,Long term debt,12  Mar-18*,520.0,KHRB
+158,Total assets,12  Mar-18*,385754.0,KHRB
+159,Interest coverage,12  Mar-18*,10.5,KHRB
+160,Debt to equity ratio,12  Mar-18*,0.0,KHRB
+161,Sales to assets ratio,12  Mar-18*,0.1,KHRB
+162,Return on assets,12  Mar-18*,1.3,KHRB
+163,Return on equity,12  Mar-18*,19.0,KHRB
+164,Return on capital,12  Mar-18*,30.9,KHRB
+165,Exports to sales,12  Mar-18*,39.4,KHRB
+166,Imports to sales,12  Mar-18*,0.1,KHRB
+167,Exports (fob),12  Mar-18*,12796.0,KHRB
+168,Imports (cif),12  Mar-18*,26.0,KHRB
+169,Fx inflow,12  Mar-18*,25869.0,KHRB
+170,Fx outflow,12  Mar-18*,338.0,KHRB
+171,Net fx,12  Mar-18*,25531.0,KHRB
+172,From Operations,12  Mar-18*,608.0,KHRB
+173,From Investments,12  Mar-18*,-487.0,KHRB
+174,From Financial Activity,12  Mar-18*,247.0,KHRB
+175,Net Cashflow,12  Mar-18*,368.0,KHRB
+176,Net Sales,12  Mar-19*,41205.0,KHRB
+177,Other income,12  Mar-19*,152.0,KHRB
+178,Total revenues,12  Mar-19*,41356.0,KHRB
+179,Gross profit,12  Mar-19*,8499.0,KHRB
+180,Depreciation,12  Mar-19*,645.0,KHRB
+181,Interest,12  Mar-19*,676.0,KHRB
+182,Profit before tax,12  Mar-19*,7330.0,KHRB
+183,Minority Interest,12  Mar-19*,0.0,KHRB
+184,Prior Period Items,12  Mar-19*,0.0,KHRB
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,KHRB
+186,Tax,12  Mar-19*,2300.0,KHRB
+187,Profit after tax,12  Mar-19*,5030.0,KHRB
+188,Gross profit margin,12  Mar-19*,20.6,KHRB
+189,Effective tax rate,12  Mar-19*,31.4,KHRB
+190,Net profit margin,12  Mar-19*,12.2,KHRB
+191,Current assets,12  Mar-19*,35741.0,KHRB
+192,Current liabilities,12  Mar-19*,17229.0,KHRB
+193,Net working cap to sales,12  Mar-19*,44.9,KHRB
+194,Current ratio,12  Mar-19*,2.1,KHRB
+195,Inventory Days,12  Mar-19*,277.0,KHRB
+196,Debtors Days,12  Mar-19*,35.0,KHRB
+197,Net fixed assets,12  Mar-19*,9418.0,KHRB
+198,Share capital,12  Mar-19*,235.0,KHRB
+199,"""Free"" reserves",12  Mar-19*,27032.0,KHRB
+200,Net worth,12  Mar-19*,27267.0,KHRB
+201,Long term debt,12  Mar-19*,332.0,KHRB
+202,Total assets,12  Mar-19*,46361.0,KHRB
+203,Interest coverage,12  Mar-19*,11.8,KHRB
+204,Debt to equity ratio,12  Mar-19*,0.0,KHRB
+205,Sales to assets ratio,12  Mar-19*,0.9,KHRB
+206,Return on assets,12  Mar-19*,12.3,KHRB
+207,Return on equity,12  Mar-19*,18.4,KHRB
+208,Return on capital,12  Mar-19*,29.0,KHRB
+209,Exports to sales,12  Mar-19*,34.2,KHRB
+210,Imports to sales,12  Mar-19*,0.0,KHRB
+211,Exports (fob),12  Mar-19*,14093.0,KHRB
+212,Imports (cif),12  Mar-19*,0.0,KHRB
+213,Fx inflow,12  Mar-19*,29027.0,KHRB
+214,Fx outflow,12  Mar-19*,841.0,KHRB
+215,Net fx,12  Mar-19*,28186.0,KHRB
+216,From Operations,12  Mar-19*,-1144.0,KHRB
+217,From Investments,12  Mar-19*,202.0,KHRB
+218,From Financial Activity,12  Mar-19*,595.0,KHRB
+219,Net Cashflow,12  Mar-19*,-347.0,KHRB

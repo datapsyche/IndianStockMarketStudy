@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,28209.0,GVKP
+1,Other income,12  Mar-14*,1207.0,GVKP
+2,Total revenues,12  Mar-14*,29416.0,GVKP
+3,Gross profit,12  Mar-14*,10060.0,GVKP
+4,Depreciation,12  Mar-14*,4377.0,GVKP
+5,Interest,12  Mar-14*,9645.0,GVKP
+6,Profit before tax,12  Mar-14*,-2756.0,GVKP
+7,Minority Interest,12  Mar-14*,239.0,GVKP
+8,Prior Period Items,12  Mar-14*,276.0,GVKP
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,GVKP
+10,Tax,12  Mar-14*,1446.0,GVKP
+11,Profit after tax,12  Mar-14*,-3687.0,GVKP
+12,Gross profit margin,12  Mar-14*,35.7,GVKP
+13,Effective tax rate,12  Mar-14*,-52.5,GVKP
+14,Net profit margin,12  Mar-14*,-13.1,GVKP
+15,Current assets,12  Mar-14*,29362.0,GVKP
+16,Current liabilities,12  Mar-14*,50190.0,GVKP
+17,Net working cap to sales,12  Mar-14*,-73.8,GVKP
+18,Current ratio,12  Mar-14*,0.6,GVKP
+19,Inventory Days,12  Mar-14*,5.0,GVKP
+20,Debtors Days,12  Mar-14*,62.0,GVKP
+21,Net fixed assets,12  Mar-14*,214351.0,GVKP
+22,Share capital,12  Mar-14*,1579.0,GVKP
+23,"""Free"" reserves",12  Mar-14*,21119.0,GVKP
+24,Net worth,12  Mar-14*,27782.0,GVKP
+25,Long term debt,12  Mar-14*,194555.0,GVKP
+26,Total assets,12  Mar-14*,320238.0,GVKP
+27,Interest coverage,12  Mar-14*,0.7,GVKP
+28,Debt to equity ratio,12  Mar-14*,7.0,GVKP
+29,Sales to assets ratio,12  Mar-14*,0.1,GVKP
+30,Return on assets,12  Mar-14*,1.9,GVKP
+31,Return on equity,12  Mar-14*,-13.3,GVKP
+32,Return on capital,12  Mar-14*,3.3,GVKP
+33,Exports to sales,12  Mar-14*,0.0,GVKP
+34,Imports to sales,12  Mar-14*,0.0,GVKP
+35,Exports (fob),12  Mar-14*,0.0,GVKP
+36,Imports (cif),12  Mar-14*,0.0,GVKP
+37,Fx inflow,12  Mar-14*,299.0,GVKP
+38,Fx outflow,12  Mar-14*,0.0,GVKP
+39,Net fx,12  Mar-14*,299.0,GVKP
+40,From Operations,12  Mar-14*,12334.0,GVKP
+41,From Investments,12  Mar-14*,-28953.0,GVKP
+42,From Financial Activity,12  Mar-14*,15621.0,GVKP
+43,Net Cashflow,12  Mar-14*,-998.0,GVKP
+44,Net Sales,12  Mar-15*,30497.0,GVKP
+45,Other income,12  Mar-15*,867.0,GVKP
+46,Total revenues,12  Mar-15*,31363.0,GVKP
+47,Gross profit,12  Mar-15*,8148.0,GVKP
+48,Depreciation,12  Mar-15*,7056.0,GVKP
+49,Interest,12  Mar-15*,14736.0,GVKP
+50,Profit before tax,12  Mar-15*,-12777.0,GVKP
+51,Minority Interest,12  Mar-15*,3016.0,GVKP
+52,Prior Period Items,12  Mar-15*,322.0,GVKP
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,GVKP
+54,Tax,12  Mar-15*,-1092.0,GVKP
+55,Profit after tax,12  Mar-15*,-8347.0,GVKP
+56,Gross profit margin,12  Mar-15*,26.7,GVKP
+57,Effective tax rate,12  Mar-15*,8.5,GVKP
+58,Net profit margin,12  Mar-15*,-27.4,GVKP
+59,Current assets,12  Mar-15*,25576.0,GVKP
+60,Current liabilities,12  Mar-15*,77324.0,GVKP
+61,Net working cap to sales,12  Mar-15*,-169.7,GVKP
+62,Current ratio,12  Mar-15*,0.3,GVKP
+63,Inventory Days,12  Mar-15*,5.0,GVKP
+64,Debtors Days,12  Mar-15*,38.0,GVKP
+65,Net fixed assets,12  Mar-15*,229559.0,GVKP
+66,Share capital,12  Mar-15*,1579.0,GVKP
+67,"""Free"" reserves",12  Mar-15*,12724.0,GVKP
+68,Net worth,12  Mar-15*,19387.0,GVKP
+69,Long term debt,12  Mar-15*,192218.0,GVKP
+70,Total assets,12  Mar-15*,328530.0,GVKP
+71,Interest coverage,12  Mar-15*,0.1,GVKP
+72,Debt to equity ratio,12  Mar-15*,9.9,GVKP
+73,Sales to assets ratio,12  Mar-15*,0.1,GVKP
+74,Return on assets,12  Mar-15*,1.9,GVKP
+75,Return on equity,12  Mar-15*,-43.1,GVKP
+76,Return on capital,12  Mar-15*,2.5,GVKP
+77,Exports to sales,12  Mar-15*,0.0,GVKP
+78,Imports to sales,12  Mar-15*,0.0,GVKP
+79,Exports (fob),12  Mar-15*,0.0,GVKP
+80,Imports (cif),12  Mar-15*,0.0,GVKP
+81,Fx inflow,12  Mar-15*,151.0,GVKP
+82,Fx outflow,12  Mar-15*,0.0,GVKP
+83,Net fx,12  Mar-15*,151.0,GVKP
+84,From Operations,12  Mar-15*,12940.0,GVKP
+85,From Investments,12  Mar-15*,-11048.0,GVKP
+86,From Financial Activity,12  Mar-15*,-2522.0,GVKP
+87,Net Cashflow,12  Mar-15*,-631.0,GVKP
+88,Net Sales,12  Mar-16*,41645.0,GVKP
+89,Other income,12  Mar-16*,1340.0,GVKP
+90,Total revenues,12  Mar-16*,42985.0,GVKP
+91,Gross profit,12  Mar-16*,16535.0,GVKP
+92,Depreciation,12  Mar-16*,8687.0,GVKP
+93,Interest,12  Mar-16*,22913.0,GVKP
+94,Profit before tax,12  Mar-16*,-13724.0,GVKP
+95,Minority Interest,12  Mar-16*,2783.0,GVKP
+96,Prior Period Items,12  Mar-16*,1883.0,GVKP
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,GVKP
+98,Tax,12  Mar-16*,285.0,GVKP
+99,Profit after tax,12  Mar-16*,-9342.0,GVKP
+100,Gross profit margin,12  Mar-16*,39.7,GVKP
+101,Effective tax rate,12  Mar-16*,-2.1,GVKP
+102,Net profit margin,12  Mar-16*,-22.4,GVKP
+103,Current assets,12  Mar-16*,23893.0,GVKP
+104,Current liabilities,12  Mar-16*,72734.0,GVKP
+105,Net working cap to sales,12  Mar-16*,-117.3,GVKP
+106,Current ratio,12  Mar-16*,0.3,GVKP
+107,Inventory Days,12  Mar-16*,10.0,GVKP
+108,Debtors Days,12  Mar-16*,52.0,GVKP
+109,Net fixed assets,12  Mar-16*,241846.0,GVKP
+110,Share capital,12  Mar-16*,1579.0,GVKP
+111,"""Free"" reserves",12  Mar-16*,6898.0,GVKP
+112,Net worth,12  Mar-16*,13560.0,GVKP
+113,Long term debt,12  Mar-16*,216762.0,GVKP
+114,Total assets,12  Mar-16*,336465.0,GVKP
+115,Interest coverage,12  Mar-16*,0.4,GVKP
+116,Debt to equity ratio,12  Mar-16*,16.0,GVKP
+117,Sales to assets ratio,12  Mar-16*,0.1,GVKP
+118,Return on assets,12  Mar-16*,4.0,GVKP
+119,Return on equity,12  Mar-16*,-68.9,GVKP
+120,Return on capital,12  Mar-16*,6.0,GVKP
+121,Exports to sales,12  Mar-16*,0.0,GVKP
+122,Imports to sales,12  Mar-16*,0.0,GVKP
+123,Exports (fob),12  Mar-16*,0.0,GVKP
+124,Imports (cif),12  Mar-16*,0.0,GVKP
+125,Fx inflow,12  Mar-16*,164.0,GVKP
+126,Fx outflow,12  Mar-16*,0.0,GVKP
+127,Net fx,12  Mar-16*,164.0,GVKP
+128,From Operations,12  Mar-16*,11772.0,GVKP
+129,From Investments,12  Mar-16*,-13714.0,GVKP
+130,From Financial Activity,12  Mar-16*,-2511.0,GVKP
+131,Net Cashflow,12  Mar-16*,-4453.0,GVKP
+132,Net Sales,12  Mar-17*,35165.0,GVKP
+133,Other income,12  Mar-17*,5327.0,GVKP
+134,Total revenues,12  Mar-17*,40491.0,GVKP
+135,Gross profit,12  Mar-17*,11563.0,GVKP
+136,Depreciation,12  Mar-17*,6687.0,GVKP
+137,Interest,12  Mar-17*,18904.0,GVKP
+138,Profit before tax,12  Mar-17*,-8701.0,GVKP
+139,Minority Interest,12  Mar-17*,-6509.0,GVKP
+140,Prior Period Items,12  Mar-17*,2346.0,GVKP
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,GVKP
+142,Tax,12  Mar-17*,573.0,GVKP
+143,Profit after tax,12  Mar-17*,-13436.0,GVKP
+144,Gross profit margin,12  Mar-17*,32.9,GVKP
+145,Effective tax rate,12  Mar-17*,-6.6,GVKP
+146,Net profit margin,12  Mar-17*,-38.2,GVKP
+147,Current assets,12  Mar-17*,19877.0,GVKP
+148,Current liabilities,12  Mar-17*,69690.0,GVKP
+149,Net working cap to sales,12  Mar-17*,-141.7,GVKP
+150,Current ratio,12  Mar-17*,0.3,GVKP
+151,Inventory Days,12  Mar-17*,1.0,GVKP
+152,Debtors Days,12  Mar-17*,46.0,GVKP
+153,Net fixed assets,12  Mar-17*,115450.0,GVKP
+154,Share capital,12  Mar-17*,1579.0,GVKP
+155,"""Free"" reserves",12  Mar-17*,-4548.0,GVKP
+156,Net worth,12  Mar-17*,-2968.0,GVKP
+157,Long term debt,12  Mar-17*,105115.0,GVKP
+158,Total assets,12  Mar-17*,206312.0,GVKP
+159,Interest coverage,12  Mar-17*,0.5,GVKP
+160,Debt to equity ratio,12  Mar-17*,-35.4,GVKP
+161,Sales to assets ratio,12  Mar-17*,0.2,GVKP
+162,Return on assets,12  Mar-17*,2.7,GVKP
+163,Return on equity,12  Mar-17*,452.7,GVKP
+164,Return on capital,12  Mar-17*,5.9,GVKP
+165,Exports to sales,12  Mar-17*,0.0,GVKP
+166,Imports to sales,12  Mar-17*,0.0,GVKP
+167,Exports (fob),12  Mar-17*,0.0,GVKP
+168,Imports (cif),12  Mar-17*,0.0,GVKP
+169,Fx inflow,12  Mar-17*,0.0,GVKP
+170,Fx outflow,12  Mar-17*,0.0,GVKP
+171,Net fx,12  Mar-17*,0.0,GVKP
+172,From Operations,12  Mar-17*,14332.0,GVKP
+173,From Investments,12  Mar-17*,8975.0,GVKP
+174,From Financial Activity,12  Mar-17*,-21721.0,GVKP
+175,Net Cashflow,12  Mar-17*,1586.0,GVKP
+176,Net Sales,12  Mar-18*,38632.0,GVKP
+177,Other income,12  Mar-18*,10042.0,GVKP
+178,Total revenues,12  Mar-18*,48674.0,GVKP
+179,Gross profit,12  Mar-18*,15562.0,GVKP
+180,Depreciation,12  Mar-18*,7246.0,GVKP
+181,Interest,12  Mar-18*,16431.0,GVKP
+182,Profit before tax,12  Mar-18*,1927.0,GVKP
+183,Minority Interest,12  Mar-18*,-5830.0,GVKP
+184,Prior Period Items,12  Mar-18*,145.0,GVKP
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,GVKP
+186,Tax,12  Mar-18*,1616.0,GVKP
+187,Profit after tax,12  Mar-18*,-5374.0,GVKP
+188,Gross profit margin,12  Mar-18*,40.3,GVKP
+189,Effective tax rate,12  Mar-18*,83.8,GVKP
+190,Net profit margin,12  Mar-18*,-13.9,GVKP
+191,Current assets,12  Mar-18*,25602.0,GVKP
+192,Current liabilities,12  Mar-18*,57248.0,GVKP
+193,Net working cap to sales,12  Mar-18*,-81.9,GVKP
+194,Current ratio,12  Mar-18*,0.4,GVKP
+195,Inventory Days,12  Mar-18*,1.0,GVKP
+196,Debtors Days,12  Mar-18*,40.0,GVKP
+197,Net fixed assets,12  Mar-18*,116057.0,GVKP
+198,Share capital,12  Mar-18*,1579.0,GVKP
+199,"""Free"" reserves",12  Mar-18*,-9992.0,GVKP
+200,Net worth,12  Mar-18*,-8413.0,GVKP
+201,Long term debt,12  Mar-18*,106933.0,GVKP
+202,Total assets,12  Mar-18*,202719.0,GVKP
+203,Interest coverage,12  Mar-18*,1.1,GVKP
+204,Debt to equity ratio,12  Mar-18*,-12.7,GVKP
+205,Sales to assets ratio,12  Mar-18*,0.2,GVKP
+206,Return on assets,12  Mar-18*,5.5,GVKP
+207,Return on equity,12  Mar-18*,63.9,GVKP
+208,Return on capital,12  Mar-18*,12.9,GVKP
+209,Exports to sales,12  Mar-18*,0.0,GVKP
+210,Imports to sales,12  Mar-18*,0.0,GVKP
+211,Exports (fob),12  Mar-18*,0.0,GVKP
+212,Imports (cif),12  Mar-18*,0.0,GVKP
+213,Fx inflow,12  Mar-18*,0.0,GVKP
+214,Fx outflow,12  Mar-18*,0.0,GVKP
+215,Net fx,12  Mar-18*,0.0,GVKP
+216,From Operations,12  Mar-18*,24826.0,GVKP
+217,From Investments,12  Mar-18*,-79.0,GVKP
+218,From Financial Activity,12  Mar-18*,-24314.0,GVKP
+219,Net Cashflow,12  Mar-18*,433.0,GVKP

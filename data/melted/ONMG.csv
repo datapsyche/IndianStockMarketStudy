@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,8471.0,ONMG
+1,Other income,12  Mar-15*,214.0,ONMG
+2,Total revenues,12  Mar-15*,8684.0,ONMG
+3,Gross profit,12  Mar-15*,1227.0,ONMG
+4,Depreciation,12  Mar-15*,1437.0,ONMG
+5,Interest,12  Mar-15*,27.0,ONMG
+6,Profit before tax,12  Mar-15*,-23.0,ONMG
+7,Minority Interest,12  Mar-15*,0.0,ONMG
+8,Prior Period Items,12  Mar-15*,0.0,ONMG
+9,Extraordinary Inc (Exp),12  Mar-15*,-33.0,ONMG
+10,Tax,12  Mar-15*,267.0,ONMG
+11,Profit after tax,12  Mar-15*,-323.0,ONMG
+12,Gross profit margin,12  Mar-15*,14.5,ONMG
+13,Effective tax rate,12  Mar-15*,-1140.6,ONMG
+14,Net profit margin,12  Mar-15*,-3.8,ONMG
+15,Current assets,12  Mar-15*,6315.0,ONMG
+16,Current liabilities,12  Mar-15*,3609.0,ONMG
+17,Net working cap to sales,12  Mar-15*,32.0,ONMG
+18,Current ratio,12  Mar-15*,1.8,ONMG
+19,Inventory Days,12  Mar-15*,0.0,ONMG
+20,Debtors Days,12  Mar-15*,93.0,ONMG
+21,Net fixed assets,12  Mar-15*,2492.0,ONMG
+22,Share capital,12  Mar-15*,1092.0,ONMG
+23,"""Free"" reserves",12  Mar-15*,5496.0,ONMG
+24,Net worth,12  Mar-15*,6569.0,ONMG
+25,Long term debt,12  Mar-15*,185.0,ONMG
+26,Total assets,12  Mar-15*,10398.0,ONMG
+27,Interest coverage,12  Mar-15*,0.1,ONMG
+28,Debt to equity ratio,12  Mar-15*,0.0,ONMG
+29,Sales to assets ratio,12  Mar-15*,0.8,ONMG
+30,Return on assets,12  Mar-15*,-2.9,ONMG
+31,Return on equity,12  Mar-15*,-4.9,ONMG
+32,Return on capital,12  Mar-15*,-0.4,ONMG
+33,Exports to sales,12  Mar-15*,0.0,ONMG
+34,Imports to sales,12  Mar-15*,0.5,ONMG
+35,Exports (fob),12  Mar-15*,0.0,ONMG
+36,Imports (cif),12  Mar-15*,40.0,ONMG
+37,Fx inflow,12  Mar-15*,1973.0,ONMG
+38,Fx outflow,12  Mar-15*,886.0,ONMG
+39,Net fx,12  Mar-15*,1086.0,ONMG
+40,From Operations,12  Mar-15*,1147.0,ONMG
+41,From Investments,12  Mar-15*,922.0,ONMG
+42,From Financial Activity,12  Mar-15*,-1076.0,ONMG
+43,Net Cashflow,12  Mar-15*,993.0,ONMG
+44,Net Sales,12  Mar-16*,8157.0,ONMG
+45,Other income,12  Mar-16*,285.0,ONMG
+46,Total revenues,12  Mar-16*,8442.0,ONMG
+47,Gross profit,12  Mar-16*,1527.0,ONMG
+48,Depreciation,12  Mar-16*,1494.0,ONMG
+49,Interest,12  Mar-16*,18.0,ONMG
+50,Profit before tax,12  Mar-16*,300.0,ONMG
+51,Minority Interest,12  Mar-16*,0.0,ONMG
+52,Prior Period Items,12  Mar-16*,0.0,ONMG
+53,Extraordinary Inc (Exp),12  Mar-16*,-106.0,ONMG
+54,Tax,12  Mar-16*,321.0,ONMG
+55,Profit after tax,12  Mar-16*,-126.0,ONMG
+56,Gross profit margin,12  Mar-16*,18.7,ONMG
+57,Effective tax rate,12  Mar-16*,106.9,ONMG
+58,Net profit margin,12  Mar-16*,-1.5,ONMG
+59,Current assets,12  Mar-16*,6762.0,ONMG
+60,Current liabilities,12  Mar-16*,3511.0,ONMG
+61,Net working cap to sales,12  Mar-16*,39.8,ONMG
+62,Current ratio,12  Mar-16*,1.9,ONMG
+63,Inventory Days,12  Mar-16*,0.0,ONMG
+64,Debtors Days,12  Mar-16*,89.0,ONMG
+65,Net fixed assets,12  Mar-16*,1155.0,ONMG
+66,Share capital,12  Mar-16*,1081.0,ONMG
+67,"""Free"" reserves",12  Mar-16*,5025.0,ONMG
+68,Net worth,12  Mar-16*,6038.0,ONMG
+69,Long term debt,12  Mar-16*,0.0,ONMG
+70,Total assets,12  Mar-16*,9595.0,ONMG
+71,Interest coverage,12  Mar-16*,17.8,ONMG
+72,Debt to equity ratio,12  Mar-16*,0.0,ONMG
+73,Sales to assets ratio,12  Mar-16*,0.9,ONMG
+74,Return on assets,12  Mar-16*,-1.1,ONMG
+75,Return on equity,12  Mar-16*,-2.1,ONMG
+76,Return on capital,12  Mar-16*,3.5,ONMG
+77,Exports to sales,12  Mar-16*,0.0,ONMG
+78,Imports to sales,12  Mar-16*,1.2,ONMG
+79,Exports (fob),12  Mar-16*,0.0,ONMG
+80,Imports (cif),12  Mar-16*,94.0,ONMG
+81,Fx inflow,12  Mar-16*,2139.0,ONMG
+82,Fx outflow,12  Mar-16*,980.0,ONMG
+83,Net fx,12  Mar-16*,1158.0,ONMG
+84,From Operations,12  Mar-16*,1085.0,ONMG
+85,From Investments,12  Mar-16*,-176.0,ONMG
+86,From Financial Activity,12  Mar-16*,-655.0,ONMG
+87,Net Cashflow,12  Mar-16*,254.0,ONMG
+88,Net Sales,12  Mar-17*,7203.0,ONMG
+89,Other income,12  Mar-17*,111.0,ONMG
+90,Total revenues,12  Mar-17*,7314.0,ONMG
+91,Gross profit,12  Mar-17*,1001.0,ONMG
+92,Depreciation,12  Mar-17*,555.0,ONMG
+93,Interest,12  Mar-17*,8.0,ONMG
+94,Profit before tax,12  Mar-17*,549.0,ONMG
+95,Minority Interest,12  Mar-17*,0.0,ONMG
+96,Prior Period Items,12  Mar-17*,0.0,ONMG
+97,Extraordinary Inc (Exp),12  Mar-17*,-172.0,ONMG
+98,Tax,12  Mar-17*,236.0,ONMG
+99,Profit after tax,12  Mar-17*,141.0,ONMG
+100,Gross profit margin,12  Mar-17*,13.9,ONMG
+101,Effective tax rate,12  Mar-17*,42.9,ONMG
+102,Net profit margin,12  Mar-17*,2.0,ONMG
+103,Current assets,12  Mar-17*,5973.0,ONMG
+104,Current liabilities,12  Mar-17*,2723.0,ONMG
+105,Net working cap to sales,12  Mar-17*,45.1,ONMG
+106,Current ratio,12  Mar-17*,2.2,ONMG
+107,Inventory Days,12  Mar-17*,0.0,ONMG
+108,Debtors Days,12  Mar-17*,85.0,ONMG
+109,Net fixed assets,12  Mar-17*,730.0,ONMG
+110,Share capital,12  Mar-17*,1044.0,ONMG
+111,"""Free"" reserves",12  Mar-17*,4592.0,ONMG
+112,Net worth,12  Mar-17*,5635.0,ONMG
+113,Long term debt,12  Mar-17*,0.0,ONMG
+114,Total assets,12  Mar-17*,8411.0,ONMG
+115,Interest coverage,12  Mar-17*,71.3,ONMG
+116,Debt to equity ratio,12  Mar-17*,0.0,ONMG
+117,Sales to assets ratio,12  Mar-17*,0.9,ONMG
+118,Return on assets,12  Mar-17*,1.8,ONMG
+119,Return on equity,12  Mar-17*,2.5,ONMG
+120,Return on capital,12  Mar-17*,6.8,ONMG
+121,Exports to sales,12  Mar-17*,0.0,ONMG
+122,Imports to sales,12  Mar-17*,0.0,ONMG
+123,Exports (fob),12  Mar-17*,0.0,ONMG
+124,Imports (cif),12  Mar-17*,0.0,ONMG
+125,Fx inflow,12  Mar-17*,1831.0,ONMG
+126,Fx outflow,12  Mar-17*,883.0,ONMG
+127,Net fx,12  Mar-17*,948.0,ONMG
+128,From Operations,12  Mar-17*,902.0,ONMG
+129,From Investments,12  Mar-17*,124.0,ONMG
+130,From Financial Activity,12  Mar-17*,-811.0,ONMG
+131,Net Cashflow,12  Mar-17*,58.0,ONMG
+132,Net Sales,12  Mar-18*,6356.0,ONMG
+133,Other income,12  Mar-18*,123.0,ONMG
+134,Total revenues,12  Mar-18*,6479.0,ONMG
+135,Gross profit,12  Mar-18*,649.0,ONMG
+136,Depreciation,12  Mar-18*,479.0,ONMG
+137,Interest,12  Mar-18*,1.0,ONMG
+138,Profit before tax,12  Mar-18*,292.0,ONMG
+139,Minority Interest,12  Mar-18*,0.0,ONMG
+140,Prior Period Items,12  Mar-18*,0.0,ONMG
+141,Extraordinary Inc (Exp),12  Mar-18*,-15.0,ONMG
+142,Tax,12  Mar-18*,164.0,ONMG
+143,Profit after tax,12  Mar-18*,113.0,ONMG
+144,Gross profit margin,12  Mar-18*,10.2,ONMG
+145,Effective tax rate,12  Mar-18*,56.1,ONMG
+146,Net profit margin,12  Mar-18*,1.8,ONMG
+147,Current assets,12  Mar-18*,5700.0,ONMG
+148,Current liabilities,12  Mar-18*,2342.0,ONMG
+149,Net working cap to sales,12  Mar-18*,52.8,ONMG
+150,Current ratio,12  Mar-18*,2.4,ONMG
+151,Inventory Days,12  Mar-18*,0.0,ONMG
+152,Debtors Days,12  Mar-18*,98.0,ONMG
+153,Net fixed assets,12  Mar-18*,575.0,ONMG
+154,Share capital,12  Mar-18*,1056.0,ONMG
+155,"""Free"" reserves",12  Mar-18*,4707.0,ONMG
+156,Net worth,12  Mar-18*,5763.0,ONMG
+157,Long term debt,12  Mar-18*,0.0,ONMG
+158,Total assets,12  Mar-18*,8143.0,ONMG
+159,Interest coverage,12  Mar-18*,266.4,ONMG
+160,Debt to equity ratio,12  Mar-18*,0.0,ONMG
+161,Sales to assets ratio,12  Mar-18*,0.8,ONMG
+162,Return on assets,12  Mar-18*,1.4,ONMG
+163,Return on equity,12  Mar-18*,2.0,ONMG
+164,Return on capital,12  Mar-18*,4.8,ONMG
+165,Exports to sales,12  Mar-18*,0.0,ONMG
+166,Imports to sales,12  Mar-18*,0.0,ONMG
+167,Exports (fob),12  Mar-18*,0.0,ONMG
+168,Imports (cif),12  Mar-18*,0.0,ONMG
+169,Fx inflow,12  Mar-18*,1535.0,ONMG
+170,Fx outflow,12  Mar-18*,696.0,ONMG
+171,Net fx,12  Mar-18*,839.0,ONMG
+172,From Operations,12  Mar-18*,347.0,ONMG
+173,From Investments,12  Mar-18*,-551.0,ONMG
+174,From Financial Activity,12  Mar-18*,-145.0,ONMG
+175,Net Cashflow,12  Mar-18*,-321.0,ONMG
+176,Net Sales,12  Mar-19*,5939.0,ONMG
+177,Other income,12  Mar-19*,290.0,ONMG
+178,Total revenues,12  Mar-19*,6229.0,ONMG
+179,Gross profit,12  Mar-19*,296.0,ONMG
+180,Depreciation,12  Mar-19*,272.0,ONMG
+181,Interest,12  Mar-19*,1.0,ONMG
+182,Profit before tax,12  Mar-19*,313.0,ONMG
+183,Minority Interest,12  Mar-19*,0.0,ONMG
+184,Prior Period Items,12  Mar-19*,0.0,ONMG
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ONMG
+186,Tax,12  Mar-19*,124.0,ONMG
+187,Profit after tax,12  Mar-19*,189.0,ONMG
+188,Gross profit margin,12  Mar-19*,5.0,ONMG
+189,Effective tax rate,12  Mar-19*,39.7,ONMG
+190,Net profit margin,12  Mar-19*,3.2,ONMG
+191,Current assets,12  Mar-19*,5506.0,ONMG
+192,Current liabilities,12  Mar-19*,2792.0,ONMG
+193,Net working cap to sales,12  Mar-19*,45.7,ONMG
+194,Current ratio,12  Mar-19*,2.0,ONMG
+195,Inventory Days,12  Mar-19*,0.0,ONMG
+196,Debtors Days,12  Mar-19*,101.0,ONMG
+197,Net fixed assets,12  Mar-19*,1200.0,ONMG
+198,Share capital,12  Mar-19*,1057.0,ONMG
+199,"""Free"" reserves",12  Mar-19*,4601.0,ONMG
+200,Net worth,12  Mar-19*,5658.0,ONMG
+201,Long term debt,12  Mar-19*,0.0,ONMG
+202,Total assets,12  Mar-19*,8726.0,ONMG
+203,Interest coverage,12  Mar-19*,392.4,ONMG
+204,Debt to equity ratio,12  Mar-19*,0.0,ONMG
+205,Sales to assets ratio,12  Mar-19*,0.7,ONMG
+206,Return on assets,12  Mar-19*,2.2,ONMG
+207,Return on equity,12  Mar-19*,3.3,ONMG
+208,Return on capital,12  Mar-19*,5.5,ONMG
+209,Exports to sales,12  Mar-19*,0.0,ONMG
+210,Imports to sales,12  Mar-19*,0.0,ONMG
+211,Exports (fob),12  Mar-19*,0.0,ONMG
+212,Imports (cif),12  Mar-19*,0.0,ONMG
+213,Fx inflow,12  Mar-19*,1325.0,ONMG
+214,Fx outflow,12  Mar-19*,639.0,ONMG
+215,Net fx,12  Mar-19*,686.0,ONMG
+216,From Operations,12  Mar-19*,105.0,ONMG
+217,From Investments,12  Mar-19*,-922.0,ONMG
+218,From Financial Activity,12  Mar-19*,-188.0,ONMG
+219,Net Cashflow,12  Mar-19*,-1006.0,ONMG

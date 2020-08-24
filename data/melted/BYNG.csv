@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,2609.0,BYNG
+1,Other income,12  Mar-14*,67.0,BYNG
+2,Total revenues,12  Mar-14*,2676.0,BYNG
+3,Gross profit,12  Mar-14*,140.0,BYNG
+4,Depreciation,12  Mar-14*,75.0,BYNG
+5,Interest,12  Mar-14*,78.0,BYNG
+6,Profit before tax,12  Mar-14*,54.0,BYNG
+7,Minority Interest,12  Mar-14*,0.0,BYNG
+8,Prior Period Items,12  Mar-14*,0.0,BYNG
+9,Extraordinary Inc (Exp),12  Mar-14*,-22.0,BYNG
+10,Tax,12  Mar-14*,1.0,BYNG
+11,Profit after tax,12  Mar-14*,32.0,BYNG
+12,Gross profit margin,12  Mar-14*,5.4,BYNG
+13,Effective tax rate,12  Mar-14*,1.3,BYNG
+14,Net profit margin,12  Mar-14*,1.2,BYNG
+15,Current assets,12  Mar-14*,995.0,BYNG
+16,Current liabilities,12  Mar-14*,350.0,BYNG
+17,Net working cap to sales,12  Mar-14*,24.7,BYNG
+18,Current ratio,12  Mar-14*,2.8,BYNG
+19,Inventory Days,12  Mar-14*,16.0,BYNG
+20,Debtors Days,12  Mar-14*,48.0,BYNG
+21,Net fixed assets,12  Mar-14*,2063.0,BYNG
+22,Share capital,12  Mar-14*,128.0,BYNG
+23,"""Free"" reserves",12  Mar-14*,1946.0,BYNG
+24,Net worth,12  Mar-14*,2178.0,BYNG
+25,Long term debt,12  Mar-14*,839.0,BYNG
+26,Total assets,12  Mar-14*,3379.0,BYNG
+27,Interest coverage,12  Mar-14*,1.7,BYNG
+28,Debt to equity ratio,12  Mar-14*,0.4,BYNG
+29,Sales to assets ratio,12  Mar-14*,0.8,BYNG
+30,Return on assets,12  Mar-14*,3.2,BYNG
+31,Return on equity,12  Mar-14*,1.5,BYNG
+32,Return on capital,12  Mar-14*,3.7,BYNG
+33,Exports to sales,12  Mar-14*,0.0,BYNG
+34,Imports to sales,12  Mar-14*,12.5,BYNG
+35,Exports (fob),12  Mar-14*,0.0,BYNG
+36,Imports (cif),12  Mar-14*,325.0,BYNG
+37,Fx inflow,12  Mar-14*,0.0,BYNG
+38,Fx outflow,12  Mar-14*,448.0,BYNG
+39,Net fx,12  Mar-14*,-448.0,BYNG
+40,From Operations,12  Mar-14*,326.0,BYNG
+41,From Investments,12  Mar-14*,-240.0,BYNG
+42,From Financial Activity,12  Mar-14*,-59.0,BYNG
+43,Net Cashflow,12  Mar-14*,27.0,BYNG
+44,Net Sales,12  Mar-15*,2946.0,BYNG
+45,Other income,12  Mar-15*,67.0,BYNG
+46,Total revenues,12  Mar-15*,3014.0,BYNG
+47,Gross profit,12  Mar-15*,116.0,BYNG
+48,Depreciation,12  Mar-15*,62.0,BYNG
+49,Interest,12  Mar-15*,84.0,BYNG
+50,Profit before tax,12  Mar-15*,38.0,BYNG
+51,Minority Interest,12  Mar-15*,0.0,BYNG
+52,Prior Period Items,12  Mar-15*,0.0,BYNG
+53,Extraordinary Inc (Exp),12  Mar-15*,-20.0,BYNG
+54,Tax,12  Mar-15*,-4.0,BYNG
+55,Profit after tax,12  Mar-15*,22.0,BYNG
+56,Gross profit margin,12  Mar-15*,4.0,BYNG
+57,Effective tax rate,12  Mar-15*,-9.7,BYNG
+58,Net profit margin,12  Mar-15*,0.7,BYNG
+59,Current assets,12  Mar-15*,1098.0,BYNG
+60,Current liabilities,12  Mar-15*,610.0,BYNG
+61,Net working cap to sales,12  Mar-15*,16.6,BYNG
+62,Current ratio,12  Mar-15*,1.8,BYNG
+63,Inventory Days,12  Mar-15*,52.0,BYNG
+64,Debtors Days,12  Mar-15*,39.0,BYNG
+65,Net fixed assets,12  Mar-15*,2055.0,BYNG
+66,Share capital,12  Mar-15*,128.0,BYNG
+67,"""Free"" reserves",12  Mar-15*,1965.0,BYNG
+68,Net worth,12  Mar-15*,2197.0,BYNG
+69,Long term debt,12  Mar-15*,684.0,BYNG
+70,Total assets,12  Mar-15*,3505.0,BYNG
+71,Interest coverage,12  Mar-15*,1.5,BYNG
+72,Debt to equity ratio,12  Mar-15*,0.3,BYNG
+73,Sales to assets ratio,12  Mar-15*,0.8,BYNG
+74,Return on assets,12  Mar-15*,3.0,BYNG
+75,Return on equity,12  Mar-15*,1.0,BYNG
+76,Return on capital,12  Mar-15*,3.5,BYNG
+77,Exports to sales,12  Mar-15*,0.0,BYNG
+78,Imports to sales,12  Mar-15*,40.6,BYNG
+79,Exports (fob),12  Mar-15*,0.0,BYNG
+80,Imports (cif),12  Mar-15*,1197.0,BYNG
+81,Fx inflow,12  Mar-15*,0.0,BYNG
+82,Fx outflow,12  Mar-15*,1319.0,BYNG
+83,Net fx,12  Mar-15*,-1319.0,BYNG
+84,From Operations,12  Mar-15*,-170.0,BYNG
+85,From Investments,12  Mar-15*,-21.0,BYNG
+86,From Financial Activity,12  Mar-15*,125.0,BYNG
+87,Net Cashflow,12  Mar-15*,-66.0,BYNG
+88,Net Sales,12  Mar-16*,3172.0,BYNG
+89,Other income,12  Mar-16*,96.0,BYNG
+90,Total revenues,12  Mar-16*,3268.0,BYNG
+91,Gross profit,12  Mar-16*,89.0,BYNG
+92,Depreciation,12  Mar-16*,64.0,BYNG
+93,Interest,12  Mar-16*,76.0,BYNG
+94,Profit before tax,12  Mar-16*,45.0,BYNG
+95,Minority Interest,12  Mar-16*,0.0,BYNG
+96,Prior Period Items,12  Mar-16*,0.0,BYNG
+97,Extraordinary Inc (Exp),12  Mar-16*,-22.0,BYNG
+98,Tax,12  Mar-16*,-3.0,BYNG
+99,Profit after tax,12  Mar-16*,25.0,BYNG
+100,Gross profit margin,12  Mar-16*,2.8,BYNG
+101,Effective tax rate,12  Mar-16*,-7.3,BYNG
+102,Net profit margin,12  Mar-16*,0.8,BYNG
+103,Current assets,12  Mar-16*,997.0,BYNG
+104,Current liabilities,12  Mar-16*,560.0,BYNG
+105,Net working cap to sales,12  Mar-16*,13.8,BYNG
+106,Current ratio,12  Mar-16*,1.8,BYNG
+107,Inventory Days,12  Mar-16*,38.0,BYNG
+108,Debtors Days,12  Mar-16*,36.0,BYNG
+109,Net fixed assets,12  Mar-16*,2056.0,BYNG
+110,Share capital,12  Mar-16*,128.0,BYNG
+111,"""Free"" reserves",12  Mar-16*,2003.0,BYNG
+112,Net worth,12  Mar-16*,2211.0,BYNG
+113,Long term debt,12  Mar-16*,573.0,BYNG
+114,Total assets,12  Mar-16*,3359.0,BYNG
+115,Interest coverage,12  Mar-16*,1.6,BYNG
+116,Debt to equity ratio,12  Mar-16*,0.3,BYNG
+117,Sales to assets ratio,12  Mar-16*,0.9,BYNG
+118,Return on assets,12  Mar-16*,3.0,BYNG
+119,Return on equity,12  Mar-16*,1.1,BYNG
+120,Return on capital,12  Mar-16*,3.5,BYNG
+121,Exports to sales,12  Mar-16*,0.0,BYNG
+122,Imports to sales,12  Mar-16*,16.5,BYNG
+123,Exports (fob),12  Mar-16*,0.0,BYNG
+124,Imports (cif),12  Mar-16*,523.0,BYNG
+125,Fx inflow,12  Mar-16*,0.0,BYNG
+126,Fx outflow,12  Mar-16*,523.0,BYNG
+127,Net fx,12  Mar-16*,-523.0,BYNG
+128,From Operations,12  Mar-16*,232.0,BYNG
+129,From Investments,12  Mar-16*,29.0,BYNG
+130,From Financial Activity,12  Mar-16*,-268.0,BYNG
+131,Net Cashflow,12  Mar-16*,-6.0,BYNG
+132,Net Sales,12  Mar-17*,2974.0,BYNG
+133,Other income,12  Mar-17*,70.0,BYNG
+134,Total revenues,12  Mar-17*,3044.0,BYNG
+135,Gross profit,12  Mar-17*,133.0,BYNG
+136,Depreciation,12  Mar-17*,47.0,BYNG
+137,Interest,12  Mar-17*,62.0,BYNG
+138,Profit before tax,12  Mar-17*,94.0,BYNG
+139,Minority Interest,12  Mar-17*,0.0,BYNG
+140,Prior Period Items,12  Mar-17*,0.0,BYNG
+141,Extraordinary Inc (Exp),12  Mar-17*,-43.0,BYNG
+142,Tax,12  Mar-17*,-2.0,BYNG
+143,Profit after tax,12  Mar-17*,54.0,BYNG
+144,Gross profit margin,12  Mar-17*,4.5,BYNG
+145,Effective tax rate,12  Mar-17*,-2.0,BYNG
+146,Net profit margin,12  Mar-17*,1.8,BYNG
+147,Current assets,12  Mar-17*,1157.0,BYNG
+148,Current liabilities,12  Mar-17*,598.0,BYNG
+149,Net working cap to sales,12  Mar-17*,18.8,BYNG
+150,Current ratio,12  Mar-17*,1.9,BYNG
+151,Inventory Days,12  Mar-17*,63.0,BYNG
+152,Debtors Days,12  Mar-17*,45.0,BYNG
+153,Net fixed assets,12  Mar-17*,724.0,BYNG
+154,Share capital,12  Mar-17*,64.0,BYNG
+155,"""Free"" reserves",12  Mar-17*,972.0,BYNG
+156,Net worth,12  Mar-17*,1036.0,BYNG
+157,Long term debt,12  Mar-17*,289.0,BYNG
+158,Total assets,12  Mar-17*,1933.0,BYNG
+159,Interest coverage,12  Mar-17*,2.5,BYNG
+160,Debt to equity ratio,12  Mar-17*,0.3,BYNG
+161,Sales to assets ratio,12  Mar-17*,1.5,BYNG
+162,Return on assets,12  Mar-17*,6.0,BYNG
+163,Return on equity,12  Mar-17*,5.2,BYNG
+164,Return on capital,12  Mar-17*,8.6,BYNG
+165,Exports to sales,12  Mar-17*,0.0,BYNG
+166,Imports to sales,12  Mar-17*,31.9,BYNG
+167,Exports (fob),12  Mar-17*,0.0,BYNG
+168,Imports (cif),12  Mar-17*,948.0,BYNG
+169,Fx inflow,12  Mar-17*,21.0,BYNG
+170,Fx outflow,12  Mar-17*,1240.0,BYNG
+171,Net fx,12  Mar-17*,-1219.0,BYNG
+172,From Operations,12  Mar-17*,-144.0,BYNG
+173,From Investments,12  Mar-17*,279.0,BYNG
+174,From Financial Activity,12  Mar-17*,-131.0,BYNG
+175,Net Cashflow,12  Mar-17*,4.0,BYNG
+176,Net Sales,12  Mar-18*,4469.0,BYNG
+177,Other income,12  Mar-18*,115.0,BYNG
+178,Total revenues,12  Mar-18*,4584.0,BYNG
+179,Gross profit,12  Mar-18*,127.0,BYNG
+180,Depreciation,12  Mar-18*,38.0,BYNG
+181,Interest,12  Mar-18*,38.0,BYNG
+182,Profit before tax,12  Mar-18*,166.0,BYNG
+183,Minority Interest,12  Mar-18*,0.0,BYNG
+184,Prior Period Items,12  Mar-18*,0.0,BYNG
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,BYNG
+186,Tax,12  Mar-18*,39.0,BYNG
+187,Profit after tax,12  Mar-18*,127.0,BYNG
+188,Gross profit margin,12  Mar-18*,2.8,BYNG
+189,Effective tax rate,12  Mar-18*,23.6,BYNG
+190,Net profit margin,12  Mar-18*,2.8,BYNG
+191,Current assets,12  Mar-18*,1004.0,BYNG
+192,Current liabilities,12  Mar-18*,346.0,BYNG
+193,Net working cap to sales,12  Mar-18*,14.7,BYNG
+194,Current ratio,12  Mar-18*,2.9,BYNG
+195,Inventory Days,12  Mar-18*,30.0,BYNG
+196,Debtors Days,12  Mar-18*,28.0,BYNG
+197,Net fixed assets,12  Mar-18*,632.0,BYNG
+198,Share capital,12  Mar-18*,64.0,BYNG
+199,"""Free"" reserves",12  Mar-18*,1092.0,BYNG
+200,Net worth,12  Mar-18*,1156.0,BYNG
+201,Long term debt,12  Mar-18*,160.0,BYNG
+202,Total assets,12  Mar-18*,1662.0,BYNG
+203,Interest coverage,12  Mar-18*,5.4,BYNG
+204,Debt to equity ratio,12  Mar-18*,0.1,BYNG
+205,Sales to assets ratio,12  Mar-18*,2.7,BYNG
+206,Return on assets,12  Mar-18*,9.9,BYNG
+207,Return on equity,12  Mar-18*,11.0,BYNG
+208,Return on capital,12  Mar-18*,15.5,BYNG
+209,Exports to sales,12  Mar-18*,0.0,BYNG
+210,Imports to sales,12  Mar-18*,31.0,BYNG
+211,Exports (fob),12  Mar-18*,0.0,BYNG
+212,Imports (cif),12  Mar-18*,1386.0,BYNG
+213,Fx inflow,12  Mar-18*,10.0,BYNG
+214,Fx outflow,12  Mar-18*,1483.0,BYNG
+215,Net fx,12  Mar-18*,-1473.0,BYNG
+216,From Operations,12  Mar-18*,279.0,BYNG
+217,From Investments,12  Mar-18*,315.0,BYNG
+218,From Financial Activity,12  Mar-18*,-488.0,BYNG
+219,Net Cashflow,12  Mar-18*,105.0,BYNG

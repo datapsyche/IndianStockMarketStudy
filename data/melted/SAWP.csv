@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,83247.0,SAWP
+1,Other income,12  Mar-15*,1291.0,SAWP
+2,Total revenues,12  Mar-15*,84538.0,SAWP
+3,Gross profit,12  Mar-15*,9357.0,SAWP
+4,Depreciation,12  Mar-15*,4029.0,SAWP
+5,Interest,12  Mar-15*,5398.0,SAWP
+6,Profit before tax,12  Mar-15*,1221.0,SAWP
+7,Minority Interest,12  Mar-15*,112.0,SAWP
+8,Prior Period Items,12  Mar-15*,0.0,SAWP
+9,Extraordinary Inc (Exp),12  Mar-15*,-861.0,SAWP
+10,Tax,12  Mar-15*,213.0,SAWP
+11,Profit after tax,12  Mar-15*,259.0,SAWP
+12,Gross profit margin,12  Mar-15*,11.2,SAWP
+13,Effective tax rate,12  Mar-15*,17.4,SAWP
+14,Net profit margin,12  Mar-15*,0.3,SAWP
+15,Current assets,12  Mar-15*,70646.0,SAWP
+16,Current liabilities,12  Mar-15*,57826.0,SAWP
+17,Net working cap to sales,12  Mar-15*,15.4,SAWP
+18,Current ratio,12  Mar-15*,1.2,SAWP
+19,Inventory Days,12  Mar-15*,132.0,SAWP
+20,Debtors Days,12  Mar-15*,90.0,SAWP
+21,Net fixed assets,12  Mar-15*,69317.0,SAWP
+22,Share capital,12  Mar-15*,580.0,SAWP
+23,"""Free"" reserves",12  Mar-15*,33246.0,SAWP
+24,Net worth,12  Mar-15*,36898.0,SAWP
+25,Long term debt,12  Mar-15*,44303.0,SAWP
+26,Total assets,12  Mar-15*,143862.0,SAWP
+27,Interest coverage,12  Mar-15*,1.2,SAWP
+28,Debt to equity ratio,12  Mar-15*,1.2,SAWP
+29,Sales to assets ratio,12  Mar-15*,0.6,SAWP
+30,Return on assets,12  Mar-15*,3.9,SAWP
+31,Return on equity,12  Mar-15*,0.7,SAWP
+32,Return on capital,12  Mar-15*,7.2,SAWP
+33,Exports to sales,12  Mar-15*,25.2,SAWP
+34,Imports to sales,12  Mar-15*,24.4,SAWP
+35,Exports (fob),12  Mar-15*,21013.0,SAWP
+36,Imports (cif),12  Mar-15*,20337.0,SAWP
+37,Fx inflow,12  Mar-15*,21096.0,SAWP
+38,Fx outflow,12  Mar-15*,22223.0,SAWP
+39,Net fx,12  Mar-15*,-1128.0,SAWP
+40,From Operations,12  Mar-15*,-934.0,SAWP
+41,From Investments,12  Mar-15*,-8557.0,SAWP
+42,From Financial Activity,12  Mar-15*,11492.0,SAWP
+43,Net Cashflow,12  Mar-15*,2001.0,SAWP
+44,Net Sales,12  Mar-16*,77026.0,SAWP
+45,Other income,12  Mar-16*,1714.0,SAWP
+46,Total revenues,12  Mar-16*,78739.0,SAWP
+47,Gross profit,12  Mar-16*,7722.0,SAWP
+48,Depreciation,12  Mar-16*,3279.0,SAWP
+49,Interest,12  Mar-16*,6789.0,SAWP
+50,Profit before tax,12  Mar-16*,-633.0,SAWP
+51,Minority Interest,12  Mar-16*,0.0,SAWP
+52,Prior Period Items,12  Mar-16*,0.0,SAWP
+53,Extraordinary Inc (Exp),12  Mar-16*,-215.0,SAWP
+54,Tax,12  Mar-16*,-677.0,SAWP
+55,Profit after tax,12  Mar-16*,-170.0,SAWP
+56,Gross profit margin,12  Mar-16*,10.0,SAWP
+57,Effective tax rate,12  Mar-16*,107.0,SAWP
+58,Net profit margin,12  Mar-16*,-0.2,SAWP
+59,Current assets,12  Mar-16*,57085.0,SAWP
+60,Current liabilities,12  Mar-16*,47379.0,SAWP
+61,Net working cap to sales,12  Mar-16*,12.6,SAWP
+62,Current ratio,12  Mar-16*,1.2,SAWP
+63,Inventory Days,12  Mar-16*,117.0,SAWP
+64,Debtors Days,12  Mar-16*,83.0,SAWP
+65,Net fixed assets,12  Mar-16*,82317.0,SAWP
+66,Share capital,12  Mar-16*,609.0,SAWP
+67,"""Free"" reserves",12  Mar-16*,50615.0,SAWP
+68,Net worth,12  Mar-16*,51224.0,SAWP
+69,Long term debt,12  Mar-16*,40471.0,SAWP
+70,Total assets,12  Mar-16*,145641.0,SAWP
+71,Interest coverage,12  Mar-16*,0.9,SAWP
+72,Debt to equity ratio,12  Mar-16*,0.8,SAWP
+73,Sales to assets ratio,12  Mar-16*,0.5,SAWP
+74,Return on assets,12  Mar-16*,4.5,SAWP
+75,Return on equity,12  Mar-16*,-0.3,SAWP
+76,Return on capital,12  Mar-16*,6.5,SAWP
+77,Exports to sales,12  Mar-16*,0.0,SAWP
+78,Imports to sales,12  Mar-16*,0.0,SAWP
+79,Exports (fob),12  Mar-16*,0.0,SAWP
+80,Imports (cif),12  Mar-16*,0.0,SAWP
+81,Fx inflow,12  Mar-16*,33068.0,SAWP
+82,Fx outflow,12  Mar-16*,34268.0,SAWP
+83,Net fx,12  Mar-16*,-1200.0,SAWP
+84,From Operations,12  Mar-16*,9173.0,SAWP
+85,From Investments,12  Mar-16*,-4981.0,SAWP
+86,From Financial Activity,12  Mar-16*,-5121.0,SAWP
+87,Net Cashflow,12  Mar-16*,-1122.0,SAWP
+88,Net Sales,12  Mar-17*,70701.0,SAWP
+89,Other income,12  Mar-17*,1979.0,SAWP
+90,Total revenues,12  Mar-17*,72680.0,SAWP
+91,Gross profit,12  Mar-17*,8140.0,SAWP
+92,Depreciation,12  Mar-17*,3374.0,SAWP
+93,Interest,12  Mar-17*,5686.0,SAWP
+94,Profit before tax,12  Mar-17*,1058.0,SAWP
+95,Minority Interest,12  Mar-17*,-86.0,SAWP
+96,Prior Period Items,12  Mar-17*,0.0,SAWP
+97,Extraordinary Inc (Exp),12  Mar-17*,959.0,SAWP
+98,Tax,12  Mar-17*,627.0,SAWP
+99,Profit after tax,12  Mar-17*,1303.0,SAWP
+100,Gross profit margin,12  Mar-17*,11.5,SAWP
+101,Effective tax rate,12  Mar-17*,59.3,SAWP
+102,Net profit margin,12  Mar-17*,1.8,SAWP
+103,Current assets,12  Mar-17*,46796.0,SAWP
+104,Current liabilities,12  Mar-17*,38241.0,SAWP
+105,Net working cap to sales,12  Mar-17*,12.1,SAWP
+106,Current ratio,12  Mar-17*,1.2,SAWP
+107,Inventory Days,12  Mar-17*,119.0,SAWP
+108,Debtors Days,12  Mar-17*,71.0,SAWP
+109,Net fixed assets,12  Mar-17*,75566.0,SAWP
+110,Share capital,12  Mar-17*,640.0,SAWP
+111,"""Free"" reserves",12  Mar-17*,53222.0,SAWP
+112,Net worth,12  Mar-17*,53861.0,SAWP
+113,Long term debt,12  Mar-17*,33022.0,SAWP
+114,Total assets,12  Mar-17*,131258.0,SAWP
+115,Interest coverage,12  Mar-17*,1.2,SAWP
+116,Debt to equity ratio,12  Mar-17*,0.6,SAWP
+117,Sales to assets ratio,12  Mar-17*,0.5,SAWP
+118,Return on assets,12  Mar-17*,5.3,SAWP
+119,Return on equity,12  Mar-17*,2.4,SAWP
+120,Return on capital,12  Mar-17*,8.8,SAWP
+121,Exports to sales,12  Mar-17*,0.0,SAWP
+122,Imports to sales,12  Mar-17*,0.0,SAWP
+123,Exports (fob),12  Mar-17*,0.0,SAWP
+124,Imports (cif),12  Mar-17*,0.0,SAWP
+125,Fx inflow,12  Mar-17*,30663.0,SAWP
+126,Fx outflow,12  Mar-17*,39055.0,SAWP
+127,Net fx,12  Mar-17*,-8392.0,SAWP
+128,From Operations,12  Mar-17*,11628.0,SAWP
+129,From Investments,12  Mar-17*,-4255.0,SAWP
+130,From Financial Activity,12  Mar-17*,-8159.0,SAWP
+131,Net Cashflow,12  Mar-17*,-801.0,SAWP
+132,Net Sales,12  Mar-18*,85066.0,SAWP
+133,Other income,12  Mar-18*,1277.0,SAWP
+134,Total revenues,12  Mar-18*,86344.0,SAWP
+135,Gross profit,12  Mar-18*,10448.0,SAWP
+136,Depreciation,12  Mar-18*,3635.0,SAWP
+137,Interest,12  Mar-18*,5792.0,SAWP
+138,Profit before tax,12  Mar-18*,2299.0,SAWP
+139,Minority Interest,12  Mar-18*,-54.0,SAWP
+140,Prior Period Items,12  Mar-18*,0.0,SAWP
+141,Extraordinary Inc (Exp),12  Mar-18*,-908.0,SAWP
+142,Tax,12  Mar-18*,1331.0,SAWP
+143,Profit after tax,12  Mar-18*,6.0,SAWP
+144,Gross profit margin,12  Mar-18*,12.3,SAWP
+145,Effective tax rate,12  Mar-18*,57.9,SAWP
+146,Net profit margin,12  Mar-18*,0.0,SAWP
+147,Current assets,12  Mar-18*,53390.0,SAWP
+148,Current liabilities,12  Mar-18*,42193.0,SAWP
+149,Net working cap to sales,12  Mar-18*,13.2,SAWP
+150,Current ratio,12  Mar-18*,1.3,SAWP
+151,Inventory Days,12  Mar-18*,106.0,SAWP
+152,Debtors Days,12  Mar-18*,83.0,SAWP
+153,Net fixed assets,12  Mar-18*,72466.0,SAWP
+154,Share capital,12  Mar-18*,640.0,SAWP
+155,"""Free"" reserves",12  Mar-18*,54324.0,SAWP
+156,Net worth,12  Mar-18*,54964.0,SAWP
+157,Long term debt,12  Mar-18*,33115.0,SAWP
+158,Total assets,12  Mar-18*,135239.0,SAWP
+159,Interest coverage,12  Mar-18*,1.4,SAWP
+160,Debt to equity ratio,12  Mar-18*,0.6,SAWP
+161,Sales to assets ratio,12  Mar-18*,0.6,SAWP
+162,Return on assets,12  Mar-18*,4.3,SAWP
+163,Return on equity,12  Mar-18*,0.0,SAWP
+164,Return on capital,12  Mar-18*,8.1,SAWP
+165,Exports to sales,12  Mar-18*,0.0,SAWP
+166,Imports to sales,12  Mar-18*,0.0,SAWP
+167,Exports (fob),12  Mar-18*,0.0,SAWP
+168,Imports (cif),12  Mar-18*,0.0,SAWP
+169,Fx inflow,12  Mar-18*,22160.0,SAWP
+170,Fx outflow,12  Mar-18*,35237.0,SAWP
+171,Net fx,12  Mar-18*,-13077.0,SAWP
+172,From Operations,12  Mar-18*,5651.0,SAWP
+173,From Investments,12  Mar-18*,-1203.0,SAWP
+174,From Financial Activity,12  Mar-18*,-4696.0,SAWP
+175,Net Cashflow,12  Mar-18*,-252.0,SAWP
+176,Net Sales,12  Mar-19*,121170.0,SAWP
+177,Other income,12  Mar-19*,1462.0,SAWP
+178,Total revenues,12  Mar-19*,122632.0,SAWP
+179,Gross profit,12  Mar-19*,14751.0,SAWP
+180,Depreciation,12  Mar-19*,3963.0,SAWP
+181,Interest,12  Mar-19*,6152.0,SAWP
+182,Profit before tax,12  Mar-19*,6097.0,SAWP
+183,Minority Interest,12  Mar-19*,0.0,SAWP
+184,Prior Period Items,12  Mar-19*,0.0,SAWP
+185,Extraordinary Inc (Exp),12  Mar-19*,3779.0,SAWP
+186,Tax,12  Mar-19*,2116.0,SAWP
+187,Profit after tax,12  Mar-19*,7760.0,SAWP
+188,Gross profit margin,12  Mar-19*,12.2,SAWP
+189,Effective tax rate,12  Mar-19*,34.7,SAWP
+190,Net profit margin,12  Mar-19*,6.4,SAWP
+191,Current assets,12  Mar-19*,64297.0,SAWP
+192,Current liabilities,12  Mar-19*,57985.0,SAWP
+193,Net working cap to sales,12  Mar-19*,5.2,SAWP
+194,Current ratio,12  Mar-19*,1.1,SAWP
+195,Inventory Days,12  Mar-19*,96.0,SAWP
+196,Debtors Days,12  Mar-19*,67.0,SAWP
+197,Net fixed assets,12  Mar-19*,74226.0,SAWP
+198,Share capital,12  Mar-19*,640.0,SAWP
+199,"""Free"" reserves",12  Mar-19*,62184.0,SAWP
+200,Net worth,12  Mar-19*,62824.0,SAWP
+201,Long term debt,12  Mar-19*,26331.0,SAWP
+202,Total assets,12  Mar-19*,151711.0,SAWP
+203,Interest coverage,12  Mar-19*,2.0,SAWP
+204,Debt to equity ratio,12  Mar-19*,0.4,SAWP
+205,Sales to assets ratio,12  Mar-19*,0.8,SAWP
+206,Return on assets,12  Mar-19*,9.2,SAWP
+207,Return on equity,12  Mar-19*,12.4,SAWP
+208,Return on capital,12  Mar-19*,18.0,SAWP
+209,Exports to sales,12  Mar-19*,0.0,SAWP
+210,Imports to sales,12  Mar-19*,0.0,SAWP
+211,Exports (fob),12  Mar-19*,0.0,SAWP
+212,Imports (cif),12  Mar-19*,0.0,SAWP
+213,Fx inflow,12  Mar-19*,36182.0,SAWP
+214,Fx outflow,12  Mar-19*,28382.0,SAWP
+215,Net fx,12  Mar-19*,7800.0,SAWP
+216,From Operations,12  Mar-19*,15673.0,SAWP
+217,From Investments,12  Mar-19*,-5161.0,SAWP
+218,From Financial Activity,12  Mar-19*,-9769.0,SAWP
+219,Net Cashflow,12  Mar-19*,723.0,SAWP

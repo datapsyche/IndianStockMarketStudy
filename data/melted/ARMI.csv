@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,78514.0,ARMI
+1,Other income,12  Mar-15*,932.0,ARMI
+2,Total revenues,12  Mar-15*,79446.0,ARMI
+3,Gross profit,12  Mar-15*,10130.0,ARMI
+4,Depreciation,12  Mar-15*,2124.0,ARMI
+5,Interest,12  Mar-15*,3946.0,ARMI
+6,Profit before tax,12  Mar-15*,4993.0,ARMI
+7,Minority Interest,12  Mar-15*,-35.0,ARMI
+8,Prior Period Items,12  Mar-15*,0.0,ARMI
+9,Extraordinary Inc (Exp),12  Mar-15*,-543.0,ARMI
+10,Tax,12  Mar-15*,1004.0,ARMI
+11,Profit after tax,12  Mar-15*,3411.0,ARMI
+12,Gross profit margin,12  Mar-15*,12.9,ARMI
+13,Effective tax rate,12  Mar-15*,20.1,ARMI
+14,Net profit margin,12  Mar-15*,4.3,ARMI
+15,Current assets,12  Mar-15*,39914.0,ARMI
+16,Current liabilities,12  Mar-15*,37223.0,ARMI
+17,Net working cap to sales,12  Mar-15*,3.4,ARMI
+18,Current ratio,12  Mar-15*,1.1,ARMI
+19,Inventory Days,12  Mar-15*,86.0,ARMI
+20,Debtors Days,12  Mar-15*,54.0,ARMI
+21,Net fixed assets,12  Mar-15*,33082.0,ARMI
+22,Share capital,12  Mar-15*,2582.0,ARMI
+23,"""Free"" reserves",12  Mar-15*,21490.0,ARMI
+24,Net worth,12  Mar-15*,27239.0,ARMI
+25,Long term debt,12  Mar-15*,13941.0,ARMI
+26,Total assets,12  Mar-15*,79757.0,ARMI
+27,Interest coverage,12  Mar-15*,2.3,ARMI
+28,Debt to equity ratio,12  Mar-15*,0.5,ARMI
+29,Sales to assets ratio,12  Mar-15*,1.0,ARMI
+30,Return on assets,12  Mar-15*,9.2,ARMI
+31,Return on equity,12  Mar-15*,12.5,ARMI
+32,Return on capital,12  Mar-15*,20.3,ARMI
+33,Exports to sales,12  Mar-15*,25.2,ARMI
+34,Imports to sales,12  Mar-15*,7.9,ARMI
+35,Exports (fob),12  Mar-15*,19787.0,ARMI
+36,Imports (cif),12  Mar-15*,6217.0,ARMI
+37,Fx inflow,12  Mar-15*,19791.0,ARMI
+38,Fx outflow,12  Mar-15*,7186.0,ARMI
+39,Net fx,12  Mar-15*,12605.0,ARMI
+40,From Operations,12  Mar-15*,5584.0,ARMI
+41,From Investments,12  Mar-15*,-5874.0,ARMI
+42,From Financial Activity,12  Mar-15*,-485.0,ARMI
+43,Net Cashflow,12  Mar-15*,-775.0,ARMI
+44,Net Sales,12  Mar-16*,80106.0,ARMI
+45,Other income,12  Mar-16*,821.0,ARMI
+46,Total revenues,12  Mar-16*,80926.0,ARMI
+47,Gross profit,12  Mar-16*,9497.0,ARMI
+48,Depreciation,12  Mar-16*,2391.0,ARMI
+49,Interest,12  Mar-16*,3586.0,ARMI
+50,Profit before tax,12  Mar-16*,4340.0,ARMI
+51,Minority Interest,12  Mar-16*,54.0,ARMI
+52,Prior Period Items,12  Mar-16*,0.0,ARMI
+53,Extraordinary Inc (Exp),12  Mar-16*,14.0,ARMI
+54,Tax,12  Mar-16*,1246.0,ARMI
+55,Profit after tax,12  Mar-16*,3161.0,ARMI
+56,Gross profit margin,12  Mar-16*,11.9,ARMI
+57,Effective tax rate,12  Mar-16*,28.7,ARMI
+58,Net profit margin,12  Mar-16*,3.9,ARMI
+59,Current assets,12  Mar-16*,36722.0,ARMI
+60,Current liabilities,12  Mar-16*,38333.0,ARMI
+61,Net working cap to sales,12  Mar-16*,-2.0,ARMI
+62,Current ratio,12  Mar-16*,1.0,ARMI
+63,Inventory Days,12  Mar-16*,88.0,ARMI
+64,Debtors Days,12  Mar-16*,35.0,ARMI
+65,Net fixed assets,12  Mar-16*,36236.0,ARMI
+66,Share capital,12  Mar-16*,2582.0,ARMI
+67,"""Free"" reserves",12  Mar-16*,23882.0,ARMI
+68,Net worth,12  Mar-16*,26464.0,ARMI
+69,Long term debt,12  Mar-16*,14926.0,ARMI
+70,Total assets,12  Mar-16*,81920.0,ARMI
+71,Interest coverage,12  Mar-16*,2.2,ARMI
+72,Debt to equity ratio,12  Mar-16*,0.6,ARMI
+73,Sales to assets ratio,12  Mar-16*,1.0,ARMI
+74,Return on assets,12  Mar-16*,8.2,ARMI
+75,Return on equity,12  Mar-16*,11.9,ARMI
+76,Return on capital,12  Mar-16*,19.3,ARMI
+77,Exports to sales,12  Mar-16*,25.6,ARMI
+78,Imports to sales,12  Mar-16*,6.1,ARMI
+79,Exports (fob),12  Mar-16*,20535.0,ARMI
+80,Imports (cif),12  Mar-16*,4854.0,ARMI
+81,Fx inflow,12  Mar-16*,20535.0,ARMI
+82,Fx outflow,12  Mar-16*,5837.0,ARMI
+83,Net fx,12  Mar-16*,14698.0,ARMI
+84,From Operations,12  Mar-16*,6503.0,ARMI
+85,From Investments,12  Mar-16*,-5025.0,ARMI
+86,From Financial Activity,12  Mar-16*,-1509.0,ARMI
+87,Net Cashflow,12  Mar-16*,-31.0,ARMI
+88,Net Sales,12  Mar-17*,92577.0,ARMI
+89,Other income,12  Mar-17*,817.0,ARMI
+90,Total revenues,12  Mar-17*,93394.0,ARMI
+91,Gross profit,12  Mar-17*,9388.0,ARMI
+92,Depreciation,12  Mar-17*,2943.0,ARMI
+93,Interest,12  Mar-17*,2884.0,ARMI
+94,Profit before tax,12  Mar-17*,4378.0,ARMI
+95,Minority Interest,12  Mar-17*,0.0,ARMI
+96,Prior Period Items,12  Mar-17*,0.0,ARMI
+97,Extraordinary Inc (Exp),12  Mar-17*,-181.0,ARMI
+98,Tax,12  Mar-17*,989.0,ARMI
+99,Profit after tax,12  Mar-17*,3209.0,ARMI
+100,Gross profit margin,12  Mar-17*,10.1,ARMI
+101,Effective tax rate,12  Mar-17*,22.6,ARMI
+102,Net profit margin,12  Mar-17*,3.5,ARMI
+103,Current assets,12  Mar-17*,40834.0,ARMI
+104,Current liabilities,12  Mar-17*,39289.0,ARMI
+105,Net working cap to sales,12  Mar-17*,1.7,ARMI
+106,Current ratio,12  Mar-17*,1.0,ARMI
+107,Inventory Days,12  Mar-17*,94.0,ARMI
+108,Debtors Days,12  Mar-17*,31.0,ARMI
+109,Net fixed assets,12  Mar-17*,37684.0,ARMI
+110,Share capital,12  Mar-17*,2584.0,ARMI
+111,"""Free"" reserves",12  Mar-17*,33098.0,ARMI
+112,Net worth,12  Mar-17*,35682.0,ARMI
+113,Long term debt,12  Mar-17*,7566.0,ARMI
+114,Total assets,12  Mar-17*,86680.0,ARMI
+115,Interest coverage,12  Mar-17*,2.5,ARMI
+116,Debt to equity ratio,12  Mar-17*,0.2,ARMI
+117,Sales to assets ratio,12  Mar-17*,1.1,ARMI
+118,Return on assets,12  Mar-17*,7.0,ARMI
+119,Return on equity,12  Mar-17*,9.0,ARMI
+120,Return on capital,12  Mar-17*,16.4,ARMI
+121,Exports to sales,12  Mar-17*,0.0,ARMI
+122,Imports to sales,12  Mar-17*,0.0,ARMI
+123,Exports (fob),12  Mar-17*,0.0,ARMI
+124,Imports (cif),12  Mar-17*,0.0,ARMI
+125,Fx inflow,12  Mar-17*,23507.0,ARMI
+126,Fx outflow,12  Mar-17*,4976.0,ARMI
+127,Net fx,12  Mar-17*,18530.0,ARMI
+128,From Operations,12  Mar-17*,5511.0,ARMI
+129,From Investments,12  Mar-17*,665.0,ARMI
+130,From Financial Activity,12  Mar-17*,-6211.0,ARMI
+131,Net Cashflow,12  Mar-17*,-35.0,ARMI
+132,Net Sales,12  Mar-18*,67937.0,ARMI
+133,Other income,12  Mar-18*,741.0,ARMI
+134,Total revenues,12  Mar-18*,68677.0,ARMI
+135,Gross profit,12  Mar-18*,6768.0,ARMI
+136,Depreciation,12  Mar-18*,2224.0,ARMI
+137,Interest,12  Mar-18*,1757.0,ARMI
+138,Profit before tax,12  Mar-18*,3528.0,ARMI
+139,Minority Interest,12  Mar-18*,0.0,ARMI
+140,Prior Period Items,12  Mar-18*,0.0,ARMI
+141,Extraordinary Inc (Exp),12  Mar-18*,-227.0,ARMI
+142,Tax,12  Mar-18*,694.0,ARMI
+143,Profit after tax,12  Mar-18*,2607.0,ARMI
+144,Gross profit margin,12  Mar-18*,10.0,ARMI
+145,Effective tax rate,12  Mar-18*,19.7,ARMI
+146,Net profit margin,12  Mar-18*,3.8,ARMI
+147,Current assets,12  Mar-18*,55394.0,ARMI
+148,Current liabilities,12  Mar-18*,51048.0,ARMI
+149,Net working cap to sales,12  Mar-18*,6.4,ARMI
+150,Current ratio,12  Mar-18*,1.1,ARMI
+151,Inventory Days,12  Mar-18*,121.0,ARMI
+152,Debtors Days,12  Mar-18*,95.0,ARMI
+153,Net fixed assets,12  Mar-18*,37153.0,ARMI
+154,Share capital,12  Mar-18*,2586.0,ARMI
+155,"""Free"" reserves",12  Mar-18*,35242.0,ARMI
+156,Net worth,12  Mar-18*,37829.0,ARMI
+157,Long term debt,12  Mar-18*,8487.0,ARMI
+158,Total assets,12  Mar-18*,102584.0,ARMI
+159,Interest coverage,12  Mar-18*,3.0,ARMI
+160,Debt to equity ratio,12  Mar-18*,0.2,ARMI
+161,Sales to assets ratio,12  Mar-18*,0.7,ARMI
+162,Return on assets,12  Mar-18*,4.3,ARMI
+163,Return on equity,12  Mar-18*,6.9,ARMI
+164,Return on capital,12  Mar-18*,10.9,ARMI
+165,Exports to sales,12  Mar-18*,0.0,ARMI
+166,Imports to sales,12  Mar-18*,0.0,ARMI
+167,Exports (fob),12  Mar-18*,0.0,ARMI
+168,Imports (cif),12  Mar-18*,0.0,ARMI
+169,Fx inflow,12  Mar-18*,26181.0,ARMI
+170,Fx outflow,12  Mar-18*,4982.0,ARMI
+171,Net fx,12  Mar-18*,21199.0,ARMI
+172,From Operations,12  Mar-18*,4285.0,ARMI
+173,From Investments,12  Mar-18*,-3560.0,ARMI
+174,From Financial Activity,12  Mar-18*,-554.0,ARMI
+175,Net Cashflow,12  Mar-18*,197.0,ARMI
+176,Net Sales,12  Mar-19*,71422.0,ARMI
+177,Other income,12  Mar-19*,837.0,ARMI
+178,Total revenues,12  Mar-19*,72259.0,ARMI
+179,Gross profit,12  Mar-19*,7177.0,ARMI
+180,Depreciation,12  Mar-19*,2351.0,ARMI
+181,Interest,12  Mar-19*,2201.0,ARMI
+182,Profit before tax,12  Mar-19*,3463.0,ARMI
+183,Minority Interest,12  Mar-19*,0.0,ARMI
+184,Prior Period Items,12  Mar-19*,0.0,ARMI
+185,Extraordinary Inc (Exp),12  Mar-19*,-460.0,ARMI
+186,Tax,12  Mar-19*,615.0,ARMI
+187,Profit after tax,12  Mar-19*,2387.0,ARMI
+188,Gross profit margin,12  Mar-19*,10.0,ARMI
+189,Effective tax rate,12  Mar-19*,17.8,ARMI
+190,Net profit margin,12  Mar-19*,3.3,ARMI
+191,Current assets,12  Mar-19*,34014.0,ARMI
+192,Current liabilities,12  Mar-19*,34075.0,ARMI
+193,Net working cap to sales,12  Mar-19*,-0.1,ARMI
+194,Current ratio,12  Mar-19*,1.0,ARMI
+195,Inventory Days,12  Mar-19*,82.0,ARMI
+196,Debtors Days,12  Mar-19*,46.0,ARMI
+197,Net fixed assets,12  Mar-19*,34941.0,ARMI
+198,Share capital,12  Mar-19*,2586.0,ARMI
+199,"""Free"" reserves",12  Mar-19*,24918.0,ARMI
+200,Net worth,12  Mar-19*,27504.0,ARMI
+201,Long term debt,12  Mar-19*,9348.0,ARMI
+202,Total assets,12  Mar-19*,73336.0,ARMI
+203,Interest coverage,12  Mar-19*,2.6,ARMI
+204,Debt to equity ratio,12  Mar-19*,0.3,ARMI
+205,Sales to assets ratio,12  Mar-19*,1.0,ARMI
+206,Return on assets,12  Mar-19*,6.3,ARMI
+207,Return on equity,12  Mar-19*,8.7,ARMI
+208,Return on capital,12  Mar-19*,14.1,ARMI
+209,Exports to sales,12  Mar-19*,0.0,ARMI
+210,Imports to sales,12  Mar-19*,0.0,ARMI
+211,Exports (fob),12  Mar-19*,0.0,ARMI
+212,Imports (cif),12  Mar-19*,0.0,ARMI
+213,Fx inflow,12  Mar-19*,27917.0,ARMI
+214,Fx outflow,12  Mar-19*,5704.0,ARMI
+215,Net fx,12  Mar-19*,22213.0,ARMI
+216,From Operations,12  Mar-19*,23582.0,ARMI
+217,From Investments,12  Mar-19*,865.0,ARMI
+218,From Financial Activity,12  Mar-19*,-10194.0,ARMI
+219,Net Cashflow,12  Mar-19*,330.0,ARMI

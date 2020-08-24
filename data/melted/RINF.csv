@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,901.0,RINF
+1,Other income,12  Mar-15*,107.0,RINF
+2,Total revenues,12  Mar-15*,1008.0,RINF
+3,Gross profit,12  Mar-15*,262.0,RINF
+4,Depreciation,12  Mar-15*,113.0,RINF
+5,Interest,12  Mar-15*,0.0,RINF
+6,Profit before tax,12  Mar-15*,256.0,RINF
+7,Minority Interest,12  Mar-15*,0.0,RINF
+8,Prior Period Items,12  Mar-15*,0.0,RINF
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,RINF
+10,Tax,12  Mar-15*,26.0,RINF
+11,Profit after tax,12  Mar-15*,230.0,RINF
+12,Gross profit margin,12  Mar-15*,29.1,RINF
+13,Effective tax rate,12  Mar-15*,10.3,RINF
+14,Net profit margin,12  Mar-15*,25.5,RINF
+15,Current assets,12  Mar-15*,1032,RINF
+16,Current liabilities,12  Mar-15*,238,RINF
+17,Net working cap to sales,12  Mar-15*,88.1,RINF
+18,Current ratio,12  Mar-15*,4.3,RINF
+19,Inventory Days,12  Mar-15*,5,RINF
+20,Debtors Days,12  Mar-15*,65,RINF
+21,Net fixed assets,12  Mar-15*,1145,RINF
+22,Share capital,12  Mar-15*,151,RINF
+23,"""Free"" reserves",12  Mar-15*,3004,RINF
+24,Net worth,12  Mar-15*,3155,RINF
+25,Long term debt,12  Mar-15*,0,RINF
+26,Total assets,12  Mar-15*,3668,RINF
+27,Interest coverage,12  Mar-15*,NM,RINF
+28,Debt to equity ratio,12  Mar-15*,0,RINF
+29,Sales to assets ratio,12  Mar-15*,0.2,RINF
+30,Return on assets,12  Mar-15*,6.3,RINF
+31,Return on equity,12  Mar-15*,7.3,RINF
+32,Return on capital,12  Mar-15*,8.1,RINF
+33,Exports to sales,12  Mar-15*,0,RINF
+34,Imports to sales,12  Mar-15*,0,RINF
+35,Exports (fob),12  Mar-15*,0,RINF
+36,Imports (cif),12  Mar-15*,0,RINF
+37,Fx inflow,12  Mar-15*,0,RINF
+38,Fx outflow,12  Mar-15*,0,RINF
+39,Net fx,12  Mar-15*,0,RINF
+40,From Operations,12  Mar-15*,406,RINF
+41,From Investments,12  Mar-15*,-333,RINF
+42,From Financial Activity,12  Mar-15*,-60,RINF
+43,Net Cashflow,12  Mar-15*,13,RINF
+44,Net Sales,12  Mar-16*,897.0,RINF
+45,Other income,12  Mar-16*,113.0,RINF
+46,Total revenues,12  Mar-16*,1010.0,RINF
+47,Gross profit,12  Mar-16*,220.0,RINF
+48,Depreciation,12  Mar-16*,123.0,RINF
+49,Interest,12  Mar-16*,0.0,RINF
+50,Profit before tax,12  Mar-16*,209.0,RINF
+51,Minority Interest,12  Mar-16*,9.0,RINF
+52,Prior Period Items,12  Mar-16*,0.0,RINF
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,RINF
+54,Tax,12  Mar-16*,53.0,RINF
+55,Profit after tax,12  Mar-16*,165.0,RINF
+56,Gross profit margin,12  Mar-16*,24.5,RINF
+57,Effective tax rate,12  Mar-16*,25.4,RINF
+58,Net profit margin,12  Mar-16*,18.4,RINF
+59,Current assets,12  Mar-16*,1155,RINF
+60,Current liabilities,12  Mar-16*,291,RINF
+61,Net working cap to sales,12  Mar-16*,96.4,RINF
+62,Current ratio,12  Mar-16*,4.0,RINF
+63,Inventory Days,12  Mar-16*,7,RINF
+64,Debtors Days,12  Mar-16*,88,RINF
+65,Net fixed assets,12  Mar-16*,1175,RINF
+66,Share capital,12  Mar-16*,151,RINF
+67,"""Free"" reserves",12  Mar-16*,3137,RINF
+68,Net worth,12  Mar-16*,3288,RINF
+69,Long term debt,12  Mar-16*,0,RINF
+70,Total assets,12  Mar-16*,3825,RINF
+71,Interest coverage,12  Mar-16*,NM,RINF
+72,Debt to equity ratio,12  Mar-16*,0,RINF
+73,Sales to assets ratio,12  Mar-16*,0.2,RINF
+74,Return on assets,12  Mar-16*,4.3,RINF
+75,Return on equity,12  Mar-16*,5.0,RINF
+76,Return on capital,12  Mar-16*,6.6,RINF
+77,Exports to sales,12  Mar-16*,0,RINF
+78,Imports to sales,12  Mar-16*,0,RINF
+79,Exports (fob),12  Mar-16*,0,RINF
+80,Imports (cif),12  Mar-16*,0,RINF
+81,Fx inflow,12  Mar-16*,0,RINF
+82,Fx outflow,12  Mar-16*,1,RINF
+83,Net fx,12  Mar-16*,-1,RINF
+84,From Operations,12  Mar-16*,161,RINF
+85,From Investments,12  Mar-16*,-98,RINF
+86,From Financial Activity,12  Mar-16*,-63,RINF
+87,Net Cashflow,12  Mar-16*,0,RINF
+88,Net Sales,12  Mar-17*,932.0,RINF
+89,Other income,12  Mar-17*,156.0,RINF
+90,Total revenues,12  Mar-17*,1088.0,RINF
+91,Gross profit,12  Mar-17*,191.0,RINF
+92,Depreciation,12  Mar-17*,144.0,RINF
+93,Interest,12  Mar-17*,0.0,RINF
+94,Profit before tax,12  Mar-17*,203.0,RINF
+95,Minority Interest,12  Mar-17*,6.0,RINF
+96,Prior Period Items,12  Mar-17*,0.0,RINF
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,RINF
+98,Tax,12  Mar-17*,38.0,RINF
+99,Profit after tax,12  Mar-17*,170.0,RINF
+100,Gross profit margin,12  Mar-17*,20.5,RINF
+101,Effective tax rate,12  Mar-17*,18.9,RINF
+102,Net profit margin,12  Mar-17*,18.3,RINF
+103,Current assets,12  Mar-17*,439,RINF
+104,Current liabilities,12  Mar-17*,206,RINF
+105,Net working cap to sales,12  Mar-17*,25.0,RINF
+106,Current ratio,12  Mar-17*,2.1,RINF
+107,Inventory Days,12  Mar-17*,7,RINF
+108,Debtors Days,12  Mar-17*,75,RINF
+109,Net fixed assets,12  Mar-17*,1067,RINF
+110,Share capital,12  Mar-17*,151,RINF
+111,"""Free"" reserves",12  Mar-17*,3272,RINF
+112,Net worth,12  Mar-17*,3423,RINF
+113,Long term debt,12  Mar-17*,0,RINF
+114,Total assets,12  Mar-17*,3843,RINF
+115,Interest coverage,12  Mar-17*,NM,RINF
+116,Debt to equity ratio,12  Mar-17*,0,RINF
+117,Sales to assets ratio,12  Mar-17*,0.2,RINF
+118,Return on assets,12  Mar-17*,4.4,RINF
+119,Return on equity,12  Mar-17*,5.0,RINF
+120,Return on capital,12  Mar-17*,6.1,RINF
+121,Exports to sales,12  Mar-17*,0,RINF
+122,Imports to sales,12  Mar-17*,0,RINF
+123,Exports (fob),12  Mar-17*,0,RINF
+124,Imports (cif),12  Mar-17*,0,RINF
+125,Fx inflow,12  Mar-17*,0,RINF
+126,Fx outflow,12  Mar-17*,105,RINF
+127,Net fx,12  Mar-17*,-105,RINF
+128,From Operations,12  Mar-17*,263,RINF
+129,From Investments,12  Mar-17*,-192,RINF
+130,From Financial Activity,12  Mar-17*,-63,RINF
+131,Net Cashflow,12  Mar-17*,8,RINF
+132,Net Sales,12  Mar-18*,1039.0,RINF
+133,Other income,12  Mar-18*,127.0,RINF
+134,Total revenues,12  Mar-18*,1166.0,RINF
+135,Gross profit,12  Mar-18*,164.0,RINF
+136,Depreciation,12  Mar-18*,139.0,RINF
+137,Interest,12  Mar-18*,0.0,RINF
+138,Profit before tax,12  Mar-18*,151.0,RINF
+139,Minority Interest,12  Mar-18*,11.0,RINF
+140,Prior Period Items,12  Mar-18*,0.0,RINF
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,RINF
+142,Tax,12  Mar-18*,54.0,RINF
+143,Profit after tax,12  Mar-18*,109.0,RINF
+144,Gross profit margin,12  Mar-18*,15.8,RINF
+145,Effective tax rate,12  Mar-18*,35.6,RINF
+146,Net profit margin,12  Mar-18*,10.5,RINF
+147,Current assets,12  Mar-18*,478,RINF
+148,Current liabilities,12  Mar-18*,252,RINF
+149,Net working cap to sales,12  Mar-18*,21.8,RINF
+150,Current ratio,12  Mar-18*,1.9,RINF
+151,Inventory Days,12  Mar-18*,6,RINF
+152,Debtors Days,12  Mar-18*,65,RINF
+153,Net fixed assets,12  Mar-18*,948,RINF
+154,Share capital,12  Mar-18*,151,RINF
+155,"""Free"" reserves",12  Mar-18*,3389,RINF
+156,Net worth,12  Mar-18*,3540,RINF
+157,Long term debt,12  Mar-18*,0,RINF
+158,Total assets,12  Mar-18*,3980,RINF
+159,Interest coverage,12  Mar-18*,NM,RINF
+160,Debt to equity ratio,12  Mar-18*,0,RINF
+161,Sales to assets ratio,12  Mar-18*,0.3,RINF
+162,Return on assets,12  Mar-18*,2.7,RINF
+163,Return on equity,12  Mar-18*,3.1,RINF
+164,Return on capital,12  Mar-18*,4.6,RINF
+165,Exports to sales,12  Mar-18*,0,RINF
+166,Imports to sales,12  Mar-18*,0,RINF
+167,Exports (fob),12  Mar-18*,0,RINF
+168,Imports (cif),12  Mar-18*,0,RINF
+169,Fx inflow,12  Mar-18*,0,RINF
+170,Fx outflow,12  Mar-18*,13,RINF
+171,Net fx,12  Mar-18*,-13,RINF
+172,From Operations,12  Mar-18*,124,RINF
+173,From Investments,12  Mar-18*,-73,RINF
+174,From Financial Activity,12  Mar-18*,-63,RINF
+175,Net Cashflow,12  Mar-18*,-12,RINF
+176,Net Sales,12  Mar-19*,991.0,RINF
+177,Other income,12  Mar-19*,152.0,RINF
+178,Total revenues,12  Mar-19*,1143.0,RINF
+179,Gross profit,12  Mar-19*,110.0,RINF
+180,Depreciation,12  Mar-19*,142.0,RINF
+181,Interest,12  Mar-19*,0.0,RINF
+182,Profit before tax,12  Mar-19*,120.0,RINF
+183,Minority Interest,12  Mar-19*,15.0,RINF
+184,Prior Period Items,12  Mar-19*,0.0,RINF
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,RINF
+186,Tax,12  Mar-19*,42.0,RINF
+187,Profit after tax,12  Mar-19*,93.0,RINF
+188,Gross profit margin,12  Mar-19*,11.1,RINF
+189,Effective tax rate,12  Mar-19*,35.1,RINF
+190,Net profit margin,12  Mar-19*,9.4,RINF
+191,Current assets,12  Mar-19*,563,RINF
+192,Current liabilities,12  Mar-19*,219,RINF
+193,Net working cap to sales,12  Mar-19*,34.7,RINF
+194,Current ratio,12  Mar-19*,2.6,RINF
+195,Inventory Days,12  Mar-19*,9,RINF
+196,Debtors Days,12  Mar-19*,53,RINF
+197,Net fixed assets,12  Mar-19*,817,RINF
+198,Share capital,12  Mar-19*,151,RINF
+199,"""Free"" reserves",12  Mar-19*,3556,RINF
+200,Net worth,12  Mar-19*,3707,RINF
+201,Long term debt,12  Mar-19*,0,RINF
+202,Total assets,12  Mar-19*,4100,RINF
+203,Interest coverage,12  Mar-19*,NM,RINF
+204,Debt to equity ratio,12  Mar-19*,0,RINF
+205,Sales to assets ratio,12  Mar-19*,0.2,RINF
+206,Return on assets,12  Mar-19*,2.3,RINF
+207,Return on equity,12  Mar-19*,2.5,RINF
+208,Return on capital,12  Mar-19*,3.6,RINF
+209,Exports to sales,12  Mar-19*,0,RINF
+210,Imports to sales,12  Mar-19*,0,RINF
+211,Exports (fob),12  Mar-19*,0,RINF
+212,Imports (cif),12  Mar-19*,0,RINF
+213,Fx inflow,12  Mar-19*,0,RINF
+214,Fx outflow,12  Mar-19*,19,RINF
+215,Net fx,12  Mar-19*,-19,RINF
+216,From Operations,12  Mar-19*,131,RINF
+217,From Investments,12  Mar-19*,-71,RINF
+218,From Financial Activity,12  Mar-19*,-64,RINF
+219,Net Cashflow,12  Mar-19*,-5,RINF

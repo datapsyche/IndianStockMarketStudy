@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-15*,64536.0,SHRCM
+1,Other income,12  Jun-15*,1379.0,SHRCM
+2,Total revenues,12  Jun-15*,65914.0,SHRCM
+3,Gross profit,12  Jun-15*,13084.0,SHRCM
+4,Depreciation,12  Jun-15*,9248.0,SHRCM
+5,Interest,12  Jun-15*,1206.0,SHRCM
+6,Profit before tax,12  Jun-15*,4008.0,SHRCM
+7,Minority Interest,12  Jun-15*,0.0,SHRCM
+8,Prior Period Items,12  Jun-15*,0.0,SHRCM
+9,Extraordinary Inc (Exp),12  Jun-15*,0.0,SHRCM
+10,Tax,12  Jun-15*,-255.0,SHRCM
+11,Profit after tax,12  Jun-15*,4263.0,SHRCM
+12,Gross profit margin,12  Jun-15*,20.3,SHRCM
+13,Effective tax rate,12  Jun-15*,-6.4,SHRCM
+14,Net profit margin,12  Jun-15*,6.6,SHRCM
+15,Current assets,12  Jun-15*,20397.0,SHRCM
+16,Current liabilities,12  Jun-15*,14210.0,SHRCM
+17,Net working cap to sales,12  Jun-15*,9.6,SHRCM
+18,Current ratio,12  Jun-15*,1.4,SHRCM
+19,Inventory Days,12  Jun-15*,52.0,SHRCM
+20,Debtors Days,12  Jun-15*,27.0,SHRCM
+21,Net fixed assets,12  Jun-15*,34323.0,SHRCM
+22,Share capital,12  Jun-15*,348.0,SHRCM
+23,"""Free"" reserves",12  Jun-15*,58278.0,SHRCM
+24,Net worth,12  Jun-15*,58626.0,SHRCM
+25,Long term debt,12  Jun-15*,4080.0,SHRCM
+26,Total assets,12  Jun-15*,85546.0,SHRCM
+27,Interest coverage,12  Jun-15*,4.3,SHRCM
+28,Debt to equity ratio,12  Jun-15*,0.1,SHRCM
+29,Sales to assets ratio,12  Jun-15*,0.8,SHRCM
+30,Return on assets,12  Jun-15*,6.4,SHRCM
+31,Return on equity,12  Jun-15*,7.3,SHRCM
+32,Return on capital,12  Jun-15*,8.3,SHRCM
+33,Exports to sales,12  Jun-15*,0.0,SHRCM
+34,Imports to sales,12  Jun-15*,26.7,SHRCM
+35,Exports (fob),12  Jun-15*,0.0,SHRCM
+36,Imports (cif),12  Jun-15*,17249.0,SHRCM
+37,Fx inflow,12  Jun-15*,0.0,SHRCM
+38,Fx outflow,12  Jun-15*,17325.0,SHRCM
+39,Net fx,12  Jun-15*,-17325.0,SHRCM
+40,From Operations,12  Jun-15*,12385.0,SHRCM
+41,From Investments,12  Jun-15*,-9901.0,SHRCM
+42,From Financial Activity,12  Jun-15*,-2586.0,SHRCM
+43,Net Cashflow,12  Jun-15*,-101.0,SHRCM
+44,Net Sales,9  Mar-16*,55136.0,SHRCM
+45,Other income,9  Mar-16*,6727.0,SHRCM
+46,Total revenues,9  Mar-16*,61863.0,SHRCM
+47,Gross profit,9  Mar-16*,14069.0,SHRCM
+48,Depreciation,9  Mar-16*,8276.0,SHRCM
+49,Interest,9  Mar-16*,758.0,SHRCM
+50,Profit before tax,9  Mar-16*,11762.0,SHRCM
+51,Minority Interest,9  Mar-16*,0.0,SHRCM
+52,Prior Period Items,9  Mar-16*,0.0,SHRCM
+53,Extraordinary Inc (Exp),9  Mar-16*,0.0,SHRCM
+54,Tax,9  Mar-16*,331.0,SHRCM
+55,Profit after tax,9  Mar-16*,11431.0,SHRCM
+56,Gross profit margin,9  Mar-16*,25.5,SHRCM
+57,Effective tax rate,9  Mar-16*,2.8,SHRCM
+58,Net profit margin,9  Mar-16*,20.7,SHRCM
+59,Current assets,9  Mar-16*,18087.0,SHRCM
+60,Current liabilities,9  Mar-16*,11617.0,SHRCM
+61,Net working cap to sales,9  Mar-16*,11.7,SHRCM
+62,Current ratio,9  Mar-16*,1.6,SHRCM
+63,Inventory Days,9  Mar-16*,54.0,SHRCM
+64,Debtors Days,9  Mar-16*,22.0,SHRCM
+65,Net fixed assets,9  Mar-16*,33147.0,SHRCM
+66,Share capital,9  Mar-16*,348.0,SHRCM
+67,"""Free"" reserves",9  Mar-16*,68106.0,SHRCM
+68,Net worth,9  Mar-16*,68454.0,SHRCM
+69,Long term debt,9  Mar-16*,5307.0,SHRCM
+70,Total assets,9  Mar-16*,94632.0,SHRCM
+71,Interest coverage,9  Mar-16*,16.5,SHRCM
+72,Debt to equity ratio,9  Mar-16*,0.1,SHRCM
+73,Sales to assets ratio,9  Mar-16*,0.6,SHRCM
+74,Return on assets,9  Mar-16*,12.9,SHRCM
+75,Return on equity,9  Mar-16*,16.7,SHRCM
+76,Return on capital,9  Mar-16*,17.0,SHRCM
+77,Exports to sales,9  Mar-16*,0.0,SHRCM
+78,Imports to sales,9  Mar-16*,0.0,SHRCM
+79,Exports (fob),9  Mar-16*,0.0,SHRCM
+80,Imports (cif),9  Mar-16*,0.0,SHRCM
+81,Fx inflow,9  Mar-16*,0.0,SHRCM
+82,Fx outflow,9  Mar-16*,5723.0,SHRCM
+83,Net fx,9  Mar-16*,-5723.0,SHRCM
+84,From Operations,9  Mar-16*,15661.0,SHRCM
+85,From Investments,9  Mar-16*,-12646.0,SHRCM
+86,From Financial Activity,9  Mar-16*,-2708.0,SHRCM
+87,Net Cashflow,9  Mar-16*,308.0,SHRCM
+88,Net Sales,9  Mar-17*,85943.0,SHRCM
+89,Other income,9  Mar-17*,3618.0,SHRCM
+90,Total revenues,9  Mar-17*,89561.0,SHRCM
+91,Gross profit,9  Mar-17*,25132.0,SHRCM
+92,Depreciation,9  Mar-17*,12147.0,SHRCM
+93,Interest,9  Mar-17*,1294.0,SHRCM
+94,Profit before tax,9  Mar-17*,15308.0,SHRCM
+95,Minority Interest,9  Mar-17*,0.0,SHRCM
+96,Prior Period Items,9  Mar-17*,0.0,SHRCM
+97,Extraordinary Inc (Exp),9  Mar-17*,0.0,SHRCM
+98,Tax,9  Mar-17*,1917.0,SHRCM
+99,Profit after tax,9  Mar-17*,13391.0,SHRCM
+100,Gross profit margin,9  Mar-17*,29.2,SHRCM
+101,Effective tax rate,9  Mar-17*,12.5,SHRCM
+102,Net profit margin,9  Mar-17*,15.6,SHRCM
+103,Current assets,9  Mar-17*,32822.0,SHRCM
+104,Current liabilities,9  Mar-17*,19890.0,SHRCM
+105,Net working cap to sales,9  Mar-17*,15.0,SHRCM
+106,Current ratio,9  Mar-17*,1.7,SHRCM
+107,Inventory Days,9  Mar-17*,56.0,SHRCM
+108,Debtors Days,9  Mar-17*,14.0,SHRCM
+109,Net fixed assets,9  Mar-17*,32968.0,SHRCM
+110,Share capital,9  Mar-17*,348.0,SHRCM
+111,"""Free"" reserves",9  Mar-17*,76632.0,SHRCM
+112,Net worth,9  Mar-17*,76980.0,SHRCM
+113,Long term debt,9  Mar-17*,5187.0,SHRCM
+114,Total assets,9  Mar-17*,111661.0,SHRCM
+115,Interest coverage,9  Mar-17*,12.8,SHRCM
+116,Debt to equity ratio,9  Mar-17*,0.1,SHRCM
+117,Sales to assets ratio,9  Mar-17*,0.8,SHRCM
+118,Return on assets,9  Mar-17*,13.2,SHRCM
+119,Return on equity,9  Mar-17*,17.4,SHRCM
+120,Return on capital,9  Mar-17*,20.2,SHRCM
+121,Exports to sales,9  Mar-17*,0.0,SHRCM
+122,Imports to sales,9  Mar-17*,0.0,SHRCM
+123,Exports (fob),9  Mar-17*,0.0,SHRCM
+124,Imports (cif),9  Mar-17*,0.0,SHRCM
+125,Fx inflow,9  Mar-17*,0.0,SHRCM
+126,Fx outflow,9  Mar-17*,13886.0,SHRCM
+127,Net fx,9  Mar-17*,-13886.0,SHRCM
+128,From Operations,9  Mar-17*,22016.0,SHRCM
+129,From Investments,9  Mar-17*,-20478.0,SHRCM
+130,From Financial Activity,9  Mar-17*,-1669.0,SHRCM
+131,Net Cashflow,9  Mar-17*,-131.0,SHRCM
+132,Net Sales,12  Mar-18*,98331.0,SHRCM
+133,Other income,12  Mar-18*,3891.0,SHRCM
+134,Total revenues,12  Mar-18*,102222.0,SHRCM
+135,Gross profit,12  Mar-18*,24728.0,SHRCM
+136,Depreciation,12  Mar-18*,8994.0,SHRCM
+137,Interest,12  Mar-18*,1353.0,SHRCM
+138,Profit before tax,12  Mar-18*,18272.0,SHRCM
+139,Minority Interest,12  Mar-18*,0.0,SHRCM
+140,Prior Period Items,12  Mar-18*,0.0,SHRCM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SHRCM
+142,Tax,12  Mar-18*,4430.0,SHRCM
+143,Profit after tax,12  Mar-18*,13842.0,SHRCM
+144,Gross profit margin,12  Mar-18*,25.1,SHRCM
+145,Effective tax rate,12  Mar-18*,24.2,SHRCM
+146,Net profit margin,12  Mar-18*,14.1,SHRCM
+147,Current assets,12  Mar-18*,57003.0,SHRCM
+148,Current liabilities,12  Mar-18*,29671.0,SHRCM
+149,Net working cap to sales,12  Mar-18*,27.8,SHRCM
+150,Current ratio,12  Mar-18*,1.9,SHRCM
+151,Inventory Days,12  Mar-18*,58.0,SHRCM
+152,Debtors Days,12  Mar-18*,17.0,SHRCM
+153,Net fixed assets,12  Mar-18*,50163.0,SHRCM
+154,Share capital,12  Mar-18*,348.0,SHRCM
+155,"""Free"" reserves",12  Mar-18*,88618.0,SHRCM
+156,Net worth,12  Mar-18*,88967.0,SHRCM
+157,Long term debt,12  Mar-18*,22081.0,SHRCM
+158,Total assets,12  Mar-18*,151417.0,SHRCM
+159,Interest coverage,12  Mar-18*,14.5,SHRCM
+160,Debt to equity ratio,12  Mar-18*,0.2,SHRCM
+161,Sales to assets ratio,12  Mar-18*,0.6,SHRCM
+162,Return on assets,12  Mar-18*,10.0,SHRCM
+163,Return on equity,12  Mar-18*,15.6,SHRCM
+164,Return on capital,12  Mar-18*,17.7,SHRCM
+165,Exports to sales,12  Mar-18*,0.0,SHRCM
+166,Imports to sales,12  Mar-18*,0.0,SHRCM
+167,Exports (fob),12  Mar-18*,0.0,SHRCM
+168,Imports (cif),12  Mar-18*,0.0,SHRCM
+169,Fx inflow,12  Mar-18*,0.0,SHRCM
+170,Fx outflow,12  Mar-18*,18762.0,SHRCM
+171,Net fx,12  Mar-18*,-18762.0,SHRCM
+172,From Operations,12  Mar-18*,18788.0,SHRCM
+173,From Investments,12  Mar-18*,-35947.0,SHRCM
+174,From Financial Activity,12  Mar-18*,17262.0,SHRCM
+175,Net Cashflow,12  Mar-18*,102.0,SHRCM
+176,Net Sales,12  Mar-19*,125547.0,SHRCM
+177,Other income,12  Mar-19*,2498.0,SHRCM
+178,Total revenues,12  Mar-19*,128044.0,SHRCM
+179,Gross profit,12  Mar-19*,26156.0,SHRCM
+180,Depreciation,12  Mar-19*,14718.0,SHRCM
+181,Interest,12  Mar-19*,2479.0,SHRCM
+182,Profit before tax,12  Mar-19*,11456.0,SHRCM
+183,Minority Interest,12  Mar-19*,0.0,SHRCM
+184,Prior Period Items,12  Mar-19*,0.0,SHRCM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SHRCM
+186,Tax,12  Mar-19*,1306.0,SHRCM
+187,Profit after tax,12  Mar-19*,10151.0,SHRCM
+188,Gross profit margin,12  Mar-19*,20.8,SHRCM
+189,Effective tax rate,12  Mar-19*,11.4,SHRCM
+190,Net profit margin,12  Mar-19*,8.1,SHRCM
+191,Current assets,12  Mar-19*,47192.0,SHRCM
+192,Current liabilities,12  Mar-19*,21266.0,SHRCM
+193,Net working cap to sales,12  Mar-19*,20.7,SHRCM
+194,Current ratio,12  Mar-19*,2.2,SHRCM
+195,Inventory Days,12  Mar-19*,54.0,SHRCM
+196,Debtors Days,12  Mar-19*,30.0,SHRCM
+197,Net fixed assets,12  Mar-19*,73111.0,SHRCM
+198,Share capital,12  Mar-19*,348.0,SHRCM
+199,"""Free"" reserves",12  Mar-19*,96359.0,SHRCM
+200,Net worth,12  Mar-19*,96708.0,SHRCM
+201,Long term debt,12  Mar-19*,23094.0,SHRCM
+202,Total assets,12  Mar-19*,154931.0,SHRCM
+203,Interest coverage,12  Mar-19*,5.6,SHRCM
+204,Debt to equity ratio,12  Mar-19*,0.2,SHRCM
+205,Sales to assets ratio,12  Mar-19*,0.8,SHRCM
+206,Return on assets,12  Mar-19*,8.2,SHRCM
+207,Return on equity,12  Mar-19*,10.5,SHRCM
+208,Return on capital,12  Mar-19*,11.6,SHRCM
+209,Exports to sales,12  Mar-19*,0.0,SHRCM
+210,Imports to sales,12  Mar-19*,0.0,SHRCM
+211,Exports (fob),12  Mar-19*,0.0,SHRCM
+212,Imports (cif),12  Mar-19*,0.0,SHRCM
+213,Fx inflow,12  Mar-19*,481.0,SHRCM
+214,Fx outflow,12  Mar-19*,15642.0,SHRCM
+215,Net fx,12  Mar-19*,-15161.0,SHRCM
+216,From Operations,12  Mar-19*,20800.0,SHRCM
+217,From Investments,12  Mar-19*,-7215.0,SHRCM
+218,From Financial Activity,12  Mar-19*,-12760.0,SHRCM
+219,Net Cashflow,12  Mar-19*,842.0,SHRCM

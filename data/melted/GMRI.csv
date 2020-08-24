@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,106532.0,GMRI
+1,Other income,12  Mar-14*,3159.0,GMRI
+2,Total revenues,12  Mar-14*,109691.0,GMRI
+3,Gross profit,12  Mar-14*,25654.0,GMRI
+4,Depreciation,12  Mar-14*,14550.0,GMRI
+5,Interest,12  Mar-14*,29719.0,GMRI
+6,Profit before tax,12  Mar-14*,-15456.0,GMRI
+7,Minority Interest,12  Mar-14*,-984.0,GMRI
+8,Prior Period Items,12  Mar-14*,0.0,GMRI
+9,Extraordinary Inc (Exp),12  Mar-14*,18203.0,GMRI
+10,Tax,12  Mar-14*,1663.0,GMRI
+11,Profit after tax,12  Mar-14*,100.0,GMRI
+12,Gross profit margin,12  Mar-14*,24.1,GMRI
+13,Effective tax rate,12  Mar-14*,-10.8,GMRI
+14,Net profit margin,12  Mar-14*,0.1,GMRI
+15,Current assets,12  Mar-14*,92042.0,GMRI
+16,Current liabilities,12  Mar-14*,181858.0,GMRI
+17,Net working cap to sales,12  Mar-14*,-84.3,GMRI
+18,Current ratio,12  Mar-14*,0.5,GMRI
+19,Inventory Days,12  Mar-14*,12.0,GMRI
+20,Debtors Days,12  Mar-14*,55.0,GMRI
+21,Net fixed assets,12  Mar-14*,344643.0,GMRI
+22,Share capital,12  Mar-14*,15259.0,GMRI
+23,"""Free"" reserves",12  Mar-14*,53055.0,GMRI
+24,Net worth,12  Mar-14*,76211.0,GMRI
+25,Long term debt,12  Mar-14*,335993.0,GMRI
+26,Total assets,12  Mar-14*,651419.0,GMRI
+27,Interest coverage,12  Mar-14*,0.5,GMRI
+28,Debt to equity ratio,12  Mar-14*,4.4,GMRI
+29,Sales to assets ratio,12  Mar-14*,0.2,GMRI
+30,Return on assets,12  Mar-14*,4.6,GMRI
+31,Return on equity,12  Mar-14*,0.1,GMRI
+32,Return on capital,12  Mar-14*,7.6,GMRI
+33,Exports to sales,12  Mar-14*,0.0,GMRI
+34,Imports to sales,12  Mar-14*,0.0,GMRI
+35,Exports (fob),12  Mar-14*,0.0,GMRI
+36,Imports (cif),12  Mar-14*,0.0,GMRI
+37,Fx inflow,12  Mar-14*,4811.0,GMRI
+38,Fx outflow,12  Mar-14*,0.0,GMRI
+39,Net fx,12  Mar-14*,4811.0,GMRI
+40,From Operations,12  Mar-14*,25901.0,GMRI
+41,From Investments,12  Mar-14*,-54217.0,GMRI
+42,From Financial Activity,12  Mar-14*,6336.0,GMRI
+43,Net Cashflow,12  Mar-14*,-21981.0,GMRI
+44,Net Sales,12  Mar-15*,110877.0,GMRI
+45,Other income,12  Mar-15*,3275.0,GMRI
+46,Total revenues,12  Mar-15*,114151.0,GMRI
+47,Gross profit,12  Mar-15*,25440.0,GMRI
+48,Depreciation,12  Mar-15*,18125.0,GMRI
+49,Interest,12  Mar-15*,35719.0,GMRI
+50,Profit before tax,12  Mar-15*,-25129.0,GMRI
+51,Minority Interest,12  Mar-15*,2204.0,GMRI
+52,Prior Period Items,12  Mar-15*,172.0,GMRI
+53,Extraordinary Inc (Exp),12  Mar-15*,-3041.0,GMRI
+54,Tax,12  Mar-15*,1539.0,GMRI
+55,Profit after tax,12  Mar-15*,-27333.0,GMRI
+56,Gross profit margin,12  Mar-15*,22.9,GMRI
+57,Effective tax rate,12  Mar-15*,-6.1,GMRI
+58,Net profit margin,12  Mar-15*,-24.7,GMRI
+59,Current assets,12  Mar-15*,78111.0,GMRI
+60,Current liabilities,12  Mar-15*,118718.0,GMRI
+61,Net working cap to sales,12  Mar-15*,-36.6,GMRI
+62,Current ratio,12  Mar-15*,0.7,GMRI
+63,Inventory Days,12  Mar-15*,4.0,GMRI
+64,Debtors Days,12  Mar-15*,45.0,GMRI
+65,Net fixed assets,12  Mar-15*,320664.0,GMRI
+66,Share capital,12  Mar-15*,4361.0,GMRI
+67,"""Free"" reserves",12  Mar-15*,56105.0,GMRI
+68,Net worth,12  Mar-15*,60466.0,GMRI
+69,Long term debt,12  Mar-15*,353632.0,GMRI
+70,Total assets,12  Mar-15*,588546.0,GMRI
+71,Interest coverage,12  Mar-15*,0.3,GMRI
+72,Debt to equity ratio,12  Mar-15*,5.8,GMRI
+73,Sales to assets ratio,12  Mar-15*,0.2,GMRI
+74,Return on assets,12  Mar-15*,1.4,GMRI
+75,Return on equity,12  Mar-15*,-45.2,GMRI
+76,Return on capital,12  Mar-15*,2.4,GMRI
+77,Exports to sales,12  Mar-15*,0.0,GMRI
+78,Imports to sales,12  Mar-15*,0.0,GMRI
+79,Exports (fob),12  Mar-15*,0.0,GMRI
+80,Imports (cif),12  Mar-15*,0.0,GMRI
+81,Fx inflow,12  Mar-15*,221.0,GMRI
+82,Fx outflow,12  Mar-15*,0.0,GMRI
+83,Net fx,12  Mar-15*,221.0,GMRI
+84,From Operations,12  Mar-15*,29148.0,GMRI
+85,From Investments,12  Mar-15*,-31645.0,GMRI
+86,From Financial Activity,12  Mar-15*,4483.0,GMRI
+87,Net Cashflow,12  Mar-15*,1987.0,GMRI
+88,Net Sales,12  Mar-16*,82610.0,GMRI
+89,Other income,12  Mar-16*,4165.0,GMRI
+90,Total revenues,12  Mar-16*,86775.0,GMRI
+91,Gross profit,12  Mar-16*,27577.0,GMRI
+92,Depreciation,12  Mar-16*,11967.0,GMRI
+93,Interest,12  Mar-16*,21965.0,GMRI
+94,Profit before tax,12  Mar-16*,-2189.0,GMRI
+95,Minority Interest,12  Mar-16*,162.0,GMRI
+96,Prior Period Items,12  Mar-16*,0.0,GMRI
+97,Extraordinary Inc (Exp),12  Mar-16*,-642.0,GMRI
+98,Tax,12  Mar-16*,1815.0,GMRI
+99,Profit after tax,12  Mar-16*,-4484.0,GMRI
+100,Gross profit margin,12  Mar-16*,33.4,GMRI
+101,Effective tax rate,12  Mar-16*,-82.9,GMRI
+102,Net profit margin,12  Mar-16*,-5.4,GMRI
+103,Current assets,12  Mar-16*,74850.0,GMRI
+104,Current liabilities,12  Mar-16*,115998.0,GMRI
+105,Net working cap to sales,12  Mar-16*,-49.8,GMRI
+106,Current ratio,12  Mar-16*,0.6,GMRI
+107,Inventory Days,12  Mar-16*,10.0,GMRI
+108,Debtors Days,12  Mar-16*,68.0,GMRI
+109,Net fixed assets,12  Mar-16*,285494.0,GMRI
+110,Share capital,12  Mar-16*,6036.0,GMRI
+111,"""Free"" reserves",12  Mar-16*,43873.0,GMRI
+112,Net worth,12  Mar-16*,49909.0,GMRI
+113,Long term debt,12  Mar-16*,326539.0,GMRI
+114,Total assets,12  Mar-16*,591766.0,GMRI
+115,Interest coverage,12  Mar-16*,0.9,GMRI
+116,Debt to equity ratio,12  Mar-16*,6.5,GMRI
+117,Sales to assets ratio,12  Mar-16*,0.1,GMRI
+118,Return on assets,12  Mar-16*,3.0,GMRI
+119,Return on equity,12  Mar-16*,-9.0,GMRI
+120,Return on capital,12  Mar-16*,5.1,GMRI
+121,Exports to sales,12  Mar-16*,0.0,GMRI
+122,Imports to sales,12  Mar-16*,0.0,GMRI
+123,Exports (fob),12  Mar-16*,0.0,GMRI
+124,Imports (cif),12  Mar-16*,0.0,GMRI
+125,Fx inflow,12  Mar-16*,0.0,GMRI
+126,Fx outflow,12  Mar-16*,335.0,GMRI
+127,Net fx,12  Mar-16*,-335.0,GMRI
+128,From Operations,12  Mar-16*,34979.0,GMRI
+129,From Investments,12  Mar-16*,-16676.0,GMRI
+130,From Financial Activity,12  Mar-16*,-20180.0,GMRI
+131,Net Cashflow,12  Mar-16*,-1804.0,GMRI
+132,Net Sales,12  Mar-17*,95568.0,GMRI
+133,Other income,12  Mar-17*,4823.0,GMRI
+134,Total revenues,12  Mar-17*,100391.0,GMRI
+135,Gross profit,12  Mar-17*,32320.0,GMRI
+136,Depreciation,12  Mar-17*,10187.0,GMRI
+137,Interest,12  Mar-17*,21285.0,GMRI
+138,Profit before tax,12  Mar-17*,5671.0,GMRI
+139,Minority Interest,12  Mar-17*,-684.0,GMRI
+140,Prior Period Items,12  Mar-17*,0.0,GMRI
+141,Extraordinary Inc (Exp),12  Mar-17*,-3857.0,GMRI
+142,Tax,12  Mar-17*,7449.0,GMRI
+143,Profit after tax,12  Mar-17*,-6318.0,GMRI
+144,Gross profit margin,12  Mar-17*,33.8,GMRI
+145,Effective tax rate,12  Mar-17*,131.3,GMRI
+146,Net profit margin,12  Mar-17*,-6.6,GMRI
+147,Current assets,12  Mar-17*,75991.0,GMRI
+148,Current liabilities,12  Mar-17*,72138.0,GMRI
+149,Net working cap to sales,12  Mar-17*,4.0,GMRI
+150,Current ratio,12  Mar-17*,1.1,GMRI
+151,Inventory Days,12  Mar-17*,5.0,GMRI
+152,Debtors Days,12  Mar-17*,66.0,GMRI
+153,Net fixed assets,12  Mar-17*,103788.0,GMRI
+154,Share capital,12  Mar-17*,6036.0,GMRI
+155,"""Free"" reserves",12  Mar-17*,47387.0,GMRI
+156,Net worth,12  Mar-17*,53423.0,GMRI
+157,Long term debt,12  Mar-17*,189597.0,GMRI
+158,Total assets,12  Mar-17*,371238.0,GMRI
+159,Interest coverage,12  Mar-17*,1.3,GMRI
+160,Debt to equity ratio,12  Mar-17*,3.5,GMRI
+161,Sales to assets ratio,12  Mar-17*,0.3,GMRI
+162,Return on assets,12  Mar-17*,4.0,GMRI
+163,Return on equity,12  Mar-17*,-11.8,GMRI
+164,Return on capital,12  Mar-17*,9.2,GMRI
+165,Exports to sales,12  Mar-17*,0.0,GMRI
+166,Imports to sales,12  Mar-17*,0.0,GMRI
+167,Exports (fob),12  Mar-17*,0.0,GMRI
+168,Imports (cif),12  Mar-17*,0.0,GMRI
+169,Fx inflow,12  Mar-17*,232.0,GMRI
+170,Fx outflow,12  Mar-17*,1559.0,GMRI
+171,Net fx,12  Mar-17*,-1327.0,GMRI
+172,From Operations,12  Mar-17*,45043.0,GMRI
+173,From Investments,12  Mar-17*,17927.0,GMRI
+174,From Financial Activity,12  Mar-17*,-57268.0,GMRI
+175,Net Cashflow,12  Mar-17*,2630.0,GMRI
+176,Net Sales,12  Mar-18*,87212.0,GMRI
+177,Other income,12  Mar-18*,5530.0,GMRI
+178,Total revenues,12  Mar-18*,92743.0,GMRI
+179,Gross profit,12  Mar-18*,21859.0,GMRI
+180,Depreciation,12  Mar-18*,10284.0,GMRI
+181,Interest,12  Mar-18*,23163.0,GMRI
+182,Profit before tax,12  Mar-18*,-6058.0,GMRI
+183,Minority Interest,12  Mar-18*,-4314.0,GMRI
+184,Prior Period Items,12  Mar-18*,0.0,GMRI
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,GMRI
+186,Tax,12  Mar-18*,455.0,GMRI
+187,Profit after tax,12  Mar-18*,-10827.0,GMRI
+188,Gross profit margin,12  Mar-18*,25.1,GMRI
+189,Effective tax rate,12  Mar-18*,-7.5,GMRI
+190,Net profit margin,12  Mar-18*,-12.4,GMRI
+191,Current assets,12  Mar-18*,93782.0,GMRI
+192,Current liabilities,12  Mar-18*,85123.0,GMRI
+193,Net working cap to sales,12  Mar-18*,9.9,GMRI
+194,Current ratio,12  Mar-18*,1.1,GMRI
+195,Inventory Days,12  Mar-18*,4.0,GMRI
+196,Debtors Days,12  Mar-18*,74.0,GMRI
+197,Net fixed assets,12  Mar-18*,100102.0,GMRI
+198,Share capital,12  Mar-18*,6036.0,GMRI
+199,"""Free"" reserves",12  Mar-18*,32148.0,GMRI
+200,Net worth,12  Mar-18*,38183.0,GMRI
+201,Long term debt,12  Mar-18*,205530.0,GMRI
+202,Total assets,12  Mar-18*,382870.0,GMRI
+203,Interest coverage,12  Mar-18*,0.7,GMRI
+204,Debt to equity ratio,12  Mar-18*,5.4,GMRI
+205,Sales to assets ratio,12  Mar-18*,0.2,GMRI
+206,Return on assets,12  Mar-18*,3.2,GMRI
+207,Return on equity,12  Mar-18*,-28.4,GMRI
+208,Return on capital,12  Mar-18*,5.2,GMRI
+209,Exports to sales,12  Mar-18*,0.0,GMRI
+210,Imports to sales,12  Mar-18*,0.0,GMRI
+211,Exports (fob),12  Mar-18*,0.0,GMRI
+212,Imports (cif),12  Mar-18*,0.0,GMRI
+213,Fx inflow,12  Mar-18*,0.0,GMRI
+214,Fx outflow,12  Mar-18*,1576.0,GMRI
+215,Net fx,12  Mar-18*,-1576.0,GMRI
+216,From Operations,12  Mar-18*,23472.0,GMRI
+217,From Investments,12  Mar-18*,-10142.0,GMRI
+218,From Financial Activity,12  Mar-18*,-11912.0,GMRI
+219,Net Cashflow,12  Mar-18*,1940.0,GMRI

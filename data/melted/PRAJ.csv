@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,10122.0,PRAJ
+1,Other income,12  Mar-15*,337.0,PRAJ
+2,Total revenues,12  Mar-15*,10459.0,PRAJ
+3,Gross profit,12  Mar-15*,930.0,PRAJ
+4,Depreciation,12  Mar-15*,378.0,PRAJ
+5,Interest,12  Mar-15*,25.0,PRAJ
+6,Profit before tax,12  Mar-15*,864.0,PRAJ
+7,Minority Interest,12  Mar-15*,-20.0,PRAJ
+8,Prior Period Items,12  Mar-15*,0.0,PRAJ
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,PRAJ
+10,Tax,12  Mar-15*,82.0,PRAJ
+11,Profit after tax,12  Mar-15*,763.0,PRAJ
+12,Gross profit margin,12  Mar-15*,9.2,PRAJ
+13,Effective tax rate,12  Mar-15*,9.4,PRAJ
+14,Net profit margin,12  Mar-15*,7.5,PRAJ
+15,Current assets,12  Mar-15*,8067.0,PRAJ
+16,Current liabilities,12  Mar-15*,4581.0,PRAJ
+17,Net working cap to sales,12  Mar-15*,34.4,PRAJ
+18,Current ratio,12  Mar-15*,1.8,PRAJ
+19,Inventory Days,12  Mar-15*,35.0,PRAJ
+20,Debtors Days,12  Mar-15*,101.0,PRAJ
+21,Net fixed assets,12  Mar-15*,3044.0,PRAJ
+22,Share capital,12  Mar-15*,355.0,PRAJ
+23,"""Free"" reserves",12  Mar-15*,6199.0,PRAJ
+24,Net worth,12  Mar-15*,6554.0,PRAJ
+25,Long term debt,12  Mar-15*,2.0,PRAJ
+26,Total assets,12  Mar-15*,11406.0,PRAJ
+27,Interest coverage,12  Mar-15*,36.0,PRAJ
+28,Debt to equity ratio,12  Mar-15*,0.0,PRAJ
+29,Sales to assets ratio,12  Mar-15*,0.9,PRAJ
+30,Return on assets,12  Mar-15*,6.9,PRAJ
+31,Return on equity,12  Mar-15*,11.6,PRAJ
+32,Return on capital,12  Mar-15*,13.3,PRAJ
+33,Exports to sales,12  Mar-15*,33.2,PRAJ
+34,Imports to sales,12  Mar-15*,5.3,PRAJ
+35,Exports (fob),12  Mar-15*,3364.0,PRAJ
+36,Imports (cif),12  Mar-15*,537.0,PRAJ
+37,Fx inflow,12  Mar-15*,3364.0,PRAJ
+38,Fx outflow,12  Mar-15*,826.0,PRAJ
+39,Net fx,12  Mar-15*,2538.0,PRAJ
+40,From Operations,12  Mar-15*,1497.0,PRAJ
+41,From Investments,12  Mar-15*,-801.0,PRAJ
+42,From Financial Activity,12  Mar-15*,-402.0,PRAJ
+43,Net Cashflow,12  Mar-15*,294.0,PRAJ
+44,Net Sales,12  Mar-16*,10236.0,PRAJ
+45,Other income,12  Mar-16*,184.0,PRAJ
+46,Total revenues,12  Mar-16*,10420.0,PRAJ
+47,Gross profit,12  Mar-16*,1141.0,PRAJ
+48,Depreciation,12  Mar-16*,250.0,PRAJ
+49,Interest,12  Mar-16*,20.0,PRAJ
+50,Profit before tax,12  Mar-16*,1054.0,PRAJ
+51,Minority Interest,12  Mar-16*,0.0,PRAJ
+52,Prior Period Items,12  Mar-16*,0.0,PRAJ
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PRAJ
+54,Tax,12  Mar-16*,229.0,PRAJ
+55,Profit after tax,12  Mar-16*,825.0,PRAJ
+56,Gross profit margin,12  Mar-16*,11.1,PRAJ
+57,Effective tax rate,12  Mar-16*,21.8,PRAJ
+58,Net profit margin,12  Mar-16*,8.1,PRAJ
+59,Current assets,12  Mar-16*,8191.0,PRAJ
+60,Current liabilities,12  Mar-16*,4881.0,PRAJ
+61,Net working cap to sales,12  Mar-16*,32.3,PRAJ
+62,Current ratio,12  Mar-16*,1.7,PRAJ
+63,Inventory Days,12  Mar-16*,36.0,PRAJ
+64,Debtors Days,12  Mar-16*,131.0,PRAJ
+65,Net fixed assets,12  Mar-16*,2869.0,PRAJ
+66,Share capital,12  Mar-16*,356.0,PRAJ
+67,"""Free"" reserves",12  Mar-16*,6197.0,PRAJ
+68,Net worth,12  Mar-16*,6553.0,PRAJ
+69,Long term debt,12  Mar-16*,1.0,PRAJ
+70,Total assets,12  Mar-16*,11568.0,PRAJ
+71,Interest coverage,12  Mar-16*,52.9,PRAJ
+72,Debt to equity ratio,12  Mar-16*,0.0,PRAJ
+73,Sales to assets ratio,12  Mar-16*,0.9,PRAJ
+74,Return on assets,12  Mar-16*,7.3,PRAJ
+75,Return on equity,12  Mar-16*,12.6,PRAJ
+76,Return on capital,12  Mar-16*,16.4,PRAJ
+77,Exports to sales,12  Mar-16*,40.9,PRAJ
+78,Imports to sales,12  Mar-16*,5.4,PRAJ
+79,Exports (fob),12  Mar-16*,4184.0,PRAJ
+80,Imports (cif),12  Mar-16*,554.0,PRAJ
+81,Fx inflow,12  Mar-16*,4184.0,PRAJ
+82,Fx outflow,12  Mar-16*,967.0,PRAJ
+83,Net fx,12  Mar-16*,3217.0,PRAJ
+84,From Operations,12  Mar-16*,511.0,PRAJ
+85,From Investments,12  Mar-16*,-14.0,PRAJ
+86,From Financial Activity,12  Mar-16*,-678.0,PRAJ
+87,Net Cashflow,12  Mar-16*,-150.0,PRAJ
+88,Net Sales,12  Mar-17*,9150.0,PRAJ
+89,Other income,12  Mar-17*,223.0,PRAJ
+90,Total revenues,12  Mar-17*,9373.0,PRAJ
+91,Gross profit,12  Mar-17*,687.0,PRAJ
+92,Depreciation,12  Mar-17*,221.0,PRAJ
+93,Interest,12  Mar-17*,13.0,PRAJ
+94,Profit before tax,12  Mar-17*,675.0,PRAJ
+95,Minority Interest,12  Mar-17*,0.0,PRAJ
+96,Prior Period Items,12  Mar-17*,0.0,PRAJ
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,PRAJ
+98,Tax,12  Mar-17*,229.0,PRAJ
+99,Profit after tax,12  Mar-17*,446.0,PRAJ
+100,Gross profit margin,12  Mar-17*,7.5,PRAJ
+101,Effective tax rate,12  Mar-17*,34.0,PRAJ
+102,Net profit margin,12  Mar-17*,4.9,PRAJ
+103,Current assets,12  Mar-17*,8353.0,PRAJ
+104,Current liabilities,12  Mar-17*,4616.0,PRAJ
+105,Net working cap to sales,12  Mar-17*,40.8,PRAJ
+106,Current ratio,12  Mar-17*,1.8,PRAJ
+107,Inventory Days,12  Mar-17*,42.0,PRAJ
+108,Debtors Days,12  Mar-17*,118.0,PRAJ
+109,Net fixed assets,12  Mar-17*,3013.0,PRAJ
+110,Share capital,12  Mar-17*,359.0,PRAJ
+111,"""Free"" reserves",12  Mar-17*,6737.0,PRAJ
+112,Net worth,12  Mar-17*,7096.0,PRAJ
+113,Long term debt,12  Mar-17*,1.0,PRAJ
+114,Total assets,12  Mar-17*,11874.0,PRAJ
+115,Interest coverage,12  Mar-17*,52.5,PRAJ
+116,Debt to equity ratio,12  Mar-17*,0.0,PRAJ
+117,Sales to assets ratio,12  Mar-17*,0.8,PRAJ
+118,Return on assets,12  Mar-17*,3.9,PRAJ
+119,Return on equity,12  Mar-17*,6.3,PRAJ
+120,Return on capital,12  Mar-17*,9.7,PRAJ
+121,Exports to sales,12  Mar-17*,0.0,PRAJ
+122,Imports to sales,12  Mar-17*,0.0,PRAJ
+123,Exports (fob),12  Mar-17*,0.0,PRAJ
+124,Imports (cif),12  Mar-17*,0.0,PRAJ
+125,Fx inflow,12  Mar-17*,1440.0,PRAJ
+126,Fx outflow,12  Mar-17*,706.0,PRAJ
+127,Net fx,12  Mar-17*,734.0,PRAJ
+128,From Operations,12  Mar-17*,202.0,PRAJ
+129,From Investments,12  Mar-17*,-80.0,PRAJ
+130,From Financial Activity,12  Mar-17*,-39.0,PRAJ
+131,Net Cashflow,12  Mar-17*,87.0,PRAJ
+132,Net Sales,12  Mar-18*,9166.0,PRAJ
+133,Other income,12  Mar-18*,267.0,PRAJ
+134,Total revenues,12  Mar-18*,9433.0,PRAJ
+135,Gross profit,12  Mar-18*,515.0,PRAJ
+136,Depreciation,12  Mar-18*,241.0,PRAJ
+137,Interest,12  Mar-18*,11.0,PRAJ
+138,Profit before tax,12  Mar-18*,530.0,PRAJ
+139,Minority Interest,12  Mar-18*,0.0,PRAJ
+140,Prior Period Items,12  Mar-18*,0.0,PRAJ
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PRAJ
+142,Tax,12  Mar-18*,135.0,PRAJ
+143,Profit after tax,12  Mar-18*,395.0,PRAJ
+144,Gross profit margin,12  Mar-18*,5.6,PRAJ
+145,Effective tax rate,12  Mar-18*,25.5,PRAJ
+146,Net profit margin,12  Mar-18*,4.3,PRAJ
+147,Current assets,12  Mar-18*,7901.0,PRAJ
+148,Current liabilities,12  Mar-18*,3906.0,PRAJ
+149,Net working cap to sales,12  Mar-18*,43.6,PRAJ
+150,Current ratio,12  Mar-18*,2.0,PRAJ
+151,Inventory Days,12  Mar-18*,32.0,PRAJ
+152,Debtors Days,12  Mar-18*,105.0,PRAJ
+153,Net fixed assets,12  Mar-18*,3013.0,PRAJ
+154,Share capital,12  Mar-18*,362.0,PRAJ
+155,"""Free"" reserves",12  Mar-18*,6900.0,PRAJ
+156,Net worth,12  Mar-18*,7261.0,PRAJ
+157,Long term debt,12  Mar-18*,0.0,PRAJ
+158,Total assets,12  Mar-18*,11333.0,PRAJ
+159,Interest coverage,12  Mar-18*,47.5,PRAJ
+160,Debt to equity ratio,12  Mar-18*,0.0,PRAJ
+161,Sales to assets ratio,12  Mar-18*,0.8,PRAJ
+162,Return on assets,12  Mar-18*,3.6,PRAJ
+163,Return on equity,12  Mar-18*,5.4,PRAJ
+164,Return on capital,12  Mar-18*,7.5,PRAJ
+165,Exports to sales,12  Mar-18*,0.0,PRAJ
+166,Imports to sales,12  Mar-18*,0.0,PRAJ
+167,Exports (fob),12  Mar-18*,0.0,PRAJ
+168,Imports (cif),12  Mar-18*,0.0,PRAJ
+169,Fx inflow,12  Mar-18*,3404.0,PRAJ
+170,Fx outflow,12  Mar-18*,600.0,PRAJ
+171,Net fx,12  Mar-18*,2804.0,PRAJ
+172,From Operations,12  Mar-18*,1014.0,PRAJ
+173,From Investments,12  Mar-18*,-707.0,PRAJ
+174,From Financial Activity,12  Mar-18*,-247.0,PRAJ
+175,Net Cashflow,12  Mar-18*,80.0,PRAJ
+176,Net Sales,12  Mar-19*,11411.0,PRAJ
+177,Other income,12  Mar-19*,323.0,PRAJ
+178,Total revenues,12  Mar-19*,11734.0,PRAJ
+179,Gross profit,12  Mar-19*,793.0,PRAJ
+180,Depreciation,12  Mar-19*,230.0,PRAJ
+181,Interest,12  Mar-19*,8.0,PRAJ
+182,Profit before tax,12  Mar-19*,879.0,PRAJ
+183,Minority Interest,12  Mar-19*,0.0,PRAJ
+184,Prior Period Items,12  Mar-19*,0.0,PRAJ
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PRAJ
+186,Tax,12  Mar-19*,197.0,PRAJ
+187,Profit after tax,12  Mar-19*,682.0,PRAJ
+188,Gross profit margin,12  Mar-19*,7.0,PRAJ
+189,Effective tax rate,12  Mar-19*,22.4,PRAJ
+190,Net profit margin,12  Mar-19*,6.0,PRAJ
+191,Current assets,12  Mar-19*,8607.0,PRAJ
+192,Current liabilities,12  Mar-19*,4854.0,PRAJ
+193,Net working cap to sales,12  Mar-19*,32.9,PRAJ
+194,Current ratio,12  Mar-19*,1.8,PRAJ
+195,Inventory Days,12  Mar-19*,40.0,PRAJ
+196,Debtors Days,12  Mar-19*,98.0,PRAJ
+197,Net fixed assets,12  Mar-19*,2922.0,PRAJ
+198,Share capital,12  Mar-19*,365.0,PRAJ
+199,"""Free"" reserves",12  Mar-19*,7085.0,PRAJ
+200,Net worth,12  Mar-19*,7450.0,PRAJ
+201,Long term debt,12  Mar-19*,0.0,PRAJ
+202,Total assets,12  Mar-19*,12470.0,PRAJ
+203,Interest coverage,12  Mar-19*,116.7,PRAJ
+204,Debt to equity ratio,12  Mar-19*,0.0,PRAJ
+205,Sales to assets ratio,12  Mar-19*,0.9,PRAJ
+206,Return on assets,12  Mar-19*,5.5,PRAJ
+207,Return on equity,12  Mar-19*,9.2,PRAJ
+208,Return on capital,12  Mar-19*,11.9,PRAJ
+209,Exports to sales,12  Mar-19*,0.0,PRAJ
+210,Imports to sales,12  Mar-19*,0.0,PRAJ
+211,Exports (fob),12  Mar-19*,0.0,PRAJ
+212,Imports (cif),12  Mar-19*,0.0,PRAJ
+213,Fx inflow,12  Mar-19*,2742.0,PRAJ
+214,Fx outflow,12  Mar-19*,977.0,PRAJ
+215,Net fx,12  Mar-19*,1765.0,PRAJ
+216,From Operations,12  Mar-19*,330.0,PRAJ
+217,From Investments,12  Mar-19*,-59.0,PRAJ
+218,From Financial Activity,12  Mar-19*,-434.0,PRAJ
+219,Net Cashflow,12  Mar-19*,-137.0,PRAJ

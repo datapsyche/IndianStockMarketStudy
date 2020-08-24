@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,2593.0,ADPE
+1,Other income,12  Mar-14,51.0,ADPE
+2,Total revenues,12  Mar-14,2644.0,ADPE
+3,Gross profit,12  Mar-14,-155.0,ADPE
+4,Depreciation,12  Mar-14,134.0,ADPE
+5,Interest,12  Mar-14,65.0,ADPE
+6,Profit before tax,12  Mar-14,-302.0,ADPE
+7,Minority Interest,12  Mar-14,0.0,ADPE
+8,Prior Period Items,12  Mar-14,0.0,ADPE
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,ADPE
+10,Tax,12  Mar-14,-46.0,ADPE
+11,Profit after tax,12  Mar-14,-257.0,ADPE
+12,Gross profit margin,12  Mar-14,-6.0,ADPE
+13,Effective tax rate,12  Mar-14,15.1,ADPE
+14,Net profit margin,12  Mar-14,-9.9,ADPE
+15,Current assets,12  Mar-14,573.0,ADPE
+16,Current liabilities,12  Mar-14,549.0,ADPE
+17,Net working cap to sales,12  Mar-14,0.9,ADPE
+18,Current ratio,12  Mar-14,1.0,ADPE
+19,Inventory Days,12  Mar-14,56.0,ADPE
+20,Debtors Days,12  Mar-14,2.0,ADPE
+21,Net fixed assets,12  Mar-14,2123.0,ADPE
+22,Share capital,12  Mar-14,850.0,ADPE
+23,"""Free"" reserves",12  Mar-14,1050.0,ADPE
+24,Net worth,12  Mar-14,1902.0,ADPE
+25,Long term debt,12  Mar-14,188.0,ADPE
+26,Total assets,12  Mar-14,2923.0,ADPE
+27,Interest coverage,12  Mar-14,-3.7,ADPE
+28,Debt to equity ratio,12  Mar-14,0.1,ADPE
+29,Sales to assets ratio,12  Mar-14,0.9,ADPE
+30,Return on assets,12  Mar-14,-6.6,ADPE
+31,Return on equity,12  Mar-14,-13.5,ADPE
+32,Return on capital,12  Mar-14,-11.4,ADPE
+33,Exports to sales,12  Mar-14,0.0,ADPE
+34,Imports to sales,12  Mar-14,1.9,ADPE
+35,Exports (fob),12  Mar-14,0.0,ADPE
+36,Imports (cif),12  Mar-14,50.0,ADPE
+37,Fx inflow,12  Mar-14,0.0,ADPE
+38,Fx outflow,12  Mar-14,50.0,ADPE
+39,Net fx,12  Mar-14,-50.0,ADPE
+40,From Operations,12  Mar-14,129.0,ADPE
+41,From Investments,12  Mar-14,-101.0,ADPE
+42,From Financial Activity,12  Mar-14,-149.0,ADPE
+43,Net Cashflow,12  Mar-14,-121.0,ADPE
+44,Net Sales,12  Mar-16,3341.0,ADPE
+45,Other income,12  Mar-16,13.0,ADPE
+46,Total revenues,12  Mar-16,3354.0,ADPE
+47,Gross profit,12  Mar-16,-116.0,ADPE
+48,Depreciation,12  Mar-16,98.0,ADPE
+49,Interest,12  Mar-16,134.0,ADPE
+50,Profit before tax,12  Mar-16,-335.0,ADPE
+51,Minority Interest,12  Mar-16,0.0,ADPE
+52,Prior Period Items,12  Mar-16,0.0,ADPE
+53,Extraordinary Inc (Exp),12  Mar-16,70.0,ADPE
+54,Tax,12  Mar-16,-29.0,ADPE
+55,Profit after tax,12  Mar-16,-237.0,ADPE
+56,Gross profit margin,12  Mar-16,-3.5,ADPE
+57,Effective tax rate,12  Mar-16,8.6,ADPE
+58,Net profit margin,12  Mar-16,-7.1,ADPE
+59,Current assets,12  Mar-16,351.0,ADPE
+60,Current liabilities,12  Mar-16,401.0,ADPE
+61,Net working cap to sales,12  Mar-16,-1.5,ADPE
+62,Current ratio,12  Mar-16,0.9,ADPE
+63,Inventory Days,12  Mar-16,23.0,ADPE
+64,Debtors Days,12  Mar-16,4.0,ADPE
+65,Net fixed assets,12  Mar-16,1921.0,ADPE
+66,Share capital,12  Mar-16,850.0,ADPE
+67,"""Free"" reserves",12  Mar-16,345.0,ADPE
+68,Net worth,12  Mar-16,1195.0,ADPE
+69,Long term debt,12  Mar-16,718.0,ADPE
+70,Total assets,12  Mar-16,2427.0,ADPE
+71,Interest coverage,12  Mar-16,-1.5,ADPE
+72,Debt to equity ratio,12  Mar-16,0.6,ADPE
+73,Sales to assets ratio,12  Mar-16,1.4,ADPE
+74,Return on assets,12  Mar-16,-4.2,ADPE
+75,Return on equity,12  Mar-16,-19.8,ADPE
+76,Return on capital,12  Mar-16,-6.9,ADPE
+77,Exports to sales,12  Mar-16,0.0,ADPE
+78,Imports to sales,12  Mar-16,1.6,ADPE
+79,Exports (fob),12  Mar-16,0.0,ADPE
+80,Imports (cif),12  Mar-16,53.0,ADPE
+81,Fx inflow,12  Mar-16,0.0,ADPE
+82,Fx outflow,12  Mar-16,54.0,ADPE
+83,Net fx,12  Mar-16,-54.0,ADPE
+84,From Operations,12  Mar-16,-39.0,ADPE
+85,From Investments,12  Mar-16,-9.0,ADPE
+86,From Financial Activity,12  Mar-16,121.0,ADPE
+87,Net Cashflow,12  Mar-16,73.0,ADPE
+88,Net Sales,12  Mar-17,3289.0,ADPE
+89,Other income,12  Mar-17,21.0,ADPE
+90,Total revenues,12  Mar-17,3310.0,ADPE
+91,Gross profit,12  Mar-17,128.0,ADPE
+92,Depreciation,12  Mar-17,90.0,ADPE
+93,Interest,12  Mar-17,156.0,ADPE
+94,Profit before tax,12  Mar-17,-98.0,ADPE
+95,Minority Interest,12  Mar-17,0.0,ADPE
+96,Prior Period Items,12  Mar-17,0.0,ADPE
+97,Extraordinary Inc (Exp),12  Mar-17,-12.0,ADPE
+98,Tax,12  Mar-17,-35.0,ADPE
+99,Profit after tax,12  Mar-17,-74.0,ADPE
+100,Gross profit margin,12  Mar-17,3.9,ADPE
+101,Effective tax rate,12  Mar-17,36.3,ADPE
+102,Net profit margin,12  Mar-17,-2.2,ADPE
+103,Current assets,12  Mar-17,691.0,ADPE
+104,Current liabilities,12  Mar-17,659.0,ADPE
+105,Net working cap to sales,12  Mar-17,1.0,ADPE
+106,Current ratio,12  Mar-17,1.0,ADPE
+107,Inventory Days,12  Mar-17,39.0,ADPE
+108,Debtors Days,12  Mar-17,24.0,ADPE
+109,Net fixed assets,12  Mar-17,1836.0,ADPE
+110,Share capital,12  Mar-17,850.0,ADPE
+111,"""Free"" reserves",12  Mar-17,285.0,ADPE
+112,Net worth,12  Mar-17,1135.0,ADPE
+113,Long term debt,12  Mar-17,744.0,ADPE
+114,Total assets,12  Mar-17,2638.0,ADPE
+115,Interest coverage,12  Mar-17,0.4,ADPE
+116,Debt to equity ratio,12  Mar-17,0.7,ADPE
+117,Sales to assets ratio,12  Mar-17,1.2,ADPE
+118,Return on assets,12  Mar-17,3.1,ADPE
+119,Return on equity,12  Mar-17,-6.5,ADPE
+120,Return on capital,12  Mar-17,2.5,ADPE
+121,Exports to sales,12  Mar-17,0.0,ADPE
+122,Imports to sales,12  Mar-17,1.5,ADPE
+123,Exports (fob),12  Mar-17,0.0,ADPE
+124,Imports (cif),12  Mar-17,50.0,ADPE
+125,Fx inflow,12  Mar-17,0.0,ADPE
+126,Fx outflow,12  Mar-17,93.0,ADPE
+127,Net fx,12  Mar-17,-93.0,ADPE
+128,From Operations,12  Mar-17,-143.0,ADPE
+129,From Investments,12  Mar-17,118.0,ADPE
+130,From Financial Activity,12  Mar-17,23.0,ADPE
+131,Net Cashflow,12  Mar-17,-1.0,ADPE
+132,Net Sales,12  Mar-18,5328.0,ADPE
+133,Other income,12  Mar-18,24.0,ADPE
+134,Total revenues,12  Mar-18,5352.0,ADPE
+135,Gross profit,12  Mar-18,662.0,ADPE
+136,Depreciation,12  Mar-18,95.0,ADPE
+137,Interest,12  Mar-18,119.0,ADPE
+138,Profit before tax,12  Mar-18,473.0,ADPE
+139,Minority Interest,12  Mar-18,0.0,ADPE
+140,Prior Period Items,12  Mar-18,0.0,ADPE
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,ADPE
+142,Tax,12  Mar-18,8.0,ADPE
+143,Profit after tax,12  Mar-18,465.0,ADPE
+144,Gross profit margin,12  Mar-18,12.4,ADPE
+145,Effective tax rate,12  Mar-18,1.6,ADPE
+146,Net profit margin,12  Mar-18,8.7,ADPE
+147,Current assets,12  Mar-18,552.0,ADPE
+148,Current liabilities,12  Mar-18,734.0,ADPE
+149,Net working cap to sales,12  Mar-18,-3.4,ADPE
+150,Current ratio,12  Mar-18,0.8,ADPE
+151,Inventory Days,12  Mar-18,11.0,ADPE
+152,Debtors Days,12  Mar-18,23.0,ADPE
+153,Net fixed assets,12  Mar-18,1820.0,ADPE
+154,Share capital,12  Mar-18,850.0,ADPE
+155,"""Free"" reserves",12  Mar-18,727.0,ADPE
+156,Net worth,12  Mar-18,1577.0,ADPE
+157,Long term debt,12  Mar-18,136.0,ADPE
+158,Total assets,12  Mar-18,2468.0,ADPE
+159,Interest coverage,12  Mar-18,5.0,ADPE
+160,Debt to equity ratio,12  Mar-18,0.1,ADPE
+161,Sales to assets ratio,12  Mar-18,2.2,ADPE
+162,Return on assets,12  Mar-18,23.7,ADPE
+163,Return on equity,12  Mar-18,29.5,ADPE
+164,Return on capital,12  Mar-18,34.5,ADPE
+165,Exports to sales,12  Mar-18,0.0,ADPE
+166,Imports to sales,12  Mar-18,0.0,ADPE
+167,Exports (fob),12  Mar-18,0.0,ADPE
+168,Imports (cif),12  Mar-18,0.0,ADPE
+169,Fx inflow,12  Mar-18,0.0,ADPE
+170,Fx outflow,12  Mar-18,43.0,ADPE
+171,Net fx,12  Mar-18,-43.0,ADPE
+172,From Operations,12  Mar-18,604.0,ADPE
+173,From Investments,12  Mar-18,-76.0,ADPE
+174,From Financial Activity,12  Mar-18,-516.0,ADPE
+175,Net Cashflow,12  Mar-18,13.0,ADPE
+176,Net Sales,12  Mar-19,6659.0,ADPE
+177,Other income,12  Mar-19,27.0,ADPE
+178,Total revenues,12  Mar-19,6686.0,ADPE
+179,Gross profit,12  Mar-19,1087.0,ADPE
+180,Depreciation,12  Mar-19,105.0,ADPE
+181,Interest,12  Mar-19,59.0,ADPE
+182,Profit before tax,12  Mar-19,950.0,ADPE
+183,Minority Interest,12  Mar-19,0.0,ADPE
+184,Prior Period Items,12  Mar-19,0.0,ADPE
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,ADPE
+186,Tax,12  Mar-19,252.0,ADPE
+187,Profit after tax,12  Mar-19,698.0,ADPE
+188,Gross profit margin,12  Mar-19,16.3,ADPE
+189,Effective tax rate,12  Mar-19,26.5,ADPE
+190,Net profit margin,12  Mar-19,10.5,ADPE
+191,Current assets,12  Mar-19,793.0,ADPE
+192,Current liabilities,12  Mar-19,228.0,ADPE
+193,Net working cap to sales,12  Mar-19,8.5,ADPE
+194,Current ratio,12  Mar-19,3.5,ADPE
+195,Inventory Days,12  Mar-19,10.0,ADPE
+196,Debtors Days,12  Mar-19,20.0,ADPE
+197,Net fixed assets,12  Mar-19,1725.0,ADPE
+198,Share capital,12  Mar-19,850.0,ADPE
+199,"""Free"" reserves",12  Mar-19,1415.0,ADPE
+200,Net worth,12  Mar-19,2265.0,ADPE
+201,Long term debt,12  Mar-19,56.0,ADPE
+202,Total assets,12  Mar-19,2607.0,ADPE
+203,Interest coverage,12  Mar-19,17.0,ADPE
+204,Debt to equity ratio,12  Mar-19,0.0,ADPE
+205,Sales to assets ratio,12  Mar-19,2.6,ADPE
+206,Return on assets,12  Mar-19,29.1,ADPE
+207,Return on equity,12  Mar-19,30.8,ADPE
+208,Return on capital,12  Mar-19,43.5,ADPE
+209,Exports to sales,12  Mar-19,0.0,ADPE
+210,Imports to sales,12  Mar-19,0.0,ADPE
+211,Exports (fob),12  Mar-19,0.0,ADPE
+212,Imports (cif),12  Mar-19,0.0,ADPE
+213,Fx inflow,12  Mar-19,0.0,ADPE
+214,Fx outflow,12  Mar-19,78.0,ADPE
+215,Net fx,12  Mar-19,-78.0,ADPE
+216,From Operations,12  Mar-19,787.0,ADPE
+217,From Investments,12  Mar-19,-150.0,ADPE
+218,From Financial Activity,12  Mar-19,-631.0,ADPE
+219,Net Cashflow,12  Mar-19,7.0,ADPE

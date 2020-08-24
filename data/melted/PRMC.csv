@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4526.0,PRMC
+1,Other income,12  Mar-15*,21.0,PRMC
+2,Total revenues,12  Mar-15*,4547.0,PRMC
+3,Gross profit,12  Mar-15*,-349.0,PRMC
+4,Depreciation,12  Mar-15*,93.0,PRMC
+5,Interest,12  Mar-15*,610.0,PRMC
+6,Profit before tax,12  Mar-15*,-1031.0,PRMC
+7,Minority Interest,12  Mar-15*,0.0,PRMC
+8,Prior Period Items,12  Mar-15*,0.0,PRMC
+9,Extraordinary Inc (Exp),12  Mar-15*,22.0,PRMC
+10,Tax,12  Mar-15*,0.0,PRMC
+11,Profit after tax,12  Mar-15*,-1010.0,PRMC
+12,Gross profit margin,12  Mar-15*,-7.7,PRMC
+13,Effective tax rate,12  Mar-15*,0.0,PRMC
+14,Net profit margin,12  Mar-15*,-22.3,PRMC
+15,Current assets,12  Mar-15*,2710.0,PRMC
+16,Current liabilities,12  Mar-15*,4504.0,PRMC
+17,Net working cap to sales,12  Mar-15*,-39.6,PRMC
+18,Current ratio,12  Mar-15*,0.6,PRMC
+19,Inventory Days,12  Mar-15*,61.0,PRMC
+20,Debtors Days,12  Mar-15*,127.0,PRMC
+21,Net fixed assets,12  Mar-15*,810.0,PRMC
+22,Share capital,12  Mar-15*,327.0,PRMC
+23,"""Free"" reserves",12  Mar-15*,-2471.0,PRMC
+24,Net worth,12  Mar-15*,-2132.0,PRMC
+25,Long term debt,12  Mar-15*,1160.0,PRMC
+26,Total assets,12  Mar-15*,3550.0,PRMC
+27,Interest coverage,12  Mar-15*,-0.7,PRMC
+28,Debt to equity ratio,12  Mar-15*,-0.5,PRMC
+29,Sales to assets ratio,12  Mar-15*,1.3,PRMC
+30,Return on assets,12  Mar-15*,-11.3,PRMC
+31,Return on equity,12  Mar-15*,47.4,PRMC
+32,Return on capital,12  Mar-15*,41.1,PRMC
+33,Exports to sales,12  Mar-15*,3.4,PRMC
+34,Imports to sales,12  Mar-15*,12.7,PRMC
+35,Exports (fob),12  Mar-15*,155.0,PRMC
+36,Imports (cif),12  Mar-15*,574.0,PRMC
+37,Fx inflow,12  Mar-15*,155.0,PRMC
+38,Fx outflow,12  Mar-15*,604.0,PRMC
+39,Net fx,12  Mar-15*,-449.0,PRMC
+40,From Operations,12  Mar-15*,142.0,PRMC
+41,From Investments,12  Mar-15*,-23.0,PRMC
+42,From Financial Activity,12  Mar-15*,-69.0,PRMC
+43,Net Cashflow,12  Mar-15*,49.0,PRMC
+44,Net Sales,12  Mar-16*,3094.0,PRMC
+45,Other income,12  Mar-16*,24.0,PRMC
+46,Total revenues,12  Mar-16*,3118.0,PRMC
+47,Gross profit,12  Mar-16*,-440.0,PRMC
+48,Depreciation,12  Mar-16*,86.0,PRMC
+49,Interest,12  Mar-16*,738.0,PRMC
+50,Profit before tax,12  Mar-16*,-1239.0,PRMC
+51,Minority Interest,12  Mar-16*,0.0,PRMC
+52,Prior Period Items,12  Mar-16*,0.0,PRMC
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,PRMC
+54,Tax,12  Mar-16*,0.0,PRMC
+55,Profit after tax,12  Mar-16*,-1239.0,PRMC
+56,Gross profit margin,12  Mar-16*,-14.2,PRMC
+57,Effective tax rate,12  Mar-16*,0.0,PRMC
+58,Net profit margin,12  Mar-16*,-40.0,PRMC
+59,Current assets,12  Mar-16*,2214.0,PRMC
+60,Current liabilities,12  Mar-16*,2273.0,PRMC
+61,Net working cap to sales,12  Mar-16*,-1.9,PRMC
+62,Current ratio,12  Mar-16*,1.0,PRMC
+63,Inventory Days,12  Mar-16*,64.0,PRMC
+64,Debtors Days,12  Mar-16*,158.0,PRMC
+65,Net fixed assets,12  Mar-16*,1466.0,PRMC
+66,Share capital,12  Mar-16*,251.0,PRMC
+67,"""Free"" reserves",12  Mar-16*,-3692.0,PRMC
+68,Net worth,12  Mar-16*,-3430.0,PRMC
+69,Long term debt,12  Mar-16*,1808.0,PRMC
+70,Total assets,12  Mar-16*,3849.0,PRMC
+71,Interest coverage,12  Mar-16*,-0.7,PRMC
+72,Debt to equity ratio,12  Mar-16*,-0.5,PRMC
+73,Sales to assets ratio,12  Mar-16*,0.8,PRMC
+74,Return on assets,12  Mar-16*,-13.0,PRMC
+75,Return on equity,12  Mar-16*,36.1,PRMC
+76,Return on capital,12  Mar-16*,30.9,PRMC
+77,Exports to sales,12  Mar-16*,0.0,PRMC
+78,Imports to sales,12  Mar-16*,11.6,PRMC
+79,Exports (fob),12  Mar-16*,1.0,PRMC
+80,Imports (cif),12  Mar-16*,357.0,PRMC
+81,Fx inflow,12  Mar-16*,1.0,PRMC
+82,Fx outflow,12  Mar-16*,391.0,PRMC
+83,Net fx,12  Mar-16*,-390.0,PRMC
+84,From Operations,12  Mar-16*,1380.0,PRMC
+85,From Investments,12  Mar-16*,-10.0,PRMC
+86,From Financial Activity,12  Mar-16*,-1266.0,PRMC
+87,Net Cashflow,12  Mar-16*,104.0,PRMC
+88,Net Sales,12  Mar-17*,3155.0,PRMC
+89,Other income,12  Mar-17*,43.0,PRMC
+90,Total revenues,12  Mar-17*,3199.0,PRMC
+91,Gross profit,12  Mar-17*,-478.0,PRMC
+92,Depreciation,12  Mar-17*,97.0,PRMC
+93,Interest,12  Mar-17*,196.0,PRMC
+94,Profit before tax,12  Mar-17*,-728.0,PRMC
+95,Minority Interest,12  Mar-17*,0.0,PRMC
+96,Prior Period Items,12  Mar-17*,0.0,PRMC
+97,Extraordinary Inc (Exp),12  Mar-17*,874.0,PRMC
+98,Tax,12  Mar-17*,0.0,PRMC
+99,Profit after tax,12  Mar-17*,146.0,PRMC
+100,Gross profit margin,12  Mar-17*,-15.2,PRMC
+101,Effective tax rate,12  Mar-17*,0.0,PRMC
+102,Net profit margin,12  Mar-17*,4.6,PRMC
+103,Current assets,12  Mar-17*,1669.0,PRMC
+104,Current liabilities,12  Mar-17*,1425.0,PRMC
+105,Net working cap to sales,12  Mar-17*,7.8,PRMC
+106,Current ratio,12  Mar-17*,1.2,PRMC
+107,Inventory Days,12  Mar-17*,15.0,PRMC
+108,Debtors Days,12  Mar-17*,134.0,PRMC
+109,Net fixed assets,12  Mar-17*,1378.0,PRMC
+110,Share capital,12  Mar-17*,251.0,PRMC
+111,"""Free"" reserves",12  Mar-17*,-3691.0,PRMC
+112,Net worth,12  Mar-17*,-3437.0,PRMC
+113,Long term debt,12  Mar-17*,1882.0,PRMC
+114,Total assets,12  Mar-17*,3210.0,PRMC
+115,Interest coverage,12  Mar-17*,-2.7,PRMC
+116,Debt to equity ratio,12  Mar-17*,-0.5,PRMC
+117,Sales to assets ratio,12  Mar-17*,1.0,PRMC
+118,Return on assets,12  Mar-17*,10.7,PRMC
+119,Return on equity,12  Mar-17*,-4.3,PRMC
+120,Return on capital,12  Mar-17*,-22.0,PRMC
+121,Exports to sales,12  Mar-17*,4.8,PRMC
+122,Imports to sales,12  Mar-17*,10.8,PRMC
+123,Exports (fob),12  Mar-17*,150.0,PRMC
+124,Imports (cif),12  Mar-17*,340.0,PRMC
+125,Fx inflow,12  Mar-17*,150.0,PRMC
+126,Fx outflow,12  Mar-17*,352.0,PRMC
+127,Net fx,12  Mar-17*,-202.0,PRMC
+128,From Operations,12  Mar-17*,520.0,PRMC
+129,From Investments,12  Mar-17*,19.0,PRMC
+130,From Financial Activity,12  Mar-17*,-531.0,PRMC
+131,Net Cashflow,12  Mar-17*,8.0,PRMC
+132,Net Sales,12  Mar-18*,210.0,PRMC
+133,Other income,12  Mar-18*,4.0,PRMC
+134,Total revenues,12  Mar-18*,213.0,PRMC
+135,Gross profit,12  Mar-18*,45.0,PRMC
+136,Depreciation,12  Mar-18*,17.0,PRMC
+137,Interest,12  Mar-18*,28.0,PRMC
+138,Profit before tax,12  Mar-18*,3.0,PRMC
+139,Minority Interest,12  Mar-18*,0.0,PRMC
+140,Prior Period Items,12  Mar-18*,0.0,PRMC
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,PRMC
+142,Tax,12  Mar-18*,3.0,PRMC
+143,Profit after tax,12  Mar-18*,0.0,PRMC
+144,Gross profit margin,12  Mar-18*,21.4,PRMC
+145,Effective tax rate,12  Mar-18*,87.1,PRMC
+146,Net profit margin,12  Mar-18*,0.2,PRMC
+147,Current assets,12  Mar-18*,253.0,PRMC
+148,Current liabilities,12  Mar-18*,187.0,PRMC
+149,Net working cap to sales,12  Mar-18*,31.3,PRMC
+150,Current ratio,12  Mar-18*,1.4,PRMC
+151,Inventory Days,12  Mar-18*,299.0,PRMC
+152,Debtors Days,12  Mar-18*,2.0,PRMC
+153,Net fixed assets,12  Mar-18*,208.0,PRMC
+154,Share capital,12  Mar-18*,49.0,PRMC
+155,"""Free"" reserves",12  Mar-18*,167.0,PRMC
+156,Net worth,12  Mar-18*,215.0,PRMC
+157,Long term debt,12  Mar-18*,68.0,PRMC
+158,Total assets,12  Mar-18*,475.0,PRMC
+159,Interest coverage,12  Mar-18*,1.1,PRMC
+160,Debt to equity ratio,12  Mar-18*,0.3,PRMC
+161,Sales to assets ratio,12  Mar-18*,0.4,PRMC
+162,Return on assets,12  Mar-18*,6.0,PRMC
+163,Return on equity,12  Mar-18*,0.2,PRMC
+164,Return on capital,12  Mar-18*,11.0,PRMC
+165,Exports to sales,12  Mar-18*,0.0,PRMC
+166,Imports to sales,12  Mar-18*,0.0,PRMC
+167,Exports (fob),12  Mar-18*,0.0,PRMC
+168,Imports (cif),12  Mar-18*,0.0,PRMC
+169,Fx inflow,12  Mar-18*,184.0,PRMC
+170,Fx outflow,12  Mar-18*,171.0,PRMC
+171,Net fx,12  Mar-18*,13.0,PRMC
+172,From Operations,12  Mar-18*,38.0,PRMC
+173,From Investments,12  Mar-18*,1.0,PRMC
+174,From Financial Activity,12  Mar-18*,-36.0,PRMC
+175,Net Cashflow,12  Mar-18*,2.0,PRMC
+176,Net Sales,12  Mar-19*,219.0,PRMC
+177,Other income,12  Mar-19*,1.0,PRMC
+178,Total revenues,12  Mar-19*,219.0,PRMC
+179,Gross profit,12  Mar-19*,44.0,PRMC
+180,Depreciation,12  Mar-19*,14.0,PRMC
+181,Interest,12  Mar-19*,25.0,PRMC
+182,Profit before tax,12  Mar-19*,5.0,PRMC
+183,Minority Interest,12  Mar-19*,0.0,PRMC
+184,Prior Period Items,12  Mar-19*,0.0,PRMC
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,PRMC
+186,Tax,12  Mar-19*,6.0,PRMC
+187,Profit after tax,12  Mar-19*,-1.0,PRMC
+188,Gross profit margin,12  Mar-19*,20.1,PRMC
+189,Effective tax rate,12  Mar-19*,125.5,PRMC
+190,Net profit margin,12  Mar-19*,-0.6,PRMC
+191,Current assets,12  Mar-19*,279.0,PRMC
+192,Current liabilities,12  Mar-19*,481.0,PRMC
+193,Net working cap to sales,12  Mar-19*,-92.5,PRMC
+194,Current ratio,12  Mar-19*,0.6,PRMC
+195,Inventory Days,12  Mar-19*,291.0,PRMC
+196,Debtors Days,12  Mar-19*,53.0,PRMC
+197,Net fixed assets,12  Mar-19*,195.0,PRMC
+198,Share capital,12  Mar-19*,49.0,PRMC
+199,"""Free"" reserves",12  Mar-19*,146.0,PRMC
+200,Net worth,12  Mar-19*,195.0,PRMC
+201,Long term debt,12  Mar-19*,72.0,PRMC
+202,Total assets,12  Mar-19*,481.0,PRMC
+203,Interest coverage,12  Mar-19*,1.2,PRMC
+204,Debt to equity ratio,12  Mar-19*,0.4,PRMC
+205,Sales to assets ratio,12  Mar-19*,0.5,PRMC
+206,Return on assets,12  Mar-19*,4.9,PRMC
+207,Return on equity,12  Mar-19*,-0.7,PRMC
+208,Return on capital,12  Mar-19*,11.3,PRMC
+209,Exports to sales,12  Mar-19*,0.0,PRMC
+210,Imports to sales,12  Mar-19*,0.0,PRMC
+211,Exports (fob),12  Mar-19*,0.0,PRMC
+212,Imports (cif),12  Mar-19*,0.0,PRMC
+213,Fx inflow,12  Mar-19*,0.0,PRMC
+214,Fx outflow,12  Mar-19*,0.0,PRMC
+215,Net fx,12  Mar-19*,0.0,PRMC
+216,From Operations,12  Mar-19*,44.0,PRMC
+217,From Investments,12  Mar-19*,-4.0,PRMC
+218,From Financial Activity,12  Mar-19*,-45.0,PRMC
+219,Net Cashflow,12  Mar-19*,-5.0,PRMC

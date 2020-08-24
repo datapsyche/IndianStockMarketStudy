@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,19806.0,HSAN
+1,Other income,12  Mar-15*,36.0,HSAN
+2,Total revenues,12  Mar-15*,19842.0,HSAN
+3,Gross profit,12  Mar-15*,3325.0,HSAN
+4,Depreciation,12  Mar-15*,1250.0,HSAN
+5,Interest,12  Mar-15*,775.0,HSAN
+6,Profit before tax,12  Mar-15*,1335.0,HSAN
+7,Minority Interest,12  Mar-15*,0.0,HSAN
+8,Prior Period Items,12  Mar-15*,0.0,HSAN
+9,Extraordinary Inc (Exp),12  Mar-15*,0.0,HSAN
+10,Tax,12  Mar-15*,481.0,HSAN
+11,Profit after tax,12  Mar-15*,854.0,HSAN
+12,Gross profit margin,12  Mar-15*,16.8,HSAN
+13,Effective tax rate,12  Mar-15*,36.0,HSAN
+14,Net profit margin,12  Mar-15*,4.3,HSAN
+15,Current assets,12  Mar-15*,9609.0,HSAN
+16,Current liabilities,12  Mar-15*,7846.0,HSAN
+17,Net working cap to sales,12  Mar-15*,8.9,HSAN
+18,Current ratio,12  Mar-15*,1.2,HSAN
+19,Inventory Days,12  Mar-15*,87.0,HSAN
+20,Debtors Days,12  Mar-15*,76.0,HSAN
+21,Net fixed assets,12  Mar-15*,15932.0,HSAN
+22,Share capital,12  Mar-15*,145.0,HSAN
+23,"""Free"" reserves",12  Mar-15*,12948.0,HSAN
+24,Net worth,12  Mar-15*,13092.0,HSAN
+25,Long term debt,12  Mar-15*,3586.0,HSAN
+26,Total assets,12  Mar-15*,26536.0,HSAN
+27,Interest coverage,12  Mar-15*,2.7,HSAN
+28,Debt to equity ratio,12  Mar-15*,0.3,HSAN
+29,Sales to assets ratio,12  Mar-15*,0.7,HSAN
+30,Return on assets,12  Mar-15*,6.1,HSAN
+31,Return on equity,12  Mar-15*,6.5,HSAN
+32,Return on capital,12  Mar-15*,12.7,HSAN
+33,Exports to sales,12  Mar-15*,2.8,HSAN
+34,Imports to sales,12  Mar-15*,12.8,HSAN
+35,Exports (fob),12  Mar-15*,548.0,HSAN
+36,Imports (cif),12  Mar-15*,2538.0,HSAN
+37,Fx inflow,12  Mar-15*,548.0,HSAN
+38,Fx outflow,12  Mar-15*,2786.0,HSAN
+39,Net fx,12  Mar-15*,-2239.0,HSAN
+40,From Operations,12  Mar-15*,2644.0,HSAN
+41,From Investments,12  Mar-15*,-924.0,HSAN
+42,From Financial Activity,12  Mar-15*,-2075.0,HSAN
+43,Net Cashflow,12  Mar-15*,-354.0,HSAN
+44,Net Sales,12  Mar-16*,19787.0,HSAN
+45,Other income,12  Mar-16*,147.0,HSAN
+46,Total revenues,12  Mar-16*,19935.0,HSAN
+47,Gross profit,12  Mar-16*,3153.0,HSAN
+48,Depreciation,12  Mar-16*,1146.0,HSAN
+49,Interest,12  Mar-16*,413.0,HSAN
+50,Profit before tax,12  Mar-16*,1742.0,HSAN
+51,Minority Interest,12  Mar-16*,0.0,HSAN
+52,Prior Period Items,12  Mar-16*,0.0,HSAN
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,HSAN
+54,Tax,12  Mar-16*,657.0,HSAN
+55,Profit after tax,12  Mar-16*,1085.0,HSAN
+56,Gross profit margin,12  Mar-16*,15.9,HSAN
+57,Effective tax rate,12  Mar-16*,37.7,HSAN
+58,Net profit margin,12  Mar-16*,5.5,HSAN
+59,Current assets,12  Mar-16*,9516.0,HSAN
+60,Current liabilities,12  Mar-16*,8244.0,HSAN
+61,Net working cap to sales,12  Mar-16*,6.4,HSAN
+62,Current ratio,12  Mar-16*,1.2,HSAN
+63,Inventory Days,12  Mar-16*,90.0,HSAN
+64,Debtors Days,12  Mar-16*,72.0,HSAN
+65,Net fixed assets,12  Mar-16*,15712.0,HSAN
+66,Share capital,12  Mar-16*,145.0,HSAN
+67,"""Free"" reserves",12  Mar-16*,13720.0,HSAN
+68,Net worth,12  Mar-16*,13865.0,HSAN
+69,Long term debt,12  Mar-16*,2084.0,HSAN
+70,Total assets,12  Mar-16*,26546.0,HSAN
+71,Interest coverage,12  Mar-16*,5.2,HSAN
+72,Debt to equity ratio,12  Mar-16*,0.2,HSAN
+73,Sales to assets ratio,12  Mar-16*,0.7,HSAN
+74,Return on assets,12  Mar-16*,5.6,HSAN
+75,Return on equity,12  Mar-16*,7.8,HSAN
+76,Return on capital,12  Mar-16*,13.5,HSAN
+77,Exports to sales,12  Mar-16*,3.1,HSAN
+78,Imports to sales,12  Mar-16*,14.0,HSAN
+79,Exports (fob),12  Mar-16*,607.0,HSAN
+80,Imports (cif),12  Mar-16*,2768.0,HSAN
+81,Fx inflow,12  Mar-16*,607.0,HSAN
+82,Fx outflow,12  Mar-16*,2965.0,HSAN
+83,Net fx,12  Mar-16*,-2358.0,HSAN
+84,From Operations,12  Mar-16*,3106.0,HSAN
+85,From Investments,12  Mar-16*,-664.0,HSAN
+86,From Financial Activity,12  Mar-16*,-2470.0,HSAN
+87,Net Cashflow,12  Mar-16*,-28.0,HSAN
+88,Net Sales,12  Mar-17*,20748.0,HSAN
+89,Other income,12  Mar-17*,46.0,HSAN
+90,Total revenues,12  Mar-17*,20794.0,HSAN
+91,Gross profit,12  Mar-17*,2867.0,HSAN
+92,Depreciation,12  Mar-17*,1109.0,HSAN
+93,Interest,12  Mar-17*,335.0,HSAN
+94,Profit before tax,12  Mar-17*,1469.0,HSAN
+95,Minority Interest,12  Mar-17*,0.0,HSAN
+96,Prior Period Items,12  Mar-17*,0.0,HSAN
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,HSAN
+98,Tax,12  Mar-17*,466.0,HSAN
+99,Profit after tax,12  Mar-17*,1003.0,HSAN
+100,Gross profit margin,12  Mar-17*,13.8,HSAN
+101,Effective tax rate,12  Mar-17*,31.7,HSAN
+102,Net profit margin,12  Mar-17*,4.8,HSAN
+103,Current assets,12  Mar-17*,12069.0,HSAN
+104,Current liabilities,12  Mar-17*,10462.0,HSAN
+105,Net working cap to sales,12  Mar-17*,7.7,HSAN
+106,Current ratio,12  Mar-17*,1.2,HSAN
+107,Inventory Days,12  Mar-17*,87.0,HSAN
+108,Debtors Days,12  Mar-17*,70.0,HSAN
+109,Net fixed assets,12  Mar-17*,16548.0,HSAN
+110,Share capital,12  Mar-17*,145.0,HSAN
+111,"""Free"" reserves",12  Mar-17*,14321.0,HSAN
+112,Net worth,12  Mar-17*,14465.0,HSAN
+113,Long term debt,12  Mar-17*,3173.0,HSAN
+114,Total assets,12  Mar-17*,30848.0,HSAN
+115,Interest coverage,12  Mar-17*,5.4,HSAN
+116,Debt to equity ratio,12  Mar-17*,0.2,HSAN
+117,Sales to assets ratio,12  Mar-17*,0.7,HSAN
+118,Return on assets,12  Mar-17*,4.3,HSAN
+119,Return on equity,12  Mar-17*,6.9,HSAN
+120,Return on capital,12  Mar-17*,10.2,HSAN
+121,Exports to sales,12  Mar-17*,0.0,HSAN
+122,Imports to sales,12  Mar-17*,0.0,HSAN
+123,Exports (fob),12  Mar-17*,0.0,HSAN
+124,Imports (cif),12  Mar-17*,0.0,HSAN
+125,Fx inflow,12  Mar-17*,520.0,HSAN
+126,Fx outflow,12  Mar-17*,3041.0,HSAN
+127,Net fx,12  Mar-17*,-2520.0,HSAN
+128,From Operations,12  Mar-17*,2042.0,HSAN
+129,From Investments,12  Mar-17*,-3286.0,HSAN
+130,From Financial Activity,12  Mar-17*,2476.0,HSAN
+131,Net Cashflow,12  Mar-17*,1233.0,HSAN
+132,Net Sales,12  Mar-18*,22528.0,HSAN
+133,Other income,12  Mar-18*,97.0,HSAN
+134,Total revenues,12  Mar-18*,22625.0,HSAN
+135,Gross profit,12  Mar-18*,2718.0,HSAN
+136,Depreciation,12  Mar-18*,1141.0,HSAN
+137,Interest,12  Mar-18*,558.0,HSAN
+138,Profit before tax,12  Mar-18*,1117.0,HSAN
+139,Minority Interest,12  Mar-18*,0.0,HSAN
+140,Prior Period Items,12  Mar-18*,0.0,HSAN
+141,Extraordinary Inc (Exp),12  Mar-18*,-65.0,HSAN
+142,Tax,12  Mar-18*,310.0,HSAN
+143,Profit after tax,12  Mar-18*,741.0,HSAN
+144,Gross profit margin,12  Mar-18*,12.1,HSAN
+145,Effective tax rate,12  Mar-18*,27.8,HSAN
+146,Net profit margin,12  Mar-18*,3.3,HSAN
+147,Current assets,12  Mar-18*,14291.0,HSAN
+148,Current liabilities,12  Mar-18*,11869.0,HSAN
+149,Net working cap to sales,12  Mar-18*,10.8,HSAN
+150,Current ratio,12  Mar-18*,1.2,HSAN
+151,Inventory Days,12  Mar-18*,91.0,HSAN
+152,Debtors Days,12  Mar-18*,83.0,HSAN
+153,Net fixed assets,12  Mar-18*,18907.0,HSAN
+154,Share capital,12  Mar-18*,145.0,HSAN
+155,"""Free"" reserves",12  Mar-18*,14730.0,HSAN
+156,Net worth,12  Mar-18*,14875.0,HSAN
+157,Long term debt,12  Mar-18*,5230.0,HSAN
+158,Total assets,12  Mar-18*,34737.0,HSAN
+159,Interest coverage,12  Mar-18*,3.0,HSAN
+160,Debt to equity ratio,12  Mar-18*,0.4,HSAN
+161,Sales to assets ratio,12  Mar-18*,0.6,HSAN
+162,Return on assets,12  Mar-18*,3.7,HSAN
+163,Return on equity,12  Mar-18*,5.0,HSAN
+164,Return on capital,12  Mar-18*,8.0,HSAN
+165,Exports to sales,12  Mar-18*,0.0,HSAN
+166,Imports to sales,12  Mar-18*,0.0,HSAN
+167,Exports (fob),12  Mar-18*,0.0,HSAN
+168,Imports (cif),12  Mar-18*,0.0,HSAN
+169,Fx inflow,12  Mar-18*,505.0,HSAN
+170,Fx outflow,12  Mar-18*,2287.0,HSAN
+171,Net fx,12  Mar-18*,-1783.0,HSAN
+172,From Operations,12  Mar-18*,548.0,HSAN
+173,From Investments,12  Mar-18*,-1831.0,HSAN
+174,From Financial Activity,12  Mar-18*,2240.0,HSAN
+175,Net Cashflow,12  Mar-18*,957.0,HSAN
+176,Net Sales,12  Mar-19*,27124.0,HSAN
+177,Other income,12  Mar-19*,299.0,HSAN
+178,Total revenues,12  Mar-19*,27423.0,HSAN
+179,Gross profit,12  Mar-19*,3160.0,HSAN
+180,Depreciation,12  Mar-19*,1510.0,HSAN
+181,Interest,12  Mar-19*,875.0,HSAN
+182,Profit before tax,12  Mar-19*,1074.0,HSAN
+183,Minority Interest,12  Mar-19*,22.0,HSAN
+184,Prior Period Items,12  Mar-19*,0.0,HSAN
+185,Extraordinary Inc (Exp),12  Mar-19*,-24.0,HSAN
+186,Tax,12  Mar-19*,372.0,HSAN
+187,Profit after tax,12  Mar-19*,700.0,HSAN
+188,Gross profit margin,12  Mar-19*,11.6,HSAN
+189,Effective tax rate,12  Mar-19*,34.6,HSAN
+190,Net profit margin,12  Mar-19*,2.6,HSAN
+191,Current assets,12  Mar-19*,13537.0,HSAN
+192,Current liabilities,12  Mar-19*,10171.0,HSAN
+193,Net working cap to sales,12  Mar-19*,12.4,HSAN
+194,Current ratio,12  Mar-19*,1.3,HSAN
+195,Inventory Days,12  Mar-19*,77.0,HSAN
+196,Debtors Days,12  Mar-19*,79.0,HSAN
+197,Net fixed assets,12  Mar-19*,20711.0,HSAN
+198,Share capital,12  Mar-19*,145.0,HSAN
+199,"""Free"" reserves",12  Mar-19*,14984.0,HSAN
+200,Net worth,12  Mar-19*,15128.0,HSAN
+201,Long term debt,12  Mar-19*,7532.0,HSAN
+202,Total assets,12  Mar-19*,35604.0,HSAN
+203,Interest coverage,12  Mar-19*,2.2,HSAN
+204,Debt to equity ratio,12  Mar-19*,0.5,HSAN
+205,Sales to assets ratio,12  Mar-19*,0.8,HSAN
+206,Return on assets,12  Mar-19*,4.4,HSAN
+207,Return on equity,12  Mar-19*,4.6,HSAN
+208,Return on capital,12  Mar-19*,8.6,HSAN
+209,Exports to sales,12  Mar-19*,0.0,HSAN
+210,Imports to sales,12  Mar-19*,0.0,HSAN
+211,Exports (fob),12  Mar-19*,0.0,HSAN
+212,Imports (cif),12  Mar-19*,0.0,HSAN
+213,Fx inflow,12  Mar-19*,667.0,HSAN
+214,Fx outflow,12  Mar-19*,4861.0,HSAN
+215,Net fx,12  Mar-19*,-4194.0,HSAN
+216,From Operations,12  Mar-19*,3290.0,HSAN
+217,From Investments,12  Mar-19*,-3222.0,HSAN
+218,From Financial Activity,12  Mar-19*,-1852.0,HSAN
+219,Net Cashflow,12  Mar-19*,-1784.0,HSAN

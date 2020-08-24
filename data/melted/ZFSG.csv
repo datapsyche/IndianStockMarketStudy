@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,3305.0,ZFSG
+1,Other income,12  Mar-15,91.0,ZFSG
+2,Total revenues,12  Mar-15,3396.0,ZFSG
+3,Gross profit,12  Mar-15,580.0,ZFSG
+4,Depreciation,12  Mar-15,235.0,ZFSG
+5,Interest,12  Mar-15,9.0,ZFSG
+6,Profit before tax,12  Mar-15,428.0,ZFSG
+7,Minority Interest,12  Mar-15,0.0,ZFSG
+8,Prior Period Items,12  Mar-15,0.0,ZFSG
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,ZFSG
+10,Tax,12  Mar-15,72.0,ZFSG
+11,Profit after tax,12  Mar-15,356.0,ZFSG
+12,Gross profit margin,12  Mar-15,17.5,ZFSG
+13,Effective tax rate,12  Mar-15,16.8,ZFSG
+14,Net profit margin,12  Mar-15,10.8,ZFSG
+15,Current assets,12  Mar-15,873.0,ZFSG
+16,Current liabilities,12  Mar-15,701.0,ZFSG
+17,Net working cap to sales,12  Mar-15,5.2,ZFSG
+18,Current ratio,12  Mar-15,1.2,ZFSG
+19,Inventory Days,12  Mar-15,27.0,ZFSG
+20,Debtors Days,12  Mar-15,58.0,ZFSG
+21,Net fixed assets,12  Mar-15,1011.0,ZFSG
+22,Share capital,12  Mar-15,91.0,ZFSG
+23,"""Free"" reserves",12  Mar-15,2387.0,ZFSG
+24,Net worth,12  Mar-15,2482.0,ZFSG
+25,Long term debt,12  Mar-15,101.0,ZFSG
+26,Total assets,12  Mar-15,3362.0,ZFSG
+27,Interest coverage,12  Mar-15,51.3,ZFSG
+28,Debt to equity ratio,12  Mar-15,0.0,ZFSG
+29,Sales to assets ratio,12  Mar-15,1.0,ZFSG
+30,Return on assets,12  Mar-15,10.8,ZFSG
+31,Return on equity,12  Mar-15,14.3,ZFSG
+32,Return on capital,12  Mar-15,16.9,ZFSG
+33,Exports to sales,12  Mar-15,0.9,ZFSG
+34,Imports to sales,12  Mar-15,12.1,ZFSG
+35,Exports (fob),12  Mar-15,31.0,ZFSG
+36,Imports (cif),12  Mar-15,399.0,ZFSG
+37,Fx inflow,12  Mar-15,31.0,ZFSG
+38,Fx outflow,12  Mar-15,425.0,ZFSG
+39,Net fx,12  Mar-15,-394.0,ZFSG
+40,From Operations,12  Mar-15,482.0,ZFSG
+41,From Investments,12  Mar-15,-573.0,ZFSG
+42,From Financial Activity,12  Mar-15,-18.0,ZFSG
+43,Net Cashflow,12  Mar-15,-108.0,ZFSG
+44,Net Sales,12  Mar-16*,4240.0,ZFSG
+45,Other income,12  Mar-16*,62.0,ZFSG
+46,Total revenues,12  Mar-16*,4302.0,ZFSG
+47,Gross profit,12  Mar-16*,640.0,ZFSG
+48,Depreciation,12  Mar-16*,306.0,ZFSG
+49,Interest,12  Mar-16*,18.0,ZFSG
+50,Profit before tax,12  Mar-16*,379.0,ZFSG
+51,Minority Interest,12  Mar-16*,0.0,ZFSG
+52,Prior Period Items,12  Mar-16*,0.0,ZFSG
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ZFSG
+54,Tax,12  Mar-16*,125.0,ZFSG
+55,Profit after tax,12  Mar-16*,254.0,ZFSG
+56,Gross profit margin,12  Mar-16*,15.1,ZFSG
+57,Effective tax rate,12  Mar-16*,33.0,ZFSG
+58,Net profit margin,12  Mar-16*,6.0,ZFSG
+59,Current assets,12  Mar-16*,908.0,ZFSG
+60,Current liabilities,12  Mar-16*,836.0,ZFSG
+61,Net working cap to sales,12  Mar-16*,1.7,ZFSG
+62,Current ratio,12  Mar-16*,1.1,ZFSG
+63,Inventory Days,12  Mar-16*,28.0,ZFSG
+64,Debtors Days,12  Mar-16*,40.0,ZFSG
+65,Net fixed assets,12  Mar-16*,1015.0,ZFSG
+66,Share capital,12  Mar-16*,91.0,ZFSG
+67,"""Free"" reserves",12  Mar-16*,2247.0,ZFSG
+68,Net worth,12  Mar-16*,2338.0,ZFSG
+69,Long term debt,12  Mar-16*,79.0,ZFSG
+70,Total assets,12  Mar-16*,3314.0,ZFSG
+71,Interest coverage,12  Mar-16*,22.4,ZFSG
+72,Debt to equity ratio,12  Mar-16*,0.0,ZFSG
+73,Sales to assets ratio,12  Mar-16*,1.3,ZFSG
+74,Return on assets,12  Mar-16*,8.2,ZFSG
+75,Return on equity,12  Mar-16*,10.9,ZFSG
+76,Return on capital,12  Mar-16*,16.4,ZFSG
+77,Exports to sales,12  Mar-16*,1.3,ZFSG
+78,Imports to sales,12  Mar-16*,7.7,ZFSG
+79,Exports (fob),12  Mar-16*,57.0,ZFSG
+80,Imports (cif),12  Mar-16*,326.0,ZFSG
+81,Fx inflow,12  Mar-16*,57.0,ZFSG
+82,Fx outflow,12  Mar-16*,389.0,ZFSG
+83,Net fx,12  Mar-16*,-332.0,ZFSG
+84,From Operations,12  Mar-16*,509.0,ZFSG
+85,From Investments,12  Mar-16*,-433.0,ZFSG
+86,From Financial Activity,12  Mar-16*,-141.0,ZFSG
+87,Net Cashflow,12  Mar-16*,-64.0,ZFSG
+88,Net Sales,12  Mar-17*,3432.0,ZFSG
+89,Other income,12  Mar-17*,116.0,ZFSG
+90,Total revenues,12  Mar-17*,3548.0,ZFSG
+91,Gross profit,12  Mar-17*,635.0,ZFSG
+92,Depreciation,12  Mar-17*,279.0,ZFSG
+93,Interest,12  Mar-17*,25.0,ZFSG
+94,Profit before tax,12  Mar-17*,448.0,ZFSG
+95,Minority Interest,12  Mar-17*,0.0,ZFSG
+96,Prior Period Items,12  Mar-17*,0.0,ZFSG
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ZFSG
+98,Tax,12  Mar-17*,135.0,ZFSG
+99,Profit after tax,12  Mar-17*,313.0,ZFSG
+100,Gross profit margin,12  Mar-17*,18.5,ZFSG
+101,Effective tax rate,12  Mar-17*,30.1,ZFSG
+102,Net profit margin,12  Mar-17*,9.1,ZFSG
+103,Current assets,12  Mar-17*,1334.0,ZFSG
+104,Current liabilities,12  Mar-17*,1048.0,ZFSG
+105,Net working cap to sales,12  Mar-17*,8.3,ZFSG
+106,Current ratio,12  Mar-17*,1.3,ZFSG
+107,Inventory Days,12  Mar-17*,42.0,ZFSG
+108,Debtors Days,12  Mar-17*,81.0,ZFSG
+109,Net fixed assets,12  Mar-17*,1213.0,ZFSG
+110,Share capital,12  Mar-17*,91.0,ZFSG
+111,"""Free"" reserves",12  Mar-17*,2552.0,ZFSG
+112,Net worth,12  Mar-17*,2643.0,ZFSG
+113,Long term debt,12  Mar-17*,158.0,ZFSG
+114,Total assets,12  Mar-17*,3906.0,ZFSG
+115,Interest coverage,12  Mar-17*,19.0,ZFSG
+116,Debt to equity ratio,12  Mar-17*,0.1,ZFSG
+117,Sales to assets ratio,12  Mar-17*,0.9,ZFSG
+118,Return on assets,12  Mar-17*,8.7,ZFSG
+119,Return on equity,12  Mar-17*,11.8,ZFSG
+120,Return on capital,12  Mar-17*,16.9,ZFSG
+121,Exports to sales,12  Mar-17*,0.0,ZFSG
+122,Imports to sales,12  Mar-17*,13.9,ZFSG
+123,Exports (fob),12  Mar-17*,0.0,ZFSG
+124,Imports (cif),12  Mar-17*,478.0,ZFSG
+125,Fx inflow,12  Mar-17*,67.0,ZFSG
+126,Fx outflow,12  Mar-17*,491.0,ZFSG
+127,Net fx,12  Mar-17*,-424.0,ZFSG
+128,From Operations,12  Mar-17*,626.0,ZFSG
+129,From Investments,12  Mar-17*,-470.0,ZFSG
+130,From Financial Activity,12  Mar-17*,-157.0,ZFSG
+131,Net Cashflow,12  Mar-17*,-1.0,ZFSG
+132,Net Sales,12  Mar-18*,4135.0,ZFSG
+133,Other income,12  Mar-18*,97.0,ZFSG
+134,Total revenues,12  Mar-18*,4232.0,ZFSG
+135,Gross profit,12  Mar-18*,844.0,ZFSG
+136,Depreciation,12  Mar-18*,333.0,ZFSG
+137,Interest,12  Mar-18*,32.0,ZFSG
+138,Profit before tax,12  Mar-18*,575.0,ZFSG
+139,Minority Interest,12  Mar-18*,0.0,ZFSG
+140,Prior Period Items,12  Mar-18*,0.0,ZFSG
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ZFSG
+142,Tax,12  Mar-18*,143.0,ZFSG
+143,Profit after tax,12  Mar-18*,432.0,ZFSG
+144,Gross profit margin,12  Mar-18*,20.4,ZFSG
+145,Effective tax rate,12  Mar-18*,24.9,ZFSG
+146,Net profit margin,12  Mar-18*,10.5,ZFSG
+147,Current assets,12  Mar-18*,1520.0,ZFSG
+148,Current liabilities,12  Mar-18*,1138.0,ZFSG
+149,Net working cap to sales,12  Mar-18*,9.2,ZFSG
+150,Current ratio,12  Mar-18*,1.3,ZFSG
+151,Inventory Days,12  Mar-18*,35.0,ZFSG
+152,Debtors Days,12  Mar-18*,81.0,ZFSG
+153,Net fixed assets,12  Mar-18*,1067.0,ZFSG
+154,Share capital,12  Mar-18*,91.0,ZFSG
+155,"""Free"" reserves",12  Mar-18*,2915.0,ZFSG
+156,Net worth,12  Mar-18*,3006.0,ZFSG
+157,Long term debt,12  Mar-18*,146.0,ZFSG
+158,Total assets,12  Mar-18*,4313.0,ZFSG
+159,Interest coverage,12  Mar-18*,18.9,ZFSG
+160,Debt to equity ratio,12  Mar-18*,0.0,ZFSG
+161,Sales to assets ratio,12  Mar-18*,1.0,ZFSG
+162,Return on assets,12  Mar-18*,10.8,ZFSG
+163,Return on equity,12  Mar-18*,14.4,ZFSG
+164,Return on capital,12  Mar-18*,19.3,ZFSG
+165,Exports to sales,12  Mar-18*,0.0,ZFSG
+166,Imports to sales,12  Mar-18*,7.5,ZFSG
+167,Exports (fob),12  Mar-18*,0.0,ZFSG
+168,Imports (cif),12  Mar-18*,309.0,ZFSG
+169,Fx inflow,12  Mar-18*,86.0,ZFSG
+170,Fx outflow,12  Mar-18*,322.0,ZFSG
+171,Net fx,12  Mar-18*,-236.0,ZFSG
+172,From Operations,12  Mar-18*,675.0,ZFSG
+173,From Investments,12  Mar-18*,-546.0,ZFSG
+174,From Financial Activity,12  Mar-18*,-105.0,ZFSG
+175,Net Cashflow,12  Mar-18*,25.0,ZFSG
+176,Net Sales,12  Mar-19*,4394.0,ZFSG
+177,Other income,12  Mar-19*,89.0,ZFSG
+178,Total revenues,12  Mar-19*,4483.0,ZFSG
+179,Gross profit,12  Mar-19*,555.0,ZFSG
+180,Depreciation,12  Mar-19*,310.0,ZFSG
+181,Interest,12  Mar-19*,19.0,ZFSG
+182,Profit before tax,12  Mar-19*,315.0,ZFSG
+183,Minority Interest,12  Mar-19*,0.0,ZFSG
+184,Prior Period Items,12  Mar-19*,0.0,ZFSG
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ZFSG
+186,Tax,12  Mar-19*,-124.0,ZFSG
+187,Profit after tax,12  Mar-19*,439.0,ZFSG
+188,Gross profit margin,12  Mar-19*,12.6,ZFSG
+189,Effective tax rate,12  Mar-19*,-39.5,ZFSG
+190,Net profit margin,12  Mar-19*,10.0,ZFSG
+191,Current assets,12  Mar-19*,1366.0,ZFSG
+192,Current liabilities,12  Mar-19*,960.0,ZFSG
+193,Net working cap to sales,12  Mar-19*,9.2,ZFSG
+194,Current ratio,12  Mar-19*,1.4,ZFSG
+195,Inventory Days,12  Mar-19*,33.0,ZFSG
+196,Debtors Days,12  Mar-19*,64.0,ZFSG
+197,Net fixed assets,12  Mar-19*,1372.0,ZFSG
+198,Share capital,12  Mar-19*,91.0,ZFSG
+199,"""Free"" reserves",12  Mar-19*,3262.0,ZFSG
+200,Net worth,12  Mar-19*,3353.0,ZFSG
+201,Long term debt,12  Mar-19*,210.0,ZFSG
+202,Total assets,12  Mar-19*,4541.0,ZFSG
+203,Interest coverage,12  Mar-19*,17.2,ZFSG
+204,Debt to equity ratio,12  Mar-19*,0.1,ZFSG
+205,Sales to assets ratio,12  Mar-19*,1.0,ZFSG
+206,Return on assets,12  Mar-19*,10.1,ZFSG
+207,Return on equity,12  Mar-19*,13.1,ZFSG
+208,Return on capital,12  Mar-19*,9.4,ZFSG
+209,Exports to sales,12  Mar-19*,0.0,ZFSG
+210,Imports to sales,12  Mar-19*,8.0,ZFSG
+211,Exports (fob),12  Mar-19*,0.0,ZFSG
+212,Imports (cif),12  Mar-19*,353.0,ZFSG
+213,Fx inflow,12  Mar-19*,91.0,ZFSG
+214,Fx outflow,12  Mar-19*,18.0,ZFSG
+215,Net fx,12  Mar-19*,73.0,ZFSG
+216,From Operations,12  Mar-19*,722.0,ZFSG
+217,From Investments,12  Mar-19*,-420.0,ZFSG
+218,From Financial Activity,12  Mar-19*,-287.0,ZFSG
+219,Net Cashflow,12  Mar-19*,14.0,ZFSG

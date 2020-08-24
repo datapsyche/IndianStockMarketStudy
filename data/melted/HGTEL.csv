@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,27312.0,HGTEL
+1,Other income,12  Mar-14,875.0,HGTEL
+2,Total revenues,12  Mar-14,28187.0,HGTEL
+3,Gross profit,12  Mar-14,5268.0,HGTEL
+4,Depreciation,12  Mar-14,6093.0,HGTEL
+5,Interest,12  Mar-14,5651.0,HGTEL
+6,Profit before tax,12  Mar-14,-5601.0,HGTEL
+7,Minority Interest,12  Mar-14,0.0,HGTEL
+8,Prior Period Items,12  Mar-14,0.0,HGTEL
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,HGTEL
+10,Tax,12  Mar-14,0.0,HGTEL
+11,Profit after tax,12  Mar-14,-5601.0,HGTEL
+12,Gross profit margin,12  Mar-14,19.3,HGTEL
+13,Effective tax rate,12  Mar-14,0.0,HGTEL
+14,Net profit margin,12  Mar-14,-20.5,HGTEL
+15,Current assets,12  Mar-14,4787.0,HGTEL
+16,Current liabilities,12  Mar-14,32786.0,HGTEL
+17,Net working cap to sales,12  Mar-14,-102.5,HGTEL
+18,Current ratio,12  Mar-14,0.1,HGTEL
+19,Inventory Days,12  Mar-14,1.0,HGTEL
+20,Debtors Days,12  Mar-14,34.0,HGTEL
+21,Net fixed assets,12  Mar-14,45555.0,HGTEL
+22,Share capital,12  Mar-14,19549.0,HGTEL
+23,"""Free"" reserves",12  Mar-14,-43078.0,HGTEL
+24,Net worth,12  Mar-14,-23528.0,HGTEL
+25,Long term debt,12  Mar-14,47138.0,HGTEL
+26,Total assets,12  Mar-14,56610.0,HGTEL
+27,Interest coverage,12  Mar-14,0.0,HGTEL
+28,Debt to equity ratio,12  Mar-14,-2.0,HGTEL
+29,Sales to assets ratio,12  Mar-14,0.5,HGTEL
+30,Return on assets,12  Mar-14,0.1,HGTEL
+31,Return on equity,12  Mar-14,23.8,HGTEL
+32,Return on capital,12  Mar-14,0.2,HGTEL
+33,Exports to sales,12  Mar-14,0.0,HGTEL
+34,Imports to sales,12  Mar-14,0.7,HGTEL
+35,Exports (fob),12  Mar-14,0.0,HGTEL
+36,Imports (cif),12  Mar-14,183.0,HGTEL
+37,Fx inflow,12  Mar-14,62.0,HGTEL
+38,Fx outflow,12  Mar-14,1253.0,HGTEL
+39,Net fx,12  Mar-14,-1191.0,HGTEL
+40,From Operations,12  Mar-14,7088.0,HGTEL
+41,From Investments,12  Mar-14,-2659.0,HGTEL
+42,From Financial Activity,12  Mar-14,-5096.0,HGTEL
+43,Net Cashflow,12  Mar-14,-667.0,HGTEL
+44,Net Sales,12  Mar-15,28927.0,HGTEL
+45,Other income,12  Mar-15,463.0,HGTEL
+46,Total revenues,12  Mar-15,29390.0,HGTEL
+47,Gross profit,12  Mar-15,6002.0,HGTEL
+48,Depreciation,12  Mar-15,6109.0,HGTEL
+49,Interest,12  Mar-15,6508.0,HGTEL
+50,Profit before tax,12  Mar-15,-6153.0,HGTEL
+51,Minority Interest,12  Mar-15,0.0,HGTEL
+52,Prior Period Items,12  Mar-15,0.0,HGTEL
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,HGTEL
+54,Tax,12  Mar-15,0.0,HGTEL
+55,Profit after tax,12  Mar-15,-6153.0,HGTEL
+56,Gross profit margin,12  Mar-15,20.7,HGTEL
+57,Effective tax rate,12  Mar-15,0.0,HGTEL
+58,Net profit margin,12  Mar-15,-21.3,HGTEL
+59,Current assets,12  Mar-15,4447.0,HGTEL
+60,Current liabilities,12  Mar-15,39445.0,HGTEL
+61,Net working cap to sales,12  Mar-15,-121.0,HGTEL
+62,Current ratio,12  Mar-15,0.1,HGTEL
+63,Inventory Days,12  Mar-15,2.0,HGTEL
+64,Debtors Days,12  Mar-15,35.0,HGTEL
+65,Net fixed assets,12  Mar-15,48974.0,HGTEL
+66,Share capital,12  Mar-15,19549.0,HGTEL
+67,"""Free"" reserves",12  Mar-15,-55822.0,HGTEL
+68,Net worth,12  Mar-15,-36273.0,HGTEL
+69,Long term debt,12  Mar-15,50205.0,HGTEL
+70,Total assets,12  Mar-15,53421.0,HGTEL
+71,Interest coverage,12  Mar-15,0.1,HGTEL
+72,Debt to equity ratio,12  Mar-15,-1.4,HGTEL
+73,Sales to assets ratio,12  Mar-15,0.5,HGTEL
+74,Return on assets,12  Mar-15,0.7,HGTEL
+75,Return on equity,12  Mar-15,17.0,HGTEL
+76,Return on capital,12  Mar-15,2.6,HGTEL
+77,Exports to sales,12  Mar-15,0.0,HGTEL
+78,Imports to sales,12  Mar-15,4.9,HGTEL
+79,Exports (fob),12  Mar-15,0.0,HGTEL
+80,Imports (cif),12  Mar-15,1412.0,HGTEL
+81,Fx inflow,12  Mar-15,64.0,HGTEL
+82,Fx outflow,12  Mar-15,2846.0,HGTEL
+83,Net fx,12  Mar-15,-2782.0,HGTEL
+84,From Operations,12  Mar-15,6359.0,HGTEL
+85,From Investments,12  Mar-15,-7850.0,HGTEL
+86,From Financial Activity,12  Mar-15,1769.0,HGTEL
+87,Net Cashflow,12  Mar-15,278.0,HGTEL
+88,Net Sales,12  Mar-16,29721.0,HGTEL
+89,Other income,12  Mar-16,270.0,HGTEL
+90,Total revenues,12  Mar-16,29991.0,HGTEL
+91,Gross profit,12  Mar-16,7580.0,HGTEL
+92,Depreciation,12  Mar-16,4597.0,HGTEL
+93,Interest,12  Mar-16,6836.0,HGTEL
+94,Profit before tax,12  Mar-16,-3583.0,HGTEL
+95,Minority Interest,12  Mar-16,0.0,HGTEL
+96,Prior Period Items,12  Mar-16,0.0,HGTEL
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,HGTEL
+98,Tax,12  Mar-16,0.0,HGTEL
+99,Profit after tax,12  Mar-16,-3583.0,HGTEL
+100,Gross profit margin,12  Mar-16,25.5,HGTEL
+101,Effective tax rate,12  Mar-16,0.0,HGTEL
+102,Net profit margin,12  Mar-16,-12.1,HGTEL
+103,Current assets,12  Mar-16,10455.0,HGTEL
+104,Current liabilities,12  Mar-16,59192.0,HGTEL
+105,Net working cap to sales,12  Mar-16,-164.0,HGTEL
+106,Current ratio,12  Mar-16,0.2,HGTEL
+107,Inventory Days,12  Mar-16,1.0,HGTEL
+108,Debtors Days,12  Mar-16,36.0,HGTEL
+109,Net fixed assets,12  Mar-16,84146.0,HGTEL
+110,Share capital,12  Mar-16,19549.0,HGTEL
+111,"""Free"" reserves",12  Mar-16,-59411.0,HGTEL
+112,Net worth,12  Mar-16,-39862.0,HGTEL
+113,Long term debt,12  Mar-16,34141.0,HGTEL
+114,Total assets,12  Mar-16,94601.0,HGTEL
+115,Interest coverage,12  Mar-16,0.5,HGTEL
+116,Debt to equity ratio,12  Mar-16,-0.9,HGTEL
+117,Sales to assets ratio,12  Mar-16,0.3,HGTEL
+118,Return on assets,12  Mar-16,3.4,HGTEL
+119,Return on equity,12  Mar-16,9.0,HGTEL
+120,Return on capital,12  Mar-16,-56.9,HGTEL
+121,Exports to sales,12  Mar-16,0.0,HGTEL
+122,Imports to sales,12  Mar-16,3.9,HGTEL
+123,Exports (fob),12  Mar-16,0.0,HGTEL
+124,Imports (cif),12  Mar-16,1170.0,HGTEL
+125,Fx inflow,12  Mar-16,39.0,HGTEL
+126,Fx outflow,12  Mar-16,2454.0,HGTEL
+127,Net fx,12  Mar-16,-2415.0,HGTEL
+128,From Operations,12  Mar-16,7660.0,HGTEL
+129,From Investments,12  Mar-16,-11826.0,HGTEL
+130,From Financial Activity,12  Mar-16,4341.0,HGTEL
+131,Net Cashflow,12  Mar-16,175.0,HGTEL
+132,Net Sales,12  Mar-17,27029.0,HGTEL
+133,Other income,12  Mar-17,-144.0,HGTEL
+134,Total revenues,12  Mar-17,26885.0,HGTEL
+135,Gross profit,12  Mar-17,6949.0,HGTEL
+136,Depreciation,12  Mar-17,7958.0,HGTEL
+137,Interest,12  Mar-17,12823.0,HGTEL
+138,Profit before tax,12  Mar-17,-13977.0,HGTEL
+139,Minority Interest,12  Mar-17,0.0,HGTEL
+140,Prior Period Items,12  Mar-17,0.0,HGTEL
+141,Extraordinary Inc (Exp),12  Mar-17,-9588.0,HGTEL
+142,Tax,12  Mar-17,0.0,HGTEL
+143,Profit after tax,12  Mar-17,-23565.0,HGTEL
+144,Gross profit margin,12  Mar-17,25.7,HGTEL
+145,Effective tax rate,12  Mar-17,0.0,HGTEL
+146,Net profit margin,12  Mar-17,-87.2,HGTEL
+147,Current assets,12  Mar-17,12523.0,HGTEL
+148,Current liabilities,12  Mar-17,71508.0,HGTEL
+149,Net working cap to sales,12  Mar-17,-218.2,HGTEL
+150,Current ratio,12  Mar-17,0.2,HGTEL
+151,Inventory Days,12  Mar-17,0.0,HGTEL
+152,Debtors Days,12  Mar-17,31.0,HGTEL
+153,Net fixed assets,12  Mar-17,106536.0,HGTEL
+154,Share capital,12  Mar-17,19549.0,HGTEL
+155,"""Free"" reserves",12  Mar-17,-78638.0,HGTEL
+156,Net worth,12  Mar-17,-59088.0,HGTEL
+157,Long term debt,12  Mar-17,43054.0,HGTEL
+158,Total assets,12  Mar-17,119059.0,HGTEL
+159,Interest coverage,12  Mar-17,-0.1,HGTEL
+160,Debt to equity ratio,12  Mar-17,-0.7,HGTEL
+161,Sales to assets ratio,12  Mar-17,0.2,HGTEL
+162,Return on assets,12  Mar-17,-9.0,HGTEL
+163,Return on equity,12  Mar-17,39.9,HGTEL
+164,Return on capital,12  Mar-17,67.0,HGTEL
+165,Exports to sales,12  Mar-17,0.0,HGTEL
+166,Imports to sales,12  Mar-17,1.2,HGTEL
+167,Exports (fob),12  Mar-17,0.0,HGTEL
+168,Imports (cif),12  Mar-17,321.0,HGTEL
+169,Fx inflow,12  Mar-17,15.0,HGTEL
+170,Fx outflow,12  Mar-17,1698.0,HGTEL
+171,Net fx,12  Mar-17,-1683.0,HGTEL
+172,From Operations,12  Mar-17,7299.0,HGTEL
+173,From Investments,12  Mar-17,-21978.0,HGTEL
+174,From Financial Activity,12  Mar-17,10410.0,HGTEL
+175,Net Cashflow,12  Mar-17,-4269.0,HGTEL
+176,Net Sales,12  Mar-18,18685.0,HGTEL
+177,Other income,12  Mar-18,355.0,HGTEL
+178,Total revenues,12  Mar-18,19040.0,HGTEL
+179,Gross profit,12  Mar-18,1661.0,HGTEL
+180,Depreciation,12  Mar-18,5329.0,HGTEL
+181,Interest,12  Mar-18,15690.0,HGTEL
+182,Profit before tax,12  Mar-18,-19003.0,HGTEL
+183,Minority Interest,12  Mar-18,0.0,HGTEL
+184,Prior Period Items,12  Mar-18,0.0,HGTEL
+185,Extraordinary Inc (Exp),12  Mar-18,-79417.0,HGTEL
+186,Tax,12  Mar-18,0.0,HGTEL
+187,Profit after tax,12  Mar-18,-98420.0,HGTEL
+188,Gross profit margin,12  Mar-18,8.9,HGTEL
+189,Effective tax rate,12  Mar-18,0.0,HGTEL
+190,Net profit margin,12  Mar-18,-526.7,HGTEL
+191,Current assets,12  Mar-18,18846.0,HGTEL
+192,Current liabilities,12  Mar-18,105529.0,HGTEL
+193,Net working cap to sales,12  Mar-18,-463.9,HGTEL
+194,Current ratio,12  Mar-18,0.2,HGTEL
+195,Inventory Days,12  Mar-18,0.0,HGTEL
+196,Debtors Days,12  Mar-18,31.0,HGTEL
+197,Net fixed assets,12  Mar-18,14956.0,HGTEL
+198,Share capital,12  Mar-18,19549.0,HGTEL
+199,"""Free"" reserves",12  Mar-18,-171141.0,HGTEL
+200,Net worth,12  Mar-18,-151592.0,HGTEL
+201,Long term debt,12  Mar-18,53064.0,HGTEL
+202,Total assets,12  Mar-18,33802.0,HGTEL
+203,Interest coverage,12  Mar-18,-0.2,HGTEL
+204,Debt to equity ratio,12  Mar-18,-0.4,HGTEL
+205,Sales to assets ratio,12  Mar-18,0.6,HGTEL
+206,Return on assets,12  Mar-18,-244.8,HGTEL
+207,Return on equity,12  Mar-18,64.9,HGTEL
+208,Return on capital,12  Mar-18,84.0,HGTEL
+209,Exports to sales,12  Mar-18,0.0,HGTEL
+210,Imports to sales,12  Mar-18,2.1,HGTEL
+211,Exports (fob),12  Mar-18,0.0,HGTEL
+212,Imports (cif),12  Mar-18,388.0,HGTEL
+213,Fx inflow,12  Mar-18,30.0,HGTEL
+214,Fx outflow,12  Mar-18,1464.0,HGTEL
+215,Net fx,12  Mar-18,-1435.0,HGTEL
+216,From Operations,12  Mar-18,6130.0,HGTEL
+217,From Investments,12  Mar-18,2491.0,HGTEL
+218,From Financial Activity,12  Mar-18,-5164.0,HGTEL
+219,Net Cashflow,12  Mar-18,3457.0,HGTEL

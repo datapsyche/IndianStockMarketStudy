@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,14808.0,RELXO
+1,Other income,12  Mar-15,4.0,RELXO
+2,Total revenues,12  Mar-15,14812.0,RELXO
+3,Gross profit,12  Mar-15,2006.0,RELXO
+4,Depreciation,12  Mar-15,399.0,RELXO
+5,Interest,12  Mar-15,185.0,RELXO
+6,Profit before tax,12  Mar-15,1427.0,RELXO
+7,Minority Interest,12  Mar-15,0.0,RELXO
+8,Prior Period Items,12  Mar-15,0.0,RELXO
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,RELXO
+10,Tax,12  Mar-15,396.0,RELXO
+11,Profit after tax,12  Mar-15,1031.0,RELXO
+12,Gross profit margin,12  Mar-15,13.5,RELXO
+13,Effective tax rate,12  Mar-15,27.8,RELXO
+14,Net profit margin,12  Mar-15,7.0,RELXO
+15,Current assets,12  Mar-15,3552.0,RELXO
+16,Current liabilities,12  Mar-15,2946.0,RELXO
+17,Net working cap to sales,12  Mar-15,4.1,RELXO
+18,Current ratio,12  Mar-15,1.2,RELXO
+19,Inventory Days,12  Mar-15,61.0,RELXO
+20,Debtors Days,12  Mar-15,21.0,RELXO
+21,Net fixed assets,12  Mar-15,4738.0,RELXO
+22,Share capital,12  Mar-15,60.0,RELXO
+23,"""Free"" reserves",12  Mar-15,3614.0,RELXO
+24,Net worth,12  Mar-15,3678.0,RELXO
+25,Long term debt,12  Mar-15,1445.0,RELXO
+26,Total assets,12  Mar-15,8412.0,RELXO
+27,Interest coverage,12  Mar-15,8.7,RELXO
+28,Debt to equity ratio,12  Mar-15,0.4,RELXO
+29,Sales to assets ratio,12  Mar-15,1.8,RELXO
+30,Return on assets,12  Mar-15,14.4,RELXO
+31,Return on equity,12  Mar-15,28.0,RELXO
+32,Return on capital,12  Mar-15,31.5,RELXO
+33,Exports to sales,12  Mar-15,2.1,RELXO
+34,Imports to sales,12  Mar-15,16.1,RELXO
+35,Exports (fob),12  Mar-15,307.0,RELXO
+36,Imports (cif),12  Mar-15,2380.0,RELXO
+37,Fx inflow,12  Mar-15,307.0,RELXO
+38,Fx outflow,12  Mar-15,2426.0,RELXO
+39,Net fx,12  Mar-15,-2119.0,RELXO
+40,From Operations,12  Mar-15,1075.0,RELXO
+41,From Investments,12  Mar-15,-1298.0,RELXO
+42,From Financial Activity,12  Mar-15,211.0,RELXO
+43,Net Cashflow,12  Mar-15,-12.0,RELXO
+44,Net Sales,12  Mar-16,17130.0,RELXO
+45,Other income,12  Mar-16,23.0,RELXO
+46,Total revenues,12  Mar-16,17153.0,RELXO
+47,Gross profit,12  Mar-16,2454.0,RELXO
+48,Depreciation,12  Mar-16,471.0,RELXO
+49,Interest,12  Mar-16,229.0,RELXO
+50,Profit before tax,12  Mar-16,1776.0,RELXO
+51,Minority Interest,12  Mar-16,0.0,RELXO
+52,Prior Period Items,12  Mar-16,0.0,RELXO
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,RELXO
+54,Tax,12  Mar-16,573.0,RELXO
+55,Profit after tax,12  Mar-16,1203.0,RELXO
+56,Gross profit margin,12  Mar-16,14.3,RELXO
+57,Effective tax rate,12  Mar-16,32.3,RELXO
+58,Net profit margin,12  Mar-16,7.0,RELXO
+59,Current assets,12  Mar-16,4247.0,RELXO
+60,Current liabilities,12  Mar-16,3701.0,RELXO
+61,Net working cap to sales,12  Mar-16,3.2,RELXO
+62,Current ratio,12  Mar-16,1.1,RELXO
+63,Inventory Days,12  Mar-16,61.0,RELXO
+64,Debtors Days,12  Mar-16,23.0,RELXO
+65,Net fixed assets,12  Mar-16,5783.0,RELXO
+66,Share capital,12  Mar-16,120.0,RELXO
+67,"""Free"" reserves",12  Mar-16,4776.0,RELXO
+68,Net worth,12  Mar-16,4896.0,RELXO
+69,Long term debt,12  Mar-16,1199.0,RELXO
+70,Total assets,12  Mar-16,10087.0,RELXO
+71,Interest coverage,12  Mar-16,8.8,RELXO
+72,Debt to equity ratio,12  Mar-16,0.2,RELXO
+73,Sales to assets ratio,12  Mar-16,1.7,RELXO
+74,Return on assets,12  Mar-16,14.2,RELXO
+75,Return on equity,12  Mar-16,24.6,RELXO
+76,Return on capital,12  Mar-16,32.9,RELXO
+77,Exports to sales,12  Mar-16,2.2,RELXO
+78,Imports to sales,12  Mar-16,13.2,RELXO
+79,Exports (fob),12  Mar-16,384.0,RELXO
+80,Imports (cif),12  Mar-16,2255.0,RELXO
+81,Fx inflow,12  Mar-16,384.0,RELXO
+82,Fx outflow,12  Mar-16,2316.0,RELXO
+83,Net fx,12  Mar-16,-1932.0,RELXO
+84,From Operations,12  Mar-16,1594.0,RELXO
+85,From Investments,12  Mar-16,-1303.0,RELXO
+86,From Financial Activity,12  Mar-16,-313.0,RELXO
+87,Net Cashflow,12  Mar-16,-21.0,RELXO
+88,Net Sales,12  Mar-17,16312.0,RELXO
+89,Other income,12  Mar-17,136.0,RELXO
+90,Total revenues,12  Mar-17,16448.0,RELXO
+91,Gross profit,12  Mar-17,2309.0,RELXO
+92,Depreciation,12  Mar-17,515.0,RELXO
+93,Interest,12  Mar-17,150.0,RELXO
+94,Profit before tax,12  Mar-17,1780.0,RELXO
+95,Minority Interest,12  Mar-17,0.0,RELXO
+96,Prior Period Items,12  Mar-17,0.0,RELXO
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,RELXO
+98,Tax,12  Mar-17,581.0,RELXO
+99,Profit after tax,12  Mar-17,1200.0,RELXO
+100,Gross profit margin,12  Mar-17,14.2,RELXO
+101,Effective tax rate,12  Mar-17,32.6,RELXO
+102,Net profit margin,12  Mar-17,7.4,RELXO
+103,Current assets,12  Mar-17,4467.0,RELXO
+104,Current liabilities,12  Mar-17,3599.0,RELXO
+105,Net working cap to sales,12  Mar-17,5.3,RELXO
+106,Current ratio,12  Mar-17,1.2,RELXO
+107,Inventory Days,12  Mar-17,65.0,RELXO
+108,Debtors Days,12  Mar-17,28.0,RELXO
+109,Net fixed assets,12  Mar-17,6034.0,RELXO
+110,Share capital,12  Mar-17,120.0,RELXO
+111,"""Free"" reserves",12  Mar-17,5944.0,RELXO
+112,Net worth,12  Mar-17,6064.0,RELXO
+113,Long term debt,12  Mar-17,709.0,RELXO
+114,Total assets,12  Mar-17,10703.0,RELXO
+115,Interest coverage,12  Mar-17,12.8,RELXO
+116,Debt to equity ratio,12  Mar-17,0.1,RELXO
+117,Sales to assets ratio,12  Mar-17,1.5,RELXO
+118,Return on assets,12  Mar-17,12.6,RELXO
+119,Return on equity,12  Mar-17,19.8,RELXO
+120,Return on capital,12  Mar-17,28.5,RELXO
+121,Exports to sales,12  Mar-17,0.0,RELXO
+122,Imports to sales,12  Mar-17,0.0,RELXO
+123,Exports (fob),12  Mar-17,0.0,RELXO
+124,Imports (cif),12  Mar-17,0.0,RELXO
+125,Fx inflow,12  Mar-17,469.0,RELXO
+126,Fx outflow,12  Mar-17,2278.0,RELXO
+127,Net fx,12  Mar-17,-1810.0,RELXO
+128,From Operations,12  Mar-17,1802.0,RELXO
+129,From Investments,12  Mar-17,-894.0,RELXO
+130,From Financial Activity,12  Mar-17,-895.0,RELXO
+131,Net Cashflow,12  Mar-17,13.0,RELXO
+132,Net Sales,12  Mar-18,19569.0,RELXO
+133,Other income,12  Mar-18,45.0,RELXO
+134,Total revenues,12  Mar-18,19614.0,RELXO
+135,Gross profit,12  Mar-18,3021.0,RELXO
+136,Depreciation,12  Mar-18,543.0,RELXO
+137,Interest,12  Mar-18,86.0,RELXO
+138,Profit before tax,12  Mar-18,2436.0,RELXO
+139,Minority Interest,12  Mar-18,0.0,RELXO
+140,Prior Period Items,12  Mar-18,0.0,RELXO
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,RELXO
+142,Tax,12  Mar-18,826.0,RELXO
+143,Profit after tax,12  Mar-18,1611.0,RELXO
+144,Gross profit margin,12  Mar-18,15.4,RELXO
+145,Effective tax rate,12  Mar-18,33.9,RELXO
+146,Net profit margin,12  Mar-18,8.2,RELXO
+147,Current assets,12  Mar-18,5617.0,RELXO
+148,Current liabilities,12  Mar-18,4149.0,RELXO
+149,Net working cap to sales,12  Mar-18,7.5,RELXO
+150,Current ratio,12  Mar-18,1.4,RELXO
+151,Inventory Days,12  Mar-18,59.0,RELXO
+152,Debtors Days,12  Mar-18,32.0,RELXO
+153,Net fixed assets,12  Mar-18,6624.0,RELXO
+154,Share capital,12  Mar-18,120.0,RELXO
+155,"""Free"" reserves",12  Mar-18,7492.0,RELXO
+156,Net worth,12  Mar-18,7612.0,RELXO
+157,Long term debt,12  Mar-18,393.0,RELXO
+158,Total assets,12  Mar-18,12498.0,RELXO
+159,Interest coverage,12  Mar-18,29.4,RELXO
+160,Debt to equity ratio,12  Mar-18,0.1,RELXO
+161,Sales to assets ratio,12  Mar-18,1.6,RELXO
+162,Return on assets,12  Mar-18,13.6,RELXO
+163,Return on equity,12  Mar-18,21.2,RELXO
+164,Return on capital,12  Mar-18,31.5,RELXO
+165,Exports to sales,12  Mar-18,0.0,RELXO
+166,Imports to sales,12  Mar-18,0.0,RELXO
+167,Exports (fob),12  Mar-18,0.0,RELXO
+168,Imports (cif),12  Mar-18,0.0,RELXO
+169,Fx inflow,12  Mar-18,456.0,RELXO
+170,Fx outflow,12  Mar-18,3120.0,RELXO
+171,Net fx,12  Mar-18,-2664.0,RELXO
+172,From Operations,12  Mar-18,1543.0,RELXO
+173,From Investments,12  Mar-18,-1084.0,RELXO
+174,From Financial Activity,12  Mar-18,-463.0,RELXO
+175,Net Cashflow,12  Mar-18,-4.0,RELXO
+176,Net Sales,12  Mar-19,22921.0,RELXO
+177,Other income,12  Mar-19,130.0,RELXO
+178,Total revenues,12  Mar-19,23051.0,RELXO
+179,Gross profit,12  Mar-19,3243.0,RELXO
+180,Depreciation,12  Mar-19,624.0,RELXO
+181,Interest,12  Mar-19,69.0,RELXO
+182,Profit before tax,12  Mar-19,2680.0,RELXO
+183,Minority Interest,12  Mar-19,0.0,RELXO
+184,Prior Period Items,12  Mar-19,0.0,RELXO
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,RELXO
+186,Tax,12  Mar-19,925.0,RELXO
+187,Profit after tax,12  Mar-19,1754.0,RELXO
+188,Gross profit margin,12  Mar-19,14.1,RELXO
+189,Effective tax rate,12  Mar-19,34.5,RELXO
+190,Net profit margin,12  Mar-19,7.7,RELXO
+191,Current assets,12  Mar-19,7201.0,RELXO
+192,Current liabilities,12  Mar-19,4560.0,RELXO
+193,Net working cap to sales,12  Mar-19,11.5,RELXO
+194,Current ratio,12  Mar-19,1.6,RELXO
+195,Inventory Days,12  Mar-19,64.0,RELXO
+196,Debtors Days,12  Mar-19,31.0,RELXO
+197,Net fixed assets,12  Mar-19,8595.0,RELXO
+198,Share capital,12  Mar-19,124.0,RELXO
+199,"""Free"" reserves",12  Mar-19,10927.0,RELXO
+200,Net worth,12  Mar-19,11051.0,RELXO
+201,Long term debt,12  Mar-19,0.0,RELXO
+202,Total assets,12  Mar-19,16046.0,RELXO
+203,Interest coverage,12  Mar-19,39.8,RELXO
+204,Debt to equity ratio,12  Mar-19,0.0,RELXO
+205,Sales to assets ratio,12  Mar-19,1.4,RELXO
+206,Return on assets,12  Mar-19,11.4,RELXO
+207,Return on equity,12  Mar-19,15.9,RELXO
+208,Return on capital,12  Mar-19,24.9,RELXO
+209,Exports to sales,12  Mar-19,0.0,RELXO
+210,Imports to sales,12  Mar-19,0.0,RELXO
+211,Exports (fob),12  Mar-19,0.0,RELXO
+212,Imports (cif),12  Mar-19,0.0,RELXO
+213,Fx inflow,12  Mar-19,872.0,RELXO
+214,Fx outflow,12  Mar-19,4466.0,RELXO
+215,Net fx,12  Mar-19,-3594.0,RELXO
+216,From Operations,12  Mar-19,1235.0,RELXO
+217,From Investments,12  Mar-19,-569.0,RELXO
+218,From Financial Activity,12  Mar-19,-682.0,RELXO
+219,Net Cashflow,12  Mar-19,-12.0,RELXO

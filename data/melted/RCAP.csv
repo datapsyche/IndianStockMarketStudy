@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,74550.0,RCAP
+1,Other income,12  Mar-14*,890.0,RCAP
+2,Total revenues,12  Mar-14*,75440.0,RCAP
+3,Gross profit,12  Mar-14*,33200.0,RCAP
+4,Depreciation,12  Mar-14*,610.0,RCAP
+5,Interest,12  Mar-14*,25010.0,RCAP
+6,Profit before tax,12  Mar-14*,8470.0,RCAP
+7,Minority Interest,12  Mar-14*,-970.0,RCAP
+8,Prior Period Items,12  Mar-14*,1630.0,RCAP
+9,Extraordinary Inc (Exp),12  Mar-14*,-20.0,RCAP
+10,Tax,12  Mar-14*,1640.0,RCAP
+11,Profit after tax,12  Mar-14*,7470.0,RCAP
+12,Gross profit margin,12  Mar-14*,44.5,RCAP
+13,Effective tax rate,12  Mar-14*,19.4,RCAP
+14,Net profit margin,12  Mar-14*,10.0,RCAP
+15,Current assets,12  Mar-14*,133610.0,RCAP
+16,Current liabilities,12  Mar-14*,182750.0,RCAP
+17,Net working cap to sales,12  Mar-14*,-65.9,RCAP
+18,Current ratio,12  Mar-14*,0.7,RCAP
+19,Inventory Days,12  Mar-14*,8.0,RCAP
+20,Debtors Days,12  Mar-14*,46.0,RCAP
+21,Net fixed assets,12  Mar-14*,4830.0,RCAP
+22,Share capital,12  Mar-14*,2440.0,RCAP
+23,"""Free"" reserves",12  Mar-14*,106670.0,RCAP
+24,Net worth,12  Mar-14*,123910.0,RCAP
+25,Long term debt,12  Mar-14*,141780.0,RCAP
+26,Total assets,12  Mar-14*,455280.0,RCAP
+27,Interest coverage,12  Mar-14*,1.3,RCAP
+28,Debt to equity ratio,12  Mar-14*,1.1,RCAP
+29,Sales to assets ratio,12  Mar-14*,0.2,RCAP
+30,Return on assets,12  Mar-14*,7.1,RCAP
+31,Return on equity,12  Mar-14*,6.0,RCAP
+32,Return on capital,12  Mar-14*,12.8,RCAP
+33,Exports to sales,12  Mar-14*,0.0,RCAP
+34,Imports to sales,12  Mar-14*,0.0,RCAP
+35,Exports (fob),12  Mar-14*,0.0,RCAP
+36,Imports (cif),12  Mar-14*,0.0,RCAP
+37,Fx inflow,12  Mar-14*,0.0,RCAP
+38,Fx outflow,12  Mar-14*,20.0,RCAP
+39,Net fx,12  Mar-14*,-20.0,RCAP
+40,From Operations,12  Mar-14*,14710.0,RCAP
+41,From Investments,12  Mar-14*,-2140.0,RCAP
+42,From Financial Activity,12  Mar-14*,-2760.0,RCAP
+43,Net Cashflow,12  Mar-14*,9810.0,RCAP
+44,Net Sales,12  Mar-15*,87870.0,RCAP
+45,Other income,12  Mar-15*,740.0,RCAP
+46,Total revenues,12  Mar-15*,88610.0,RCAP
+47,Gross profit,12  Mar-15*,38670.0,RCAP
+48,Depreciation,12  Mar-15*,680.0,RCAP
+49,Interest,12  Mar-15*,26420.0,RCAP
+50,Profit before tax,12  Mar-15*,12310.0,RCAP
+51,Minority Interest,12  Mar-15*,-1300.0,RCAP
+52,Prior Period Items,12  Mar-15*,790.0,RCAP
+53,Extraordinary Inc (Exp),12  Mar-15*,450.0,RCAP
+54,Tax,12  Mar-15*,2240.0,RCAP
+55,Profit after tax,12  Mar-15*,10010.0,RCAP
+56,Gross profit margin,12  Mar-15*,44.0,RCAP
+57,Effective tax rate,12  Mar-15*,18.2,RCAP
+58,Net profit margin,12  Mar-15*,11.4,RCAP
+59,Current assets,12  Mar-15*,154030.0,RCAP
+60,Current liabilities,12  Mar-15*,165550.0,RCAP
+61,Net working cap to sales,12  Mar-15*,-13.1,RCAP
+62,Current ratio,12  Mar-15*,0.9,RCAP
+63,Inventory Days,12  Mar-15*,5.0,RCAP
+64,Debtors Days,12  Mar-15*,15.0,RCAP
+65,Net fixed assets,12  Mar-15*,5320.0,RCAP
+66,Share capital,12  Mar-15*,2530.0,RCAP
+67,"""Free"" reserves",12  Mar-15*,114310.0,RCAP
+68,Net worth,12  Mar-15*,133240.0,RCAP
+69,Long term debt,12  Mar-15*,166970.0,RCAP
+70,Total assets,12  Mar-15*,474400.0,RCAP
+71,Interest coverage,12  Mar-15*,1.5,RCAP
+72,Debt to equity ratio,12  Mar-15*,1.3,RCAP
+73,Sales to assets ratio,12  Mar-15*,0.2,RCAP
+74,Return on assets,12  Mar-15*,7.7,RCAP
+75,Return on equity,12  Mar-15*,7.5,RCAP
+76,Return on capital,12  Mar-15*,12.9,RCAP
+77,Exports to sales,12  Mar-15*,0.0,RCAP
+78,Imports to sales,12  Mar-15*,0.0,RCAP
+79,Exports (fob),12  Mar-15*,0.0,RCAP
+80,Imports (cif),12  Mar-15*,0.0,RCAP
+81,Fx inflow,12  Mar-15*,0.0,RCAP
+82,Fx outflow,12  Mar-15*,20.0,RCAP
+83,Net fx,12  Mar-15*,-20.0,RCAP
+84,From Operations,12  Mar-15*,-29780.0,RCAP
+85,From Investments,12  Mar-15*,21440.0,RCAP
+86,From Financial Activity,12  Mar-15*,-350.0,RCAP
+87,Net Cashflow,12  Mar-15*,-8690.0,RCAP
+88,Net Sales,12  Mar-16*,99410.0,RCAP
+89,Other income,12  Mar-16*,570.0,RCAP
+90,Total revenues,12  Mar-16*,99980.0,RCAP
+91,Gross profit,12  Mar-16*,45660.0,RCAP
+92,Depreciation,12  Mar-16*,700.0,RCAP
+93,Interest,12  Mar-16*,28210.0,RCAP
+94,Profit before tax,12  Mar-16*,17320.0,RCAP
+95,Minority Interest,12  Mar-16*,0.0,RCAP
+96,Prior Period Items,12  Mar-16*,0.0,RCAP
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,RCAP
+98,Tax,12  Mar-16*,3790.0,RCAP
+99,Profit after tax,12  Mar-16*,13530.0,RCAP
+100,Gross profit margin,12  Mar-16*,45.9,RCAP
+101,Effective tax rate,12  Mar-16*,21.9,RCAP
+102,Net profit margin,12  Mar-16*,13.6,RCAP
+103,Current assets,12  Mar-16*,170120.0,RCAP
+104,Current liabilities,12  Mar-16*,181540.0,RCAP
+105,Net working cap to sales,12  Mar-16*,-11.5,RCAP
+106,Current ratio,12  Mar-16*,0.9,RCAP
+107,Inventory Days,12  Mar-16*,2.0,RCAP
+108,Debtors Days,12  Mar-16*,27.0,RCAP
+109,Net fixed assets,12  Mar-16*,55150.0,RCAP
+110,Share capital,12  Mar-16*,2530.0,RCAP
+111,"""Free"" reserves",12  Mar-16*,141430.0,RCAP
+112,Net worth,12  Mar-16*,143960.0,RCAP
+113,Long term debt,12  Mar-16*,180570.0,RCAP
+114,Total assets,12  Mar-16*,671120.0,RCAP
+115,Interest coverage,12  Mar-16*,1.6,RCAP
+116,Debt to equity ratio,12  Mar-16*,1.3,RCAP
+117,Sales to assets ratio,12  Mar-16*,0.1,RCAP
+118,Return on assets,12  Mar-16*,6.2,RCAP
+119,Return on equity,12  Mar-16*,9.4,RCAP
+120,Return on capital,12  Mar-16*,14.0,RCAP
+121,Exports to sales,12  Mar-16*,0.0,RCAP
+122,Imports to sales,12  Mar-16*,0.0,RCAP
+123,Exports (fob),12  Mar-16*,0.0,RCAP
+124,Imports (cif),12  Mar-16*,0.0,RCAP
+125,Fx inflow,12  Mar-16*,0.0,RCAP
+126,Fx outflow,12  Mar-16*,20.0,RCAP
+127,Net fx,12  Mar-16*,-20.0,RCAP
+128,From Operations,12  Mar-16*,-2250.0,RCAP
+129,From Investments,12  Mar-16*,26420.0,RCAP
+130,From Financial Activity,12  Mar-16*,-12460.0,RCAP
+131,Net Cashflow,12  Mar-16*,15210.0,RCAP
+132,Net Sales,12  Mar-17*,175070.0,RCAP
+133,Other income,12  Mar-17*,1330.0,RCAP
+134,Total revenues,12  Mar-17*,176400.0,RCAP
+135,Gross profit,12  Mar-17*,45900.0,RCAP
+136,Depreciation,12  Mar-17*,1160.0,RCAP
+137,Interest,12  Mar-17*,30680.0,RCAP
+138,Profit before tax,12  Mar-17*,15390.0,RCAP
+139,Minority Interest,12  Mar-17*,0.0,RCAP
+140,Prior Period Items,12  Mar-17*,0.0,RCAP
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,RCAP
+142,Tax,12  Mar-17*,2930.0,RCAP
+143,Profit after tax,12  Mar-17*,12460.0,RCAP
+144,Gross profit margin,12  Mar-17*,26.2,RCAP
+145,Effective tax rate,12  Mar-17*,19.0,RCAP
+146,Net profit margin,12  Mar-17*,7.1,RCAP
+147,Current assets,12  Mar-17*,209690.0,RCAP
+148,Current liabilities,12  Mar-17*,214750.0,RCAP
+149,Net working cap to sales,12  Mar-17*,-2.9,RCAP
+150,Current ratio,12  Mar-17*,1.0,RCAP
+151,Inventory Days,12  Mar-17*,1.0,RCAP
+152,Debtors Days,12  Mar-17*,19.0,RCAP
+153,Net fixed assets,12  Mar-17*,57480.0,RCAP
+154,Share capital,12  Mar-17*,2530.0,RCAP
+155,"""Free"" reserves",12  Mar-17*,150810.0,RCAP
+156,Net worth,12  Mar-17*,153340.0,RCAP
+157,Long term debt,12  Mar-17*,269060.0,RCAP
+158,Total assets,12  Mar-17*,826010.0,RCAP
+159,Interest coverage,12  Mar-17*,1.5,RCAP
+160,Debt to equity ratio,12  Mar-17*,1.8,RCAP
+161,Sales to assets ratio,12  Mar-17*,0.2,RCAP
+162,Return on assets,12  Mar-17*,5.2,RCAP
+163,Return on equity,12  Mar-17*,8.1,RCAP
+164,Return on capital,12  Mar-17*,10.9,RCAP
+165,Exports to sales,12  Mar-17*,0.0,RCAP
+166,Imports to sales,12  Mar-17*,0.0,RCAP
+167,Exports (fob),12  Mar-17*,0.0,RCAP
+168,Imports (cif),12  Mar-17*,0.0,RCAP
+169,Fx inflow,12  Mar-17*,0.0,RCAP
+170,Fx outflow,12  Mar-17*,40.0,RCAP
+171,Net fx,12  Mar-17*,-40.0,RCAP
+172,From Operations,12  Mar-17*,-36230.0,RCAP
+173,From Investments,12  Mar-17*,-60590.0,RCAP
+174,From Financial Activity,12  Mar-17*,105350.0,RCAP
+175,Net Cashflow,12  Mar-17*,8360.0,RCAP
+176,Net Sales,12  Mar-18*,198640.0,RCAP
+177,Other income,12  Mar-18*,340.0,RCAP
+178,Total revenues,12  Mar-18*,198980.0,RCAP
+179,Gross profit,12  Mar-18*,58070.0,RCAP
+180,Depreciation,12  Mar-18*,1430.0,RCAP
+181,Interest,12  Mar-18*,40260.0,RCAP
+182,Profit before tax,12  Mar-18*,16720.0,RCAP
+183,Minority Interest,12  Mar-18*,0.0,RCAP
+184,Prior Period Items,12  Mar-18*,0.0,RCAP
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,RCAP
+186,Tax,12  Mar-18*,4380.0,RCAP
+187,Profit after tax,12  Mar-18*,12340.0,RCAP
+188,Gross profit margin,12  Mar-18*,29.2,RCAP
+189,Effective tax rate,12  Mar-18*,26.2,RCAP
+190,Net profit margin,12  Mar-18*,6.2,RCAP
+191,Current assets,12  Mar-18*,257220.0,RCAP
+192,Current liabilities,12  Mar-18*,219620.0,RCAP
+193,Net working cap to sales,12  Mar-18*,18.9,RCAP
+194,Current ratio,12  Mar-18*,1.2,RCAP
+195,Inventory Days,12  Mar-18*,0.0,RCAP
+196,Debtors Days,12  Mar-18*,20.0,RCAP
+197,Net fixed assets,12  Mar-18*,57130.0,RCAP
+198,Share capital,12  Mar-18*,2530.0,RCAP
+199,"""Free"" reserves",12  Mar-18*,149540.0,RCAP
+200,Net worth,12  Mar-18*,152070.0,RCAP
+201,Long term debt,12  Mar-18*,349290.0,RCAP
+202,Total assets,12  Mar-18*,938510.0,RCAP
+203,Interest coverage,12  Mar-18*,1.4,RCAP
+204,Debt to equity ratio,12  Mar-18*,2.3,RCAP
+205,Sales to assets ratio,12  Mar-18*,0.2,RCAP
+206,Return on assets,12  Mar-18*,5.6,RCAP
+207,Return on equity,12  Mar-18*,8.1,RCAP
+208,Return on capital,12  Mar-18*,11.4,RCAP
+209,Exports to sales,12  Mar-18*,0.0,RCAP
+210,Imports to sales,12  Mar-18*,0.0,RCAP
+211,Exports (fob),12  Mar-18*,0.0,RCAP
+212,Imports (cif),12  Mar-18*,0.0,RCAP
+213,Fx inflow,12  Mar-18*,0.0,RCAP
+214,Fx outflow,12  Mar-18*,80.0,RCAP
+215,Net fx,12  Mar-18*,-80.0,RCAP
+216,From Operations,12  Mar-18*,-50650.0,RCAP
+217,From Investments,12  Mar-18*,-7760.0,RCAP
+218,From Financial Activity,12  Mar-18*,65620.0,RCAP
+219,Net Cashflow,12  Mar-18*,7210.0,RCAP

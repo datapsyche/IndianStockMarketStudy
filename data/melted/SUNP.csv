@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,273920.0,SUNP
+1,Other income,12  Mar-15*,5477.0,SUNP
+2,Total revenues,12  Mar-15*,279397.0,SUNP
+3,Gross profit,12  Mar-15*,78667.0,SUNP
+4,Depreciation,12  Mar-15*,11947.0,SUNP
+5,Interest,12  Mar-15*,5790.0,SUNP
+6,Profit before tax,12  Mar-15*,66407.0,SUNP
+7,Minority Interest,12  Mar-15*,-9363.0,SUNP
+8,Prior Period Items,12  Mar-15*,-126.0,SUNP
+9,Extraordinary Inc (Exp),12  Mar-15*,-2378.0,SUNP
+10,Tax,12  Mar-15*,9147.0,SUNP
+11,Profit after tax,12  Mar-15*,45394.0,SUNP
+12,Gross profit margin,12  Mar-15*,28.7,SUNP
+13,Effective tax rate,12  Mar-15*,13.8,SUNP
+14,Net profit margin,12  Mar-15*,16.6,SUNP
+15,Current assets,12  Mar-15*,288782.0,SUNP
+16,Current liabilities,12  Mar-15*,153294.0,SUNP
+17,Net working cap to sales,12  Mar-15*,49.5,SUNP
+18,Current ratio,12  Mar-15*,1.9,SUNP
+19,Inventory Days,12  Mar-15*,76.0,SUNP
+20,Debtors Days,12  Mar-15*,68.0,SUNP
+21,Net fixed assets,12  Mar-15*,151694.0,SUNP
+22,Share capital,12  Mar-15*,2071.0,SUNP
+23,"""Free"" reserves",12  Mar-15*,278009.0,SUNP
+24,Net worth,12  Mar-15*,280080.0,SUNP
+25,Long term debt,12  Mar-15*,13598.0,SUNP
+26,Total assets,12  Mar-15*,501601.0,SUNP
+27,Interest coverage,12  Mar-15*,12.5,SUNP
+28,Debt to equity ratio,12  Mar-15*,0.0,SUNP
+29,Sales to assets ratio,12  Mar-15*,0.5,SUNP
+30,Return on assets,12  Mar-15*,10.2,SUNP
+31,Return on equity,12  Mar-15*,16.2,SUNP
+32,Return on capital,12  Mar-15*,20.5,SUNP
+33,Exports to sales,12  Mar-15*,16.9,SUNP
+34,Imports to sales,12  Mar-15*,4.5,SUNP
+35,Exports (fob),12  Mar-15*,46235.0,SUNP
+36,Imports (cif),12  Mar-15*,12229.0,SUNP
+37,Fx inflow,12  Mar-15*,48706.0,SUNP
+38,Fx outflow,12  Mar-15*,25564.0,SUNP
+39,Net fx,12  Mar-15*,23142.0,SUNP
+40,From Operations,12  Mar-15*,56157.0,SUNP
+41,From Investments,12  Mar-15*,-28657.0,SUNP
+42,From Financial Activity,12  Mar-15*,-11865.0,SUNP
+43,Net Cashflow,12  Mar-15*,15635.0,SUNP
+44,Net Sales,12  Mar-16*,284870.0,SUNP
+45,Other income,12  Mar-16*,6583.0,SUNP
+46,Total revenues,12  Mar-16*,291453.0,SUNP
+47,Gross profit,12  Mar-16*,81583.0,SUNP
+48,Depreciation,12  Mar-16*,10375.0,SUNP
+49,Interest,12  Mar-16*,5232.0,SUNP
+50,Profit before tax,12  Mar-16*,72558.0,SUNP
+51,Minority Interest,12  Mar-16*,0.0,SUNP
+52,Prior Period Items,12  Mar-16*,15.0,SUNP
+53,Extraordinary Inc (Exp),12  Mar-16*,-6852.0,SUNP
+54,Tax,12  Mar-16*,9138.0,SUNP
+55,Profit after tax,12  Mar-16*,56583.0,SUNP
+56,Gross profit margin,12  Mar-16*,28.6,SUNP
+57,Effective tax rate,12  Mar-16*,12.6,SUNP
+58,Net profit margin,12  Mar-16*,19.9,SUNP
+59,Current assets,12  Mar-16*,299413.0,SUNP
+60,Current liabilities,12  Mar-16*,131440.0,SUNP
+61,Net working cap to sales,12  Mar-16*,59.0,SUNP
+62,Current ratio,12  Mar-16*,2.3,SUNP
+63,Inventory Days,12  Mar-16*,82.0,SUNP
+64,Debtors Days,12  Mar-16*,87.0,SUNP
+65,Net fixed assets,12  Mar-16*,180477.0,SUNP
+66,Share capital,12  Mar-16*,2407.0,SUNP
+67,"""Free"" reserves",12  Mar-16*,327418.0,SUNP
+68,Net worth,12  Mar-16*,329825.0,SUNP
+69,Long term debt,12  Mar-16*,31103.0,SUNP
+70,Total assets,12  Mar-16*,555303.0,SUNP
+71,Interest coverage,12  Mar-16*,14.9,SUNP
+72,Debt to equity ratio,12  Mar-16*,0.1,SUNP
+73,Sales to assets ratio,12  Mar-16*,0.5,SUNP
+74,Return on assets,12  Mar-16*,11.1,SUNP
+75,Return on equity,12  Mar-16*,17.2,SUNP
+76,Return on capital,12  Mar-16*,19.7,SUNP
+77,Exports to sales,12  Mar-16*,13.9,SUNP
+78,Imports to sales,12  Mar-16*,3.1,SUNP
+79,Exports (fob),12  Mar-16*,39572.0,SUNP
+80,Imports (cif),12  Mar-16*,8882.0,SUNP
+81,Fx inflow,12  Mar-16*,42171.0,SUNP
+82,Fx outflow,12  Mar-16*,21583.0,SUNP
+83,Net fx,12  Mar-16*,20588.0,SUNP
+84,From Operations,12  Mar-16*,66859.0,SUNP
+85,From Investments,12  Mar-16*,-43716.0,SUNP
+86,From Financial Activity,12  Mar-16*,-18885.0,SUNP
+87,Net Cashflow,12  Mar-16*,8482.0,SUNP
+88,Net Sales,12  Mar-17*,315784.0,SUNP
+89,Other income,12  Mar-17*,6232.0,SUNP
+90,Total revenues,12  Mar-17*,322016.0,SUNP
+91,Gross profit,12  Mar-17*,100893.0,SUNP
+92,Depreciation,12  Mar-17*,12648.0,SUNP
+93,Interest,12  Mar-17*,3998.0,SUNP
+94,Profit before tax,12  Mar-17*,90479.0,SUNP
+95,Minority Interest,12  Mar-17*,0.0,SUNP
+96,Prior Period Items,12  Mar-17*,0.0,SUNP
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SUNP
+98,Tax,12  Mar-17*,12116.0,SUNP
+99,Profit after tax,12  Mar-17*,78363.0,SUNP
+100,Gross profit margin,12  Mar-17*,31.9,SUNP
+101,Effective tax rate,12  Mar-17*,13.4,SUNP
+102,Net profit margin,12  Mar-17*,24.8,SUNP
+103,Current assets,12  Mar-17*,329537.0,SUNP
+104,Current liabilities,12  Mar-17*,178870.0,SUNP
+105,Net working cap to sales,12  Mar-17*,47.7,SUNP
+106,Current ratio,12  Mar-17*,1.8,SUNP
+107,Inventory Days,12  Mar-17*,79.0,SUNP
+108,Debtors Days,12  Mar-17*,83.0,SUNP
+109,Net fixed assets,12  Mar-17*,204766.0,SUNP
+110,Share capital,12  Mar-17*,2399.0,SUNP
+111,"""Free"" reserves",12  Mar-17*,363997.0,SUNP
+112,Net worth,12  Mar-17*,366397.0,SUNP
+113,Long term debt,12  Mar-17*,14361.0,SUNP
+114,Total assets,12  Mar-17*,614102.0,SUNP
+115,Interest coverage,12  Mar-17*,23.6,SUNP
+116,Debt to equity ratio,12  Mar-17*,0.0,SUNP
+117,Sales to assets ratio,12  Mar-17*,0.5,SUNP
+118,Return on assets,12  Mar-17*,13.4,SUNP
+119,Return on equity,12  Mar-17*,21.4,SUNP
+120,Return on capital,12  Mar-17*,24.8,SUNP
+121,Exports to sales,12  Mar-17*,0.0,SUNP
+122,Imports to sales,12  Mar-17*,0.0,SUNP
+123,Exports (fob),12  Mar-17*,0.0,SUNP
+124,Imports (cif),12  Mar-17*,0.0,SUNP
+125,Fx inflow,12  Mar-17*,44118.0,SUNP
+126,Fx outflow,12  Mar-17*,24484.0,SUNP
+127,Net fx,12  Mar-17*,19634.0,SUNP
+128,From Operations,12  Mar-17*,70822.0,SUNP
+129,From Investments,12  Mar-17*,-42216.0,SUNP
+130,From Financial Activity,12  Mar-17*,-22854.0,SUNP
+131,Net Cashflow,12  Mar-17*,6107.0,SUNP
+132,Net Sales,12  Mar-18*,264895.0,SUNP
+133,Other income,12  Mar-18*,8388.0,SUNP
+134,Total revenues,12  Mar-18*,273282.0,SUNP
+135,Gross profit,12  Mar-18*,56081.0,SUNP
+136,Depreciation,12  Mar-18*,14998.0,SUNP
+137,Interest,12  Mar-18*,5176.0,SUNP
+138,Profit before tax,12  Mar-18*,44295.0,SUNP
+139,Minority Interest,12  Mar-18*,0.0,SUNP
+140,Prior Period Items,12  Mar-18*,0.0,SUNP
+141,Extraordinary Inc (Exp),12  Mar-18*,-9505.0,SUNP
+142,Tax,12  Mar-18*,9110.0,SUNP
+143,Profit after tax,12  Mar-18*,25679.0,SUNP
+144,Gross profit margin,12  Mar-18*,21.2,SUNP
+145,Effective tax rate,12  Mar-18*,20.6,SUNP
+146,Net profit margin,12  Mar-18*,9.7,SUNP
+147,Current assets,12  Mar-18*,316359.0,SUNP
+148,Current liabilities,12  Mar-18*,198643.0,SUNP
+149,Net working cap to sales,12  Mar-18*,44.4,SUNP
+150,Current ratio,12  Mar-18*,1.6,SUNP
+151,Inventory Days,12  Mar-18*,95.0,SUNP
+152,Debtors Days,12  Mar-18*,108.0,SUNP
+153,Net fixed assets,12  Mar-18*,213178.0,SUNP
+154,Share capital,12  Mar-18*,2399.0,SUNP
+155,"""Free"" reserves",12  Mar-18*,380742.0,SUNP
+156,Net worth,12  Mar-18*,383141.0,SUNP
+157,Long term debt,12  Mar-18*,17721.0,SUNP
+158,Total assets,12  Mar-18*,645164.0,SUNP
+159,Interest coverage,12  Mar-18*,9.6,SUNP
+160,Debt to equity ratio,12  Mar-18*,0.0,SUNP
+161,Sales to assets ratio,12  Mar-18*,0.4,SUNP
+162,Return on assets,12  Mar-18*,4.8,SUNP
+163,Return on equity,12  Mar-18*,6.7,SUNP
+164,Return on capital,12  Mar-18*,10.0,SUNP
+165,Exports to sales,12  Mar-18*,0.0,SUNP
+166,Imports to sales,12  Mar-18*,0.0,SUNP
+167,Exports (fob),12  Mar-18*,0.0,SUNP
+168,Imports (cif),12  Mar-18*,0.0,SUNP
+169,Fx inflow,12  Mar-18*,51403.0,SUNP
+170,Fx outflow,12  Mar-18*,32233.0,SUNP
+171,Net fx,12  Mar-18*,19170.0,SUNP
+172,From Operations,12  Mar-18*,39072.0,SUNP
+173,From Investments,12  Mar-18*,-33708.0,SUNP
+174,From Financial Activity,12  Mar-18*,-15393.0,SUNP
+175,Net Cashflow,12  Mar-18*,-7359.0,SUNP
+176,Net Sales,12  Mar-19*,290659.0,SUNP
+177,Other income,12  Mar-19*,10255.0,SUNP
+178,Total revenues,12  Mar-19*,300914.0,SUNP
+179,Gross profit,12  Mar-19*,63076.0,SUNP
+180,Depreciation,12  Mar-19*,17533.0,SUNP
+181,Interest,12  Mar-19*,5553.0,SUNP
+182,Profit before tax,12  Mar-19*,50246.0,SUNP
+183,Minority Interest,12  Mar-19*,0.0,SUNP
+184,Prior Period Items,12  Mar-19*,0.0,SUNP
+185,Extraordinary Inc (Exp),12  Mar-19*,-12144.0,SUNP
+186,Tax,12  Mar-19*,6009.0,SUNP
+187,Profit after tax,12  Mar-19*,32093.0,SUNP
+188,Gross profit margin,12  Mar-19*,21.7,SUNP
+189,Effective tax rate,12  Mar-19*,12.0,SUNP
+190,Net profit margin,12  Mar-19*,11.0,SUNP
+191,Current assets,12  Mar-19*,310692.0,SUNP
+192,Current liabilities,12  Mar-19*,173396.0,SUNP
+193,Net working cap to sales,12  Mar-19*,47.2,SUNP
+194,Current ratio,12  Mar-19*,1.8,SUNP
+195,Inventory Days,12  Mar-19*,99.0,SUNP
+196,Debtors Days,12  Mar-19*,112.0,SUNP
+197,Net fixed assets,12  Mar-19*,232477.0,SUNP
+198,Share capital,12  Mar-19*,2399.0,SUNP
+199,"""Free"" reserves",12  Mar-19*,411691.0,SUNP
+200,Net worth,12  Mar-19*,414091.0,SUNP
+201,Long term debt,12  Mar-19*,15226.0,SUNP
+202,Total assets,12  Mar-19*,646938.0,SUNP
+203,Interest coverage,12  Mar-19*,10.0,SUNP
+204,Debt to equity ratio,12  Mar-19*,0.0,SUNP
+205,Sales to assets ratio,12  Mar-19*,0.4,SUNP
+206,Return on assets,12  Mar-19*,5.8,SUNP
+207,Return on equity,12  Mar-19*,7.8,SUNP
+208,Return on capital,12  Mar-19*,10.2,SUNP
+209,Exports to sales,12  Mar-19*,0.0,SUNP
+210,Imports to sales,12  Mar-19*,0.0,SUNP
+211,Exports (fob),12  Mar-19*,0.0,SUNP
+212,Imports (cif),12  Mar-19*,0.0,SUNP
+213,Fx inflow,12  Mar-19*,66025.0,SUNP
+214,Fx outflow,12  Mar-19*,38610.0,SUNP
+215,Net fx,12  Mar-19*,27415.0,SUNP
+216,From Operations,12  Mar-19*,21965.0,SUNP
+217,From Investments,12  Mar-19*,-6813.0,SUNP
+218,From Financial Activity,12  Mar-19*,-27305.0,SUNP
+219,Net Cashflow,12  Mar-19*,-8442.0,SUNP

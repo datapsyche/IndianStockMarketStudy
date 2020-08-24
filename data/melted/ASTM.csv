@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,6336.0,ASTM
+1,Other income,12  Mar-15*,63.0,ASTM
+2,Total revenues,12  Mar-15*,6398.0,ASTM
+3,Gross profit,12  Mar-15*,1105.0,ASTM
+4,Depreciation,12  Mar-15*,221.0,ASTM
+5,Interest,12  Mar-15*,100.0,ASTM
+6,Profit before tax,12  Mar-15*,848.0,ASTM
+7,Minority Interest,12  Mar-15*,0.0,ASTM
+8,Prior Period Items,12  Mar-15*,0.0,ASTM
+9,Extraordinary Inc (Exp),12  Mar-15*,-1.0,ASTM
+10,Tax,12  Mar-15*,220.0,ASTM
+11,Profit after tax,12  Mar-15*,628.0,ASTM
+12,Gross profit margin,12  Mar-15*,17.4,ASTM
+13,Effective tax rate,12  Mar-15*,25.9,ASTM
+14,Net profit margin,12  Mar-15*,9.9,ASTM
+15,Current assets,12  Mar-15*,3515.0,ASTM
+16,Current liabilities,12  Mar-15*,1566.0,ASTM
+17,Net working cap to sales,12  Mar-15*,30.8,ASTM
+18,Current ratio,12  Mar-15*,2.2,ASTM
+19,Inventory Days,12  Mar-15*,100.0,ASTM
+20,Debtors Days,12  Mar-15*,64.0,ASTM
+21,Net fixed assets,12  Mar-15*,1439.0,ASTM
+22,Share capital,12  Mar-15*,164.0,ASTM
+23,"""Free"" reserves",12  Mar-15*,2755.0,ASTM
+24,Net worth,12  Mar-15*,2918.0,ASTM
+25,Long term debt,12  Mar-15*,326.0,ASTM
+26,Total assets,12  Mar-15*,4954.0,ASTM
+27,Interest coverage,12  Mar-15*,9.5,ASTM
+28,Debt to equity ratio,12  Mar-15*,0.1,ASTM
+29,Sales to assets ratio,12  Mar-15*,1.3,ASTM
+30,Return on assets,12  Mar-15*,14.7,ASTM
+31,Return on equity,12  Mar-15*,21.5,ASTM
+32,Return on capital,12  Mar-15*,29.2,ASTM
+33,Exports to sales,12  Mar-15*,60.4,ASTM
+34,Imports to sales,12  Mar-15*,8.6,ASTM
+35,Exports (fob),12  Mar-15*,3830.0,ASTM
+36,Imports (cif),12  Mar-15*,547.0,ASTM
+37,Fx inflow,12  Mar-15*,3830.0,ASTM
+38,Fx outflow,12  Mar-15*,549.0,ASTM
+39,Net fx,12  Mar-15*,3281.0,ASTM
+40,From Operations,12  Mar-15*,-51.0,ASTM
+41,From Investments,12  Mar-15*,-278.0,ASTM
+42,From Financial Activity,12  Mar-15*,112.0,ASTM
+43,Net Cashflow,12  Mar-15*,-218.0,ASTM
+44,Net Sales,12  Mar-16*,4188.0,ASTM
+45,Other income,12  Mar-16*,85.0,ASTM
+46,Total revenues,12  Mar-16*,4273.0,ASTM
+47,Gross profit,12  Mar-16*,956.0,ASTM
+48,Depreciation,12  Mar-16*,240.0,ASTM
+49,Interest,12  Mar-16*,91.0,ASTM
+50,Profit before tax,12  Mar-16*,710.0,ASTM
+51,Minority Interest,12  Mar-16*,0.0,ASTM
+52,Prior Period Items,12  Mar-16*,1.0,ASTM
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,ASTM
+54,Tax,12  Mar-16*,148.0,ASTM
+55,Profit after tax,12  Mar-16*,563.0,ASTM
+56,Gross profit margin,12  Mar-16*,22.8,ASTM
+57,Effective tax rate,12  Mar-16*,20.9,ASTM
+58,Net profit margin,12  Mar-16*,13.4,ASTM
+59,Current assets,12  Mar-16*,3745.0,ASTM
+60,Current liabilities,12  Mar-16*,713.0,ASTM
+61,Net working cap to sales,12  Mar-16*,72.4,ASTM
+62,Current ratio,12  Mar-16*,5.3,ASTM
+63,Inventory Days,12  Mar-16*,110.0,ASTM
+64,Debtors Days,12  Mar-16*,142.0,ASTM
+65,Net fixed assets,12  Mar-16*,1411.0,ASTM
+66,Share capital,12  Mar-16*,173.0,ASTM
+67,"""Free"" reserves",12  Mar-16*,3877.0,ASTM
+68,Net worth,12  Mar-16*,4050.0,ASTM
+69,Long term debt,12  Mar-16*,553.0,ASTM
+70,Total assets,12  Mar-16*,5385.0,ASTM
+71,Interest coverage,12  Mar-16*,8.8,ASTM
+72,Debt to equity ratio,12  Mar-16*,0.1,ASTM
+73,Sales to assets ratio,12  Mar-16*,0.8,ASTM
+74,Return on assets,12  Mar-16*,12.1,ASTM
+75,Return on equity,12  Mar-16*,13.9,ASTM
+76,Return on capital,12  Mar-16*,17.4,ASTM
+77,Exports to sales,12  Mar-16*,33.2,ASTM
+78,Imports to sales,12  Mar-16*,19.0,ASTM
+79,Exports (fob),12  Mar-16*,1389.0,ASTM
+80,Imports (cif),12  Mar-16*,797.0,ASTM
+81,Fx inflow,12  Mar-16*,1390.0,ASTM
+82,Fx outflow,12  Mar-16*,801.0,ASTM
+83,Net fx,12  Mar-16*,589.0,ASTM
+84,From Operations,12  Mar-16*,586.0,ASTM
+85,From Investments,12  Mar-16*,-180.0,ASTM
+86,From Financial Activity,12  Mar-16*,211.0,ASTM
+87,Net Cashflow,12  Mar-16*,617.0,ASTM
+88,Net Sales,12  Mar-17*,3898.0,ASTM
+89,Other income,12  Mar-17*,60.0,ASTM
+90,Total revenues,12  Mar-17*,3958.0,ASTM
+91,Gross profit,12  Mar-17*,995.0,ASTM
+92,Depreciation,12  Mar-17*,245.0,ASTM
+93,Interest,12  Mar-17*,112.0,ASTM
+94,Profit before tax,12  Mar-17*,698.0,ASTM
+95,Minority Interest,12  Mar-17*,0.0,ASTM
+96,Prior Period Items,12  Mar-17*,0.0,ASTM
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,ASTM
+98,Tax,12  Mar-17*,122.0,ASTM
+99,Profit after tax,12  Mar-17*,576.0,ASTM
+100,Gross profit margin,12  Mar-17*,25.5,ASTM
+101,Effective tax rate,12  Mar-17*,17.5,ASTM
+102,Net profit margin,12  Mar-17*,14.8,ASTM
+103,Current assets,12  Mar-17*,4346.0,ASTM
+104,Current liabilities,12  Mar-17*,1282.0,ASTM
+105,Net working cap to sales,12  Mar-17*,78.6,ASTM
+106,Current ratio,12  Mar-17*,3.4,ASTM
+107,Inventory Days,12  Mar-17*,121.0,ASTM
+108,Debtors Days,12  Mar-17*,206.0,ASTM
+109,Net fixed assets,12  Mar-17*,1869.0,ASTM
+110,Share capital,12  Mar-17*,173.0,ASTM
+111,"""Free"" reserves",12  Mar-17*,4326.0,ASTM
+112,Net worth,12  Mar-17*,4500.0,ASTM
+113,Long term debt,12  Mar-17*,673.0,ASTM
+114,Total assets,12  Mar-17*,6492.0,ASTM
+115,Interest coverage,12  Mar-17*,7.2,ASTM
+116,Debt to equity ratio,12  Mar-17*,0.1,ASTM
+117,Sales to assets ratio,12  Mar-17*,0.6,ASTM
+118,Return on assets,12  Mar-17*,10.6,ASTM
+119,Return on equity,12  Mar-17*,12.8,ASTM
+120,Return on capital,12  Mar-17*,15.7,ASTM
+121,Exports to sales,12  Mar-17*,0.0,ASTM
+122,Imports to sales,12  Mar-17*,0.0,ASTM
+123,Exports (fob),12  Mar-17*,0.0,ASTM
+124,Imports (cif),12  Mar-17*,0.0,ASTM
+125,Fx inflow,12  Mar-17*,421.0,ASTM
+126,Fx outflow,12  Mar-17*,1520.0,ASTM
+127,Net fx,12  Mar-17*,-1099.0,ASTM
+128,From Operations,12  Mar-17*,144.0,ASTM
+129,From Investments,12  Mar-17*,-1234.0,ASTM
+130,From Financial Activity,12  Mar-17*,459.0,ASTM
+131,Net Cashflow,12  Mar-17*,-631.0,ASTM
+132,Net Sales,12  Mar-18*,3622.0,ASTM
+133,Other income,12  Mar-18*,85.0,ASTM
+134,Total revenues,12  Mar-18*,3707.0,ASTM
+135,Gross profit,12  Mar-18*,1109.0,ASTM
+136,Depreciation,12  Mar-18*,274.0,ASTM
+137,Interest,12  Mar-18*,122.0,ASTM
+138,Profit before tax,12  Mar-18*,797.0,ASTM
+139,Minority Interest,12  Mar-18*,0.0,ASTM
+140,Prior Period Items,12  Mar-18*,0.0,ASTM
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,ASTM
+142,Tax,12  Mar-18*,187.0,ASTM
+143,Profit after tax,12  Mar-18*,611.0,ASTM
+144,Gross profit margin,12  Mar-18*,30.6,ASTM
+145,Effective tax rate,12  Mar-18*,23.4,ASTM
+146,Net profit margin,12  Mar-18*,16.9,ASTM
+147,Current assets,12  Mar-18*,4631.0,ASTM
+148,Current liabilities,12  Mar-18*,1553.0,ASTM
+149,Net working cap to sales,12  Mar-18*,85.0,ASTM
+150,Current ratio,12  Mar-18*,3.0,ASTM
+151,Inventory Days,12  Mar-18*,108.0,ASTM
+152,Debtors Days,12  Mar-18*,192.0,ASTM
+153,Net fixed assets,12  Mar-18*,1952.0,ASTM
+154,Share capital,12  Mar-18*,173.0,ASTM
+155,"""Free"" reserves",12  Mar-18*,4837.0,ASTM
+156,Net worth,12  Mar-18*,5010.0,ASTM
+157,Long term debt,12  Mar-18*,143.0,ASTM
+158,Total assets,12  Mar-18*,6760.0,ASTM
+159,Interest coverage,12  Mar-18*,7.5,ASTM
+160,Debt to equity ratio,12  Mar-18*,0.0,ASTM
+161,Sales to assets ratio,12  Mar-18*,0.5,ASTM
+162,Return on assets,12  Mar-18*,10.8,ASTM
+163,Return on equity,12  Mar-18*,12.2,ASTM
+164,Return on capital,12  Mar-18*,17.8,ASTM
+165,Exports to sales,12  Mar-18*,0.0,ASTM
+166,Imports to sales,12  Mar-18*,0.0,ASTM
+167,Exports (fob),12  Mar-18*,0.0,ASTM
+168,Imports (cif),12  Mar-18*,0.0,ASTM
+169,Fx inflow,12  Mar-18*,251.0,ASTM
+170,Fx outflow,12  Mar-18*,829.0,ASTM
+171,Net fx,12  Mar-18*,-578.0,ASTM
+172,From Operations,12  Mar-18*,1788.0,ASTM
+173,From Investments,12  Mar-18*,-944.0,ASTM
+174,From Financial Activity,12  Mar-18*,-648.0,ASTM
+175,Net Cashflow,12  Mar-18*,197.0,ASTM
+176,Net Sales,12  Mar-19*,2935.0,ASTM
+177,Other income,12  Mar-19*,245.0,ASTM
+178,Total revenues,12  Mar-19*,3180.0,ASTM
+179,Gross profit,12  Mar-19*,288.0,ASTM
+180,Depreciation,12  Mar-19*,289.0,ASTM
+181,Interest,12  Mar-19*,93.0,ASTM
+182,Profit before tax,12  Mar-19*,151.0,ASTM
+183,Minority Interest,12  Mar-19*,-18.0,ASTM
+184,Prior Period Items,12  Mar-19*,0.0,ASTM
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,ASTM
+186,Tax,12  Mar-19*,36.0,ASTM
+187,Profit after tax,12  Mar-19*,98.0,ASTM
+188,Gross profit margin,12  Mar-19*,9.8,ASTM
+189,Effective tax rate,12  Mar-19*,23.8,ASTM
+190,Net profit margin,12  Mar-19*,3.3,ASTM
+191,Current assets,12  Mar-19*,4060.0,ASTM
+192,Current liabilities,12  Mar-19*,1068.0,ASTM
+193,Net working cap to sales,12  Mar-19*,101.9,ASTM
+194,Current ratio,12  Mar-19*,3.8,ASTM
+195,Inventory Days,12  Mar-19*,174.0,ASTM
+196,Debtors Days,12  Mar-19*,239.0,ASTM
+197,Net fixed assets,12  Mar-19*,1951.0,ASTM
+198,Share capital,12  Mar-19*,173.0,ASTM
+199,"""Free"" reserves",12  Mar-19*,4822.0,ASTM
+200,Net worth,12  Mar-19*,4996.0,ASTM
+201,Long term debt,12  Mar-19*,48.0,ASTM
+202,Total assets,12  Mar-19*,6161.0,ASTM
+203,Interest coverage,12  Mar-19*,2.6,ASTM
+204,Debt to equity ratio,12  Mar-19*,0.0,ASTM
+205,Sales to assets ratio,12  Mar-19*,0.5,ASTM
+206,Return on assets,12  Mar-19*,3.1,ASTM
+207,Return on equity,12  Mar-19*,2.0,ASTM
+208,Return on capital,12  Mar-19*,4.5,ASTM
+209,Exports to sales,12  Mar-19*,0.0,ASTM
+210,Imports to sales,12  Mar-19*,0.0,ASTM
+211,Exports (fob),12  Mar-19*,0.0,ASTM
+212,Imports (cif),12  Mar-19*,0.0,ASTM
+213,Fx inflow,12  Mar-19*,506.0,ASTM
+214,Fx outflow,12  Mar-19*,1136.0,ASTM
+215,Net fx,12  Mar-19*,-631.0,ASTM
+216,From Operations,12  Mar-19*,15.0,ASTM
+217,From Investments,12  Mar-19*,854.0,ASTM
+218,From Financial Activity,12  Mar-19*,-984.0,ASTM
+219,Net Cashflow,12  Mar-19*,-115.0,ASTM

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-15*,5259.0,SYPH
+1,Other income,12  Jun-15*,337.0,SYPH
+2,Total revenues,12  Jun-15*,5596.0,SYPH
+3,Gross profit,12  Jun-15*,1323.0,SYPH
+4,Depreciation,12  Jun-15*,41.0,SYPH
+5,Interest,12  Jun-15*,6.0,SYPH
+6,Profit before tax,12  Jun-15*,1613.0,SYPH
+7,Minority Interest,12  Jun-15*,0.0,SYPH
+8,Prior Period Items,12  Jun-15*,0.0,SYPH
+9,Extraordinary Inc (Exp),12  Jun-15*,0.0,SYPH
+10,Tax,12  Jun-15*,454.0,SYPH
+11,Profit after tax,12  Jun-15*,1159.0,SYPH
+12,Gross profit margin,12  Jun-15*,25.2,SYPH
+13,Effective tax rate,12  Jun-15*,28.1,SYPH
+14,Net profit margin,12  Jun-15*,22.0,SYPH
+15,Current assets,12  Jun-15*,2212.0,SYPH
+16,Current liabilities,12  Jun-15*,1075.0,SYPH
+17,Net working cap to sales,12  Jun-15*,21.6,SYPH
+18,Current ratio,12  Jun-15*,2.1,SYPH
+19,Inventory Days,12  Jun-15*,32.0,SYPH
+20,Debtors Days,12  Jun-15*,23.0,SYPH
+21,Net fixed assets,12  Jun-15*,683.0,SYPH
+22,Share capital,12  Jun-15*,70.0,SYPH
+23,"""Free"" reserves",12  Jun-15*,2871.0,SYPH
+24,Net worth,12  Jun-15*,3062.0,SYPH
+25,Long term debt,12  Jun-15*,0.0,SYPH
+26,Total assets,12  Jun-15*,4227.0,SYPH
+27,Interest coverage,12  Jun-15*,279.1,SYPH
+28,Debt to equity ratio,12  Jun-15*,0.0,SYPH
+29,Sales to assets ratio,12  Jun-15*,1.2,SYPH
+30,Return on assets,12  Jun-15*,27.6,SYPH
+31,Return on equity,12  Jun-15*,37.9,SYPH
+32,Return on capital,12  Jun-15*,52.9,SYPH
+33,Exports to sales,12  Jun-15*,10.1,SYPH
+34,Imports to sales,12  Jun-15*,1.8,SYPH
+35,Exports (fob),12  Jun-15*,530.0,SYPH
+36,Imports (cif),12  Jun-15*,94.0,SYPH
+37,Fx inflow,12  Jun-15*,538.0,SYPH
+38,Fx outflow,12  Jun-15*,118.0,SYPH
+39,Net fx,12  Jun-15*,420.0,SYPH
+40,From Operations,12  Jun-15*,1036.0,SYPH
+41,From Investments,12  Jun-15*,-368.0,SYPH
+42,From Financial Activity,12  Jun-15*,-657.0,SYPH
+43,Net Cashflow,12  Jun-15*,10.0,SYPH
+44,Net Sales,9  Mar-16*,4455.0,SYPH
+45,Other income,9  Mar-16*,209.0,SYPH
+46,Total revenues,9  Mar-16*,4664.0,SYPH
+47,Gross profit,9  Mar-16*,1360.0,SYPH
+48,Depreciation,9  Mar-16*,43.0,SYPH
+49,Interest,9  Mar-16*,2.0,SYPH
+50,Profit before tax,9  Mar-16*,1524.0,SYPH
+51,Minority Interest,9  Mar-16*,0.0,SYPH
+52,Prior Period Items,9  Mar-16*,0.0,SYPH
+53,Extraordinary Inc (Exp),9  Mar-16*,125.0,SYPH
+54,Tax,9  Mar-16*,465.0,SYPH
+55,Profit after tax,9  Mar-16*,1184.0,SYPH
+56,Gross profit margin,9  Mar-16*,30.5,SYPH
+57,Effective tax rate,9  Mar-16*,30.5,SYPH
+58,Net profit margin,9  Mar-16*,26.6,SYPH
+59,Current assets,9  Mar-16*,1708.0,SYPH
+60,Current liabilities,9  Mar-16*,946.0,SYPH
+61,Net working cap to sales,9  Mar-16*,17.1,SYPH
+62,Current ratio,9  Mar-16*,1.8,SYPH
+63,Inventory Days,9  Mar-16*,45.0,SYPH
+64,Debtors Days,9  Mar-16*,38.0,SYPH
+65,Net fixed assets,9  Mar-16*,766.0,SYPH
+66,Share capital,9  Mar-16*,70.0,SYPH
+67,"""Free"" reserves",9  Mar-16*,3213.0,SYPH
+68,Net worth,9  Mar-16*,3283.0,SYPH
+69,Long term debt,9  Mar-16*,0.0,SYPH
+70,Total assets,9  Mar-16*,4304.0,SYPH
+71,Interest coverage,9  Mar-16*,763.0,SYPH
+72,Debt to equity ratio,9  Mar-16*,0.0,SYPH
+73,Sales to assets ratio,9  Mar-16*,1.0,SYPH
+74,Return on assets,9  Mar-16*,27.6,SYPH
+75,Return on equity,9  Mar-16*,36.1,SYPH
+76,Return on capital,9  Mar-16*,50.3,SYPH
+77,Exports to sales,9  Mar-16*,10.2,SYPH
+78,Imports to sales,9  Mar-16*,1.5,SYPH
+79,Exports (fob),9  Mar-16*,453.0,SYPH
+80,Imports (cif),9  Mar-16*,69.0,SYPH
+81,Fx inflow,9  Mar-16*,458.0,SYPH
+82,Fx outflow,9  Mar-16*,99.0,SYPH
+83,Net fx,9  Mar-16*,359.0,SYPH
+84,From Operations,9  Mar-16*,885.0,SYPH
+85,From Investments,9  Mar-16*,698.0,SYPH
+86,From Financial Activity,9  Mar-16*,-1455.0,SYPH
+87,Net Cashflow,9  Mar-16*,129.0,SYPH
+88,Net Sales,12  Mar-17*,7648.0,SYPH
+89,Other income,12  Mar-17*,432.0,SYPH
+90,Total revenues,12  Mar-17*,8080.0,SYPH
+91,Gross profit,12  Mar-17*,1986.0,SYPH
+92,Depreciation,12  Mar-17*,69.0,SYPH
+93,Interest,12  Mar-17*,0.0,SYPH
+94,Profit before tax,12  Mar-17*,2349.0,SYPH
+95,Minority Interest,12  Mar-17*,0.0,SYPH
+96,Prior Period Items,12  Mar-17*,0.0,SYPH
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,SYPH
+98,Tax,12  Mar-17*,687.0,SYPH
+99,Profit after tax,12  Mar-17*,1663.0,SYPH
+100,Gross profit margin,12  Mar-17*,26.0,SYPH
+101,Effective tax rate,12  Mar-17*,29.2,SYPH
+102,Net profit margin,12  Mar-17*,21.7,SYPH
+103,Current assets,12  Mar-17*,4150.0,SYPH
+104,Current liabilities,12  Mar-17*,1326.0,SYPH
+105,Net working cap to sales,12  Mar-17*,36.9,SYPH
+106,Current ratio,12  Mar-17*,3.1,SYPH
+107,Inventory Days,12  Mar-17*,37.0,SYPH
+108,Debtors Days,12  Mar-17*,25.0,SYPH
+109,Net fixed assets,12  Mar-17*,771.0,SYPH
+110,Share capital,12  Mar-17*,140.0,SYPH
+111,"""Free"" reserves",12  Mar-17*,4511.0,SYPH
+112,Net worth,12  Mar-17*,4651.0,SYPH
+113,Long term debt,12  Mar-17*,0.0,SYPH
+114,Total assets,12  Mar-17*,6052.0,SYPH
+115,Interest coverage,12  Mar-17*,7832.3,SYPH
+116,Debt to equity ratio,12  Mar-17*,0.0,SYPH
+117,Sales to assets ratio,12  Mar-17*,1.3,SYPH
+118,Return on assets,12  Mar-17*,27.5,SYPH
+119,Return on equity,12  Mar-17*,35.8,SYPH
+120,Return on capital,12  Mar-17*,50.5,SYPH
+121,Exports to sales,12  Mar-17*,9.1,SYPH
+122,Imports to sales,12  Mar-17*,2.9,SYPH
+123,Exports (fob),12  Mar-17*,696.0,SYPH
+124,Imports (cif),12  Mar-17*,222.0,SYPH
+125,Fx inflow,12  Mar-17*,706.0,SYPH
+126,Fx outflow,12  Mar-17*,257.0,SYPH
+127,Net fx,12  Mar-17*,449.0,SYPH
+128,From Operations,12  Mar-17*,947.0,SYPH
+129,From Investments,12  Mar-17*,-651.0,SYPH
+130,From Financial Activity,12  Mar-17*,-47.0,SYPH
+131,Net Cashflow,12  Mar-17*,249.0,SYPH
+132,Net Sales,12  Mar-18*,7983.0,SYPH
+133,Other income,12  Mar-18*,541.0,SYPH
+134,Total revenues,12  Mar-18*,8524.0,SYPH
+135,Gross profit,12  Mar-18*,2193.0,SYPH
+136,Depreciation,12  Mar-18*,68.0,SYPH
+137,Interest,12  Mar-18*,18.0,SYPH
+138,Profit before tax,12  Mar-18*,2648.0,SYPH
+139,Minority Interest,12  Mar-18*,0.0,SYPH
+140,Prior Period Items,12  Mar-18*,0.0,SYPH
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,SYPH
+142,Tax,12  Mar-18*,723.0,SYPH
+143,Profit after tax,12  Mar-18*,1926.0,SYPH
+144,Gross profit margin,12  Mar-18*,27.5,SYPH
+145,Effective tax rate,12  Mar-18*,27.3,SYPH
+146,Net profit margin,12  Mar-18*,24.1,SYPH
+147,Current assets,12  Mar-18*,4969.0,SYPH
+148,Current liabilities,12  Mar-18*,1337.0,SYPH
+149,Net working cap to sales,12  Mar-18*,45.5,SYPH
+150,Current ratio,12  Mar-18*,3.7,SYPH
+151,Inventory Days,12  Mar-18*,36.0,SYPH
+152,Debtors Days,12  Mar-18*,28.0,SYPH
+153,Net fixed assets,12  Mar-18*,818.0,SYPH
+154,Share capital,12  Mar-18*,140.0,SYPH
+155,"""Free"" reserves",12  Mar-18*,5976.0,SYPH
+156,Net worth,12  Mar-18*,6116.0,SYPH
+157,Long term debt,12  Mar-18*,0.0,SYPH
+158,Total assets,12  Mar-18*,7566.0,SYPH
+159,Interest coverage,12  Mar-18*,148.9,SYPH
+160,Debt to equity ratio,12  Mar-18*,0.0,SYPH
+161,Sales to assets ratio,12  Mar-18*,1.1,SYPH
+162,Return on assets,12  Mar-18*,25.7,SYPH
+163,Return on equity,12  Mar-18*,31.5,SYPH
+164,Return on capital,12  Mar-18*,43.6,SYPH
+165,Exports to sales,12  Mar-18*,0.0,SYPH
+166,Imports to sales,12  Mar-18*,0.0,SYPH
+167,Exports (fob),12  Mar-18*,0.0,SYPH
+168,Imports (cif),12  Mar-18*,0.0,SYPH
+169,Fx inflow,12  Mar-18*,630.0,SYPH
+170,Fx outflow,12  Mar-18*,178.0,SYPH
+171,Net fx,12  Mar-18*,452.0,SYPH
+172,From Operations,12  Mar-18*,1069.0,SYPH
+173,From Investments,12  Mar-18*,-1024.0,SYPH
+174,From Financial Activity,12  Mar-18*,-291.0,SYPH
+175,Net Cashflow,12  Mar-18*,-246.0,SYPH
+176,Net Sales,12  Mar-19*,8436.0,SYPH
+177,Other income,12  Mar-19*,389.0,SYPH
+178,Total revenues,12  Mar-19*,8825.0,SYPH
+179,Gross profit,12  Mar-19*,1080.0,SYPH
+180,Depreciation,12  Mar-19*,99.0,SYPH
+181,Interest,12  Mar-19*,69.0,SYPH
+182,Profit before tax,12  Mar-19*,1302.0,SYPH
+183,Minority Interest,12  Mar-19*,0.0,SYPH
+184,Prior Period Items,12  Mar-19*,0.0,SYPH
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,SYPH
+186,Tax,12  Mar-19*,386.0,SYPH
+187,Profit after tax,12  Mar-19*,916.0,SYPH
+188,Gross profit margin,12  Mar-19*,12.8,SYPH
+189,Effective tax rate,12  Mar-19*,29.7,SYPH
+190,Net profit margin,12  Mar-19*,10.9,SYPH
+191,Current assets,12  Mar-19*,6140.0,SYPH
+192,Current liabilities,12  Mar-19*,2648.0,SYPH
+193,Net working cap to sales,12  Mar-19*,41.4,SYPH
+194,Current ratio,12  Mar-19*,2.3,SYPH
+195,Inventory Days,12  Mar-19*,52.0,SYPH
+196,Debtors Days,12  Mar-19*,45.0,SYPH
+197,Net fixed assets,12  Mar-19*,2432.0,SYPH
+198,Share capital,12  Mar-19*,140.0,SYPH
+199,"""Free"" reserves",12  Mar-19*,6521.0,SYPH
+200,Net worth,12  Mar-19*,6661.0,SYPH
+201,Long term debt,12  Mar-19*,1236.0,SYPH
+202,Total assets,12  Mar-19*,10706.0,SYPH
+203,Interest coverage,12  Mar-19*,19.8,SYPH
+204,Debt to equity ratio,12  Mar-19*,0.2,SYPH
+205,Sales to assets ratio,12  Mar-19*,0.8,SYPH
+206,Return on assets,12  Mar-19*,9.2,SYPH
+207,Return on equity,12  Mar-19*,13.7,SYPH
+208,Return on capital,12  Mar-19*,17.4,SYPH
+209,Exports to sales,12  Mar-19*,0.0,SYPH
+210,Imports to sales,12  Mar-19*,0.0,SYPH
+211,Exports (fob),12  Mar-19*,0.0,SYPH
+212,Imports (cif),12  Mar-19*,0.0,SYPH
+213,Fx inflow,12  Mar-19*,535.0,SYPH
+214,Fx outflow,12  Mar-19*,343.0,SYPH
+215,Net fx,12  Mar-19*,192.0,SYPH
+216,From Operations,12  Mar-19*,1396.0,SYPH
+217,From Investments,12  Mar-19*,-2500.0,SYPH
+218,From Financial Activity,12  Mar-19*,1178.0,SYPH
+219,Net Cashflow,12  Mar-19*,73.0,SYPH

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,46176.0,KESO
+1,Other income,12  Mar-15,648.0,KESO
+2,Total revenues,12  Mar-15,46824.0,KESO
+3,Gross profit,12  Mar-15,1449.0,KESO
+4,Depreciation,12  Mar-15,2739.0,KESO
+5,Interest,12  Mar-15,6805.0,KESO
+6,Profit before tax,12  Mar-15,-7447.0,KESO
+7,Minority Interest,12  Mar-15,0.0,KESO
+8,Prior Period Items,12  Mar-15,0.0,KESO
+9,Extraordinary Inc (Exp),12  Mar-15,3780.0,KESO
+10,Tax,12  Mar-15,0.0,KESO
+11,Profit after tax,12  Mar-15,-3667.0,KESO
+12,Gross profit margin,12  Mar-15,3.1,KESO
+13,Effective tax rate,12  Mar-15,0.0,KESO
+14,Net profit margin,12  Mar-15,-7.9,KESO
+15,Current assets,12  Mar-15,38813.0,KESO
+16,Current liabilities,12  Mar-15,26766.0,KESO
+17,Net working cap to sales,12  Mar-15,26.1,KESO
+18,Current ratio,12  Mar-15,1.5,KESO
+19,Inventory Days,12  Mar-15,58.0,KESO
+20,Debtors Days,12  Mar-15,61.0,KESO
+21,Net fixed assets,12  Mar-15,20950.0,KESO
+22,Share capital,12  Mar-15,1098.0,KESO
+23,"""Free"" reserves",12  Mar-15,-185.0,KESO
+24,Net worth,12  Mar-15,874.0,KESO
+25,Long term debt,12  Mar-15,33646.0,KESO
+26,Total assets,12  Mar-15,61286.0,KESO
+27,Interest coverage,12  Mar-15,-0.1,KESO
+28,Debt to equity ratio,12  Mar-15,38.5,KESO
+29,Sales to assets ratio,12  Mar-15,0.8,KESO
+30,Return on assets,12  Mar-15,5.1,KESO
+31,Return on equity,12  Mar-15,-419.8,KESO
+32,Return on capital,12  Mar-15,9.1,KESO
+33,Exports to sales,12  Mar-15,2.7,KESO
+34,Imports to sales,12  Mar-15,13.6,KESO
+35,Exports (fob),12  Mar-15,1268.0,KESO
+36,Imports (cif),12  Mar-15,6266.0,KESO
+37,Fx inflow,12  Mar-15,1268.0,KESO
+38,Fx outflow,12  Mar-15,6588.0,KESO
+39,Net fx,12  Mar-15,-5320.0,KESO
+40,From Operations,12  Mar-15,5195.0,KESO
+41,From Investments,12  Mar-15,-423.0,KESO
+42,From Financial Activity,12  Mar-15,-4141.0,KESO
+43,Net Cashflow,12  Mar-15,631.0,KESO
+44,Net Sales,12  Mar-16,41003.0,KESO
+45,Other income,12  Mar-16,1173.0,KESO
+46,Total revenues,12  Mar-16,42176.0,KESO
+47,Gross profit,12  Mar-16,-2826.0,KESO
+48,Depreciation,12  Mar-16,1223.0,KESO
+49,Interest,12  Mar-16,6775.0,KESO
+50,Profit before tax,12  Mar-16,-9651.0,KESO
+51,Minority Interest,12  Mar-16,0.0,KESO
+52,Prior Period Items,12  Mar-16,0.0,KESO
+53,Extraordinary Inc (Exp),12  Mar-16,11023.0,KESO
+54,Tax,12  Mar-16,0.0,KESO
+55,Profit after tax,12  Mar-16,1371.0,KESO
+56,Gross profit margin,12  Mar-16,-6.9,KESO
+57,Effective tax rate,12  Mar-16,0.0,KESO
+58,Net profit margin,12  Mar-16,3.3,KESO
+59,Current assets,12  Mar-16,42867.0,KESO
+60,Current liabilities,12  Mar-16,28001.0,KESO
+61,Net working cap to sales,12  Mar-16,36.3,KESO
+62,Current ratio,12  Mar-16,1.5,KESO
+63,Inventory Days,12  Mar-16,48.0,KESO
+64,Debtors Days,12  Mar-16,48.0,KESO
+65,Net fixed assets,12  Mar-16,19578.0,KESO
+66,Share capital,12  Mar-16,1173.0,KESO
+67,"""Free"" reserves",12  Mar-16,8776.0,KESO
+68,Net worth,12  Mar-16,9949.0,KESO
+69,Long term debt,12  Mar-16,32115.0,KESO
+70,Total assets,12  Mar-16,72681.0,KESO
+71,Interest coverage,12  Mar-16,-0.4,KESO
+72,Debt to equity ratio,12  Mar-16,3.2,KESO
+73,Sales to assets ratio,12  Mar-16,0.6,KESO
+74,Return on assets,12  Mar-16,11.2,KESO
+75,Return on equity,12  Mar-16,13.8,KESO
+76,Return on capital,12  Mar-16,19.4,KESO
+77,Exports to sales,12  Mar-16,4.0,KESO
+78,Imports to sales,12  Mar-16,9.9,KESO
+79,Exports (fob),12  Mar-16,1653.0,KESO
+80,Imports (cif),12  Mar-16,4044.0,KESO
+81,Fx inflow,12  Mar-16,1653.0,KESO
+82,Fx outflow,12  Mar-16,4755.0,KESO
+83,Net fx,12  Mar-16,-3102.0,KESO
+84,From Operations,12  Mar-16,2095.0,KESO
+85,From Investments,12  Mar-16,5450.0,KESO
+86,From Financial Activity,12  Mar-16,-4255.0,KESO
+87,Net Cashflow,12  Mar-16,3032.0,KESO
+88,Net Sales,12  Mar-17,38416.0,KESO
+89,Other income,12  Mar-17,627.0,KESO
+90,Total revenues,12  Mar-17,39043.0,KESO
+91,Gross profit,12  Mar-17,-46.0,KESO
+92,Depreciation,12  Mar-17,1362.0,KESO
+93,Interest,12  Mar-17,2835.0,KESO
+94,Profit before tax,12  Mar-17,-3616.0,KESO
+95,Minority Interest,12  Mar-17,0.0,KESO
+96,Prior Period Items,12  Mar-17,0.0,KESO
+97,Extraordinary Inc (Exp),12  Mar-17,1117.0,KESO
+98,Tax,12  Mar-17,-79.0,KESO
+99,Profit after tax,12  Mar-17,-2421.0,KESO
+100,Gross profit margin,12  Mar-17,-0.1,KESO
+101,Effective tax rate,12  Mar-17,2.2,KESO
+102,Net profit margin,12  Mar-17,-6.3,KESO
+103,Current assets,12  Mar-17,15264.0,KESO
+104,Current liabilities,12  Mar-17,21381.0,KESO
+105,Net working cap to sales,12  Mar-17,-15.9,KESO
+106,Current ratio,12  Mar-17,0.7,KESO
+107,Inventory Days,12  Mar-17,44.0,KESO
+108,Debtors Days,12  Mar-17,50.0,KESO
+109,Net fixed assets,12  Mar-17,32729.0,KESO
+110,Share capital,12  Mar-17,1173.0,KESO
+111,"""Free"" reserves",12  Mar-17,6804.0,KESO
+112,Net worth,12  Mar-17,7977.0,KESO
+113,Long term debt,12  Mar-17,21372.0,KESO
+114,Total assets,12  Mar-17,53331.0,KESO
+115,Interest coverage,12  Mar-17,-0.3,KESO
+116,Debt to equity ratio,12  Mar-17,2.7,KESO
+117,Sales to assets ratio,12  Mar-17,0.7,KESO
+118,Return on assets,12  Mar-17,0.8,KESO
+119,Return on equity,12  Mar-17,-30.4,KESO
+120,Return on capital,12  Mar-17,1.1,KESO
+121,Exports to sales,12  Mar-17,4.7,KESO
+122,Imports to sales,12  Mar-17,12.0,KESO
+123,Exports (fob),12  Mar-17,1808.0,KESO
+124,Imports (cif),12  Mar-17,4622.0,KESO
+125,Fx inflow,12  Mar-17,1808.0,KESO
+126,Fx outflow,12  Mar-17,5101.0,KESO
+127,Net fx,12  Mar-17,-3293.0,KESO
+128,From Operations,12  Mar-17,791.0,KESO
+129,From Investments,12  Mar-17,17921.0,KESO
+130,From Financial Activity,12  Mar-17,-21170.0,KESO
+131,Net Cashflow,12  Mar-17,-2458.0,KESO
+132,Net Sales,12  Mar-18,38732.0,KESO
+133,Other income,12  Mar-18,1595.0,KESO
+134,Total revenues,12  Mar-18,40327.0,KESO
+135,Gross profit,12  Mar-18,-740.0,KESO
+136,Depreciation,12  Mar-18,1461.0,KESO
+137,Interest,12  Mar-18,4431.0,KESO
+138,Profit before tax,12  Mar-18,-5036.0,KESO
+139,Minority Interest,12  Mar-18,0.0,KESO
+140,Prior Period Items,12  Mar-18,0.0,KESO
+141,Extraordinary Inc (Exp),12  Mar-18,-759.0,KESO
+142,Tax,12  Mar-18,-20.0,KESO
+143,Profit after tax,12  Mar-18,-5776.0,KESO
+144,Gross profit margin,12  Mar-18,-1.9,KESO
+145,Effective tax rate,12  Mar-18,0.4,KESO
+146,Net profit margin,12  Mar-18,-14.9,KESO
+147,Current assets,12  Mar-18,15440.0,KESO
+148,Current liabilities,12  Mar-18,25648.0,KESO
+149,Net working cap to sales,12  Mar-18,-26.4,KESO
+150,Current ratio,12  Mar-18,0.6,KESO
+151,Inventory Days,12  Mar-18,43.0,KESO
+152,Debtors Days,12  Mar-18,54.0,KESO
+153,Net fixed assets,12  Mar-18,36799.0,KESO
+154,Share capital,12  Mar-18,1373.0,KESO
+155,"""Free"" reserves",12  Mar-18,3901.0,KESO
+156,Net worth,12  Mar-18,5274.0,KESO
+157,Long term debt,12  Mar-18,27389.0,KESO
+158,Total assets,12  Mar-18,61170.0,KESO
+159,Interest coverage,12  Mar-18,-0.1,KESO
+160,Debt to equity ratio,12  Mar-18,5.2,KESO
+161,Sales to assets ratio,12  Mar-18,0.6,KESO
+162,Return on assets,12  Mar-18,-2.2,KESO
+163,Return on equity,12  Mar-18,-109.5,KESO
+164,Return on capital,12  Mar-18,-4.2,KESO
+165,Exports to sales,12  Mar-18,4.0,KESO
+166,Imports to sales,12  Mar-18,0.0,KESO
+167,Exports (fob),12  Mar-18,1549.0,KESO
+168,Imports (cif),12  Mar-18,0.0,KESO
+169,Fx inflow,12  Mar-18,1549.0,KESO
+170,Fx outflow,12  Mar-18,3526.0,KESO
+171,Net fx,12  Mar-18,-1977.0,KESO
+172,From Operations,12  Mar-18,1769.0,KESO
+173,From Investments,12  Mar-18,-9919.0,KESO
+174,From Financial Activity,12  Mar-18,6621.0,KESO
+175,Net Cashflow,12  Mar-18,-2979.0,KESO
+176,Net Sales,12  Mar-19,42020.0,KESO
+177,Other income,12  Mar-19,884.0,KESO
+178,Total revenues,12  Mar-19,42904.0,KESO
+179,Gross profit,12  Mar-19,2018.0,KESO
+180,Depreciation,12  Mar-19,1532.0,KESO
+181,Interest,12  Mar-19,5124.0,KESO
+182,Profit before tax,12  Mar-19,-3753.0,KESO
+183,Minority Interest,12  Mar-19,0.0,KESO
+184,Prior Period Items,12  Mar-19,0.0,KESO
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,KESO
+186,Tax,12  Mar-19,-120.0,KESO
+187,Profit after tax,12  Mar-19,-3633.0,KESO
+188,Gross profit margin,12  Mar-19,4.8,KESO
+189,Effective tax rate,12  Mar-19,3.2,KESO
+190,Net profit margin,12  Mar-19,-8.6,KESO
+191,Current assets,12  Mar-19,12212.0,KESO
+192,Current liabilities,12  Mar-19,24754.0,KESO
+193,Net working cap to sales,12  Mar-19,-29.8,KESO
+194,Current ratio,12  Mar-19,0.5,KESO
+195,Inventory Days,12  Mar-19,31.0,KESO
+196,Debtors Days,12  Mar-19,51.0,KESO
+197,Net fixed assets,12  Mar-19,35720.0,KESO
+198,Share capital,12  Mar-19,1426.0,KESO
+199,"""Free"" reserves",12  Mar-19,-303.0,KESO
+200,Net worth,12  Mar-19,1123.0,KESO
+201,Long term debt,12  Mar-19,21434.0,KESO
+202,Total assets,12  Mar-19,49947.0,KESO
+203,Interest coverage,12  Mar-19,0.3,KESO
+204,Debt to equity ratio,12  Mar-19,19.1,KESO
+205,Sales to assets ratio,12  Mar-19,0.8,KESO
+206,Return on assets,12  Mar-19,3.0,KESO
+207,Return on equity,12  Mar-19,-323.6,KESO
+208,Return on capital,12  Mar-19,6.1,KESO
+209,Exports to sales,12  Mar-19,3.1,KESO
+210,Imports to sales,12  Mar-19,0.0,KESO
+211,Exports (fob),12  Mar-19,1293.0,KESO
+212,Imports (cif),12  Mar-19,0.0,KESO
+213,Fx inflow,12  Mar-19,1293.0,KESO
+214,Fx outflow,12  Mar-19,2139.0,KESO
+215,Net fx,12  Mar-19,-846.0,KESO
+216,From Operations,12  Mar-19,7754.0,KESO
+217,From Investments,12  Mar-19,5747.0,KESO
+218,From Financial Activity,12  Mar-19,-18227.0,KESO
+219,Net Cashflow,12  Mar-19,-6933.0,KESO

@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15*,4433.0,AKRUTI
+1,Other income,12  Mar-15*,947.0,AKRUTI
+2,Total revenues,12  Mar-15*,5379.0,AKRUTI
+3,Gross profit,12  Mar-15*,3306.0,AKRUTI
+4,Depreciation,12  Mar-15*,98.0,AKRUTI
+5,Interest,12  Mar-15*,4034.0,AKRUTI
+6,Profit before tax,12  Mar-15*,120.0,AKRUTI
+7,Minority Interest,12  Mar-15*,5.0,AKRUTI
+8,Prior Period Items,12  Mar-15*,-55.0,AKRUTI
+9,Extraordinary Inc (Exp),12  Mar-15*,35.0,AKRUTI
+10,Tax,12  Mar-15*,98.0,AKRUTI
+11,Profit after tax,12  Mar-15*,7.0,AKRUTI
+12,Gross profit margin,12  Mar-15*,74.6,AKRUTI
+13,Effective tax rate,12  Mar-15*,81.2,AKRUTI
+14,Net profit margin,12  Mar-15*,0.2,AKRUTI
+15,Current assets,12  Mar-15*,34035.0,AKRUTI
+16,Current liabilities,12  Mar-15*,24973.0,AKRUTI
+17,Net working cap to sales,12  Mar-15*,204.4,AKRUTI
+18,Current ratio,12  Mar-15*,1.4,AKRUTI
+19,Inventory Days,12  Mar-15*,2011.0,AKRUTI
+20,Debtors Days,12  Mar-15*,150.0,AKRUTI
+21,Net fixed assets,12  Mar-15*,2119.0,AKRUTI
+22,Share capital,12  Mar-15*,727.0,AKRUTI
+23,"""Free"" reserves",12  Mar-15*,14768.0,AKRUTI
+24,Net worth,12  Mar-15*,16991.0,AKRUTI
+25,Long term debt,12  Mar-15*,7555.0,AKRUTI
+26,Total assets,12  Mar-15*,50387.0,AKRUTI
+27,Interest coverage,12  Mar-15*,1.0,AKRUTI
+28,Debt to equity ratio,12  Mar-15*,0.4,AKRUTI
+29,Sales to assets ratio,12  Mar-15*,0.1,AKRUTI
+30,Return on assets,12  Mar-15*,8.0,AKRUTI
+31,Return on equity,12  Mar-15*,0.0,AKRUTI
+32,Return on capital,12  Mar-15*,16.9,AKRUTI
+33,Exports to sales,12  Mar-15*,0.0,AKRUTI
+34,Imports to sales,12  Mar-15*,0.0,AKRUTI
+35,Exports (fob),12  Mar-15*,0.0,AKRUTI
+36,Imports (cif),12  Mar-15*,0.0,AKRUTI
+37,Fx inflow,12  Mar-15*,0.0,AKRUTI
+38,Fx outflow,12  Mar-15*,14.0,AKRUTI
+39,Net fx,12  Mar-15*,-14.0,AKRUTI
+40,From Operations,12  Mar-15*,2849.0,AKRUTI
+41,From Investments,12  Mar-15*,1707.0,AKRUTI
+42,From Financial Activity,12  Mar-15*,-4474.0,AKRUTI
+43,Net Cashflow,12  Mar-15*,82.0,AKRUTI
+44,Net Sales,12  Mar-16*,4510.0,AKRUTI
+45,Other income,12  Mar-16*,428.0,AKRUTI
+46,Total revenues,12  Mar-16*,4938.0,AKRUTI
+47,Gross profit,12  Mar-16*,3761.0,AKRUTI
+48,Depreciation,12  Mar-16*,51.0,AKRUTI
+49,Interest,12  Mar-16*,4520.0,AKRUTI
+50,Profit before tax,12  Mar-16*,-382.0,AKRUTI
+51,Minority Interest,12  Mar-16*,6.0,AKRUTI
+52,Prior Period Items,12  Mar-16*,42.0,AKRUTI
+53,Extraordinary Inc (Exp),12  Mar-16*,0.0,AKRUTI
+54,Tax,12  Mar-16*,-46.0,AKRUTI
+55,Profit after tax,12  Mar-16*,-287.0,AKRUTI
+56,Gross profit margin,12  Mar-16*,83.4,AKRUTI
+57,Effective tax rate,12  Mar-16*,12.1,AKRUTI
+58,Net profit margin,12  Mar-16*,-6.4,AKRUTI
+59,Current assets,12  Mar-16*,40780.0,AKRUTI
+60,Current liabilities,12  Mar-16*,31097.0,AKRUTI
+61,Net working cap to sales,12  Mar-16*,214.7,AKRUTI
+62,Current ratio,12  Mar-16*,1.3,AKRUTI
+63,Inventory Days,12  Mar-16*,2432.0,AKRUTI
+64,Debtors Days,12  Mar-16*,161.0,AKRUTI
+65,Net fixed assets,12  Mar-16*,3243.0,AKRUTI
+66,Share capital,12  Mar-16*,727.0,AKRUTI
+67,"""Free"" reserves",12  Mar-16*,14926.0,AKRUTI
+68,Net worth,12  Mar-16*,17069.0,AKRUTI
+69,Long term debt,12  Mar-16*,21784.0,AKRUTI
+70,Total assets,12  Mar-16*,70672.0,AKRUTI
+71,Interest coverage,12  Mar-16*,0.9,AKRUTI
+72,Debt to equity ratio,12  Mar-16*,1.3,AKRUTI
+73,Sales to assets ratio,12  Mar-16*,0.1,AKRUTI
+74,Return on assets,12  Mar-16*,6.0,AKRUTI
+75,Return on equity,12  Mar-16*,-1.7,AKRUTI
+76,Return on capital,12  Mar-16*,10.8,AKRUTI
+77,Exports to sales,12  Mar-16*,0.0,AKRUTI
+78,Imports to sales,12  Mar-16*,0.0,AKRUTI
+79,Exports (fob),12  Mar-16*,0.0,AKRUTI
+80,Imports (cif),12  Mar-16*,0.0,AKRUTI
+81,Fx inflow,12  Mar-16*,0.0,AKRUTI
+82,Fx outflow,12  Mar-16*,13.0,AKRUTI
+83,Net fx,12  Mar-16*,-13.0,AKRUTI
+84,From Operations,12  Mar-16*,3301.0,AKRUTI
+85,From Investments,12  Mar-16*,-1926.0,AKRUTI
+86,From Financial Activity,12  Mar-16*,-1420.0,AKRUTI
+87,Net Cashflow,12  Mar-16*,-45.0,AKRUTI
+88,Net Sales,12  Mar-17*,5425.0,AKRUTI
+89,Other income,12  Mar-17*,329.0,AKRUTI
+90,Total revenues,12  Mar-17*,5754.0,AKRUTI
+91,Gross profit,12  Mar-17*,3567.0,AKRUTI
+92,Depreciation,12  Mar-17*,33.0,AKRUTI
+93,Interest,12  Mar-17*,4237.0,AKRUTI
+94,Profit before tax,12  Mar-17*,-373.0,AKRUTI
+95,Minority Interest,12  Mar-17*,0.0,AKRUTI
+96,Prior Period Items,12  Mar-17*,0.0,AKRUTI
+97,Extraordinary Inc (Exp),12  Mar-17*,0.0,AKRUTI
+98,Tax,12  Mar-17*,-58.0,AKRUTI
+99,Profit after tax,12  Mar-17*,-316.0,AKRUTI
+100,Gross profit margin,12  Mar-17*,65.7,AKRUTI
+101,Effective tax rate,12  Mar-17*,15.4,AKRUTI
+102,Net profit margin,12  Mar-17*,-5.8,AKRUTI
+103,Current assets,12  Mar-17*,28275.0,AKRUTI
+104,Current liabilities,12  Mar-17*,27172.0,AKRUTI
+105,Net working cap to sales,12  Mar-17*,20.3,AKRUTI
+106,Current ratio,12  Mar-17*,1.0,AKRUTI
+107,Inventory Days,12  Mar-17*,1141.0,AKRUTI
+108,Debtors Days,12  Mar-17*,203.0,AKRUTI
+109,Net fixed assets,12  Mar-17*,1041.0,AKRUTI
+110,Share capital,12  Mar-17*,727.0,AKRUTI
+111,"""Free"" reserves",12  Mar-17*,15780.0,AKRUTI
+112,Net worth,12  Mar-17*,16507.0,AKRUTI
+113,Long term debt,12  Mar-17*,5223.0,AKRUTI
+114,Total assets,12  Mar-17*,49314.0,AKRUTI
+115,Interest coverage,12  Mar-17*,0.9,AKRUTI
+116,Debt to equity ratio,12  Mar-17*,0.3,AKRUTI
+117,Sales to assets ratio,12  Mar-17*,0.1,AKRUTI
+118,Return on assets,12  Mar-17*,8.0,AKRUTI
+119,Return on equity,12  Mar-17*,-1.9,AKRUTI
+120,Return on capital,12  Mar-17*,17.8,AKRUTI
+121,Exports to sales,12  Mar-17*,0.0,AKRUTI
+122,Imports to sales,12  Mar-17*,0.0,AKRUTI
+123,Exports (fob),12  Mar-17*,0.0,AKRUTI
+124,Imports (cif),12  Mar-17*,0.0,AKRUTI
+125,Fx inflow,12  Mar-17*,0.0,AKRUTI
+126,Fx outflow,12  Mar-17*,0.0,AKRUTI
+127,Net fx,12  Mar-17*,0.0,AKRUTI
+128,From Operations,12  Mar-17*,-26.0,AKRUTI
+129,From Investments,12  Mar-17*,1542.0,AKRUTI
+130,From Financial Activity,12  Mar-17*,-1593.0,AKRUTI
+131,Net Cashflow,12  Mar-17*,-77.0,AKRUTI
+132,Net Sales,12  Mar-18*,5627.0,AKRUTI
+133,Other income,12  Mar-18*,2905.0,AKRUTI
+134,Total revenues,12  Mar-18*,8532.0,AKRUTI
+135,Gross profit,12  Mar-18*,385.0,AKRUTI
+136,Depreciation,12  Mar-18*,32.0,AKRUTI
+137,Interest,12  Mar-18*,3509.0,AKRUTI
+138,Profit before tax,12  Mar-18*,-250.0,AKRUTI
+139,Minority Interest,12  Mar-18*,0.0,AKRUTI
+140,Prior Period Items,12  Mar-18*,0.0,AKRUTI
+141,Extraordinary Inc (Exp),12  Mar-18*,0.0,AKRUTI
+142,Tax,12  Mar-18*,-23.0,AKRUTI
+143,Profit after tax,12  Mar-18*,-227.0,AKRUTI
+144,Gross profit margin,12  Mar-18*,6.8,AKRUTI
+145,Effective tax rate,12  Mar-18*,9.3,AKRUTI
+146,Net profit margin,12  Mar-18*,-4.0,AKRUTI
+147,Current assets,12  Mar-18*,29314.0,AKRUTI
+148,Current liabilities,12  Mar-18*,26200.0,AKRUTI
+149,Net working cap to sales,12  Mar-18*,55.3,AKRUTI
+150,Current ratio,12  Mar-18*,1.1,AKRUTI
+151,Inventory Days,12  Mar-18*,1082.0,AKRUTI
+152,Debtors Days,12  Mar-18*,292.0,AKRUTI
+153,Net fixed assets,12  Mar-18*,1021.0,AKRUTI
+154,Share capital,12  Mar-18*,727.0,AKRUTI
+155,"""Free"" reserves",12  Mar-18*,15490.0,AKRUTI
+156,Net worth,12  Mar-18*,16217.0,AKRUTI
+157,Long term debt,12  Mar-18*,3921.0,AKRUTI
+158,Total assets,12  Mar-18*,48784.0,AKRUTI
+159,Interest coverage,12  Mar-18*,0.9,AKRUTI
+160,Debt to equity ratio,12  Mar-18*,0.2,AKRUTI
+161,Sales to assets ratio,12  Mar-18*,0.1,AKRUTI
+162,Return on assets,12  Mar-18*,6.7,AKRUTI
+163,Return on equity,12  Mar-18*,-1.4,AKRUTI
+164,Return on capital,12  Mar-18*,16.2,AKRUTI
+165,Exports to sales,12  Mar-18*,0.0,AKRUTI
+166,Imports to sales,12  Mar-18*,0.0,AKRUTI
+167,Exports (fob),12  Mar-18*,0.0,AKRUTI
+168,Imports (cif),12  Mar-18*,0.0,AKRUTI
+169,Fx inflow,12  Mar-18*,0.0,AKRUTI
+170,Fx outflow,12  Mar-18*,0.0,AKRUTI
+171,Net fx,12  Mar-18*,0.0,AKRUTI
+172,From Operations,12  Mar-18*,4513.0,AKRUTI
+173,From Investments,12  Mar-18*,71.0,AKRUTI
+174,From Financial Activity,12  Mar-18*,-4441.0,AKRUTI
+175,Net Cashflow,12  Mar-18*,143.0,AKRUTI
+176,Net Sales,12  Mar-19*,4708.0,AKRUTI
+177,Other income,12  Mar-19*,781.0,AKRUTI
+178,Total revenues,12  Mar-19*,5489.0,AKRUTI
+179,Gross profit,12  Mar-19*,1431.0,AKRUTI
+180,Depreciation,12  Mar-19*,32.0,AKRUTI
+181,Interest,12  Mar-19*,2183.0,AKRUTI
+182,Profit before tax,12  Mar-19*,-3.0,AKRUTI
+183,Minority Interest,12  Mar-19*,0.0,AKRUTI
+184,Prior Period Items,12  Mar-19*,0.0,AKRUTI
+185,Extraordinary Inc (Exp),12  Mar-19*,0.0,AKRUTI
+186,Tax,12  Mar-19*,115.0,AKRUTI
+187,Profit after tax,12  Mar-19*,-118.0,AKRUTI
+188,Gross profit margin,12  Mar-19*,30.4,AKRUTI
+189,Effective tax rate,12  Mar-19*,-3712.9,AKRUTI
+190,Net profit margin,12  Mar-19*,-2.5,AKRUTI
+191,Current assets,12  Mar-19*,27805.0,AKRUTI
+192,Current liabilities,12  Mar-19*,26429.0,AKRUTI
+193,Net working cap to sales,12  Mar-19*,29.2,AKRUTI
+194,Current ratio,12  Mar-19*,1.1,AKRUTI
+195,Inventory Days,12  Mar-19*,1146.0,AKRUTI
+196,Debtors Days,12  Mar-19*,244.0,AKRUTI
+197,Net fixed assets,12  Mar-19*,1020.0,AKRUTI
+198,Share capital,12  Mar-19*,727.0,AKRUTI
+199,"""Free"" reserves",12  Mar-19*,15295.0,AKRUTI
+200,Net worth,12  Mar-19*,16023.0,AKRUTI
+201,Long term debt,12  Mar-19*,2634.0,AKRUTI
+202,Total assets,12  Mar-19*,47259.0,AKRUTI
+203,Interest coverage,12  Mar-19*,1.0,AKRUTI
+204,Debt to equity ratio,12  Mar-19*,0.2,AKRUTI
+205,Sales to assets ratio,12  Mar-19*,0.1,AKRUTI
+206,Return on assets,12  Mar-19*,4.4,AKRUTI
+207,Return on equity,12  Mar-19*,-0.7,AKRUTI
+208,Return on capital,12  Mar-19*,11.7,AKRUTI
+209,Exports to sales,12  Mar-19*,0.0,AKRUTI
+210,Imports to sales,12  Mar-19*,0.0,AKRUTI
+211,Exports (fob),12  Mar-19*,0.0,AKRUTI
+212,Imports (cif),12  Mar-19*,0.0,AKRUTI
+213,Fx inflow,12  Mar-19*,0.0,AKRUTI
+214,Fx outflow,12  Mar-19*,12.0,AKRUTI
+215,Net fx,12  Mar-19*,-12.0,AKRUTI
+216,From Operations,12  Mar-19*,764.0,AKRUTI
+217,From Investments,12  Mar-19*,1514.0,AKRUTI
+218,From Financial Activity,12  Mar-19*,-2187.0,AKRUTI
+219,Net Cashflow,12  Mar-19*,91.0,AKRUTI

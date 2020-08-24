@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Jun-14,5451.0,WDIA
+1,Other income,12  Jun-14,64.0,WDIA
+2,Total revenues,12  Jun-14,5515.0,WDIA
+3,Gross profit,12  Jun-14,500.0,WDIA
+4,Depreciation,12  Jun-14,266.0,WDIA
+5,Interest,12  Jun-14,0.0,WDIA
+6,Profit before tax,12  Jun-14,298.0,WDIA
+7,Minority Interest,12  Jun-14,0.0,WDIA
+8,Prior Period Items,12  Jun-14,0.0,WDIA
+9,Extraordinary Inc (Exp),12  Jun-14,-102.0,WDIA
+10,Tax,12  Jun-14,25.0,WDIA
+11,Profit after tax,12  Jun-14,171.0,WDIA
+12,Gross profit margin,12  Jun-14,9.2,WDIA
+13,Effective tax rate,12  Jun-14,8.4,WDIA
+14,Net profit margin,12  Jun-14,3.1,WDIA
+15,Current assets,12  Jun-14,2720,WDIA
+16,Current liabilities,12  Jun-14,873,WDIA
+17,Net working cap to sales,12  Jun-14,33.9,WDIA
+18,Current ratio,12  Jun-14,3.1,WDIA
+19,Inventory Days,12  Jun-14,64,WDIA
+20,Debtors Days,12  Jun-14,72,WDIA
+21,Net fixed assets,12  Jun-14,1194,WDIA
+22,Share capital,12  Jun-14,220,WDIA
+23,"""Free"" reserves",12  Jun-14,3114,WDIA
+24,Net worth,12  Jun-14,3334,WDIA
+25,Long term debt,12  Jun-14,0,WDIA
+26,Total assets,12  Jun-14,4296,WDIA
+27,Interest coverage,12  Jun-14,NM,WDIA
+28,Debt to equity ratio,12  Jun-14,0,WDIA
+29,Sales to assets ratio,12  Jun-14,1.3,WDIA
+30,Return on assets,12  Jun-14,4.0,WDIA
+31,Return on equity,12  Jun-14,5.1,WDIA
+32,Return on capital,12  Jun-14,5.9,WDIA
+33,Exports to sales,12  Jun-14,8.6,WDIA
+34,Imports to sales,12  Jun-14,26.8,WDIA
+35,Exports (fob),12  Jun-14,466,WDIA
+36,Imports (cif),12  Jun-14,1460,WDIA
+37,Fx inflow,12  Jun-14,466,WDIA
+38,Fx outflow,12  Jun-14,1657,WDIA
+39,Net fx,12  Jun-14,-1191,WDIA
+40,From Operations,12  Jun-14,108,WDIA
+41,From Investments,12  Jun-14,-78,WDIA
+42,From Financial Activity,12  Jun-14,-1,WDIA
+43,Net Cashflow,12  Jun-14,29,WDIA
+44,Net Sales,12  Jun-15,5703.0,WDIA
+45,Other income,12  Jun-15,55.0,WDIA
+46,Total revenues,12  Jun-15,5758.0,WDIA
+47,Gross profit,12  Jun-15,601.0,WDIA
+48,Depreciation,12  Jun-15,257.0,WDIA
+49,Interest,12  Jun-15,0.0,WDIA
+50,Profit before tax,12  Jun-15,399.0,WDIA
+51,Minority Interest,12  Jun-15,0.0,WDIA
+52,Prior Period Items,12  Jun-15,0.0,WDIA
+53,Extraordinary Inc (Exp),12  Jun-15,65.0,WDIA
+54,Tax,12  Jun-15,129.0,WDIA
+55,Profit after tax,12  Jun-15,335.0,WDIA
+56,Gross profit margin,12  Jun-15,10.5,WDIA
+57,Effective tax rate,12  Jun-15,32.3,WDIA
+58,Net profit margin,12  Jun-15,5.9,WDIA
+59,Current assets,12  Jun-15,3231,WDIA
+60,Current liabilities,12  Jun-15,1053,WDIA
+61,Net working cap to sales,12  Jun-15,38.2,WDIA
+62,Current ratio,12  Jun-15,3.1,WDIA
+63,Inventory Days,12  Jun-15,60,WDIA
+64,Debtors Days,12  Jun-15,71,WDIA
+65,Net fixed assets,12  Jun-15,1072,WDIA
+66,Share capital,12  Jun-15,220,WDIA
+67,"""Free"" reserves",12  Jun-15,3397,WDIA
+68,Net worth,12  Jun-15,3616,WDIA
+69,Long term debt,12  Jun-15,0,WDIA
+70,Total assets,12  Jun-15,4784,WDIA
+71,Interest coverage,12  Jun-15,NM,WDIA
+72,Debt to equity ratio,12  Jun-15,0,WDIA
+73,Sales to assets ratio,12  Jun-15,1.2,WDIA
+74,Return on assets,12  Jun-15,7.0,WDIA
+75,Return on equity,12  Jun-15,9.3,WDIA
+76,Return on capital,12  Jun-15,12.8,WDIA
+77,Exports to sales,12  Jun-15,8.2,WDIA
+78,Imports to sales,12  Jun-15,23.8,WDIA
+79,Exports (fob),12  Jun-15,470,WDIA
+80,Imports (cif),12  Jun-15,1356,WDIA
+81,Fx inflow,12  Jun-15,470,WDIA
+82,Fx outflow,12  Jun-15,1535,WDIA
+83,Net fx,12  Jun-15,-1065,WDIA
+84,From Operations,12  Jun-15,607,WDIA
+85,From Investments,12  Jun-15,-172,WDIA
+86,From Financial Activity,12  Jun-15,-53,WDIA
+87,Net Cashflow,12  Jun-15,382,WDIA
+88,Net Sales,12  Jun-16,5703.0,WDIA
+89,Other income,12  Jun-16,89.0,WDIA
+90,Total revenues,12  Jun-16,5792.0,WDIA
+91,Gross profit,12  Jun-16,459.0,WDIA
+92,Depreciation,12  Jun-16,241.0,WDIA
+93,Interest,12  Jun-16,0.0,WDIA
+94,Profit before tax,12  Jun-16,307.0,WDIA
+95,Minority Interest,12  Jun-16,0.0,WDIA
+96,Prior Period Items,12  Jun-16,0.0,WDIA
+97,Extraordinary Inc (Exp),12  Jun-16,0.0,WDIA
+98,Tax,12  Jun-16,100.0,WDIA
+99,Profit after tax,12  Jun-16,207.0,WDIA
+100,Gross profit margin,12  Jun-16,8.1,WDIA
+101,Effective tax rate,12  Jun-16,32.5,WDIA
+102,Net profit margin,12  Jun-16,3.6,WDIA
+103,Current assets,12  Jun-16,3237,WDIA
+104,Current liabilities,12  Jun-16,1258,WDIA
+105,Net working cap to sales,12  Jun-16,34.7,WDIA
+106,Current ratio,12  Jun-16,2.6,WDIA
+107,Inventory Days,12  Jun-16,73,WDIA
+108,Debtors Days,12  Jun-16,76,WDIA
+109,Net fixed assets,12  Jun-16,1231,WDIA
+110,Share capital,12  Jun-16,220,WDIA
+111,"""Free"" reserves",12  Jun-16,3529,WDIA
+112,Net worth,12  Jun-16,3771,WDIA
+113,Long term debt,12  Jun-16,0,WDIA
+114,Total assets,12  Jun-16,5049,WDIA
+115,Interest coverage,12  Jun-16,NM,WDIA
+116,Debt to equity ratio,12  Jun-16,0,WDIA
+117,Sales to assets ratio,12  Jun-16,1.1,WDIA
+118,Return on assets,12  Jun-16,4.1,WDIA
+119,Return on equity,12  Jun-16,5.5,WDIA
+120,Return on capital,12  Jun-16,8.1,WDIA
+121,Exports to sales,12  Jun-16,9.8,WDIA
+122,Imports to sales,12  Jun-16,23.6,WDIA
+123,Exports (fob),12  Jun-16,562,WDIA
+124,Imports (cif),12  Jun-16,1345,WDIA
+125,Fx inflow,12  Jun-16,562,WDIA
+126,Fx outflow,12  Jun-16,1562,WDIA
+127,Net fx,12  Jun-16,-1000,WDIA
+128,From Operations,12  Jun-16,177,WDIA
+129,From Investments,12  Jun-16,-424,WDIA
+130,From Financial Activity,12  Jun-16,-51,WDIA
+131,Net Cashflow,12  Jun-16,-298,WDIA
+132,Net Sales,12  Jun-17,6519.0,WDIA
+133,Other income,12  Jun-17,59.0,WDIA
+134,Total revenues,12  Jun-17,6577.0,WDIA
+135,Gross profit,12  Jun-17,583.0,WDIA
+136,Depreciation,12  Jun-17,283.0,WDIA
+137,Interest,12  Jun-17,0.0,WDIA
+138,Profit before tax,12  Jun-17,359.0,WDIA
+139,Minority Interest,12  Jun-17,0.0,WDIA
+140,Prior Period Items,12  Jun-17,0.0,WDIA
+141,Extraordinary Inc (Exp),12  Jun-17,-55.0,WDIA
+142,Tax,12  Jun-17,60.0,WDIA
+143,Profit after tax,12  Jun-17,244.0,WDIA
+144,Gross profit margin,12  Jun-17,8.9,WDIA
+145,Effective tax rate,12  Jun-17,16.7,WDIA
+146,Net profit margin,12  Jun-17,3.7,WDIA
+147,Current assets,12  Jun-17,3340,WDIA
+148,Current liabilities,12  Jun-17,1387,WDIA
+149,Net working cap to sales,12  Jun-17,30.0,WDIA
+150,Current ratio,12  Jun-17,2.4,WDIA
+151,Inventory Days,12  Jun-17,60,WDIA
+152,Debtors Days,12  Jun-17,62,WDIA
+153,Net fixed assets,12  Jun-17,1492,WDIA
+154,Share capital,12  Jun-17,220,WDIA
+155,"""Free"" reserves",12  Jun-17,3719,WDIA
+156,Net worth,12  Jun-17,3939,WDIA
+157,Long term debt,12  Jun-17,0,WDIA
+158,Total assets,12  Jun-17,5374,WDIA
+159,Interest coverage,12  Jun-17,NM,WDIA
+160,Debt to equity ratio,12  Jun-17,0,WDIA
+161,Sales to assets ratio,12  Jun-17,1.2,WDIA
+162,Return on assets,12  Jun-17,4.5,WDIA
+163,Return on equity,12  Jun-17,6.2,WDIA
+164,Return on capital,12  Jun-17,7.7,WDIA
+165,Exports to sales,12  Jun-17,0,WDIA
+166,Imports to sales,12  Jun-17,0,WDIA
+167,Exports (fob),12  Jun-17,0,WDIA
+168,Imports (cif),12  Jun-17,0,WDIA
+169,Fx inflow,12  Jun-17,861,WDIA
+170,Fx outflow,12  Jun-17,3572,WDIA
+171,Net fx,12  Jun-17,-2711,WDIA
+172,From Operations,12  Jun-17,772,WDIA
+173,From Investments,12  Jun-17,-446,WDIA
+174,From Financial Activity,12  Jun-17,-53,WDIA
+175,Net Cashflow,12  Jun-17,273,WDIA
+176,Net Sales,12  Jun-18,7931.0,WDIA
+177,Other income,12  Jun-18,84.0,WDIA
+178,Total revenues,12  Jun-18,8015.0,WDIA
+179,Gross profit,12  Jun-18,1005.0,WDIA
+180,Depreciation,12  Jun-18,281.0,WDIA
+181,Interest,12  Jun-18,0.0,WDIA
+182,Profit before tax,12  Jun-18,807.0,WDIA
+183,Minority Interest,12  Jun-18,0.0,WDIA
+184,Prior Period Items,12  Jun-18,0.0,WDIA
+185,Extraordinary Inc (Exp),12  Jun-18,-77.0,WDIA
+186,Tax,12  Jun-18,207.0,WDIA
+187,Profit after tax,12  Jun-18,523.0,WDIA
+188,Gross profit margin,12  Jun-18,12.7,WDIA
+189,Effective tax rate,12  Jun-18,25.7,WDIA
+190,Net profit margin,12  Jun-18,6.6,WDIA
+191,Current assets,12  Jun-18,3982,WDIA
+192,Current liabilities,12  Jun-18,1773,WDIA
+193,Net working cap to sales,12  Jun-18,27.9,WDIA
+194,Current ratio,12  Jun-18,2.2,WDIA
+195,Inventory Days,12  Jun-18,72,WDIA
+196,Debtors Days,12  Jun-18,58,WDIA
+197,Net fixed assets,12  Jun-18,1750,WDIA
+198,Share capital,12  Jun-18,220,WDIA
+199,"""Free"" reserves",12  Jun-18,4168,WDIA
+200,Net worth,12  Jun-18,4388,WDIA
+201,Long term debt,12  Jun-18,0,WDIA
+202,Total assets,12  Jun-18,6213,WDIA
+203,Interest coverage,12  Jun-18,NM,WDIA
+204,Debt to equity ratio,12  Jun-18,0,WDIA
+205,Sales to assets ratio,12  Jun-18,1.3,WDIA
+206,Return on assets,12  Jun-18,8.4,WDIA
+207,Return on equity,12  Jun-18,11.9,WDIA
+208,Return on capital,12  Jun-18,16.6,WDIA
+209,Exports to sales,12  Jun-18,0,WDIA
+210,Imports to sales,12  Jun-18,0,WDIA
+211,Exports (fob),12  Jun-18,0,WDIA
+212,Imports (cif),12  Jun-18,0,WDIA
+213,Fx inflow,12  Jun-18,1291,WDIA
+214,Fx outflow,12  Jun-18,4265,WDIA
+215,Net fx,12  Jun-18,-2974,WDIA
+216,From Operations,12  Jun-18,645,WDIA
+217,From Investments,12  Jun-18,-568,WDIA
+218,From Financial Activity,12  Jun-18,-53,WDIA
+219,Net Cashflow,12  Jun-18,24,WDIA

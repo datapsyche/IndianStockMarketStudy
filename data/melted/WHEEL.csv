@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,19799.0,WHEEL
+1,Other income,12  Mar-15,27.0,WHEEL
+2,Total revenues,12  Mar-15,19825.0,WHEEL
+3,Gross profit,12  Mar-15,1501.0,WHEEL
+4,Depreciation,12  Mar-15,541.0,WHEEL
+5,Interest,12  Mar-15,591.0,WHEEL
+6,Profit before tax,12  Mar-15,395.0,WHEEL
+7,Minority Interest,12  Mar-15,0.0,WHEEL
+8,Prior Period Items,12  Mar-15,0.0,WHEEL
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,WHEEL
+10,Tax,12  Mar-15,98.0,WHEEL
+11,Profit after tax,12  Mar-15,297.0,WHEEL
+12,Gross profit margin,12  Mar-15,7.6,WHEEL
+13,Effective tax rate,12  Mar-15,24.8,WHEEL
+14,Net profit margin,12  Mar-15,1.5,WHEEL
+15,Current assets,12  Mar-15,6663.0,WHEEL
+16,Current liabilities,12  Mar-15,6327.0,WHEEL
+17,Net working cap to sales,12  Mar-15,1.7,WHEEL
+18,Current ratio,12  Mar-15,1.1,WHEEL
+19,Inventory Days,12  Mar-15,44.0,WHEEL
+20,Debtors Days,12  Mar-15,68.0,WHEEL
+21,Net fixed assets,12  Mar-15,5220.0,WHEEL
+22,Share capital,12  Mar-15,120.0,WHEEL
+23,"""Free"" reserves",12  Mar-15,3690.0,WHEEL
+24,Net worth,12  Mar-15,3811.0,WHEEL
+25,Long term debt,12  Mar-15,1631.0,WHEEL
+26,Total assets,12  Mar-15,12437.0,WHEEL
+27,Interest coverage,12  Mar-15,1.7,WHEEL
+28,Debt to equity ratio,12  Mar-15,0.4,WHEEL
+29,Sales to assets ratio,12  Mar-15,1.6,WHEEL
+30,Return on assets,12  Mar-15,7.1,WHEEL
+31,Return on equity,12  Mar-15,7.8,WHEEL
+32,Return on capital,12  Mar-15,18.1,WHEEL
+33,Exports to sales,12  Mar-15,20.3,WHEEL
+34,Imports to sales,12  Mar-15,6.0,WHEEL
+35,Exports (fob),12  Mar-15,4020.0,WHEEL
+36,Imports (cif),12  Mar-15,1191.0,WHEEL
+37,Fx inflow,12  Mar-15,4020.0,WHEEL
+38,Fx outflow,12  Mar-15,1333.0,WHEEL
+39,Net fx,12  Mar-15,2687.0,WHEEL
+40,From Operations,12  Mar-15,839.0,WHEEL
+41,From Investments,12  Mar-15,-658.0,WHEEL
+42,From Financial Activity,12  Mar-15,-140.0,WHEEL
+43,Net Cashflow,12  Mar-15,42.0,WHEEL
+44,Net Sales,12  Mar-16,19872.0,WHEEL
+45,Other income,12  Mar-16,19.0,WHEEL
+46,Total revenues,12  Mar-16,19891.0,WHEEL
+47,Gross profit,12  Mar-16,1725.0,WHEEL
+48,Depreciation,12  Mar-16,605.0,WHEEL
+49,Interest,12  Mar-16,576.0,WHEEL
+50,Profit before tax,12  Mar-16,563.0,WHEEL
+51,Minority Interest,12  Mar-16,0.0,WHEEL
+52,Prior Period Items,12  Mar-16,0.0,WHEEL
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,WHEEL
+54,Tax,12  Mar-16,163.0,WHEEL
+55,Profit after tax,12  Mar-16,400.0,WHEEL
+56,Gross profit margin,12  Mar-16,8.7,WHEEL
+57,Effective tax rate,12  Mar-16,29.0,WHEEL
+58,Net profit margin,12  Mar-16,2.0,WHEEL
+59,Current assets,12  Mar-16,7198.0,WHEEL
+60,Current liabilities,12  Mar-16,6164.0,WHEEL
+61,Net working cap to sales,12  Mar-16,5.2,WHEEL
+62,Current ratio,12  Mar-16,1.2,WHEEL
+63,Inventory Days,12  Mar-16,54.0,WHEEL
+64,Debtors Days,12  Mar-16,67.0,WHEEL
+65,Net fixed assets,12  Mar-16,5352.0,WHEEL
+66,Share capital,12  Mar-16,120.0,WHEEL
+67,"""Free"" reserves",12  Mar-16,4131.0,WHEEL
+68,Net worth,12  Mar-16,4252.0,WHEEL
+69,Long term debt,12  Mar-16,1879.0,WHEEL
+70,Total assets,12  Mar-16,12913.0,WHEEL
+71,Interest coverage,12  Mar-16,2.0,WHEEL
+72,Debt to equity ratio,12  Mar-16,0.4,WHEEL
+73,Sales to assets ratio,12  Mar-16,1.5,WHEEL
+74,Return on assets,12  Mar-16,7.6,WHEEL
+75,Return on equity,12  Mar-16,9.4,WHEEL
+76,Return on capital,12  Mar-16,18.6,WHEEL
+77,Exports to sales,12  Mar-16,18.9,WHEEL
+78,Imports to sales,12  Mar-16,9.2,WHEEL
+79,Exports (fob),12  Mar-16,3758.0,WHEEL
+80,Imports (cif),12  Mar-16,1835.0,WHEEL
+81,Fx inflow,12  Mar-16,3758.0,WHEEL
+82,Fx outflow,12  Mar-16,1948.0,WHEEL
+83,Net fx,12  Mar-16,1810.0,WHEEL
+84,From Operations,12  Mar-16,1483.0,WHEEL
+85,From Investments,12  Mar-16,-686.0,WHEEL
+86,From Financial Activity,12  Mar-16,-817.0,WHEEL
+87,Net Cashflow,12  Mar-16,-20.0,WHEEL
+88,Net Sales,12  Mar-17,21729.0,WHEEL
+89,Other income,12  Mar-17,32.0,WHEEL
+90,Total revenues,12  Mar-17,21761.0,WHEEL
+91,Gross profit,12  Mar-17,1857.0,WHEEL
+92,Depreciation,12  Mar-17,639.0,WHEEL
+93,Interest,12  Mar-17,482.0,WHEEL
+94,Profit before tax,12  Mar-17,768.0,WHEEL
+95,Minority Interest,12  Mar-17,0.0,WHEEL
+96,Prior Period Items,12  Mar-17,9.0,WHEEL
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,WHEEL
+98,Tax,12  Mar-17,185.0,WHEEL
+99,Profit after tax,12  Mar-17,592.0,WHEEL
+100,Gross profit margin,12  Mar-17,8.5,WHEEL
+101,Effective tax rate,12  Mar-17,24.0,WHEEL
+102,Net profit margin,12  Mar-17,2.7,WHEEL
+103,Current assets,12  Mar-17,7813.0,WHEEL
+104,Current liabilities,12  Mar-17,7112.0,WHEEL
+105,Net working cap to sales,12  Mar-17,3.2,WHEEL
+106,Current ratio,12  Mar-17,1.1,WHEEL
+107,Inventory Days,12  Mar-17,47.0,WHEEL
+108,Debtors Days,12  Mar-17,73.0,WHEEL
+109,Net fixed assets,12  Mar-17,5483.0,WHEEL
+110,Share capital,12  Mar-17,120.0,WHEEL
+111,"""Free"" reserves",12  Mar-17,4567.0,WHEEL
+112,Net worth,12  Mar-17,4687.0,WHEEL
+113,Long term debt,12  Mar-17,1266.0,WHEEL
+114,Total assets,12  Mar-17,13693.0,WHEEL
+115,Interest coverage,12  Mar-17,2.6,WHEEL
+116,Debt to equity ratio,12  Mar-17,0.3,WHEEL
+117,Sales to assets ratio,12  Mar-17,1.6,WHEEL
+118,Return on assets,12  Mar-17,7.8,WHEEL
+119,Return on equity,12  Mar-17,12.6,WHEEL
+120,Return on capital,12  Mar-17,21.1,WHEEL
+121,Exports to sales,12  Mar-17,16.1,WHEEL
+122,Imports to sales,12  Mar-17,5.1,WHEEL
+123,Exports (fob),12  Mar-17,3499.0,WHEEL
+124,Imports (cif),12  Mar-17,1103.0,WHEEL
+125,Fx inflow,12  Mar-17,3712.0,WHEEL
+126,Fx outflow,12  Mar-17,1318.0,WHEEL
+127,Net fx,12  Mar-17,2394.0,WHEEL
+128,From Operations,12  Mar-17,1552.0,WHEEL
+129,From Investments,12  Mar-17,-752.0,WHEEL
+130,From Financial Activity,12  Mar-17,-751.0,WHEEL
+131,Net Cashflow,12  Mar-17,49.0,WHEEL
+132,Net Sales,12  Mar-18,25626.0,WHEEL
+133,Other income,12  Mar-18,80.0,WHEEL
+134,Total revenues,12  Mar-18,25706.0,WHEEL
+135,Gross profit,12  Mar-18,1986.0,WHEEL
+136,Depreciation,12  Mar-18,705.0,WHEEL
+137,Interest,12  Mar-18,449.0,WHEEL
+138,Profit before tax,12  Mar-18,913.0,WHEEL
+139,Minority Interest,12  Mar-18,0.0,WHEEL
+140,Prior Period Items,12  Mar-18,21.0,WHEEL
+141,Extraordinary Inc (Exp),12  Mar-18,125.0,WHEEL
+142,Tax,12  Mar-18,305.0,WHEEL
+143,Profit after tax,12  Mar-18,755.0,WHEEL
+144,Gross profit margin,12  Mar-18,7.8,WHEEL
+145,Effective tax rate,12  Mar-18,33.4,WHEEL
+146,Net profit margin,12  Mar-18,2.9,WHEEL
+147,Current assets,12  Mar-18,9901.0,WHEEL
+148,Current liabilities,12  Mar-18,8578.0,WHEEL
+149,Net working cap to sales,12  Mar-18,5.2,WHEEL
+150,Current ratio,12  Mar-18,1.2,WHEEL
+151,Inventory Days,12  Mar-18,53.0,WHEEL
+152,Debtors Days,12  Mar-18,69.0,WHEEL
+153,Net fixed assets,12  Mar-18,6220.0,WHEEL
+154,Share capital,12  Mar-18,120.0,WHEEL
+155,"""Free"" reserves",12  Mar-18,5746.0,WHEEL
+156,Net worth,12  Mar-18,5866.0,WHEEL
+157,Long term debt,12  Mar-18,1585.0,WHEEL
+158,Total assets,12  Mar-18,16629.0,WHEEL
+159,Interest coverage,12  Mar-18,3.0,WHEEL
+160,Debt to equity ratio,12  Mar-18,0.3,WHEEL
+161,Sales to assets ratio,12  Mar-18,1.5,WHEEL
+162,Return on assets,12  Mar-18,7.2,WHEEL
+163,Return on equity,12  Mar-18,12.9,WHEEL
+164,Return on capital,12  Mar-18,20.2,WHEEL
+165,Exports to sales,12  Mar-18,0.0,WHEEL
+166,Imports to sales,12  Mar-18,0.0,WHEEL
+167,Exports (fob),12  Mar-18,0.0,WHEEL
+168,Imports (cif),12  Mar-18,0.0,WHEEL
+169,Fx inflow,12  Mar-18,3676.0,WHEEL
+170,Fx outflow,12  Mar-18,1356.0,WHEEL
+171,Net fx,12  Mar-18,2320.0,WHEEL
+172,From Operations,12  Mar-18,1311.0,WHEEL
+173,From Investments,12  Mar-18,-1351.0,WHEEL
+174,From Financial Activity,12  Mar-18,93.0,WHEEL
+175,Net Cashflow,12  Mar-18,53.0,WHEEL
+176,Net Sales,12  Mar-19,34413.0,WHEEL
+177,Other income,12  Mar-19,57.0,WHEEL
+178,Total revenues,12  Mar-19,34470.0,WHEEL
+179,Gross profit,12  Mar-19,2453.0,WHEEL
+180,Depreciation,12  Mar-19,787.0,WHEEL
+181,Interest,12  Mar-19,659.0,WHEEL
+182,Profit before tax,12  Mar-19,1064.0,WHEEL
+183,Minority Interest,12  Mar-19,0.0,WHEEL
+184,Prior Period Items,12  Mar-19,18.0,WHEEL
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,WHEEL
+186,Tax,12  Mar-19,321.0,WHEEL
+187,Profit after tax,12  Mar-19,762.0,WHEEL
+188,Gross profit margin,12  Mar-19,7.1,WHEEL
+189,Effective tax rate,12  Mar-19,30.2,WHEEL
+190,Net profit margin,12  Mar-19,2.2,WHEEL
+191,Current assets,12  Mar-19,11711.0,WHEEL
+192,Current liabilities,12  Mar-19,10757.0,WHEEL
+193,Net working cap to sales,12  Mar-19,2.8,WHEEL
+194,Current ratio,12  Mar-19,1.1,WHEEL
+195,Inventory Days,12  Mar-19,46.0,WHEEL
+196,Debtors Days,12  Mar-19,62.0,WHEEL
+197,Net fixed assets,12  Mar-19,7758.0,WHEEL
+198,Share capital,12  Mar-19,241.0,WHEEL
+199,"""Free"" reserves",12  Mar-19,6163.0,WHEEL
+200,Net worth,12  Mar-19,6403.0,WHEEL
+201,Long term debt,12  Mar-19,2216.0,WHEEL
+202,Total assets,12  Mar-19,20148.0,WHEEL
+203,Interest coverage,12  Mar-19,2.6,WHEEL
+204,Debt to equity ratio,12  Mar-19,0.3,WHEEL
+205,Sales to assets ratio,12  Mar-19,1.7,WHEEL
+206,Return on assets,12  Mar-19,7.1,WHEEL
+207,Return on equity,12  Mar-19,11.9,WHEEL
+208,Return on capital,12  Mar-19,20.2,WHEEL
+209,Exports to sales,12  Mar-19,0.0,WHEEL
+210,Imports to sales,12  Mar-19,0.0,WHEEL
+211,Exports (fob),12  Mar-19,0.0,WHEEL
+212,Imports (cif),12  Mar-19,0.0,WHEEL
+213,Fx inflow,12  Mar-19,6104.0,WHEEL
+214,Fx outflow,12  Mar-19,2004.0,WHEEL
+215,Net fx,12  Mar-19,4100.0,WHEEL
+216,From Operations,12  Mar-19,1835.0,WHEEL
+217,From Investments,12  Mar-19,-2303.0,WHEEL
+218,From Financial Activity,12  Mar-19,378.0,WHEEL
+219,Net Cashflow,12  Mar-19,-90.0,WHEEL

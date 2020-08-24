@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,14617.0,BABS
+1,Other income,12  Mar-15,47.0,BABS
+2,Total revenues,12  Mar-15,14664.0,BABS
+3,Gross profit,12  Mar-15,810.0,BABS
+4,Depreciation,12  Mar-15,213.0,BABS
+5,Interest,12  Mar-15,127.0,BABS
+6,Profit before tax,12  Mar-15,517.0,BABS
+7,Minority Interest,12  Mar-15,0.0,BABS
+8,Prior Period Items,12  Mar-15,0.0,BABS
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,BABS
+10,Tax,12  Mar-15,167.0,BABS
+11,Profit after tax,12  Mar-15,350.0,BABS
+12,Gross profit margin,12  Mar-15,5.5,BABS
+13,Effective tax rate,12  Mar-15,32.3,BABS
+14,Net profit margin,12  Mar-15,2.4,BABS
+15,Current assets,12  Mar-15,4844.0,BABS
+16,Current liabilities,12  Mar-15,2998.0,BABS
+17,Net working cap to sales,12  Mar-15,12.6,BABS
+18,Current ratio,12  Mar-15,1.6,BABS
+19,Inventory Days,12  Mar-15,41.0,BABS
+20,Debtors Days,12  Mar-15,51.0,BABS
+21,Net fixed assets,12  Mar-15,2167.0,BABS
+22,Share capital,12  Mar-15,176.0,BABS
+23,"""Free"" reserves",12  Mar-15,4862.0,BABS
+24,Net worth,12  Mar-15,5038.0,BABS
+25,Long term debt,12  Mar-15,0.0,BABS
+26,Total assets,12  Mar-15,8283.0,BABS
+27,Interest coverage,12  Mar-15,5.1,BABS
+28,Debt to equity ratio,12  Mar-15,0.0,BABS
+29,Sales to assets ratio,12  Mar-15,1.8,BABS
+30,Return on assets,12  Mar-15,5.8,BABS
+31,Return on equity,12  Mar-15,7.0,BABS
+32,Return on capital,12  Mar-15,12.8,BABS
+33,Exports to sales,12  Mar-15,0.0,BABS
+34,Imports to sales,12  Mar-15,68.4,BABS
+35,Exports (fob),12  Mar-15,0.0,BABS
+36,Imports (cif),12  Mar-15,10005.0,BABS
+37,Fx inflow,12  Mar-15,16.0,BABS
+38,Fx outflow,12  Mar-15,10322.0,BABS
+39,Net fx,12  Mar-15,-10306.0,BABS
+40,From Operations,12  Mar-15,197.0,BABS
+41,From Investments,12  Mar-15,-509.0,BABS
+42,From Financial Activity,12  Mar-15,-7.0,BABS
+43,Net Cashflow,12  Mar-15,-318.0,BABS
+44,Net Sales,12  Mar-16,15509.0,BABS
+45,Other income,12  Mar-16,27.0,BABS
+46,Total revenues,12  Mar-16,15537.0,BABS
+47,Gross profit,12  Mar-16,929.0,BABS
+48,Depreciation,12  Mar-16,272.0,BABS
+49,Interest,12  Mar-16,98.0,BABS
+50,Profit before tax,12  Mar-16,586.0,BABS
+51,Minority Interest,12  Mar-16,0.0,BABS
+52,Prior Period Items,12  Mar-16,0.0,BABS
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,BABS
+54,Tax,12  Mar-16,-41.0,BABS
+55,Profit after tax,12  Mar-16,628.0,BABS
+56,Gross profit margin,12  Mar-16,6.0,BABS
+57,Effective tax rate,12  Mar-16,-7.0,BABS
+58,Net profit margin,12  Mar-16,4.0,BABS
+59,Current assets,12  Mar-16,6435.0,BABS
+60,Current liabilities,12  Mar-16,3841.0,BABS
+61,Net working cap to sales,12  Mar-16,16.7,BABS
+62,Current ratio,12  Mar-16,1.7,BABS
+63,Inventory Days,12  Mar-16,45.0,BABS
+64,Debtors Days,12  Mar-16,53.0,BABS
+65,Net fixed assets,12  Mar-16,2433.0,BABS
+66,Share capital,12  Mar-16,176.0,BABS
+67,"""Free"" reserves",12  Mar-16,5005.0,BABS
+68,Net worth,12  Mar-16,5181.0,BABS
+69,Long term debt,12  Mar-16,0.0,BABS
+70,Total assets,12  Mar-16,9252.0,BABS
+71,Interest coverage,12  Mar-16,7.0,BABS
+72,Debt to equity ratio,12  Mar-16,0.0,BABS
+73,Sales to assets ratio,12  Mar-16,1.7,BABS
+74,Return on assets,12  Mar-16,7.8,BABS
+75,Return on equity,12  Mar-16,12.1,BABS
+76,Return on capital,12  Mar-16,13.2,BABS
+77,Exports to sales,12  Mar-16,0.0,BABS
+78,Imports to sales,12  Mar-16,67.4,BABS
+79,Exports (fob),12  Mar-16,0.0,BABS
+80,Imports (cif),12  Mar-16,10456.0,BABS
+81,Fx inflow,12  Mar-16,21.0,BABS
+82,Fx outflow,12  Mar-16,10939.0,BABS
+83,Net fx,12  Mar-16,-10919.0,BABS
+84,From Operations,12  Mar-16,285.0,BABS
+85,From Investments,12  Mar-16,-58.0,BABS
+86,From Financial Activity,12  Mar-16,-181.0,BABS
+87,Net Cashflow,12  Mar-16,197.0,BABS
+88,Net Sales,12  Mar-17,14823.0,BABS
+89,Other income,12  Mar-17,41.0,BABS
+90,Total revenues,12  Mar-17,14864.0,BABS
+91,Gross profit,12  Mar-17,1352.0,BABS
+92,Depreciation,12  Mar-17,253.0,BABS
+93,Interest,12  Mar-17,137.0,BABS
+94,Profit before tax,12  Mar-17,1003.0,BABS
+95,Minority Interest,12  Mar-17,0.0,BABS
+96,Prior Period Items,12  Mar-17,0.0,BABS
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,BABS
+98,Tax,12  Mar-17,310.0,BABS
+99,Profit after tax,12  Mar-17,693.0,BABS
+100,Gross profit margin,12  Mar-17,9.1,BABS
+101,Effective tax rate,12  Mar-17,30.9,BABS
+102,Net profit margin,12  Mar-17,4.7,BABS
+103,Current assets,12  Mar-17,7766.0,BABS
+104,Current liabilities,12  Mar-17,4307.0,BABS
+105,Net working cap to sales,12  Mar-17,23.3,BABS
+106,Current ratio,12  Mar-17,1.8,BABS
+107,Inventory Days,12  Mar-17,79.0,BABS
+108,Debtors Days,12  Mar-17,55.0,BABS
+109,Net fixed assets,12  Mar-17,2367.0,BABS
+110,Share capital,12  Mar-17,176.0,BABS
+111,"""Free"" reserves",12  Mar-17,5695.0,BABS
+112,Net worth,12  Mar-17,5871.0,BABS
+113,Long term debt,12  Mar-17,0.0,BABS
+114,Total assets,12  Mar-17,10497.0,BABS
+115,Interest coverage,12  Mar-17,8.3,BABS
+116,Debt to equity ratio,12  Mar-17,0.0,BABS
+117,Sales to assets ratio,12  Mar-17,1.4,BABS
+118,Return on assets,12  Mar-17,7.9,BABS
+119,Return on equity,12  Mar-17,11.8,BABS
+120,Return on capital,12  Mar-17,19.4,BABS
+121,Exports to sales,12  Mar-17,0.0,BABS
+122,Imports to sales,12  Mar-17,66.3,BABS
+123,Exports (fob),12  Mar-17,0.0,BABS
+124,Imports (cif),12  Mar-17,9833.0,BABS
+125,Fx inflow,12  Mar-17,28.0,BABS
+126,Fx outflow,12  Mar-17,9833.0,BABS
+127,Net fx,12  Mar-17,-9805.0,BABS
+128,From Operations,12  Mar-17,-156.0,BABS
+129,From Investments,12  Mar-17,-151.0,BABS
+130,From Financial Activity,12  Mar-17,219.0,BABS
+131,Net Cashflow,12  Mar-17,-87.0,BABS
+132,Net Sales,12  Mar-18,18953.0,BABS
+133,Other income,12  Mar-18,69.0,BABS
+134,Total revenues,12  Mar-18,19023.0,BABS
+135,Gross profit,12  Mar-18,1353.0,BABS
+136,Depreciation,12  Mar-18,254.0,BABS
+137,Interest,12  Mar-18,137.0,BABS
+138,Profit before tax,12  Mar-18,1031.0,BABS
+139,Minority Interest,12  Mar-18,0.0,BABS
+140,Prior Period Items,12  Mar-18,0.0,BABS
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,BABS
+142,Tax,12  Mar-18,369.0,BABS
+143,Profit after tax,12  Mar-18,662.0,BABS
+144,Gross profit margin,12  Mar-18,7.1,BABS
+145,Effective tax rate,12  Mar-18,35.8,BABS
+146,Net profit margin,12  Mar-18,3.5,BABS
+147,Current assets,12  Mar-18,6644.0,BABS
+148,Current liabilities,12  Mar-18,3534.0,BABS
+149,Net working cap to sales,12  Mar-18,16.4,BABS
+150,Current ratio,12  Mar-18,1.9,BABS
+151,Inventory Days,12  Mar-18,58.0,BABS
+152,Debtors Days,12  Mar-18,47.0,BABS
+153,Net fixed assets,12  Mar-18,2290.0,BABS
+154,Share capital,12  Mar-18,176.0,BABS
+155,"""Free"" reserves",12  Mar-18,6269.0,BABS
+156,Net worth,12  Mar-18,6445.0,BABS
+157,Long term debt,12  Mar-18,230.0,BABS
+158,Total assets,12  Mar-18,10534.0,BABS
+159,Interest coverage,12  Mar-18,8.5,BABS
+160,Debt to equity ratio,12  Mar-18,0.0,BABS
+161,Sales to assets ratio,12  Mar-18,1.8,BABS
+162,Return on assets,12  Mar-18,7.6,BABS
+163,Return on equity,12  Mar-18,10.3,BABS
+164,Return on capital,12  Mar-18,17.5,BABS
+165,Exports to sales,12  Mar-18,0.0,BABS
+166,Imports to sales,12  Mar-18,72.1,BABS
+167,Exports (fob),12  Mar-18,0.0,BABS
+168,Imports (cif),12  Mar-18,13671.0,BABS
+169,Fx inflow,12  Mar-18,167.0,BABS
+170,Fx outflow,12  Mar-18,13671.0,BABS
+171,Net fx,12  Mar-18,-13504.0,BABS
+172,From Operations,12  Mar-18,1730.0,BABS
+173,From Investments,12  Mar-18,-212.0,BABS
+174,From Financial Activity,12  Mar-18,-1275.0,BABS
+175,Net Cashflow,12  Mar-18,243.0,BABS
+176,Net Sales,12  Mar-19,20905.0,BABS
+177,Other income,12  Mar-19,131.0,BABS
+178,Total revenues,12  Mar-19,21037.0,BABS
+179,Gross profit,12  Mar-19,80.0,BABS
+180,Depreciation,12  Mar-19,269.0,BABS
+181,Interest,12  Mar-19,127.0,BABS
+182,Profit before tax,12  Mar-19,-185.0,BABS
+183,Minority Interest,12  Mar-19,0.0,BABS
+184,Prior Period Items,12  Mar-19,0.0,BABS
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,BABS
+186,Tax,12  Mar-19,-60.0,BABS
+187,Profit after tax,12  Mar-19,-125.0,BABS
+188,Gross profit margin,12  Mar-19,0.4,BABS
+189,Effective tax rate,12  Mar-19,32.5,BABS
+190,Net profit margin,12  Mar-19,-0.6,BABS
+191,Current assets,12  Mar-19,6657.0,BABS
+192,Current liabilities,12  Mar-19,3822.0,BABS
+193,Net working cap to sales,12  Mar-19,13.6,BABS
+194,Current ratio,12  Mar-19,1.7,BABS
+195,Inventory Days,12  Mar-19,55.0,BABS
+196,Debtors Days,12  Mar-19,41.0,BABS
+197,Net fixed assets,12  Mar-19,2963.0,BABS
+198,Share capital,12  Mar-19,176.0,BABS
+199,"""Free"" reserves",12  Mar-19,6057.0,BABS
+200,Net worth,12  Mar-19,6233.0,BABS
+201,Long term debt,12  Mar-19,890.0,BABS
+202,Total assets,12  Mar-19,11218.0,BABS
+203,Interest coverage,12  Mar-19,-0.5,BABS
+204,Debt to equity ratio,12  Mar-19,0.1,BABS
+205,Sales to assets ratio,12  Mar-19,1.9,BABS
+206,Return on assets,12  Mar-19,0.0,BABS
+207,Return on equity,12  Mar-19,-2.0,BABS
+208,Return on capital,12  Mar-19,-0.8,BABS
+209,Exports to sales,12  Mar-19,0.0,BABS
+210,Imports to sales,12  Mar-19,0.0,BABS
+211,Exports (fob),12  Mar-19,0.0,BABS
+212,Imports (cif),12  Mar-19,0.0,BABS
+213,Fx inflow,12  Mar-19,87.0,BABS
+214,Fx outflow,12  Mar-19,16980.0,BABS
+215,Net fx,12  Mar-19,-16893.0,BABS
+216,From Operations,12  Mar-19,-381.0,BABS
+217,From Investments,12  Mar-19,-914.0,BABS
+218,From Financial Activity,12  Mar-19,1348.0,BABS
+219,Net Cashflow,12  Mar-19,53.0,BABS

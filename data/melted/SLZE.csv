@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-15,2762.0,SLZE
+1,Other income,12  Mar-15,10.0,SLZE
+2,Total revenues,12  Mar-15,2772.0,SLZE
+3,Gross profit,12  Mar-15,355.0,SLZE
+4,Depreciation,12  Mar-15,71.0,SLZE
+5,Interest,12  Mar-15,123.0,SLZE
+6,Profit before tax,12  Mar-15,170.0,SLZE
+7,Minority Interest,12  Mar-15,0.0,SLZE
+8,Prior Period Items,12  Mar-15,0.0,SLZE
+9,Extraordinary Inc (Exp),12  Mar-15,0.0,SLZE
+10,Tax,12  Mar-15,50.0,SLZE
+11,Profit after tax,12  Mar-15,120.0,SLZE
+12,Gross profit margin,12  Mar-15,12.8,SLZE
+13,Effective tax rate,12  Mar-15,29.4,SLZE
+14,Net profit margin,12  Mar-15,4.3,SLZE
+15,Current assets,12  Mar-15,1860.0,SLZE
+16,Current liabilities,12  Mar-15,1443.0,SLZE
+17,Net working cap to sales,12  Mar-15,15.1,SLZE
+18,Current ratio,12  Mar-15,1.3,SLZE
+19,Inventory Days,12  Mar-15,87.0,SLZE
+20,Debtors Days,12  Mar-15,103.0,SLZE
+21,Net fixed assets,12  Mar-15,834.0,SLZE
+22,Share capital,12  Mar-15,103.0,SLZE
+23,"""Free"" reserves",12  Mar-15,269.0,SLZE
+24,Net worth,12  Mar-15,1071.0,SLZE
+25,Long term debt,12  Mar-15,176.0,SLZE
+26,Total assets,12  Mar-15,2751.0,SLZE
+27,Interest coverage,12  Mar-15,2.4,SLZE
+28,Debt to equity ratio,12  Mar-15,0.2,SLZE
+29,Sales to assets ratio,12  Mar-15,1.0,SLZE
+30,Return on assets,12  Mar-15,8.8,SLZE
+31,Return on equity,12  Mar-15,11.2,SLZE
+32,Return on capital,12  Mar-15,23.5,SLZE
+33,Exports to sales,12  Mar-15,16.5,SLZE
+34,Imports to sales,12  Mar-15,15.7,SLZE
+35,Exports (fob),12  Mar-15,455.0,SLZE
+36,Imports (cif),12  Mar-15,434.0,SLZE
+37,Fx inflow,12  Mar-15,459.0,SLZE
+38,Fx outflow,12  Mar-15,439.0,SLZE
+39,Net fx,12  Mar-15,20.0,SLZE
+40,From Operations,12  Mar-15,262.0,SLZE
+41,From Investments,12  Mar-15,-219.0,SLZE
+42,From Financial Activity,12  Mar-15,0.0,SLZE
+43,Net Cashflow,12  Mar-15,43.0,SLZE
+44,Net Sales,12  Mar-16,3108.0,SLZE
+45,Other income,12  Mar-16,28.0,SLZE
+46,Total revenues,12  Mar-16,3136.0,SLZE
+47,Gross profit,12  Mar-16,429.0,SLZE
+48,Depreciation,12  Mar-16,83.0,SLZE
+49,Interest,12  Mar-16,131.0,SLZE
+50,Profit before tax,12  Mar-16,242.0,SLZE
+51,Minority Interest,12  Mar-16,0.0,SLZE
+52,Prior Period Items,12  Mar-16,0.0,SLZE
+53,Extraordinary Inc (Exp),12  Mar-16,0.0,SLZE
+54,Tax,12  Mar-16,72.0,SLZE
+55,Profit after tax,12  Mar-16,171.0,SLZE
+56,Gross profit margin,12  Mar-16,13.8,SLZE
+57,Effective tax rate,12  Mar-16,29.7,SLZE
+58,Net profit margin,12  Mar-16,5.5,SLZE
+59,Current assets,12  Mar-16,2394.0,SLZE
+60,Current liabilities,12  Mar-16,1576.0,SLZE
+61,Net working cap to sales,12  Mar-16,26.3,SLZE
+62,Current ratio,12  Mar-16,1.5,SLZE
+63,Inventory Days,12  Mar-16,78.0,SLZE
+64,Debtors Days,12  Mar-16,117.0,SLZE
+65,Net fixed assets,12  Mar-16,1104.0,SLZE
+66,Share capital,12  Mar-16,136.0,SLZE
+67,"""Free"" reserves",12  Mar-16,1776.0,SLZE
+68,Net worth,12  Mar-16,1913.0,SLZE
+69,Long term debt,12  Mar-16,177.0,SLZE
+70,Total assets,12  Mar-16,3754.0,SLZE
+71,Interest coverage,12  Mar-16,2.8,SLZE
+72,Debt to equity ratio,12  Mar-16,0.1,SLZE
+73,Sales to assets ratio,12  Mar-16,0.8,SLZE
+74,Return on assets,12  Mar-16,8.0,SLZE
+75,Return on equity,12  Mar-16,8.9,SLZE
+76,Return on capital,12  Mar-16,17.9,SLZE
+77,Exports to sales,12  Mar-16,17.4,SLZE
+78,Imports to sales,12  Mar-16,26.6,SLZE
+79,Exports (fob),12  Mar-16,541.0,SLZE
+80,Imports (cif),12  Mar-16,825.0,SLZE
+81,Fx inflow,12  Mar-16,567.0,SLZE
+82,Fx outflow,12  Mar-16,839.0,SLZE
+83,Net fx,12  Mar-16,-272.0,SLZE
+84,From Operations,12  Mar-16,-145.0,SLZE
+85,From Investments,12  Mar-16,-447.0,SLZE
+86,From Financial Activity,12  Mar-16,640.0,SLZE
+87,Net Cashflow,12  Mar-16,48.0,SLZE
+88,Net Sales,12  Mar-17,3850.0,SLZE
+89,Other income,12  Mar-17,54.0,SLZE
+90,Total revenues,12  Mar-17,3904.0,SLZE
+91,Gross profit,12  Mar-17,442.0,SLZE
+92,Depreciation,12  Mar-17,89.0,SLZE
+93,Interest,12  Mar-17,146.0,SLZE
+94,Profit before tax,12  Mar-17,261.0,SLZE
+95,Minority Interest,12  Mar-17,0.0,SLZE
+96,Prior Period Items,12  Mar-17,0.0,SLZE
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,SLZE
+98,Tax,12  Mar-17,88.0,SLZE
+99,Profit after tax,12  Mar-17,173.0,SLZE
+100,Gross profit margin,12  Mar-17,11.5,SLZE
+101,Effective tax rate,12  Mar-17,33.6,SLZE
+102,Net profit margin,12  Mar-17,4.5,SLZE
+103,Current assets,12  Mar-17,2712.0,SLZE
+104,Current liabilities,12  Mar-17,1912.0,SLZE
+105,Net working cap to sales,12  Mar-17,20.8,SLZE
+106,Current ratio,12  Mar-17,1.4,SLZE
+107,Inventory Days,12  Mar-17,89.0,SLZE
+108,Debtors Days,12  Mar-17,111.0,SLZE
+109,Net fixed assets,12  Mar-17,1457.0,SLZE
+110,Share capital,12  Mar-17,144.0,SLZE
+111,"""Free"" reserves",12  Mar-17,2182.0,SLZE
+112,Net worth,12  Mar-17,2326.0,SLZE
+113,Long term debt,12  Mar-17,118.0,SLZE
+114,Total assets,12  Mar-17,4539.0,SLZE
+115,Interest coverage,12  Mar-17,2.8,SLZE
+116,Debt to equity ratio,12  Mar-17,0.1,SLZE
+117,Sales to assets ratio,12  Mar-17,0.8,SLZE
+118,Return on assets,12  Mar-17,7.0,SLZE
+119,Return on equity,12  Mar-17,7.5,SLZE
+120,Return on capital,12  Mar-17,16.7,SLZE
+121,Exports to sales,12  Mar-17,15.0,SLZE
+122,Imports to sales,12  Mar-17,20.5,SLZE
+123,Exports (fob),12  Mar-17,578.0,SLZE
+124,Imports (cif),12  Mar-17,790.0,SLZE
+125,Fx inflow,12  Mar-17,582.0,SLZE
+126,Fx outflow,12  Mar-17,803.0,SLZE
+127,Net fx,12  Mar-17,-221.0,SLZE
+128,From Operations,12  Mar-17,9.0,SLZE
+129,From Investments,12  Mar-17,-135.0,SLZE
+130,From Financial Activity,12  Mar-17,124.0,SLZE
+131,Net Cashflow,12  Mar-17,-69.0,SLZE
+132,Net Sales,12  Mar-18,4428.0,SLZE
+133,Other income,12  Mar-18,31.0,SLZE
+134,Total revenues,12  Mar-18,4459.0,SLZE
+135,Gross profit,12  Mar-18,533.0,SLZE
+136,Depreciation,12  Mar-18,105.0,SLZE
+137,Interest,12  Mar-18,149.0,SLZE
+138,Profit before tax,12  Mar-18,309.0,SLZE
+139,Minority Interest,12  Mar-18,0.0,SLZE
+140,Prior Period Items,12  Mar-18,0.0,SLZE
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,SLZE
+142,Tax,12  Mar-18,109.0,SLZE
+143,Profit after tax,12  Mar-18,200.0,SLZE
+144,Gross profit margin,12  Mar-18,12.0,SLZE
+145,Effective tax rate,12  Mar-18,35.3,SLZE
+146,Net profit margin,12  Mar-18,4.5,SLZE
+147,Current assets,12  Mar-18,329.0,SLZE
+148,Current liabilities,12  Mar-18,2366.0,SLZE
+149,Net working cap to sales,12  Mar-18,-46.0,SLZE
+150,Current ratio,12  Mar-18,0.1,SLZE
+151,Inventory Days,12  Mar-18,114.0,SLZE
+152,Debtors Days,12  Mar-18,97.0,SLZE
+153,Net fixed assets,12  Mar-18,1728.0,SLZE
+154,Share capital,12  Mar-18,155.0,SLZE
+155,"""Free"" reserves",12  Mar-18,2551.0,SLZE
+156,Net worth,12  Mar-18,2706.0,SLZE
+157,Long term debt,12  Mar-18,77.0,SLZE
+158,Total assets,12  Mar-18,5372.0,SLZE
+159,Interest coverage,12  Mar-18,3.1,SLZE
+160,Debt to equity ratio,12  Mar-18,0.0,SLZE
+161,Sales to assets ratio,12  Mar-18,0.8,SLZE
+162,Return on assets,12  Mar-18,6.5,SLZE
+163,Return on equity,12  Mar-18,7.4,SLZE
+164,Return on capital,12  Mar-18,16.5,SLZE
+165,Exports to sales,12  Mar-18,12.0,SLZE
+166,Imports to sales,12  Mar-18,17.2,SLZE
+167,Exports (fob),12  Mar-18,531.0,SLZE
+168,Imports (cif),12  Mar-18,761.0,SLZE
+169,Fx inflow,12  Mar-18,752.0,SLZE
+170,Fx outflow,12  Mar-18,761.0,SLZE
+171,Net fx,12  Mar-18,-8.0,SLZE
+172,From Operations,12  Mar-18,42.0,SLZE
+173,From Investments,12  Mar-18,-326.0,SLZE
+174,From Financial Activity,12  Mar-18,261.0,SLZE
+175,Net Cashflow,12  Mar-18,-104.0,SLZE
+176,Net Sales,12  Mar-19,5598.0,SLZE
+177,Other income,12  Mar-19,7.0,SLZE
+178,Total revenues,12  Mar-19,5605.0,SLZE
+179,Gross profit,12  Mar-19,636.0,SLZE
+180,Depreciation,12  Mar-19,122.0,SLZE
+181,Interest,12  Mar-19,199.0,SLZE
+182,Profit before tax,12  Mar-19,323.0,SLZE
+183,Minority Interest,12  Mar-19,0.0,SLZE
+184,Prior Period Items,12  Mar-19,0.0,SLZE
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,SLZE
+186,Tax,12  Mar-19,84.0,SLZE
+187,Profit after tax,12  Mar-19,240.0,SLZE
+188,Gross profit margin,12  Mar-19,11.4,SLZE
+189,Effective tax rate,12  Mar-19,25.8,SLZE
+190,Net profit margin,12  Mar-19,4.3,SLZE
+191,Current assets,12  Mar-19,3497.0,SLZE
+192,Current liabilities,12  Mar-19,2540.0,SLZE
+193,Net working cap to sales,12  Mar-19,17.1,SLZE
+194,Current ratio,12  Mar-19,1.4,SLZE
+195,Inventory Days,12  Mar-19,93.0,SLZE
+196,Debtors Days,12  Mar-19,95.0,SLZE
+197,Net fixed assets,12  Mar-19,1890.0,SLZE
+198,Share capital,12  Mar-19,160.0,SLZE
+199,"""Free"" reserves",12  Mar-19,2710.0,SLZE
+200,Net worth,12  Mar-19,2870.0,SLZE
+201,Long term debt,12  Mar-19,42.0,SLZE
+202,Total assets,12  Mar-19,5656.0,SLZE
+203,Interest coverage,12  Mar-19,2.6,SLZE
+204,Debt to equity ratio,12  Mar-19,0.0,SLZE
+205,Sales to assets ratio,12  Mar-19,1.0,SLZE
+206,Return on assets,12  Mar-19,7.8,SLZE
+207,Return on equity,12  Mar-19,8.3,SLZE
+208,Return on capital,12  Mar-19,17.9,SLZE
+209,Exports to sales,12  Mar-19,0.0,SLZE
+210,Imports to sales,12  Mar-19,0.0,SLZE
+211,Exports (fob),12  Mar-19,0.0,SLZE
+212,Imports (cif),12  Mar-19,0.0,SLZE
+213,Fx inflow,12  Mar-19,564.0,SLZE
+214,Fx outflow,12  Mar-19,881.0,SLZE
+215,Net fx,12  Mar-19,-318.0,SLZE
+216,From Operations,12  Mar-19,517.0,SLZE
+217,From Investments,12  Mar-19,-283.0,SLZE
+218,From Financial Activity,12  Mar-19,-193.0,SLZE
+219,Net Cashflow,12  Mar-19,-29.0,SLZE

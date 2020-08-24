@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14*,28219.0,ININFO
+1,Other income,12  Mar-14*,154.0,ININFO
+2,Total revenues,12  Mar-14*,28373.0,ININFO
+3,Gross profit,12  Mar-14*,16255.0,ININFO
+4,Depreciation,12  Mar-14*,679.0,ININFO
+5,Interest,12  Mar-14*,11532.0,ININFO
+6,Profit before tax,12  Mar-14*,4198.0,ININFO
+7,Minority Interest,12  Mar-14*,-133.0,ININFO
+8,Prior Period Items,12  Mar-14*,8.0,ININFO
+9,Extraordinary Inc (Exp),12  Mar-14*,0.0,ININFO
+10,Tax,12  Mar-14*,1292.0,ININFO
+11,Profit after tax,12  Mar-14*,2781.0,ININFO
+12,Gross profit margin,12  Mar-14*,57.6,ININFO
+13,Effective tax rate,12  Mar-14*,30.8,ININFO
+14,Net profit margin,12  Mar-14*,9.9,ININFO
+15,Current assets,12  Mar-14*,93935.0,ININFO
+16,Current liabilities,12  Mar-14*,62548.0,ININFO
+17,Net working cap to sales,12  Mar-14*,111.2,ININFO
+18,Current ratio,12  Mar-14*,1.5,ININFO
+19,Inventory Days,12  Mar-14*,8.0,ININFO
+20,Debtors Days,12  Mar-14*,58.0,ININFO
+21,Net fixed assets,12  Mar-14*,4627.0,ININFO
+22,Share capital,12  Mar-14*,592.0,ININFO
+23,"""Free"" reserves",12  Mar-14*,16567.0,ININFO
+24,Net worth,12  Mar-14*,21519.0,ININFO
+25,Long term debt,12  Mar-14*,60194.0,ININFO
+26,Total assets,12  Mar-14*,145137.0,ININFO
+27,Interest coverage,12  Mar-14*,1.4,ININFO
+28,Debt to equity ratio,12  Mar-14*,2.8,ININFO
+29,Sales to assets ratio,12  Mar-14*,0.2,ININFO
+30,Return on assets,12  Mar-14*,9.9,ININFO
+31,Return on equity,12  Mar-14*,12.9,ININFO
+32,Return on capital,12  Mar-14*,19.1,ININFO
+33,Exports to sales,12  Mar-14*,0.0,ININFO
+34,Imports to sales,12  Mar-14*,0.0,ININFO
+35,Exports (fob),12  Mar-14*,0.0,ININFO
+36,Imports (cif),12  Mar-14*,0.0,ININFO
+37,Fx inflow,12  Mar-14*,0.0,ININFO
+38,Fx outflow,12  Mar-14*,0.0,ININFO
+39,Net fx,12  Mar-14*,0.0,ININFO
+40,From Operations,12  Mar-14*,-632.0,ININFO
+41,From Investments,12  Mar-14*,597.0,ININFO
+42,From Financial Activity,12  Mar-14*,172.0,ININFO
+43,Net Cashflow,12  Mar-14*,137.0,ININFO
+44,Net Sales,12  Mar-15*,35510.0,ININFO
+45,Other income,12  Mar-15*,127.0,ININFO
+46,Total revenues,12  Mar-15*,35637.0,ININFO
+47,Gross profit,12  Mar-15*,22042.0,ININFO
+48,Depreciation,12  Mar-15*,592.0,ININFO
+49,Interest,12  Mar-15*,14338.0,ININFO
+50,Profit before tax,12  Mar-15*,7239.0,ININFO
+51,Minority Interest,12  Mar-15*,-290.0,ININFO
+52,Prior Period Items,12  Mar-15*,-29.0,ININFO
+53,Extraordinary Inc (Exp),12  Mar-15*,0.0,ININFO
+54,Tax,12  Mar-15*,2446.0,ININFO
+55,Profit after tax,12  Mar-15*,4473.0,ININFO
+56,Gross profit margin,12  Mar-15*,62.1,ININFO
+57,Effective tax rate,12  Mar-15*,33.8,ININFO
+58,Net profit margin,12  Mar-15*,12.6,ININFO
+59,Current assets,12  Mar-15*,128653.0,ININFO
+60,Current liabilities,12  Mar-15*,70530.0,ININFO
+61,Net working cap to sales,12  Mar-15*,163.7,ININFO
+62,Current ratio,12  Mar-15*,1.8,ININFO
+63,Inventory Days,12  Mar-15*,26.0,ININFO
+64,Debtors Days,12  Mar-15*,51.0,ININFO
+65,Net fixed assets,12  Mar-15*,4716.0,ININFO
+66,Share capital,12  Mar-15*,621.0,ININFO
+67,"""Free"" reserves",12  Mar-15*,19293.0,ININFO
+68,Net worth,12  Mar-15*,25577.0,ININFO
+69,Long term debt,12  Mar-15*,94712.0,ININFO
+70,Total assets,12  Mar-15*,194221.0,ININFO
+71,Interest coverage,12  Mar-15*,1.5,ININFO
+72,Debt to equity ratio,12  Mar-15*,3.7,ININFO
+73,Sales to assets ratio,12  Mar-15*,0.2,ININFO
+74,Return on assets,12  Mar-15*,9.7,ININFO
+75,Return on equity,12  Mar-15*,17.5,ININFO
+76,Return on capital,12  Mar-15*,17.7,ININFO
+77,Exports to sales,12  Mar-15*,0.0,ININFO
+78,Imports to sales,12  Mar-15*,0.0,ININFO
+79,Exports (fob),12  Mar-15*,0.0,ININFO
+80,Imports (cif),12  Mar-15*,0.0,ININFO
+81,Fx inflow,12  Mar-15*,0.0,ININFO
+82,Fx outflow,12  Mar-15*,0.0,ININFO
+83,Net fx,12  Mar-15*,0.0,ININFO
+84,From Operations,12  Mar-15*,-21263.0,ININFO
+85,From Investments,12  Mar-15*,-3613.0,ININFO
+86,From Financial Activity,12  Mar-15*,29040.0,ININFO
+87,Net Cashflow,12  Mar-15*,4165.0,ININFO
+88,Net Sales,12  Mar-16*,39851.0,ININFO
+89,Other income,12  Mar-16*,106.0,ININFO
+90,Total revenues,12  Mar-16*,39957.0,ININFO
+91,Gross profit,12  Mar-16*,25902.0,ININFO
+92,Depreciation,12  Mar-16*,661.0,ININFO
+93,Interest,12  Mar-16*,16800.0,ININFO
+94,Profit before tax,12  Mar-16*,8547.0,ININFO
+95,Minority Interest,12  Mar-16*,-436.0,ININFO
+96,Prior Period Items,12  Mar-16*,-42.0,ININFO
+97,Extraordinary Inc (Exp),12  Mar-16*,0.0,ININFO
+98,Tax,12  Mar-16*,2957.0,ININFO
+99,Profit after tax,12  Mar-16*,5112.0,ININFO
+100,Gross profit margin,12  Mar-16*,65.0,ININFO
+101,Effective tax rate,12  Mar-16*,34.6,ININFO
+102,Net profit margin,12  Mar-16*,12.8,ININFO
+103,Current assets,12  Mar-16*,122903.0,ININFO
+104,Current liabilities,12  Mar-16*,96534.0,ININFO
+105,Net working cap to sales,12  Mar-16*,66.2,ININFO
+106,Current ratio,12  Mar-16*,1.3,ININFO
+107,Inventory Days,12  Mar-16*,3.0,ININFO
+108,Debtors Days,12  Mar-16*,54.0,ININFO
+109,Net fixed assets,12  Mar-16*,4802.0,ININFO
+110,Share capital,12  Mar-16*,633.0,ININFO
+111,"""Free"" reserves",12  Mar-16*,32888.0,ININFO
+112,Net worth,12  Mar-16*,33521.0,ININFO
+113,Long term debt,12  Mar-16*,90203.0,ININFO
+114,Total assets,12  Mar-16*,228766.0,ININFO
+115,Interest coverage,12  Mar-16*,1.5,ININFO
+116,Debt to equity ratio,12  Mar-16*,2.7,ININFO
+117,Sales to assets ratio,12  Mar-16*,0.2,ININFO
+118,Return on assets,12  Mar-16*,9.6,ININFO
+119,Return on equity,12  Mar-16*,15.2,ININFO
+120,Return on capital,12  Mar-16*,20.1,ININFO
+121,Exports to sales,12  Mar-16*,0.0,ININFO
+122,Imports to sales,12  Mar-16*,0.0,ININFO
+123,Exports (fob),12  Mar-16*,0.0,ININFO
+124,Imports (cif),12  Mar-16*,0.0,ININFO
+125,Fx inflow,12  Mar-16*,0.0,ININFO
+126,Fx outflow,12  Mar-16*,0.0,ININFO
+127,Net fx,12  Mar-16*,0.0,ININFO
+128,From Operations,12  Mar-16*,-541.0,ININFO
+129,From Investments,12  Mar-16*,-6707.0,ININFO
+130,From Financial Activity,12  Mar-16*,5249.0,ININFO
+131,Net Cashflow,12  Mar-16*,-1999.0,ININFO
+132,Net Sales,12  Mar-17*,31379.0,ININFO
+133,Other income,12  Mar-17*,262.0,ININFO
+134,Total revenues,12  Mar-17*,31640.0,ININFO
+135,Gross profit,12  Mar-17*,24428.0,ININFO
+136,Depreciation,12  Mar-17*,159.0,ININFO
+137,Interest,12  Mar-17*,17794.0,ININFO
+138,Profit before tax,12  Mar-17*,6737.0,ININFO
+139,Minority Interest,12  Mar-17*,0.0,ININFO
+140,Prior Period Items,12  Mar-17*,0.0,ININFO
+141,Extraordinary Inc (Exp),12  Mar-17*,0.0,ININFO
+142,Tax,12  Mar-17*,2260.0,ININFO
+143,Profit after tax,12  Mar-17*,4478.0,ININFO
+144,Gross profit margin,12  Mar-17*,77.8,ININFO
+145,Effective tax rate,12  Mar-17*,33.5,ININFO
+146,Net profit margin,12  Mar-17*,14.3,ININFO
+147,Current assets,12  Mar-17*,175126.0,ININFO
+148,Current liabilities,12  Mar-17*,149544.0,ININFO
+149,Net working cap to sales,12  Mar-17*,81.5,ININFO
+150,Current ratio,12  Mar-17*,1.2,ININFO
+151,Inventory Days,12  Mar-17*,4.0,ININFO
+152,Debtors Days,12  Mar-17*,62.0,ININFO
+153,Net fixed assets,12  Mar-17*,6130.0,ININFO
+154,Share capital,12  Mar-17*,636.0,ININFO
+155,"""Free"" reserves",12  Mar-17*,43178.0,ININFO
+156,Net worth,12  Mar-17*,43814.0,ININFO
+157,Long term debt,12  Mar-17*,128011.0,ININFO
+158,Total assets,12  Mar-17*,337607.0,ININFO
+159,Interest coverage,12  Mar-17*,1.4,ININFO
+160,Debt to equity ratio,12  Mar-17*,2.9,ININFO
+161,Sales to assets ratio,12  Mar-17*,0.1,ININFO
+162,Return on assets,12  Mar-17*,6.6,ININFO
+163,Return on equity,12  Mar-17*,10.2,ININFO
+164,Return on capital,12  Mar-17*,14.3,ININFO
+165,Exports to sales,12  Mar-17*,0.0,ININFO
+166,Imports to sales,12  Mar-17*,0.0,ININFO
+167,Exports (fob),12  Mar-17*,0.0,ININFO
+168,Imports (cif),12  Mar-17*,0.0,ININFO
+169,Fx inflow,12  Mar-17*,9.0,ININFO
+170,Fx outflow,12  Mar-17*,2.0,ININFO
+171,Net fx,12  Mar-17*,7.0,ININFO
+172,From Operations,12  Mar-17*,-7561.0,ININFO
+173,From Investments,12  Mar-17*,-20102.0,ININFO
+174,From Financial Activity,12  Mar-17*,28869.0,ININFO
+175,Net Cashflow,12  Mar-17*,5993.0,ININFO
+176,Net Sales,12  Mar-18*,38126.0,ININFO
+177,Other income,12  Mar-18*,415.0,ININFO
+178,Total revenues,12  Mar-18*,38542.0,ININFO
+179,Gross profit,12  Mar-18*,27815.0,ININFO
+180,Depreciation,12  Mar-18*,173.0,ININFO
+181,Interest,12  Mar-18*,18968.0,ININFO
+182,Profit before tax,12  Mar-18*,9089.0,ININFO
+183,Minority Interest,12  Mar-18*,0.0,ININFO
+184,Prior Period Items,12  Mar-18*,0.0,ININFO
+185,Extraordinary Inc (Exp),12  Mar-18*,0.0,ININFO
+186,Tax,12  Mar-18*,2850.0,ININFO
+187,Profit after tax,12  Mar-18*,6240.0,ININFO
+188,Gross profit margin,12  Mar-18*,73.0,ININFO
+189,Effective tax rate,12  Mar-18*,31.4,ININFO
+190,Net profit margin,12  Mar-18*,16.4,ININFO
+191,Current assets,12  Mar-18*,215405.0,ININFO
+192,Current liabilities,12  Mar-18*,240168.0,ININFO
+193,Net working cap to sales,12  Mar-18*,-65.0,ININFO
+194,Current ratio,12  Mar-18*,0.9,ININFO
+195,Inventory Days,12  Mar-18*,2.0,ININFO
+196,Debtors Days,12  Mar-18*,25.0,ININFO
+197,Net fixed assets,12  Mar-18*,7251.0,ININFO
+198,Share capital,12  Mar-18*,638.0,ININFO
+199,"""Free"" reserves",12  Mar-18*,50019.0,ININFO
+200,Net worth,12  Mar-18*,50657.0,ININFO
+201,Long term debt,12  Mar-18*,127110.0,ININFO
+202,Total assets,12  Mar-18*,437033.0,ININFO
+203,Interest coverage,12  Mar-18*,1.5,ININFO
+204,Debt to equity ratio,12  Mar-18*,2.5,ININFO
+205,Sales to assets ratio,12  Mar-18*,0.1,ININFO
+206,Return on assets,12  Mar-18*,5.8,ININFO
+207,Return on equity,12  Mar-18*,12.3,ININFO
+208,Return on capital,12  Mar-18*,15.8,ININFO
+209,Exports to sales,12  Mar-18*,0.0,ININFO
+210,Imports to sales,12  Mar-18*,0.0,ININFO
+211,Exports (fob),12  Mar-18*,0.0,ININFO
+212,Imports (cif),12  Mar-18*,0.0,ININFO
+213,Fx inflow,12  Mar-18*,0.0,ININFO
+214,Fx outflow,12  Mar-18*,0.0,ININFO
+215,Net fx,12  Mar-18*,0.0,ININFO
+216,From Operations,12  Mar-18*,-69552.0,ININFO
+217,From Investments,12  Mar-18*,-1805.0,ININFO
+218,From Financial Activity,12  Mar-18*,66452.0,ININFO
+219,Net Cashflow,12  Mar-18*,-6948.0,ININFO

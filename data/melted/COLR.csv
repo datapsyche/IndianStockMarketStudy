@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14,10460.0,COLR
+1,Other income,12  Dec-14,137.0,COLR
+2,Total revenues,12  Dec-14,10597.0,COLR
+3,Gross profit,12  Dec-14,245.0,COLR
+4,Depreciation,12  Dec-14,332.0,COLR
+5,Interest,12  Dec-14,11.0,COLR
+6,Profit before tax,12  Dec-14,38.0,COLR
+7,Minority Interest,12  Dec-14,0.0,COLR
+8,Prior Period Items,12  Dec-14,0.0,COLR
+9,Extraordinary Inc (Exp),12  Dec-14,11836.0,COLR
+10,Tax,12  Dec-14,2441.0,COLR
+11,Profit after tax,12  Dec-14,9433.0,COLR
+12,Gross profit margin,12  Dec-14,2.3,COLR
+13,Effective tax rate,12  Dec-14,6373.4,COLR
+14,Net profit margin,12  Dec-14,90.2,COLR
+15,Current assets,12  Dec-14,14138.0,COLR
+16,Current liabilities,12  Dec-14,4249.0,COLR
+17,Net working cap to sales,12  Dec-14,94.5,COLR
+18,Current ratio,12  Dec-14,3.3,COLR
+19,Inventory Days,12  Dec-14,57.0,COLR
+20,Debtors Days,12  Dec-14,57.0,COLR
+21,Net fixed assets,12  Dec-14,3482.0,COLR
+22,Share capital,12  Dec-14,267.0,COLR
+23,"""Free"" reserves",12  Dec-14,13732.0,COLR
+24,Net worth,12  Dec-14,13998.0,COLR
+25,Long term debt,12  Dec-14,0.0,COLR
+26,Total assets,12  Dec-14,18465.0,COLR
+27,Interest coverage,12  Dec-14,4.4,COLR
+28,Debt to equity ratio,12  Dec-14,0.0,COLR
+29,Sales to assets ratio,12  Dec-14,0.6,COLR
+30,Return on assets,12  Dec-14,51.1,COLR
+31,Return on equity,12  Dec-14,67.4,COLR
+32,Return on capital,12  Dec-14,84.9,COLR
+33,Exports to sales,12  Dec-14,24.4,COLR
+34,Imports to sales,12  Dec-14,21.7,COLR
+35,Exports (fob),12  Dec-14,2550.0,COLR
+36,Imports (cif),12  Dec-14,2266.0,COLR
+37,Fx inflow,12  Dec-14,2776.0,COLR
+38,Fx outflow,12  Dec-14,3526.0,COLR
+39,Net fx,12  Dec-14,-749.0,COLR
+40,From Operations,12  Dec-14,-597.0,COLR
+41,From Investments,12  Dec-14,12238.0,COLR
+42,From Financial Activity,12  Dec-14,-1753.0,COLR
+43,Net Cashflow,12  Dec-14,9889.0,COLR
+44,Net Sales,15  Mar-16,11400.0,COLR
+45,Other income,15  Mar-16,367.0,COLR
+46,Total revenues,15  Mar-16,11767.0,COLR
+47,Gross profit,15  Mar-16,643.0,COLR
+48,Depreciation,15  Mar-16,501.0,COLR
+49,Interest,15  Mar-16,7.0,COLR
+50,Profit before tax,15  Mar-16,503.0,COLR
+51,Minority Interest,15  Mar-16,0.0,COLR
+52,Prior Period Items,15  Mar-16,0.0,COLR
+53,Extraordinary Inc (Exp),15  Mar-16,0.0,COLR
+54,Tax,15  Mar-16,94.0,COLR
+55,Profit after tax,15  Mar-16,409.0,COLR
+56,Gross profit margin,15  Mar-16,5.6,COLR
+57,Effective tax rate,15  Mar-16,18.6,COLR
+58,Net profit margin,15  Mar-16,3.6,COLR
+59,Current assets,15  Mar-16,4498.0,COLR
+60,Current liabilities,15  Mar-16,2043.0,COLR
+61,Net working cap to sales,15  Mar-16,21.5,COLR
+62,Current ratio,15  Mar-16,2.2,COLR
+63,Inventory Days,15  Mar-16,46.0,COLR
+64,Debtors Days,15  Mar-16,57.0,COLR
+65,Net fixed assets,15  Mar-16,3696.0,COLR
+66,Share capital,15  Mar-16,231.0,COLR
+67,"""Free"" reserves",15  Mar-16,6463.0,COLR
+68,Net worth,15  Mar-16,6694.0,COLR
+69,Long term debt,15  Mar-16,0.0,COLR
+70,Total assets,15  Mar-16,9018.0,COLR
+71,Interest coverage,15  Mar-16,69.9,COLR
+72,Debt to equity ratio,15  Mar-16,0.0,COLR
+73,Sales to assets ratio,15  Mar-16,1.3,COLR
+74,Return on assets,15  Mar-16,4.6,COLR
+75,Return on equity,15  Mar-16,6.1,COLR
+76,Return on capital,15  Mar-16,7.6,COLR
+77,Exports to sales,15  Mar-16,22.9,COLR
+78,Imports to sales,15  Mar-16,18.8,COLR
+79,Exports (fob),15  Mar-16,2607.0,COLR
+80,Imports (cif),15  Mar-16,2141.0,COLR
+81,Fx inflow,15  Mar-16,2715.0,COLR
+82,Fx outflow,15  Mar-16,4721.0,COLR
+83,Net fx,15  Mar-16,-2006.0,COLR
+84,From Operations,15  Mar-16,-1484.0,COLR
+85,From Investments,15  Mar-16,-354.0,COLR
+86,From Financial Activity,15  Mar-16,-7987.0,COLR
+87,Net Cashflow,15  Mar-16,-9826.0,COLR
+88,Net Sales,12  Mar-17,9810.0,COLR
+89,Other income,12  Mar-17,91.0,COLR
+90,Total revenues,12  Mar-17,9901.0,COLR
+91,Gross profit,12  Mar-17,671.0,COLR
+92,Depreciation,12  Mar-17,395.0,COLR
+93,Interest,12  Mar-17,5.0,COLR
+94,Profit before tax,12  Mar-17,363.0,COLR
+95,Minority Interest,12  Mar-17,0.0,COLR
+96,Prior Period Items,12  Mar-17,0.0,COLR
+97,Extraordinary Inc (Exp),12  Mar-17,0.0,COLR
+98,Tax,12  Mar-17,118.0,COLR
+99,Profit after tax,12  Mar-17,245.0,COLR
+100,Gross profit margin,12  Mar-17,6.8,COLR
+101,Effective tax rate,12  Mar-17,32.5,COLR
+102,Net profit margin,12  Mar-17,2.5,COLR
+103,Current assets,12  Mar-17,5097.0,COLR
+104,Current liabilities,12  Mar-17,2333.0,COLR
+105,Net working cap to sales,12  Mar-17,28.2,COLR
+106,Current ratio,12  Mar-17,2.2,COLR
+107,Inventory Days,12  Mar-17,58.0,COLR
+108,Debtors Days,12  Mar-17,64.0,COLR
+109,Net fixed assets,12  Mar-17,3530.0,COLR
+110,Share capital,12  Mar-17,231.0,COLR
+111,"""Free"" reserves",12  Mar-17,6498.0,COLR
+112,Net worth,12  Mar-17,6729.0,COLR
+113,Long term debt,12  Mar-17,0.0,COLR
+114,Total assets,12  Mar-17,9332.0,COLR
+115,Interest coverage,12  Mar-17,79.9,COLR
+116,Debt to equity ratio,12  Mar-17,0.0,COLR
+117,Sales to assets ratio,12  Mar-17,1.1,COLR
+118,Return on assets,12  Mar-17,2.7,COLR
+119,Return on equity,12  Mar-17,3.6,COLR
+120,Return on capital,12  Mar-17,5.5,COLR
+121,Exports to sales,12  Mar-17,0.0,COLR
+122,Imports to sales,12  Mar-17,0.0,COLR
+123,Exports (fob),12  Mar-17,0.0,COLR
+124,Imports (cif),12  Mar-17,0.0,COLR
+125,Fx inflow,12  Mar-17,2313.0,COLR
+126,Fx outflow,12  Mar-17,2154.0,COLR
+127,Net fx,12  Mar-17,159.0,COLR
+128,From Operations,12  Mar-17,816.0,COLR
+129,From Investments,12  Mar-17,-500.0,COLR
+130,From Financial Activity,12  Mar-17,-286.0,COLR
+131,Net Cashflow,12  Mar-17,30.0,COLR
+132,Net Sales,12  Mar-18,10136.0,COLR
+133,Other income,12  Mar-18,278.0,COLR
+134,Total revenues,12  Mar-18,10413.0,COLR
+135,Gross profit,12  Mar-18,440.0,COLR
+136,Depreciation,12  Mar-18,377.0,COLR
+137,Interest,12  Mar-18,6.0,COLR
+138,Profit before tax,12  Mar-18,334.0,COLR
+139,Minority Interest,12  Mar-18,0.0,COLR
+140,Prior Period Items,12  Mar-18,0.0,COLR
+141,Extraordinary Inc (Exp),12  Mar-18,0.0,COLR
+142,Tax,12  Mar-18,118.0,COLR
+143,Profit after tax,12  Mar-18,216.0,COLR
+144,Gross profit margin,12  Mar-18,4.3,COLR
+145,Effective tax rate,12  Mar-18,35.3,COLR
+146,Net profit margin,12  Mar-18,2.1,COLR
+147,Current assets,12  Mar-18,4704.0,COLR
+148,Current liabilities,12  Mar-18,2349.0,COLR
+149,Net working cap to sales,12  Mar-18,23.2,COLR
+150,Current ratio,12  Mar-18,2.0,COLR
+151,Inventory Days,12  Mar-18,60.0,COLR
+152,Debtors Days,12  Mar-18,64.0,COLR
+153,Net fixed assets,12  Mar-18,3336.0,COLR
+154,Share capital,12  Mar-18,231.0,COLR
+155,"""Free"" reserves",12  Mar-18,6015.0,COLR
+156,Net worth,12  Mar-18,6246.0,COLR
+157,Long term debt,12  Mar-18,0.0,COLR
+158,Total assets,12  Mar-18,8926.0,COLR
+159,Interest coverage,12  Mar-18,56.7,COLR
+160,Debt to equity ratio,12  Mar-18,0.0,COLR
+161,Sales to assets ratio,12  Mar-18,1.1,COLR
+162,Return on assets,12  Mar-18,2.5,COLR
+163,Return on equity,12  Mar-18,3.5,COLR
+164,Return on capital,12  Mar-18,5.4,COLR
+165,Exports to sales,12  Mar-18,0.0,COLR
+166,Imports to sales,12  Mar-18,0.0,COLR
+167,Exports (fob),12  Mar-18,0.0,COLR
+168,Imports (cif),12  Mar-18,0.0,COLR
+169,Fx inflow,12  Mar-18,2531.0,COLR
+170,Fx outflow,12  Mar-18,27993.0,COLR
+171,Net fx,12  Mar-18,-25462.0,COLR
+172,From Operations,12  Mar-18,-11.0,COLR
+173,From Investments,12  Mar-18,670.0,COLR
+174,From Financial Activity,12  Mar-18,-701.0,COLR
+175,Net Cashflow,12  Mar-18,-42.0,COLR
+176,Net Sales,12  Mar-19,10281.0,COLR
+177,Other income,12  Mar-19,108.0,COLR
+178,Total revenues,12  Mar-19,10389.0,COLR
+179,Gross profit,12  Mar-19,574.0,COLR
+180,Depreciation,12  Mar-19,374.0,COLR
+181,Interest,12  Mar-19,6.0,COLR
+182,Profit before tax,12  Mar-19,301.0,COLR
+183,Minority Interest,12  Mar-19,0.0,COLR
+184,Prior Period Items,12  Mar-19,0.0,COLR
+185,Extraordinary Inc (Exp),12  Mar-19,0.0,COLR
+186,Tax,12  Mar-19,116.0,COLR
+187,Profit after tax,12  Mar-19,186.0,COLR
+188,Gross profit margin,12  Mar-19,5.6,COLR
+189,Effective tax rate,12  Mar-19,38.4,COLR
+190,Net profit margin,12  Mar-19,1.8,COLR
+191,Current assets,12  Mar-19,4758.0,COLR
+192,Current liabilities,12  Mar-19,2498.0,COLR
+193,Net working cap to sales,12  Mar-19,22.0,COLR
+194,Current ratio,12  Mar-19,1.9,COLR
+195,Inventory Days,12  Mar-19,65.0,COLR
+196,Debtors Days,12  Mar-19,64.0,COLR
+197,Net fixed assets,12  Mar-19,3306.0,COLR
+198,Share capital,12  Mar-19,231.0,COLR
+199,"""Free"" reserves",12  Mar-19,5933.0,COLR
+200,Net worth,12  Mar-19,6164.0,COLR
+201,Long term debt,12  Mar-19,0.0,COLR
+202,Total assets,12  Mar-19,8945.0,COLR
+203,Interest coverage,12  Mar-19,49.6,COLR
+204,Debt to equity ratio,12  Mar-19,0.0,COLR
+205,Sales to assets ratio,12  Mar-19,1.1,COLR
+206,Return on assets,12  Mar-19,2.1,COLR
+207,Return on equity,12  Mar-19,3.0,COLR
+208,Return on capital,12  Mar-19,5.0,COLR
+209,Exports to sales,12  Mar-19,0.0,COLR
+210,Imports to sales,12  Mar-19,0.0,COLR
+211,Exports (fob),12  Mar-19,0.0,COLR
+212,Imports (cif),12  Mar-19,0.0,COLR
+213,Fx inflow,12  Mar-19,2686.0,COLR
+214,Fx outflow,12  Mar-19,2569.0,COLR
+215,Net fx,12  Mar-19,117.0,COLR
+216,From Operations,12  Mar-19,298.0,COLR
+217,From Investments,12  Mar-19,65.0,COLR
+218,From Financial Activity,12  Mar-19,-283.0,COLR
+219,Net Cashflow,12  Mar-19,80.0,COLR

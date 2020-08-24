@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Dec-14*,117388.0,ACC
+1,Other income,12  Dec-14*,2566.0,ACC
+2,Total revenues,12  Dec-14*,119954.0,ACC
+3,Gross profit,12  Dec-14*,15133.0,ACC
+4,Depreciation,12  Dec-14*,5676.0,ACC
+5,Interest,12  Dec-14*,828.0,ACC
+6,Profit before tax,12  Dec-14*,11195.0,ACC
+7,Minority Interest,12  Dec-14*,-2.0,ACC
+8,Prior Period Items,12  Dec-14*,114.0,ACC
+9,Extraordinary Inc (Exp),12  Dec-14*,0.0,ACC
+10,Tax,12  Dec-14*,-311.0,ACC
+11,Profit after tax,12  Dec-14*,11618.0,ACC
+12,Gross profit margin,12  Dec-14*,12.9,ACC
+13,Effective tax rate,12  Dec-14*,-2.8,ACC
+14,Net profit margin,12  Dec-14*,9.9,ACC
+15,Current assets,12  Dec-14*,36782.0,ACC
+16,Current liabilities,12  Dec-14*,38041.0,ACC
+17,Net working cap to sales,12  Dec-14*,-1.1,ACC
+18,Current ratio,12  Dec-14*,1.0,ACC
+19,Inventory Days,12  Dec-14*,39.0,ACC
+20,Debtors Days,12  Dec-14*,13.0,ACC
+21,Net fixed assets,12  Dec-14*,76219.0,ACC
+22,Share capital,12  Dec-14*,1880.0,ACC
+23,"""Free"" reserves",12  Dec-14*,80147.0,ACC
+24,Net worth,12  Dec-14*,82177.0,ACC
+25,Long term debt,12  Dec-14*,0.0,ACC
+26,Total assets,12  Dec-14*,126816.0,ACC
+27,Interest coverage,12  Dec-14*,14.5,ACC
+28,Debt to equity ratio,12  Dec-14*,0.0,ACC
+29,Sales to assets ratio,12  Dec-14*,0.9,ACC
+30,Return on assets,12  Dec-14*,9.8,ACC
+31,Return on equity,12  Dec-14*,14.1,ACC
+32,Return on capital,12  Dec-14*,14.8,ACC
+33,Exports to sales,12  Dec-14*,0.0,ACC
+34,Imports to sales,12  Dec-14*,7.4,ACC
+35,Exports (fob),12  Dec-14*,0.0,ACC
+36,Imports (cif),12  Dec-14*,8675.0,ACC
+37,Fx inflow,12  Dec-14*,19.0,ACC
+38,Fx outflow,12  Dec-14*,10047.0,ACC
+39,Net fx,12  Dec-14*,-10029.0,ACC
+40,From Operations,12  Dec-14*,13522.0,ACC
+41,From Investments,12  Dec-14*,-14567.0,ACC
+42,From Financial Activity,12  Dec-14*,-8371.0,ACC
+43,Net Cashflow,12  Dec-14*,-9416.0,ACC
+44,Net Sales,12  Dec-15*,117972.0,ACC
+45,Other income,12  Dec-15*,1198.0,ACC
+46,Total revenues,12  Dec-15*,119169.0,ACC
+47,Gross profit,12  Dec-15*,15374.0,ACC
+48,Depreciation,12  Dec-15*,6626.0,ACC
+49,Interest,12  Dec-15*,646.0,ACC
+50,Profit before tax,12  Dec-15*,9300.0,ACC
+51,Minority Interest,12  Dec-15*,3.0,ACC
+52,Prior Period Items,12  Dec-15*,118.0,ACC
+53,Extraordinary Inc (Exp),12  Dec-15*,-1645.0,ACC
+54,Tax,12  Dec-15*,1900.0,ACC
+55,Profit after tax,12  Dec-15*,5876.0,ACC
+56,Gross profit margin,12  Dec-15*,13.0,ACC
+57,Effective tax rate,12  Dec-15*,20.4,ACC
+58,Net profit margin,12  Dec-15*,5.0,ACC
+59,Current assets,12  Dec-15*,33719.0,ACC
+60,Current liabilities,12  Dec-15*,36496.0,ACC
+61,Net working cap to sales,12  Dec-15*,-2.4,ACC
+62,Current ratio,12  Dec-15*,0.9,ACC
+63,Inventory Days,12  Dec-15*,37.0,ACC
+64,Debtors Days,12  Dec-15*,15.0,ACC
+65,Net fixed assets,12  Dec-15*,77269.0,ACC
+66,Share capital,12  Dec-15*,1880.0,ACC
+67,"""Free"" reserves",12  Dec-15*,83668.0,ACC
+68,Net worth,12  Dec-15*,85547.0,ACC
+69,Long term debt,12  Dec-15*,0.0,ACC
+70,Total assets,12  Dec-15*,128106.0,ACC
+71,Interest coverage,12  Dec-15*,15.4,ACC
+72,Debt to equity ratio,12  Dec-15*,0.0,ACC
+73,Sales to assets ratio,12  Dec-15*,0.9,ACC
+74,Return on assets,12  Dec-15*,5.1,ACC
+75,Return on equity,12  Dec-15*,6.9,ACC
+76,Return on capital,12  Dec-15*,9.8,ACC
+77,Exports to sales,12  Dec-15*,0.0,ACC
+78,Imports to sales,12  Dec-15*,4.6,ACC
+79,Exports (fob),12  Dec-15*,0.0,ACC
+80,Imports (cif),12  Dec-15*,5389.0,ACC
+81,Fx inflow,12  Dec-15*,26.0,ACC
+82,Fx outflow,12  Dec-15*,6653.0,ACC
+83,Net fx,12  Dec-15*,-6627.0,ACC
+84,From Operations,12  Dec-15*,14566.0,ACC
+85,From Investments,12  Dec-15*,-9041.0,ACC
+86,From Financial Activity,12  Dec-15*,-7163.0,ACC
+87,Net Cashflow,12  Dec-15*,-1637.0,ACC
+88,Net Sales,12  Dec-16*,109897.0,ACC
+89,Other income,12  Dec-16*,1228.0,ACC
+90,Total revenues,12  Dec-16*,111125.0,ACC
+91,Gross profit,12  Dec-16*,14785.0,ACC
+92,Depreciation,12  Dec-16*,6092.0,ACC
+93,Interest,12  Dec-16*,787.0,ACC
+94,Profit before tax,12  Dec-16*,9135.0,ACC
+95,Minority Interest,12  Dec-16*,0.0,ACC
+96,Prior Period Items,12  Dec-16*,105.0,ACC
+97,Extraordinary Inc (Exp),12  Dec-16*,-386.0,ACC
+98,Tax,12  Dec-16*,2269.0,ACC
+99,Profit after tax,12  Dec-16*,6584.0,ACC
+100,Gross profit margin,12  Dec-16*,13.5,ACC
+101,Effective tax rate,12  Dec-16*,24.8,ACC
+102,Net profit margin,12  Dec-16*,6.0,ACC
+103,Current assets,12  Dec-16*,41047.0,ACC
+104,Current liabilities,12  Dec-16*,39801.0,ACC
+105,Net working cap to sales,12  Dec-16*,1.1,ACC
+106,Current ratio,12  Dec-16*,1.0,ACC
+107,Inventory Days,12  Dec-16*,41.0,ACC
+108,Debtors Days,12  Dec-16*,18.0,ACC
+109,Net fixed assets,12  Dec-16*,78288.0,ACC
+110,Share capital,12  Dec-16*,1880.0,ACC
+111,"""Free"" reserves",12  Dec-16*,86254.0,ACC
+112,Net worth,12  Dec-16*,88134.0,ACC
+113,Long term debt,12  Dec-16*,0.0,ACC
+114,Total assets,12  Dec-16*,133939.0,ACC
+115,Interest coverage,12  Dec-16*,12.6,ACC
+116,Debt to equity ratio,12  Dec-16*,0.0,ACC
+117,Sales to assets ratio,12  Dec-16*,0.8,ACC
+118,Return on assets,12  Dec-16*,5.5,ACC
+119,Return on equity,12  Dec-16*,7.5,ACC
+120,Return on capital,12  Dec-16*,10.9,ACC
+121,Exports to sales,12  Dec-16*,0.0,ACC
+122,Imports to sales,12  Dec-16*,3.7,ACC
+123,Exports (fob),12  Dec-16*,0.0,ACC
+124,Imports (cif),12  Dec-16*,4025.0,ACC
+125,Fx inflow,12  Dec-16*,7.0,ACC
+126,Fx outflow,12  Dec-16*,5256.0,ACC
+127,Net fx,12  Dec-16*,-5249.0,ACC
+128,From Operations,12  Dec-16*,13895.0,ACC
+129,From Investments,12  Dec-16*,-5345.0,ACC
+130,From Financial Activity,12  Dec-16*,-4299.0,ACC
+131,Net Cashflow,12  Dec-16*,4263.0,ACC
+132,Net Sales,12  Dec-17*,132851.0,ACC
+133,Other income,12  Dec-17*,1289.0,ACC
+134,Total revenues,12  Dec-17*,134140.0,ACC
+135,Gross profit,12  Dec-17*,19124.0,ACC
+136,Depreciation,12  Dec-17*,6436.0,ACC
+137,Interest,12  Dec-17*,985.0,ACC
+138,Profit before tax,12  Dec-17*,12991.0,ACC
+139,Minority Interest,12  Dec-17*,0.0,ACC
+140,Prior Period Items,12  Dec-17*,109.0,ACC
+141,Extraordinary Inc (Exp),12  Dec-17*,0.0,ACC
+142,Tax,12  Dec-17*,3856.0,ACC
+143,Profit after tax,12  Dec-17*,9245.0,ACC
+144,Gross profit margin,12  Dec-17*,14.4,ACC
+145,Effective tax rate,12  Dec-17*,29.7,ACC
+146,Net profit margin,12  Dec-17*,7.0,ACC
+147,Current assets,12  Dec-17*,56549.0,ACC
+148,Current liabilities,12  Dec-17*,47927.0,ACC
+149,Net working cap to sales,12  Dec-17*,6.5,ACC
+150,Current ratio,12  Dec-17*,1.2,ACC
+151,Inventory Days,12  Dec-17*,39.0,ACC
+152,Debtors Days,12  Dec-17*,18.0,ACC
+153,Net fixed assets,12  Dec-17*,75493.0,ACC
+154,Share capital,12  Dec-17*,1880.0,ACC
+155,"""Free"" reserves",12  Dec-17*,91679.0,ACC
+156,Net worth,12  Dec-17*,93559.0,ACC
+157,Long term debt,12  Dec-17*,0.0,ACC
+158,Total assets,12  Dec-17*,148457.0,ACC
+159,Interest coverage,12  Dec-17*,14.2,ACC
+160,Debt to equity ratio,12  Dec-17*,0.0,ACC
+161,Sales to assets ratio,12  Dec-17*,0.9,ACC
+162,Return on assets,12  Dec-17*,6.9,ACC
+163,Return on equity,12  Dec-17*,9.9,ACC
+164,Return on capital,12  Dec-17*,15.1,ACC
+165,Exports to sales,12  Dec-17*,0.0,ACC
+166,Imports to sales,12  Dec-17*,0.0,ACC
+167,Exports (fob),12  Dec-17*,0.0,ACC
+168,Imports (cif),12  Dec-17*,0.0,ACC
+169,Fx inflow,12  Dec-17*,0.0,ACC
+170,Fx outflow,12  Dec-17*,1330.0,ACC
+171,Net fx,12  Dec-17*,-1330.0,ACC
+172,From Operations,12  Dec-17*,15545.0,ACC
+173,From Investments,12  Dec-17*,-3796.0,ACC
+174,From Financial Activity,12  Dec-17*,-4258.0,ACC
+175,Net Cashflow,12  Dec-17*,7500.0,ACC
+176,Net Sales,12  Dec-18*,148016.0,ACC
+177,Other income,12  Dec-18*,1427.0,ACC
+178,Total revenues,12  Dec-18*,149443.0,ACC
+179,Gross profit,12  Dec-18*,20481.0,ACC
+180,Depreciation,12  Dec-18*,6032.0,ACC
+181,Interest,12  Dec-18*,878.0,ACC
+182,Profit before tax,12  Dec-18*,14998.0,ACC
+183,Minority Interest,12  Dec-18*,0.0,ACC
+184,Prior Period Items,12  Dec-18*,103.0,ACC
+185,Extraordinary Inc (Exp),12  Dec-18*,0.0,ACC
+186,Tax,12  Dec-18*,-105.0,ACC
+187,Profit after tax,12  Dec-18*,15206.0,ACC
+188,Gross profit margin,12  Dec-18*,13.8,ACC
+189,Effective tax rate,12  Dec-18*,-0.7,ACC
+190,Net profit margin,12  Dec-18*,10.3,ACC
+191,Current assets,12  Dec-18*,66844.0,ACC
+192,Current liabilities,12  Dec-18*,47062.0,ACC
+193,Net working cap to sales,12  Dec-18*,13.4,ACC
+194,Current ratio,12  Dec-18*,1.4,ACC
+195,Inventory Days,12  Dec-18*,41.0,ACC
+196,Debtors Days,12  Dec-18*,21.0,ACC
+197,Net fixed assets,12  Dec-18*,74860.0,ACC
+198,Share capital,12  Dec-18*,1880.0,ACC
+199,"""Free"" reserves",12  Dec-18*,103439.0,ACC
+200,Net worth,12  Dec-18*,105319.0,ACC
+201,Long term debt,12  Dec-18*,0.0,ACC
+202,Total assets,12  Dec-18*,160560.0,ACC
+203,Interest coverage,12  Dec-18*,18.1,ACC
+204,Debt to equity ratio,12  Dec-18*,0.0,ACC
+205,Sales to assets ratio,12  Dec-18*,0.9,ACC
+206,Return on assets,12  Dec-18*,10.0,ACC
+207,Return on equity,12  Dec-18*,14.4,ACC
+208,Return on capital,12  Dec-18*,15.2,ACC
+209,Exports to sales,12  Dec-18*,0.0,ACC
+210,Imports to sales,12  Dec-18*,0.0,ACC
+211,Exports (fob),12  Dec-18*,0.0,ACC
+212,Imports (cif),12  Dec-18*,0.0,ACC
+213,Fx inflow,12  Dec-18*,0.0,ACC
+214,Fx outflow,12  Dec-18*,1475.0,ACC
+215,Net fx,12  Dec-18*,-1475.0,ACC
+216,From Operations,12  Dec-18*,11175.0,ACC
+217,From Investments,12  Dec-18*,-3644.0,ACC
+218,From Financial Activity,12  Dec-18*,-3805.0,ACC
+219,Net Cashflow,12  Dec-18*,3736.0,ACC

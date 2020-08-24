@@ -1,0 +1,221 @@
+,No. of Mths  Year Ending,variable,value,name
+0,Net Sales,12  Mar-14,708.0,PTAR
+1,Other income,12  Mar-14,5.0,PTAR
+2,Total revenues,12  Mar-14,713.0,PTAR
+3,Gross profit,12  Mar-14,97.0,PTAR
+4,Depreciation,12  Mar-14,17.0,PTAR
+5,Interest,12  Mar-14,12.0,PTAR
+6,Profit before tax,12  Mar-14,73.0,PTAR
+7,Minority Interest,12  Mar-14,0.0,PTAR
+8,Prior Period Items,12  Mar-14,0.0,PTAR
+9,Extraordinary Inc (Exp),12  Mar-14,0.0,PTAR
+10,Tax,12  Mar-14,26.0,PTAR
+11,Profit after tax,12  Mar-14,47.0,PTAR
+12,Gross profit margin,12  Mar-14,13.7,PTAR
+13,Effective tax rate,12  Mar-14,35.3,PTAR
+14,Net profit margin,12  Mar-14,6.6,PTAR
+15,Current assets,12  Mar-14,559.0,PTAR
+16,Current liabilities,12  Mar-14,323.0,PTAR
+17,Net working cap to sales,12  Mar-14,33.3,PTAR
+18,Current ratio,12  Mar-14,1.7,PTAR
+19,Inventory Days,12  Mar-14,121.0,PTAR
+20,Debtors Days,12  Mar-14,67.0,PTAR
+21,Net fixed assets,12  Mar-14,224.0,PTAR
+22,Share capital,12  Mar-14,51.0,PTAR
+23,"""Free"" reserves",12  Mar-14,440.0,PTAR
+24,Net worth,12  Mar-14,492.0,PTAR
+25,Long term debt,12  Mar-14,0.0,PTAR
+26,Total assets,12  Mar-14,846.0,PTAR
+27,Interest coverage,12  Mar-14,7.1,PTAR
+28,Debt to equity ratio,12  Mar-14,0.0,PTAR
+29,Sales to assets ratio,12  Mar-14,0.8,PTAR
+30,Return on assets,12  Mar-14,6.9,PTAR
+31,Return on equity,12  Mar-14,9.5,PTAR
+32,Return on capital,12  Mar-14,17.1,PTAR
+33,Exports to sales,12  Mar-14,35.4,PTAR
+34,Imports to sales,12  Mar-14,8.9,PTAR
+35,Exports (fob),12  Mar-14,250.0,PTAR
+36,Imports (cif),12  Mar-14,63.0,PTAR
+37,Fx inflow,12  Mar-14,250.0,PTAR
+38,Fx outflow,12  Mar-14,69.0,PTAR
+39,Net fx,12  Mar-14,182.0,PTAR
+40,From Operations,12  Mar-14,101.0,PTAR
+41,From Investments,12  Mar-14,-41.0,PTAR
+42,From Financial Activity,12  Mar-14,-17.0,PTAR
+43,Net Cashflow,12  Mar-14,43.0,PTAR
+44,Net Sales,12  Mar-15,1127.0,PTAR
+45,Other income,12  Mar-15,4.0,PTAR
+46,Total revenues,12  Mar-15,1132.0,PTAR
+47,Gross profit,12  Mar-15,144.0,PTAR
+48,Depreciation,12  Mar-15,25.0,PTAR
+49,Interest,12  Mar-15,27.0,PTAR
+50,Profit before tax,12  Mar-15,96.0,PTAR
+51,Minority Interest,12  Mar-15,0.0,PTAR
+52,Prior Period Items,12  Mar-15,0.0,PTAR
+53,Extraordinary Inc (Exp),12  Mar-15,0.0,PTAR
+54,Tax,12  Mar-15,34.0,PTAR
+55,Profit after tax,12  Mar-15,62.0,PTAR
+56,Gross profit margin,12  Mar-15,12.7,PTAR
+57,Effective tax rate,12  Mar-15,35.6,PTAR
+58,Net profit margin,12  Mar-15,5.5,PTAR
+59,Current assets,12  Mar-15,771.0,PTAR
+60,Current liabilities,12  Mar-15,442.0,PTAR
+61,Net working cap to sales,12  Mar-15,29.2,PTAR
+62,Current ratio,12  Mar-15,1.7,PTAR
+63,Inventory Days,12  Mar-15,86.0,PTAR
+64,Debtors Days,12  Mar-15,74.0,PTAR
+65,Net fixed assets,12  Mar-15,230.0,PTAR
+66,Share capital,12  Mar-15,51.0,PTAR
+67,"""Free"" reserves",12  Mar-15,482.0,PTAR
+68,Net worth,12  Mar-15,534.0,PTAR
+69,Long term debt,12  Mar-15,32.0,PTAR
+70,Total assets,12  Mar-15,1037.0,PTAR
+71,Interest coverage,12  Mar-15,4.6,PTAR
+72,Debt to equity ratio,12  Mar-15,0.1,PTAR
+73,Sales to assets ratio,12  Mar-15,1.1,PTAR
+74,Return on assets,12  Mar-15,8.6,PTAR
+75,Return on equity,12  Mar-15,11.6,PTAR
+76,Return on capital,12  Mar-15,21.7,PTAR
+77,Exports to sales,12  Mar-15,19.5,PTAR
+78,Imports to sales,12  Mar-15,5.3,PTAR
+79,Exports (fob),12  Mar-15,220.0,PTAR
+80,Imports (cif),12  Mar-15,60.0,PTAR
+81,Fx inflow,12  Mar-15,220.0,PTAR
+82,Fx outflow,12  Mar-15,67.0,PTAR
+83,Net fx,12  Mar-15,153.0,PTAR
+84,From Operations,12  Mar-15,-1.0,PTAR
+85,From Investments,12  Mar-15,-9.0,PTAR
+86,From Financial Activity,12  Mar-15,65.0,PTAR
+87,Net Cashflow,12  Mar-15,55.0,PTAR
+88,Net Sales,12  Mar-16,1267.0,PTAR
+89,Other income,12  Mar-16,5.0,PTAR
+90,Total revenues,12  Mar-16,1271.0,PTAR
+91,Gross profit,12  Mar-16,149.0,PTAR
+92,Depreciation,12  Mar-16,24.0,PTAR
+93,Interest,12  Mar-16,19.0,PTAR
+94,Profit before tax,12  Mar-16,111.0,PTAR
+95,Minority Interest,12  Mar-16,0.0,PTAR
+96,Prior Period Items,12  Mar-16,0.0,PTAR
+97,Extraordinary Inc (Exp),12  Mar-16,0.0,PTAR
+98,Tax,12  Mar-16,39.0,PTAR
+99,Profit after tax,12  Mar-16,72.0,PTAR
+100,Gross profit margin,12  Mar-16,11.8,PTAR
+101,Effective tax rate,12  Mar-16,35.5,PTAR
+102,Net profit margin,12  Mar-16,5.6,PTAR
+103,Current assets,12  Mar-16,732.0,PTAR
+104,Current liabilities,12  Mar-16,279.0,PTAR
+105,Net working cap to sales,12  Mar-16,35.7,PTAR
+106,Current ratio,12  Mar-16,2.6,PTAR
+107,Inventory Days,12  Mar-16,66.0,PTAR
+108,Debtors Days,12  Mar-16,118.0,PTAR
+109,Net fixed assets,12  Mar-16,233.0,PTAR
+110,Share capital,12  Mar-16,51.0,PTAR
+111,"""Free"" reserves",12  Mar-16,554.0,PTAR
+112,Net worth,12  Mar-16,605.0,PTAR
+113,Long term debt,12  Mar-16,57.0,PTAR
+114,Total assets,12  Mar-16,968.0,PTAR
+115,Interest coverage,12  Mar-16,6.9,PTAR
+116,Debt to equity ratio,12  Mar-16,0.1,PTAR
+117,Sales to assets ratio,12  Mar-16,1.3,PTAR
+118,Return on assets,12  Mar-16,9.3,PTAR
+119,Return on equity,12  Mar-16,11.8,PTAR
+120,Return on capital,12  Mar-16,19.6,PTAR
+121,Exports to sales,12  Mar-16,17.9,PTAR
+122,Imports to sales,12  Mar-16,4.8,PTAR
+123,Exports (fob),12  Mar-16,226.0,PTAR
+124,Imports (cif),12  Mar-16,61.0,PTAR
+125,Fx inflow,12  Mar-16,226.0,PTAR
+126,Fx outflow,12  Mar-16,70.0,PTAR
+127,Net fx,12  Mar-16,157.0,PTAR
+128,From Operations,12  Mar-16,80.0,PTAR
+129,From Investments,12  Mar-16,-61.0,PTAR
+130,From Financial Activity,12  Mar-16,-181.0,PTAR
+131,Net Cashflow,12  Mar-16,-162.0,PTAR
+132,Net Sales,12  Mar-17,1362.0,PTAR
+133,Other income,12  Mar-17,5.0,PTAR
+134,Total revenues,12  Mar-17,1367.0,PTAR
+135,Gross profit,12  Mar-17,173.0,PTAR
+136,Depreciation,12  Mar-17,26.0,PTAR
+137,Interest,12  Mar-17,30.0,PTAR
+138,Profit before tax,12  Mar-17,122.0,PTAR
+139,Minority Interest,12  Mar-17,0.0,PTAR
+140,Prior Period Items,12  Mar-17,0.0,PTAR
+141,Extraordinary Inc (Exp),12  Mar-17,0.0,PTAR
+142,Tax,12  Mar-17,43.0,PTAR
+143,Profit after tax,12  Mar-17,79.0,PTAR
+144,Gross profit margin,12  Mar-17,12.7,PTAR
+145,Effective tax rate,12  Mar-17,35.4,PTAR
+146,Net profit margin,12  Mar-17,5.8,PTAR
+147,Current assets,12  Mar-17,1046.0,PTAR
+148,Current liabilities,12  Mar-17,517.0,PTAR
+149,Net working cap to sales,12  Mar-17,38.8,PTAR
+150,Current ratio,12  Mar-17,2.0,PTAR
+151,Inventory Days,12  Mar-17,79.0,PTAR
+152,Debtors Days,12  Mar-17,152.0,PTAR
+153,Net fixed assets,12  Mar-17,233.0,PTAR
+154,Share capital,12  Mar-17,51.0,PTAR
+155,"""Free"" reserves",12  Mar-17,620.0,PTAR
+156,Net worth,12  Mar-17,671.0,PTAR
+157,Long term debt,12  Mar-17,64.0,PTAR
+158,Total assets,12  Mar-17,1282.0,PTAR
+159,Interest coverage,12  Mar-17,5.0,PTAR
+160,Debt to equity ratio,12  Mar-17,0.1,PTAR
+161,Sales to assets ratio,12  Mar-17,1.1,PTAR
+162,Return on assets,12  Mar-17,8.5,PTAR
+163,Return on equity,12  Mar-17,11.8,PTAR
+164,Return on capital,12  Mar-17,20.8,PTAR
+165,Exports to sales,12  Mar-17,15.3,PTAR
+166,Imports to sales,12  Mar-17,5.1,PTAR
+167,Exports (fob),12  Mar-17,208.0,PTAR
+168,Imports (cif),12  Mar-17,70.0,PTAR
+169,Fx inflow,12  Mar-17,208.0,PTAR
+170,Fx outflow,12  Mar-17,75.0,PTAR
+171,Net fx,12  Mar-17,133.0,PTAR
+172,From Operations,12  Mar-17,-32.0,PTAR
+173,From Investments,12  Mar-17,-15.0,PTAR
+174,From Financial Activity,12  Mar-17,106.0,PTAR
+175,Net Cashflow,12  Mar-17,59.0,PTAR
+176,Net Sales,12  Mar-18,1583.0,PTAR
+177,Other income,12  Mar-18,4.0,PTAR
+178,Total revenues,12  Mar-18,1587.0,PTAR
+179,Gross profit,12  Mar-18,197.0,PTAR
+180,Depreciation,12  Mar-18,26.0,PTAR
+181,Interest,12  Mar-18,49.0,PTAR
+182,Profit before tax,12  Mar-18,127.0,PTAR
+183,Minority Interest,12  Mar-18,0.0,PTAR
+184,Prior Period Items,12  Mar-18,0.0,PTAR
+185,Extraordinary Inc (Exp),12  Mar-18,0.0,PTAR
+186,Tax,12  Mar-18,41.0,PTAR
+187,Profit after tax,12  Mar-18,86.0,PTAR
+188,Gross profit margin,12  Mar-18,12.5,PTAR
+189,Effective tax rate,12  Mar-18,32.2,PTAR
+190,Net profit margin,12  Mar-18,5.4,PTAR
+191,Current assets,12  Mar-18,1264.0,PTAR
+192,Current liabilities,12  Mar-18,637.0,PTAR
+193,Net working cap to sales,12  Mar-18,39.6,PTAR
+194,Current ratio,12  Mar-18,2.0,PTAR
+195,Inventory Days,12  Mar-18,117.0,PTAR
+196,Debtors Days,12  Mar-18,144.0,PTAR
+197,Net fixed assets,12  Mar-18,214.0,PTAR
+198,Share capital,12  Mar-18,51.0,PTAR
+199,"""Free"" reserves",12  Mar-18,690.0,PTAR
+200,Net worth,12  Mar-18,740.0,PTAR
+201,Long term debt,12  Mar-18,80.0,PTAR
+202,Total assets,12  Mar-18,1481.0,PTAR
+203,Interest coverage,12  Mar-18,3.6,PTAR
+204,Debt to equity ratio,12  Mar-18,0.1,PTAR
+205,Sales to assets ratio,12  Mar-18,1.1,PTAR
+206,Return on assets,12  Mar-18,9.1,PTAR
+207,Return on equity,12  Mar-18,11.6,PTAR
+208,Return on capital,12  Mar-18,21.4,PTAR
+209,Exports to sales,12  Mar-18,5.7,PTAR
+210,Imports to sales,12  Mar-18,9.5,PTAR
+211,Exports (fob),12  Mar-18,90.0,PTAR
+212,Imports (cif),12  Mar-18,151.0,PTAR
+213,Fx inflow,12  Mar-18,90.0,PTAR
+214,Fx outflow,12  Mar-18,159.0,PTAR
+215,Net fx,12  Mar-18,-69.0,PTAR
+216,From Operations,12  Mar-18,-55.0,PTAR
+217,From Investments,12  Mar-18,-7.0,PTAR
+218,From Financial Activity,12  Mar-18,22.0,PTAR
+219,Net Cashflow,12  Mar-18,-41.0,PTAR
