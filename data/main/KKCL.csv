@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,812.0,KKCL
-1,Mkt Cap,10012.0,KKCL
-2,Vol,0.5,KKCL
-3,P/E,20.0,KKCL
+0,Price,816.0,KKCL
+1,Mkt Cap,10061.0,KKCL
+2,Vol,0.0,KKCL
+3,P/E,20.1,KKCL
 4,P/CF,12.7,KKCL
 5,EPS (TTM),40.6,KKCL
-6,% ch,-3.4,KKCL
+6,% ch,0.5,KKCL
 7,No. of shares,12.33,KKCL
-8,% ch week,6.1,KKCL
-9,% ch 1-mth,12.9,KKCL
-10,% ch 12-mth,-18.3,KKCL
+8,% ch week,6.6,KKCL
+9,% ch 1-mth,13.4,KKCL
+10,% ch 12-mth,-17.9,KKCL
 11,52 week H/L,"1,088.0/572.2",KKCL
 12,52weekHigh,"1,088.0",KKCL
 13,52weekLow,572.2,KKCL

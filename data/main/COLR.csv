@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,404.5,COLR
-1,Mkt Cap,10784.0,COLR
-2,Vol,16.2,COLR
-3,P/E,38.1,COLR
-4,P/CF,19.3,COLR
+0,Price,407.0,COLR
+1,Mkt Cap,10849.0,COLR
+2,Vol,0.9,COLR
+3,P/E,38.3,COLR
+4,P/CF,19.4,COLR
 5,EPS (TTM),10.6,COLR
-6,% ch,1.9,COLR
+6,% ch,0.6,COLR
 7,No. of shares,26.66,COLR
-8,% ch week,4.2,COLR
-9,% ch 1-mth,6.1,COLR
-10,% ch 12-mth,37.1,COLR
+8,% ch week,4.8,COLR
+9,% ch 1-mth,6.7,COLR
+10,% ch 12-mth,37.9,COLR
 11,52 week H/L,608.0/192.0,COLR
 12,52weekHigh,608.0,COLR
 13,52weekLow,192.0,COLR

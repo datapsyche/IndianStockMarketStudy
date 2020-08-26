@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,46.6,GACO
-1,Mkt Cap,4072.0,GACO
-2,Vol,117.5,GACO
-3,P/E,-4.8,GACO
-4,P/CF,7.7,GACO
+0,Price,49.4,GACO
+1,Mkt Cap,4317.0,GACO
+2,Vol,70.8,GACO
+3,P/E,-5.1,GACO
+4,P/CF,8.2,GACO
 5,EPS (TTM),-9.6,GACO
-6,% ch,-3.1,GACO
+6,% ch,6.0,GACO
 7,No. of shares,87.48,GACO
-8,% ch week,3.1,GACO
-9,% ch 1-mth,2.0,GACO
-10,% ch 12-mth,20.8,GACO
+8,% ch week,9.3,GACO
+9,% ch 1-mth,8.1,GACO
+10,% ch 12-mth,28.0,GACO
 11,52 week H/L,75.0/32.4,GACO
 12,52weekHigh,75.0,GACO
 13,52weekLow,32.4,GACO
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1989,GACO
 31,BSE CODE, 532345,GACO
 32,FV (Rs), 2,GACO
-33,DIV YIELD (%), 2.1,GACO
+33,DIV YIELD (%), 2.0,GACO

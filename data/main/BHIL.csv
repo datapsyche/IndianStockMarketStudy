@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,199.6,BHIL
-1,Mkt Cap,369182.0,BHIL
-2,Vol,408.5,BHIL
-3,P/E,21.8,BHIL
-4,P/CF,14.3,BHIL
+0,Price,198.0,BHIL
+1,Mkt Cap,366130.0,BHIL
+2,Vol,16.2,BHIL
+3,P/E,21.6,BHIL
+4,P/CF,14.2,BHIL
 5,EPS (TTM),9.2,BHIL
-6,% ch,0.1,BHIL
+6,% ch,-0.8,BHIL
 7,No. of shares,1849.61,BHIL
-8,% ch week,-0.1,BHIL
-9,% ch 1-mth,2.0,BHIL
-10,% ch 12-mth,-18.6,BHIL
+8,% ch week,-0.9,BHIL
+9,% ch 1-mth,1.1,BHIL
+10,% ch 12-mth,-19.3,BHIL
 11,52 week H/L,295.8/121.3,BHIL
 12,52weekHigh,295.8,BHIL
 13,52weekLow,121.3,BHIL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 2006,BHIL
 31,BSE CODE, 534816,BHIL
 32,FV (Rs), 10,BHIL
-33,DIV YIELD (%), 7.5,BHIL
+33,DIV YIELD (%), 7.6,BHIL

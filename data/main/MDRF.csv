@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,82.5,MDRF
-1,Mkt Cap,12285.0,MDRF
-2,Vol,75.9,MDRF
+0,Price,82.9,MDRF
+1,Mkt Cap,12337.0,MDRF
+2,Vol,2.1,MDRF
 3,P/E,-0.6,MDRF
 4,P/CF,1.0,MDRF
 5,EPS (TTM),-139.5,MDRF
-6,% ch,0.2,MDRF
+6,% ch,0.4,MDRF
 7,No. of shares,148.91,MDRF
-8,% ch week,3.5,MDRF
-9,% ch 1-mth,-6.0,MDRF
-10,% ch 12-mth,-56.8,MDRF
+8,% ch week,4.0,MDRF
+9,% ch 1-mth,-5.6,MDRF
+10,% ch 12-mth,-56.6,MDRF
 11,52 week H/L,199.0/47.7,MDRF
 12,52weekHigh,199.0,MDRF
 13,52weekLow,47.7,MDRF
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1965,MDRF
 31,BSE CODE, 500110,MDRF
 32,FV (Rs), 10,MDRF
-33,DIV YIELD (%), 22.4,MDRF
+33,DIV YIELD (%), 22.3,MDRF

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,252.0,MASM
-1,Mkt Cap,17770.0,MASM
-2,Vol,42.6,MASM
-3,P/E,7.4,MASM
-4,P/CF,6.4,MASM
+0,Price,255.5,MASM
+1,Mkt Cap,18017.0,MASM
+2,Vol,0.5,MASM
+3,P/E,7.5,MASM
+4,P/CF,6.5,MASM
 5,EPS (TTM),34.2,MASM
-6,% ch,0.5,MASM
+6,% ch,1.4,MASM
 7,No. of shares,70.53,MASM
-8,% ch week,18.9,MASM
-9,% ch 1-mth,13.3,MASM
-10,% ch 12-mth,-32.1,MASM
+8,% ch week,20.5,MASM
+9,% ch 1-mth,14.8,MASM
+10,% ch 12-mth,-31.2,MASM
 11,52 week H/L,447.4/185.0,MASM
 12,52weekHigh,447.4,MASM
 13,52weekLow,185.0,MASM
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1988,MASM
 31,BSE CODE, 500265,MASM
 32,FV (Rs), 5,MASM
-33,DIV YIELD (%), 2.3,MASM
+33,DIV YIELD (%), 2.2,MASM

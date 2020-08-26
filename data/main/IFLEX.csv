@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,3071.6,IFLEX
-1,Mkt Cap,259915.0,IFLEX
-2,Vol,2.3,IFLEX
+0,Price,3075.2,IFLEX
+1,Mkt Cap,260219.0,IFLEX
+2,Vol,0.1,IFLEX
 3,P/E,17.8,IFLEX
 4,P/CF,20.7,IFLEX
 5,EPS (TTM),172.8,IFLEX
-6,% ch,0.9,IFLEX
+6,% ch,0.1,IFLEX
 7,No. of shares,84.62,IFLEX
-8,% ch week,0.5,IFLEX
-9,% ch 1-mth,2.1,IFLEX
-10,% ch 12-mth,2.0,IFLEX
+8,% ch week,0.6,IFLEX
+9,% ch 1-mth,2.2,IFLEX
+10,% ch 12-mth,2.1,IFLEX
 11,52 week H/L,"3,238.5/1,532.5",IFLEX
 12,52weekHigh,"3,238.5",IFLEX
 13,52weekLow,"1,532.5",IFLEX

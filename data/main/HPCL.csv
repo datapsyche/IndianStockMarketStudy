@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,211.6,HPCL
-1,Mkt Cap,322245.0,HPCL
-2,Vol,451.2,HPCL
-3,P/E,6.9,HPCL
-4,P/CF,3.6,HPCL
+0,Price,212.1,HPCL
+1,Mkt Cap,323082.0,HPCL
+2,Vol,7.8,HPCL
+3,P/E,7.0,HPCL
+4,P/CF,3.7,HPCL
 5,EPS (TTM),30.5,HPCL
-6,% ch,-0.4,HPCL
+6,% ch,0.3,HPCL
 7,No. of shares,1523.26,HPCL
-8,% ch week,0.3,HPCL
-9,% ch 1-mth,-7.3,HPCL
-10,% ch 12-mth,-16.1,HPCL
+8,% ch week,0.5,HPCL
+9,% ch 1-mth,-7.1,HPCL
+10,% ch 12-mth,-15.9,HPCL
 11,52 week H/L,329.3/155.0,HPCL
 12,52weekHigh,329.3,HPCL
 13,52weekLow,155.0,HPCL

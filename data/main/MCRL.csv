@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,22.7,MCRL
-1,Mkt Cap,2479.0,MCRL
-2,Vol,1460.8,MCRL
+0,Price,23.8,MCRL
+1,Mkt Cap,2603.0,MCRL
+2,Vol,211.2,MCRL
 3,P/E,-1.1,MCRL
 4,P/CF,0.8,MCRL
 5,EPS (TTM),-21.1,MCRL
 6,% ch,5.0,MCRL
 7,No. of shares,109.46,MCRL
-8,% ch week,27.4,MCRL
-9,% ch 1-mth,105.2,MCRL
-10,% ch 12-mth,106.5,MCRL
+8,% ch week,33.7,MCRL
+9,% ch 1-mth,115.4,MCRL
+10,% ch 12-mth,116.8,MCRL
 11,52 week H/L,22.7/1.8,MCRL
 12,52weekHigh,22.7,MCRL
 13,52weekLow,1.8,MCRL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1998,MCRL
 31,BSE CODE, 532654,MCRL
 32,FV (Rs), 10,MCRL
-33,DIV YIELD (%), 2.2,MCRL
+33,DIV YIELD (%), 2.1,MCRL

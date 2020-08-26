@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,156.5,CHMBF
-1,Mkt Cap,65137.0,CHMBF
-2,Vol,163.2,CHMBF
-3,P/E,5.3,CHMBF
-4,P/CF,8.9,CHMBF
+0,Price,158.5,CHMBF
+1,Mkt Cap,65948.0,CHMBF
+2,Vol,10.3,CHMBF
+3,P/E,5.4,CHMBF
+4,P/CF,9.0,CHMBF
 5,EPS (TTM),29.4,CHMBF
-6,% ch,2.8,CHMBF
+6,% ch,1.2,CHMBF
 7,No. of shares,416.21,CHMBF
-8,% ch week,2.5,CHMBF
-9,% ch 1-mth,-0.4,CHMBF
-10,% ch 12-mth,4.8,CHMBF
+8,% ch week,3.7,CHMBF
+9,% ch 1-mth,0.9,CHMBF
+10,% ch 12-mth,6.1,CHMBF
 11,52 week H/L,186.0/95.3,CHMBF
 12,52weekHigh,186.0,CHMBF
 13,52weekLow,95.3,CHMBF

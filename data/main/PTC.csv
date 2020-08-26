@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,61.4,PTC
-1,Mkt Cap,18160.0,PTC
-2,Vol,289.7,PTC
+0,Price,62.1,PTC
+1,Mkt Cap,18367.0,PTC
+2,Vol,8.3,PTC
 3,P/E,6.0,PTC
-4,P/CF,3.6,PTC
+4,P/CF,3.7,PTC
 5,EPS (TTM),10.3,PTC
-6,% ch,2.1,PTC
+6,% ch,1.1,PTC
 7,No. of shares,296.00,PTC
-8,% ch week,9.9,PTC
-9,% ch 1-mth,23.9,PTC
-10,% ch 12-mth,7.7,PTC
+8,% ch week,11.2,PTC
+9,% ch 1-mth,25.4,PTC
+10,% ch 12-mth,9.0,PTC
 11,52 week H/L,68.5/32.4,PTC
 12,52weekHigh,68.5,PTC
 13,52weekLow,32.4,PTC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1999,PTC
 31,BSE CODE, 532524,PTC
 32,FV (Rs), 10,PTC
-33,DIV YIELD (%), 6.5,PTC
+33,DIV YIELD (%), 6.4,PTC

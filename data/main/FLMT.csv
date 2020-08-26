@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,123.1,FLMT
+0,Price,123.0,FLMT
 1,Mkt Cap,605.0,FLMT
-2,Vol,6.7,FLMT
+2,Vol,0.0,FLMT
 3,P/E,19.0,FLMT
 4,P/CF,19.7,FLMT
 5,EPS (TTM),6.5,FLMT
-6,% ch,-2.7,FLMT
+6,% ch,-0.0,FLMT
 7,No. of shares,4.92,FLMT
-8,% ch week,38.3,FLMT
+8,% ch week,38.2,FLMT
 9,% ch 1-mth,36.1,FLMT
-10,% ch 12-mth,41.3,FLMT
+10,% ch 12-mth,41.2,FLMT
 11,52 week H/L,129.9/51.0,FLMT
 12,52weekHigh,129.9,FLMT
 13,52weekLow,51.0,FLMT

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,36.0,NRCN
-1,Mkt Cap,19986.0,NRCN
-2,Vol,1662.8,NRCN
+0,Price,36.2,NRCN
+1,Mkt Cap,20125.0,NRCN
+2,Vol,60.5,NRCN
 3,P/E,6.2,NRCN
 4,P/CF,2.6,NRCN
 5,EPS (TTM),5.8,NRCN
-6,% ch,-1.2,NRCN
+6,% ch,0.7,NRCN
 7,No. of shares,555.93,NRCN
-8,% ch week,8.9,NRCN
-9,% ch 1-mth,14.5,NRCN
-10,% ch 12-mth,-35.5,NRCN
+8,% ch week,9.7,NRCN
+9,% ch 1-mth,15.3,NRCN
+10,% ch 12-mth,-35.1,NRCN
 11,52 week H/L,70.9/15.9,NRCN
 12,52weekHigh,70.9,NRCN
 13,52weekLow,15.9,NRCN

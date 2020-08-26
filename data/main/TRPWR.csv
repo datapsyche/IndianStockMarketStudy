@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,355.5,TRPWR
-1,Mkt Cap,170836.0,TRPWR
-2,Vol,29.0,TRPWR
+0,Price,356.7,TRPWR
+1,Mkt Cap,171413.0,TRPWR
+2,Vol,0.1,TRPWR
 3,P/E,13.4,TRPWR
 4,P/CF,8.2,TRPWR
 5,EPS (TTM),26.6,TRPWR
-6,% ch,0.1,TRPWR
+6,% ch,0.3,TRPWR
 7,No. of shares,480.62,TRPWR
-8,% ch week,1.1,TRPWR
-9,% ch 1-mth,11.7,TRPWR
-10,% ch 12-mth,23.1,TRPWR
+8,% ch week,1.5,TRPWR
+9,% ch 1-mth,12.1,TRPWR
+10,% ch 12-mth,23.5,TRPWR
 11,52 week H/L,368.8/239.7,TRPWR
 12,52weekHigh,368.8,TRPWR
 13,52weekLow,239.7,TRPWR

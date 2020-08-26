@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,120.4,PRCE
-1,Mkt Cap,42080.0,PRCE
-2,Vol,153.7,PRCE
+0,Price,120.2,PRCE
+1,Mkt Cap,42010.0,PRCE
+2,Vol,1.0,PRCE
 3,P/E,8.7,PRCE
 4,P/CF,3.5,PRCE
 5,EPS (TTM),13.8,PRCE
-6,% ch,-2.4,PRCE
+6,% ch,-0.2,PRCE
 7,No. of shares,349.50,PRCE
-8,% ch week,7.9,PRCE
-9,% ch 1-mth,23.8,PRCE
-10,% ch 12-mth,48.0,PRCE
+8,% ch week,7.7,PRCE
+9,% ch 1-mth,23.6,PRCE
+10,% ch 12-mth,47.8,PRCE
 11,52 week H/L,128.9/44.9,PRCE
 12,52weekHigh,128.9,PRCE
 13,52weekLow,44.9,PRCE

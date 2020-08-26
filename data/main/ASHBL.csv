@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,73.1,ASHBL
-1,Mkt Cap,13671.0,ASHBL
-2,Vol,187.5,ASHBL
+0,Price,72.6,ASHBL
+1,Mkt Cap,13578.0,ASHBL
+2,Vol,50.5,ASHBL
 3,P/E,3.5,ASHBL
 4,P/CF,6.2,ASHBL
 5,EPS (TTM),20.7,ASHBL
-6,% ch,6.9,ASHBL
+6,% ch,-0.7,ASHBL
 7,No. of shares,187.15,ASHBL
-8,% ch week,-2.0,ASHBL
-9,% ch 1-mth,27.7,ASHBL
-10,% ch 12-mth,-28.6,ASHBL
+8,% ch week,-2.7,ASHBL
+9,% ch 1-mth,26.8,ASHBL
+10,% ch 12-mth,-29.1,ASHBL
 11,52 week H/L,127.9/37.0,ASHBL
 12,52weekHigh,127.9,ASHBL
 13,52weekLow,37.0,ASHBL

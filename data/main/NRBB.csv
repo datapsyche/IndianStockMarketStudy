@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,88.2,NRBB
-1,Mkt Cap,8548.0,NRBB
-2,Vol,91.7,NRBB
-3,P/E,108.6,NRBB
+0,Price,88.6,NRBB
+1,Mkt Cap,8587.0,NRBB
+2,Vol,2.1,NRBB
+3,P/E,109.1,NRBB
 4,P/CF,5.9,NRBB
 5,EPS (TTM),0.8,NRBB
-6,% ch,3.3,NRBB
+6,% ch,0.5,NRBB
 7,No. of shares,96.92,NRBB
-8,% ch week,12.6,NRBB
-9,% ch 1-mth,12.7,NRBB
-10,% ch 12-mth,-5.2,NRBB
+8,% ch week,13.2,NRBB
+9,% ch 1-mth,13.2,NRBB
+10,% ch 12-mth,-4.7,NRBB
 11,52 week H/L,118.1/48.5,NRBB
 12,52weekHigh,118.1,NRBB
 13,52weekLow,48.5,NRBB

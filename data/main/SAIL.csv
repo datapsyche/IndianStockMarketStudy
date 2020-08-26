@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,41.9,SAIL
-1,Mkt Cap,172863.0,SAIL
-2,Vol,1743.3,SAIL
+0,Price,42.1,SAIL
+1,Mkt Cap,173689.0,SAIL
+2,Vol,37.3,SAIL
 3,P/E,8.6,SAIL
-4,P/CF,3.1,SAIL
+4,P/CF,3.2,SAIL
 5,EPS (TTM),4.9,SAIL
-6,% ch,-1.4,SAIL
+6,% ch,0.5,SAIL
 7,No. of shares,4130.53,SAIL
-8,% ch week,7.3,SAIL
-9,% ch 1-mth,21.8,SAIL
-10,% ch 12-mth,31.2,SAIL
+8,% ch week,7.8,SAIL
+9,% ch 1-mth,22.4,SAIL
+10,% ch 12-mth,31.8,SAIL
 11,52 week H/L,51.9/20.2,SAIL
 12,52weekHigh,51.9,SAIL
 13,52weekLow,20.2,SAIL

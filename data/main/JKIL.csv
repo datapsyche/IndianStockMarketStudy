@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,117.1,JKIL
-1,Mkt Cap,3773.0,JKIL
-2,Vol,67.0,JKIL
+0,Price,119.7,JKIL
+1,Mkt Cap,3858.0,JKIL
+2,Vol,1.4,JKIL
 3,P/E,1.8,JKIL
 4,P/CF,1.4,JKIL
 5,EPS (TTM),65.1,JKIL
-6,% ch,2.4,JKIL
+6,% ch,2.3,JKIL
 7,No. of shares,32.23,JKIL
-8,% ch week,16.5,JKIL
-9,% ch 1-mth,30.9,JKIL
-10,% ch 12-mth,-1.8,JKIL
+8,% ch week,19.2,JKIL
+9,% ch 1-mth,33.8,JKIL
+10,% ch 12-mth,0.4,JKIL
 11,52 week H/L,179.8/65.2,JKIL
 12,52weekHigh,179.8,JKIL
 13,52weekLow,65.2,JKIL
@@ -32,4 +32,4 @@
 30,YEAR OF INC,,JKIL
 31,BSE CODE, 532940,JKIL
 32,FV (Rs), 10,JKIL
-33,DIV YIELD (%), 4.5,JKIL
+33,DIV YIELD (%), 4.4,JKIL

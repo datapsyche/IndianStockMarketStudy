@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,4.1,IFVN
-1,Mkt Cap,1288.0,IFVN
-2,Vol,48.0,IFVN
-3,P/E,-33.7,IFVN
-4,P/CF,6.1,IFVN
+0,Price,4.0,IFVN
+1,Mkt Cap,1256.0,IFVN
+2,Vol,0.1,IFVN
+3,P/E,-32.9,IFVN
+4,P/CF,6.0,IFVN
 5,EPS (TTM),-0.1,IFVN
-6,% ch,-1.9,IFVN
+6,% ch,-2.4,IFVN
 7,No. of shares,314.03,IFVN
-8,% ch week,2.0,IFVN
-9,% ch 1-mth,33.1,IFVN
-10,% ch 12-mth,34.4,IFVN
+8,% ch week,-0.5,IFVN
+9,% ch 1-mth,29.9,IFVN
+10,% ch 12-mth,31.1,IFVN
 11,52 week H/L,4.6/1.6,IFVN
 12,52weekHigh,4.6,IFVN
 13,52weekLow,1.6,IFVN
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1997,IFVN
 31,BSE CODE, 511208,IFVN
 32,FV (Rs), 2,IFVN
-33,DIV YIELD (%), 14.6,IFVN
+33,DIV YIELD (%), 15.0,IFVN

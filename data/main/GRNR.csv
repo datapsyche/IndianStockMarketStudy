@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,561.5,GRNR
-1,Mkt Cap,62169.0,GRNR
-2,Vol,1.7,GRNR
-3,P/E,36.7,GRNR
-4,P/CF,29.1,GRNR
+0,Price,559.6,GRNR
+1,Mkt Cap,61959.0,GRNR
+2,Vol,0.0,GRNR
+3,P/E,36.6,GRNR
+4,P/CF,29.0,GRNR
 5,EPS (TTM),15.3,GRNR
-6,% ch,0.2,GRNR
+6,% ch,-0.3,GRNR
 7,No. of shares,110.72,GRNR
-8,% ch week,7.5,GRNR
-9,% ch 1-mth,16.5,GRNR
-10,% ch 12-mth,-0.9,GRNR
+8,% ch week,7.2,GRNR
+9,% ch 1-mth,16.1,GRNR
+10,% ch 12-mth,-1.2,GRNR
 11,52 week H/L,699.0/369.2,GRNR
 12,52weekHigh,699.0,GRNR
 13,52weekLow,369.2,GRNR

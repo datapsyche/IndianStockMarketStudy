@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,164.0,NMPW
-1,Mkt Cap,1656.0,NMPW
-2,Vol,41.8,NMPW
-3,P/E,-9.9,NMPW
+0,Price,161.0,NMPW
+1,Mkt Cap,1626.0,NMPW
+2,Vol,8.8,NMPW
+3,P/E,-9.7,NMPW
 4,P/CF,5.0,NMPW
 5,EPS (TTM),-16.6,NMPW
-6,% ch,20.0,NMPW
+6,% ch,-1.8,NMPW
 7,No. of shares,10.10,NMPW
-8,% ch week,49.0,NMPW
-9,% ch 1-mth,49.8,NMPW
-10,% ch 12-mth,43.9,NMPW
+8,% ch week,46.2,NMPW
+9,% ch 1-mth,47.1,NMPW
+10,% ch 12-mth,41.2,NMPW
 11,52 week H/L,171.0/56.3,NMPW
 12,52weekHigh,171.0,NMPW
 13,52weekLow,56.3,NMPW
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1984,NMPW
 31,BSE CODE, 532051,NMPW
 32,FV (Rs), 10,NMPW
-33,DIV YIELD (%), 1.5,NMPW
+33,DIV YIELD (%), 1.6,NMPW

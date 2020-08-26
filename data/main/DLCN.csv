@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,148.3,DLCN
-1,Mkt Cap,12036.0,DLCN
-2,Vol,93.9,DLCN
+0,Price,146.8,DLCN
+1,Mkt Cap,11915.0,DLCN
+2,Vol,3.5,DLCN
 3,P/E,6.7,DLCN
 4,P/CF,5.3,DLCN
 5,EPS (TTM),22.0,DLCN
-6,% ch,0.5,DLCN
+6,% ch,-1.0,DLCN
 7,No. of shares,81.19,DLCN
-8,% ch week,9.9,DLCN
-9,% ch 1-mth,27.1,DLCN
-10,% ch 12-mth,103.9,DLCN
+8,% ch week,8.8,DLCN
+9,% ch 1-mth,25.9,DLCN
+10,% ch 12-mth,101.9,DLCN
 11,52 week H/L,156.0/40.3,DLCN
 12,52weekHigh,156.0,DLCN
 13,52weekLow,40.3,DLCN

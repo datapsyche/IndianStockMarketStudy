@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,10.3,RCAP
-1,Mkt Cap,2544.0,RCAP
-2,Vol,497.0,RCAP
+1,Mkt Cap,2541.0,RCAP
+2,Vol,18.2,RCAP
 3,P/E,-0.4,RCAP
 4,P/CF,0.2,RCAP
 5,EPS (TTM),-28.1,RCAP
-6,% ch,-2.5,RCAP
+6,% ch,-0.1,RCAP
 7,No. of shares,246.98,RCAP
-8,% ch week,-4.9,RCAP
-9,% ch 1-mth,-2.4,RCAP
-10,% ch 12-mth,-71.7,RCAP
+8,% ch week,-5.0,RCAP
+9,% ch 1-mth,-2.5,RCAP
+10,% ch 12-mth,-71.8,RCAP
 11,52 week H/L,38.6/3.7,RCAP
 12,52weekHigh,38.6,RCAP
 13,52weekLow,3.7,RCAP
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1986,RCAP
 31,BSE CODE, 500111,RCAP
 32,FV (Rs), 10,RCAP
-33,DIV YIELD (%), 109.2,RCAP
+33,DIV YIELD (%), 109.3,RCAP

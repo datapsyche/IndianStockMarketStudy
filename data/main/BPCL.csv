@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,409.5,BPCL
-1,Mkt Cap,887717.0,BPCL
-2,Vol,320.2,BPCL
-3,P/E,33.1,BPCL
+0,Price,411.2,BPCL
+1,Mkt Cap,891293.0,BPCL
+2,Vol,14.8,BPCL
+3,P/E,33.2,BPCL
 4,P/CF,8.1,BPCL
 5,EPS (TTM),12.4,BPCL
-6,% ch,-0.1,BPCL
+6,% ch,0.4,BPCL
 7,No. of shares,2167.81,BPCL
-8,% ch week,0.4,BPCL
-9,% ch 1-mth,-8.7,BPCL
-10,% ch 12-mth,22.1,BPCL
+8,% ch week,0.8,BPCL
+9,% ch 1-mth,-8.3,BPCL
+10,% ch 12-mth,22.6,BPCL
 11,52 week H/L,549.7/252.0,BPCL
 12,52weekHigh,549.7,BPCL
 13,52weekLow,252.0,BPCL

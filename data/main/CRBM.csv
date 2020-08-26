@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,281.9,CRBM
-1,Mkt Cap,53048.0,CRBM
-2,Vol,56.8,CRBM
+0,Price,281.1,CRBM
+1,Mkt Cap,52897.0,CRBM
+2,Vol,0.8,CRBM
 3,P/E,20.6,CRBM
-4,P/CF,15.8,CRBM
+4,P/CF,15.7,CRBM
 5,EPS (TTM),13.7,CRBM
-6,% ch,0.5,CRBM
+6,% ch,-0.3,CRBM
 7,No. of shares,188.18,CRBM
-8,% ch week,11.9,CRBM
-9,% ch 1-mth,15.4,CRBM
-10,% ch 12-mth,2.0,CRBM
+8,% ch week,11.6,CRBM
+9,% ch 1-mth,15.1,CRBM
+10,% ch 12-mth,1.7,CRBM
 11,52 week H/L,361.4/175.0,CRBM
 12,52weekHigh,361.4,CRBM
 13,52weekLow,175.0,CRBM

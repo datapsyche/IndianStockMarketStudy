@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,54.5,SVNP
-1,Mkt Cap,6937.0,SVNP
-2,Vol,402.0,SVNP
+0,Price,54.9,SVNP
+1,Mkt Cap,6981.0,SVNP
+2,Vol,12.6,SVNP
 3,P/E,5.7,SVNP
 4,P/CF,6.4,SVNP
 5,EPS (TTM),9.6,SVNP
-6,% ch,10.0,SVNP
+6,% ch,0.6,SVNP
 7,No. of shares,127.28,SVNP
-8,% ch week,8.3,SVNP
-9,% ch 1-mth,45.3,SVNP
-10,% ch 12-mth,-78.6,SVNP
+8,% ch week,9.0,SVNP
+9,% ch 1-mth,46.3,SVNP
+10,% ch 12-mth,-78.5,SVNP
 11,52 week H/L,334.9/19.4,SVNP
 12,52weekHigh,334.9,SVNP
 13,52weekLow,19.4,SVNP
@@ -31,4 +31,4 @@
 29,YEAR OF INC, 1989,SVNP
 30,BSE CODE, 530239,SVNP
 31,FV (Rs), 1,SVNP
-32,DIV YIELD (%), 2.8,SVNP
+32,DIV YIELD (%), 2.7,SVNP

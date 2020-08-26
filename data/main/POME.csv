@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,426.2,POME
-1,Mkt Cap,37598.0,POME
-2,Vol,16.4,POME
+0,Price,426.5,POME
+1,Mkt Cap,37624.0,POME
+2,Vol,0.3,POME
 3,P/E,40.7,POME
 4,P/CF,37.1,POME
 5,EPS (TTM),10.5,POME
-6,% ch,-1.1,POME
+6,% ch,0.1,POME
 7,No. of shares,88.23,POME
 8,% ch week,7.9,POME
 9,% ch 1-mth,13.2,POME
-10,% ch 12-mth,130.4,POME
+10,% ch 12-mth,130.5,POME
 11,52 week H/L,456.9/179.6,POME
 12,52weekHigh,456.9,POME
 13,52weekLow,179.6,POME

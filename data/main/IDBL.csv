@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,32.2,IDBL
-1,Mkt Cap,153726.0,IDBL
-2,Vol,6450.6,IDBL
-3,P/E,-5.4,IDBL
+0,Price,32.8,IDBL
+1,Mkt Cap,156595.0,IDBL
+2,Vol,117.0,IDBL
+3,P/E,-5.5,IDBL
 4,P/CF,3.7,IDBL
 5,EPS (TTM),-6.0,IDBL
-6,% ch,4.1,IDBL
+6,% ch,1.9,IDBL
 7,No. of shares,4781.52,IDBL
-8,% ch week,8.8,IDBL
-9,% ch 1-mth,13.0,IDBL
-10,% ch 12-mth,-25.7,IDBL
+8,% ch week,10.8,IDBL
+9,% ch 1-mth,15.1,IDBL
+10,% ch 12-mth,-24.3,IDBL
 11,52 week H/L,48.0/17.8,IDBL
 12,52weekHigh,48.0,IDBL
 13,52weekLow,17.8,IDBL

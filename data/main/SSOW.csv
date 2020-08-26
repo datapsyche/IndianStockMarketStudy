@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,324.8,SSOW
-1,Mkt Cap,34156.0,SSOW
-2,Vol,26.8,SSOW
-3,P/E,12.2,SSOW
-4,P/CF,13.1,SSOW
+0,Price,327.6,SSOW
+1,Mkt Cap,34445.0,SSOW
+2,Vol,0.2,SSOW
+3,P/E,12.3,SSOW
+4,P/CF,13.2,SSOW
 5,EPS (TTM),26.7,SSOW
-6,% ch,4.0,SSOW
+6,% ch,0.8,SSOW
 7,No. of shares,105.16,SSOW
-8,% ch week,5.0,SSOW
-9,% ch 1-mth,31.9,SSOW
-10,% ch 12-mth,3.0,SSOW
+8,% ch week,5.9,SSOW
+9,% ch 1-mth,33.0,SSOW
+10,% ch 12-mth,3.9,SSOW
 11,52 week H/L,354.4/148.1,SSOW
 12,52weekHigh,354.4,SSOW
 13,52weekLow,148.1,SSOW
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1994,SSOW
 31,BSE CODE, 532221,SSOW
 32,FV (Rs), 1,SSOW
-33,DIV YIELD (%), 3.9,SSOW
+33,DIV YIELD (%), 3.8,SSOW

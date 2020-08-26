@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,24.3,ADSL
-1,Mkt Cap,1128.0,ADSL
-2,Vol,37.5,ADSL
-3,P/E,4.6,ADSL
-4,P/CF,3.4,ADSL
+0,Price,25.0,ADSL
+1,Mkt Cap,1161.0,ADSL
+2,Vol,0.1,ADSL
+3,P/E,4.7,ADSL
+4,P/CF,3.5,ADSL
 5,EPS (TTM),5.3,ADSL
-6,% ch,4.8,ADSL
+6,% ch,2.9,ADSL
 7,No. of shares,46.53,ADSL
-8,% ch week,4.3,ADSL
-9,% ch 1-mth,33.6,ADSL
-10,% ch 12-mth,83.0,ADSL
+8,% ch week,7.3,ADSL
+9,% ch 1-mth,37.5,ADSL
+10,% ch 12-mth,88.3,ADSL
 11,52 week H/L,26.3/10.7,ADSL
 12,52weekHigh,26.3,ADSL
 13,52weekLow,10.7,ADSL

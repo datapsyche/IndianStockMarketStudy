@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1129.2,VNOR
-1,Mkt Cap,116056.0,VNOR
-2,Vol,187.3,VNOR
-3,P/E,35.8,VNOR
-4,P/CF,37.5,VNOR
+0,Price,1147.0,VNOR
+1,Mkt Cap,117891.0,VNOR
+2,Vol,1.7,VNOR
+3,P/E,36.4,VNOR
+4,P/CF,38.0,VNOR
 5,EPS (TTM),31.5,VNOR
-6,% ch,7.2,VNOR
+6,% ch,1.6,VNOR
 7,No. of shares,102.78,VNOR
-8,% ch week,13.2,VNOR
-9,% ch 1-mth,15.8,VNOR
-10,% ch 12-mth,8.8,VNOR
+8,% ch week,15.0,VNOR
+9,% ch 1-mth,17.6,VNOR
+10,% ch 12-mth,10.5,VNOR
 11,52 week H/L,"1,255.5/651.0",VNOR
 12,52weekHigh,"1,255.5",VNOR
 13,52weekLow,651.0,VNOR

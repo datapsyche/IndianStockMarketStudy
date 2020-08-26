@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6.1,ZNEWS
-1,Mkt Cap,2213.0,ZNEWS
-2,Vol,221.7,ZNEWS
+0,Price,6.2,ZNEWS
+1,Mkt Cap,2231.0,ZNEWS
+2,Vol,0.3,ZNEWS
 3,P/E,-0.8,ZNEWS
 4,P/CF,3.2,ZNEWS
 5,EPS (TTM),-7.6,ZNEWS
-6,% ch,-0.5,ZNEWS
+6,% ch,0.8,ZNEWS
 7,No. of shares,362.15,ZNEWS
-8,% ch week,5.2,ZNEWS
-9,% ch 1-mth,4.8,ZNEWS
-10,% ch 12-mth,-34.9,ZNEWS
+8,% ch week,6.0,ZNEWS
+9,% ch 1-mth,5.7,ZNEWS
+10,% ch 12-mth,-34.3,ZNEWS
 11,52 week H/L,11.9/2.9,ZNEWS
 12,52weekHigh,11.9,ZNEWS
 13,52weekLow,2.9,ZNEWS

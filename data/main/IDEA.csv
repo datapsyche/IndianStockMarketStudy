@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,9.1,IDEA
-1,Mkt Cap,79405.0,IDEA
-2,Vol,114998.9,IDEA
+1,Mkt Cap,79667.0,IDEA
+2,Vol,493.7,IDEA
 3,P/E,-0.1,IDEA
-4,P/CF,-30.0,IDEA
+4,P/CF,-30.1,IDEA
 5,EPS (TTM),-108.6,IDEA
-6,% ch,6.6,IDEA
+6,% ch,0.3,IDEA
 7,No. of shares,8735.39,IDEA
-8,% ch week,1.2,IDEA
-9,% ch 1-mth,8.0,IDEA
-10,% ch 12-mth,64.7,IDEA
+8,% ch week,1.6,IDEA
+9,% ch 1-mth,8.3,IDEA
+10,% ch 12-mth,65.2,IDEA
 11,52 week H/L,12.6/2.6,IDEA
 12,52weekHigh,12.6,IDEA
 13,52weekLow,2.6,IDEA

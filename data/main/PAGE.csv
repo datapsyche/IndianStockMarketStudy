@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,20851.4,PAGE
-1,Mkt Cap,232493.0,PAGE
-2,Vol,2.1,PAGE
-3,P/E,67.7,PAGE
-4,P/CF,54.7,PAGE
+0,Price,20950.0,PAGE
+1,Mkt Cap,233593.0,PAGE
+2,Vol,0.1,PAGE
+3,P/E,68.1,PAGE
+4,P/CF,55.0,PAGE
 5,EPS (TTM),307.8,PAGE
-6,% ch,2.7,PAGE
+6,% ch,0.5,PAGE
 7,No. of shares,11.15,PAGE
-8,% ch week,7.9,PAGE
-9,% ch 1-mth,7.3,PAGE
-10,% ch 12-mth,14.4,PAGE
+8,% ch week,8.4,PAGE
+9,% ch 1-mth,7.8,PAGE
+10,% ch 12-mth,15.0,PAGE
 11,52 week H/L,"26,891.0/16,186.8",PAGE
 12,52weekHigh,"26,891.0",PAGE
 13,52weekLow,"16,186.8",PAGE

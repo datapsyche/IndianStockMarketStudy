@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,111.6,ALSTM
-1,Mkt Cap,28574.0,ALSTM
-2,Vol,18.8,ALSTM
-3,P/E,21.3,ALSTM
-4,P/CF,9.7,ALSTM
+0,Price,113.7,ALSTM
+1,Mkt Cap,29099.0,ALSTM
+2,Vol,0.3,ALSTM
+3,P/E,21.7,ALSTM
+4,P/CF,9.8,ALSTM
 5,EPS (TTM),5.2,ALSTM
-6,% ch,0.6,ALSTM
+6,% ch,1.8,ALSTM
 7,No. of shares,256.04,ALSTM
-8,% ch week,9.2,ALSTM
-9,% ch 1-mth,32.8,ALSTM
-10,% ch 12-mth,-28.1,ALSTM
+8,% ch week,11.2,ALSTM
+9,% ch 1-mth,35.2,ALSTM
+10,% ch 12-mth,-26.8,ALSTM
 11,52 week H/L,219.8/58.0,ALSTM
 12,52weekHigh,219.8,ALSTM
 13,52weekLow,58.0,ALSTM

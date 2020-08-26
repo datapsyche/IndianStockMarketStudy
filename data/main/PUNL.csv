@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,1.8,PUNL
-1,Mkt Cap,608.0,PUNL
-2,Vol,270.7,PUNL
+1,Mkt Cap,598.0,PUNL
+2,Vol,0.8,PUNL
 3,P/E,-0.0,PUNL
 4,P/CF,0.5,PUNL
 5,EPS (TTM),-106.4,PUNL
-6,% ch,0.6,PUNL
+6,% ch,-1.6,PUNL
 7,No. of shares,332.10,PUNL
-8,% ch week,4.6,PUNL
-9,% ch 1-mth,13.0,PUNL
-10,% ch 12-mth,50.0,PUNL
+8,% ch week,2.9,PUNL
+9,% ch 1-mth,11.1,PUNL
+10,% ch 12-mth,47.5,PUNL
 11,52 week H/L,3.1/0.8,PUNL
 12,52weekHigh,3.1,PUNL
 13,52weekLow,0.8,PUNL

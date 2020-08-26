@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,29.0,JET
-1,Mkt Cap,3288.0,JET
-2,Vol,29.5,JET
+0,Price,29.3,JET
+1,Mkt Cap,3323.0,JET
+2,Vol,3.7,JET
 3,P/E,-0.1,JET
 4,P/CF,-3.2,JET
 5,EPS (TTM),-373.6,JET
-6,% ch,-1.5,JET
+6,% ch,1.0,JET
 7,No. of shares,113.59,JET
-8,% ch week,-2.5,JET
-9,% ch 1-mth,-5.7,JET
-10,% ch 12-mth,-19.9,JET
+8,% ch week,-1.5,JET
+9,% ch 1-mth,-4.7,JET
+10,% ch 12-mth,-19.1,JET
 11,52 week H/L,50.3/13.0,JET
 12,52weekHigh,50.3,JET
 13,52weekLow,13.0,JET

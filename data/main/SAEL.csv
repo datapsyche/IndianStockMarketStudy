@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,53.4,SAEL
-1,Mkt Cap,9157.0,SAEL
-2,Vol,116.6,SAEL
-3,P/E,10.8,SAEL
-4,P/CF,2.7,SAEL
+0,Price,56.1,SAEL
+1,Mkt Cap,9611.0,SAEL
+2,Vol,8.0,SAEL
+3,P/E,11.3,SAEL
+4,P/CF,2.8,SAEL
 5,EPS (TTM),5.0,SAEL
-6,% ch,4.9,SAEL
+6,% ch,5.0,SAEL
 7,No. of shares,171.48,SAEL
-8,% ch week,11.5,SAEL
-9,% ch 1-mth,11.0,SAEL
-10,% ch 12-mth,-56.4,SAEL
+8,% ch week,17.0,SAEL
+9,% ch 1-mth,16.5,SAEL
+10,% ch 12-mth,-54.2,SAEL
 11,52 week H/L,148.4/23.4,SAEL
 12,52weekHigh,148.4,SAEL
 13,52weekLow,23.4,SAEL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1988,SAEL
 31,BSE CODE, 532710,SAEL
 32,FV (Rs), 1,SAEL
-33,DIV YIELD (%), 1.9,SAEL
+33,DIV YIELD (%), 1.8,SAEL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,129.8,KLBR
-1,Mkt Cap,10304.0,KLBR
-2,Vol,15.3,KLBR
+0,Price,130.0,KLBR
+1,Mkt Cap,10315.0,KLBR
+2,Vol,0.1,KLBR
 3,P/E,13.0,KLBR
 4,P/CF,17.6,KLBR
 5,EPS (TTM),10.0,KLBR
-6,% ch,-2.6,KLBR
+6,% ch,0.1,KLBR
 7,No. of shares,79.38,KLBR
-8,% ch week,-0.3,KLBR
-9,% ch 1-mth,4.1,KLBR
-10,% ch 12-mth,-11.6,KLBR
+8,% ch week,-0.2,KLBR
+9,% ch 1-mth,4.3,KLBR
+10,% ch 12-mth,-11.5,KLBR
 11,52 week H/L,181.0/76.0,KLBR
 12,52weekHigh,181.0,KLBR
 13,52weekLow,76.0,KLBR

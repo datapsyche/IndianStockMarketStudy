@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,12.5,JNIR
-1,Mkt Cap,5539.0,JNIR
-2,Vol,645.4,JNIR
-3,P/E,-1.6,JNIR
+0,Price,12.9,JNIR
+1,Mkt Cap,5703.0,JNIR
+2,Vol,70.2,JNIR
+3,P/E,-1.7,JNIR
 4,P/CF,1.0,JNIR
 5,EPS (TTM),-7.7,JNIR
-6,% ch,-1.7,JNIR
+6,% ch,3.0,JNIR
 7,No. of shares,443.12,JNIR
-8,% ch week,8.8,JNIR
-9,% ch 1-mth,16.1,JNIR
-10,% ch 12-mth,-36.7,JNIR
+8,% ch week,12.0,JNIR
+9,% ch 1-mth,19.5,JNIR
+10,% ch 12-mth,-34.8,JNIR
 11,52 week H/L,24.2/3.1,JNIR
 12,52weekHigh,24.2,JNIR
 13,52weekLow,3.1,JNIR
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1988,JNIR
 31,BSE CODE, 500219,JNIR
 32,FV (Rs), 2,JNIR
-33,DIV YIELD (%), 9.0,JNIR
+33,DIV YIELD (%), 8.7,JNIR

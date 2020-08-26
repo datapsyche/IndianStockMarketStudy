@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,17.9,TLKN
-1,Mkt Cap,2232.0,TLKN
-2,Vol,7.5,TLKN
+0,Price,17.7,TLKN
+1,Mkt Cap,2201.0,TLKN
+2,Vol,0.2,TLKN
 3,P/E,-1.4,TLKN
 4,P/CF,-1.8,TLKN
 5,EPS (TTM),-12.6,TLKN
-6,% ch,0.0,TLKN
+6,% ch,-1.4,TLKN
 7,No. of shares,124.68,TLKN
-8,% ch week,2.3,TLKN
-9,% ch 1-mth,-3.5,TLKN
-10,% ch 12-mth,41.4,TLKN
+8,% ch week,0.9,TLKN
+9,% ch 1-mth,-4.9,TLKN
+10,% ch 12-mth,39.4,TLKN
 11,52 week H/L,23.0/12.1,TLKN
 12,52weekHigh,23.0,TLKN
 13,52weekLow,12.1,TLKN

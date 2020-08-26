@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,97.4,OIL
-1,Mkt Cap,105567.0,OIL
-2,Vol,111.5,OIL
+0,Price,98.5,OIL
+1,Mkt Cap,106760.0,OIL
+2,Vol,15.0,OIL
 3,P/E,4.1,OIL
 4,P/CF,2.3,OIL
 5,EPS (TTM),23.8,OIL
-6,% ch,-2.3,OIL
+6,% ch,1.1,OIL
 7,No. of shares,1084.41,OIL
-8,% ch week,1.9,OIL
-9,% ch 1-mth,-2.3,OIL
-10,% ch 12-mth,-33.5,OIL
+8,% ch week,3.1,OIL
+9,% ch 1-mth,-1.2,OIL
+10,% ch 12-mth,-32.8,OIL
 11,52 week H/L,174.8/66.0,OIL
 12,52weekHigh,174.8,OIL
 13,52weekLow,66.0,OIL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1959,OIL
 31,BSE CODE, 533106,OIL
 32,FV (Rs), 10,OIL
-33,DIV YIELD (%), 10.5,OIL
+33,DIV YIELD (%), 10.4,OIL

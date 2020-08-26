@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,49.5,GMDC
-1,Mkt Cap,15725.0,GMDC
-2,Vol,97.9,GMDC
+0,Price,49.9,GMDC
+1,Mkt Cap,15868.0,GMDC
+2,Vol,6.0,GMDC
 3,P/E,7.8,GMDC
 4,P/CF,2.9,GMDC
 5,EPS (TTM),6.4,GMDC
-6,% ch,-2.6,GMDC
+6,% ch,0.9,GMDC
 7,No. of shares,318.00,GMDC
-8,% ch week,8.1,GMDC
-9,% ch 1-mth,18.0,GMDC
-10,% ch 12-mth,-21.3,GMDC
+8,% ch week,9.1,GMDC
+9,% ch 1-mth,19.1,GMDC
+10,% ch 12-mth,-20.5,GMDC
 11,52 week H/L,72.4/29.5,GMDC
 12,52weekHigh,72.4,GMDC
 13,52weekLow,29.5,GMDC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1963,GMDC
 31,BSE CODE, 532181,GMDC
 32,FV (Rs), 2,GMDC
-33,DIV YIELD (%), 7.1,GMDC
+33,DIV YIELD (%), 7.0,GMDC

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1485.7,TVSR
-1,Mkt Cap,11376.0,TVSR
-2,Vol,1.0,TVSR
-3,P/E,13.2,TVSR
-4,P/CF,6.0,TVSR
+0,Price,1504.0,TVSR
+1,Mkt Cap,11516.0,TVSR
+2,Vol,0.0,TVSR
+3,P/E,13.4,TVSR
+4,P/CF,6.1,TVSR
 5,EPS (TTM),112.5,TVSR
-6,% ch,-0.7,TVSR
+6,% ch,1.2,TVSR
 7,No. of shares,7.66,TVSR
-8,% ch week,0.7,TVSR
-9,% ch 1-mth,6.7,TVSR
-10,% ch 12-mth,-11.8,TVSR
+8,% ch week,1.9,TVSR
+9,% ch 1-mth,8.0,TVSR
+10,% ch 12-mth,-10.7,TVSR
 11,52 week H/L,"2,059.7/760.0",TVSR
 12,52weekHigh,"2,059.7",TVSR
 13,52weekLow,760.0,TVSR

@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,35.3,PNB
-1,Mkt Cap,65466.0,PNB
-2,Vol,2278.7,PNB
-3,P/E,19.5,PNB
+1,Mkt Cap,65373.0,PNB
+2,Vol,38.8,PNB
+3,P/E,19.4,PNB
 4,P/CF,3.1,PNB
 5,EPS (TTM),1.8,PNB
-6,% ch,-1.0,PNB
+6,% ch,-0.1,PNB
 7,No. of shares,1854.56,PNB
-8,% ch week,8.8,PNB
-9,% ch 1-mth,5.1,PNB
-10,% ch 12-mth,-46.3,PNB
+8,% ch week,8.6,PNB
+9,% ch 1-mth,4.9,PNB
+10,% ch 12-mth,-46.4,PNB
 11,52 week H/L,69.6/26.3,PNB
 12,52weekHigh,69.6,PNB
 13,52weekLow,26.3,PNB

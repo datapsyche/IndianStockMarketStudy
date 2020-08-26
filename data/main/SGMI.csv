@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,55.7,SGMI
-1,Mkt Cap,2196.0,SGMI
-2,Vol,7.0,SGMI
-3,P/E,16.5,SGMI
+0,Price,55.0,SGMI
+1,Mkt Cap,2168.0,SGMI
+2,Vol,0.2,SGMI
+3,P/E,16.3,SGMI
 4,P/CF,2.3,SGMI
 5,EPS (TTM),3.4,SGMI
-6,% ch,-2.4,SGMI
+6,% ch,-1.3,SGMI
 7,No. of shares,39.42,SGMI
-8,% ch week,14.0,SGMI
-9,% ch 1-mth,6.7,SGMI
-10,% ch 12-mth,49.3,SGMI
+8,% ch week,12.6,SGMI
+9,% ch 1-mth,5.4,SGMI
+10,% ch 12-mth,47.5,SGMI
 11,52 week H/L,70.5/32.2,SGMI
 12,52weekHigh,70.5,SGMI
 13,52weekLow,32.2,SGMI

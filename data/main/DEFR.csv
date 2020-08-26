@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,180.1,DEFR
-1,Mkt Cap,15885.0,DEFR
-2,Vol,636.4,DEFR
-3,P/E,8.0,DEFR
-4,P/CF,6.4,DEFR
+0,Price,189.1,DEFR
+1,Mkt Cap,16679.0,DEFR
+2,Vol,115.2,DEFR
+3,P/E,8.4,DEFR
+4,P/CF,6.7,DEFR
 5,EPS (TTM),22.6,DEFR
-6,% ch,10.4,DEFR
+6,% ch,5.0,DEFR
 7,No. of shares,88.20,DEFR
-8,% ch week,13.4,DEFR
-9,% ch 1-mth,34.8,DEFR
-10,% ch 12-mth,118.2,DEFR
+8,% ch week,19.1,DEFR
+9,% ch 1-mth,41.5,DEFR
+10,% ch 12-mth,129.1,DEFR
 11,52 week H/L,183.6/57.0,DEFR
 12,52weekHigh,183.6,DEFR
 13,52weekLow,57.0,DEFR
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1979,DEFR
 31,BSE CODE, 500645,DEFR
 32,FV (Rs), 10,DEFR
-33,DIV YIELD (%), 1.7,DEFR
+33,DIV YIELD (%), 1.6,DEFR

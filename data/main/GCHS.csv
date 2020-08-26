@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,99.5,GCHS
-1,Mkt Cap,5358.0,GCHS
-2,Vol,62.5,GCHS
-3,P/E,3.6,GCHS
+0,Price,101.0,GCHS
+1,Mkt Cap,5439.0,GCHS
+2,Vol,6.1,GCHS
+3,P/E,3.7,GCHS
 4,P/CF,2.0,GCHS
 5,EPS (TTM),27.3,GCHS
-6,% ch,-0.3,GCHS
+6,% ch,1.5,GCHS
 7,No. of shares,53.85,GCHS
-8,% ch week,3.2,GCHS
-9,% ch 1-mth,5.9,GCHS
-10,% ch 12-mth,-43.6,GCHS
+8,% ch week,4.7,GCHS
+9,% ch 1-mth,7.5,GCHS
+10,% ch 12-mth,-42.8,GCHS
 11,52 week H/L,190.5/52.1,GCHS
 12,52weekHigh,190.5,GCHS
 13,52weekLow,52.1,GCHS
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1989,GCHS
 31,BSE CODE, 511676,GCHS
 32,FV (Rs), 10,GCHS
-33,DIV YIELD (%), 5.5,GCHS
+33,DIV YIELD (%), 5.4,GCHS

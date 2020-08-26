@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,91.8,TRFL
-1,Mkt Cap,1010.0,TRFL
-2,Vol,4.3,TRFL
+0,Price,90.0,TRFL
+1,Mkt Cap,990.0,TRFL
+2,Vol,0.2,TRFL
 3,P/E,-0.9,TRFL
 4,P/CF,-0.9,TRFL
 5,EPS (TTM),-104.5,TRFL
-6,% ch,-4.1,TRFL
+6,% ch,-2.0,TRFL
 7,No. of shares,11.00,TRFL
-8,% ch week,-9.8,TRFL
-9,% ch 1-mth,16.1,TRFL
-10,% ch 12-mth,17.3,TRFL
+8,% ch week,-11.6,TRFL
+9,% ch 1-mth,13.8,TRFL
+10,% ch 12-mth,15.0,TRFL
 11,52 week H/L,142.0/45.4,TRFL
 12,52weekHigh,142.0,TRFL
 13,52weekLow,45.4,TRFL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,33.7,ADPE
-1,Mkt Cap,2863.0,ADPE
-2,Vol,423.6,ADPE
+0,Price,34.1,ADPE
+1,Mkt Cap,2893.0,ADPE
+2,Vol,18.7,ADPE
 3,P/E,5.9,ADPE
 4,P/CF,3.6,ADPE
 5,EPS (TTM),5.7,ADPE
-6,% ch,15.4,ADPE
+6,% ch,1.0,ADPE
 7,No. of shares,84.97,ADPE
-8,% ch week,48.8,ADPE
-9,% ch 1-mth,59.0,ADPE
-10,% ch 12-mth,-14.0,ADPE
+8,% ch week,50.3,ADPE
+9,% ch 1-mth,60.6,ADPE
+10,% ch 12-mth,-13.1,ADPE
 11,52 week H/L,45.0/14.7,ADPE
 12,52weekHigh,45.0,ADPE
 13,52weekLow,14.7,ADPE
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1984,ADPE
 31,BSE CODE, 500012,ADPE
 32,FV (Rs), 10,ADPE
-33,DIV YIELD (%), 4.5,ADPE
+33,DIV YIELD (%), 4.4,ADPE

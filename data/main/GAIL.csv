@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,101.6,GAIL
-1,Mkt Cap,458005.0,GAIL
-2,Vol,204.0,GAIL
-3,P/E,6.9,GAIL
+0,Price,102.1,GAIL
+1,Mkt Cap,460485.0,GAIL
+2,Vol,26.8,GAIL
+3,P/E,7.0,GAIL
 4,P/CF,6.2,GAIL
 5,EPS (TTM),14.7,GAIL
-6,% ch,-0.2,GAIL
+6,% ch,0.5,GAIL
 7,No. of shares,4510.14,GAIL
-8,% ch week,4.0,GAIL
-9,% ch 1-mth,2.0,GAIL
-10,% ch 12-mth,-19.7,GAIL
+8,% ch week,4.6,GAIL
+9,% ch 1-mth,2.5,GAIL
+10,% ch 12-mth,-19.2,GAIL
 11,52 week H/L,148.1/65.7,GAIL
 12,52weekHigh,148.1,GAIL
 13,52weekLow,65.7,GAIL

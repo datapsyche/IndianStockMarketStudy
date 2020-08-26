@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,52.6,HMVL
-1,Mkt Cap,3857.0,HMVL
-2,Vol,4.3,HMVL
+0,Price,52.8,HMVL
+1,Mkt Cap,3875.0,HMVL
+2,Vol,0.0,HMVL
 3,P/E,3.2,HMVL
 4,P/CF,4.2,HMVL
 5,EPS (TTM),16.4,HMVL
-6,% ch,2.3,HMVL
+6,% ch,0.5,HMVL
 7,No. of shares,73.39,HMVL
-8,% ch week,7.2,HMVL
-9,% ch 1-mth,6.6,HMVL
-10,% ch 12-mth,-27.0,HMVL
+8,% ch week,7.8,HMVL
+9,% ch 1-mth,7.1,HMVL
+10,% ch 12-mth,-26.7,HMVL
 11,52 week H/L,92.0/35.5,HMVL
 12,52weekHigh,92.0,HMVL
 13,52weekLow,35.5,HMVL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,7.3,IFCI
-1,Mkt Cap,12199.0,IFCI
-2,Vol,589.4,IFCI
-3,P/E,-10.8,IFCI
-4,P/CF,-3.7,IFCI
+0,Price,7.5,IFCI
+1,Mkt Cap,12449.0,IFCI
+2,Vol,13.7,IFCI
+3,P/E,-11.0,IFCI
+4,P/CF,-3.8,IFCI
 5,EPS (TTM),-0.7,IFCI
-6,% ch,-0.5,IFCI
+6,% ch,2.0,IFCI
 7,No. of shares,1662.04,IFCI
-8,% ch week,3.8,IFCI
-9,% ch 1-mth,11.6,IFCI
-10,% ch 12-mth,1.1,IFCI
+8,% ch week,5.9,IFCI
+9,% ch 1-mth,13.8,IFCI
+10,% ch 12-mth,3.2,IFCI
 11,52 week H/L,9.3/3.1,IFCI
 12,52weekHigh,9.3,IFCI
 13,52weekLow,3.1,IFCI

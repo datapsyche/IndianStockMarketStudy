@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1212.2,MUTFL
-1,Mkt Cap,481316.0,MUTFL
-2,Vol,334.4,MUTFL
-3,P/E,20.2,MUTFL
-4,P/CF,12.7,MUTFL
+0,Price,1225.5,MUTFL
+1,Mkt Cap,486577.0,MUTFL
+2,Vol,15.3,MUTFL
+3,P/E,20.4,MUTFL
+4,P/CF,12.8,MUTFL
 5,EPS (TTM),60.1,MUTFL
-6,% ch,2.5,MUTFL
+6,% ch,1.1,MUTFL
 7,No. of shares,397.06,MUTFL
-8,% ch week,-1.2,MUTFL
-9,% ch 1-mth,-6.9,MUTFL
-10,% ch 12-mth,94.3,MUTFL
+8,% ch week,-0.1,MUTFL
+9,% ch 1-mth,-5.9,MUTFL
+10,% ch 12-mth,96.4,MUTFL
 11,52 week H/L,"1,405.0/477.5",MUTFL
 12,52weekHigh,"1,405.0",MUTFL
 13,52weekLow,477.5,MUTFL

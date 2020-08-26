@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,23.7,MNPT
-1,Mkt Cap,4068.0,MNPT
-2,Vol,331.1,MNPT
-3,P/E,10.5,MNPT
-4,P/CF,6.1,MNPT
+0,Price,24.4,MNPT
+1,Mkt Cap,4197.0,MNPT
+2,Vol,41.8,MNPT
+3,P/E,10.9,MNPT
+4,P/CF,6.3,MNPT
 5,EPS (TTM),2.2,MNPT
-6,% ch,7.3,MNPT
+6,% ch,3.2,MNPT
 7,No. of shares,171.99,MNPT
-8,% ch week,12.6,MNPT
-9,% ch 1-mth,12.4,MNPT
-10,% ch 12-mth,37.5,MNPT
+8,% ch week,16.2,MNPT
+9,% ch 1-mth,15.9,MNPT
+10,% ch 12-mth,41.9,MNPT
 11,52 week H/L,25.5/8.0,MNPT
 12,52weekHigh,25.5,MNPT
 13,52weekLow,8.0,MNPT
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1900,MNPT
 31,BSE CODE, 500268,MNPT
 32,FV (Rs), 5,MNPT
-33,DIV YIELD (%), 2.1,MNPT
+33,DIV YIELD (%), 2.0,MNPT

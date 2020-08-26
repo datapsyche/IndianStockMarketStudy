@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,11.3,SUBEX
-1,Mkt Cap,1925.0,SUBEX
-2,Vol,317.5,SUBEX
+0,Price,11.0,SUBEX
+1,Mkt Cap,1884.0,SUBEX
+2,Vol,20.6,SUBEX
 3,P/E,-0.7,SUBEX
-4,P/CF,7.4,SUBEX
+4,P/CF,7.3,SUBEX
 5,EPS (TTM),-15.8,SUBEX
-6,% ch,-1.7,SUBEX
+6,% ch,-2.1,SUBEX
 7,No. of shares,170.69,SUBEX
-8,% ch week,2.5,SUBEX
-9,% ch 1-mth,34.9,SUBEX
-10,% ch 12-mth,106.6,SUBEX
+8,% ch week,0.4,SUBEX
+9,% ch 1-mth,32.1,SUBEX
+10,% ch 12-mth,102.2,SUBEX
 11,52 week H/L,12.7/2.8,SUBEX
 12,52weekHigh,12.7,SUBEX
 13,52weekLow,2.8,SUBEX

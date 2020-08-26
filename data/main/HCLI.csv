@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,9.1,HCLI
-1,Mkt Cap,2026.0,HCLI
-2,Vol,51.9,HCLI
+0,Price,9.2,HCLI
+1,Mkt Cap,2042.0,HCLI
+2,Vol,2.9,HCLI
 3,P/E,-0.7,HCLI
 4,P/CF,-1.6,HCLI
 5,EPS (TTM),-12.9,HCLI
-6,% ch,1.2,HCLI
+6,% ch,0.8,HCLI
 7,No. of shares,222.90,HCLI
-8,% ch week,0.3,HCLI
-9,% ch 1-mth,-0.2,HCLI
-10,% ch 12-mth,11.7,HCLI
+8,% ch week,1.1,HCLI
+9,% ch 1-mth,0.5,HCLI
+10,% ch 12-mth,12.5,HCLI
 11,52 week H/L,12.4/3.2,HCLI
 12,52weekHigh,12.4,HCLI
 13,52weekLow,3.2,HCLI

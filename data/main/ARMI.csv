@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,35.5,ARMI
-1,Mkt Cap,9153.0,ARMI
-2,Vol,1108.7,ARMI
-3,P/E,9.7,ARMI
+0,Price,35.1,ARMI
+1,Mkt Cap,9050.0,ARMI
+2,Vol,6.6,ARMI
+3,P/E,9.6,ARMI
 4,P/CF,1.9,ARMI
 5,EPS (TTM),3.7,ARMI
-6,% ch,-1.8,ARMI
+6,% ch,-1.1,ARMI
 7,No. of shares,258.20,ARMI
-8,% ch week,4.7,ARMI
-9,% ch 1-mth,14.5,ARMI
-10,% ch 12-mth,-27.3,ARMI
+8,% ch week,3.5,ARMI
+9,% ch 1-mth,13.2,ARMI
+10,% ch 12-mth,-28.1,ARMI
 11,52 week H/L,59.0/19.0,ARMI
 12,52weekHigh,59.0,ARMI
 13,52weekLow,19.0,ARMI
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1931,ARMI
 31,BSE CODE, 500101,ARMI
 32,FV (Rs), 10,ARMI
-33,DIV YIELD (%), 5.6,ARMI
+33,DIV YIELD (%), 5.7,ARMI

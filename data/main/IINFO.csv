@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,3.9,IINFO
-1,Mkt Cap,3533.0,IINFO
-2,Vol,1720.2,IINFO
-3,P/E,5.2,IINFO
-4,P/CF,4.4,IINFO
+0,Price,4.1,IINFO
+1,Mkt Cap,3703.0,IINFO
+2,Vol,898.1,IINFO
+3,P/E,5.4,IINFO
+4,P/CF,4.6,IINFO
 5,EPS (TTM),0.8,IINFO
 6,% ch,4.8,IINFO
 7,No. of shares,898.88,IINFO
-8,% ch week,26.8,IINFO
-9,% ch 1-mth,57.2,IINFO
-10,% ch 12-mth,127.2,IINFO
+8,% ch week,32.9,IINFO
+9,% ch 1-mth,64.8,IINFO
+10,% ch 12-mth,138.2,IINFO
 11,52 week H/L,3.9/1.2,IINFO
 12,52weekHigh,3.9,IINFO
 13,52weekLow,1.2,IINFO

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,7.5,SIBK
-1,Mkt Cap,10180.0,SIBK
-2,Vol,6597.9,SIBK
-3,P/E,9.7,SIBK
+0,Price,7.7,SIBK
+1,Mkt Cap,10329.0,SIBK
+2,Vol,112.8,SIBK
+3,P/E,9.9,SIBK
 4,P/CF,0.6,SIBK
 5,EPS (TTM),0.8,SIBK
-6,% ch,1.8,SIBK
+6,% ch,1.5,SIBK
 7,No. of shares,1350.15,SIBK
-8,% ch week,7.4,SIBK
-9,% ch 1-mth,4.9,SIBK
-10,% ch 12-mth,-32.6,SIBK
+8,% ch week,9.0,SIBK
+9,% ch 1-mth,6.4,SIBK
+10,% ch 12-mth,-31.6,SIBK
 11,52 week H/L,12.5/4.9,SIBK
 12,52weekHigh,12.5,SIBK
 13,52weekLow,4.9,SIBK

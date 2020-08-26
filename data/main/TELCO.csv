@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,121.2,TELCO
-1,Mkt Cap,349947.0,TELCO
-2,Vol,2362.5,TELCO
+0,Price,122.1,TELCO
+1,Mkt Cap,352401.0,TELCO
+2,Vol,57.5,TELCO
 3,P/E,-2.2,TELCO
-4,P/CF,3.3,TELCO
+4,P/CF,3.4,TELCO
 5,EPS (TTM),-55.2,TELCO
-6,% ch,0.2,TELCO
+6,% ch,0.7,TELCO
 7,No. of shares,2887.35,TELCO
-8,% ch week,-1.9,TELCO
-9,% ch 1-mth,16.8,TELCO
-10,% ch 12-mth,9.7,TELCO
+8,% ch week,-1.2,TELCO
+9,% ch 1-mth,17.6,TELCO
+10,% ch 12-mth,10.5,TELCO
 11,52 week H/L,201.8/63.6,TELCO
 12,52weekHigh,201.8,TELCO
 13,52weekLow,63.6,TELCO

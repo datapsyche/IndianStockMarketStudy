@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,35.7,MMLG
-1,Mkt Cap,6787.0,MMLG
-2,Vol,107.8,MMLG
+0,Price,36.2,MMLG
+1,Mkt Cap,6892.0,MMLG
+2,Vol,0.0,MMLG
 3,P/E,2.7,MMLG
 4,P/CF,0.8,MMLG
 5,EPS (TTM),13.4,MMLG
-6,% ch,-0.6,MMLG
+6,% ch,1.5,MMLG
 7,No. of shares,190.38,MMLG
-8,% ch week,16.1,MMLG
-9,% ch 1-mth,32.8,MMLG
-10,% ch 12-mth,-48.6,MMLG
+8,% ch week,17.9,MMLG
+9,% ch 1-mth,34.8,MMLG
+10,% ch 12-mth,-47.8,MMLG
 11,52 week H/L,72.0/12.7,MMLG
 12,52weekHigh,72.0,MMLG
 13,52weekLow,12.7,MMLG

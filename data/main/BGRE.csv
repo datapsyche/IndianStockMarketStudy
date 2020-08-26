@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,42.5,BGRE
-1,Mkt Cap,3063.0,BGRE
-2,Vol,29.1,BGRE
-3,P/E,13.9,BGRE
-4,P/CF,7.1,BGRE
+0,Price,43.0,BGRE
+1,Mkt Cap,3099.0,BGRE
+2,Vol,0.5,BGRE
+3,P/E,14.0,BGRE
+4,P/CF,7.2,BGRE
 5,EPS (TTM),3.1,BGRE
-6,% ch,-4.0,BGRE
+6,% ch,1.2,BGRE
 7,No. of shares,72.16,BGRE
-8,% ch week,1.7,BGRE
-9,% ch 1-mth,6.9,BGRE
-10,% ch 12-mth,21.5,BGRE
+8,% ch week,2.9,BGRE
+9,% ch 1-mth,8.2,BGRE
+10,% ch 12-mth,22.9,BGRE
 11,52 week H/L,65.1/19.0,BGRE
 12,52weekHigh,65.1,BGRE
 13,52weekLow,19.0,BGRE

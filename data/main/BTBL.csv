@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,9.7,BTBL
-1,Mkt Cap,277.0,BTBL
-2,Vol,22.3,BTBL
-3,P/E,-3.7,BTBL
-4,P/CF,1.6,BTBL
+0,Price,10.0,BTBL
+1,Mkt Cap,286.0,BTBL
+2,Vol,22.0,BTBL
+3,P/E,-3.8,BTBL
+4,P/CF,1.7,BTBL
 5,EPS (TTM),-2.6,BTBL
-6,% ch,4.0,BTBL
+6,% ch,3.4,BTBL
 7,No. of shares,28.68,BTBL
-8,% ch week,10.4,BTBL
-9,% ch 1-mth,17.5,BTBL
-10,% ch 12-mth,-3.4,BTBL
+8,% ch week,14.2,BTBL
+9,% ch 1-mth,21.6,BTBL
+10,% ch 12-mth,-0.1,BTBL
 11,52 week H/L,12.5/4.6,BTBL
 12,52weekHigh,12.5,BTBL
 13,52weekLow,4.6,BTBL

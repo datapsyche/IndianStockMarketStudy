@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,196.7,ITC
-1,Mkt Cap,2416138.0,ITC
-2,Vol,854.7,ITC
-3,P/E,16.9,ITC
+0,Price,197.5,ITC
+1,Mkt Cap,2426582.0,ITC
+2,Vol,13.7,ITC
+3,P/E,17.0,ITC
 4,P/CF,17.0,ITC
 5,EPS (TTM),11.6,ITC
-6,% ch,-0.1,ITC
+6,% ch,0.4,ITC
 7,No. of shares,12286.49,ITC
-8,% ch week,-1.0,ITC
-9,% ch 1-mth,-1.5,ITC
-10,% ch 12-mth,-18.9,ITC
+8,% ch week,-0.6,ITC
+9,% ch 1-mth,-1.1,ITC
+10,% ch 12-mth,-18.6,ITC
 11,52 week H/L,266.2/135.0,ITC
 12,52weekHigh,266.2,ITC
 13,52weekLow,135.0,ITC

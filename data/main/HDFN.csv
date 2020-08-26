@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,656.5,HDFN
-1,Mkt Cap,13498.0,HDFN
-2,Vol,1.2,HDFN
-3,P/E,-14.3,HDFN
-4,P/CF,-9.8,HDFN
+0,Price,666.8,HDFN
+1,Mkt Cap,13709.0,HDFN
+2,Vol,0.0,HDFN
+3,P/E,-14.6,HDFN
+4,P/CF,-10.0,HDFN
 5,EPS (TTM),-45.8,HDFN
-6,% ch,2.4,HDFN
+6,% ch,1.6,HDFN
 7,No. of shares,20.56,HDFN
-8,% ch week,7.9,HDFN
-9,% ch 1-mth,73.7,HDFN
-10,% ch 12-mth,106.4,HDFN
+8,% ch week,9.6,HDFN
+9,% ch 1-mth,76.4,HDFN
+10,% ch 12-mth,109.6,HDFN
 11,52 week H/L,660.0/192.0,HDFN
 12,52weekHigh,660.0,HDFN
 13,52weekLow,192.0,HDFN
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1983,HDFN
 31,BSE CODE, 500189,HDFN
 32,FV (Rs), 10,HDFN
-33,DIV YIELD (%), 2.7,HDFN
+33,DIV YIELD (%), 2.6,HDFN

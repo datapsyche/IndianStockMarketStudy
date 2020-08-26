@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,11.2,IOB
-1,Mkt Cap,13799.0,IOB
-2,Vol,401.3,IOB
+0,Price,10.9,IOB
+1,Mkt Cap,13453.0,IOB
+2,Vol,29.1,IOB
 3,P/E,-0.1,IOB
 4,P/CF,1.9,IOB
 5,EPS (TTM),-86.3,IOB
-6,% ch,-4.5,IOB
+6,% ch,-2.5,IOB
 7,No. of shares,1235.34,IOB
-8,% ch week,6.4,IOB
-9,% ch 1-mth,4.6,IOB
-10,% ch 12-mth,10.9,IOB
+8,% ch week,3.7,IOB
+9,% ch 1-mth,2.0,IOB
+10,% ch 12-mth,8.1,IOB
 11,52 week H/L,13.8/6.2,IOB
 12,52weekHigh,13.8,IOB
 13,52weekLow,6.2,IOB

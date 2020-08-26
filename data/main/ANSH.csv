@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,4.7,ANSH
-1,Mkt Cap,280.0,ANSH
-2,Vol,32.0,ANSH
+1,Mkt Cap,282.0,ANSH
+2,Vol,0.5,ANSH
 3,P/E,-1.1,ANSH
 4,P/CF,-12.8,ANSH
 5,EPS (TTM),-4.3,ANSH
-6,% ch,-4.8,ANSH
+6,% ch,0.4,ANSH
 7,No. of shares,59.39,ANSH
-8,% ch week,15.1,ANSH
-9,% ch 1-mth,24.2,ANSH
-10,% ch 12-mth,12.4,ANSH
+8,% ch week,15.6,ANSH
+9,% ch 1-mth,24.7,ANSH
+10,% ch 12-mth,12.9,ANSH
 11,52 week H/L,9.2/2.6,ANSH
 12,52weekHigh,9.2,ANSH
 13,52weekLow,2.6,ANSH

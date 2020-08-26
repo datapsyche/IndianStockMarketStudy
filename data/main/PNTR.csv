@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,17.4,PNTR
-1,Mkt Cap,54063.0,PNTR
-2,Vol,564.8,PNTR
-3,P/E,106.6,PNTR
-4,P/CF,7.2,PNTR
+0,Price,17.8,PNTR
+1,Mkt Cap,55306.0,PNTR
+2,Vol,32.9,PNTR
+3,P/E,109.1,PNTR
+4,P/CF,7.3,PNTR
 5,EPS (TTM),0.2,PNTR
-6,% ch,-1.4,PNTR
+6,% ch,2.3,PNTR
 7,No. of shares,3107.06,PNTR
-8,% ch week,8.1,PNTR
-9,% ch 1-mth,34.9,PNTR
-10,% ch 12-mth,-31.8,PNTR
+8,% ch week,10.6,PNTR
+9,% ch 1-mth,38.0,PNTR
+10,% ch 12-mth,-30.2,PNTR
 11,52 week H/L,29.6/7.6,PNTR
 12,52weekHigh,29.6,PNTR
 13,52weekLow,7.6,PNTR

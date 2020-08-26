@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,47.9,BOI
-1,Mkt Cap,30764.0,BOI
-2,Vol,213.8,BOI
+0,Price,48.4,BOI
+1,Mkt Cap,31085.0,BOI
+2,Vol,11.8,BOI
 3,P/E,3.6,BOI
 4,P/CF,0.3,BOI
 5,EPS (TTM),13.5,BOI
-6,% ch,-0.5,BOI
+6,% ch,1.0,BOI
 7,No. of shares,642.26,BOI
-8,% ch week,2.2,BOI
-9,% ch 1-mth,0.9,BOI
-10,% ch 12-mth,-28.5,BOI
+8,% ch week,3.3,BOI
+9,% ch 1-mth,2.0,BOI
+10,% ch 12-mth,-27.7,BOI
 11,52 week H/L,79.8/30.5,BOI
 12,52weekHigh,79.8,BOI
 13,52weekLow,30.5,BOI

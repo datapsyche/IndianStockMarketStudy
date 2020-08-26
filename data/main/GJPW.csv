@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,77.8,GJPW
-1,Mkt Cap,11760.0,GJPW
-2,Vol,66.3,GJPW
-3,P/E,4.7,GJPW
+0,Price,78.4,GJPW
+1,Mkt Cap,11850.0,GJPW
+2,Vol,0.6,GJPW
+3,P/E,4.8,GJPW
 4,P/CF,2.9,GJPW
 5,EPS (TTM),16.4,GJPW
-6,% ch,-1.4,GJPW
+6,% ch,0.8,GJPW
 7,No. of shares,151.25,GJPW
-8,% ch week,0.1,GJPW
-9,% ch 1-mth,7.5,GJPW
-10,% ch 12-mth,8.1,GJPW
+8,% ch week,0.9,GJPW
+9,% ch 1-mth,8.3,GJPW
+10,% ch 12-mth,8.9,GJPW
 11,52 week H/L,87.0/42.5,GJPW
 12,52weekHigh,87.0,GJPW
 13,52weekLow,42.5,GJPW
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1985,GJPW
 31,BSE CODE, 517300,GJPW
 32,FV (Rs), 10,GJPW
-33,DIV YIELD (%), 3.5,GJPW
+33,DIV YIELD (%), 3.4,GJPW

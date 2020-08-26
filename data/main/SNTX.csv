@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2.5,SNTX
-1,Mkt Cap,1074.0,SNTX
-2,Vol,4573.7,SNTX
+0,Price,2.6,SNTX
+1,Mkt Cap,1109.0,SNTX
+2,Vol,274.3,SNTX
 3,P/E,-0.1,SNTX
 4,P/CF,0.4,SNTX
 5,EPS (TTM),-29.5,SNTX
-6,% ch,5.0,SNTX
+6,% ch,3.2,SNTX
 7,No. of shares,426.36,SNTX
-8,% ch week,24.8,SNTX
-9,% ch 1-mth,28.6,SNTX
-10,% ch 12-mth,34.8,SNTX
+8,% ch week,28.7,SNTX
+9,% ch 1-mth,32.7,SNTX
+10,% ch 12-mth,39.0,SNTX
 11,52 week H/L,3.9/0.6,SNTX
 12,52weekHigh,3.9,SNTX
 13,52weekLow,0.6,SNTX

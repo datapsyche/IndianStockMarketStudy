@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1.1,BSEL
-1,Mkt Cap,93.0,BSEL
-2,Vol,110.9,BSEL
+0,Price,1.2,BSEL
+1,Mkt Cap,97.0,BSEL
+2,Vol,4.6,BSEL
 3,P/E,-0.4,BSEL
 4,P/CF,-0.5,BSEL
 5,EPS (TTM),-2.9,BSEL
-6,% ch,-3.4,BSEL
+6,% ch,4.4,BSEL
 7,No. of shares,82.62,BSEL
-8,% ch week,-5.8,BSEL
-9,% ch 1-mth,-5.0,BSEL
-10,% ch 12-mth,18.9,BSEL
+8,% ch week,-1.7,BSEL
+9,% ch 1-mth,-0.8,BSEL
+10,% ch 12-mth,24.2,BSEL
 11,52 week H/L,1.6/0.7,BSEL
 12,52weekHigh,1.6,BSEL
 13,52weekLow,0.7,BSEL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,429.5,TISCO
-1,Mkt Cap,417090.0,TISCO
-2,Vol,378.3,TISCO
+0,Price,429.0,TISCO
+1,Mkt Cap,416653.0,TISCO
+2,Vol,17.5,TISCO
 3,P/E,19.5,TISCO
 4,P/CF,1.8,TISCO
 5,EPS (TTM),22.0,TISCO
-6,% ch,0.1,TISCO
+6,% ch,-0.1,TISCO
 7,No. of shares,971.22,TISCO
-8,% ch week,1.1,TISCO
-9,% ch 1-mth,24.1,TISCO
-10,% ch 12-mth,27.1,TISCO
+8,% ch week,1.0,TISCO
+9,% ch 1-mth,24.0,TISCO
+10,% ch 12-mth,27.0,TISCO
 11,52 week H/L,506.0/250.9,TISCO
 12,52weekHigh,506.0,TISCO
 13,52weekLow,250.9,TISCO

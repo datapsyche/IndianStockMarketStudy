@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,107.6,SPAL
-1,Mkt Cap,2763.0,SPAL
-2,Vol,64.2,SPAL
-3,P/E,5.9,SPAL
-4,P/CF,2.9,SPAL
+0,Price,103.3,SPAL
+1,Mkt Cap,2653.0,SPAL
+2,Vol,1.2,SPAL
+3,P/E,5.7,SPAL
+4,P/CF,2.8,SPAL
 5,EPS (TTM),18.3,SPAL
-6,% ch,5.1,SPAL
+6,% ch,-4.0,SPAL
 7,No. of shares,25.69,SPAL
-8,% ch week,30.0,SPAL
-9,% ch 1-mth,52.6,SPAL
-10,% ch 12-mth,-43.9,SPAL
+8,% ch week,24.8,SPAL
+9,% ch 1-mth,46.5,SPAL
+10,% ch 12-mth,-46.2,SPAL
 11,52 week H/L,240.9/58.0,SPAL
 12,52weekHigh,240.9,SPAL
 13,52weekLow,58.0,SPAL

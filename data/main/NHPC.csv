@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,22.7,NHPC
-1,Mkt Cap,251304.0,NHPC
-2,Vol,537.6,NHPC
-3,P/E,9.4,NHPC
-4,P/CF,7.1,NHPC
+0,Price,22.8,NHPC
+1,Mkt Cap,251858.0,NHPC
+2,Vol,2.7,NHPC
+3,P/E,9.5,NHPC
+4,P/CF,7.2,NHPC
 5,EPS (TTM),2.4,NHPC
-6,% ch,-2.4,NHPC
+6,% ch,0.2,NHPC
 7,No. of shares,11070.67,NHPC
-8,% ch week,9.7,NHPC
-9,% ch 1-mth,12.4,NHPC
-10,% ch 12-mth,-2.4,NHPC
+8,% ch week,9.9,NHPC
+9,% ch 1-mth,12.6,NHPC
+10,% ch 12-mth,-2.2,NHPC
 11,52 week H/L,29.0/15.2,NHPC
 12,52weekHigh,29.0,NHPC
 13,52weekLow,15.2,NHPC

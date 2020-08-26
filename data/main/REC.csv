@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,111.2,REC
-1,Mkt Cap,219512.0,REC
-2,Vol,339.9,REC
+0,Price,111.8,REC
+1,Mkt Cap,220697.0,REC
+2,Vol,4.0,REC
 3,P/E,3.8,REC
 4,P/CF,4.0,REC
 5,EPS (TTM),29.3,REC
-6,% ch,-1.4,REC
+6,% ch,0.5,REC
 7,No. of shares,1974.92,REC
-8,% ch week,0.6,REC
-9,% ch 1-mth,4.4,REC
-10,% ch 12-mth,-22.2,REC
+8,% ch week,1.2,REC
+9,% ch 1-mth,4.9,REC
+10,% ch 12-mth,-21.8,REC
 11,52 week H/L,157.3/79.0,REC
 12,52weekHigh,157.3,REC
 13,52weekLow,79.0,REC

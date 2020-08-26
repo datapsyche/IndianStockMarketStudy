@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,34.6,MNGL
-1,Mkt Cap,4101.0,MNGL
-2,Vol,66.9,MNGL
+0,Price,34.8,MNGL
+1,Mkt Cap,4124.0,MNGL
+2,Vol,2.3,MNGL
 3,P/E,6.4,MNGL
-4,P/CF,5.7,MNGL
+4,P/CF,5.8,MNGL
 5,EPS (TTM),5.4,MNGL
-6,% ch,-1.0,MNGL
+6,% ch,0.6,MNGL
 7,No. of shares,118.52,MNGL
-8,% ch week,3.3,MNGL
-9,% ch 1-mth,-1.6,MNGL
-10,% ch 12-mth,23.4,MNGL
+8,% ch week,3.9,MNGL
+9,% ch 1-mth,-1.0,MNGL
+10,% ch 12-mth,24.1,MNGL
 11,52 week H/L,46.4/16.4,MNGL
 12,52weekHigh,46.4,MNGL
 13,52weekLow,16.4,MNGL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,126.5,ASTM
-1,Mkt Cap,10347.0,ASTM
-2,Vol,94.5,ASTM
-3,P/E,21.9,ASTM
-4,P/CF,25.6,ASTM
+0,Price,127.3,ASTM
+1,Mkt Cap,10417.0,ASTM
+2,Vol,1.3,ASTM
+3,P/E,22.0,ASTM
+4,P/CF,25.8,ASTM
 5,EPS (TTM),5.8,ASTM
-6,% ch,-0.2,ASTM
+6,% ch,0.7,ASTM
 7,No. of shares,81.83,ASTM
-8,% ch week,7.6,ASTM
-9,% ch 1-mth,16.1,ASTM
-10,% ch 12-mth,71.1,ASTM
+8,% ch week,8.3,ASTM
+9,% ch 1-mth,16.8,ASTM
+10,% ch 12-mth,72.3,ASTM
 11,52 week H/L,132.0/45.9,ASTM
 12,52weekHigh,132.0,ASTM
 13,52weekLow,45.9,ASTM

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1620.9,SKF
-1,Mkt Cap,85470.0,SKF
-2,Vol,2.7,SKF
-3,P/E,29.6,SKF
-4,P/CF,22.4,SKF
+0,Price,1617.8,SKF
+1,Mkt Cap,85307.0,SKF
+2,Vol,0.0,SKF
+3,P/E,29.5,SKF
+4,P/CF,22.3,SKF
 5,EPS (TTM),54.8,SKF
-6,% ch,0.5,SKF
+6,% ch,-0.2,SKF
 7,No. of shares,52.73,SKF
-8,% ch week,6.7,SKF
-9,% ch 1-mth,3.1,SKF
-10,% ch 12-mth,-12.4,SKF
+8,% ch week,6.5,SKF
+9,% ch 1-mth,2.9,SKF
+10,% ch 12-mth,-12.6,SKF
 11,52 week H/L,"2,313.0/1,237.5",SKF
 12,52weekHigh,"2,313.0",SKF
 13,52weekLow,"1,237.5",SKF

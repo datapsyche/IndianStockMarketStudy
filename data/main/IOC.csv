@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,88.4,IOC
-1,Mkt Cap,858524.0,IOC
-2,Vol,1422.8,IOC
-3,P/E,-19.5,IOC
+0,Price,88.1,IOC
+1,Mkt Cap,855610.0,IOC
+2,Vol,41.5,IOC
+3,P/E,-19.4,IOC
 4,P/CF,3.5,IOC
 5,EPS (TTM),-4.5,IOC
-6,% ch,-0.5,IOC
+6,% ch,-0.3,IOC
 7,No. of shares,9711.81,IOC
-8,% ch week,1.0,IOC
-9,% ch 1-mth,-4.7,IOC
-10,% ch 12-mth,-29.6,IOC
+8,% ch week,0.7,IOC
+9,% ch 1-mth,-5.0,IOC
+10,% ch 12-mth,-29.8,IOC
 11,52 week H/L,156.0/71.2,IOC
 12,52weekHigh,156.0,IOC
 13,52weekLow,71.2,IOC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1959,IOC
 31,BSE CODE, 530965,IOC
 32,FV (Rs), 10,IOC
-33,DIV YIELD (%), 10.1,IOC
+33,DIV YIELD (%), 10.2,IOC

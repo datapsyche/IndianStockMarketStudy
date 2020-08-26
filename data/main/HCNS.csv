@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6.2,HCNS
-1,Mkt Cap,4815.0,HCNS
-2,Vol,832.8,HCNS
+0,Price,6.3,HCNS
+1,Mkt Cap,4870.0,HCNS
+2,Vol,17.3,HCNS
 3,P/E,-1.3,HCNS
-4,P/CF,-38.6,HCNS
+4,P/CF,-39.1,HCNS
 5,EPS (TTM),-4.8,HCNS
-6,% ch,-0.3,HCNS
+6,% ch,1.1,HCNS
 7,No. of shares,779.16,HCNS
-8,% ch week,3.5,HCNS
-9,% ch 1-mth,4.4,HCNS
-10,% ch 12-mth,-24.7,HCNS
+8,% ch week,4.7,HCNS
+9,% ch 1-mth,5.6,HCNS
+10,% ch 12-mth,-23.9,HCNS
 11,52 week H/L,13.3/3.6,HCNS
 12,52weekHigh,13.3,HCNS
 13,52weekLow,3.6,HCNS

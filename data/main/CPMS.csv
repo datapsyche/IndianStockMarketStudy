@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,99.2,CPMS
-1,Mkt Cap,17681.0,CPMS
-2,Vol,54.9,CPMS
+0,Price,98.1,CPMS
+1,Mkt Cap,17485.0,CPMS
+2,Vol,7.6,CPMS
 3,P/E,4.6,CPMS
 4,P/CF,3.2,CPMS
 5,EPS (TTM),21.4,CPMS
-6,% ch,-1.7,CPMS
+6,% ch,-1.1,CPMS
 7,No. of shares,178.24,CPMS
-8,% ch week,3.5,CPMS
-9,% ch 1-mth,-0.7,CPMS
-10,% ch 12-mth,-1.7,CPMS
+8,% ch week,2.4,CPMS
+9,% ch 1-mth,-1.8,CPMS
+10,% ch 12-mth,-2.8,CPMS
 11,52 week H/L,152.0/62.2,CPMS
 12,52weekHigh,152.0,CPMS
 13,52weekLow,62.2,CPMS
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1960,CPMS
 31,BSE CODE, 532162,CPMS
 32,FV (Rs), 10,CPMS
-33,DIV YIELD (%), 3.5,CPMS
+33,DIV YIELD (%), 3.6,CPMS

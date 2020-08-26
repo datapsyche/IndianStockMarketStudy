@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1198.1,BFL
-1,Mkt Cap,251758.0,BFL
-2,Vol,8.4,BFL
-3,P/E,21.2,BFL
-4,P/CF,21.9,BFL
+0,Price,1201.3,BFL
+1,Mkt Cap,252431.0,BFL
+2,Vol,0.2,BFL
+3,P/E,21.3,BFL
+4,P/CF,22.0,BFL
 5,EPS (TTM),56.4,BFL
-6,% ch,-0.1,BFL
+6,% ch,0.3,BFL
 7,No. of shares,210.14,BFL
-8,% ch week,-1.2,BFL
-9,% ch 1-mth,7.1,BFL
-10,% ch 12-mth,21.4,BFL
+8,% ch week,-0.9,BFL
+9,% ch 1-mth,7.4,BFL
+10,% ch 12-mth,21.8,BFL
 11,52 week H/L,"1,231.7/612.1",BFL
 12,52weekHigh,"1,231.7",BFL
 13,52weekLow,612.1,BFL

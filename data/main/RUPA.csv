@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,216.8,RUPA
-1,Mkt Cap,17236.0,RUPA
-2,Vol,15.2,RUPA
-3,P/E,22.5,RUPA
-4,P/CF,19.3,RUPA
+0,Price,223.0,RUPA
+1,Mkt Cap,17729.0,RUPA
+2,Vol,2.5,RUPA
+3,P/E,23.1,RUPA
+4,P/CF,19.9,RUPA
 5,EPS (TTM),9.6,RUPA
-6,% ch,6.2,RUPA
+6,% ch,2.9,RUPA
 7,No. of shares,79.52,RUPA
-8,% ch week,3.4,RUPA
-9,% ch 1-mth,37.7,RUPA
-10,% ch 12-mth,29.8,RUPA
+8,% ch week,6.3,RUPA
+9,% ch 1-mth,41.6,RUPA
+10,% ch 12-mth,33.5,RUPA
 11,52 week H/L,251.0/101.9,RUPA
 12,52weekHigh,251.0,RUPA
 13,52weekLow,101.9,RUPA
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1985,RUPA
 31,BSE CODE, 533552,RUPA
 32,FV (Rs), 1,RUPA
-33,DIV YIELD (%), 1.4,RUPA
+33,DIV YIELD (%), 1.3,RUPA

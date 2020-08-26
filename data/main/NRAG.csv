@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,44.6,NRAG
-1,Mkt Cap,6946.0,NRAG
-2,Vol,44.1,NRAG
-3,P/E,44.0,NRAG
-4,P/CF,57.7,NRAG
+0,Price,44.9,NRAG
+1,Mkt Cap,7000.0,NRAG
+2,Vol,0.3,NRAG
+3,P/E,44.4,NRAG
+4,P/CF,58.2,NRAG
 5,EPS (TTM),1.0,NRAG
-6,% ch,1.8,NRAG
+6,% ch,0.8,NRAG
 7,No. of shares,155.91,NRAG
-8,% ch week,11.1,NRAG
-9,% ch 1-mth,14.7,NRAG
-10,% ch 12-mth,63.5,NRAG
+8,% ch week,12.0,NRAG
+9,% ch 1-mth,15.6,NRAG
+10,% ch 12-mth,64.8,NRAG
 11,52 week H/L,48.0/17.1,NRAG
 12,52weekHigh,48.0,NRAG
 13,52weekLow,17.1,NRAG

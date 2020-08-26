@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1.8,BILT
-1,Mkt Cap,1200.0,BILT
-2,Vol,348.0,BILT
+0,Price,1.7,BILT
+1,Mkt Cap,1141.0,BILT
+2,Vol,402.5,BILT
 3,P/E,-0.1,BILT
 4,P/CF,-0.2,BILT
 5,EPS (TTM),-16.9,BILT
-6,% ch,-4.7,BILT
+6,% ch,-4.9,BILT
 7,No. of shares,655.52,BILT
-8,% ch week,-19.4,BILT
-9,% ch 1-mth,-12.9,BILT
-10,% ch 12-mth,181.5,BILT
+8,% ch week,-23.3,BILT
+9,% ch 1-mth,-17.1,BILT
+10,% ch 12-mth,167.7,BILT
 11,52 week H/L,3.1/0.3,BILT
 12,52weekHigh,3.1,BILT
 13,52weekLow,0.3,BILT

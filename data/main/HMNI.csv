@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,358.4,HMNI
-1,Mkt Cap,81345.0,HMNI
-2,Vol,22.1,HMNI
+0,Price,358.1,HMNI
+1,Mkt Cap,81266.0,HMNI
+2,Vol,0.8,HMNI
 3,P/E,26.3,HMNI
-4,P/CF,13.0,HMNI
+4,P/CF,12.9,HMNI
 5,EPS (TTM),13.6,HMNI
-6,% ch,0.4,HMNI
+6,% ch,-0.1,HMNI
 7,No. of shares,226.97,HMNI
-8,% ch week,1.9,HMNI
-9,% ch 1-mth,46.6,HMNI
-10,% ch 12-mth,22.3,HMNI
+8,% ch week,1.8,HMNI
+9,% ch 1-mth,46.5,HMNI
+10,% ch 12-mth,22.2,HMNI
 11,52 week H/L,363.2/140.9,HMNI
 12,52weekHigh,363.2,HMNI
 13,52weekLow,140.9,HMNI

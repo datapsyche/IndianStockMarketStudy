@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,621.2,CESC
-1,Mkt Cap,82340.0,CESC
-2,Vol,29.7,CESC
+0,Price,626.0,CESC
+1,Mkt Cap,82983.0,CESC
+2,Vol,1.6,CESC
 3,P/E,9.0,CESC
 4,P/CF,5.2,CESC
 5,EPS (TTM),69.3,CESC
-6,% ch,-2.4,CESC
+6,% ch,0.8,CESC
 7,No. of shares,132.56,CESC
-8,% ch week,4.5,CESC
-9,% ch 1-mth,7.8,CESC
-10,% ch 12-mth,-19.2,CESC
+8,% ch week,5.4,CESC
+9,% ch 1-mth,8.6,CESC
+10,% ch 12-mth,-18.6,CESC
 11,52 week H/L,854.9/366.2,CESC
 12,52weekHigh,854.9,CESC
 13,52weekLow,366.2,CESC

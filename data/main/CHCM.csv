@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,11.4,CHCM
-1,Mkt Cap,1095.0,CHCM
-2,Vol,2.1,CHCM
+1,Mkt Cap,1094.0,CHCM
+2,Vol,0.1,CHCM
 3,P/E,77.5,CHCM
-4,P/CF,47.5,CHCM
+4,P/CF,47.4,CHCM
 5,EPS (TTM),0.1,CHCM
-6,% ch,-2.0,CHCM
+6,% ch,-0.1,CHCM
 7,No. of shares,95.96,CHCM
-8,% ch week,4.1,CHCM
-9,% ch 1-mth,36.0,CHCM
-10,% ch 12-mth,65.4,CHCM
+8,% ch week,4.0,CHCM
+9,% ch 1-mth,35.9,CHCM
+10,% ch 12-mth,65.2,CHCM
 11,52 week H/L,11.9/2.4,CHCM
 12,52weekHigh,11.9,CHCM
 13,52weekLow,2.4,CHCM

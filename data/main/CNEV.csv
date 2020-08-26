@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,190.6,CNEV
-1,Mkt Cap,37239.0,CNEV
-2,Vol,39.3,CNEV
-3,P/E,71.6,CNEV
+0,Price,190.9,CNEV
+1,Mkt Cap,37298.0,CNEV
+2,Vol,6.7,CNEV
+3,P/E,71.7,CNEV
 4,P/CF,1.1,CNEV
 5,EPS (TTM),2.7,CNEV
-6,% ch,-1.9,CNEV
+6,% ch,0.2,CNEV
 7,No. of shares,195.38,CNEV
-8,% ch week,6.4,CNEV
-9,% ch 1-mth,10.1,CNEV
-10,% ch 12-mth,-34.0,CNEV
+8,% ch week,6.5,CNEV
+9,% ch 1-mth,10.3,CNEV
+10,% ch 12-mth,-33.9,CNEV
 11,52 week H/L,383.9/103.0,CNEV
 12,52weekHigh,383.9,CNEV
 13,52weekLow,103.0,CNEV
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1963,CNEV
 31,BSE CODE, 509488,CNEV
 32,FV (Rs), 2,CNEV
-33,DIV YIELD (%), 28.9,CNEV
+33,DIV YIELD (%), 28.8,CNEV

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,9.0,DISH
-1,Mkt Cap,9635.0,DISH
-2,Vol,1132.6,DISH
+0,Price,9.3,DISH
+1,Mkt Cap,9912.0,DISH
+2,Vol,46.9,DISH
 3,P/E,-0.6,DISH
-4,P/CF,3.5,DISH
+4,P/CF,3.6,DISH
 5,EPS (TTM),-14.6,DISH
-6,% ch,-0.2,DISH
+6,% ch,2.9,DISH
 7,No. of shares,1065.83,DISH
-8,% ch week,10.4,DISH
-9,% ch 1-mth,19.4,DISH
-10,% ch 12-mth,-65.5,DISH
+8,% ch week,13.6,DISH
+9,% ch 1-mth,22.9,DISH
+10,% ch 12-mth,-64.5,DISH
 11,52 week H/L,26.5/3.9,DISH
 12,52weekHigh,26.5,DISH
 13,52weekLow,3.9,DISH
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 2006,DISH
 31,BSE CODE, 532839,DISH
 32,FV (Rs), 1,DISH
-33,DIV YIELD (%), 9.6,DISH
+33,DIV YIELD (%), 9.3,DISH

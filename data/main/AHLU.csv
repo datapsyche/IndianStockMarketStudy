@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,250.2,AHLU
-1,Mkt Cap,16761.0,AHLU
-2,Vol,0.3,AHLU
-3,P/E,20.5,AHLU
-4,P/CF,11.6,AHLU
+0,Price,255.0,AHLU
+1,Mkt Cap,17082.0,AHLU
+2,Vol,0.8,AHLU
+3,P/E,20.9,AHLU
+4,P/CF,11.8,AHLU
 5,EPS (TTM),12.2,AHLU
-6,% ch,-0.5,AHLU
+6,% ch,1.9,AHLU
 7,No. of shares,66.99,AHLU
-8,% ch week,0.2,AHLU
-9,% ch 1-mth,13.5,AHLU
-10,% ch 12-mth,-16.9,AHLU
+8,% ch week,2.1,AHLU
+9,% ch 1-mth,15.7,AHLU
+10,% ch 12-mth,-15.3,AHLU
 11,52 week H/L,369.3/136.1,AHLU
 12,52weekHigh,369.3,AHLU
 13,52weekLow,136.1,AHLU

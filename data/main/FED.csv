@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,56.7,FED
-1,Mkt Cap,112487.0,FED
-2,Vol,3421.7,FED
-3,P/E,7.2,FED
+0,Price,57.3,FED
+1,Mkt Cap,113678.0,FED
+2,Vol,90.1,FED
+3,P/E,7.3,FED
 4,P/CF,3.3,FED
 5,EPS (TTM),7.9,FED
-6,% ch,1.4,FED
+6,% ch,1.1,FED
 7,No. of shares,1983.91,FED
-8,% ch week,7.3,FED
-9,% ch 1-mth,-1.4,FED
-10,% ch 12-mth,-31.7,FED
+8,% ch week,8.4,FED
+9,% ch 1-mth,-0.3,FED
+10,% ch 12-mth,-31.0,FED
 11,52 week H/L,98.6/35.7,FED
 12,52weekHigh,98.6,FED
 13,52weekLow,35.7,FED
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1931,FED
 31,BSE CODE, 500469,FED
 32,FV (Rs), 2,FED
-33,DIV YIELD (%), 1.8,FED
+33,DIV YIELD (%), 1.7,FED

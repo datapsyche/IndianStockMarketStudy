@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,256.1,INET
-1,Mkt Cap,32265.0,INET
-2,Vol,815.0,INET
-3,P/E,20.2,INET
-4,P/CF,13.3,INET
+0,Price,258.9,INET
+1,Mkt Cap,32611.0,INET
+2,Vol,0.8,INET
+3,P/E,20.4,INET
+4,P/CF,13.4,INET
 5,EPS (TTM),12.7,INET
-6,% ch,1.4,INET
+6,% ch,1.1,INET
 7,No. of shares,125.98,INET
-8,% ch week,19.8,INET
-9,% ch 1-mth,40.5,INET
-10,% ch 12-mth,-46.2,INET
+8,% ch week,21.1,INET
+9,% ch 1-mth,42.0,INET
+10,% ch 12-mth,-45.7,INET
 11,52 week H/L,487.4/145.0,INET
 12,52weekHigh,487.4,INET
 13,52weekLow,145.0,INET
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1982,INET
 31,BSE CODE, 512179,INET
 32,FV (Rs), 2,INET
-33,DIV YIELD (%), 0.7,INET
+33,DIV YIELD (%), 0.6,INET

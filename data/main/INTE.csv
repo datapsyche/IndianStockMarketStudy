@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,381.2,INTE
-1,Mkt Cap,42826.0,INTE
-2,Vol,36.2,INTE
-3,P/E,12.4,INTE
+0,Price,383.0,INTE
+1,Mkt Cap,43034.0,INTE
+2,Vol,0.4,INTE
+3,P/E,12.5,INTE
 4,P/CF,7.3,INTE
 5,EPS (TTM),30.7,INTE
-6,% ch,-2.1,INTE
+6,% ch,0.5,INTE
 7,No. of shares,112.36,INTE
-8,% ch week,-6.3,INTE
-9,% ch 1-mth,20.3,INTE
-10,% ch 12-mth,-13.2,INTE
+8,% ch week,-5.8,INTE
+9,% ch 1-mth,20.9,INTE
+10,% ch 12-mth,-12.7,INTE
 11,52 week H/L,514.0/184.2,INTE
 12,52weekHigh,514.0,INTE
 13,52weekLow,184.2,INTE

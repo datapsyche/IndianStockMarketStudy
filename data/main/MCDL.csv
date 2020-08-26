@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,581.5,MCDL
-1,Mkt Cap,84509.0,MCDL
-2,Vol,111.5,MCDL
-3,P/E,13.2,MCDL
+0,Price,583.9,MCDL
+1,Mkt Cap,84851.0,MCDL
+2,Vol,1.4,MCDL
+3,P/E,13.3,MCDL
 4,P/CF,9.4,MCDL
 5,EPS (TTM),43.9,MCDL
-6,% ch,-0.5,MCDL
+6,% ch,0.4,MCDL
 7,No. of shares,145.33,MCDL
-8,% ch week,-0.7,MCDL
-9,% ch 1-mth,-2.9,MCDL
-10,% ch 12-mth,-1.6,MCDL
+8,% ch week,-0.3,MCDL
+9,% ch 1-mth,-2.5,MCDL
+10,% ch 12-mth,-1.2,MCDL
 11,52 week H/L,743.0/443.0,MCDL
 12,52weekHigh,743.0,MCDL
 13,52weekLow,443.0,MCDL

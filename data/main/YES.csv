@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,14.8,YES
-1,Mkt Cap,33855.0,YES
-2,Vol,46612.1,YES
+0,Price,14.5,YES
+1,Mkt Cap,33123.0,YES
+2,Vol,525.4,YES
 3,P/E,-0.1,YES
 4,P/CF,0.4,YES
 5,EPS (TTM),-99.3,YES
-6,% ch,-5.0,YES
+6,% ch,-2.2,YES
 7,No. of shares,2287.47,YES
-8,% ch week,3.4,YES
-9,% ch 1-mth,8.4,YES
-10,% ch 12-mth,-76.5,YES
+8,% ch week,1.1,YES
+9,% ch 1-mth,6.1,YES
+10,% ch 12-mth,-77.0,YES
 11,52 week H/L,88.0/5.6,YES
 12,52weekHigh,88.0,YES
 13,52weekLow,5.6,YES
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1998,YES
 31,BSE CODE, 532648,YES
 32,FV (Rs), 10,YES
-33,DIV YIELD (%), 2.7,YES
+33,DIV YIELD (%), 2.8,YES

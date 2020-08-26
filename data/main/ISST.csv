@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6.0,ISST
-1,Mkt Cap,878.0,ISST
-2,Vol,56.3,ISST
+0,Price,6.3,ISST
+1,Mkt Cap,920.0,ISST
+2,Vol,4.9,ISST
 3,P/E,-0.4,ISST
 4,P/CF,-0.5,ISST
 5,EPS (TTM),-15.8,ISST
-6,% ch,4.9,ISST
+6,% ch,4.8,ISST
 7,No. of shares,146.50,ISST
-8,% ch week,23.5,ISST
-9,% ch 1-mth,19.8,ISST
-10,% ch 12-mth,50.9,ISST
+8,% ch week,29.5,ISST
+9,% ch 1-mth,25.6,ISST
+10,% ch 12-mth,58.2,ISST
 11,52 week H/L,7.3/2.0,ISST
 12,52weekHigh,7.3,ISST
 13,52weekLow,2.0,ISST

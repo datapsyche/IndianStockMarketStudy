@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,184.9,CENKA
-1,Mkt Cap,4039.0,CENKA
-2,Vol,11.7,CENKA
-3,P/E,4.2,CENKA
+0,Price,186.0,CENKA
+1,Mkt Cap,4064.0,CENKA
+2,Vol,1.1,CENKA
+3,P/E,4.3,CENKA
 4,P/CF,3.3,CENKA
 5,EPS (TTM),43.7,CENKA
-6,% ch,-1.0,CENKA
+6,% ch,0.6,CENKA
 7,No. of shares,21.85,CENKA
-8,% ch week,12.6,CENKA
-9,% ch 1-mth,2.6,CENKA
-10,% ch 12-mth,4.3,CENKA
+8,% ch week,13.3,CENKA
+9,% ch 1-mth,3.3,CENKA
+10,% ch 12-mth,4.9,CENKA
 11,52 week H/L,218.5/100.0,CENKA
 12,52weekHigh,218.5,CENKA
 13,52weekLow,100.0,CENKA

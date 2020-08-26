@@ -1,14 +1,14 @@
 ,0,1,name
-0,Price,185.2,PGRID
-1,Mkt Cap,968627.0,PGRID
-2,Vol,222.6,PGRID
+0,Price,185.0,PGRID
+1,Mkt Cap,967842.0,PGRID
+2,Vol,5.7,PGRID
 3,P/E,10.6,PGRID
 4,P/CF,4.2,PGRID
 5,EPS (TTM),17.4,PGRID
-6,% ch,-2.1,PGRID
+6,% ch,-0.1,PGRID
 7,No. of shares,5231.58,PGRID
 8,% ch week,3.6,PGRID
-9,% ch 1-mth,1.8,PGRID
+9,% ch 1-mth,1.7,PGRID
 10,% ch 12-mth,-8.8,PGRID
 11,52 week H/L,211.2/129.8,PGRID
 12,52weekHigh,211.2,PGRID

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,324.7,TTCH
-1,Mkt Cap,82708.0,TTCH
-2,Vol,435.7,TTCH
-3,P/E,8.8,TTCH
-4,P/CF,4.4,TTCH
+0,Price,332.8,TTCH
+1,Mkt Cap,84771.0,TTCH
+2,Vol,23.8,TTCH
+3,P/E,9.0,TTCH
+4,P/CF,4.5,TTCH
 5,EPS (TTM),36.8,TTCH
-6,% ch,3.0,TTCH
+6,% ch,2.5,TTCH
 7,No. of shares,254.76,TTCH
-8,% ch week,11.2,TTCH
-9,% ch 1-mth,7.6,TTCH
-10,% ch 12-mth,-41.7,TTCH
+8,% ch week,14.0,TTCH
+9,% ch 1-mth,10.3,TTCH
+10,% ch 12-mth,-40.2,TTCH
 11,52 week H/L,779.3/197.4,TTCH
 12,52weekHigh,779.3,TTCH
 13,52weekLow,197.4,TTCH
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1939,TTCH
 31,BSE CODE, 500770,TTCH
 32,FV (Rs), 10,TTCH
-33,DIV YIELD (%), 3.9,TTCH
+33,DIV YIELD (%), 3.8,TTCH

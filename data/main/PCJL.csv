@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,16.2,PCJL
-1,Mkt Cap,5792.0,PCJL
-2,Vol,464.8,PCJL
-3,P/E,7.4,PCJL
-4,P/CF,29.7,PCJL
+0,Price,16.4,PCJL
+1,Mkt Cap,5860.0,PCJL
+2,Vol,2.0,PCJL
+3,P/E,7.5,PCJL
+4,P/CF,30.0,PCJL
 5,EPS (TTM),2.2,PCJL
-6,% ch,0.4,PCJL
+6,% ch,1.2,PCJL
 7,No. of shares,358.00,PCJL
-8,% ch week,1.8,PCJL
-9,% ch 1-mth,3.7,PCJL
-10,% ch 12-mth,-48.5,PCJL
+8,% ch week,3.0,PCJL
+9,% ch 1-mth,4.9,PCJL
+10,% ch 12-mth,-47.9,PCJL
 11,52 week H/L,44.9/7.8,PCJL
 12,52weekHigh,44.9,PCJL
 13,52weekLow,7.8,PCJL

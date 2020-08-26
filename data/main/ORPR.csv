@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,18.9,ORPR
-1,Mkt Cap,3872.0,ORPR
-2,Vol,76.5,ORPR
-3,P/E,19.4,ORPR
+0,Price,18.8,ORPR
+1,Mkt Cap,3842.0,ORPR
+2,Vol,1.6,ORPR
+3,P/E,19.3,ORPR
 4,P/CF,2.9,ORPR
 5,EPS (TTM),1.0,ORPR
-6,% ch,-1.1,ORPR
+6,% ch,-0.8,ORPR
 7,No. of shares,204.88,ORPR
-8,% ch week,-3.1,ORPR
-9,% ch 1-mth,0.5,ORPR
-10,% ch 12-mth,-16.2,ORPR
+8,% ch week,-3.8,ORPR
+9,% ch 1-mth,-0.3,ORPR
+10,% ch 12-mth,-16.9,ORPR
 11,52 week H/L,34.8/11.6,ORPR
 12,52weekHigh,34.8,ORPR
 13,52weekLow,11.6,ORPR
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1936,ORPR
 31,BSE CODE, 502420,ORPR
 32,FV (Rs), 1,ORPR
-33,DIV YIELD (%), 6.0,ORPR
+33,DIV YIELD (%), 6.1,ORPR

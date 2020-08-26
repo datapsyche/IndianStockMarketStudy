@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,861.9,GPL
-1,Mkt Cap,171810.0,GPL
-2,Vol,18.4,GPL
-3,P/E,70.9,GPL
-4,P/CF,67.8,GPL
+0,Price,867.0,GPL
+1,Mkt Cap,172836.0,GPL
+2,Vol,1.1,GPL
+3,P/E,71.3,GPL
+4,P/CF,68.2,GPL
 5,EPS (TTM),12.2,GPL
-6,% ch,0.4,GPL
+6,% ch,0.6,GPL
 7,No. of shares,199.35,GPL
-8,% ch week,-1.2,GPL
-9,% ch 1-mth,-3.8,GPL
-10,% ch 12-mth,-4.2,GPL
+8,% ch week,-0.6,GPL
+9,% ch 1-mth,-3.3,GPL
+10,% ch 12-mth,-3.6,GPL
 11,52 week H/L,"1,188.0/506.0",GPL
 12,52weekHigh,"1,188.0",GPL
 13,52weekLow,506.0,GPL

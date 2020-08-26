@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6.3,UTMS
-1,Mkt Cap,891.0,UTMS
-2,Vol,30.9,UTMS
+0,Price,6.5,UTMS
+1,Mkt Cap,925.0,UTMS
+2,Vol,0.0,UTMS
 3,P/E,-0.1,UTMS
 4,P/CF,-0.1,UTMS
 5,EPS (TTM),-113.8,UTMS
-6,% ch,-0.3,UTMS
+6,% ch,3.8,UTMS
 7,No. of shares,142.26,UTMS
-8,% ch week,-5.0,UTMS
-9,% ch 1-mth,-4.9,UTMS
-10,% ch 12-mth,-15.5,UTMS
+8,% ch week,-1.4,UTMS
+9,% ch 1-mth,-1.2,UTMS
+10,% ch 12-mth,-12.3,UTMS
 11,52 week H/L,10.9/3.6,UTMS
 12,52weekHigh,10.9,UTMS
 13,52weekLow,3.6,UTMS

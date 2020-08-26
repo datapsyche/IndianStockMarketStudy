@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,121.7,UCLF
-1,Mkt Cap,2691.0,UCLF
-2,Vol,12.4,UCLF
-3,P/E,8.6,UCLF
+0,Price,124.0,UCLF
+1,Mkt Cap,2742.0,UCLF
+2,Vol,0.2,UCLF
+3,P/E,8.8,UCLF
 4,P/CF,2.1,UCLF
 5,EPS (TTM),14.1,UCLF
-6,% ch,-2.5,UCLF
+6,% ch,1.9,UCLF
 7,No. of shares,22.11,UCLF
-8,% ch week,8.5,UCLF
-9,% ch 1-mth,0.7,UCLF
-10,% ch 12-mth,-5.5,UCLF
+8,% ch week,10.6,UCLF
+9,% ch 1-mth,2.6,UCLF
+10,% ch 12-mth,-3.7,UCLF
 11,52 week H/L,158.7/63.0,UCLF
 12,52weekHigh,158.7,UCLF
 13,52weekLow,63.0,UCLF
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1985,UCLF
 31,BSE CODE, 500464,UCLF
 32,FV (Rs), 10,UCLF
-33,DIV YIELD (%), 8.2,UCLF
+33,DIV YIELD (%), 8.1,UCLF

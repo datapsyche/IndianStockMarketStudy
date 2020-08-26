@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,424.8,APTE
-1,Mkt Cap,127916.0,APTE
-2,Vol,51.0,APTE
-3,P/E,18.9,APTE
+0,Price,423.4,APTE
+1,Mkt Cap,127479.0,APTE
+2,Vol,1.2,APTE
+3,P/E,18.8,APTE
 4,P/CF,19.7,APTE
 5,EPS (TTM),22.5,APTE
-6,% ch,1.5,APTE
+6,% ch,-0.3,APTE
 7,No. of shares,301.12,APTE
-8,% ch week,3.9,APTE
-9,% ch 1-mth,18.5,APTE
-10,% ch 12-mth,9.5,APTE
+8,% ch week,3.5,APTE
+9,% ch 1-mth,18.1,APTE
+10,% ch 12-mth,9.1,APTE
 11,52 week H/L,441.8/201.7,APTE
 12,52weekHigh,441.8,APTE
 13,52weekLow,201.7,APTE

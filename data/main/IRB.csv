@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,124.7,IRB
-1,Mkt Cap,41429.0,IRB
-2,Vol,147.3,IRB
-3,P/E,5.6,IRB
-4,P/CF,3.0,IRB
+0,Price,129.1,IRB
+1,Mkt Cap,42891.0,IRB
+2,Vol,29.4,IRB
+3,P/E,5.8,IRB
+4,P/CF,3.1,IRB
 5,EPS (TTM),22.2,IRB
-6,% ch,-2.2,IRB
+6,% ch,3.5,IRB
 7,No. of shares,332.36,IRB
-8,% ch week,4.8,IRB
-9,% ch 1-mth,1.7,IRB
-10,% ch 12-mth,54.4,IRB
+8,% ch week,8.5,IRB
+9,% ch 1-mth,5.3,IRB
+10,% ch 12-mth,59.8,IRB
 11,52 week H/L,138.8/46.0,IRB
 12,52weekHigh,138.8,IRB
 13,52weekLow,46.0,IRB
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1998,IRB
 31,BSE CODE, 532947,IRB
 32,FV (Rs), 10,IRB
-33,DIV YIELD (%), 2.1,IRB
+33,DIV YIELD (%), 2.0,IRB

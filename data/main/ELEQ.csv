@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,228.4,ELEQ
-1,Mkt Cap,36182.0,ELEQ
-2,Vol,3.8,ELEQ
-3,P/E,87.6,ELEQ
-4,P/CF,23.8,ELEQ
+0,Price,227.0,ELEQ
+1,Mkt Cap,35960.0,ELEQ
+2,Vol,0.2,ELEQ
+3,P/E,87.0,ELEQ
+4,P/CF,23.7,ELEQ
 5,EPS (TTM),2.6,ELEQ
-6,% ch,1.0,ELEQ
+6,% ch,-0.6,ELEQ
 7,No. of shares,158.45,ELEQ
-8,% ch week,-5.0,ELEQ
-9,% ch 1-mth,36.1,ELEQ
-10,% ch 12-mth,-6.2,ELEQ
+8,% ch week,-5.6,ELEQ
+9,% ch 1-mth,35.3,ELEQ
+10,% ch 12-mth,-6.8,ELEQ
 11,52 week H/L,309.6/102.3,ELEQ
 12,52weekHigh,309.6,ELEQ
 13,52weekLow,102.3,ELEQ

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,8719.0,HOCM
-1,Mkt Cap,200799.0,HOCM
-2,Vol,1.2,HOCM
-3,P/E,49.4,HOCM
-4,P/CF,41.5,HOCM
+0,Price,8800.0,HOCM
+1,Mkt Cap,202664.0,HOCM
+2,Vol,0.0,HOCM
+3,P/E,49.8,HOCM
+4,P/CF,41.9,HOCM
 5,EPS (TTM),176.6,HOCM
-6,% ch,-1.0,HOCM
+6,% ch,0.9,HOCM
 7,No. of shares,23.03,HOCM
-8,% ch week,4.1,HOCM
-9,% ch 1-mth,13.0,HOCM
-10,% ch 12-mth,45.2,HOCM
+8,% ch week,5.0,HOCM
+9,% ch 1-mth,14.1,HOCM
+10,% ch 12-mth,46.6,HOCM
 11,52 week H/L,"8,999.0/5,610.0",HOCM
 12,52weekHigh,"8,999.0",HOCM
 13,52weekLow,"5,610.0",HOCM

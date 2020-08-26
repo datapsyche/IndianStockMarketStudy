@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,153.0,CNPLY
-1,Mkt Cap,33988.0,CNPLY
-2,Vol,107.9,CNPLY
-3,P/E,16.8,CNPLY
-4,P/CF,16.3,CNPLY
+0,Price,152.0,CNPLY
+1,Mkt Cap,33777.0,CNPLY
+2,Vol,6.1,CNPLY
+3,P/E,16.7,CNPLY
+4,P/CF,16.2,CNPLY
 5,EPS (TTM),9.1,CNPLY
-6,% ch,7.8,CNPLY
+6,% ch,-0.6,CNPLY
 7,No. of shares,222.22,CNPLY
-8,% ch week,14.3,CNPLY
-9,% ch 1-mth,20.8,CNPLY
-10,% ch 12-mth,13.5,CNPLY
+8,% ch week,13.6,CNPLY
+9,% ch 1-mth,20.1,CNPLY
+10,% ch 12-mth,12.8,CNPLY
 11,52 week H/L,181.6/95.0,CNPLY
 12,52weekHigh,181.6,CNPLY
 13,52weekLow,95.0,CNPLY

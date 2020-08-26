@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,31.4,RAUT
-1,Mkt Cap,4241.0,RAUT
-2,Vol,52.0,RAUT
-3,P/E,25.4,RAUT
-4,P/CF,4.0,RAUT
+0,Price,32.3,RAUT
+1,Mkt Cap,4363.0,RAUT
+2,Vol,16.6,RAUT
+3,P/E,26.2,RAUT
+4,P/CF,4.1,RAUT
 5,EPS (TTM),1.2,RAUT
-6,% ch,0.2,RAUT
+6,% ch,2.9,RAUT
 7,No. of shares,135.29,RAUT
-8,% ch week,-0.5,RAUT
-9,% ch 1-mth,12.4,RAUT
-10,% ch 12-mth,-13.5,RAUT
+8,% ch week,2.4,RAUT
+9,% ch 1-mth,15.6,RAUT
+10,% ch 12-mth,-11.0,RAUT
 11,52 week H/L,54.0/16.0,RAUT
 12,52weekHigh,54.0,RAUT
 13,52weekLow,16.0,RAUT
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1986,RAUT
 31,BSE CODE, 520008,RAUT
 32,FV (Rs), 1,RAUT
-33,DIV YIELD (%), 2.6,RAUT
+33,DIV YIELD (%), 2.5,RAUT

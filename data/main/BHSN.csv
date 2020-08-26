@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,25.6,BHSN
-1,Mkt Cap,5788.0,BHSN
-2,Vol,95.9,BHSN
+0,Price,25.4,BHSN
+1,Mkt Cap,5754.0,BHSN
+2,Vol,2.1,BHSN
 3,P/E,-0.4,BHSN
 4,P/CF,0.2,BHSN
 5,EPS (TTM),-62.7,BHSN
-6,% ch,0.2,BHSN
+6,% ch,-0.6,BHSN
 7,No. of shares,226.52,BHSN
-8,% ch week,2.0,BHSN
-9,% ch 1-mth,20.5,BHSN
-10,% ch 12-mth,21.4,BHSN
+8,% ch week,1.4,BHSN
+9,% ch 1-mth,19.8,BHSN
+10,% ch 12-mth,20.7,BHSN
 11,52 week H/L,32.6/15.3,BHSN
 12,52weekHigh,32.6,BHSN
 13,52weekLow,15.3,BHSN

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,290.4,ESPK
-1,Mkt Cap,91275.0,ESPK
-2,Vol,16.6,ESPK
+0,Price,291.0,ESPK
+1,Mkt Cap,91479.0,ESPK
+2,Vol,0.5,ESPK
 3,P/E,42.0,ESPK
 4,P/CF,24.3,ESPK
 5,EPS (TTM),6.9,ESPK
-6,% ch,-1.1,ESPK
+6,% ch,0.2,ESPK
 7,No. of shares,314.36,ESPK
-8,% ch week,6.1,ESPK
-9,% ch 1-mth,49.4,ESPK
-10,% ch 12-mth,221.9,ESPK
+8,% ch week,6.4,ESPK
+9,% ch 1-mth,49.7,ESPK
+10,% ch 12-mth,222.6,ESPK
 11,52 week H/L,318.8/85.3,ESPK
 12,52weekHigh,318.8,ESPK
 13,52weekLow,85.3,ESPK

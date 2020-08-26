@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,308.4,GDRK
-1,Mkt Cap,6660.0,GDRK
-2,Vol,48.6,GDRK
-3,P/E,40.8,GDRK
-4,P/CF,14.3,GDRK
+0,Price,311.0,GDRK
+1,Mkt Cap,6718.0,GDRK
+2,Vol,0.0,GDRK
+3,P/E,41.2,GDRK
+4,P/CF,14.5,GDRK
 5,EPS (TTM),7.6,GDRK
-6,% ch,2.0,GDRK
+6,% ch,0.9,GDRK
 7,No. of shares,21.60,GDRK
-8,% ch week,11.0,GDRK
-9,% ch 1-mth,36.8,GDRK
-10,% ch 12-mth,92.5,GDRK
+8,% ch week,11.9,GDRK
+9,% ch 1-mth,38.0,GDRK
+10,% ch 12-mth,94.2,GDRK
 11,52 week H/L,317.7/90.0,GDRK
 12,52weekHigh,317.7,GDRK
 13,52weekLow,90.0,GDRK
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1977,GDRK
 31,BSE CODE, 500166,GDRK
 32,FV (Rs), 10,GDRK
-33,DIV YIELD (%), 1.5,GDRK
+33,DIV YIELD (%), 1.4,GDRK

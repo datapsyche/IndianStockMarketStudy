@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,82.4,SHVM
-1,Mkt Cap,3565.0,SHVM
-2,Vol,6.0,SHVM
-3,P/E,-12.2,SHVM
-4,P/CF,4.3,SHVM
+0,Price,80.0,SHVM
+1,Mkt Cap,3461.0,SHVM
+2,Vol,0.3,SHVM
+3,P/E,-11.9,SHVM
+4,P/CF,4.2,SHVM
 5,EPS (TTM),-6.7,SHVM
-6,% ch,-2.3,SHVM
+6,% ch,-2.9,SHVM
 7,No. of shares,43.29,SHVM
-8,% ch week,16.9,SHVM
-9,% ch 1-mth,13.7,SHVM
-10,% ch 12-mth,-8.3,SHVM
+8,% ch week,13.5,SHVM
+9,% ch 1-mth,10.4,SHVM
+10,% ch 12-mth,-11.0,SHVM
 11,52 week H/L,120.0/44.7,SHVM
 12,52weekHigh,120.0,SHVM
 13,52weekLow,44.7,SHVM

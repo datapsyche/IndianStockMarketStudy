@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,545.7,TTEA
-1,Mkt Cap,337430.0,TTEA
-2,Vol,56.2,TTEA
-3,P/E,54.2,TTEA
-4,P/CF,56.6,TTEA
+0,Price,544.8,TTEA
+1,Mkt Cap,336904.0,TTEA
+2,Vol,3.3,TTEA
+3,P/E,54.1,TTEA
+4,P/CF,56.5,TTEA
 5,EPS (TTM),10.1,TTEA
-6,% ch,0.1,TTEA
+6,% ch,-0.2,TTEA
 7,No. of shares,618.40,TTEA
-8,% ch week,0.4,TTEA
-9,% ch 1-mth,33.5,TTEA
-10,% ch 12-mth,102.7,TTEA
+8,% ch week,0.2,TTEA
+9,% ch 1-mth,33.3,TTEA
+10,% ch 12-mth,102.3,TTEA
 11,52 week H/L,554.9/214.0,TTEA
 12,52weekHigh,554.9,TTEA
 13,52weekLow,214.0,TTEA

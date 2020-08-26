@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,66.0,HSAN
-1,Mkt Cap,4356.0,HSAN
-2,Vol,68.1,HSAN
-3,P/E,9.0,HSAN
+0,Price,66.8,HSAN
+1,Mkt Cap,4412.0,HSAN
+2,Vol,2.3,HSAN
+3,P/E,9.1,HSAN
 4,P/CF,2.0,HSAN
 5,EPS (TTM),7.3,HSAN
-6,% ch,2.8,HSAN
+6,% ch,1.3,HSAN
 7,No. of shares,66.05,HSAN
-8,% ch week,9.8,HSAN
-9,% ch 1-mth,18.0,HSAN
-10,% ch 12-mth,24.3,HSAN
+8,% ch week,11.2,HSAN
+9,% ch 1-mth,19.5,HSAN
+10,% ch 12-mth,25.9,HSAN
 11,52 week H/L,69.4/34.7,HSAN
 12,52weekHigh,69.4,HSAN
 13,52weekLow,34.7,HSAN
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1958,HSAN
 31,BSE CODE, 500187,HSAN
 32,FV (Rs), 2,HSAN
-33,DIV YIELD (%), 5.0,HSAN
+33,DIV YIELD (%), 4.9,HSAN

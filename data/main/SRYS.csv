@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,91.1,SRYS
-1,Mkt Cap,1582.0,SRYS
-2,Vol,0.8,SRYS
-3,P/E,3.9,SRYS
-4,P/CF,20.2,SRYS
+0,Price,88.3,SRYS
+1,Mkt Cap,1533.0,SRYS
+2,Vol,0.0,SRYS
+3,P/E,3.8,SRYS
+4,P/CF,19.6,SRYS
 5,EPS (TTM),23.5,SRYS
-6,% ch,-1.6,SRYS
+6,% ch,-3.1,SRYS
 7,No. of shares,17.37,SRYS
-8,% ch week,13.0,SRYS
-9,% ch 1-mth,53.4,SRYS
-10,% ch 12-mth,15.9,SRYS
+8,% ch week,9.6,SRYS
+9,% ch 1-mth,48.7,SRYS
+10,% ch 12-mth,12.3,SRYS
 11,52 week H/L,116.8/44.6,SRYS
 12,52weekHigh,116.8,SRYS
 13,52weekLow,44.6,SRYS
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1982,SRYS
 31,BSE CODE, 511413,SRYS
 32,FV (Rs), 10,SRYS
-33,DIV YIELD (%), 9.0,SRYS
+33,DIV YIELD (%), 9.3,SRYS

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,58.4,GOEX
-1,Mkt Cap,2020.0,GOEX
-2,Vol,60.3,GOEX
-3,P/E,6.2,GOEX
-4,P/CF,-13.9,GOEX
+0,Price,58.8,GOEX
+1,Mkt Cap,2032.0,GOEX
+2,Vol,1.5,GOEX
+3,P/E,6.3,GOEX
+4,P/CF,-14.0,GOEX
 5,EPS (TTM),9.4,GOEX
-6,% ch,-0.6,GOEX
+6,% ch,0.6,GOEX
 7,No. of shares,34.59,GOEX
-8,% ch week,7.7,GOEX
-9,% ch 1-mth,22.0,GOEX
-10,% ch 12-mth,-25.2,GOEX
+8,% ch week,8.4,GOEX
+9,% ch 1-mth,22.8,GOEX
+10,% ch 12-mth,-24.8,GOEX
 11,52 week H/L,96.9/27.6,GOEX
 12,52weekHigh,96.9,GOEX
 13,52weekLow,27.6,GOEX

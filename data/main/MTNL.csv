@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,9.3,MTNL
-1,Mkt Cap,5834.0,MTNL
-2,Vol,141.4,MTNL
+0,Price,9.2,MTNL
+1,Mkt Cap,5821.0,MTNL
+2,Vol,2.6,MTNL
 3,P/E,-0.2,MTNL
 4,P/CF,-0.2,MTNL
 5,EPS (TTM),-60.7,MTNL
-6,% ch,-0.4,MTNL
+6,% ch,-0.2,MTNL
 7,No. of shares,630.00,MTNL
-8,% ch week,-1.1,MTNL
-9,% ch 1-mth,-3.7,MTNL
-10,% ch 12-mth,79.5,MTNL
+8,% ch week,-1.3,MTNL
+9,% ch 1-mth,-4.0,MTNL
+10,% ch 12-mth,79.1,MTNL
 11,52 week H/L,13.3/4.9,MTNL
 12,52weekHigh,13.3,MTNL
 13,52weekLow,4.9,MTNL

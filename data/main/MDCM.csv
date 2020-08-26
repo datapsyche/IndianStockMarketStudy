@@ -1,14 +1,14 @@
 ,0,1,name
-0,Price,722.1,MDCM
-1,Mkt Cap,171848.0,MDCM
-2,Vol,17.1,MDCM
+0,Price,722.7,MDCM
+1,Mkt Cap,172003.0,MDCM
+2,Vol,0.9,MDCM
 3,P/E,28.6,MDCM
 4,P/CF,21.3,MDCM
 5,EPS (TTM),25.3,MDCM
-6,% ch,-1.2,MDCM
+6,% ch,0.1,MDCM
 7,No. of shares,238.00,MDCM
-8,% ch week,7.7,MDCM
-9,% ch 1-mth,4.9,MDCM
+8,% ch week,7.8,MDCM
+9,% ch 1-mth,5.0,MDCM
 10,% ch 12-mth,-2.0,MDCM
 11,52 week H/L,883.3/456.5,MDCM
 12,52weekHigh,883.3,MDCM

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,472.6,GLNE
-1,Mkt Cap,254731.0,GLNE
-2,Vol,10.2,GLNE
-3,P/E,59.2,GLNE
-4,P/CF,46.0,GLNE
+0,Price,475.8,GLNE
+1,Mkt Cap,256429.0,GLNE
+2,Vol,0.4,GLNE
+3,P/E,59.6,GLNE
+4,P/CF,46.3,GLNE
 5,EPS (TTM),8.0,GLNE
-6,% ch,-0.7,GLNE
+6,% ch,0.7,GLNE
 7,No. of shares,539.00,GLNE
-8,% ch week,-0.9,GLNE
-9,% ch 1-mth,8.9,GLNE
-10,% ch 12-mth,-1.4,GLNE
+8,% ch week,-0.2,GLNE
+9,% ch 1-mth,9.6,GLNE
+10,% ch 12-mth,-0.7,GLNE
 11,52 week H/L,573.0/296.3,GLNE
 12,52weekHigh,573.0,GLNE
 13,52weekLow,296.3,GLNE
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1920,GLNE
 31,BSE CODE, 500165,GLNE
 32,FV (Rs), 1,GLNE
-33,DIV YIELD (%), 0.6,GLNE
+33,DIV YIELD (%), 0.5,GLNE

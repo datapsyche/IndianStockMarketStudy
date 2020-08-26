@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6399.2,BAFIN
-1,Mkt Cap,1018241.0,BAFIN
-2,Vol,18.7,BAFIN
-3,P/E,17.0,BAFIN
-4,P/CF,22.9,BAFIN
+0,Price,6426.6,BAFIN
+1,Mkt Cap,1022593.0,BAFIN
+2,Vol,0.8,BAFIN
+3,P/E,17.1,BAFIN
+4,P/CF,23.0,BAFIN
 5,EPS (TTM),376.6,BAFIN
-6,% ch,1.9,BAFIN
+6,% ch,0.4,BAFIN
 7,No. of shares,159.12,BAFIN
-8,% ch week,2.1,BAFIN
-9,% ch 1-mth,2.1,BAFIN
-10,% ch 12-mth,-11.0,BAFIN
+8,% ch week,2.5,BAFIN
+9,% ch 1-mth,2.5,BAFIN
+10,% ch 12-mth,-10.6,BAFIN
 11,52 week H/L,"10,297.0/3,985.6",BAFIN
 12,52weekHigh,"10,297.0",BAFIN
 13,52weekLow,"3,985.6",BAFIN

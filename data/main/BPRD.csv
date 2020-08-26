@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,96.2,BPRD
-1,Mkt Cap,7156.0,BPRD
-2,Vol,38.2,BPRD
+0,Price,97.0,BPRD
+1,Mkt Cap,7216.0,BPRD
+2,Vol,0.4,BPRD
 3,P/E,11.2,BPRD
 4,P/CF,6.4,BPRD
 5,EPS (TTM),8.6,BPRD
-6,% ch,-0.8,BPRD
+6,% ch,0.8,BPRD
 7,No. of shares,74.39,BPRD
-8,% ch week,5.0,BPRD
-9,% ch 1-mth,15.7,BPRD
-10,% ch 12-mth,-0.3,BPRD
+8,% ch week,5.8,BPRD
+9,% ch 1-mth,16.7,BPRD
+10,% ch 12-mth,0.6,BPRD
 11,52 week H/L,120.9/55.0,BPRD
 12,52weekHigh,120.9,BPRD
 13,52weekLow,55.0,BPRD
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1962,BPRD
 31,BSE CODE, 500039,BPRD
 32,FV (Rs), 2,BPRD
-33,DIV YIELD (%), 8.0,BPRD
+33,DIV YIELD (%), 7.9,BPRD

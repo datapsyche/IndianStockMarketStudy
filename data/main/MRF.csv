@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,59619.6,MRF
-1,Mkt Cap,252787.0,MRF
-2,Vol,1.7,MRF
-3,P/E,18.1,MRF
-4,P/CF,13.0,MRF
+0,Price,59800.0,MRF
+1,Mkt Cap,253552.0,MRF
+2,Vol,0.1,MRF
+3,P/E,18.2,MRF
+4,P/CF,13.1,MRF
 5,EPS (TTM),3290.0,MRF
-6,% ch,-0.1,MRF
+6,% ch,0.3,MRF
 7,No. of shares,4.24,MRF
-8,% ch week,-0.9,MRF
-9,% ch 1-mth,-5.3,MRF
-10,% ch 12-mth,1.4,MRF
+8,% ch week,-0.6,MRF
+9,% ch 1-mth,-5.0,MRF
+10,% ch 12-mth,1.7,MRF
 11,52 week H/L,"73,500.0/50,000.0",MRF
 12,52weekHigh,"73,500.0",MRF
 13,52weekLow,"50,000.0",MRF

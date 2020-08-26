@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,273.5,BFUL
-1,Mkt Cap,10300.0,BFUL
-2,Vol,75.7,BFUL
-3,P/E,51.7,BFUL
+0,Price,272.9,BFUL
+1,Mkt Cap,10280.0,BFUL
+2,Vol,2.5,BFUL
+3,P/E,51.6,BFUL
 4,P/CF,10.5,BFUL
 5,EPS (TTM),5.3,BFUL
-6,% ch,1.8,BFUL
+6,% ch,-0.2,BFUL
 7,No. of shares,37.67,BFUL
-8,% ch week,13.3,BFUL
-9,% ch 1-mth,15.9,BFUL
-10,% ch 12-mth,76.6,BFUL
+8,% ch week,13.0,BFUL
+9,% ch 1-mth,15.7,BFUL
+10,% ch 12-mth,76.3,BFUL
 11,52 week H/L,361.0/134.4,BFUL
 12,52weekHigh,361.0,BFUL
 13,52weekLow,134.4,BFUL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,441.3,CSFL
-1,Mkt Cap,8578.0,CSFL
-2,Vol,20.5,CSFL
-3,P/E,8.8,CSFL
+0,Price,444.5,CSFL
+1,Mkt Cap,8640.0,CSFL
+2,Vol,1.3,CSFL
+3,P/E,8.9,CSFL
 4,P/CF,6.7,CSFL
 5,EPS (TTM),50.1,CSFL
-6,% ch,-3.7,CSFL
+6,% ch,0.7,CSFL
 7,No. of shares,19.44,CSFL
-8,% ch week,-0.6,CSFL
-9,% ch 1-mth,6.6,CSFL
-10,% ch 12-mth,110.8,CSFL
+8,% ch week,0.1,CSFL
+9,% ch 1-mth,7.4,CSFL
+10,% ch 12-mth,112.4,CSFL
 11,52 week H/L,491.0/187.2,CSFL
 12,52weekHigh,491.0,CSFL
 13,52weekLow,187.2,CSFL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1976,CSFL
 31,BSE CODE, 508814,CSFL
 32,FV (Rs), 10,CSFL
-33,DIV YIELD (%), 2.3,CSFL
+33,DIV YIELD (%), 2.2,CSFL

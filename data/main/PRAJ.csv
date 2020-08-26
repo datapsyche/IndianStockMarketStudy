@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,75.6,PRAJ
-1,Mkt Cap,13960.0,PRAJ
-2,Vol,177.2,PRAJ
-3,P/E,19.8,PRAJ
-4,P/CF,15.3,PRAJ
+0,Price,76.4,PRAJ
+1,Mkt Cap,14117.0,PRAJ
+2,Vol,3.5,PRAJ
+3,P/E,20.0,PRAJ
+4,P/CF,15.5,PRAJ
 5,EPS (TTM),3.8,PRAJ
-6,% ch,2.2,PRAJ
+6,% ch,1.1,PRAJ
 7,No. of shares,184.78,PRAJ
-8,% ch week,9.7,PRAJ
-9,% ch 1-mth,17.7,PRAJ
-10,% ch 12-mth,-26.4,PRAJ
+8,% ch week,10.9,PRAJ
+9,% ch 1-mth,19.0,PRAJ
+10,% ch 12-mth,-25.6,PRAJ
 11,52 week H/L,129.7/43.0,PRAJ
 12,52weekHigh,129.7,PRAJ
 13,52weekLow,43.0,PRAJ
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1985,PRAJ
 31,BSE CODE, 522205,PRAJ
 32,FV (Rs), 2,PRAJ
-33,DIV YIELD (%), 0.7,PRAJ
+33,DIV YIELD (%), 0.6,PRAJ

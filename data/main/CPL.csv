@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,35.3,CPL
-1,Mkt Cap,1776.0,CPL
-2,Vol,473.5,CPL
-3,P/E,14.1,CPL
-4,P/CF,23.7,CPL
+0,Price,35.5,CPL
+1,Mkt Cap,1788.0,CPL
+2,Vol,4.5,CPL
+3,P/E,14.2,CPL
+4,P/CF,23.9,CPL
 5,EPS (TTM),2.5,CPL
-6,% ch,6.7,CPL
+6,% ch,0.7,CPL
 7,No. of shares,50.38,CPL
-8,% ch week,-2.8,CPL
-9,% ch 1-mth,-15.4,CPL
-10,% ch 12-mth,41.6,CPL
+8,% ch week,-2.1,CPL
+9,% ch 1-mth,-14.8,CPL
+10,% ch 12-mth,42.6,CPL
 11,52 week H/L,44.2/20.6,CPL
 12,52weekHigh,44.2,CPL
 13,52weekLow,20.6,CPL

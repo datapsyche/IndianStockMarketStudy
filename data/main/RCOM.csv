@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2.6,RCOM
-1,Mkt Cap,6571.0,RCOM
-2,Vol,3821.2,RCOM
-3,P/E,-0.7,RCOM
-4,P/CF,-14.0,RCOM
+0,Price,2.5,RCOM
+1,Mkt Cap,6247.0,RCOM
+2,Vol,289.1,RCOM
+3,P/E,-0.6,RCOM
+4,P/CF,-13.3,RCOM
 5,EPS (TTM),-3.9,RCOM
-6,% ch,-4.7,RCOM
+6,% ch,-4.9,RCOM
 7,No. of shares,2488.97,RCOM
-8,% ch week,5.6,RCOM
-9,% ch 1-mth,-29.8,RCOM
-10,% ch 12-mth,175.0,RCOM
+8,% ch week,0.4,RCOM
+9,% ch 1-mth,-33.2,RCOM
+10,% ch 12-mth,161.5,RCOM
 11,52 week H/L,4.3/0.6,RCOM
 12,52weekHigh,4.3,RCOM
 13,52weekLow,0.6,RCOM

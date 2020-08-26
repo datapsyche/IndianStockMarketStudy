@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,87.0,DCBL
-1,Mkt Cap,24490.0,DCBL
-2,Vol,1512.8,DCBL
-3,P/E,7.3,DCBL
+0,Price,88.2,DCBL
+1,Mkt Cap,24813.0,DCBL
+2,Vol,23.0,DCBL
+3,P/E,7.4,DCBL
 4,P/CF,2.1,DCBL
 5,EPS (TTM),11.9,DCBL
-6,% ch,3.7,DCBL
+6,% ch,1.3,DCBL
 7,No. of shares,281.49,DCBL
-8,% ch week,9.2,DCBL
-9,% ch 1-mth,8.2,DCBL
-10,% ch 12-mth,-56.6,DCBL
+8,% ch week,10.7,DCBL
+9,% ch 1-mth,9.6,DCBL
+10,% ch 12-mth,-56.1,DCBL
 11,52 week H/L,218.5/58.1,DCBL
 12,52weekHigh,218.5,DCBL
 13,52weekLow,58.1,DCBL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1995,DCBL
 31,BSE CODE, 532772,DCBL
 32,FV (Rs), 10,DCBL
-33,DIV YIELD (%), 1.3,DCBL
+33,DIV YIELD (%), 1.2,DCBL

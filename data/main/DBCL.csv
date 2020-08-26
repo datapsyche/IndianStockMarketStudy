@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,78.8,DBCL
-1,Mkt Cap,14461.0,DBCL
-2,Vol,56.6,DBCL
+0,Price,79.2,DBCL
+1,Mkt Cap,14543.0,DBCL
+2,Vol,1.0,DBCL
 3,P/E,5.3,DBCL
 4,P/CF,3.9,DBCL
 5,EPS (TTM),15.0,DBCL
-6,% ch,-1.1,DBCL
+6,% ch,0.6,DBCL
 7,No. of shares,183.63,DBCL
-8,% ch week,-0.6,DBCL
-9,% ch 1-mth,2.1,DBCL
-10,% ch 12-mth,-43.5,DBCL
+8,% ch week,0.0,DBCL
+9,% ch 1-mth,2.7,DBCL
+10,% ch 12-mth,-43.2,DBCL
 11,52 week H/L,162.4/59.0,DBCL
 12,52weekHigh,162.4,DBCL
 13,52weekLow,59.0,DBCL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1995,DBCL
 31,BSE CODE, 533151,DBCL
 32,FV (Rs), 10,DBCL
-33,DIV YIELD (%), 12.1,DBCL
+33,DIV YIELD (%), 12.0,DBCL

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2797.5,TORR
-1,Mkt Cap,473505.0,TORR
-2,Vol,15.8,TORR
-3,P/E,41.9,TORR
-4,P/CF,44.9,TORR
+0,Price,2820.0,TORR
+1,Mkt Cap,477313.0,TORR
+2,Vol,0.4,TORR
+3,P/E,42.2,TORR
+4,P/CF,45.3,TORR
 5,EPS (TTM),66.8,TORR
-6,% ch,-0.9,TORR
+6,% ch,0.8,TORR
 7,No. of shares,169.26,TORR
-8,% ch week,0.0,TORR
-9,% ch 1-mth,20.4,TORR
-10,% ch 12-mth,66.8,TORR
+8,% ch week,0.8,TORR
+9,% ch 1-mth,21.4,TORR
+10,% ch 12-mth,68.1,TORR
 11,52 week H/L,"3,040.0/1,554.7",TORR
 12,52weekHigh,"3,040.0",TORR
 13,52weekLow,"1,554.7",TORR

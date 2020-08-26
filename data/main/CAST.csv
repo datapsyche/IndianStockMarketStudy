@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,124.5,CAST
-1,Mkt Cap,123146.0,CAST
-2,Vol,91.0,CAST
-3,P/E,16.0,CAST
+0,Price,124.7,CAST
+1,Mkt Cap,123294.0,CAST
+2,Vol,7.0,CAST
+3,P/E,16.1,CAST
 4,P/CF,16.1,CAST
 5,EPS (TTM),7.8,CAST
-6,% ch,1.1,CAST
+6,% ch,0.1,CAST
 7,No. of shares,989.12,CAST
-8,% ch week,1.9,CAST
-9,% ch 1-mth,8.4,CAST
-10,% ch 12-mth,2.1,CAST
+8,% ch week,2.0,CAST
+9,% ch 1-mth,8.6,CAST
+10,% ch 12-mth,2.3,CAST
 11,52 week H/L,162.1/89.7,CAST
 12,52weekHigh,162.1,CAST
 13,52weekLow,89.7,CAST

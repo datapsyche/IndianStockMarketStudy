@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,944.0,GDFR
-1,Mkt Cap,49088.0,GDFR
-2,Vol,16.0,GDFR
+0,Price,948.0,GDFR
+1,Mkt Cap,49296.0,GDFR
+2,Vol,0.0,GDFR
 3,P/E,12.7,GDFR
-4,P/CF,13.7,GDFR
+4,P/CF,13.8,GDFR
 5,EPS (TTM),74.6,GDFR
-6,% ch,-0.7,GDFR
+6,% ch,0.4,GDFR
 7,No. of shares,52.00,GDFR
-8,% ch week,0.2,GDFR
-9,% ch 1-mth,3.9,GDFR
-10,% ch 12-mth,-5.0,GDFR
+8,% ch week,0.6,GDFR
+9,% ch 1-mth,4.4,GDFR
+10,% ch 12-mth,-4.6,GDFR
 11,52 week H/L,"1,480.4/732.4",GDFR
 12,52weekHigh,"1,480.4",GDFR
 13,52weekLow,732.4,GDFR

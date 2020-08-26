@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,1.5,CAKIL
-1,Mkt Cap,251.0,CAKIL
-2,Vol,366.6,CAKIL
+1,Mkt Cap,252.0,CAKIL
+2,Vol,11.1,CAKIL
 3,P/E,0.0,CAKIL
 4,P/CF,0.1,CAKIL
 5,EPS (TTM),101.0,CAKIL
-6,% ch,-1.3,CAKIL
+6,% ch,0.7,CAKIL
 7,No. of shares,169.31,CAKIL
-8,% ch week,1.4,CAKIL
-9,% ch 1-mth,-8.1,CAKIL
-10,% ch 12-mth,-71.2,CAKIL
+8,% ch week,2.1,CAKIL
+9,% ch 1-mth,-7.5,CAKIL
+10,% ch 12-mth,-71.0,CAKIL
 11,52 week H/L,5.1/0.5,CAKIL
 12,52weekHigh,5.1,CAKIL
 13,52weekLow,0.5,CAKIL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1939,CAKIL
 31,BSE CODE, 533144,CAKIL
 32,FV (Rs), 5,CAKIL
-33,DIV YIELD (%), 70.5,CAKIL
+33,DIV YIELD (%), 70.0,CAKIL

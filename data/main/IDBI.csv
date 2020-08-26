@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,42.2,IDBI
-1,Mkt Cap,67607.0,IDBI
-2,Vol,644.4,IDBI
+0,Price,42.7,IDBI
+1,Mkt Cap,68489.0,IDBI
+2,Vol,16.5,IDBI
 3,P/E,-0.5,IDBI
 4,P/CF,-2.1,IDBI
 5,EPS (TTM),-80.3,IDBI
-6,% ch,-2.5,IDBI
+6,% ch,1.3,IDBI
 7,No. of shares,1603.96,IDBI
-8,% ch week,9.2,IDBI
-9,% ch 1-mth,9.8,IDBI
-10,% ch 12-mth,50.0,IDBI
+8,% ch week,10.6,IDBI
+9,% ch 1-mth,11.2,IDBI
+10,% ch 12-mth,52.0,IDBI
 11,52 week H/L,55.8/17.5,IDBI
 12,52weekHigh,55.8,IDBI
 13,52weekLow,17.5,IDBI

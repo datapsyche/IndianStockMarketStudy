@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,121.1,BALW
-1,Mkt Cap,20708.0,BALW
-2,Vol,141.4,BALW
-3,P/E,11.7,BALW
-4,P/CF,10.8,BALW
+0,Price,122.5,BALW
+1,Mkt Cap,20948.0,BALW
+2,Vol,7.2,BALW
+3,P/E,11.8,BALW
+4,P/CF,10.9,BALW
 5,EPS (TTM),10.4,BALW
-6,% ch,3.9,BALW
+6,% ch,1.2,BALW
 7,No. of shares,171.00,BALW
-8,% ch week,6.3,BALW
-9,% ch 1-mth,5.0,BALW
-10,% ch 12-mth,6.2,BALW
+8,% ch week,7.5,BALW
+9,% ch 1-mth,6.2,BALW
+10,% ch 12-mth,7.4,BALW
 11,52 week H/L,141.3/69.9,BALW
 12,52weekHigh,141.3,BALW
 13,52weekLow,69.9,BALW
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1924,BALW
 31,BSE CODE, 523319,BALW
 32,FV (Rs), 10,BALW
-33,DIV YIELD (%), 5.5,BALW
+33,DIV YIELD (%), 5.4,BALW

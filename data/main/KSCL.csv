@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,601.5,KSCL
-1,Mkt Cap,41443.0,KSCL
-2,Vol,49.4,KSCL
-3,P/E,15.9,KSCL
-4,P/CF,17.5,KSCL
+0,Price,605.6,KSCL
+1,Mkt Cap,41722.0,KSCL
+2,Vol,0.1,KSCL
+3,P/E,16.1,KSCL
+4,P/CF,17.6,KSCL
 5,EPS (TTM),37.7,KSCL
-6,% ch,-0.6,KSCL
+6,% ch,0.7,KSCL
 7,No. of shares,68.90,KSCL
-8,% ch week,-0.4,KSCL
-9,% ch 1-mth,3.1,KSCL
-10,% ch 12-mth,29.5,KSCL
+8,% ch week,0.2,KSCL
+9,% ch 1-mth,3.8,KSCL
+10,% ch 12-mth,30.3,KSCL
 11,52 week H/L,682.0/274.2,KSCL
 12,52weekHigh,682.0,KSCL
 13,52weekLow,274.2,KSCL

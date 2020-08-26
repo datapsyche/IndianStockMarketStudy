@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,26.3,EIML
-1,Mkt Cap,2433.0,EIML
-2,Vol,44.5,EIML
+0,Price,26.1,EIML
+1,Mkt Cap,2410.0,EIML
+2,Vol,3.5,EIML
 3,P/E,2.0,EIML
 4,P/CF,0.9,EIML
 5,EPS (TTM),12.9,EIML
-6,% ch,-3.7,EIML
+6,% ch,-1.0,EIML
 7,No. of shares,92.50,EIML
-8,% ch week,8.9,EIML
-9,% ch 1-mth,38.1,EIML
-10,% ch 12-mth,119.3,EIML
+8,% ch week,7.9,EIML
+9,% ch 1-mth,36.7,EIML
+10,% ch 12-mth,117.3,EIML
 11,52 week H/L,30.4/7.2,EIML
 12,52weekHigh,30.4,EIML
 13,52weekLow,7.2,EIML

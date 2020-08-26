@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,298.1,MDPL
-1,Mkt Cap,8253.0,MDPL
-2,Vol,9.3,MDPL
-3,P/E,22.0,MDPL
-4,P/CF,17.2,MDPL
+0,Price,300.0,MDPL
+1,Mkt Cap,8307.0,MDPL
+2,Vol,0.2,MDPL
+3,P/E,22.1,MDPL
+4,P/CF,17.3,MDPL
 5,EPS (TTM),13.5,MDPL
-6,% ch,1.2,MDPL
+6,% ch,0.7,MDPL
 7,No. of shares,27.69,MDPL
-8,% ch week,4.7,MDPL
-9,% ch 1-mth,37.1,MDPL
-10,% ch 12-mth,-0.3,MDPL
+8,% ch week,5.3,MDPL
+9,% ch 1-mth,38.0,MDPL
+10,% ch 12-mth,0.3,MDPL
 11,52 week H/L,322.0/145.8,MDPL
 12,52weekHigh,322.0,MDPL
 13,52weekLow,145.8,MDPL

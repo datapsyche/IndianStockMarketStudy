@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,225.9,JISPL
-1,Mkt Cap,211178.0,JISPL
-2,Vol,687.5,JISPL
+0,Price,225.6,JISPL
+1,Mkt Cap,210898.0,JISPL
+2,Vol,28.4,JISPL
 3,P/E,-52.8,JISPL
 4,P/CF,3.5,JISPL
 5,EPS (TTM),-4.3,JISPL
-6,% ch,1.0,JISPL
+6,% ch,-0.1,JISPL
 7,No. of shares,934.83,JISPL
-8,% ch week,1.0,JISPL
-9,% ch 1-mth,34.7,JISPL
-10,% ch 12-mth,123.3,JISPL
+8,% ch week,0.9,JISPL
+9,% ch 1-mth,34.6,JISPL
+10,% ch 12-mth,123.0,JISPL
 11,52 week H/L,238.4/62.1,JISPL
 12,52weekHigh,238.4,JISPL
 13,52weekLow,62.1,JISPL

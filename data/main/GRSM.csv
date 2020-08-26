@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,670.5,GRSM
-1,Mkt Cap,312953.0,GRSM
-2,Vol,170.0,GRSM
+0,Price,675.3,GRSM
+1,Mkt Cap,315217.0,GRSM
+2,Vol,28.3,GRSM
 3,P/E,5.2,GRSM
 4,P/CF,5.2,GRSM
 5,EPS (TTM),129.4,GRSM
-6,% ch,-1.1,GRSM
+6,% ch,0.7,GRSM
 7,No. of shares,466.78,GRSM
-8,% ch week,7.3,GRSM
-9,% ch 1-mth,15.0,GRSM
-10,% ch 12-mth,-8.9,GRSM
+8,% ch week,8.1,GRSM
+9,% ch 1-mth,15.8,GRSM
+10,% ch 12-mth,-8.3,GRSM
 11,52 week H/L,836.6/380.0,GRSM
 12,52weekHigh,836.6,GRSM
 13,52weekLow,380.0,GRSM

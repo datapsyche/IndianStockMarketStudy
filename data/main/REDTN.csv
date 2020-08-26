@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,119.9,REDTN
-1,Mkt Cap,47904.0,REDTN
-2,Vol,61.1,REDTN
+0,Price,120.1,REDTN
+1,Mkt Cap,47984.0,REDTN
+2,Vol,0.3,REDTN
 3,P/E,9.0,REDTN
-4,P/CF,8.7,REDTN
+4,P/CF,8.8,REDTN
 5,EPS (TTM),13.4,REDTN
-6,% ch,3.7,REDTN
+6,% ch,0.2,REDTN
 7,No. of shares,399.70,REDTN
-8,% ch week,-6.9,REDTN
-9,% ch 1-mth,23.2,REDTN
-10,% ch 12-mth,6.0,REDTN
+8,% ch week,-6.7,REDTN
+9,% ch 1-mth,23.4,REDTN
+10,% ch 12-mth,6.1,REDTN
 11,52 week H/L,139.9/60.0,REDTN
 12,52weekHigh,139.9,REDTN
 13,52weekLow,60.0,REDTN

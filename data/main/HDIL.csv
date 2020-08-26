@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,5.0,HDIL
-1,Mkt Cap,2082.0,HDIL
-2,Vol,492.3,HDIL
-3,P/E,2.2,HDIL
-4,P/CF,1.9,HDIL
+0,Price,5.2,HDIL
+1,Mkt Cap,2183.0,HDIL
+2,Vol,498.0,HDIL
+3,P/E,2.3,HDIL
+4,P/CF,2.0,HDIL
 5,EPS (TTM),2.2,HDIL
-6,% ch,4.9,HDIL
+6,% ch,4.8,HDIL
 7,No. of shares,419.00,HDIL
-8,% ch week,4.4,HDIL
-9,% ch 1-mth,69.6,HDIL
-10,% ch 12-mth,-14.6,HDIL
+8,% ch week,9.5,HDIL
+9,% ch 1-mth,77.8,HDIL
+10,% ch 12-mth,-10.5,HDIL
 11,52 week H/L,6.8/1.2,HDIL
 12,52weekHigh,6.8,HDIL
 13,52weekLow,1.2,HDIL

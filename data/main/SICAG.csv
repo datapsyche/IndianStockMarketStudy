@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,9.2,SICAG
-1,Mkt Cap,512.0,SICAG
-2,Vol,45.5,SICAG
+0,Price,9.5,SICAG
+1,Mkt Cap,528.0,SICAG
+2,Vol,0.0,SICAG
 3,P/E,-0.6,SICAG
-4,P/CF,0.5,SICAG
+4,P/CF,0.6,SICAG
 5,EPS (TTM),-15.5,SICAG
-6,% ch,-1.9,SICAG
+6,% ch,3.1,SICAG
 7,No. of shares,55.60,SICAG
-8,% ch week,-0.9,SICAG
-9,% ch 1-mth,-3.6,SICAG
-10,% ch 12-mth,-69.8,SICAG
+8,% ch week,2.3,SICAG
+9,% ch 1-mth,-0.5,SICAG
+10,% ch 12-mth,-68.8,SICAG
 11,52 week H/L,33.5/5.0,SICAG
 12,52weekHigh,33.5,SICAG
 13,52weekLow,5.0,SICAG

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2125.2,JFWL
-1,Mkt Cap,140226.0,JFWL
-2,Vol,126.2,JFWL
-3,P/E,50.9,JFWL
-4,P/CF,29.5,JFWL
+0,Price,2094.2,JFWL
+1,Mkt Cap,138180.0,JFWL
+2,Vol,5.3,JFWL
+3,P/E,50.2,JFWL
+4,P/CF,29.1,JFWL
 5,EPS (TTM),41.7,JFWL
-6,% ch,7.5,JFWL
+6,% ch,-1.5,JFWL
 7,No. of shares,65.98,JFWL
-8,% ch week,12.6,JFWL
-9,% ch 1-mth,23.2,JFWL
-10,% ch 12-mth,80.4,JFWL
+8,% ch week,11.0,JFWL
+9,% ch 1-mth,21.4,JFWL
+10,% ch 12-mth,77.8,JFWL
 11,52 week H/L,"2,136.9/1,141.8",JFWL
 12,52weekHigh,"2,136.9",JFWL
 13,52weekLow,"1,141.8",JFWL

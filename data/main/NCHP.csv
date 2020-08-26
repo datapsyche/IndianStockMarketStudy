@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1417.1,NCHP
-1,Mkt Cap,319599.0,NCHP
-2,Vol,84.6,NCHP
+0,Price,1421.9,NCHP
+1,Mkt Cap,320681.0,NCHP
+2,Vol,1.9,NCHP
 3,P/E,17.1,NCHP
-4,P/CF,19.1,NCHP
+4,P/CF,19.2,NCHP
 5,EPS (TTM),83.1,NCHP
-6,% ch,-0.5,NCHP
+6,% ch,0.3,NCHP
 7,No. of shares,225.54,NCHP
-8,% ch week,-1.9,NCHP
-9,% ch 1-mth,-5.0,NCHP
-10,% ch 12-mth,-22.7,NCHP
+8,% ch week,-1.6,NCHP
+9,% ch 1-mth,-4.7,NCHP
+10,% ch 12-mth,-22.5,NCHP
 11,52 week H/L,"2,001.2/608.0",NCHP
 12,52weekHigh,"2,001.2",NCHP
 13,52weekLow,608.0,NCHP

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,64.2,MAND
-1,Mkt Cap,3839.0,MAND
-2,Vol,50.0,MAND
-3,P/E,7.1,MAND
+0,Price,65.6,MAND
+1,Mkt Cap,3923.0,MAND
+2,Vol,1.1,MAND
+3,P/E,7.3,MAND
 4,P/CF,3.7,MAND
 5,EPS (TTM),9.0,MAND
-6,% ch,-4.0,MAND
+6,% ch,2.2,MAND
 7,No. of shares,59.80,MAND
-8,% ch week,7.7,MAND
-9,% ch 1-mth,37.5,MAND
-10,% ch 12-mth,61.1,MAND
+8,% ch week,10.1,MAND
+9,% ch 1-mth,40.5,MAND
+10,% ch 12-mth,64.6,MAND
 11,52 week H/L,68.5/31.0,MAND
 12,52weekHigh,68.5,MAND
 13,52weekLow,31.0,MAND

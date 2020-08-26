@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,97.1,REIND
-1,Mkt Cap,25904.0,REIND
-2,Vol,298.5,REIND
-3,P/E,133.7,REIND
-4,P/CF,27.0,REIND
+0,Price,97.4,REIND
+1,Mkt Cap,25984.0,REIND
+2,Vol,8.2,REIND
+3,P/E,134.1,REIND
+4,P/CF,27.1,REIND
 5,EPS (TTM),0.7,REIND
-6,% ch,-0.1,REIND
+6,% ch,0.3,REIND
 7,No. of shares,266.91,REIND
-8,% ch week,1.9,REIND
-9,% ch 1-mth,4.6,REIND
-10,% ch 12-mth,3.5,REIND
+8,% ch week,2.3,REIND
+9,% ch 1-mth,4.9,REIND
+10,% ch 12-mth,3.8,REIND
 11,52 week H/L,112.1/67.9,REIND
 12,52weekHigh,112.1,REIND
 13,52weekLow,67.9,REIND

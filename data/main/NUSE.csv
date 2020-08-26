@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,442.5,NUSE
-1,Mkt Cap,14335.0,NUSE
-2,Vol,17.0,NUSE
-3,P/E,16.1,NUSE
-4,P/CF,17.0,NUSE
+0,Price,447.2,NUSE
+1,Mkt Cap,14489.0,NUSE
+2,Vol,0.1,NUSE
+3,P/E,16.3,NUSE
+4,P/CF,17.2,NUSE
 5,EPS (TTM),27.5,NUSE
-6,% ch,-1.4,NUSE
+6,% ch,1.1,NUSE
 7,No. of shares,32.40,NUSE
-8,% ch week,-1.6,NUSE
-9,% ch 1-mth,56.8,NUSE
-10,% ch 12-mth,39.5,NUSE
+8,% ch week,-0.6,NUSE
+9,% ch 1-mth,58.4,NUSE
+10,% ch 12-mth,41.0,NUSE
 11,52 week H/L,478.0/170.0,NUSE
 12,52weekHigh,478.0,NUSE
 13,52weekLow,170.0,NUSE

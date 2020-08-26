@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,15.0,DWHF
-1,Mkt Cap,4367.0,DWHF
-2,Vol,163.5,DWHF
+0,Price,15.1,DWHF
+1,Mkt Cap,4408.0,DWHF
+2,Vol,8.4,DWHF
 3,P/E,-0.4,DWHF
 4,P/CF,0.2,DWHF
 5,EPS (TTM),-35.5,DWHF
-6,% ch,-0.2,DWHF
+6,% ch,0.9,DWHF
 7,No. of shares,291.71,DWHF
-8,% ch week,6.8,DWHF
-9,% ch 1-mth,3.6,DWHF
-10,% ch 12-mth,-67.2,DWHF
+8,% ch week,7.8,DWHF
+9,% ch 1-mth,4.6,DWHF
+10,% ch 12-mth,-66.9,DWHF
 11,52 week H/L,53.0/8.4,DWHF
 12,52weekHigh,53.0,DWHF
 13,52weekLow,8.4,DWHF
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1984,DWHF
 31,BSE CODE, 511072,DWHF
 32,FV (Rs), 10,DWHF
-33,DIV YIELD (%), 39.5,DWHF
+33,DIV YIELD (%), 39.1,DWHF

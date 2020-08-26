@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,97.9,PFC
-1,Mkt Cap,258464.0,PFC
-2,Vol,535.3,PFC
-3,P/E,3.7,PFC
-4,P/CF,3.9,PFC
+0,Price,98.8,PFC
+1,Mkt Cap,260708.0,PFC
+2,Vol,11.1,PFC
+3,P/E,3.8,PFC
+4,P/CF,4.0,PFC
 5,EPS (TTM),26.3,PFC
-6,% ch,-3.1,PFC
+6,% ch,0.9,PFC
 7,No. of shares,2640.08,PFC
-8,% ch week,5.0,PFC
-9,% ch 1-mth,18.3,PFC
-10,% ch 12-mth,-6.7,PFC
+8,% ch week,5.9,PFC
+9,% ch 1-mth,19.3,PFC
+10,% ch 12-mth,-5.9,PFC
 11,52 week H/L,133.3/74.2,PFC
 12,52weekHigh,133.3,PFC
 13,52weekLow,74.2,PFC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1986,PFC
 31,BSE CODE, 532810,PFC
 32,FV (Rs), 10,PFC
-33,DIV YIELD (%), 8.0,PFC
+33,DIV YIELD (%), 7.9,PFC

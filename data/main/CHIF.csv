@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,231.5,CHIF
-1,Mkt Cap,33241.0,CHIF
-2,Vol,612.9,CHIF
-3,P/E,2.7,CHIF
+0,Price,238.7,CHIF
+1,Mkt Cap,34282.0,CHIF
+2,Vol,40.2,CHIF
+3,P/E,2.8,CHIF
 4,P/CF,2.7,CHIF
 5,EPS (TTM),84.8,CHIF
-6,% ch,1.8,CHIF
+6,% ch,3.1,CHIF
 7,No. of shares,143.62,CHIF
-8,% ch week,9.0,CHIF
-9,% ch 1-mth,8.8,CHIF
-10,% ch 12-mth,-15.4,CHIF
+8,% ch week,12.4,CHIF
+9,% ch 1-mth,12.3,CHIF
+10,% ch 12-mth,-12.8,CHIF
 11,52 week H/L,348.9/117.4,CHIF
 12,52weekHigh,348.9,CHIF
 13,52weekLow,117.4,CHIF
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1978,CHIF
 31,BSE CODE, 511243,CHIF
 32,FV (Rs), 10,CHIF
-33,DIV YIELD (%), 3.1,CHIF
+33,DIV YIELD (%), 3.0,CHIF

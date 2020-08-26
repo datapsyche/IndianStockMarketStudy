@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,431.5,WMPL
-1,Mkt Cap,5178.0,WMPL
-2,Vol,24.6,WMPL
-3,P/E,11.4,WMPL
-4,P/CF,8.7,WMPL
+0,Price,406.0,WMPL
+1,Mkt Cap,4873.0,WMPL
+2,Vol,0.0,WMPL
+3,P/E,10.8,WMPL
+4,P/CF,8.2,WMPL
 5,EPS (TTM),37.7,WMPL
-6,% ch,4.8,WMPL
+6,% ch,-5.9,WMPL
 7,No. of shares,12.00,WMPL
-8,% ch week,24.4,WMPL
-9,% ch 1-mth,37.5,WMPL
-10,% ch 12-mth,5.5,WMPL
+8,% ch week,17.0,WMPL
+9,% ch 1-mth,29.4,WMPL
+10,% ch 12-mth,-0.8,WMPL
 11,52 week H/L,459.0/211.0,WMPL
 12,52weekHigh,459.0,WMPL
 13,52weekLow,211.0,WMPL
@@ -31,4 +31,4 @@
 29,YEAR OF INC, 1988,WMPL
 30,BSE CODE, 526586,WMPL
 31,FV (Rs), 10,WMPL
-32,DIV YIELD (%), 1.6,WMPL
+32,DIV YIELD (%), 1.7,WMPL

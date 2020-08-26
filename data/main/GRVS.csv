@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,80.7,GRVS
-1,Mkt Cap,19708.0,GRVS
-2,Vol,62.7,GRVS
+0,Price,80.9,GRVS
+1,Mkt Cap,19757.0,GRVS
+2,Vol,0.3,GRVS
 3,P/E,13.4,GRVS
 4,P/CF,9.2,GRVS
 5,EPS (TTM),6.0,GRVS
-6,% ch,-0.1,GRVS
+6,% ch,0.2,GRVS
 7,No. of shares,244.21,GRVS
-8,% ch week,-3.8,GRVS
-9,% ch 1-mth,-4.8,GRVS
-10,% ch 12-mth,-35.1,GRVS
+8,% ch week,-3.6,GRVS
+9,% ch 1-mth,-4.6,GRVS
+10,% ch 12-mth,-34.9,GRVS
 11,52 week H/L,154.2/66.3,GRVS
 12,52weekHigh,154.2,GRVS
 13,52weekLow,66.3,GRVS
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1922,GRVS
 31,BSE CODE, 501455,GRVS
 32,FV (Rs), 2,GRVS
-33,DIV YIELD (%), 5.0,GRVS
+33,DIV YIELD (%), 4.9,GRVS

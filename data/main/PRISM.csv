@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,56.8,PRISM
-1,Mkt Cap,28566.0,PRISM
-2,Vol,103.5,PRISM
-3,P/E,50.6,PRISM
+0,Price,57.2,PRISM
+1,Mkt Cap,28767.0,PRISM
+2,Vol,0.1,PRISM
+3,P/E,51.0,PRISM
 4,P/CF,9.4,PRISM
 5,EPS (TTM),1.1,PRISM
-6,% ch,-0.6,PRISM
+6,% ch,0.7,PRISM
 7,No. of shares,503.36,PRISM
-8,% ch week,18.0,PRISM
-9,% ch 1-mth,23.5,PRISM
-10,% ch 12-mth,-33.4,PRISM
+8,% ch week,18.8,PRISM
+9,% ch 1-mth,24.4,PRISM
+10,% ch 12-mth,-32.9,PRISM
 11,52 week H/L,92.0/25.8,PRISM
 12,52weekHigh,92.0,PRISM
 13,52weekLow,25.8,PRISM

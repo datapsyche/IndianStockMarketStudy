@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,533.4,SUNP
-1,Mkt Cap,1283642.0,SUNP
-2,Vol,166.3,SUNP
-3,P/E,502.2,SUNP
-4,P/CF,25.9,SUNP
+0,Price,533.0,SUNP
+1,Mkt Cap,1282799.0,SUNP
+2,Vol,3.1,SUNP
+3,P/E,501.9,SUNP
+4,P/CF,25.8,SUNP
 5,EPS (TTM),1.1,SUNP
-6,% ch,0.1,SUNP
+6,% ch,-0.1,SUNP
 7,No. of shares,2406.75,SUNP
 8,% ch week,0.9,SUNP
-9,% ch 1-mth,9.9,SUNP
-10,% ch 12-mth,27.2,SUNP
+9,% ch 1-mth,9.8,SUNP
+10,% ch 12-mth,27.1,SUNP
 11,52 week H/L,550.7/315.2,SUNP
 12,52weekHigh,550.7,SUNP
 13,52weekLow,315.2,SUNP

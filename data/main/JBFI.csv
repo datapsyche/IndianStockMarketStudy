@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,10.0,JBFI
-1,Mkt Cap,728.0,JBFI
-2,Vol,70.5,JBFI
+0,Price,10.2,JBFI
+1,Mkt Cap,742.0,JBFI
+2,Vol,1.5,JBFI
 3,P/E,-0.2,JBFI
 4,P/CF,-0.1,JBFI
 5,EPS (TTM),-55.9,JBFI
-6,% ch,4.9,JBFI
+6,% ch,1.9,JBFI
 7,No. of shares,72.70,JBFI
-8,% ch week,6.7,JBFI
-9,% ch 1-mth,3.9,JBFI
-10,% ch 12-mth,46.6,JBFI
+8,% ch week,8.7,JBFI
+9,% ch 1-mth,5.9,JBFI
+10,% ch 12-mth,49.3,JBFI
 11,52 week H/L,22.1/6.4,JBFI
 12,52weekHigh,22.1,JBFI
 13,52weekLow,6.4,JBFI

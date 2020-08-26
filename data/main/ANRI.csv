@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,34.6,ANRI
-1,Mkt Cap,10197.0,ANRI
-2,Vol,110.2,ANRI
-3,P/E,18.4,ANRI
-4,P/CF,12.9,ANRI
+0,Price,37.4,ANRI
+1,Mkt Cap,11023.0,ANRI
+2,Vol,23.8,ANRI
+3,P/E,19.9,ANRI
+4,P/CF,14.0,ANRI
 5,EPS (TTM),1.9,ANRI
-6,% ch,20.0,ANRI
+6,% ch,8.1,ANRI
 7,No. of shares,295.14,ANRI
-8,% ch week,29.4,ANRI
-9,% ch 1-mth,57.4,ANRI
-10,% ch 12-mth,39.6,ANRI
+8,% ch week,39.9,ANRI
+9,% ch 1-mth,70.2,ANRI
+10,% ch 12-mth,50.9,ANRI
 11,52 week H/L,40.8/13.4,ANRI
 12,52weekHigh,40.8,ANRI
 13,52weekLow,13.4,ANRI
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1985,ANRI
 31,BSE CODE, 515055,ANRI
 32,FV (Rs), 2,ANRI
-33,DIV YIELD (%), 0.7,ANRI
+33,DIV YIELD (%), 0.6,ANRI

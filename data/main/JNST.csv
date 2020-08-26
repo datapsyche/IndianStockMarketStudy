@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,50.3,JNST
-1,Mkt Cap,11387.0,JNST
-2,Vol,117.7,JNST
-3,P/E,7.4,JNST
+0,Price,50.8,JNST
+1,Mkt Cap,11489.0,JNST
+2,Vol,0.1,JNST
+3,P/E,7.5,JNST
 4,P/CF,1.8,JNST
 5,EPS (TTM),6.8,JNST
-6,% ch,-2.1,JNST
+6,% ch,0.9,JNST
 7,No. of shares,226.38,JNST
-8,% ch week,6.0,JNST
-9,% ch 1-mth,33.1,JNST
-10,% ch 12-mth,67.9,JNST
+8,% ch week,7.0,JNST
+9,% ch 1-mth,34.3,JNST
+10,% ch 12-mth,69.4,JNST
 11,52 week H/L,53.0/22.3,JNST
 12,52weekHigh,53.0,JNST
 13,52weekLow,22.3,JNST

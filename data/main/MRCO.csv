@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,374.0,MRCO
-1,Mkt Cap,482381.0,MRCO
-2,Vol,209.2,MRCO
-3,P/E,46.2,MRCO
-4,P/CF,52.6,MRCO
+0,Price,374.5,MRCO
+1,Mkt Cap,483026.0,MRCO
+2,Vol,2.3,MRCO
+3,P/E,46.3,MRCO
+4,P/CF,52.7,MRCO
 5,EPS (TTM),8.1,MRCO
-6,% ch,-0.6,MRCO
+6,% ch,0.1,MRCO
 7,No. of shares,1289.96,MRCO
-8,% ch week,1.1,MRCO
-9,% ch 1-mth,4.7,MRCO
-10,% ch 12-mth,-0.6,MRCO
+8,% ch week,1.2,MRCO
+9,% ch 1-mth,4.8,MRCO
+10,% ch 12-mth,-0.5,MRCO
 11,52 week H/L,403.7/233.8,MRCO
 12,52weekHigh,403.7,MRCO
 13,52weekLow,233.8,MRCO

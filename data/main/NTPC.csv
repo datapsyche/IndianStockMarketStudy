@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,105.5,NTPC
-1,Mkt Cap,1043381.0,NTPC
-2,Vol,5646.4,NTPC
-3,P/E,19.7,NTPC
+0,Price,105.9,NTPC
+1,Mkt Cap,1047834.0,NTPC
+2,Vol,111.4,NTPC
+3,P/E,19.8,NTPC
 4,P/CF,4.4,NTPC
 5,EPS (TTM),5.3,NTPC
-6,% ch,-0.5,NTPC
+6,% ch,0.4,NTPC
 7,No. of shares,9894.56,NTPC
-8,% ch week,10.5,NTPC
-9,% ch 1-mth,18.0,NTPC
-10,% ch 12-mth,-12.2,NTPC
+8,% ch week,11.0,NTPC
+9,% ch 1-mth,18.5,NTPC
+10,% ch 12-mth,-11.8,NTPC
 11,52 week H/L,129.6/74.0,NTPC
 12,52weekHigh,129.6,NTPC
 13,52weekLow,74.0,NTPC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1975,NTPC
 31,BSE CODE, 532555,NTPC
 32,FV (Rs), 10,NTPC
-33,DIV YIELD (%), 5.8,NTPC
+33,DIV YIELD (%), 5.7,NTPC

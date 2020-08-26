@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,7.5,DBRL
-1,Mkt Cap,1812.0,DBRL
-2,Vol,20.1,DBRL
+1,Mkt Cap,1815.0,DBRL
+2,Vol,1.7,DBRL
 3,P/E,-0.5,DBRL
 4,P/CF,-0.6,DBRL
 5,EPS (TTM),-14.6,DBRL
-6,% ch,0.4,DBRL
+6,% ch,0.1,DBRL
 7,No. of shares,243.26,DBRL
-8,% ch week,3.2,DBRL
-9,% ch 1-mth,0.5,DBRL
-10,% ch 12-mth,14.3,DBRL
+8,% ch week,3.3,DBRL
+9,% ch 1-mth,0.7,DBRL
+10,% ch 12-mth,14.4,DBRL
 11,52 week H/L,12.5/3.6,DBRL
 12,52weekHigh,12.5,DBRL
 13,52weekLow,3.6,DBRL

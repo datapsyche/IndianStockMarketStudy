@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,14.3,PATEL
-1,Mkt Cap,1100.0,PATEL
-2,Vol,141.3,PATEL
+1,Mkt Cap,1097.0,PATEL
+2,Vol,2.2,PATEL
 3,P/E,3.0,PATEL
 4,P/CF,0.5,PATEL
 5,EPS (TTM),4.8,PATEL
-6,% ch,1.3,PATEL
+6,% ch,-0.3,PATEL
 7,No. of shares,76.81,PATEL
-8,% ch week,1.6,PATEL
-9,% ch 1-mth,-0.3,PATEL
-10,% ch 12-mth,62.5,PATEL
+8,% ch week,1.3,PATEL
+9,% ch 1-mth,-0.6,PATEL
+10,% ch 12-mth,62.1,PATEL
 11,52 week H/L,21.9/7.2,PATEL
 12,52weekHigh,21.9,PATEL
 13,52weekLow,7.2,PATEL

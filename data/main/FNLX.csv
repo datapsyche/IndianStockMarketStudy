@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,465.1,FNLX
-1,Mkt Cap,57710.0,FNLX
-2,Vol,10.0,FNLX
-3,P/E,18.8,FNLX
-4,P/CF,13.6,FNLX
+0,Price,471.6,FNLX
+1,Mkt Cap,58523.0,FNLX
+2,Vol,0.1,FNLX
+3,P/E,19.1,FNLX
+4,P/CF,13.8,FNLX
 5,EPS (TTM),24.7,FNLX
-6,% ch,-0.1,FNLX
+6,% ch,1.4,FNLX
 7,No. of shares,124.10,FNLX
-8,% ch week,3.3,FNLX
-9,% ch 1-mth,1.3,FNLX
-10,% ch 12-mth,-7.1,FNLX
+8,% ch week,4.7,FNLX
+9,% ch 1-mth,2.8,FNLX
+10,% ch 12-mth,-5.8,FNLX
 11,52 week H/L,635.0/283.0,FNLX
 12,52weekHigh,635.0,FNLX
 13,52weekLow,283.0,FNLX
@@ -30,4 +30,4 @@
 28,YEAR OF INC, 1981,FNLX
 29,BSE CODE, 500940,FNLX
 30,FV (Rs), 10,FNLX
-31,DIV YIELD (%), 2.2,FNLX
+31,DIV YIELD (%), 2.1,FNLX

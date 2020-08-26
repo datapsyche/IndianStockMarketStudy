@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,6.7,ABHI
-1,Mkt Cap,34374.0,ABHI
-2,Vol,1941.0,ABHI
-3,P/E,15.0,ABHI
+1,Mkt Cap,34425.0,ABHI
+2,Vol,17.0,ABHI
+3,P/E,15.1,ABHI
 4,P/CF,4.7,ABHI
 5,EPS (TTM),0.4,ABHI
-6,% ch,-0.7,ABHI
+6,% ch,0.1,ABHI
 7,No. of shares,5115.11,ABHI
-8,% ch week,-2.3,ABHI
-9,% ch 1-mth,-4.1,ABHI
-10,% ch 12-mth,17.2,ABHI
+8,% ch week,-2.2,ABHI
+9,% ch 1-mth,-4.0,ABHI
+10,% ch 12-mth,17.3,ABHI
 11,52 week H/L,8.5/3.1,ABHI
 12,52weekHigh,8.5,ABHI
 13,52weekLow,3.1,ABHI

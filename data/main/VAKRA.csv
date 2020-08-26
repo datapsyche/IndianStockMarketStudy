@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,29.5,VAKRA
-1,Mkt Cap,31235.0,VAKRA
-2,Vol,217.7,VAKRA
-3,P/E,67.1,VAKRA
+0,Price,29.7,VAKRA
+1,Mkt Cap,31446.0,VAKRA
+2,Vol,0.3,VAKRA
+3,P/E,67.5,VAKRA
 4,P/CF,4.6,VAKRA
 5,EPS (TTM),0.4,VAKRA
-6,% ch,-2.3,VAKRA
+6,% ch,0.7,VAKRA
 7,No. of shares,1058.80,VAKRA
-8,% ch week,-1.8,VAKRA
-9,% ch 1-mth,-3.3,VAKRA
-10,% ch 12-mth,1.9,VAKRA
+8,% ch week,-1.2,VAKRA
+9,% ch 1-mth,-2.6,VAKRA
+10,% ch 12-mth,2.6,VAKRA
 11,52 week H/L,55.5/17.1,VAKRA
 12,52weekHigh,55.5,VAKRA
 13,52weekLow,17.1,VAKRA

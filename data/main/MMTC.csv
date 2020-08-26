@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,20.0,MMTC
-1,Mkt Cap,20000.0,MMTC
-2,Vol,183.6,MMTC
-3,P/E,35.7,MMTC
-4,P/CF,22.4,MMTC
+0,Price,20.2,MMTC
+1,Mkt Cap,20150.0,MMTC
+2,Vol,7.8,MMTC
+3,P/E,36.0,MMTC
+4,P/CF,22.5,MMTC
 5,EPS (TTM),0.6,MMTC
-6,% ch,-3.4,MMTC
+6,% ch,0.7,MMTC
 7,No. of shares,1000.00,MMTC
-8,% ch week,5.3,MMTC
-9,% ch 1-mth,5.8,MMTC
-10,% ch 12-mth,10.2,MMTC
+8,% ch week,6.1,MMTC
+9,% ch 1-mth,6.6,MMTC
+10,% ch 12-mth,11.0,MMTC
 11,52 week H/L,26.5/9.9,MMTC
 12,52weekHigh,26.5,MMTC
 13,52weekLow,9.9,MMTC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1963,MMTC
 31,BSE CODE, 513377,MMTC
 32,FV (Rs), 1,MMTC
-33,DIV YIELD (%), 2.3,MMTC
+33,DIV YIELD (%), 2.2,MMTC

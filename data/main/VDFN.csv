@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2.1,VDFN
-1,Mkt Cap,706.0,VDFN
-2,Vol,314.8,VDFN
+0,Price,2.0,VDFN
+1,Mkt Cap,679.0,VDFN
+2,Vol,1.9,VDFN
 3,P/E,-0.0,VDFN
 4,P/CF,-0.0,VDFN
 5,EPS (TTM),-215.1,VDFN
-6,% ch,1.4,VDFN
+6,% ch,-3.8,VDFN
 7,No. of shares,334.46,VDFN
-8,% ch week,-2.3,VDFN
-9,% ch 1-mth,11.1,VDFN
-10,% ch 12-mth,68.8,VDFN
+8,% ch week,-6.0,VDFN
+9,% ch 1-mth,6.8,VDFN
+10,% ch 12-mth,62.4,VDFN
 11,52 week H/L,5.7/1.0,VDFN
 12,52weekHigh,5.7,VDFN
 13,52weekLow,1.0,VDFN

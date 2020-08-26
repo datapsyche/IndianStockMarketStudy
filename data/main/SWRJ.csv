@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1630.3,SWRJ
-1,Mkt Cap,19775.0,SWRJ
-2,Vol,0.9,SWRJ
-3,P/E,31.9,SWRJ
-4,P/CF,19.4,SWRJ
+0,Price,1650.0,SWRJ
+1,Mkt Cap,20015.0,SWRJ
+2,Vol,0.0,SWRJ
+3,P/E,32.3,SWRJ
+4,P/CF,19.6,SWRJ
 5,EPS (TTM),51.1,SWRJ
-6,% ch,-0.9,SWRJ
+6,% ch,1.2,SWRJ
 7,No. of shares,12.13,SWRJ
-8,% ch week,5.0,SWRJ
-9,% ch 1-mth,14.2,SWRJ
-10,% ch 12-mth,51.4,SWRJ
+8,% ch week,6.3,SWRJ
+9,% ch 1-mth,15.6,SWRJ
+10,% ch 12-mth,53.2,SWRJ
 11,52 week H/L,"1,700.0/807.4",SWRJ
 12,52weekHigh,"1,700.0",SWRJ
 13,52weekLow,807.4,SWRJ
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1983,SWRJ
 31,BSE CODE, 500407,SWRJ
 32,FV (Rs), 10,SWRJ
-33,DIV YIELD (%), 3.1,SWRJ
+33,DIV YIELD (%), 3.0,SWRJ

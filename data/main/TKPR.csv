@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6057.5,TKPR
-1,Mkt Cap,70267.0,TKPR
-2,Vol,1.0,TKPR
-3,P/E,32.3,TKPR
-4,P/CF,32.1,TKPR
+0,Price,6001.1,TKPR
+1,Mkt Cap,69612.0,TKPR
+2,Vol,0.0,TKPR
+3,P/E,32.0,TKPR
+4,P/CF,31.8,TKPR
 5,EPS (TTM),187.4,TKPR
-6,% ch,3.4,TKPR
+6,% ch,-0.9,TKPR
 7,No. of shares,11.60,TKPR
-8,% ch week,12.9,TKPR
-9,% ch 1-mth,9.9,TKPR
-10,% ch 12-mth,4.8,TKPR
+8,% ch week,11.9,TKPR
+9,% ch 1-mth,8.9,TKPR
+10,% ch 12-mth,3.8,TKPR
 11,52 week H/L,"6,524.7/3,918.1",TKPR
 12,52weekHigh,"6,524.7",TKPR
 13,52weekLow,"3,918.1",TKPR

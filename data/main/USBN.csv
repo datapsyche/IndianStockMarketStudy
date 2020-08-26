@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,25.9,USBN
-1,Mkt Cap,7893.0,USBN
-2,Vol,98.8,USBN
-3,P/E,-12.6,USBN
+0,Price,26.0,USBN
+1,Mkt Cap,7923.0,USBN
+2,Vol,0.1,USBN
+3,P/E,-12.7,USBN
 4,P/CF,1.8,USBN
 5,EPS (TTM),-2.1,USBN
-6,% ch,2.6,USBN
+6,% ch,0.4,USBN
 7,No. of shares,304.74,USBN
-8,% ch week,2.2,USBN
-9,% ch 1-mth,44.3,USBN
-10,% ch 12-mth,8.4,USBN
+8,% ch week,2.6,USBN
+9,% ch 1-mth,44.8,USBN
+10,% ch 12-mth,8.8,USBN
 11,52 week H/L,34.6/10.5,USBN
 12,52weekHigh,34.6,USBN
 13,52weekLow,10.5,USBN

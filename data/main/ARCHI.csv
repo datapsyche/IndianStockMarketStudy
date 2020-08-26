@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,13.1,ARCHI
-1,Mkt Cap,443.0,ARCHI
-2,Vol,5.9,ARCHI
+0,Price,13.3,ARCHI
+1,Mkt Cap,450.0,ARCHI
+2,Vol,0.5,ARCHI
 3,P/E,-4.4,ARCHI
-4,P/CF,10.3,ARCHI
+4,P/CF,10.4,ARCHI
 5,EPS (TTM),-3.0,ARCHI
-6,% ch,-0.5,ARCHI
+6,% ch,1.5,ARCHI
 7,No. of shares,33.80,ARCHI
-8,% ch week,6.9,ARCHI
-9,% ch 1-mth,11.8,ARCHI
-10,% ch 12-mth,-23.2,ARCHI
+8,% ch week,8.5,ARCHI
+9,% ch 1-mth,13.5,ARCHI
+10,% ch 12-mth,-22.0,ARCHI
 11,52 week H/L,25.0/8.1,ARCHI
 12,52weekHigh,25.0,ARCHI
 13,52weekLow,8.1,ARCHI

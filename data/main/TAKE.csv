@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,58.4,TAKE
-1,Mkt Cap,7148.0,TAKE
-2,Vol,772.1,TAKE
-3,P/E,-65.3,TAKE
+0,Price,59.6,TAKE
+1,Mkt Cap,7289.0,TAKE
+2,Vol,32.9,TAKE
+3,P/E,-66.6,TAKE
 4,P/CF,2.2,TAKE
 5,EPS (TTM),-0.9,TAKE
-6,% ch,14.5,TAKE
+6,% ch,2.0,TAKE
 7,No. of shares,122.40,TAKE
-8,% ch week,23.9,TAKE
-9,% ch 1-mth,43.3,TAKE
-10,% ch 12-mth,-43.6,TAKE
+8,% ch week,26.3,TAKE
+9,% ch 1-mth,46.1,TAKE
+10,% ch 12-mth,-42.5,TAKE
 11,52 week H/L,137.9/37.2,TAKE
 12,52weekHigh,137.9,TAKE
 13,52weekLow,37.2,TAKE
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 2000,TAKE
 31,BSE CODE, 532890,TAKE
 32,FV (Rs), 1,TAKE
-33,DIV YIELD (%), 2.1,TAKE
+33,DIV YIELD (%), 2.0,TAKE

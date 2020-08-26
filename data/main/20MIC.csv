@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,31.5,20MIC
-1,Mkt Cap,1065.0,20MIC
-2,Vol,7.9,20MIC
-3,P/E,8.4,20MIC
-4,P/CF,3.6,20MIC
+0,Price,32.9,20MIC
+1,Mkt Cap,1113.0,20MIC
+2,Vol,0.0,20MIC
+3,P/E,8.8,20MIC
+4,P/CF,3.8,20MIC
 5,EPS (TTM),3.8,20MIC
-6,% ch,-0.3,20MIC
+6,% ch,4.4,20MIC
 7,No. of shares,33.82,20MIC
-8,% ch week,0.8,20MIC
-9,% ch 1-mth,0.8,20MIC
-10,% ch 12-mth,-1.9,20MIC
+8,% ch week,5.3,20MIC
+9,% ch 1-mth,5.3,20MIC
+10,% ch 12-mth,2.5,20MIC
 11,52 week H/L,42.1/19.2,20MIC
 12,52weekHigh,42.1,20MIC
 13,52weekLow,19.2,20MIC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1987,20MIC
 31,BSE CODE, 533022,20MIC
 32,FV (Rs), 5,20MIC
-33,DIV YIELD (%), 2.5,20MIC
+33,DIV YIELD (%), 2.4,20MIC

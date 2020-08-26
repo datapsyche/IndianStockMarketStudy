@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,623.6,TRENT
-1,Mkt Cap,207222.0,TRENT
-2,Vol,98.3,TRENT
-3,P/E,134.1,TRENT
-4,P/CF,131.0,TRENT
+0,Price,626.9,TRENT
+1,Mkt Cap,208302.0,TRENT
+2,Vol,0.2,TRENT
+3,P/E,134.8,TRENT
+4,P/CF,131.7,TRENT
 5,EPS (TTM),4.7,TRENT
-6,% ch,2.8,TRENT
+6,% ch,0.5,TRENT
 7,No. of shares,332.30,TRENT
-8,% ch week,11.3,TRENT
-9,% ch 1-mth,7.9,TRENT
-10,% ch 12-mth,31.4,TRENT
+8,% ch week,11.9,TRENT
+9,% ch 1-mth,8.5,TRENT
+10,% ch 12-mth,32.1,TRENT
 11,52 week H/L,804.1/367.6,TRENT
 12,52weekHigh,804.1,TRENT
 13,52weekLow,367.6,TRENT

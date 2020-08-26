@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,6988.0,WABCO
-1,Mkt Cap,132562.0,WABCO
-2,Vol,0.9,WABCO
-3,P/E,119.0,WABCO
-4,P/CF,37.5,WABCO
+0,Price,6929.2,WABCO
+1,Mkt Cap,131446.0,WABCO
+2,Vol,0.0,WABCO
+3,P/E,118.0,WABCO
+4,P/CF,37.2,WABCO
 5,EPS (TTM),58.7,WABCO
-6,% ch,-0.4,WABCO
+6,% ch,-0.8,WABCO
 7,No. of shares,18.97,WABCO
-8,% ch week,-0.4,WABCO
-9,% ch 1-mth,0.8,WABCO
-10,% ch 12-mth,14.6,WABCO
+8,% ch week,-1.2,WABCO
+9,% ch 1-mth,-0.0,WABCO
+10,% ch 12-mth,13.6,WABCO
 11,52 week H/L,"7,029.0/5,296.8",WABCO
 12,52weekHigh,"7,029.0",WABCO
 13,52weekLow,"5,296.8",WABCO

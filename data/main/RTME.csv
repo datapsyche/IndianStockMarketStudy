@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1171.2,RTME
-1,Mkt Cap,54730.0,RTME
-2,Vol,0.7,RTME
-3,P/E,17.8,RTME
-4,P/CF,17.4,RTME
+0,Price,1180.0,RTME
+1,Mkt Cap,55141.0,RTME
+2,Vol,0.1,RTME
+3,P/E,17.9,RTME
+4,P/CF,17.5,RTME
 5,EPS (TTM),65.8,RTME
-6,% ch,-0.8,RTME
+6,% ch,0.8,RTME
 7,No. of shares,46.73,RTME
-8,% ch week,4.0,RTME
-9,% ch 1-mth,12.1,RTME
-10,% ch 12-mth,27.8,RTME
+8,% ch week,4.8,RTME
+9,% ch 1-mth,12.9,RTME
+10,% ch 12-mth,28.8,RTME
 11,52 week H/L,"1,383.5/715.6",RTME
 12,52weekHigh,"1,383.5",RTME
 13,52weekLow,715.6,RTME

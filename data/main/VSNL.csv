@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,889.8,VSNL
-1,Mkt Cap,253593.0,VSNL
-2,Vol,7.2,VSNL
-3,P/E,262.2,VSNL
-4,P/CF,15.9,VSNL
+0,Price,897.8,VSNL
+1,Mkt Cap,255859.0,VSNL
+2,Vol,0.0,VSNL
+3,P/E,264.6,VSNL
+4,P/CF,16.0,VSNL
 5,EPS (TTM),3.4,VSNL
-6,% ch,-0.0,VSNL
+6,% ch,0.9,VSNL
 7,No. of shares,285.00,VSNL
-8,% ch week,5.0,VSNL
-9,% ch 1-mth,39.9,VSNL
-10,% ch 12-mth,112.1,VSNL
+8,% ch week,5.9,VSNL
+9,% ch 1-mth,41.1,VSNL
+10,% ch 12-mth,114.0,VSNL
 11,52 week H/L,929.0/205.7,VSNL
 12,52weekHigh,929.0,VSNL
 13,52weekLow,205.7,VSNL

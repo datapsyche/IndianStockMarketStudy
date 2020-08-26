@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,34.3,MRPL
-1,Mkt Cap,60027.0,MRPL
-2,Vol,214.4,MRPL
+0,Price,34.4,MRPL
+1,Mkt Cap,60289.0,MRPL
+2,Vol,0.3,MRPL
 3,P/E,-2.2,MRPL
 4,P/CF,2.2,MRPL
 5,EPS (TTM),-15.4,MRPL
-6,% ch,-0.7,MRPL
+6,% ch,0.4,MRPL
 7,No. of shares,1752.60,MRPL
-8,% ch week,3.9,MRPL
-9,% ch 1-mth,-4.2,MRPL
-10,% ch 12-mth,-23.8,MRPL
+8,% ch week,4.4,MRPL
+9,% ch 1-mth,-3.8,MRPL
+10,% ch 12-mth,-23.5,MRPL
 11,52 week H/L,56.6/21.3,MRPL
 12,52weekHigh,56.6,MRPL
 13,52weekLow,21.3,MRPL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1988,MRPL
 31,BSE CODE, 500109,MRPL
 32,FV (Rs), 10,MRPL
-33,DIV YIELD (%), 8.8,MRPL
+33,DIV YIELD (%), 8.7,MRPL

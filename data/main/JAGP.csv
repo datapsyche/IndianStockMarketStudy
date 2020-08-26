@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,41.8,JAGP
-1,Mkt Cap,13857.0,JAGP
-2,Vol,156.6,JAGP
-3,P/E,8.1,JAGP
+0,Price,42.0,JAGP
+1,Mkt Cap,13940.0,JAGP
+2,Vol,1.2,JAGP
+3,P/E,8.2,JAGP
 4,P/CF,3.5,JAGP
 5,EPS (TTM),5.1,JAGP
-6,% ch,-0.2,JAGP
+6,% ch,0.6,JAGP
 7,No. of shares,331.91,JAGP
-8,% ch week,4.0,JAGP
-9,% ch 1-mth,6.5,JAGP
-10,% ch 12-mth,-38.8,JAGP
+8,% ch week,4.6,JAGP
+9,% ch 1-mth,7.1,JAGP
+10,% ch 12-mth,-38.4,JAGP
 11,52 week H/L,78.0/36.2,JAGP
 12,52weekHigh,78.0,JAGP
 13,52weekLow,36.2,JAGP
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1975,JAGP
 31,BSE CODE, 532705,JAGP
 32,FV (Rs), 2,JAGP
-33,DIV YIELD (%), 7.5,JAGP
+33,DIV YIELD (%), 7.4,JAGP

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,67.3,GSFC
-1,Mkt Cap,26799.0,GSFC
-2,Vol,315.5,GSFC
-3,P/E,27.2,GSFC
-4,P/CF,4.3,GSFC
+0,Price,69.1,GSFC
+1,Mkt Cap,27536.0,GSFC
+2,Vol,35.3,GSFC
+3,P/E,27.9,GSFC
+4,P/CF,4.4,GSFC
 5,EPS (TTM),2.5,GSFC
-6,% ch,5.9,GSFC
+6,% ch,2.8,GSFC
 7,No. of shares,398.50,GSFC
-8,% ch week,9.3,GSFC
-9,% ch 1-mth,11.8,GSFC
-10,% ch 12-mth,-5.5,GSFC
+8,% ch week,12.4,GSFC
+9,% ch 1-mth,14.9,GSFC
+10,% ch 12-mth,-2.9,GSFC
 11,52 week H/L,97.7/29.9,GSFC
 12,52weekHigh,97.7,GSFC
 13,52weekLow,29.9,GSFC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1962,GSFC
 31,BSE CODE, 500690,GSFC
 32,FV (Rs), 2,GSFC
-33,DIV YIELD (%), 3.3,GSFC
+33,DIV YIELD (%), 3.2,GSFC

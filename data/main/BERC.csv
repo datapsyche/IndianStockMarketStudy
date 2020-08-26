@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,66.0,BERC
-1,Mkt Cap,1979.0,BERC
-2,Vol,110.4,BERC
-3,P/E,194.5,BERC
+0,Price,65.9,BERC
+1,Mkt Cap,1977.0,BERC
+2,Vol,13.0,BERC
+3,P/E,194.4,BERC
 4,P/CF,8.2,BERC
 5,EPS (TTM),0.3,BERC
-6,% ch,9.4,BERC
+6,% ch,-0.1,BERC
 7,No. of shares,30.00,BERC
-8,% ch week,13.0,BERC
-9,% ch 1-mth,29.2,BERC
-10,% ch 12-mth,41.2,BERC
+8,% ch week,12.9,BERC
+9,% ch 1-mth,29.1,BERC
+10,% ch 12-mth,41.1,BERC
 11,52 week H/L,89.7/24.6,BERC
 12,52weekHigh,89.7,BERC
 13,52weekLow,24.6,BERC

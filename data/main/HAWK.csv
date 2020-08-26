@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,4934.3,HAWK
-1,Mkt Cap,26102.0,HAWK
-2,Vol,3.8,HAWK
-3,P/E,40.0,HAWK
-4,P/CF,44.8,HAWK
+0,Price,4940.0,HAWK
+1,Mkt Cap,26133.0,HAWK
+2,Vol,0.0,HAWK
+3,P/E,40.1,HAWK
+4,P/CF,44.9,HAWK
 5,EPS (TTM),123.3,HAWK
-6,% ch,0.9,HAWK
+6,% ch,0.1,HAWK
 7,No. of shares,5.29,HAWK
-8,% ch week,3.9,HAWK
-9,% ch 1-mth,20.6,HAWK
-10,% ch 12-mth,72.5,HAWK
+8,% ch week,4.0,HAWK
+9,% ch 1-mth,20.7,HAWK
+10,% ch 12-mth,72.7,HAWK
 11,52 week H/L,"5,540.0/2,710.5",HAWK
 12,52weekHigh,"5,540.0",HAWK
 13,52weekLow,"2,710.5",HAWK

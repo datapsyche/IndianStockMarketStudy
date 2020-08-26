@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,173.5,EXIDE
-1,Mkt Cap,147475.0,EXIDE
-2,Vol,326.7,EXIDE
+0,Price,173.8,EXIDE
+1,Mkt Cap,147730.0,EXIDE
+2,Vol,7.5,EXIDE
 3,P/E,22.9,EXIDE
 4,P/CF,12.4,EXIDE
 5,EPS (TTM),7.6,EXIDE
-6,% ch,1.6,EXIDE
+6,% ch,0.2,EXIDE
 7,No. of shares,850.00,EXIDE
-8,% ch week,5.6,EXIDE
-9,% ch 1-mth,9.7,EXIDE
-10,% ch 12-mth,-3.6,EXIDE
+8,% ch week,5.8,EXIDE
+9,% ch 1-mth,9.9,EXIDE
+10,% ch 12-mth,-3.4,EXIDE
 11,52 week H/L,208.8/121.9,EXIDE
 12,52weekHigh,208.8,EXIDE
 13,52weekLow,121.9,EXIDE

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1156.6,VAMP
-1,Mkt Cap,11705.0,VAMP
-2,Vol,1.1,VAMP
-3,P/E,13.1,VAMP
-4,P/CF,12.7,VAMP
+0,Price,1167.0,VAMP
+1,Mkt Cap,11810.0,VAMP
+2,Vol,0.0,VAMP
+3,P/E,13.2,VAMP
+4,P/CF,12.8,VAMP
 5,EPS (TTM),88.3,VAMP
-6,% ch,-3.0,VAMP
+6,% ch,0.9,VAMP
 7,No. of shares,10.12,VAMP
-8,% ch week,3.2,VAMP
-9,% ch 1-mth,11.2,VAMP
-10,% ch 12-mth,14.2,VAMP
+8,% ch week,4.1,VAMP
+9,% ch 1-mth,12.2,VAMP
+10,% ch 12-mth,15.3,VAMP
 11,52 week H/L,"1,475.0/710.0",VAMP
 12,52weekHigh,"1,475.0",VAMP
 13,52weekLow,710.0,VAMP
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1963,VAMP
 31,BSE CODE, 532757,VAMP
 32,FV (Rs), 10,VAMP
-33,DIV YIELD (%), 2.0,VAMP
+33,DIV YIELD (%), 1.9,VAMP

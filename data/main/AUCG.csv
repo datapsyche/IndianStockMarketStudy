@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,374.7,AUCG
-1,Mkt Cap,2406.0,AUCG
-2,Vol,1.0,AUCG
-3,P/E,24.2,AUCG
-4,P/CF,9.2,AUCG
+0,Price,386.0,AUCG
+1,Mkt Cap,2479.0,AUCG
+2,Vol,0.9,AUCG
+3,P/E,24.9,AUCG
+4,P/CF,9.5,AUCG
 5,EPS (TTM),15.5,AUCG
-6,% ch,-1.6,AUCG
+6,% ch,3.0,AUCG
 7,No. of shares,6.42,AUCG
-8,% ch week,10.9,AUCG
-9,% ch 1-mth,17.2,AUCG
-10,% ch 12-mth,-21.5,AUCG
+8,% ch week,14.3,AUCG
+9,% ch 1-mth,20.7,AUCG
+10,% ch 12-mth,-19.1,AUCG
 11,52 week H/L,605.0/227.3,AUCG
 12,52weekHigh,605.0,AUCG
 13,52weekLow,227.3,AUCG
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1982,AUCG
 31,BSE CODE, 505036,AUCG
 32,FV (Rs), 10,AUCG
-33,DIV YIELD (%), 4.7,AUCG
+33,DIV YIELD (%), 4.5,AUCG

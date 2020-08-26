@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,7.6,SRNF
-1,Mkt Cap,3829.0,SRNF
-2,Vol,298.6,SRNF
+0,Price,7.8,SRNF
+1,Mkt Cap,3944.0,SRNF
+2,Vol,15.0,SRNF
 3,P/E,1.0,SRNF
 4,P/CF,0.4,SRNF
 5,EPS (TTM),7.8,SRNF
-6,% ch,-1.6,SRNF
+6,% ch,3.0,SRNF
 7,No. of shares,503.09,SRNF
-8,% ch week,0.3,SRNF
-9,% ch 1-mth,7.5,SRNF
-10,% ch 12-mth,-29.5,SRNF
+8,% ch week,3.3,SRNF
+9,% ch 1-mth,10.7,SRNF
+10,% ch 12-mth,-27.4,SRNF
 11,52 week H/L,14.1/3.5,SRNF
 12,52weekHigh,14.1,SRNF
 13,52weekLow,3.5,SRNF
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1989,SRNF
 31,BSE CODE, 523756,SRNF
 32,FV (Rs), 10,SRNF
-33,DIV YIELD (%), 6.6,SRNF
+33,DIV YIELD (%), 6.4,SRNF

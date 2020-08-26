@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,795.8,ECXS
-1,Mkt Cap,32148.0,ECXS
-2,Vol,35.3,ECXS
+0,Price,794.0,ECXS
+1,Mkt Cap,32078.0,ECXS
+2,Vol,6.2,ECXS
 3,P/E,15.4,ECXS
 4,P/CF,9.5,ECXS
 5,EPS (TTM),51.7,ECXS
-6,% ch,7.9,ECXS
+6,% ch,-0.2,ECXS
 7,No. of shares,40.40,ECXS
-8,% ch week,11.2,ECXS
-9,% ch 1-mth,66.8,ECXS
-10,% ch 12-mth,75.6,ECXS
+8,% ch week,10.9,ECXS
+9,% ch 1-mth,66.5,ECXS
+10,% ch 12-mth,75.2,ECXS
 11,52 week H/L,808.5/323.2,ECXS
 12,52weekHigh,808.5,ECXS
 13,52weekLow,323.2,ECXS

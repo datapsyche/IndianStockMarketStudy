@@ -1,15 +1,15 @@
 ,0,1,name
 0,Price,16.6,ELETST
-1,Mkt Cap,5908.0,ELETST
-2,Vol,129.2,ELETST
+1,Mkt Cap,5940.0,ELETST
+2,Vol,2.8,ELETST
 3,P/E,6.0,ELETST
-4,P/CF,11.6,ELETST
+4,P/CF,11.7,ELETST
 5,EPS (TTM),2.8,ELETST
-6,% ch,1.0,ELETST
+6,% ch,0.5,ELETST
 7,No. of shares,356.96,ELETST
-8,% ch week,7.1,ELETST
-9,% ch 1-mth,9.9,ELETST
-10,% ch 12-mth,16.7,ELETST
+8,% ch week,7.6,ELETST
+9,% ch 1-mth,10.5,ELETST
+10,% ch 12-mth,17.3,ELETST
 11,52 week H/L,19.0/7.6,ELETST
 12,52weekHigh,19.0,ELETST
 13,52weekLow,7.6,ELETST

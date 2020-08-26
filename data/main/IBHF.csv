@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,202.4,IBHF
-1,Mkt Cap,86310.0,IBHF
-2,Vol,1045.8,IBHF
+0,Price,206.5,IBHF
+1,Mkt Cap,88081.0,IBHF
+2,Vol,113.9,IBHF
 3,P/E,2.5,IBHF
-4,P/CF,2.2,IBHF
+4,P/CF,2.3,IBHF
 5,EPS (TTM),81.3,IBHF
-6,% ch,-0.4,IBHF
+6,% ch,2.1,IBHF
 7,No. of shares,426.54,IBHF
-8,% ch week,-0.5,IBHF
-9,% ch 1-mth,-6.3,IBHF
-10,% ch 12-mth,-58.6,IBHF
+8,% ch week,1.6,IBHF
+9,% ch 1-mth,-4.4,IBHF
+10,% ch 12-mth,-57.7,IBHF
 11,52 week H/L,507.0/81.3,IBHF
 12,52weekHigh,507.0,IBHF
 13,52weekLow,81.3,IBHF
@@ -30,4 +30,4 @@
 28,YEAR OF INC,,IBHF
 29,BSE CODE, 535789,IBHF
 30,FV (Rs), 2,IBHF
-31,DIV YIELD (%), 30.1,IBHF
+31,DIV YIELD (%), 29.5,IBHF

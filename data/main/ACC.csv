@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1420.4,ACC
-1,Mkt Cap,266671.0,ACC
-2,Vol,44.7,ACC
-3,P/E,23.0,ACC
-4,P/CF,12.6,ACC
+0,Price,1428.2,ACC
+1,Mkt Cap,268135.0,ACC
+2,Vol,0.1,ACC
+3,P/E,23.2,ACC
+4,P/CF,12.7,ACC
 5,EPS (TTM),61.6,ACC
-6,% ch,-0.1,ACC
+6,% ch,0.5,ACC
 7,No. of shares,187.75,ACC
-8,% ch week,2.4,ACC
-9,% ch 1-mth,5.7,ACC
-10,% ch 12-mth,-4.9,ACC
+8,% ch week,2.9,ACC
+9,% ch 1-mth,6.3,ACC
+10,% ch 12-mth,-4.4,ACC
 11,52 week H/L,"1,707.7/895.5",ACC
 12,52weekHigh,"1,707.7",ACC
 13,52weekLow,895.5,ACC

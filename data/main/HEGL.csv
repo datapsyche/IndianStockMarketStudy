@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,799.6,HEGL
-1,Mkt Cap,35438.0,HEGL
-2,Vol,21.7,HEGL
-3,P/E,66.4,HEGL
+0,Price,802.8,HEGL
+1,Mkt Cap,35578.0,HEGL
+2,Vol,1.2,HEGL
+3,P/E,66.7,HEGL
 4,P/CF,1.1,HEGL
 5,EPS (TTM),12.0,HEGL
-6,% ch,-2.1,HEGL
+6,% ch,0.4,HEGL
 7,No. of shares,44.32,HEGL
-8,% ch week,2.7,HEGL
-9,% ch 1-mth,-0.3,HEGL
-10,% ch 12-mth,-13.5,HEGL
+8,% ch week,3.1,HEGL
+9,% ch 1-mth,0.1,HEGL
+10,% ch 12-mth,-13.2,HEGL
 11,52 week H/L,"1,473.0/413.2",HEGL
 12,52weekHigh,"1,473.0",HEGL
 13,52weekLow,413.2,HEGL

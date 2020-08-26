@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,671.3,ACTN
-1,Mkt Cap,3944.0,ACTN
-2,Vol,1.6,ACTN
-3,P/E,7.5,ACTN
-4,P/CF,4.3,ACTN
+0,Price,698.0,ACTN
+1,Mkt Cap,4101.0,ACTN
+2,Vol,0.0,ACTN
+3,P/E,7.8,ACTN
+4,P/CF,4.5,ACTN
 5,EPS (TTM),88.9,ACTN
-6,% ch,-0.6,ACTN
+6,% ch,4.0,ACTN
 7,No. of shares,5.88,ACTN
-8,% ch week,-0.2,ACTN
-9,% ch 1-mth,1.5,ACTN
-10,% ch 12-mth,-21.0,ACTN
+8,% ch week,3.8,ACTN
+9,% ch 1-mth,5.6,ACTN
+10,% ch 12-mth,-17.9,ACTN
 11,52 week H/L,956.0/421.0,ACTN
 12,52weekHigh,956.0,ACTN
 13,52weekLow,421.0,ACTN
@@ -31,4 +31,4 @@
 29,YEAR OF INC, 1988,ACTN
 30,BSE CODE, 531978,ACTN
 31,FV (Rs), 10,ACTN
-32,DIV YIELD (%), 4.4,ACTN
+32,DIV YIELD (%), 4.2,ACTN

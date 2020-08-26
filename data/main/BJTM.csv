@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1089.5,BJTM
-1,Mkt Cap,14359.0,BJTM
-2,Vol,17.7,BJTM
-3,P/E,24.7,BJTM
+0,Price,1093.1,BJTM
+1,Mkt Cap,14407.0,BJTM
+2,Vol,0.1,BJTM
+3,P/E,24.8,BJTM
 4,P/CF,4.8,BJTM
 5,EPS (TTM),44.2,BJTM
-6,% ch,-0.1,BJTM
+6,% ch,0.3,BJTM
 7,No. of shares,13.18,BJTM
-8,% ch week,15.4,BJTM
-9,% ch 1-mth,20.0,BJTM
-10,% ch 12-mth,-13.4,BJTM
+8,% ch week,15.8,BJTM
+9,% ch 1-mth,20.4,BJTM
+10,% ch 12-mth,-13.1,BJTM
 11,52 week H/L,"1,502.0/580.0",BJTM
 12,52weekHigh,"1,502.0",BJTM
 13,52weekLow,580.0,BJTM

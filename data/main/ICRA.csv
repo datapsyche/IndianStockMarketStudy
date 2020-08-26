@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,2761.0,ICRA
-1,Mkt Cap,26644.0,ICRA
-2,Vol,0.9,ICRA
-3,P/E,32.0,ICRA
-4,P/CF,24.2,ICRA
+0,Price,2847.0,ICRA
+1,Mkt Cap,27473.0,ICRA
+2,Vol,0.2,ICRA
+3,P/E,33.0,ICRA
+4,P/CF,24.9,ICRA
 5,EPS (TTM),86.3,ICRA
-6,% ch,3.4,ICRA
+6,% ch,3.1,ICRA
 7,No. of shares,9.65,ICRA
-8,% ch week,8.0,ICRA
-9,% ch 1-mth,9.0,ICRA
-10,% ch 12-mth,4.9,ICRA
+8,% ch week,11.3,ICRA
+9,% ch 1-mth,12.4,ICRA
+10,% ch 12-mth,8.2,ICRA
 11,52 week H/L,"3,227.0/1,968.0",ICRA
 12,52weekHigh,"3,227.0",ICRA
 13,52weekLow,"1,968.0",ICRA

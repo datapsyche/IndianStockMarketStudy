@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,18.2,HMT
-1,Mkt Cap,21914.0,HMT
-2,Vol,8.0,HMT
-3,P/E,250.7,HMT
-4,P/CF,-20.2,HMT
+0,Price,18.1,HMT
+1,Mkt Cap,21734.0,HMT
+2,Vol,0.6,HMT
+3,P/E,248.7,HMT
+4,P/CF,-20.1,HMT
 5,EPS (TTM),0.1,HMT
-6,% ch,4.6,HMT
+6,% ch,-0.8,HMT
 7,No. of shares,1204.09,HMT
-8,% ch week,11.0,HMT
-9,% ch 1-mth,5.6,HMT
-10,% ch 12-mth,52.9,HMT
+8,% ch week,10.1,HMT
+9,% ch 1-mth,4.7,HMT
+10,% ch 12-mth,51.7,HMT
 11,52 week H/L,20.3/7.5,HMT
 12,52weekHigh,20.3,HMT
 13,52weekLow,7.5,HMT

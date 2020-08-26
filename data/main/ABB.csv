@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,971.3,ABB
-1,Mkt Cap,205818.0,ABB
-2,Vol,3.4,ABB
-3,P/E,73.7,ABB
-4,P/CF,59.3,ABB
+0,Price,973.4,ABB
+1,Mkt Cap,206263.0,ABB
+2,Vol,0.0,ABB
+3,P/E,73.9,ABB
+4,P/CF,59.5,ABB
 5,EPS (TTM),13.2,ABB
-6,% ch,-1.0,ABB
+6,% ch,0.2,ABB
 7,No. of shares,211.91,ABB
-8,% ch week,4.5,ABB
-9,% ch 1-mth,6.5,ABB
-10,% ch 12-mth,-30.6,ABB
+8,% ch week,4.8,ABB
+9,% ch 1-mth,6.7,ABB
+10,% ch 12-mth,-30.5,ABB
 11,52 week H/L,"1,583.8/722.5",ABB
 12,52weekHigh,"1,583.8",ABB
 13,52weekLow,722.5,ABB

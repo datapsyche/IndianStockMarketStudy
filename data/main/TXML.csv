@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,45.3,TXML
-1,Mkt Cap,5766.0,TXML
-2,Vol,91.5,TXML
-3,P/E,102.9,TXML
-4,P/CF,74.7,TXML
+0,Price,43.0,TXML
+1,Mkt Cap,5479.0,TXML
+2,Vol,3.7,TXML
+3,P/E,97.8,TXML
+4,P/CF,70.9,TXML
 5,EPS (TTM),0.4,TXML
-6,% ch,10.8,TXML
+6,% ch,-5.0,TXML
 7,No. of shares,127.43,TXML
-8,% ch week,12.3,TXML
-9,% ch 1-mth,31.2,TXML
-10,% ch 12-mth,35.9,TXML
+8,% ch week,6.7,TXML
+9,% ch 1-mth,24.6,TXML
+10,% ch 12-mth,29.1,TXML
 11,52 week H/L,56.2/22.5,TXML
 12,52weekHigh,56.2,TXML
 13,52weekLow,22.5,TXML
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1939,TXML
 31,BSE CODE, 505400,TXML
 32,FV (Rs), 1,TXML
-33,DIV YIELD (%), 0.4,TXML
+33,DIV YIELD (%), 0.5,TXML

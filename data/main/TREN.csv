@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,77.9,TREN
-1,Mkt Cap,40178.0,TREN
-2,Vol,66.2,TREN
+0,Price,78.2,TREN
+1,Mkt Cap,40332.0,TREN
+2,Vol,1.5,TREN
 3,P/E,12.8,TREN
 4,P/CF,15.9,TREN
 5,EPS (TTM),6.1,TREN
-6,% ch,-0.4,TREN
+6,% ch,0.4,TREN
 7,No. of shares,515.76,TREN
-8,% ch week,3.9,TREN
-9,% ch 1-mth,42.2,TREN
-10,% ch 12-mth,49.7,TREN
+8,% ch week,4.3,TREN
+9,% ch 1-mth,42.7,TREN
+10,% ch 12-mth,50.2,TREN
 11,52 week H/L,88.5/28.9,TREN
 12,52weekHigh,88.5,TREN
 13,52weekLow,28.9,TREN

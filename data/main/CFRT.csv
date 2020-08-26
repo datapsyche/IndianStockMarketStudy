@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,795.8,CFRT
-1,Mkt Cap,231777.0,CFRT
-2,Vol,17.2,CFRT
-3,P/E,21.8,CFRT
-4,P/CF,27.8,CFRT
+0,Price,800.0,CFRT
+1,Mkt Cap,233000.0,CFRT
+2,Vol,1.3,CFRT
+3,P/E,21.9,CFRT
+4,P/CF,28.0,CFRT
 5,EPS (TTM),36.5,CFRT
-6,% ch,0.1,CFRT
+6,% ch,0.5,CFRT
 7,No. of shares,291.25,CFRT
-8,% ch week,9.3,CFRT
-9,% ch 1-mth,-0.5,CFRT
-10,% ch 12-mth,113.6,CFRT
+8,% ch week,9.9,CFRT
+9,% ch 1-mth,0.0,CFRT
+10,% ch 12-mth,114.7,CFRT
 11,52 week H/L,829.9/355.0,CFRT
 12,52weekHigh,829.9,CFRT
 13,52weekLow,355.0,CFRT

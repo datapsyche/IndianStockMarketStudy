@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,218.4,GNFC
-1,Mkt Cap,33936.0,GNFC
-2,Vol,468.8,GNFC
-3,P/E,6.8,GNFC
-4,P/CF,3.4,GNFC
+0,Price,227.3,GNFC
+1,Mkt Cap,35327.0,GNFC
+2,Vol,94.0,GNFC
+3,P/E,7.1,GNFC
+4,P/CF,3.5,GNFC
 5,EPS (TTM),32.1,GNFC
-6,% ch,11.6,GNFC
+6,% ch,4.1,GNFC
 7,No. of shares,155.42,GNFC
-8,% ch week,23.6,GNFC
-9,% ch 1-mth,35.0,GNFC
-10,% ch 12-mth,19.5,GNFC
+8,% ch week,28.6,GNFC
+9,% ch 1-mth,40.6,GNFC
+10,% ch 12-mth,24.4,GNFC
 11,52 week H/L,224.5/95.7,GNFC
 12,52weekHigh,224.5,GNFC
 13,52weekLow,95.7,GNFC
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1976,GNFC
 31,BSE CODE, 500670,GNFC
 32,FV (Rs), 10,GNFC
-33,DIV YIELD (%), 3.2,GNFC
+33,DIV YIELD (%), 3.1,GNFC

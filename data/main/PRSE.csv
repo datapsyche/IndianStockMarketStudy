@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,47.8,PRSE
-1,Mkt Cap,1264.0,PRSE
-2,Vol,5.8,PRSE
-3,P/E,7.4,PRSE
-4,P/CF,9.4,PRSE
+0,Price,51.0,PRSE
+1,Mkt Cap,1350.0,PRSE
+2,Vol,0.1,PRSE
+3,P/E,7.9,PRSE
+4,P/CF,10.1,PRSE
 5,EPS (TTM),6.5,PRSE
-6,% ch,-1.6,PRSE
+6,% ch,6.8,PRSE
 7,No. of shares,26.47,PRSE
-8,% ch week,4.8,PRSE
-9,% ch 1-mth,-5.1,PRSE
-10,% ch 12-mth,38.6,PRSE
+8,% ch week,12.0,PRSE
+9,% ch 1-mth,1.4,PRSE
+10,% ch 12-mth,48.0,PRSE
 11,52 week H/L,53.2/24.4,PRSE
 12,52weekHigh,53.2,PRSE
 13,52weekLow,24.4,PRSE

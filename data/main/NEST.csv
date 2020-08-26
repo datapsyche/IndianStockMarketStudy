@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,16535.5,NEST
-1,Mkt Cap,1594353.0,NEST
-2,Vol,2.1,NEST
-3,P/E,76.6,NEST
-4,P/CF,82.1,NEST
+0,Price,16410.0,NEST
+1,Mkt Cap,1582252.0,NEST
+2,Vol,0.2,NEST
+3,P/E,76.1,NEST
+4,P/CF,81.5,NEST
 5,EPS (TTM),215.8,NEST
-6,% ch,-0.1,NEST
+6,% ch,-0.8,NEST
 7,No. of shares,96.42,NEST
-8,% ch week,0.7,NEST
-9,% ch 1-mth,-4.0,NEST
-10,% ch 12-mth,33.4,NEST
+8,% ch week,-0.1,NEST
+9,% ch 1-mth,-4.8,NEST
+10,% ch 12-mth,32.4,NEST
 11,52 week H/L,"18,301.0/12,235.0",NEST
 12,52weekHigh,"18,301.0",NEST
 13,52weekLow,"12,235.0",NEST

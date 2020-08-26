@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,272.5,KAPW
-1,Mkt Cap,41810.0,KAPW
-2,Vol,81.6,KAPW
-3,P/E,9.0,KAPW
-4,P/CF,5.8,KAPW
+0,Price,274.5,KAPW
+1,Mkt Cap,42125.0,KAPW
+2,Vol,0.2,KAPW
+3,P/E,9.1,KAPW
+4,P/CF,5.9,KAPW
 5,EPS (TTM),30.2,KAPW
-6,% ch,-0.5,KAPW
+6,% ch,0.8,KAPW
 7,No. of shares,153.46,KAPW
-8,% ch week,10.8,KAPW
-9,% ch 1-mth,7.5,KAPW
-10,% ch 12-mth,-41.2,KAPW
+8,% ch week,11.6,KAPW
+9,% ch 1-mth,8.3,KAPW
+10,% ch 12-mth,-40.8,KAPW
 11,52 week H/L,515.0/170.0,KAPW
 12,52weekHigh,515.0,KAPW
 13,52weekLow,170.0,KAPW

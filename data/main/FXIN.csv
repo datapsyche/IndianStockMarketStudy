@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,357.7,FXIN
-1,Mkt Cap,25830.0,FXIN
-2,Vol,17.5,FXIN
+0,Price,359.7,FXIN
+1,Mkt Cap,25970.0,FXIN
+2,Vol,0.2,FXIN
 3,P/E,7.6,FXIN
 4,P/CF,3.7,FXIN
 5,EPS (TTM),47.1,FXIN
-6,% ch,-2.4,FXIN
+6,% ch,0.5,FXIN
 7,No. of shares,72.21,FXIN
-8,% ch week,6.1,FXIN
-9,% ch 1-mth,31.3,FXIN
-10,% ch 12-mth,69.6,FXIN
+8,% ch week,6.6,FXIN
+9,% ch 1-mth,32.1,FXIN
+10,% ch 12-mth,70.5,FXIN
 11,52 week H/L,376.8/120.0,FXIN
 12,52weekHigh,376.8,FXIN
 13,52weekLow,120.0,FXIN

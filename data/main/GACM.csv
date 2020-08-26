@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,224.3,GACM
-1,Mkt Cap,445281.0,GACM
-2,Vol,77.4,GACM
+0,Price,223.8,GACM
+1,Mkt Cap,444288.0,GACM
+2,Vol,4.6,GACM
 3,P/E,15.8,GACM
 4,P/CF,10.8,GACM
 5,EPS (TTM),14.2,GACM
-6,% ch,-0.8,GACM
+6,% ch,-0.2,GACM
 7,No. of shares,1985.65,GACM
-8,% ch week,2.3,GACM
-9,% ch 1-mth,11.6,GACM
-10,% ch 12-mth,10.6,GACM
+8,% ch week,2.0,GACM
+9,% ch 1-mth,11.3,GACM
+10,% ch 12-mth,10.4,GACM
 11,52 week H/L,231.9/136.7,GACM
 12,52weekHigh,231.9,GACM
 13,52weekLow,136.7,GACM

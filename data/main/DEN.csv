@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,82.0,DEN
-1,Mkt Cap,14612.0,DEN
-2,Vol,24.5,DEN
-3,P/E,13.9,DEN
-4,P/CF,-27.3,DEN
+0,Price,81.9,DEN
+1,Mkt Cap,14586.0,DEN
+2,Vol,0.4,DEN
+3,P/E,13.8,DEN
+4,P/CF,-27.2,DEN
 5,EPS (TTM),5.9,DEN
-6,% ch,-1.0,DEN
+6,% ch,-0.2,DEN
 7,No. of shares,178.20,DEN
-8,% ch week,0.8,DEN
-9,% ch 1-mth,-15.7,DEN
-10,% ch 12-mth,-9.6,DEN
+8,% ch week,0.6,DEN
+9,% ch 1-mth,-15.8,DEN
+10,% ch 12-mth,-9.8,DEN
 11,52 week H/L,115.1/25.9,DEN
 12,52weekHigh,115.1,DEN
 13,52weekLow,25.9,DEN

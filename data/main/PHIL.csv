@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,122.6,PHIL
-1,Mkt Cap,21119.0,PHIL
-2,Vol,124.0,PHIL
-3,P/E,7.4,PHIL
-4,P/CF,4.7,PHIL
+0,Price,123.9,PHIL
+1,Mkt Cap,21352.0,PHIL
+2,Vol,7.1,PHIL
+3,P/E,7.5,PHIL
+4,P/CF,4.8,PHIL
 5,EPS (TTM),16.5,PHIL
-6,% ch,-1.2,PHIL
+6,% ch,1.1,PHIL
 7,No. of shares,172.33,PHIL
-8,% ch week,-1.2,PHIL
-9,% ch 1-mth,19.2,PHIL
-10,% ch 12-mth,7.3,PHIL
+8,% ch week,-0.2,PHIL
+9,% ch 1-mth,20.5,PHIL
+10,% ch 12-mth,8.4,PHIL
 11,52 week H/L,147.4/54.2,PHIL
 12,52weekHigh,147.4,PHIL
 13,52weekLow,54.2,PHIL

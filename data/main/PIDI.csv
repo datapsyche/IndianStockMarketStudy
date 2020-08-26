@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1468.4,PIDI
-1,Mkt Cap,752790.0,PIDI
-2,Vol,103.8,PIDI
-3,P/E,89.6,PIDI
-4,P/CF,70.9,PIDI
+0,Price,1473.0,PIDI
+1,Mkt Cap,755148.0,PIDI
+2,Vol,0.8,PIDI
+3,P/E,89.9,PIDI
+4,P/CF,71.2,PIDI
 5,EPS (TTM),16.4,PIDI
-6,% ch,0.8,PIDI
+6,% ch,0.3,PIDI
 7,No. of shares,512.66,PIDI
-8,% ch week,6.3,PIDI
-9,% ch 1-mth,6.6,PIDI
-10,% ch 12-mth,5.9,PIDI
+8,% ch week,6.6,PIDI
+9,% ch 1-mth,6.9,PIDI
+10,% ch 12-mth,6.3,PIDI
 11,52 week H/L,"1,709.9/1,186.1",PIDI
 12,52weekHigh,"1,709.9",PIDI
 13,52weekLow,"1,186.1",PIDI

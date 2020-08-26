@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,36.0,NDTV
-1,Mkt Cap,2318.0,NDTV
-2,Vol,6.0,NDTV
-3,P/E,7.9,NDTV
-4,P/CF,6.6,NDTV
+0,Price,35.2,NDTV
+1,Mkt Cap,2266.0,NDTV
+2,Vol,0.0,NDTV
+3,P/E,7.7,NDTV
+4,P/CF,6.5,NDTV
 5,EPS (TTM),4.5,NDTV
-6,% ch,-0.4,NDTV
+6,% ch,-2.2,NDTV
 7,No. of shares,64.47,NDTV
-8,% ch week,-0.4,NDTV
-9,% ch 1-mth,1.3,NDTV
-10,% ch 12-mth,11.1,NDTV
+8,% ch week,-2.6,NDTV
+9,% ch 1-mth,-1.0,NDTV
+10,% ch 12-mth,8.7,NDTV
 11,52 week H/L,53.2/19.2,NDTV
 12,52weekHigh,53.2,NDTV
 13,52weekLow,19.2,NDTV

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,48.5,WLSP
-1,Mkt Cap,48644.0,WLSP
-2,Vol,73.3,WLSP
-3,P/E,9.3,WLSP
-4,P/CF,7.3,WLSP
+0,Price,48.9,WLSP
+1,Mkt Cap,49045.0,WLSP
+2,Vol,0.1,WLSP
+3,P/E,9.4,WLSP
+4,P/CF,7.4,WLSP
 5,EPS (TTM),5.2,WLSP
-6,% ch,-1.2,WLSP
+6,% ch,0.8,WLSP
 7,No. of shares,1004.00,WLSP
-8,% ch week,2.4,WLSP
-9,% ch 1-mth,33.8,WLSP
-10,% ch 12-mth,-1.0,WLSP
+8,% ch week,3.3,WLSP
+9,% ch 1-mth,34.9,WLSP
+10,% ch 12-mth,-0.2,WLSP
 11,52 week H/L,59.3/18.3,WLSP
 12,52weekHigh,59.3,WLSP
 13,52weekLow,18.3,WLSP

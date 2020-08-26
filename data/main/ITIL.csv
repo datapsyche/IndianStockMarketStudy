@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,140.9,ITIL
-1,Mkt Cap,40579.0,ITIL
-2,Vol,147.3,ITIL
+0,Price,141.0,ITIL
+1,Mkt Cap,40594.0,ITIL
+2,Vol,3.6,ITIL
 3,P/E,22.2,ITIL
 4,P/CF,15.9,ITIL
 5,EPS (TTM),6.4,ITIL
-6,% ch,0.4,ITIL
+6,% ch,0.0,ITIL
 7,No. of shares,288.00,ITIL
-8,% ch week,0.0,ITIL
-9,% ch 1-mth,1.9,ITIL
-10,% ch 12-mth,128.5,ITIL
+8,% ch week,0.1,ITIL
+9,% ch 1-mth,2.0,ITIL
+10,% ch 12-mth,128.6,ITIL
 11,52 week H/L,151.6/44.9,ITIL
 12,52weekHigh,151.6,ITIL
 13,52weekLow,44.9,ITIL

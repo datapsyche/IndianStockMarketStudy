@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,1311.1,PVR
-1,Mkt Cap,54266.0,PVR
-2,Vol,117.9,PVR
-3,P/E,206.1,PVR
+0,Price,1307.8,PVR
+1,Mkt Cap,54128.0,PVR
+2,Vol,4.7,PVR
+3,P/E,205.6,PVR
 4,P/CF,14.2,PVR
 5,EPS (TTM),6.4,PVR
-6,% ch,0.2,PVR
+6,% ch,-0.3,PVR
 7,No. of shares,41.39,PVR
-8,% ch week,6.2,PVR
-9,% ch 1-mth,18.9,PVR
-10,% ch 12-mth,-14.4,PVR
+8,% ch week,6.0,PVR
+9,% ch 1-mth,18.6,PVR
+10,% ch 12-mth,-14.6,PVR
 11,52 week H/L,"2,082.7/706.5",PVR
 12,52weekHigh,"2,082.7",PVR
 13,52weekLow,706.5,PVR

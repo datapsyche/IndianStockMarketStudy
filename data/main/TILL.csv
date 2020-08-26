@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,182.6,TILL
-1,Mkt Cap,1831.0,TILL
-2,Vol,19.6,TILL
-3,P/E,-6.5,TILL
-4,P/CF,5.1,TILL
+0,Price,194.8,TILL
+1,Mkt Cap,1953.0,TILL
+2,Vol,0.9,TILL
+3,P/E,-7.0,TILL
+4,P/CF,5.5,TILL
 5,EPS (TTM),-27.9,TILL
-6,% ch,20.0,TILL
+6,% ch,6.7,TILL
 7,No. of shares,10.03,TILL
-8,% ch week,23.5,TILL
-9,% ch 1-mth,32.3,TILL
-10,% ch 12-mth,-3.7,TILL
+8,% ch week,31.7,TILL
+9,% ch 1-mth,41.1,TILL
+10,% ch 12-mth,2.7,TILL
 11,52 week H/L,232.0/92.3,TILL
 12,52weekHigh,232.0,TILL
 13,52weekLow,92.3,TILL
@@ -32,4 +32,4 @@
 30,YEAR OF INC,,TILL
 31,BSE CODE, 505196,TILL
 32,FV (Rs), 10,TILL
-33,DIV YIELD (%), 1.0,TILL
+33,DIV YIELD (%), 0.9,TILL

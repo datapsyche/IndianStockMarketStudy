@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,437.8,TGSL
-1,Mkt Cap,4673.0,TGSL
-2,Vol,0.2,TGSL
-3,P/E,14.2,TGSL
-4,P/CF,12.4,TGSL
+0,Price,459.5,TGSL
+1,Mkt Cap,4905.0,TGSL
+2,Vol,0.5,TGSL
+3,P/E,14.9,TGSL
+4,P/CF,13.1,TGSL
 5,EPS (TTM),30.8,TGSL
 6,% ch,5.0,TGSL
 7,No. of shares,10.67,TGSL
-8,% ch week,11.4,TGSL
-9,% ch 1-mth,57.4,TGSL
-10,% ch 12-mth,70.5,TGSL
+8,% ch week,16.9,TGSL
+9,% ch 1-mth,65.2,TGSL
+10,% ch 12-mth,79.0,TGSL
 11,52 week H/L,437.8/112.4,TGSL
 12,52weekHigh,437.8,TGSL
 13,52weekLow,112.4,TGSL
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 1998,TGSL
 31,BSE CODE, 533121,TGSL
 32,FV (Rs), 10,TGSL
-33,DIV YIELD (%), 5.5,TGSL
+33,DIV YIELD (%), 5.2,TGSL

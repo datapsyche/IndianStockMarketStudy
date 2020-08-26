@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,771.5,ITAT
-1,Mkt Cap,18800.0,ITAT
-2,Vol,12.7,ITAT
-3,P/E,55.5,ITAT
-4,P/CF,38.0,ITAT
+0,Price,777.0,ITAT
+1,Mkt Cap,18935.0,ITAT
+2,Vol,7.4,ITAT
+3,P/E,55.9,ITAT
+4,P/CF,38.2,ITAT
 5,EPS (TTM),13.9,ITAT
-6,% ch,20.0,ITAT
+6,% ch,0.7,ITAT
 7,No. of shares,24.37,ITAT
-8,% ch week,15.0,ITAT
-9,% ch 1-mth,23.7,ITAT
-10,% ch 12-mth,61.1,ITAT
+8,% ch week,15.8,ITAT
+9,% ch 1-mth,24.6,ITAT
+10,% ch 12-mth,62.3,ITAT
 11,52 week H/L,771.5/350.0,ITAT
 12,52weekHigh,771.5,ITAT
 13,52weekLow,350.0,ITAT

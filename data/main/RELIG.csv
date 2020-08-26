@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,36.1,RELIG
-1,Mkt Cap,6429.0,RELIG
-2,Vol,66.3,RELIG
+0,Price,36.2,RELIG
+1,Mkt Cap,6456.0,RELIG
+2,Vol,1.0,RELIG
 3,P/E,-4.7,RELIG
 4,P/CF,-0.5,RELIG
 5,EPS (TTM),-7.6,RELIG
-6,% ch,2.4,RELIG
+6,% ch,0.4,RELIG
 7,No. of shares,178.33,RELIG
-8,% ch week,6.5,RELIG
-9,% ch 1-mth,-8.7,RELIG
-10,% ch 12-mth,38.4,RELIG
+8,% ch week,6.9,RELIG
+9,% ch 1-mth,-8.4,RELIG
+10,% ch 12-mth,39.0,RELIG
 11,52 week H/L,60.6/17.2,RELIG
 12,52weekHigh,60.6,RELIG
 13,52weekLow,17.2,RELIG

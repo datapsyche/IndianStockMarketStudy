@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,3463.2,VST
-1,Mkt Cap,53471.0,VST
-2,Vol,1.8,VST
-3,P/E,17.6,VST
-4,P/CF,19.9,VST
+0,Price,3479.4,VST
+1,Mkt Cap,53721.0,VST
+2,Vol,0.0,VST
+3,P/E,17.7,VST
+4,P/CF,20.0,VST
 5,EPS (TTM),197.0,VST
-6,% ch,0.1,VST
+6,% ch,0.5,VST
 7,No. of shares,15.44,VST
-8,% ch week,1.7,VST
-9,% ch 1-mth,8.2,VST
-10,% ch 12-mth,1.7,VST
+8,% ch week,2.2,VST
+9,% ch 1-mth,8.7,VST
+10,% ch 12-mth,2.2,VST
 11,52 week H/L,"4,856.5/2,550.0",VST
 12,52weekHigh,"4,856.5",VST
 13,52weekLow,"2,550.0",VST

@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,55.9,MZTN
-1,Mkt Cap,6049.0,MZTN
-2,Vol,37.1,MZTN
-3,P/E,12.7,MZTN
-4,P/CF,5.5,MZTN
+0,Price,55.0,MZTN
+1,Mkt Cap,5957.0,MZTN
+2,Vol,17.1,MZTN
+3,P/E,12.5,MZTN
+4,P/CF,5.4,MZTN
 5,EPS (TTM),4.4,MZTN
-6,% ch,-3.7,MZTN
+6,% ch,-1.5,MZTN
 7,No. of shares,108.31,MZTN
-8,% ch week,12.7,MZTN
-9,% ch 1-mth,10.2,MZTN
-10,% ch 12-mth,2.3,MZTN
+8,% ch week,11.0,MZTN
+9,% ch 1-mth,8.5,MZTN
+10,% ch 12-mth,0.7,MZTN
 11,52 week H/L,71.8/27.4,MZTN
 12,52weekHigh,71.8,MZTN
 13,52weekLow,27.4,MZTN

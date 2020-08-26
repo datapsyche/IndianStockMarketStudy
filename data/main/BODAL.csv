@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,73.2,BODAL
-1,Mkt Cap,8944.0,BODAL
-2,Vol,47.8,BODAL
-3,P/E,10.0,BODAL
+0,Price,73.3,BODAL
+1,Mkt Cap,8957.0,BODAL
+2,Vol,1.3,BODAL
+3,P/E,10.1,BODAL
 4,P/CF,5.5,BODAL
 5,EPS (TTM),7.3,BODAL
-6,% ch,-1.6,BODAL
+6,% ch,0.1,BODAL
 7,No. of shares,122.19,BODAL
-8,% ch week,0.6,BODAL
-9,% ch 1-mth,-2.5,BODAL
-10,% ch 12-mth,6.1,BODAL
+8,% ch week,0.8,BODAL
+9,% ch 1-mth,-2.3,BODAL
+10,% ch 12-mth,6.2,BODAL
 11,52 week H/L,88.5/34.5,BODAL
 12,52weekHigh,88.5,BODAL
 13,52weekLow,34.5,BODAL

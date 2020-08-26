@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,10.9,SBPR
-1,Mkt Cap,401.0,SBPR
-2,Vol,17.9,SBPR
-3,P/E,2.8,SBPR
+0,Price,11.5,SBPR
+1,Mkt Cap,421.0,SBPR
+2,Vol,0.5,SBPR
+3,P/E,2.9,SBPR
 4,P/CF,0.8,SBPR
 5,EPS (TTM),3.9,SBPR
-6,% ch,5.0,SBPR
+6,% ch,4.9,SBPR
 7,No. of shares,36.65,SBPR
-8,% ch week,17.5,SBPR
-9,% ch 1-mth,36.8,SBPR
-10,% ch 12-mth,-18.7,SBPR
+8,% ch week,23.3,SBPR
+9,% ch 1-mth,43.5,SBPR
+10,% ch 12-mth,-14.6,SBPR
 11,52 week H/L,15.5/5.0,SBPR
 12,52weekHigh,15.5,SBPR
 13,52weekLow,5.0,SBPR

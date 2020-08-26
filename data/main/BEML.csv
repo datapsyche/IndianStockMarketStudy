@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,722.1,BEML
-1,Mkt Cap,30256.0,BEML
-2,Vol,52.5,BEML
-3,P/E,93.2,BEML
-4,P/CF,15.5,BEML
+0,Price,728.1,BEML
+1,Mkt Cap,30507.0,BEML
+2,Vol,5.9,BEML
+3,P/E,93.9,BEML
+4,P/CF,15.6,BEML
 5,EPS (TTM),7.8,BEML
-6,% ch,0.5,BEML
+6,% ch,0.8,BEML
 7,No. of shares,41.90,BEML
-8,% ch week,0.8,BEML
-9,% ch 1-mth,7.8,BEML
-10,% ch 12-mth,-3.7,BEML
+8,% ch week,1.6,BEML
+9,% ch 1-mth,8.7,BEML
+10,% ch 12-mth,-2.9,BEML
 11,52 week H/L,"1,108.2/369.6",BEML
 12,52weekHigh,"1,108.2",BEML
 13,52weekLow,369.6,BEML

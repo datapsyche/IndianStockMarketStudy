@@ -1,15 +1,15 @@
 ,0,1,name
-0,Price,946.9,SHCU
-1,Mkt Cap,62397.0,SHCU
-2,Vol,10.5,SHCU
+0,Price,955.0,SHCU
+1,Mkt Cap,62935.0,SHCU
+2,Vol,0.3,SHCU
 3,P/E,5.4,SHCU
-4,P/CF,2.9,SHCU
+4,P/CF,3.0,SHCU
 5,EPS (TTM),176.3,SHCU
-6,% ch,-3.6,SHCU
+6,% ch,0.9,SHCU
 7,No. of shares,65.90,SHCU
-8,% ch week,14.1,SHCU
-9,% ch 1-mth,37.6,SHCU
-10,% ch 12-mth,-32.4,SHCU
+8,% ch week,15.0,SHCU
+9,% ch 1-mth,38.8,SHCU
+10,% ch 12-mth,-31.8,SHCU
 11,52 week H/L,"1,571.7/617.0",SHCU
 12,52weekHigh,"1,571.7",SHCU
 13,52weekLow,617.0,SHCU
@@ -32,4 +32,4 @@
 30,YEAR OF INC, 2002,SHCU
 31,BSE CODE, 532498,SHCU
 32,FV (Rs), 10,SHCU
-33,DIV YIELD (%), 2.8,SHCU
+33,DIV YIELD (%), 2.7,SHCU
